@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking at Our Nitpicks](https://datto.engineering/post/looking-at-our-nitpicks)
-- [UK Gov proposes to track cars&#39; every movement for tax purposes](https://www.nationalworld.com/lifestyle/cars/all-cars-could-be-fitted-with-black-box-trackers-under-new-tax-plans-3567065)
-- [Facebook&#39;s African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/)
-- [“A Pleasure to Burn”: We Are Closer to Bradbury’s Dystopia Than Orwell or Huxley](https://quillette.com/2022/02/12/a-pleasure-to-burn-closer-to-bradburys-dystopia-than-orwells-or-huxleys/)
-- [Pedestrian deaths spike in U.S. as reckless driving surges](https://www.nytimes.com/2022/02/14/us/pedestrian-deaths-pandemic.html)
+- [Underdispersion in the Covid19 case/death numbers may suggest data manipulations](https://www.medrxiv.org/content/10.1101/2022.02.11.22270841v1)
+- [Show HN: Free and Open-source Illustrations for your projects](https://iradesign.io/)
+- [Ask HN: Recent computer hacking convictions and employability](https://news.ycombinator.com/item?id=30332534)
+- [Launch HN: Fogbender &lpar;YC W22&rpar; – B2B support software designed for customer teams](https://fogbender.com)
+- [Why Won’t Anyone Teach Her Math?](https://quomodocumque.wordpress.com/2022/02/12/why-wont-anyone-teach-her-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
