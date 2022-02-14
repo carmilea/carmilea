@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Underdispersion in the Covid19 case/death numbers may suggest data manipulations](https://www.medrxiv.org/content/10.1101/2022.02.11.22270841v1)
-- [Show HN: Free and Open-source Illustrations for your projects](https://iradesign.io/)
+- [The Stacks 2.0 blockchain implementation in Rust](https://github.com/stacks-network/stacks-blockchain)
+- [Show HN: DIY Freud. Automated therapist on the cheap](https://jeremiewenger.com/diy-freud/)
+- [Happy 27th Birthday, Delphi](https://blogs.remobjects.com/2022/02/14/delphi27th/)
+- [Show HN: Free and open-source illustrations for your projects](https://iradesign.io/)
 - [Ask HN: Recent computer hacking convictions and employability](https://news.ycombinator.com/item?id=30332534)
-- [Launch HN: Fogbender &lpar;YC W22&rpar; – B2B support software designed for customer teams](https://fogbender.com)
-- [Why Won’t Anyone Teach Her Math?](https://quomodocumque.wordpress.com/2022/02/12/why-wont-anyone-teach-her-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
