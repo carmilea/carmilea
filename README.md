@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
+- [Software flaw lead to most widespread miscarriage of justice in UK legal history](https://www.bbc.co.uk/news/business-60369875)
 - [The simple system I’m using to stay in touch with hundreds of people](https://jakobgreenfeld.com/stay-in-touch)
 - [The Go language&#39;s first commit &lpar;1972&rpar;](https://repography.com/blog/go-first-commit)
-- [What you should know about the Stock Market](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
-- [Show HN: No-code alternative to Retool, Appsmith, Internal, etc.](https://www.jetadmin.io/)
-- [Facebook Messenger blocks messages containing “di.wang”](https://twitter.com/atpCountry/status/1493103408462454787)
+- [An Empirical Investigation of Personalization Factors on TikTok&lpar;2022&rpar;](https://arxiv.org/abs/2201.12271)
 <!-- BLOG-POST-LIST:END -->
 
 ---
