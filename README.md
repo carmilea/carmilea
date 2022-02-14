@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freshpaint &lpar;YC S19&rpar; grew 8x last year and is hiring Software Engineers](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [BlockFi is fined by the SEC for 100M for its Crypto Lending Product](https://www.sec.gov/news/press-release/2022-26)
-- [Names of Canada truck convoy donors leaked after reported hack](https://www.reuters.com/world/us/leak-site-says-it-has-been-given-list-canada-truck-convoy-donors-after-reported-2022-02-14/)
-- [Dell deletes Latitude CPU Throttling issue after link is posted here](https://news.ycombinator.com/item?id=30333956)
-- [Go’s Version Control History](https://research.swtch.com/govcs)
+- [Ask HN: Why is Firefox losing marketshare?](https://news.ycombinator.com/item?id=30335455)
+- [A database of broken things to identify common failure modes and how to fix them](https://www.failscout.co)
+- [Black Hole Gives Birth to New Stars Rather Than Devouring Them](https://www.nature.com/articles/s41586-021-04215-6)
+- [I Don&#39;t Like Smartphones &lpar;2016&rpar;](https://www.devever.net/~hl/smartphones)
+- [Lets Get Arrested](https://github.com/hamukazu/lets-get-arrested)
 <!-- BLOG-POST-LIST:END -->
 
 ---
