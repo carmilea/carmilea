@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pedestrian Deaths Spike in U.S. as Reckless Driving Surges](https://www.nytimes.com/2022/02/14/us/pedestrian-deaths-pandemic.html)
+- [Ask HN: Have you ever sold a domain-name? How was your experience selling it?](https://news.ycombinator.com/item?id=30331396)
+- [Pedestrian deaths spike in U.S. as reckless driving surges](https://www.nytimes.com/2022/02/14/us/pedestrian-deaths-pandemic.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Support Engineers](https://about.supabase.com/careers/support-and-qa)
-- [UK launches “No Place To Hide” propaganda campaign to ban E2EE](https://www.noplacetohide.org.uk/)
 - [20 Years of .NET](https://dotnet.microsoft.com/en-us/)
-- [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
+- [Text Rendering Hates You &lpar;2019&rpar;](https://gankra.github.io/blah/text-hates-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
