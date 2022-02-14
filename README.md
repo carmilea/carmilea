@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to prepare as soon-to-be blind developer?](https://news.ycombinator.com/item?id=30339187)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Structurally-Typed Condition Handling](https://journal.infinitenegativeutility.com/structurally-typed-condition-handling)
 - [SSH-tools: Making SSH more convenient](https://github.com/vaporup/ssh-tools)
 - [City Generator](https://watabou.github.io/city-generator/)
-- [Airbnb wants to GPS track you also when not using the app](https://news.ycombinator.com/item?id=30337934)
-- [Why We Use Julia, 10 Years Later](https://www.julialang.org/blog/2022/02/10years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
