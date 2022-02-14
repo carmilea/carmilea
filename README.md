@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; is hiring a product manager interested in product-led growth](https://onesignal.com/careers/09c46a1a-c29f-49e8-8691-07e27f292b97)
-- [Gen X Marks the Spot](https://www.thepullrequest.com/p/genx-marks-the-spot)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [SSH-tools: Making SSH more convenient](https://github.com/vaporup/ssh-tools)
+- [City Generator](https://watabou.github.io/city-generator/)
+- [Airbnb wants to GPS track you also when not using the app](https://news.ycombinator.com/item?id=30337934)
 - [Why We Use Julia, 10 Years Later](https://www.julialang.org/blog/2022/02/10years/)
-- [AI is changing chemical discovery](https://thegradient.pub/how-ai-is-changing-chemical-discovery/)
-- [Decoding radio-controlled bus stop displays &lpar;2013&rpar;](https://www.windytan.com/2013/11/decoding-radio-controlled-bus-stop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
