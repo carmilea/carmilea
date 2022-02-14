@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The simple system I’m using to stay in touch with hundreds of people](https://jakobgreenfeld.com/stay-in-touch)
+- [What you should know about the Stock Market](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 - [Show HN: No-code alternative to Retool, Appsmith, Internal, etc.](https://www.jetadmin.io/)
-- [GiveSendGo Has Been Hacked](https://twitter.com/MikaelThalen/status/1493056860638773248)
+- [Facebook Messenger blocks messages containing “di.wang”](https://twitter.com/atpCountry/status/1493103408462454787)
 - [Android 13 virtualization lets Pixel 6 run Windows 11, Linux distributions](https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/)
-- [Harmful consequences of the robustness principle](https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html)
-- [Don&#39;t contribute anything relevant in web forums &lpar;2020&rpar;](https://karl-voit.at/2020/10/23/avoid-web-forums/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
