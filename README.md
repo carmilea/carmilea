@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Have you ever sold a domain-name? How was your experience selling it?](https://news.ycombinator.com/item?id=30331396)
+- [Looking at Our Nitpicks](https://datto.engineering/post/looking-at-our-nitpicks)
+- [UK Gov proposes to track cars&#39; every movement for tax purposes](https://www.nationalworld.com/lifestyle/cars/all-cars-could-be-fitted-with-black-box-trackers-under-new-tax-plans-3567065)
+- [Facebook&#39;s African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/)
+- [“A Pleasure to Burn”: We Are Closer to Bradbury’s Dystopia Than Orwell or Huxley](https://quillette.com/2022/02/12/a-pleasure-to-burn-closer-to-bradburys-dystopia-than-orwells-or-huxleys/)
 - [Pedestrian deaths spike in U.S. as reckless driving surges](https://www.nytimes.com/2022/02/14/us/pedestrian-deaths-pandemic.html)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Support Engineers](https://about.supabase.com/careers/support-and-qa)
-- [20 Years of .NET](https://dotnet.microsoft.com/en-us/)
-- [Text Rendering Hates You &lpar;2019&rpar;](https://gankra.github.io/blah/text-hates-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
