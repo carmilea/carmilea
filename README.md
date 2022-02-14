@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is Firefox losing marketshare?](https://news.ycombinator.com/item?id=30335455)
+- [Ask HN: Why is Firefox losing marketshare and how would you save it?](https://news.ycombinator.com/item?id=30335455)
 - [A database of broken things to identify common failure modes and how to fix them](https://www.failscout.co)
 - [Black Hole Gives Birth to New Stars Rather Than Devouring Them](https://www.nature.com/articles/s41586-021-04215-6)
 - [I Don&#39;t Like Smartphones &lpar;2016&rpar;](https://www.devever.net/~hl/smartphones)
-- [Lets Get Arrested](https://github.com/hamukazu/lets-get-arrested)
+- [Lets Get Arrested &lpar;2019&rpar;](https://github.com/hamukazu/lets-get-arrested)
 <!-- BLOG-POST-LIST:END -->
 
 ---
