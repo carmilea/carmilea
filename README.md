@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swastika discovered at U.S. embassy in Bulgaria](https://www.axios.com/scoop-swastika-discovered-at-us-embassy-in-bulgaria-b3938245-c263-4ab5-8df1-b0d9990db847.html)
+- [Perl Saved the Human Genome Project &lpar;1996&rpar;](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html)
 - [The Future of 12ft Ladder](https://12ft.io/the-future)
 - [Those writing extensively on note-writing rarely have a serious context of use](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv)
 - [Mark Cuban&#39;s pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
