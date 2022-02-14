@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Harmful Consequences of the Robustness Principle](https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html)
-- [A Look at Low-Risk Ways to Learn Crypto](https://unrealisedgains.substack.com/p/welcome-to-the-user-testnet)
+- [Show HN: No-code alternative to Retool, Appsmith, Internal, etc.](https://www.jetadmin.io/)
+- [GiveSendGo Has Been Hacked](https://twitter.com/MikaelThalen/status/1493056860638773248)
+- [Android 13 virtualization lets Pixel 6 run Windows 11, Linux distributions](https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/)
+- [Harmful consequences of the robustness principle](https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html)
 - [Don&#39;t contribute anything relevant in web forums &lpar;2020&rpar;](https://karl-voit.at/2020/10/23/avoid-web-forums/)
-- [U.S. posts $119B budget surplus in January; first in over 2 years](https://www.reuters.com/world/us/us-posts-119-billion-budget-surplus-january-first-over-2-years-2022-02-10/)
-- [TclTutor 3: Computer aided instruction package for learning the Tcl language](http://www.msen.com/~clif/TclTutor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
