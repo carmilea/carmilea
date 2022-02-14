@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring a product manager interested in product-led growth](https://onesignal.com/careers/09c46a1a-c29f-49e8-8691-07e27f292b97)
+- [Gen X Marks the Spot](https://www.thepullrequest.com/p/genx-marks-the-spot)
+- [Why We Use Julia, 10 Years Later](https://www.julialang.org/blog/2022/02/10years/)
+- [AI is changing chemical discovery](https://thegradient.pub/how-ai-is-changing-chemical-discovery/)
 - [Decoding radio-controlled bus stop displays &lpar;2013&rpar;](https://www.windytan.com/2013/11/decoding-radio-controlled-bus-stop.html)
-- [MonoLisa – A font designed for developers](https://www.monolisa.dev)
-- [Ask HN: Why is Firefox losing marketshare and how would you save it?](https://news.ycombinator.com/item?id=30335455)
-- [A database of broken things to identify common failure modes and how to fix them](https://www.failscout.co)
-- [Hwatch: A modern alternative to the watch command](https://github.com/blacknon/hwatch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
