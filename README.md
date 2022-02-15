@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Svix – Open-Source Webhooks Service Written in Rust](https://github.com/svix/svix-webhooks)
-- [Dutch foundation seeks consumer damages over Apple, Google app payments](https://www.reuters.com/technology/dutch-foundation-seeks-consumer-damages-over-apple-google-app-payments-2022-02-15/)
-- [Google Search Is Dying](https://dkb.io/post/google-search-is-dying)
-- [Witchcraft – a Minecraft server, written in Bash](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
-- [Green steel without green hydrogen – can it work?](https://www.canarymedia.com/articles/clean-industry/green-steel-without-green-hydrogen-can-it-work)
+- [Ask HN: What did Marc Andreessen mean by this?](https://news.ycombinator.com/item?id=30349266)
+- [I love you, Hacker News, but you’re toxic](https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic)
+- [Gigwell &lpar;YC W16&rpar; Is Hiring](https://www.ycombinator.com/companies/gigwell/jobs/74jfcrGzu-full-stack-software-engineer)
+- [GitHub leaked names of private repos with pages](https://news.ycombinator.com/item?id=30348980)
+- [Netlify Graph: A faster way for teams to develop web apps with APIs](https://www.netlify.com/blog/announcing-netlify-graph-a-faster-way-for-teams-to-develop-web-apps-with-apis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
