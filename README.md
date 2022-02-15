@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm is hiring a DevRel Lead to pioneer the modern MLOps stack](https://www.pachyderm.com/careers/#positions)
+- [Trudeau announces intention to freeze bank accounts of protestors](https://www.bbc.com/news/world-us-canada-60383385)
+- [Pachyderm &lpar;YC W15&rpar; is hiring a DevRel Lead to pioneer a modern MLOps stack](https://www.pachyderm.com/careers/#positions)
 - [Should we own the free stuff we pay for?](https://news.ycombinator.com/item?id=30345201)
-- [I let my 6 y.o. daughter design my website](https://news.ycombinator.com/item?id=30344989)
-- [Texas sues Meta, saying it misused facial recognition data](https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data)
-- [Reddit accounts cancellation/suspension caused by VPN usage](https://news.ycombinator.com/item?id=30344379)
+- [Ask HN: How to make the most out of time at university?](https://news.ycombinator.com/item?id=30345059)
+- [Tell HN: I let my 6-year-old daughter design my website](https://news.ycombinator.com/item?id=30344989)
 <!-- BLOG-POST-LIST:END -->
 
 ---
