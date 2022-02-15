@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What did Marc Andreessen mean by this?](https://news.ycombinator.com/item?id=30349266)
-- [I love you, Hacker News, but you’re toxic](https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic)
-- [Gigwell &lpar;YC W16&rpar; Is Hiring](https://www.ycombinator.com/companies/gigwell/jobs/74jfcrGzu-full-stack-software-engineer)
-- [GitHub leaked names of private repos with pages](https://news.ycombinator.com/item?id=30348980)
-- [Netlify Graph: A faster way for teams to develop web apps with APIs](https://www.netlify.com/blog/announcing-netlify-graph-a-faster-way-for-teams-to-develop-web-apps-with-apis)
+- [Version 100 in Chrome and Firefox](https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/)
+- [CUPID – For Joyful Coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
+- [GHC activities December 2021–January 2022](https://well-typed.com/blog/2022/02/ghc-2021-12-2022-01/)
+- [Against an Increasingly User-Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/)
+- [Woman appears cured of HIV after umbilical-cord blood transplant](https://www.wsj.com/articles/woman-appears-cured-of-hiv-after-umbilical-cord-blood-transplant-11644945720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
