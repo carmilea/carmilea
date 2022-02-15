@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is HN becoming more of an “echo chamber”?](https://news.ycombinator.com/item?id=30351509)
-- [Google Release Chrome OS Flex](https://chromeenterprise.google/os/chromeosflex/)
-- [An unsolicited streaming app spec](https://hypercritical.co/2022/02/15/streaming-apps)
-- [Finality does not exist in payments](https://bam.kalzumeus.com/archive/no-payments-are-final/)
-- [Version 100 in Chrome and Firefox](https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/)
+- [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
+- [Networking of a Turn-Based Game](https://longwelwind.net/blog/networking-turn-based-game/)
+- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [How light is a neutrino? The answer is closer than ever](https://www.nature.com/articles/d41586-022-00430-x)
+- [Free public domain ebooks in PDf, ePub, mobi formats](https://www.globalgreyebooks.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
