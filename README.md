@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Das Bangen Froomverk](https://github.com/i5ik/das.bang.froomwerk)
-- [ProteusISC – JTAG Controller Abstraction Library](https://github.com/diamondman/proteusisc)
+- [An ancient language has defied translation for 100 years. Can AI crack the code?](https://restofworld.org/2022/indus-translation-ai-code-script/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=30342319)
 - [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
 - [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
+- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
