@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Unsolicited Streaming App Spec](https://hypercritical.co/2022/02/15/streaming-apps)
 - [Version 100 in Chrome and Firefox](https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/)
+- [Consciousness is supported by near-critical slow cortical electrodynamics](https://www.pnas.org/content/119/7/e2024455119)
 - [CUPID – For Joyful Coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
-- [GHC activities December 2021–January 2022](https://well-typed.com/blog/2022/02/ghc-2021-12-2022-01/)
-- [Against an Increasingly User-Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/)
-- [Woman appears cured of HIV after umbilical-cord blood transplant](https://www.wsj.com/articles/woman-appears-cured-of-hiv-after-umbilical-cord-blood-transplant-11644945720)
+- [Why You Should Be Using Jax in 2022](https://www.assemblyai.com/blog/why-you-should-or-shouldnt-be-using-jax-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
