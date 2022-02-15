@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Svix – Open-Source Webhooks Service Written in Rust](https://github.com/svix/svix-webhooks)
+- [Dutch foundation seeks consumer damages over Apple, Google app payments](https://www.reuters.com/technology/dutch-foundation-seeks-consumer-damages-over-apple-google-app-payments-2022-02-15/)
+- [Google Search Is Dying](https://dkb.io/post/google-search-is-dying)
+- [Witchcraft – a Minecraft server, written in Bash](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
 - [Green steel without green hydrogen – can it work?](https://www.canarymedia.com/articles/clean-industry/green-steel-without-green-hydrogen-can-it-work)
-- [3D reproduction of TSA Master keys &lpar;2016&rpar;](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys)
-- [Ask HN: How do you stay afloat in the subscription economy?](https://news.ycombinator.com/item?id=30346735)
-- [Mermaid: Create complex diagrams using Markdown-inspired](https://github.com/mermaid-js/mermaid)
-- [The “misinformation problem” seems like misinformation](https://www.slowboring.com/p/misinformation-myth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
