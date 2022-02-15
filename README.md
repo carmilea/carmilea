@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
+- [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
 - [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [That Wild Ask a Manager Story](https://jacobian.org/2022/feb/14/that-wild-aam-story/)
-- [San Francisco police linked a woman to a crime using DNA from her rape exam](https://www.sfchronicle.com/sf/article/San-Francisco-police-linked-a-woman-to-a-crime-16918673.php)
-- [Why do we round corners?](https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed)
-- [Trudeau Invokes Emergencies Act](https://ottawacitizen.com/news/local-news/truck-convoy-day-18-in-ottawa-noon-deadline-in-mayors-deal-with-convoy-pm-talking-to-premiers)
+- [JDeploy – Deploy desktop Java apps as native bundles on Mac, Linux, and Windows](https://www.jdeploy.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
