@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Unsolicited Streaming App Spec](https://hypercritical.co/2022/02/15/streaming-apps)
+- [Ask HN: Is HN becoming more of an “echo chamber”?](https://news.ycombinator.com/item?id=30351509)
+- [Google Release Chrome OS Flex](https://chromeenterprise.google/os/chromeosflex/)
+- [An unsolicited streaming app spec](https://hypercritical.co/2022/02/15/streaming-apps)
+- [Finality does not exist in payments](https://bam.kalzumeus.com/archive/no-payments-are-final/)
 - [Version 100 in Chrome and Firefox](https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/)
-- [Consciousness is supported by near-critical slow cortical electrodynamics](https://www.pnas.org/content/119/7/e2024455119)
-- [CUPID – For Joyful Coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
-- [Why You Should Be Using Jax in 2022](https://www.assemblyai.com/blog/why-you-should-or-shouldnt-be-using-jax-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
