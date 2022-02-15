@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=30342319)
 - [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
 - [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
 - [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [That Wild Ask a Manager Story](https://jacobian.org/2022/feb/14/that-wild-aam-story/)
-- [JDeploy – Deploy desktop Java apps as native bundles on Mac, Linux, and Windows](https://www.jdeploy.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
