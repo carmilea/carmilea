@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Belgium approves four-day week](https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses)
-- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/)
-- [Pachyderm &lpar;YC W15&rpar; is hiring a DevRel Lead to pioneer a modern MLOps stack](https://www.pachyderm.com/careers/#positions)
-- [Should we own the free stuff we pay for?](https://news.ycombinator.com/item?id=30345201)
-- [Tell HN: I let my 6-year-old daughter design my website](https://news.ycombinator.com/item?id=30344989)
+- [Green steel without green hydrogen – can it work?](https://www.canarymedia.com/articles/clean-industry/green-steel-without-green-hydrogen-can-it-work)
+- [3D reproduction of TSA Master keys &lpar;2016&rpar;](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys)
+- [Ask HN: How do you stay afloat in the subscription economy?](https://news.ycombinator.com/item?id=30346735)
+- [Mermaid: Create complex diagrams using Markdown-inspired](https://github.com/mermaid-js/mermaid)
+- [The “misinformation problem” seems like misinformation](https://www.slowboring.com/p/misinformation-myth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
