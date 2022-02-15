@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trudeau announces intention to freeze bank accounts of protestors](https://www.bbc.com/news/world-us-canada-60383385)
+- [Belgium approves four-day week](https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses)
+- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/)
 - [Pachyderm &lpar;YC W15&rpar; is hiring a DevRel Lead to pioneer a modern MLOps stack](https://www.pachyderm.com/careers/#positions)
 - [Should we own the free stuff we pay for?](https://news.ycombinator.com/item?id=30345201)
-- [Ask HN: How to make the most out of time at university?](https://news.ycombinator.com/item?id=30345059)
 - [Tell HN: I let my 6-year-old daughter design my website](https://news.ycombinator.com/item?id=30344989)
 <!-- BLOG-POST-LIST:END -->
 
