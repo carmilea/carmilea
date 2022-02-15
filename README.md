@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to prepare as soon-to-be blind developer?](https://news.ycombinator.com/item?id=30339187)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Structurally-Typed Condition Handling](https://journal.infinitenegativeutility.com/structurally-typed-condition-handling)
-- [SSH-tools: Making SSH more convenient](https://github.com/vaporup/ssh-tools)
-- [City Generator](https://watabou.github.io/city-generator/)
+- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
+- [That Wild Ask a Manager Story](https://jacobian.org/2022/feb/14/that-wild-aam-story/)
+- [San Francisco police linked a woman to a crime using DNA from her rape exam](https://www.sfchronicle.com/sf/article/San-Francisco-police-linked-a-woman-to-a-crime-16918673.php)
+- [Why do we round corners?](https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed)
+- [Trudeau Invokes Emergencies Act](https://ottawacitizen.com/news/local-news/truck-convoy-day-18-in-ottawa-noon-deadline-in-mayors-deal-with-convoy-pm-talking-to-premiers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
