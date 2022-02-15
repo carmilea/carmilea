@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do I feel like you need to be a sociopath to succeed?](https://news.ycombinator.com/item?id=30353792)
 - [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
 - [Networking of a turn-based game](https://longwelwind.net/blog/networking-turn-based-game/)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [The Beanie Baby Bubble of &#39;99](https://thehustle.co/the-great-beanie-baby-bubble-of-99/)
-- [How light is a neutrino? The answer is closer than ever](https://www.nature.com/articles/d41586-022-00430-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
