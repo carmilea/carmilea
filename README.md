@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm is hiring a DevRel Lead to pioneer the modern MLOps stack](https://www.pachyderm.com/careers/#positions)
+- [Should we own the free stuff we pay for?](https://news.ycombinator.com/item?id=30345201)
+- [I let my 6 y.o. daughter design my website](https://news.ycombinator.com/item?id=30344989)
+- [Texas sues Meta, saying it misused facial recognition data](https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data)
 - [Reddit accounts cancellation/suspension caused by VPN usage](https://news.ycombinator.com/item?id=30344379)
-- [Notes apps are where ideas go to die. And that’s good.](https://reproof.app/blog/notes-apps-help-us-forget)
-- [Mozilla Foundation places two-page advocacy ad in The New York Times &lpar;2004&rpar;](https://blog.mozilla.org/press/2004/12/mozilla-foundation-places-two-page-advocacy-ad-in-the-new-york-times/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Advocate &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Frawk: A fast, JITted, statically-typed AWK written in Rust](https://github.com/ezrosent/frawk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
