@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla Foundation places two-page advocacy ad in The New York Times &lpar;2004&rpar;](https://blog.mozilla.org/press/2004/12/mozilla-foundation-places-two-page-advocacy-ad-in-the-new-york-times/)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Developer Advocate &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Frawk: A fast, JITted, statically-typed AWK written in Rust](https://github.com/ezrosent/frawk)
 - [An ancient language has defied translation for 100 years. Can AI crack the code?](https://restofworld.org/2022/indus-translation-ai-code-script/)
 - [U.S. corn-based ethanol worse for the climate than gasoline](https://www.reuters.com/article/us-usa-biofuels-emissions-idUSKBN2KJ1YU)
-- [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
-- [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
 <!-- BLOG-POST-LIST:END -->
 
 ---
