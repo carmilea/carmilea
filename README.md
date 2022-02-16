@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Tallgirlification: It&#39;s over for Girlbosses](https://indianbronson.substack.com/p/tallgirlification-its-over-for-girlbosses)
+- [The Seductions of Clarity](https://www.researchgate.net/publication/348755905_The_Seductions_of_Clarity)
 - [Lorinda Cherry, author of dc, bc, eqn has died](https://ncwit.org/profile/lorinda-cherry/)
 - [What Every Programmer Should Know About Memory &lpar;2007&rpar; [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-- [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
