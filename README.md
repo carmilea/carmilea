@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl code that is syntactically correct only on Fridays](https://github.com/jwilk/perl-friday)
-- [How Everything We&#39;re Told About Website Identity Assurance Is Wrong](https://www.troyhunt.com/how-everything-were-told-about-website-identity-assurance-is-wrong/)
-- [Veryfi &lpar;YC W17&rpar; Is Hiring Account Executives &lpar;AE&rpar;](https://www.ycombinator.com/companies/veryfi-inc/jobs/aWDu3no-account-executive-ae)
-- [Music theory for nerds &lpar;2016&rpar;](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
-- [3 percent of Python codebases we checked had silently failing unit tests](https://richardtier.com/2022/02/16/3-of-666-python-codebases-we-checked-had-silently-failing-unit-tests-and-we-fixed-them-all%ef%bf%bc/)
+- [I cut the bite of the Apple logo out of my iPhone](https://simonfreund.com/works/apple/)
+- [Code specialization for the MIR lightweight JIT compiler](https://developers.redhat.com/articles/2022/02/16/code-specialization-mir-lightweight-jit-compiler)
+- [Graphene FET on diamond for high-frequency electronics &lpar;2021&rpar;](https://arxiv.org/abs/2106.09412)
+- [1Password for SSH and Git](https://developer.1password.com/docs/ssh/)
+- [Orientation Keypoints for 6D Human Pose Estimation](https://r0nn13.github.io/okps-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
