@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; Is Hiring for Fintech Engineering, Sales, and CS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
 - [A non-hallucinogenic psychedelic analog with therapeutic potential](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874389/)
 - [How can you be fooled by the U+202E trick? &lpar;2013&rpar;](https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html)
 - [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)
 - [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
-- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
