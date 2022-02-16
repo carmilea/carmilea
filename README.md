@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Almost every publicly available CVE PoC](https://github.com/trickest/cve)
+- [Intel to Acquire Tower Semiconductor for $5.4B](https://www.intc.com/news-events/press-releases/detail/1527/intel-to-acquire-tower-semiconductor-for-5-4-billion)
 - [All Google Cloud product in this periodic table](https://googlecloudcheatsheet.withgoogle.com/)
 - [Finley &lpar;YC W21&rpar; Is Hiring for Fintech Engineering, Sales, and CS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
 - [Show HN: The open-source icon sets that took me 12 years to create](https://app.streamlinehq.com/icons)
-- [A non-hallucinogenic psychedelic analog with therapeutic potential](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874389/)
-- [How can you be fooled by the U+202E trick? &lpar;2013&rpar;](https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
