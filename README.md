@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elastic and Amazon reach agreement on Elasticsearch trademark infringement suit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
+- [Why I Collect and Read Old Computer Manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
 - [An Open Letter to the Temporal User Community](https://docs.temporal.io/blog/series-b-announcement-open-letter/)
 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
 - [New York Is Now Using Cameras with Microphones to Ticket Loud Cars](https://www.roadandtrack.com/news/a39105913/new-york-automated-sound-tickets/)
-- [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
-- [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
