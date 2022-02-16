@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elastic and Amazon reach agreement on Elasticsearch trademark infringement suit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
-- [Why I Collect and Read Old Computer Manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
-- [An Open Letter to the Temporal User Community](https://docs.temporal.io/blog/series-b-announcement-open-letter/)
+- [Elastic and Amazon reach agreement on trademark infringement lawsuit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
+- [I collect and read old computer manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
+- [An open letter to the Temporal user community](https://docs.temporal.io/blog/series-b-announcement-open-letter/)
 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
-- [New York Is Now Using Cameras with Microphones to Ticket Loud Cars](https://www.roadandtrack.com/news/a39105913/new-york-automated-sound-tickets/)
+- [New York is using cameras with microphones to ticket loud cars](https://www.roadandtrack.com/news/a39105913/new-york-automated-sound-tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
