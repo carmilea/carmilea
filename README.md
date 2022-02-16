@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do I feel like you need to be a sociopath to succeed?](https://news.ycombinator.com/item?id=30353792)
+- [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Tallgirlification: It&#39;s over for Girlbosses](https://indianbronson.substack.com/p/tallgirlification-its-over-for-girlbosses)
+- [Lorinda Cherry, author of dc, bc, eqn has died](https://ncwit.org/profile/lorinda-cherry/)
+- [What Every Programmer Should Know About Memory &lpar;2007&rpar; [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
-- [Networking of a turn-based game](https://longwelwind.net/blog/networking-turn-based-game/)
-- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [The Beanie Baby Bubble of &#39;99](https://thehustle.co/the-great-beanie-baby-bubble-of-99/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
