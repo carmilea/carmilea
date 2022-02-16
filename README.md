@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Open Letter to the Temporal User Community](https://docs.temporal.io/blog/series-b-announcement-open-letter/)
 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
+- [New York Is Now Using Cameras with Microphones to Ticket Loud Cars](https://www.roadandtrack.com/news/a39105913/new-york-automated-sound-tickets/)
 - [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
 - [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
-- [Small File Archives in MinIO](https://blog.min.io/small-file-archives/)
-- [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
