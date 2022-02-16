@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Veryfi &lpar;YC W17&rpar; Is Hiring Account Executives &lpar;AE&rpar;](https://www.ycombinator.com/companies/veryfi-inc/jobs/aWDu3no-account-executive-ae)
+- [3 percent of Python codebases we checked had silently failing unit tests](https://richardtier.com/2022/02/16/3-of-666-python-codebases-we-checked-had-silently-failing-unit-tests-and-we-fixed-them-all%ef%bf%bc/)
+- [Ask HN: What&#39;s the best way to monetize actual programming?](https://news.ycombinator.com/item?id=30358555)
+- [Love Is Biological Bribery](https://nautil.us/love-is-biological-bribery-14058/)
 - [Music Tuned to 440 Hz versus 432 Hz and Health Effects &lpar;2019&rpar;](https://pubmed.ncbi.nlm.nih.gov/31031095/)
-- [SendGrid appends a tracking pixel even when disabled](https://cappe.github.io/blog/sendgrid-appending-a-tracking-pixel.html)
-- [Pollution causing more deaths than Covid, action needed, U.N. expert says](https://www.reuters.com/markets/commodities/pollution-causing-more-deaths-than-covid-action-needed-un-expert-says-2022-02-15/)
-- [Why haven&#39;t unikernels taken up speed?](https://github.com/seeker89/unikernels)
-- [The Mysterious Forces Inside the Nucleus Grow a Little Less Strange](https://www.quantamagazine.org/colliders-and-supercomputers-force-fresh-hints-in-quark-mystery-20220214/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
