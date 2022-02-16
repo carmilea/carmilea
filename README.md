@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MFA Fatigue Attack Campaign Targeting MS Office 365 Users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
+- [Zip file indexing in MinIO to allow for individual file retrieval on upload](https://blog.min.io/small-file-archives/)
+- [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
+- [Pure Bash Bible – A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
 - [The House of Graphs](https://hog.grinvin.org/)
-- [The Harsh Truth of Video Games Programming](https://new.pythonforengineers.com/blog/the-harsh-truth/)
-- [US DOE to offer $6B to keep struggling nuclear reactors online](https://www.utilitydive.com/news/doe-to-offer-6-billion-to-keep-struggling-nuclear-reactors-online/618919/)
-- [Jerry &lpar;YC S17&rpar; is hiring product managers &lpar;all levels x remote&rpar;](https://jobs.lever.co/getjerry/72c8fd2a-fafe-4a63-bc52-ec294c0faf0b)
+- [The harsh truth of video games programming](https://new.pythonforengineers.com/blog/the-harsh-truth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
