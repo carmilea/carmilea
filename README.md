@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zip file indexing in MinIO to allow for individual file retrieval on upload](https://blog.min.io/small-file-archives/)
+- [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
+- [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
+- [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
+- [Small File Archives in MinIO](https://blog.min.io/small-file-archives/)
 - [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
-- [Pure Bash Bible – A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
-- [The House of Graphs](https://hog.grinvin.org/)
-- [The harsh truth of video games programming](https://new.pythonforengineers.com/blog/the-harsh-truth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
