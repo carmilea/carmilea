@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perl code that is syntactically correct only on Fridays](https://github.com/jwilk/perl-friday)
+- [How Everything We&#39;re Told About Website Identity Assurance Is Wrong](https://www.troyhunt.com/how-everything-were-told-about-website-identity-assurance-is-wrong/)
 - [Veryfi &lpar;YC W17&rpar; Is Hiring Account Executives &lpar;AE&rpar;](https://www.ycombinator.com/companies/veryfi-inc/jobs/aWDu3no-account-executive-ae)
+- [Music theory for nerds &lpar;2016&rpar;](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
 - [3 percent of Python codebases we checked had silently failing unit tests](https://richardtier.com/2022/02/16/3-of-666-python-codebases-we-checked-had-silently-failing-unit-tests-and-we-fixed-them-all%ef%bf%bc/)
-- [Ask HN: What&#39;s the best way to monetize actual programming?](https://news.ycombinator.com/item?id=30358555)
-- [Love Is Biological Bribery](https://nautil.us/love-is-biological-bribery-14058/)
-- [Music Tuned to 440 Hz versus 432 Hz and Health Effects &lpar;2019&rpar;](https://pubmed.ncbi.nlm.nih.gov/31031095/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
