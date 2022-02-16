@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost every publicly available CVE PoC](https://github.com/trickest/cve)
-- [Intel to Acquire Tower Semiconductor for $5.4B](https://www.intc.com/news-events/press-releases/detail/1527/intel-to-acquire-tower-semiconductor-for-5-4-billion)
-- [All Google Cloud product in this periodic table](https://googlecloudcheatsheet.withgoogle.com/)
-- [Finley &lpar;YC W21&rpar; Is Hiring for Fintech Engineering, Sales, and CS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
-- [Show HN: The open-source icon sets that took me 12 years to create](https://app.streamlinehq.com/icons)
+- [Pollution causing more deaths than Covid, action needed, U.N. expert says](https://www.reuters.com/markets/commodities/pollution-causing-more-deaths-than-covid-action-needed-un-expert-says-2022-02-15/)
+- [The Mysterious Forces Inside the Nucleus Grow a Little Less Strange](https://www.quantamagazine.org/colliders-and-supercomputers-force-fresh-hints-in-quark-mystery-20220214/)
+- [State of JavaScript 2021 is out](https://2021.stateofjs.com/en-us/libraries/front-end-frameworks/)
+- [Does anyone ever use the walkie-walkie function on iWatch?](https://support.apple.com/en-us/HT208917)
+- [Imitate, Then Innovate](https://perell.com/essay/imitate-then-innovate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
