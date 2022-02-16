@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A non-hallucinogenic psychedelic analog with therapeutic potential](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874389/)
+- [How can you be fooled by the U+202E trick? &lpar;2013&rpar;](https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html)
+- [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)
 - [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
 - [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
-- [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [The Seductions of Clarity](https://www.researchgate.net/publication/348755905_The_Seductions_of_Clarity)
-- [Lorinda Cherry, author of dc, bc, eqn has died](https://ncwit.org/profile/lorinda-cherry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
