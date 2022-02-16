@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All Google Cloud product in this periodic table](https://googlecloudcheatsheet.withgoogle.com/)
 - [Finley &lpar;YC W21&rpar; Is Hiring for Fintech Engineering, Sales, and CS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
+- [Show HN: The open-source icon sets that took me 12 years to create](https://app.streamlinehq.com/icons)
 - [A non-hallucinogenic psychedelic analog with therapeutic potential](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874389/)
 - [How can you be fooled by the U+202E trick? &lpar;2013&rpar;](https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html)
-- [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)
-- [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
