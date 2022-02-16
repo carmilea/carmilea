@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I cut the bite of the Apple logo out of my iPhone](https://simonfreund.com/works/apple/)
-- [Code specialization for the MIR lightweight JIT compiler](https://developers.redhat.com/articles/2022/02/16/code-specialization-mir-lightweight-jit-compiler)
-- [Graphene FET on diamond for high-frequency electronics &lpar;2021&rpar;](https://arxiv.org/abs/2106.09412)
-- [1Password for SSH and Git](https://developer.1password.com/docs/ssh/)
-- [Orientation Keypoints for 6D Human Pose Estimation](https://r0nn13.github.io/okps-project/)
+- [Ask HN: Why is there so little debate about the attack on Vodafone Portugal?](https://news.ycombinator.com/item?id=30360532)
+- [Acute aerobic exercise to recover from mental exhaustion](https://pubmed.ncbi.nlm.nih.gov/34516957/)
+- [How can minorities of regular individuals overturn social conventions?](https://iaciac.github.io/post/vanishing/)
+- [History&#39;s deadliest air raid happened in Tokyo during World War II &lpar;2020&rpar;](https://www.cnn.com/2020/03/07/asia/japan-tokyo-fire-raids-operation-meetinghouse-intl-hnk/index.html)
+- [A Smart, Playful Book About the Underappreciated Index](https://www.nytimes.com/2022/02/09/books/review-index-history-of-dennis-duncan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
