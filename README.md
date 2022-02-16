@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dozens of small rovers are heading to the Moon](https://orbitalindex.com/archive/2022-02-16-Issue-156/)
+- [Launch HN: Realize &lpar;YC W22&rpar; – Integrate brokerage accounts into your site or app](https://www.realizefi.com/)
+- [Aserto, the developer API for permissions and RBAC, is open to all](https://www.aserto.com/blog/aserto-the-developer-api-for-permissions-and-rbac-is-open-to-all)
+- [The Privacy Sandbox on Android](https://blog.google/products/android/introducing-privacy-sandbox-android/)
 - [Ask HN: Why is there so little debate about the attack on Vodafone Portugal?](https://news.ycombinator.com/item?id=30360532)
-- [Acute aerobic exercise to recover from mental exhaustion](https://pubmed.ncbi.nlm.nih.gov/34516957/)
-- [How can minorities of regular individuals overturn social conventions?](https://iaciac.github.io/post/vanishing/)
-- [History&#39;s deadliest air raid happened in Tokyo during World War II &lpar;2020&rpar;](https://www.cnn.com/2020/03/07/asia/japan-tokyo-fire-raids-operation-meetinghouse-intl-hnk/index.html)
-- [A Smart, Playful Book About the Underappreciated Index](https://www.nytimes.com/2022/02/09/books/review-index-history-of-dennis-duncan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
