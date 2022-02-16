@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dozens of small rovers are heading to the Moon](https://orbitalindex.com/archive/2022-02-16-Issue-156/)
-- [Launch HN: Realize &lpar;YC W22&rpar; – Integrate brokerage accounts into your site or app](https://www.realizefi.com/)
-- [Aserto, the developer API for permissions and RBAC, is open to all](https://www.aserto.com/blog/aserto-the-developer-api-for-permissions-and-rbac-is-open-to-all)
-- [The Privacy Sandbox on Android](https://blog.google/products/android/introducing-privacy-sandbox-android/)
-- [Ask HN: Why is there so little debate about the attack on Vodafone Portugal?](https://news.ycombinator.com/item?id=30360532)
+- [US DOE to offer $6B to keep struggling nuclear reactors online](https://www.utilitydive.com/news/doe-to-offer-6-billion-to-keep-struggling-nuclear-reactors-online/618919/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Product Managers &lpar;all levels x remote&rpar;](https://jobs.lever.co/getjerry/72c8fd2a-fafe-4a63-bc52-ec294c0faf0b)
+- [The ZAPCon 2022 schedule is now live](https://www.zaproxy.org/blog/2022-02-16-zapcon-2022-schedule-is-now-live/)
+- [Standards-compliant open source WebSub Hub](https://websubhub.com/)
+- [Ask HN: Why is there a black bar on HN?](https://news.ycombinator.com/item?id=30362149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
