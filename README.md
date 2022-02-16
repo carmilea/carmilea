@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
 - [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [The Seductions of Clarity](https://www.researchgate.net/publication/348755905_The_Seductions_of_Clarity)
 - [Lorinda Cherry, author of dc, bc, eqn has died](https://ncwit.org/profile/lorinda-cherry/)
-- [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
