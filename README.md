@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why doesn&#39;t HN alert users in some manner to new replies?](https://news.ycombinator.com/item?id=30373171)
+- [C# Raw String Literal Proposal](https://github.com/dotnet/csharplang/blob/main/proposals/raw-string-literal.md)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
+- [Who is squatting IPv4 addresses?](https://blog.benjojo.co.uk/post/ip-address-squatting)
 - [PipeWire 0.3.46](https://gitlab.freedesktop.org/pipewire/pipewire/-/tags/0.3.46)
-- [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Director of Engineering for Our API Platform](https://www.ribbonhealth.com/careers/job-description/?gh_jid=4153956004)
-- [Lisp Alien 3D Model](https://kikytokamuro.github.io/notes/lisp_alien.html)
-- [Debugging an Ioctl Problem on OpenBSD](https://jcs.org/2022/02/16/ioctl)
-- [Show HN: Reversle – Find the words given Wordle pattern and the solution word](https://reversle.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
