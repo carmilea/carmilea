@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How much boilerplate code you need to write a ray-tracer?](https://sergeyreznik.github.io/rtcode/index.html)
-- [Fetch &lpar;YC S15&rpar; is hiring senior software engineers &lpar;Atlanta, hybrid&rpar;](https://www.ycombinator.com/companies/fetch/jobs/el9UcMd-senior-software-engineer)
-- [S2n-QUIC &lpar;Rust implementation of QUIC&rpar;](https://github.com/aws/s2n-quic)
-- [Ask HN: Why is MS Teams so slow, do devs test Teams on less powerful machines?](https://news.ycombinator.com/item?id=30378306)
-- [How to commit murder inside a locked room](https://tedgioia.substack.com/p/how-to-commit-murder-inside-a-locked)
+- [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control)
+- [Firefox dev: Encoding override not necessary since most mojibake still legible](https://bugzilla.mozilla.org/show_bug.cgi?id=1687635)
+- [Transgenic glowing fish invades Brazilian streams](https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams)
+- [SpaceX’s monstrous, dirt-cheap Starship may transform space travel](https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel)
+- [Eric Schmidt plans to give A.I. researchers $125M](https://www.cnbc.com/2022/02/16/eric-schmidt-plans-to-give-ai-researchers-125-million-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
