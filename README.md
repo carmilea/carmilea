@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I&#39;ve compiled Firefox iOS together with a cookie request blocker](https://rchaves.app/firefox-ios-without-cookies/)
-- [Otter.ai has saved reporters hours transcribing interviews. Caveat emptor](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216)
-- [The Unreasonable Math of Type 1 Diabetes](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0)
-- [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/)
-- [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools](https://readme.com/careers#ui-engineer)
+- [Fetch &lpar;YC S15&rpar; is hiring senior software engineers &lpar;Atlanta, hybrid&rpar;](https://www.ycombinator.com/companies/fetch/jobs/el9UcMd-senior-software-engineer)
+- [S2n-QUIC &lpar;Rust implementation of QUIC&rpar;](https://github.com/aws/s2n-quic)
+- [How to commit murder inside a locked room](https://tedgioia.substack.com/p/how-to-commit-murder-inside-a-locked)
+- [2022 Sea Level Rise Technical Report](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html)
+- [Removing cookie consent requests from Firefox iOS](https://rchaves.app/firefox-ios-without-cookies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
