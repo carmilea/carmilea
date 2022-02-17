@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers](https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers)
+- [Advent of Code Day 24: Computing with Sets](https://www.reitzen.com/post/aoc-2021-24/)
+- [Haskell2020 Is Dead, but All Hope Is Not Lost](https://reasonablypolymorphic.com/blog/haskell202x/)
 - [NSA algorithm used in the PX-1000 pocket telex has been broken](https://www.cryptomuseum.com/crypto/philips/px1000/nsa.htm#stef)
 - [Apple&#39;s custom NVMes are amazingly fast – if you don&#39;t care about data integrity](https://twitter.com/marcan42/status/1494213855387734019)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30370297)
-- [NATSpeech: High Quality Text-to-Speech Implementation with HuggingFace Demo](https://github.com/NATSpeech/NATSpeech)
-- [Haskell error messages: come on](https://www.thecodedmessage.com/posts/haskell-gripe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
