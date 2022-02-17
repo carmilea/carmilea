@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Investors bought a record share of U.S. homes in 2021](https://www.washingtonpost.com/business/interactive/2022/housing-market-investors/)
-- [The Lonely Work of Moderating Hacker News &lpar;2019&rpar;](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
-- [Hacker News Clone Using Remix and React](https://github.com/clintonwoo/hackernews-remix-react)
-- [Deploy to DigitalOcean from Glitch](https://glitch.com/digitalocean)
-- [Design of a rapid transit to Mars mission using laser-thermal propulsion](https://arxiv.org/abs/2201.00244)
+- [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools!](https://readme.com/careers#ui-engineer)
+- [Ask HN: My SaaS was used to commit a financial crime. What should I do?](https://news.ycombinator.com/item?id=30375393)
+- [Wordle – But for D&amp;D](https://dndle.app/)
+- [Launch HN: 1Flow &lpar;YC W22&rpar; – In-product user feedback for web/mobile apps](https://1flow.app)
+- [GitBOM is a minimalistic scheme for build tools to build a compact artifact tree](https://gitbom.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
