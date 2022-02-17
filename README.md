@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brrr.money](https://brrr.money)
-- [Nerdle](https://nerdlegame.com/)
-- [The Fourth Dimension: Toward a Geometry of Higher Reality](https://www.rudyrucker.com/thefourthdimension/)
-- [Flexport is hiring senior software engineers who have built logistics tech](https://Flexport.com/careers)
+- [Haskell Error Messages: Come On](https://www.thecodedmessage.com/posts/haskell-gripe/)
+- [Reddit can&#39;t build a better search engine](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/)
+- [The fourth dimension: Toward a geometry of higher reality &lpar;1984&rpar;](https://www.rudyrucker.com/thefourthdimension/)
+- [Flexport &lpar;YC W14&rpar; is hiring software engineers who have built logistics tech](https://Flexport.com/careers)
 - [Worldle](https://worldle.teuteuf.fr/)
 <!-- BLOG-POST-LIST:END -->
 
