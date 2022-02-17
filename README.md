@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KeePassXC – Cross-Platform Password Manager](https://keepassxc.org//)
+- [The CIA and the New Dialect of Power](https://americanaffairsjournal.org/2021/11/the-cia-and-the-new-dialect-of-power/)
 - [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools!](https://readme.com/careers#ui-engineer)
-- [Ask HN: My SaaS was used to commit a financial crime. What should I do?](https://news.ycombinator.com/item?id=30375393)
+- [Ask HN: If your SaaS was used to commit a financial crime. What should you do?](https://news.ycombinator.com/item?id=30375393)
 - [Wordle – But for D&amp;D](https://dndle.app/)
-- [Launch HN: 1Flow &lpar;YC W22&rpar; – In-product user feedback for web/mobile apps](https://1flow.app)
-- [GitBOM is a minimalistic scheme for build tools to build a compact artifact tree](https://gitbom.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
