@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PipeWire 0.3.46](https://gitlab.freedesktop.org/pipewire/pipewire/-/tags/0.3.46)
 - [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Director of Engineering for Our API Platform](https://www.ribbonhealth.com/careers/job-description/?gh_jid=4153956004)
+- [Lisp Alien 3D Model](https://kikytokamuro.github.io/notes/lisp_alien.html)
 - [Debugging an Ioctl Problem on OpenBSD](https://jcs.org/2022/02/16/ioctl)
 - [Show HN: Reversle – Find the words given Wordle pattern and the solution word](https://reversle.net/)
-- [Ask HN: How do you manage your companies knowledge base?](https://news.ycombinator.com/item?id=30371723)
-- [WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers](https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
