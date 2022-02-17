@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KeePassXC – Cross-Platform Password Manager](https://keepassxc.org//)
-- [The CIA and the New Dialect of Power](https://americanaffairsjournal.org/2021/11/the-cia-and-the-new-dialect-of-power/)
-- [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools!](https://readme.com/careers#ui-engineer)
-- [Ask HN: If your SaaS was used to commit a financial crime. What should you do?](https://news.ycombinator.com/item?id=30375393)
-- [Wordle – But for D&amp;D](https://dndle.app/)
+- [Tell HN: Can we surface the M1 Mac laggy/choppy cursor and scroll bug?](https://news.ycombinator.com/item?id=30376907)
+- [Despite rising wages, 61% of Americans are still living paycheck to paycheck](https://www.cnbc.com/2022/02/17/wages-are-rising-but-many-americans-still-live-paycheck-to-paycheck.html)
+- [The Unreasonable Math of Type 1 Diabetes](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0)
+- [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/)
+- [My default search engine changed after updating Firefox to version 98](https://support.mozilla.org/en-US/kb/search-engine-removal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
