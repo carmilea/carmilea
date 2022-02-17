@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Can we surface the M1 Mac laggy/choppy cursor and scroll bug?](https://news.ycombinator.com/item?id=30376907)
-- [Despite rising wages, 61% of Americans are still living paycheck to paycheck](https://www.cnbc.com/2022/02/17/wages-are-rising-but-many-americans-still-live-paycheck-to-paycheck.html)
+- [Show HN: I&#39;ve compiled Firefox iOS together with a cookie request blocker](https://rchaves.app/firefox-ios-without-cookies/)
+- [Otter.ai has saved reporters hours transcribing interviews. Caveat emptor](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216)
 - [The Unreasonable Math of Type 1 Diabetes](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0)
 - [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/)
-- [My default search engine changed after updating Firefox to version 98](https://support.mozilla.org/en-US/kb/search-engine-removal)
+- [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools](https://readme.com/careers#ui-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
