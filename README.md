@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why doesn&#39;t HN alert users in some manner to new replies?](https://news.ycombinator.com/item?id=30373171)
-- [C# Raw String Literal Proposal](https://github.com/dotnet/csharplang/blob/main/proposals/raw-string-literal.md)
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
-- [Who is squatting IPv4 addresses?](https://blog.benjojo.co.uk/post/ip-address-squatting)
-- [PipeWire 0.3.46](https://gitlab.freedesktop.org/pipewire/pipewire/-/tags/0.3.46)
+- [Deploy to DigitalOcean from Glitch](https://glitch.com/digitalocean)
+- [Design of a rapid transit to Mars mission using laser-thermal propulsion](https://arxiv.org/abs/2201.00244)
+- [Tell HN: 1Password shares passwords you don&#39;t want shared](https://news.ycombinator.com/item?id=30373475)
+- [Designing Your Incident Severities](https://incident.io/blog/designing-your-incident-severity-levels/)
+- [Uniting the Linux random-number devices](https://lwn.net/SubscriberLink/884875/58f88e6eb7913686/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
