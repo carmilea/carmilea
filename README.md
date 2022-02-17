@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fourth Dimension: Toward a Geometry of Higher Reality](https://www.rudyrucker.com/thefourthdimension/)
 - [Flexport is hiring senior software engineers who have built logistics tech](https://Flexport.com/careers)
 - [Worldle](https://worldle.teuteuf.fr/)
 - [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 - [Elastic and Amazon reach agreement on trademark infringement lawsuit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
-- [I collect and read old computer manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
