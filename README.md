@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much boilerplate code you need to write a ray-tracer?](https://sergeyreznik.github.io/rtcode/index.html)
 - [Fetch &lpar;YC S15&rpar; is hiring senior software engineers &lpar;Atlanta, hybrid&rpar;](https://www.ycombinator.com/companies/fetch/jobs/el9UcMd-senior-software-engineer)
 - [S2n-QUIC &lpar;Rust implementation of QUIC&rpar;](https://github.com/aws/s2n-quic)
+- [Ask HN: Why is MS Teams so slow, do devs test Teams on less powerful machines?](https://news.ycombinator.com/item?id=30378306)
 - [How to commit murder inside a locked room](https://tedgioia.substack.com/p/how-to-commit-murder-inside-a-locked)
-- [2022 Sea Level Rise Technical Report](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html)
-- [Removing cookie consent requests from Firefox iOS](https://rchaves.app/firefox-ios-without-cookies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
