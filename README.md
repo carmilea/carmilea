@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors bought a record share of U.S. homes in 2021](https://www.washingtonpost.com/business/interactive/2022/housing-market-investors/)
+- [The Lonely Work of Moderating Hacker News &lpar;2019&rpar;](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
+- [Hacker News Clone Using Remix and React](https://github.com/clintonwoo/hackernews-remix-react)
 - [Deploy to DigitalOcean from Glitch](https://glitch.com/digitalocean)
 - [Design of a rapid transit to Mars mission using laser-thermal propulsion](https://arxiv.org/abs/2201.00244)
-- [Tell HN: 1Password shares passwords you don&#39;t want shared](https://news.ycombinator.com/item?id=30373475)
-- [Designing Your Incident Severities](https://incident.io/blog/designing-your-incident-severity-levels/)
-- [Uniting the Linux random-number devices](https://lwn.net/SubscriberLink/884875/58f88e6eb7913686/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
