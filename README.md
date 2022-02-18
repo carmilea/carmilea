@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plausibly Deniable Encryption](https://spacetime.dev/plausibly-deniable-encryption)
+- [“Outlook just asked me if I want to upgrade to bigger ads”](https://twitter.com/louisnicholls_/status/1487179285177815047)
+- [Ask HN: Are CO salary disclosure laws affecting remote work opportunities?](https://news.ycombinator.com/item?id=30388333)
 - [GStreamer 1.20: Embedded and WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
-- [Kodable Is Hiring a Senior Game Developer to help us teach kids to code](https://angel.co/company/kodable/jobs/1983277-senior-game-developer-unity)
-- [Alarm raised after Microsoft wins data-encoding patent](https://www.theregister.com/2022/02/17/microsoft_ans_patent/)
-- [Resolving the gravitational redshift across a millimetre-scale atomic sample](https://www.nature.com/articles/s41586-021-04349-7)
-- [25 Gbit/s internet as a normal customer](https://www.init7.net/en/internet/fiber7/)
+- [Kodable &lpar;IK12&rpar; is hiring a senior game developer to help us teach kids to code](https://angel.co/company/kodable/jobs/1983277-senior-game-developer-unity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
