@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“The president of MIT told me that tenure was not about research or merit.”](https://threadreaderapp.com/thread/1494369809538195456.html)
 - [Versatile Open Source online SVG path editor](https://github.com/Yqnn/svg-path-editor)
 - [No one cares about your redesign](https://www.garbageday.email/p/no-one-cares-about-your-redesign)
-- [Apple chief Tim Cook faces shareholder revolt over $99m pay package](https://www.theguardian.com/technology/2022/feb/17/apple-tim-cook-pay-package-shareholders)
 - [What I Learned During My Three Days Offline](https://www.raptitude.com/2022/02/what-i-learned-during-my-three-days-offline/)
-- [Amazon Co-Owns Deportation Airline Implicated in Alleged Torture of Immigrants](https://theintercept.com/2022/02/17/amazon-ice-deportation-flights-omni/)
+- [Scientist busts myths about how humans burn calories](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
