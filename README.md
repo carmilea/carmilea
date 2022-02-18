@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring engineers at all levels](https://dover.com/careers)
+- [Carl Akeley’s fight to the death with a leopard &lpar;1923&rpar;](http://stuffnobodycaresabout.com/2022/02/12/explorer-carl-akeley-kills-a-leopard-with-his-bare-hands/)
 - [A new study of pharmaceutical pollution in the world&#39;s rivers](https://www.theguardian.com/environment/2022/feb/14/drugs-have-dangerously-polluted-the-worlds-rivers-scientists-warn)
-- [Google lowered its salaries in North Carolina. Now workers are protesting](https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/)
 - [Algorithmica – open-access webbook dedicated to the art and science of computing](https://en.algorithmica.org/)
 - [Facebook Shadow Profiles [pdf]](https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles)
-- [The solved riddle of the Apple-1 serial number](https://www.apple1registry.com/en/serial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
