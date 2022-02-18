@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentience in Cephalopod Molluscs and Decapod Crustaceans [pdf]](https://www.lse.ac.uk/News/News-Assets/PDFs/2021/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans-Final-Report-November-2021.pdf)
-- [From macOS to FreeBSD](https://www.boucek.me/blog/from-mac-to-freebsd/)
-- [AI Overcomes Stumbling Block on Brain-Inspired Hardware](https://www.quantamagazine.org/ai-overcomes-stumbling-block-on-brain-inspired-hardware-20220217/)
-- [Littlefs – A little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
-- [My Remote Mob Programming Experience](https://blog.t-systems-mms.com/tech-insights/mob-programming-remote-teams-in-the-flow)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [Happy 15th birthday Hacker News](https://news.ycombinator.com/front?day=2007-02-19&p=1)
+- [Huetone](https://huetone.ardov.me/)
+- [Windows 11 settings rewritten in React Native](https://microsoft.github.io/react-native-windows/blog/2022/02/11/settings)
+- [Against Pair Programming](https://matt-rickard.com/against-pair-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
