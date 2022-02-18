@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Add Archive.org link in past section of HN?](https://news.ycombinator.com/item?id=30386878)
-- [Dad takes down town&#39;s internet by mistake to get his kids offline](https://www.bleepingcomputer.com/news/technology/dad-takes-down-towns-internet-by-mistake-to-get-his-kids-offline/)
-- [Dr. Ian Cutress Leaves Anandtech](https://www.anandtech.com/show/17270/going-from-there-to-here-and-beyond)
-- [2021 at OCamlPro](https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro)
-- [What Is Rust&#39;s Hole Purpose?](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/)
+- [GStreamer 1.20: Embedded and WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
+- [Kodable Is Hiring a Senior Game Developer to help us teach kids to code](https://angel.co/company/kodable/jobs/1983277-senior-game-developer-unity)
+- [Alarm raised after Microsoft wins data-encoding patent](https://www.theregister.com/2022/02/17/microsoft_ans_patent/)
+- [Resolving the gravitational redshift across a millimetre-scale atomic sample](https://www.nature.com/articles/s41586-021-04349-7)
+- [25 Gbit/s internet as a normal customer](https://www.init7.net/en/internet/fiber7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
