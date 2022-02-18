@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Versatile Open Source online SVG path editor](https://github.com/Yqnn/svg-path-editor)
+- [No one cares about your redesign](https://www.garbageday.email/p/no-one-cares-about-your-redesign)
 - [Apple chief Tim Cook faces shareholder revolt over $99m pay package](https://www.theguardian.com/technology/2022/feb/17/apple-tim-cook-pay-package-shareholders)
 - [What I Learned During My Three Days Offline](https://www.raptitude.com/2022/02/what-i-learned-during-my-three-days-offline/)
-- [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
-- [Scientist busts myths about how humans burn calories](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
-- [Internals of Go&#39;s new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
+- [Amazon Co-Owns Deportation Airline Implicated in Alleged Torture of Immigrants](https://theintercept.com/2022/02/17/amazon-ice-deportation-flights-omni/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
