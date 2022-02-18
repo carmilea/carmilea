@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The solved riddle of the Apple-1 serial number](https://www.apple1registry.com/en/serial.html)
+- [Meta axes head of global community development embroiled in underage sex sting](https://techcrunch.com/2022/02/18/meta-axes-head-of-global-community-development-after-he-appears-on-video-in-underage-sex-sting/)
 - [Plausibly Deniable Encryption](https://spacetime.dev/plausibly-deniable-encryption)
-- [“Outlook just asked me if I want to upgrade to bigger ads”](https://twitter.com/louisnicholls_/status/1487179285177815047)
-- [Ask HN: Are CO salary disclosure laws affecting remote work opportunities?](https://news.ycombinator.com/item?id=30388333)
+- [Outlook just asked me if I want to upgrade to bigger ads](https://twitter.com/louisnicholls_/status/1487179285177815047)
 - [GStreamer 1.20: Embedded and WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
-- [Kodable &lpar;IK12&rpar; is hiring a senior game developer to help us teach kids to code](https://angel.co/company/kodable/jobs/1983277-senior-game-developer-unity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
