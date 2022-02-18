@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Littlefs – A little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
+- [My Remote Mob Programming Experience](https://blog.t-systems-mms.com/tech-insights/mob-programming-remote-teams-in-the-flow)
 - [FBI sounds alarm as QR code usage soars](https://www.axios.com/qr-code-safety-coinbase-4b7f97d0-940c-45f4-9366-bf5d7f2f3c8f.html)
 - [“The president of MIT told me that tenure was not about research or merit.”](https://threadreaderapp.com/thread/1494369809538195456.html)
 - [Versatile Open Source online SVG path editor](https://github.com/Yqnn/svg-path-editor)
-- [No one cares about your redesign](https://www.garbageday.email/p/no-one-cares-about-your-redesign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
