@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
+- [Scientist busts myths about how humans burn calories–and why](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
 - [Internals of Go&#39;s new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a frontent engineer &lpar;remote&rpar;](https://angel.co/l/2wC1ba)
-- [Skip · A programming language to skip the things you have already computed](http://skiplang.com/)
-- [The Patriot Missile Failure &lpar;2000&rpar;](https://www-users.cse.umn.edu/~arnold/disasters/patriot.html)
-- [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control)
+- [Fred&#39;s ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
