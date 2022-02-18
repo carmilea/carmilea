@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dune: Spice Wars](https://www.dunegames.com/)
-- [Ask HN: Is there VC appetite for defense related startups](https://news.ycombinator.com/item?id=30385479)
-- [Difficult situation on campus. Traffic jam of automated food delivery robots](https://twitter.com/seanhecht/status/1493432613628825600)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- [Happy 15th birthday Hacker News](https://news.ycombinator.com/front?day=2007-02-19&p=1)
+- [Ask HN: Add Archive.org link in past section of HN?](https://news.ycombinator.com/item?id=30386878)
+- [Dad takes down town&#39;s internet by mistake to get his kids offline](https://www.bleepingcomputer.com/news/technology/dad-takes-down-towns-internet-by-mistake-to-get-his-kids-offline/)
+- [Dr. Ian Cutress Leaves Anandtech](https://www.anandtech.com/show/17270/going-from-there-to-here-and-beyond)
+- [2021 at OCamlPro](https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro)
+- [What Is Rust&#39;s Hole Purpose?](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
