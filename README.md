@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Popularity of Programming Languages on Arch Linux](https://pkgstats.archlinux.de/compare/packages#packages=dmd,dotnet,go,julia,nim,rust,zig)
 - [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
 - [Scientist busts myths about how humans burn calories](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
 - [Internals of Go&#39;s new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a frontent engineer &lpar;remote&rpar;](https://angel.co/l/2wC1ba)
-- [Fred&#39;s ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
