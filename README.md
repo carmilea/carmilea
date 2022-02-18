@@ -54,8 +54,8 @@
 - [Dune: Spice Wars](https://www.dunegames.com/)
 - [Ask HN: Is there VC appetite for defense related startups](https://news.ycombinator.com/item?id=30385479)
 - [Difficult situation on campus. Traffic jam of automated food delivery robots](https://twitter.com/seanhecht/status/1493432613628825600)
-- [Why Are Young People Having So Little Sex?](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [Happy 15th birthday Hacker News](https://news.ycombinator.com/front?day=2007-02-19&p=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
