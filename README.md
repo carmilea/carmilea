@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new study of pharmaceutical pollution in the world&#39;s rivers](https://www.theguardian.com/environment/2022/feb/14/drugs-have-dangerously-polluted-the-worlds-rivers-scientists-warn)
+- [Google lowered its salaries in North Carolina. Now workers are protesting](https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/)
+- [Algorithmica – open-access webbook dedicated to the art and science of computing](https://en.algorithmica.org/)
+- [Facebook Shadow Profiles [pdf]](https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles)
 - [The solved riddle of the Apple-1 serial number](https://www.apple1registry.com/en/serial.html)
-- [Meta axes head of global community development embroiled in underage sex sting](https://techcrunch.com/2022/02/18/meta-axes-head-of-global-community-development-after-he-appears-on-video-in-underage-sex-sting/)
-- [Plausibly Deniable Encryption](https://spacetime.dev/plausibly-deniable-encryption)
-- [Outlook just asked me if I want to upgrade to bigger ads](https://twitter.com/louisnicholls_/status/1487179285177815047)
-- [GStreamer 1.20: Embedded and WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
