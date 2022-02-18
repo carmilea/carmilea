@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon suspends Black Lives Matter from its charity platform](https://nypost.com/2022/02/17/amazon-suspends-black-lives-matter-from-its-charity-platform/)
+- [Study finds most unemployed young men have criminal records](https://phys.org/news/2022-02-unemployed-young-men-criminal.html)
 - [Dover &lpar;YC S19&rpar; just raised $20m and is hiring engineers at all levels](https://dover.com/careers)
+- [Study findings do not support the use of ivermectin for patients with Covid-19](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789362)
 - [Carl Akeley’s fight to the death with a leopard &lpar;1923&rpar;](http://stuffnobodycaresabout.com/2022/02/12/explorer-carl-akeley-kills-a-leopard-with-his-bare-hands/)
-- [A new study of pharmaceutical pollution in the world&#39;s rivers](https://www.theguardian.com/environment/2022/feb/14/drugs-have-dangerously-polluted-the-worlds-rivers-scientists-warn)
-- [Algorithmica – open-access webbook dedicated to the art and science of computing](https://en.algorithmica.org/)
-- [Facebook Shadow Profiles [pdf]](https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
