@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internals of Go&#39;s new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring a frontent engineer &lpar;remote&rpar;](https://angel.co/l/2wC1ba)
+- [Skip · A programming language to skip the things you have already computed](http://skiplang.com/)
+- [The Patriot Missile Failure &lpar;2000&rpar;](https://www-users.cse.umn.edu/~arnold/disasters/patriot.html)
 - [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control)
-- [Firefox dev: Encoding override not necessary since most mojibake still legible](https://bugzilla.mozilla.org/show_bug.cgi?id=1687635)
-- [Transgenic glowing fish invades Brazilian streams](https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams)
-- [SpaceX’s monstrous, dirt-cheap Starship may transform space travel](https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel)
-- [Eric Schmidt plans to give A.I. researchers $125M](https://www.cnbc.com/2022/02/16/eric-schmidt-plans-to-give-ai-researchers-125-million-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
