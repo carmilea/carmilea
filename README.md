@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon suspends Black Lives Matter from its charity platform](https://nypost.com/2022/02/17/amazon-suspends-black-lives-matter-from-its-charity-platform/)
+- [Tavistock Letter has been decoded finally after 163 years](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
+- [Works in Progress has joined Stripe](https://www.worksinprogress.co/works-in-progress-has-joined-stripe/)
+- [Why We Banned Legos &lpar;2006&rpar;](https://rethinkingschools.org/articles/cover-story-why-we-banned-legos/)
+- [The African software developers using AI to fight inequality](https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/)
 - [Study finds most unemployed young men have criminal records](https://phys.org/news/2022-02-unemployed-young-men-criminal.html)
-- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring engineers at all levels](https://dover.com/careers)
-- [Study findings do not support the use of ivermectin for patients with Covid-19](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789362)
-- [Carl Akeley’s fight to the death with a leopard &lpar;1923&rpar;](http://stuffnobodycaresabout.com/2022/02/12/explorer-carl-akeley-kills-a-leopard-with-his-bare-hands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
