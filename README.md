@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zuckerberg Has Burned $500B Turning Facebook to Meta](https://nymag.com/intelligencer/2022/02/zuckerberg-has-burned-usd500-billion-turning-facebook-to-meta.html)
+- [How to set up a blog with Hugo and Cloudflare &lpar;and why you should&rpar;](https://smaller.fish/posts/hugo)
+- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/)
 - [Show HN: Wordle over DNS](https://dgl.cx/2022/02/wordle-over-dns)
 - [Recreated sources for the book “UNIX Text Processing,” published in 1987](https://github.com/larrykollar/Unix-Text-Processing)
-- [Learn Awk with Emacs &lpar;2020&rpar;](https://jherrlin.github.io/posts/learn-awk/)
-- [Ask HN: Do you find working on large distributed systems exhausting?](https://news.ycombinator.com/item?id=30396454)
-- [Help HN: Can&#39;t Open Childhood Files](https://news.ycombinator.com/item?id=30396042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
