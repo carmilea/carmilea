@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
+- [Machine Learning Algorithms Cheat Sheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)
+- [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
 - [Going IPv6 Only](https://blog.brixit.nl/going-ipv6-only/)
 - [Linux&#39;s GPLv2 licence is routinely violated &lpar;2015&rpar;](https://www.devever.net/~hl/linuxgpl)
-- [Reverie Labs &lpar;YC W18&rpar; is hiring front end engineers to tackle cancer](https://www.reverielabs.com/careers)
-- [Shard manager: A shard management framework for geo-distributed applications](https://www.micahlerner.com/2022/01/08/shard-manager-a-generic-shard-management-framework-for-geo-distributed-applications.html)
-- [Show HN: Full text search on 630M US court cases](https://www.judyrecords.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
