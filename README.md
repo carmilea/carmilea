@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tavistock Letter has been decoded finally after 163 years](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
-- [Works in Progress has joined Stripe](https://www.worksinprogress.co/works-in-progress-has-joined-stripe/)
-- [Why We Banned Legos &lpar;2006&rpar;](https://rethinkingschools.org/articles/cover-story-why-we-banned-legos/)
-- [The African software developers using AI to fight inequality](https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/)
-- [Study finds most unemployed young men have criminal records](https://phys.org/news/2022-02-unemployed-young-men-criminal.html)
+- [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
+- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://pythonspeed.com/articles/numba-faster-python/)
+- [Grist – Open core alternative to Airtable and Google Sheets](https://github.com/gristlabs/grist-core)
+- [5nm is only a marketing term and has no relation to any actual phyiscal feature](https://twitter.com/HPC_Guru/status/1494713701672255488)
+- [Decoding the Tavistock letter: Dickens and ‘Victorian media management’](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
