@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Wine Tasting Event: Distinguishing Reds from Whites &lpar;2014&rpar;](http://www.morssglobalfinance.com/the-ultimate-wine-tasting-event-distinguishing-reds-from-whites/)
+- [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/)
 - [The Theory of Gut Bacteria Value](https://www.atvbt.com/gbv/)
+- [How to write better scientific code in Python?](https://zerowithdot.com/improve-data-science-code/)
 - [ZX Spectrum at 40: a look back](https://www.nme.com/features/gaming-features/zx-spectrum-at-40-a-look-back-3162913)
-- [Higher-order topological insulators in synthetic dimensions &lpar;2020&rpar;](https://www.nature.com/articles/s41377-020-0334-8)
-- [Clone culture and its continuous impact on indie developers](https://www.gamesindustry.biz/articles/2022-02-17-clone-culture-and-its-continuous-impact-on-indie-devs)
-- [Builder.ai and the Air India website: What’s going on?](https://www.businesstoday.in/technology/news/story/builderai-and-the-air-india-website-whats-going-on-323144-2022-02-18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
