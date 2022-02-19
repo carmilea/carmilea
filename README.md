@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://www.raycast.com/careers)
 - [Safari now supports File System Access API with private origin](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/)
 - [Upper limits on partial Dyson spheres in the Milky Way](https://arxiv.org/abs/2201.11123)
-- [Australian state sets minimum pay for Amazon contractors in landmark step](https://www.reuters.com/business/retail-consumer/australian-state-sets-minimum-pay-amazon-contractors-landmark-step-2022-02-18/)
-- [Toy Traceroute with Ping](https://susam.net/maze/toy-traceroute-with-ping.html)
-- [Startup tooling: our product management, sales, and marketing stack](https://rosslazer.com/posts/startup-tooling/)
+- [What I&#39;ve Learned from Hacker News &lpar;2009&rpar;](http://www.paulgraham.com/hackernews.html)
+- [Australian state sets minimum pay for Amazon contractors](https://www.reuters.com/business/retail-consumer/australian-state-sets-minimum-pay-amazon-contractors-landmark-step-2022-02-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
