@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help HN: Can&#39;t Open Childhood Files](https://news.ycombinator.com/item?id=30396042)
+- [‘Zero-Click’ Hacks Are Growing in Popularity – no way to stop them](https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity)
 - [Google Maps ToS can be summarised as: Don&#39;t use it](https://twitter.com/pmzakrzewski/status/1494967388428804103)
-- [C meeting is over. C23 added the follow:](https://twitter.com/__phantomderp/status/1494884135688626180)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://www.raycast.com/careers)
-- [OpenVi: Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
-- [Thoughts on Intel software-defined silicon](https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/)
+- [Show HN: Sioyek – PDF viewer for reading research papers and textbooks](https://github.com/ahrm/sioyek)
+- [BBC Betsie: Perl program to create an automatic text-only website version &lpar;1999&rpar;](https://web.archive.org/web/20001110064800/http://www.bbc.co.uk/education/betsie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
