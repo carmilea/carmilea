@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg Has Burned $500B Turning Facebook to Meta](https://nymag.com/intelligencer/2022/02/zuckerberg-has-burned-usd500-billion-turning-facebook-to-meta.html)
-- [How to set up a blog with Hugo and Cloudflare &lpar;and why you should&rpar;](https://smaller.fish/posts/hugo)
-- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/)
-- [Show HN: Wordle over DNS](https://dgl.cx/2022/02/wordle-over-dns)
-- [Recreated sources for the book “UNIX Text Processing,” published in 1987](https://github.com/larrykollar/Unix-Text-Processing)
+- [The Theory of Gut Bacteria Value](https://www.atvbt.com/gbv/)
+- [ZX Spectrum at 40: a look back](https://www.nme.com/features/gaming-features/zx-spectrum-at-40-a-look-back-3162913)
+- [Higher-order topological insulators in synthetic dimensions &lpar;2020&rpar;](https://www.nature.com/articles/s41377-020-0334-8)
+- [Clone culture and its continuous impact on indie developers](https://www.gamesindustry.biz/articles/2022-02-17-clone-culture-and-its-continuous-impact-on-indie-devs)
+- [Builder.ai and the Air India website: What’s going on?](https://www.businesstoday.in/technology/news/story/builderai-and-the-air-india-website-whats-going-on-323144-2022-02-18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
