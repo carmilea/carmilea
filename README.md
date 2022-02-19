@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What books are recommended to learn re semiconductors industry?](https://news.ycombinator.com/item?id=30398930)
 - [Jujutsu – A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
-- [A city inside a 50m high, 1.3km long wall](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
+- [“The Wall” Housing Structure In Fermont, Quebec](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
 - [Tell HN: I got 10x Hetzner storage at the same price](https://news.ycombinator.com/item?id=30398534)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Founding Engineer – Austin, TX](https://news.ycombinator.com/item?id=30398529)
-- [Pyrite – open-source video conferencing](https://garage44.org/posts/pyrite/pyrite-conferencing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
