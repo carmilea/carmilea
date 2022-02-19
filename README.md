@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup tooling: our product management, sales, and marketing stack](https://rosslazer.com/posts/startup-tooling/)
+- [Sweating the small stuff: Smartwatch developed at UCLA measures stress hormone](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch)
+- [WebRTC support is being added to OBS](https://github.com/obsproject/obs-studio/discussions/4021)
 - [Cuffed – A dating app with only one match at a time](https://www.cuffedapp.com)
 - [What’s the Appeal of Deep Voices in Men?](https://www.sapiens.org/biology/deep-voice-men-attractive/)
-- [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
-- [A Saudi woman&#39;s iPhone revealed hacking around the world](https://www.reuters.com/technology/how-saudi-womans-iphone-revealed-hacking-around-world-2022-02-17/)
-- [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
