@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Going IPv6 Only](https://blog.brixit.nl/going-ipv6-only/)
+- [Linux&#39;s GPLv2 licence is routinely violated &lpar;2015&rpar;](https://www.devever.net/~hl/linuxgpl)
 - [Reverie Labs &lpar;YC W18&rpar; is hiring front end engineers to tackle cancer](https://www.reverielabs.com/careers)
-- [Shard Manager: A Shard Management Framework for Geo-Distributed Applications](https://www.micahlerner.com/2022/01/08/shard-manager-a-generic-shard-management-framework-for-geo-distributed-applications.html)
-- [Ask HN: Quit caffeine? Before and after anecdotes](https://news.ycombinator.com/item?id=30400121)
-- [Full text search on 630M US court cases](https://www.judyrecords.com/)
-- [Gut Molecule Linked to Decreased Myelination in Mouse Brains](https://www.the-scientist.com/news-opinion/gut-molecule-linked-to-decreased-myelination-in-mouse-brains-69715)
+- [Shard manager: A shard management framework for geo-distributed applications](https://www.micahlerner.com/2022/01/08/shard-manager-a-generic-shard-management-framework-for-geo-distributed-applications.html)
+- [Show HN: Full text search on 630M US court cases](https://www.judyrecords.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
