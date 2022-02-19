@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverie Labs &lpar;YC W18&rpar; is hiring front end engineers to tackle cancer](https://www.reverielabs.com/careers)
+- [Shard Manager: A Shard Management Framework for Geo-Distributed Applications](https://www.micahlerner.com/2022/01/08/shard-manager-a-generic-shard-management-framework-for-geo-distributed-applications.html)
+- [Ask HN: Quit caffeine? Before and after anecdotes](https://news.ycombinator.com/item?id=30400121)
 - [Full text search on 630M US court cases](https://www.judyrecords.com/)
-- [Oilslick – an elevation map showing fine detail in terrain](http://mrgris.com/projects/oilslick/)
-- [Ask HN: What books are recommended to learn re semiconductors industry?](https://news.ycombinator.com/item?id=30398930)
-- [Jujutsu – A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
-- [“The Wall” Housing Structure In Fermont, Quebec](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
+- [Gut Molecule Linked to Decreased Myelination in Mouse Brains](https://www.the-scientist.com/news-opinion/gut-molecule-linked-to-decreased-myelination-in-mouse-brains-69715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
