@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Wordle over DNS](https://dgl.cx/2022/02/wordle-over-dns)
+- [Recreated sources for the book “UNIX Text Processing,” published in 1987](https://github.com/larrykollar/Unix-Text-Processing)
+- [Learn Awk with Emacs &lpar;2020&rpar;](https://jherrlin.github.io/posts/learn-awk/)
 - [Ask HN: Do you find working on large distributed systems exhausting?](https://news.ycombinator.com/item?id=30396454)
 - [Help HN: Can&#39;t Open Childhood Files](https://news.ycombinator.com/item?id=30396042)
-- [‘Zero-Click’ Hacks Are Growing in Popularity](https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity)
-- [Google Maps ToS can be summarised as: Don&#39;t use it](https://twitter.com/pmzakrzewski/status/1494967388428804103)
-- [Show HN: Sioyek – PDF viewer for reading research papers and textbooks](https://github.com/ahrm/sioyek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
