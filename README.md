@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full text search on 630M US court cases](https://www.judyrecords.com/)
+- [Oilslick – an elevation map showing fine detail in terrain](http://mrgris.com/projects/oilslick/)
 - [Ask HN: What books are recommended to learn re semiconductors industry?](https://news.ycombinator.com/item?id=30398930)
 - [Jujutsu – A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 - [“The Wall” Housing Structure In Fermont, Quebec](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
-- [Tell HN: I got 10x Hetzner storage at the same price](https://news.ycombinator.com/item?id=30398534)
-- [Legion Health &lpar;YC S21&rpar; Is Hiring a Founding Engineer – Austin, TX](https://news.ycombinator.com/item?id=30398529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
