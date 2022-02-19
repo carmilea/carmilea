@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps ToS can be summarised as: Don&#39;t use it](https://twitter.com/pmzakrzewski/status/1494967388428804103)
 - [C meeting is over. C23 added the follow:](https://twitter.com/__phantomderp/status/1494884135688626180)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://www.raycast.com/careers)
 - [OpenVi: Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
 - [Thoughts on Intel software-defined silicon](https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/)
-- [Safari now supports File System Access API with private origin](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
