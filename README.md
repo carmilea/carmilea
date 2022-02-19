@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jujutsu – A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
+- [A city inside a 50m high, 1.3km long wall](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
+- [Tell HN: I got 10x Hetzner storage at the same price](https://news.ycombinator.com/item?id=30398534)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Founding Engineer – Austin, TX](https://news.ycombinator.com/item?id=30398529)
 - [Pyrite – open-source video conferencing](https://garage44.org/posts/pyrite/pyrite-conferencing.html)
-- [Ask HN: How to stop thinking about work and software engineering on the weekend?](https://news.ycombinator.com/item?id=30398085)
-- [The wine tasting event: Distinguishing reds from whites &lpar;2014&rpar;](http://www.morssglobalfinance.com/the-ultimate-wine-tasting-event-distinguishing-reds-from-whites/)
-- [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
