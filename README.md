@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you find working on large distributed systems exhausting?](https://news.ycombinator.com/item?id=30396454)
 - [Help HN: Can&#39;t Open Childhood Files](https://news.ycombinator.com/item?id=30396042)
-- [‘Zero-Click’ Hacks Are Growing in Popularity – no way to stop them](https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity)
+- [‘Zero-Click’ Hacks Are Growing in Popularity](https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity)
 - [Google Maps ToS can be summarised as: Don&#39;t use it](https://twitter.com/pmzakrzewski/status/1494967388428804103)
 - [Show HN: Sioyek – PDF viewer for reading research papers and textbooks](https://github.com/ahrm/sioyek)
-- [BBC Betsie: Perl program to create an automatic text-only website version &lpar;1999&rpar;](https://web.archive.org/web/20001110064800/http://www.bbc.co.uk/education/betsie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
