@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Safari now supports File System Access API with private origin](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/)
+- [Upper limits on partial Dyson spheres in the Milky Way](https://arxiv.org/abs/2201.11123)
+- [Australian state sets minimum pay for Amazon contractors in landmark step](https://www.reuters.com/business/retail-consumer/australian-state-sets-minimum-pay-amazon-contractors-landmark-step-2022-02-18/)
+- [Toy Traceroute with Ping](https://susam.net/maze/toy-traceroute-with-ping.html)
 - [Startup tooling: our product management, sales, and marketing stack](https://rosslazer.com/posts/startup-tooling/)
-- [Sweating the small stuff: Smartwatch developed at UCLA measures stress hormone](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch)
-- [WebRTC support is being added to OBS](https://github.com/obsproject/obs-studio/discussions/4021)
-- [Cuffed – A dating app with only one match at a time](https://www.cuffedapp.com)
-- [What’s the Appeal of Deep Voices in Men?](https://www.sapiens.org/biology/deep-voice-men-attractive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
