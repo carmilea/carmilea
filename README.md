@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+- [A Saudi woman&#39;s iPhone revealed hacking around the world](https://www.reuters.com/technology/how-saudi-womans-iphone-revealed-hacking-around-world-2022-02-17/)
 - [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
-- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://pythonspeed.com/articles/numba-faster-python/)
+- [Faster Python calculations with Numba](https://pythonspeed.com/articles/numba-faster-python/)
 - [Grist – Open core alternative to Airtable and Google Sheets](https://github.com/gristlabs/grist-core)
-- [5nm is only a marketing term and has no relation to any actual phyiscal feature](https://twitter.com/HPC_Guru/status/1494713701672255488)
-- [Decoding the Tavistock letter: Dickens and ‘Victorian media management’](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
