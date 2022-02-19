@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Wine Tasting Event: Distinguishing Reds from Whites &lpar;2014&rpar;](http://www.morssglobalfinance.com/the-ultimate-wine-tasting-event-distinguishing-reds-from-whites/)
+- [Legion Health &lpar;YC S21&rpar; Is Hiring a Founding Engineer – Austin, TX](https://news.ycombinator.com/item?id=30398529)
+- [Pyrite – open-source video conferencing](https://garage44.org/posts/pyrite/pyrite-conferencing.html)
+- [Ask HN: How to stop thinking about work and software engineering on the weekend?](https://news.ycombinator.com/item?id=30398085)
+- [The wine tasting event: Distinguishing reds from whites &lpar;2014&rpar;](http://www.morssglobalfinance.com/the-ultimate-wine-tasting-event-distinguishing-reds-from-whites/)
 - [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/)
-- [The Theory of Gut Bacteria Value](https://www.atvbt.com/gbv/)
-- [How to write better scientific code in Python?](https://zerowithdot.com/improve-data-science-code/)
-- [ZX Spectrum at 40: a look back](https://www.nme.com/features/gaming-features/zx-spectrum-at-40-a-look-back-3162913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
