@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is there no small Android phone?](https://news.ycombinator.com/item?id=30405011)
+- [The Triumph and Tragedy of .env Files](https://blog.doppler.com/the-triumph-and-tragedy-of-env-files)
+- [List of free cybersecurity services and tools from US CISA](https://www.cisa.gov/free-cybersecurity-services-and-tools)
 - [A man who lived in a Singapore forest for 30 years](https://www.bbc.com/news/world-asia-60284352)
-- [Fengari – Lua for the Browser](https://fengari.io/)
-- [Compromising Angular via expired NPM publisher email domains](https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/)
-- [Server-Sent Events, WebSockets, and HTTP](https://www.mnot.net/blog/2022/02/20/websockets)
-- [Anime Photography in the Cel Era &lpar;2020&rpar;](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography)
+- [Google Drive users stung by macOS &#39;.DS_Store&#39; copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
