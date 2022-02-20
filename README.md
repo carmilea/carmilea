@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking my Lenovo laptop, part 1 &lpar;2016&rpar;](https://zmatt.net/unlocking-my-lenovo-laptop-part-1/)
 - [Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India](https://podcasts.apple.com/us/podcast/14-vijayanagara-the-last-emperors-of-south-india/id1449884495?i=1000551515692)
 - [Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes](http://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html)
 - [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 - [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo)
-- [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
