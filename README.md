@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
+- [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo)
+- [Why Babies Cry in the First Three Months](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
+- [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
+- [Tell HN: YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
 - [Machine Learning Algorithms Cheat Sheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)
-- [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
-- [Going IPv6 Only](https://blog.brixit.nl/going-ipv6-only/)
-- [Linux&#39;s GPLv2 licence is routinely violated &lpar;2015&rpar;](https://www.devever.net/~hl/linuxgpl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
