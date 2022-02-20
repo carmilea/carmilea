@@ -42,7 +42,7 @@
 - [SingleStore Product Launch Announcement: Fall 2021](https://www.youtube.com/watch?v=8wpVzcytLY4)
 - [Databases and DevOps w/ Rizel Scarlett &lpar;GitHub&rpar;](https://www.youtube.com/watch?v=dSeMOp5lXos)
 - [Data Intensity with Oliver Schabenberger](https://www.youtube.com/watch?v=d2FQpiFrnBY)
-- [MySQL to SingleStore demo](https://www.youtube.com/watch?v=MypQY_rDb2g)
+- [How to Migrate MySQL to SingleStore](https://www.youtube.com/watch?v=MypQY_rDb2g)
 <!-- YOUTUBE:END -->
 
 
