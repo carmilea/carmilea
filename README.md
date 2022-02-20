@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sven Guckes Has Died](https://twitter.com/danielefrijia/status/1495522225218330624)
+- [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
 - [Ask HN: How does TurboTax get away with dark patterns?](https://news.ycombinator.com/item?id=30409523)
+- [Node.js Notebooks](https://github.com/DonJayamanne/typescript-notebook)
 - [Drastic DS Emulator Pulled from Google Play Store](https://play.google.com/store/apps/details?id=com.dsemu.drastic&hl=en&gl=US)
-- [Seis &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/seis/jobs/mkheAai-customer-support-lead-remote)
-- [x86 Is an Octal Machine](https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da)
-- [Neural nets are not “slightly conscious,” and AI PR can do with less hype](https://lastweekin.ai/p/conscious-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
