@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Nottingham: Server-Sent Events, WebSockets, and HTTP](https://www.mnot.net/blog/2022/02/20/websockets)
+- [Server-Sent Events, WebSockets, and HTTP](https://www.mnot.net/blog/2022/02/20/websockets)
 - [Anime Photography in the Cel Era](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography)
 - [Heline – Code search for modern developer](https://heline.dev/)
 - [Open Problems in Artificial Life &lpar;2000&rpar; [pdf]](https://authors.library.caltech.edu/13564/1/BEDal00.pdf)
