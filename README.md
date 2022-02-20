@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Staggering Ecological Impacts of Computation and the Cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/)
-- [Newcomer&#39;s Welcome Package: Thule Air Base, Greenland [pdf]](https://download.militaryonesource.mil/12038/Plan%20My%20Move/Thule%20Information.pdf)
-- [Penpot: Open-source design and prototyping platform](https://github.com/penpot/penpot)
-- [Improving DuckDuckGo &lpar;2019&rpar;](https://help.duckduckgo.com/privacy/atb/)
-- [Scholars once feared that the book index would destroy reading](https://lithub.com/how-scholars-once-feared-that-the-book-index-would-destroy-reading/)
+- [Microsoft YARP](https://github.com/microsoft/reverse-proxy)
+- [Gaining Bitwisdom from Keyboard Shortcuts](https://mikerourke.dev/blog/bitwisdom-keyboard-shortcuts/)
+- [Show HN: Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/)
+- [Nintendo Page Boy &lpar;2021&rpar;](https://www.nintendoenthusiast.com/nintendo-page-boy-revealed-lost-game-boy-color-add-on-wireless/)
+- [Show HN: Newser, utility written in go to generate a pdf with news content](https://news.ycombinator.com/item?id=30408276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
