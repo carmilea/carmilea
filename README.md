@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Credit Suisse leak unmasks criminals, fraudsters, corrupt politicians](https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians)
 - [Skio &lpar;YC S20&rpar; is hiring founding engineers in NYC](https://skio.com/careers/)
+- [Grocery delivery “dark stores” in Amsterdam](https://arstechnica.com/tech-policy/2022/02/grocery-delivery-dark-stores-in-amsterdam-have-residents-hopping-mad/)
 - [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
-- [A Pentester Gets Root - Step by Step Example](https://kaizoku.dev/htb-devoops)
-- [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
-- [MISP – open-source threat intelligence and sharing platform](https://www.misp-project.org/)
+- [A pentester gets root - step by step example](https://kaizoku.dev/htb-devoops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
