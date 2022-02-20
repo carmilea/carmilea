@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India](https://podcasts.apple.com/us/podcast/14-vijayanagara-the-last-emperors-of-south-india/id1449884495?i=1000551515692)
 - [Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes](http://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html)
 - [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 - [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo)
-- [Why babies cry in the first three months, how to tell them apart, and what to do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
 - [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
 <!-- BLOG-POST-LIST:END -->
 
