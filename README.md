@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoidance of sun exposure is a risk factor for death similar to smoking](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12496)
+- [‘Space Cleaner’ Satellite Spotted Grabbing and Throwing Away Old Satellite](https://science.thewire.in/spaceflight/chinese-sj-21-satellite-spotted-grabbing-throwing-away-old-satellite/)
+- [A Pentester Gets Root - Step by Step Example](https://kaizoku.dev/htb-devoops)
+- [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
+- [Avoidance of sun exposure as a risk factor for major causes of death &lpar;2016&rpar;](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12496)
 - [Oldest buildings in UAE discovered, dating back 8,500 years](https://www.cnn.com/travel/article/uae-buildings-archaeology-scli-scn-intl/index.html)
-- [Ten richest men have six times more wealth than the poorest 3.1B people](https://www.oxfam.org/en/press-releases/ten-richest-men-double-their-fortunes-pandemic-while-incomes-99-percent-humanity)
-- [Ask HN: How to find the email distribution list that promoted my site recently?](https://news.ycombinator.com/item?id=30405213)
-- [Ask HN: Let&#39;s build Checkstyle for Bash?](https://news.ycombinator.com/item?id=30405177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
