@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; is hiring founding engineers in NYC](https://skio.com/careers/)
 - [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
-- [‘Space Cleaner’ Satellite Spotted Grabbing and Throwing Away Old Satellite](https://science.thewire.in/spaceflight/chinese-sj-21-satellite-spotted-grabbing-throwing-away-old-satellite/)
 - [A Pentester Gets Root - Step by Step Example](https://kaizoku.dev/htb-devoops)
 - [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
 - [MISP – open-source threat intelligence and sharing platform](https://www.misp-project.org/)
