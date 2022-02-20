@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seis &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/seis/jobs/mkheAai-customer-support-lead-remote)
+- [x86 Is an Octal Machine](https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da)
+- [Neural nets are not “slightly conscious,” and AI PR can do with less hype](https://lastweekin.ai/p/conscious-ai)
 - [Microsoft YARP](https://github.com/microsoft/reverse-proxy)
-- [Gaining Bitwisdom from Keyboard Shortcuts](https://mikerourke.dev/blog/bitwisdom-keyboard-shortcuts/)
 - [Show HN: Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/)
-- [Nintendo Page Boy &lpar;2021&rpar;](https://www.nintendoenthusiast.com/nintendo-page-boy-revealed-lost-game-boy-color-add-on-wireless/)
-- [Show HN: Newser, utility written in go to generate a pdf with news content](https://news.ycombinator.com/item?id=30408276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
