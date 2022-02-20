@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit Suisse leak unmasks criminals, fraudsters, corrupt politicians](https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians)
-- [Skio &lpar;YC S20&rpar; is hiring founding engineers in NYC](https://skio.com/careers/)
-- [Grocery delivery “dark stores” in Amsterdam](https://arstechnica.com/tech-policy/2022/02/grocery-delivery-dark-stores-in-amsterdam-have-residents-hopping-mad/)
-- [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
-- [A pentester gets root - step by step example](https://kaizoku.dev/htb-devoops)
+- [The Staggering Ecological Impacts of Computation and the Cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/)
+- [Newcomer&#39;s Welcome Package: Thule Air Base, Greenland [pdf]](https://download.militaryonesource.mil/12038/Plan%20My%20Move/Thule%20Information.pdf)
+- [Penpot: Open-source design and prototyping platform](https://github.com/penpot/penpot)
+- [Improving DuckDuckGo &lpar;2019&rpar;](https://help.duckduckgo.com/privacy/atb/)
+- [Scholars once feared that the book index would destroy reading](https://lithub.com/how-scholars-once-feared-that-the-book-index-would-destroy-reading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
