@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes](http://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html)
+- [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 - [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo)
-- [Why Babies Cry in the First Three Months](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
+- [Why babies cry in the first three months, how to tell them apart, and what to do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
 - [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
-- [Tell HN: YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
-- [Machine Learning Algorithms Cheat Sheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
