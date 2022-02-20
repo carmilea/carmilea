@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Let&#39;s build Checkstyle for Bash?](https://news.ycombinator.com/item?id=30405177)
 - [Ask HN: Why is there no small Android phone?](https://news.ycombinator.com/item?id=30405011)
-- [The Triumph and Tragedy of .env Files](https://blog.doppler.com/the-triumph-and-tragedy-of-env-files)
 - [List of free cybersecurity services and tools from US CISA](https://www.cisa.gov/free-cybersecurity-services-and-tools)
 - [A man who lived in a Singapore forest for 30 years](https://www.bbc.com/news/world-asia-60284352)
 - [Google Drive users stung by macOS &#39;.DS_Store&#39; copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue)
