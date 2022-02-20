@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 - [‘Space Cleaner’ Satellite Spotted Grabbing and Throwing Away Old Satellite](https://science.thewire.in/spaceflight/chinese-sj-21-satellite-spotted-grabbing-throwing-away-old-satellite/)
 - [A Pentester Gets Root - Step by Step Example](https://kaizoku.dev/htb-devoops)
 - [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
-- [Avoidance of sun exposure as a risk factor for major causes of death &lpar;2016&rpar;](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12496)
-- [Oldest buildings in UAE discovered, dating back 8,500 years](https://www.cnn.com/travel/article/uae-buildings-archaeology-scli-scn-intl/index.html)
+- [MISP – open-source threat intelligence and sharing platform](https://www.misp-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
