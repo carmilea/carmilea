@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A man who lived in a Singapore forest for 30 years](https://www.bbc.com/news/world-asia-60284352)
 - [Fengari – Lua for the Browser](https://fengari.io/)
 - [Compromising Angular via expired NPM publisher email domains](https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/)
 - [Server-Sent Events, WebSockets, and HTTP](https://www.mnot.net/blog/2022/02/20/websockets)
-- [Anime Photography in the Cel Era](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography)
-- [Heline – Code search for modern developer](https://heline.dev/)
+- [Anime Photography in the Cel Era &lpar;2020&rpar;](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
