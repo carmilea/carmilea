@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fengari – Lua for the Browser](https://fengari.io/)
 - [Compromising Angular via expired NPM publisher email domains](https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/)
 - [Server-Sent Events, WebSockets, and HTTP](https://www.mnot.net/blog/2022/02/20/websockets)
 - [Anime Photography in the Cel Era](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography)
 - [Heline – Code search for modern developer](https://heline.dev/)
-- [Unlocking my Lenovo laptop, part 1 &lpar;2016&rpar;](https://zmatt.net/unlocking-my-lenovo-laptop-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
