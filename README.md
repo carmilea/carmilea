@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The JDK Flight Recorder File Format](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
 - [Algolia is hiring full-stack engineers to help us research a new kind of search](https://www.algolia.com/careers/amer-senior-software-engineer-search-ranking-united-states)
 - [Atlassian Co-Founder Wants to Buy Australia’s Biggest Polluter to Make It Green](https://www.wsj.com/articles/atlassian-co-founder-wants-to-buy-australias-biggest-polluter-to-make-it-greener-11645427453)
 - [The new FreeDOS 1.3 is now available for download](https://sourceforge.net/p/freedos/news/2022/02/freedos-13/)
 - [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)
-- [Kubernetes Documentary: A Critical Review](https://www.cloudcritical.org/article/kubernetes-documentary-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
