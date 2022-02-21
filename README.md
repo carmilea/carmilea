@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: When did computers get &#39;fast enough&#39; for you?](https://news.ycombinator.com/item?id=30418445)
 - [The history &lpar;sort of&rpar; of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
-- [Dendron &lpar;YC W21&rpar; Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [Apple’s Mistake](http://www.paulgraham.com/apple.html)
-- [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
-- [Lattner: Swift Core Team toxic and departure](https://forums.swift.org/t/core-team-to-form-language-workgroup/55455)
+- [Dendron &lpar;YC W21&rpar; is hiring a React/TS expert to build better tools for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- [Apple’s Mistake &lpar;2009&rpar;](http://www.paulgraham.com/apple.html)
+- [What are the most important statistical ideas of the past 50 years?](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081)
 <!-- BLOG-POST-LIST:END -->
 
 ---
