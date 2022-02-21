@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frank Lloyd Wright and the “textile block” construction system &lpar;1992&rpar;](https://www.domusweb.it/en/from-the-archive/2022/02/08/frank-lloyd-wright-and-the-textile-block-construction-system.html)
+- [Vim 9 will be dedicated to Sven Guckes](https://groups.google.com/g/vim_announce/c/MJBKVd-xrEE/m/joVNaDgAAgAJ)
+- [Show HN: Prisma Python – A fully typed ORM for Python](https://github.com/RobertCraigie/prisma-client-py)
 - [Google could have updated the Pixel 3 until Android 13, it just didn&#39;t want to](https://www.androidpolice.com/the-pixel-3-deserves-longer-updates/)
-- [Intel Unveils BonanzaMine, a Bitcoin Accelerator ASIC – WikiChip Fuse](https://fuse.wikichip.org/news/6603/intel-unveils-bonanzamine-a-bitcoin-accelerator-asic/)
 - [Symplectic Geometry in 2D – Points, Lines, Circles](https://www.researchgate.net/publication/358747081_Symplectic_Geometry_in_2D_-_Points_Lines_Circles)
-- [Ask HN: How to track flying objects?](https://news.ycombinator.com/item?id=30415599)
-- [The JDK Flight Recorder File Format](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
