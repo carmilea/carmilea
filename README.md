@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
+- [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
+- [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
+- [Imagine if a lemon law penalized schools for rotten educations](https://www.washingtonpost.com/opinions/2022/02/14/lemon-law-for-rotten-college-educations/)
 - [About adding a static route to my DOCSIS modem](https://blog.danman.eu/about-adding-a-static-route-to-my-docsis-modem/)
-- [Sven Guckes Has Died](https://twitter.com/danielefrijia/status/1495522225218330624)
-- [Lit-Up Fishing Nets Dramatically Reduce Catch of Unwanted Sharks, Rays and Squid](https://www.smithsonianmag.com/smart-news/lighted-fishing-nets-dramatically-reduce-shark-ray-and-squid-bycatch-180979597/)
-- [When programming books are wrong](https://www.programmingbooks.dev)
-- [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
