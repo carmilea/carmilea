@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frank Lloyd Wright and the “textile block” construction system &lpar;1992&rpar;](https://www.domusweb.it/en/from-the-archive/2022/02/08/frank-lloyd-wright-and-the-textile-block-construction-system.html)
-- [Vim 9 will be dedicated to Sven Guckes](https://groups.google.com/g/vim_announce/c/MJBKVd-xrEE/m/joVNaDgAAgAJ)
-- [Show HN: Prisma Python – A fully typed ORM for Python](https://github.com/RobertCraigie/prisma-client-py)
-- [Google could have updated the Pixel 3 until Android 13, it just didn&#39;t want to](https://www.androidpolice.com/the-pixel-3-deserves-longer-updates/)
-- [Symplectic Geometry in 2D – Points, Lines, Circles](https://www.researchgate.net/publication/358747081_Symplectic_Geometry_in_2D_-_Points_Lines_Circles)
+- [The history &lpar;sort of&rpar; of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
+- [Dendron &lpar;YC W21&rpar; Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- [Apple’s Mistake](http://www.paulgraham.com/apple.html)
+- [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
+- [Lattner: Swift Core Team toxic and departure](https://forums.swift.org/t/core-team-to-form-language-workgroup/55455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
