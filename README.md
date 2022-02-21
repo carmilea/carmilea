@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans Will Need to Register to Travel to Europe in 2023](https://www.forbes.com/sites/suzannerowankelleher/2022/02/18/americans-will-need-to-register-to-travel-to-europe-in-2023/)
 - [Ask HN: How do I develop skills to comfort people and offer compassion?](https://news.ycombinator.com/item?id=30412165)
 - [95%-ile isn&#39;t that good &lpar;2020&rpar;](https://danluu.com/p95-skill/)
 - [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
-- [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
 - [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
 <!-- BLOG-POST-LIST:END -->
 
