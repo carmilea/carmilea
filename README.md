@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Virological characteristics of SARS-CoV-2 BA2 variant: more pathogenic than BA1](https://www.biorxiv.org/content/10.1101/2022.02.14.480335v1)
+- [95%-ile isn&#39;t that good &lpar;2020&rpar;](https://danluu.com/p95-skill/)
 - [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
 - [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
 - [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
-- [Imagine if a lemon law penalized schools for rotten educations](https://www.washingtonpost.com/opinions/2022/02/14/lemon-law-for-rotten-college-educations/)
-- [About adding a static route to my DOCSIS modem](https://blog.danman.eu/about-adding-a-static-route-to-my-docsis-modem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
