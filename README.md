@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Algolia is hiring full-stack engineers to help us research a new kind of search](https://www.algolia.com/careers/amer-senior-software-engineer-search-ranking-united-states)
+- [Atlassian Co-Founder Wants to Buy Australia’s Biggest Polluter to Make It Green](https://www.wsj.com/articles/atlassian-co-founder-wants-to-buy-australias-biggest-polluter-to-make-it-greener-11645427453)
 - [The new FreeDOS 1.3 is now available for download](https://sourceforge.net/p/freedos/news/2022/02/freedos-13/)
-- [Ask HN: What was better in the golden age of tech &lpar;a.k.a. the grumpy thread&rpar;](https://news.ycombinator.com/item?id=30413629)
+- [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)
 - [Kubernetes Documentary: A Critical Review](https://www.cloudcritical.org/article/kubernetes-documentary-part-1/)
-- [Tell HN: Airbnb just stole me 5 minutes of my time adding dices](https://news.ycombinator.com/item?id=30413228)
-- [Nacirema](https://en.wikipedia.org/wiki/Nacirema)
 <!-- BLOG-POST-LIST:END -->
 
 ---
