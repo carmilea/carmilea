@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Airbnb just stole me 5 minutes of my time adding dices](https://news.ycombinator.com/item?id=30413228)
+- [A Vicious Cycle: The Dangerous Dehumanisation of Cyclists](https://lens.monash.edu/@technology/2019/03/27/1374089/dangerous-dehumanisation-of-cyclists)
 - [Piepacker &lpar;YC S20&rpar; Is Hiring Full Stack Developers &lpar;Europe / Remote&rpar;](https://jobs.lever.co/piepacker/5aab1f1c-cc2d-4762-93d3-cf2a6c96cff0)
 - [I wrote the least-C C program I could](https://briancallahan.net/blog/20220220.html)
-- [Ask HN: How do I develop skills to comfort people and offer compassion?](https://news.ycombinator.com/item?id=30412165)
-- [Help I can&#39;t become a digital nomad, I have too much stuff](https://fireshouter.substack.com/p/help-i-cant-become-a-digital-nomad)
-- [95%-ile isn&#39;t that good &lpar;2020&rpar;](https://danluu.com/p95-skill/)
+- [Automerge: A JSON-like data structure &lpar;a CRDT&rpar; that can be modified concurrently](https://github.com/automerge/automerge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
