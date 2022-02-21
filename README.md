@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The JDK Flight Recorder File Format](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
+- [Marxism vs. Liberalism: An Interview Between J.V. Stalin and H.G. Wells &lpar;1934&rpar;](https://www.marxists.org/reference/archive/stalin/works/1934/07/23.htm)
+- [Show HN: A new daily word puzzle](https://twentyletters.com)
+- [Show HN: I made a Line graph maker](https://linegraphmaker.co/)
 - [Algolia is hiring full-stack engineers to help us research a new kind of search](https://www.algolia.com/careers/amer-senior-software-engineer-search-ranking-united-states)
-- [Atlassian Co-Founder Wants to Buy Australia’s Biggest Polluter to Make It Green](https://www.wsj.com/articles/atlassian-co-founder-wants-to-buy-australias-biggest-polluter-to-make-it-greener-11645427453)
-- [The new FreeDOS 1.3 is now available for download](https://sourceforge.net/p/freedos/news/2022/02/freedos-13/)
-- [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)
 <!-- BLOG-POST-LIST:END -->
 
 ---
