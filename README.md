@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: When did computers get &#39;fast enough&#39; for you?](https://news.ycombinator.com/item?id=30418445)
+- [Apple retail employees organize a union using Android phones to prevent spying](https://futurism.com/the-byte/apple-union-android)
+- [An elaborate con that tricked dozens into working for a fake design agency](https://www.bbc.com/news/uk-60387324)
+- [Famous Laws of Software Development &lpar;2017&rpar;](https://www.timsommer.be/famous-laws-of-software-development/)
 - [The history &lpar;sort of&rpar; of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
 - [Dendron &lpar;YC W21&rpar; is hiring a React/TS expert to build better tools for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [Apple’s Mistake &lpar;2009&rpar;](http://www.paulgraham.com/apple.html)
-- [What are the most important statistical ideas of the past 50 years?](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081)
 <!-- BLOG-POST-LIST:END -->
 
 ---
