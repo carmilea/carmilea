@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Piepacker &lpar;YC S20&rpar; Is Hiring Full Stack Developers &lpar;Europe / Remote&rpar;](https://jobs.lever.co/piepacker/5aab1f1c-cc2d-4762-93d3-cf2a6c96cff0)
 - [I wrote the least-C C program I could](https://briancallahan.net/blog/20220220.html)
-- [Americans Will Need to Register to Travel to Europe in 2023](https://www.forbes.com/sites/suzannerowankelleher/2022/02/18/americans-will-need-to-register-to-travel-to-europe-in-2023/)
 - [Ask HN: How do I develop skills to comfort people and offer compassion?](https://news.ycombinator.com/item?id=30412165)
+- [Help I can&#39;t become a digital nomad, I have too much stuff](https://fireshouter.substack.com/p/help-i-cant-become-a-digital-nomad)
 - [95%-ile isn&#39;t that good &lpar;2020&rpar;](https://danluu.com/p95-skill/)
 <!-- BLOG-POST-LIST:END -->
 
