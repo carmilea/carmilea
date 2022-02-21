@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google could have updated the Pixel 3 until Android 13, it just didn&#39;t want to](https://www.androidpolice.com/the-pixel-3-deserves-longer-updates/)
+- [Intel Unveils BonanzaMine, a Bitcoin Accelerator ASIC – WikiChip Fuse](https://fuse.wikichip.org/news/6603/intel-unveils-bonanzamine-a-bitcoin-accelerator-asic/)
+- [Symplectic Geometry in 2D – Points, Lines, Circles](https://www.researchgate.net/publication/358747081_Symplectic_Geometry_in_2D_-_Points_Lines_Circles)
+- [Ask HN: How to track flying objects?](https://news.ycombinator.com/item?id=30415599)
 - [The JDK Flight Recorder File Format](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
-- [Marxism vs. Liberalism: An Interview Between J.V. Stalin and H.G. Wells &lpar;1934&rpar;](https://www.marxists.org/reference/archive/stalin/works/1934/07/23.htm)
-- [Show HN: A new daily word puzzle](https://twentyletters.com)
-- [Show HN: I made a Line graph maker](https://linegraphmaker.co/)
-- [Algolia is hiring full-stack engineers to help us research a new kind of search](https://www.algolia.com/careers/amer-senior-software-engineer-search-ranking-united-states)
 <!-- BLOG-POST-LIST:END -->
 
 ---
