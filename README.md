@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Putin orders Russian peacekeepers to eastern Ukraine&#39;s two breakaway regions](https://www.reuters.com/world/europe/putin-orders-russian-peacekeepers-eastern-ukraines-two-breakaway-regions-2022-02-21/)
+- [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://web.archive.org/web/20161220100428/http://weforum.org/agenda/2016/11/shopping-i-can-t-really-remember-what-that-is/)
+- [Data Races in Python, Despite the Global Interpreter Lock](https://verdagon.dev/blog/python-data-races)
 - [Rescale &lpar;YC W12&rpar; Is Hiring HPC Engineers](https://jobs.lever.co/rescale/21a1d1ee-ab7b-4b43-9d05-d44bb1a1f3ac?lever-origin=applied&lever-source%5B%5D=hacker-news)
-- [Camp that imprisoned 7000 Japanese Americans could become National Historic Site](https://www.axios.com/japanese-american-incarceration-amache-818b557c-30a1-478b-972d-b7703e010944.html)
-- [A PM&#39;s guide to communicate effectively with software engineers](https://www.mindtheproduct.com/effective-communication-with-software-engineers/)
-- [New Study Disavows Marshmallow Test’s Predictive Powers](https://anderson-review.ucla.edu/new-study-disavows-marshmallow-tests-predictive-powers/)
-- [Criterion: A cross-platform C and C++ unit testing framework](https://github.com/Snaipe/Criterion)
+- [A “hot Jupiter&#39;s” dark side is revealed in detail for first time](https://news.mit.edu/2022/hot-jupiter-dark-side-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
