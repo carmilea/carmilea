@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperloop lays off half of its employees as it pivots away from passenger travel](https://www.businessinsider.com/virgin-hyperloop-layoffs-passenger-travel-cargo-transport-2022-2)
-- [Valencia&#39;s irrigation system is now a model for sustainable farming](https://www.bbc.com/travel/article/20220220-valencias-la-huerta-spains-ingenious-water-maze)
-- [An elaborate con that tricked dozens into working for a fake design agency](https://www.bbc.com/news/uk-60387324)
-- [The history &lpar;sort of&rpar; of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
-- [Dendron &lpar;YC W21&rpar; is hiring a React/TS expert to build better tools for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- [Rescale &lpar;YC W12&rpar; Is Hiring HPC Engineers](https://jobs.lever.co/rescale/21a1d1ee-ab7b-4b43-9d05-d44bb1a1f3ac?lever-origin=applied&lever-source%5B%5D=hacker-news)
+- [Camp that imprisoned 7000 Japanese Americans could become National Historic Site](https://www.axios.com/japanese-american-incarceration-amache-818b557c-30a1-478b-972d-b7703e010944.html)
+- [A PM&#39;s guide to communicate effectively with software engineers](https://www.mindtheproduct.com/effective-communication-with-software-engineers/)
+- [New Study Disavows Marshmallow Test’s Predictive Powers](https://anderson-review.ucla.edu/new-study-disavows-marshmallow-tests-predictive-powers/)
+- [Criterion: A cross-platform C and C++ unit testing framework](https://github.com/Snaipe/Criterion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
