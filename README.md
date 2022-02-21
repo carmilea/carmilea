@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple retail employees organize a union using Android phones to prevent spying](https://futurism.com/the-byte/apple-union-android)
+- [Hyperloop lays off half of its employees as it pivots away from passenger travel](https://www.businessinsider.com/virgin-hyperloop-layoffs-passenger-travel-cargo-transport-2022-2)
+- [Valencia&#39;s irrigation system is now a model for sustainable farming](https://www.bbc.com/travel/article/20220220-valencias-la-huerta-spains-ingenious-water-maze)
 - [An elaborate con that tricked dozens into working for a fake design agency](https://www.bbc.com/news/uk-60387324)
-- [Famous Laws of Software Development &lpar;2017&rpar;](https://www.timsommer.be/famous-laws-of-software-development/)
 - [The history &lpar;sort of&rpar; of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
 - [Dendron &lpar;YC W21&rpar; is hiring a React/TS expert to build better tools for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
 <!-- BLOG-POST-LIST:END -->
