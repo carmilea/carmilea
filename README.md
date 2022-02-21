@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About adding a static route to my DOCSIS modem](https://blog.danman.eu/about-adding-a-static-route-to-my-docsis-modem/)
 - [Sven Guckes Has Died](https://twitter.com/danielefrijia/status/1495522225218330624)
+- [Lit-Up Fishing Nets Dramatically Reduce Catch of Unwanted Sharks, Rays and Squid](https://www.smithsonianmag.com/smart-news/lighted-fishing-nets-dramatically-reduce-shark-ray-and-squid-bycatch-180979597/)
+- [When programming books are wrong](https://www.programmingbooks.dev)
 - [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
-- [Ask HN: How does TurboTax get away with dark patterns?](https://news.ycombinator.com/item?id=30409523)
-- [Node.js Notebooks](https://github.com/DonJayamanne/typescript-notebook)
-- [Drastic DS Emulator Pulled from Google Play Store](https://play.google.com/store/apps/details?id=com.dsemu.drastic&hl=en&gl=US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
