@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Streaming a Macintosh Plus](https://jcs.org/2022/02/21/macplus_streaming)
+- [Top Performers Have a Superpower: Happiness](https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/)
 - [Try Clojure – An interactive tutorial in the browser](http://tryclojure.org)
 - [What identifying talent looks like in practice](https://danluu.com/talent/)
 - [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
-- [The Price of Nails Since 1695](https://www.nber.org/papers/w29617)
-- [I have no capslock and I must scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
