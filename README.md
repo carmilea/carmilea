@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There shall be no data but “the data” [covid]](https://boriquagato.substack.com/p/there-shall-be-no-data-but-the-data/comments)
+- [How I Built LoginWithHN](https://vadosware.io/post/how-i-built-lwhn/)
 - [Germany pulls plug on Nord Stream 2 pipeline](https://www.politico.eu/article/germany-to-stop-nord-stream-2/)
 - [Centaur Labs &lpar;YC W19&rpar; Is Hiring a Product Designer](https://www.centaurlabs.com/open-positions?gh_jid=4335368004)
-- [What I learned running a SaaS for a year](https://onlineornot.com/what-learned-running-saas-for-year)
-- [Why Flutter is the most popular cross-platform mobile SDK](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
-- [Magpies have outwitted scientists by helping each other remove tracking devices](https://www.abc.net.au/news/2022-02-22/magpies-show-cooperative-behaviour-by-removing-tracking-device/100851458)
+- [The most complete free product design course by UX Database](https://www.uxdatabase.io/free-product-design-course)
 <!-- BLOG-POST-LIST:END -->
 
 ---
