@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can we ban Twitter links, please?](https://news.ycombinator.com/item?id=30425409)
+- [Functional Turing Machine in Notepad++&#39;s Find/Replace](https://github.com/0xdanelia/regex_turing_machine)
+- [Show HN: Annotate PDFs in Markdown](https://keypoints.app/)
 - [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Time Series Forecasting in SQL](https://aicoding.substack.com/p/mindsdb-time-series)
-- [Live Streaming a Macintosh Plus](https://jcs.org/2022/02/21/macplus_streaming)
-- [Top Performers Have a Superpower: Happiness](https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/)
-- [Try Clojure – An interactive tutorial in the browser](http://tryclojure.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
