@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malawi finds Africa’s first wild polio case in five years](https://www.bbc.com/news/world-africa-60429726)
 - [Basis &lpar;YC S21&rpar; is hiring first dev/designer to build Figma for data](https://www.workatastartup.com/jobs/49520)
-- [Podman 4.0.0](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
+- [Podman 4.0](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
+- [I wrote a program that sends cats to my phone when I&#39;m sad at the computer](https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat)
 - [Show HN: I made a tool to create the best product tutorials](https://textframe.app)
-- [Launch HN: Hyperbeam API &lpar;YC W22&rpar; – Multiplayer embeds of any website](https://news.ycombinator.com/item?id=30433104)
-- [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/ml-too-hard-for-software-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
