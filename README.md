@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Mappable – raw text to API in 30min](https://mappable.ai/)
 - [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
-- [Das.Test – An opinionated unit testing library written in F# for F#](https://github.com/sumeetdas/DasTest)
 - [Industrial Augmented Reality – Who&#39;s Using It?](https://aircada.com/industrial-augmented-reality-who-is-actually-using-it/)
 - [The Price of Nails Since 1695: A Window into Economic Change](https://www.nber.org/papers/w29617)
 - [I have no capslock and I must scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
