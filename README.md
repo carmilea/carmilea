@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IRS: Selfies Now Optional, Biometric Data to Be Deleted](https://krebsonsecurity.com/2022/02/irs-selfies-now-optional-biometric-data-to-be-deleted/)
-- [IRS to adopt Login.gov as user authentication tool](https://www.fedscoop.com/irs-to-adopt-login-gov-as-user-authentication-tool/)
-- [C++ exceptions are becoming more and more problematic](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html)
-- [Show HN: The Brutalist Report – A rolling snapshot of the day’s headlines](https://brutalist.report)
-- [Fractals: An Eclectic Survey, Part-1 [pdf]](https://mdpi-res.com/d_attachment/fractalfract/fractalfract-06-00089/article_deploy/fractalfract-06-00089-v2.pdf)
+- [Parallels Desktop Pro now sends spam notifications with ads to your desktop](https://old.reddit.com/r/MacOS/comments/syjhix/parallels_desktop_pro_now_sends_spam/)
+- [Convoy Crackdown – power to freeze bank accounts without trial or legal recourse](https://thezvi.substack.com/p/convoy-crackdown)
+- [Neuroscientists have recorded the activity of a dying human brain](https://blog.frontiersin.org/2022/02/22/what-happens-in-our-brain-when-we-die/)
+- [Host Firewalls](https://computer.rip/2020-05-16-host-firewalls.html)
+- [Show HN: Keep your bookmarks clean and up-to-date](https://github.com/samueldobbie/remarkable-extension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
