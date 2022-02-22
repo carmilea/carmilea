@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
+- [Time Series Forecasting in SQL](https://aicoding.substack.com/p/mindsdb-time-series)
 - [Live Streaming a Macintosh Plus](https://jcs.org/2022/02/21/macplus_streaming)
 - [Top Performers Have a Superpower: Happiness](https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/)
 - [Try Clojure – An interactive tutorial in the browser](http://tryclojure.org)
-- [What identifying talent looks like in practice](https://danluu.com/talent/)
-- [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
