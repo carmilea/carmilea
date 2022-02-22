@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/ml-too-hard-for-software-developers/)
+- [Bacteria upcycle carbon waste into valuable chemicals](https://news.northwestern.edu/stories/2022/02/bacteria-upcycle-carbon-waste-into-valuable-chemicals/)
+- [A New Library for Network Optimization](https://opensource.googleblog.com/2022/02/A-New-Library-for-Network-Optimization.html)
+- [Sunsetting the Bethesda.net launcher and migrating to Steam](https://bethesda.net/en/article/2RXxG1y000NWupPalzLblG/sunsetting-the-bethesda-net-launcher-and-migrating-to-steam)
 - [Parallels Desktop Pro now sends spam notifications with ads to your desktop](https://old.reddit.com/r/MacOS/comments/syjhix/parallels_desktop_pro_now_sends_spam/)
-- [Convoy Crackdown – power to freeze bank accounts without trial or legal recourse](https://thezvi.substack.com/p/convoy-crackdown)
-- [Neuroscientists have recorded the activity of a dying human brain](https://blog.frontiersin.org/2022/02/22/what-happens-in-our-brain-when-we-die/)
-- [Host Firewalls](https://computer.rip/2020-05-16-host-firewalls.html)
-- [Show HN: Keep your bookmarks clean and up-to-date](https://github.com/samueldobbie/remarkable-extension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
