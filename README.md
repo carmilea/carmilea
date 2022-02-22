@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Neoliberal War on Dissent in the West](https://greenwald.substack.com/p/the-neoliberal-war-on-dissent-in)
+- [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
+- [Das.Test – An opinionated unit testing library written in F# for F#](https://github.com/sumeetdas/DasTest)
+- [Industrial Augmented Reality – Who&#39;s Using It?](https://aircada.com/industrial-augmented-reality-who-is-actually-using-it/)
+- [The Price of Nails Since 1695: A Window into Economic Change](https://www.nber.org/papers/w29617)
 - [I have no capslock and I must scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
-- [Coinbase CEO tweets how they came up with Super Bowl ad, lied about it](https://web3isgoinggreat.com/?id=2022-02-21-0)
-- [DYMO&#39;s new label printer uses RFID tags to prevent the use of non-OEM paper](https://appleinsider.com/articles/22/02/21/if-you-thought-printer-cartridge-drm-was-bad-dymo-is-forcing-users-to-buy-rfid-paper)
-- [The Poison Papers: Hidden History of Chemical and Pesticide Hazards in the U.S.](https://www.poisonpapers.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
