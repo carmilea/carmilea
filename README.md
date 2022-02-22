@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Missouri Governor’s Office Responsible for Teacher Data Leak](https://krebsonsecurity.com/2022/02/report-missouri-governors-office-responsible-for-teacher-data-leak/)
+- [Energy and Human Ambitions on a Finite Planet](https://escholarship.org/uc/item/9js5291m)
+- [Ukraine Conflict Live Map](https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8)
+- [Show HN: Constructor – simple issue tracking for small teams, inspired by Trello](https://constructor.dev)
 - [Slack is down for some users](https://status.slack.com/2022-02/3083852db30af86f)
-- [Ask HN: Am I the only one baffled by the long term usage of Twitter?](https://news.ycombinator.com/item?id=30428652)
-- [A career ending mistake](https://bitfieldconsulting.com/golang/career)
-- [Father who used a signal jammer to keep his kids offline at night faces jail](https://hothardware.com/news/a-father-who-used-a-signal-jammer-to-keep-his-kids-offline-faces-jail-time)
-- [Facebook Meta facing order from Irish regulator to suspend data transfers to US](https://www.irishtimes.com/business/facebook-s-meta-facing-order-from-irish-regulator-to-suspend-data-transfers-to-us-1.4808534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
