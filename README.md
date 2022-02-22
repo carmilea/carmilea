@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basis &lpar;YC S21&rpar; is hiring first dev/designer to build Figma for data](https://www.workatastartup.com/jobs/49520)
+- [Podman 4.0.0](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
+- [Show HN: I made a tool to create the best product tutorials](https://textframe.app)
+- [Launch HN: Hyperbeam API &lpar;YC W22&rpar; – Multiplayer embeds of any website](https://news.ycombinator.com/item?id=30433104)
 - [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/ml-too-hard-for-software-developers/)
-- [Bacteria upcycle carbon waste into valuable chemicals](https://news.northwestern.edu/stories/2022/02/bacteria-upcycle-carbon-waste-into-valuable-chemicals/)
-- [A New Library for Network Optimization](https://opensource.googleblog.com/2022/02/A-New-Library-for-Network-Optimization.html)
-- [Sunsetting the Bethesda.net launcher and migrating to Steam](https://bethesda.net/en/article/2RXxG1y000NWupPalzLblG/sunsetting-the-bethesda-net-launcher-and-migrating-to-steam)
-- [Parallels Desktop Pro now sends spam notifications with ads to your desktop](https://old.reddit.com/r/MacOS/comments/syjhix/parallels_desktop_pro_now_sends_spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
