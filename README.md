@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things you notice when you quit the news &lpar;2016&rpar;](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/)
-- [Missouri governor’s office responsible for teacher data leak](https://krebsonsecurity.com/2022/02/report-missouri-governors-office-responsible-for-teacher-data-leak/)
-- [Government filters in Flint are failing and people are still poisoned by water](https://www.nydailynews.com/news/national/king-filters-flint-failing-water-poisoning-people-article-1.2516772)
-- [Energy and Human Ambitions on a Finite Planet](https://escholarship.org/uc/item/9js5291m)
-- [Ukraine Conflict Live Map](https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8)
+- [IRS: Selfies Now Optional, Biometric Data to Be Deleted](https://krebsonsecurity.com/2022/02/irs-selfies-now-optional-biometric-data-to-be-deleted/)
+- [IRS to adopt Login.gov as user authentication tool](https://www.fedscoop.com/irs-to-adopt-login-gov-as-user-authentication-tool/)
+- [C++ exceptions are becoming more and more problematic](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html)
+- [Show HN: The Brutalist Report – A rolling snapshot of the day’s headlines](https://brutalist.report)
+- [Fractals: An Eclectic Survey, Part-1 [pdf]](https://mdpi-res.com/d_attachment/fractalfract/fractalfract-06-00089/article_deploy/fractalfract-06-00089-v2.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
