@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What identifying talent looks like in practice](https://danluu.com/talent/)
 - [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
-- [Industrial Augmented Reality – Who&#39;s Using It?](https://aircada.com/industrial-augmented-reality-who-is-actually-using-it/)
 - [The Price of Nails Since 1695](https://www.nber.org/papers/w29617)
 - [I have no capslock and I must scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
 - [Increase in Adipose Tissue Linoleic Acid of US Adults in the Last Half Century](https://academic.oup.com/advances/article/6/6/660/4555155)
