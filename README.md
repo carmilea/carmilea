@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Advised a Student to Not Publish Evidence of Reverse Racism](https://quillette.com/2022/02/17/a-student-sleuth-found-evidence-that-our-university-practices-reverse-racism-heres-why-i-advised-him-not-to-publish-it/)
+- [Centaur Labs &lpar;YC W19&rpar; Is Hiring a Product Designer](https://www.centaurlabs.com/open-positions?gh_jid=4335368004)
 - [What I learned running a SaaS for a year](https://onlineornot.com/what-learned-running-saas-for-year)
+- [Why Flutter is the most popular cross-platform mobile SDK](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
 - [Cyberpunk 2077 Update 1.5 Patch Notes Are Gigantic and Game-Changing](https://www.pushsquare.com/news/2022/02/cyberpunk-2077-update-1-5-patch-notes-are-gigantic-and-game-changing)
 - [Magpies have outwitted scientists by helping each other remove tracking devices](https://www.abc.net.au/news/2022-02-22/magpies-show-cooperative-behaviour-by-removing-tracking-device/100851458)
-- [Ask HN: Can we ban Twitter links, please?](https://news.ycombinator.com/item?id=30425409)
 <!-- BLOG-POST-LIST:END -->
 
 ---
