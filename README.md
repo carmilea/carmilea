@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magpies have outwitted scientists by helping each other remove tracking devices](https://www.abc.net.au/news/2022-02-22/magpies-show-cooperative-behaviour-by-removing-tracking-device/100851458)
 - [Ask HN: Can we ban Twitter links, please?](https://news.ycombinator.com/item?id=30425409)
 - [Functional Turing Machine in Notepad++&#39;s Find/Replace](https://github.com/0xdanelia/regex_turing_machine)
+- [A repository of FreeDOS-compatible freeware and OSS software](https://clasqm.github.io/freedos-repo/)
 - [Show HN: Annotate PDFs in Markdown](https://keypoints.app/)
-- [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [Time Series Forecasting in SQL](https://aicoding.substack.com/p/mindsdb-time-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
