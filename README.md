@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Missouri Governor’s Office Responsible for Teacher Data Leak](https://krebsonsecurity.com/2022/02/report-missouri-governors-office-responsible-for-teacher-data-leak/)
+- [Things you notice when you quit the news &lpar;2016&rpar;](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/)
+- [Missouri governor’s office responsible for teacher data leak](https://krebsonsecurity.com/2022/02/report-missouri-governors-office-responsible-for-teacher-data-leak/)
+- [Government filters in Flint are failing and people are still poisoned by water](https://www.nydailynews.com/news/national/king-filters-flint-failing-water-poisoning-people-article-1.2516772)
 - [Energy and Human Ambitions on a Finite Planet](https://escholarship.org/uc/item/9js5291m)
 - [Ukraine Conflict Live Map](https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8)
-- [Show HN: Constructor – simple issue tracking for small teams, inspired by Trello](https://constructor.dev)
-- [Slack is down for some users](https://status.slack.com/2022-02/3083852db30af86f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
