@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There shall be no data but “the data” [covid]](https://boriquagato.substack.com/p/there-shall-be-no-data-but-the-data/comments)
-- [How I Built LoginWithHN](https://vadosware.io/post/how-i-built-lwhn/)
-- [Germany pulls plug on Nord Stream 2 pipeline](https://www.politico.eu/article/germany-to-stop-nord-stream-2/)
-- [Centaur Labs &lpar;YC W19&rpar; Is Hiring a Product Designer](https://www.centaurlabs.com/open-positions?gh_jid=4335368004)
-- [The most complete free product design course by UX Database](https://www.uxdatabase.io/free-product-design-course)
+- [Slack is down for some users](https://status.slack.com/2022-02/3083852db30af86f)
+- [Ask HN: Am I the only one baffled by the long term usage of Twitter?](https://news.ycombinator.com/item?id=30428652)
+- [A career ending mistake](https://bitfieldconsulting.com/golang/career)
+- [Father who used a signal jammer to keep his kids offline at night faces jail](https://hothardware.com/news/a-father-who-used-a-signal-jammer-to-keep-his-kids-offline-faces-jail-time)
+- [Facebook Meta facing order from Irish regulator to suspend data transfers to US](https://www.irishtimes.com/business/facebook-s-meta-facing-order-from-irish-regulator-to-suspend-data-transfers-to-us-1.4808534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
