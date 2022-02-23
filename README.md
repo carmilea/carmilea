@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing Series of Integers with SIMD](http://0x80.pl/articles/simd-parsing-int-sequences.html)
-- [Intel Acquires Linutronix](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Intel-Acquires-Linutronix/post/1362692)
-- [Is it time to remove reiserfs?](https://lkml.org/lkml/2022/2/20/89)
-- [Beyond the Remake of &#39;Shadow of the Colossus&#39;: A Technical Perspective](https://www.youtube.com/watch?v=fcBZEZWGYek)
-- [The Ultra-Introverts Who Live Nocturnally](https://www.theatlantic.com/family/archive/2022/02/ultra-introverts-nocturnal-lives/622856/)
+- [Launch HN: Hydra &lpar;YC W22&rpar; – Query Any Database via Postgres](https://hydras.io/)
+- [You Shouldn&#39;t Be Terrified of This Never-Ending Stew &lpar;2015&rpar;](https://www.foodandwine.com/travel/why-you-shouldnt-be-terrified-never-ending-stew)
+- [How I Shaved 187MB Off United Airline&#39;s 439mb iOS App](https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/)
+- [What makes writing more readable?](https://pudding.cool/2022/02/plain/)
+- [Russ Cox: “Sustainability with Rust” post misleading about Go](https://twitter.com/_rsc/status/1496352325157457922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
