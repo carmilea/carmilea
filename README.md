@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanced: YouTube adblocker for Android](https://vancedapp.com/)
+- [Subaru, Kia shut off some car features rather than adhere to &#39;right to repair&#39;](https://www.ksdk.com/article/news/nation-world/some-car-features-shut-down-rather-than-adhere-to-right-to-repair-law/507-490590e2-aef7-4d1d-acc2-11414b48786d)
+- [FAA says 5G could impact radio altimeters on most Boeing 737s](https://www.reuters.com/business/aerospace-defense/faa-issues-notice-over-boeing-737s-5g-wireless-interference-2022-02-23/)
+- [Ngrok Alternatives](https://github.com/anderspitman/awesome-tunneling)
 - [Show HN: Goopt – Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
-- [Ashby &lpar;YC W19&rpar; is hiring SRE in North America to help us scale](https://www.ashbyhq.com/careers?ashby_jid=94225f45-2861-4a29-9bb6-e7f98cd57f46)
-- [I&#39;m so sorry everyone. Or: why I&#39;m switching to Cloudflare](https://ersei.saggis.com/en/blog/im-sorry-everyone-cloudflare)
-- [Launch HN: Hydra &lpar;YC W22&rpar; – Query Any Database via Postgres](https://hydras.io/)
-- [The Mesozoic terminated in boreal spring](https://www.nature.com/articles/s41586-022-04446-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
