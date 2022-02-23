@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PeerTube: Free software to take back control of your videos](https://joinpeertube.org/)
+- [How Ebooks Have Poisoned Electronic Ink](https://schmud.de/posts/2021-12-01-eink.html)
+- [RoarVM – The Manycore SqueakVM](https://github.com/smarr/RoarVM)
 - [Vanced: YouTube adblocker for Android](https://vancedapp.com/)
-- [Subaru, Kia shut off some car features rather than adhere to &#39;right to repair&#39;](https://www.ksdk.com/article/news/nation-world/some-car-features-shut-down-rather-than-adhere-to-right-to-repair-law/507-490590e2-aef7-4d1d-acc2-11414b48786d)
-- [FAA says 5G could impact radio altimeters on most Boeing 737s](https://www.reuters.com/business/aerospace-defense/faa-issues-notice-over-boeing-737s-5g-wireless-interference-2022-02-23/)
-- [Ngrok Alternatives](https://github.com/anderspitman/awesome-tunneling)
-- [Show HN: Goopt – Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
+- [No Minimum Parking Requirements? No Problem for Fayetteville, Arkansas](https://www.sightline.org/2022/02/22/no-minimum-parking-requirements-no-problem-for-fayetteville-arkansas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
