@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Praise of Writing &lpar;2021&rpar;](https://advait.live/praise-of-writing/)
+- [I changed my roof and cut 1.5 tons of CO2e](http://www.martindaniel.co/roof/index.html)
+- [Everything you need to know about monorepos](https://monorepo.tools/)
 - [Unflow &lpar;YC S19&rpar; Is Hiring full-stack software engineers &lpar;Rails, Remote&rpar;](https://www.ycombinator.com/companies/unflow/jobs/3p9VTds-full-stack-engineer)
 - [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
-- [Bicycle Recommendations](https://www.lincolnquirk.com/2021/04/10/bikes.html)
-- [On Bloom&#39;s two sigma problem](https://nintil.com/bloom-sigma)
-- [FLAC 1.3.4](https://xiph.org/flac/changelog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
