@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; hiring SRE in North America to help us scale](https://www.ashbyhq.com/careers?ashby_jid=94225f45-2861-4a29-9bb6-e7f98cd57f46)
+- [I&#39;m So Sorry Everyone. Or: Why I&#39;m Switching to Cloudflare](https://ersei.saggis.com/en/blog/im-sorry-everyone-cloudflare)
 - [Launch HN: Hydra &lpar;YC W22&rpar; – Query Any Database via Postgres](https://hydras.io/)
 - [You Shouldn&#39;t Be Terrified of This Never-Ending Stew &lpar;2015&rpar;](https://www.foodandwine.com/travel/why-you-shouldnt-be-terrified-never-ending-stew)
-- [How I Shaved 187MB Off United Airline&#39;s 439mb iOS App](https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/)
-- [What makes writing more readable?](https://pudding.cool/2022/02/plain/)
-- [Russ Cox: “Sustainability with Rust” post misleading about Go](https://twitter.com/_rsc/status/1496352325157457922)
+- [The Mesozoic terminated in boreal spring](https://www.nature.com/articles/s41586-022-04446-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
