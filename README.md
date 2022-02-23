@@ -54,8 +54,8 @@
 - [Unflow &lpar;YC S19&rpar; Is Hiring full-stack software engineers &lpar;Rails, Remote&rpar;](https://www.ycombinator.com/companies/unflow/jobs/3p9VTds-full-stack-engineer)
 - [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
 - [Bicycle Recommendations](https://www.lincolnquirk.com/2021/04/10/bikes.html)
+- [On Bloom&#39;s two sigma problem](https://nintil.com/bloom-sigma)
 - [FLAC 1.3.4](https://xiph.org/flac/changelog.html)
-- [Life at Low Reynolds Number &lpar;1976&rpar; [pdf]](https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
