@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [eBPF for Tracing How Firefox Uses Page Faults to Load Libraries](https://taras.glek.net/post/ebpf-mmap-page-fault-tracing/)
+- [Aesthetic &lpar;YC S18&rpar; Is Hiring Our First Web3 Business Developer](https://www.notion.so/aesthetic-app/Web3-Business-Development-a338ea8c3e0a4eb19421d65ad76ef3f4)
+- [U.S. Secret Service Launches Cryptocurrency Awareness Hub](https://www.secretservice.gov/newsroom/releases/2022/02/us-secret-service-launches-cryptocurrency-awareness-hub)
 - [In Praise of Writing &lpar;2021&rpar;](https://advait.live/praise-of-writing/)
-- [I changed my roof and cut 1.5 tons of CO2e](http://www.martindaniel.co/roof/index.html)
-- [Everything you need to know about monorepos](https://monorepo.tools/)
-- [Unflow &lpar;YC S19&rpar; Is Hiring full-stack software engineers &lpar;Rails, Remote&rpar;](https://www.ycombinator.com/companies/unflow/jobs/3p9VTds-full-stack-engineer)
-- [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
+- [We changed our roof and cut CO2 emissions](http://www.martindaniel.co/roof/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
