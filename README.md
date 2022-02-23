@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Not Change Your Job](https://candost.blog/do-not-change-jobs/)
 - [Distribunomicon &lpar;2012&rpar;](https://learnyousomeerlang.com/distribunomicon)
 - [Show HN: I made an iOS app recording RGBD videos and a webapp playing them](https://telegie.com/v27/videos/GEWzFNgKbw6V)
-- [Scotland&#39;s Hate crime bill: Hate talk in homes ‘must be prosecuted’ &lpar;2020&rpar;](https://www.thetimes.co.uk/article/hate-crime-bill-hate-talk-in-homes-must-be-prosecuted-6bcthrjdc)
 - [Clear – The Open Source FPGA ASIC](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite)
 - [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
 <!-- BLOG-POST-LIST:END -->
