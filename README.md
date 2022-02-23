@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PeerTube: Free software to take back control of your videos](https://joinpeertube.org/)
-- [How Ebooks Have Poisoned Electronic Ink](https://schmud.de/posts/2021-12-01-eink.html)
-- [RoarVM – The Manycore SqueakVM](https://github.com/smarr/RoarVM)
-- [Vanced: YouTube adblocker for Android](https://vancedapp.com/)
-- [No Minimum Parking Requirements? No Problem for Fayetteville, Arkansas](https://www.sightline.org/2022/02/22/no-minimum-parking-requirements-no-problem-for-fayetteville-arkansas/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
+- [Support open source that you use by paying the maintainers to talk to your team](https://simonwillison.net/2022/Feb/23/support-open-source/)
+- [Beam: Simple sharing across your organization](https://planetscale.com/blog/introducing-beam)
+- [Is C++ Doomed?](https://tednesday.wordpress.com/2022/02/22/is-c-doomed/)
+- [Startup that “contains wildfires within 10 minutes of ignition”](https://www.rain.aero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
