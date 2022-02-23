@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I Designed and Built an eBike](https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136)
+- [The prospects for 128 bit processors &lpar;1995&rpar;](https://yarchive.net/comp/128bit.html)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
+- [OK for Apple to Call Sagan &#39;Butt-Head Astronomer&#39; &lpar;1994&rpar;](https://web.archive.org/web/20010720203253/http://idiot-dog.com/humor/butthead.html)
 - [Support open source that you use by paying the maintainers to talk to your team](https://simonwillison.net/2022/Feb/23/support-open-source/)
-- [Beam: Simple sharing across your organization](https://planetscale.com/blog/introducing-beam)
-- [Is C++ Doomed?](https://tednesday.wordpress.com/2022/02/22/is-c-doomed/)
-- [Startup that “contains wildfires within 10 minutes of ignition”](https://www.rain.aero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
