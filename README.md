@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Not Change Your Job](https://candost.blog/do-not-change-jobs/)
-- [Distribunomicon &lpar;2012&rpar;](https://learnyousomeerlang.com/distribunomicon)
-- [Show HN: I made an iOS app recording RGBD videos and a webapp playing them](https://telegie.com/v27/videos/GEWzFNgKbw6V)
+- [FLAC 1.3.4](https://xiph.org/flac/changelog.html)
+- [Show HN: I made an iOS app recording RGBD videos and a web app playing them](https://telegie.com/v27/videos/GEWzFNgKbw6V)
 - [Clear – The Open Source FPGA ASIC](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite)
+- [Neptune OS: a WinNT personality of the seL4 microkernel](https://github.com/cl91/NeptuneOS)
 - [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
 <!-- BLOG-POST-LIST:END -->
 
