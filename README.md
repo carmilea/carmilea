@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How USB Came to Be](https://spectrum.ieee.org/how-usb-came-to-be)
+- [Distribunomicon &lpar;2012&rpar;](https://learnyousomeerlang.com/distribunomicon)
+- [Show HN: I made an iOS app recording RGBD videos and a webapp playing them](https://telegie.com/v27/videos/GEWzFNgKbw6V)
+- [Scotland&#39;s Hate crime bill: Hate talk in homes ‘must be prosecuted’ &lpar;2020&rpar;](https://www.thetimes.co.uk/article/hate-crime-bill-hate-talk-in-homes-must-be-prosecuted-6bcthrjdc)
+- [Clear – The Open Source FPGA ASIC](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite)
 - [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
-- [Ask HN: Why don&#39;t more software projects use BitTorrent for downloads?](https://news.ycombinator.com/item?id=30436367)
-- [Moral injury can occur in many contexts and populations, including the workplace](https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/promoted/jobs/iLZ8H9O-software-engineer-continuous-deployment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
