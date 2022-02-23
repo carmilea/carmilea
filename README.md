@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyTorch on Apple M1 MAX GPUs with SHARK – faster than TensorFlow-Metal](https://nod.ai/pytorch-m1-max-gpu/)
-- [AutoRIFT: A Python module for finding the pixel displacement between two images](https://github.com/nasa-jpl/autoRIFT)
-- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/jobs/49520)
-- [Podman 4.0](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
-- [I wrote a program that sends cats to my phone when I&#39;m sad at the computer](https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat)
+- [Employees Are Sick of Being Asked to Make Moral Compromises](https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/promoted/jobs/iLZ8H9O-software-engineer-continuous-deployment)
+- [Wordle is pretty damn smart in many subtle ways](https://vaghetti.dev/posts/wordle/)
+- [Avoiding the Top Nginx Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
+- [In our cashless society, we need to take digital jail seriously](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
