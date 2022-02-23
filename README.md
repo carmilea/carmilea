@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Employees Are Sick of Being Asked to Make Moral Compromises](https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/promoted/jobs/iLZ8H9O-software-engineer-continuous-deployment)
-- [Wordle is pretty damn smart in many subtle ways](https://vaghetti.dev/posts/wordle/)
-- [Avoiding the Top Nginx Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-- [In our cashless society, we need to take digital jail seriously](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/)
+- [Accused of extortion, Louisville’s top prosecutor drops charges – but keeps cash](https://kycir.org/2022/02/22/accused-of-extortion-louisvilles-top-prosecutor-drops-charges-but-keeps-cash/)
+- [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
+- [Google leaves TODO message at the top of basic HTML homepage](https://news.ycombinator.com/item?id=30436450)
+- [Ask HN: Why don&#39;t more software projects use BitTorrent for downloads?](https://news.ycombinator.com/item?id=30436367)
+- [GitBOM](https://gitbom.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
