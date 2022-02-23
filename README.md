@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare to Acquire Area 1 Security for $162m](https://cloudflare.net/news/news-details/2022/Cloudflare-to-Acquire-Area-1-Security-to-Expand-Its-Zero-Trust-Platform/default.aspx)
 - [Show HN: I Designed and Built an eBike](https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136)
+- [sqlite-utils - CLI &amp; Python utility functions for manipulating SQLite databases](https://sqlite-utils.datasette.io/en/stable/index.html)
 - [The prospects for 128 bit processors &lpar;1995&rpar;](https://yarchive.net/comp/128bit.html)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
-- [OK for Apple to Call Sagan &#39;Butt-Head Astronomer&#39; &lpar;1994&rpar;](https://web.archive.org/web/20010720203253/http://idiot-dog.com/humor/butthead.html)
-- [Support open source that you use by paying the maintainers to talk to your team](https://simonwillison.net/2022/Feb/23/support-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
