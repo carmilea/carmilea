@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing](https://supernotes.app/?ref=hn)
+- [EU to mandate public salary information for all job postings [pdf]](https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/698934/EPRS_BRI(2022)698934_EN.pdf)
 - [eBPF for Tracing How Firefox Uses Page Faults to Load Libraries](https://taras.glek.net/post/ebpf-mmap-page-fault-tracing/)
 - [Aesthetic &lpar;YC S18&rpar; Is Hiring Our First Web3 Business Developer](https://www.notion.so/aesthetic-app/Web3-Business-Development-a338ea8c3e0a4eb19421d65ad76ef3f4)
-- [U.S. Secret Service Launches Cryptocurrency Awareness Hub](https://www.secretservice.gov/newsroom/releases/2022/02/us-secret-service-launches-cryptocurrency-awareness-hub)
-- [In Praise of Writing &lpar;2021&rpar;](https://advait.live/praise-of-writing/)
-- [We changed our roof and cut CO2 emissions](http://www.martindaniel.co/roof/index.html)
+- [Ask HN: What was the most unique website you’ve come across on the internet?](https://news.ycombinator.com/item?id=30440123)
 <!-- BLOG-POST-LIST:END -->
 
 ---
