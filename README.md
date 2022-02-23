@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Turn your tweets/threads into a blog and RSS feed](https://typefully.com/profile)
-- [Show HN: Simula One – Portable Linux VR Computer](https://shop.simulavr.com/)
-- [Show HN: Hide all mentions of Wordle in Hacker News feeds](https://gist.github.com/tucnak/746b115d497c5f53b3a064001c61dd45)
-- [Show HN: Elestio – Managed platform for over 150 open-source software stacks](https://news.ycombinator.com/item?id=30440486)
-- [The Meme Leak Theory](https://www.drorpoleg.com/chinas-war-on-memes/)
+- [Parsing Series of Integers with SIMD](http://0x80.pl/articles/simd-parsing-int-sequences.html)
+- [Intel Acquires Linutronix](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Intel-Acquires-Linutronix/post/1362692)
+- [Is it time to remove reiserfs?](https://lkml.org/lkml/2022/2/20/89)
+- [Beyond the Remake of &#39;Shadow of the Colossus&#39;: A Technical Perspective](https://www.youtube.com/watch?v=fcBZEZWGYek)
+- [The Ultra-Introverts Who Live Nocturnally](https://www.theatlantic.com/family/archive/2022/02/ultra-introverts-nocturnal-lives/622856/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
