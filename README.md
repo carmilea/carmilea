@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unflow &lpar;YC S19&rpar; Is Hiring full-stack software engineers &lpar;Rails, Remote&rpar;](https://www.ycombinator.com/companies/unflow/jobs/3p9VTds-full-stack-engineer)
+- [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
+- [Bicycle Recommendations](https://www.lincolnquirk.com/2021/04/10/bikes.html)
 - [FLAC 1.3.4](https://xiph.org/flac/changelog.html)
-- [Show HN: I made an iOS app recording RGBD videos and a web app playing them](https://telegie.com/v27/videos/GEWzFNgKbw6V)
-- [Clear – The Open Source FPGA ASIC](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite)
-- [Neptune OS: a WinNT personality of the seL4 microkernel](https://github.com/cl91/NeptuneOS)
-- [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
+- [Life at Low Reynolds Number &lpar;1976&rpar; [pdf]](https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
