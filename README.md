@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Google phasing out Authenticator/TOTP?](https://news.ycombinator.com/item?id=30454104)
+- [SARS-CoV-2 contains part of a patented genetic sequence](https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full)
+- [Stockfish.js](https://github.com/nmrugg/stockfish.js)
 - [New Story &lpar;YC S15&rpar; Is Hiring Senior Manager Direct Builds](https://jobs.lever.co/newstory/b2757a8e-9690-497b-bbde-e533984c6761)
-- [Canada Ends Emergency Powers](https://www.reuters.com/world/americas/canada-ends-emergency-powers-invoked-tackle-truckers-protests-pm-trudeau-2022-02-23/)
 - [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
-- [An enhancement request I submitted to Bugzilla 15 years ago was just closed](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
-- [A Silly Usecase for WebSockets &lpar;strobe warning&rpar;](https://www.jakobmaier.at/projects/lamp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
