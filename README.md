@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter based map of Russian troop movements](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
+- [New Story &lpar;YC S15&rpar; Is Hiring Senior Manager Direct Builds](https://jobs.lever.co/newstory/b2757a8e-9690-497b-bbde-e533984c6761)
+- [Canada Ends Emergency Powers](https://www.reuters.com/world/americas/canada-ends-emergency-powers-invoked-tackle-truckers-protests-pm-trudeau-2022-02-23/)
 - [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
-- [A bug I opened 15 years ago was closed 4 hours ago](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
+- [An enhancement request I submitted to Bugzilla 15 years ago was just closed](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
 - [A Silly Usecase for WebSockets &lpar;strobe warning&rpar;](https://www.jakobmaier.at/projects/lamp/)
-- [Enforcement by Software](https://lemire.me/blog/2022/02/24/enforcement-by-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
