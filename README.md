@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Developers to Build the Future of Video](https://bitmovin.com/careers/)
 - [Estonia, allies to trigger NATO Article 4](https://twitter.com/EstonianGovt/status/1496728085890273284)
 - [Nuclear-fusion reactor smashes energy record](https://www.nature.com/articles/d41586-022-00391-1)
 - [Russian forces invade Ukraine after Putin orders attack](https://www.reuters.com/world/europe/putin-orders-military-operations-ukraine-demands-kyiv-forces-surrender-2022-02-24/)
 - [Caloric restriction in humans reveals immunometabolic regulators of health span](https://www.science.org/doi/10.1126/science.abg7292)
-- [Indian chess sensation, 16, beats world champion Magnus Carlsen](https://www.axios.com/indian-chess-player-praggnanandhaa-16-beats-world-champion-bb300238-b7ec-436a-966b-68e50593a6d7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
