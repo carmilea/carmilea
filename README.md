@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A bug I opened 15 years ago was closed 4 hours ago](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
+- [A Silly Usecase for WebSockets &lpar;strobe warning&rpar;](https://www.jakobmaier.at/projects/lamp/)
+- [Enforcement by Software](https://lemire.me/blog/2022/02/24/enforcement-by-software/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Developers to Build the Future of Video](https://bitmovin.com/careers/)
-- [Estonia, allies to trigger NATO Article 4](https://twitter.com/EstonianGovt/status/1496728085890273284)
-- [Nuclear-fusion reactor smashes energy record](https://www.nature.com/articles/d41586-022-00391-1)
-- [Russian forces invade Ukraine after Putin orders attack](https://www.reuters.com/world/europe/putin-orders-military-operations-ukraine-demands-kyiv-forces-surrender-2022-02-24/)
-- [Caloric restriction in humans reveals immunometabolic regulators of health span](https://www.science.org/doi/10.1126/science.abg7292)
+- [The Future of Tun and Tap VPNs on macOS](https://tunnelblick.net/cTunTapConnections.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
