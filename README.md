@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada Ends Emergency Powers](https://www.reuters.com/world/americas/canada-ends-emergency-powers-invoked-tackle-truckers-protests-pm-trudeau-2022-02-23/)
+- [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
 - [A bug I opened 15 years ago was closed 4 hours ago](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
 - [A Silly Usecase for WebSockets &lpar;strobe warning&rpar;](https://www.jakobmaier.at/projects/lamp/)
 - [Enforcement by Software](https://lemire.me/blog/2022/02/24/enforcement-by-software/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Developers to Build the Future of Video](https://bitmovin.com/careers/)
-- [The Future of Tun and Tap VPNs on macOS &lpar;2020&rpar;](https://tunnelblick.net/cTunTapConnections.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
