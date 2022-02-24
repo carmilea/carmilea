@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlanetScale increases plans to include billions of reads](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads)
+- [Show HN: Programming Time - Playing card game to teach your kids Python](https://punkjazz.org/programming-time/)
+- [Ukraine is a major producer of neon gas, critical for lasers used in chipmaking](https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/)
+- [Rust 1.59.0 with inline assembly support etc.](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
 - [Union54 &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/union54/jobs/PKb8CQN-front-end-engineer)
-- [Heroku Down](https://news.ycombinator.com/item?id=30456688)
-- [Los Angeles is spending up to $837,000 to house a single homeless person](https://ktla.com/news/los-angeles-is-spending-up-to-837000-to-house-a-single-homeless-person/)
-- [Humans and Hibernating Mammals React to Linoleic Acid in the Same Way](https://fireinabottle.net/humans-and-hibernating-mammals-react-to-the-same-amount-of-dietary-linoleic-acid-in-the-same-way-by-becoming-torpid/)
-- [A list of lightweight websites without bloat](https://github.com/mdibaiee/awesome-lite-websites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
