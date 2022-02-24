@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: MutableAI &lpar;YC W22&rpar; – Automatically Clean Jupyter Notebooks Using AI](https://mutable.ai/)
+- [Moving the Linux Kernel to Modern C](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/)
+- [Decentralizing Distribution](https://f-droid.org/en/2022/02/05/decentralizing-distribution.html)
+- [Launch HN: MutableAI &lpar;YC W22&rpar; – Automatically clean Jupyter notebooks using AI](https://mutable.ai/)
 - [Chernobyl power plant captured by Russian forces](https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/)
 - [Elevator.js](https://tholman.com/elevator.js/)
-- [PlanetScale increases plans to include billions of reads](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads)
-- [Become a better data engineer on a shoestring &lpar;free resources&rpar;](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/learn-data-engineering-on-a-shoestring-free-courses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
