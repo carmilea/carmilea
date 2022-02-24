@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Google phasing out Authenticator/TOTP?](https://news.ycombinator.com/item?id=30454104)
+- [Show HN: Snipd – AI podcast player to highlight and take notes with transcripts](https://www.snipd.com)
+- [Ask HN: Google SSO or Password Manager](https://news.ycombinator.com/item?id=30454583)
+- [Largest bacterium ever discovered has unexpectedly complex cells](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
+- [Rails adds support for Fiber-safe ActiveRecord ConnectionPools](https://blog.saeloun.com/2022/02/23/rails-fiber-safe-connection-pools.html)
 - [SARS-CoV-2 contains part of a patented genetic sequence](https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full)
-- [Stockfish.js](https://github.com/nmrugg/stockfish.js)
-- [New Story &lpar;YC S15&rpar; Is Hiring Senior Manager Direct Builds](https://jobs.lever.co/newstory/b2757a8e-9690-497b-bbde-e533984c6761)
-- [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
