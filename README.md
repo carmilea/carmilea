@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare to Acquire Area 1 Security for $162m](https://cloudflare.net/news/news-details/2022/Cloudflare-to-Acquire-Area-1-Security-to-Expand-Its-Zero-Trust-Platform/default.aspx)
-- [Show HN: I Designed and Built an eBike](https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136)
-- [sqlite-utils - CLI &amp; Python utility functions for manipulating SQLite databases](https://sqlite-utils.datasette.io/en/stable/index.html)
-- [The prospects for 128 bit processors &lpar;1995&rpar;](https://yarchive.net/comp/128bit.html)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
+- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=30448991)
+- [We are hiring contract developers to build new features in PyPI](https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html)
+- [Thermally drawn rechargeable battery fiber enables pervasive power](https://www.sciencedirect.com/science/article/abs/pii/S1369702121004077)
+- [Cloudflare to acquire Area 1 Security for $162M](https://blog.cloudflare.com/why-we-are-acquiring-area-1/)
+- [Ledit: Simple, GPU-rendered, no bullshit text editor](https://github.com/liz3/ledit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
