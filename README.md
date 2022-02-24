@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gov. Abbott Pushes to Investigate Treatments for Trans Youth as &#39;Child Abuse&#39;](https://www.nytimes.com/2022/02/23/science/texas-abbott-transgender-child-abuse.html)
-- [One in three young people say they felt happier during lockdown](https://www.cam.ac.uk/research/news/one-in-three-young-people-say-they-felt-happier-during-lockdown)
-- [Ask HN: Adding non-commercial clause to open source license](https://news.ycombinator.com/item?id=30454986)
-- [Custom JavaScript controls can&#39;t capture the nuance of form fields &lpar;2021&rpar;](https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html)
-- [FYI: News sites may have a “lite” version for low-bandwidth users](https://news.ycombinator.com/item?id=30454852)
+- [A list of lightweight websites without bloat](https://github.com/mdibaiee/awesome-lite-websites)
+- [America’s most widely consumed cooking oil causes genetic changes in the brain](https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain)
+- [Ask HN: How do you start researching for a project idea?](https://news.ycombinator.com/item?id=30456235)
+- [Simmone Taitt wants to eliminate maternal health inequities](https://www.apple.com/newsroom/2022/02/simmone-taitt-wants-to-eliminate-maternal-health-inequities/)
+- [Dive into Deep Learning Compilers](https://tvm.d2l.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
