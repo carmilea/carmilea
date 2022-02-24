@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: MutableAI &lpar;YC W22&rpar; – Automatically Clean Jupyter Notebooks Using AI](https://mutable.ai/)
+- [Chernobyl power plant captured by Russian forces](https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/)
+- [Elevator.js](https://tholman.com/elevator.js/)
 - [PlanetScale increases plans to include billions of reads](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads)
-- [Show HN: Programming Time - Playing card game to teach your kids Python](https://punkjazz.org/programming-time/)
-- [Ukraine is a major producer of neon gas, critical for lasers used in chipmaking](https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/)
-- [Rust 1.59.0 with inline assembly support etc.](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
-- [Union54 &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/union54/jobs/PKb8CQN-front-end-engineer)
+- [Become a better data engineer on a shoestring &lpar;free resources&rpar;](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/learn-data-engineering-on-a-shoestring-free-courses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
