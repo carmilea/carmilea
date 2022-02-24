@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Servo is an experimental parallel web browser written in Rust](https://servo.org/)
+- [Engineer Showcase: Yamil Molinar](https://www.singlestore.com/blog/engineer-showcase-yamil-molinar)
 - [Here comes the first TikTok war](https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok)
 - [Things the CSS spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
-- [Full Stack Senior PHP Developer for Ed Tech &lpar;YC S16&rpar;](https://www.innerorbit.com/about/careers/full-stack-developer.php)
+- [RocketLit &lpar;YC S16&rpar; is hiring a full-stack senior PHP developer for ed tech](https://www.innerorbit.com/about/careers/full-stack-developer.php)
 - [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
 <!-- BLOG-POST-LIST:END -->
 
