@@ -55,7 +55,7 @@
 - [A Silly Usecase for WebSockets &lpar;strobe warning&rpar;](https://www.jakobmaier.at/projects/lamp/)
 - [Enforcement by Software](https://lemire.me/blog/2022/02/24/enforcement-by-software/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Developers to Build the Future of Video](https://bitmovin.com/careers/)
-- [The Future of Tun and Tap VPNs on macOS](https://tunnelblick.net/cTunTapConnections.html)
+- [The Future of Tun and Tap VPNs on macOS &lpar;2020&rpar;](https://tunnelblick.net/cTunTapConnections.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
