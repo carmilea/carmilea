@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Union54 &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/union54/jobs/PKb8CQN-front-end-engineer)
+- [Heroku Down](https://news.ycombinator.com/item?id=30456688)
+- [Los Angeles is spending up to $837,000 to house a single homeless person](https://ktla.com/news/los-angeles-is-spending-up-to-837000-to-house-a-single-homeless-person/)
+- [Humans and Hibernating Mammals React to Linoleic Acid in the Same Way](https://fireinabottle.net/humans-and-hibernating-mammals-react-to-the-same-amount-of-dietary-linoleic-acid-in-the-same-way-by-becoming-torpid/)
 - [A list of lightweight websites without bloat](https://github.com/mdibaiee/awesome-lite-websites)
-- [America’s most widely consumed cooking oil causes genetic changes in the brain](https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain)
-- [Ask HN: How do you start researching for a project idea?](https://news.ycombinator.com/item?id=30456235)
-- [Simmone Taitt wants to eliminate maternal health inequities](https://www.apple.com/newsroom/2022/02/simmone-taitt-wants-to-eliminate-maternal-health-inequities/)
-- [Dive into Deep Learning Compilers](https://tvm.d2l.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
