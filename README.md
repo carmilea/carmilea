@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada Ends Emergency Powers](https://www.reuters.com/world/americas/canada-ends-emergency-powers-invoked-tackle-truckers-protests-pm-trudeau-2022-02-23/)
+- [Twitter based map of Russian troop movements](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
 - [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
 - [A bug I opened 15 years ago was closed 4 hours ago](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
 - [A Silly Usecase for WebSockets &lpar;strobe warning&rpar;](https://www.jakobmaier.at/projects/lamp/)
