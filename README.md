@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Servo is an experimental parallel web browser written in Rust](https://servo.org/)
+- [Here comes the first TikTok war](https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok)
+- [Things the CSS spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
 - [Full Stack Senior PHP Developer for Ed Tech &lpar;YC S16&rpar;](https://www.innerorbit.com/about/careers/full-stack-developer.php)
-- [F-Droid: how it weakens Android&#39;s security model](https://wonderfall.dev/fdroid-issues/)
-- [As JetBrains we condemn the attacks taking place](https://twitter.com/jetbrains/status/1496786254494670851)
-- [Moving the Linux Kernel to Modern C](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/)
-- [A List of Hacker News&#39;s Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+- [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
