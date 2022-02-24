@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Programmable network proxy for the cloud, edge and IoT](https://github.com/flomesh-io/pipy)
 - [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=30448991)
 - [We are hiring contract developers to build new features in PyPI](https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html)
 - [Thermally drawn rechargeable battery fiber enables pervasive power](https://www.sciencedirect.com/science/article/abs/pii/S1369702121004077)
 - [Cloudflare to acquire Area 1 Security for $162M](https://blog.cloudflare.com/why-we-are-acquiring-area-1/)
-- [Ledit: Simple, GPU-rendered, no bullshit text editor](https://github.com/liz3/ledit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
