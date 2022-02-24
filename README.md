@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Snipd – AI podcast player to highlight and take notes with transcripts](https://www.snipd.com)
-- [Ask HN: Google SSO or Password Manager](https://news.ycombinator.com/item?id=30454583)
-- [Largest bacterium ever discovered has unexpectedly complex cells](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
-- [Rails adds support for Fiber-safe ActiveRecord ConnectionPools](https://blog.saeloun.com/2022/02/23/rails-fiber-safe-connection-pools.html)
-- [SARS-CoV-2 contains part of a patented genetic sequence](https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full)
+- [Gov. Abbott Pushes to Investigate Treatments for Trans Youth as &#39;Child Abuse&#39;](https://www.nytimes.com/2022/02/23/science/texas-abbott-transgender-child-abuse.html)
+- [One in three young people say they felt happier during lockdown](https://www.cam.ac.uk/research/news/one-in-three-young-people-say-they-felt-happier-during-lockdown)
+- [Ask HN: Adding non-commercial clause to open source license](https://news.ycombinator.com/item?id=30454986)
+- [Custom JavaScript controls can&#39;t capture the nuance of form fields &lpar;2021&rpar;](https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html)
+- [FYI: News sites may have a “lite” version for low-bandwidth users](https://news.ycombinator.com/item?id=30454852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
