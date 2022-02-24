@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Senior PHP Developer for Ed Tech &lpar;YC S16&rpar;](https://www.innerorbit.com/about/careers/full-stack-developer.php)
+- [F-Droid: how it weakens Android&#39;s security model](https://wonderfall.dev/fdroid-issues/)
+- [As JetBrains we condemn the attacks taking place](https://twitter.com/jetbrains/status/1496786254494670851)
 - [Moving the Linux Kernel to Modern C](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/)
-- [Decentralizing Distribution](https://f-droid.org/en/2022/02/05/decentralizing-distribution.html)
-- [Launch HN: MutableAI &lpar;YC W22&rpar; – Automatically clean Jupyter notebooks using AI](https://mutable.ai/)
-- [Chernobyl power plant captured by Russian forces](https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/)
-- [Elevator.js](https://tholman.com/elevator.js/)
+- [A List of Hacker News&#39;s Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
