@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Putin orders military operations in Ukraine, demands Kyiv forces surrender](https://www.reuters.com/world/europe/putin-orders-military-operations-ukraine-demands-kyiv-forces-surrender-2022-02-24/)
+- [Caloric restriction in humans reveals immunometabolic regulators of health span](https://www.science.org/doi/10.1126/science.abg7292)
 - [Indian chess sensation, 16, beats world champion Magnus Carlsen](https://www.axios.com/indian-chess-player-praggnanandhaa-16-beats-world-champion-bb300238-b7ec-436a-966b-68e50593a6d7.html)
 - [NewPipe: The lightweight YouTube experience for Android](https://newpipe.net/)
 - [The time has come to replace file systems](https://didgets.substack.com/p/where-did-i-put-that-file)
-- [Carbonating at Home &lpar;2015&rpar;](http://truetex.com/carbonation.htm)
-- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=30448991)
 <!-- BLOG-POST-LIST:END -->
 
 ---
