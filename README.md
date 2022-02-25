@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Any scientifically proven techniques to boost concentration?](https://news.ycombinator.com/item?id=30473322)
+- [Free Tarsnap Backups for Ukrainians](https://mail.tarsnap.com/tarsnap-announce/msg00047.html)
+- [The claimed effect size is about a zillion times higher than is plausible](https://statmodeling.stat.columbia.edu/2022/02/07/the-claimed-effect-size-is-about-a-zillion-times-higher-than-is-plausible/)
 - [Curious lack of sprintf scaling](https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/)
 - [DevCycle &lpar;YC W14&rpar; is hiring engineers at all levels](https://devcycle.com/company/careers)
-- [Badger 2040 – Fast updating RP2040 based e-Ink badge](https://shop.pimoroni.com/products/badger-2040)
-- [PyPI in a Box](https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/)
-- [Prose Painter](https://www.prosepainter.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
