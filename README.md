@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Terminal Based Wikipedia](https://github.com/yashsinghcodes/fetch)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Senior Back End Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
+- [Revolving-door Gray code for all 4-vertex graphs [video]](https://archive.org/details/gray-4-universal)
+- [Understanding the War in Ukraine](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/)
 - [How to speed up the Rust compiler in 2022](https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html)
-- [OrioleDB – solving some PostgreSQL wicked problems](https://github.com/orioledb/orioledb)
-- [Piet-GPU Progress: Clipping](https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html)
-- [Ukraine calls on hacker underground to defend against Russia](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
