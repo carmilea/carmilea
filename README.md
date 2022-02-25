@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OrioleDB – solving some PostgreSQL wicked problems](https://github.com/orioledb/orioledb)
+- [Piet-GPU Progress: Clipping](https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html)
 - [Ukraine calls on hacker underground to defend against Russia](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/)
 - [Vim – Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
 - [World’s first octopus farm stirs ethical debate](https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/)
-- [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
