@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the West is reluctant to deny Russian banks access to SWIFT](https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift)
+- [I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
+- [Learn Rust by writing a small OS](https://os.phil-opp.com/)
+- [Tell HN: YouTube is banning accounts that support Ukraine](https://news.ycombinator.com/item?id=30467384)
 - [Project Oberon](http://www.projectoberon.com)
-- [Apple Imagines Mac-Inside-a-Keyboard Device Evocative of 80s Home Computers](https://www.macrumors.com/2022/02/25/apple-explores-mac-inside-keyboard-device/)
-- [Disaster Planning for Regular Folks](https://lcamtuf.coredump.cx/prep/index-old.shtml)
-- [Radiation Spikes in Chernobyl](https://twitter.com/OAlexanderDK/status/1497156832170815516)
-- [ARJ Software](http://www.arjsoftware.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
