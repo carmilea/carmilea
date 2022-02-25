@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patreon blocks Ukrainian volunteers charity account](https://twitter.com/Patreon/status/1497068371120390144)
+- [We&#39;re choosing Rust, and not Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
 - [Ink/Stitch](https://inkstitch.org/)
 - [Show HN: Terminal Based Wikipedia](https://github.com/yashsinghcodes/fetch)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Senior Back End Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
-- [Revolving-door Gray code for all 4-vertex graphs [video]](https://archive.org/details/gray-4-universal)
-- [How to speed up the Rust compiler in 2022](https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
