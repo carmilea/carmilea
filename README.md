@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A practical guide to securing Google Workspace for a startup](https://fleetdm.com/handbook/security#google-workspace-security)
 - [Facebook, Google other tech firms must verify identities under proposed UK law](https://www.engadget.com/facebook-google-and-other-tech-firms-must-verify-identities-under-proposed-uk-law-112501065.html)
 - [Using AI to bring children’s drawings to life](https://ai.facebook.com/blog/using-ai-to-bring-childrens-drawings-to-life/)
 - [Russia to limit Facebook access in response to media &#39;censorship&#39;](https://www.reuters.com/business/media-telecom/russia-limit-facebook-access-response-media-censorship-2022-02-25/)
 - [Launch HN: Convoy &lpar;YC W22&rpar; – Open-source cloud-native webhooks service](https://getconvoy.io)
-- [Ask HN: Anyone here have good material for learning how to sketch from scratch?](https://news.ycombinator.com/item?id=30469036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
