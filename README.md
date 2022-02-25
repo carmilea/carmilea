@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curious lack of sprintf scaling](https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/)
 - [DevCycle &lpar;YC W14&rpar; is hiring engineers at all levels](https://devcycle.com/company/careers)
 - [Badger 2040 – Fast updating RP2040 based e-Ink badge](https://shop.pimoroni.com/products/badger-2040)
 - [PyPI in a Box](https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/)
 - [Prose Painter](https://www.prosepainter.com/)
-- [KGB defector Yuri Bezmenov&#39;s warning to America &lpar;1984&rpar;](https://www.youtube.com/watch?v=IQPsKvG6WMI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
