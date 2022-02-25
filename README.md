@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Actix Web v4.0 &lpar;Rust&rpar;](https://github.com/actix/actix-web/wiki/v4-Announcement)
-- [Finland or Sweden joining NATO would spark Russian response: Russia warns](https://www.tbsnews.net/world/finland-or-sweden-joining-nato-would-spark-russian-response-russia-warns-376246)
+- [Ask HN: What do I need to learn to be useful as a hacker to defend my country?](https://news.ycombinator.com/item?id=30471631)
+- [Ask HN: How to keep tech running in the apocalypse?](https://news.ycombinator.com/item?id=30471557)
+- [Prose Painter](https://www.prosepainter.com/)
+- [Announcing Actix Web v4.0](https://github.com/actix/actix-web/wiki/v4-Announcement)
 - [Is Grammarly a keylogger? What can you do about it?](https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it)
-- [A practical guide to securing Google Workspace for a startup](https://fleetdm.com/handbook/security#google-workspace-security)
-- [Facebook, Google other tech firms must verify identities under proposed UK law](https://www.engadget.com/facebook-google-and-other-tech-firms-must-verify-identities-under-proposed-uk-law-112501065.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
