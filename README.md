@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do I need to learn to be useful as a hacker to defend my country?](https://news.ycombinator.com/item?id=30471631)
-- [Ask HN: How to keep tech running in the apocalypse?](https://news.ycombinator.com/item?id=30471557)
+- [DevCycle &lpar;YC W14&rpar; is hiring engineers at all levels](https://devcycle.com/company/careers)
+- [Badger 2040 – Fast updating RP2040 based e-Ink badge](https://shop.pimoroni.com/products/badger-2040)
+- [PyPI in a Box](https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/)
 - [Prose Painter](https://www.prosepainter.com/)
-- [Announcing Actix Web v4.0](https://github.com/actix/actix-web/wiki/v4-Announcement)
-- [Is Grammarly a keylogger? What can you do about it?](https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it)
+- [KGB defector Yuri Bezmenov&#39;s warning to America &lpar;1984&rpar;](https://www.youtube.com/watch?v=IQPsKvG6WMI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
