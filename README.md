@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Use RAR](https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/)
+- [Is Math the Key to Quantum Entanglement Protection?](https://spectrum.ieee.org/topological-photonics-entanglement-protection)
 - [Patreon blocks Ukrainian volunteers charity account](https://twitter.com/Patreon/status/1497068371120390144)
-- [We&#39;re choosing Rust, and not Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
+- [A almost perfect rsync over SSH backup script](https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html)
 - [Ink/Stitch](https://inkstitch.org/)
-- [Show HN: Terminal Based Wikipedia](https://github.com/yashsinghcodes/fetch)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Senior Back End Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
