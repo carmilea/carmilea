@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineer Showcase: Yamil Molinar](https://www.singlestore.com/blog/engineer-showcase-yamil-molinar)
-- [Here comes the first TikTok war](https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok)
-- [Things the CSS spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
-- [RocketLit &lpar;YC S16&rpar; is hiring a full-stack senior PHP developer for ed tech](https://www.innerorbit.com/about/careers/full-stack-developer.php)
-- [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
+- [Vim – Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
+- [World’s first octopus farm stirs ethical debate](https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/)
+- [Follow the Data, They Said, and Then Hid It](https://brownstone.org/articles/follow-the-data-they-said-and-then-hid-it/)
+- [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
+- [Why does Google still have the “I’m Feeling Lucky” button?](https://reallifemag.com/search-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
