@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disaster Planning for Regular Folks](https://lcamtuf.coredump.cx/prep/index-old.shtml)
+- [NATO leaves Black Sea exposed as Russia invades Ukraine](https://www.reuters.com/world/europe/nato-leaves-black-sea-exposed-russia-invades-ukraine-2022-02-24/)
+- [ARJ Software](http://www.arjsoftware.com/)
+- [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 - [Don&#39;t Use RAR](https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/)
-- [Is Math the Key to Quantum Entanglement Protection?](https://spectrum.ieee.org/topological-photonics-entanglement-protection)
-- [Patreon blocks Ukrainian volunteers charity account](https://twitter.com/Patreon/status/1497068371120390144)
-- [A almost perfect rsync over SSH backup script](https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html)
-- [Ink/Stitch](https://inkstitch.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
