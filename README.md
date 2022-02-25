@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Factorio Friday Facts: Steam Deck, Ghost bugs, Docs improvements](https://www.factorio.com/blog/post/fff-368)
+- [Cryptonomicon: Among the Bitcoin Maximalists](https://harpers.org/archive/2022/03/cryptonomicon-bitcoin-maximalists-miami/)
+- [Two new ways of extracting lithium from brine](https://www.economist.com/science-and-technology/two-new-ways-of-extracting-lithium-from-brine/21807823)
 - [Why the West is reluctant to deny Russian banks access to SWIFT](https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift)
 - [I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
-- [Learn Rust by writing a small OS](https://os.phil-opp.com/)
-- [Tell HN: YouTube is banning accounts that support Ukraine](https://news.ycombinator.com/item?id=30467384)
-- [Project Oberon](http://www.projectoberon.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
