@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine calls on hacker underground to defend against Russia](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/)
 - [Vim – Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
 - [World’s first octopus farm stirs ethical debate](https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/)
-- [Follow the Data, They Said, and Then Hid It](https://brownstone.org/articles/follow-the-data-they-said-and-then-hid-it/)
 - [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
 - [Why does Google still have the “I’m Feeling Lucky” button?](https://reallifemag.com/search-party/)
 <!-- BLOG-POST-LIST:END -->
