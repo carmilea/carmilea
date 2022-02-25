@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Oberon](http://www.projectoberon.com)
+- [Apple Imagines Mac-Inside-a-Keyboard Device Evocative of 80s Home Computers](https://www.macrumors.com/2022/02/25/apple-explores-mac-inside-keyboard-device/)
 - [Disaster Planning for Regular Folks](https://lcamtuf.coredump.cx/prep/index-old.shtml)
-- [NATO leaves Black Sea exposed as Russia invades Ukraine](https://www.reuters.com/world/europe/nato-leaves-black-sea-exposed-russia-invades-ukraine-2022-02-24/)
+- [Radiation Spikes in Chernobyl](https://twitter.com/OAlexanderDK/status/1497156832170815516)
 - [ARJ Software](http://www.arjsoftware.com/)
-- [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
-- [Don&#39;t Use RAR](https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
