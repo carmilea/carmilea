@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source 5G core network base on 3GPP R15](https://github.com/free5gc/free5gc)
+- [Twitter restricted in Russia amid conflict with Ukraine](https://netblocks.org/reports/twitter-restricted-in-russia-amid-conflict-with-ukraine-JBZrogB6)
+- [Meta to bar Russian state media from running ads, monetizing on platform](https://www.reuters.com/technology/meta-bar-russian-state-media-running-ads-monetizing-platform-2022-02-26/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;In San Francisco and London&rpar;](https://etleap.com/jobs/#software-engineer)
 - [Military gap between Russia and Ukraine](https://www.economist.com/graphic-detail/2022/02/25/the-military-gap-between-russia-and-ukraine-is-vast)
-- [How Russia Took over the Internet in Crimea and Eastern Ukraine](https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/)
-- [Portugal announces immediate granting of visas for Ukrainian refugees](https://www.theportugalnews.com/news/2022-02-25/portugal-identifying-job-opportunities-for-refugees/65478)
-- [PwC fined over exam cheating involving 1,100 of its auditors](https://www.ft.com/content/2e246b48-a6a9-4dc6-b4fb-136b62ab3a3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
