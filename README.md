@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitlab Critical Security Release: 14.8.2, 14.7.4, and 14.6.5](https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/)
+- [Residential building struck by a missile in southwestern Kyiv Saturday morning](https://twitter.com/nytimes/status/1497607423594536961)
+- [Anonymous takes down websites of Defense Ministry, RT and Kremlin](https://thebarentsobserver.com/en/security/2022/02/anonymous-takes-down-websites-defense-ministry-rt-and-kremlin)
+- [Gitlab Critical Security Release](https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/)
 - [Anonymous takes .ru government websites offline](https://twitter.com/YourAnonNews/status/1497574730282541060)
 - [1.7M Hondas are being investigated for phantom braking](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
-- [Distributed terrorism/warfare via Telegram channels](https://news.ycombinator.com/item?id=30478391)
-- [50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
