@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top of Hacker News vs. Top of Reddit – Peak Traffic Comparison](https://news.ycombinator.com/item?id=30481230)
-- [Minimal English](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english)
-- [So you want to design a programming language?](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
-- [Russian invaders are using internationally-banned butterfly mines](https://www.pravda.com.ua/eng/news/2022/02/26/7326201/)
-- [GitHub’s database of security advisories is now open source](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
+- [MetalNES: Transistor Level NES Simulation](https://github.com/iaddis/metalnes)
+- [String-Based Templates vs. DSLs: The Pros and Cons of Each](https://www.fullstackruby.dev/podcast/3/)
+- [A brief history of liquid computers](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
+- [Minimal English &lpar;2018&rpar;](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english)
+- [So you want to design a programming language &lpar;2017&rpar;](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
