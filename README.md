@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian-manufactured armored vehicle vulnerability in urban combat &lpar;1997&rpar;](https://man.fas.org/dod-101/sys/land/row/rusav.htm)
+- [The definitive guide that you never wanted: Backpack fabrics](https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405)
 - [Ask HN: Any scientifically proven techniques to boost concentration?](https://news.ycombinator.com/item?id=30473322)
-- [Free Tarsnap Backups for Ukrainians](https://mail.tarsnap.com/tarsnap-announce/msg00047.html)
+- [Machine Learning with PyTorch and Scikit-Learn – The *New* Python ML Book](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 - [The claimed effect size is about a zillion times higher than is plausible](https://statmodeling.stat.columbia.edu/2022/02/07/the-claimed-effect-size-is-about-a-zillion-times-higher-than-is-plausible/)
-- [Curious lack of sprintf scaling](https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/)
-- [DevCycle &lpar;YC W14&rpar; is hiring engineers at all levels](https://devcycle.com/company/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
