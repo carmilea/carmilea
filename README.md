@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Senior React Developer &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Lua Devirtualization](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction)
 - [OBS Plugin: Background Removal](https://github.com/royshil/obs-backgroundremoval)
 - [Software-Refilled TLBs](https://yarchive.net/comp/software_tlb.html)
 - [Make Linux look like Windows 95](https://lunduke.substack.com/p/make-linux-look-exactly-like-windows)
-- [Detailed simulation of complete minimal cellular life](https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue)
-- [Stampeding away from Hadoop: Three Customer Success Stories](https://www.singlestore.com/blog/stampeding-away-from-hadoop-three-customer-success-stories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
