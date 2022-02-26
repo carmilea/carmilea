@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking the location of all the Russian oligarchy with ADSB](https://www.radarspots.com/oligarchs-flee-russia/)
+- [Nvidia Hit by Major Cyberattack](https://wccftech.com/nvidia-hit-by-major-cyberattack-that-may-have-completely-compromised-parts-of-its-business/)
 - [Strange plant-like formation captured by Curiosity rover on Mars](https://mars.nasa.gov/msl-raw-images/msss/03397/mhli/3397MH0001630001201030R00_DXXX.jpg)
 - [DJ performance remixing AI-created music- which is then live-remixed by a 2nd AI](https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Senior React Developer &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [eng.mil.ru is returning HTTP 418](https://eng.mil.ru)
-- [Lua Devirtualization](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
