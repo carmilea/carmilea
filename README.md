@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Portugal announces immediate granting of visas for Ukrainian refugees](https://www.theportugalnews.com/news/2022-02-25/portugal-identifying-job-opportunities-for-refugees/65478)
+- [PwC fined over exam cheating involving 1,100 of its auditors](https://www.ft.com/content/2e246b48-a6a9-4dc6-b4fb-136b62ab3a3a)
+- [New 9/11 impact footage has emerged](https://www.youtube.com/watch?v=o6t31R4tI10)
 - [Nvidia Hit by Major Cyberattack](https://wccftech.com/nvidia-hit-by-major-cyberattack-that-may-have-completely-compromised-parts-of-its-business/)
-- [Strange plant-like formation captured by Curiosity rover on Mars](https://mars.nasa.gov/msl-raw-images/msss/03397/mhli/3397MH0001630001201030R00_DXXX.jpg)
-- [Mechanical Integrators &lpar;1886&rpar;](https://books.google.com/books/about/Mechanical_Integrators.html?id=BoW4AAAAIAAJ)
-- [DJ performance remixing AI-created music- which is then live-remixed by a 2nd AI](https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Senior React Developer &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Psychiatry and Politicians: The &#39;Hubris Syndrome&#39;](https://www.cambridge.org/core/journals/the-psychiatrist/article/psychiatry-and-politicians-the-hubris-syndrome/46643F663C0E79B9CE3FFE0A0F97F09B)
 <!-- BLOG-POST-LIST:END -->
 
 ---
