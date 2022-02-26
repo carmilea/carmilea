@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Defend a City](https://mwi.usma.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
+- [The Effects of Finland&#39;s Possible NATO Membership &lpar;2016&rpar; [pdf]](https://um.fi/documents/35732/48132/the_effects_of_finlands_possible_nato_membership/c206b3c2-acaa-5809-c545-7aa67c9bcb2a?t=1525861455616)
+- [Mark Zuckerberg on the Lex Fridman Podcast [video]](https://www.youtube.com/watch?v=5zOHSysMmH0)
 - [Coding and Confusion](https://www.joshbochu.com/posts/confusion)
 - [Ask HN: How much gas we could save in EU if we reduce our heating temp by 3°?](https://news.ycombinator.com/item?id=30479688)
-- [Zulip Cloud security vulnerability with reusable invitation links](https://blog.zulip.com/2022/02/25/zulip-cloud-invitation-vulnerability/)
-- [Anatomy of a Terminal Emulator](https://poor.dev/blog/terminal-anatomy/)
-- [Residential building struck by a missile in southwestern Kyiv Saturday morning](https://twitter.com/nytimes/status/1497607423594536961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
