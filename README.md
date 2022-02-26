@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Human Cost of Putin&#39;s War](https://www.wilsoncenter.org/blog-post/human-cost-putins-war)
+- [At last, a self-driving car that can explain itself](https://spectrum.ieee.org/at-last-a-self-driving-car-that-can-explain-itself)
+- [Warren Buffett’s annual letter [pdf]](https://www.berkshirehathaway.com/2021ar/2021ar.pdf)
+- [BitConnect Founder Indicted in Global $2.4B Cryptocurrency Scheme](https://www.justice.gov/opa/pr/bitconnect-founder-indicted-global-24-billion-cryptocurrency-scheme)
 - [Open source 5G core network base on 3GPP R15](https://github.com/free5gc/free5gc)
-- [Twitter restricted in Russia amid conflict with Ukraine](https://netblocks.org/reports/twitter-restricted-in-russia-amid-conflict-with-ukraine-JBZrogB6)
-- [Meta to bar Russian state media from running ads, monetizing on platform](https://www.reuters.com/technology/meta-bar-russian-state-media-running-ads-monetizing-platform-2022-02-26/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;In San Francisco and London&rpar;](https://etleap.com/jobs/#software-engineer)
-- [Military gap between Russia and Ukraine](https://www.economist.com/graphic-detail/2022/02/25/the-military-gap-between-russia-and-ukraine-is-vast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
