@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cutting Russia off from SWIFT a “matter of days” – euro zone central banker](https://www.reuters.com/markets/europe/cutting-russia-off-swift-matter-days-euro-zone-central-banker-2022-02-26/)
-- [Scientists reveal 4.4M galaxies in a new map](https://phys.org/news/2022-02-scientists-reveal-million-galaxies.html)
-- [DNA data of sexual assault victims exposed in breach at US laboratory](https://portswigger.net/daily-swig/dna-data-of-sexual-assault-victims-exposed-in-breach-at-us-laboratory)
-- [Failing in Haskell](https://jappie.me/failing-in-haskell.html)
-- [At last, a self-driving car that can explain itself](https://spectrum.ieee.org/at-last-a-self-driving-car-that-can-explain-itself)
+- [Gitlab Critical Security Release: 14.8.2, 14.7.4, and 14.6.5](https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/)
+- [Anonymous takes .ru government websites offline](https://twitter.com/YourAnonNews/status/1497574730282541060)
+- [1.7M Hondas are being investigated for phantom braking](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
+- [Distributed terrorism/warfare via Telegram channels](https://news.ycombinator.com/item?id=30478391)
+- [50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
