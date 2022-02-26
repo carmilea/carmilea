@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;In San Francisco and London&rpar;](https://etleap.com/jobs/#software-engineer)
+- [Military gap between Russia and Ukraine](https://www.economist.com/graphic-detail/2022/02/25/the-military-gap-between-russia-and-ukraine-is-vast)
+- [How Russia Took over the Internet in Crimea and Eastern Ukraine](https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/)
 - [Portugal announces immediate granting of visas for Ukrainian refugees](https://www.theportugalnews.com/news/2022-02-25/portugal-identifying-job-opportunities-for-refugees/65478)
 - [PwC fined over exam cheating involving 1,100 of its auditors](https://www.ft.com/content/2e246b48-a6a9-4dc6-b4fb-136b62ab3a3a)
-- [New 9/11 impact footage has emerged](https://www.youtube.com/watch?v=o6t31R4tI10)
-- [Nvidia Hit by Major Cyberattack](https://wccftech.com/nvidia-hit-by-major-cyberattack-that-may-have-completely-compromised-parts-of-its-business/)
-- [Psychiatry and Politicians: The &#39;Hubris Syndrome&#39;](https://www.cambridge.org/core/journals/the-psychiatrist/article/psychiatry-and-politicians-the-hubris-syndrome/46643F663C0E79B9CE3FFE0A0F97F09B)
 <!-- BLOG-POST-LIST:END -->
 
 ---
