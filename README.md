@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Human Cost of Putin&#39;s War](https://www.wilsoncenter.org/blog-post/human-cost-putins-war)
+- [Cutting Russia off from SWIFT a “matter of days” – euro zone central banker](https://www.reuters.com/markets/europe/cutting-russia-off-swift-matter-days-euro-zone-central-banker-2022-02-26/)
+- [Scientists reveal 4.4M galaxies in a new map](https://phys.org/news/2022-02-scientists-reveal-million-galaxies.html)
+- [DNA data of sexual assault victims exposed in breach at US laboratory](https://portswigger.net/daily-swig/dna-data-of-sexual-assault-victims-exposed-in-breach-at-us-laboratory)
+- [Failing in Haskell](https://jappie.me/failing-in-haskell.html)
 - [At last, a self-driving car that can explain itself](https://spectrum.ieee.org/at-last-a-self-driving-car-that-can-explain-itself)
-- [Warren Buffett’s annual letter [pdf]](https://www.berkshirehathaway.com/2021ar/2021ar.pdf)
-- [BitConnect Founder Indicted in Global $2.4B Cryptocurrency Scheme](https://www.justice.gov/opa/pr/bitconnect-founder-indicted-global-24-billion-cryptocurrency-scheme)
-- [Open source 5G core network base on 3GPP R15](https://github.com/free5gc/free5gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
