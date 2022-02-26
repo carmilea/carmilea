@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia Fires Back at Hackers, Encrypting Stolen Data and Ransomed Their Systems](https://wccftech.com/nvidia-fires-back-at-hackers-by-encrypting-1-tb-stolen-data-successfully-ransomed-their-systems/)
+- [Heat people, not spaces &lpar;2015&rpar;](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html)
+- [Full consensus for disconnecting Russia from SWIFT achieved, process has begun](https://www.uawire.org/kyiv-full-consensus-for-disconnecting-russia-from-swift-has-been-achieved-the-process-has-begun)
+- [S&amp;P lowers Russia&#39;s rating to &#39;junk&#39; status, Moody&#39;s issues junk warning](https://www.reuters.com/markets/rates-bonds/moodys-puts-russia-ukraine-ratings-review-downgrade-2022-02-25/)
+- [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth)
 - [Ask HN: Why are you programming your hobby projects in a niche language?](https://news.ycombinator.com/item?id=30482060)
-- [Gut Microbiota Regulate Pancreatic Growth, Exocrine Function and Gut Hormones](https://diabetesjournals.org/diabetes/article-abstract/doi/10.2337/db21-0382/144608/Gut-Microbiota-Regulate-Pancreatic-Growth-Exocrine?redirectedFrom=fulltext)
-- [MetalNES: Transistor Level NES Simulation](https://github.com/iaddis/metalnes)
-- [Information Warfare Is Without Limits and So Are Its Consequences](https://schmud.de/posts/2022-02-25-info-warfare-without-limits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
