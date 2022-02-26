@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Fires Back at Hackers, Encrypting Stolen Data and Ransomed Their Systems](https://wccftech.com/nvidia-fires-back-at-hackers-by-encrypting-1-tb-stolen-data-successfully-ransomed-their-systems/)
+- [Ask HN: Why are you programming your hobby projects in a niche language?](https://news.ycombinator.com/item?id=30482060)
+- [Gut Microbiota Regulate Pancreatic Growth, Exocrine Function and Gut Hormones](https://diabetesjournals.org/diabetes/article-abstract/doi/10.2337/db21-0382/144608/Gut-Microbiota-Regulate-Pancreatic-Growth-Exocrine?redirectedFrom=fulltext)
 - [MetalNES: Transistor Level NES Simulation](https://github.com/iaddis/metalnes)
-- [String-Based Templates vs. DSLs: The Pros and Cons of Each](https://www.fullstackruby.dev/podcast/3/)
-- [A brief history of liquid computers](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
-- [Minimal English &lpar;2018&rpar;](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english)
-- [So you want to design a programming language &lpar;2017&rpar;](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
+- [Information Warfare Is Without Limits and So Are Its Consequences](https://schmud.de/posts/2022-02-25-info-warfare-without-limits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
