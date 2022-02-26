@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Linux look like Windows 95](https://lunduke.substack.com/p/make-linux-look-exactly-like-windows)
+- [Asm-Lsp – Language Server for Gas/NASM/Go Assembly](https://github.com/bergercookie/asm-lsp)
 - [Detailed simulation of complete minimal cellular life](https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue)
 - [Stampeding away from Hadoop: Three Customer Success Stories](https://www.singlestore.com/blog/stampeding-away-from-hadoop-three-customer-success-stories)
 - [Russian-manufactured armored vehicle vulnerability in urban combat &lpar;1997&rpar;](https://man.fas.org/dod-101/sys/land/row/rusav.htm)
-- [The definitive guide that you never wanted: Backpack fabrics](https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405)
-- [Ask HN: Any scientifically proven techniques to boost concentration?](https://news.ycombinator.com/item?id=30473322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
