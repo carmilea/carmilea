@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding and Confusion](https://www.joshbochu.com/posts/confusion)
+- [Ask HN: How much gas we could save in EU if we reduce our heating temp by 3°?](https://news.ycombinator.com/item?id=30479688)
+- [Zulip Cloud security vulnerability with reusable invitation links](https://blog.zulip.com/2022/02/25/zulip-cloud-invitation-vulnerability/)
+- [Anatomy of a Terminal Emulator](https://poor.dev/blog/terminal-anatomy/)
 - [Residential building struck by a missile in southwestern Kyiv Saturday morning](https://twitter.com/nytimes/status/1497607423594536961)
-- [Anonymous takes down websites of Defense Ministry, RT and Kremlin](https://thebarentsobserver.com/en/security/2022/02/anonymous-takes-down-websites-defense-ministry-rt-and-kremlin)
-- [Gitlab Critical Security Release](https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/)
-- [Anonymous takes .ru government websites offline](https://twitter.com/YourAnonNews/status/1497574730282541060)
-- [1.7M Hondas are being investigated for phantom braking](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
