@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany commits €100B to defense spending](https://www.dw.com/en/germany-commits-100-billion-to-defense-spending/a-60933724)
-- [Ukraine creating international territorial defense legion – Zelensky](https://www.ukrinform.net/rubric-ato/3414438-ukraine-creating-international-territorial-defense-legion-zelensky.html)
-- [Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
-- [Official Ukrainian BTC wallet has $2M and is growing thanks to global donations](https://www.blockchain.com/btc/address/357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P)
-- [Circumventing Deep Packet Inspection with Socat and Rot13](https://gist.github.com/gmurdocca/88857b58dc4668d88b0d0fae6ebf8b64)
+- [How IKEA tricks you into buying more stuff](https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/)
+- [Crypto scams taking advantage of Ukraine conflict](https://blog.avast.com/crypto-scams-taking-advantage-of-ukraine-conflict-avast)
+- [Dependency injection in Go with Uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx)
+- [10 Years Ago the Feds Shut Down Megaupload](https://torrentfreak.com/10-years-ago-the-feds-shut-down-megaupload-220120/)
+- [Metaphysics of Mapping Buildings](https://snufk.in/blog/mapping-buildings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
