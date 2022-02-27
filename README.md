@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Depict.ai &lpar;YC S20&rpar; Is Hiring Engineers](https://depictai.notion.site/Depict-YC-S20-is-hiring-engineers-8bab951236b2472cbc5302ca6c2f0ec2)
+- [New JSON query operators in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 - [Thunderbird’s New Home &lpar;2020&rpar;](https://blog.thunderbird.net/2020/01/thunderbirds-new-home/)
+- [Don&#39;t Write a Programming Language](https://write.as/loke/dont-write-a-programming-language)
 - [Ask HN: The book that did it for you in math and/or CS?](https://news.ycombinator.com/item?id=30485544)
-- [Dealing with a Cybiko Classic in 2022](https://kn100.me/interfacing-with-cybiko-2022/)
-- [An Ableton Live Set is gzipped XML + a Ruby gem &lpar;2012&rpar;](http://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-ruby.html)
-- [The Competitive Duality of Slay the Spire](https://www.twitlonger.com/show/n_1srvds6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
