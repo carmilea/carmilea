@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching no-code algorithmic trading platform](https://tradebase.ai)
+- [Russia mistakenly posted post-war article about Ukraine joining Russia](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [DaVinci&#39;s Gallery of Photoshop Graphics and Tutorials](https://web.archive.org/web/20020122110000/http://davinci.ice.org:80/)
+- [Caltech&#39;s CS interview prep course](http://courses.cms.caltech.edu/cs11/material/interviews/)
 - [Build your own MENACE &lpar;matchbox-powered machine learning computer&rpar;](https://www.mscroggs.co.uk/blog/94)
-- [Russia Has Illegally Gained UN Security Council Seat. It Should Be Fixed](https://www.eurointegration.com.ua/eng/articles/2022/02/8/7133682/)
-- [How to make small tweaks to free software](https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1)
-- [BP retreats from Russia&#39;s Rosneft at cost of $25 bln over Ukraine invasion](https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
