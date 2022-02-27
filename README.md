@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia orders block on foreign clients&#39; bids to sell Russian securities](https://www.reuters.com/business/russian-cbank-orders-block-foreign-clients-bids-sell-russian-securities-document-2022-02-27/)
+- [Longbet: By 2027, software will be metered/sold by the second](https://longbets.org/884/)
+- [The Great Curly Brace Trace Chase &lpar;2003&rpar;](https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM)
 - [Germany mulls extending nuclear plants&#39; life-span](https://www.reuters.com/world/europe/germany-mulls-extending-nuclear-plants-life-span-economy-minister-2022-02-27/)
-- [Open Source Alternatives to Popular SaaS Products](https://github.com/RunaCapital/awesome-oss-alternatives)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [DaVinci&#39;s Gallery of Photoshop Graphics and Tutorials](https://web.archive.org/web/20020122110000/http://davinci.ice.org:80/)
-- [Caltech&#39;s CS interview prep course](http://courses.cms.caltech.edu/cs11/material/interviews/)
+- [Open source alternatives to popular SaaS products](https://github.com/RunaCapital/awesome-oss-alternatives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
