@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS allows apps to read browser history. Entire internet doesn’t notice](https://news.ycombinator.com/item?id=30484132)
+- [Show HN: TopHat Finance – free, open, and offline](https://athenodoros.github.io/TopHat/)
 - [Russian Offensive Campaign Assessment, Feb 26, 2022](http://www.iswresearch.org/2022/02/russia-ukraine-warning-update-russian_26.html)
+- [The Internet Was Designed with a Narrow Waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
+- [Colors.lol &lpar;2020&rpar;](https://colors.lol/)
 - [Liquorix Kernel](https://liquorix.net/)
-- [Login with a Public Ed25519 Key](https://github.com/62726164/ed25519-login)
-- [No_color](https://no-color.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
