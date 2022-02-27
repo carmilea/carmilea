@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dealing with a Cybiko Classic in 2022](https://kn100.me/interfacing-with-cybiko-2022/)
-- [Who’s Lying?](https://blog.asmartbear.com/whos-lying.html)
+- [Tinder’s Pricing Algorithm Charge Users Up to Five-Times More for Same Service](https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/)
 - [The Competitive Duality of Slay the Spire](https://www.twitlonger.com/show/n_1srvds6)
 - [Show HN: TopHat Finance – free, open, and offline](https://athenodoros.github.io/TopHat/)
 - [The internet was designed with a narrow waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
