@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink transmissions become beacons for airstrikes](https://threadreaderapp.com/thread/1497745011932286979.html)
+- [Ukraine launches site to help families of captured and killed Russian soldiers](https://200rf.com)
+- [Writing UTF-8 Programs in Plan 9](https://seh.dev/9runes/)
+- [Accounts to Support Ukrainian Army Directly via Bank of Ukraine](https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
 - [Depict.ai &lpar;YC S20&rpar; Is Hiring Engineers](https://depictai.notion.site/Depict-YC-S20-is-hiring-engineers-8bab951236b2472cbc5302ca6c2f0ec2)
 - [New JSON query operators in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
-- [Thunderbird’s New Home &lpar;2020&rpar;](https://blog.thunderbird.net/2020/01/thunderbirds-new-home/)
-- [Don&#39;t Write a Programming Language](https://write.as/loke/dont-write-a-programming-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
