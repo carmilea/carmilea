@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching no-code algorithmic trading platform](https://tradebase.ai)
+- [Build your own MENACE &lpar;matchbox-powered machine learning computer&rpar;](https://www.mscroggs.co.uk/blog/94)
+- [Russia Has Illegally Gained UN Security Council Seat. It Should Be Fixed](https://www.eurointegration.com.ua/eng/articles/2022/02/8/7133682/)
 - [How to make small tweaks to free software](https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1)
 - [BP retreats from Russia&#39;s Rosneft at cost of $25 bln over Ukraine invasion](https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/)
-- [Using CMOS Sensors in a Cellphone for Gamma Detection and Classification](https://arxiv.org/abs/1401.0766)
-- [Norway&#39;s sovereign wealth fund to vote against Apple management&#39;s pay plan](https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/)
-- [Year 2038 problem is still alive and well](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
