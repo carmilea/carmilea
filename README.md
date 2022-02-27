@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: The book that did it for you in Math and/or CS](https://news.ycombinator.com/item?id=30485544)
+- [Thunderbird’s New Home &lpar;2020&rpar;](https://blog.thunderbird.net/2020/01/thunderbirds-new-home/)
+- [Ask HN: The book that did it for you in math and/or CS?](https://news.ycombinator.com/item?id=30485544)
 - [Dealing with a Cybiko Classic in 2022](https://kn100.me/interfacing-with-cybiko-2022/)
-- [Tinder’s Pricing Algorithm Charge Users Up to Five-Times More for Same Service](https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/)
 - [An Ableton Live Set is gzipped XML + a Ruby gem &lpar;2012&rpar;](http://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-ruby.html)
 - [The Competitive Duality of Slay the Spire](https://www.twitlonger.com/show/n_1srvds6)
 <!-- BLOG-POST-LIST:END -->
