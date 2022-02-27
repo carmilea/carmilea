@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Defcon Level Warning System: Private Osint &lpar;Open Source&rpar; Analysis Organization](https://www.defconlevel.com/current-level.php)
+- [Discovery of ultrafast myosin, its amino acid sequence, and structural features](https://www.pnas.org/content/119/8/e2120962119)
+- [Alleged full dump of Russian military personnel, including IDs and SSNs](https://sliv.top/2022/02/26/top-sliv-vseh-voennosluzhashhih-vs-rf/)
 - [Global chip shortage may soon turn into an oversupply crisis](https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis)
 - [HTMLMediaElement.canPlayType&lpar;&rpar;](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType)
 - [Ask HN: Any recommendation for a good History of Science book?](https://news.ycombinator.com/item?id=30489142)
-- [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
