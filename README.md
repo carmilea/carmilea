@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Putin holds a major soft power weapon, help weaken it with gas and oil rationing](https://www.boycott-russian-gas.com/)
-- [Tell HN: Kasparov&#39;s 2015 book should have been a must read for many](https://news.ycombinator.com/item?id=30488300)
-- [More than 600 Russian scientists sign open letter against war with Ukraine](https://www.chemistryworld.com/news/more-than-600-russian-scientists-sign-open-letter-against-war-with-ukraine/4015292.article)
-- [Russia’s way of conducting urban warfare bodes ill for Kyiv](https://www.economist.com/europe/2022/02/26/russias-way-of-conducting-urban-warfare-bodes-ill-for-kyiv)
-- [Show HN: Switch windows of same app with hotkey&lpar;alt + `&rpar;](https://github.com/sigoden/windows-switcher)
+- [State of Colorado to accept Bitcoin for payments](https://kdvr.com/news/local/colorado-to-become-first-state-to-accept-crypto-for-payments/)
+- [Show HN: Messages for Macintosh – a “classic” Mac iMessage client](https://github.com/CamHenlin/MessagesForMacintosh)
+- [Twitch and OnlyFans block all users from Russia due to sanctions](https://www.gamingdeputy.com/twitch-and-onlyfans-block-all-users-from-russia-due-to-sanctions/)
+- [GNU Guix package and system manager](https://guix.gnu.org/)
+- [Dr. Seuss’ Satirical Lesson on Nuclear Armament and the Absurdity of War](https://www.dailyfig.com/2016/08/15/dr-seuss-satrical-lesson-on-nuclear-armament-and-the-absurdity-of-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
