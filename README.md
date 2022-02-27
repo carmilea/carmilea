@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovery of ultrafast myosin, its amino acid sequence, and structural features](https://www.pnas.org/content/119/8/e2120962119)
-- [Alleged full dump of Russian military personnel, including IDs and SSNs](https://sliv.top/2022/02/26/top-sliv-vseh-voennosluzhashhih-vs-rf/)
-- [Global chip shortage may soon turn into an oversupply crisis](https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis)
-- [HTMLMediaElement.canPlayType&lpar;&rpar;](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType)
-- [Ask HN: Any recommendation for a good History of Science book?](https://news.ycombinator.com/item?id=30489142)
+- [Intel gets worse, but Power11 might get better](https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html)
+- [Documenting Equipment Losses During the 2022 Russian Invasion of Ukraine](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
+- [Why aren&#39;t you charging money for your side project?](https://news.ycombinator.com/item?id=30490637)
+- [Win32 is the stable Linux userland ABI &lpar;and the consequences&rpar;](https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/)
+- [Why not hire part-time developers?](https://aklos.substack.com/p/why-not-hire-part-time-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
