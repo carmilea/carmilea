@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Colorado to accept Bitcoin for payments](https://kdvr.com/news/local/colorado-to-become-first-state-to-accept-crypto-for-payments/)
-- [Show HN: Messages for Macintosh – a “classic” Mac iMessage client](https://github.com/CamHenlin/MessagesForMacintosh)
-- [Twitch and OnlyFans block all users from Russia due to sanctions](https://www.gamingdeputy.com/twitch-and-onlyfans-block-all-users-from-russia-due-to-sanctions/)
-- [GNU Guix package and system manager](https://guix.gnu.org/)
-- [Dr. Seuss’ Satirical Lesson on Nuclear Armament and the Absurdity of War](https://www.dailyfig.com/2016/08/15/dr-seuss-satrical-lesson-on-nuclear-armament-and-the-absurdity-of-war/)
+- [Defcon Level Warning System: Private Osint &lpar;Open Source&rpar; Analysis Organization](https://www.defconlevel.com/current-level.php)
+- [Global chip shortage may soon turn into an oversupply crisis](https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis)
+- [HTMLMediaElement.canPlayType&lpar;&rpar;](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType)
+- [Ask HN: Any recommendation for a good History of Science book?](https://news.ycombinator.com/item?id=30489142)
+- [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
