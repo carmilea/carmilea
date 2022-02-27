@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel gets worse, but Power11 might get better](https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html)
-- [Documenting Equipment Losses During the 2022 Russian Invasion of Ukraine](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
-- [Why aren&#39;t you charging money for your side project?](https://news.ycombinator.com/item?id=30490637)
-- [Win32 is the stable Linux userland ABI &lpar;and the consequences&rpar;](https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/)
-- [Why not hire part-time developers?](https://aklos.substack.com/p/why-not-hire-part-time-developers)
+- [How to make small tweaks to free software](https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1)
+- [BP retreats from Russia&#39;s Rosneft at cost of $25 bln over Ukraine invasion](https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/)
+- [Using CMOS Sensors in a Cellphone for Gamma Detection and Classification](https://arxiv.org/abs/1401.0766)
+- [Norway&#39;s sovereign wealth fund to vote against Apple management&#39;s pay plan](https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/)
+- [Year 2038 problem is still alive and well](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
