@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany commits €100B to defense spending](https://www.dw.com/en/germany-commits-100-billion-to-defense-spending/a-60933724)
+- [Ukraine creating international territorial defense legion – Zelensky](https://www.ukrinform.net/rubric-ato/3414438-ukraine-creating-international-territorial-defense-legion-zelensky.html)
 - [Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
-- [An-225](https://en.wikipedia.org/wiki/Antonov_An-225_Mriya)
-- [Writing UTF-8 Programs in Plan 9](https://seh.dev/9runes/)
-- [Longevity FAQ: A beginner&#39;s guide to longevity research](https://www.ldeming.com/longevityfaq)
-- [Depict.ai &lpar;YC S20&rpar; Is Hiring Engineers](https://depictai.notion.site/Depict-YC-S20-is-hiring-engineers-8bab951236b2472cbc5302ca6c2f0ec2)
+- [Official Ukrainian BTC wallet has $2M and is growing thanks to global donations](https://www.blockchain.com/btc/address/357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P)
+- [Circumventing Deep Packet Inspection with Socat and Rot13](https://gist.github.com/gmurdocca/88857b58dc4668d88b0d0fae6ebf8b64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
