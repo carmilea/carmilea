@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: The book that did it for you in Math and/or CS](https://news.ycombinator.com/item?id=30485544)
 - [Dealing with a Cybiko Classic in 2022](https://kn100.me/interfacing-with-cybiko-2022/)
 - [Tinder’s Pricing Algorithm Charge Users Up to Five-Times More for Same Service](https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/)
+- [An Ableton Live Set is gzipped XML + a Ruby gem &lpar;2012&rpar;](http://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-ruby.html)
 - [The Competitive Duality of Slay the Spire](https://www.twitlonger.com/show/n_1srvds6)
-- [Show HN: TopHat Finance – free, open, and offline](https://athenodoros.github.io/TopHat/)
-- [The internet was designed with a narrow waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
