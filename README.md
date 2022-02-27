@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How IKEA tricks you into buying more stuff](https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/)
-- [Crypto scams taking advantage of Ukraine conflict](https://blog.avast.com/crypto-scams-taking-advantage-of-ukraine-conflict-avast)
-- [Dependency injection in Go with Uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx)
-- [10 Years Ago the Feds Shut Down Megaupload](https://torrentfreak.com/10-years-ago-the-feds-shut-down-megaupload-220120/)
-- [Metaphysics of Mapping Buildings](https://snufk.in/blog/mapping-buildings.html)
+- [Putin holds a major soft power weapon, help weaken it with gas and oil rationing](https://www.boycott-russian-gas.com/)
+- [Tell HN: Kasparov&#39;s 2015 book should have been a must read for many](https://news.ycombinator.com/item?id=30488300)
+- [More than 600 Russian scientists sign open letter against war with Ukraine](https://www.chemistryworld.com/news/more-than-600-russian-scientists-sign-open-letter-against-war-with-ukraine/4015292.article)
+- [Russia’s way of conducting urban warfare bodes ill for Kyiv](https://www.economist.com/europe/2022/02/26/russias-way-of-conducting-urban-warfare-bodes-ill-for-kyiv)
+- [Show HN: Switch windows of same app with hotkey&lpar;alt + `&rpar;](https://github.com/sigoden/windows-switcher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
