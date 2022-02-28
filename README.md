@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia and Belarus banned from holding world chess events](https://chess24.com/en/read/news/fide-bans-russia-from-holding-chess-events)
+- [How to earn money by hacking a “walking for money” app](https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html)
+- [Universe Splitter](http://cheapuniverses.com/universesplitter/)
+- [EU plans to mandate less secure certificates in browsers](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers)
+- [End of Life Dates](https://endoflife.date/)
 - [Stacker &lpar;YC S20&rpar; Is hiring leadership layer across Product Marketing, and Growth](https://www.stackerhq.com/careers#job-listing)
-- [Briar has been removed from Google Play](https://briarproject.org/news/2022-briar-removed-from-google-play/)
-- [A free Ukraine Invasion dashboard with live news, real-time map, Kyiv webcams](https://bunkerhub.netlify.app/)
-- [Moscow Exchange](https://news.ycombinator.com/item?id=30498740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
