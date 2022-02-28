@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
+- [Constrained Reweighting for Training Deep Neural Nets with Noisy Labels](https://ai.googleblog.com/2022/02/constrained-reweighting-for-training.html)
+- [I have formally accepted the CEO job at Cruise once again](https://twitter.com/kvogt/status/1498368988308328449)
+- [Quantum computing for the curious &lpar;2019&rpar;](https://quantum.country/qcvc)
 - [The surprising links between what you eat and how well you sleep](https://www.bbc.com/news/health-60291027)
-- [Bill to require job postings to include salaries passes Washington Senate](https://www.kiro7.com/news/local/bill-require-job-postings-include-salaries-passes-washington-senate/UFC2IBIGCJAJRLGMMKHWZ3F3PE/)
-- [No user accounts, by design](https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html)
-- [TSMC R&amp;D chief: There’s light at the end of the chip shortage](https://spectrum.ieee.org/tsmc-exec-on-chip-shortage)
-- [Show HN: A more social, Amazon-free alternative to Goodreads](https://www.booqsi.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
