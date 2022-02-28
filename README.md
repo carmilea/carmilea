@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Books you should read when you transform from SWE into SWE-Management](https://news.ycombinator.com/item?id=30497703)
-- [Lenovo announces the first Arm-based ThinkPad](https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/)
-- [Russian central bank confirms block on foreign bids to sell Russian securities](https://www.reuters.com/business/finance/russian-cbank-confirms-block-foreigners-bids-sell-russian-securities-2022-02-28/)
-- [Belarus referendum approves proposal to renounce non-nuclear status](https://www.reuters.com/world/europe/launchpad-russias-assault-ukraine-belarus-holds-referendum-renounce-non-nuclear-2022-02-27/)
-- [Wordlexpr: Compile-Time Wordle in C++20](https://vittorioromeo.info/index/blog/wordlexpr.html)
+- [Hoppscotch: Open-Source Alternative to Postman](https://hoppscotch.io/)
+- [Flying a single-engine Antonov An-2 over the Atlantic Ocean](https://dmax.de/sendungen/steel-buddies/special-flight-of-the-antonov/)
+- [The new ARM based ThinkPad X13s](https://www.tomshardware.com/news/lenovo-thinkpad-x13s-arm-laptop)
+- [TL;DR – Hybrid Public Key Encryption](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)
+- [A summary of the international standard date and time notation &lpar;2004&rpar;](https://www.cl.cam.ac.uk/~mgk25/iso-time.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
