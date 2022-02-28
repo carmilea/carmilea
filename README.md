@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia orders block on foreign clients&#39; bids to sell Russian securities](https://www.reuters.com/business/russian-cbank-orders-block-foreign-clients-bids-sell-russian-securities-document-2022-02-27/)
-- [Longbet: By 2027, software will be metered/sold by the second](https://longbets.org/884/)
-- [The Great Curly Brace Trace Chase &lpar;2003&rpar;](https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM)
-- [Germany mulls extending nuclear plants&#39; life-span](https://www.reuters.com/world/europe/germany-mulls-extending-nuclear-plants-life-span-economy-minister-2022-02-27/)
-- [Open source alternatives to popular SaaS products](https://github.com/RunaCapital/awesome-oss-alternatives)
+- [Russian Ruble just lost ~30% of its value](https://www.cmegroup.com/markets/fx/emerging-market/russian-ruble.html)
+- [Milky Way and Andromeda galaxies are already merging](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
+- [I enforced the AGPL on my code](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html)
+- [States where teachers’ unions are strongest are slowest to get back to in-person](https://www.city-journal.org/strong-teachers-unions-mean-more-covid-restrictions)
+- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
