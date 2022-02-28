@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Container registry on a budget using AWS S3](https://maltheborch.com/#container-registry-on-a-budget-using-aws-s3)
+- [What Is the Oldest, Still Supported OS?](https://news.ycombinator.com/item?id=30505219)
 - [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
-- [Constrained Reweighting for Training Deep Neural Nets with Noisy Labels](https://ai.googleblog.com/2022/02/constrained-reweighting-for-training.html)
+- [It’s a Pivotal Time for Data and Disruption — and SingleStore Is Leading the Way in the Cloud](https://www.singlestore.com/blog/its-a-pivotal-time-for-data-and-disruption-and-singlestore-is-leading-the-way-in-the-cloud)
 - [I have formally accepted the CEO job at Cruise once again](https://twitter.com/kvogt/status/1498368988308328449)
-- [Quantum computing for the curious &lpar;2019&rpar;](https://quantum.country/qcvc)
-- [The surprising links between what you eat and how well you sleep](https://www.bbc.com/news/health-60291027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
