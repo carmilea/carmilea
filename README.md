@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany aims to get 100% of energy from renewable sources by 2035](https://www.reuters.com/business/sustainable-business/germany-aims-get-100-energy-renewable-sources-by-2035-2022-02-28/)
+- [Ask HN: Who Are Anonymous?](https://news.ycombinator.com/item?id=30500429)
+- [Ask HN: Single person creations that have stood the test of time](https://news.ycombinator.com/item?id=30500188)
 - [How to earn money by hacking a “walking for money” app](https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html)
 - [Universe Splitter](http://cheapuniverses.com/universesplitter/)
-- [A planned EU regulation about website certificates is causing concern](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers)
-- [Panasonic to begin mass producing new 4680 Tesla battery by March 2024](https://www.reuters.com/technology/panasonic-begin-mass-producing-new-tesla-battery-by-end-march-2022-02-28/)
-- [End of Life Dates](https://endoflife.date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
