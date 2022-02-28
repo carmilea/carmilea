@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Painfully Shy Developer&#39;s Guide to Networking for a Better Job](https://www.samjulien.com/shy-dev-networking/)
+- [Physicists build circuit that generates clean limitless power from graphene](https://www.thebrighterside.news/post/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
 - [Russian Ruble just lost ~30% of its value](https://www.cmegroup.com/markets/fx/emerging-market/russian-ruble.html)
-- [Milky Way and Andromeda galaxies are already merging](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
-- [I enforced the AGPL on my code](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html)
-- [States where teachers’ unions are strongest are slowest to get back to in-person](https://www.city-journal.org/strong-teachers-unions-mean-more-covid-restrictions)
-- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
+- [Milky Way and Andromeda galaxies are already merging &lpar;2020&rpar;](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
+- [I enforced the AGPL on my code &lpar;2020&rpar;](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
