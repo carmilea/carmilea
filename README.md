@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux from Scratch](https://linuxfromscratch.org/)
 - [The painfully shy developer&#39;s guide to networking for a better job](https://www.samjulien.com/shy-dev-networking/)
 - [ComiCSS](https://alvaromontoro.com/blog/67998/introducing-comicss)
+- [Hooks: React’s Do-Notation](https://devanshj.me/writings/hooks-reacts-do-notation)
 - [Milky Way and Andromeda galaxies are already merging &lpar;2020&rpar;](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
-- [I enforced the AGPL on my code &lpar;2020&rpar;](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html)
-- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
