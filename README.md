@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to earn money by hacking a “walking for money” app](https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html)
 - [Universe Splitter](http://cheapuniverses.com/universesplitter/)
-- [EU plans to mandate less secure certificates in browsers](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers)
+- [A planned EU regulation about website certificates is causing concern](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers)
+- [Panasonic to begin mass producing new 4680 Tesla battery by March 2024](https://www.reuters.com/technology/panasonic-begin-mass-producing-new-tesla-battery-by-end-march-2022-02-28/)
 - [End of Life Dates](https://endoflife.date/)
-- [Stacker &lpar;YC S20&rpar; Is hiring leadership layer across Product Marketing, and Growth](https://www.stackerhq.com/careers#job-listing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
