@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Books you should read when you transform from SWE into SWE-Management](https://news.ycombinator.com/item?id=30497703)
+- [Lenovo announces the first Arm-based ThinkPad](https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/)
+- [Russian central bank confirms block on foreign bids to sell Russian securities](https://www.reuters.com/business/finance/russian-cbank-confirms-block-foreigners-bids-sell-russian-securities-2022-02-28/)
 - [Belarus referendum approves proposal to renounce non-nuclear status](https://www.reuters.com/world/europe/launchpad-russias-assault-ukraine-belarus-holds-referendum-renounce-non-nuclear-2022-02-27/)
 - [Wordlexpr: Compile-Time Wordle in C++20](https://vittorioromeo.info/index/blog/wordlexpr.html)
-- [Learn the Cypher query language in 10 days](https://memgraph.com/learn-cypher-query-language)
-- [Bank of China&#39;s Singapore operation stops financing Russian oil trades](https://www.reuters.com/article/ukraine-crisis-swift-commodities-idCNL4N2V30WC)
-- [Someone should probably start a bright home lighting company &lpar;2019&rpar;](https://www.lincolnquirk.com/2019/11/26/lumenator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
