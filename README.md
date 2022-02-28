@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Belarus referendum approves proposal to renounce non-nuclear status](https://www.reuters.com/world/europe/launchpad-russias-assault-ukraine-belarus-holds-referendum-renounce-non-nuclear-2022-02-27/)
+- [Wordlexpr: Compile-Time Wordle in C++20](https://vittorioromeo.info/index/blog/wordlexpr.html)
+- [Learn the Cypher query language in 10 days](https://memgraph.com/learn-cypher-query-language)
+- [Bank of China&#39;s Singapore operation stops financing Russian oil trades](https://www.reuters.com/article/ukraine-crisis-swift-commodities-idCNL4N2V30WC)
 - [Someone should probably start a bright home lighting company &lpar;2019&rpar;](https://www.lincolnquirk.com/2019/11/26/lumenator.html)
-- [TorchRec, a library for modern production recommendation systems](https://pytorch.org/blog/introducing-torchrec/)
-- [Linux from Scratch](https://linuxfromscratch.org/)
-- [The painfully shy developer&#39;s guide to networking for a better job](https://www.samjulien.com/shy-dev-networking/)
-- [ComiCSS](https://alvaromontoro.com/blog/67998/introducing-comicss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
