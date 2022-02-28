@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone should probably start a bright home lighting company](https://www.lincolnquirk.com/2019/11/26/lumenator.html)
+- [Someone should probably start a bright home lighting company &lpar;2019&rpar;](https://www.lincolnquirk.com/2019/11/26/lumenator.html)
 - [TorchRec, a library for modern production recommendation systems](https://pytorch.org/blog/introducing-torchrec/)
 - [Linux from Scratch](https://linuxfromscratch.org/)
 - [The painfully shy developer&#39;s guide to networking for a better job](https://www.samjulien.com/shy-dev-networking/)
