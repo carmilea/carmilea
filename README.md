@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TorchRec, a library for modern production recommendation systems](https://pytorch.org/blog/introducing-torchrec/)
 - [Linux from Scratch](https://linuxfromscratch.org/)
 - [The painfully shy developer&#39;s guide to networking for a better job](https://www.samjulien.com/shy-dev-networking/)
 - [ComiCSS](https://alvaromontoro.com/blog/67998/introducing-comicss)
 - [Hooks: React’s Do-Notation](https://devanshj.me/writings/hooks-reacts-do-notation)
-- [Milky Way and Andromeda galaxies are already merging &lpar;2020&rpar;](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
