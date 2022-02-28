@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State bar of California addresses breach of confidential data](https://www.calbar.ca.gov/About-Us/News/News-Releases/state-bar-of-california-addresses-breach-of-confidential-data)
-- [I&#39;m common as muck and spent £150 to try a Michelin star restaurant](https://www.birminghammail.co.uk/whats-on/food-drink-news/im-common-muck-spent-150-23194880)
-- [Padlet &lpar;YC W13&rpar; is hiring a writer in SF to build software for a good education](https://padlet.jobs/writer-sf)
-- [The origin story of our new ortholinear keyboard](https://dygma.com/blogs/product-development/story-new-ortholinear-keyboard)
-- [1Password Legitimizing Blockchain](https://glyph.twistedmatrix.com/2022/02/legitimizing-blockchain.html)
+- [Launch HN: Drifting in Space &lpar;YC W22&rpar; – A server process for every user](https://driftingin.space/)
+- [What is the purpose of check-in before flying? &lpar;2014&rpar;](https://travel.stackexchange.com/questions/26677/what-is-the-purpose-of-check-in-before-flying)
+- [The Life of Pi: Ten Years of Raspberry Pi](https://www.cam.ac.uk/stories/raspberrypi)
+- [Anger and fear: ten years of research in the lab and field](https://twitter.com/M_B_Petersen/status/1498199978640084993)
+- [FTX Future Fund](https://ftxfuturefund.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
