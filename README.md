@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Garnett – simple multilingual models for Django](https://github.com/Aristotle-Metadata-Enterprises/django-garnett)
-- [Hoppscotch: Open-Source Alternative to Postman](https://hoppscotch.io/)
-- [Incident increased error rate on Gov.uk on 5 January 2022](https://insidegovuk.blog.gov.uk/2022/02/25/incident-report-increased-error-rate-on-gov-uk-on-5-january-2022/)
-- [Flying a single-engine Antonov An-2 over the Atlantic Ocean](https://dmax.de/sendungen/steel-buddies/special-flight-of-the-antonov/)
-- [The new ARM based ThinkPad X13s](https://www.tomshardware.com/news/lenovo-thinkpad-x13s-arm-laptop)
+- [Russia and Belarus banned from holding world chess events](https://chess24.com/en/read/news/fide-bans-russia-from-holding-chess-events)
+- [Stacker &lpar;YC S20&rpar; Is hiring leadership layer across Product Marketing, and Growth](https://www.stackerhq.com/careers#job-listing)
+- [Briar has been removed from Google Play](https://briarproject.org/news/2022-briar-removed-from-google-play/)
+- [A free Ukraine Invasion dashboard with live news, real-time map, Kyiv webcams](https://bunkerhub.netlify.app/)
+- [Moscow Exchange](https://news.ycombinator.com/item?id=30498740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
