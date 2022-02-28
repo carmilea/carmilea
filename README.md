@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Drifting in Space &lpar;YC W22&rpar; – A server process for every user](https://driftingin.space/)
-- [What is the purpose of check-in before flying? &lpar;2014&rpar;](https://travel.stackexchange.com/questions/26677/what-is-the-purpose-of-check-in-before-flying)
-- [The Life of Pi: Ten Years of Raspberry Pi](https://www.cam.ac.uk/stories/raspberrypi)
-- [Anger and fear: ten years of research in the lab and field](https://twitter.com/M_B_Petersen/status/1498199978640084993)
-- [FTX Future Fund](https://ftxfuturefund.org/)
+- [Bill to require job postings to include salaries passes Washington Senate](https://www.kiro7.com/news/local/bill-require-job-postings-include-salaries-passes-washington-senate/UFC2IBIGCJAJRLGMMKHWZ3F3PE/)
+- [No User Accounts, by Design](https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html)
+- [TSMC R&amp;D Chief: There’s Light at the End of the Chip Shortage](https://spectrum.ieee.org/tsmc-exec-on-chip-shortage)
+- [Russia &#39;Likely&#39; to Default on Debts](https://www.reuters.com/article/ukraine-russia-sanctions-iif-idINKBN2KX240)
+- [Show HN: A more social, Amazon-free alternative to Goodreads](https://www.booqsi.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
