@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [200-Foot-Long Railway to Nowhere Is a Brilliant Shipping Loophole](https://www.thedrive.com/news/44445/canada-has-a-railroad-for-fish-thats-only-200-feet-long-heres-why)
+- [Toyota suspends domestic factory operations after suspected cyber attack](https://www.reuters.com/business/autos-transportation/toyota-suspends-all-domestic-factory-operations-after-suspected-cyber-attack-2022-02-28/)
+- [What Got You Here Won’t Get You There Book Summary](https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there)
 - [Germany aims to get 100% of energy from renewable sources by 2035](https://www.reuters.com/business/sustainable-business/germany-aims-get-100-energy-renewable-sources-by-2035-2022-02-28/)
-- [Ask HN: Who Are Anonymous?](https://news.ycombinator.com/item?id=30500429)
-- [Ask HN: Single person creations that have stood the test of time](https://news.ycombinator.com/item?id=30500188)
-- [How to earn money by hacking a “walking for money” app](https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html)
-- [Universe Splitter](http://cheapuniverses.com/universesplitter/)
+- [Wt, C++ Web Toolkit](https://www.webtoolkit.eu/wt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
