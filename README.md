@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [200-Foot-Long Railway to Nowhere Is a Brilliant Shipping Loophole](https://www.thedrive.com/news/44445/canada-has-a-railroad-for-fish-thats-only-200-feet-long-heres-why)
-- [Toyota suspends domestic factory operations after suspected cyber attack](https://www.reuters.com/business/autos-transportation/toyota-suspends-all-domestic-factory-operations-after-suspected-cyber-attack-2022-02-28/)
-- [What Got You Here Won’t Get You There Book Summary](https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there)
-- [Germany aims to get 100% of energy from renewable sources by 2035](https://www.reuters.com/business/sustainable-business/germany-aims-get-100-energy-renewable-sources-by-2035-2022-02-28/)
-- [Wt, C++ Web Toolkit](https://www.webtoolkit.eu/wt/)
+- [State bar of California addresses breach of confidential data](https://www.calbar.ca.gov/About-Us/News/News-Releases/state-bar-of-california-addresses-breach-of-confidential-data)
+- [I&#39;m common as muck and spent £150 to try a Michelin star restaurant](https://www.birminghammail.co.uk/whats-on/food-drink-news/im-common-muck-spent-150-23194880)
+- [Padlet &lpar;YC W13&rpar; is hiring a writer in SF to build software for a good education](https://padlet.jobs/writer-sf)
+- [The origin story of our new ortholinear keyboard](https://dygma.com/blogs/product-development/story-new-ortholinear-keyboard)
+- [1Password Legitimizing Blockchain](https://glyph.twistedmatrix.com/2022/02/legitimizing-blockchain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
