@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Container registry on a budget using AWS S3](https://maltheborch.com/#container-registry-on-a-budget-using-aws-s3)
-- [What Is the Oldest, Still Supported OS?](https://news.ycombinator.com/item?id=30505219)
-- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
-- [It’s a Pivotal Time for Data and Disruption — and SingleStore Is Leading the Way in the Cloud](https://www.singlestore.com/blog/its-a-pivotal-time-for-data-and-disruption-and-singlestore-is-leading-the-way-in-the-cloud)
-- [I have formally accepted the CEO job at Cruise once again](https://twitter.com/kvogt/status/1498368988308328449)
+- [F-Droid – alternative to Google Play store](https://f-droid.org/en/)
+- [Toyota to suspend operations Tuesday at all Japan factories](https://www3.nhk.or.jp/nhkworld/en/news/20220228_47/)
+- [Ask HN: What is the oldest, still supported OS?](https://news.ycombinator.com/item?id=30505219)
+- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
+- [Namecheap: Russia Service Termination](https://news.ycombinator.com/item?id=30504812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
