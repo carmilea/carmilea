@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web devs rally to challenge Apple App Store browser rules](https://open-web-advocacy.org/)
-- [You Need a Domain Name](https://johnathannader.com/why-you-need-domain-name/)
+- [Open Web Advocacy](https://open-web-advocacy.org/)
+- [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
 - [Orwell&#39;s Proposed Preface to ‘Animal Farm’](https://orwell.ru/library/novels/Animal_Farm/english/efp_go)
 - [Strangest Sorting Algorithms](https://codoholicconfessions.wordpress.com/2017/05/21/strangest-sorting-algorithms/)
 - [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
