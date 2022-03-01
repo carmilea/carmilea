@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pokitto: Open-source pocket gaming console](https://www.pokitto.com/)
+- [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
+- [Serious flaws in the way Samsung phones encrypt key material in TrustZone](https://twitter.com/matthew_d_green/status/1495935700545454084)
+- [MasterCard Blocks Transactions from Russia](https://www.reuters.com/business/mastercard-blocks-multiple-russian-financial-institutions-network-2022-03-01/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30508982)
-- [Degoogled phones running privacy oriented OS – degoogled phone](https://de-googled.com/)
-- [Solid.js feels like what I always wanted React to be](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
-- [Nostalgia MacPaint](https://paint.withdiagram.com/)
-- [Open Web Advocacy](https://open-web-advocacy.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
