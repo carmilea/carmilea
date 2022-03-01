@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Journal – 2022 – January/February [pdf]](https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf)
 - [Streak &lpar;YC W22&rpar; Is Hiring a Head of Ops](https://www.streak.com/careers/head-of-ops)
-- [Nord Stream 2 declares bankruptcy](https://www.srf.ch/news/schweiz/konkurs-angemeldet-nord-stream-2-ist-zahlungsunfaehig)
+- [Nord Stream 2 declares bankruptcy](https://www.wsj.com/articles/nord-stream-2-gas-pipeline-lays-off-all-employees-11646162990)
 - [DDoS attacks slow down Citizens&#39; Initiative signing in Finland](https://news.ycombinator.com/item?id=30518421)
 - [Why Apple’s new M1 chips are essential for rapid iOS development](https://doordash.engineering/2022/03/01/why-apples-new-m1-chips-are-essential-for-rapid-ios-development/)
-- [Evidence that no one cares about crypto-denominated wealth](https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
