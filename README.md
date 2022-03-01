@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: SWIFT is not a payments transfer system](https://news.ycombinator.com/item?id=30510928)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Developer Advocate &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [MWC 2022: The next Microsoft Pluton Device and PAC technology](https://blogs.windows.com/windowsexperience/2022/02/28/mwc-2022-the-next-microsoft-pluton-device-pac-technology/)
 - [Pokitto: Open-source pocket gaming console](https://www.pokitto.com/)
 - [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
-- [Serious flaws in the way Samsung phones encrypt key material in TrustZone](https://twitter.com/matthew_d_green/status/1495935700545454084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
