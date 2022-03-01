@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak &lpar;YC W22&rpar; Is Hiring a Head of Ops](https://www.streak.com/careers/head-of-ops)
+- [Nord Stream 2 declares bankruptcy](https://www.srf.ch/news/schweiz/konkurs-angemeldet-nord-stream-2-ist-zahlungsunfaehig)
 - [DDoS attacks slow down Citizens&#39; Initiative signing in Finland](https://news.ycombinator.com/item?id=30518421)
+- [Why Apple’s new M1 chips are essential for rapid iOS development](https://doordash.engineering/2022/03/01/why-apples-new-m1-chips-are-essential-for-rapid-ios-development/)
 - [Evidence that no one cares about crypto-denominated wealth](https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/)
-- [How generics are implemented in Go 1.18](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
-- [An insane baseball proposal: Dual league restructuring](https://www.xstats.org/articles/2022/2/28/the-most-insane-out-of-the-box-baseball-proposal-dual-league-restructuring)
-- [Dictionary Compression](https://kevincox.ca/2022/03/01/dictionary-compression/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
