@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ericsson workers were kidnapped when telco sent them to negotiate with ISIS](https://www.datacenterdynamics.com/en/news/ericsson-workers-were-kidnapped-when-telco-sent-them-to-negotiate-with-isis/)
-- [Flow Browser: Flow makes HTML faster](https://www.ekioh.com/flow-browser/)
-- [You probably don&#39;t need OAuth2 / OpenID Connect](https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/)
-- [A new year, a new MDN](https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/)
-- [How to talk to your boss about open source](https://opensource.org/how-to-talk-to-your-boss-about-open-source)
+- [Launch HN: GrowthBook &lpar;YC W22&rpar; – Open-source feature flagging and A/B testing](https://www.growthbook.io/)
+- [Ask HN: Who is hiring? &lpar;March 2022&rpar;](https://news.ycombinator.com/item?id=30515750)
+- [Mojang to Require a Microsoft Account to Play Minecraft](https://www.minecraft.net/en-us/article/java-edition-moving-house)
+- [Compare Tech Salaries Instantly: Introducing the VanHack Tech Salary Calculator](https://blog.vanhack.com/blog/compare-tech-salaries-instantly-introducing-the-vanhack-tech-salary-calculator/)
+- [MySQL Docker Image for Mac ARM M1](https://www.emmanuelgautier.com/blog/mysql-docker-arm-m1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
