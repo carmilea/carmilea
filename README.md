@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30508982)
-- [Updated rules on preparedness for nuclear explosion](https://www.ready.gov/nuclear-explosion)
+- [Solid.js feels like what I always wanted React to be](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
 - [Nostalgia MacPaint](https://paint.withdiagram.com/)
 - [Open Web Advocacy](https://open-web-advocacy.org/)
 - [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
