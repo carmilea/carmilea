@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ripe NCC Executive Board Resolution on Provision of Critical Services](https://www.ripe.net/publications/news/announcements/ripe-ncc-executive-board-resolution-on-provision-of-critical-services)
+- [Homo Sovieticus](https://en.wikipedia.org/wiki/Homo_Sovieticus)
+- [Ask HN: How do you deal with lies on the internet?](https://news.ycombinator.com/item?id=30513108)
+- [GNUnet 0.16.0 Released](https://www.gnunet.org/en/news/2022-02-0.16.0.html)
 - [Fly.io &lpar;YC W20&rpar; Is Hiring Laravel Specialists](https://fly.io/blog/fly-io-is-hiring-laravel-specialists/)
-- [Ask HN: I realise Data Science is not for me and feel depressed](https://news.ycombinator.com/item?id=30513030)
-- [Privacy in email communication: we should use encryption by default](https://notes.nicfab.it/en/posts/privacycom/)
-- [Huawei MatePad Paper – eInk Tablet](https://consumer.huawei.com/en/tablets/matepad-paper/)
-- [Payhawk is officially Bulgaria’s first unicorn](https://therecursive.com/payhawk-is-officially-bulgaria-s-first-unicorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
