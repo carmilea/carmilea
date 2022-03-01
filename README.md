@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Mobile App Monitoring](https://blog.logrocket.com/rethinking-mobile-app-monitoring/)
-- [Ask HN: Should HN require/encourage job postings to have a salary range?](https://news.ycombinator.com/item?id=30517434)
+- [Evidence that no one cares about crypto-denominated wealth](https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/)
+- [An insane baseball proposal: Dual league restructuring](https://www.xstats.org/articles/2022/2/28/the-most-insane-out-of-the-box-baseball-proposal-dual-league-restructuring)
+- [Dictionary Compression](https://kevincox.ca/2022/03/01/dictionary-compression/)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior Android engineer](https://www.workatastartup.com/jobs/47879)
 - [What is developer productivity and how to measure it?](https://axolo.co/blog/p/developer-productivity)
-- [Launch HN: GrowthBook &lpar;YC W22&rpar; – Open-source feature flagging and A/B testing](https://www.growthbook.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
