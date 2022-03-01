@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maersk, MSC halt container shipping to and from Russia](https://www.ship-technology.com/news/industry-news/maersk-msc-halt-container-shipping-to-and-from-russia/)
-- [How much do founders pay themselves? A European data set](https://sifted.eu/articles/startup-founders-salary/)
-- [Launch HN: Onboard &lpar;YC W22&rpar; – Automate and streamline customer onboarding](https://onboard.io/)
-- [GNU Taler: an anonymous, taxable payment system using modern cryptography](https://docs.taler.net/)
-- [Nvidia DLSS Source Code Leaked](https://www.techpowerup.com/292479/nvidia-dlss-source-code-leaked)
+- [Ericsson workers were kidnapped when telco sent them to negotiate with ISIS](https://www.datacenterdynamics.com/en/news/ericsson-workers-were-kidnapped-when-telco-sent-them-to-negotiate-with-isis/)
+- [Flow Browser: Flow makes HTML faster](https://www.ekioh.com/flow-browser/)
+- [You probably don&#39;t need OAuth2 / OpenID Connect](https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/)
+- [A new year, a new MDN](https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/)
+- [How to talk to your boss about open source](https://opensource.org/how-to-talk-to-your-boss-about-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
