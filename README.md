@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30508982)
+- [Updated rules on preparedness for nuclear explosion](https://www.ready.gov/nuclear-explosion)
+- [Nostalgia MacPaint](https://paint.withdiagram.com/)
 - [Open Web Advocacy](https://open-web-advocacy.org/)
 - [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
-- [Orwell&#39;s Proposed Preface to ‘Animal Farm’](https://orwell.ru/library/novels/Animal_Farm/english/efp_go)
-- [Strangest Sorting Algorithms](https://codoholicconfessions.wordpress.com/2017/05/21/strangest-sorting-algorithms/)
-- [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
