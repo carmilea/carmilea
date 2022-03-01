@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Myth 16: ‘What comes after Putin must be better than Putin’](https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/myth-16-what-comes-after-putin-must-be-better-putin)
 - [Payhawk is officially Bulgaria’s first unicorn](https://therecursive.com/payhawk-is-officially-bulgaria-s-first-unicorn/)
 - [Tell HN: SWIFT is not a payments transfer system](https://news.ycombinator.com/item?id=30510928)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Developer Advocate &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Pokitto: Open-source pocket gaming console](https://www.pokitto.com/)
+- [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
