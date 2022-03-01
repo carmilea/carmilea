@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ripe NCC Executive Board Resolution on Provision of Critical Services](https://www.ripe.net/publications/news/announcements/ripe-ncc-executive-board-resolution-on-provision-of-critical-services)
-- [Homo Sovieticus](https://en.wikipedia.org/wiki/Homo_Sovieticus)
-- [Ask HN: How do you deal with lies on the internet?](https://news.ycombinator.com/item?id=30513108)
-- [GNUnet 0.16.0 Released](https://www.gnunet.org/en/news/2022-02-0.16.0.html)
-- [Fly.io &lpar;YC W20&rpar; Is Hiring Laravel Specialists](https://fly.io/blog/fly-io-is-hiring-laravel-specialists/)
+- [Maersk, MSC halt container shipping to and from Russia](https://www.ship-technology.com/news/industry-news/maersk-msc-halt-container-shipping-to-and-from-russia/)
+- [How much do founders pay themselves? A European data set](https://sifted.eu/articles/startup-founders-salary/)
+- [Launch HN: Onboard &lpar;YC W22&rpar; – Automate and streamline customer onboarding](https://onboard.io/)
+- [GNU Taler: an anonymous, taxable payment system using modern cryptography](https://docs.taler.net/)
+- [Nvidia DLSS Source Code Leaked](https://www.techpowerup.com/292479/nvidia-dlss-source-code-leaked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
