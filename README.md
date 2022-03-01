@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DDoS attacks slow down Citizens&#39; Initiative signing in Finland](https://news.ycombinator.com/item?id=30518421)
 - [Evidence that no one cares about crypto-denominated wealth](https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/)
+- [How generics are implemented in Go 1.18](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
 - [An insane baseball proposal: Dual league restructuring](https://www.xstats.org/articles/2022/2/28/the-most-insane-out-of-the-box-baseball-proposal-dual-league-restructuring)
 - [Dictionary Compression](https://kevincox.ca/2022/03/01/dictionary-compression/)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior Android engineer](https://www.workatastartup.com/jobs/47879)
-- [What is developer productivity and how to measure it?](https://axolo.co/blog/p/developer-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
