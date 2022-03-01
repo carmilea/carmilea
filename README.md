@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [F-Droid – alternative to Google Play store](https://f-droid.org/en/)
-- [Toyota to suspend operations Tuesday at all Japan factories](https://www3.nhk.or.jp/nhkworld/en/news/20220228_47/)
-- [Ask HN: What is the oldest, still supported OS?](https://news.ycombinator.com/item?id=30505219)
-- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
-- [Namecheap: Russia Service Termination](https://news.ycombinator.com/item?id=30504812)
+- [Web devs rally to challenge Apple App Store browser rules](https://open-web-advocacy.org/)
+- [You Need a Domain Name](https://johnathannader.com/why-you-need-domain-name/)
+- [Orwell&#39;s Proposed Preface to ‘Animal Farm’](https://orwell.ru/library/novels/Animal_Farm/english/efp_go)
+- [Strangest Sorting Algorithms](https://codoholicconfessions.wordpress.com/2017/05/21/strangest-sorting-algorithms/)
+- [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
