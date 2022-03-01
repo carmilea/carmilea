@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io &lpar;YC W20&rpar; Is Hiring Laravel Specialists](https://fly.io/blog/fly-io-is-hiring-laravel-specialists/)
+- [Ask HN: I realise Data Science is not for me and feel depressed](https://news.ycombinator.com/item?id=30513030)
+- [Privacy in email communication: we should use encryption by default](https://notes.nicfab.it/en/posts/privacycom/)
+- [Huawei MatePad Paper – eInk Tablet](https://consumer.huawei.com/en/tablets/matepad-paper/)
 - [Payhawk is officially Bulgaria’s first unicorn](https://therecursive.com/payhawk-is-officially-bulgaria-s-first-unicorn/)
-- [Tell HN: SWIFT is not a payments transfer system](https://news.ycombinator.com/item?id=30510928)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Developer Advocate &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Pokitto: Open-source pocket gaming console](https://www.pokitto.com/)
-- [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
