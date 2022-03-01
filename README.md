@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Android Engineer](https://www.workatastartup.com/jobs/47879)
+- [Rethinking Mobile App Monitoring](https://blog.logrocket.com/rethinking-mobile-app-monitoring/)
+- [Ask HN: Should HN require/encourage job postings to have a salary range?](https://news.ycombinator.com/item?id=30517434)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior Android engineer](https://www.workatastartup.com/jobs/47879)
 - [What is developer productivity and how to measure it?](https://axolo.co/blog/p/developer-productivity)
 - [Launch HN: GrowthBook &lpar;YC W22&rpar; – Open-source feature flagging and A/B testing](https://www.growthbook.io/)
-- [Climate change is hitting the planet faster than scientists originally thought](https://www.nature.com/articles/d41586-022-00585-7)
-- [Ask HN: Who is hiring? &lpar;March 2022&rpar;](https://news.ycombinator.com/item?id=30515750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
