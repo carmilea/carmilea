@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paperspace &lpar;YC W15&rpar; Is Hiring Software Engineers to Build a Next-Gen Cloud](https://www.paperspace.com/careers#open-positions)
-- [What happened to Russias Air Force? U.S. officials, experts stumped](https://www.reuters.com/world/europe/what-happened-russias-air-force-us-officials-experts-stumped-2022-03-01/)
-- [Show HN: Machine Learning for Color Design](https://huemint.com/)
-- [A rendition of everyone&#39;s favorite 1995 Microsoft operating system for Linux](https://github.com/grassmunk/Chicago95)
-- [In support of single binary executable packages](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
+- [What does a 1972 paper have to do with the Single Responsibility Principle?](https://wasabigeek.com/blog/what-does-a-1972-paper-have-to-do-with-the-single-responsibility-principle/)
+- [Epic Games acquires Bandcamp](https://variety.com/2022/digital/news/epic-games-acquires-bandcamp-1235194180/)
+- [MicroW8: A WebAssembly based fantasy console](https://exoticorn.github.io/microw8/)
+- [Show HN: My Book Bulletproof TLS and PKI &lpar;Second Edition&rpar; Is Out](https://www.feistyduck.com/books/bulletproof-tls-and-pki/)
+- [Paperspace &lpar;YC W15&rpar; is hiring software engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
