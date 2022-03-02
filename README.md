@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Statement from Roman Abramovich](https://www.chelseafc.com/en/news/2022/03/02/statement-from-roman-abramovich)
+- [The Decline and Fall of Java on the Desktop](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
+- [The new White House memo on zero trust is a strong signal](https://www.pomerium.com/blog/white-house-zt-memo/)
 - [What does a 1972 paper have to do with the Single Responsibility Principle?](https://wasabigeek.com/blog/what-does-a-1972-paper-have-to-do-with-the-single-responsibility-principle/)
 - [Epic Games acquires Bandcamp](https://variety.com/2022/digital/news/epic-games-acquires-bandcamp-1235194180/)
-- [MicroW8: A WebAssembly based fantasy console](https://exoticorn.github.io/microw8/)
-- [Show HN: My Book Bulletproof TLS and PKI &lpar;Second Edition&rpar; Is Out](https://www.feistyduck.com/books/bulletproof-tls-and-pki/)
-- [Paperspace &lpar;YC W15&rpar; is hiring software engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
