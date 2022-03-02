@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CXX-Qt: safe Rust bindings for Qt](https://www.kdab.com/cxx-qt/)
-- [Ask HN: Ads with small budget for personal project?](https://news.ycombinator.com/item?id=30525225)
-- [Gradients Without Backpropagation](https://arxiv.org/abs/2202.08587)
-- [When volcanoes go bang, submarine cables do what?](https://blog.apnic.net/2022/03/01/when-volcanoes-go-bang-submarine-cables-do-what/)
-- [Help Preserve the Internet with Archiveteam&#39;s Warrior](https://selfhostedheaven.com/posts/20220228-help-out-archiving/)
+- [CareRev &lpar;YC S16&rpar; Is Hiring Salesforce Engineers &lpar;Remote USA&rpar;](https://grnh.se/447d72ff3us)
+- [EEG Cat Ears](https://i2nk.co/mindwave-cat-ears)
+- [Ask HN: How do you cope with possible nuclear threat?](https://news.ycombinator.com/item?id=30526022)
+- [Don&#39;t Write Just in Plain Text &lpar;Longevity vs. Authenticity&rpar;](https://blog.miris.design/not-just-plain-text)
+- [No need to declare captured Russian tanks, other equipment of invaders as income](https://en.interfax.com.ua/news/general/804441.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
