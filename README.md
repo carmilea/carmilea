@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Miniboss, versatile local container management with Python](https://github.com/afroisalreadyinu/miniboss)
-- [SingleFile: Save a Complete Web Page into a Single HTML File](https://github.com/gildas-lormeau/SingleFile)
-- [Ice Cream Machine Hackers Sue McDonald&#39;s for $900M](https://www.wired.com/story/kytch-ice-cream-machine-hackers-sue-mcdonalds-900-million/)
-- [Why Hugo’s Documentation Sucks](https://sagar.se/blog/hugo-documentation/)
-- [Launch HN: Courier &lpar;YC S19&rpar; – Developer infrastructure for product notifications](https://www.courier.com/)
+- [In support of single binary executable packages](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
+- [Russia&#39;s top bank quits Europe due to sanctions](https://www.reuters.com/business/finance/russias-sberbank-leave-european-market-face-cash-outflows-2022-03-02/)
+- [SPAs Were a Mistake](https://gomakethings.com/spas-were-a-mistake/)
+- [Launch HN: Evry Health &lpar;YC W18&rpar; – Better health insurance for companies](https://www.evryhealth.com/)
+- [P. J. O&#39;Rourke, 1947-2022](https://mattlabash.substack.com/p/p-j-orourke-1947-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
