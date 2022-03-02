@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake to acquire Streamlit](https://blog.streamlit.io/snowflake-to-acquire-streamlit/)
+- [Google mandates workers back to Silicon Valley, other offices from April 4](https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/)
+- [Nuclear War Survival Skills &lpar;1987&rpar; [pdf]](http://oism.org/nwss/nwss.pdf)
+- [Rice lab turns trash into valuable graphene in a flash](https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash)
 - [Substack is hiring Analytics Engineers to build the future for writing](https://jobs.lever.co/substackinc/5abe1230-305d-4f53-8908-5494a6226272)
-- [The Theology of Chocolate](https://www.historytoday.com/archive/history-matters/theology-chocolate)
-- [Not everyone should meditate](https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate)
-- [Amazon to close all of its physical bookstores and &#39;4-star&#39; shops](https://www.reuters.com/business/retail-consumer/exclusive-amazon-close-all-its-physical-bookstores-4-star-shops-2022-03-02/)
-- [Show HN: WAPM – WebAssembly Package Manager](https://wapm.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
