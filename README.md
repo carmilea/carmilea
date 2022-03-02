@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Ads with small budget for personal project?](https://news.ycombinator.com/item?id=30525225)
+- [Gradients Without Backpropagation](https://arxiv.org/abs/2202.08587)
 - [When volcanoes go bang, submarine cables do what?](https://blog.apnic.net/2022/03/01/when-volcanoes-go-bang-submarine-cables-do-what/)
 - [Help Preserve the Internet with Archiveteam&#39;s Warrior](https://selfhostedheaven.com/posts/20220228-help-out-archiving/)
 - [Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?](https://news.ycombinator.com/item?id=30524637)
-- [Crew &lpar;YC S21&rpar; Is Hiring a Software Engineer &lpar;Remote&rpar;](https://jobs.crew.work/jobs/61fa5748c676d0dcb51e0dc3)
-- [Small statistics page showcase done via sh, Awk, log parsing and cron](https://s.mkws.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
