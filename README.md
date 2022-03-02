@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack is hiring Analytics Engineers to build the future for writing](https://jobs.lever.co/substackinc/5abe1230-305d-4f53-8908-5494a6226272)
+- [The Theology of Chocolate](https://www.historytoday.com/archive/history-matters/theology-chocolate)
+- [Not everyone should meditate](https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate)
 - [Amazon to close all of its physical bookstores and &#39;4-star&#39; shops](https://www.reuters.com/business/retail-consumer/exclusive-amazon-close-all-its-physical-bookstores-4-star-shops-2022-03-02/)
 - [Show HN: WAPM – WebAssembly Package Manager](https://wapm.io/)
-- [Statement from Roman Abramovich](https://www.chelseafc.com/en/news/2022/03/02/statement-from-roman-abramovich)
-- [The decline and fall of Java on the desktop](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
-- [The new White House memo on zero trust is a strong signal](https://www.pomerium.com/blog/white-house-zt-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
