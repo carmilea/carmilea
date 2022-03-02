@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [CareRev &lpar;YC S16&rpar; Is Hiring Salesforce Engineers &lpar;Remote USA&rpar;](https://grnh.se/447d72ff3us)
 - [EEG Cat Ears](https://i2nk.co/mindwave-cat-ears)
-- [Ask HN: How do you cope with possible nuclear threat?](https://news.ycombinator.com/item?id=30526022)
 - [Don&#39;t Write Just in Plain Text &lpar;Longevity vs. Authenticity&rpar;](https://blog.miris.design/not-just-plain-text)
-- [No need to declare captured Russian tanks, other equipment of invaders as income](https://en.interfax.com.ua/news/general/804441.html)
+- [CXX-Qt: safe Rust bindings for Qt](https://www.kdab.com/cxx-qt/)
+- [Ask HN: Ads with small budget for personal project?](https://news.ycombinator.com/item?id=30525225)
 <!-- BLOG-POST-LIST:END -->
 
 ---
