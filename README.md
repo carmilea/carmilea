@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperspace &lpar;YC W15&rpar; Is Hiring Software Engineers to Build a Next-Gen Cloud](https://www.paperspace.com/careers#open-positions)
+- [What happened to Russias Air Force? U.S. officials, experts stumped](https://www.reuters.com/world/europe/what-happened-russias-air-force-us-officials-experts-stumped-2022-03-01/)
+- [Show HN: Machine Learning for Color Design](https://huemint.com/)
+- [A rendition of everyone&#39;s favorite 1995 Microsoft operating system for Linux](https://github.com/grassmunk/Chicago95)
 - [In support of single binary executable packages](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
-- [Russia&#39;s top bank quits Europe due to sanctions](https://www.reuters.com/business/finance/russias-sberbank-leave-european-market-face-cash-outflows-2022-03-02/)
-- [SPAs Were a Mistake](https://gomakethings.com/spas-were-a-mistake/)
-- [Launch HN: Evry Health &lpar;YC W18&rpar; – Better health insurance for companies](https://www.evryhealth.com/)
-- [P. J. O&#39;Rourke, 1947-2022](https://mattlabash.substack.com/p/p-j-orourke-1947-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
