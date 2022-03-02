@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asian-Americans Fight Back Against School Discrimination](https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518)
+- [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 - [Hidetaka Miyazaki Sees Death as a Feature, Not a Bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug)
 - [Surprise Four Secret Novels by Brandon Sanderson](https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson)
 - [Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?](https://news.ycombinator.com/item?id=30522524)
-- [Someone Is Wrong on the Internet](https://meta.wikimedia.org/wiki/Cunningham%27s_Law)
-- [Secure Messengers in War Time](https://nuno.sh/blog/secure-messengers-in-wartime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
