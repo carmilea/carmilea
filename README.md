@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas cyclist shoots driver who deliberately crashed into his riding partner](https://road.cc/content/news/texas-cyclist-shoots-driver-who-crashed-riding-partner-284697)
+- [Help Preserve the Internet with Archiveteam&#39;s Warrior](https://selfhostedheaven.com/posts/20220228-help-out-archiving/)
+- [Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?](https://news.ycombinator.com/item?id=30524637)
 - [Crew &lpar;YC S21&rpar; Is Hiring a Software Engineer &lpar;Remote&rpar;](https://jobs.crew.work/jobs/61fa5748c676d0dcb51e0dc3)
 - [Small statistics page showcase done via sh, Awk, log parsing and cron](https://s.mkws.sh/)
 - [Creating a bash completion script &lpar;2018&rpar;](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
-- [Credit Suisse asks investors to destroy oligarch loans documents](https://www.ft.com/content/bfea0069-4143-4e4b-accb-9712ce95a282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
