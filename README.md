@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake to acquire Streamlit](https://blog.streamlit.io/snowflake-to-acquire-streamlit/)
+- [DeepNet: Scaling Transformers to 1k Layers](https://arxiv.org/abs/2203.00555)
+- [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/)
 - [Google mandates workers back to Silicon Valley, other offices from April 4](https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/)
-- [Nuclear War Survival Skills &lpar;1987&rpar; [pdf]](http://oism.org/nwss/nwss.pdf)
-- [Rice lab turns trash into valuable graphene in a flash](https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash)
+- [Producing graphene in bulk using waste food, plastic and other materials](https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash)
 - [Substack is hiring Analytics Engineers to build the future for writing](https://jobs.lever.co/substackinc/5abe1230-305d-4f53-8908-5494a6226272)
 <!-- BLOG-POST-LIST:END -->
 
