@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asian-Americans fight back against school discrimination](https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518)
-- [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
-- [Hidetaka Miyazaki sees death as a feature, not a bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug)
-- [Four Secret Novels by Brandon Sanderson](https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson)
-- [IPFS Backed by Decentralized Storage](https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/)
+- [Texas cyclist shoots driver who deliberately crashed into his riding partner](https://road.cc/content/news/texas-cyclist-shoots-driver-who-crashed-riding-partner-284697)
+- [Crew &lpar;YC S21&rpar; Is Hiring a Software Engineer &lpar;Remote&rpar;](https://jobs.crew.work/jobs/61fa5748c676d0dcb51e0dc3)
+- [Small statistics page showcase done via sh, Awk, log parsing and cron](https://s.mkws.sh/)
+- [Creating a bash completion script &lpar;2018&rpar;](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
+- [Credit Suisse asks investors to destroy oligarch loans documents](https://www.ft.com/content/bfea0069-4143-4e4b-accb-9712ce95a282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
