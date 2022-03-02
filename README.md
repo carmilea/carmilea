@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why wasn&#39;t the USA sanctioned over it&#39;s war with Iraq?](https://news.ycombinator.com/item?id=30527361)
-- [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
-- [The Nimatron: first &#39;video game&#39; debuted in 1939](https://daily.jstor.org/the-nimatron/)
-- [Russian possible Invasion of Ukraine &lpar;Jan 13th&rpar;](https://www.csis.org/analysis/russias-possible-invasion-ukraine)
-- [CareRev &lpar;YC S16&rpar; Is Hiring Salesforce Engineers &lpar;Remote USA&rpar;](https://grnh.se/447d72ff3us)
+- [Show HN: Miniboss, versatile local container management with Python](https://github.com/afroisalreadyinu/miniboss)
+- [SingleFile: Save a Complete Web Page into a Single HTML File](https://github.com/gildas-lormeau/SingleFile)
+- [Ice Cream Machine Hackers Sue McDonald&#39;s for $900M](https://www.wired.com/story/kytch-ice-cream-machine-hackers-sue-mcdonalds-900-million/)
+- [Why Hugo’s Documentation Sucks](https://sagar.se/blog/hugo-documentation/)
+- [Launch HN: Courier &lpar;YC S19&rpar; – Developer infrastructure for product notifications](https://www.courier.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
