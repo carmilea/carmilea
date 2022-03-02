@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why wasn&#39;t the USA sanctioned over it&#39;s war with Iraq?](https://news.ycombinator.com/item?id=30527361)
+- [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
+- [The Nimatron: first &#39;video game&#39; debuted in 1939](https://daily.jstor.org/the-nimatron/)
+- [Russian possible Invasion of Ukraine &lpar;Jan 13th&rpar;](https://www.csis.org/analysis/russias-possible-invasion-ukraine)
 - [CareRev &lpar;YC S16&rpar; Is Hiring Salesforce Engineers &lpar;Remote USA&rpar;](https://grnh.se/447d72ff3us)
-- [EEG Cat Ears](https://i2nk.co/mindwave-cat-ears)
-- [Don&#39;t Write Just in Plain Text &lpar;Longevity vs. Authenticity&rpar;](https://blog.miris.design/not-just-plain-text)
-- [CXX-Qt: safe Rust bindings for Qt](https://www.kdab.com/cxx-qt/)
-- [Ask HN: Ads with small budget for personal project?](https://news.ycombinator.com/item?id=30525225)
 <!-- BLOG-POST-LIST:END -->
 
 ---
