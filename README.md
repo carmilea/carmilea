@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CXX-Qt: safe Rust bindings for Qt](https://www.kdab.com/cxx-qt/)
 - [Ask HN: Ads with small budget for personal project?](https://news.ycombinator.com/item?id=30525225)
 - [Gradients Without Backpropagation](https://arxiv.org/abs/2202.08587)
 - [When volcanoes go bang, submarine cables do what?](https://blog.apnic.net/2022/03/01/when-volcanoes-go-bang-submarine-cables-do-what/)
 - [Help Preserve the Internet with Archiveteam&#39;s Warrior](https://selfhostedheaven.com/posts/20220228-help-out-archiving/)
-- [Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?](https://news.ycombinator.com/item?id=30524637)
 <!-- BLOG-POST-LIST:END -->
 
 ---
