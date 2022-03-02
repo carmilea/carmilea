@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to close all of its physical bookstores and &#39;4-star&#39; shops](https://www.reuters.com/business/retail-consumer/exclusive-amazon-close-all-its-physical-bookstores-4-star-shops-2022-03-02/)
+- [Show HN: WAPM – WebAssembly Package Manager](https://wapm.io/)
 - [Statement from Roman Abramovich](https://www.chelseafc.com/en/news/2022/03/02/statement-from-roman-abramovich)
-- [The Decline and Fall of Java on the Desktop](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
+- [The decline and fall of Java on the desktop](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
 - [The new White House memo on zero trust is a strong signal](https://www.pomerium.com/blog/white-house-zt-memo/)
-- [What does a 1972 paper have to do with the Single Responsibility Principle?](https://wasabigeek.com/blog/what-does-a-1972-paper-have-to-do-with-the-single-responsibility-principle/)
-- [Epic Games acquires Bandcamp](https://variety.com/2022/digital/news/epic-games-acquires-bandcamp-1235194180/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
