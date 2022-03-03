@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Cases For CSS fit-content](https://ishadeed.com/snippet/fit-content/)
+- [A Look at the Slow, Silent Death of America’s Middle Class](https://themakingofamillionaire.com/a-look-at-the-slow-silent-death-of-americas-middle-class-ea760fbec8b1?gi=769366209cec)
 - [Flexport &lpar;YC W14&rpar; is hiring software engineers, esp. with logistics experience](https://Flexport.com/careers)
 - [Mayor Breed withdraws proposal to gut city’s surveillance oversight law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
 - [My Stripe Tax Story](https://gist.github.com/humandoing/5ec7c224691282532db0b9dc37797d7c)
