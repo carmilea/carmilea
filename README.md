@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &lpar;Enterprise&rpar; Software Is Bloated](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/)
+- [AWS just changed my default currency?](https://news.ycombinator.com/item?id=30541085)
+- [Launch HN: Requestly &lpar;YC W22&rpar; – Network debugging proxy for web and mobile](https://news.ycombinator.com/item?id=30540735)
+- [Russian firms rush to open Chinese bank accounts](https://www.reuters.com/business/exclusive-russian-firms-rush-open-chinese-bank-accounts-sanctions-bite-sources-2022-03-03/)
+- [Why enterprise software is bloated](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/)
 - [ICANN&#39;s rejection of Ukraine&#39;s request to sever Russia from the internet [pdf]](https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf)
-- [How international money transfers work](https://media.ccc.de/v/33c3-8315-a_world_without_blockchain)
-- [Human toxicity from Covid-19 rapid home test kits](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8786400/)
-- [Russia Cannot Win The War](https://blogs.lse.ac.uk/europpblog/2022/03/02/russia-cannot-win-the-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
