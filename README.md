@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Estonian Cargo ship sinks off Odessa after explosion, crew members missing](https://www.reuters.com/world/europe/cargo-ship-sinks-off-odessa-after-explosion-crew-members-missing-ship-manager-2022-03-03/)
+- [Fathom &lpar;YC W21&rpar; Is Hiring Our 5th Senior Full-Stack Engineer &lpar;Rails / Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer-remote)
+- [Launch HN: Slai &lpar;YC W22&rpar; – Build ML models quickly and deploy them as apps](https://news.ycombinator.com/item?id=30543228)
 - [Ask HN: Should I give up and get a job?](https://news.ycombinator.com/item?id=30542955)
 - [Ask HN: Why do my online accounts keep getting banned?](https://news.ycombinator.com/item?id=30542953)
-- [Russia to punish ‘fake news’ about Ukraine war with 15 years’ jail](https://www.thetimes.co.uk/article/russia-to-punish-fake-news-about-ukraine-war-with-15-years-jail-grjl8gv55)
-- [The state of burnout in tech, 2022 edition [pdf]](https://f.hubspotusercontent30.net/hubfs/7677235/The%20State%20of%20Burnout%20in%20Tech%20-%202022%20Edition.pdf)
-- [Russia halts deliveries of rocket engines to the U.S.](https://www.reuters.com/world/russia-halts-deliveries-rocket-engines-us-2022-03-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
