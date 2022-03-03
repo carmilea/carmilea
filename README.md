@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why &lpar;Enterprise&rpar; Software Is Bloated](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/)
+- [ICANN&#39;s rejection of Ukraine&#39;s request to sever Russia from the internet [pdf]](https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf)
+- [How international money transfers work](https://media.ccc.de/v/33c3-8315-a_world_without_blockchain)
+- [Human toxicity from Covid-19 rapid home test kits](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8786400/)
 - [Russia Cannot Win The War](https://blogs.lse.ac.uk/europpblog/2022/03/02/russia-cannot-win-the-war/)
-- [Release &lpar;YC W20&rpar; is hiring a fullstack engineer to free teams from &#39;Cloudhell&#39;](https://news.ycombinator.com/item?id=30539822)
-- [Ask HN: Why aren&#39;t we see many video hosting companies adopt peertube or P2P?](https://news.ycombinator.com/item?id=30539791)
-- [Map of Surnames in Europe](https://www.surnamemap.eu/)
-- [Show HN: DontBeEvil.rip: Search, for developers &lpar;API, expressions, CLI&rpar;](https://news.ycombinator.com/item?id=30539620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
