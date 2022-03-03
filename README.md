@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukrainians say hackers used local government sites to spread fake news](https://www.reuters.com/world/europe/ukrainians-say-hackers-used-local-government-sites-spread-fake-capitulation-news-2022-03-03/)
-- [Russia Blocks Its Last Independent Television Channel](https://www.newyorker.com/news/dispatch/russia-blocks-its-last-independent-television-channel)
-- [Better visibility into Linux packet-dropping decisions](https://lwn.net/SubscriberLink/885729/c495a793abeee387/)
-- [Split the States &lpar;2021&rpar;](https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb)
-- [Interop 2022](https://hacks.mozilla.org/2022/03/interop-2022/)
+- [Hospitals, Administrative buildings and Army buildings marked as “Funeral homes”](https://www.google.com.ua/maps/search/edemus/@50.209771,30.5846582,8z?hl=ru)
+- [One Humanity – DOOM 2 Level](https://romero.com/shop/p/onehumanity)
+- [Nuclear war probabilities are useless - counter to the nuclear gambler’s ruin](https://unfashionable.substack.com/p/nuclear)
+- [Reducing the risk of nuclear war should be a key concern of our generation](https://ourworldindata.org/nuclear-weapons-risk)
+- [CPython, C standards, and IEEE 754](https://lwn.net/SubscriberLink/886516/d835ee6026544345/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
