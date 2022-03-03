@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Surfboard – CodeSandbox for Arduino](https://sfbd.is/)
+- [Speeding up Go&#39;s builtin JSON encoder up to 55% for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
 - [How Jeff Dean&#39;s “Latency Numbers Everybody Should Know” decreased from 1990–2020](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 - [U.S.D.A. Pomological Watercolor Collection](https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields)
-- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
-- [Mpw-Emu: Emulating 1998-Vintage Mac Compilers](https://wuffs.org/blog/emulating-mac-compilers)
-- [Running TypeScript on ESP8266/ESP32 Devices](https://github.com/skittleson/ESP-TypeScript)
+- [The Inventor of the Screw-In Coffin](https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
