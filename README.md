@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Estonian Cargo ship sinks off Odessa after explosion, crew members missing](https://www.reuters.com/world/europe/cargo-ship-sinks-off-odessa-after-explosion-crew-members-missing-ship-manager-2022-03-03/)
-- [Fathom &lpar;YC W21&rpar; Is Hiring Our 5th Senior Full-Stack Engineer &lpar;Rails / Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer-remote)
-- [Launch HN: Slai &lpar;YC W22&rpar; – Build ML models quickly and deploy them as apps](https://news.ycombinator.com/item?id=30543228)
-- [Ask HN: Should I give up and get a job?](https://news.ycombinator.com/item?id=30542955)
-- [Ask HN: Why do my online accounts keep getting banned?](https://news.ycombinator.com/item?id=30542953)
+- [Better visibility into Linux packet-dropping decisions](https://lwn.net/SubscriberLink/885729/c495a793abeee387/)
+- [Split the States &lpar;2021&rpar;](https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb)
+- [Interop 2022](https://hacks.mozilla.org/2022/03/interop-2022/)
+- [Fathom &lpar;YC W21&rpar; is hiring our fifth senior full-stack engineer &lpar;Rails, remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer-remote)
+- [Working with Traumatic Imagery &lpar;2014&rpar;](https://dartcenter.org/content/working-with-traumatic-imagery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
