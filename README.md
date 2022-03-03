@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hospitals, Administrative buildings and Army buildings marked as “Funeral homes”](https://www.google.com.ua/maps/search/edemus/@50.209771,30.5846582,8z?hl=ru)
-- [One Humanity – DOOM 2 Level](https://romero.com/shop/p/onehumanity)
-- [Nuclear war probabilities are useless - counter to the nuclear gambler’s ruin](https://unfashionable.substack.com/p/nuclear)
-- [Reducing the risk of nuclear war should be a key concern of our generation](https://ourworldindata.org/nuclear-weapons-risk)
-- [CPython, C standards, and IEEE 754](https://lwn.net/SubscriberLink/886516/d835ee6026544345/)
+- [How Jeff Dean&#39;s “Latency Numbers Everybody Should Know” decreased from 1990–2020](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+- [U.S.D.A. Pomological Watercolor Collection](https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields)
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
+- [Mpw-Emu: Emulating 1998-Vintage Mac Compilers](https://wuffs.org/blog/emulating-mac-compilers)
+- [Running TypeScript on ESP8266/ESP32 Devices](https://github.com/skittleson/ESP-TypeScript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
