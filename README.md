@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which companies are hiring in-person teams?](https://news.ycombinator.com/item?id=30539040)
-- [How Western governments are getting military gear into Ukraine](https://www.economist.com/the-economist-explains/2022/03/02/how-western-governments-are-getting-military-gear-into-ukraine)
-- [Enso &lpar;YC S21&rpar; Is Hiring Senior Cloud Developer](https://www.ycombinator.com/companies/enso/jobs/AJAh56k-senior-rust-cloud-engineer)
-- [Underwater power cables affects crabs biology at a cellular level](https://www.hw.ac.uk/news/articles/2021/underwater-cables-stop-crabs-in-their-tracks.htm)
-- [Mayor Breed withdraws proposal to gut city’s surveillance oversight law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
+- [Russia Cannot Win The War](https://blogs.lse.ac.uk/europpblog/2022/03/02/russia-cannot-win-the-war/)
+- [Release &lpar;YC W20&rpar; is hiring a fullstack engineer to free teams from &#39;Cloudhell&#39;](https://news.ycombinator.com/item?id=30539822)
+- [Ask HN: Why aren&#39;t we see many video hosting companies adopt peertube or P2P?](https://news.ycombinator.com/item?id=30539791)
+- [Map of Surnames in Europe](https://www.surnamemap.eu/)
+- [Show HN: DontBeEvil.rip: Search, for developers &lpar;API, expressions, CLI&rpar;](https://news.ycombinator.com/item?id=30539620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
