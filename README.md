@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukrainians say hackers used local government sites to spread fake news](https://www.reuters.com/world/europe/ukrainians-say-hackers-used-local-government-sites-spread-fake-capitulation-news-2022-03-03/)
+- [Russia Blocks Its Last Independent Television Channel](https://www.newyorker.com/news/dispatch/russia-blocks-its-last-independent-television-channel)
 - [Better visibility into Linux packet-dropping decisions](https://lwn.net/SubscriberLink/885729/c495a793abeee387/)
 - [Split the States &lpar;2021&rpar;](https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb)
 - [Interop 2022](https://hacks.mozilla.org/2022/03/interop-2022/)
-- [Fathom &lpar;YC W21&rpar; is hiring our fifth senior full-stack engineer &lpar;Rails, remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer-remote)
-- [Working with Traumatic Imagery &lpar;2014&rpar;](https://dartcenter.org/content/working-with-traumatic-imagery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
