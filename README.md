@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Space junk on a 5,800-MPH collision-course with Moon on Friday](https://www.latimes.com/science/story/2022-03-02/space-junk-on-a-5-800-mph-collision-course-with-moon-on-friday)
-- [Flexport is hiring software engineers &lpar;esp those with experience in logistics&rpar;](https://Flexport.com/careers)
-- [Mayor Breed Withdraws Proposal to Gut City’s Surveillance Oversight Law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
-- [Moving Money Internationally](https://bam.kalzumeus.com/archive/moving-money-internationally/)
-- [DeepNet: Scaling Transformers to 1k Layers](https://arxiv.org/abs/2203.00555)
+- [Space junk on a 5,800-MPH collision-course with moon on Friday](https://www.latimes.com/science/story/2022-03-02/space-junk-on-a-5-800-mph-collision-course-with-moon-on-friday)
+- [Flexport &lpar;YC W14&rpar; is hiring software engineers, esp. with logistics experience](https://Flexport.com/careers)
+- [Mayor Breed withdraws proposal to gut city’s surveillance oversight law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
+- [My Stripe Tax Story](https://gist.github.com/humandoing/5ec7c224691282532db0b9dc37797d7c)
+- [Moving money internationally](https://bam.kalzumeus.com/archive/moving-money-internationally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
