@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After George Floyd’s murder, police built a secretive surveillance machine](https://www.technologyreview.com/2022/03/03/1046676/police-surveillance-minnesota-george-floyd/)
+- [Russian gas flows via Yamal pipeline to Germany halt, bids remain](https://www.reuters.com/business/energy/russian-gas-flows-via-yamal-pipeline-germany-decline-sharply-data-2022-03-03/)
+- [Russian-born entrepreneur offers $1M bounty for Putin&#39;s arrest](https://thenationaldesk.com/news/americas-news-now/russian-entrepreneur-offers-1-million-bounty-for-putins-arrest-russia-vladimir-alex-konanykhin-ukraine)
 - [AWS just changed my default currency?](https://news.ycombinator.com/item?id=30541085)
 - [Launch HN: Requestly &lpar;YC W22&rpar; – Network debugging proxy for web and mobile](https://news.ycombinator.com/item?id=30540735)
-- [Russian firms rush to open Chinese bank accounts](https://www.reuters.com/business/exclusive-russian-firms-rush-open-chinese-bank-accounts-sanctions-bite-sources-2022-03-03/)
-- [Why enterprise software is bloated](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/)
-- [ICANN&#39;s rejection of Ukraine&#39;s request to sever Russia from the internet [pdf]](https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
