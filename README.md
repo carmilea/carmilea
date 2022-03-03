@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After George Floyd’s murder, police built a secretive surveillance machine](https://www.technologyreview.com/2022/03/03/1046676/police-surveillance-minnesota-george-floyd/)
-- [Russian gas flows via Yamal pipeline to Germany halt, bids remain](https://www.reuters.com/business/energy/russian-gas-flows-via-yamal-pipeline-germany-decline-sharply-data-2022-03-03/)
-- [Russian-born entrepreneur offers $1M bounty for Putin&#39;s arrest](https://thenationaldesk.com/news/americas-news-now/russian-entrepreneur-offers-1-million-bounty-for-putins-arrest-russia-vladimir-alex-konanykhin-ukraine)
-- [AWS just changed my default currency?](https://news.ycombinator.com/item?id=30541085)
-- [Launch HN: Requestly &lpar;YC W22&rpar; – Network debugging proxy for web and mobile](https://news.ycombinator.com/item?id=30540735)
+- [Ask HN: Should I give up and get a job?](https://news.ycombinator.com/item?id=30542955)
+- [Ask HN: Why do my online accounts keep getting banned?](https://news.ycombinator.com/item?id=30542953)
+- [Russia to punish ‘fake news’ about Ukraine war with 15 years’ jail](https://www.thetimes.co.uk/article/russia-to-punish-fake-news-about-ukraine-war-with-15-years-jail-grjl8gv55)
+- [The state of burnout in tech, 2022 edition [pdf]](https://f.hubspotusercontent30.net/hubfs/7677235/The%20State%20of%20Burnout%20in%20Tech%20-%202022%20Edition.pdf)
+- [Russia halts deliveries of rocket engines to the U.S.](https://www.reuters.com/world/russia-halts-deliveries-rocket-engines-us-2022-03-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
