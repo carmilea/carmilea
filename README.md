@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Research: ‘Ukraine war costs Russian military €20B per day’](https://www.consultancy.eu/news/7433/research-ukraine-war-costs-russian-military-20-billion-per-day)
 - [Enso &lpar;YC S21&rpar; Is Hiring Senior Cloud Developer](https://www.ycombinator.com/companies/enso/jobs/AJAh56k-senior-rust-cloud-engineer)
 - [Underwater power cables affects crabs biology at a cellular level](https://www.hw.ac.uk/news/articles/2021/underwater-cables-stop-crabs-in-their-tracks.htm)
 - [A Look at the Slow, Silent Death of America’s Middle Class](https://themakingofamillionaire.com/a-look-at-the-slow-silent-death-of-americas-middle-class-ea760fbec8b1?gi=769366209cec)
 - [Mayor Breed withdraws proposal to gut city’s surveillance oversight law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
+- [My Stripe Tax Story](https://gist.github.com/humandoing/5ec7c224691282532db0b9dc37797d7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
