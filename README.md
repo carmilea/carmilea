@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space junk on a 5,800-MPH collision-course with Moon on Friday](https://www.latimes.com/science/story/2022-03-02/space-junk-on-a-5-800-mph-collision-course-with-moon-on-friday)
+- [Flexport is hiring software engineers &lpar;esp those with experience in logistics&rpar;](https://Flexport.com/careers)
+- [Mayor Breed Withdraws Proposal to Gut City’s Surveillance Oversight Law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
+- [Moving Money Internationally](https://bam.kalzumeus.com/archive/moving-money-internationally/)
 - [DeepNet: Scaling Transformers to 1k Layers](https://arxiv.org/abs/2203.00555)
-- [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/)
-- [Google mandates workers back to Silicon Valley, other offices from April 4](https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/)
-- [Producing graphene in bulk using waste food, plastic and other materials](https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash)
-- [Substack is hiring Analytics Engineers to build the future for writing](https://jobs.lever.co/substackinc/5abe1230-305d-4f53-8908-5494a6226272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
