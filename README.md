@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypass all major news paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+- [U.S. firm Cogent cutting internet service to Russia](https://www.reuters.com/technology/us-firm-cogent-cutting-internet-service-russia-2022-03-04/)
 - [Self-Driving Car Bet Between John Carmack And Jeff Atwood](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
-- [California proposal would force unhoused people into treatment](https://www.theguardian.com/us-news/2022/mar/03/california-proposal-forced-unhoused-treatment)
-- [Go’s Major Versioning Sucks – From a Fanboy](https://wagslane.dev/posts/gos-major-version-handling/)
-- [Show HN: Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono)
-- [Supabase &lpar;YC S20&rpar; Is Hiring for People Ops and Recruitment](https://boards.greenhouse.io/supabase/jobs/4368881004)
+- [An ALS Protein, Revealed](https://www.science.org/content/blog-post/als-protein-revealed)
+- [Lesson: Stop saying “Hi” and waiting for a response](https://iamvishnu.com/posts/stop-saying-hi-and-waiting-for-a-response)
 <!-- BLOG-POST-LIST:END -->
 
 ---
