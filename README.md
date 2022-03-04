@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bypass all major news paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates – $15/Hr Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Authorizing transactions involving certain blocked entities owned by Usmanov](https://home.treasury.gov/system/files/126/russia_gl15.pdf)
+- [Researchers can steal data during homomorphic encryption](https://news.ncsu.edu/2022/03/stealing-homomorphic-encryption-data/)
+- [Bypass Paywalls: a browser extension to help bypass paywalls for selected sites](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - [U.S. firm Cogent cutting internet service to Russia](https://www.reuters.com/technology/us-firm-cogent-cutting-internet-service-russia-2022-03-04/)
-- [Self-Driving Car Bet Between John Carmack And Jeff Atwood](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
-- [An ALS Protein, Revealed](https://www.science.org/content/blog-post/als-protein-revealed)
-- [Lesson: Stop saying “Hi” and waiting for a response](https://iamvishnu.com/posts/stop-saying-hi-and-waiting-for-a-response)
 <!-- BLOG-POST-LIST:END -->
 
 ---
