@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase &lpar;YC S20&rpar; Is Hiring for People Ops and Recruitment](https://boards.greenhouse.io/supabase/jobs/4368881004)
-- [Launch HN: Phase Biolabs &lpar;YC W22&rpar; – Converting CO2 to Carbon-Neutral Chemicals](https://news.ycombinator.com/item?id=30557288)
-- [Heap memory corruption CVE for GitHub&#39;s Markdown table parsing](https://github.com/github/cmark-gfm/security/advisories/GHSA-mc3g-88wq-6f4x)
-- [Apple CEO Tim Cook tells employees to return to office April 11](https://www.theverge.com/2022/3/4/22961592/apple-april-11-return-office-corporate-pandemic-tim-cook)
-- [Mushrooms: Next Big Thing in Environmentally-Friendly Packaging and Construction](https://www.nasdaq.com/articles/mushrooms%3A-the-next-big-thing-in-environmentally-friendly-packaging-and-construction)
+- [It’s a Pivotal Time for Data and Disruption — and SingleStore Is Leading the Way in the Cloud](https://www.singlestore.com/blog/its-a-pivotal-time-for-data-and-disruption-and-singlestore-is-leading-the-way-in-the-cloud)
+- [Stampeding away from Hadoop: Three Customer Success Stories](https://www.singlestore.com/blog/stampeding-away-from-hadoop-three-customer-success-stories)
+- [Engineer Showcase: Yamil Molinar](https://www.singlestore.com/blog/engineer-showcase-yamil-molinar)
+- [Engineer Showcase: Marta Vasconcelos](https://www.singlestore.com/blog/engineer-showcase-marta-vasconcelos)
+- [How to Migrate From MySQL to SingleStore](https://www.singlestore.com/blog/how-to-migrate-from-mysql-to-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
