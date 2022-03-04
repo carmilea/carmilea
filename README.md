@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DocBook 5.1: The Definitive Guide &lpar;2020&rpar;](https://tdg.docbook.org/tdg/5.1/)
 - [The Miseducation of Maria Montessori](https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori)
 - [Let&#39;s Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
 - [What you must know about Memory, Caches, and Shared Memory [pdf]](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf)
-- [Thirty-Two Hour Workweek Act](https://www.congress.gov/bill/117th-congress/house-bill/4728/all-info)
 - [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
 <!-- BLOG-POST-LIST:END -->
 
