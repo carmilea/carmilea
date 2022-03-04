@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actual “latency numbers everyone should know” computed in 2020](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
-- [Europe&#39;s largest nuclear power plant on fire](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
-- [How the Weak Can Win – A Primer on Protracted War](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
-- [Brave Talk: Unlimited, private video calls, in browser](https://brave.com/talk/)
-- [Speeding up Go&#39;s built-in JSON encoder for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
+- [What you must know about Memory, Caches, and Shared Memory [pdf]](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf)
+- [Ask HN: What are some good keyboards?](https://news.ycombinator.com/item?id=30549628)
+- [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
+- [How the weak can win – A primer on protracted war](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
+- [New York Times tech workers vote to certify union](https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
