@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming 420 Celebrations](https://mailchi.mp/6c54638f6394/want-reservations-at-this-cool-420-celebration)
+- [Launch HN: Elementary &lpar;YC W22&rpar; – Open-source data observability](https://github.com/elementary-data/elementary)
+- [Trust Dies in Darkness: Shedding Light on Samsung’s TrustZone Keymaster Design [pdf]](https://eprint.iacr.org/2022/208.pdf)
+- [Show HN: I made a little Math game named Summle](https://summle.net/?hn)
 - [Ask HN: Replacement for stack overflow jobs section](https://news.ycombinator.com/item?id=30554840)
-- [Never Change Your Password](https://tidbits.com/2022/03/03/never-change-your-password/)
-- [Elden Ring figured out the anti-piracy SEO game](https://twitter.com/ctwtn/status/1499740546264444930)
-- [The Unlicense is an inferior license wrapped in an atrocious name](https://chrismorgan.info/blog/unlicense/)
+- [A GitHub repository was public-viewable](https://blog.adafruit.com/2022/03/04/a-github-repository-was-public-viewable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
