@@ -55,7 +55,7 @@
 - [DocBook 5.1: The Definitive Guide &lpar;2020&rpar;](https://tdg.docbook.org/tdg/5.1/)
 - [Alex Honnold: The Soloist VR](https://thesoloist-vr.com/)
 - [The Miseducation of Maria Montessori](https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori)
-- [Let&#39;s Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
+- [Cybercriminals who breached Nvidia issue one of the most unusual demands ever](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
