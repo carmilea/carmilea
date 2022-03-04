@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Treatment for Tinnitus with Stimulation of Auditory and Non-Auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
 - [DocBook 5.1: The Definitive Guide &lpar;2020&rpar;](https://tdg.docbook.org/tdg/5.1/)
+- [Alex Honnold: The Soloist VR](https://thesoloist-vr.com/)
 - [The Miseducation of Maria Montessori](https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori)
 - [Let&#39;s Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
-- [What you must know about Memory, Caches, and Shared Memory [pdf]](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf)
-- [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
