@@ -54,8 +54,8 @@
 - [Protein tweak makes CRISPR gene editing 4k times less error-prone](https://newatlas.com/science/crispr-gene-editing-error-correction-protein/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30551541)
 - [CSS-Checker: Find and Reduce Similar and Duplicated CSS Scripts](https://github.com/ruilisi/css-checker)
+- [Leaflet was created 11yrs ago by Vladimir Agafonkin, a Ukrainian citizen in Kyiv](https://leafletjs.com/index.html)
 - [Treatment for Tinnitus with Stimulation of Auditory and Non-Auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
-- [DocBook 5.1: The Definitive Guide &lpar;2020&rpar;](https://tdg.docbook.org/tdg/5.1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
