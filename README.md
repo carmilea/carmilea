@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t use the Unlicense: it’s an inferior license wrapped in an atrocious name](https://chrismorgan.info/blog/unlicense/)
+- [The cold hard truth about electric vehicles in winter](https://www.axios.com/the-cold-hard-truth-about-electric-vehicles-in-winter-c6e35798-92c5-4ef2-9a67-029a693436dc.html)
+- [Tesla Model 3 Driver Dies After It Stops on Highway, Hit by Two Other Vehicles](https://topcarnews.net/tesla-driver-dies-after-his-model-3-stops-on-highway-gets-hit-by-two-other-vehicles-s59902.html)
 - [Tesla driver dies after his Model 3 stops on highway, gets hit by two other](https://www.businessinsider.com/tesla-crash-driver-killed-after-car-stops-on-highway-2022-3)
-- [Samsung appears to be throttling 10k Android apps on Galaxy devices](https://www.osnews.com/story/134629/samsung-appears-to-be-throttling-10000-android-apps-on-galaxy-devices-just-like-oneplus/)
-- [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring](https://careers.atob.com/)
-- [Interslavic vs. Slovio – international slavic language comparison](http://steen.free.fr/interslavic/faq.html#slovio)
-- [Melinda Gates: Bill&#39;s relationship with Jeffrey Epstein led to end of marriage](https://boingboing.net/2022/03/03/melinda-french-gates-said-bills-relationship-with-jeffrey-epstein-led-to-the-end-of-their-marriage.html)
+- [It&#39;s always been you, Canvas2D](https://developer.chrome.com/blog/canvas2d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
