@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s a Pivotal Time for Data and Disruption — and SingleStore Is Leading the Way in the Cloud](https://www.singlestore.com/blog/its-a-pivotal-time-for-data-and-disruption-and-singlestore-is-leading-the-way-in-the-cloud)
-- [Stampeding away from Hadoop: Three Customer Success Stories](https://www.singlestore.com/blog/stampeding-away-from-hadoop-three-customer-success-stories)
-- [Engineer Showcase: Yamil Molinar](https://www.singlestore.com/blog/engineer-showcase-yamil-molinar)
-- [Engineer Showcase: Marta Vasconcelos](https://www.singlestore.com/blog/engineer-showcase-marta-vasconcelos)
-- [How to Migrate From MySQL to SingleStore](https://www.singlestore.com/blog/how-to-migrate-from-mysql-to-singlestore)
+- [Self-Driving Car Bet Between John Carmack And Jeff Atwood](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
+- [California proposal would force unhoused people into treatment](https://www.theguardian.com/us-news/2022/mar/03/california-proposal-forced-unhoused-treatment)
+- [Go’s Major Versioning Sucks – From a Fanboy](https://wagslane.dev/posts/gos-major-version-handling/)
+- [Show HN: Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono)
+- [Supabase &lpar;YC S20&rpar; Is Hiring for People Ops and Recruitment](https://boards.greenhouse.io/supabase/jobs/4368881004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
