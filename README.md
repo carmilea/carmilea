@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Actual “latency numbers everyone should know” computed in 2020](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+- [Europe&#39;s largest nuclear power plant on fire](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
+- [How the Weak Can Win – A Primer on Protracted War](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
 - [Brave Talk: Unlimited, private video calls, in browser](https://brave.com/talk/)
-- [Show HN: Surfboard – CodeSandbox for Arduino](https://sfbd.is/)
 - [Speeding up Go&#39;s built-in JSON encoder for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
-- [How “latency numbers everybody should know” decreased from 1990–2020](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
-- [USDA Pomological Watercolor Collection](https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields)
 <!-- BLOG-POST-LIST:END -->
 
 ---
