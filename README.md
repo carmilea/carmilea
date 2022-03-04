@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates – $15/Hr Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
+- [Steam Deck reports are here](https://www.protondb.com/news/steam-deck-reports-are-here)
+- [Making CRDTs Byzantine Fault Tolerant [pdf]](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
+- [Relationship Hero &lpar;YC S17&rpar; is hiring sales associates &lpar;remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
 - [Authorizing transactions involving certain blocked entities owned by Usmanov](https://home.treasury.gov/system/files/126/russia_gl15.pdf)
-- [Researchers can steal data during homomorphic encryption](https://news.ncsu.edu/2022/03/stealing-homomorphic-encryption-data/)
-- [Bypass Paywalls: a browser extension to help bypass paywalls for selected sites](https://github.com/iamadamdev/bypass-paywalls-chrome)
-- [U.S. firm Cogent cutting internet service to Russia](https://www.reuters.com/technology/us-firm-cogent-cutting-internet-service-russia-2022-03-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
