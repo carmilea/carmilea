@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Elementary &lpar;YC W22&rpar; – Open-source data observability](https://github.com/elementary-data/elementary)
-- [Trust Dies in Darkness: Shedding Light on Samsung’s TrustZone Keymaster Design [pdf]](https://eprint.iacr.org/2022/208.pdf)
-- [Show HN: I made a little Math game named Summle](https://summle.net/?hn)
-- [Ask HN: Replacement for stack overflow jobs section](https://news.ycombinator.com/item?id=30554840)
-- [A GitHub repository was public-viewable](https://blog.adafruit.com/2022/03/04/a-github-repository-was-public-viewable/)
+- [The “agencies of one” storm is coming](https://elazzabi.com/2022/03/04/the-agencies-of-one-storm-is-coming/)
+- [Why Do People Lie About Their Class?](https://atis.substack.com/p/class-bullshitters)
+- [Report-Minnesota Runs Surveillance Prog to Track Activists, Journalists](https://www.extremetech.com/extreme/332354-report-minnesota-secretly-runs-a-surveillance-program-to-track-activists-and-journalists)
+- [Basic Quantum Algorithms](https://arxiv.org/abs/2201.10574)
+- [Launch HN: Elementary &lpar;YC W22&rpar; – Open-source data observability](https://news.ycombinator.com/item?id=30555914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
