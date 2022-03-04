@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The “agencies of one” storm is coming](https://elazzabi.com/2022/03/04/the-agencies-of-one-storm-is-coming/)
-- [Why Do People Lie About Their Class?](https://atis.substack.com/p/class-bullshitters)
-- [Report-Minnesota Runs Surveillance Prog to Track Activists, Journalists](https://www.extremetech.com/extreme/332354-report-minnesota-secretly-runs-a-surveillance-program-to-track-activists-and-journalists)
-- [Basic Quantum Algorithms](https://arxiv.org/abs/2201.10574)
-- [Launch HN: Elementary &lpar;YC W22&rpar; – Open-source data observability](https://news.ycombinator.com/item?id=30555914)
+- [Supabase &lpar;YC S20&rpar; Is Hiring for People Ops and Recruitment](https://boards.greenhouse.io/supabase/jobs/4368881004)
+- [Launch HN: Phase Biolabs &lpar;YC W22&rpar; – Converting CO2 to Carbon-Neutral Chemicals](https://news.ycombinator.com/item?id=30557288)
+- [Heap memory corruption CVE for GitHub&#39;s Markdown table parsing](https://github.com/github/cmark-gfm/security/advisories/GHSA-mc3g-88wq-6f4x)
+- [Apple CEO Tim Cook tells employees to return to office April 11](https://www.theverge.com/2022/3/4/22961592/apple-april-11-return-office-corporate-pandemic-tim-cook)
+- [Mushrooms: Next Big Thing in Environmentally-Friendly Packaging and Construction](https://www.nasdaq.com/articles/mushrooms%3A-the-next-big-thing-in-environmentally-friendly-packaging-and-construction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
