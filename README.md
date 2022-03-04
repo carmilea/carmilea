@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Farmer sued for making t-shirts](https://mariposaranch.com/blogs/news/why-we-don-t-make-graze-against-the-machine-t-shirts-anymore)
+- [Possible BGP hijack: Prefix announced by NGROUP,UA also announced by NETGRUP, RU](https://bgpstream.com/event/287556)
 - [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
 - [Steam Deck reports are here](https://www.protondb.com/news/steam-deck-reports-are-here)
 - [Making CRDTs Byzantine Fault Tolerant [pdf]](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
-- [Relationship Hero &lpar;YC S17&rpar; is hiring sales associates &lpar;remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
-- [Authorizing transactions involving certain blocked entities owned by Usmanov](https://home.treasury.gov/system/files/126/russia_gl15.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
