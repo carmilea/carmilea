@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Miseducation of Maria Montessori](https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori)
+- [Let&#39;s Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
 - [What you must know about Memory, Caches, and Shared Memory [pdf]](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf)
-- [Ask HN: What are some good keyboards?](https://news.ycombinator.com/item?id=30549628)
+- [Thirty-Two Hour Workweek Act](https://www.congress.gov/bill/117th-congress/house-bill/4728/all-info)
 - [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
-- [How the weak can win – A primer on protracted war](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
-- [New York Times tech workers vote to certify union](https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
