@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t use the Unlicense: it’s an inferior license wrapped in an atrocious name](https://chrismorgan.info/blog/unlicense/)
-- [The cold hard truth about electric vehicles in winter](https://www.axios.com/the-cold-hard-truth-about-electric-vehicles-in-winter-c6e35798-92c5-4ef2-9a67-029a693436dc.html)
-- [Tesla Model 3 Driver Dies After It Stops on Highway, Hit by Two Other Vehicles](https://topcarnews.net/tesla-driver-dies-after-his-model-3-stops-on-highway-gets-hit-by-two-other-vehicles-s59902.html)
-- [Tesla driver dies after his Model 3 stops on highway, gets hit by two other](https://www.businessinsider.com/tesla-crash-driver-killed-after-car-stops-on-highway-2022-3)
-- [It&#39;s always been you, Canvas2D](https://developer.chrome.com/blog/canvas2d/)
+- [Upcoming 420 Celebrations](https://mailchi.mp/6c54638f6394/want-reservations-at-this-cool-420-celebration)
+- [Ask HN: Replacement for stack overflow jobs section](https://news.ycombinator.com/item?id=30554840)
+- [Never Change Your Password](https://tidbits.com/2022/03/03/never-change-your-password/)
+- [Elden Ring figured out the anti-piracy SEO game](https://twitter.com/ctwtn/status/1499740546264444930)
+- [The Unlicense is an inferior license wrapped in an atrocious name](https://chrismorgan.info/blog/unlicense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
