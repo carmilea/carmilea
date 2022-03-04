@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Putin’s last stand How to lose a war simply by starting one](https://meduza.io/en/feature/2022/03/04/putin-s-last-stand)
-- [Slovio, the international simplified Slavic language](http://slovio.com/)
-- [Product Management 101: What is user testing?](https://userpilot.com/blog/running-user-testing/)
-- [World&#39;s only An-225 destroyed by Russian airstrikes](https://www.ch-aviation.com/portal/news/113016-worlds-only-an-225-destroyed-by-russian-airstrikes)
-- [Google Docs New Feature: Pageless](https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=en)
+- [Tesla driver dies after his Model 3 stops on highway, gets hit by two other](https://www.businessinsider.com/tesla-crash-driver-killed-after-car-stops-on-highway-2022-3)
+- [Samsung appears to be throttling 10k Android apps on Galaxy devices](https://www.osnews.com/story/134629/samsung-appears-to-be-throttling-10000-android-apps-on-galaxy-devices-just-like-oneplus/)
+- [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring](https://careers.atob.com/)
+- [Interslavic vs. Slovio – international slavic language comparison](http://steen.free.fr/interslavic/faq.html#slovio)
+- [Melinda Gates: Bill&#39;s relationship with Jeffrey Epstein led to end of marriage](https://boingboing.net/2022/03/03/melinda-french-gates-said-bills-relationship-with-jeffrey-epstein-led-to-the-end-of-their-marriage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
