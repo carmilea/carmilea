@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30551541)
+- [CSS-Checker: Find and Reduce Similar and Duplicated CSS Scripts](https://github.com/ruilisi/css-checker)
 - [Treatment for Tinnitus with Stimulation of Auditory and Non-Auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
 - [DocBook 5.1: The Definitive Guide &lpar;2020&rpar;](https://tdg.docbook.org/tdg/5.1/)
 - [Alex Honnold: The Soloist VR](https://thesoloist-vr.com/)
-- [The Miseducation of Maria Montessori](https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori)
-- [Cybercriminals who breached Nvidia issue one of the most unusual demands ever](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
