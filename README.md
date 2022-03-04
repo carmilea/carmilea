@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Putin’s last stand How to lose a war simply by starting one](https://meduza.io/en/feature/2022/03/04/putin-s-last-stand)
 - [Slovio, the international simplified Slavic language](http://slovio.com/)
 - [Product Management 101: What is user testing?](https://userpilot.com/blog/running-user-testing/)
 - [World&#39;s only An-225 destroyed by Russian airstrikes](https://www.ch-aviation.com/portal/news/113016-worlds-only-an-225-destroyed-by-russian-airstrikes)
-- [The Mind Map Book](https://www.2uo.de/Books/the-mind-map-book/)
-- [Protein tweak makes CRISPR gene editing 4k times less error-prone](https://newatlas.com/science/crispr-gene-editing-error-correction-protein/)
+- [Google Docs New Feature: Pageless](https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
