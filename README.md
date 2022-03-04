@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slovio, the international simplified Slavic language](http://slovio.com/)
+- [Product Management 101: What is user testing?](https://userpilot.com/blog/running-user-testing/)
+- [World&#39;s only An-225 destroyed by Russian airstrikes](https://www.ch-aviation.com/portal/news/113016-worlds-only-an-225-destroyed-by-russian-airstrikes)
+- [The Mind Map Book](https://www.2uo.de/Books/the-mind-map-book/)
 - [Protein tweak makes CRISPR gene editing 4k times less error-prone](https://newatlas.com/science/crispr-gene-editing-error-correction-protein/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30551541)
-- [CSS-Checker: Find and Reduce Similar and Duplicated CSS Scripts](https://github.com/ruilisi/css-checker)
-- [Leaflet was created 11yrs ago by Vladimir Agafonkin, a Ukrainian citizen in Kyiv](https://leafletjs.com/index.html)
-- [Treatment for Tinnitus with Stimulation of Auditory and Non-Auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
