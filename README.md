@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there a functional reason for wizards to live in towers so often?](https://rpg.stackexchange.com/questions/196527/is-there-a-functional-reason-for-wizards-to-live-in-towers-so-often)
-- [Cvc5: Versatile and Industrial-Strength SMT Solver [pdf]](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
-- [Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3488539)
-- [Ask HN: How can we fix Wikipedia?](https://news.ycombinator.com/item?id=30567593)
-- [Reproducible Builds in February 2022](https://reproducible-builds.org/reports/2022-02/)
+- [Russians are trying to flee Putin’s chaos](https://www.economist.com/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos)
+- [The Price of Wheat](https://tradingeconomics.com/commodity/wheat)
+- [Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
+- [Welcome to the Intel Ice Lake D Era with the Xeon D-2700 and D-1700 series](https://www.servethehome.com/welcome-to-the-intel-ice-lake-d-era-with-the-xeon-d-2700-and-d-1700-series/)
+- [For insects, the Amazon’s canopy contains a dazzling multiverse](https://www.nationalgeographic.com/animals/article/for-insects-amazons-canopy-contains-a-dazzling-multiverse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
