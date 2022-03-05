@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A report on exercise and sleep &lpar;2021&rpar;](https://rubenerd.com/a-report-on-exercise-and-sleep/)
+- [AMD Is Now Worth More Than Intel – and with Reason](https://seekingalpha.com/article/4493003-amd-worth-more-than-intel)
+- [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 - [Show HN: I built a Wordle decoder that guesses your guesses](https://github.com/mattruzicka/wordle_decoder)
-- [Self-Host Your Static Assets &lpar;2019&rpar;](https://csswizardry.com/2019/05/self-host-your-static-assets/)
-- [Why Trucking Can’t Deliver the Goods](https://prospect.org/economy/why-trucking-cant-deliver-the-goods/)
-- [OpenSearch – open-source search and analytics based on Apache 2.0 Elasticsearch](https://opensearch.org/)
-- [Neothesia: GPU-accelerated open-source MIDI visualization game in Rust](https://github.com/PolyMeilex/Neothesia)
+- [GE won’t let me use convection roast on my new oven without connecting to WiFi](https://twitter.com/drbarnard/status/1500145131894231046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
