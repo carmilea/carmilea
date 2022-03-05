@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Novaya Gazeta quits news reports after criminal prosecution of journalists](https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni)
-- [To access the BBC, circumvention tools](https://www.bbc.com/mediacentre/articles/2022/advice-on-accessing-bbc-news)
-- [Beginners Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
-- [A tool to detect bugs in Java and C/C++/Objective-C code before it ships](https://fbinfer.com/)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
+- [Yandex warns of bond repayment and supply risks](https://www.reuters.com/markets/europe/russias-yandex-lacks-funds-cover-potential-bond-redemption-2022-03-04/)
+- [Scam Email – Impersonating Red Cross – Solicit Donations via Bitcoin](https://isc.sans.edu/forums/diary/Scam+EMail+Impersonating+Red+Cross/28404)
+- [The hardest program I&#39;ve ever written](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+- [Help Censored Users – Run a Tor Bridge](https://blog.torproject.org/run-a-bridge-campaign/)
+- [Leaked stolen Nvidia cert can sign Windows malware](https://www.theregister.com/2022/03/05/nvidia_stolen_certificate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
