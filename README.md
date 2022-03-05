@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Anonymous Author: Stylometry Techniques](https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/)
 - [Smarking &lpar;YC W15&rpar;: 15 new positions to accelerate mobility digitization](https://www.smarking.com/careers)
 - [The Arc Language Forum](http://arclanguage.org/forum)
 - [Ballast: An adaptive load test framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/)
-- [Growing number of Russians, Ukrainians seeking asylum at U.S.-Mexico border](https://timesofsandiego.com/politics/2022/03/04/growing-number-of-russians-ukrainians-seeking-asylum-at-u-s-mexico-border/)
 - [Mozilla patches two use-after-free vulnerabilities &lpar;ab&rpar;used in the wild](https://www.mozilla.org/en-US/security/advisories/mfsa2022-09/)
 <!-- BLOG-POST-LIST:END -->
 
