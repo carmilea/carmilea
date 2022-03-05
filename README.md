@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Farmer sued for making t-shirts](https://mariposaranch.com/blogs/news/why-we-don-t-make-graze-against-the-machine-t-shirts-anymore)
-- [Possible BGP hijack: Prefix announced by NGROUP,UA also announced by NETGRUP, RU](https://bgpstream.com/event/287556)
-- [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
-- [Steam Deck reports are here](https://www.protondb.com/news/steam-deck-reports-are-here)
-- [Making CRDTs Byzantine Fault Tolerant [pdf]](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
+- [WhatsApp Privacy Policy update for people in the European Region](https://faq.whatsapp.com/general/security-and-privacy/were-updating-our-privacy-policy-for-people-in-the-european-region/?lang=en)
+- [Honey, he shrunk the watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
+- [YouTube suspends The Hill for playing clip of Trump denying election results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
+- [Yandex Provides Update on Impact of Current Developments](https://ir.yandex/press-releases?year=2022)
+- [Possible BGP hijack](https://bgpstream.com/event/287556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
