@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russians are trying to flee Putin’s chaos](https://www.economist.com/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
+- [Russians are trying to flee – data from Google Trends](https://www.economist.com/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos)
 - [The Price of Wheat](https://tradingeconomics.com/commodity/wheat)
 - [Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
-- [Welcome to the Intel Ice Lake D Era with the Xeon D-2700 and D-1700 series](https://www.servethehome.com/welcome-to-the-intel-ice-lake-d-era-with-the-xeon-d-2700-and-d-1700-series/)
-- [For insects, the Amazon’s canopy contains a dazzling multiverse](https://www.nationalgeographic.com/animals/article/for-insects-amazons-canopy-contains-a-dazzling-multiverse)
+- [Reddit blocks posting any .ru links](https://old.reddit.com/r/ModSupport/comments/t66l5f/reddit_blocked_all_domains_under_russian_cctld_ru/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
