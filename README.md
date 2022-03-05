@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Happened to Outline.com?](https://news.ycombinator.com/item?id=30564665)
+- [Russian IT workers sign a petition against the war &lpar;in Russian&rpar;](https://vc.ru/flood/371332-sotrudniki-it-otrasli-opublikovali-otkrytoe-pismo-protiv-voyny-rossii-s-ukrainoy-ego-podpisalo-bolshe-tysyachi-chelovek)
+- [Cello – High Level C](https://libcello.org/)
 - [A regular expression to check for prime numbers](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
-- [Honey, he shrunk the watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
-- [YouTube suspends The Hill for playing clip of Trump denying election results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
-- [Yandex Provides Update on Impact of Current Developments](https://ir.yandex/press-releases?year=2022&id=03-03-2022)
-- [Possible BGP hijack](https://bgpstream.com/event/287556)
+- [Last Day of IKEA in Moscow](https://novayagazeta.ru/articles/2022/03/04/poslednii-den-ikei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
