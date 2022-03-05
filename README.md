@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Growing Number of Russians, Ukrainians Seeking Asylum at U.S.-Mexico Border](https://timesofsandiego.com/politics/2022/03/04/growing-number-of-russians-ukrainians-seeking-asylum-at-u-s-mexico-border/)
+- [Mozilla patches two use-after-free vulnerabilities &lpar;ab&rpar;used in the wild](https://www.mozilla.org/en-US/security/advisories/mfsa2022-09/)
+- [China Is Not Russia. Taiwan Is Not Ukraine](https://www.usip.org/publications/2022/03/china-not-russia-taiwan-not-ukraine)
 - [A report on exercise and sleep &lpar;2021&rpar;](https://rubenerd.com/a-report-on-exercise-and-sleep/)
 - [AMD Is Now Worth More Than Intel – and with Reason](https://seekingalpha.com/article/4493003-amd-worth-more-than-intel)
-- [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
-- [Show HN: I built a Wordle decoder that guesses your guesses](https://github.com/mattruzicka/wordle_decoder)
-- [GE won’t let me use convection roast on my new oven without connecting to WiFi](https://twitter.com/drbarnard/status/1500145131894231046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
