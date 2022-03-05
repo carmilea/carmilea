@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
-- [Russians are trying to flee – data from Google Trends](https://www.economist.com/graphic-detail/2022/03/04/russians-are-trying-to-flee-putins-chaos)
-- [The Price of Wheat](https://tradingeconomics.com/commodity/wheat)
-- [Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
-- [Reddit blocks posting any .ru links](https://old.reddit.com/r/ModSupport/comments/t66l5f/reddit_blocked_all_domains_under_russian_cctld_ru/)
+- [Show HN: I built a Wordle decoder that guesses your guesses](https://github.com/mattruzicka/wordle_decoder)
+- [Self-Host Your Static Assets &lpar;2019&rpar;](https://csswizardry.com/2019/05/self-host-your-static-assets/)
+- [Why Trucking Can’t Deliver the Goods](https://prospect.org/economy/why-trucking-cant-deliver-the-goods/)
+- [OpenSearch – open-source search and analytics based on Apache 2.0 Elasticsearch](https://opensearch.org/)
+- [Neothesia: GPU-accelerated open-source MIDI visualization game in Rust](https://github.com/PolyMeilex/Neothesia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
