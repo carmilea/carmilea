@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a functional reason for wizards to live in towers so often?](https://rpg.stackexchange.com/questions/196527/is-there-a-functional-reason-for-wizards-to-live-in-towers-so-often)
+- [Cvc5: Versatile and Industrial-Strength SMT Solver [pdf]](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
+- [Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3488539)
+- [Ask HN: How can we fix Wikipedia?](https://news.ycombinator.com/item?id=30567593)
 - [Reproducible Builds in February 2022](https://reproducible-builds.org/reports/2022-02/)
-- [Right to Repair Groups and Farmers Unions File FTC Complaint Against John Deere](https://www.vice.com/en/article/qjbnp3/right-to-repair-groups-and-farmers-unions-file-ftc-complaint-against-john-deere)
-- [Atomic &lpar;YC S20&rpar; Is Hiring a Senior Software Engineer – Fullstack](https://boards.greenhouse.io/atomicvest/jobs/4378312004)
-- [Rossiya – Special Flight Squadron Flight RSD88 from St Petersburg to Washington](https://www.flightradar24.com/data/flights/rsd88)
-- [Using the GCC Static Analyzer on the D Programming Language](https://dlang.org/blog/2022/01/14/using-the-gcc-static-analyzer-on-the-d-programming-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
