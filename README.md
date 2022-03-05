@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Novaya Gazeta quits news reports after criminal prosecution of journalists](https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni)
 - [To access the BBC, circumvention tools](https://www.bbc.com/mediacentre/articles/2022/advice-on-accessing-bbc-news)
+- [Beginners Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
 - [A tool to detect bugs in Java and C/C++/Objective-C code before it ships](https://fbinfer.com/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
-- [SpaceX reprioritized to cyber defense and overcoming signal jamming](https://twitter.com/elonmusk/status/1499972826828259328)
-- [Ask HN: What Happened to Outline.com?](https://news.ycombinator.com/item?id=30564665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
