@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Assassination of Boris Nemtsov](https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov)
+- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
+- [SpaceX reprioritized to cyber defense and overcoming signal jamming](https://twitter.com/elonmusk/status/1499972826828259328)
 - [Ask HN: What Happened to Outline.com?](https://news.ycombinator.com/item?id=30564665)
-- [Russian IT workers sign a petition against the war &lpar;in Russian&rpar;](https://vc.ru/flood/371332-sotrudniki-it-otrasli-opublikovali-otkrytoe-pismo-protiv-voyny-rossii-s-ukrainoy-ego-podpisalo-bolshe-tysyachi-chelovek)
 - [Cello – High Level C](https://libcello.org/)
-- [A regular expression to check for prime numbers](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
-- [Last Day of IKEA in Moscow](https://novayagazeta.ru/articles/2022/03/04/poslednii-den-ikei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
