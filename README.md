@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Assassination of Boris Nemtsov](https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov)
+- [To access the BBC, circumvention tools](https://www.bbc.com/mediacentre/articles/2022/advice-on-accessing-bbc-news)
+- [A tool to detect bugs in Java and C/C++/Objective-C code before it ships](https://fbinfer.com/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
+- [‘Mac Studio’ [desktop computer] is coming](https://9to5mac.com/2022/03/04/exclusive-mac-studio-is-coming-is-it-the-pro-mac-mini-or-mini-mac-pro/)
 - [SpaceX reprioritized to cyber defense and overcoming signal jamming](https://twitter.com/elonmusk/status/1499972826828259328)
-- [Ask HN: What Happened to Outline.com?](https://news.ycombinator.com/item?id=30564665)
-- [Cello – High Level C](https://libcello.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
