@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Anonymous Author: Stylometry Techniques](https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/)
-- [Smarking &lpar;YC W15&rpar;: 15 new positions to accelerate mobility digitization](https://www.smarking.com/careers)
-- [The Arc Language Forum](http://arclanguage.org/forum)
-- [Ballast: An adaptive load test framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/)
-- [Mozilla patches two use-after-free vulnerabilities &lpar;ab&rpar;used in the wild](https://www.mozilla.org/en-US/security/advisories/mfsa2022-09/)
+- [Volodymyr Zelensky survives three assassination attempts in days](https://www.thetimes.co.uk/article/zelensky-survives-three-assassination-attempts-in-days-xnstdfdfc)
+- [MasterCard suspends all services in Russia](https://www.mastercard.com/news/press/2022/march/mastercard-statement-on-suspension-of-russian-operations/)
+- [How BART on the Golden Gate Bridge Died: A New History](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
+- [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
+- [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
