@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aeroflot to Halt International Flights from March 8](https://www.washingtonpost.com/politics/live-updates-hundreds-in-tokyo-protest-russian-invasion/2022/03/05/87abb49c-9c50-11ec-9987-9dceee62a3f6_story.html)
+- [Texans overwhelmingly traveled out-of-state to get abortions after state ban](https://www.axios.com/texas-abortion-ban-planned-parenthood-roe-79b70317-8b2a-4d8a-aa3c-e98c03c5ed1b.html)
+- [More evidence that Covid-19 started in a market, not a laboratory](https://www.economist.com/science-and-technology/more-evidence-that-covid-19-started-in-a-market-not-a-laboratory/21807945)
 - [Atomic &lpar;YC S20&rpar; Is Hiring a Senior Software Engineer – Fullstack](https://boards.greenhouse.io/atomicvest/jobs/4378312004)
 - [Ukraine accepted to NATO cyber defence centre](https://ccdcoe.org/news/2022/ukraine-to-be-accepted-as-a-contributing-participant-to-nato-ccdcoe/)
-- [Ask HN: How many 2FA tokens do you have?](https://news.ycombinator.com/item?id=30566604)
-- [Using the GCC Static Analyzer on the D Programming Language](https://dlang.org/blog/2022/01/14/using-the-gcc-static-analyzer-on-the-d-programming-language/)
-- [Yandex warns of bond repayment and supply risks](https://www.reuters.com/markets/europe/russias-yandex-lacks-funds-cover-potential-bond-redemption-2022-03-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
