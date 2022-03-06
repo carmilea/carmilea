@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Say No To `:Latest`](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
+- [FSB Whistleblower](https://noteplan.co/n/3D073DDB-CB0F-4ABC-BC93-01A94141445B)
 - [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
 - [Dr. Whitehurst and the FBI Lab Scandal &lpar;2017&rpar;](https://whistleblowersblog.org/government-whistleblowers/intelligence-community-whistleblowers/dr-whitehurst-and-the-fbi-lab-scandal/)
 - [Notes on Nationalism &lpar;1945&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/)
-- [$1 Microcontrollers](https://jaycarlson.net/microcontrollers/)
-- [Selling to the Fortune 500, Government, and Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
