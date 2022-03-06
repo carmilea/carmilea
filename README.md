@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Defender is enough, if you harden it](https://0ut3r.space/2022/03/06/windows-defender/)
-- [Deleting TikTok for physical health reasons](https://news.ycombinator.com/item?id=30580390)
-- [Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
-- [Why is there a TikTok tracking pixel on UberEats what is this crap?](https://user-images.githubusercontent.com/7585078/156935120-91e35d8f-fed2-4f97-a31e-2460c884db94.png)
-- [Using email wrong](https://arne.me/blog/youre-using-email-wrong/)
+- [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- [Car Models with the Most DUIs](https://insurify.com/insights/car-models-with-the-most-duis/)
+- [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
+- [Request Coalescing in Async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
+- [Denmark Will Hold June Referendum on Joining EU’s Defense Pact](https://www.bloomberg.com/news/articles/2022-03-06/denmark-will-hold-vote-on-joining-eu-s-defense-pact-tv2-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
