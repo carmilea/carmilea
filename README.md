@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
 - [Why is there a TikTok tracking pixel on UberEats what is this crap?](https://user-images.githubusercontent.com/7585078/156935120-91e35d8f-fed2-4f97-a31e-2460c884db94.png)
-- [You&#39;re Using Email Wrong](https://arne.me/blog/youre-using-email-wrong/)
-- [EU Buried $400k Study Showing Piracy Have Almost No Effect on Sales &lpar;2017&rpar;](https://www.techdirt.com/2017/09/21/eu-buried-own-400000-study-showing-unauthorized-downloads-have-almost-no-effect-sales/)
-- [Adding a “duress” password with PAM Duress](https://lwn.net/Articles/867158/)
+- [Using email wrong](https://arne.me/blog/youre-using-email-wrong/)
+- [Adding a “duress” password with PAM Duress &lpar;2021&rpar;](https://lwn.net/Articles/867158/)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a Developer Advocates &lpar;US&rpar;](https://angel.co/l/2wamXW)
 <!-- BLOG-POST-LIST:END -->
 
