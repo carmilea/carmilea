@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematically Correct Breakfast How to Slice a Bagel into Two Linked Halves](http://www.georgehart.com/bagel/bagel.html)
+- [Discord.py returns to the discord bot scene](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
+- [Mathematically correct breakfast: How to slice a bagel into two linked halves](http://www.georgehart.com/bagel/bagel.html)
 - [Scientists Watch a Memory Form in a Living Brain](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/)
-- [How Does This End?](https://carnegieendowment.org/2022/03/03/how-does-this-end-pub-86570)
 - [How BART on the Golden Gate Bridge died: A new history](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
 - [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
 <!-- BLOG-POST-LIST:END -->
