@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ASCII Cartoon characters for your terminal and JavaScript projects](https://www.npmjs.com/package/phraze)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring a Developer Advocates &lpar;US&rpar;](https://angel.co/l/2wamXW)
+- [Considerable consequences could come with CO2 removal](https://www.nature.com/articles/s41467-022-28573-5)
 - [Moscow police officers stop people, request their phones to read their messages](https://twitter.com/KevinRothrock/status/1500458582902460420)
 - [Germany considers keeping nuclear power plants online](https://www.euractiv.com/section/energy/news/germany-considers-keeping-nuclear-power-plants-online/)
 - [Ask HN: Why would anyone choose Haskell to develop applications?](https://news.ycombinator.com/item?id=30577911)
-- [No, “Open Source” does not mean “Includes Free Support” &lpar;2020&rpar;](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
