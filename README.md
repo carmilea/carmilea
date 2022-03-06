@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volodymyr Zelensky survives three assassination attempts in days](https://www.thetimes.co.uk/article/zelensky-survives-three-assassination-attempts-in-days-xnstdfdfc)
-- [MasterCard suspends all services in Russia](https://www.mastercard.com/news/press/2022/march/mastercard-statement-on-suspension-of-russian-operations/)
-- [How BART on the Golden Gate Bridge Died: A New History](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
+- [Mathematically Correct Breakfast How to Slice a Bagel into Two Linked Halves](http://www.georgehart.com/bagel/bagel.html)
+- [Scientists Watch a Memory Form in a Living Brain](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/)
+- [How Does This End?](https://carnegieendowment.org/2022/03/03/how-does-this-end-pub-86570)
+- [How BART on the Golden Gate Bridge died: A new history](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
 - [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
-- [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
