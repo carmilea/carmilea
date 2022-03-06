@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ASCII Cartoon characters for your terminal and JavaScript projects](https://www.npmjs.com/package/phraze)
+- [Moscow police officers stop people, request their phones to read their messages](https://twitter.com/KevinRothrock/status/1500458582902460420)
+- [Germany considers keeping nuclear power plants online](https://www.euractiv.com/section/energy/news/germany-considers-keeping-nuclear-power-plants-online/)
 - [Ask HN: Why would anyone choose Haskell to develop applications?](https://news.ycombinator.com/item?id=30577911)
-- [Ask HN: Do you pull and run code as part of code review?](https://news.ycombinator.com/item?id=30577735)
 - [No, “Open Source” does not mean “Includes Free Support” &lpar;2020&rpar;](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
-- [Dr. Bronner’s, the Soap Company, Dips into Psychedelics](https://www.nytimes.com/2022/02/28/health/ketamine-bronner-bros.html)
-- [Zotonic, the Erlang Web Framework](http://zotonic.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
