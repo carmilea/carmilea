@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why would anyone choose Haskell to develop applications?](https://news.ycombinator.com/item?id=30577911)
+- [Ask HN: Do you pull and run code as part of code review?](https://news.ycombinator.com/item?id=30577735)
+- [No, “Open Source” does not mean “Includes Free Support” &lpar;2020&rpar;](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
+- [Dr. Bronner’s, the Soap Company, Dips into Psychedelics](https://www.nytimes.com/2022/02/28/health/ketamine-bronner-bros.html)
 - [Zotonic, the Erlang Web Framework](http://zotonic.com/)
-- [&#39;Fingerprint&#39; ML Technique Identifies Different Bacteria in Seconds](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=19210)
-- [What&#39;s the Risk from Fake Yubikeys?](https://shkspr.mobi/blog/2022/03/whats-the-risk-from-fake-yubikeys/)
-- [Non-Hermitian topology in rock-paper-scissors games](https://www.nature.com/articles/s41598-021-04178-8)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
