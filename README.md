@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [Car Models with the Most DUIs](https://insurify.com/insights/car-models-with-the-most-duis/)
 - [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
+- [Ask HN: How do a prepare mentally for war?](https://news.ycombinator.com/item?id=30581056)
+- [Commodore 64 – Reverse Engineered BusCard](https://pdbuchan.com/commodore/buscard/buscard.html)
 - [Request Coalescing in Async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
-- [Denmark Will Hold June Referendum on Joining EU’s Defense Pact](https://www.bloomberg.com/news/articles/2022-03-06/denmark-will-hold-vote-on-joining-eu-s-defense-pact-tv2-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
