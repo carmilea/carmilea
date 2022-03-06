@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellarium Astronomy Software](https://stellarium.org/)
 - [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s?](https://twitter.com/danluu/status/1447997574556880902)
 - [The Scientist and Engineer&#39;s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
-- [Discord.py returns to the discord bot scene](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
+- [On resuming discord.py development](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
 - [NSA Network Infrastructure Security Guidance [pdf]](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF)
-- [Mathematically correct breakfast: How to slice a bagel into two linked halves](http://www.georgehart.com/bagel/bagel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
