@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a mobile-first Prolog editor](https://github.com/lf94/paizo-prolog)
+- [The Vintage Beauty of Soviet Control Rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
+- [Modern Fascism Looks Like](https://twitter.com/i/web/status/1500495309595725831)
 - [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
 - [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
-- [Ask HN: How do a prepare mentally for war?](https://news.ycombinator.com/item?id=30581056)
-- [Commodore 64 – Reverse Engineered BusCard](https://pdbuchan.com/commodore/buscard/buscard.html)
-- [Request Coalescing in Async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
