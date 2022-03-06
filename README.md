@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is there a TikTok tracking pixel on UberEats what is this crap?](https://user-images.githubusercontent.com/7585078/156935120-91e35d8f-fed2-4f97-a31e-2460c884db94.png)
+- [You&#39;re Using Email Wrong](https://arne.me/blog/youre-using-email-wrong/)
+- [EU Buried $400k Study Showing Piracy Have Almost No Effect on Sales &lpar;2017&rpar;](https://www.techdirt.com/2017/09/21/eu-buried-own-400000-study-showing-unauthorized-downloads-have-almost-no-effect-sales/)
+- [Adding a “duress” password with PAM Duress](https://lwn.net/Articles/867158/)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a Developer Advocates &lpar;US&rpar;](https://angel.co/l/2wamXW)
-- [Considerable consequences could come with CO2 removal](https://www.nature.com/articles/s41467-022-28573-5)
-- [Moscow police officers stop people, request their phones to read their messages](https://twitter.com/KevinRothrock/status/1500458582902460420)
-- [Germany considers keeping nuclear power plants online](https://www.euractiv.com/section/energy/news/germany-considers-keeping-nuclear-power-plants-online/)
-- [Ask HN: Why would anyone choose Haskell to develop applications?](https://news.ycombinator.com/item?id=30577911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
