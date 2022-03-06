@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dr. Whitehurst and the FBI Lab Scandal &lpar;2017&rpar;](https://whistleblowersblog.org/government-whistleblowers/intelligence-community-whistleblowers/dr-whitehurst-and-the-fbi-lab-scandal/)
-- [How to Write a Spelling Corrector](http://www.norvig.com/spell-correct.html)
-- [Spotify made a cowardly choice: to submit to the Kremlin](https://copyriot.se/2022/03/05/spotify-made-a-cowardly-choice-to-submit-to-the-kremlin-rather-than-to-support-russian-dissenters/)
-- [Stellarium Astronomy Software](https://stellarium.org/)
-- [The Scientist and Engineer&#39;s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+- [Notes on Nationalism &lpar;1945&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/)
+- [Selling to the Fortune 500, Government, and Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
+- [How to Write a Spelling Corrector &lpar;2007&rpar;](http://www.norvig.com/spell-correct.html)
+- [High Definition Radio](https://computer.rip/2022-03-05-high-definition-radio.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
