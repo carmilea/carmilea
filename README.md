@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dr. Whitehurst and the FBI Lab Scandal &lpar;2017&rpar;](https://whistleblowersblog.org/government-whistleblowers/intelligence-community-whistleblowers/dr-whitehurst-and-the-fbi-lab-scandal/)
+- [How to Write a Spelling Corrector](http://www.norvig.com/spell-correct.html)
+- [Spotify made a cowardly choice: to submit to the Kremlin](https://copyriot.se/2022/03/05/spotify-made-a-cowardly-choice-to-submit-to-the-kremlin-rather-than-to-support-russian-dissenters/)
 - [Stellarium Astronomy Software](https://stellarium.org/)
-- [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s?](https://twitter.com/danluu/status/1447997574556880902)
 - [The Scientist and Engineer&#39;s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
-- [On resuming discord.py development](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
-- [NSA Network Infrastructure Security Guidance [pdf]](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF)
 <!-- BLOG-POST-LIST:END -->
 
 ---
