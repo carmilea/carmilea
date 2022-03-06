@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Risk from Fake Yubikeys?](https://shkspr.mobi/blog/2022/03/whats-the-risk-from-fake-yubikeys/)
+- [Non-Hermitian topology in rock-paper-scissors games](https://www.nature.com/articles/s41598-021-04178-8)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 - [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
-- [InstaNFC – Access Control Hardware for Developers](https://instanfc.com/)
-- [Digital Health Rules](https://www.deprocrastination.co/blog/9-digital-health-rules)
-- [Just say no to :latest](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
+- [Advanced Programming Languages](https://matt.might.net/articles/best-programming-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
