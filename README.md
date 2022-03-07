@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fed released a paper outlining pros and cons of a “digital dollar”](https://www.federalreserve.gov/publications/january-2022-cbdc.htm)
+- [Show HN: iPod Clickwheel.js](https://www.clickwheeljs.com/#)
+- [Show HN: utt, the Universal Text Transformer](https://github.com/queer/utt)
+- [The Frog of War](http://blogs.harvard.edu/doc/)
 - [Launch HN: Litebulb &lpar;YC W22&rpar; – Automating the technical interview](https://www.litebulb.io)
-- [Rsync.net Technical Notes – Q4 2021](https://www.rsync.net/resources/notes/2021-q4-rsync.net_technotes.html)
-- [Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7514271/)
-- [A Chip to Bridge the USB 2 – USB 3 Divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
-- [So you want to study mathematics](https://www.susanrigetti.com/math)
 <!-- BLOG-POST-LIST:END -->
 
 ---
