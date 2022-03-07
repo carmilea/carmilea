@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How did you overcome perfectionism?](https://news.ycombinator.com/item?id=30589374)
+- [Parallel Grouped Aggregation in DuckDB](https://duckdb.org/2022/03/07/aggregate-hashtable.html)
+- [UK rejects opening borders to Ukraine refugees](https://www.reuters.com/world/europe/britain-may-ease-immigration-rules-ukrainian-refugees-sun-2022-03-07/)
+- [ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 - [Latvia wants permanent U.S. troops, foreign minister tells Blinken](https://www.reuters.com/world/latvia-wants-permanent-us-troops-foreign-minister-tells-blinken-2022-03-07/)
-- [Japan’s ‘killing stone’ splits in two, releasing superstitions nine-tailed fox](https://www.theguardian.com/world/2022/mar/07/japans-killing-stone-splits-in-two-releasing-superstitions-and-toxic-gases)
-- [Goosh](http://www.goosh.org/)
-- [Why Bad Behavior Is Almost Always Good Politics](https://fs.blog/the-dictators-handbook/)
-- [Microsoft Flight Simulator&#39;s cloud debut comes with upsides for devs](https://www.gamedeveloper.com/the-cloud/-i-microsoft-flight-simulator-s-i-cloud-debut-comes-with-upsides-for-devs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
