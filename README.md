@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Latvia wants permanent U.S. troops, foreign minister tells Blinken](https://www.reuters.com/world/latvia-wants-permanent-us-troops-foreign-minister-tells-blinken-2022-03-07/)
 - [Japan’s ‘killing stone’ splits in two, releasing superstitions nine-tailed fox](https://www.theguardian.com/world/2022/mar/07/japans-killing-stone-splits-in-two-releasing-superstitions-and-toxic-gases)
 - [Goosh](http://www.goosh.org/)
 - [Why Bad Behavior Is Almost Always Good Politics](https://fs.blog/the-dictators-handbook/)
 - [Microsoft Flight Simulator&#39;s cloud debut comes with upsides for devs](https://www.gamedeveloper.com/the-cloud/-i-microsoft-flight-simulator-s-i-cloud-debut-comes-with-upsides-for-devs)
-- [Economists say that high gas prices triggered the housing crisis in 2007 &lpar;2012&rpar;](https://today.oregonstate.edu/archives/2012/apr/economists-say-high-gas-prices-triggered-housing-crisis-2007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
