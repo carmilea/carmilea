@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just 5 Top headlines of the world you need to start your day with](https://justfive.news/)
 - [Do It &lpar;2004&rpar;](https://www.folklore.org/StoryView.py?project=Macintosh&story=Do_It.txt)
 - [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
 - [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
-- [Words that seem related but aren&#39;t &lpar;2015&rpar;](https://theweek.com/articles/541713/15-pairs-words-that-seem-etymologically-related-but-arent)
-- [Introduction to GPUs with OpenGL](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/)
+- [How the world&#39;s heaviest man lost it all &lpar;2017&rpar;](https://www.gq.com/story/how-the-worlds-heaviest-man-lost-it-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
