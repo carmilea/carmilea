@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China-Russia trade grew 38.5% in January-February](https://www.reuters.com/markets/europe/china-russia-trade-has-surged-countries-grow-closer-2022-03-01/)
 - [Skio &lpar;Subscriptions for Shopify&rpar; is hiring founding engineers in NYC](https://skio.com/careers/)
+- [Ask HN: How do I feel less guilty about bugs?](https://news.ycombinator.com/item?id=30590045)
 - [Critical Cross-Account Vulnerability in Microsoft Azure Automation Service](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/)
-- [1.0 USD = 158.3 Rub](https://wise.com/us/currency-converter/usd-to-rub-rate?amount=1)
-- [Z &lpar;Military Symbol&rpar;](https://en.wikipedia.org/wiki/Z_(military_symbol))
-- [How to build a pedal-powered generator](https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html)
+- [Britain to start approval process for Rolls-Royce mini nuclear reactor](https://www.reuters.com/business/britain-start-approval-process-rolls-royce-mini-nuclear-reactor-2022-03-07/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
