@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitamin D supplements lower risk of autoimmune disease](https://news.harvard.edu/gazette/story/2022/01/vitamin-d-reduced-rate-of-autoimmune-diseases-by-22/)
+- [A Monk’s-Eye View](https://www.lrb.co.uk/the-paper/v44/n05/diarmaid-macculloch/a-monk-s-eye-view)
 - [Just 5 Top headlines of the world you need to start your day with](https://justfive.news/)
 - [Do It &lpar;2004&rpar;](https://www.folklore.org/StoryView.py?project=Macintosh&story=Do_It.txt)
 - [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
-- [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
-- [How the world&#39;s heaviest man lost it all &lpar;2017&rpar;](https://www.gq.com/story/how-the-worlds-heaviest-man-lost-it-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
