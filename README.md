@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian news channel RT to broadcast on Rumble after Big Tech curbs](https://www.reuters.com/business/media-telecom/russian-news-channel-rt-broadcast-rumble-after-big-tech-curbs-2022-03-03/)
-- [Ask HN: Should there be a “draft” for cyber war?](https://news.ycombinator.com/item?id=30586963)
-- [The Dirty Pipe Vulnerability](https://dirtypipe.cm4all.com/)
-- [Remi Labs &lpar;YC W22&rpar; is hiring to build NFTs for ecom businesses](https://www.workatastartup.com/jobs/50556)
-- [Microsoft GW-Basic Interpreter Source Code](https://github.com/microsoft/GW-BASIC)
+- [Japan’s ‘killing stone’ splits in two, releasing superstitions nine-tailed fox](https://www.theguardian.com/world/2022/mar/07/japans-killing-stone-splits-in-two-releasing-superstitions-and-toxic-gases)
+- [Goosh](http://www.goosh.org/)
+- [Why Bad Behavior Is Almost Always Good Politics](https://fs.blog/the-dictators-handbook/)
+- [Microsoft Flight Simulator&#39;s cloud debut comes with upsides for devs](https://www.gamedeveloper.com/the-cloud/-i-microsoft-flight-simulator-s-i-cloud-debut-comes-with-upsides-for-devs)
+- [Economists say that high gas prices triggered the housing crisis in 2007 &lpar;2012&rpar;](https://today.oregonstate.edu/archives/2012/apr/economists-say-high-gas-prices-triggered-housing-crisis-2007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
