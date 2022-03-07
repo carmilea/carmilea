@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian news channel RT to broadcast on Rumble after Big Tech curbs](https://www.reuters.com/business/media-telecom/russian-news-channel-rt-broadcast-rumble-after-big-tech-curbs-2022-03-03/)
+- [Ask HN: Should there be a “draft” for cyber war?](https://news.ycombinator.com/item?id=30586963)
+- [The Dirty Pipe Vulnerability](https://dirtypipe.cm4all.com/)
 - [Remi Labs &lpar;YC W22&rpar; is hiring to build NFTs for ecom businesses](https://www.workatastartup.com/jobs/50556)
-- [The Society of Mind](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/)
-- [Loudness War](https://en.wikipedia.org/wiki/Loudness_war)
-- [Freshmeat.net, 1997-2014 &lpar;2014&rpar;](https://jeffcovey.net/2014/06/19/freshmeat-net-1997-2014/)
-- [Russia to Legalize Software Piracy](https://writing.kemitchell.com/2022/03/05/Russia-to-Legalize-Software-Piracy.html)
+- [Microsoft GW-Basic Interpreter Source Code](https://github.com/microsoft/GW-BASIC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
