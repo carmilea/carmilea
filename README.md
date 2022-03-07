@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a mobile-first Prolog editor](https://github.com/lf94/paizo-prolog)
+- [Crude oil market opens at $125](https://tradingeconomics.com/commodity/crude-oil)
+- [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
 - [The Vintage Beauty of Soviet Control Rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- [Modern Fascism Looks Like](https://twitter.com/i/web/status/1500495309595725831)
+- [I Can No Longer Compile My First Flash Game](https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game)
 - [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
