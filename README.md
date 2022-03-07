@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodable is hiring Game Developers to help us teach kids to code](https://www.indeed.com/viewjob?t=senior+game+developer&jk=90675a990f5b7fb6&_ga=2.111768833.403711911.1646594062-903361712.1645574492)
+- [Kodable &lpar;YC IK12&rpar; is hiring game developers to help us teach kids to code](https://www.indeed.com/viewjob?t=senior+game+developer&jk=90675a990f5b7fb6&_ga=2.111768833.403711911.1646594062-903361712.1645574492)
+- [Why is California wasting millions on hydrogen fuel pumps?](https://www.canarymedia.com/articles/hydrogen/why-is-california-wasting-millions-on-hydrogen-fuel-pumps)
+- [The Voice of Utah&#39;s Arches &lpar;ambient seismic vibration sped up 25X&rpar;](https://geohazards.earth.utah.edu/tones/)
 - [Select, put and delete data from JSON, TOML, YAML, XML and CSV files](https://github.com/TomWright/dasel)
 - [Show HN: Prodscape.net – Map your mobile app](https://news.ycombinator.com/item?id=30592789)
-- [Show HN: iPod Clickwheel.js](https://www.clickwheeljs.com/#)
-- [Show HN: utt – Universal Text Transformer](https://github.com/queer/utt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
