@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Four-year-old Israeli child tests positive for polio, first case since 1989](https://www.jpost.com/breaking-news/article-700510)
-- [The Campaign to Shut Down Crucial Documentary Tool YouTube-Dl Continues](https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight)
-- [Cooklang – Managing Recipes in Git](https://briansunter.com/blog/cooklang/)
-- [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
-- [Binary search with confidence](https://blog.tylerhou.io/posts/binary-search-with-confidence/)
+- [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
+- [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
+- [I think you can reasonably attribute ~7% of our engineering team to me](https://twitter.com/patio11/status/1316091105847332864)
+- [Introduction to GPUs with OpenGL](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
