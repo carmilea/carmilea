@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China-Russia trade grew 38.5% in January-February](https://www.reuters.com/markets/europe/china-russia-trade-has-surged-countries-grow-closer-2022-03-01/)
-- [Skio &lpar;Subscriptions for Shopify&rpar; is hiring founding engineers in NYC](https://skio.com/careers/)
-- [Ask HN: How do I feel less guilty about bugs?](https://news.ycombinator.com/item?id=30590045)
-- [Critical Cross-Account Vulnerability in Microsoft Azure Automation Service](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/)
-- [Britain to start approval process for Rolls-Royce mini nuclear reactor](https://www.reuters.com/business/britain-start-approval-process-rolls-royce-mini-nuclear-reactor-2022-03-07/)
+- [Launch HN: Litebulb &lpar;YC W22&rpar; – Automating the technical interview](https://www.litebulb.io)
+- [Rsync.net Technical Notes – Q4 2021](https://www.rsync.net/resources/notes/2021-q4-rsync.net_technotes.html)
+- [Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7514271/)
+- [A Chip to Bridge the USB 2 – USB 3 Divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
+- [So you want to study mathematics](https://www.susanrigetti.com/math)
 <!-- BLOG-POST-LIST:END -->
 
 ---
