@@ -55,7 +55,7 @@
 - [The Campaign to Shut Down Crucial Documentary Tool YouTube-Dl Continues](https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight)
 - [Cooklang – Managing Recipes in Git](https://briansunter.com/blog/cooklang/)
 - [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
-- [The Vintage Beauty of Soviet Control Rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
+- [Binary search with confidence](https://blog.tylerhou.io/posts/binary-search-with-confidence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
