@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crude oil market opens at $125](https://tradingeconomics.com/commodity/crude-oil)
+- [Four-year-old Israeli child tests positive for polio, first case since 1989](https://www.jpost.com/breaking-news/article-700510)
+- [The Campaign to Shut Down Crucial Documentary Tool YouTube-Dl Continues](https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight)
+- [Cooklang – Managing Recipes in Git](https://briansunter.com/blog/cooklang/)
 - [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
 - [The Vintage Beauty of Soviet Control Rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- [I Can No Longer Compile My First Flash Game](https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game)
-- [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
