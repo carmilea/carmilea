@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did you overcome perfectionism?](https://news.ycombinator.com/item?id=30589374)
-- [Parallel Grouped Aggregation in DuckDB](https://duckdb.org/2022/03/07/aggregate-hashtable.html)
-- [UK rejects opening borders to Ukraine refugees](https://www.reuters.com/world/europe/britain-may-ease-immigration-rules-ukrainian-refugees-sun-2022-03-07/)
-- [ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs](https://github.com/maharmstone/ntfs2btrfs)
-- [Latvia wants permanent U.S. troops, foreign minister tells Blinken](https://www.reuters.com/world/latvia-wants-permanent-us-troops-foreign-minister-tells-blinken-2022-03-07/)
+- [Skio &lpar;Subscriptions for Shopify&rpar; is hiring founding engineers in NYC](https://skio.com/careers/)
+- [Critical Cross-Account Vulnerability in Microsoft Azure Automation Service](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/)
+- [1.0 USD = 158.3 Rub](https://wise.com/us/currency-converter/usd-to-rub-rate?amount=1)
+- [Z &lpar;Military Symbol&rpar;](https://en.wikipedia.org/wiki/Z_(military_symbol))
+- [How to build a pedal-powered generator](https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
