@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitamin D supplements lower risk of autoimmune disease](https://news.harvard.edu/gazette/story/2022/01/vitamin-d-reduced-rate-of-autoimmune-diseases-by-22/)
-- [A Monk’s-Eye View](https://www.lrb.co.uk/the-paper/v44/n05/diarmaid-macculloch/a-monk-s-eye-view)
-- [Just 5 Top headlines of the world you need to start your day with](https://justfive.news/)
-- [Do It &lpar;2004&rpar;](https://www.folklore.org/StoryView.py?project=Macintosh&story=Do_It.txt)
-- [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
+- [Freshmeat.net, 1997-2014 &lpar;2014&rpar;](https://jeffcovey.net/2014/06/19/freshmeat-net-1997-2014/)
+- [Russia to Legalize Software Piracy](https://writing.kemitchell.com/2022/03/05/Russia-to-Legalize-Software-Piracy.html)
+- [How to deploy software on a moving bus &lpar;2018&rpar;](https://engineering.citymapper.com/how-to-deploy-software-to-a-bus.html)
+- [Calling all pirates: This US lawmaker wants you to seize Russian vessels](https://www.militarytimes.com/off-duty/military-culture/2022/03/02/calling-all-pirates-this-us-lawmaker-wants-you-to-seize-russian-vessels/)
+- [Vitamin D supplements lower risk of autoimmune disease, researchers say](https://news.harvard.edu/gazette/story/2022/01/vitamin-d-reduced-rate-of-autoimmune-diseases-by-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
