@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
 - [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
-- [I think you can reasonably attribute ~7% of our engineering team to me](https://twitter.com/patio11/status/1316091105847332864)
+- [I think you can reasonably attribute ~7% of our engineering team to me &lpar;2020&rpar;](https://twitter.com/patio11/status/1316091105847332864)
+- [Words that seem related but aren&#39;t &lpar;2015&rpar;](https://theweek.com/articles/541713/15-pairs-words-that-seem-etymologically-related-but-arent)
 - [Introduction to GPUs with OpenGL](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/)
-- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
