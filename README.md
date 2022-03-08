@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford to Impose Non-Negotiable Pricing on EV Sales as Part of Model E Plan](https://www.macheforum.com/site/threads/ford-to-impose-non-negotiable-pricing-on-ev-sales-as-part-of-model-e-division-plan.15168/)
 - [Transforming Cities with Superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
 - [Unexpected Shunts in the Supply Chain](https://www.moderndescartes.com/essays/repackaged_energy/)
 - [A brief reflection on Mac software stagnation](http://morrick.me/archives/9508)
-- [Buffet an All-inclusive Buffer for C](https://github.com/alcover/buffet)
-- [Corners Don&#39;t Look Like That: Regarding Screenspace Ambient Occlusion](http://nothings.org/gamedev/ssao/)
+- [Buffet – An All-inclusive Buffer for C](https://github.com/alcover/buffet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
