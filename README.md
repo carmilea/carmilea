@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Celebration and Recognition of Women and Diversity](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
+- [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
+- [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
+- [In Celebration and Recognition of Women](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
 - [Put an io_uring on it: Exploiting the Linux Kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
-- [Launch HN: Optery &lpar;YC W22&rpar; – Remove your personal info from the internet](https://www.optery.com/)
-- [Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
-- [Apple Mac Studio](https://www.apple.com/mac-studio/)
+- [Launch HN: Optery &lpar;YC W22&rpar; – Remove your personal info from the internet](https://news.ycombinator.com/item?id=30605010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
