@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [A new speed milestone for Chrome](https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html)
 - [C Package Manager](https://github.com/clibs/clib)
-- [Pornhub and the Value of Bitcoin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036795)
 - [Ford to Impose Non-Negotiable Pricing on EV Sales as Part of Model E Plan](https://www.macheforum.com/site/threads/ford-to-impose-non-negotiable-pricing-on-ev-sales-as-part-of-model-e-division-plan.15168/)
+- [Interactively edit individual DCT blocks in any JPEG image in the browser](https://github.com/OmarShehata/jpeg-sandbox)
 - [Transforming cities with superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
 <!-- BLOG-POST-LIST:END -->
 
