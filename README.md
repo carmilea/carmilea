@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematicians Discover the Perfect Way to Multiply](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
+- [Tinder for Bananas](https://tinderforbananas.com/)
+- [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
+- [Mathematicians discover the perfect way to multiply &lpar;2019&rpar;](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
 - [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [The Coca-Cola Company Suspends Its Business in Russia](https://www.coca-colacompany.com/press-releases/coca-cola-company-suspends-business-russia)
-- [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
-- [In Celebration and Recognition of Women](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
+- [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
