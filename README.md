@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Venting It Doesn’t Work](https://slate.com/technology/2022/03/venting-makes-you-feel-worse-psychology-research.html)
+- [Amazon rainforest is losing its ability to recover from destruction](https://www.ft.com/content/9bb87474-49de-4ac1-92f0-cc291f789357)
+- [White Noise Improves Learning](https://pubmed.ncbi.nlm.nih.gov/24345178/)
 - [Lead Exposure in Last Century Shrunk IQ Scores of Half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
 - [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
-- [UP9600: How to Bit-Bang 9600 Baud RS-232 on the C64](https://www.pagetable.com/?p=1656)
-- [Thank you Wise for blocking our business account](https://twitter.com/Xabber_XMPP/status/1501204627563454473)
-- [One Way Smart Developers Make Bad Strategic Decisions](https://earthly.dev/blog/see-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
