@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buffet an All-inclusive Buffer for C](https://github.com/alcover/buffet)
+- [UN Climate change is so severe we&#39;re running out of time to adapt](https://www.axios.com/un-climate-change-ipcc-2022-053ce9eb-0ac4-4b2e-b8ef-554a92769c8b.html)
+- [Corners Don&#39;t Look Like That: Regarding Screenspace Ambient Occlusion](http://nothings.org/gamedev/ssao/)
+- [A neurologist who hacked his brain and almost lost his mind &lpar;2016&rpar;](https://www.wired.com/2016/01/phil-kennedy-mind-control-computer/)
 - [An update on the threat landscape](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/)
-- [Kodable &lpar;YC IK12&rpar; is hiring game developers to help us teach kids to code](https://www.indeed.com/viewjob?t=senior+game+developer&jk=90675a990f5b7fb6&_ga=2.111768833.403711911.1646594062-903361712.1645574492)
-- [The voice of Utah&#39;s arches – Ambient seismic vibration sped up 25x](https://geohazards.earth.utah.edu/tones/)
-- [Select, put and delete data from JSON, TOML, YAML, XML and CSV files](https://github.com/TomWright/dasel)
-- [Show HN: Prodscape.net – Map your mobile app](https://news.ycombinator.com/item?id=30592789)
 <!-- BLOG-POST-LIST:END -->
 
 ---
