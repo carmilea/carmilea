@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Celebration and Recognition of Women and Diversity](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
+- [Put an io_uring on it: Exploiting the Linux Kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
+- [Launch HN: Optery &lpar;YC W22&rpar; – Remove your personal info from the internet](https://www.optery.com/)
 - [Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
 - [Apple Mac Studio](https://www.apple.com/mac-studio/)
-- [Apple announces 27-inch 5K Studio Display](https://www.apple.com/studio-display/)
-- [eBay&#39;s experiment in switching off paid search advertising](https://causalinf.substack.com/p/how-can-we-know-if-paid-search-advertising)
-- [The new silent majority: People who don&#39;t tweet](https://www.axios.com/political-polarization-twitter-cable-news-ac9699c6-260d-4141-b511-5c7193566ea1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
