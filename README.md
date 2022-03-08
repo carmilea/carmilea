@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar Power/Batteries are 60% of planned new U.S. electric generation capacity](https://www.eia.gov/todayinenergy/detail.php?id=51518)
+- [Unraveling the JPEG &lpar;2019&rpar;](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring Rust Engineers and Eng. Managers](https://www.workatastartup.com/companies/wasmer)
 - [I am the healthiest person I know, and I got cancer](https://seema.page)
-- [Putin may be planning to pummel Kyiv into submission](https://www.axios.com/battle-kyiv-urban-warfare-putin-invasion-ef4e50ab-4f07-4aba-be49-4ea2cf450a0c.html)
-- [Tell HN: All .fj domains have gone offline](https://news.ycombinator.com/item?id=30596404)
-- [A new speed milestone for Chrome](https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html)
+- [Unblinding Our Admin Futures](https://www.overcomingbias.com/2022/03/unblinding-admin-futures.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
