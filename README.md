@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Cities with Superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
+- [Unexpected Shunts in the Supply Chain](https://www.moderndescartes.com/essays/repackaged_energy/)
+- [A brief reflection on Mac software stagnation](http://morrick.me/archives/9508)
 - [Buffet an All-inclusive Buffer for C](https://github.com/alcover/buffet)
-- [UN Climate change is so severe we&#39;re running out of time to adapt](https://www.axios.com/un-climate-change-ipcc-2022-053ce9eb-0ac4-4b2e-b8ef-554a92769c8b.html)
 - [Corners Don&#39;t Look Like That: Regarding Screenspace Ambient Occlusion](http://nothings.org/gamedev/ssao/)
-- [A neurologist who hacked his brain and almost lost his mind &lpar;2016&rpar;](https://www.wired.com/2016/01/phil-kennedy-mind-control-computer/)
-- [An update on the threat landscape](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
