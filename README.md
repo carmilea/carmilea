@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm Is Hiring Data Science Product Managers and SDETs](https://www.pachyderm.com/careers/#positions)
-- [Biggest Trading Losses from WallStreetBets](https://forexillustrated.com/most-painful-trading-losses-from-wallstreetbets/)
+- [Apple and Major League Baseball to Offer “Friday Night Baseball”](https://www.apple.com/newsroom/2022/03/apple-and-major-league-baseball-to-offer-friday-night-baseball/)
+- [Apple Event March 8, 2022](https://www.apple.com/apple-events/event-stream/)
+- [Pachyderm &lpar;YC W15&rpar; is hiring data science product managers and SDETs](https://www.pachyderm.com/careers/#positions)
+- [America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude?](https://www.nasdaq.com/articles/america-produces-enough-oil-to-meet-its-needs-so-why-do-we-import-crude)
 - [Red Hat is discontinuing sales and services in Russia and Belarus](https://www.redhat.com/en/blog/red-hats-response-war-ukraine)
-- [Swedish PM rejects opposition calls to consider joining NATO](https://www.reuters.com/world/europe/applying-join-nato-would-destabilize-security-situation-swedish-pm-says-2022-03-08/)
-- [Stop Venting It Doesn’t Work](https://slate.com/technology/2022/03/venting-makes-you-feel-worse-psychology-research.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
