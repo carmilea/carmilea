@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maria Divina O’Brien takes us inside the Caribbean tech scene](https://blog.google/technology/developers/maria-divina-o-brien-wtm/)
-- [Assessing a Claim: Is San Francisco&#39;s Shoplifting Problem Fake?](https://www.residentcontrarian.com/p/assessing-a-claim-is-san-franciscos)
-- [Breaking Through Scaling Barriers with Bigtable](https://remesh.blog/breaking-through-scaling-barriers-with-bigtable-43c2e8f75c8c)
-- [Google purchasing and expanding its Warsaw office for $700M](https://9to5google.com/2022/03/07/google-warsaw-office/)
-- [The most important thing to understand about queues &lpar;2016&rpar;](https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues/)
+- [Lead Exposure in Last Century Shrunk IQ Scores of Half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
+- [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
+- [UP9600: How to Bit-Bang 9600 Baud RS-232 on the C64](https://www.pagetable.com/?p=1656)
+- [Thank you Wise for blocking our business account](https://twitter.com/Xabber_XMPP/status/1501204627563454473)
+- [One Way Smart Developers Make Bad Strategic Decisions](https://earthly.dev/blog/see-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
