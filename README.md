@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasmer &lpar;YC S19&rpar; Is Hiring Rust Engineers and Eng. Managers](https://www.workatastartup.com/companies/wasmer)
+- [I am the healthiest person I know, and I got cancer](https://seema.page)
+- [Putin may be planning to pummel Kyiv into submission](https://www.axios.com/battle-kyiv-urban-warfare-putin-invasion-ef4e50ab-4f07-4aba-be49-4ea2cf450a0c.html)
 - [Tell HN: All .fj domains have gone offline](https://news.ycombinator.com/item?id=30596404)
 - [A new speed milestone for Chrome](https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html)
-- [C Package Manager](https://github.com/clibs/clib)
-- [Interactively edit individual DCT blocks in any JPEG image in the browser](https://github.com/OmarShehata/jpeg-sandbox)
-- [Transforming cities with superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
