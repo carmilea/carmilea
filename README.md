@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathematicians Discover the Perfect Way to Multiply](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
 - [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
+- [The Coca-Cola Company Suspends Its Business in Russia](https://www.coca-colacompany.com/press-releases/coca-cola-company-suspends-business-russia)
 - [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
 - [In Celebration and Recognition of Women](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
-- [Put an io_uring on it: Exploiting the Linux Kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
-- [Launch HN: Optery &lpar;YC W22&rpar; – Remove your personal info from the internet](https://news.ycombinator.com/item?id=30605010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
