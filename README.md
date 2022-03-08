@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maria Divina O’Brien takes us inside the Caribbean tech scene](https://blog.google/technology/developers/maria-divina-o-brien-wtm/)
+- [Assessing a Claim: Is San Francisco&#39;s Shoplifting Problem Fake?](https://www.residentcontrarian.com/p/assessing-a-claim-is-san-franciscos)
+- [Breaking Through Scaling Barriers with Bigtable](https://remesh.blog/breaking-through-scaling-barriers-with-bigtable-43c2e8f75c8c)
+- [Google purchasing and expanding its Warsaw office for $700M](https://9to5google.com/2022/03/07/google-warsaw-office/)
 - [The most important thing to understand about queues &lpar;2016&rpar;](https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues/)
-- [EXO Freight &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/exo-freight/jobs/PhYb8aC-senior-front-end-engineer)
-- [Google Cloud to acquire Mandiant for $5.4B](https://www.googlecloudpresscorner.com/2022-03-08-mgc)
-- [Probabilistic Models of Cognition](https://probmods.org/)
-- [Google to Acquire Mandiant](https://www.mandiant.com/company/press-release/mgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
