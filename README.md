@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new speed milestone for Chrome](https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html)
+- [C Package Manager](https://github.com/clibs/clib)
+- [Pornhub and the Value of Bitcoin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036795)
 - [Ford to Impose Non-Negotiable Pricing on EV Sales as Part of Model E Plan](https://www.macheforum.com/site/threads/ford-to-impose-non-negotiable-pricing-on-ev-sales-as-part-of-model-e-division-plan.15168/)
-- [Transforming Cities with Superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
-- [Unexpected Shunts in the Supply Chain](https://www.moderndescartes.com/essays/repackaged_energy/)
-- [A brief reflection on Mac software stagnation](http://morrick.me/archives/9508)
-- [Buffet – An All-inclusive Buffer for C](https://github.com/alcover/buffet)
+- [Transforming cities with superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
