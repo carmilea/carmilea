@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The most important thing to understand about queues &lpar;2016&rpar;](https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues/)
 - [EXO Freight &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/exo-freight/jobs/PhYb8aC-senior-front-end-engineer)
-- [Opera advertises own products on competitor&#39;s websites](https://twitter.com/mygamedesigns/status/1500648563197415428)
-- [Japan has declared today that the southern Kurils is their sovereign territory](https://twitter.com/AlexandruC4/status/1500895234011680778)
-- [Beijing is re-writing the Ukraine narrative](https://www.axios.com/beijings-ukraine-censorship-35a02a04-91b2-4efb-8a91-a9d111a2a3a0.html)
-- [KM3NeT the next generation neutrino telescopes](https://www.km3net.org/news-media/blogs/)
+- [Google Cloud to acquire Mandiant for $5.4B](https://www.googlecloudpresscorner.com/2022-03-08-mgc)
+- [Probabilistic Models of Cognition](https://probmods.org/)
+- [Google to Acquire Mandiant](https://www.mandiant.com/company/press-release/mgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
