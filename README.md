@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KM3NeT the next generation neutrino telescopes](https://www.km3net.org/news-media/blogs/)
 - [Solar Power/Batteries are 60% of planned new U.S. electric generation capacity](https://www.eia.gov/todayinenergy/detail.php?id=51518)
 - [asciiMol: Curses based ASCII molecule viewer for Linux terminals](https://github.com/dewberryants/asciiMol)
 - [Unraveling the JPEG &lpar;2019&rpar;](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring Rust Engineers and Eng. Managers](https://www.workatastartup.com/companies/wasmer)
-- [I am the healthiest person I know, and I got cancer](https://seema.page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
