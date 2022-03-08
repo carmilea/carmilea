@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Is Hiring Data Science Product Managers and SDETs](https://www.pachyderm.com/careers/#positions)
+- [Biggest Trading Losses from WallStreetBets](https://forexillustrated.com/most-painful-trading-losses-from-wallstreetbets/)
+- [Red Hat is discontinuing sales and services in Russia and Belarus](https://www.redhat.com/en/blog/red-hats-response-war-ukraine)
+- [Swedish PM rejects opposition calls to consider joining NATO](https://www.reuters.com/world/europe/applying-join-nato-would-destabilize-security-situation-swedish-pm-says-2022-03-08/)
 - [Stop Venting It Doesn’t Work](https://slate.com/technology/2022/03/venting-makes-you-feel-worse-psychology-research.html)
-- [Amazon rainforest is losing its ability to recover from destruction](https://www.ft.com/content/9bb87474-49de-4ac1-92f0-cc291f789357)
-- [White Noise Improves Learning](https://pubmed.ncbi.nlm.nih.gov/24345178/)
-- [Lead Exposure in Last Century Shrunk IQ Scores of Half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
-- [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
