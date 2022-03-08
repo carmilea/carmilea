@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple and Major League Baseball to Offer “Friday Night Baseball”](https://www.apple.com/newsroom/2022/03/apple-and-major-league-baseball-to-offer-friday-night-baseball/)
-- [Apple Event March 8, 2022](https://www.apple.com/apple-events/event-stream/)
-- [Pachyderm &lpar;YC W15&rpar; is hiring data science product managers and SDETs](https://www.pachyderm.com/careers/#positions)
-- [America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude?](https://www.nasdaq.com/articles/america-produces-enough-oil-to-meet-its-needs-so-why-do-we-import-crude)
-- [Red Hat is discontinuing sales and services in Russia and Belarus](https://www.redhat.com/en/blog/red-hats-response-war-ukraine)
+- [Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
+- [Apple Mac Studio](https://www.apple.com/mac-studio/)
+- [Apple announces 27-inch 5K Studio Display](https://www.apple.com/studio-display/)
+- [eBay&#39;s experiment in switching off paid search advertising](https://causalinf.substack.com/p/how-can-we-know-if-paid-search-advertising)
+- [The new silent majority: People who don&#39;t tweet](https://www.axios.com/political-polarization-twitter-cable-news-ac9699c6-260d-4141-b511-5c7193566ea1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
