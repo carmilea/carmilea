@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EXO Freight &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/exo-freight/jobs/PhYb8aC-senior-front-end-engineer)
+- [Opera advertises own products on competitor&#39;s websites](https://twitter.com/mygamedesigns/status/1500648563197415428)
+- [Japan has declared today that the southern Kurils is their sovereign territory](https://twitter.com/AlexandruC4/status/1500895234011680778)
+- [Beijing is re-writing the Ukraine narrative](https://www.axios.com/beijings-ukraine-censorship-35a02a04-91b2-4efb-8a91-a9d111a2a3a0.html)
 - [KM3NeT the next generation neutrino telescopes](https://www.km3net.org/news-media/blogs/)
-- [Solar Power/Batteries are 60% of planned new U.S. electric generation capacity](https://www.eia.gov/todayinenergy/detail.php?id=51518)
-- [asciiMol: Curses based ASCII molecule viewer for Linux terminals](https://github.com/dewberryants/asciiMol)
-- [Unraveling the JPEG &lpar;2019&rpar;](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring Rust Engineers and Eng. Managers](https://www.workatastartup.com/companies/wasmer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
