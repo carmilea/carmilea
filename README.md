@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DDoS Amplification Record Broken &lpar;4,294,967,296:1&rpar;](https://www.akamai.com/blog/security/phone-home-ddos-attack-vector)
-- [Tell HN: Apple prioritising direct sales, resellers months behind](https://news.ycombinator.com/item?id=30613751)
-- [Accurate Image Alignment and Registration Using OpenCV](https://magamig.github.io/posts/accurate-image-alignment-and-registration-using-opencv/)
-- [The Slow Boat to Java](http://www.blinkenlights.com/classiccmp/javaorigin.html)
-- [Algolia is hiring engineers to build blended textual and vector search at scale](https://www.algolia.com/careers/amer-staff-machine-learning-engineer-semantic-search-new-york-new-york)
+- [China&#39;s state media buys Meta ads pushing Russia&#39;s line on war](https://www.axios.com/chinas-state-media-meta-facebook-ads-russia-623763df-c5fb-46e4-a6a8-36b607e1b672.html)
+- [Ukraine warns Chernobyl nuclear plant suffered power outage](https://www.axios.com/ukraine-chernobyl-nuclear-plant-power-russia-f47aff98-0e23-4b2a-8119-4bf025afb105.html)
+- [CVE-2022-26143: TP240PhoneHome Reflection/Amplification DDoS Attack Vector](https://www.akamai.com/blog/security/phone-home-ddos-attack-vector)
+- [The day Steve Jobs dissed me in a keynote &lpar;2010&rpar;](https://sive.rs/itunes)
+- [Android: Freeing up 60% of storage for apps by removing parts of the app](https://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
