@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
 - [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
-- [Mathematicians discover the perfect way to multiply &lpar;2019&rpar;](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
 - [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
 - [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
+- [In Celebration and Recognition of Women](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
