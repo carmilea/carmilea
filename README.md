@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senior devs. Is anyone else insulted by coding exams?](https://news.ycombinator.com/item?id=30615411)
 - [Launch HN: Rownd &lpar;YC W22&rpar; – Add authentication and accounts to any website](https://news.ycombinator.com/item?id=30615352)
-- [Death by PowerPoint: the slide that killed seven people &lpar;Columbia Shuttle&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
+- [The Advantage of No Funding](https://sive.rs/nofund)
+- [Death by PowerPoint: the slide that killed seven people &lpar;Columbia Shuttle&rpar; &lpar;2019&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 - [Twitter is now available on Tor](https://help.twitter.com/en/using-twitter/twitter-supported-browsers)
-- [CVE-2022-0543: An unexpected Redis sandbox escape affecting Debian-based distros](https://www.ubercomp.com/posts/2022-01-20_redis_on_debian_rce)
-- [Apple turns monitor height adjustment into a $400 upsell](https://www.engadget.com/apples-400-height-adjustable-studio-display-stand-is-a-relative-bargain-222714407.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
