@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant spiders expected to drop from sky across the East Coast this spring](https://www.axios.com/local/washington-dc/2022/03/09/giant-joro-spiders-east-coast-may)
 - [Pilot FriXion Erasable Pens: A Comprehensive Guide](https://www.jetpens.com/blog/Pilot-FriXion-Erasable-Pens-A-Comprehensive-Guide/pt/670)
 - [Reverse-engineering the waveform generator in a 1969 breadboard](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
 - [Amazon lied about using seller data, lawmakers say, urging DOJ investigation](https://arstechnica.com/tech-policy/2022/03/us-lawmakers-seek-criminal-probe-of-amazon-for-lying-about-use-of-seller-data/)
 - [Blender 3.1](https://www.blender.org/download/releases/3-1/)
-- [Let&#39;s Spouge](https://www.theguardian.com/music/2022/feb/28/spouge-forgotten-music-genre-jackie-opel-barbados)
 <!-- BLOG-POST-LIST:END -->
 
 ---
