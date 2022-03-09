@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Endurance: Shackleton&#39;s lost ship is found in Antarctic](https://www.bbc.com/news/science-environment-60662541)
+- [PipeWire: A year in review and a look ahead](https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-review-look-ahead/)
+- [It is high time we let go of the Mersenne Twister &lpar;2019&rpar;](https://arxiv.org/abs/1910.06437)
 - [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [Bugs in Hello World](https://blog.sunfishcode.online/bugs-in-hello-world/)
-- [Ask Slashdot: How Powerful Is Your Computer? &lpar;1999&rpar;](https://web.archive.org/web/20001212132500if_/http://slashdot.org/askslashdot/99/02/12/1429236.shtml)
-- [The CSV Virtual Table](https://www.sqlite.org/csv.html)
-- [I live in the country with the most expensive Apple products on the planet](https://vaghetti.dev/posts/macs/)
+- [Ack is a grep-like source code search tool](https://beyondgrep.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
