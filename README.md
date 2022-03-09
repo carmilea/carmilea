@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s state media buys Meta ads pushing Russia&#39;s line on war](https://www.axios.com/chinas-state-media-meta-facebook-ads-russia-623763df-c5fb-46e4-a6a8-36b607e1b672.html)
-- [Ukraine warns Chernobyl nuclear plant suffered power outage](https://www.axios.com/ukraine-chernobyl-nuclear-plant-power-russia-f47aff98-0e23-4b2a-8119-4bf025afb105.html)
-- [CVE-2022-26143: TP240PhoneHome Reflection/Amplification DDoS Attack Vector](https://www.akamai.com/blog/security/phone-home-ddos-attack-vector)
-- [The day Steve Jobs dissed me in a keynote &lpar;2010&rpar;](https://sive.rs/itunes)
-- [Android: Freeing up 60% of storage for apps by removing parts of the app](https://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html)
+- [Launch HN: Rownd &lpar;YC W22&rpar; – Add authentication and accounts to any website](https://news.ycombinator.com/item?id=30615352)
+- [Death by PowerPoint: the slide that killed seven people &lpar;Columbia Shuttle&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
+- [Twitter is now available on Tor](https://help.twitter.com/en/using-twitter/twitter-supported-browsers)
+- [CVE-2022-0543: An unexpected Redis sandbox escape affecting Debian-based distros](https://www.ubercomp.com/posts/2022-01-20_redis_on_debian_rce)
+- [Apple turns monitor height adjustment into a $400 upsell](https://www.engadget.com/apples-400-height-adjustable-studio-display-stand-is-a-relative-bargain-222714407.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
