@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The CSV Virtual Table](https://www.sqlite.org/csv.html)
+- [Play Half-Life in the Browser](https://icrazyblaze.github.io/Xash3D-Emscripten/xash-intro.html)
 - [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
 - [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
 - [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
-- [In Celebration and Recognition of Women](https://www.singlestore.com/blog/celebration-recognition-women-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
