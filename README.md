@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In New Experiment, Astronomers See No Sign of ‘Cosmic Dawn’](https://www.quantamagazine.org/in-new-experiment-astronomers-see-no-sign-of-cosmic-dawn-20220228/)
-- [Rescale &lpar;YC W12&rpar; Is Hiring HPC Engineers](https://jobs.lever.co/rescale/21a1d1ee-ab7b-4b43-9d05-d44bb1a1f3ac?lever-origin=applied&lever-source%5B%5D=hacker-news)
-- [Booting ARM Linux the standard way](https://tuxphones.com/booting-arm-linux-the-standard-way/)
-- [DeepSpeech 60x Smaller, 9x faster, and 2x accuracy](https://github.com/Picovoice/leopard)
-- [Saito Renho on Japanese economic growth, ‘Abenomics’, redistribution, and more](https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/saito-renho-japanese-economic-growth-abenomics-redistribution)
+- [Reverse-engineering the waveform generator in a 1969 breadboard](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
+- [Blender 3.1](https://www.blender.org/download/releases/3-1/)
+- [Ask HN: How much work do you do during your notice period?](https://news.ycombinator.com/item?id=30617535)
+- [Let&#39;s Spouge](https://www.theguardian.com/music/2022/feb/28/spouge-forgotten-music-genre-jackie-opel-barbados)
+- [Lootboxes in FIFA now allowed by highest Dutch court](https://www.ruetir.com/2022/03/09/bold-statement-loot-boxes-in-football-game-fifa-now-allowed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
