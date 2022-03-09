@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Algolia is hiring engineers to build blended textual and vector search at scale](https://www.algolia.com/careers/amer-staff-machine-learning-engineer-semantic-search-new-york-new-york)
+- [Incident at Slack](https://status.slack.com/2022-03/8a9e98bfaa32ef5f)
+- [US scientist falsely accused of hiding ties to China speaks out](https://www.nature.com/articles/d41586-022-00528-2)
 - [Sending notifications programmatically: let me count the ways](https://www.trickster.dev/post/sending-notifications-programmatically/)
 - [Visible Lisp Computer: embedded real-time display of Lisp workspace using uLisp](http://www.technoblogy.com/show?2ODQ)
-- [China to provide 5 mln yuan worth of humanitarian assistance to Ukraine](https://www.reuters.com/world/china-provide-5-mln-yuan-worth-humanitarian-assistance-ukraine-2022-03-09/)
-- [Launch HN: 8vdX &lpar;YC W22&rpar; – Venture debt to complement a seed round](https://news.ycombinator.com/item?id=30612691)
-- [Show HN: World’s first £3 flat fee &lpar;0% FX markup&rpar; money transfer service](https://atlantic.money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
