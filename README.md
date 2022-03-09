@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending notifications programmatically: let me count the ways](https://www.trickster.dev/post/sending-notifications-programmatically/)
+- [Visible Lisp Computer: embedded real-time display of Lisp workspace using uLisp](http://www.technoblogy.com/show?2ODQ)
 - [China to provide 5 mln yuan worth of humanitarian assistance to Ukraine](https://www.reuters.com/world/china-provide-5-mln-yuan-worth-humanitarian-assistance-ukraine-2022-03-09/)
 - [Launch HN: 8vdX &lpar;YC W22&rpar; – Venture debt to complement a seed round](https://news.ycombinator.com/item?id=30612691)
-- [Ernest Shackleton’s ship Endurance found off coast of Antarctica](https://www.theguardian.com/world/2022/mar/09/ernest-shackleton-wrecked-ship-endurance-antarctic)
 - [Show HN: World’s first £3 flat fee &lpar;0% FX markup&rpar; money transfer service](https://atlantic.money)
-- [Endurance: Shackleton&#39;s lost ship is found in Antarctic](https://www.bbc.com/news/science-environment-60662541)
 <!-- BLOG-POST-LIST:END -->
 
 ---
