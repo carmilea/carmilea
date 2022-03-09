@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senior devs. Is anyone else insulted by coding exams?](https://news.ycombinator.com/item?id=30615411)
-- [Launch HN: Rownd &lpar;YC W22&rpar; – Add authentication and accounts to any website](https://news.ycombinator.com/item?id=30615352)
-- [The Advantage of No Funding](https://sive.rs/nofund)
-- [Death by PowerPoint: the slide that killed seven people &lpar;Columbia Shuttle&rpar; &lpar;2019&rpar;](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
-- [Twitter is now available on Tor](https://help.twitter.com/en/using-twitter/twitter-supported-browsers)
+- [In New Experiment, Astronomers See No Sign of ‘Cosmic Dawn’](https://www.quantamagazine.org/in-new-experiment-astronomers-see-no-sign-of-cosmic-dawn-20220228/)
+- [Rescale &lpar;YC W12&rpar; Is Hiring HPC Engineers](https://jobs.lever.co/rescale/21a1d1ee-ab7b-4b43-9d05-d44bb1a1f3ac?lever-origin=applied&lever-source%5B%5D=hacker-news)
+- [Booting ARM Linux the standard way](https://tuxphones.com/booting-arm-linux-the-standard-way/)
+- [DeepSpeech 60x Smaller, 9x faster, and 2x accuracy](https://github.com/Picovoice/leopard)
+- [Saito Renho on Japanese economic growth, ‘Abenomics’, redistribution, and more](https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/saito-renho-japanese-economic-growth-abenomics-redistribution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
