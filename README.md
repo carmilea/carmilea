@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
+- [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
 - [AWS&#39;s us-east-1 region is experiencing issues](https://health.aws.amazon.com/phd/status)
 - [Joro spiders likely to spread beyond Georgia](https://news.uga.edu/joro-spiders-likely-to-spread-beyond-georgia/)
-- [Pilot FriXion Erasable Pens: A Comprehensive Guide](https://www.jetpens.com/blog/Pilot-FriXion-Erasable-Pens-A-Comprehensive-Guide/pt/670)
-- [Reverse-engineering the waveform generator in a 1969 breadboard](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
