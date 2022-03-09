@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [International Women&#39;s Day Tech Panel](https://www.youtube.com/watch?v=_3NqKaXYIcc)
 - [How to Work With Plancache](https://www.youtube.com/watch?v=39ShzlBgqPA)
 - [How to Migrate PostgreSQL to SingleStore](https://www.youtube.com/watch?v=S32UqI6RVXw)
 - [Architecture for Developers: A Primer on Distributed SQL Systems](https://www.youtube.com/watch?v=z9uoRMyNRYU)
 - [SingleStore Product Launch Announcement: Fall 2021](https://www.youtube.com/watch?v=8wpVzcytLY4)
-- [Databases and DevOps w/ Rizel Scarlett &lpar;GitHub&rpar;](https://www.youtube.com/watch?v=dSeMOp5lXos)
 <!-- YOUTUBE:END -->
 
 
