@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Slashdot: How Powerful Is Your Computer? &lpar;1999&rpar;](https://web.archive.org/web/20001212132500if_/http://slashdot.org/askslashdot/99/02/12/1429236.shtml)
 - [The CSV Virtual Table](https://www.sqlite.org/csv.html)
+- [I live in the country with the most expensive Apple products on the planet](https://vaghetti.dev/posts/macs/)
+- [Show HN: An album art-based Wordle clone called UNCVR](https://uncvr.it/)
 - [Play Half-Life in the Browser](https://icrazyblaze.github.io/Xash3D-Emscripten/xash-intro.html)
-- [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
-- [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
-- [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
