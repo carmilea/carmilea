@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinder for Bananas](https://tinderforbananas.com/)
+- [9/11 first responders at higher risk for blood cancer-associated mutations](https://news.vumc.org/2022/03/07/study-finds-world-trade-center-responders-at-higher-risk-for-blood-cancer-associated-mutations/)
+- [Internet Backbone Giant Lumen Shuns .RU](https://krebsonsecurity.com/2022/03/internet-backbone-giant-lumen-shuns-ru/)
+- [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
 - [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
 - [Mathematicians discover the perfect way to multiply &lpar;2019&rpar;](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-- [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
