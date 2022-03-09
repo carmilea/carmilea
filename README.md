@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
 - [AWS&#39;s us-east-1 region is experiencing issues](https://health.aws.amazon.com/phd/status)
-- [Giant spiders expected to drop from sky across the East Coast this spring](https://www.axios.com/local/washington-dc/2022/03/09/giant-joro-spiders-east-coast-may)
+- [Joro spiders likely to spread beyond Georgia](https://news.uga.edu/joro-spiders-likely-to-spread-beyond-georgia/)
 - [Pilot FriXion Erasable Pens: A Comprehensive Guide](https://www.jetpens.com/blog/Pilot-FriXion-Erasable-Pens-A-Comprehensive-Guide/pt/670)
 - [Reverse-engineering the waveform generator in a 1969 breadboard](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
 <!-- BLOG-POST-LIST:END -->
