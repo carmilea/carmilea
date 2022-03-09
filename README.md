@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DDoS Amplification Record Broken &lpar;4,294,967,296:1&rpar;](https://www.akamai.com/blog/security/phone-home-ddos-attack-vector)
+- [Tell HN: Apple prioritising direct sales, resellers months behind](https://news.ycombinator.com/item?id=30613751)
+- [Accurate Image Alignment and Registration Using OpenCV](https://magamig.github.io/posts/accurate-image-alignment-and-registration-using-opencv/)
+- [The Slow Boat to Java](http://www.blinkenlights.com/classiccmp/javaorigin.html)
 - [Algolia is hiring engineers to build blended textual and vector search at scale](https://www.algolia.com/careers/amer-staff-machine-learning-engineer-semantic-search-new-york-new-york)
-- [Incident at Slack](https://status.slack.com/2022-03/8a9e98bfaa32ef5f)
-- [US scientist falsely accused of hiding ties to China speaks out](https://www.nature.com/articles/d41586-022-00528-2)
-- [Sending notifications programmatically: let me count the ways](https://www.trickster.dev/post/sending-notifications-programmatically/)
-- [Visible Lisp Computer: embedded real-time display of Lisp workspace using uLisp](http://www.technoblogy.com/show?2ODQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
