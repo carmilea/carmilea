@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermeus Raises $100M Series B led by Sam Altman](https://www.hermeus.com/press-release-series-b)
-- [Vladimir Putin is pushing Russia into past: Maybe a generation, maybe a century](https://www.economist.com/briefing/2022/03/12/vladimir-putin-is-pushing-russia-into-the-past)
-- [New cars make me want to Saab &lpar;2020&rpar;](https://theoutline.com/post/8743/cars-are-ugly-now-i-miss-saab)
-- [Toll signs on 101 report your transponder setting](http://rachelbythebay.com/w/2022/03/09/toll/)
-- [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
+- [Will Transformers Take over Artificial Intelligence?](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/)
+- [SafetyWing &lpar;YC W18&rpar; Is Hiring Head of Accounting](https://www.notion.so/safetywing/Head-of-Accounting-d797bb516df14bf7ad703b4a314b4562)
+- [Stripe Crypto](https://stripe.com/use-cases/crypto)
+- [Hermeus Raises $100M Series B](https://www.hermeus.com/press-release-series-b)
+- [Tin whiskers: What happens when they spontaneously erupt?](https://www.microcontrollertips.com/when-tin-whiskers-spontaneously-erupt-faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
