@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+- [Accused of Cheating, Marathon Runner Dr. Frank Meza&#39;s Life Fell Apart](https://www.lamag.com/citythinkblog/frank-meza-marathon/)
+- [Deep Learning Is Hitting a Wall?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 - [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
 - [Ruby Together](https://rubytogether.org/)
 - [Python built-ins worth learning &lpar;2019&rpar;](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
