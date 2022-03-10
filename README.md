@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+- [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
+- [Ruby Together](https://rubytogether.org/)
 - [Appeal to Ruby Community from Kharkiv Rubyist](https://zverok.space/blog/2022-03-03-WAR.html)
-- [Stainless Steel Leaches Nickel and Chromium into Foods During Cooking &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284091/)
 - [Python Built-In Functions to Know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
-- [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
