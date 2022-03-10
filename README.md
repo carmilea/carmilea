@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Cellular Rejuvenation Therapy Reverses Signs of Aging in Mice](https://www.technologynetworks.com/cell-science/lists/implementing-cellular-rejuvenation-therapy-reverses-signs-of-aging-in-mice-359356)
-- [820GB Database Dump of Roskomnadzor &lpar;Russian Government Censorship Organization&rpar;](https://ddosecrets.substack.com/p/release-roskomnadzor-820-gb)
-- [Kettle Logic](https://en.wikipedia.org/wiki/Kettle_logic)
-- [Mastering the Docker Cache](https://contains.dev/blog/mastering-docker-cache)
-- [A word used only by Postgres developers](https://news.ycombinator.com/item?id=30629430)
+- [How to Break a Theory](https://www.symmetrymagazine.org/article/how-to-break-a-theory)
+- [What makes a great opening line?](https://lithub.com/what-makes-a-great-opening-line/)
+- [SQLite Online](https://sqliteonline.com/)
+- [DebConf22 will be an in-person conference](https://debconf22.debconf.org/news/2022-03-09-debconf22-in-person/)
+- [Tradle](https://oec.world/en/tradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
