@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We’re the founders of Substack, we just launched an iOS app. AMA](https://news.ycombinator.com/item?id=30632952)
+- [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/)
 - [DARPA developing new cognitive science tool to identify those at risk of suicide](https://federallabs.org/news/darpa-developing-new-cognitive-science-tool-to-identify-those-at-risk-of-suicide)
 - [Show HN: Prepform – AI and spaced-repetition to optimize learning](https://prepform.com)
 - [Toward a better list iterator for the Linux kernel](https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/)
-- [How to Break a Theory](https://www.symmetrymagazine.org/article/how-to-break-a-theory)
-- [What makes a great opening line?](https://lithub.com/what-makes-a-great-opening-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
