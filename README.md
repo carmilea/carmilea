@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-- [Free and open source 2D and 3D game engine](https://godotengine.org/)
-- [Accused of Cheating, Marathon Runner Dr. Frank Meza&#39;s Life Fell Apart](https://www.lamag.com/citythinkblog/frank-meza-marathon/)
-- [Deep Learning Is Hitting a Wall?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
-- [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Sales Directors in USA, EU and APAC](https://bitmovin.com/careers/)
+- [Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end](https://github.com/hay-kot/mealie)
+- [SRU++ Model Speeds Up Transformer with Simple Recurrent Unit](https://vaclavkosar.com/ml/SRU++-Speeds-Up-Transformer-with-Simple-Recurrent-Unit-RNN)
+- [No other profession trivialises their profession to the degree of software](https://ghuntley.com/squirrel-burgers/)
+- [Linux containers in 500 lines of code &lpar;2016&rpar;](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
