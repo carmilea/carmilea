@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hermeus Raises $100M Series B led by Sam Altman](https://www.hermeus.com/press-release-series-b)
+- [Vladimir Putin is pushing Russia into past: Maybe a generation, maybe a century](https://www.economist.com/briefing/2022/03/12/vladimir-putin-is-pushing-russia-into-the-past)
+- [New cars make me want to Saab &lpar;2020&rpar;](https://theoutline.com/post/8743/cars-are-ugly-now-i-miss-saab)
+- [Toll signs on 101 report your transponder setting](http://rachelbythebay.com/w/2022/03/09/toll/)
 - [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
-- [Ask HN: When will car prices normalize?](https://news.ycombinator.com/item?id=30627656)
-- [Launch HN: Kable &lpar;YC W22&rpar; – All-in-one platform for API products](https://www.kable.io/)
-- [CXX – A library bridges Rust and C++](https://cxx.rs/)
-- [Launch HN: Micro Meat &lpar;YC S21&rpar; – Technology for scaling cultivated meat](https://news.ycombinator.com/item?id=30627418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
