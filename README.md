@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: What if you cannot stay focused and be productive?](https://www.space4.cc/)
-- [A beginner&#39;s guide to intermittent fasting &lpar;2012&rpar;](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
-- [“Compiling” Music](http://lilypond.org/text-input.en.html)
-- [CAD/CAM constraint-based geometry sketcher for Blender](https://github.com/hlorus/geometry_sketcher)
-- [Consent-O-Matic: Automatic handling of GDPR consent forms](https://github.com/cavi-au/Consent-O-Matic)
+- [Anatomy of AI](https://anatomyof.ai/)
+- [f.lux](https://justgetflux.com/)
+- [Restoring and attributing ancient texts using deep neural networks](https://github.com/deepmind/ithaca)
+- [First look: adding type annotations to JavaScript](https://2ality.com/2022/03/type-annotations-first-look.html)
+- [Controversial impact crater under Greenland’s ice is surprisingly ancient](https://www.science.org/content/article/impact-crater-under-greenland-s-ice-surprisingly-ancient)
 <!-- BLOG-POST-LIST:END -->
 
 ---
