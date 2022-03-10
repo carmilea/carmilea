@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [Free and open source 2D and 3D game engine](https://godotengine.org/)
 - [Accused of Cheating, Marathon Runner Dr. Frank Meza&#39;s Life Fell Apart](https://www.lamag.com/citythinkblog/frank-meza-marathon/)
 - [Deep Learning Is Hitting a Wall?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 - [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
-- [Ruby Together](https://rubytogether.org/)
-- [Python built-ins worth learning &lpar;2019&rpar;](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
