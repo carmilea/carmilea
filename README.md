@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Sales Directors in USA, EU and APAC](https://bitmovin.com/careers/)
 - [Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end](https://github.com/hay-kot/mealie)
+- [Show HN: PNG to Pdf Conversion in the Browser](https://png.to-pdf.net/)
 - [SRU++ Model Speeds Up Transformer with Simple Recurrent Unit](https://vaclavkosar.com/ml/SRU++-Speeds-Up-Transformer-with-Simple-Recurrent-Unit-RNN)
-- [No other profession trivialises their profession to the degree of software](https://ghuntley.com/squirrel-burgers/)
-- [Linux containers in 500 lines of code &lpar;2016&rpar;](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
