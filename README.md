@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of AI](https://anatomyof.ai/)
-- [f.lux](https://justgetflux.com/)
-- [Restoring and attributing ancient texts using deep neural networks](https://github.com/deepmind/ithaca)
-- [First look: adding type annotations to JavaScript](https://2ality.com/2022/03/type-annotations-first-look.html)
-- [Controversial impact crater under Greenland’s ice is surprisingly ancient](https://www.science.org/content/article/impact-crater-under-greenland-s-ice-surprisingly-ancient)
+- [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
+- [Ask HN: When will car prices normalize?](https://news.ycombinator.com/item?id=30627656)
+- [Launch HN: Kable &lpar;YC W22&rpar; – All-in-one platform for API products](https://www.kable.io/)
+- [CXX – A library bridges Rust and C++](https://cxx.rs/)
+- [Launch HN: Micro Meat &lpar;YC S21&rpar; – Technology for scaling cultivated meat](https://news.ycombinator.com/item?id=30627418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
