@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: What if you cannot stay focused and be productive?](https://www.space4.cc/)
+- [A beginner&#39;s guide to intermittent fasting &lpar;2012&rpar;](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
+- [“Compiling” Music](http://lilypond.org/text-input.en.html)
 - [CAD/CAM constraint-based geometry sketcher for Blender](https://github.com/hlorus/geometry_sketcher)
 - [Consent-O-Matic: Automatic handling of GDPR consent forms](https://github.com/cavi-au/Consent-O-Matic)
-- [Directly converting CO2 into a gasoline fuel &lpar;2017&rpar;](https://www.nature.com/articles/ncomms15174)
-- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [Blogger in Ohio discovered runner in Florida cheating in a half-marathon &lpar;2017&rpar;](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/23/how-an-ohio-blogger-discovered-a-runner-a-harvard-grad-cheating-in-a-half-marathon-across-the-county/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
