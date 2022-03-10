@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Docker Cache](https://contains.dev/blog/mastering-docker-cache)
+- [Inflation rose 7.9% in February, led by food and energy](https://www.cnbc.com/2022/03/10/cpi-inflation-february-2022-.html)
+- [A word used only by Postgres developers](https://news.ycombinator.com/item?id=30629430)
 - [Will Transformers Take over Artificial Intelligence?](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/)
 - [SafetyWing &lpar;YC W18&rpar; Is Hiring Head of Accounting](https://www.notion.so/safetywing/Head-of-Accounting-d797bb516df14bf7ad703b4a314b4562)
-- [Stripe Crypto](https://stripe.com/use-cases/crypto)
-- [Hermeus Raises $100M Series B](https://www.hermeus.com/press-release-series-b)
-- [Tin whiskers: What happens when they spontaneously erupt?](https://www.microcontrollertips.com/when-tin-whiskers-spontaneously-erupt-faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
