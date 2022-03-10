@@ -54,8 +54,8 @@
 - [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 - [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
 - [Ruby Together](https://rubytogether.org/)
-- [Appeal to Ruby Community from Kharkiv Rubyist](https://zverok.space/blog/2022-03-03-WAR.html)
-- [Python Built-In Functions to Know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Python built-ins worth learning &lpar;2019&rpar;](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
