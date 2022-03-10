@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Directly converting CO2 into a gasoline fuel](https://www.nature.com/articles/ncomms15174)
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [A blogger in Ohio discovered a runner in Florida cheating in a half-marathon](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/23/how-an-ohio-blogger-discovered-a-runner-a-harvard-grad-cheating-in-a-half-marathon-across-the-county/)
 - [Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Sales Directors in USA, EU and APAC](https://bitmovin.com/careers/)
-- [Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end](https://github.com/hay-kot/mealie)
-- [Show HN: PNG to Pdf Conversion in the Browser](https://png.to-pdf.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
