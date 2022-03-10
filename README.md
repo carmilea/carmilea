@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Directly converting CO2 into a gasoline fuel](https://www.nature.com/articles/ncomms15174)
+- [CAD/CAM constraint-based geometry sketcher for Blender](https://github.com/hlorus/geometry_sketcher)
+- [Consent-O-Matic: Automatic handling of GDPR consent forms](https://github.com/cavi-au/Consent-O-Matic)
+- [Directly converting CO2 into a gasoline fuel &lpar;2017&rpar;](https://www.nature.com/articles/ncomms15174)
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [A blogger in Ohio discovered a runner in Florida cheating in a half-marathon](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/23/how-an-ohio-blogger-discovered-a-runner-a-harvard-grad-cheating-in-a-half-marathon-across-the-county/)
-- [Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Sales Directors in USA, EU and APAC](https://bitmovin.com/careers/)
+- [Blogger in Ohio discovered runner in Florida cheating in a half-marathon &lpar;2017&rpar;](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/23/how-an-ohio-blogger-discovered-a-runner-a-harvard-grad-cheating-in-a-half-marathon-across-the-county/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
