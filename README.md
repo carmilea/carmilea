@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Appeal to Ruby Community from Kharkiv Rubyist](https://zverok.space/blog/2022-03-03-WAR.html)
+- [Stainless Steel Leaches Nickel and Chromium into Foods During Cooking &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284091/)
+- [Python Built-In Functions to Know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
 - [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
-- [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
-- [AWS&#39;s us-east-1 region is experiencing issues](https://health.aws.amazon.com/phd/status)
-- [Joro spiders likely to spread beyond Georgia](https://news.uga.edu/joro-spiders-likely-to-spread-beyond-georgia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
