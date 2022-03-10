@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: We’re the founders of Substack, we just launched an iOS app. AMA](https://news.ycombinator.com/item?id=30632952)
+- [Alpine Linux: Brilliant Linux Distro](https://wiki.alpinelinux.org/wiki/Alpine_newbie)
+- [We’re the founders of Substack, we just launched an iOS app. AMA](https://news.ycombinator.com/item?id=30632952)
 - [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/)
-- [DARPA developing new cognitive science tool to identify those at risk of suicide](https://federallabs.org/news/darpa-developing-new-cognitive-science-tool-to-identify-those-at-risk-of-suicide)
+- [Apple AirTags draining battery of devices close by](https://annoying.technology/posts/d9d6d289a06def25/)
 - [Show HN: Prepform – AI and spaced-repetition to optimize learning](https://prepform.com)
-- [Toward a better list iterator for the Linux kernel](https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
