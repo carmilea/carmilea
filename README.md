@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA developing new cognitive science tool to identify those at risk of suicide](https://federallabs.org/news/darpa-developing-new-cognitive-science-tool-to-identify-those-at-risk-of-suicide)
+- [Show HN: Prepform – AI and spaced-repetition to optimize learning](https://prepform.com)
+- [Toward a better list iterator for the Linux kernel](https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/)
 - [How to Break a Theory](https://www.symmetrymagazine.org/article/how-to-break-a-theory)
 - [What makes a great opening line?](https://lithub.com/what-makes-a-great-opening-line/)
-- [SQLite Online](https://sqliteonline.com/)
-- [DebConf22 will be an in-person conference](https://debconf22.debconf.org/news/2022-03-09-debconf22-in-person/)
-- [Tradle](https://oec.world/en/tradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
