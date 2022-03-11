@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the 2020 census has 9 fake people in a single house](https://fullstackeconomics.com/why-the-2020-census-has-9-fake-people-in-a-single-house/)
 - [Earn-IT threatens encryption and therefore user freedom](https://www.fsf.org/blogs/community/earn-it-threatens-encryption-and-therefore-user-freedom)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Engineering Manager, Software Development](https://jobs.lever.co/getjerry/4290d136-b59c-49d7-83c2-1f1f71f57e4c)
-- [FTC cracks down on hard to cancel subscription of RagingBull](https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings)
-- [Alpine Linux: Brilliant Linux Distro](https://wiki.alpinelinux.org/wiki/Alpine_newbie)
-- [We’re the founders of Substack, we just launched an iOS app. AUA](https://news.ycombinator.com/item?id=30632952)
+- [Just Say No to Central Bank Digital Currencies](https://theupheaval.substack.com/p/just-say-no-to-cbdcs)
+- [Ragingbull.com to pay $2.4M for bogus earnings claims, subscription charges](https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
