@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HeyWhatsThat &lpar;calculate viewshed and panorama for any point on Earth&rpar;](https://www.heywhatsthat.com/)
-- [Russia opens criminal investigation of Meta over death calls on Facebook](https://www.reuters.com/world/kremlin-says-meta-would-have-cease-work-russia-if-reuters-report-is-true-2022-03-11/)
-- [Launch HN: Stock Unlock &lpar;YC W22&rpar; – Investment Education for Everyone](https://news.ycombinator.com/item?id=30640295)
-- [UK tells operators to shut down crypto ATMs or face action](https://www.neowin.net/news/uk-tells-crypto-atm-operators-to-shut-down-or-face-action/)
-- [Don&#39;t ask to ask, just ask](https://dontasktoask.com/)
+- [CD sales grow for first time since 2004](https://www.axios.com/cd-sales-grow-for-first-time-since-2004-0745a5ce-a2f3-4ed3-8b1e-14b20f0b218e.html)
+- [uBlock Origin becomes top addon on Firefox](https://addons.mozilla.org/en-US/firefox/search/?sort=users&type=extension)
+- [Cooking with Dorothy Sayers](https://www.theparisreview.org/blog/2022/03/10/cooking-with-dorothy-sayers/)
+- [Ukraine says Russia fired at Belarus from Ukrainian airspace to drag it into war](https://www.reuters.com/world/ukraine-says-russian-aircraft-fired-belarus-ukrainian-air-space-2022-03-11/)
+- [Accounting for violent conflict risk in planetary defense decisions &lpar;2020&rpar;](https://gcrinstitute.org/accounting-for-violent-conflict-risk-in-planetary-defense-decisions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
