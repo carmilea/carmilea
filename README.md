@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nukemap](https://nukemap.org/nukemap/)
 - [The 1980s Media Panic over Dungeons and Dragons &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-1980s-media-panic-over-dungeons-dragons)
 - [Awful Library Books](https://awfullibrarybooks.net/)
-- [To avoid Finland’s tax a 1,000HP imported Hennessey RAM is limited to 55MPH](https://www.thedrive.com/news/44642/imported-1000-hp-hennessey-ram-trx-limited-to-55-mph-over-tax-loophole)
 - [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
+- [Shopify&#39;s Data Science and Engineering Foundations &lpar;2020&rpar;](https://shopify.engineering/shopifys-data-science-engineering-foundations)
+- [Launch HN: Tensil &lpar;YC S19&rpar; – Open-Source ML Accelerators](https://news.ycombinator.com/item?id=30643520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
