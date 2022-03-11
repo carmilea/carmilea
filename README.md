@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incident report: Spotify outage on March 8](https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/)
+- [Why Single Sign on Sucks](https://goteleport.com/blog/why-sso-sucks/)
+- [Inside Putin&#39;s Circle](https://www.ft.com/content/503fb110-f91e-4bed-b6dc-0d09582dd007)
 - [The 1980s Media Panic over Dungeons and Dragons &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-1980s-media-panic-over-dungeons-dragons)
-- [Awful Library Books](https://awfullibrarybooks.net/)
 - [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
-- [Shopify&#39;s Data Science and Engineering Foundations &lpar;2020&rpar;](https://shopify.engineering/shopifys-data-science-engineering-foundations)
-- [Launch HN: Tensil &lpar;YC S19&rpar; – Open-Source ML Accelerators](https://news.ycombinator.com/item?id=30643520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
