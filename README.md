@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD 13.1-BETA1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html)
+- [You don&#39;t ever own an electric vehicle](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/)
 - [StyleNeRF: A Style-Based 3D-Aware Generator for High-Resolution Image Synthesis](http://jiataogu.me/style_nerf/)
 - [Ws4sqlite: Query SQLite via HTTP](https://github.com/proofrock/ws4sqlite)
 - [Investigating Influencer VPN Ads on YouTube [pdf]](https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf)
-- [What Google search isn’t showing you](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
-- [Aligning on Your API Design Using Jobs to Be Done](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
 <!-- BLOG-POST-LIST:END -->
 
 ---
