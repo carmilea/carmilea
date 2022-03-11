@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drone downed in Zagreb is not Ukrainian – adviser to defense minister](https://ua.interfax.com.ua/news/general/811513.html)
 - [Don&#39;t ask to ask, just ask](https://dontasktoask.com/)
+- [Barrier: Share mouse and keyboard between computers](https://github.com/debauchee/barrier)
+- [Show HN: Google Maps Shadow Calculator](http://shadowcalculator.eu/)
 - [Israel&#39;s Knesset passes law barring Palestinian spouses](https://www.reuters.com/world/middle-east/israels-knesset-passes-law-barring-palestinian-spouses-2022-03-10/)
-- [Flowly &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/flowly/jobs/AOX8o5p-chief-of-staff-flowly)
-- [Why do Google use location for language rather than browser settings?](https://smaller.fish/posts/language)
-- [Lessons Learnt Moving a GTK Application from Go to Ada](https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
