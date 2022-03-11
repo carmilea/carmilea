@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Magic of the Japanese Convenience Store Sandwich](https://japlanease.com/japanese-convenience-store-sandwich/)
+- [Ask HN: Is your company considering inflation in this year&#39;s comp review cycle?](https://news.ycombinator.com/item?id=30635501)
+- [Computer Randomly Plays Classical Music &lpar;2007&rpar;](https://web.archive.org/web/20080517043731/https://support.microsoft.com/support/kb/articles/Q261/1/86.ASP)
 - [Why the 2020 census has 9 fake people in a single house](https://fullstackeconomics.com/why-the-2020-census-has-9-fake-people-in-a-single-house/)
 - [Earn-IT threatens encryption and therefore user freedom](https://www.fsf.org/blogs/community/earn-it-threatens-encryption-and-therefore-user-freedom)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Engineering Manager, Software Development](https://jobs.lever.co/getjerry/4290d136-b59c-49d7-83c2-1f1f71f57e4c)
-- [Just Say No to Central Bank Digital Currencies](https://theupheaval.substack.com/p/just-say-no-to-cbdcs)
-- [Ragingbull.com to pay $2.4M for bogus earnings claims, subscription charges](https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
