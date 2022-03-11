@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub pull request file tree feature preview](https://github.com/github/feedback/discussions/12341)
+- [Researchers train an algorithm to interpret pig grunts as emotions](https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/)
 - [Incident report: Spotify outage on March 8](https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/)
 - [Why Single Sign on Sucks](https://goteleport.com/blog/why-sso-sucks/)
 - [Inside Putin&#39;s Circle](https://www.ft.com/content/503fb110-f91e-4bed-b6dc-0d09582dd007)
-- [The 1980s Media Panic over Dungeons and Dragons &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-1980s-media-panic-over-dungeons-dragons)
-- [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
