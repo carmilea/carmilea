@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drone downed in Zagreb is not Ukrainian – adviser to defense minister](https://ua.interfax.com.ua/news/general/811513.html)
+- [HeyWhatsThat &lpar;calculate viewshed and panorama for any point on Earth&rpar;](https://www.heywhatsthat.com/)
+- [Russia opens criminal investigation of Meta over death calls on Facebook](https://www.reuters.com/world/kremlin-says-meta-would-have-cease-work-russia-if-reuters-report-is-true-2022-03-11/)
+- [Launch HN: Stock Unlock &lpar;YC W22&rpar; – Investment Education for Everyone](https://news.ycombinator.com/item?id=30640295)
+- [UK tells operators to shut down crypto ATMs or face action](https://www.neowin.net/news/uk-tells-crypto-atm-operators-to-shut-down-or-face-action/)
 - [Don&#39;t ask to ask, just ask](https://dontasktoask.com/)
-- [Barrier: Share mouse and keyboard between computers](https://github.com/debauchee/barrier)
-- [Show HN: Google Maps Shadow Calculator](http://shadowcalculator.eu/)
-- [Israel&#39;s Knesset passes law barring Palestinian spouses](https://www.reuters.com/world/middle-east/israels-knesset-passes-law-barring-palestinian-spouses-2022-03-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
