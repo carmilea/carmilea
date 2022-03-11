@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
+- [Italy’s main University in Milan just banned teaching Dostoevsky](https://twitter.com/alessabocchi/status/1498811089676558337)
+- [Shopify&#39;s Data Science and Engineering Foundations](https://shopify.engineering/shopifys-data-science-engineering-foundations)
 - [Launch HN: Tensil &lpar;YC S19&rpar; – Open-Source ML Accelerators](https://news.ycombinator.com/item?id=30643520)
-- [Linux Developer Laptops: Dell&#39;s Precision 5500 series reigns supreme](https://wesmckinney.com/blog/linux-laptop-experience/)
-- [DNS resolution issue in Alpine Linux](https://christoph.luppri.ch/fixing-dns-resolution-for-ruby-on-alpine-linux)
-- [Goldilocks Zone Finder – Find your ideal climate](https://lukechampine.com/goldilocks/)
-- [Sudan’s first YC-backed startup helps consumers protect and grow their wealth](https://techcrunch.com/2022/03/08/sudans-first-yc-backed-startup-is-helping-consumers-protect-and-grow-their-wealth/)
+- [Linux Developer Laptops: Dell&#39;s Precision 5500 series reigns supreme &lpar;2019&rpar;](https://wesmckinney.com/blog/linux-laptop-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
