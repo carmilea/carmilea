@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Tensil &lpar;YC S19&rpar; – Open-Source ML Accelerators](https://news.ycombinator.com/item?id=30643520)
+- [Linux Developer Laptops: Dell&#39;s Precision 5500 series reigns supreme](https://wesmckinney.com/blog/linux-laptop-experience/)
+- [DNS resolution issue in Alpine Linux](https://christoph.luppri.ch/fixing-dns-resolution-for-ruby-on-alpine-linux)
+- [Goldilocks Zone Finder – Find your ideal climate](https://lukechampine.com/goldilocks/)
 - [Sudan’s first YC-backed startup helps consumers protect and grow their wealth](https://techcrunch.com/2022/03/08/sudans-first-yc-backed-startup-is-helping-consumers-protect-and-grow-their-wealth/)
-- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
-- [NY energy grid: Real-time dashboard](https://www.nyiso.com/real-time-dashboard)
-- [Convert curl commands to code in several languages](https://curlconverter.com/)
-- [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
