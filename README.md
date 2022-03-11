@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ws4sqlite: Query SQLite via HTTP](https://github.com/proofrock/ws4sqlite)
 - [Investigating Influencer VPN Ads on YouTube [pdf]](https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf)
 - [What Google search isn’t showing you](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
 - [Aligning on Your API Design Using Jobs to Be Done](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
 - [The magic of the Japanese convenience store sandwich](https://japlanease.com/japanese-convenience-store-sandwich/)
-- [Ask HN: Is your company considering inflation in this year&#39;s comp review cycle?](https://news.ycombinator.com/item?id=30635501)
 <!-- BLOG-POST-LIST:END -->
 
 ---
