@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CD sales grow for first time since 2004](https://www.axios.com/cd-sales-grow-for-first-time-since-2004-0745a5ce-a2f3-4ed3-8b1e-14b20f0b218e.html)
-- [uBlock Origin becomes top addon on Firefox](https://addons.mozilla.org/en-US/firefox/search/?sort=users&type=extension)
-- [Cooking with Dorothy Sayers](https://www.theparisreview.org/blog/2022/03/10/cooking-with-dorothy-sayers/)
-- [Ukraine says Russia fired at Belarus from Ukrainian airspace to drag it into war](https://www.reuters.com/world/ukraine-says-russian-aircraft-fired-belarus-ukrainian-air-space-2022-03-11/)
-- [Accounting for violent conflict risk in planetary defense decisions &lpar;2020&rpar;](https://gcrinstitute.org/accounting-for-violent-conflict-risk-in-planetary-defense-decisions/)
+- [Sudan’s first YC-backed startup helps consumers protect and grow their wealth](https://techcrunch.com/2022/03/08/sudans-first-yc-backed-startup-is-helping-consumers-protect-and-grow-their-wealth/)
+- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- [NY energy grid: Real-time dashboard](https://www.nyiso.com/real-time-dashboard)
+- [Convert curl commands to code in several languages](https://curlconverter.com/)
+- [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
