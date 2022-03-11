@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Investigating Influencer VPN Ads on YouTube [pdf]](https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf)
 - [What Google Search Isn’t Showing You](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
+- [Aligning on Your API Design Using Jobs to Be Done](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
 - [The Magic of the Japanese Convenience Store Sandwich](https://japlanease.com/japanese-convenience-store-sandwich/)
 - [Ask HN: Is your company considering inflation in this year&#39;s comp review cycle?](https://news.ycombinator.com/item?id=30635501)
-- [Twitter makes it harder to choose the old reverse-chronological feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
