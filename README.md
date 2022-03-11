@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigating Influencer VPN Ads on YouTube [pdf]](https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf)
+- [What Google Search Isn’t Showing You](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
 - [The Magic of the Japanese Convenience Store Sandwich](https://japlanease.com/japanese-convenience-store-sandwich/)
 - [Ask HN: Is your company considering inflation in this year&#39;s comp review cycle?](https://news.ycombinator.com/item?id=30635501)
-- [Computer Randomly Plays Classical Music &lpar;2007&rpar;](https://web.archive.org/web/20080517043731/https://support.microsoft.com/support/kb/articles/Q261/1/86.ASP)
-- [Why the 2020 census has 9 fake people in a single house](https://fullstackeconomics.com/why-the-2020-census-has-9-fake-people-in-a-single-house/)
-- [Earn-IT threatens encryption and therefore user freedom](https://www.fsf.org/blogs/community/earn-it-threatens-encryption-and-therefore-user-freedom)
+- [Twitter makes it harder to choose the old reverse-chronological feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
