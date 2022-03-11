@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your crypto business with Stripe](https://stripe.com/en-be/use-cases/crypto)
 - [FreeBSD 13.1-BETA1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html)
 - [You don&#39;t ever own an electric vehicle](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/)
 - [StyleNeRF: A Style-Based 3D-Aware Generator for High-Resolution Image Synthesis](http://jiataogu.me/style_nerf/)
-- [Ws4sqlite: Query SQLite via HTTP](https://github.com/proofrock/ws4sqlite)
-- [Investigating Influencer VPN Ads on YouTube [pdf]](https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf)
+- [Cron Best Practices](https://blog.sanctum.geek.nz/cron-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
