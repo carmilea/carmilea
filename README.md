@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why does the Ruble still holds 50% of its value?](https://news.ycombinator.com/item?id=30638888)
+- [Flowly &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/flowly/jobs/AOX8o5p-chief-of-staff-flowly)
+- [Why do Google use location for language rather than browser settings?](https://smaller.fish/posts/language)
+- [Lessons Learnt Moving a GTK Application from Go to Ada](https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md)
 - [FreeBSD 13.1 Beta 1](https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html)
-- [StyleNeRF: A Style-Based 3D-Aware Generator for High-Resolution Image Synthesis](http://jiataogu.me/style_nerf/)
-- [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/)
-- [Ws4sqlite: Query SQLite via HTTP](https://github.com/proofrock/ws4sqlite)
-- [Investigating Influencer VPN Ads on YouTube [pdf]](https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
