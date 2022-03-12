@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8](https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8)
+- [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/)
+- [Uber funds new lobbying group to deny rights for gig workers](https://www.theguardian.com/business/2022/mar/11/uber-funds-new-lobbying-group-to-deny-rights-for-gig-workers)
 - [Intel Finds Bug in AMD&#39;s Spectre Mitigation – AMD Issues Fix](https://www.tomshardware.com/news/intel-discovers-amd-spectre-patch-has-been-broken-since-2018-amd-issues-fix)
 - [Twitter Client for UEFI](https://github.com/arata-nvm/mitnal)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring senior engineers to impact education affordability](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Newer TP-Link Routers send all web traffic to third party servers](https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/)
-- [Today is Y Combinator&#39;s 17th birthday](https://twitter.com/paulg/status/1502424734679638028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
