@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Putin’s Worsening Problems](https://newlinesmag.com/argument/putins-worsening-problems/)
+- [macOS System Preferences Uses React](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
+- [Tron founder Justin Sun and his many escapes](https://www.theverge.com/c/22947663/justin-sun-tron-cryptocurrency-poloniex)
+- [The Legendary Survival Story of Sir Ernest Shackleton](https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/)
 - [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [The Art of Plain Text &lpar;2015&rpar;](https://www.netmeister.org/blog/the-art-of-plain-text.html)
-- [RISC-V J extension – Instructions for JITs](https://github.com/riscv/riscv-j-extension)
-- [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341)
 <!-- BLOG-POST-LIST:END -->
 
 ---
