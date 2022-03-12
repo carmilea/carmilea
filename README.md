@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
 - [Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF](https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf)
+- [How CNN&#39;s Jeff Zucker and His Cronies Manipulated the News](https://www.rollingstone.com/culture/culture-features/jeff-zucker-cnn-resign-affair-cuomo-trump-1319698/)
 - [Moderna Will Develop mRNA Vaccines for 15 of the World’s Worst Diseases](https://singularityhub.com/2022/03/10/moderna-to-develop-mrna-vaccines-for-15-diseases-that-threaten-global-health/)
 - [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
-- [Tron founder Justin Sun and his many escapes](https://www.theverge.com/c/22947663/justin-sun-tron-cryptocurrency-poloniex)
-- [The Legendary Survival Story of Sir Ernest Shackleton](https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
