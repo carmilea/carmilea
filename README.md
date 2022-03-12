@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
-- [What things cost in Ancient Rome](https://www.constantinethegreatcoins.com/edict/)
-- [Saudi Arabia puts 81 to death in its largest mass execution](https://apnews.com/article/islamic-state-group-saudi-arabia-al-qaida-dubai-united-arab-emirates-a1984eab0faadefa0152d5c138525d80)
-- [Finland starts much-delayed nuclear plant, brings respite to power market](https://www.reuters.com/world/europe/finland-starts-much-delayed-nuclear-plant-brings-respite-power-market-2022-03-12/)
-- [The Discovery and Exploitation of CVE-2022-25636](https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/)
+- [Comfort of Bloated Web](https://susam.net/maze/wall/comfort-of-bloated-web.html)
+- [Show HN: Hubfs – File System for GitHub](https://github.com/winfsp/hubfs)
+- [Study sheds new light on Tutankhamun’s mysterious dagger ‘born’ from meteorite](https://english.elpais.com/science-tech/2022-03-06/study-sheds-new-light-on-tutankhamuns-mysterious-dagger-born-from-meteorite.html)
+- [The Silence Is Deafening &lpar;2020&rpar;](https://devonzuegel.com/post/the-silence-is-deafening)
+- [ECMAScript Proposal: Types as Comments](https://github.com/giltayar/proposal-types-as-comments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
