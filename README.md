@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
+- [Walgreens replaced some fridge doors with screens. And some shoppers hate it](https://lite.cnn.com/en/article/h_455b3197eb28a98a8912791bc1bbdbfd)
 - [Shader Park: A JavaScript library for creating interactive procedural shaders](https://shaderpark.com/)
 - [33 years ago today I submitted a proposal for a system called the World Wide Web](https://twitter.com/timberners_lee/status/1502594846044954630)
 - [The Case for Induction Cooking](https://www.nytimes.com/2022/03/11/dining/induction-cooking.html)
-- [Comfort of Bloated Web](https://susam.net/maze/wall/comfort-of-bloated-web.html)
-- [.NET Myths Dispelled](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27?gi=7ef0cf441b4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
