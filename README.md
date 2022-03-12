@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring senior engineers to impact education affordability](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Newer TP-Link Routers send ALL your web traffic to 3rd party servers](https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/)
 - [Today is Y Combinator&#39;s 17th birthday](https://twitter.com/paulg/status/1502424734679638028)
 - [Why Modern Movies Suck](https://www.youtube.com/watch?v=Dnuqp4_K7ik)
 - [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
-- [Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF](https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf)
-- [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
