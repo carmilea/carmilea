@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;In San Francisco and London&rpar;](https://etleap.com/jobs/#software-engineer)
+- [A Formal Theory of Spaghetti Code](https://nickdrozd.github.io/2022/03/12/formal-theory-of-spaghetti-code.html)
+- [Lasers could cut lifespan of nuclear waste from a million years to 30 minutes](https://bigthink.com/the-present/laser-nuclear-waste/)
 - [Cloudant/IBM back off from FoundationDB based CouchDB rewrite](https://lists.apache.org/thread/9gby4nr209qc4dzf2hh6xqb0cn1439b7)
 - [Russia’s Invasion of Ukraine Is Redrawing the Geopolitics of Space - ISS](https://www.nature.com/articles/d41586-022-00727-x)
-- [China Markets in Turmoil as Russia Ties Add to List of Risks](https://www.bloombergquint.com/markets/china-s-markets-in-crisis-as-russia-ties-add-to-list-of-risks)
-- [A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8](https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8)
-- [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
