@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Saudi Arabia puts 81 to death in its largest mass execution](https://apnews.com/article/islamic-state-group-saudi-arabia-al-qaida-dubai-united-arab-emirates-a1984eab0faadefa0152d5c138525d80)
+- [CA bar says attorney records leaked through database flaw, not hack](https://www.reuters.com/legal/legalindustry/ca-bar-says-attorney-records-leaked-through-database-flaw-not-hack-2022-03-01/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;In San Francisco and London&rpar;](https://etleap.com/jobs/#software-engineer)
 - [A Formal Theory of Spaghetti Code](https://nickdrozd.github.io/2022/03/12/formal-theory-of-spaghetti-code.html)
 - [Lasers could cut lifespan of nuclear waste from a million years to 30 minutes](https://bigthink.com/the-present/laser-nuclear-waste/)
-- [Cloudant/IBM back off from FoundationDB based CouchDB rewrite](https://lists.apache.org/thread/9gby4nr209qc4dzf2hh6xqb0cn1439b7)
-- [Russia’s Invasion of Ukraine Is Redrawing the Geopolitics of Space - ISS](https://www.nature.com/articles/d41586-022-00727-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
