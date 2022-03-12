@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Finds Bug in AMD&#39;s Spectre Mitigation – AMD Issues Fix](https://www.tomshardware.com/news/intel-discovers-amd-spectre-patch-has-been-broken-since-2018-amd-issues-fix)
+- [Twitter Client for UEFI](https://github.com/arata-nvm/mitnal)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring senior engineers to impact education affordability](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Newer TP-Link Routers send ALL your web traffic to 3rd party servers](https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/)
+- [Newer TP-Link Routers send all web traffic to third party servers](https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/)
 - [Today is Y Combinator&#39;s 17th birthday](https://twitter.com/paulg/status/1502424734679638028)
-- [Why Modern Movies Suck](https://www.youtube.com/watch?v=Dnuqp4_K7ik)
-- [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
