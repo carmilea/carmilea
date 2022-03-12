@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
+- [What things cost in Ancient Rome](https://www.constantinethegreatcoins.com/edict/)
 - [Saudi Arabia puts 81 to death in its largest mass execution](https://apnews.com/article/islamic-state-group-saudi-arabia-al-qaida-dubai-united-arab-emirates-a1984eab0faadefa0152d5c138525d80)
-- [CA bar says attorney records leaked through database flaw, not hack](https://www.reuters.com/legal/legalindustry/ca-bar-says-attorney-records-leaked-through-database-flaw-not-hack-2022-03-01/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;In San Francisco and London&rpar;](https://etleap.com/jobs/#software-engineer)
-- [A Formal Theory of Spaghetti Code](https://nickdrozd.github.io/2022/03/12/formal-theory-of-spaghetti-code.html)
-- [Lasers could cut lifespan of nuclear waste from a million years to 30 minutes](https://bigthink.com/the-present/laser-nuclear-waste/)
+- [Finland starts much-delayed nuclear plant, brings respite to power market](https://www.reuters.com/world/europe/finland-starts-much-delayed-nuclear-plant-brings-respite-power-market-2022-03-12/)
+- [The Discovery and Exploitation of CVE-2022-25636](https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
