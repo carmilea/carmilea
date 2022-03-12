@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS System Preferences Uses React](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
+- [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
 - [Tron founder Justin Sun and his many escapes](https://www.theverge.com/c/22947663/justin-sun-tron-cryptocurrency-poloniex)
 - [The Legendary Survival Story of Sir Ernest Shackleton](https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/)
 - [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
