@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case for Induction Cooking](https://www.nytimes.com/2022/03/11/dining/induction-cooking.html)
 - [Comfort of Bloated Web](https://susam.net/maze/wall/comfort-of-bloated-web.html)
+- [.NET Myths Dispelled](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27?gi=7ef0cf441b4f)
 - [Show HN: Hubfs – File System for GitHub](https://github.com/winfsp/hubfs)
 - [Study sheds new light on Tutankhamun’s mysterious dagger ‘born’ from meteorite](https://english.elpais.com/science-tech/2022-03-06/study-sheds-new-light-on-tutankhamuns-mysterious-dagger-born-from-meteorite.html)
-- [The Silence Is Deafening &lpar;2020&rpar;](https://devonzuegel.com/post/the-silence-is-deafening)
-- [ECMAScript Proposal: Types as Comments](https://github.com/giltayar/proposal-types-as-comments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
