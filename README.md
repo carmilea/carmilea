@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudant/IBM back off from FoundationDB based CouchDB rewrite](https://lists.apache.org/thread/9gby4nr209qc4dzf2hh6xqb0cn1439b7)
+- [Russia’s Invasion of Ukraine Is Redrawing the Geopolitics of Space - ISS](https://www.nature.com/articles/d41586-022-00727-x)
+- [China Markets in Turmoil as Russia Ties Add to List of Risks](https://www.bloombergquint.com/markets/china-s-markets-in-crisis-as-russia-ties-add-to-list-of-risks)
 - [A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8](https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8)
 - [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/)
-- [Uber funds new lobbying group to deny rights for gig workers](https://www.theguardian.com/business/2022/mar/11/uber-funds-new-lobbying-group-to-deny-rights-for-gig-workers)
-- [Intel Finds Bug in AMD&#39;s Spectre Mitigation – AMD Issues Fix](https://www.tomshardware.com/news/intel-discovers-amd-spectre-patch-has-been-broken-since-2018-amd-issues-fix)
-- [Twitter Client for UEFI](https://github.com/arata-nvm/mitnal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
