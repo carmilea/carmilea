@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Putin’s Worsening Problems](https://newlinesmag.com/argument/putins-worsening-problems/)
 - [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [The Art of Plain Text &lpar;2015&rpar;](https://www.netmeister.org/blog/the-art-of-plain-text.html)
 - [RISC-V J extension – Instructions for JITs](https://github.com/riscv/riscv-j-extension)
 - [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341)
-- [Researchers train an algorithm to interpret pig grunts as emotions](https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
