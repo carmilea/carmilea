@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK Network Operators Target iCloud Private Relay in Complaint to Regulator](https://www.macrumors.com/2022/03/13/uk-network-operators-target-icloud-private-relay/)
-- [S2: Computational geometry and spatial indexing on the sphere](https://github.com/google/s2geometry)
-- [Pipe Logic &lpar;2011&rpar;](https://www.linusakesson.net/programming/pipelogic/index.php)
-- [How to write a tree-sitter grammar in an afternoon](https://siraben.dev/2022/03/01/tree-sitter.html)
-- [Why Kubernetes is important for the future of data platforms](https://mertkavi.com/why-kubernetes-is-important-for-the-future-of-data-platforms/)
+- [The Case for Open Infrastructure](https://blog.mediocregopher.com/2022/03/13/the-case-for-open-infrastructure.html)
+- [Mavis Beacon was the top typing teacher in the US Then she vanished](https://www.independent.co.uk/news/world/americas/mavis-beacon-teaches-typing-real-b2034472.html)
+- [Why am I building a programming language in private?](https://drewdevault.com/2022/03/13/Why-am-I-working-in-private.html)
+- [Ask HN: Fake AA batteries, or drain acid from current ones](https://news.ycombinator.com/item?id=30662242)
+- [New solar sail may travel to Alpha Centauri](https://earthsky.org/space/alpha-centauri-travel-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
