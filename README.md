@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZFS on a single core RISC-V hardware with 512MB](https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/)
 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/)
+- [Container loaded with discarded lithium batteries catches fire enroute to port](https://gcaptain.com/container-lithium-battery-fire/)
+- [Show HN: A Go Library for Website Log Analysis](https://convey.earth/conversation?id=51&ref=hn)
 - [Methane might be made by all living organisms](https://www.nature.com/articles/d41586-022-00206-3)
-- [Modelling suggests that by 2021, 18M had died because of the pandemic](https://www.nature.com/articles/d41586-022-00708-0)
-- [What the Russian Invasion Has Done to Ukraine](https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine)
-- [CEO demanded all employees return full-time to the office. Only half showed up](https://finance.yahoo.com/news/goldman-sachs-ceo-demanded-employees-210608499.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
