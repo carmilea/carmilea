@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Future of Kubernetes](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+- [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 - [Show HN: Self-hosted service for creating random avatars](https://github.com/frncsdrk/avatar)
 - [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
 - [LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender](https://codeberg.org/unfa/Liblast)
-- [Storing UTC is not a silver bullet &lpar;2019&rpar;](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
