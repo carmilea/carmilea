@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Moscow, McDonald&#39;s packs up, radio falls silent and the brain drain begins](https://lite.cnn.com/en/article/h_032d5311e117bcfd9144ac4c4360ab33)
 - [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
-- [Multiple rockets fall in Erbil, northern Iraq](https://www.reuters.com/world/middle-east/multiple-rockets-fall-erbil-northern-iraq-state-media-2022-03-12/)
-- [Jailed Navalny calls for anti-war protests across Russia on Sunday](https://www.reuters.com/world/europe/kremlin-critic-navalny-calls-anti-war-protests-across-russia-2022-03-11/)
 - [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
 - [Smart-TV Blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
+- [Shader Park: A JavaScript library for creating interactive procedural shaders](https://shaderpark.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
