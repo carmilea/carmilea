@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-transition-windows-to-linux/)
 - [A new history of Byzantium reveals the inner workings of a late antique empire](https://thecritic.co.uk/issues/march-2022/wonders-and-warnings-from-the-ancient-world/)
 - [The Big List of Engineering Management Resources – March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 - [ZFS on a single core RISC-V hardware with 512MB](https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/)
 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/)
-- [Container loaded with discarded lithium batteries catches fire enroute to port](https://gcaptain.com/container-lithium-battery-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
