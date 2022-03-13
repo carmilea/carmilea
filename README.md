@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Alternatives to 1Password](https://news.ycombinator.com/item?id=30658936)
 - [Tell HN: China Is Entering Lockdown](https://news.ycombinator.com/item?id=30658886)
 - [Why Economic Sanctions Do Not Work &lpar;1997&rpar; [pdf]](https://web.stanford.edu/class/ips216/Readings/pape_97%20(jstor).pdf)
 - [Finnish govt agency warns of unusual aircraft GPS interference](https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/)
 - [Halide iOS app bug fix rejected after initial approval 18 months ago](https://twitter.com/sandofsky/status/1502769909104738304)
-- [Ask HN: Using an LLC to protect side project IP](https://news.ycombinator.com/item?id=30658602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
