@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
+- [Multiple rockets fall in Erbil, northern Iraq](https://www.reuters.com/world/middle-east/multiple-rockets-fall-erbil-northern-iraq-state-media-2022-03-12/)
+- [Jailed Navalny calls for anti-war protests across Russia on Sunday](https://www.reuters.com/world/europe/kremlin-critic-navalny-calls-anti-war-protests-across-russia-2022-03-11/)
 - [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
-- [Walgreens replaced some fridge doors with screens. And some shoppers hate it](https://lite.cnn.com/en/article/h_455b3197eb28a98a8912791bc1bbdbfd)
-- [Shader Park: A JavaScript library for creating interactive procedural shaders](https://shaderpark.com/)
-- [33 years ago today I submitted a proposal for a system called the World Wide Web](https://twitter.com/timberners_lee/status/1502594846044954630)
-- [The Case for Induction Cooking](https://www.nytimes.com/2022/03/11/dining/induction-cooking.html)
+- [Smart-TV Blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
