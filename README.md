@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-- [Stories of reaching Staff-plus engineering roles](https://staffeng.com/)
-- [Tell HN: China Is Entering Lockdown](https://news.ycombinator.com/item?id=30658886)
-- [Finnish govt agency warns of unusual aircraft GPS interference](https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/)
-- [Halide iOS app bug fix rejected after initial approval 18 months ago](https://twitter.com/sandofsky/status/1502769909104738304)
+- [The Future of Kubernetes](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+- [Show HN: Self-hosted service for creating random avatars](https://github.com/frncsdrk/avatar)
+- [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
+- [LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender](https://codeberg.org/unfa/Liblast)
+- [Storing UTC is not a silver bullet &lpar;2019&rpar;](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
