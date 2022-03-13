@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new history of Byzantium reveals the inner workings of a late antique empire](https://thecritic.co.uk/issues/march-2022/wonders-and-warnings-from-the-ancient-world/)
+- [The Big List of Engineering Management Resources – March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 - [ZFS on a single core RISC-V hardware with 512MB](https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/)
 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/)
 - [Container loaded with discarded lithium batteries catches fire enroute to port](https://gcaptain.com/container-lithium-battery-fire/)
-- [Show HN: A Go Library for Website Log Analysis](https://convey.earth/conversation?id=51&ref=hn)
-- [Methane might be made by all living organisms](https://www.nature.com/articles/d41586-022-00206-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
