@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Moscow, McDonald&#39;s packs up, radio falls silent and the brain drain begins](https://lite.cnn.com/en/article/h_032d5311e117bcfd9144ac4c4360ab33)
-- [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
-- [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
-- [Smart-TV Blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
-- [Shader Park: A JavaScript library for creating interactive procedural shaders](https://shaderpark.com/)
+- [American Mask Makers Are Going Out of Business](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html)
+- [How did the gold standard work?](https://twitter.com/ProfPaulPoast/status/1459864898633146368)
+- [Zoom has done more to reduce emissions than electric vehicles](https://twitter.com/MoodyHikmet/status/1502422056859680770)
+- [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
+- [Show HN: I made my personal website a Pokémon-style minigame using Phaser 3](https://arielroffe.quest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
