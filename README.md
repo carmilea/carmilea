@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [American mask makers are going out of business](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html)
-- [How did the gold standard work?](https://twitter.com/ProfPaulPoast/status/1459864898633146368)
 - [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
 - [Show HN: I made my personal website a Pokémon-style minigame using Phaser 3](https://arielroffe.quest/)
 - [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
+- [Smart-TV blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
