@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QSN: A Familiar String Interchange Format](http://www.oilshell.org/release/latest/doc/qsn.html)
-- [NYT Shutting Down Wordle Archive](https://gamerant.com/new-york-times-wordle-archive-shutdown-changes-wordle-clones/)
+- [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
+- [QSN: A Familiar String Interchange Format &lpar;2020&rpar;](http://www.oilshell.org/release/latest/doc/qsn.html)
+- [NYT shutting down the Wordle archive](https://gamerant.com/new-york-times-wordle-archive-shutdown-changes-wordle-clones/)
+- [Joern – Bug Hunter&#39;s Workbench](https://joern.io/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
-- [Ask HN: Has anyone else gotten the &#39;Turning Red&#39; ad after Firefox update?](https://news.ycombinator.com/item?id=30665493)
-- [Tokamak Energy achieves temperature threshold for commercial fusion](https://www.tokamakenergy.co.uk/tokamak-energy-moves-closer-to-commercial-fusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
