@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case for Open Infrastructure](https://blog.mediocregopher.com/2022/03/13/the-case-for-open-infrastructure.html)
-- [Mavis Beacon was the top typing teacher in the US Then she vanished](https://www.independent.co.uk/news/world/americas/mavis-beacon-teaches-typing-real-b2034472.html)
-- [Why am I building a programming language in private?](https://drewdevault.com/2022/03/13/Why-am-I-working-in-private.html)
-- [Ask HN: Fake AA batteries, or drain acid from current ones](https://news.ycombinator.com/item?id=30662242)
-- [New solar sail may travel to Alpha Centauri](https://earthsky.org/space/alpha-centauri-travel-time/)
+- [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/)
+- [Methane might be made by all living organisms](https://www.nature.com/articles/d41586-022-00206-3)
+- [Modelling suggests that by 2021, 18M had died because of the pandemic](https://www.nature.com/articles/d41586-022-00708-0)
+- [What the Russian Invasion Has Done to Ukraine](https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine)
+- [CEO demanded all employees return full-time to the office. Only half showed up](https://finance.yahoo.com/news/goldman-sachs-ceo-demanded-employees-210608499.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
