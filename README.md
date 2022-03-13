@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Kubernetes](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
-- [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
-- [Show HN: Self-hosted service for creating random avatars](https://github.com/frncsdrk/avatar)
-- [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
-- [LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender](https://codeberg.org/unfa/Liblast)
+- [Pipe Logic &lpar;2011&rpar;](https://www.linusakesson.net/programming/pipelogic/index.php)
+- [TP-Link routers apparently sending customer data to Avira without user consent](https://www.neowin.net/news/beware-tp-link-routers-apparently-sending-customer-data-to-avira-without-user-consent/)
+- [The global streaming boom is creating a translator shortage &lpar;2021&rpar;](https://restofworld.org/2021/lost-in-translation-the-global-streaming-boom-is-creating-a-translator-shortage/)
+- [Not dodgy at all and long overdue – user replaceable batteries](https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/)
+- [Qgis2threejs: Visualize DEM Maps and 3D Vector Data on Web](https://github.com/minorua/Qgis2threejs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
