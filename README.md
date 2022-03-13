@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: China Is Entering Lockdown](https://news.ycombinator.com/item?id=30658886)
+- [Why Economic Sanctions Do Not Work &lpar;1997&rpar; [pdf]](https://web.stanford.edu/class/ips216/Readings/pape_97%20(jstor).pdf)
+- [Finnish govt agency warns of unusual aircraft GPS interference](https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/)
 - [Halide iOS app bug fix rejected after initial approval 18 months ago](https://twitter.com/sandofsky/status/1502769909104738304)
 - [Ask HN: Using an LLC to protect side project IP](https://news.ycombinator.com/item?id=30658602)
-- [Ask HN: What ML platform are you using?](https://news.ycombinator.com/item?id=30658324)
-- [American mask makers are going out of business](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html)
-- [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
