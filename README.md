@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QSN: A Familiar String Interchange Format](http://www.oilshell.org/release/latest/doc/qsn.html)
+- [NYT Shutting Down Wordle Archive](https://gamerant.com/new-york-times-wordle-archive-shutdown-changes-wordle-clones/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
 - [Ask HN: Has anyone else gotten the &#39;Turning Red&#39; ad after Firefox update?](https://news.ycombinator.com/item?id=30665493)
-- [Big O Notation Calculator](https://shunnarski.github.io/BigO.html)
 - [Tokamak Energy achieves temperature threshold for commercial fusion](https://www.tokamakenergy.co.uk/tokamak-energy-moves-closer-to-commercial-fusion/)
-- [A new history of Byzantium reveals the inner workings of a late antique empire](https://thecritic.co.uk/issues/march-2022/wonders-and-warnings-from-the-ancient-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
