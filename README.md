@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I&#39;m So Lonely](https://news.ycombinator.com/item?id=30668506)
+- [Keeping Developers Will Be the Priority in Great Developer Resignation Next](https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4?gi=8d799e51c800)
 - [Show HN: HN Avatars in 357 bytes](https://news.ycombinator.com/item?id=30668137)
 - [iPhone Lidar with Applications for the Geosciences](https://opentopography.org/blog/iphone-lidar-applications-geosciences)
 - [Argentine family comes home after 22-year drive around the world](https://uk.news.yahoo.com/argentine-family-comes-home-22-183147817.html)
