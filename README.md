@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in Browser](https://blog.replit.com/code-editors#head-to-head)
+- [PEP 594 “Removing dead batteries from the standard library” accepted](https://peps.python.org/pep-0594/)
+- [Auto Accidents and “Isolation and Disruption”](https://statmodeling.stat.columbia.edu/2022/03/12/auto-accidents-and-isolation-and-disruption/)
+- [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/)
 - [Tiny Galaxies Reveal Secrets of Supermassive Black Holes](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
-- [Ask HN: How can scam callers fake a mobile phone number?](https://news.ycombinator.com/item?id=30673009)
-- [USDA announces plans to support innovative American-made fertilizer](https://www.morningagclips.com/usda-announces-plans-to-support-innovative-american-made-fertilizer/)
-- [Launch HN: Living Carbon &lpar;YC W20&rpar; – Building a better tree](https://news.ycombinator.com/item?id=30672841)
-- [Three CISOs Walk into a Startup](https://www.lastweekasavciso.com/p/three-cisos-walk-into-a-startup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
