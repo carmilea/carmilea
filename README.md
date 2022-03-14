@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: My Google account was hacked, Google says they can&#39;t help](https://news.ycombinator.com/item?id=30677471)
 - [Microsoft is testing ads in the Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/)
 - [Ketamine for the acute treatment of severe suicidal ideation](https://www.bmj.com/content/376/bmj-2021-067194)
 - [Launch HN: Lifecast &lpar;YC W22&rpar; – 3D video for VR](https://news.ycombinator.com/item?id=30675861)
-- [Medical student surgically implants Bluetooth into own ear to cheat in final](https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html)
-- [Real-Time Coherent 3D Reconstruction from Monocular Video](https://zju3dv.github.io/neuralrecon/)
+- [The walk signs in Crystal City, VA are just repeating  “Change Password”](https://twitter.com/JosephPolitano/status/1503131005389099011)
 <!-- BLOG-POST-LIST:END -->
 
 ---
