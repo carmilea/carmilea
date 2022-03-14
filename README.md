@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Pinephone Setup](https://hamblingreen.gitlab.io/2022/03/02/my-pinephone-setup.html)
+- [Veloren is a multiplayer voxel RPG written in Rust](https://www.veloren.net/)
+- [Cascade: Open-source Node-based image editor with GPU-acceleration](https://github.com/ttddee/Cascade)
 - [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
 - [QSN: A Familiar String Interchange Format &lpar;2020&rpar;](http://www.oilshell.org/release/latest/doc/qsn.html)
-- [NYT shutting down the Wordle archive](https://gamerant.com/new-york-times-wordle-archive-shutdown-changes-wordle-clones/)
-- [Joern – Bug Hunter&#39;s Workbench](https://joern.io/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
