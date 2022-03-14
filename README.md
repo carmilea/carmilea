@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomy, clear goals, and work that matters &lpar;Head of Marketing – US remote&rpar;](https://www.recurse.com/blog/169-head-of-marketing)
-- [When or If](https://meyerweb.com/eric/thoughts/2022/03/14/if-or-when/)
-- [Programming Languages and Learning](https://quorumlanguage.com/evidence.html)
-- [Ask HN: Do I have to host all data in the EU to comply with GDPR?](https://news.ycombinator.com/item?id=30673991)
-- [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in Browser](https://blog.replit.com/code-editors#head-to-head)
+- [Launch HN: Lifecast &lpar;YC W22&rpar; – 3D video for VR](https://news.ycombinator.com/item?id=30675861)
+- [Medical student surgically implants Bluetooth into own ear to cheat in final](https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html)
+- [Real-Time Coherent 3D Reconstruction from Monocular Video](https://zju3dv.github.io/neuralrecon/)
+- [Show HN: Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
+- [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
