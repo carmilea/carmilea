@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: M1 Ultra Meanings and Consequences](https://mondaynote.com/apple-m1-ultra-meanings-and-consequences-fc32616f4a66)
+- [Google “hijacked millions of customers and orders” from restaurants – lawsuit](https://arstechnica.com/tech-policy/2022/03/google-hijacked-millions-of-customers-and-orders-from-restaurants-lawsuit-says/)
+- [Updates to Google Cloud’s infrastructure capabilities and pricing](https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing)
 - [Photo captures space station crossing the moon in jaw-dropping detail](https://mashable.com/article/space-station-moon-transit-photo)
-- [As Moore’s Law Slows, Apple Is Forced to Use Cheaper Chipsets in Non-Pro iPhones](https://semianalysis.substack.com/p/as-moores-law-slows-apple-is-forced)
-- [Why I Prefer Makefiles over Package.json Scripts](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/)
-- [Kids don&#39;t need tools for kids](http://lambdaway.free.fr/lambdawalks/?view=meta5)
-- [Pi Formulas, Algorithms and Computations](https://www.bellard.org/pi/)
+- [Open Source Compositing Software for VFX and Motion Graphics](https://natrongithub.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
