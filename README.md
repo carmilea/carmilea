@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomy, clear goals, and work that matters &lpar;Head of Marketing – US remote&rpar;](https://www.recurse.com/blog/169-head-of-marketing)
+- [When or If](https://meyerweb.com/eric/thoughts/2022/03/14/if-or-when/)
+- [Programming Languages and Learning](https://quorumlanguage.com/evidence.html)
+- [Ask HN: Do I have to host all data in the EU to comply with GDPR?](https://news.ycombinator.com/item?id=30673991)
 - [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in Browser](https://blog.replit.com/code-editors#head-to-head)
-- [PEP 594 “Removing dead batteries from the standard library” accepted](https://peps.python.org/pep-0594/)
-- [Auto Accidents and “Isolation and Disruption”](https://statmodeling.stat.columbia.edu/2022/03/12/auto-accidents-and-isolation-and-disruption/)
-- [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/)
-- [Tiny Galaxies Reveal Secrets of Supermassive Black Holes](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
