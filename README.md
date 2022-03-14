@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some discouraging anecdotes on how services handle account deletions](https://www.ctrl.blog/entry/account-deletions-2021.html)
 - [Solito – React Native and Next.js unified](https://solito.dev/)
 - [White Castle wants to install robot cooks in 100 new locations](https://misorobotics.com/newsroom/white-castle-expands-partnership-with-miso-robotics-to-install-flippy-2-in-100-new-locations/)
-- [Feminists Fought for the Right to Forget Childbirth](https://www.atlasobscura.com/articles/twilight-sleep-childbirth-1910s-feminists)
 - [Vibe, Mood, Energy](https://www.thedriftmag.com/vibe-mood-energy/)
-- [Ask HN: My Google account was hacked, Google says they can&#39;t help](https://news.ycombinator.com/item?id=30677471)
+- [Antarctic sea ice hits lowest minimum on record](https://www.nature.com/articles/d41586-022-00550-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
