@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, I Use a Hair Dryer to Make Roast Chicken–-Here&#39;s the Recipe](https://www.newyorker.com/culture/annals-of-gastronomy/yes-i-use-a-hair-dryer-to-make-roast-chicken)
+- [In birdsong, scientists find some parallels with human speech](https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/)
+- [The Programmatic Poop Funnel: Only 9% of online ads are “viewed”](https://createsend.com/t/d-E2BA293043466C2D2540EF23F30FEDED)
+- [Show HN: Serve your saved articles to a Kindle](https://github.com/edgartaor/kindleServer)
 - [Keeping Developers Will Be the Priority in Great Developer Resignation Next](https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4?gi=8d799e51c800)
 - [The curious case of Russia&#39;s missing Air Force](https://www.economist.com/interactive/2022/03/08/curious-case-russias-missing-air-force)
-- [Show HN: HN Avatars in 357 bytes](https://news.ycombinator.com/item?id=30668137)
-- [iPhone Lidar with Applications for the Geosciences](https://opentopography.org/blog/iphone-lidar-applications-geosciences)
 <!-- BLOG-POST-LIST:END -->
 
 ---
