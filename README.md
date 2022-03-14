@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photo captures space station crossing the moon in jaw-dropping detail](https://mashable.com/article/space-station-moon-transit-photo)
+- [As Moore’s Law Slows, Apple Is Forced to Use Cheaper Chipsets in Non-Pro iPhones](https://semianalysis.substack.com/p/as-moores-law-slows-apple-is-forced)
 - [Why I Prefer Makefiles over Package.json Scripts](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/)
+- [Kids don&#39;t need tools for kids](http://lambdaway.free.fr/lambdawalks/?view=meta5)
 - [Pi Formulas, Algorithms and Computations](https://www.bellard.org/pi/)
-- [Broadening compiler checks for buffer overflows in _FORTIFY_SOURCE &lpar;2021&rpar;](https://developers.redhat.com/blog/2021/04/16/broadening-compiler-checks-for-buffer-overflows-in-_fortify_source)
-- [Ask HN: How can I prepare for hard economic times](https://news.ycombinator.com/item?id=30670110)
-- [Offpunk 1.0: Offline Gemini/Gopher/Web Browsing](https://tildegit.org/ploum/AV-98-offline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
