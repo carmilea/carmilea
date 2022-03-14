@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is testing ads in the Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/)
+- [Ketamine for the acute treatment of severe suicidal ideation](https://www.bmj.com/content/376/bmj-2021-067194)
 - [Launch HN: Lifecast &lpar;YC W22&rpar; – 3D video for VR](https://news.ycombinator.com/item?id=30675861)
 - [Medical student surgically implants Bluetooth into own ear to cheat in final](https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html)
 - [Real-Time Coherent 3D Reconstruction from Monocular Video](https://zju3dv.github.io/neuralrecon/)
-- [Show HN: Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
-- [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
