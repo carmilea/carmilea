@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping and Seizing the Oligarchs&#39; Assets](https://googlemapsmania.blogspot.com/2022/03/mapping-oligarchs-assets.html)
+- [Saffron and major depressive disorder: meta-analysis of clinical trials &lpar;2013&rpar;](https://pubmed.ncbi.nlm.nih.gov/24299602/)
 - [Ask HN: How can I prepare for hard economic times](https://news.ycombinator.com/item?id=30670110)
 - [Offpunk 1.0: Offline Gemini/Gopher/Web Browsing](https://tildegit.org/ploum/AV-98-offline)
 - [In birdsong, scientists find some parallels with human speech](https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/)
-- [XVideos: The porn empire next door](https://netzpolitik.org/2022/xvideos-the-porn-empire-next-door/)
-- [Show HN: Serve your saved articles to a Kindle](https://github.com/edgartaor/kindleServer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
