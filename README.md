@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I&#39;m So Lonely](https://news.ycombinator.com/item?id=30668506)
+- [My path to CS and opinions on CS Education](https://lhao03.github.io/blog/cs-edu/)
+- [Show HN: HN Avatars in 357 bytes](https://news.ycombinator.com/item?id=30668137)
+- [iPhone Lidar with Applications for the Geosciences](https://opentopography.org/blog/iphone-lidar-applications-geosciences)
 - [Argentine family comes home after 22-year drive around the world](https://uk.news.yahoo.com/argentine-family-comes-home-22-183147817.html)
-- [Secrets to Great API Design](https://www.nylas.com/blog/secrets-to-great-api-design/)
-- [Gemini is a new internet protocol](https://admin.flounder.online/gemini.gmi)
-- [My Pinephone Setup](https://hamblingreen.gitlab.io/2022/03/02/my-pinephone-setup.html)
-- [Veloren is a multiplayer voxel RPG written in Rust](https://www.veloren.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
