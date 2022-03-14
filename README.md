@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Secrets to Great API Design](https://www.nylas.com/blog/secrets-to-great-api-design/)
+- [Gemini is a new internet protocol](https://admin.flounder.online/gemini.gmi)
 - [My Pinephone Setup](https://hamblingreen.gitlab.io/2022/03/02/my-pinephone-setup.html)
 - [Veloren is a multiplayer voxel RPG written in Rust](https://www.veloren.net/)
-- [Cascade: Open-source Node-based image editor with GPU-acceleration](https://github.com/ttddee/Cascade)
-- [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
-- [QSN: A Familiar String Interchange Format &lpar;2020&rpar;](http://www.oilshell.org/release/latest/doc/qsn.html)
+- [Show HN: A Wordle clone made in Google Sheets](https://github.com/sajadmh/google-sheets-wordle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
