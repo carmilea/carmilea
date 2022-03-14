@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple: M1 Ultra Meanings and Consequences](https://mondaynote.com/apple-m1-ultra-meanings-and-consequences-fc32616f4a66)
-- [Google “hijacked millions of customers and orders” from restaurants – lawsuit](https://arstechnica.com/tech-policy/2022/03/google-hijacked-millions-of-customers-and-orders-from-restaurants-lawsuit-says/)
-- [Updates to Google Cloud’s infrastructure capabilities and pricing](https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing)
-- [Photo captures space station crossing the moon in jaw-dropping detail](https://mashable.com/article/space-station-moon-transit-photo)
-- [Open Source Compositing Software for VFX and Motion Graphics](https://natrongithub.github.io/)
+- [Tiny Galaxies Reveal Secrets of Supermassive Black Holes](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
+- [Ask HN: How can scam callers fake a mobile phone number?](https://news.ycombinator.com/item?id=30673009)
+- [USDA announces plans to support innovative American-made fertilizer](https://www.morningagclips.com/usda-announces-plans-to-support-innovative-american-made-fertilizer/)
+- [Launch HN: Living Carbon &lpar;YC W20&rpar; – Building a better tree](https://news.ycombinator.com/item?id=30672841)
+- [Three CISOs Walk into a Startup](https://www.lastweekasavciso.com/p/three-cisos-walk-into-a-startup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
