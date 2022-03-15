@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seafloor changes associated with the degradation of Arctic submarine permafrost](https://www.pnas.org/doi/full/10.1073/pnas.2119105119)
+- [NSA, CISA Release Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF)
 - [Are My Applications Data Intensive?](https://www.singlestore.com/blog/are-my-applications-data-intensive)
 - [Gov. Newsom signs law to stop UC Berkeley enrollment cuts](https://www.latimes.com/california/story/2022-03-14/california-legislature-passes-bill-berkeley-enrollment)
 - [Daily &lpar;YC W16&rpar; Is Hiring Solutions Engineers &lpar;Any Time Zone&rpar;](https://boards.greenhouse.io/daily/jobs/4383908004)
-- [Demand for ornamental plants is ravaging South Africa’s rare desert flora](https://www.nationalgeographic.com/animals/article/tiny-succulents-are-under-siege-from-international-crime-rings)
-- [Please don&#39;t ask founders existential questions](https://david.ae/posts/founder-existential-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
