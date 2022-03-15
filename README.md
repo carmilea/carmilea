@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate votes unanimously to pass bill making Daylight Savings Time permanent](https://twitter.com/SenateCloakroom/status/1503797632745025542)
+- [US Senate unanimously votes to make daylight savings time permanent](https://twitter.com/senatecloakroom/status/1503797632745025542)
+- [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
 - [Google Domains is out of beta](https://domains.google/learn/out-of-beta/)
 - [Go 1.18 Released](https://github.com/golang/go/releases/tag/go1.18)
-- [Popular Tibetan singer Tsewang Norbu dies of self-immolation protest](https://tchrd.org/popular-tibetan-singer-tsewang-norbu-dies-of-self-immolation-protest/)
-- [Future of Work Conversations Are Nothing New, but This Time It&#39;s Definitely Different](https://www.singlestore.com/blog/future-of-work-conversations)
-- [Emerge tools &lpar;YC W21&rpar; is hiring a senior Android engineer](https://www.workatastartup.com/jobs/47879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
