@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Capabilities for GPT-3: Edit and Insert](https://openai.com/blog/gpt-3-edit-insert/)
-- [US Senate votes unanimously to make daylight savings time permanent](https://twitter.com/senatecloakroom/status/1503797632745025542)
-- [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
-- [Rpath, or why lld doesn’t work on NixOS](https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html)
-- [Show HN: I made Devzat – It&#39;s like discord but in the terminal, over SSH](https://news.ycombinator.com/item?id=30688691)
+- [Daily &lpar;YC W16&rpar; Is Hiring Solutions Engineers &lpar;Any Time Zone&rpar;](https://boards.greenhouse.io/daily/jobs/4383908004)
+- [Tiny succulents are under siege from international crime rings](https://www.nationalgeographic.com/animals/article/tiny-succulents-are-under-siege-from-international-crime-rings)
+- [The Next 10 Days Will Decide This War](https://cepa.org/the-next-10-days-will-decide-this-war/)
+- [Please don&#39;t ask founders existential questions](https://david.ae/posts/founder-existential-questions/)
+- [Can making employers share pay in job postings help fix the gender pay gap?](https://19thnews.org/2022/03/equal-pay-day-transparency-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
