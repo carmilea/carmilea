@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are My Applications Data Intensive?](https://www.singlestore.com/blog/are-my-applications-data-intensive)
+- [Gov. Newsom signs law to stop UC Berkeley enrollment cuts](https://www.latimes.com/california/story/2022-03-14/california-legislature-passes-bill-berkeley-enrollment)
 - [Daily &lpar;YC W16&rpar; Is Hiring Solutions Engineers &lpar;Any Time Zone&rpar;](https://boards.greenhouse.io/daily/jobs/4383908004)
-- [Tiny succulents are under siege from international crime rings](https://www.nationalgeographic.com/animals/article/tiny-succulents-are-under-siege-from-international-crime-rings)
-- [The Next 10 Days Will Decide This War](https://cepa.org/the-next-10-days-will-decide-this-war/)
+- [Demand for ornamental plants is ravaging South Africa’s rare desert flora](https://www.nationalgeographic.com/animals/article/tiny-succulents-are-under-siege-from-international-crime-rings)
 - [Please don&#39;t ask founders existential questions](https://david.ae/posts/founder-existential-questions/)
-- [Can making employers share pay in job postings help fix the gender pay gap?](https://19thnews.org/2022/03/equal-pay-day-transparency-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
