@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Has it ever occurred to you that maybe you are an imposter? &lpar;2020&rpar; [pdf]](https://worldatwork.org/media/CDN/publications/workspan/2020/09/d8-09-20_NSFW.pdf)
+- [Android 12 forces you to choose a default browser unless you disable Chrome](https://old.reddit.com/r/GooglePixel/comments/qc02y1/android_12_forces_you_to_choose_a_default_browser/)
 - [Arti 0.1.0: Tor re-written in Rust now has a stable API](https://blog.torproject.org/arti_010_released/)
 - [FreeBSD on the Vortex86DX CPU](https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/)
-- [German Government Agency warns about using Kaspersky](https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2022/220315_Kaspersky-Warnung.html)
 - [International Racquetball Federation Officially Sanctions Racket:Next](https://www.racketnext.com/)
-- [Osm.el – OpenStreetMap Viewer for Emacs](https://github.com/minad/osm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
