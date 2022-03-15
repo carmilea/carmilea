@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
 - [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
 - [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
 - [Writing a device driver for Unix V6](https://mveg.es/posts/writing-a-device-driver-for-unix-v6/)
 - [Some discouraging anecdotes on how services handle account deletions](https://www.ctrl.blog/entry/account-deletions-2021.html)
-- [Podman can transfer container images without a registry](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
