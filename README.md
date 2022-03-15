@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
 - [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
-- [Multiplayer Doom on a $4 Raspberry Pi Pico](https://invidious.kavin.rocks/watch?v=vXr7tOR3dis)
 - [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
 - [Writing a device driver for Unix V6](https://mveg.es/posts/writing-a-device-driver-for-unix-v6/)
+- [Some discouraging anecdotes on how services handle account deletions](https://www.ctrl.blog/entry/account-deletions-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
