@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=af55b7c4e39f)
 - [High prices will outlast the war](https://www.economist.com/finance-and-economics/2022/03/12/can-the-world-cope-without-russias-huge-commodity-stash)
+- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/introduction/)
 - [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
 - [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
-- [Multiplayer Doom on a $4 Raspberry Pi Pico](https://invidious.kavin.rocks/watch?v=vXr7tOR3dis)
-- [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
