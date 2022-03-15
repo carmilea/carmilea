@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
+- [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
+- [Writing a device driver for Unix V6](https://mveg.es/posts/writing-a-device-driver-for-unix-v6/)
 - [Some discouraging anecdotes on how services handle account deletions](https://www.ctrl.blog/entry/account-deletions-2021.html)
-- [Solito – React Native and Next.js unified](https://solito.dev/)
-- [White Castle wants to install robot cooks in 100 new locations](https://misorobotics.com/newsroom/white-castle-expands-partnership-with-miso-robotics-to-install-flippy-2-in-100-new-locations/)
-- [Vibe, Mood, Energy](https://www.thedriftmag.com/vibe-mood-energy/)
-- [Antarctic sea ice hits lowest minimum on record](https://www.nature.com/articles/d41586-022-00550-4)
+- [Podman can transfer container images without a registry](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
