@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Cities should not pay for new stadiums](https://sites.lsa.umich.edu/mje/2022/01/15/cities-should-not-pay-for-new-stadiums/)
+- [So, Beijing Has a Nuclear Pact with Ukraine](https://www.chinadiction.com/p/so-beijing-has-a-nuclear-pact-with)
 - [I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=af55b7c4e39f)
-- [High prices will outlast the war](https://www.economist.com/finance-and-economics/2022/03/12/can-the-world-cope-without-russias-huge-commodity-stash)
-- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/introduction/)
-- [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
-- [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
+- [Umeshisms](https://scottaaronson.blog/?p=40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
