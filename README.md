@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is there a pure SMS based UI?](https://news.ycombinator.com/item?id=30685223)
+- [AMD Fires Back with 7 New Chips, Flagship $449 Ryzen 7 5800X3D Lands April 20](https://www.tomshardware.com/news/amd-ryzen-7-5800x3d-5700X-Ryzen-5-5600-5500-4600G-4500-4100)
+- [Arm to drop up to 15 percent of staff – about 1k people](https://www.theregister.com/2022/03/15/arm_job_cuts/)
 - [CSS-Tricks has been acquired by DigitalOcean](https://css-tricks.com/css-tricks-is-joining-digitalocean/)
-- [Russian tanks in Ukraine are sprouting cages](https://www.economist.com/science-and-technology/russian-tanks-in-ukraine-are-sprouting-cages/21808191)
 - [Android 12 forces you to choose a default browser unless you disable Chrome](https://old.reddit.com/r/GooglePixel/comments/qc02y1/android_12_forces_you_to_choose_a_default_browser/)
-- [Arti 0.1.0: Tor re-written in Rust now has a stable API](https://blog.torproject.org/arti_010_released/)
-- [Chipmaker Arm to cut up to 1k jobs after $40bn sale collapses](https://www.theguardian.com/business/2022/mar/15/uk-chipmaker-arm-cut-jobs-sale-uk-us-nvidia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
