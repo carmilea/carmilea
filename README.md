@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Web 3.0](https://welcome2web3.com)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Cities should not pay for new stadiums](https://sites.lsa.umich.edu/mje/2022/01/15/cities-should-not-pay-for-new-stadiums/)
-- [So, Beijing Has a Nuclear Pact with Ukraine](https://www.chinadiction.com/p/so-beijing-has-a-nuclear-pact-with)
 - [I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=af55b7c4e39f)
 - [Umeshisms](https://scottaaronson.blog/?p=40)
 <!-- BLOG-POST-LIST:END -->
