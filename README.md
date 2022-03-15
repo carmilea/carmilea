@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senate votes unanimously to pass bill making Daylight Savings Time permanent](https://twitter.com/SenateCloakroom/status/1503797632745025542)
-- [US Senate unanimously votes to make daylight savings time permanent](https://twitter.com/senatecloakroom/status/1503797632745025542)
+- [New Capabilities for GPT-3: Edit and Insert](https://openai.com/blog/gpt-3-edit-insert/)
+- [US Senate votes unanimously to make daylight savings time permanent](https://twitter.com/senatecloakroom/status/1503797632745025542)
 - [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
-- [Google Domains is out of beta](https://domains.google/learn/out-of-beta/)
-- [Go 1.18 Released](https://github.com/golang/go/releases/tag/go1.18)
+- [Rpath, or why lld doesn’t work on NixOS](https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html)
+- [Show HN: I made Devzat – It&#39;s like discord but in the terminal, over SSH](https://news.ycombinator.com/item?id=30688691)
 <!-- BLOG-POST-LIST:END -->
 
 ---
