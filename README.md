@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Vimmerse &lpar;YC W22&rpar; – Platform and SDKs to create and play 3D video](https://news.ycombinator.com/item?id=30686027)
-- [Launch HN: Method Financial &lpar;YC S19&rpar; – API to embed debt repayment into your app](https://news.ycombinator.com/item?id=30685921)
-- [The fake Twitter account of “Marina Ovsyannikova” – and how to spot such fakes](https://davidallengreen.com/2022/03/the-fake-twitter-account-of-marina-ovsyannikova-and-how-to-spot-such-fakes/)
-- [Light mode, Dark mode, and Gen-Z mode?](https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode)
-- [AMD Fires Back with 7 New Chips, Flagship $449 Ryzen 7 5800X3D Lands April 20](https://www.tomshardware.com/news/amd-ryzen-7-5800x3d-5700X-Ryzen-5-5600-5500-4600G-4500-4100)
+- [The lovely Ford Mustang Mach-E and the danger of electric cars](https://www.volts.wtf/p/the-lovely-ford-mustang-mach-e-and)
+- [Strype, a Python frame-based editor](https://microbit.org/news/2022-02-24/introducing-strype-a-framebased-editor/)
+- [Show HN: A new LLVM optimization pass that aggressively reduces WebAssembly size](https://news.ycombinator.com/item?id=30686919)
+- [Tree cover loss – 2001-2020](https://www.globalforestwatch.org/map/)
+- [Oxidation Makes “Black Tea” Black](https://www.sophiescuppatea.com/blogs/news/oxidation-makes-tea-black)
 <!-- BLOG-POST-LIST:END -->
 
 ---
