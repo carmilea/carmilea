@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The lovely Ford Mustang Mach-E and the danger of electric cars](https://www.volts.wtf/p/the-lovely-ford-mustang-mach-e-and)
+- [Emerge tools &lpar;YC W21&rpar; is hiring a senior Android engineer](https://www.workatastartup.com/jobs/47879)
+- [OpenSSL security advisory: Infinite loop reachable when parsing certificates](https://www.openssl.org/news/secadv/20220315.txt)
+- [Amazon Relocates Workers Due to Out-of-Control Violence in Downtown Seattle](https://www.newsweek.com/amazon-relocates-workers-due-out-control-violence-downtown-seattle-1687497)
 - [Strype, a Python frame-based editor](https://microbit.org/news/2022-02-24/introducing-strype-a-framebased-editor/)
-- [Show HN: A new LLVM optimization pass that aggressively reduces WebAssembly size](https://news.ycombinator.com/item?id=30686919)
-- [Tree cover loss – 2001-2020](https://www.globalforestwatch.org/map/)
-- [Oxidation Makes “Black Tea” Black](https://www.sophiescuppatea.com/blogs/news/oxidation-makes-tea-black)
+- [PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
