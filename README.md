@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arti 0.1.0: Tor re-written in Rust now has a stable API](https://blog.torproject.org/arti_010_released/)
+- [FreeBSD on the Vortex86DX CPU](https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/)
 - [German Government Agency warns about using Kaspersky](https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2022/220315_Kaspersky-Warnung.html)
 - [International Racquetball Federation Officially Sanctions Racket:Next](https://www.racketnext.com/)
 - [Osm.el – OpenStreetMap Viewer for Emacs](https://github.com/minad/osm)
-- [Welcome to Web 3.0](https://welcome2web3.com)
-- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
