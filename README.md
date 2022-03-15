@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Has it ever occurred to you that maybe you are an imposter? &lpar;2020&rpar; [pdf]](https://worldatwork.org/media/CDN/publications/workspan/2020/09/d8-09-20_NSFW.pdf)
+- [CSS-Tricks has been acquired by DigitalOcean](https://css-tricks.com/css-tricks-is-joining-digitalocean/)
+- [Russian tanks in Ukraine are sprouting cages](https://www.economist.com/science-and-technology/russian-tanks-in-ukraine-are-sprouting-cages/21808191)
 - [Android 12 forces you to choose a default browser unless you disable Chrome](https://old.reddit.com/r/GooglePixel/comments/qc02y1/android_12_forces_you_to_choose_a_default_browser/)
 - [Arti 0.1.0: Tor re-written in Rust now has a stable API](https://blog.torproject.org/arti_010_released/)
-- [FreeBSD on the Vortex86DX CPU](https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/)
-- [International Racquetball Federation Officially Sanctions Racket:Next](https://www.racketnext.com/)
+- [Chipmaker Arm to cut up to 1k jobs after $40bn sale collapses](https://www.theguardian.com/business/2022/mar/15/uk-chipmaker-arm-cut-jobs-sale-uk-us-nvidia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
