@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Domains is out of beta](https://domains.google/learn/out-of-beta/)
+- [Go 1.18 Released](https://github.com/golang/go/releases/tag/go1.18)
+- [Popular Tibetan singer Tsewang Norbu dies of self-immolation protest](https://tchrd.org/popular-tibetan-singer-tsewang-norbu-dies-of-self-immolation-protest/)
+- [Future of Work Conversations Are Nothing New, but This Time It&#39;s Definitely Different](https://www.singlestore.com/blog/future-of-work-conversations)
 - [Emerge tools &lpar;YC W21&rpar; is hiring a senior Android engineer](https://www.workatastartup.com/jobs/47879)
-- [OpenSSL security advisory: Infinite loop reachable when parsing certificates](https://www.openssl.org/news/secadv/20220315.txt)
-- [Amazon Relocates Workers Due to Out-of-Control Violence in Downtown Seattle](https://www.newsweek.com/amazon-relocates-workers-due-out-control-violence-downtown-seattle-1687497)
-- [Strype, a Python frame-based editor](https://microbit.org/news/2022-02-24/introducing-strype-a-framebased-editor/)
-- [PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
