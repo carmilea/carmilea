@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make Docker images even smaller](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
+- [Show HN: Partially encrypt a file based on its HEREDOCs](https://news.ycombinator.com/item?id=30703161)
+- [Federal Reserve hikes interest rate by 25 bps, first hike since 2018](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm)
 - [5 Charged with Stalking, Harassing, Spying on US Residents for PRC Secret Police](https://www.justice.gov/opa/pr/five-individuals-charged-variously-stalking-harassing-and-spying-us-residents-behalf-prc-0)
 - [Famous Navy UFO Video Was Camera Glare, Evidence Suggests](https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/)
-- [What You Can&#39;t Say &lpar;2004&rpar;](http://www.paulgraham.com/say.html)
-- [Typography Is Impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891?gi=14f21e50b8a9)
-- [US Copyright Office won&#39;t accept AI-generated work, requires “human authorship”](https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
