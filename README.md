@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norwegian developer job board for Ukrainian refugees](https://www.kode24.no/tech-jobs-norway)
-- [First Ever Eco-Certified Computer Program: KDE&#39;s Popular PDF Reader Okular](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)
-- [Masks on planes requirement dropped by some UK airlines](https://www.cnn.com/travel/article/british-airways-virgin-atlantic-remove-face-masks-certain-flights/index.html)
-- [Update Firmware of Samsung SSDs in Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/)
-- [Ask HN: Full-text browser history search forever?](https://news.ycombinator.com/item?id=30696451)
+- [Tell HN: I can&#39;t buy a PS4 because of my email](https://news.ycombinator.com/item?id=30697838)
+- [Litnerd &lpar;YC S21&rpar; Is Hiring Senior Full Stack Developer](https://www.ycombinator.com/companies/litnerd/jobs/v4OjVud-senior-fullstack-developer-at-litnerd)
+- [Technical Time Travel: On Vintage Programming Books](https://tiemoko.com/blog/vintage-tech-books/)
+- [The Last i486 Online](http://last486.online/)
+- [MSFT demonstrates formerly elusive physics needed to build scalable qubits](https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
