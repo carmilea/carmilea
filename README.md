@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Update Firmware of Samsung SSDs in Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/)
 - [Ask HN: Full-text browser history search forever?](https://news.ycombinator.com/item?id=30696451)
-- [Twitter Experimenting with “Autoblocking”](https://help.twitter.com/en/safety-and-security/autoblock)
 - [BiglyBT is a feature filled, open source, ad-free, BitTorrent client](https://www.biglybt.com/)
 - [Plasticity Is CAD for Artists](https://github.com/nkallen/plasticity)
+- [What is: Linux keyring, gnome-keyring, Secret Service, and D-Bus &lpar;2019&rpar;](https://rtfm.co.ua/en/what-is-linux-keyring-gnome-keyring-secret-service-and-d-bus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
