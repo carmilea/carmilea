@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla fired an employee after he posted driverless tech reviews on YouTube](https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html)
+- [Show HN: Create your own complete UI color system easy as 1-2-3](https://github.com/arnelenero/simpler-color)
 - [Tiny WASI – A tiny WASI runtime written in TypeScript](https://github.com/qrdate/tinywasi)
 - [Type Polymorphic Functions in TypeScript](https://www.zhenghao.io/posts/type-functions)
 - [RDP Clients for Debian: An incomplete review](https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html)
