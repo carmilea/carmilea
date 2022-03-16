@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Curri &lpar;YC S19&rpar; Is Hiring a VP, Sales](https://www.ycombinator.com/companies/curri/jobs/HzZxQJd-vice-president-of-sales-us-remote)
-- [FlyZero Unveils Final Hydrogen-Powered Airliner Concepts](https://aviationweek.com/special-topics/sustainability/flyzero-unveils-final-hydrogen-powered-airliner-concepts)
-- [Vectorizing the Code of Federal Regulations](https://max.io/blog/encoding-the-federal-register.html?r=1)
-- [Hands-On with PostgreSQL Authorization – Part 2 – Row-Level Security](https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security)
-- [Launch HN: PropelAuth &lpar;YC W22&rpar; – End-to-end auth service for B2B products](https://news.ycombinator.com/item?id=30700770)
+- [US Copyright Office won&#39;t accept AI-generated work, requires “human authorship”](https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html)
+- [Nova 9](https://nova.app/releases/?ref=elist)
+- [How to Set Prices for Handmade Goods](https://www.workshopmag.com/pricing-basics/)
+- [How our free plan stays free](https://tailscale.com/blog/free-plan/)
+- [Show HN: Civic – Online Hub for Causes](https://news.ycombinator.com/item?id=30701377)
 <!-- BLOG-POST-LIST:END -->
 
 ---
