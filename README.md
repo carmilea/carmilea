@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norwegian developer job board for Ukrainian refugees](https://www.kode24.no/tech-jobs-norway)
+- [First Ever Eco-Certified Computer Program: KDE&#39;s Popular PDF Reader Okular](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)
+- [Masks on planes requirement dropped by some UK airlines](https://www.cnn.com/travel/article/british-airways-virgin-atlantic-remove-face-masks-certain-flights/index.html)
 - [Update Firmware of Samsung SSDs in Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/)
 - [Ask HN: Full-text browser history search forever?](https://news.ycombinator.com/item?id=30696451)
-- [BiglyBT is a feature filled, open source, ad-free, BitTorrent client](https://www.biglybt.com/)
-- [Plasticity Is CAD for Artists](https://github.com/nkallen/plasticity)
-- [What is: Linux keyring, gnome-keyring, Secret Service, and D-Bus &lpar;2019&rpar;](https://rtfm.co.ua/en/what-is-linux-keyring-gnome-keyring-secret-service-and-d-bus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
