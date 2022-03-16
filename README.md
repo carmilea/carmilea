@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: I can&#39;t buy a PS4 because of my email](https://news.ycombinator.com/item?id=30697838)
-- [Litnerd &lpar;YC S21&rpar; Is Hiring Senior Full Stack Developer](https://www.ycombinator.com/companies/litnerd/jobs/v4OjVud-senior-fullstack-developer-at-litnerd)
-- [Technical Time Travel: On Vintage Programming Books](https://tiemoko.com/blog/vintage-tech-books/)
-- [The Last i486 Online](http://last486.online/)
-- [MSFT demonstrates formerly elusive physics needed to build scalable qubits](https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/)
+- [Ask HN: Is it normal to be ghosted for senior position job interviews?](https://news.ycombinator.com/item?id=30698269)
+- [Launch HN: Sarus &lpar;YC W22&rpar; – Work on sensitive data with differential privacy](https://news.ycombinator.com/item?id=30698215)
+- [Are there limits to economic growth?](https://www.nature.com/articles/d41586-022-00723-1)
+- [Dual use of artificial-intelligence-powered drug discovery](https://www.nature.com/articles/s42256-022-00465-9)
+- [Home Depot Finds DIY Success with Vector Search](https://www.datanami.com/2022/03/15/home-depot-finds-diy-success-with-vector-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
