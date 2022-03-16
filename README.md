@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Magnitude 7.3 earthquake off the Coast of Fukushima Prefecture](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20220316234055&lang=en)
-- [On Killing Tanks &lpar;2020&rpar;](https://mwi.usma.edu/on-killing-tanks/)
-- [Graphwar](https://store.steampowered.com/app/1899700/Graphwar/)
-- [Firms Must Report Hacks to DHS in 72 Hours Under Law](https://www.bloombergquint.com/onweb/biden-signs-law-requiring-firms-to-report-hacks-in-72-hours)
-- [Google seems to have signed me up for Google Pay without asking](https://twitter.com/paulg/status/1504079288051589120)
+- [Launch HN: PropelAuth &lpar;YC W22&rpar; – End-to-end auth service for B2B products](https://news.ycombinator.com/item?id=30700770)
+- [Antiproton Orbiting Helium Ion](https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/)
+- [Skunk Works Reveals Compact Fusion Reactor Details &lpar;2014&rpar;](https://aviationweek.com/aerospace/skunk-works-reveals-compact-fusion-reactor-details)
+- [libmill - Go-style concurrency in C](http://libmill.org/index.html)
+- [The Beautiful Mind-Bending of Stanislaw Lem &lpar;2019&rpar;](https://www.newyorker.com/culture/culture-desk/the-beautiful-mind-bending-of-stanislaw-lem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
