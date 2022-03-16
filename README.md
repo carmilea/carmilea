@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Charged with Stalking, Harassing, Spying on US Residents for PRC Secret Police](https://www.justice.gov/opa/pr/five-individuals-charged-variously-stalking-harassing-and-spying-us-residents-behalf-prc-0)
+- [Famous Navy UFO Video Was Camera Glare, Evidence Suggests](https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/)
+- [What You Can&#39;t Say &lpar;2004&rpar;](http://www.paulgraham.com/say.html)
+- [Typography Is Impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891?gi=14f21e50b8a9)
 - [US Copyright Office won&#39;t accept AI-generated work, requires “human authorship”](https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html)
-- [Nova 9](https://nova.app/releases/?ref=elist)
-- [How to Set Prices for Handmade Goods](https://www.workshopmag.com/pricing-basics/)
-- [How our free plan stays free](https://tailscale.com/blog/free-plan/)
-- [Show HN: Civic – Online Hub for Causes](https://news.ycombinator.com/item?id=30701377)
 <!-- BLOG-POST-LIST:END -->
 
 ---
