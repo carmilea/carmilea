@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Derek Lowe: Deliberately Optimizing for Harm](https://www.science.org/content/blog-post/deliberately-optimizing-harm)
-- [Continental Europe successfully synced with Ukraine and Moldova power systems](https://www.entsoe.eu/news/2022/03/16/continental-europe-successful-synchronisation-with-ukraine-and-moldova-power-systems/)
-- [Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins)
-- [Launch HN: Sarus &lpar;YC W22&rpar; – Work on sensitive data with differential privacy](https://news.ycombinator.com/item?id=30698215)
-- [Are there limits to economic growth?](https://www.nature.com/articles/d41586-022-00723-1)
+- [Magnitude 7.3 earthquake off the Coast of Fukushima Prefecture](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20220316234055&lang=en)
+- [On Killing Tanks &lpar;2020&rpar;](https://mwi.usma.edu/on-killing-tanks/)
+- [Graphwar](https://store.steampowered.com/app/1899700/Graphwar/)
+- [Firms Must Report Hacks to DHS in 72 Hours Under Law](https://www.bloombergquint.com/onweb/biden-signs-law-requiring-firms-to-report-hacks-in-72-hours)
+- [Google seems to have signed me up for Google Pay without asking](https://twitter.com/paulg/status/1504079288051589120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
