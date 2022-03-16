@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is it normal to be ghosted for senior position job interviews?](https://news.ycombinator.com/item?id=30698269)
+- [Derek Lowe: Deliberately Optimizing for Harm](https://www.science.org/content/blog-post/deliberately-optimizing-harm)
+- [Continental Europe successfully synced with Ukraine and Moldova power systems](https://www.entsoe.eu/news/2022/03/16/continental-europe-successful-synchronisation-with-ukraine-and-moldova-power-systems/)
+- [Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins)
 - [Launch HN: Sarus &lpar;YC W22&rpar; – Work on sensitive data with differential privacy](https://news.ycombinator.com/item?id=30698215)
 - [Are there limits to economic growth?](https://www.nature.com/articles/d41586-022-00723-1)
-- [Dual use of artificial-intelligence-powered drug discovery](https://www.nature.com/articles/s42256-022-00465-9)
-- [Home Depot Finds DIY Success with Vector Search](https://www.datanami.com/2022/03/15/home-depot-finds-diy-success-with-vector-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
