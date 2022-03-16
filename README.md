@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curri &lpar;YC S19&rpar; Is Hiring a VP, Sales](https://www.ycombinator.com/companies/curri/jobs/HzZxQJd-vice-president-of-sales-us-remote)
+- [FlyZero Unveils Final Hydrogen-Powered Airliner Concepts](https://aviationweek.com/special-topics/sustainability/flyzero-unveils-final-hydrogen-powered-airliner-concepts)
+- [Vectorizing the Code of Federal Regulations](https://max.io/blog/encoding-the-federal-register.html?r=1)
+- [Hands-On with PostgreSQL Authorization – Part 2 – Row-Level Security](https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security)
 - [Launch HN: PropelAuth &lpar;YC W22&rpar; – End-to-end auth service for B2B products](https://news.ycombinator.com/item?id=30700770)
-- [Antiproton Orbiting Helium Ion](https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/)
-- [Skunk Works Reveals Compact Fusion Reactor Details &lpar;2014&rpar;](https://aviationweek.com/aerospace/skunk-works-reveals-compact-fusion-reactor-details)
-- [libmill - Go-style concurrency in C](http://libmill.org/index.html)
-- [The Beautiful Mind-Bending of Stanislaw Lem &lpar;2019&rpar;](https://www.newyorker.com/culture/culture-desk/the-beautiful-mind-bending-of-stanislaw-lem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
