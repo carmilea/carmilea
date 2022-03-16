@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla fired an employee after he posted driverless tech reviews on YouTube](https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html)
+- [Tiny WASI – A tiny WASI runtime written in TypeScript](https://github.com/qrdate/tinywasi)
+- [Type Polymorphic Functions in TypeScript](https://www.zhenghao.io/posts/type-functions)
+- [Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics](https://hotdoglinux.com/)
 - [Seafloor changes associated with the degradation of Arctic submarine permafrost](https://www.pnas.org/doi/full/10.1073/pnas.2119105119)
-- [NSA, CISA Release Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF)
-- [Are My Applications Data Intensive?](https://www.singlestore.com/blog/are-my-applications-data-intensive)
-- [Gov. Newsom signs law to stop UC Berkeley enrollment cuts](https://www.latimes.com/california/story/2022-03-14/california-legislature-passes-bill-berkeley-enrollment)
-- [Daily &lpar;YC W16&rpar; Is Hiring Solutions Engineers &lpar;Any Time Zone&rpar;](https://boards.greenhouse.io/daily/jobs/4383908004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
