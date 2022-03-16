@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radical Interoperability Is a Political Agenda](https://dorian.substack.com/p/radical-interoperability-is-a-political)
+- [San Francisco VC firm required job applicants to take online IQ test](https://www.sfgate.com/bayarea/article/VC-firm-had-applicants-take-IQ-test-17004063.php)
+- [What is: Linux keyring, gnome-keyring, Secret Service, and D-Bus &lpar;2019&rpar;](https://rtfm.co.ua/en/what-is-linux-keyring-gnome-keyring-secret-service-and-d-bus/)
 - [Show HN: Create your own complete UI color system easy as 1-2-3](https://github.com/arnelenero/simpler-color)
 - [Tiny WASI – A tiny WASI runtime written in TypeScript](https://github.com/qrdate/tinywasi)
-- [Type Polymorphic Functions in TypeScript](https://www.zhenghao.io/posts/type-functions)
-- [RDP Clients for Debian: An incomplete review](https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html)
-- [Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics](https://hotdoglinux.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
