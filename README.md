@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compound &lpar;YC S19&rpar; is hiring to build a bank/wealth manager for startup employees](https://jobs.ashbyhq.com/compound)
+- [Ask HN: Can we have a conversation on startup swag waste?](https://news.ycombinator.com/item?id=30715727)
+- [Kaitai Struct: A new way to develop parsers for binary structures](https://kaitai.io/)
+- [Intel Financialized and Lost Leadership in Semiconductor Fabrication](https://www.ineteconomics.org/perspectives/blog/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication)
 - [Show HN: A Graphviz Implementation in Rust](https://github.com/nadavrot/layout)
-- [Each Firefox download has a unique identifier](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/)
-- [Driving TFEL LCD Panels with RP2040: Offloading the CPU Step by Step](https://www.zephray.me/post/rpi_pico_driving_el/)
-- [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation)
-- [Vintage Startup Employee Swag?](https://news.ycombinator.com/item?id=30714463)
 <!-- BLOG-POST-LIST:END -->
 
 ---
