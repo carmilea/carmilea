@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues](https://www.githubstatus.com/incidents/sksd097hm0y5)
+- [Deno 1.20](https://deno.com/blog/v1.20)
+- [A curated list of falsehoods programmers believe](https://github.com/kdeldycke/awesome-falsehood)
 - [H.264 is magic: a technical walkthrough](https://sidbala.com/h-264-is-magic/)
-- [Ceph with a failed hardware raid controller on Huawei](https://news.ycombinator.com/item?id=30710538)
 - [MaskerAid iOS App](https://www.caseyliss.com/2022/3/3/maskeraid)
-- [Y Combinator is hiring a product engineer for Startup School](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
-- [OpenConfig: Vendor-neutral, model-driven network management designed by users](https://www.openconfig.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
