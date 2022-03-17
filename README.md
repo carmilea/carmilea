@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s my place in the world population and how long will I live?](https://population.io/)
 - [Does Wordle Prove That We Can Have Nice Things on the Internet?](https://www.newyorker.com/tech/annals-of-technology/does-wordle-prove-that-we-can-have-nice-things-on-the-internet)
 - [Hacker News personal ranking app](https://github.com/joelgrus/hackernews)
 - [Fuchsia IDL Overview](https://fuchsia.dev/fuchsia-src/concepts/fidl/overview)
 - [California bill would let parents sue social media companies](https://www.latimes.com/business/technology/story/2022-03-16/california-bill-would-let-parents-sue-social-media-companies-for-addicting-kids)
-- [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
