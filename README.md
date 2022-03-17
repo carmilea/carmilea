@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Hiring Machine Learning Engineers to Make Global Trade Seamless](https://flexport.com/careers)
+- [I found a security issue on a competitor, got fired and served a summons](https://accidhacker.wordpress.com/2022/03/16/i-found-a-security-issue-on-a-competitor-got-fired-and-served-a-summons/)
+- [TUIs](https://github.com/rothgar/awesome-tuis)
 - [C Isn&#39;t a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
-- [Making Sense of Web3](https://lifeitself.us/2022/03/16/making-sense-of-crypto-and-web3-launch/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30704042)
 - [NPM package compromised by author: erases files on RU / BY computers on install](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
-- [Deno Is Webby](https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
