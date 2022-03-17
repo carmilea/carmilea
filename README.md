@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
+- [Ask HN: Anyone have stock option horror stories?](https://news.ycombinator.com/item?id=30706743)
 - [Flexport Is Hiring Machine Learning Engineers to Make Global Trade Seamless](https://flexport.com/careers)
 - [I found a security issue on a competitor, got fired and served a summons](https://accidhacker.wordpress.com/2022/03/16/i-found-a-security-issue-on-a-competitor-got-fired-and-served-a-summons/)
 - [TUIs](https://github.com/rothgar/awesome-tuis)
-- [C Isn&#39;t a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
-- [NPM package compromised by author: erases files on RU / BY computers on install](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
