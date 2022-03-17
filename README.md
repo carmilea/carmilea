@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [H.264 is magic: a technical walkthrough](https://sidbala.com/h-264-is-magic/)
+- [Ceph with a failed hardware raid controller on Huawei](https://news.ycombinator.com/item?id=30710538)
+- [MaskerAid iOS App](https://www.caseyliss.com/2022/3/3/maskeraid)
 - [Y Combinator is hiring a product engineer for Startup School](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
-- [An Antimatter Experiment Shows Surprises Near Absolute Zero](https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/)
-- [Entitlement issues &lpar;2009&rpar;](https://journal.neilgaiman.com/2009/05/entitlement-issues.html)
-- [Microsoft to build energy efficient, heat-producing data centre in Finland](https://yle.fi/news/3-12363215)
-- [Show HN: PDF API – Generate, convert, and modify PDF documents](https://news.ycombinator.com/item?id=30709524)
+- [OpenConfig: Vendor-neutral, model-driven network management designed by users](https://www.openconfig.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
