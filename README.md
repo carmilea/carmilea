@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zotero 6](https://www.zotero.org/blog/zotero-6/)
+- [HP 5036A Microprocessor Lab](http://azurelectronics.com/HP%205036A%20Microprocessor%20Lab.htm)
+- [Detecting Node Event Loop Blockers](https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers)
 - [MindsDB &lpar;YC W20&rpar; is hiring a creative marketing designer](https://www.ycombinator.com/companies/mindsdb/jobs/AKV7TWM-creative-marketing-designer)
-- [Show HN: Covid – How did you fare?](https://michaelboerman.shinyapps.io/covid_percentiles/?_ga=2.260039498.1126042276.1647526695-1317954134.1647284280)
 - [Ask HN: Yahoo disregarding RFC 5321 retries](https://news.ycombinator.com/item?id=30713068)
-- [BPG Image Format](https://bellard.org/bpg/)
-- [Launch HN: AirMyne &lpar;YC W22&rpar; – Capturing CO2 from air at industrial scale](https://news.ycombinator.com/item?id=30712229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
