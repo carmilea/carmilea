@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you protect your emergency fund from inflation?](https://news.ycombinator.com/item?id=30708560)
 - [Lapce — Lightning-fast and Powerful Code Editor, written in Rust](https://lapce.dev/)
 - [What&#39;s my place in the world population and how long will I live?](https://population.io/)
-- [Does Wordle Prove That We Can Have Nice Things on the Internet?](https://www.newyorker.com/tech/annals-of-technology/does-wordle-prove-that-we-can-have-nice-things-on-the-internet)
 - [Hacker News personal ranking app](https://github.com/joelgrus/hackernews)
 - [Fuchsia IDL Overview](https://fuchsia.dev/fuchsia-src/concepts/fidl/overview)
 <!-- BLOG-POST-LIST:END -->
