@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation)
+- [Vintage Startup Employee Swag?](https://news.ycombinator.com/item?id=30714463)
+- [Amazon&#39;s new role-playing game can help you build your AWS skills](https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills)
+- [Doctors often turn to Google Translate to talk to patients; want a better option](https://www.statnews.com/2022/03/16/google-translate-health-care-english/)
 - [Zotero 6](https://www.zotero.org/blog/zotero-6/)
-- [HP 5036A Microprocessor Lab](http://azurelectronics.com/HP%205036A%20Microprocessor%20Lab.htm)
-- [Detecting Node Event Loop Blockers](https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers)
-- [MindsDB &lpar;YC W20&rpar; is hiring a creative marketing designer](https://www.ycombinator.com/companies/mindsdb/jobs/AKV7TWM-creative-marketing-designer)
-- [Ask HN: Yahoo disregarding RFC 5321 retries](https://news.ycombinator.com/item?id=30713068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
