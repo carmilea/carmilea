@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [California bill would let parents sue social media companies](https://www.latimes.com/business/technology/story/2022-03-16/california-bill-would-let-parents-sue-social-media-companies-for-addicting-kids)
 - [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
+- [Ask HN: Anyone have stock option horror stories?](https://news.ycombinator.com/item?id=30706743)
 - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 - [Flexport Is Hiring Machine Learning Engineers to Make Global Trade Seamless](https://flexport.com/careers)
-- [I found a security issue on a competitor, got fired and served a summons](https://accidhacker.wordpress.com/2022/03/16/i-found-a-security-issue-on-a-competitor-got-fired-and-served-a-summons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
