@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Semiconductors Are More Than Just Processors and GPUs. A Lot More](https://blog.robertelder.org/semiconductor-example-uses/)
+- [Amazon completes its $8.5 billion acquisition of MGM](https://techcrunch.com/2022/03/17/amazon-completes-its-8-5-billion-acquisition-of-mgm/)
+- [Microsoft accidentally reveals that it is testing ads in Windows Explorer](https://arstechnica.com/gadgets/2022/03/microsoft-accidentally-reveals-that-it-is-testing-ads-in-windows-explorer/)
 - [Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues](https://www.githubstatus.com/incidents/sksd097hm0y5)
 - [Deno 1.20](https://deno.com/blog/v1.20)
-- [A curated list of falsehoods programmers believe](https://github.com/kdeldycke/awesome-falsehood)
-- [H.264 is magic: a technical walkthrough](https://sidbala.com/h-264-is-magic/)
-- [MaskerAid iOS App](https://www.caseyliss.com/2022/3/3/maskeraid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
