@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator is hiring a product engineer for Startup School](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
+- [An Antimatter Experiment Shows Surprises Near Absolute Zero](https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/)
+- [Entitlement issues &lpar;2009&rpar;](https://journal.neilgaiman.com/2009/05/entitlement-issues.html)
+- [Microsoft to build energy efficient, heat-producing data centre in Finland](https://yle.fi/news/3-12363215)
 - [Show HN: PDF API – Generate, convert, and modify PDF documents](https://news.ycombinator.com/item?id=30709524)
-- [In-flight surgery with a coat-hanger and silverware](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware)
-- [Lapce – Fast open-source code editor](https://lapce.dev/)
-- [What&#39;s my place in the world population?](https://population.io/)
-- [Hacker News personal ranking app &lpar;2012&rpar;](https://github.com/joelgrus/hackernews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
