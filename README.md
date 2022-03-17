@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A Graphviz Implementation in Rust](https://github.com/nadavrot/layout)
+- [Each Firefox download has a unique identifier](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/)
+- [Driving TFEL LCD Panels with RP2040: Offloading the CPU Step by Step](https://www.zephray.me/post/rpi_pico_driving_el/)
 - [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation)
 - [Vintage Startup Employee Swag?](https://news.ycombinator.com/item?id=30714463)
-- [Amazon&#39;s new role-playing game can help you build your AWS skills](https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills)
-- [Doctors often turn to Google Translate to talk to patients; want a better option](https://www.statnews.com/2022/03/16/google-translate-health-care-english/)
-- [Zotero 6](https://www.zotero.org/blog/zotero-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
