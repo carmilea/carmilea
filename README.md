@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Semiconductors Are More Than Just Processors and GPUs. A Lot More](https://blog.robertelder.org/semiconductor-example-uses/)
-- [Amazon completes its $8.5 billion acquisition of MGM](https://techcrunch.com/2022/03/17/amazon-completes-its-8-5-billion-acquisition-of-mgm/)
-- [Microsoft accidentally reveals that it is testing ads in Windows Explorer](https://arstechnica.com/gadgets/2022/03/microsoft-accidentally-reveals-that-it-is-testing-ads-in-windows-explorer/)
-- [Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues](https://www.githubstatus.com/incidents/sksd097hm0y5)
-- [Deno 1.20](https://deno.com/blog/v1.20)
+- [Launch HN: AirMyne &lpar;YC W22&rpar; – Capturing CO2 from air at industrial scale](https://news.ycombinator.com/item?id=30712229)
+- [Court finds calling stuff open source when it&#39;s not is false advertising](https://opensource.org/court-affirms-its-false-advertising-to-claim-software-is-open-source-when-its-not)
+- [The FTC’s new enforcement weapon spells death for algorithms](https://www.protocol.com/policy/ftc-algorithm-destroy-data-privacy)
+- [Ask HN: What is your Git commit/push flow?](https://news.ycombinator.com/item?id=30712175)
+- [The glibc s390 ABI break &lpar;2014&rpar;](https://lwn.net/Articles/605607/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
