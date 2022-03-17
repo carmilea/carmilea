@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB &lpar;YC W20&rpar; is hiring a creative marketing designer](https://www.ycombinator.com/companies/mindsdb/jobs/AKV7TWM-creative-marketing-designer)
+- [Show HN: Covid – How did you fare?](https://michaelboerman.shinyapps.io/covid_percentiles/?_ga=2.260039498.1126042276.1647526695-1317954134.1647284280)
+- [Ask HN: Yahoo disregarding RFC 5321 retries](https://news.ycombinator.com/item?id=30713068)
+- [BPG Image Format](https://bellard.org/bpg/)
 - [Launch HN: AirMyne &lpar;YC W22&rpar; – Capturing CO2 from air at industrial scale](https://news.ycombinator.com/item?id=30712229)
-- [Court finds calling stuff open source when it&#39;s not is false advertising](https://opensource.org/court-affirms-its-false-advertising-to-claim-software-is-open-source-when-its-not)
-- [The FTC’s new enforcement weapon spells death for algorithms](https://www.protocol.com/policy/ftc-algorithm-destroy-data-privacy)
-- [Ask HN: What is your Git commit/push flow?](https://news.ycombinator.com/item?id=30712175)
-- [The glibc s390 ABI break &lpar;2014&rpar;](https://lwn.net/Articles/605607/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
