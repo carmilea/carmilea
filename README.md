@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hot-code reloading Native macOS/arm64 apps with Zig](http://www.jakubkonka.com/2022/03/16/hcs-zig.html)
+- [Photography is not Objective, Art is a Set of Choices](https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html)
 - [Compound &lpar;YC S19&rpar; is hiring to build a bank/wealth manager for startup employees](https://jobs.ashbyhq.com/compound)
 - [Ask HN: Can we have a conversation on startup swag waste?](https://news.ycombinator.com/item?id=30715727)
 - [Kaitai Struct: A new way to develop parsers for binary structures](https://kaitai.io/)
-- [Intel Financialized and Lost Leadership in Semiconductor Fabrication](https://www.ineteconomics.org/perspectives/blog/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication)
-- [Show HN: A Graphviz Implementation in Rust](https://github.com/nadavrot/layout)
 <!-- BLOG-POST-LIST:END -->
 
 ---
