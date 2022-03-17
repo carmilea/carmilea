@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you protect your emergency fund from inflation?](https://news.ycombinator.com/item?id=30708560)
-- [Lapce — Lightning-fast and Powerful Code Editor, written in Rust](https://lapce.dev/)
-- [What&#39;s my place in the world population and how long will I live?](https://population.io/)
-- [Hacker News personal ranking app](https://github.com/joelgrus/hackernews)
+- [In-flight surgery with a coat-hanger and silverware](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware)
+- [Lapce – Fast open-source code editor](https://lapce.dev/)
+- [What&#39;s my place in the world population?](https://population.io/)
+- [Hacker News personal ranking app &lpar;2012&rpar;](https://github.com/joelgrus/hackernews)
 - [Fuchsia IDL Overview](https://fuchsia.dev/fuchsia-src/concepts/fidl/overview)
 <!-- BLOG-POST-LIST:END -->
 
