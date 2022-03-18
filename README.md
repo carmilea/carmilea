@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyday Magic in the Middle Ages &lpar;2021&rpar;](https://www.medievalists.net/2021/09/everyday-magic-middle-ages/)
+- [Bored Ape Yacht Club Owner Uses IP Ownership Rights to Open Restaurant](https://hypebeast.com/2022/3/bored-ape-yacht-club-owner-ip-ownership-rights-open-restaurant-bored-hungry-info)
+- [Paaster – Secure by default end to end encrypted pastebin](https://github.com/WardPearce/paaster)
 - [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
 - [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
-- [Forage &lpar;YC S21&rpar; is hiring senior engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
-- [A Summary of OAuth 2.0 Attack Methods](https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html)
-- [Node-ipc supply chain attack: peacenotwar](https://github.com/RIAEvangelist/peacenotwar/blob/main/WITH-LOVE-FROM-AMERICA.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
