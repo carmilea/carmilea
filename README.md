@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools](https://readme.com/careers#cto)
+- [Alexandria Search](https://www.alexandria.org/)
+- [Court affirms imported beef still allowed to be labeled &quot;Product of USA&quot;](https://www.foodsafetynews.com/2022/03/product-of-u-s-a-or-not-system-doesnt-bother-denvers-10th-circuit-court/)
+- [How Zillow&#39;s homebuying scheme lost $881M](https://fullstackeconomics.com/why-zillow-is-like-my-bad-fantasy-football-team/)
 - [Show HN: Calenday, real-time collaborative calendars for trip planning](https://calenday.co/?ref=hn)
-- [Amazon intentionally made it hard to cancel Prime subscription in secret project](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
-- [Dav1d, fast AV1 decoder, version 1.0.0 released](https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS)
-- [Serverless site analytics with Clojure nbb and AWS](https://www.loop-code-recur.io/simple-site-analytics-with-serverless-clojure/)
-- [Looming food shortages is the next ‘slow-moving disaster’ to hit world](https://nypost.com/2022/03/17/looming-food-shortages-is-worlds-next-slow-moving-disaster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
