@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future is Vast: Long-term perspective on humanitys past, present and future](https://ourworldindata.org/longtermism)
+- [Ask HN: Is Public WiFi Dangerous?](https://news.ycombinator.com/item?id=30724830)
 - [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools](https://readme.com/careers#cto)
 - [Alexandria Search](https://www.alexandria.org/)
 - [Court affirms imported beef still allowed to be labeled &quot;Product of USA&quot;](https://www.foodsafetynews.com/2022/03/product-of-u-s-a-or-not-system-doesnt-bother-denvers-10th-circuit-court/)
-- [How Zillow&#39;s homebuying scheme lost $881M](https://fullstackeconomics.com/why-zillow-is-like-my-bad-fantasy-football-team/)
-- [Show HN: Calenday, real-time collaborative calendars for trip planning](https://calenday.co/?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
