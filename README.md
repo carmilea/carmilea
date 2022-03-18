@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is Vast: Long-term perspective on humanitys past, present and future](https://ourworldindata.org/longtermism)
-- [Ask HN: Is Public WiFi Dangerous?](https://news.ycombinator.com/item?id=30724830)
-- [ReadMe &lpar;YC W15&rpar; is hiring a CTO who loves devtools](https://readme.com/careers#cto)
-- [Alexandria Search](https://www.alexandria.org/)
-- [Court affirms imported beef still allowed to be labeled &quot;Product of USA&quot;](https://www.foodsafetynews.com/2022/03/product-of-u-s-a-or-not-system-doesnt-bother-denvers-10th-circuit-court/)
+- [On the Weaponisation of Open Source](https://beny23.github.io/posts/on_weaponisation_of_open_source/)
+- [I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/)
+- [Software is no longer sold; it&#39;s adopted](https://orbit.love/blog/software-is-no-longer-sold-its-adopted)
+- [US schools can subscribe to an electric bus fleet at lower prices than diesel](https://www.canarymedia.com/articles/clean-fleets/us-schools-can-subscribe-to-an-electric-school-bus-fleet-at-prices-that-beat-diesel)
+- [Doorway to an Augmented Reality Future–Intensity Control of Parallel Projectors](https://www.titech.ac.jp/english/news/2022/063438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
