@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Small subgroups of the population seem much larger to many Americans](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)
 - [How Putin’s Oligarchs Bought London](https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london)
+- [Show HN: Edrys – an open-source remote teaching platform](https://github.com/edrys-org/edrys)
+- [WireGuard DNS Configuration for Systemd](https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/)
 - [Global-Tz – 2022ag &lpar;Beta&rpar;](https://mm.icann.org/pipermail/tz/2022-March/031307.html)
-- [Replit &lpar;YC W18&rpar; Is Hiring Security Hackers to Safely Run Untrusted Code](https://jobs.lever.co/replit/6ed43742-5732-4235-b38c-35e2bdab9195)
-- [A new kind of equity program](https://www.getcruise.com/news/a-new-kind-of-equity-program/)
-- [Christopher Alexander has died](https://www.cnu.org/publicsquare/2022/03/18/christopher-alexander-1936-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
