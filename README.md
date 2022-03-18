@@ -54,8 +54,8 @@
 - [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
 - [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
 - [Forage &lpar;YC S21&rpar; is hiring senior engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
+- [A Summary of OAuth 2.0 Attack Methods](https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html)
 - [Node-ipc supply chain attack: peacenotwar](https://github.com/RIAEvangelist/peacenotwar/blob/main/WITH-LOVE-FROM-AMERICA.txt)
-- [Sweden’s &#39;speed camera lottery&#39; hit a red light years ago &lpar;2021&rpar;](https://www.aap.com.au/factcheck/swedens-speed-camera-lottery-hit-a-red-light-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
