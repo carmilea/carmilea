@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Line of Death &lpar;2017&rpar;](https://textslashplain.com/2017/01/14/the-line-of-death/)
+- [White House: Developing a Bold Decadal Vision for Commercial Fusion Energy](https://www.whitehouse.gov/ostp/events-webinars/)
+- [eBPF Nuances on Minikube](https://www.seekret.io/blog/ebpf-nuances-on-minikube/)
 - [Apple Made $6.5B USD by No Longer Providing Accessories with New iPhones](https://hypebeast.com/2022/3/apple-made-6-5-billion-usd-by-removing-accessories-with-new-iphone-purchases)
 - [Hypercontext &lpar;YC S21&rpar; Is Hiring a Quality Assurance Specialist](https://www.ycombinator.com/companies/hypercontext/jobs/auJhlD8-quality-assurance-specialist)
-- [How to Prepare for a Recession](https://awealthofcommonsense.com/2022/03/how-to-prepare-for-a-recession/)
-- [Kharkiv Rubyist during the war: We are still here](https://zverok.space/blog/2022-03-15-STILL-WAR.html)
-- [Ivermectin Didn’t Reduce Covid-19 Hospitalizations in Largest Trial to Date](https://www.wsj.com/articles/ivermectin-didnt-reduce-covid-19-hospitalizations-in-largest-trial-to-date-11647601200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
