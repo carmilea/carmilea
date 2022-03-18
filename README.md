@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Should I upgrade Ubuntu to 22.04 LTS?](https://news.ycombinator.com/item?id=30722007)
+- [Critical Container Escape Flaw in CRI-O](https://duo.com/decipher/container-escape-flaw-fixed-in-cri-o-runtime-engine)
 - [The Line of Death &lpar;2017&rpar;](https://textslashplain.com/2017/01/14/the-line-of-death/)
+- [I&#39;m Too Risk-Adverse for Index Investing](https://paranoidvalueinvestor.substack.com/p/im-too-risk-adverse-for-index-investing)
 - [White House: Developing a Bold Decadal Vision for Commercial Fusion Energy](https://www.whitehouse.gov/ostp/events-webinars/)
-- [eBPF Nuances on Minikube](https://www.seekret.io/blog/ebpf-nuances-on-minikube/)
-- [Apple Made $6.5B USD by No Longer Providing Accessories with New iPhones](https://hypebeast.com/2022/3/apple-made-6-5-billion-usd-by-removing-accessories-with-new-iphone-purchases)
-- [Hypercontext &lpar;YC S21&rpar; Is Hiring a Quality Assurance Specialist](https://www.ycombinator.com/companies/hypercontext/jobs/auJhlD8-quality-assurance-specialist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
