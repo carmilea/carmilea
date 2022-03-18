@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Putin’s Oligarchs Bought London](https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london)
+- [Global-Tz – 2022ag &lpar;Beta&rpar;](https://mm.icann.org/pipermail/tz/2022-March/031307.html)
 - [Replit &lpar;YC W18&rpar; Is Hiring Security Hackers to Safely Run Untrusted Code](https://jobs.lever.co/replit/6ed43742-5732-4235-b38c-35e2bdab9195)
-- [Christopher Alexander, 1936-2022](https://www.cnu.org/publicsquare/2022/03/18/christopher-alexander-1936-2022)
-- [ESA Votes to Suspend Roscosmos Partnerships](https://payloadspace.com/esa-votes-to-suspend-roscosmos-partnerships/)
-- [Justice Department Issues Web Accessibility Guidance Under the ADA](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
-- [How many days since a record-high temperature?](https://pudding.cool/2022/03/weather-map/)
+- [A new kind of equity program](https://www.getcruise.com/news/a-new-kind-of-equity-program/)
+- [Christopher Alexander has died](https://www.cnu.org/publicsquare/2022/03/18/christopher-alexander-1936-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
