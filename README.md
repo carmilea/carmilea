@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Made $6.5B USD by No Longer Providing Accessories with New iPhones](https://hypebeast.com/2022/3/apple-made-6-5-billion-usd-by-removing-accessories-with-new-iphone-purchases)
+- [Hypercontext &lpar;YC S21&rpar; Is Hiring a Quality Assurance Specialist](https://www.ycombinator.com/companies/hypercontext/jobs/auJhlD8-quality-assurance-specialist)
+- [How to Prepare for a Recession](https://awealthofcommonsense.com/2022/03/how-to-prepare-for-a-recession/)
+- [Kharkiv Rubyist during the war: We are still here](https://zverok.space/blog/2022-03-15-STILL-WAR.html)
 - [Ivermectin Didn’t Reduce Covid-19 Hospitalizations in Largest Trial to Date](https://www.wsj.com/articles/ivermectin-didnt-reduce-covid-19-hospitalizations-in-largest-trial-to-date-11647601200)
-- [Ask HN: I&#39;m changing my job after a 15-year tenure. How should I proceed?](https://news.ycombinator.com/item?id=30720565)
-- [Show HN: I&#39;m writing an MMORPG game for learning programming](https://bytelegend.com)
-- [Mozilla and Open Web Docs Working Together on MDN](https://hacks.mozilla.org/2022/03/mozilla-and-open-web-docs-working-together-on-mdn/)
-- [Should you work fixed hours, even if you have a flexible schedule?](https://remote.ma/2022/03/16/should-you-work-fixed-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
