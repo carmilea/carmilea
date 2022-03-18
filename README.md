@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Calenday, real-time collaborative calendars for trip planning](https://calenday.co/?ref=hn)
+- [Amazon intentionally made it hard to cancel Prime subscription in secret project](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
 - [Dav1d, fast AV1 decoder, version 1.0.0 released](https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS)
+- [Serverless site analytics with Clojure nbb and AWS](https://www.loop-code-recur.io/simple-site-analytics-with-serverless-clojure/)
 - [Looming food shortages is the next ‘slow-moving disaster’ to hit world](https://nypost.com/2022/03/17/looming-food-shortages-is-worlds-next-slow-moving-disaster/)
-- [Thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
-- [Python 3 Types in the Wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.html)
-- [Critical Container Escape Flaw in CRI-O](https://duo.com/decipher/container-escape-flaw-fixed-in-cri-o-runtime-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
