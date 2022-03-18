@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An AI designed keyboard layout](https://github.com/MadRabbit/halmak)
+- [Random number generator enhancements for Linux 5.17 and 5.18](https://www.zx2c4.com/projects/linux-rng-5.17-5.18/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
 - [Down the mechanical keyboard rabbit hole](https://fowlie.github.io/2022/02/25/keyboards-rabbit-hole/)
 - [Multiple Vulnerabilities in PfSense](https://www.cybersecurity-help.cz/vdb/SB2022031507)
-- [Uchronia: The Alternate History List](http://www.uchronia.net/)
-- [Shadertoy Apple I Emulator](https://www.shadertoy.com/view/tlX3W7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
