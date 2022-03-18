@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- [Down the mechanical keyboard rabbit hole](https://fowlie.github.io/2022/02/25/keyboards-rabbit-hole/)
 - [Multiple Vulnerabilities in PfSense](https://www.cybersecurity-help.cz/vdb/SB2022031507)
 - [Uchronia: The Alternate History List](http://www.uchronia.net/)
 - [Shadertoy Apple I Emulator](https://www.shadertoy.com/view/tlX3W7)
-- [Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python](https://blog.ioces.com/matt/posts/everything-old-is-new-again/)
-- [Lagrange points solved one of physics&#39; biggest problems](https://www.space.com/lagrange-points-solve-major-physics-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
