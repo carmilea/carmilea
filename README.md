@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Justice Department Issues Web Accessibility Guidance Under the ADA](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
+- [How many days since a record-high temperature?](https://pudding.cool/2022/03/weather-map/)
+- [The Open Source Initiative Did Not Win Neo4j vs. PureThink](https://writing.kemitchell.com/2022/03/17/OSI-Neo4j-PureThink.html)
 - [On the Weaponisation of Open Source](https://beny23.github.io/posts/on_weaponisation_of_open_source/)
 - [I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/)
-- [Software is no longer sold; it&#39;s adopted](https://orbit.love/blog/software-is-no-longer-sold-its-adopted)
-- [US schools can subscribe to an electric bus fleet at lower prices than diesel](https://www.canarymedia.com/articles/clean-fleets/us-schools-can-subscribe-to-an-electric-school-bus-fleet-at-prices-that-beat-diesel)
-- [Doorway to an Augmented Reality Future–Intensity Control of Parallel Projectors](https://www.titech.ac.jp/english/news/2022/063438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
