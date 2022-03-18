@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivermectin Didn’t Reduce Covid-19 Hospitalizations in Largest Trial to Date](https://www.wsj.com/articles/ivermectin-didnt-reduce-covid-19-hospitalizations-in-largest-trial-to-date-11647601200)
+- [Ask HN: I&#39;m changing my job after a 15-year tenure. How should I proceed?](https://news.ycombinator.com/item?id=30720565)
+- [Show HN: I&#39;m writing an MMORPG game for learning programming](https://bytelegend.com)
 - [Mozilla and Open Web Docs Working Together on MDN](https://hacks.mozilla.org/2022/03/mozilla-and-open-web-docs-working-together-on-mdn/)
 - [Should you work fixed hours, even if you have a flexible schedule?](https://remote.ma/2022/03/16/should-you-work-fixed-hours/)
-- [An AI designed keyboard layout &lpar;2021&rpar;](https://github.com/MadRabbit/halmak)
-- [Random number generator enhancements for Linux 5.17 and 5.18](https://www.zx2c4.com/projects/linux-rng-5.17-5.18/)
-- [Apple M1 Ultra&#39;s 64-Core GPU Fails to Dethrone the Mighty RTX 3090](https://www.tomshardware.com/news/apple-m1-ultra-rtx-3090-benchmarks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
