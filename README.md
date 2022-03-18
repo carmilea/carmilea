@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyday Magic in the Middle Ages &lpar;2021&rpar;](https://www.medievalists.net/2021/09/everyday-magic-middle-ages/)
-- [Bored Ape Yacht Club Owner Uses IP Ownership Rights to Open Restaurant](https://hypebeast.com/2022/3/bored-ape-yacht-club-owner-ip-ownership-rights-open-restaurant-bored-hungry-info)
-- [Paaster – Secure by default end to end encrypted pastebin](https://github.com/WardPearce/paaster)
-- [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
-- [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
+- [Multiple Vulnerabilities in PfSense](https://www.cybersecurity-help.cz/vdb/SB2022031507)
+- [Uchronia: The Alternate History List](http://www.uchronia.net/)
+- [Shadertoy Apple I Emulator](https://www.shadertoy.com/view/tlX3W7)
+- [Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python](https://blog.ioces.com/matt/posts/everything-old-is-new-again/)
+- [Lagrange points solved one of physics&#39; biggest problems](https://www.space.com/lagrange-points-solve-major-physics-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
