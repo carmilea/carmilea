@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Forage &lpar;YC S21&rpar; Is Hiring Senior Engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
-- [2022 Data: Toxic Company Culture Is Fueling the Great Resignation](https://www.realestatewitch.com/great-resignation-2022/)
-- [ACCC takes action against Meta over scam celebrity crypto ads on Facebook](https://www.accc.gov.au/media-release/accc-takes-action-over-alleged-misleading-conduct-by-meta-for-publishing-scam-celebrity-crypto-ads-on-facebook)
-- [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
-- [Does quantum mechanics need imaginary numbers?](https://physicstoday.scitation.org/doi/10.1063/PT.3.4955)
+- [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
+- [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
+- [Forage &lpar;YC S21&rpar; is hiring senior engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
+- [Node-ipc supply chain attack: peacenotwar](https://github.com/RIAEvangelist/peacenotwar/blob/main/WITH-LOVE-FROM-AMERICA.txt)
+- [Sweden’s &#39;speed camera lottery&#39; hit a red light years ago &lpar;2021&rpar;](https://www.aap.com.au/factcheck/swedens-speed-camera-lottery-hit-a-red-light-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
