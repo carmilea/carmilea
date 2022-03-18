@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should I upgrade Ubuntu to 22.04 LTS?](https://news.ycombinator.com/item?id=30722007)
+- [Dav1d, fast AV1 decoder, version 1.0.0 released](https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS)
+- [Looming food shortages is the next ‘slow-moving disaster’ to hit world](https://nypost.com/2022/03/17/looming-food-shortages-is-worlds-next-slow-moving-disaster/)
+- [Thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
+- [Python 3 Types in the Wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.html)
 - [Critical Container Escape Flaw in CRI-O](https://duo.com/decipher/container-escape-flaw-fixed-in-cri-o-runtime-engine)
-- [The Line of Death &lpar;2017&rpar;](https://textslashplain.com/2017/01/14/the-line-of-death/)
-- [I&#39;m Too Risk-Adverse for Index Investing](https://paranoidvalueinvestor.substack.com/p/im-too-risk-adverse-for-index-investing)
-- [White House: Developing a Bold Decadal Vision for Commercial Fusion Energy](https://www.whitehouse.gov/ostp/events-webinars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
