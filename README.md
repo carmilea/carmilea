@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forage &lpar;YC S21&rpar; Is Hiring Senior Engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
+- [2022 Data: Toxic Company Culture Is Fueling the Great Resignation](https://www.realestatewitch.com/great-resignation-2022/)
+- [ACCC takes action against Meta over scam celebrity crypto ads on Facebook](https://www.accc.gov.au/media-release/accc-takes-action-over-alleged-misleading-conduct-by-meta-for-publishing-scam-celebrity-crypto-ads-on-facebook)
+- [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
 - [Does quantum mechanics need imaginary numbers?](https://physicstoday.scitation.org/doi/10.1063/PT.3.4955)
-- [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
-- [N° 9–2022: ExoMars suspended](https://www.esa.int/Newsroom/Press_Releases/ExoMars_suspended)
-- [Hot-code reloading Native macOS/arm64 apps with Zig](http://www.jakubkonka.com/2022/03/16/hcs-zig.html)
-- [Photography is not Objective, Art is a Set of Choices](https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
