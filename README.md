@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring Security Hackers to Safely Run Untrusted Code](https://jobs.lever.co/replit/6ed43742-5732-4235-b38c-35e2bdab9195)
+- [Christopher Alexander, 1936-2022](https://www.cnu.org/publicsquare/2022/03/18/christopher-alexander-1936-2022)
+- [ESA Votes to Suspend Roscosmos Partnerships](https://payloadspace.com/esa-votes-to-suspend-roscosmos-partnerships/)
 - [Justice Department Issues Web Accessibility Guidance Under the ADA](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
 - [How many days since a record-high temperature?](https://pudding.cool/2022/03/weather-map/)
-- [The Open Source Initiative Did Not Win Neo4j vs. PureThink](https://writing.kemitchell.com/2022/03/17/OSI-Neo4j-PureThink.html)
-- [On the Weaponisation of Open Source](https://beny23.github.io/posts/on_weaponisation_of_open_source/)
-- [I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
