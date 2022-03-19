@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipamax &lpar;YC W17&rpar; Is Hiring an Engineering Manager](https://angel.co/company/shipamax/jobs/1710053-hands-on-engineering-manager)
+- [Documenting Sony Memory Stick](https://dmitry.gr/?r=05.Projects&proj=31.%20Memory%20Stick)
+- [UCLA hiring Asst. Adjunct Professor “on a without salary basis” &lpar;PhD required&rpar;](https://recruit.apo.ucla.edu/JPF04991)
 - [Lapce: Fast and Powerful Code Editor Written in Rust](https://docs.lapce.dev/get-started/setup)
 - [What Is Tokenization?](https://basistheory.com/blog/what-is-tokenization)
-- [Prediction market: We&#39;re unhappy with Firestore. What will we switch to?](https://manifold.markets/Austin/what-database-will-manifold-be-prim)
-- [Daytime napping and Alzheimer&#39;s dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
-- [Asahi Linux alpha release](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
