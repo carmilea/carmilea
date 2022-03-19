@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30733094)
+- [Pokete: Terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
 - [EU countries pledge to promote OSS within public administrations [pdf]](https://www.transformation.gouv.fr/files/presse/Declaration_common_values_challenges_european%20public_administrations_1.pdf)
 - [Modern Turbo Vision 2.0](https://github.com/magiblot/tvision)
 - [Apple’s Universal Control](https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e)
-- [Shipamax &lpar;YC W17&rpar; Is Hiring an Engineering Manager](https://angel.co/company/shipamax/jobs/1710053-hands-on-engineering-manager)
-- [Documenting Sony Memory Stick](https://dmitry.gr/?r=05.Projects&proj=31.%20Memory%20Stick)
 <!-- BLOG-POST-LIST:END -->
 
 ---
