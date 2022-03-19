@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kiwink: Visible Light Communication via phone camera/flash](https://kiwink.io/)
+- [Ask HN: What book changed your life?](https://news.ycombinator.com/item?id=30734709)
+- [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2)
 - [Fish 3.4.0](https://fishshell.com/docs/current/relnotes.html)
 - [Why can’t America build quickly anymore?](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
-- [Apple&#39;s new M1 Ultra isn&#39;t faster than an RTX 3090](https://www.pcgamer.com/big-surprise-apples-new-m1-ultra-isnt-actually-faster-than-an-rtx-3090/)
-- [A Bitcoin Mine at a Natural Gas Well in Texas](https://www.vice.com/en/article/m7v49n/inside-a-bitcoin-mine-at-a-natural-gas-well-in-texas)
-- [The Inca Used Knots to Tell Stories](https://lithub.com/how-the-inca-used-knots-to-tell-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
