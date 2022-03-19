@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All of physics in 9 lines - maybe even all of science](https://www.motionmountain.net/9lines.html)
-- [Large net gain of usable global land due to climate change](http://daviddfriedman.blogspot.com/2022/03/land-gained-and-lost-fermi-estimate.html)
-- [It’s 70 degrees warmer in Antarctica. Scientists are flabbergasted](https://www.washingtonpost.com/weather/2022/03/18/antarctica-heat-wave-climate-change/)
-- [Show HN: A game that tests how well you know your local area](https://backofyourhand.com/51.89863,-8.47039)
-- [Gas pumps happen to be about as insecure as your typical router](https://www.cnx-software.com/2022/03/19/gas-pumps-insecure-typical-router/)
+- [Fish 3.4.0](https://fishshell.com/docs/current/relnotes.html)
+- [Why can’t America build quickly anymore?](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
+- [Apple&#39;s new M1 Ultra isn&#39;t faster than an RTX 3090](https://www.pcgamer.com/big-surprise-apples-new-m1-ultra-isnt-actually-faster-than-an-rtx-3090/)
+- [A Bitcoin Mine at a Natural Gas Well in Texas](https://www.vice.com/en/article/m7v49n/inside-a-bitcoin-mine-at-a-natural-gas-well-in-texas)
+- [The Inca Used Knots to Tell Stories](https://lithub.com/how-the-inca-used-knots-to-tell-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
