@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American NGO using node-ipc lost 30k files detailing war crimes](https://snippet.host/kvcb)
+- [Prediction market: We&#39;re unhappy with Firestore. What will we switch to?](https://manifold.markets/Austin/what-database-will-manifold-be-prim)
 - [Daytime napping and Alzheimer&#39;s dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
-- [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
-- [A game-changing transplant could treat dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
+- [Asahi Linux alpha release](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
 - [First images from James Webb exceed all expectations](https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/)
-- [Arkenfox: Firefox privacy, security and anti-tracking user.js template](https://github.com/arkenfox/user.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
