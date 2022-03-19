@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Bing appending tracking ID to destination URLs](https://news.ycombinator.com/item?id=30730984)
-- [Home Depot successfully installs Tomcat 9 in production](https://pr-mstr-scm-vendor.homedepot.com)
+- [Lapce: Fast and Powerful Code Editor Written in Rust](https://docs.lapce.dev/get-started/setup)
+- [What Is Tokenization?](https://basistheory.com/blog/what-is-tokenization)
 - [Prediction market: We&#39;re unhappy with Firestore. What will we switch to?](https://manifold.markets/Austin/what-database-will-manifold-be-prim)
 - [Daytime napping and Alzheimer&#39;s dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
 - [Asahi Linux alpha release](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
