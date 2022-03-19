@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All of physics in 9 lines - maybe even all of science](https://www.motionmountain.net/9lines.html)
+- [Large net gain of usable global land due to climate change](http://daviddfriedman.blogspot.com/2022/03/land-gained-and-lost-fermi-estimate.html)
 - [It’s 70 degrees warmer in Antarctica. Scientists are flabbergasted](https://www.washingtonpost.com/weather/2022/03/18/antarctica-heat-wave-climate-change/)
+- [Show HN: A game that tests how well you know your local area](https://backofyourhand.com/51.89863,-8.47039)
 - [Gas pumps happen to be about as insecure as your typical router](https://www.cnx-software.com/2022/03/19/gas-pumps-insecure-typical-router/)
-- [Ask HN: Software That Insults You?](https://news.ycombinator.com/item?id=30733314)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30733094)
-- [Pokete: Terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
 <!-- BLOG-POST-LIST:END -->
 
 ---
