@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiwink: Visible Light Communication via phone camera/flash](https://kiwink.io/)
-- [Ask HN: What book changed your life?](https://news.ycombinator.com/item?id=30734709)
-- [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2)
-- [Fish 3.4.0](https://fishshell.com/docs/current/relnotes.html)
-- [Why can’t America build quickly anymore?](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
+- [Ask HN: What Happened to Svbtle?](https://news.ycombinator.com/item?id=30735505)
+- [Random Word Generator in Bash](https://danielbmarkham.com/random-word-generator-in-bash/)
+- [Agentnoon &lpar;YC W22&rpar; Is Hiring](https://jobs.lever.co/agentnoon/037b7cfc-0a2d-4040-8f24-a92dba580d01?lever-origin=applied&lever-source%5B%5D=YCombinator)
+- [&#39;Children of Men&#39; is happening](https://edwest.substack.com/p/children-of-men-is-really-happening)
+- [Warn HN: Monarch upgrade deletes all files in $HOME](https://news.ycombinator.com/item?id=30735099)
 <!-- BLOG-POST-LIST:END -->
 
 ---
