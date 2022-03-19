@@ -54,8 +54,8 @@
 - [Daytime napping and Alzheimer&#39;s dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
 - [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
 - [A game-changing transplant could treat dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
+- [First images from James Webb exceed all expectations](https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/)
 - [Arkenfox: Firefox privacy, security and anti-tracking user.js template](https://github.com/arkenfox/user.js)
-- [Crypto is an Unproductive Bubble](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
