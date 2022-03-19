@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s “Universal Control”](https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e)
 - [Shipamax &lpar;YC W17&rpar; Is Hiring an Engineering Manager](https://angel.co/company/shipamax/jobs/1710053-hands-on-engineering-manager)
 - [Documenting Sony Memory Stick](https://dmitry.gr/?r=05.Projects&proj=31.%20Memory%20Stick)
+- [Gauge.js – A JavaScript animated gauge lib](http://www.htmldrive.net/items/demo/1357/gauge.js-A-JavaScript-animated-gauge-lib)
 - [What Is Tokenization?](https://basistheory.com/blog/what-is-tokenization)
-- [Prediction market: We&#39;re unhappy with Firestore. What will we switch to?](https://manifold.markets/Austin/what-database-will-manifold-be-prim)
-- [Asahi Linux alpha release](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
