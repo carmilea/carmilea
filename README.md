@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jailed baby gene scientist ‘should be made responsible’ for the children](https://www.thetimes.co.uk/article/jailed-baby-gene-scientist-he-jiankui-should-be-made-responsible-for-the-children-q7s3j9mlf)
 - [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
-- [The “Resign for Diversity” Campaign](https://noahcarl.substack.com/p/the-resign-for-diversity-campaign)
 - [Arizona moves to ban recording video of police](https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers)
-- [Dogs might be anxious for the same reasons as humans](https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are)
-- [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
+- [Qualcomm: From Satellites to CDMA to Snapdragons](https://thehistoryofcomputing.net/qualcomm-from-satellites-to-cdma-to-snapdragons)
+- [Russian cosmonauts arrive at ISS in colours of Ukraine flag](https://www.thetimes.co.uk/article/cosmonauts-arrive-at-iss-in-colours-of-ukraine-flag-6rwcltmjt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
