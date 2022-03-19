@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
+- [A DARPA Perspective on Artificial Intelligence [pdf]](https://www.darpa.mil/attachments/AIFull.pdf)
 - [Half of US population exposed to adverse lead levels in early childhood](https://www.pnas.org/doi/full/10.1073/pnas.2118631119)
 - [Ask HN: What Happened to Svbtle?](https://news.ycombinator.com/item?id=30735505)
-- [Agentnoon &lpar;YC W22&rpar; Is Hiring](https://jobs.lever.co/agentnoon/037b7cfc-0a2d-4040-8f24-a92dba580d01?lever-origin=applied&lever-source%5B%5D=YCombinator)
-- [Cosmonauts arrive at space station in yellow and blue](https://www.cp24.com/world/3-cosmonauts-arrive-at-space-station-in-yellow-and-blue-1.5826079)
+- [Random Word Generator in Bash](https://danielbmarkham.com/random-word-generator-in-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
