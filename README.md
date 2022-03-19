@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio Code is randomly erasing included header files with latest update](https://github.com/microsoft/vscode/issues/145297)
+- [The spread of misinformation: A pattern we see over and over](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/)
 - [Jailed baby gene scientist ‘should be made responsible’ for the children](https://www.thetimes.co.uk/article/jailed-baby-gene-scientist-he-jiankui-should-be-made-responsible-for-the-children-q7s3j9mlf)
 - [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
 - [Arizona moves to ban recording video of police](https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers)
-- [Qualcomm: From Satellites to CDMA to Snapdragons](https://thehistoryofcomputing.net/qualcomm-from-satellites-to-cdma-to-snapdragons)
-- [Russian cosmonauts arrive at ISS in colours of Ukraine flag](https://www.thetimes.co.uk/article/cosmonauts-arrive-at-iss-in-colours-of-ukraine-flag-6rwcltmjt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
