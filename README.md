@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s 70 degrees warmer in Antarctica. Scientists are flabbergasted](https://www.washingtonpost.com/weather/2022/03/18/antarctica-heat-wave-climate-change/)
+- [Gas pumps happen to be about as insecure as your typical router](https://www.cnx-software.com/2022/03/19/gas-pumps-insecure-typical-router/)
+- [Ask HN: Software That Insults You?](https://news.ycombinator.com/item?id=30733314)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30733094)
 - [Pokete: Terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
-- [EU countries pledge to promote OSS within public administrations [pdf]](https://www.transformation.gouv.fr/files/presse/Declaration_common_values_challenges_european%20public_administrations_1.pdf)
-- [Modern Turbo Vision 2.0](https://github.com/magiblot/tvision)
-- [Apple’s Universal Control](https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
