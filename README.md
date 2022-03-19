@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
+- [The “Resign for Diversity” Campaign](https://noahcarl.substack.com/p/the-resign-for-diversity-campaign)
+- [Arizona moves to ban recording video of police](https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers)
 - [Dogs might be anxious for the same reasons as humans](https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are)
 - [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
-- [A DARPA Perspective on Artificial Intelligence [pdf]](https://www.darpa.mil/attachments/AIFull.pdf)
-- [Half of US population exposed to adverse lead levels in early childhood](https://www.pnas.org/doi/full/10.1073/pnas.2118631119)
-- [Ask HN: What Happened to Svbtle?](https://news.ycombinator.com/item?id=30735505)
 <!-- BLOG-POST-LIST:END -->
 
 ---
