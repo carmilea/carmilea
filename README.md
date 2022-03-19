@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dogs might be anxious for the same reasons as humans](https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are)
 - [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
 - [A DARPA Perspective on Artificial Intelligence [pdf]](https://www.darpa.mil/attachments/AIFull.pdf)
 - [Half of US population exposed to adverse lead levels in early childhood](https://www.pnas.org/doi/full/10.1073/pnas.2118631119)
 - [Ask HN: What Happened to Svbtle?](https://news.ycombinator.com/item?id=30735505)
-- [Random Word Generator in Bash](https://danielbmarkham.com/random-word-generator-in-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
