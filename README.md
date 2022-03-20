@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC Police Union Reducing Number of “Get Out of Jail Free” Courtesy Cards &lpar;2018&rpar;](https://marginalrevolution.com/marginalrevolution/2018/01/get-jail-free-cards.html)
+- [Ask HN: Developers who switched careers, what are you doing now?](https://news.ycombinator.com/item?id=30742589)
+- [Ask HN: Which dev bootcamps/online courses are good value for DevOps?](https://news.ycombinator.com/item?id=30742324)
 - [Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth](https://github.com/kofigumbs/typebeat)
+- [How did Europe become the richest part of the world?](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
-- [When the Emperor Is a Void &lpar;2020&rpar;](https://aaww.org/emperor-is-a-void-yukio-mishima-julia-shiota/)
-- [FOSS devs are burning out, quitting, and even sabotaging their own projects](https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
