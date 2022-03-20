@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google will soon ask Australian users to show ID to view some content](https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/)
-- [Ask HN: Developers who switched careers, what are you doing now?](https://news.ycombinator.com/item?id=30742589)
-- [Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth](https://github.com/kofigumbs/typebeat)
-- [How did Europe become the richest part of the world?](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
+- [A better way to divide the pie](https://insights.som.yale.edu/insights/better-way-to-divide-the-pie)
+- [Ask HN: Does 500k pounds of earth go into each EV battery?](https://news.ycombinator.com/item?id=30743771)
+- [Inflation is a disease – Milton Friedman](https://www.youtube.com/watch?v=B_nGEj8wIP0)
+- [How much Rust in Firefox? March 2022](https://4e6.github.io/firefox-lang-stats/)
+- [Big-box Stores could slash Emissions, save Millions – Put solar-panels on Roofs](https://lite.cnn.com/en/article/h_2194e570834169178970b716bcc8ce8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
