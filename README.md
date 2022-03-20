@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will soon ask Australian users to show ID to view some content](https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/)
 - [Ask HN: Developers who switched careers, what are you doing now?](https://news.ycombinator.com/item?id=30742589)
-- [Ask HN: Which dev bootcamps/online courses are good value for DevOps?](https://news.ycombinator.com/item?id=30742324)
 - [Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth](https://github.com/kofigumbs/typebeat)
 - [How did Europe become the richest part of the world?](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
