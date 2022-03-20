@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Letter to Microsoft for Not Attributing Authors of the Edge Flatpak App](https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html)
-- [Rust&#39;s Unsafe Pointer Types Need an Overhaul](https://gankra.github.io/blah/fix-rust-pointers/)
-- [Amazon warehouse fires a worker 1 day before his $3000 hiring bonus](https://old.reddit.com/r/antiwork/comments/ti3ml2/amazon_warehouse_fires_my_brother_1_day_before/)
+- [A letter to Microsoft for not attributing authors of the Edge Flatpak app](https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html)
+- [Rust&#39;s unsafe pointer types need an overhaul](https://gankra.github.io/blah/fix-rust-pointers/)
 - [Show HN: I made a CLI tool that turns pixels into emojis](https://github.com/ahhhh6980/Mosaic)
 - [Just some red flags. No big deal. Just ignore them &lpar;2020&rpar;](https://rachelbythebay.com/w/2020/05/22/boarded/)
+- [Ride or Die: George Hotz Against the Institutions](https://return.life/2022/03/07/george-hotz-comma-ride-or-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
