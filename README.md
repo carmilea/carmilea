@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
+- [Ask HN: How much are you making in Vancouver?](https://news.ycombinator.com/item?id=30740025)
 - [A letter to Microsoft for not attributing authors of the Edge Flatpak app](https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html)
 - [Rust&#39;s unsafe pointer types need an overhaul](https://gankra.github.io/blah/fix-rust-pointers/)
 - [Show HN: I made a CLI tool that turns pixels into emojis](https://github.com/ahhhh6980/Mosaic)
-- [Just some red flags. No big deal. Just ignore them &lpar;2020&rpar;](https://rachelbythebay.com/w/2020/05/22/boarded/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
