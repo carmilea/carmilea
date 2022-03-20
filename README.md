@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What doctors wish patients knew about long Covid](https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-long-covid)
+- [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
+- [The Windows OS needs a change in priorities](https://den.dev/blog/windows-priority-shuffle/)
 - [What the new PowerVR driver means for mobile](https://tuxphones.com/what-does-the-new-powervr-driver-mean-for-mobile/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [LibreTube: Alternative YouTube front end for Android built with Piped](https://f-droid.org/en/packages/com.github.libretube/)
-- [Silicon Valley’s Supposed Obsession with Tech-Free Private Schools &lpar;2019&rpar;](https://lareviewofbooks.org/article/the-smartest-people-in-the-room-what-silicon-valleys-supposed-obsession-with-tech-free-private-schools-really-tells-us/)
-- [Silicon Valley&#39;s Sex Censorship Harms Everyone](https://www.wired.com/story/silicon-values-internet-sex-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
