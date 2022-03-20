@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Studio Code is randomly erasing included header files with latest update](https://github.com/microsoft/vscode/issues/145297)
+- [The Secret Sounds of ‘Dune’: Rice Krispies and Marianne Faithfull](https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html)
+- [Study on quality of sleep when pet cats choose location of slumber](https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/)
 - [The spread of misinformation: A pattern we see over and over](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/)
-- [Jailed baby gene scientist ‘should be made responsible’ for the children](https://www.thetimes.co.uk/article/jailed-baby-gene-scientist-he-jiankui-should-be-made-responsible-for-the-children-q7s3j9mlf)
 - [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
 - [Arizona moves to ban recording video of police](https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers)
 <!-- BLOG-POST-LIST:END -->
