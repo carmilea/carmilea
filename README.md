@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plaintext Productivity](https://plaintext-productivity.net/)
-- [The Interview Process at Canonical - application withdrawn](https://twitter.com/dmsimard/status/1505262381609406467)
-- [Sync for Thunderbird](https://bugzilla.mozilla.org/show_bug.cgi?id=446444)
-- [Pointers and Memory Management in Python](https://github.com/ZeroIntensity/pointers.py)
-- [Mux &lpar;YC W16&rpar; is hiring engineers to work with Elixir and modern &lpar;Type|Java&rpar;Script](https://mux.com/jobs?hnj=stack)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Silicon Valley’s Supposed Obsession with Tech-Free Private Schools &lpar;2019&rpar;](https://lareviewofbooks.org/article/the-smartest-people-in-the-room-what-silicon-valleys-supposed-obsession-with-tech-free-private-schools-really-tells-us/)
+- [Silicon Valley&#39;s Sex Censorship Harms Everyone](https://www.wired.com/story/silicon-values-internet-sex-censorship/)
+- [Embedded Malicious Code in node-ipc](https://github.com/advisories/GHSA-97m3-w2cp-4xx6)
+- [Steam to Chrome OS](https://support.google.com/chromebook/thread/155131703/steam-to-chrome-os?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
