@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A better way to divide the pie](https://insights.som.yale.edu/insights/better-way-to-divide-the-pie)
-- [Ask HN: Does 500k pounds of earth go into each EV battery?](https://news.ycombinator.com/item?id=30743771)
-- [Inflation is a disease – Milton Friedman](https://www.youtube.com/watch?v=B_nGEj8wIP0)
-- [How much Rust in Firefox? March 2022](https://4e6.github.io/firefox-lang-stats/)
-- [Big-box Stores could slash Emissions, save Millions – Put solar-panels on Roofs](https://lite.cnn.com/en/article/h_2194e570834169178970b716bcc8ce8a)
+- [Mux &lpar;YC W16&rpar; is hiring engineers to work with Elixir and modern &lpar;Type|Java&rpar;Script](https://mux.com/jobs?hnj=stack)
+- [Is macOS Look Up Destined for CSAM?](https://eclecticlight.co/2022/03/20/last-week-on-my-mac-is-look-up-destined-for-csam/)
+- [Major government surveillance revelations fail to make a big splash](https://thehill.com/policy/technology/598809-major-government-surveillance-revelations-fail-to-make-a-big-splash)
+- [Ask HN: Are Web3 and DApps the Future?](https://news.ycombinator.com/item?id=30743918)
+- [Using a Minitel 1B as a serial terminal](https://blog.jgc.org/2022/03/using-minitel-1b-as-serial-terminal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
