@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Police Union Reducing Number of “Get Out of Jail Free” Courtesy Cards &lpar;2018&rpar;](https://marginalrevolution.com/marginalrevolution/2018/01/get-jail-free-cards.html)
+- [Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth](https://github.com/kofigumbs/typebeat)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
 - [When the Emperor Is a Void &lpar;2020&rpar;](https://aaww.org/emperor-is-a-void-yukio-mishima-julia-shiota/)
 - [FOSS devs are burning out, quitting, and even sabotaging their own projects](https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3)
-- [Ask HN: Third Party Elements from Improving.duckduckgo.com](https://news.ycombinator.com/item?id=30741090)
-- [Exploring Google Hangouts&#39; easter eggs](https://varun.ch/hangouts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
