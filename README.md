@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I think US college education is nearer to collapsing than it appears [Thread]](https://twitter.com/sama/status/1505597901011005442)
 - [Sync for Thunderbird](https://bugzilla.mozilla.org/show_bug.cgi?id=446444)
-- [Ask HN: Why is the Instagram desktop website so unreliable?](https://news.ycombinator.com/item?id=30744392)
+- [Pointers and Memory Management in Python](https://github.com/ZeroIntensity/pointers.py)
 - [Mux &lpar;YC W16&rpar; is hiring engineers to work with Elixir and modern &lpar;Type|Java&rpar;Script](https://mux.com/jobs?hnj=stack)
 - [Is macOS Look Up Destined for CSAM?](https://eclecticlight.co/2022/03/20/last-week-on-my-mac-is-look-up-destined-for-csam/)
-- [Major government surveillance revelations fail to make a big splash](https://thehill.com/policy/technology/598809-major-government-surveillance-revelations-fail-to-make-a-big-splash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
