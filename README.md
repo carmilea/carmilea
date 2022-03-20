@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Mint Debian Edition 5 is here](https://www.theregister.com/2022/03/19/linux_mint_debian_edition_5/)
+- [FOSS devs are burning out, quitting, and even sabotaging their own projects](https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3)
 - [Ask HN: Third Party Elements from Improving.duckduckgo.com](https://news.ycombinator.com/item?id=30741090)
-- [Epic Games to donate all Fortnite proceeds for 2 weeks to Ukraine relief](https://www.epicgames.com/fortnite/en-US/news/support-humanitarian-relief-for-ukraine)
 - [Exploring Google Hangouts&#39; easter eggs](https://varun.ch/hangouts)
 - [PHP Streaming Audio](https://github.com/gadgetguru/PHP-Streaming-Audio)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
