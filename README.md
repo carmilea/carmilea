@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Emperor Is a Void: Yukio Mishima and Fascism Today](https://aaww.org/emperor-is-a-void-yukio-mishima-julia-shiota/)
-- [Linux Mint Debian Edition 5 is here](https://www.theregister.com/2022/03/19/linux_mint_debian_edition_5/)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
+- [When the Emperor Is a Void &lpar;2020&rpar;](https://aaww.org/emperor-is-a-void-yukio-mishima-julia-shiota/)
 - [FOSS devs are burning out, quitting, and even sabotaging their own projects](https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3)
 - [Ask HN: Third Party Elements from Improving.duckduckgo.com](https://news.ycombinator.com/item?id=30741090)
 - [Exploring Google Hangouts&#39; easter eggs](https://varun.ch/hangouts)
