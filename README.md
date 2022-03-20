@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What the new PowerVR driver means for mobile](https://tuxphones.com/what-does-the-new-powervr-driver-mean-for-mobile/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [LibreTube: Alternative YouTube front end for Android built with Piped](https://f-droid.org/en/packages/com.github.libretube/)
 - [Silicon Valley’s Supposed Obsession with Tech-Free Private Schools &lpar;2019&rpar;](https://lareviewofbooks.org/article/the-smartest-people-in-the-room-what-silicon-valleys-supposed-obsession-with-tech-free-private-schools-really-tells-us/)
 - [Silicon Valley&#39;s Sex Censorship Harms Everyone](https://www.wired.com/story/silicon-values-internet-sex-censorship/)
-- [Embedded Malicious Code in node-ipc](https://github.com/advisories/GHSA-97m3-w2cp-4xx6)
-- [Steam to Chrome OS](https://support.google.com/chromebook/thread/155131703/steam-to-chrome-os?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
