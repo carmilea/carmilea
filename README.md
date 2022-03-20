@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
 - [The Secret Sounds of ‘Dune’: Rice Krispies and Marianne Faithfull](https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html)
+- [NYC splits engine idling fines with the reporter](https://www.nytimes.com/2022/03/19/nyregion/clean-air-idle-car.html)
 - [Study on quality of sleep when pet cats choose location of slumber](https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/)
-- [The spread of misinformation: A pattern we see over and over](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/)
 - [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
-- [Arizona moves to ban recording video of police](https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
