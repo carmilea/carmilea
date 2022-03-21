@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-Source 3D Location-Based Wireless Mesh Network](https://github.com/kurthildebrand/hyperspace)
 - [What doctors wish patients knew about long Covid](https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-long-covid)
 - [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
 - [The Windows OS needs a change in priorities](https://den.dev/blog/windows-priority-shuffle/)
-- [What the new PowerVR driver means for mobile](https://tuxphones.com/what-does-the-new-powervr-driver-mean-for-mobile/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [CodeEdit: Building a free, open-source code editor for macOS](https://github.com/CodeEditApp/CodeEdit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
