@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VRoom A high end RISC-V implementation](https://moonbaseotago.github.io/about/)
+- [Ask HN: Why did Apple create their half-baked Metal insead of using Vulkan?](https://news.ycombinator.com/item?id=30755407)
+- [The hunt for Nigerians who can change into cats](https://www.bbc.com/news/world-africa-60749496)
+- [OneWeb will resume satellite launches with SpaceX as the launch provider](https://oneweb.net/resources/oneweb-resume-satellite-launches-through-agreement-spacex)
 - [Plain Text Sports](https://plaintextsports.com/)
-- [Ask HN: Book Recommendation for macOS Development](https://news.ycombinator.com/item?id=30753584)
-- [Bad Economics](https://bostonreview.net/articles/bad-economics/)
-- [Shabdle: Wordle in Hindi](https://kach.github.io/shabdle/)
-- [Hooks Considered Harmful](https://labs.factorialhr.com/posts/hooks-considered-harmful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
