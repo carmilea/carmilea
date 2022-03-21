@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;subscriptions for Shopify, above market comp&rpar; is hiring eng in NYC](https://skio.com/careers/)
+- [React Arborist – A full-featured tree component for React](https://github.com/brimdata/react-arborist)
+- [Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode](https://github.com/jwilk/chemiscripts)
 - [U.S. Senators Introduce Smart Copyright Act to Combat Piracy](https://torrentfreak.com/u-s-senators-introduce-smart-copyright-act-to-combat-piracy-220321/)
 - [Two-minute battery changes push India’s delivery riders to switch to e-scooters](https://theprint.in/tech/two-minute-battery-changes-push-indias-delivery-riders-to-switch-to-e-scooters/881609/)
-- [Results of 500 MicroSD Benchmarks on SBCs](https://bret.dk/best-raspberry-pi-micro-sd-cards/)
-- [Victims of Vimeo](https://ae.studio/blog/victims-of-vimeo)
-- [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
