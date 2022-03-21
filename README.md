@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking &lpar;YC W15&rpar; Is Hiring on 15 positions to digitize $655B parking industry](https://www.smarking.com/careers)
+- [LaBanquePostale payments request bank password](https://gist.github.com/unrealwill/997e1486a7fa153a28679f322f8e378a)
+- [Sumerian dog jokes, or the difficulty of translating dead languages](https://twitter.com/LinManuelRwanda/status/1505646738627088389)
+- [Apple Studio Display Contains 64GB of Storage, but Only 2GB Used](https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/)
 - [Overtone is live programmable music and visualization](https://overtone.github.io/)
-- [What is mathematical thinking? &lpar;2012&rpar;](http://devlinsangle.blogspot.com/2012/08/what-is-mathematical-thinking.html)
-- [Show HN: Search Domain and Username in the same place](https://getsocialdomain.com)
-- [A microcontroller board with a camera, mic, and Coral Edge TPU](https://coral.ai/products/dev-board-micro)
-- [Technology’s Impact on Morality](https://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
