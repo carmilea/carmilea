@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plain Text Sports](https://plaintextsports.com/)
+- [The complete list of alternatives to all Google products – TechSpot](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
+- [Bad Economics](https://bostonreview.net/articles/bad-economics/)
 - [Vitalik Buterin is worried about crypto&#39;s future](https://time.com/6158182/vitalik-buterin-ethereum-profile/)
 - [Shabdle: Wordle in Hindi](https://kach.github.io/shabdle/)
-- [Smarking &lpar;YC W15&rpar; Is Hiring on 15 positions to digitize $655B parking industry](https://www.smarking.com/careers)
-- [Sumerian dog jokes, or the difficulty of translating dead languages](https://twitter.com/LinManuelRwanda/status/1505646738627088389)
-- [Apple Studio Display Contains 64GB of Storage, but Only 2GB Used](https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
