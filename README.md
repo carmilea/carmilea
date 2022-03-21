@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Plain Text Sports](https://plaintextsports.com/)
-- [The complete list of alternatives to all Google products – TechSpot](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
+- [Ask HN: Book Recommendation for macOS Development](https://news.ycombinator.com/item?id=30753584)
 - [Bad Economics](https://bostonreview.net/articles/bad-economics/)
-- [Vitalik Buterin is worried about crypto&#39;s future](https://time.com/6158182/vitalik-buterin-ethereum-profile/)
 - [Shabdle: Wordle in Hindi](https://kach.github.io/shabdle/)
+- [Hooks Considered Harmful](https://labs.factorialhr.com/posts/hooks-considered-harmful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
