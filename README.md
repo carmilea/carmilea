@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitalik Buterin is worried about crypto&#39;s future](https://time.com/6158182/vitalik-buterin-ethereum-profile/)
+- [Shabdle: Wordle in Hindi](https://kach.github.io/shabdle/)
 - [Smarking &lpar;YC W15&rpar; Is Hiring on 15 positions to digitize $655B parking industry](https://www.smarking.com/careers)
-- [LaBanquePostale payments request bank password](https://gist.github.com/unrealwill/997e1486a7fa153a28679f322f8e378a)
 - [Sumerian dog jokes, or the difficulty of translating dead languages](https://twitter.com/LinManuelRwanda/status/1505646738627088389)
 - [Apple Studio Display Contains 64GB of Storage, but Only 2GB Used](https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/)
-- [Overtone is live programmable music and visualization](https://overtone.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
