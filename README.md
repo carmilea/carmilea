@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Spoken &lpar;YC S21&rpar; – Better furniture shopping](https://news.ycombinator.com/item?id=30757421)
+- [The Apple-1&#39;s unusual MOS clock driver chip](https://www.righto.com/2022/03/inside-apple-1s-unusual-mos-clock.html)
+- [CSS&#39;s !important was added for one reason only](https://twitter.com/stevenpemberton/status/1505839184287870981)
+- [I dont wish it on my enemy: Calgarians on life with an electricity load limiter](https://www.cbc.ca/news/canada/calgary/utility-bills-electricity-limiters-calgary-1.6388949)
 - [Ask HN: Is Apple down?](https://news.ycombinator.com/item?id=30756636)
-- [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [How to Pay Professional Maintainers](https://words.filippo.io/pay-maintainers/)
-- [VRoom A high end RISC-V implementation](https://moonbaseotago.github.io/about/)
-- [The hunt for Nigerians who can change into cats](https://www.bbc.com/news/world-africa-60749496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
