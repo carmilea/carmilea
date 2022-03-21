@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Apple down?](https://news.ycombinator.com/item?id=30756636)
+- [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- [How to Pay Professional Maintainers](https://words.filippo.io/pay-maintainers/)
 - [VRoom A high end RISC-V implementation](https://moonbaseotago.github.io/about/)
-- [Ask HN: Why did Apple create their half-baked Metal insead of using Vulkan?](https://news.ycombinator.com/item?id=30755407)
 - [The hunt for Nigerians who can change into cats](https://www.bbc.com/news/world-africa-60749496)
-- [OneWeb will resume satellite launches with SpaceX as the launch provider](https://oneweb.net/resources/oneweb-resume-satellite-launches-through-agreement-spacex)
-- [Plain Text Sports](https://plaintextsports.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
