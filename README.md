@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In 1950, the U.S. Released a Bioweapon in San Francisco](https://www.smithsonianmag.com/smart-news/1950-us-released-bioweapon-san-francisco-180955819/)
-- [&quot;In a Good Economy Homelessness Goes Up&quot;: Inflation and the Housing Question](https://lpeproject.org/blog/in-a-good-economy-homelessness-goes-up-inflation-and-the-housing-question/)
+- [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
+- [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
+- [Headlines compared: Polish newspapers from 1939 and news websites from 2022](https://www.sewerynszwarocki.pl/those-who-cannot-learn-from-history-are-doomed-to-repeat-it/)
 - [Skio &lpar;subscriptions for Shopify, above market comp&rpar; is hiring eng in NYC](https://skio.com/careers/)
 - [React Arborist – A full-featured tree component for React](https://github.com/brimdata/react-arborist)
-- [Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode](https://github.com/jwilk/chemiscripts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
