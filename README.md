@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Gnome on Wayland Is Amazing](https://news.ycombinator.com/item?id=30750710)
 - [Please Put Units in Names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
-- [Tell HN: Did you know you can negotiate price on many things?](https://news.ycombinator.com/item?id=30748959)
 - [Show HN: Open-Source 3D Location-Based Wireless Mesh Network](https://github.com/kurthildebrand/hyperspace)
-- [What doctors wish patients knew about long Covid](https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-long-covid)
 - [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
+- [The Windows OS needs a change in priorities](https://den.dev/blog/windows-priority-shuffle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
