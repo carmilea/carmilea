@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The controversial quest to make a &#39;contagious&#39; vaccine](https://www.nationalgeographic.com/science/article/the-controversial-quest-to-make-a-contagious-vaccine)
+- [U.S. Senators Introduce Smart Copyright Act to Combat Piracy](https://torrentfreak.com/u-s-senators-introduce-smart-copyright-act-to-combat-piracy-220321/)
+- [Two-minute battery changes push India’s delivery riders to switch to e-scooters](https://theprint.in/tech/two-minute-battery-changes-push-indias-delivery-riders-to-switch-to-e-scooters/881609/)
+- [Results of 500 MicroSD Benchmarks on SBCs](https://bret.dk/best-raspberry-pi-micro-sd-cards/)
+- [Victims of Vimeo](https://ae.studio/blog/victims-of-vimeo)
 - [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html)
-- [Launch HN: Spoken &lpar;YC S21&rpar; – Better furniture shopping](https://news.ycombinator.com/item?id=30757421)
-- [The Apple-1&#39;s unusual MOS clock driver chip](https://www.righto.com/2022/03/inside-apple-1s-unusual-mos-clock.html)
-- [CSS&#39;s !important was added for one reason only](https://twitter.com/stevenpemberton/status/1505839184287870981)
 <!-- BLOG-POST-LIST:END -->
 
 ---
