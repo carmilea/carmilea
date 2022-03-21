@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What data do the Google Dialer and Messages apps on Android send to Google? [pdf]](https://www.scss.tcd.ie/doug.leith/privacyofdialerandsmsapps.pdf)
+- [On Tolkien and Orwell](https://www.darcymoore.net/2022/03/19/on-tolkien-and-orwell/)
 - [Using a tiny HC32L110 ARM chip](https://spritesmods.com/?art=hc32l110&page=1)
 - [Tell HN: Gnome on Wayland Is Amazing](https://news.ycombinator.com/item?id=30750710)
-- [Please Put Units in Names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
-- [Show HN: Open-Source 3D Location-Based Wireless Mesh Network](https://github.com/kurthildebrand/hyperspace)
-- [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
+- [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
 <!-- BLOG-POST-LIST:END -->
 
 ---
