@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Overtone is live programmable music and visualization](https://overtone.github.io/)
-- [What is mathematical thinking? – Keith Devlin](http://devlinsangle.blogspot.com/2012/08/what-is-mathematical-thinking.html)
+- [What is mathematical thinking? &lpar;2012&rpar;](http://devlinsangle.blogspot.com/2012/08/what-is-mathematical-thinking.html)
 - [Show HN: Search Domain and Username in the same place](https://getsocialdomain.com)
 - [A microcontroller board with a camera, mic, and Coral Edge TPU](https://coral.ai/products/dev-board-micro)
-- [What data do the Google Dialer and Messages apps on Android send to Google? [pdf]](https://www.scss.tcd.ie/doug.leith/privacyofdialerandsmsapps.pdf)
+- [Technology’s Impact on Morality](https://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
