@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Raspberry Pi Powered Ultra-Small Form Factor Rugged for Defense, Aerospace](https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html)
 - [Before the Fall of the Roman Republic: Income Inequality, Xenophobia](https://www.smithsonianmag.com/history/fall-roman-republic-income-inequality-and-xenophobia-threatened-its-foundations-180967249/)
+- [Exploring and mapping chemical space with molecular assembly trees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8462901/)
 - [&#39;Perfect Blue&#39; and &#39;Requiem for a Dream&#39;](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue)
 - [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
-- [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
-- [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
