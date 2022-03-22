@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Reality Defender &lpar;YC W22&rpar; – Deepfake Detection Platform](https://news.ycombinator.com/item?id=30766050)
-- [Deep Learning on Electronic Medical Records is doomed to fail](https://www.moderndescartes.com/essays/deep_learning_emr/)
-- [Ask HN: Do you contribute to open source projects?](https://news.ycombinator.com/item?id=30765596)
-- [Google Maps Hacks &lpar;2020&rpar;](http://www.simonweckert.com/googlemapshacks.html)
-- [The takeover of America&#39;s legal system](https://bariweiss.substack.com/p/the-takeover-of-americas-legal-system)
+- [Java 18 / JDK 18: General Availability](https://mail.openjdk.java.net/pipermail/jdk-dev/2022-March/006458.html)
+- [Bentō is an alive, unstable Japanese noise box by Giorgio Sancristoforo](https://cdm.link/2022/03/bento-is-an-alive-unstable-japanese-noise-box-by-giorgio-sancristoforo/)
+- [Scaling product analytics built on ClickHouse](https://posthog.com/blog/secrets-of-posthog-query-performance)
+- [Facebook approved 8 paid ads inciting violence and genocide against the Rohingya](https://apnews.com/article/technology-business-bangladesh-myanmar-united-nations-f7d89e38c54f7bae464762fa23bd96b2)
+- [Royal Mint to build ‘world first’ plant to turn UK’s electronic waste into gold](https://www.royalmint.com/aboutus/press-centre/the-royal-mint-to-build-world-first-plant-to-turn-uks-electronic-waste-into-gold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
