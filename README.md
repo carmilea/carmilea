@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frustration: One Year with R](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
-- [Study show that people think that data analysts and accountants are boring](https://journals.sagepub.com/doi/10.1177/01461672221079104)
-- [Electricity map: Mapping the climate impact of electricity](https://app.electricitymap.org/map)
-- [OVHcloud fire: SBG2 data center had no extinguisher, no power cut-out](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-report-sbg2-data-center-had-wooden-ceilings-no-extinguisher-and-no-power-cut-out/)
-- [Lapsus$ hackers leak 37GB of Microsoft&#39;s alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
+- [Raptor Maps &lpar;YC S16&rpar; Is Hiring a Lead DevOps Engineer for Solar Software](https://jobs.lever.co/RaptorMaps/fd02133c-138e-4926-9f75-875233e1d1f7)
+- [Tolkien&#39;s Paintings](https://www.tolkienestate.com/painting/#illustration)
+- [Cloudflare have made it impossible for me to unsubscribe from marketing emails](https://news.ycombinator.com/item?id=30764757)
+- [KeePassXC 2.7.0](https://keepassxc.org/blog/2022-03-21-2.7.0-released//)
+- [Predicting that Dune will win Best Picture by analyzing coughs and sneezes](https://journal-doi.org/10.731/pcbi.1007742/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
