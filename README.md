@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frustration: One Year with R](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
 - [Study show that people think that data analysts and accountants are boring](https://journals.sagepub.com/doi/10.1177/01461672221079104)
 - [Electricity map: Mapping the climate impact of electricity](https://app.electricitymap.org/map)
-- [OVHcloud fire SBG2 data center had no extinguisher, no power cut-out](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-report-sbg2-data-center-had-wooden-ceilings-no-extinguisher-and-no-power-cut-out/)
+- [OVHcloud fire: SBG2 data center had no extinguisher, no power cut-out](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-report-sbg2-data-center-had-wooden-ceilings-no-extinguisher-and-no-power-cut-out/)
 - [Lapsus$ hackers leak 37GB of Microsoft&#39;s alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
-- [Mercedes to accept legal responsibility for a vehicle when Drive Pilot is active](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
