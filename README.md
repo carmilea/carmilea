@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 18 / JDK 18: General Availability](https://mail.openjdk.java.net/pipermail/jdk-dev/2022-March/006458.html)
-- [Bentō is an alive, unstable Japanese noise box by Giorgio Sancristoforo](https://cdm.link/2022/03/bento-is-an-alive-unstable-japanese-noise-box-by-giorgio-sancristoforo/)
-- [Scaling product analytics built on ClickHouse](https://posthog.com/blog/secrets-of-posthog-query-performance)
-- [Facebook approved 8 paid ads inciting violence and genocide against the Rohingya](https://apnews.com/article/technology-business-bangladesh-myanmar-united-nations-f7d89e38c54f7bae464762fa23bd96b2)
-- [Royal Mint to build ‘world first’ plant to turn UK’s electronic waste into gold](https://www.royalmint.com/aboutus/press-centre/the-royal-mint-to-build-world-first-plant-to-turn-uks-electronic-waste-into-gold/)
+- [Connecting a Gaming PC to Apple Studio Display](https://justin.searls.co/posts/connecting-a-gaming-pc-to-apple-studio-display/)
+- [GitHub Incident](https://www.githubstatus.com/incidents/83lq7ftk19r5)
+- [Launch HN: Helio Sleep &lpar;YC S21&rpar; – One-stop portal for sleep apnea](https://www.heliosleep.com//)
+- [Ask HN: Who operates at scale without containers?](https://news.ycombinator.com/item?id=30767393)
+- [Show HN: BoxyHQ – open-source alternative to Auth0/WorkOS &lpar;boxyhq.com&rpar;](https://news.ycombinator.com/item?id=30767084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
