@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting a Gaming PC to Apple Studio Display](https://justin.searls.co/posts/connecting-a-gaming-pc-to-apple-studio-display/)
+- [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
+- [Covid and the Heart: It Spares No One – Johns Hopkins](https://publichealth.jhu.edu/2022/covid-and-the-heart-it-spares-no-one)
+- [Connecting a gaming PC to Apple Studio Display](https://justin.searls.co/posts/connecting-a-gaming-pc-to-apple-studio-display/)
 - [GitHub Incident](https://www.githubstatus.com/incidents/83lq7ftk19r5)
-- [Launch HN: Helio Sleep &lpar;YC S21&rpar; – One-stop portal for sleep apnea](https://www.heliosleep.com//)
-- [Ask HN: Who operates at scale without containers?](https://news.ycombinator.com/item?id=30767393)
-- [Show HN: BoxyHQ – open-source alternative to Auth0/WorkOS &lpar;boxyhq.com&rpar;](https://news.ycombinator.com/item?id=30767084)
+- [Nvidia Hopper GPU Architecture and H100 Accelerator](https://www.anandtech.com/show/17327/nvidia-hopper-gpu-architecture-and-h100-accelerator-announced)
 <!-- BLOG-POST-LIST:END -->
 
 ---
