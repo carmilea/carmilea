@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opvia &lpar;YC S20&rpar; Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
+- [In Praise of Memorization](http://www.pearlleff.com/in-praise-of-memorization)
 - [Hackers claim to have breached Okta systems](https://twitter.com/_MG_/status/1506109152665382920)
 - [First Raspberry Pi Powered Ultra-Small Form Factor Rugged for Defense, Aerospace](https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html)
 - [Exploring and mapping chemical space with molecular assembly trees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8462901/)
-- [&#39;Perfect Blue&#39; and &#39;Requiem for a Dream&#39;](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue)
-- [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
