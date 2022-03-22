@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nasal spray could prevent Alzheimer’s disease, brain inflammation](https://www.braintomorrow.com/2022/03/21/nasal-spray-alzheimers-memory/)
+- [Nushell 0.60 Released](https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html)
 - [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
-- [Kubernetes&#39; dirty endpoint secret and Ingress](https://philpearl.github.io/post/k8s_ingress/)
-- [Our Fundamental Right to Shame and Shun the New York Times](https://popehat.substack.com/p/our-fundamental-right-to-shame-and)
-- [BuzzFeed investors have pushed CEO Jonah Peretti to shut down entire newsroom](https://www.cnbc.com/2022/03/22/buzzfeed-investors-have-pushed-ceo-jonah-peretti-to-shut-down-newsroom.html)
+- [Minimum Viable Declarative GUI in C++](https://ossia.io/posts/minimum-viable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
