@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps hacked to fake a traffic jam](http://www.simonweckert.com/googlemapshacks.html)
+- [The takeover of America&#39;s legal system](https://bariweiss.substack.com/p/the-takeover-of-americas-legal-system)
 - [Raptor Maps &lpar;YC S16&rpar; Is Hiring a Lead DevOps Engineer for Solar Software](https://jobs.lever.co/RaptorMaps/fd02133c-138e-4926-9f75-875233e1d1f7)
 - [Tolkien&#39;s Paintings](https://www.tolkienestate.com/painting/#illustration)
 - [Cloudflare have made it impossible for me to unsubscribe from marketing emails](https://news.ycombinator.com/item?id=30764757)
-- [KeePassXC 2.7.0](https://keepassxc.org/blog/2022-03-21-2.7.0-released//)
-- [Predicting that Dune will win Best Picture by analyzing coughs and sneezes](https://journal-doi.org/10.731/pcbi.1007742/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
