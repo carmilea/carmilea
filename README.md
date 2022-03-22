@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Before the Fall of the Roman Republic: Income Inequality, Xenophobia](https://www.smithsonianmag.com/history/fall-roman-republic-income-inequality-and-xenophobia-threatened-its-foundations-180967249/)
+- [&#39;Perfect Blue&#39; and &#39;Requiem for a Dream&#39;](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue)
 - [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
 - [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
 - [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
-- [Literate programming is much more than just commenting code](https://justinmeiners.github.io/literate-programming/)
-- [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
