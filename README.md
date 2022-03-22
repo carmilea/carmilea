@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative](https://github.com/appwrite/appwrite)
+- [Nvidia Grace CPU](https://www.nvidia.com/en-us/data-center/grace-cpu/)
 - [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
 - [Covid and the Heart: It Spares No One – Johns Hopkins](https://publichealth.jhu.edu/2022/covid-and-the-heart-it-spares-no-one)
-- [Connecting a gaming PC to Apple Studio Display](https://justin.searls.co/posts/connecting-a-gaming-pc-to-apple-studio-display/)
-- [GitHub Incident](https://www.githubstatus.com/incidents/83lq7ftk19r5)
-- [Nvidia Hopper GPU Architecture and H100 Accelerator](https://www.anandtech.com/show/17327/nvidia-hopper-gpu-architecture-and-h100-accelerator-announced)
+- [Clojure 1.11 is now available](https://clojure.org/news/2022/03/22/clojure-1-11-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
