@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
+- [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
 - [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
+- [Literate programming is much more than just commenting code](https://justinmeiners.github.io/literate-programming/)
 - [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
-- [Headlines compared: Polish newspapers from 1939 and news websites from 2022](https://www.sewerynszwarocki.pl/those-who-cannot-learn-from-history-are-doomed-to-repeat-it/)
-- [Skio &lpar;subscriptions for Shopify, above market comp&rpar; is hiring eng in NYC](https://skio.com/careers/)
-- [React Arborist – A full-featured tree component for React](https://github.com/brimdata/react-arborist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
