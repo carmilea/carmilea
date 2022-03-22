@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuzzFeed investors have pushed CEO Jonah Peretti to shut down entire newsroom](https://www.cnbc.com/2022/03/22/buzzfeed-investors-have-pushed-ceo-jonah-peretti-to-shut-down-newsroom.html)
+- [Hyper-Realistic Digital Humans in Unity](https://unity.com/demos/enemies)
+- [Updated Okta Statement on Lapsus$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
+- [Adafruit requires 2FA to prevent bots buying out Raspberry Pi](https://blog.adafruit.com/2022/03/17/verified-accounts-secured-with-2fa-for-some-high-demand-products/)
 - [Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative](https://github.com/appwrite/appwrite)
-- [Nvidia Grace CPU](https://www.nvidia.com/en-us/data-center/grace-cpu/)
-- [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
-- [Covid and the Heart: It Spares No One – Johns Hopkins](https://publichealth.jhu.edu/2022/covid-and-the-heart-it-spares-no-one)
-- [Clojure 1.11 is now available](https://clojure.org/news/2022/03/22/clojure-1-11-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
