@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hackers claim to have breached Okta systems](https://twitter.com/_MG_/status/1506109152665382920)
 - [First Raspberry Pi Powered Ultra-Small Form Factor Rugged for Defense, Aerospace](https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html)
-- [Before the Fall of the Roman Republic](https://www.smithsonianmag.com/history/fall-roman-republic-income-inequality-and-xenophobia-threatened-its-foundations-180967249/)
 - [Exploring and mapping chemical space with molecular assembly trees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8462901/)
 - [&#39;Perfect Blue&#39; and &#39;Requiem for a Dream&#39;](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue)
+- [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
