@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
+- [Automation Is a Myth](https://www.sup.org/books/title/?id=34899&bottom_ref=subject)
+- [Ask HN: Google has locked me out of the account](https://news.ycombinator.com/item?id=30770671)
 - [Our Fundamental Right to Shame and Shun the New York Times](https://popehat.substack.com/p/our-fundamental-right-to-shame-and)
 - [BuzzFeed investors have pushed CEO Jonah Peretti to shut down entire newsroom](https://www.cnbc.com/2022/03/22/buzzfeed-investors-have-pushed-ceo-jonah-peretti-to-shut-down-newsroom.html)
-- [Hyper-Realistic Digital Humans in Unity](https://unity.com/demos/enemies)
-- [Updated Okta Statement on Lapsus$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
-- [Adafruit requires 2FA to prevent bots buying out Raspberry Pi](https://blog.adafruit.com/2022/03/17/verified-accounts-secured-with-2fa-for-some-high-demand-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
