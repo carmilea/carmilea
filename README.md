@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OVHcloud fire SBG2 data center had wooden ceilings, no extinguisher](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-report-sbg2-data-center-had-wooden-ceilings-no-extinguisher-and-no-power-cut-out/)
+- [Lapsus$ hackers leak 37GB of Microsoft&#39;s alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
 - [Mercedes Drive Pilot Beats Tesla Autopilot by Taking Legal Responsibility](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/)
 - [Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent](https://news.ycombinator.com/item?id=30763464)
 - [Opvia &lpar;YC S20&rpar; Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
-- [In Praise of Memorization](http://www.pearlleff.com/in-praise-of-memorization)
-- [Hackers claim to have breached Okta systems](https://twitter.com/_MG_/status/1506109152665382920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
