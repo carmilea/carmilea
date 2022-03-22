@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps hacked to fake a traffic jam](http://www.simonweckert.com/googlemapshacks.html)
+- [Launch HN: Reality Defender &lpar;YC W22&rpar; – Deepfake Detection Platform](https://news.ycombinator.com/item?id=30766050)
+- [Deep Learning on Electronic Medical Records is doomed to fail](https://www.moderndescartes.com/essays/deep_learning_emr/)
+- [Ask HN: Do you contribute to open source projects?](https://news.ycombinator.com/item?id=30765596)
+- [Google Maps Hacks &lpar;2020&rpar;](http://www.simonweckert.com/googlemapshacks.html)
 - [The takeover of America&#39;s legal system](https://bariweiss.substack.com/p/the-takeover-of-americas-legal-system)
-- [Raptor Maps &lpar;YC S16&rpar; Is Hiring a Lead DevOps Engineer for Solar Software](https://jobs.lever.co/RaptorMaps/fd02133c-138e-4926-9f75-875233e1d1f7)
-- [Tolkien&#39;s Paintings](https://www.tolkienestate.com/painting/#illustration)
-- [Cloudflare have made it impossible for me to unsubscribe from marketing emails](https://news.ycombinator.com/item?id=30764757)
 <!-- BLOG-POST-LIST:END -->
 
 ---
