@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
-- [Automation Is a Myth](https://www.sup.org/books/title/?id=34899&bottom_ref=subject)
-- [Ask HN: Google has locked me out of the account](https://news.ycombinator.com/item?id=30770671)
+- [Kubernetes&#39; dirty endpoint secret and Ingress](https://philpearl.github.io/post/k8s_ingress/)
 - [Our Fundamental Right to Shame and Shun the New York Times](https://popehat.substack.com/p/our-fundamental-right-to-shame-and)
 - [BuzzFeed investors have pushed CEO Jonah Peretti to shut down entire newsroom](https://www.cnbc.com/2022/03/22/buzzfeed-investors-have-pushed-ceo-jonah-peretti-to-shut-down-newsroom.html)
 <!-- BLOG-POST-LIST:END -->
