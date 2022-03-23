@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prefix &lpar;YC W21&rpar; is hiring founding engineers](https://www.prefix.app/jobs)
+- [Apple’s super-powerful Mac Studio was almost two decades in the making](https://www.gq-magazine.co.uk/lifestyle/article/apple-mac-studio-display)
+- [Launch HN: Charge Robotics &lpar;YC S21&rpar; - Robots that build solar farms](https://news.ycombinator.com/item?id=30780455)
+- [Why Big Nations Lose Small Wars &lpar;Paper, 1975&rpar; [pdf]](https://web.stanford.edu/class/polisci211z/2.2/Mack%20WP%201975%20Asymm%20Conf.pdf)
 - [Render: Redis That Just Works](https://render.com/blog/redis)
-- [Ask HN: How likely are we to see a financial crash this year?](https://news.ycombinator.com/item?id=30779645)
-- [Not smart but clever? The return of &#39;dumbphones&#39;](https://www.bbc.co.uk/news/business-60763168)
-- [GitHub incident 2022-03-23](https://www.githubstatus.com/incidents/tyc8wpsgr2r8)
-- [Tea – the toolkit that builds the Internet](https://tea.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
