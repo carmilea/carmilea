@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
+- [What’s a fire and why does it burn?](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
+- [Scooping the Loop Snooper: proof of the undecidability of the halting problem [pdf]](https://www.cs.rice.edu/~vardi/comp409/scooping.pdf)
 - [Finley &lpar;YC W21&rpar; is hiring to build B2B fintech software &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [Crypto exchange revenue jumps by 600% and surpasses traditional markets in 2021](https://financefeeds.com/crypto-exchange-revenue-jumps-600-surpasses-traditional-markets-2021/)
-- [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
-- [Teclis – Non-commercial web search](http://teclis.com)
-- [Ask HN: What do you wish you had done/known in your 30s?](https://news.ycombinator.com/item?id=30782994)
+- [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
