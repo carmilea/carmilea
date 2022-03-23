@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Is Centralized &lpar;and Inefficient&rpar;](https://www.neelc.org/posts/web3-centralized/)
 - [New Updated Okta Statement on Lapsus$ &lpar;3/22 6:31 PST Update&rpar;](https://news.ycombinator.com/item?id=30774193)
 - [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
 - [Honduras Is Not For Sale &lpar;2021&rpar;](https://www.hondurasisnotforsale.org)
 - [Old imageshack images have a 1:5 chance of showing a Ukranian flag](https://lucb1e.com/randomprojects/crapware/nowarmaybe.html)
-- [The AI Research Residency Program](https://huggingface.co/blog/ai-residency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
