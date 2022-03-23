@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nasal spray could prevent Alzheimer’s disease, brain inflammation](https://www.braintomorrow.com/2022/03/21/nasal-spray-alzheimers-memory/)
-- [Nushell 0.60 Released](https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html)
-- [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
-- [SafeButler &lpar;YC S17&rpar; Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
-- [Minimum Viable Declarative GUI in C++](https://ossia.io/posts/minimum-viable/)
+- [Honduras Is Not For Sale](https://www.hondurasisnotforsale.org)
+- [Old imageshack images have a 1:5 chance of showing a Ukranian flag](https://lucb1e.com/randomprojects/crapware/nowarmaybe.html)
+- [The AI Research Residency Program](https://huggingface.co/blog/ai-residency)
+- [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch)
+- [Completely Locked-In Patients Can Communicate, Thanks to a Brain Implant &lpar;BCI&rpar;](https://www.technologynetworks.com/neuroscience/news/for-the-first-time-a-completely-locked-in-patient-can-communicate-thanks-to-brain-implant-359819)
 <!-- BLOG-POST-LIST:END -->
 
 ---
