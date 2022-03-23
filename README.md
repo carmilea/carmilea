@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify and Google Announce User Choice Billing](https://newsroom.spotify.com/2022-03-23/spotify-and-google-announce-user-choice-billing/)
-- [The Keys to the Kingdom](https://queue.acm.org/detail.cfm?id=3511664)
-- [Linear Hammer: PCA is not a panacea &lpar;2013&rpar;](https://danluu.com/linear-hammer/)
-- [Why income share agreements did not work out](https://twitter.com/seanlinehan/status/1505923007096700939)
-- [SystemSix](https://www.engineersneedart.com/systemsix/systemsix.html)
+- [Finley &lpar;YC W21&rpar; is hiring to build B2B fintech software &lpar;remote&rpar;](https://www.finleycms.com/careers/)
+- [Crypto exchange revenue jumps by 600% and surpasses traditional markets in 2021](https://financefeeds.com/crypto-exchange-revenue-jumps-600-surpasses-traditional-markets-2021/)
+- [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+- [Teclis – Non-commercial web search](http://teclis.com)
+- [Ask HN: What do you wish you had done/known in your 30s?](https://news.ycombinator.com/item?id=30782994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
