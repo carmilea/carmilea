@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A one in a million bug in Switch kernel](https://gist.githubusercontent.com/plutooo/2aadbd4a718e269df474079dd2e584fb/raw/7b3af77b5202366c8934c88ef251f1e905967040/gistfile1.txt)
+- [Okta’s Investigation of the January 2022 Compromise](https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/)
+- [A one in a million bug in Switch kernel](https://gist.github.com/plutooo/2aadbd4a718e269df474079dd2e584fb/)
+- [I won an award from the FSF for my contributions to Emacs](https://protesilaos.com/codelog/2022-03-22-libreplanet-fsf-award/)
 - [Web3 Is Centralized &lpar;and Inefficient&rpar;](https://www.neelc.org/posts/web3-centralized/)
-- [DEV-0537 &lpar;LAPSUS$&rpar; Criminal actor targeting organizations](https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/)
-- [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
-- [Honduras Is Not For Sale &lpar;2021&rpar;](https://www.hondurasisnotforsale.org)
-- [Old imageshack images have a 1:5 chance of showing a Ukranian flag](https://lucb1e.com/randomprojects/crapware/nowarmaybe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
