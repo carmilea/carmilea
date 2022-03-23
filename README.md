@@ -54,8 +54,8 @@
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 - [Original source code for the PowerVR Series 1 GPUs](https://github.com/powervr-graphics/PowerVR-Series1)
 - [Amazon Corretto 18 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-corretto-18/)
-- [NLAW anti-tank launcher unboxing and instructions video](https://www.youtube.com/watch?v=LUDrLFrfr_s)
 - [Mars helicopter Ingenuity completes 22nd flight](https://www.upi.com/Science_News/2022/03/22/Mars-helicopter-Ingenuity-completes-22nd-flight/9021647987696/)
+- [Thank You HN](https://news.ycombinator.com/item?id=30776808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
