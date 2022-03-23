@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Certificate Transparency Search page to be discontinued May 15th, 2022](https://transparencyreport.google.com/https/certificates)
-- [Start Self Hosting](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
-- [“Signify forces people to work in the office”](https://bits-chips.nl/artikel/signify-forces-people-to-work-in-the-office/)
-- [Pocket-sized cloud with a Raspberry Pi](https://blog.alexellis.io/your-pocket-sized-cloud/)
-- [In The Pipeline: These Are Real Compounds](https://www.science.org/content/blog-post/these-are-real-compounds)
+- [Spotify and Google Announce User Choice Billing](https://newsroom.spotify.com/2022-03-23/spotify-and-google-announce-user-choice-billing/)
+- [The Keys to the Kingdom](https://queue.acm.org/detail.cfm?id=3511664)
+- [Linear Hammer: PCA is not a panacea &lpar;2013&rpar;](https://danluu.com/linear-hammer/)
+- [Why income share agreements did not work out](https://twitter.com/seanlinehan/status/1505923007096700939)
+- [SystemSix](https://www.engineersneedart.com/systemsix/systemsix.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
