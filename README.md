@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dum: An NPM scripts runner written in Rust](https://github.com/egoist/dum)
+- [Apple acquires UK open banking startup](https://ffnews.com/newsarticle/apple-acquires-uk-open-banking-startup-credit-kudos/)
+- [Show HN: We made an open-source personalization engine](https://github.com/metarank/metarank)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 - [Original source code for the PowerVR Series 1 GPUs](https://github.com/powervr-graphics/PowerVR-Series1)
-- [Amazon Corretto 18 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-corretto-18/)
-- [Mars helicopter Ingenuity completes 22nd flight](https://www.upi.com/Science_News/2022/03/22/Mars-helicopter-Ingenuity-completes-22nd-flight/9021647987696/)
-- [Thank You HN](https://news.ycombinator.com/item?id=30776808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
