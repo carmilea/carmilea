@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
+- [A Closer Look at the Lapsus$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/)
 - [What’s a fire and why does it burn?](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
+- [John Roach, Pioneer of the Personal Computer, Has Died](https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html)
 - [Scooping the Loop Snooper: proof of the undecidability of the halting problem [pdf]](https://www.cs.rice.edu/~vardi/comp409/scooping.pdf)
-- [Finley &lpar;YC W21&rpar; is hiring to build B2B fintech software &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
