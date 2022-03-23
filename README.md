@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Honduras Is Not For Sale](https://www.hondurasisnotforsale.org)
+- [New Updated Okta Statement on Lapsus$ &lpar;3/22 6:31 PST Update&rpar;](https://news.ycombinator.com/item?id=30774193)
+- [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
+- [Honduras Is Not For Sale &lpar;2021&rpar;](https://www.hondurasisnotforsale.org)
 - [Old imageshack images have a 1:5 chance of showing a Ukranian flag](https://lucb1e.com/randomprojects/crapware/nowarmaybe.html)
 - [The AI Research Residency Program](https://huggingface.co/blog/ai-residency)
-- [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch)
-- [Completely Locked-In Patients Can Communicate, Thanks to a Brain Implant &lpar;BCI&rpar;](https://www.technologynetworks.com/neuroscience/news/for-the-first-time-a-completely-locked-in-patient-can-communicate-thanks-to-brain-implant-359819)
 <!-- BLOG-POST-LIST:END -->
 
 ---
