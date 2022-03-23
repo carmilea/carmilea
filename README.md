@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank You HN](https://news.ycombinator.com/item?id=30776808)
+- [Ethernet&#39;s Emergence from Xerox PARC](https://r6.ieee.org/sv-techhistory/?page_id=318)
 - [Firefox now only available via snap on Ubuntu](https://old.reddit.com/r/Ubuntu/comments/tjwsza/firefox_now_only_available_via_snap/)
 - [Anne Frank betrayal book pulled after findings discredited](https://www.bbc.co.uk/news/world-europe-60843577)
 - [F-Droid Is Unreachable](https://f-droid.org)
-- [App breaks past the MacBook brightness limit to 1600nits](https://lunar.fyi/changelog)
-- [Ashby &lpar;YC W19&rpar; is hiring. Build automation that saves recruiting teams and4h/day](https://www.ashbyhq.com/careers?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
