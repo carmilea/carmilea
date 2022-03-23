@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Start Self Hosting](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
+- [Google&#39;s Certificate Transparency Search page to be discontinued May 15th, 2022](https://transparencyreport.google.com/https/certificates)
+- [Start Self Hosting](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
+- [“Signify forces people to work in the office”](https://bits-chips.nl/artikel/signify-forces-people-to-work-in-the-office/)
 - [Pocket-sized cloud with a Raspberry Pi](https://blog.alexellis.io/your-pocket-sized-cloud/)
-- [Roberta Williams, the Queen of Graphic Adventure Video Games](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games)
-- [Show HN: Write sci-fi, promote science, and win prizes](https://dotscifi.com/)
-- [Prefix &lpar;YC W21&rpar; is hiring founding engineers](https://www.prefix.app/jobs)
+- [In The Pipeline: These Are Real Compounds](https://www.science.org/content/blog-post/these-are-real-compounds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
