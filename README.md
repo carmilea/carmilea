@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Render: Redis That Just Works](https://render.com/blog/redis)
+- [Ask HN: How likely are we to see a financial crash this year?](https://news.ycombinator.com/item?id=30779645)
+- [Not smart but clever? The return of &#39;dumbphones&#39;](https://www.bbc.co.uk/news/business-60763168)
 - [GitHub incident 2022-03-23](https://www.githubstatus.com/incidents/tyc8wpsgr2r8)
-- [Another Vulnerability in the LPC55S69 ROM](https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom)
-- [The Wisdom in Kung Fu Panda](https://moviewise.substack.com/p/the-wisdom-in-kung-fu-panda)
-- [What did www.python.org look like from 1996 to 2021?](https://whatdiditlooklike.mementoweb.org/post/639415402106142720/what-did-httpswwwpythonorg-look-like-from)
-- [Dum: An NPM scripts runner written in Rust](https://github.com/egoist/dum)
+- [Tea – the toolkit that builds the Internet](https://tea.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
