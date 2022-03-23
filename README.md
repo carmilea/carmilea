@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Start Self Hosting](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
+- [Pocket-sized cloud with a Raspberry Pi](https://blog.alexellis.io/your-pocket-sized-cloud/)
+- [Roberta Williams, the Queen of Graphic Adventure Video Games](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games)
+- [Show HN: Write sci-fi, promote science, and win prizes](https://dotscifi.com/)
 - [Prefix &lpar;YC W21&rpar; is hiring founding engineers](https://www.prefix.app/jobs)
-- [Apple’s super-powerful Mac Studio was almost two decades in the making](https://www.gq-magazine.co.uk/lifestyle/article/apple-mac-studio-display)
-- [Launch HN: Charge Robotics &lpar;YC S21&rpar; - Robots that build solar farms](https://news.ycombinator.com/item?id=30780455)
-- [Why Big Nations Lose Small Wars &lpar;Paper, 1975&rpar; [pdf]](https://web.stanford.edu/class/polisci211z/2.2/Mack%20WP%201975%20Asymm%20Conf.pdf)
-- [Render: Redis That Just Works](https://render.com/blog/redis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
