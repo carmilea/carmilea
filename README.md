@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox now only available via snap on Ubuntu](https://old.reddit.com/r/Ubuntu/comments/tjwsza/firefox_now_only_available_via_snap/)
+- [Anne Frank betrayal book pulled after findings discredited](https://www.bbc.co.uk/news/world-europe-60843577)
+- [F-Droid Is Unreachable](https://f-droid.org)
+- [App breaks past the MacBook brightness limit to 1600nits](https://lunar.fyi/changelog)
 - [Ashby &lpar;YC W19&rpar; is hiring. Build automation that saves recruiting teams and4h/day](https://www.ashbyhq.com/careers?utm_source=hn)
-- [Remove Google Account After Factory Reset](https://support.google.com/accounts/thread/5783037/remove-google-account-after-factory-reset?hl=en)
-- [A one in a million bug in Switch kernel](https://gist.githubusercontent.com/plutooo/2aadbd4a718e269df474079dd2e584fb/raw/7b3af77b5202366c8934c88ef251f1e905967040/gistfile1.txt)
-- [Okta’s Investigation of the January 2022 Compromise](https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/)
-- [How to properly interpret a traceroute or mtr](https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
