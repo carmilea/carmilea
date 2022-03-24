@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developers of small modular reactors hope their time has come](https://www.economist.com/science-and-technology/developers-of-small-modular-reactors-hope-their-time-has-come/21808321)
 - [Manara &lpar;YC W21&rpar; Is Hiring a Full Slack Engineer](https://manara.breezy.hr/p/1cebbb12d138-full-stack-javascript-engineer)
 - [Stephen E. Wilhite has died](https://www.megiefuneralhome.com/obituaries/Stephen-E.-Wilhite?obId=24311617#)
 - [I have quit my job](https://bitspook.in/blog/i-have-quit-my-job/)
 - [AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks](https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks)
-- [Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.](http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
