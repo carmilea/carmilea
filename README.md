@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Does Java need a modern Java UI toolkit for desktop/web?](https://news.ycombinator.com/item?id=30789337)
+- [Open source ‘protestware’ harms Open Source](https://opensource.org/open-source-protestware-harms-open-source)
+- [Belief in Having Had Covid-19 Linked with Long Covid Symptoms](https://jamanetwork.com/journals/jama/fullarticle/2787741)
+- [YouTuber Builds His Own X-Ray Machine After $69K Hospital Bill](https://www.popularmechanics.com/technology/a37543273/homemade-xray-machine/)
 - [PlanetScale Rewind: Revert a migration without losing data](https://planetscale.com/blog/its-fine-rewind-revert-a-migration-without-losing-data)
-- [Wasp &lpar;YC W21&rpar; Is Hiring a DevRel](https://news.ycombinator.com/item?id=30788655)
-- [If you’re not using SSH certificates you’re doing SSH wrong &lpar;2019&rpar;](https://smallstep.com/blog/use-ssh-certificates/)
-- [Complaints mount after GitHub launches new algorithmic feed](https://www.theregister.com/2022/03/23/github_for_you/)
-- [Nearly 75% of US counties lost population last year as deaths outnumbered births](https://www.washingtonpost.com/dc-md-va/2022/03/24/census-population-counties-cities-covid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
