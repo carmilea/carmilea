@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber will feature NYC taxi cabs in its app under groundbreaking new deal](https://www.theverge.com/2022/3/24/22994332/uber-yellow-taxi-app-nyc-curb-cmt-arro-deal)
-- [Ask HN: Does anyone else question USB-C as an “improvement”?](https://news.ycombinator.com/item?id=30789426)
-- [Open Golf: A cross-platform minigolf game written in C](https://github.com/mgerdes/Open-Golf)
-- [Ask HN: Does Java need a modern Java UI toolkit for desktop/web?](https://news.ycombinator.com/item?id=30789337)
-- [Aaron Swartz introducing Infogami &lpar;2006&rpar;](https://web.archive.org/web/20060406193342/http://infogami.com/)
+- [Heap Overflow in OpenBSD&#39;s Slaacd via Router Advertisement](https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html)
+- [GitHub incident: 2022/03/24](https://www.githubstatus.com/incidents/y5hdmv0p49x3)
+- [Awesome Pascal – A curated list of Delphi, FreePascal, and Pascal shiny things](https://github.com/Fr0sT-Brutal/awesome-pascal)
+- [Powerful people feel, express less gratitude](https://news.cornell.edu/stories/2022/03/powerful-people-feel-express-less-gratitude)
+- [Show HN: Kestra - Open-Source Airflow Alternative](https://github.com/kestra-io/kestra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
