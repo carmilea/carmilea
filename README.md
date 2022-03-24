@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber will feature NYC taxi cabs in its app under groundbreaking new deal](https://www.theverge.com/2022/3/24/22994332/uber-yellow-taxi-app-nyc-curb-cmt-arro-deal)
+- [Ask HN: Does anyone else question USB-C as an “improvement”?](https://news.ycombinator.com/item?id=30789426)
+- [Open Golf: A cross-platform minigolf game written in C](https://github.com/mgerdes/Open-Golf)
 - [Ask HN: Does Java need a modern Java UI toolkit for desktop/web?](https://news.ycombinator.com/item?id=30789337)
-- [Open source ‘protestware’ harms Open Source](https://opensource.org/open-source-protestware-harms-open-source)
-- [Belief in Having Had Covid-19 Linked with Long Covid Symptoms](https://jamanetwork.com/journals/jama/fullarticle/2787741)
-- [YouTuber Builds His Own X-Ray Machine After $69K Hospital Bill](https://www.popularmechanics.com/technology/a37543273/homemade-xray-machine/)
-- [PlanetScale Rewind: Revert a migration without losing data](https://planetscale.com/blog/its-fine-rewind-revert-a-migration-without-losing-data)
+- [Aaron Swartz introducing Infogami &lpar;2006&rpar;](https://web.archive.org/web/20060406193342/http://infogami.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
