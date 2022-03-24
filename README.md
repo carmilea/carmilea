@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stephen E. Wilhite, one of the inventors of the GIF, has died](https://www.megiefuneralhome.com/obituaries/Stephen-E.-Wilhite?obId=24311617#)
-- [SFFA argues in Supreme Court that Harvard imposed an illegal “Asian penalty”](https://www.washingtonpost.com/politics/2022/02/22/supreme-court-harvard-affirmative-action/)
+- [Manara &lpar;YC W21&rpar; Is Hiring a Full Slack Engineer](https://manara.breezy.hr/p/1cebbb12d138-full-stack-javascript-engineer)
+- [Stephen E. Wilhite has died](https://www.megiefuneralhome.com/obituaries/Stephen-E.-Wilhite?obId=24311617#)
 - [I have quit my job](https://bitspook.in/blog/i-have-quit-my-job/)
 - [AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks](https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks)
 - [Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.](http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html)
