@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+- [Master Styles – The First Virtual CSS Engine](https://styles.master.co/)
 - [Global music market grew by 18.5% in 2021, driven by paid subscription streaming](https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-18-5-in-2021/)
 - [The Cube Rule](https://cuberule.com/)
 - [Swapping two Numbers without Temporary Variables](https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp)
-- [The illusion of evidence based medicine](https://www.bmj.com/content/376/bmj.o702)
-- [Launch HN: Carbon Crusher &lpar;YC W22&rpar; – Carbon Negative Roads](https://news.ycombinator.com/item?id=30793076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
