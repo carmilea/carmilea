@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
+- [MDN Plus](https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/)
+- [A Way Out for A.out](https://lwn.net/SubscriberLink/888741/5e43489d7ebeda7f/)
+- [Crows know what they know and can ponder the content of their own minds](https://www.statnews.com/2020/09/24/crows-possess-higher-intelligence-long-thought-primarily-human/)
 - [Video: Why Open Data Matters for Cycling: Visualizing a Cycling City](https://www.trufi-association.org/video-why-open-data-matters-for-cycling-visualizing-a-cycling-city/)
-- [Objects in SingleStore, Part 2](https://www.singlestore.com/blog/objects-in-singlestore-part-2)
-- [Arguing Without Warning](https://dynomight.net/arguing/)
-- [Upcoming changes to user limits on Free tier of Gitlab SaaS](https://about.gitlab.com/blog/2022/03/24/efficient-free-tier/)
-- [Heap Overflow in OpenBSD&#39;s Slaacd via Router Advertisement](https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
