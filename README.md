@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swapping two Numbers without Temporary Variables](https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp)
+- [The illusion of evidence based medicine](https://www.bmj.com/content/376/bmj.o702)
 - [Launch HN: Carbon Crusher &lpar;YC W22&rpar; – Carbon Negative Roads](https://news.ycombinator.com/item?id=30793076)
 - [The Feynman Lectures on Physics](https://feynmanlectures.caltech.edu/)
 - [Using FujiFilm SDK on a Camera Voids Its Warranty](https://fujifilm-x.com/global/special/camera-control-sdk/agreement/)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
-- [MDN Plus](https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
