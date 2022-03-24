@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How we analyzed and fixed a Golang memory leak](https://www.glean.com/blog/how-we-analyzed-and-fixed-a-golang-memory-leak)
+- [But life had other plans](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
 - [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
 - [A Closer Look at the Lapsus$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/)
-- [What’s a fire and why does it burn?](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
-- [John Roach, Pioneer of the Personal Computer, Has Died](https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html)
-- [Scooping the Loop Snooper: proof of the undecidability of the halting problem [pdf]](https://www.cs.rice.edu/~vardi/comp409/scooping.pdf)
+- [What’s a fire and why does it burn? &lpar;2016&rpar;](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
