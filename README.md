@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Uptick in spam based on GitHub activity](https://news.ycombinator.com/item?id=30787677)
-- [Ask HN: What happened to surveillance camera guy?](https://news.ycombinator.com/item?id=30787430)
-- [Show HN: Did you know that your brain reads faster than your eye?](https://bionic-reading.com/)
-- [Developers of small modular reactors hope their time has come](https://www.economist.com/science-and-technology/developers-of-small-modular-reactors-hope-their-time-has-come/21808321)
-- [Manara &lpar;YC W21&rpar; Is Hiring a Full Slack Engineer](https://manara.breezy.hr/p/1cebbb12d138-full-stack-javascript-engineer)
+- [PlanetScale Rewind: Revert a migration without losing data](https://planetscale.com/blog/its-fine-rewind-revert-a-migration-without-losing-data)
+- [Wasp &lpar;YC W21&rpar; Is Hiring a DevRel](https://news.ycombinator.com/item?id=30788655)
+- [If you’re not using SSH certificates you’re doing SSH wrong &lpar;2019&rpar;](https://smallstep.com/blog/use-ssh-certificates/)
+- [Complaints mount after GitHub launches new algorithmic feed](https://www.theregister.com/2022/03/23/github_for_you/)
+- [Nearly 75% of US counties lost population last year as deaths outnumbered births](https://www.washingtonpost.com/dc-md-va/2022/03/24/census-population-counties-cities-covid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
