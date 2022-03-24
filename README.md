@@ -54,8 +54,8 @@
 - [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
 - [The end of the nice GTK button](https://blog.brixit.nl/the-end-of-the-nice-gtk-button/)
 - [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
-- [Daily coffee may benefit the heart](https://www.acc.org/About-ACC/Press-Releases/2022/03/23/17/55/Good-News-for-Coffee-Lovers-Daily-Coffee-May-Benefit-the-Heart)
 - [Applebee’s exec urges using high gas prices to push lower wages, sparks walkout](https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/)
+- [Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno](https://github.com/porsager/postgres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
