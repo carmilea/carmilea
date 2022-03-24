@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Carbon Crusher &lpar;YC W22&rpar; – Carbon Negative Roads](https://news.ycombinator.com/item?id=30793076)
+- [The Feynman Lectures on Physics](https://feynmanlectures.caltech.edu/)
+- [Using FujiFilm SDK on a Camera Voids Its Warranty](https://fujifilm-x.com/global/special/camera-control-sdk/agreement/)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
 - [MDN Plus](https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/)
-- [A Way Out for A.out](https://lwn.net/SubscriberLink/888741/5e43489d7ebeda7f/)
-- [Crows know what they know and can ponder the content of their own minds](https://www.statnews.com/2020/09/24/crows-possess-higher-intelligence-long-thought-primarily-human/)
-- [Video: Why Open Data Matters for Cycling: Visualizing a Cycling City](https://www.trufi-association.org/video-why-open-data-matters-for-cycling-visualizing-a-cycling-city/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
