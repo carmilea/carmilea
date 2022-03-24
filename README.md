@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Video: Why Open Data Matters for Cycling: Visualizing a Cycling City](https://www.trufi-association.org/video-why-open-data-matters-for-cycling-visualizing-a-cycling-city/)
+- [Objects in SingleStore, Part 2](https://www.singlestore.com/blog/objects-in-singlestore-part-2)
+- [Arguing Without Warning](https://dynomight.net/arguing/)
+- [Upcoming changes to user limits on Free tier of Gitlab SaaS](https://about.gitlab.com/blog/2022/03/24/efficient-free-tier/)
 - [Heap Overflow in OpenBSD&#39;s Slaacd via Router Advertisement](https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html)
-- [GitHub incident: 2022/03/24](https://www.githubstatus.com/incidents/y5hdmv0p49x3)
-- [Awesome Pascal – A curated list of Delphi, FreePascal, and Pascal shiny things](https://github.com/Fr0sT-Brutal/awesome-pascal)
-- [Powerful people feel, express less gratitude](https://news.cornell.edu/stories/2022/03/powerful-people-feel-express-less-gratitude)
-- [Show HN: Kestra - Open-Source Airflow Alternative](https://github.com/kestra-io/kestra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
