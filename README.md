@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How we analyzed and fixed a Golang memory leak](https://www.glean.com/blog/how-we-analyzed-and-fixed-a-golang-memory-leak)
+- [Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.](http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html)
 - [But life had other plans](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
 - [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
 - [A Closer Look at the Lapsus$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/)
