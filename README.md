@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks](https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks)
 - [Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.](http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html)
 - [But life had other plans](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
 - [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
 - [A Closer Look at the Lapsus$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/)
-- [What’s a fire and why does it burn? &lpar;2016&rpar;](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
