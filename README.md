@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Shrinkwrap: Taming Dynamic Shared Objects](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
+- [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/)
 - [Racing against the clock – hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
 - [Postico: A Modern PostgreSQL Client for the Mac](https://eggerapps.at/postico/)
-- [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
-- [Building a no-code toxicity classifier by talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
+- [Cooking for Engineers](http://www.cookingforengineers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
