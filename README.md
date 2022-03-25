@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Starting a Career in Programming at 61?](https://news.ycombinator.com/item?id=30802740)
-- [Making a Stainless Steel Rubik&#39;s Cube](http://lulabs.net/machining/ss-cube/)
-- [Epistemic legibility: being easy to argue with is a virtue](https://acesounderglass.com/2022/02/07/epistemic-legibility/)
-- [VoWiFi](https://computer.rip/2022-03-24-VoWiFi.html)
-- [A statically typed scripting language that transpiles to Posix sh](https://github.com/cotowali/cotowali)
+- [I built a receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
+- [Physicists create compressible “gas of light”](https://www.uni-bonn.de/en/news/053-2022)
+- [Ask HN: Do you have a dedicated QA team?](https://news.ycombinator.com/item?id=30803384)
+- [An Alleged Fraud Uncovered by a Short Seller Ends in Gunfire](https://www.wsj.com/articles/an-alleged-fraud-uncovered-by-a-short-seller-ends-in-gunfire-11648051215)
+- [Half of women will get a false positive 3D mammogram, study finds](https://www.axios.com/half-of-women-will-get-a-false-positive-3d-mammogram-study-finds-5caf02eb-e5d8-4216-82b1-ac83f36523b2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
