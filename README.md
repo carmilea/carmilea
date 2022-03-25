@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What Happened to ESR?](https://news.ycombinator.com/item?id=30800573)
-- [Ask HN: How to provide a free trial without being abused?](https://news.ycombinator.com/item?id=30800350)
-- [KyuWeb: A proposal for a simple document-oriented web](https://github.com/GarrettAlbright/KyuWeb)
-- [Java Development on an Apple M1 – A One Year Review](https://rieckpil.de/java-development-on-an-apple-m1-a-one-year-review/)
-- [EU negotiators agree new rules to rein in tech giants](https://www.politico.eu/article/eus-digital-markets-act-adopted/)
+- [First brain implant lets completely paralyzed man spell thoughts: I love my son](https://www.science.org/content/article/first-brain-implant-lets-man-complete-paralysis-spell-out-thoughts-i-love-my-cool-son)
+- [Rescale &lpar;YC W12&rpar; Is Hiring HPC Engineers](https://jobs.lever.co/rescale/21a1d1ee-ab7b-4b43-9d05-d44bb1a1f3ac?lever-origin=applied&lever-source%5B%5D=hacker-news)
+- [I let a baby bird nest in my hair for 84 days](https://www.theguardian.com/lifeandstyle/2022/mar/25/experience-i-let-a-baby-bird-nest-in-my-hair)
+- [Mark Fisher’s “K-Punk” and the Futures That Have Never Arrived &lpar;2018&rpar;](https://www.newyorker.com/books/page-turner/mark-fishers-k-punk-and-the-futures-that-have-never-arrived)
+- [Writing a Simple Operating System – From Scratch [pdf]](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
