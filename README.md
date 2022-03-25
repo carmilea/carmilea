@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m Disappointed with 1Password](https://tdinh.notion.site/I-m-very-disappointed-with-1Password-2db94d211e7d45329d5fe361bcec19ef)
 - [Meditation – Saint Christopher&#39;s Blog](https://lovehumanity.gitlab.io/meditation/)
 - [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
 - [Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
-- [Markup Language Operations in Nim to extract and remove HTML elements](https://github.com/abdulbadii/HTML-XML-Operations-Nim)
-- [The flood that filled the Mediterranean Sea - in one year](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
+- [American poverty is too high for all kinds of people](https://www.slowboring.com/p/american-poverty-is-too-high-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
