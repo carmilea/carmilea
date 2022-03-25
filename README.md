@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
+- [N2: Alternative Ninja Implementation](https://github.com/evmar/n2)
 - [API-0.core.keybaseapi.com has expired certificate](https://www.sslshopper.com/ssl-checker.html#hostname=https://api-0.core.keybaseapi.com)
+- [Why isn&#39;t there a Swagger/OpenAPI for binary formats?](http://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi)
 - [When New York City Was a Wiretapper’s Dream](https://spectrum.ieee.org/illegal-wiretapping)
-- [Interoperability without sacrificing privacy: Matrix and the DMA](https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma/)
-- [The Edited Latecomer’s Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#)
-- [Various Honda vehicles send the same, unencrypted RF signal for each door-open](https://github.com/nonamecoder/CVE-2022-27254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
