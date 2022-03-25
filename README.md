@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Old Spleens Suck](https://sarahconstantin.substack.com/p/old-spleens-suck)
 - [Stronger hands lengthen your life](https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html)
 - [Varieties of Mathematical Understanding](https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/viewer/)
 - [Mounting evidence for a 95 GeV Higgs boson](https://arxiv.org/abs/2203.13180)
 - [Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
-- [N2: Alternative Ninja Implementation](https://github.com/evmar/n2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
