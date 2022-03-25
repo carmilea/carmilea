@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU negotiators agree new rules to rein in tech giants](https://www.politico.eu/article/eus-digital-markets-act-adopted/)
+- [First Female Superstar of the Renaissance](https://www.nationalgeographic.com/history/history-magazine/article/this-italian-artist-became-the-first-female-renaissance-superstar)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a VP Product Marketing in Video Tech](https://bitmovin.com/careers/5866457002?gh_jid=5866457002)
 - [Shrinkwrap: Taming Dynamic Shared Objects](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
 - [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/)
-- [Popper’s Plato](https://hedgehogreview.com/issues/political-mythologies/articles/the-first-authoritarian)
-- [Racing against the clock – hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
