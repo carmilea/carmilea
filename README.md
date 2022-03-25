@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Happened to ESR?](https://news.ycombinator.com/item?id=30800573)
+- [Ask HN: How to provide a free trial without being abused?](https://news.ycombinator.com/item?id=30800350)
+- [KyuWeb: A proposal for a simple document-oriented web](https://github.com/GarrettAlbright/KyuWeb)
 - [Java Development on an Apple M1 – A One Year Review](https://rieckpil.de/java-development-on-an-apple-m1-a-one-year-review/)
 - [EU negotiators agree new rules to rein in tech giants](https://www.politico.eu/article/eus-digital-markets-act-adopted/)
-- [Sofonisba Anguissola, a female superstar of the Renaissance](https://www.nationalgeographic.com/history/history-magazine/article/this-italian-artist-became-the-first-female-renaissance-superstar)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a VP Product Marketing in Video Tech](https://bitmovin.com/careers/5866457002?gh_jid=5866457002)
-- [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
