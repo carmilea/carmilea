@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Shrinkwrap: Taming Dynamic Shared Objects](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
 - [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/)
+- [Popper’s Plato](https://hedgehogreview.com/issues/political-mythologies/articles/the-first-authoritarian)
 - [Racing against the clock – hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
 - [Postico: A Modern PostgreSQL Client for the Mac](https://eggerapps.at/postico/)
-- [Cooking for Engineers](http://www.cookingforengineers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
