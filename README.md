@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m Disappointed with 1Password](https://tdinh.notion.site/I-m-very-disappointed-with-1Password-2db94d211e7d45329d5fe361bcec19ef)
-- [Meditation – Saint Christopher&#39;s Blog](https://lovehumanity.gitlab.io/meditation/)
+- [Shrinkwrap: Taming Dynamic Shared Objects](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
+- [Racing against the clock – hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
+- [Postico: A Modern PostgreSQL Client for the Mac](https://eggerapps.at/postico/)
 - [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
-- [Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
-- [American poverty is too high for all kinds of people](https://www.slowboring.com/p/american-poverty-is-too-high-for)
+- [Building a no-code toxicity classifier by talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
