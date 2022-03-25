@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meditation – Saint Christopher&#39;s Blog](https://lovehumanity.gitlab.io/meditation/)
 - [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
 - [Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
 - [Markup Language Operations in Nim to extract and remove HTML elements](https://github.com/abdulbadii/HTML-XML-Operations-Nim)
 - [The flood that filled the Mediterranean Sea - in one year](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
-- [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
