@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior PMs, Engineers and VPS](https://www.tesorio.com/careers#job-openings)
-- [Cat Printer](https://github.com/rbaron/catprinter)
-- [Launch HN: Azuki &lpar;YC W22&rpar; – All-you-can-read manga subscription](https://news.ycombinator.com/item?id=30804169)
-- [I built a receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
-- [Physicists create compressible “gas of light”](https://www.uni-bonn.de/en/news/053-2022)
+- [When New York City Was a Wiretapper’s Dream](https://spectrum.ieee.org/illegal-wiretapping)
+- [The Edited Latecomer’s Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#)
+- [Various Honda vehicles send the same, unencrypted RF signal for each door-open](https://github.com/nonamecoder/CVE-2022-27254)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior PMs, Engineers and VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Another asteroid whizzes past Earth hours after discovery](https://earthsky.org/space/another-asteroid-near-earth-hours-after-discovery-sar2594/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
