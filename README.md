@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [When New York City Was a Wiretapper’s Dream](https://spectrum.ieee.org/illegal-wiretapping)
+- [Interoperability without sacrificing privacy: Matrix and the DMA](https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma/)
 - [The Edited Latecomer’s Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#)
 - [Various Honda vehicles send the same, unencrypted RF signal for each door-open](https://github.com/nonamecoder/CVE-2022-27254)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior PMs, Engineers and VP of Engineering](https://www.tesorio.com/careers#job-openings)
-- [Another asteroid whizzes past Earth hours after discovery](https://earthsky.org/space/another-asteroid-near-earth-hours-after-discovery-sar2594/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
