@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do indie devs avoid multithreading to keep programming easy and fun?](https://news.ycombinator.com/item?id=30802247)
+- [Ask HN: Starting a Career in Programming at 61?](https://news.ycombinator.com/item?id=30802740)
+- [Making a Stainless Steel Rubik&#39;s Cube](http://lulabs.net/machining/ss-cube/)
+- [Epistemic legibility: being easy to argue with is a virtue](https://acesounderglass.com/2022/02/07/epistemic-legibility/)
+- [VoWiFi](https://computer.rip/2022-03-24-VoWiFi.html)
 - [A statically typed scripting language that transpiles to Posix sh](https://github.com/cotowali/cotowali)
-- [EU and US agree ‘in principle’ on sharing data across The Atlantic](https://www.siliconrepublic.com/enterprise/eu-us-data-transfer-sharing-deal-von-der-leyen-biden-schrems)
-- [Chess Grandmaster suspended by Twitch for streaming Dr Disrespect playing chess](https://www.pcgamer.com/chess-grandmaster-suspended-by-twitch-for-streaming-dr-disrespect-playing-chess/)
-- [ReVanced](https://github.com/ReVancedTeam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
