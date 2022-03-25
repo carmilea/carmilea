@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [API-0.core.keybaseapi.com has expired certificate](https://www.sslshopper.com/ssl-checker.html#hostname=https://api-0.core.keybaseapi.com)
 - [When New York City Was a Wiretapper’s Dream](https://spectrum.ieee.org/illegal-wiretapping)
 - [Interoperability without sacrificing privacy: Matrix and the DMA](https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma/)
 - [The Edited Latecomer’s Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#)
 - [Various Honda vehicles send the same, unencrypted RF signal for each door-open](https://github.com/nonamecoder/CVE-2022-27254)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior PMs, Engineers and VP of Engineering](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
