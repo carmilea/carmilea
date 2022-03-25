@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior PMs, Engineers and VPS](https://www.tesorio.com/careers#job-openings)
+- [Cat Printer](https://github.com/rbaron/catprinter)
+- [Launch HN: Azuki &lpar;YC W22&rpar; – All-you-can-read manga subscription](https://news.ycombinator.com/item?id=30804169)
 - [I built a receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
 - [Physicists create compressible “gas of light”](https://www.uni-bonn.de/en/news/053-2022)
-- [Ask HN: Do you have a dedicated QA team?](https://news.ycombinator.com/item?id=30803384)
-- [An Alleged Fraud Uncovered by a Short Seller Ends in Gunfire](https://www.wsj.com/articles/an-alleged-fraud-uncovered-by-a-short-seller-ends-in-gunfire-11648051215)
-- [Half of women will get a false positive 3D mammogram, study finds](https://www.axios.com/half-of-women-will-get-a-false-positive-3d-mammogram-study-finds-5caf02eb-e5d8-4216-82b1-ac83f36523b2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
