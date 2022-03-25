@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
+- [Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
+- [Markup Language Operations in Nim to extract and remove HTML elements](https://github.com/abdulbadii/HTML-XML-Operations-Nim)
+- [The flood that filled the Mediterranean Sea - in one year](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
 - [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
-- [The end of the nice GTK button](https://blog.brixit.nl/the-end-of-the-nice-gtk-button/)
-- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
-- [Applebee’s exec urges using high gas prices to push lower wages, sparks walkout](https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/)
-- [Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno](https://github.com/porsager/postgres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
