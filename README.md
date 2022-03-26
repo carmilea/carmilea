@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: If you used to be socially awkward and shy, how did you improve?](https://news.ycombinator.com/item?id=30814248)
+- [Test Microwave for Radiation Leakage](https://ismymicrowaveleaking.isotropic.us/)
 - [Build Your Own Classic HP Calculator Emulator](https://paxer.net/voyager/)
+- [Solar Orbiter passes historically close to sun on Saturday](https://earthsky.org/sun/solar-orbiter-close-pass-sun-perihelion-march-26-2022/)
 - [Launch HN: Koko &lpar;YC W22 Nonprofit&rpar; – Online Suicide Prevention Kit](https://news.ycombinator.com/item?id=30813527)
-- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
-- [How to build a faster file transfer protocol](https://www.trytachyon.com/post/how-we-built-a-new-fast-file-transfer-protocol)
-- [State of OSS Monetization](https://news.ycombinator.com/item?id=30813031)
 <!-- BLOG-POST-LIST:END -->
 
 ---
