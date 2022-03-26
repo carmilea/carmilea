@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mourning as a Remote Team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
-- [Running servers &lpar;and services&rpar; well is not trivial &lpar;2018&rpar;](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial)
+- [The Russians Fleeing Putin&#39;s Wartime Crackdown](https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown)
+- [Mourning loss as a remote team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
+- [War-Fueled Global Hunger Catastrophe on the Way with Solutions Tough to Come By](https://www.forbes.com/sites/chloesorvino/2022/03/23/war-fueled-global-hunger-catastrophe-on-the-way-with-solutions-tough-to-come-by/)
+- [Running servers and services well is not trivial &lpar;2018&rpar;](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial)
 - [Brewster Kahle and the Internet Archive still working to democratize knowledge](https://www.niemanlab.org/2022/03/after-25-years-brewster-kahle-and-the-internet-archive-are-still-working-to-democratize-knowledge/)
-- [The Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
-- [SDL_sound 2.0](https://github.com/icculus/SDL_sound/releases/tag/v2.0.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
