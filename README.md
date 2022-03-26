@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why aren&#39;t there any real alternatives to Electron?](https://news.ycombinator.com/item?id=30810724)
+- [SDL_sound 2.0](https://github.com/icculus/SDL_sound/releases/tag/v2.0.1)
+- [Scientists find microplastics in blood for first time](https://phys.org/news/2022-03-scientists-microplastics-blood.html)
+- [New Male Birth Control Pill Effectively Prevents Pregnancy Without Side Effects](https://scitechdaily.com/new-male-birth-control-pill-effectively-prevents-pregnancy-without-side-effects/)
 - [Evaluation of science advice during the Covid-19 pandemic in Sweden](https://www.nature.com/articles/s41599-022-01097-5)
-- [Running GUI apps within Docker containers](https://www.trickster.dev/post/running-gui-apps-within-docker-containers/)
-- [Crossrail update on the Elizabeth line’s opening plans](https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/)
-- [Unexpected space weather causing the reentry of 38 Starlink satellites](https://eartharxiv.org/repository/view/3208/)
-- [Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West](https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
