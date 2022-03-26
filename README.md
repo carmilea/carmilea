@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why aren&#39;t there any real alternatives to Electron?](https://news.ycombinator.com/item?id=30810724)
+- [Mourning as a Remote Team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
+- [Running servers &lpar;and services&rpar; well is not trivial &lpar;2018&rpar;](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial)
+- [Brewster Kahle and the Internet Archive still working to democratize knowledge](https://www.niemanlab.org/2022/03/after-25-years-brewster-kahle-and-the-internet-archive-are-still-working-to-democratize-knowledge/)
+- [The Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
 - [SDL_sound 2.0](https://github.com/icculus/SDL_sound/releases/tag/v2.0.1)
-- [Scientists find microplastics in blood for first time](https://phys.org/news/2022-03-scientists-microplastics-blood.html)
-- [New Male Birth Control Pill Effectively Prevents Pregnancy Without Side Effects](https://scitechdaily.com/new-male-birth-control-pill-effectively-prevents-pregnancy-without-side-effects/)
-- [Evaluation of science advice during the Covid-19 pandemic in Sweden](https://www.nature.com/articles/s41599-022-01097-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
