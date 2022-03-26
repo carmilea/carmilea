@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluation of science advice during the Covid-19 pandemic in Sweden](https://www.nature.com/articles/s41599-022-01097-5)
+- [Running GUI apps within Docker containers](https://www.trickster.dev/post/running-gui-apps-within-docker-containers/)
+- [Crossrail update on the Elizabeth line’s opening plans](https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/)
 - [Unexpected space weather causing the reentry of 38 Starlink satellites](https://eartharxiv.org/repository/view/3208/)
 - [Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West](https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/)
-- [An Apple Original on DVD: The Definitive Unboxing and UX Review](https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/)
-- [Lawmakers Drink Raw Milk to Celebrate Legality, Become Immediately Sick &lpar;2016&rpar;](https://modernfarmer.com/2016/03/west-virginia-lawmakers-raw-milk-sick/)
-- [`COPY –chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
