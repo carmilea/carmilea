@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Classic HP Calculator Emulator](https://paxer.net/voyager/)
+- [Launch HN: Koko &lpar;YC W22 Nonprofit&rpar; – Online Suicide Prevention Kit](https://news.ycombinator.com/item?id=30813527)
 - [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- [How to build a faster file transfer protocol](https://www.trytachyon.com/post/how-we-built-a-new-fast-file-transfer-protocol)
 - [State of OSS Monetization](https://news.ycombinator.com/item?id=30813031)
-- [Raygui – A simple and easy-to-use immediate-mode GUI library](https://github.com/raysan5/raygui)
-- [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
-- [The counterintuitive rise of Python in scientific computing &lpar;2020&rpar;](https://cerfacs.fr/coop/fortran-vs-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
