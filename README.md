@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian workplaces surveyed – only 7.2% going back to 100% in office](https://theaussiecorporate.com/wfhpolicies/)
+- [Groundbreaking set for bridge over 101 Freeway](https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/)
 - [Old Spleens Suck](https://sarahconstantin.substack.com/p/old-spleens-suck)
 - [Phantom OS](http://phantomos.org/)
 - [Stronger hands lengthen your life](https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html)
