@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The counter-intuitive rise of Python in scientific computing &lpar;2020&rpar;](https://cerfacs.fr/coop/fortran-vs-python)
+- [State of OSS Monetization](https://news.ycombinator.com/item?id=30813031)
+- [Raygui – A simple and easy-to-use immediate-mode GUI library](https://github.com/raysan5/raygui)
+- [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
 - [Ask HN: What do you do when competition signs up for your service?](https://news.ycombinator.com/item?id=30812066)
-- [Island is among the fastest companies to reach unicorn status](https://www.techradar.com/news/this-browser-youve-never-heard-of-is-now-worth-a-billion-dollars)
-- [Show HN: A website to find public pianos](https://pianos.pub/)
-- [Why we need lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
+- [Starting Over – A FOSS proposal for a new type of OS for a new type of computer](https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
