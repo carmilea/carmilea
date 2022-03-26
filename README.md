@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Russians Fleeing Putin&#39;s Wartime Crackdown](https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown)
+- [Show HN: A website to find public pianos](https://pianos.pub/)
+- [Why We Need Lisp Machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
+- [Snap has refused to allow disabling of auto updates for 5 years](https://forum.snapcraft.io/t/disabling-automatic-refresh-for-snap-from-store/707)
+- [EU is going to require interoperability between messaging platforms](https://techcrunch.com/2022/03/24/dma-political-agreement/)
 - [Mourning loss as a remote team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
-- [War-Fueled Global Hunger Catastrophe on the Way with Solutions Tough to Come By](https://www.forbes.com/sites/chloesorvino/2022/03/23/war-fueled-global-hunger-catastrophe-on-the-way-with-solutions-tough-to-come-by/)
-- [Running servers and services well is not trivial &lpar;2018&rpar;](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial)
-- [Brewster Kahle and the Internet Archive still working to democratize knowledge](https://www.niemanlab.org/2022/03/after-25-years-brewster-kahle-and-the-internet-archive-are-still-working-to-democratize-knowledge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
