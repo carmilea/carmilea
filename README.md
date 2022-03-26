@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Approves First CRISPR Cows for Beef](https://modernfarmer.com/2022/03/fda-crispr-cows-for-beef/)
+- [Unexpected space weather causing the reentry of 38 Starlink satellites](https://eartharxiv.org/repository/view/3208/)
+- [Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West](https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/)
 - [An Apple Original on DVD: The Definitive Unboxing and UX Review](https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/)
 - [Lawmakers Drink Raw Milk to Celebrate Legality, Become Immediately Sick &lpar;2016&rpar;](https://modernfarmer.com/2016/03/west-virginia-lawmakers-raw-milk-sick/)
 - [`COPY –chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
-- [Groundbreaking set for bridge billed as world&#39;s largest wildlife crossing](https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
