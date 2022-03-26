@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World](https://spectrum.ieee.org/axial-flux)
+- [Fossil: Battery Included Git Alternative](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
 - [The Dec/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
 - [Kim Jong-un stars in film of missile launch on North Korean TV](https://www.youtube.com/watch?v=QzZKIN4TuDA)
 - [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
-- [CMU&#39;s Recipe Archive](https://www.cs.cmu.edu/~mjw/recipes/)
-- [Ask HN: If you used to be socially awkward and shy, how did you improve?](https://news.ycombinator.com/item?id=30814248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
