@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Groundbreaking set for bridge over 101 Freeway](https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/)
+- [Lawmakers Drink Raw Milk to Celebrate Legality, Become Immediately Sick &lpar;2016&rpar;](https://modernfarmer.com/2016/03/west-virginia-lawmakers-raw-milk-sick/)
+- [`COPY –chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
+- [Groundbreaking set for bridge billed as world&#39;s largest wildlife crossing](https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/)
 - [Old Spleens Suck](https://sarahconstantin.substack.com/p/old-spleens-suck)
 - [Phantom OS](http://phantomos.org/)
-- [Stronger hands lengthen your life](https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html)
-- [Varieties of Mathematical Understanding](https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/viewer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
