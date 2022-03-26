@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The counter-intuitive rise of Python in scientific computing &lpar;2020&rpar;](https://cerfacs.fr/coop/fortran-vs-python)
+- [Ask HN: What do you do when competition signs up for your service?](https://news.ycombinator.com/item?id=30812066)
+- [Island is among the fastest companies to reach unicorn status](https://www.techradar.com/news/this-browser-youve-never-heard-of-is-now-worth-a-billion-dollars)
 - [Show HN: A website to find public pianos](https://pianos.pub/)
-- [Why We Need Lisp Machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
-- [Snap has refused to allow disabling of auto updates for 5 years](https://forum.snapcraft.io/t/disabling-automatic-refresh-for-snap-from-store/707)
-- [EU is going to require interoperability between messaging platforms](https://techcrunch.com/2022/03/24/dma-political-agreement/)
-- [Mourning loss as a remote team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
+- [Why we need lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
