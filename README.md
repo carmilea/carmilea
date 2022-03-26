@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
 - [State of OSS Monetization](https://news.ycombinator.com/item?id=30813031)
 - [Raygui – A simple and easy-to-use immediate-mode GUI library](https://github.com/raysan5/raygui)
 - [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
-- [Ask HN: What do you do when competition signs up for your service?](https://news.ycombinator.com/item?id=30812066)
-- [Starting Over – A FOSS proposal for a new type of OS for a new type of computer](https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/)
+- [The counterintuitive rise of Python in scientific computing &lpar;2020&rpar;](https://cerfacs.fr/coop/fortran-vs-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
