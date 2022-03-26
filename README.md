@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dec/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
 - [Kim Jong-un stars in film of missile launch on North Korean TV](https://www.youtube.com/watch?v=QzZKIN4TuDA)
 - [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
 - [CMU&#39;s Recipe Archive](https://www.cs.cmu.edu/~mjw/recipes/)
 - [Ask HN: If you used to be socially awkward and shy, how did you improve?](https://news.ycombinator.com/item?id=30814248)
-- [Chrome 0day is being exploited now for CVE-2022-1096; update immediately](https://www.forbes.com/sites/daveywinder/2022/03/26/google-confirms-emergency-security-update-for-32-billion-chrome-users-attacks-underway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
