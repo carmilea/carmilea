@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
+- [Azores – Evacuations Begin as Seismic Crisis Unfolds in Atlantic](https://weatherboy.com/evacuations-begin-as-seismic-crisis-unfolds-in-atlantic-threats-of-volcanic-eruption-toxic-gases-landslides-and-tsunami-discussed/)
+- [5G Skeptic](https://www.tbray.org/ongoing/When/202x/2022/03/26/Is-5G-BS)
+- [Show HN: Bookvine.io – Help find age appropriate books for kids aged 6 to 14](https://www.bookvine.io/)
+- [The vacuum tube’s forgotten rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
 - [I made an event-driven system to quickly make GUIs with Python and pyimgui](https://pypi.org/project/toolgui/)
-- [Firefox UI/UX History](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history)
-- [Twibright Optar – OPTical ARchiver – a codec for encoding data on paper](http://ronja.twibright.com/optar/)
-- [Man discovers that his wife is the best Tetris player &lpar;2007&rpar;](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
