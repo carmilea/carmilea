@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python and Qt Simplified. Create a Python GUI in Minutes](https://build-system.fman.io/)
+- [Ask HN: How do I secure the domain for my business?](https://news.ycombinator.com/item?id=30818950)
+- [It Looks Like You’re Trying to Take over the World](https://www.gwern.net/Clippy)
+- [Mac: Open source machine and human compatible CV standard](https://github.com/getmanfred/mac)
 - [Some black holes erase your past &lpar;2018&rpar;](https://vcresearch.berkeley.edu/news/some-black-holes-erase-your-past)
-- [The strangest coding habit a senior ever had – The Left Join](https://www.quora.com/Whats-the-strangest-code-youve-seen-a-senior-developer-write)
-- [U.S. Surnames with No Vowels](https://blog.plover.com/2022/03/26/#vowelless-names)
-- [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
-- [TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
