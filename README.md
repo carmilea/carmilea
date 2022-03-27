@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists build circuit that generates clean, limitless power from graphene](https://www.thebrighterside.news/post/scientists-build-circuit-that-generates-clean-limitless-power-from-graphene)
 - [Tesla&#39;s charging ports use a standard msg to open on 315MHz and can be replayed](https://twitter.com/IfNotPike/status/1507818836568858631)
 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
 - [TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
 - [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
+- [Information Has Mass](https://aip.scitation.org/doi/10.1063/5.0087175)
 <!-- BLOG-POST-LIST:END -->
 
 ---
