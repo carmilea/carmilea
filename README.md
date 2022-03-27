@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Azores – Evacuations Begin as Seismic Crisis Unfolds in Atlantic](https://weatherboy.com/evacuations-begin-as-seismic-crisis-unfolds-in-atlantic-threats-of-volcanic-eruption-toxic-gases-landslides-and-tsunami-discussed/)
-- [5G Skeptic](https://www.tbray.org/ongoing/When/202x/2022/03/26/Is-5G-BS)
-- [Show HN: Bookvine.io – Help find age appropriate books for kids aged 6 to 14](https://www.bookvine.io/)
-- [The vacuum tube’s forgotten rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
-- [I made an event-driven system to quickly make GUIs with Python and pyimgui](https://pypi.org/project/toolgui/)
+- [Countering Threats from North Korea](https://blog.google/threat-analysis-group/countering-threats-north-korea/)
+- [Ask HN: Which book can attract anyone towards your field of study?](https://news.ycombinator.com/item?id=30822339)
+- [BlocklyML visual programming tool for Machine learning and Python](https://github.com/chekoduadarsh/BlocklyML)
+- [Poop.is – A Crappy Link Shortener](https://poop.is/)
+- [“Peak HN” Occurences](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=%22peak%20hn%22&sort=byDate&type=comment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
