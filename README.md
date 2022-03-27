@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rolling Line: A Model Railroad Simulator](https://store.steampowered.com/app/754150/Rolling_Line/)
-- [Dual 75“ 4K TV Floor Computing](https://old.reddit.com/r/battlestations/comments/toecyt/dual_75_4k_tv_floor_computing/)
-- [Investigating Musical Genius By Listening To The Beach Boys A Lot](https://www.cold-takes.com/investigating-musical-genius-by-listening-to-the-beach-boys-a-lot/)
-- [Ask HN: How do you search large code-base before adding a feature or fixing bug?](https://news.ycombinator.com/item?id=30819579)
-- [Depth of Field – How we can understand the number of stars in the sky](https://moultano.wordpress.com/2022/03/24/depth-of-field/)
+- [Man discovers that his wife is the best Tetris player &lpar;2007&rpar;](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
+- [Wipeout &lpar;PSX and Windows Source&rpar;](https://illusion.64history.net/2022/wipeout-psx-windows-source)
+- [Portal 2: Desolation is giving the classic puzzle game a graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul/)
+- [Getting my personal data from Amazon was weeks of confusion and tedium](https://theintercept.com/2022/03/27/amazon-personal-data-request-dark-pattern/)
+- [Firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
