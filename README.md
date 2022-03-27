@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some black holes erase your past &lpar;2018&rpar;](https://vcresearch.berkeley.edu/news/some-black-holes-erase-your-past)
+- [The strangest coding habit a senior ever had – The Left Join](https://www.quora.com/Whats-the-strangest-code-youve-seen-a-senior-developer-write)
 - [U.S. Surnames with No Vowels](https://blog.plover.com/2022/03/26/#vowelless-names)
 - [Tesla&#39;s charging ports use a standard msg to open on 315MHz and can be replayed](https://twitter.com/IfNotPike/status/1507818836568858631)
-- [Melbourne hit-and-run blamed on Tesla Autopilot](https://www.drive.com.au/news/melbourne-hit-and-run-blamed-on-tesla-autopilot-could-set-legal-precedent-for-new-tech/)
 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
-- [TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
