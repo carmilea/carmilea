@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why isn&#39;t there a Google competitor emerging?](https://news.ycombinator.com/item?id=30819678)
 - [Ask HN: How do you search large code-base before adding a feature or fixing bug?](https://news.ycombinator.com/item?id=30819579)
 - [Depth of Field – How we can understand the number of stars in the sky](https://moultano.wordpress.com/2022/03/24/depth-of-field/)
 - [FinRL: The first open-source project for financial reinforcement learning](https://github.com/AI4Finance-Foundation/FinRL)
 - [Okta: “We made a mistake” delaying the Lapsus$ hack disclosure](https://www.bleepingcomputer.com/news/security/okta-we-made-a-mistake-delaying-the-lapsus-hack-disclosure/)
-- [Ask HN: How come HN folks are so well-versed in social sciences and humanities?](https://news.ycombinator.com/item?id=30819318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
