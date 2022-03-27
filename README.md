@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bite Model of Authoritarian Control [2020]](https://www.proquest.com/docview/2476570146/)
 - [Show HN: I&#39;m Writing a Free Book Called Computer Networks from Scratch](https://www.networksfromscratch.com)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote API Engineers](https://www.easypost.com/careers)
-- [Tell HN: Make sure to configure DKIM/SPF with Fastmail](https://news.ycombinator.com/item?id=30823772)
 - [Marginalia Search: 1 Year](https://memex.marginalia.nu/log/49-marginalia-1-year.gmi)
-- [New Type of Ultraviolet Light Makes Indoor Air as Safe as Outdoors](https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors)
+- [Bubblewrap: Unprivileged sandboxing tool for Linux](https://github.com/containers/bubblewrap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
