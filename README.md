@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
+- [I made an event-driven system to quickly make GUIs with Python and pyimgui](https://pypi.org/project/toolgui/)
+- [Firefox UI/UX History](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history)
+- [Twibright Optar – OPTical ARchiver – a codec for encoding data on paper](http://ronja.twibright.com/optar/)
 - [Man discovers that his wife is the best Tetris player &lpar;2007&rpar;](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
-- [Wipeout &lpar;PSX and Windows Source&rpar;](https://illusion.64history.net/2022/wipeout-psx-windows-source)
-- [Portal 2: Desolation is giving the classic puzzle game a graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul/)
-- [Getting my personal data from Amazon was weeks of confusion and tedium](https://theintercept.com/2022/03/27/amazon-personal-data-request-dark-pattern/)
-- [Firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
