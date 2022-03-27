@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Happened to Clubhouse?](https://news.ycombinator.com/item?id=30822682)
+- [Restic 0.13.0](https://restic.net/blog/2022-03-26/restic-0.13.0-released/)
+- [Killed by Microsoft](https://killedbymicrosoft.info)
+- [How to write a linter using tree-sitter in an hour](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
 - [Countering Threats from North Korea](https://blog.google/threat-analysis-group/countering-threats-north-korea/)
-- [Ask HN: Which book can attract anyone towards your field of study?](https://news.ycombinator.com/item?id=30822339)
-- [BlocklyML visual programming tool for Machine learning and Python](https://github.com/chekoduadarsh/BlocklyML)
-- [Poop.is – A Crappy Link Shortener](https://poop.is/)
-- [“Peak HN” Occurences](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=%22peak%20hn%22&sort=byDate&type=comment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
