@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Surnames with No Vowels](https://blog.plover.com/2022/03/26/#vowelless-names)
 - [Tesla&#39;s charging ports use a standard msg to open on 315MHz and can be replayed](https://twitter.com/IfNotPike/status/1507818836568858631)
+- [Melbourne hit-and-run blamed on Tesla Autopilot](https://www.drive.com.au/news/melbourne-hit-and-run-blamed-on-tesla-autopilot-could-set-legal-precedent-for-new-tech/)
 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
 - [TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
-- [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
-- [Information Has Mass](https://aip.scitation.org/doi/10.1063/5.0087175)
 <!-- BLOG-POST-LIST:END -->
 
 ---
