@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote API Engineers](https://www.easypost.com/careers)
+- [Tell HN: Make sure to configure DKIM/SPF with Fastmail](https://news.ycombinator.com/item?id=30823772)
+- [New Type of Ultraviolet Light Makes Indoor Air as Safe as Outdoors](https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors)
 - [Bubblewrap: Unprivileged Sandboxing Tool for Linux](https://github.com/containers/bubblewrap)
 - [Future Combat Air System &lpar;FCAS&rpar;](https://www.airbus.com/en/products-services/defence/multi-domain-superiority/future-combat-air-system-fcas)
-- [Ask HN: What Happened to Clubhouse?](https://news.ycombinator.com/item?id=30822682)
-- [Restic 0.13.0](https://restic.net/blog/2022-03-26/restic-0.13.0-released/)
-- [Killed by Microsoft](https://killedbymicrosoft.info)
 <!-- BLOG-POST-LIST:END -->
 
 ---
