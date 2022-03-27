@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I&#39;m Writing a Free Book Called Computer Networks from Scratch](https://www.networksfromscratch.com)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote API Engineers](https://www.easypost.com/careers)
 - [Tell HN: Make sure to configure DKIM/SPF with Fastmail](https://news.ycombinator.com/item?id=30823772)
+- [Marginalia Search: 1 Year](https://memex.marginalia.nu/log/49-marginalia-1-year.gmi)
 - [New Type of Ultraviolet Light Makes Indoor Air as Safe as Outdoors](https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors)
-- [Bubblewrap: Unprivileged Sandboxing Tool for Linux](https://github.com/containers/bubblewrap)
-- [Future Combat Air System &lpar;FCAS&rpar;](https://www.airbus.com/en/products-services/defence/multi-domain-superiority/future-combat-air-system-fcas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
