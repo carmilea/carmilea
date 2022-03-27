@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
 - [Andrej Karpathy: TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
 - [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
 - [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World](https://spectrum.ieee.org/axial-flux)
 - [A userspace WireGuard client that exposes itself as a proxy](https://github.com/octeep/wireproxy)
-- [A Freelancer&#39;s Forty-Three Years in the American Health-Care System](https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
