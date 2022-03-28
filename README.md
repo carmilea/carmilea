@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twilio employees, associates charged with insider trading by SEC](https://www.sec.gov/news/press-release/2022-55)
+- [Show HN: Ingredients for Change](https://news.ycombinator.com/item?id=30834446)
+- [The ArXiv of the future will not look like the ArXiv](https://ar5iv.labs.arxiv.org/html/1709.07020)
 - [Today’s creator economy was built on subscribers and patrons. What comes next?](https://blog.dropbox.com/topics/work-culture/creator-economy-subscribers-patrons-whats-next)
-- [Offset Formula for Scenario Analysis](https://subset.so/)
 - [Bizarre space circle captured in unprecedented detail](https://www.nature.com/articles/d41586-022-00861-6)
-- [Cells Blaze Their Own Trails to Navigate Through the Body](https://www.quantamagazine.org/cells-blaze-their-own-trails-to-navigate-through-the-body-20220328/)
-- [Nasal spray treats Delta variant infection in mice](https://science.ubc.ca/news/new-nasal-spray-treats-delta-variant-infection-mice-indicating-broad-spectrum-results)
 <!-- BLOG-POST-LIST:END -->
 
 ---
