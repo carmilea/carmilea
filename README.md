@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Anyone getting their items removed for no reason from FB Marketplace?](https://news.ycombinator.com/item?id=30830147)
-- [Ask HN: How do you define the singularity?](https://news.ycombinator.com/item?id=30829666)
-- [The popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/)
-- [A Letter from W3C CEO](https://www.w3.org/blog/2022/03/a-letter-from-our-ceo-the-web-as-the-ultimate-tool-of-resilience-for-the-world/)
-- [Why you should maybe not work so hard](https://www.johnwhiles.com/posts/work.html)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Cloud Engineer &lpar;K8s, Argocd, Terraform&rpar;&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
+- [The Good Karma Kit](https://github.com/ArchiveBox/good-karma-kit)
+- [No News Is Good News](https://thomasjbevan.substack.com/p/all-news-is-bad-news)
+- [Show HN: Introducing Caddy-SSH](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
+- [Johnny Cash Has Been Everywhere &lpar;Man&rpar; &lpar;2012&rpar;](http://www.johnnycashhasbeeneverywhere.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
