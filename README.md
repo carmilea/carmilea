@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Added Yubikey to Google account and Chrome clears cookies weekly](https://news.ycombinator.com/item?id=30835965)
+- [Managers with MBAs are the best at taking money from workers and not much else [pdf]](https://www.nber.org/system/files/working_papers/w29874/w29874.pdf)
 - [Articles from arXiv.org as responsive HTML5 web pages](https://ar5iv.labs.arxiv.org/)
 - [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
 - [Twilio employees, associates charged with insider trading by SEC](https://www.sec.gov/news/press-release/2022-55)
