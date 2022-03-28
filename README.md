@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Anyone getting their items removed for no reason from FB Marketplace?](https://news.ycombinator.com/item?id=30830147)
+- [Ask HN: How do you define the singularity?](https://news.ycombinator.com/item?id=30829666)
 - [The popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/)
 - [A Letter from W3C CEO](https://www.w3.org/blog/2022/03/a-letter-from-our-ceo-the-web-as-the-ultimate-tool-of-resilience-for-the-world/)
 - [Why you should maybe not work so hard](https://www.johnwhiles.com/posts/work.html)
-- [Recommendations when publishing a WASM library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library)
 <!-- BLOG-POST-LIST:END -->
 
 ---
