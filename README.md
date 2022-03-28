@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cells Blaze Their Own Trails to Navigate Through the Body](https://www.quantamagazine.org/cells-blaze-their-own-trails-to-navigate-through-the-body-20220328/)
+- [Nasal spray treats Delta variant infection in mice](https://science.ubc.ca/news/new-nasal-spray-treats-delta-variant-infection-mice-indicating-broad-spectrum-results)
+- [What I Learned from Running a Concierge Search Engine](https://re-search.xyz/writing/what-i-learned-from-running-a-concierge-search-engine)
 - [Launch HN: Andi &lpar;YC W22&rpar; – Q&amp;A based, ad-free, anti-spam search engine](https://andisearch.com/)
-- [Our soil is dying We and our governments need to act](https://consciousplanet.org)
-- [MIT reinstates its SAT/ACT requirement](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/)
-- [A PCIe network interface card that adds full router capabilities to your servers](https://mikrotik.com/product/ccr2004_1g_2xs_pcie)
-- [I wasted $40k on a fantastic startup idea &lpar;2020&rpar;](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
+- [Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers](https://statmodeling.stat.columbia.edu/2022/03/28/is-open-ai-cooking-the-books-on-gpt-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
