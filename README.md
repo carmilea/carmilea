@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian tank manufacturer shuts down production](https://luciantruscott.substack.com/p/russian-tank-manufacturer-shuts-down)
+- [The popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/)
+- [The Worst US Defense Program of All](https://spoilsofwar.substack.com/p/the-worst-defense-program-of-all)
+- [Recommendations when publishing a WASM library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library)
 - [Brutal OS reached milestone 4](https://brutal.smnx.sh/articles/milestone-4)
 - [Help us collect modern Python NumPy code solutions](https://github.com/Onelinerhub/onelinerhub/labels/python-numpy)
-- [Flower a Friendly Federated Learning Framework](https://flower.dev/)
-- [Oxide on My Wrist: Hubris on PineTime was the best worst idea](https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
