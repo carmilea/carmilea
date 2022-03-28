@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
-- [Majority in Japan backs nuclear power for first time since Fukushima](https://www.japantimes.co.jp/news/2022/03/28/national/nuke-power-poll/)
-- [‘This Game Is So Realistic It Feels Just Like Working Overtime’](https://www.sixthtone.com/news/1009982/this-game-is-so-realistic%21-it-feels-just-like-working-overtime)
-- [Why Postfix is called Postfix and IBM secure mailer](https://marc.info/?l=postfix-users&m=164841848519002&w=2)
-- [We were a few days away from being settled for life](https://twitter.com/PierreDeWulf/status/1508450449745096709)
+- [Launch HN: Andi &lpar;YC W22&rpar; – Q&amp;A based, ad-free, anti-spam search engine](https://andisearch.com/)
+- [Our soil is dying We and our governments need to act](https://consciousplanet.org)
+- [MIT reinstates its SAT/ACT requirement](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/)
+- [A PCIe network interface card that adds full router capabilities to your servers](https://mikrotik.com/product/ccr2004_1g_2xs_pcie)
+- [I wasted $40k on a fantastic startup idea &lpar;2020&rpar;](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
