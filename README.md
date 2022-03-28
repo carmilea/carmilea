@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxide on My Wrist: Hubris on PineTime was the best worst idea](https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html)
 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation)
 - [A magical AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
 - [What is money, anyway?](https://www.lynalden.com/what-is-money/)
 - [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
-- [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
 <!-- BLOG-POST-LIST:END -->
 
 ---
