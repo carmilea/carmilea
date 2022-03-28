@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Collaborate with kindness: Consider these etiquette tips in Slack](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack)
+- [Ask HN: Added Yubikey to Google account and Chrome clears cookies weekly](https://news.ycombinator.com/item?id=30835965)
+- [Articles from arXiv.org as responsive HTML5 web pages](https://ar5iv.labs.arxiv.org/)
+- [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
 - [Twilio employees, associates charged with insider trading by SEC](https://www.sec.gov/news/press-release/2022-55)
-- [Show HN: Ingredients for Change](https://news.ycombinator.com/item?id=30834446)
-- [The ArXiv of the future will not look like the ArXiv](https://ar5iv.labs.arxiv.org/html/1709.07020)
-- [Today’s creator economy was built on subscribers and patrons. What comes next?](https://blog.dropbox.com/topics/work-culture/creator-economy-subscribers-patrons-whats-next)
+- [Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
