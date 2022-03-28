@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian tank manufacturer shuts down production](https://luciantruscott.substack.com/p/russian-tank-manufacturer-shuts-down)
+- [Brutal OS reached milestone 4](https://brutal.smnx.sh/articles/milestone-4)
+- [Help us collect modern Python NumPy code solutions](https://github.com/Onelinerhub/onelinerhub/labels/python-numpy)
+- [Flower a Friendly Federated Learning Framework](https://flower.dev/)
 - [Oxide on My Wrist: Hubris on PineTime was the best worst idea](https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html)
-- [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation)
-- [A magical AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
-- [What is money, anyway?](https://www.lynalden.com/what-is-money/)
-- [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
