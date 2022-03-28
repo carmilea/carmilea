@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s “Coda” Wins Historic Oscar for Best Picture at the Academy Awards](https://www.apple.com/newsroom/2022/03/apples-coda-wins-historic-oscar-for-best-picture-at-the-academy-awards/)
 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation)
-- [A *magical* AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
+- [A magical AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
 - [What is money, anyway?](https://www.lynalden.com/what-is-money/)
 - [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
+- [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
 <!-- BLOG-POST-LIST:END -->
 
 ---
