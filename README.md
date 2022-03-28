@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Anyone getting their items removed for no reason from FB Marketplace?](https://news.ycombinator.com/item?id=30830147)
 - [The popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/)
-- [The Worst US Defense Program of All](https://spoilsofwar.substack.com/p/the-worst-defense-program-of-all)
+- [A Letter from W3C CEO](https://www.w3.org/blog/2022/03/a-letter-from-our-ceo-the-web-as-the-ultimate-tool-of-resilience-for-the-world/)
+- [Why you should maybe not work so hard](https://www.johnwhiles.com/posts/work.html)
 - [Recommendations when publishing a WASM library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library)
-- [Brutal OS reached milestone 4](https://brutal.smnx.sh/articles/milestone-4)
-- [Help us collect modern Python NumPy code solutions](https://github.com/Onelinerhub/onelinerhub/labels/python-numpy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
