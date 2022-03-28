@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Cloud Engineer &lpar;K8s, Argocd, Terraform&rpar;&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
-- [The Good Karma Kit](https://github.com/ArchiveBox/good-karma-kit)
-- [No News Is Good News](https://thomasjbevan.substack.com/p/all-news-is-bad-news)
-- [Show HN: Introducing Caddy-SSH](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
-- [Johnny Cash Has Been Everywhere &lpar;Man&rpar; &lpar;2012&rpar;](http://www.johnnycashhasbeeneverywhere.com/)
+- [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
+- [Majority in Japan backs nuclear power for first time since Fukushima](https://www.japantimes.co.jp/news/2022/03/28/national/nuke-power-poll/)
+- [‘This Game Is So Realistic It Feels Just Like Working Overtime’](https://www.sixthtone.com/news/1009982/this-game-is-so-realistic%21-it-feels-just-like-working-overtime)
+- [Why Postfix is called Postfix and IBM secure mailer](https://marc.info/?l=postfix-users&m=164841848519002&w=2)
+- [We were a few days away from being settled for life](https://twitter.com/PierreDeWulf/status/1508450449745096709)
 <!-- BLOG-POST-LIST:END -->
 
 ---
