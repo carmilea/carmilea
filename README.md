@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation)
 - [What is money, anyway?](https://www.lynalden.com/what-is-money/)
 - [Lumber rally cools with transport snarls easing, buyers balking](https://www.bnnbloomberg.ca/lumber-rally-cools-with-transport-snarls-easing-buyers-balking-1.1743093)
 - [Physicists Build Circuit That Generates Clean, Limitless Power from Graphene &lpar;2020&rpar;](https://news.uark.edu/articles/54830/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
 - [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
-- [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
 <!-- BLOG-POST-LIST:END -->
 
 ---
