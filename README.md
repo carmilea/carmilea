@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every person should come with a user manual. So I created one for me](https://www.davidbauer.ch/readme/)
+- [Drift. A self-hostable open-source Gist clone](https://github.com/MaxLeiter/Drift)
+- [Why Stress Makes the Most Empathetic People Less Kind](https://theswaddle.com/why-stress-makes-the-most-empathetic-people-less-kind/)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Okta: Leaked Mandiant report details breach timeline](https://twitter.com/BillDemirkapi/status/1508527487655067660/)
 - [Today Google is turning on tracking for many users that previously turned it off](https://tutanota.com/blog/posts/google-turns-on-activity-tracking-even-if-turned-off/)
-- [Animal’s Behavior Is Mechanically Programmed](https://www.quantamagazine.org/before-brains-mechanics-may-have-ruled-animal-behavior-20220316/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
