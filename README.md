@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare genital defects seen in sons of men taking major diabetes drug](https://www.science.org/content/article/rare-genital-defects-seen-sons-men-taking-major-diabetes-drug)
+- [Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
+- [I Schizopost: What Schizoposting Is](https://thedayofthecollar.substack.com/p/why-i-schizopost-what-schizoposting)
 - [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
 - [Block a tweet, its author, and every single person who liked it](https://megablock.xyz/)
 - [UN Bans Mercury Satellite Propellants Under New Minamata Treaty Provisions](https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/)
-- [Swift on Mac OS 9 &lpar;2020&rpar;](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
