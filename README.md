@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OurWorldInData &lpar;YC W19&rpar; Is Hiring an Executive Assistant to Director Max Roser](https://ourworldindata.org/executive-assistant-to-max-roser)
 - [Justice Stevens reads the fine print](https://matthewbutterick.com/chron/justice-stevens-reads-the-fine-print.html)
 - [My own phone number is spam texting me](https://www.theverge.com/2022/3/28/22999719/spam-texts-own-phone-number-verizon-att-tmobile)
 - [We can do better than “same, but electric”](https://climateer.substack.com/p/better-than-fossil)
 - [Linux: Vulnerabilities in nf_tables cause privilege escalation, information leak](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
-- [Rare genital defects seen in sons of men taking major diabetes drug](https://www.science.org/content/article/rare-genital-defects-seen-sons-men-taking-major-diabetes-drug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
