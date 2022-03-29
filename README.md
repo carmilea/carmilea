@@ -55,7 +55,7 @@
 - [Chrome 100](https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_29.html)
 - [FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free](https://arstechnica.com/tech-policy/2022/03/turbotax-maker-sued-by-ftc-over-deceptive-ads-that-promise-free-tax-filing/)
 - [Zulip 5.0: Threaded open-source team chat](https://blog.zulip.com/2022/03/29/zulip-5-0-released/)
-- [Elan School](https://elan.school/)
+- [FTC Sues Intuit for Its Deceptive Turbotax “Free” Filing Campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
