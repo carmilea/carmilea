@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung announces M8 smart monitor series](https://news.samsung.com/global/samsung-electronics-announces-m8-the-new-and-stylish-smart-monitor-series)
+- [Visa&#39;s marketing opt-out has been down for over a week. Is this a legal issue?](https://marketingreportoptout.visa.com/OPTOUT/request.do)
 - [LiquiFi &lpar;YC W22 – Carta for Web3&rpar; is hiring engineers](https://www.ycombinator.com/companies/liquifi/jobs/MJ3jOC2-smart-contract-engineer)
-- [Implementing Cosine in C from Scratch](https://austinhenley.com/blog/cosine.html)
-- [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
-- [$625M worth of ETH drained on Axie Infinity&#39;s Ronin Network](https://roninblockchain.substack.com/p/community-alert-ronin-validators)
-- [Show HN: Search Engine for Blogs](https://blogsurf.io)
+- [Converting integers to decimal strings faster with AVX-512](https://lemire.me/blog/2022/03/28/converting-integers-to-decimal-strings-faster-with-avx-512/)
+- [Implementing Cosine in C from Scratch &lpar;2020&rpar;](https://austinhenley.com/blog/cosine.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
