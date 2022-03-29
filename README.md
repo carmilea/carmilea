@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Managers with MBAs are the best at taking money from workers and not much else [pdf]](https://www.nber.org/system/files/working_papers/w29874/w29874.pdf)
-- [Articles from arXiv.org as responsive HTML5 web pages](https://ar5iv.labs.arxiv.org/)
-- [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
-- [Twilio employees, associates charged with insider trading by SEC](https://www.sec.gov/news/press-release/2022-55)
-- [Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)
+- [Rare genital defects seen in sons of men taking major diabetes drug](https://www.science.org/content/article/rare-genital-defects-seen-sons-men-taking-major-diabetes-drug)
+- [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
+- [Block a tweet, its author, and every single person who liked it](https://megablock.xyz/)
+- [UN Bans Mercury Satellite Propellants Under New Minamata Treaty Provisions](https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/)
+- [Swift on Mac OS 9 &lpar;2020&rpar;](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
