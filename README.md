@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I no longer grade my students’ work – and I wish I had stopped sooner](https://theconversation.com/i-no-longer-grade-my-students-work-and-i-wish-i-had-stopped-sooner-179617)
-- [Kaspersky Is Declared a US National Security Threat and Is Banned by the FCC](https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc)
-- [I have been terminated from Zoom for refusing to remove the following tweets](https://twitter.com/BillDemirkapi/status/1508610588200607746)
-- [Drift. A self-hostable open-source Gist clone](https://github.com/MaxLeiter/Drift)
-- [Ask HN: What is a modern Java environment?](https://news.ycombinator.com/item?id=30841581)
+- [The YC Winter 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-winter-2022-batch/)
+- [Building a fullstack app with Flask and HTMx](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)
+- [IP over Avian Carriers RFC 1149 event &lpar;2001&rpar;](https://www.blug.linux.no/rfc1149/writeup/)
+- [Hackers Gaining Power of Subpoena via Fake “Emergency Data Requests”](https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/)
+- [Ask HN: Why do search engines not let you blacklist spam domains?](https://news.ycombinator.com/item?id=30842565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
