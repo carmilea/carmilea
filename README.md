@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Problems emerge for a unified /dev/*random](https://lwn.net/SubscriberLink/889452/953e190af78809a7/)
+- [Computer History Museum: Rescuing the Compuserve Collection](https://computerhistory.org/blog/mission-impossible-chm-edition/)
 - [Have economists led the world’s environmental policies astray?](https://www.economist.com/finance-and-economics/2022/03/26/have-economists-led-the-worlds-environmental-policies-astray)
-- [Chrome 100](https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_29.html)
 - [FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free](https://arstechnica.com/tech-policy/2022/03/turbotax-maker-sued-by-ftc-over-deceptive-ads-that-promise-free-tax-filing/)
 - [Zulip 5.0: Threaded open-source team chat](https://blog.zulip.com/2022/03/29/zulip-5-0-released/)
-- [FTC Sues Intuit for Its Deceptive Turbotax “Free” Filing Campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
