@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I no longer grade my students’ work – and I wish I had stopped sooner](https://theconversation.com/i-no-longer-grade-my-students-work-and-i-wish-i-had-stopped-sooner-179617)
+- [Kaspersky Is Declared a US National Security Threat and Is Banned by the FCC](https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc)
+- [I have been terminated from Zoom for refusing to remove the following tweets](https://twitter.com/BillDemirkapi/status/1508610588200607746)
 - [Drift. A self-hostable open-source Gist clone](https://github.com/MaxLeiter/Drift)
-- [Why Stress Makes the Most Empathetic People Less Kind](https://theswaddle.com/why-stress-makes-the-most-empathetic-people-less-kind/)
-- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Okta: Leaked Mandiant report details breach timeline](https://twitter.com/BillDemirkapi/status/1508527487655067660/)
-- [Today Google is turning on tracking for many users that previously turned it off](https://tutanota.com/blog/posts/google-turns-on-activity-tracking-even-if-turned-off/)
+- [Ask HN: What is a modern Java environment?](https://news.ycombinator.com/item?id=30841581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
