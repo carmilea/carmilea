@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LiquiFi &lpar;YC W22 – Carta for Web3&rpar; is hiring engineers](https://www.ycombinator.com/companies/liquifi/jobs/MJ3jOC2-smart-contract-engineer)
+- [Implementing Cosine in C from Scratch](https://austinhenley.com/blog/cosine.html)
 - [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
 - [$625M worth of ETH drained on Axie Infinity&#39;s Ronin Network](https://roninblockchain.substack.com/p/community-alert-ronin-validators)
-- [Are we wrong about Web3?](https://terminusdb.com/blog/were-we-wrong-about-web3/)
-- [USWDS: The United States Web Design System](https://designsystem.digital.gov/)
-- [GPT-3 can run code](https://mayt.substack.com/p/gpt-3-can-run-code)
+- [Show HN: Search Engine for Blogs](https://blogsurf.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
