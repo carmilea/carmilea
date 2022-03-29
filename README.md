@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Have economists led the world’s environmental policies astray?](https://www.economist.com/finance-and-economics/2022/03/26/have-economists-led-the-worlds-environmental-policies-astray)
+- [Chrome 100](https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_29.html)
+- [FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free](https://arstechnica.com/tech-policy/2022/03/turbotax-maker-sued-by-ftc-over-deceptive-ads-that-promise-free-tax-filing/)
 - [Zulip 5.0: Threaded open-source team chat](https://blog.zulip.com/2022/03/29/zulip-5-0-released/)
 - [Elan School](https://elan.school/)
-- [GraphQL is now available on Supabase](https://supabase.com/blog/2022/03/29/graphql-now-available)
-- [Samsung announces M8 smart monitor series](https://news.samsung.com/global/samsung-electronics-announces-m8-the-new-and-stylish-smart-monitor-series)
-- [Visa&#39;s marketing opt-out has been down for over a week. Is this a legal issue?](https://marketingreportoptout.visa.com/OPTOUT/request.do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
