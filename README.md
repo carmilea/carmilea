@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The YC Winter 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-winter-2022-batch/)
-- [Building a fullstack app with Flask and HTMx](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)
-- [IP over Avian Carriers RFC 1149 event &lpar;2001&rpar;](https://www.blug.linux.no/rfc1149/writeup/)
-- [Hackers Gaining Power of Subpoena via Fake “Emergency Data Requests”](https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/)
-- [Ask HN: Why do search engines not let you blacklist spam domains?](https://news.ycombinator.com/item?id=30842565)
+- [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
+- [$625M worth of ETH drained on Axie Infinity&#39;s Ronin Network](https://roninblockchain.substack.com/p/community-alert-ronin-validators)
+- [Are we wrong about Web3?](https://terminusdb.com/blog/were-we-wrong-about-web3/)
+- [USWDS: The United States Web Design System](https://designsystem.digital.gov/)
+- [GPT-3 can run code](https://mayt.substack.com/p/gpt-3-can-run-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
