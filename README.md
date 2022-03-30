@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools &lpar;mobile perf platform&rpar; is looking for Android performance experts](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
+- [LibJS JavaScript Engine](https://libjs.dev/)
+- [Dagger: a new way to build CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
+- [Filing Taxes Could Be Free &amp; Simple. H&amp;R Block &amp; Intuit Lobby Against It &lpar;2017&rpar;](https://www.propublica.org/article/filing-taxes-could-be-free-simple-hr-block-intuit-lobbying-against-it)
 - [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
-- [Deserts ‘breathe’ water vapor, study shows](https://news.cornell.edu/stories/2022/03/deserts-breathe-water-vapor-study-shows)
-- [The Right Way to Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
-- [The Hipster PDA &lpar;2004&rpar;](http://www.43folders.com/2004/09/03/introducing-the-hipster-pda)
-- [Show HN: EnvKey 2.0 – End-To-End Encrypted Environments &lpar;now open source&rpar;](https://v2.envkey.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
