@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How is portable AM radio possible?](https://www.johndcook.com/blog/2022/03/30/portable-am-radio/)
-- [Announcing: Downpour](https://v21.io/blog/announcing-downpour)
+- [Downpour: A game making tool for phones](https://v21.io/blog/announcing-downpour)
+- [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
 - [The Uselessness of Phenylephrine](https://www.science.org/content/blog-post/uselessness-phenylephrine)
-- [Emerge Tools &lpar;mobile perf platform&rpar; is looking for Android performance experts](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
-- [LibJS JavaScript Engine](https://libjs.dev/)
+- [Emerge Tools &lpar;YC W21&rpar; is looking for Android performance experts](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
