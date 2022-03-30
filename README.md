@@ -39,10 +39,10 @@
 
 <!-- YOUTUBE:START -->
 - [SingleStore: One database. Limitless applications.](https://www.youtube.com/watch?v=g9tbUE4dQWA)
-- [International Women&#39;s Day Tech Panel](https://www.youtube.com/watch?v=_3NqKaXYIcc)
 - [How to Work With Plancache](https://www.youtube.com/watch?v=39ShzlBgqPA)
 - [How to Migrate PostgreSQL to SingleStore](https://www.youtube.com/watch?v=S32UqI6RVXw)
 - [Architecture for Developers: A Primer on Distributed SQL Systems](https://www.youtube.com/watch?v=z9uoRMyNRYU)
+- [SingleStore Product Launch Announcement: Fall 2021](https://www.youtube.com/watch?v=8wpVzcytLY4)
 <!-- YOUTUBE:END -->
 
 
