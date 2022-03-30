@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google terminated our Developer Account, says it is “associated”](https://old.reddit.com/r/androiddev/comments/ts6jfg/google_has_terminated_our_developer_account_says/)
+- [Static Analysis at GitHub](https://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github/fulltext)
+- [Show HN: Coolify v2 An open-source and self-hostable Heroku/Netlify alternative](https://coolify.io/)
 - [Grafana Mimir – Horizontally scalable long-term storage for Prometheus](https://grafana.com/oss/mimir/)
-- [Designing a REST API: Unix Time vs. ISO-8601](https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601)
-- [Rootly &lpar;YC S21&rpar; Is Hiring for Developer Relations](https://www.ycombinator.com/companies/rootly/jobs/D8iCU62-senior-developer-relations-community-founding-team)
-- [Open source and collaborative platform for CI/CD](https://r2devops.io)
-- [Over 100 companies with hiring remotely now &lpar;with regions and pos. type&rpar;](https://freshremote.work/companies)
+- [Designing a REST API: Unix Time vs. ISO-8601 &lpar;2013&rpar;](https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601)
 <!-- BLOG-POST-LIST:END -->
 
 ---
