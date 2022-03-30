@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Historical Income Tax Rates](https://taxfoundation.org/historical-income-tax-rates-brackets/)
+- [Ubiquiti is suing Brian Krebs for his reporting on their breach](https://twitter.com/QuinnyPig/status/1508965090019577856)
+- [The Futility of Censorship](https://www.nybooks.com/articles/2022/04/07/the-futility-of-censorship-dangerous-ideas-eric-berkowitz/)
+- [America COMPETES Act of 2022 passed House and Senate](https://www.congress.gov/bill/117th-congress/house-bill/4521/text?r=1)
 - [Problems emerge for a unified /dev/*random](https://lwn.net/SubscriberLink/889452/953e190af78809a7/)
 - [Rescuing the Compuserve Collection](https://computerhistory.org/blog/mission-impossible-chm-edition/)
-- [Zulip 5.0: Threaded open-source team chat](https://blog.zulip.com/2022/03/29/zulip-5-0-released/)
-- [FTC sues Intuit for its deceptive TurboTax “free” filing campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
