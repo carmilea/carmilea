@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Google Play blocked payments for RIDERS app with 1M users](https://news.ycombinator.com/item?id=30861147)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30860712)
 - [Update on StoreKit External Entitlement for dating apps](https://developer.apple.com/news/?id=jmps5hyj)
+- [Spring Core on JDK9 is vulnerable to remote code execution](https://www.praetorian.com/blog/spring-core-jdk9-rce/)
 - [Ask HN: How does a CPU communicate with a GPU?](https://news.ycombinator.com/item?id=30860259)
-- [Ask HN: How to move away from Google](https://news.ycombinator.com/item?id=30859680)
-- [How is portable AM radio possible?](https://www.johndcook.com/blog/2022/03/30/portable-am-radio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
