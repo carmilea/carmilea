@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
+- [Deserts ‘breathe’ water vapor, study shows](https://news.cornell.edu/stories/2022/03/deserts-breathe-water-vapor-study-shows)
+- [The Right Way to Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 - [The Hipster PDA &lpar;2004&rpar;](http://www.43folders.com/2004/09/03/introducing-the-hipster-pda)
-- [The Retirees Who Live on Cruise Ships](https://www.cntraveler.com/story/meet-the-retirees-who-live-on-cruise-ships)
 - [Show HN: EnvKey 2.0 – End-To-End Encrypted Environments &lpar;now open source&rpar;](https://v2.envkey.com/)
-- [Waymo begins driverless rides in San Francisco](https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html)
-- [Your Computer Is a Distributed System](http://catern.com/compdist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
