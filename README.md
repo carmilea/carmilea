@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grafana Mimir – Horizontally scalable long-term storage for Prometheus](https://grafana.com/oss/mimir/)
+- [Designing a REST API: Unix Time vs. ISO-8601](https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601)
 - [Rootly &lpar;YC S21&rpar; Is Hiring for Developer Relations](https://www.ycombinator.com/companies/rootly/jobs/D8iCU62-senior-developer-relations-community-founding-team)
 - [Open source and collaborative platform for CI/CD](https://r2devops.io)
 - [Over 100 companies with hiring remotely now &lpar;with regions and pos. type&rpar;](https://freshremote.work/companies)
-- [Facebook paid strategy firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
-- [Ask HN: What bits of fundamental knowledge are 10x productivity multipliers?](https://news.ycombinator.com/item?id=30853807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
