@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t like computers &lpar;2016&rpar;](https://www.happyassassin.net/posts/2016/11/04/i-dont-like-computers/)
 - [California study begins screening for MDMA-assisted therapy for PTSD](https://maps.org/2022/03/22/expanded-access-study-site-in-california-begins-screening/)
-- [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
 - [Zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
 - [100k Stars Chrome virtualization experiment](https://stars.chromeexperiments.com/)
 - [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/)
