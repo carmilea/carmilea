@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing: Downpour](https://v21.io/blog/announcing-downpour)
+- [The Uselessness of Phenylephrine](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 - [Emerge Tools &lpar;mobile perf platform&rpar; is looking for Android performance experts](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
 - [LibJS JavaScript Engine](https://libjs.dev/)
-- [Dagger: a new way to build CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
-- [Filing Taxes Could Be Free &amp; Simple. H&amp;R Block &amp; Intuit Lobby Against It &lpar;2017&rpar;](https://www.propublica.org/article/filing-taxes-could-be-free-simple-hr-block-intuit-lobbying-against-it)
-- [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
+- [Artists Who Code, a group helping artists switch careers to tech](https://www.latimes.com/entertainment-arts/story/2022-03-24/artists-who-code-helping-artists-switch-careers-to-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
