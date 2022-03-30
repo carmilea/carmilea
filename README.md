@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The hunt for the M1’s neural engine](https://eclecticlight.co/2022/03/30/the-hunt-for-the-m1s-neural-engine/)
 - [German State Malware Company FinFisher Is Bankrupt](https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite)
 - [In-Target Proton–Boron Nuclear Fusion Using a PW-Class Laser](https://www.mdpi.com/2076-3417/12/3/1444/htm)
 - [Guitar Hero Player Was a Cheat](https://kotaku.com/guitar-hero-clone-schmooey-cheating-esports-speedrun-ac-1848470920)
 - [Possible Spring core RCE](https://github.com/BugAlertDotOrg/bugalert/blob/main/content/notices/2022-03-29-spring.md)
-- [Can&#39;t Help Myself by Sun Yuan and Peng Yu &lpar;2021&rpar;](https://www.loosetooth.com/blog/can-t-help-myself-by-sun-yuan-peng-yu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
