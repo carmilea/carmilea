@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The hunt for the M1’s neural engine](https://eclecticlight.co/2022/03/30/the-hunt-for-the-m1s-neural-engine/)
-- [Putin’s hackers gained full access to Hungary’s foreign ministry networks](https://www.direkt36.hu/en/putyin-hekkerei-is-latjak-a-magyar-kulugy-titkait-az-orban-kormany-evek-ota-nem-birja-elharitani-oket/)
-- [Microplastics Detected in Human Blood in New Study](https://www.smithsonianmag.com/smart-news/microplastics-detected-in-human-blood-180979826/)
-- [Stage win: FinFisher is bankrupt](https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite)
-- [In-Target Proton–Boron Nuclear Fusion Using a PW-Class Laser](https://www.mdpi.com/2076-3417/12/3/1444/htm)
+- [Rootly &lpar;YC S21&rpar; Is Hiring for Developer Relations](https://www.ycombinator.com/companies/rootly/jobs/D8iCU62-senior-developer-relations-community-founding-team)
+- [Open source and collaborative platform for CI/CD](https://r2devops.io)
+- [Over 100 companies with hiring remotely now &lpar;with regions and pos. type&rpar;](https://freshremote.work/companies)
+- [Facebook paid strategy firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
+- [Ask HN: What bits of fundamental knowledge are 10x productivity multipliers?](https://news.ycombinator.com/item?id=30853807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
