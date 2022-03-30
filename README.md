@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The hunt for the M1’s neural engine](https://eclecticlight.co/2022/03/30/the-hunt-for-the-m1s-neural-engine/)
-- [German State Malware Company FinFisher Is Bankrupt](https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite)
+- [Putin’s hackers gained full access to Hungary’s foreign ministry networks](https://www.direkt36.hu/en/putyin-hekkerei-is-latjak-a-magyar-kulugy-titkait-az-orban-kormany-evek-ota-nem-birja-elharitani-oket/)
+- [Microplastics Detected in Human Blood in New Study](https://www.smithsonianmag.com/smart-news/microplastics-detected-in-human-blood-180979826/)
+- [Stage win: FinFisher is bankrupt](https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite)
 - [In-Target Proton–Boron Nuclear Fusion Using a PW-Class Laser](https://www.mdpi.com/2076-3417/12/3/1444/htm)
-- [Guitar Hero Player Was a Cheat](https://kotaku.com/guitar-hero-clone-schmooey-cheating-esports-speedrun-ac-1848470920)
-- [Possible Spring core RCE](https://github.com/BugAlertDotOrg/bugalert/blob/main/content/notices/2022-03-29-spring.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
