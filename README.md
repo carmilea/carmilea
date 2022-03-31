@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phenethylamines I Have Known and Loved](https://erowid.org/library/books_online/pihkal/pihkal.shtml)
+- [Redis Stack](https://redis.io/docs/stack/)
 - [Flexport is hiring software engineers](https://flexport.com/careers)
 - [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
-- [Hard to work with](https://lethain.com/hard-to-work-with/)
-- [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
-- [Idol Words](https://astralcodexten.substack.com/p/idol-words)
+- [The Roads Not Taken](https://vitalik.ca/general/2022/03/29/road.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
