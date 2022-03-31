@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How does Firefox&#39;s Reader View work?](https://videoinu.com/blog/firefox-reader-view-heuristics/)
 - [Phenethylamines I Have Known and Loved](https://erowid.org/library/books_online/pihkal/pihkal.shtml)
+- [You can now integrate Google Search on your website](https://cloud.google.com/blog/topics/retail/retail-search-product-discovery-increased-conversion-shopping-ecommerce-global-launch)
 - [Redis Stack](https://redis.io/docs/stack/)
-- [Flexport is hiring software engineers](https://flexport.com/careers)
-- [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
-- [The Roads Not Taken](https://vitalik.ca/general/2022/03/29/road.html)
+- [Do revolutionary new Sudoku techniques teach about real-world problem solving?](https://desystemize.substack.com/p/desystemize-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
