@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubiquiti INC. vs. KREBS – Ubiquiti sues Krebs for covering their breach](https://www.courtlistener.com/docket/63197557/ubiquiti-inc-v-krebs/)
+- [The Unintended Consequences of China Leapfrogging to Mobile Internet](https://yiqinfu.github.io/posts/walled-gardens-china/)
 - [AgileMD &lpar;YC S11&rpar; Is Hiring Enterprise Technical Support](https://www.ycombinator.com/companies/agilemd/jobs/vYB4N8Q-enterprise-technical-support-analyst)
 - [Corruption Has Shaped History. Why Do We Still Ignore It?](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it)
-- [Pointer Tagging for x86 Systems](https://lwn.net/SubscriberLink/888914/e81588082fa3b858/)
-- [Solar-Powered Robotic Beekeeping](https://www.beewise.ag)
-- [What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
+- [Tell HN: Adobe took down the PDF 1.7 specification from their site](https://news.ycombinator.com/item?id=30865719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
