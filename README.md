@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source drivers according to Habana](https://threedots.ovh/blog/2022/03/open-source-drivers-according-to-habana/)
+- [Cryptocurrency doesn’t address the hard parts of financial inclusion](https://www.wave.com/en/blog/crypto/)
 - [What happens when the public lose confidence in academic findings?](https://thomasprosser.substack.com/p/what-happens-when-the-public-lose)
+- [Missing wheat from the war is less than 1% of global wheat crop](https://twitter.com/SarahTaber_bww/status/1507776806090584065)
 - [I Made a Stupid Game](https://weighoff.net)
-- [Tell HN: Mega says 10MB/s is an ‶acceptable speed″ for a $100/yr premium account](https://news.ycombinator.com/item?id=30866794)
-- [Ubiquiti INC. vs. KREBS – Ubiquiti sues Krebs for covering their breach](https://www.courtlistener.com/docket/63197557/ubiquiti-inc-v-krebs/)
-- [The Unintended Consequences of China Leapfrogging to Mobile Internet](https://yiqinfu.github.io/posts/walled-gardens-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
