@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source drivers according to Habana](https://threedots.ovh/blog/2022/03/open-source-drivers-according-to-habana/)
-- [Cryptocurrency doesn’t address the hard parts of financial inclusion](https://www.wave.com/en/blog/crypto/)
-- [What happens when the public lose confidence in academic findings?](https://thomasprosser.substack.com/p/what-happens-when-the-public-lose)
-- [Missing wheat from the war is less than 1% of global wheat crop](https://twitter.com/SarahTaber_bww/status/1507776806090584065)
-- [I Made a Stupid Game](https://weighoff.net)
+- [Supabase Edge Functions](https://supabase.com/blog/2022/03/31/supabase-edge-functions)
+- [Scraping Instagram](https://scrapingfish.com/blog/scraping-instagram)
+- [FORCEDENTRY: Sandbox Escape](https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html)
+- [Excel 2.0 – Is there a better visual data model than a grid of cells?](https://subset.so/blog/excel-2-0)
+- [We analyzed 100K technical interviews to see where the best performers work](https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
