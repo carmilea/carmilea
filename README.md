@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens when the public lose confidence in academic findings?](https://thomasprosser.substack.com/p/what-happens-when-the-public-lose)
+- [I Made a Stupid Game](https://weighoff.net)
+- [Tell HN: Mega says 10MB/s is an ‶acceptable speed″ for a $100/yr premium account](https://news.ycombinator.com/item?id=30866794)
 - [Ubiquiti INC. vs. KREBS – Ubiquiti sues Krebs for covering their breach](https://www.courtlistener.com/docket/63197557/ubiquiti-inc-v-krebs/)
 - [The Unintended Consequences of China Leapfrogging to Mobile Internet](https://yiqinfu.github.io/posts/walled-gardens-china/)
-- [AgileMD &lpar;YC S11&rpar; Is Hiring Enterprise Technical Support](https://www.ycombinator.com/companies/agilemd/jobs/vYB4N8Q-enterprise-technical-support-analyst)
-- [Corruption Has Shaped History. Why Do We Still Ignore It?](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it)
-- [Tell HN: Adobe took down the PDF 1.7 specification from their site](https://news.ycombinator.com/item?id=30865719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
