@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS: What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
-- [Clerky is hiring senior software engineers &lpar;full-stack, Rails&rpar; everywhere](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Turn your phone into a space monitoring tool](https://www.esa.int/Applications/Navigation/Turn_your_phone_into_a_space_monitoring_tool)
-- [How does Firefox&#39;s Reader View work?](https://videoinu.com/blog/firefox-reader-view-heuristics/)
-- [Phenethylamines I Have Known and Loved](https://erowid.org/library/books_online/pihkal/pihkal.shtml)
+- [Pointer Tagging for x86 Systems](https://lwn.net/SubscriberLink/888914/e81588082fa3b858/)
+- [Putin Just Revealed Democracy’s Superpower](https://octavian.substack.com/p/how-putin-just-revealed-democracys)
+- [ProtonMail and ProtonCalendar back end servers are down](https://mail.protonmail.com/u/0)
+- [Solar-Powered Robotic Beekeeping](https://www.beewise.ag)
+- [What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
