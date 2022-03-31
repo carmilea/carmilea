@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some AI Systems May Be Impossible to Compute](https://spectrum.ieee.org/deep-neural-network)
-- [Show HN: Nginx Common Useful Configuration](https://github.com/tldr-devops/nginx-common-configuration)
-- [Show HN: Selfhosted tech starter pack for development of new startup](https://github.com/tldr-devops/startpack)
-- [VisibleV8](https://kapravelos.com/projects/vv8)
-- [Why APL is worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
+- [Go Mod’s Lesser Known Features](https://verdverm.com/go-mods/)
+- [Fine Particulate Matter Exposure from Secondhand Cannabis Bong Smoking](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790510)
+- [Real-Time Market Monitoring Finds Signs of Brewing U.S. Housing Bubble](https://www.dallasfed.org/research/economics/2022/0329)
+- [AltWinDirStat](https://github.com/ariccio/altWinDirStat)
+- [NSA employee indicted for transmission and retention of defense information](https://www.justice.gov/usao-md/pr/national-security-agency-employee-facing-federal-indictment-willful-transmission-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
