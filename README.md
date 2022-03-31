@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast &lpar;2019&rpar;](https://patrickcollison.com/fast)
+- [Finding Waldo in π](https://kundor.github.io/Finding-Waldo/)
+- [Fast &lpar;2020&rpar;](https://patrickcollison.com/fast)
 - [Go mod’s lesser known features](https://verdverm.com/go-mods/)
-- [Fine Particulate Matter Exposure from Secondhand Cannabis Bong Smoking](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790510)
 - [AltWinDirStat](https://github.com/ariccio/altWinDirStat)
 - [NSA employee indicted for transmission and retention of defense information](https://www.justice.gov/usao-md/pr/national-security-agency-employee-facing-federal-indictment-willful-transmission-and)
 <!-- BLOG-POST-LIST:END -->
