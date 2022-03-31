@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some AI Systems May Be Impossible to Compute](https://spectrum.ieee.org/deep-neural-network)
+- [Show HN: Nginx Common Useful Configuration](https://github.com/tldr-devops/nginx-common-configuration)
+- [Show HN: Selfhosted tech starter pack for development of new startup](https://github.com/tldr-devops/startpack)
+- [VisibleV8](https://kapravelos.com/projects/vv8)
 - [Why APL is worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
-- [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring US Remote Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [I&#39;m a scam prevention expert and I got scammed](http://www.lupinia.net/writing/tech/scammed.htm)
-- [How Go Mitigates Supply Chain Attacks](https://go.dev/blog/supply-chain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
