@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Edge Functions](https://supabase.com/blog/2022/03/31/supabase-edge-functions)
-- [Scraping Instagram](https://scrapingfish.com/blog/scraping-instagram)
-- [FORCEDENTRY: Sandbox Escape](https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html)
-- [Excel 2.0 – Is there a better visual data model than a grid of cells?](https://subset.so/blog/excel-2-0)
-- [We analyzed 100K technical interviews to see where the best performers work](https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring US Remote Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [I&#39;m a Scam Prevention Expert, and I Got Scammed](http://www.lupinia.net/writing/tech/scammed.htm)
+- [How Go Mitigates Supply Chain Attacks](https://go.dev/blog/supply-chain)
+- [The smallest and worst HDMI display ever](https://mitxela.com/projects/ddc-oled)
+- [Show HN: Magma Studio – multiplayer drawing/art platform for game dev/animation](https://magmastudio.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
