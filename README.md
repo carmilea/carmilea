@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AgileMD &lpar;YC S11&rpar; Is Hiring Enterprise Technical Support](https://www.ycombinator.com/companies/agilemd/jobs/vYB4N8Q-enterprise-technical-support-analyst)
+- [Corruption Has Shaped History. Why Do We Still Ignore It?](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it)
 - [Pointer Tagging for x86 Systems](https://lwn.net/SubscriberLink/888914/e81588082fa3b858/)
-- [Temporary issues accessing Proton services](https://protonstatus.com/incidents/178)
 - [Solar-Powered Robotic Beekeeping](https://www.beewise.ag)
 - [What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
-- [Clerky is hiring senior software engineers &lpar;full-stack, Rails&rpar; everywhere](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!-- BLOG-POST-LIST:END -->
 
 ---
