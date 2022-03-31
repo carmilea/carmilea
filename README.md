@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring software engineers](https://flexport.com/careers)
+- [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
+- [Hard to work with](https://lethain.com/hard-to-work-with/)
 - [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
-- [Tell HN: Google Play blocked payments for Riders app with 1M users](https://news.ycombinator.com/item?id=30861147)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=30860712)
-- [Update on StoreKit External Entitlement for dating apps](https://developer.apple.com/news/?id=jmps5hyj)
-- [Spring Core on JDK9 is vulnerable to remote code execution](https://www.praetorian.com/blog/spring-core-jdk9-rce/)
+- [Idol Words](https://astralcodexten.substack.com/p/idol-words)
 <!-- BLOG-POST-LIST:END -->
 
 ---
