@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Basic Blocks](https://bernsteinbear.com/blog/discovering-basic-blocks/)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring US Remote Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [I&#39;m a Scam Prevention Expert, and I Got Scammed](http://www.lupinia.net/writing/tech/scammed.htm)
 - [How Go Mitigates Supply Chain Attacks](https://go.dev/blog/supply-chain)
 - [The smallest and worst HDMI display ever](https://mitxela.com/projects/ddc-oled)
-- [Show HN: Magma Studio – multiplayer drawing/art platform for game dev/animation](https://magmastudio.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
