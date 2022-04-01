@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HBPF – eBPF in Hardware](https://github.com/rprinz08/hBPF)
 - [Ask HN: Why don&#39;t PCs have better entropy sources?](https://news.ycombinator.com/item?id=30877296)
 - [Help YC pick the best startups as a member of the YC Software team](https://www.ycombinator.com/companies/y-combinator/jobs/1x2BVnj-product-engineer-admissions)
-- [Euro Truck Simulator 2: ZX Spectrum Edition](https://blog.scssoft.com/2022/04/euro-truck-simulator-2-zx-spectrum.html)
-- [The GOV.UK Design System is now live](https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/)
+- [The Gov.uk Design System is now live](https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/)
 - [My macOS keyboard shortcuts](https://www.jamieonkeys.dev/posts/keyboard-shortcuts/)
 <!-- BLOG-POST-LIST:END -->
 
