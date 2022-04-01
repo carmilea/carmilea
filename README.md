@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons You Should Never Use PCA for Feature Selection](https://blog.kxy.ai/5-reasons-you-should-never-use-pca-for-feature-selection/)
+- [Zero Trust Architecture doesn&#39;t solve all problems, but partial ZTA solves fewer](https://mjg59.dreamwidth.org/59079.html)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers and Product Managers to Work on Messaging](https://onesignal.com/careers)
-- [Choose Your Addiction](https://www.deprocrastination.co/blog/choose-your-addiction)
+- [Postgres wire compatible SQLite proxy](https://github.com/benbjohnson/postlite)
 - [Spin – WebAssembly Framework](https://www.fermyon.com/blog/introducing-spin)
-- [Seen from space, the longest conveyor belt is in Morocco](https://en.yabiladi.com/articles/details/107839/seen-from-space-world-s-longest.html)
-- [Infinite Mac: An Instant-Booting Quadra in the Browser](https://blog.persistent.info/2022/03/blog-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
