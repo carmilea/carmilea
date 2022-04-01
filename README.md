@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily &lpar;YC W16&rpar; Is Hiring a Technical Product Marketing Manager](https://boards.greenhouse.io/daily/jobs/4356195004)
+- [Amazon Workers Vote to Unionize in Stunning Win for Organized Labor](https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html)
 - [Justice Clarence Thomas uncovered a seven-year-old bug in my program &lpar;2013&rpar;](https://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/)
 - [Retro Compaq LTE Laptop Powered by Raspberry Pi](https://dmitrybrant.com/2022/02/20/a-retro-laptop-like-no-other)
 - [No increased risk of brain tumours for mobile phone users, new study finds](https://www.ox.ac.uk/news/2022-03-30-no-increased-risk-brain-tumours-mobile-phone-users-new-study-finds)
-- [Show HN: A plain-text file format for todos and check lists](https://news.ycombinator.com/item?id=30879327)
-- [Show HN: Redo – Command line utility for quickly creating shell functions](https://github.com/barthr/redo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
