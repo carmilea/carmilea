@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter user sentenced to 150 hours of community service in UK](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
+- [Eth2 Book – A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 - [Reasons To Never Use PCA for Feature Selection](https://blog.kxy.ai/5-reasons-you-should-never-use-pca-for-feature-selection/)
 - [Zero Trust Architecture doesn&#39;t solve all problems, but partial ZTA solves fewer](https://mjg59.dreamwidth.org/59079.html)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers and Product Managers to Work on Messaging](https://onesignal.com/careers)
