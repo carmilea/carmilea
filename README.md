@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spin – WebAssembly Framework](https://www.fermyon.com/blog/introducing-spin)
+- [Seen from space, the longest conveyor belt is in Morocco](https://en.yabiladi.com/articles/details/107839/seen-from-space-world-s-longest.html)
 - [Infinite Mac: An Instant-Booting Quadra in the Browser](https://blog.persistent.info/2022/03/blog-post.html)
 - [Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
 - [General average declared for Ever Forward after unsuccesful attempts to refloat](https://gcaptain.com/ever-forward-general-average-declared/)
-- [Why have female animals evolved such wild genitals?](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/)
-- [Billy Wilder: The Art of Screenwriting &lpar;1996&rpar;](https://theparisreview.org/interviews/1432/the-art-of-screenwriting-no-1-billy-wilder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
