@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers and Product Managers to Work on Messaging](https://onesignal.com/careers)
+- [Choose Your Addiction](https://www.deprocrastination.co/blog/choose-your-addiction)
 - [Spin – WebAssembly Framework](https://www.fermyon.com/blog/introducing-spin)
 - [Seen from space, the longest conveyor belt is in Morocco](https://en.yabiladi.com/articles/details/107839/seen-from-space-world-s-longest.html)
 - [Infinite Mac: An Instant-Booting Quadra in the Browser](https://blog.persistent.info/2022/03/blog-post.html)
-- [High schoolers create $1 filter to remove lead in water](https://www.freethink.com/health/lead-in-water)
 <!-- BLOG-POST-LIST:END -->
 
 ---
