@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1950 Census Records](https://www.archives.gov/research/census/1950)
+- [Meta&#39;s A.I. exodus: Top talent quits as lab tries to keep pace with rivals](https://www.cnbc.com/2022/04/01/metas-ai-lab-loses-some-key-people.html)
 - [HBPF – eBPF in Hardware](https://github.com/rprinz08/hBPF)
 - [Ask HN: Why don&#39;t PCs have better entropy sources?](https://news.ycombinator.com/item?id=30877296)
 - [Help YC pick the best startups as a member of the YC Software team](https://www.ycombinator.com/companies/y-combinator/jobs/1x2BVnj-product-engineer-admissions)
-- [The Gov.uk Design System is now live](https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/)
-- [My macOS keyboard shortcuts](https://www.jamieonkeys.dev/posts/keyboard-shortcuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
