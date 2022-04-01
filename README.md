@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/site/careers)
+- [A Database for 2022](https://tailscale.com/blog/database-for-2022/)
+- [OpenCL on Metal – what if clvk works?](https://threedots.ovh/blog/2022/04/opencl-on-metal-2-what-if-clvk-works/)
 - [Farewell, Elementary](https://cassidyjames.com/blog/farewell-elementary/)
 - [Daniel Gross: Why Energy Is the Best Predictor of Talent](https://www.safegraph.com/podcasts/daniel-gross-why-energy-is-the-best-predictor-of-talent)
-- [Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues](https://github.com/dlvhdr/gh-dash)
-- [Show HN: Visualize your day as 144 rectangles](https://rectangles.app/)
-- [Using foot pedals for modifier keys in Linux &lpar;2014&rpar;](http://techtrickery.com/pedals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
