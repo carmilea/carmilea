@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wacom Leads the Way with Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
-- [Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average](https://gcaptain.com/ever-forward-general-average-declared/)
+- [Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
+- [General average declared for ever forward after unsuccesful attempts to refloat](https://gcaptain.com/ever-forward-general-average-declared/)
 - [Why Have Female Animals Evolved Such Wild Genitals?](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/)
-- [Magician&#39;s Own Book: Experiments in Electricity &lpar;1862&rpar;](https://archive.org/details/magiciansownbook00arno)
+- [Billy Wilder: The Art of Screenwriting &lpar;1996&rpar;](https://theparisreview.org/interviews/1432/the-art-of-screenwriting-no-1-billy-wilder?utm_source=The+Paris+Review+Newsletter&utm_campaign=661ac414b9-EMAIL_CAMPAIGN_2018_08_05_COPY_01&utm_medium=email&utm_term=0_35491ea532-661ac414b9-56577934&mc_cid=661ac414b9&mc_eid=7d8bbfd316)
 - [The Technical Capabilities Your Database Needs for Real-Time Analytics](https://www.singlestore.com/blog/the-technical-capabilities-your-database-needs-for-real-time-analytics)
 <!-- BLOG-POST-LIST:END -->
 
