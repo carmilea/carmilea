@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daniel Gross: Why Energy Is the Best Predictor of Talent](https://www.safegraph.com/podcasts/daniel-gross-why-energy-is-the-best-predictor-of-talent)
+- [Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues](https://github.com/dlvhdr/gh-dash)
 - [Using foot pedals for modifier keys in Linux](http://techtrickery.com/pedals.html)
 - [RFC 9225: Software Defects Considered Harmful](https://www.rfc-editor.org/rfc/rfc9225.html)
 - [Daily &lpar;YC W16&rpar; Is Hiring a Technical Product Marketing Manager](https://boards.greenhouse.io/daily/jobs/4356195004)
-- [Amazon Workers Vote to Unionize in Stunning Win for Organized Labor](https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html)
-- [Justice Clarence Thomas uncovered a seven-year-old bug in my program &lpar;2013&rpar;](https://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
