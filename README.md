@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is hiring? &lpar;April 2022&rpar;](https://news.ycombinator.com/item?id=30878761)
-- [I didn&#39;t return my Apple Studio Display](https://cfenollosa.com/blog/i-didnt-return-my-apple-studio-display.html)
-- [Two Vexing Problems in Functional Programming](https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html)
-- [A few things to know before stealing my 914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- [1950 Census Records](https://www.archives.gov/research/census/1950)
+- [Justice Clarence Thomas uncovered a seven-year-old bug in my program &lpar;2013&rpar;](https://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/)
+- [Retro Compaq LTE Laptop Powered by Raspberry Pi](https://dmitrybrant.com/2022/02/20/a-retro-laptop-like-no-other)
+- [No increased risk of brain tumours for mobile phone users, new study finds](https://www.ox.ac.uk/news/2022-03-30-no-increased-risk-brain-tumours-mobile-phone-users-new-study-finds)
+- [Show HN: A plain-text file format for todos and check lists](https://news.ycombinator.com/item?id=30879327)
+- [Show HN: Redo – Command line utility for quickly creating shell functions](https://github.com/barthr/redo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
