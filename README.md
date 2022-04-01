@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Waldo in π](https://kundor.github.io/Finding-Waldo/)
-- [Fast &lpar;2020&rpar;](https://patrickcollison.com/fast)
-- [Go mod’s lesser known features](https://verdverm.com/go-mods/)
-- [AltWinDirStat](https://github.com/ariccio/altWinDirStat)
-- [NSA employee indicted for transmission and retention of defense information](https://www.justice.gov/usao-md/pr/national-security-agency-employee-facing-federal-indictment-willful-transmission-and)
+- [Wacom Leads the Way with Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
+- [Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average](https://gcaptain.com/ever-forward-general-average-declared/)
+- [Magician&#39;s Own Book: Experiments in Electricity &lpar;1862&rpar;](https://archive.org/details/magiciansownbook00arno)
+- [The Technical Capabilities Your Database Needs for Real-Time Analytics](https://www.singlestore.com/blog/the-technical-capabilities-your-database-needs-for-real-time-analytics)
+- [Fake emergency search warrants draw scrutiny from Capitol Hill](https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
