@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
+- [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
 - [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/site/careers)
 - [A Database for 2022](https://tailscale.com/blog/database-for-2022/)
-- [OpenCL on Metal – what if clvk works?](https://threedots.ovh/blog/2022/04/opencl-on-metal-2-what-if-clvk-works/)
 - [Farewell, Elementary](https://cassidyjames.com/blog/farewell-elementary/)
-- [Daniel Gross: Why Energy Is the Best Predictor of Talent](https://www.safegraph.com/podcasts/daniel-gross-why-energy-is-the-best-predictor-of-talent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
