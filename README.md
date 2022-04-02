@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area](https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352?gi=60dee4985a9b)
 - [Battleship](https://www.nulliq.dev/posts/battleship/)
 - [Down on the body farm: Unlocking the forensic secrets of decaying corpses](https://undark.org/2019/11/11/how-microbes-could-aid-forensic-detectives/)
+- [Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html)
 - [Life’s preference for symmetry is like ‘a new law of nature’](https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html)
-- [Twin Anxieties of the Engineer/Manager Pendulum](https://charity.wtf/2022/03/24/twin-anxieties-of-the-engineer-manager-pendulum/)
-- [Tumblr&#39;s Internet Legacy](https://www.theatlantic.com/technology/archive/2022/02/tumblr-internet-legacy-survival/621419/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
