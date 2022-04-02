@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Viasat incident: from speculation to technical details](https://www.reversemode.com/2022/03/viasat-incident-from-speculation-to.html)
 - [How much do things really cost?](https://www.newyorker.com/business/currency/how-much-do-things-really-cost)
+- [GNU Parallel – shell tool for executing jobs in parallel, one or more computers](https://www.gnu.org/software/parallel/)
 - [L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional](https://www.newsweek.com/california-los-angeles-newsom-senate-bill-diversity-judicial-watch-1694442)
 - [Don&#39;t use containerd with the btrfs snapshotter](https://blog.cubieserver.de/2022/dont-use-containerd-with-the-btrfs-snapshotter/)
-- [The Bitter Lesson &lpar;2019&rpar;](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-- [Show HN: A tiny solar-powered server only awake during the day](https://witch.solar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
