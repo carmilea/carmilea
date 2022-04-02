@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 &#39;contains the seeds of a dystopian nightmare&#39;](https://www.theregister.com/2022/04/01/forrester_web3_criticism/)
 - [Hypercontext &lpar;YC S21&rpar; Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/hypercontext/jobs/io4qhGu-senior-software-engineer-backend)
+- [The United States will play Iran in the World Cup](https://apnews.com/article/sports-soccer-world-cup-qatar-doha-9d551a6cc73c204ee8df83f100c1ffd1)
 - [Kazakhstan president proposes reforms to limit his powers](https://www.aljazeera.com/news/2022/3/16/kazakhistan-president-proposes-reforms-to-limit-his-powers)
-- [YouTube cancelled my Nextcloud installation how-to](https://mccormick.cx/news/entries/youtube-cancelled-my-nextcloud-how-to-video)
-- [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)
-- [Watching the World Wrecking](https://lifeboat.substack.com/p/watching-the-world-wrecking)
+- [Linux-Xlnx – The official Linux kernel from Xilinx](https://github.com/Xilinx/linux-xlnx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
