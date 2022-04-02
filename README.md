@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT-0 License](https://github.com/aws/mit-0)
 - [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
 - [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
 - [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/site/careers)
-- [A Database for 2022](https://tailscale.com/blog/database-for-2022/)
-- [Farewell, Elementary](https://cassidyjames.com/blog/farewell-elementary/)
+- [A database for 2022](https://tailscale.com/blog/database-for-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
