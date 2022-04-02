@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is removing anti-Facebook ads](https://www.digi.no/artikler/ber-oljefondet-trekke-seg-ut-av-meta/518536)
 - [Ask HN: Who wants to collaborate? &lpar;April 2022&rpar;](https://news.ycombinator.com/item?id=30885956)
 - [Neovim to Add Telemetry Reporting via Google](https://github.com/neovim/neovim/pull/17957)
 - [QOI – The Quite OK Image Format](https://qoiformat.org/)
 - [Vim Color Schemes](https://vimcolorschemes.com/)
-- [MIT-0 License](https://github.com/aws/mit-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
