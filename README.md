@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Bitter Lesson &lpar;2019&rpar;](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [Show HN: A tiny solar-powered server only awake during the day](https://witch.solar)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=30889740)
-- [Food Delivery Leak Unmasks Russian Security Agents – Bellingcat](https://www.bellingcat.com/news/rest-of-world/2022/04/01/food-delivery-leak-unmasks-russian-security-agents/)
-- [MAME 0.242](https://www.mamedev.org/?p=511)
-- [Auto Dealer Napleton Fined $10M for Sneaking Illegal Junk Fees](https://www.ftc.gov/news-events/news/press-releases/2022/04/ftc-takes-action-against-multistate-auto-dealer-napleton-sneaking-illegal-junk-fees-bills)
+- [Seriously, stop using RSA: comments](https://articles.59.ca/doku.php?id=pgpfan:rsabad)
+- [Let all your devices see your site • How to make “localhost” slightly less local](https://www.brycewray.com/posts/2022/04/let-all-your-devices-see-your-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
