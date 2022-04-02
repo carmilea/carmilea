@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watching the World Wrecking](https://lifeboat.substack.com/p/watching-the-world-wrecking)
 - [Ask HN: Would you buy a modern Toshiba Libretto?](https://news.ycombinator.com/item?id=30886243)
 - [Show HN: I gamified a habit tracker to fight procrastination](https://habitsgarden.com)
 - [Ask HN: Who wants to collaborate? &lpar;April 2022&rpar;](https://news.ycombinator.com/item?id=30885956)
 - [QOI – The Quite OK Image Format](https://qoiformat.org/)
-- [Vim Color Schemes](https://vimcolorschemes.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
