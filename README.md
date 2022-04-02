@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hypercontext &lpar;YC S21&rpar; Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/hypercontext/jobs/io4qhGu-senior-software-engineer-backend)
-- [Kazakhstan president proposes reforms to limit his powers](https://www.aljazeera.com/news/2022/3/16/kazakhistan-president-proposes-reforms-to-limit-his-powers)
-- [Linux-Xlnx – The official Linux kernel from Xilinx](https://github.com/Xilinx/linux-xlnx)
-- [YouTube cancelled my Nextcloud installation how-to](https://mccormick.cx/news/entries/youtube-cancelled-my-nextcloud-how-to-video)
-- [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)
+- [Psychedelics May Ease Cancer Patients’ Depression, Anxiety](https://www.washingtonpost.com/health/2022/04/02/cancer-psychedelics-psilocybin-anxiety-depression/)
+- [I Lost $150K in a Day](https://www.youngmoney.co/p/gone-sixty-seconds)
+- [Setting up and running the MAME emulation of the Minitel 2](https://blog.jgc.org/2022/04/setting-up-and-running-mame-emulation.html)
+- [PacketStreamer: Capture and aggregate network traffic across multiple hosts](https://github.com/deepfence/PacketStreamer)
+- [Lifetime Annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377)
 <!-- BLOG-POST-LIST:END -->
 
 ---
