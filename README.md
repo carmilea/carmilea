@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much do things really cost?](https://www.newyorker.com/business/currency/how-much-do-things-really-cost)
+- [L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional](https://www.newsweek.com/california-los-angeles-newsom-senate-bill-diversity-judicial-watch-1694442)
+- [Don&#39;t use containerd with the btrfs snapshotter](https://blog.cubieserver.de/2022/dont-use-containerd-with-the-btrfs-snapshotter/)
 - [The Bitter Lesson &lpar;2019&rpar;](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [Show HN: A tiny solar-powered server only awake during the day](https://witch.solar)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=30889740)
-- [Seriously, stop using RSA: comments](https://articles.59.ca/doku.php?id=pgpfan:rsabad)
-- [Let all your devices see your site • How to make “localhost” slightly less local](https://www.brycewray.com/posts/2022/04/let-all-your-devices-see-your-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
