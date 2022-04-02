@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Psychedelics May Ease Cancer Patients’ Depression, Anxiety](https://www.washingtonpost.com/health/2022/04/02/cancer-psychedelics-psilocybin-anxiety-depression/)
-- [I Lost $150K in a Day](https://www.youngmoney.co/p/gone-sixty-seconds)
-- [Setting up and running the MAME emulation of the Minitel 2](https://blog.jgc.org/2022/04/setting-up-and-running-mame-emulation.html)
-- [PacketStreamer: Capture and aggregate network traffic across multiple hosts](https://github.com/deepfence/PacketStreamer)
-- [Lifetime Annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377)
+- [Auto Dealer Napleton Fined $10M for Sneaking Illegal Junk Fees](https://www.ftc.gov/news-events/news/press-releases/2022/04/ftc-takes-action-against-multistate-auto-dealer-napleton-sneaking-illegal-junk-fees-bills)
+- [Solopreneurs Are Changing the Face of the Economy](https://www.entrepreneur.com/article/420714)
+- [ASK HN: When did 7 interviews become “normal”?](https://news.ycombinator.com/item?id=30889019)
+- [The human genome is, at long last, complete](https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/)
+- [The Reliability of Optical Disks](https://blog.ligos.net/2022-04-02/The-Reliability-Of-Optical-Disks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
