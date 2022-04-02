@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who wants to collaborate? &lpar;April 2022&rpar;](https://news.ycombinator.com/item?id=30885956)
+- [Neovim to Add Telemetry Reporting via Google](https://github.com/neovim/neovim/pull/17957)
 - [QOI – The Quite OK Image Format](https://qoiformat.org/)
 - [Vim Color Schemes](https://vimcolorschemes.com/)
 - [MIT-0 License](https://github.com/aws/mit-0)
-- [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
-- [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
