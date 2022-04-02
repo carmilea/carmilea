@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kazakhstan president proposes reforms to limit his powers](https://www.aljazeera.com/news/2022/3/16/kazakhistan-president-proposes-reforms-to-limit-his-powers)
 - [YouTube cancelled my Nextcloud installation how-to](https://mccormick.cx/news/entries/youtube-cancelled-my-nextcloud-how-to-video)
+- [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)
 - [Watching the World Wrecking](https://lifeboat.substack.com/p/watching-the-world-wrecking)
 - [Show HN: I gamified a habit tracker to fight procrastination](https://habitsgarden.com)
-- [Ask HN: Who wants to collaborate? &lpar;April 2022&rpar;](https://news.ycombinator.com/item?id=30885956)
-- [QOI – The Quite OK Image Format](https://qoiformat.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
