@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Viasat incident: from speculation to technical details](https://www.reversemode.com/2022/03/viasat-incident-from-speculation-to.html)
-- [How much do things really cost?](https://www.newyorker.com/business/currency/how-much-do-things-really-cost)
-- [GNU Parallel – shell tool for executing jobs in parallel, one or more computers](https://www.gnu.org/software/parallel/)
-- [L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional](https://www.newsweek.com/california-los-angeles-newsom-senate-bill-diversity-judicial-watch-1694442)
-- [Don&#39;t use containerd with the btrfs snapshotter](https://blog.cubieserver.de/2022/dont-use-containerd-with-the-btrfs-snapshotter/)
+- [Battleship](https://www.nulliq.dev/posts/battleship/)
+- [Down on the body farm: Unlocking the forensic secrets of decaying corpses](https://undark.org/2019/11/11/how-microbes-could-aid-forensic-detectives/)
+- [Life’s preference for symmetry is like ‘a new law of nature’](https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html)
+- [Twin Anxieties of the Engineer/Manager Pendulum](https://charity.wtf/2022/03/24/twin-anxieties-of-the-engineer-manager-pendulum/)
+- [Tumblr&#39;s Internet Legacy](https://www.theatlantic.com/technology/archive/2022/02/tumblr-internet-legacy-survival/621419/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
