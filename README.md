@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Yaade – An open-source, self-hosted, collaborative API dev environment](https://github.com/EsperoTech/yaade)
 - [Boycott Numerical Recipes](http://mingus.as.arizona.edu/~bjw/software/boycottnr.html)
 - [Why and how we use primitive maps](https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
 - [What are you doing, WordPress.com?](https://rootprivileges.net/2022/04/03/what-are-you-doing-wordpress-com/)
-- [Limits to green energy are becoming much clearer](https://ourfiniteworld.com/2022/02/09/limits-to-green-energy-are-becoming-much-clearer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
