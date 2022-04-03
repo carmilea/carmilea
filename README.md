@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why to Care About Privacy After Years of Sharing Data](https://blog.thenewoil.org/why-to-care-about-privacy-after-years-of-sharing-data)
+- [The Science of Production](https://constructionphysics.substack.com/p/the-science-of-production)
+- [Intel becomes the first to offer full AV1 support with its new Arc GPUs](https://www.neowin.net/news/intel-beats-amd-and-nvidia-to-become-the-first-with-full-av1-support-with-its-new-arc-gpus/)
 - [Mataroa blog – Naked blogging platform for minimalists](https://mataroa.blog/)
 - [What happens if you try to download and install Firefox on Windows](https://twitter.com/plexus/status/1510568329303445507)
-- [Refusing to apologize can have psychological benefits &lpar;2012&rpar;](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.1901)
-- [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
