@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toll Carrier Systems – The Song of the Open Wire](http://the-electric-orphanage.com/wp-toll-carrier-systems/)
+- [GNU ed ate my homework](https://edoverflow.com/2022/gnu-ed-ate-my-homework/)
 - [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
-- [Homebrew Package Manager Founder Turns Crypto Grifter](https://nuclearmonster.com/2022/03/homebrew-package-manager-founder-turns-crypto-grifter/)
-- [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
+- [Horrible edge cases when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
 - [Employees Are Returning to the Office, Just to Sit on Zoom Calls](https://www.bloomberg.com/news/articles/2022-04-01/employees-are-returning-to-office-post-covid-just-to-sit-on-zoom-calls)
-- [Albini pitching Nirvana: “I would like to be paid like a plumber” &lpar;1992&rpar;](https://news.lettersofnote.com/p/nirvana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
