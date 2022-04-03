@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Casino capitalism, literally &lpar;2021&rpar;](https://www.theamericanconservative.com/articles/casino-capitalism-literally/)
-- [Albini Writing to Nirvana](https://news.lettersofnote.com/p/nirvana/comments)
-- [Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area](https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352?gi=60dee4985a9b)
-- [Battleship](https://www.nulliq.dev/posts/battleship/)
-- [Down on the body farm: Unlocking the forensic secrets of decaying corpses](https://undark.org/2019/11/11/how-microbes-could-aid-forensic-detectives/)
+- [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
+- [First-Time Home Buyers Are Simply Walking Away](https://www.barrons.com/articles/housing-market-mortgage-rates-home-prices-buyers-51648765685)
+- [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
+- [Employees Are Returning to the Office, Just to Sit on Zoom Calls](https://www.bloomberg.com/news/articles/2022-04-01/employees-are-returning-to-office-post-covid-just-to-sit-on-zoom-calls)
+- [Albini pitching Nirvana: “I would like to be paid like a plumber” &lpar;1992&rpar;](https://news.lettersofnote.com/p/nirvana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
