@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life advice from NYC chess hustlers](https://annekadet.substack.com/p/life-advice-from-nyc-chess-hustlers)
+- [The project with a single 11,000-line code file](https://austinhenley.com/blog/11000lines.html)
+- [Reverse-engineering a mysterious Univac computer board](https://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html)
+- [Futures Nostalgia](https://fasterthanli.me/articles/futures-nostalgia)
 - [Young women earn more than young men in several U.S. cities](https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/)
-- [SPF Protected Spammers in the Public Cloud, Spamware to Spamtraps, SSH Groping](https://bsdly.blogspot.com/2022/04/spammers-in-public-cloud-protected-by.html)
-- [Future of Blitz.js](https://blitzjs.com/docs/blitz-pivot)
-- [Why to Care About Privacy After Years of Sharing Data](https://blog.thenewoil.org/why-to-care-about-privacy-after-years-of-sharing-data)
-- [The Science of Production](https://constructionphysics.substack.com/p/the-science-of-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
