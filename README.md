@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C Integer Overflow into Information Disclosure](https://nullprogram.com/blog/2017/07/19/)
+- [Ask HN: Is there a tool to generate binary protocol figures out of a spec?](https://news.ycombinator.com/item?id=30895905)
+- [How to run a city-wide wireless network from a drawer](https://www.thingsquare.com/blog/articles/iot-mesh-large-scale-testing/)
+- [1950 Census](https://1950census.archives.gov/)
+- [Integer Overflow into Information Disclosure &lpar;2017&rpar;](https://nullprogram.com/blog/2017/07/19/)
 - [Show HN: Yaade – An open-source, self-hosted, collaborative API dev environment](https://github.com/EsperoTech/yaade)
-- [CDC warns of a steep decline in teen mental health](https://www.washingtonpost.com/education/2022/03/31/student-mental-health-decline-cdc/)
-- [Boycott Numerical Recipes &lpar;2007&rpar;](http://mingus.as.arizona.edu/~bjw/software/boycottnr.html)
-- [Creating the Commodore 64: The Engineers’ Story](https://spectrum.ieee.org/commodore-64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
