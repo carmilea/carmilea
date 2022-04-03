@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens if you try to download and install Firefox on Windows](https://twitter.com/plexus/status/1510568329303445507)
+- [Refusing to apologize can have psychological benefits &lpar;2012&rpar;](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.1901)
+- [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
 - [Fleek &lpar;YC W22&rpar; Is Hiring for Operations Lead](https://www.ycombinator.com/companies/fleek/jobs/vuEOOnQ-operations-lead)
 - [Fast fashion: European Union reveals fast fashion crackdown](https://www.bbc.com/news/science-environment-60913226)
-- [Contra Chrome](https://contrachrome.com)
-- [Book Review: The Programmer&#39;s Brain](https://shkspr.mobi/blog/2022/04/book-review-the-programmers-brain-what-every-programmer-needs-to-know-about-cognition-by-felienne-hermans/)
-- [Show HN: ipyvizzu – open-source animated charts in Jupyter Notebooks](https://github.com/vizzuhq/ipyvizzu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
