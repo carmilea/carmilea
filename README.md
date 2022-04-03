@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is there a tool to generate binary protocol figures out of a spec?](https://news.ycombinator.com/item?id=30895905)
-- [How to run a city-wide wireless network from a drawer](https://www.thingsquare.com/blog/articles/iot-mesh-large-scale-testing/)
-- [1950 Census](https://1950census.archives.gov/)
-- [Integer Overflow into Information Disclosure &lpar;2017&rpar;](https://nullprogram.com/blog/2017/07/19/)
-- [Show HN: Yaade – An open-source, self-hosted, collaborative API dev environment](https://github.com/EsperoTech/yaade)
+- [Fleek &lpar;YC W22&rpar; Is Hiring for Operations Lead](https://www.ycombinator.com/companies/fleek/jobs/vuEOOnQ-operations-lead)
+- [Fast fashion: European Union reveals fast fashion crackdown](https://www.bbc.com/news/science-environment-60913226)
+- [Contra Chrome](https://contrachrome.com)
+- [Book Review: The Programmer&#39;s Brain](https://shkspr.mobi/blog/2022/04/book-review-the-programmers-brain-what-every-programmer-needs-to-know-about-cognition-by-felienne-hermans/)
+- [Show HN: ipyvizzu – open-source animated charts in Jupyter Notebooks](https://github.com/vizzuhq/ipyvizzu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
