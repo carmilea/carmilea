@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey has regrets about building Twitter](https://twitter.com/jack/status/1510314535671922689)
 - [We don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
 - [Life advice from NYC chess hustlers](https://annekadet.substack.com/p/life-advice-from-nyc-chess-hustlers)
 - [A project with a single 11,000-line code file](https://austinhenley.com/blog/11000lines.html)
 - [Reverse-engineering a mysterious Univac computer board](https://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html)
-- [Futures Nostalgia](https://fasterthanli.me/articles/futures-nostalgia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
