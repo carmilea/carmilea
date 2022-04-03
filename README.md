@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid spike protein induces cognitive deficit and anxiety-like behavior in mice](https://www.nature.com/articles/s41598-022-09410-7)
+- [Windows 11 may not be as popular as Microsoft had hoped](https://www.techradar.com/news/windows-11-may-not-be-as-popular-as-microsoft-had-hoped)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Tell HN: OpenBB scraping GitHub emails for marketing spam](https://news.ycombinator.com/item?id=30900237)
-- [Jack Dorsey has regrets about building Twitter](https://twitter.com/jack/status/1510314535671922689)
-- [We don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
-- [Life advice from NYC chess hustlers](https://annekadet.substack.com/p/life-advice-from-nyc-chess-hustlers)
+- [Shoelace: A Web Component Kit](https://shoelace.style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
