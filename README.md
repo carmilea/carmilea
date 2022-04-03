@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Young women earn more than young men in several U.S. cities](https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/)
+- [SPF Protected Spammers in the Public Cloud, Spamware to Spamtraps, SSH Groping](https://bsdly.blogspot.com/2022/04/spammers-in-public-cloud-protected-by.html)
 - [Future of Blitz.js](https://blitzjs.com/docs/blitz-pivot)
 - [Why to Care About Privacy After Years of Sharing Data](https://blog.thenewoil.org/why-to-care-about-privacy-after-years-of-sharing-data)
 - [The Science of Production](https://constructionphysics.substack.com/p/the-science-of-production)
-- [Intel becomes the first to offer full AV1 support with its new Arc GPUs](https://www.neowin.net/news/intel-beats-amd-and-nvidia-to-become-the-first-with-full-av1-support-with-its-new-arc-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
