@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Portal for AppleII](http://www.deater.net/weave/vmwprod/portal/)
 - [Toll Carrier Systems – The Song of the Open Wire](http://the-electric-orphanage.com/wp-toll-carrier-systems/)
 - [GNU ed ate my homework](https://edoverflow.com/2022/gnu-ed-ate-my-homework/)
 - [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
 - [Horrible edge cases when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
-- [Employees Are Returning to the Office, Just to Sit on Zoom Calls](https://www.bloomberg.com/news/articles/2022-04-01/employees-are-returning-to-office-post-covid-just-to-sit-on-zoom-calls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
