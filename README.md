@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid spike protein induces cognitive deficit and anxiety-like behavior in mice](https://www.nature.com/articles/s41598-022-09410-7)
-- [Windows 11 may not be as popular as Microsoft had hoped](https://www.techradar.com/news/windows-11-may-not-be-as-popular-as-microsoft-had-hoped)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Tell HN: OpenBB scraping GitHub emails for marketing spam](https://news.ycombinator.com/item?id=30900237)
-- [Shoelace: A Web Component Kit](https://shoelace.style/)
+- [Why are 2D vector graphics so much harder than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
+- [Some interesting malware I found](https://bobbiechen.com/blog/2022/4/3/some-interesting-malware)
+- [Software bug halts almost all trains in the Netherlands](https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html)
+- [Police Seized $10k from Him. A Court Ruled He Had No Right to an Attorney](https://reason.com/2022/04/01/civil-asset-forfeiture-police-indiana-supreme-court-terry-abbott/)
+- [Einstein versus the Physical Review](https://physicstoday.scitation.org/doi/10.1063/1.2117822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
