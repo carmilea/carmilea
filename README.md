@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Portal for AppleII](http://www.deater.net/weave/vmwprod/portal/)
+- [Valve Software Archive](https://valvearchive.com)
+- [Kaitai, binary format parsing web IDE](https://ide.kaitai.io/)
 - [Toll Carrier Systems – The Song of the Open Wire](http://the-electric-orphanage.com/wp-toll-carrier-systems/)
 - [GNU ed ate my homework](https://edoverflow.com/2022/gnu-ed-ate-my-homework/)
-- [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
-- [Why I got a PhD at age 61](https://www.nature.com/articles/d41586-022-00949-z)
 <!-- BLOG-POST-LIST:END -->
 
 ---
