@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portal for AppleII](http://www.deater.net/weave/vmwprod/portal/)
+- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careers)
+- [What are you doing, WordPress.com?](https://rootprivileges.net/2022/04/03/what-are-you-doing-wordpress-com/)
+- [SQLite B-Tree Module](https://sqlite.org/btreemodule.html)
+- [Portal for Apple II &lpar;2017&rpar;](http://www.deater.net/weave/vmwprod/portal/)
 - [Valve Software Archive](https://valvearchive.com)
-- [Kaitai, binary format parsing web IDE](https://ide.kaitai.io/)
-- [Toll Carrier Systems – The Song of the Open Wire](http://the-electric-orphanage.com/wp-toll-carrier-systems/)
-- [GNU ed ate my homework](https://edoverflow.com/2022/gnu-ed-ate-my-homework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
