@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Highest Resolution Photo of the Sun Ever Taken](https://kottke.org/22/04/the-highest-resolution-photo-of-the-sun-ever-taken)
 - [Tinygrad](https://github.com/geohot/tinygrad)
 - [Jitx &lpar;YC S18&rpar; is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
 - [Pathways Language Model &lpar;Palm&rpar;: 540B Parameters for Breakthrough Perf](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-- [Single-Chip Processors Have Reached Their Limits](https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits)
-- [Exit Interviews Are a Trap](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/)
+- [Single-chip processors have reached their limits](https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
