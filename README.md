@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The smartphone app that allows public to submit evidence of speeding drivers](https://road.cc/content/news/smartphone-speeding-app-will-it-actually-work-291605)
+- [Eigen: A C++ template library for linear algebra](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 - [A Blue Connector Does Not USB 3.0 Make](https://majenko.co.uk/blog/our-blog-1/usb-3-0-blues-56)
 - [FantasyLand on VGA](https://www.os2museum.com/wp/fantasyland-on-vga/)
-- [Jd](https://code.jsoftware.com/wiki/Jd/Overview)
-- [Meta quickly detects silent data corruptions at scale](https://engineering.fb.com/2022/03/17/production-engineering/silent-errors/)
-- [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
+- [Using a free smartphone app to detect “date-rape” drug compounds in drinks](https://onlinelibrary.wiley.com/doi/10.1111/1556-4029.15042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
