@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are 2D vector graphics so much harder than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
-- [Some interesting malware I found](https://bobbiechen.com/blog/2022/4/3/some-interesting-malware)
-- [Software bug halts almost all trains in the Netherlands](https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html)
-- [Police Seized $10k from Him. A Court Ruled He Had No Right to an Attorney](https://reason.com/2022/04/01/civil-asset-forfeiture-police-indiana-supreme-court-terry-abbott/)
-- [Einstein versus the Physical Review](https://physicstoday.scitation.org/doi/10.1063/1.2117822)
+- [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
+- [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
+- [Alive](https://alive.salon)
+- [Why are 2D vector graphics so much harder than 3D? &lpar;2019&rpar;](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
+- [“Can it run Doom” will never be the same, thanks to new ray-tracing mod](https://arstechnica.com/gaming/2022/04/doom-1-1993-gets-full-ray-tracing-dlss-support-in-fan-made-patch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
