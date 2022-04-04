@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
 - [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
 - [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
 - [Alive](https://alive.salon)
 - [Why are 2D vector graphics so much harder than 3D? &lpar;2019&rpar;](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
-- [“Can it run Doom” will never be the same, thanks to new ray-tracing mod](https://arstechnica.com/gaming/2022/04/doom-1-1993-gets-full-ray-tracing-dlss-support-in-fan-made-patch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
