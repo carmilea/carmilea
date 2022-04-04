@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jitx &lpar;YC S18&rpar; is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
+- [Pathways Language Model &lpar;Palm&rpar;: 540B Parameters for Breakthrough Perf](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+- [Ride a Bird scooter. Have an accident. Pay a mighty price](https://www.latimes.com/opinion/story/2022-04-03/bird-scooter-paralyzed-man-accident-suit-legal-fees)
 - [The Dead Hand–Soviet semi-autonomous nuclear command and control system](https://en.wikipedia.org/wiki/Dead_Hand)
-- [“Policy-Relevant” Social Science Is Mostly a Fraud](https://cspicenter.org/blog/cspi/about-those-baby-brainwaves-why-policy-relevant-social-science-is-mostly-a-fraud-executive-summary/)
-- [Video Games Turn 60: How Spacewar Launched a Revolution](https://www.howtogeek.com/794165/video-games-turn-60-how-spacewar-launched-a-revolution/)
-- [What I learned as a hired consultant to autodidact physicists &lpar;2016&rpar;](https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists)
-- [Return to Monkey Island – Coming 2022](https://twitter.com/grumpygamer/status/1510995575025528836)
+- [About Those Baby Brainwaves](https://cspicenter.org/blog/cspi/about-those-baby-brainwaves-why-policy-relevant-social-science-is-mostly-a-fraud-executive-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
