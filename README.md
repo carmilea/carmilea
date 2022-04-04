@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinygrad](https://github.com/geohot/tinygrad)
 - [Jitx &lpar;YC S18&rpar; is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
 - [Pathways Language Model &lpar;Palm&rpar;: 540B Parameters for Breakthrough Perf](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-- [Ride a Bird scooter. Have an accident. Pay a mighty price](https://www.latimes.com/opinion/story/2022-04-03/bird-scooter-paralyzed-man-accident-suit-legal-fees)
-- [The Dead Hand–Soviet semi-autonomous nuclear command and control system](https://en.wikipedia.org/wiki/Dead_Hand)
-- [About Those Baby Brainwaves](https://cspicenter.org/blog/cspi/about-those-baby-brainwaves-why-policy-relevant-social-science-is-mostly-a-fraud-executive-summary/)
+- [Single-Chip Processors Have Reached Their Limits](https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits)
+- [Exit Interviews Are a Trap](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
