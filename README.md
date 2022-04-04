@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Blue Connector Does Not USB 3.0 Make](https://majenko.co.uk/blog/our-blog-1/usb-3-0-blues-56)
+- [FantasyLand on VGA](https://www.os2museum.com/wp/fantasyland-on-vga/)
 - [Jd](https://code.jsoftware.com/wiki/Jd/Overview)
+- [Meta quickly detects silent data corruptions at scale](https://engineering.fb.com/2022/03/17/production-engineering/silent-errors/)
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
-- [Cython is 20](http://blog.behnel.de/posts/cython-is-20/)
-- [HTTP Feeds](https://www.http-feeds.org/)
-- [Infrastructure as Code Should Feel](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
