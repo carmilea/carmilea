@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The smartphone app that allows public to submit evidence of speeding drivers](https://road.cc/content/news/smartphone-speeding-app-will-it-actually-work-291605)
-- [Eigen: A C++ template library for linear algebra](https://eigen.tuxfamily.org/index.php?title=Main_Page)
-- [A Blue Connector Does Not USB 3.0 Make](https://majenko.co.uk/blog/our-blog-1/usb-3-0-blues-56)
-- [FantasyLand on VGA](https://www.os2museum.com/wp/fantasyland-on-vga/)
-- [Using a free smartphone app to detect “date-rape” drug compounds in drinks](https://onlinelibrary.wiley.com/doi/10.1111/1556-4029.15042)
+- [I Am Seriously Considering Going Back to Desktop Computers &lpar;2020&rpar;](http://misc-stuff.terraaeon.com/articles/locked-down-computers.html)
+- [Flickr has deleted the Internet Archive Book Images account](https://twitter.com/nightgolfer/status/1509116982611759107)
+- [Why Don&#39;t More Languages Offer Flow Typing?](https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing)
+- [RedwoodJS Reaches 1.0 Today](https://v1launchweek.redwoodjs.com/)
+- [Why I&#39;m in the Army Reserve–an explainer for my friends in tech](https://chrisseaton.com/army/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
