@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Feeds](https://www.http-feeds.org/)
 - [Infrastructure as Code Should Feel](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/)
+- [OwnTracks – keep track of your own location](https://owntracks.org/)
 - [Boopkit: eBPF backdoor &lpar;TCP&rpar; for spawning reverse shells](https://github.com/kris-nova/boopkit)
 - [Apple&#39;s whitelist of the 250k auto-completable domains in iOS](https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url)
-- [Theion sulphur crystal batteries promise breakthrough in energy density](https://www.whichev.net/2022/03/29/theion-sulphur-crystal-batteries-promise-breakthrough-in-energy-density/)
-- [Audi owner finds basic HVAC function paywalled after pressing button](https://www.thedrive.com/news/44967/audi-owner-finds-basic-hvac-function-paywalled-after-pressing-the-button-for-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
