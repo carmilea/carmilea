@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Am Seriously Considering Going Back to Desktop Computers &lpar;2020&rpar;](http://misc-stuff.terraaeon.com/articles/locked-down-computers.html)
-- [Flickr has deleted the Internet Archive Book Images account](https://twitter.com/nightgolfer/status/1509116982611759107)
-- [Why Don&#39;t More Languages Offer Flow Typing?](https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing)
-- [RedwoodJS Reaches 1.0 Today](https://v1launchweek.redwoodjs.com/)
-- [Why I&#39;m in the Army Reserve–an explainer for my friends in tech](https://chrisseaton.com/army/)
+- [The Dead Hand–Soviet semi-autonomous nuclear command and control system](https://en.wikipedia.org/wiki/Dead_Hand)
+- [“Policy-Relevant” Social Science Is Mostly a Fraud](https://cspicenter.org/blog/cspi/about-those-baby-brainwaves-why-policy-relevant-social-science-is-mostly-a-fraud-executive-summary/)
+- [Video Games Turn 60: How Spacewar Launched a Revolution](https://www.howtogeek.com/794165/video-games-turn-60-how-spacewar-launched-a-revolution/)
+- [What I learned as a hired consultant to autodidact physicists &lpar;2016&rpar;](https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists)
+- [Return to Monkey Island – Coming 2022](https://twitter.com/grumpygamer/status/1510995575025528836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
