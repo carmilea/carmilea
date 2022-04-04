@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are we running out of resources?](https://tokcast-bretthall-31ddc0.netlify.app/2022/03/are-we-running-out-of-resources/)
 - [Cython Is 20](http://blog.behnel.de/posts/cython-is-20/)
 - [HTTP Feeds](https://www.http-feeds.org/)
 - [Infrastructure as Code Should Feel](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/)
 - [OwnTracks – keep track of your own location](https://owntracks.org/)
-- [Boopkit: eBPF backdoor &lpar;TCP&rpar; for spawning reverse shells](https://github.com/kris-nova/boopkit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
