@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Audi owner finds basic HVAC function paywalled after pressing button](https://www.thedrive.com/news/44967/audi-owner-finds-basic-hvac-function-paywalled-after-pressing-the-button-for-it)
+- [Learn about Concept Maps](https://cmap.ihmc.us/docs/learn.php)
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
+- [The Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 - [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
-- [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
-- [Alive](https://alive.salon)
-- [Why are 2D vector graphics so much harder than 3D? &lpar;2019&rpar;](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
