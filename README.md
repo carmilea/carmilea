@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Theion sulphur crystal batteries promise breakthrough in energy density](https://www.whichev.net/2022/03/29/theion-sulphur-crystal-batteries-promise-breakthrough-in-energy-density/)
 - [Audi owner finds basic HVAC function paywalled after pressing button](https://www.thedrive.com/news/44967/audi-owner-finds-basic-hvac-function-paywalled-after-pressing-the-button-for-it)
 - [Learn about Concept Maps](https://cmap.ihmc.us/docs/learn.php)
+- [How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe](https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/)
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
-- [The Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
