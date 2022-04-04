@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
+- [USB-C hubs and my slow descent into madness](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html)
+- [Uninhabitable places in 2100 &lpar;interactive map&rpar;](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/en.html)
 - [Are You Nice or Kind?](https://haleynahman.substack.com/p/42-are-you-nice-or-kind)
-- [Zooming into the Sun with Solar Orbiter](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Zooming_into_the_Sun_with_Solar_Orbiter)
-- [Tinygrad](https://github.com/geohot/tinygrad)
-- [Jitx &lpar;YC S18&rpar; is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
-- [Pathways Language Model &lpar;PaLM&rpar;: Scaling to 540B parameters](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+- [Today is Antitrust Day. Tell Congress to put people back in control of tech](https://www.antitrustday.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
