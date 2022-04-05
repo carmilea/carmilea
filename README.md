@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Accidentally making a language, for an engine, for a game](https://verdagon.dev/blog/yak-shave-language-engine-game)
 - [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
-- [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
 - [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
 - [DevCycle &lpar;YC W14&rpar; is hiring feature flag automation engineers](https://devcycle.com/company/careers)
+- [Tell HN: My kid&#39;s school installed spyware and I can&#39;t remove it](https://news.ycombinator.com/item?id=30911623)
 <!-- BLOG-POST-LIST:END -->
 
 ---
