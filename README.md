@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roboflow &lpar;YC S20&rpar; is hiring to help devs give their software the sense of sight](https://www.youtube.com/watch?v=w7xnOTvF2H8)
+- [Man hacked random-number generator to rig lotteries, investigators say &lpar;2016&rpar;](https://www.theguardian.com/technology/2016/apr/08/man-hacked-random-number-generator-rig-lotteries-investigators-say)
+- [Sidekiq &lpar;a Ruby background processing lib&rpar; has made $13.5M in 10 years](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)
+- [Amazon’s Project Kuiper books 83 rockets to launch internet-beaming satellites](https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin)
 - [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
-- [Germany has seized control of Gazprom Germania](https://www.businessinsider.com/germany-seize-control-russia-natural-natural-gas-giant-gazprom-energy-2022-4)
-- [Tencent-Backed UK Startup First Light Achieves Nuclear Fusion Breakthrough](https://www.bloomberg.com/news/articles/2022-04-04/u-k-startup-s-big-friendly-gun-achieves-fusion-breakthrough)
-- [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
-- [Missing Darwin Notebooks Returned to Cambridge University Library](https://www.cam.ac.uk/stories/TreeOfLife)
 <!-- BLOG-POST-LIST:END -->
 
 ---
