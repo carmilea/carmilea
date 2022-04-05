@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Channel 4 privatisation to go ahead](https://www.bbc.co.uk/news/entertainment-arts-60985496)
 - [Tencent-Backed UK Startup First Light Achieves Nuclear Fusion Breakthrough](https://www.bloomberg.com/news/articles/2022-04-04/u-k-startup-s-big-friendly-gun-achieves-fusion-breakthrough)
 - [The Para Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
-- [We &lpar;bootstrapped&rpar; paid five-figure for our dot com domain](https://blog.remotive.com/remotive-dot-com/)
 - [Missing Darwin Notebooks Returned to Cambridge University Library](https://www.cam.ac.uk/stories/TreeOfLife)
+- [Accidentally making a language, for an engine, for a game](https://verdagon.dev/blog/yak-shave-language-engine-game)
+- [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
