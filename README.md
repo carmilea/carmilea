@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One-click checkout startup Fast is laying off half of its staff](https://airtable.com/shrE4hEicav6l5uAy/tblRVSv9UklbXJbod)
+- [Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/)
+- [One-click checkout startup Fast is laying off its staff](https://airtable.com/shrE4hEicav6l5uAy/tblRVSv9UklbXJbod)
 - [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools&#39; Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
 - [The Personal Security Checklist](https://security-list.js.org/)
 - [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
-- [Introducing ReadySet](https://blog.readyset.io/posts/introducing-readyset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
