@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One-click checkout startup Fast is laying off half of its staff](https://airtable.com/shrE4hEicav6l5uAy/tblRVSv9UklbXJbod)
+- [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools&#39; Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
+- [The Personal Security Checklist](https://security-list.js.org/)
+- [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
 - [Introducing ReadySet](https://blog.readyset.io/posts/introducing-readyset)
-- [The Next Google](https://dkb.io/post/the-next-google)
-- [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [Show HN: Warp, a Rust-based terminal](https://www.warp.dev?ref=showhn)
-- [Show HN: Flight Penguin – Like Hipmunk, but a browser extension](https://flightpenguin.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
