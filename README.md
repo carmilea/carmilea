@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung&#39;s latest Galaxy A53 is 33% slower than the previous Galaxy A52s](https://www.comparedial.com/news/the-new-samsung-galaxy-a53-is-33-slower-than-the-samsung-galaxy-a52s-285)
-- [pnpm: Fast, disk space efficient package manager for JavaScript](https://pnpm.io/)
-- [Show HN: HomeSheet, easy to use home inventory software](https://homesheet.co)
-- [Looking at Zig Programming Language](https://codecs.multimedia.cx/2022/02/looking-at-zig-programming-language/)
-- [Show HN: Datagridxl2.js – No-nonsense fast Excel-like data table library](https://www.datagridxl.com/)
+- [WWDC22](https://developer.apple.com/wwdc22/)
+- [Apple Neglects to Patch Two Zero-Day, Wild Vulnerabilities for Big Sur, Catalina](https://www.intego.com/mac-security-blog/apple-neglects-to-patch-zero-day-wild-vulnerabilities-for-macos-big-sur-catalina/)
+- [We use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/)
+- [Unreal Engine 5 is now available](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available)
+- [35mm cinema film and digital audio](https://everydaything.substack.com/p/35mm-cinema-film-and-digital-audio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
