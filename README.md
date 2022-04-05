@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Padlet is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
+- [Academe is a hotbed of craven snitches](https://www.chronicle.com/article/academe-is-a-hotbed-of-craven-snitches)
+- [My Attempted Cult Recruitment](https://dynomight.net/cult/)
 - [Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/)
-- [One-click checkout startup Fast is laying off its staff](https://airtable.com/shrE4hEicav6l5uAy/tblRVSv9UklbXJbod)
 - [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools&#39; Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
-- [The Personal Security Checklist](https://security-list.js.org/)
-- [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
