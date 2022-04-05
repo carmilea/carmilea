@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We built r/place &lpar;2021&rpar;](https://www.redditinc.com/blog/how-we-built-rplace/)
+- [How Neuromancer formed the Cyberpunk Aesthetics](https://sabukaru.online/articles/how-neuromancer-birthed-cyberpunk)
+- [America&#39;s internet is splitting along party lines](https://www.axios.com/americas-internet-splitting-party-lines-54feaa02-7622-4f54-b3e0-ccebd4b393ca.html)
 - [Roboflow &lpar;YC S20&rpar; is hiring to help devs give their software the sense of sight](https://www.youtube.com/watch?v=w7xnOTvF2H8)
 - [Man hacked random-number generator to rig lotteries, investigators say &lpar;2016&rpar;](https://www.theguardian.com/technology/2016/apr/08/man-hacked-random-number-generator-rig-lotteries-investigators-say)
-- [Sidekiq &lpar;a Ruby background processing lib&rpar; has made $13.5M in 10 years](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)
-- [Amazon’s Project Kuiper books 83 rockets to launch internet-beaming satellites](https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin)
-- [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
