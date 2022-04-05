@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ReadySet](https://blog.readyset.io/posts/introducing-readyset)
 - [The Next Google](https://dkb.io/post/the-next-google)
 - [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [Show HN: Warp, a Rust-based terminal for the modern age](https://www.warp.dev?ref=showhn)
+- [Show HN: Warp, a Rust-based terminal](https://www.warp.dev?ref=showhn)
 - [Show HN: Flight Penguin – Like Hipmunk, but a browser extension](https://flightpenguin.com)
-- [Warp: The 21st century terminal now in public beta](https://www.warp.dev/blog/introducing-warp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
