@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We built r/place &lpar;2021&rpar;](https://www.redditinc.com/blog/how-we-built-rplace/)
-- [How Neuromancer formed the Cyberpunk Aesthetics](https://sabukaru.online/articles/how-neuromancer-birthed-cyberpunk)
-- [America&#39;s internet is splitting along party lines](https://www.axios.com/americas-internet-splitting-party-lines-54feaa02-7622-4f54-b3e0-ccebd4b393ca.html)
-- [Roboflow &lpar;YC S20&rpar; is hiring to help devs give their software the sense of sight](https://www.youtube.com/watch?v=w7xnOTvF2H8)
-- [Man hacked random-number generator to rig lotteries, investigators say &lpar;2016&rpar;](https://www.theguardian.com/technology/2016/apr/08/man-hacked-random-number-generator-rig-lotteries-investigators-say)
+- [Samsung&#39;s latest Galaxy A53 is 33% slower than the previous Galaxy A52s](https://www.comparedial.com/news/the-new-samsung-galaxy-a53-is-33-slower-than-the-samsung-galaxy-a52s-285)
+- [pnpm: Fast, disk space efficient package manager for JavaScript](https://pnpm.io/)
+- [Show HN: HomeSheet, easy to use home inventory software](https://homesheet.co)
+- [Looking at Zig Programming Language](https://codecs.multimedia.cx/2022/02/looking-at-zig-programming-language/)
+- [Show HN: Datagridxl2.js – No-nonsense fast Excel-like data table library](https://www.datagridxl.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
