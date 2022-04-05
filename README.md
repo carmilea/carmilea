@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Accidentally making a language, for an engine, for a game](https://verdagon.dev/blog/yak-shave-language-engine-game)
-- [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
-- [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
-- [DevCycle &lpar;YC W14&rpar; is hiring feature flag automation engineers](https://devcycle.com/company/careers)
-- [Tell HN: My kid&#39;s school installed spyware and I can&#39;t remove it](https://news.ycombinator.com/item?id=30911623)
+- [Channel 4 privatisation to go ahead](https://www.bbc.co.uk/news/entertainment-arts-60985496)
+- [The Para Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
+- [Bearer tokens are just awful](https://mjg59.dreamwidth.org/59353.html)
+- [We &lpar;bootstrapped&rpar; paid five-figure for our dot com domain](https://blog.remotive.com/remotive-dot-com/)
+- [Missing Darwin Notebooks Returned to Cambridge University Library](https://www.cam.ac.uk/stories/TreeOfLife)
 <!-- BLOG-POST-LIST:END -->
 
 ---
