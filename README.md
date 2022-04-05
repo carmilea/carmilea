@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
+- [Germany has seized control of Gazprom Germania](https://www.businessinsider.com/germany-seize-control-russia-natural-natural-gas-giant-gazprom-energy-2022-4)
 - [Tencent-Backed UK Startup First Light Achieves Nuclear Fusion Breakthrough](https://www.bloomberg.com/news/articles/2022-04-04/u-k-startup-s-big-friendly-gun-achieves-fusion-breakthrough)
-- [The Para Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
+- [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
 - [Missing Darwin Notebooks Returned to Cambridge University Library](https://www.cam.ac.uk/stories/TreeOfLife)
-- [Accidentally making a language, for an engine, for a game](https://verdagon.dev/blog/yak-shave-language-engine-game)
-- [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
