@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC22](https://developer.apple.com/wwdc22/)
-- [Apple Neglects to Patch Two Zero-Day, Wild Vulnerabilities for Big Sur, Catalina](https://www.intego.com/mac-security-blog/apple-neglects-to-patch-zero-day-wild-vulnerabilities-for-macos-big-sur-catalina/)
-- [We use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/)
-- [Unreal Engine 5 is now available](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available)
-- [35mm cinema film and digital audio](https://everydaything.substack.com/p/35mm-cinema-film-and-digital-audio)
+- [The Next Google](https://dkb.io/post/the-next-google)
+- [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- [Show HN: Warp, a Rust-based terminal for the modern age](https://www.warp.dev?ref=showhn)
+- [Show HN: Flight Penguin – Like Hipmunk, but a browser extension](https://flightpenguin.com)
+- [Warp: The 21st century terminal now in public beta](https://www.warp.dev/blog/introducing-warp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
