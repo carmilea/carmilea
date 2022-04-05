@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game](https://verdagon.dev/blog/yak-shave-language-engine-game)
 - [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
-- [Mastodon: A free, open-source, and decentralized Twitter not owned by anybody](https://mastodon.social/about)
 - [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
 - [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
 <!-- BLOG-POST-LIST:END -->
