@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
+- [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
+- [Mastodon: A free, open-source, and decentralized Twitter not owned by anybody](https://mastodon.social/about)
+- [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
 - [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
-- [DevCycle &lpar;YC W14&rpar; is hiring feature flag automation engineers](https://devcycle.com/company/careers)
-- [Tell HN: My kid&#39;s school installed spyware and I can&#39;t remove it](https://news.ycombinator.com/item?id=30911623)
-- [USB-C hubs and my slow descent into madness &lpar;2021&rpar;](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html)
-- [Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”](https://theintercept.com/2022/04/04/amazon-union-living-wage-restrooms-chat-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
