@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford prof calls police after whistleblower exposes $5000/hour gov. contacts](https://twitter.com/minilek/status/1511358525179453440)
+- [Why rich people are panic-buying panic rooms](https://thehustle.co/03302022-panic-rooms/)
+- [Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb)
 - [Padlet &lpar;YC W13&rpar; is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
-- [My attempted cult recruitment](https://dynomight.net/cult/)
-- [Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/)
-- [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools&#39; Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
-- [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
+- [Ask HN: Beating depression with or without anti-depressants?](https://news.ycombinator.com/item?id=30923701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
