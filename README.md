@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky Mavis Raises $150M to Help Reimburse User Losses Stemming from Hack](https://axie.substack.com/p/funding)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers)
+- [What’s New in Emacs 28.1?](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1)
 - [GenieFramework – Build web applications with Julia](https://genieframework.com/)
 - [Ferrari owner Exor wants to build the Italian Y Combinator](https://sifted.eu/articles/ferrari-exor-seeds-italy-y-combinator/)
-- [How Disney Became a Nuclear Power](https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power)
-- [I need to stop being boring](https://patzhong.com/stop-being-boring/)
-- [Debian still having trouble with merged /usr](https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
