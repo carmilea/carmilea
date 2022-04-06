@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is anyone using SimH or QEMU with an old arch/OS in PRODUCTION?](https://news.ycombinator.com/item?id=30932896)
+- [Noam Chomsky: “We’re approaching the most dangerous point in human history”](https://www.newstatesman.com/encounter/2022/04/noam-chomsky-were-approaching-the-most-dangerous-point-in-human-history)
+- [Intel took an AMD Zen microarchitecture presentation and turned it into a patent](https://twitter.com/Underfox3/status/1511697355145367564)
 - [Dall-E 2](https://openai.com/dall-e-2/)
 - [Language of fungi derived from their electrical spiking activity](https://royalsocietypublishing.org/doi/10.1098/rsos.211926)
-- [How many of you have invested in their self-development and done inner work?](https://news.ycombinator.com/item?id=30931979)
-- [German parliament passes law to ramp up renewable energies, goal is 80% in 2035](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fpolitik%2Fdeutschland%2F2022-04%2Ffdp-oekostrom-paket-gesetz-kabinet)
-- [Microsoft Azure Adds Ampere Altra Arm CPUs](https://www.servethehome.com/microsoft-azure-adds-ampere-altra-arm-cpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
