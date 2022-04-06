@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is anyone using SimH or QEMU with an old arch/OS in PRODUCTION?](https://news.ycombinator.com/item?id=30932896)
-- [Noam Chomsky: “We’re approaching the most dangerous point in human history”](https://www.newstatesman.com/encounter/2022/04/noam-chomsky-were-approaching-the-most-dangerous-point-in-human-history)
-- [Intel took an AMD Zen microarchitecture presentation and turned it into a patent](https://twitter.com/Underfox3/status/1511697355145367564)
-- [Dall-E 2](https://openai.com/dall-e-2/)
-- [Language of fungi derived from their electrical spiking activity](https://royalsocietypublishing.org/doi/10.1098/rsos.211926)
+- [Friday.app is shutting down](https://friday.app/p/shutting-down)
+- [Speedcam Anywhere – catch speeding drivers from your smartphone](https://speedcamanywhere.com/)
+- [Please stop calling it “magic” &lpar;2017&rpar;](https://zverok.space/blog/2017-10-22-stop-magic.html)
+- [Devs of bcachefs try to get filesystem into Linux again](https://www.theregister.com/2022/03/18/bcachefs/)
+- [Startup failure stories: 20 months in, 2K hours spent and 200K € lost &lpar;2021&rpar;](https://dsebastien.net/blog/2021-01-04-20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
