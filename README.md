@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside London&#39;s first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
+- [Twitter Bluesky: A Self-Authenticating Social Protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
 - [AWS Lambda Function URLs: Built-In HTTPS Endpoints for Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [Smarking &lpar;YC W15&rpar; is hiring staff and engineers to digitize the parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [IRS details strategy for replacing its most ancient computer code](https://federalnewsnetwork.com/tom-temin-commentary/2020/10/irs-details-strategy-for-replacing-its-most-ancient-computer-code/)
-- [Home sweet homepage, a comic about growing up online](https://sailorhg.com/home_sweet_homepage/)
-- [In defense of simple architectures](https://danluu.com/simple-architectures/)
+- [IRS details strategy for replacing its most ancient computer code &lpar;2020&rpar;](https://federalnewsnetwork.com/tom-temin-commentary/2020/10/irs-details-strategy-for-replacing-its-most-ancient-computer-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
