@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Things We Did Not Do While Reaching $2M ARR](https://missiveapp.com/blog/the-things-we-did-not-do)
+- [MIPS provides highly scalable RISC processor IP](https://www.mips.com/)
+- [The State of Fortran](https://arxiv.org/abs/2203.15110)
+- [Arducam Pi Hawk-eye is a 64MP camera for Raspberry Pi 4/CM4](https://www.cnx-software.com/2022/04/06/arducam-pi-hawk-eye-64mp-camera-raspberry-pi-4-cm4/)
 - [Intel&#39;s “Cripple AMD” Function &lpar;2019&rpar;](https://www.agner.org/forum/viewtopic.php?t=6)
-- [Turo Requires a Driver&#39;s License Number and Credit Card to Show Full Price](https://news.ycombinator.com/item?id=30934734)
-- [Researchers Identify ‘Master Problem’ Underlying All Cryptography](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/)
-- [Mighty &lpar;YC S19&rpar; Is Hiring a MS Windows Engineer](https://www.notion.so/mightyapp/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- [Entire website in a single JavaScript file](https://deno.com/blog/a-whole-website-in-a-single-js-file)
 <!-- BLOG-POST-LIST:END -->
 
 ---
