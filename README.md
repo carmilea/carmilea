@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: I&#39;m interested in so many disciplines, but what can I do with that?](https://news.ycombinator.com/item?id=30928105)
 - [Design of This Website](https://www.gwern.net/Design)
-- [VisiCalc](http://www.bricklin.com/history/vcexecutable.htm)
+- [VisiCalc Executable for the IBM PC &lpar;1999&rpar;](http://www.bricklin.com/history/vcexecutable.htm)
 - [Writing a NetBSD Kernel Module](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
 - [From Belonging to Burnout, Five Years at Airbnb](https://news.techworkerscoalition.org/2022/04/05/issue-5/)
 <!-- BLOG-POST-LIST:END -->
