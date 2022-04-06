@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CircleCI Down](https://status.circleci.com)
+- [PCIe Ethernet in Thunderbolt docks &lpar;how to avoid Realtek&rpar;](https://egpu.io/forums/gpu-monitor-peripherals/pcie-ethernet-in-thunderbolt-docks/)
+- [Twitter is adding an edit button](https://www.theverge.com/2022/4/5/23011327/twitter-edit-button-blue-test)
+- [AT&amp;T&#39;s website raising the price every time I refresh the page](https://old.reddit.com/r/assholedesign/comments/tx7umg/atts_website_raising_the_price_every_time_i/)
 - [Sky Mavis Raises $150M to Help Reimburse User Losses Stemming from Hack](https://axie.substack.com/p/funding)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers)
-- [What’s New in Emacs 28.1?](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1)
-- [GenieFramework – Build web applications with Julia](https://genieframework.com/)
-- [Ferrari owner Exor wants to build the Italian Y Combinator](https://sifted.eu/articles/ferrari-exor-seeds-italy-y-combinator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
