@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: I&#39;m interested in so many disciplines, but what can I do with that?](https://news.ycombinator.com/item?id=30928105)
+- [Design of This Website](https://www.gwern.net/Design)
+- [VisiCalc](http://www.bricklin.com/history/vcexecutable.htm)
+- [Writing a NetBSD Kernel Module](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
 - [From Belonging to Burnout, Five Years at Airbnb](https://news.techworkerscoalition.org/2022/04/05/issue-5/)
-- [Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb)
-- [Navi- an interactive cheatsheet tool for the command line](https://github.com/denisidoro/navi)
-- [Padlet &lpar;YC W13&rpar; is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
