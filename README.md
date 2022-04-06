@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [At least 6,500 construction deaths in Qatar since winning the World Cup bid](https://www.theguardian.com/global-development/2021/feb/23/revealed-migrant-worker-deaths-qatar-fifa-world-cup-2022)
 - [GenieFramework – Web Development with Julia](https://genieframework.com/)
 - [Ferrari owner Exor wants to build the Italian Y Combinator](https://sifted.eu/articles/ferrari-exor-seeds-italy-y-combinator/)
 - [How Disney Became a Nuclear Power](https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power)
 - [I need to stop being boring](https://patzhong.com/stop-being-boring/)
-- [Debian still having trouble with merged /usr](https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
