@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KeePassXC 2.7.1 Released](https://keepassxc.org/blog/2022-04-06-2.7.1-released//)
+- [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
+- [Ask HN: Do you believe in GNU&#39;s Free Software?](https://news.ycombinator.com/item?id=30935918)
 - [The Things We Did Not Do While Reaching $2M ARR](https://missiveapp.com/blog/the-things-we-did-not-do)
 - [MIPS provides highly scalable RISC processor IP](https://www.mips.com/)
-- [The State of Fortran](https://arxiv.org/abs/2203.15110)
-- [Arducam Pi Hawk-eye is a 64MP camera for Raspberry Pi 4/CM4](https://www.cnx-software.com/2022/04/06/arducam-pi-hawk-eye-64mp-camera-raspberry-pi-4-cm4/)
-- [Intel&#39;s “Cripple AMD” Function &lpar;2019&rpar;](https://www.agner.org/forum/viewtopic.php?t=6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
