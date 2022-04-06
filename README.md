@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mighty &lpar;YC S19&rpar; Is Hiring a MS Windows Engineer](https://www.notion.so/mightyapp/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [Sex workers can&#39;t order DoorDash because of cross-platform surveillance](https://twitter.com/linguangst/status/1511069159982977024)
 - [Friday.app is shutting down](https://friday.app/p/shutting-down)
-- [Speedcam Anywhere – catch speeding drivers from your smartphone](https://speedcamanywhere.com/)
 - [Please stop calling it “magic” &lpar;2017&rpar;](https://zverok.space/blog/2017-10-22-stop-magic.html)
 - [Devs of bcachefs try to get filesystem into Linux again](https://www.theregister.com/2022/03/18/bcachefs/)
-- [Startup failure stories: 20 months in, 2K hours spent and 200K € lost &lpar;2021&rpar;](https://dsebastien.net/blog/2021-01-04-20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
