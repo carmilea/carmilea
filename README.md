@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why rich people are panic-buying panic rooms](https://thehustle.co/03302022-panic-rooms/)
+- [Ask HN: I&#39;m interested in so many disciplines, but what can I do with that?](https://news.ycombinator.com/item?id=30928105)
+- [From Belonging to Burnout, Five Years at Airbnb](https://news.techworkerscoalition.org/2022/04/05/issue-5/)
 - [Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb)
 - [Navi- an interactive cheatsheet tool for the command line](https://github.com/denisidoro/navi)
 - [Padlet &lpar;YC W13&rpar; is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
-- [Ask HN: Beating depression with or without anti-depressants?](https://news.ycombinator.com/item?id=30923701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
