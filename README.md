@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GenieFramework – Web Development with Julia](https://genieframework.com/)
+- [Ferrari owner Exor wants to build the Italian Y Combinator](https://sifted.eu/articles/ferrari-exor-seeds-italy-y-combinator/)
 - [How Disney Became a Nuclear Power](https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power)
+- [I need to stop being boring](https://patzhong.com/stop-being-boring/)
 - [Debian still having trouble with merged /usr](https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/)
-- [Show HN: Bloben – self hosted web CalDAV calendar client](https://news.ycombinator.com/item?id=30929022)
-- [CalyxOS releases test builds for Fairphone 4, OnePlus 8T, and OnePlus 9](https://calyxos.org/news/2022/04/01/fairphone4-oneplus8t-oneplus9-test-builds/)
-- [Steam: Half-Life 2 Hardware Survey &lpar;2004&rpar;](https://web.archive.org/web/20040630214045/http://steampowered.com/status/survey.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
