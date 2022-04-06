@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Debian still having trouble with merged /usr](https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/)
+- [CalyxOS releases test builds for Fairphone 4, OnePlus 8T, and OnePlus 9](https://calyxos.org/news/2022/04/01/fairphone4-oneplus8t-oneplus9-test-builds/)
 - [Steam: Half-Life 2 Hardware Survey &lpar;2004&rpar;](https://web.archive.org/web/20040630214045/http://steampowered.com/status/survey.html)
 - [The Silver Currency of Cannabis Country &lpar;2019&rpar;](https://www.topic.com/the-silver-currency-of-cannabis-country)
 - [Twitter is using it’s embedded JavaScript to edit other people&#39;s sites](http://www.kevinmarks.com/twittereditsyou.html)
-- [Ask HN: I&#39;m interested in so many disciplines, but what can I do with that?](https://news.ycombinator.com/item?id=30928105)
-- [Design of This Website](https://www.gwern.net/Design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
