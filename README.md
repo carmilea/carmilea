@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CircleCI Down](https://status.circleci.com)
-- [PCIe Ethernet in Thunderbolt docks &lpar;how to avoid Realtek&rpar;](https://egpu.io/forums/gpu-monitor-peripherals/pcie-ethernet-in-thunderbolt-docks/)
-- [Twitter is adding an edit button](https://www.theverge.com/2022/4/5/23011327/twitter-edit-button-blue-test)
-- [AT&amp;T&#39;s website raising the price every time I refresh the page](https://old.reddit.com/r/assholedesign/comments/tx7umg/atts_website_raising_the_price_every_time_i/)
-- [Sky Mavis Raises $150M to Help Reimburse User Losses Stemming from Hack](https://axie.substack.com/p/funding)
+- [Dall-E 2](https://openai.com/dall-e-2/)
+- [Language of fungi derived from their electrical spiking activity](https://royalsocietypublishing.org/doi/10.1098/rsos.211926)
+- [How many of you have invested in their self-development and done inner work?](https://news.ycombinator.com/item?id=30931979)
+- [German parliament passes law to ramp up renewable energies, goal is 80% in 2035](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fpolitik%2Fdeutschland%2F2022-04%2Ffdp-oekostrom-paket-gesetz-kabinet)
+- [Microsoft Azure Adds Ampere Altra Arm CPUs](https://www.servethehome.com/microsoft-azure-adds-ampere-altra-arm-cpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
