@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford prof calls police after whistleblower exposes $5000/hour gov. contacts](https://twitter.com/minilek/status/1511358525179453440)
 - [Why rich people are panic-buying panic rooms](https://thehustle.co/03302022-panic-rooms/)
 - [Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb)
+- [Navi- an interactive cheatsheet tool for the command line](https://github.com/denisidoro/navi)
 - [Padlet &lpar;YC W13&rpar; is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
 - [Ask HN: Beating depression with or without anti-depressants?](https://news.ycombinator.com/item?id=30923701)
 <!-- BLOG-POST-LIST:END -->
