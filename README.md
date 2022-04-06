@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KeePassXC 2.7.1 Released](https://keepassxc.org/blog/2022-04-06-2.7.1-released//)
-- [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
-- [Ask HN: Do you believe in GNU&#39;s Free Software?](https://news.ycombinator.com/item?id=30935918)
-- [The Things We Did Not Do While Reaching $2M ARR](https://missiveapp.com/blog/the-things-we-did-not-do)
-- [MIPS provides highly scalable RISC processor IP](https://www.mips.com/)
+- [AWS Lambda Function URLs: Built-In HTTPS Endpoints for Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- [Smarking &lpar;YC W15&rpar; is hiring staff and engineers to digitize the parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [IRS details strategy for replacing its most ancient computer code](https://federalnewsnetwork.com/tom-temin-commentary/2020/10/irs-details-strategy-for-replacing-its-most-ancient-computer-code/)
+- [Home sweet homepage, a comic about growing up online](https://sailorhg.com/home_sweet_homepage/)
+- [In defense of simple architectures](https://danluu.com/simple-architectures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
