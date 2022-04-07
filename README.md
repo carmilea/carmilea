@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer &lpar;Learn More&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [Raspberry Pi update removes the default user](http://deepaqua.me/2022/04/07/the-pi-user-is-dead-long-life-the-pi-user/)
 - [The ever-increasing walled-gardeness of Twitter](https://annoying.technology/posts/e6901c0ea272f57d/)
 - [Newly Measured Particle Seems Heavy Enough to Break Known Physics](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/)
 - [Mantle – Serverless Maps Using Lambda or Cloudflare Workers](https://protomaps.com/blog/serverless-self-hosted-maps/)
-- [Ruby 3.2 preview 1 with support for WASM compilation](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
-- [TypeScript as fast as Rust: TypeScript++](https://zaplib.com/docs/blog_ts++.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
