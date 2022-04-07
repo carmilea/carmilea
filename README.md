@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Recruiters are lying about remote positions](https://news.ycombinator.com/item?id=30945451)
+- [ACM Opens First 50 Years Backfile](https://www.acm.org/articles/bulletins/2022/april/50-years-backfile)
+- [Leaving California? A 2022 guide to what state is best to move to](https://www.ocregister.com/2022/04/06/leaving-california-a-2022-guide-to-what-state-is-best-to-move-to/)
+- [Nuclear power helped prevent ~2M deaths in the last 50 years](https://twitter.com/rafaelmgrossi/status/1512061341212704771)
 - [I stopped advertising everywhere and nothing happened](https://theantistartup.com/i-stopped-advertising-everywhere-and-nothing-happened/)
-- [Using Windows after 15 years on Linux](https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/)
-- [Invitation to Europe](https://novayagazeta.eu/)
-- [FAA, Do Your Damn Job](https://www.avweb.com/insider/faa-do-your-damn-job/)
-- [Brain charts: mapping the rapid growth and slow decline of the brain over life](https://www.cam.ac.uk/stories/BrainCharts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
