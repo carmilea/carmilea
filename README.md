@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Square Meal – Foods of the ‘20s and ‘30s](https://slimemoldtimemold.com/2022/04/04/book-review-a-square-meal-part-i-foods-of-the-20s-and-30s/)
 - [Wagetap &lpar;YC W22&rpar; Is Hiring a Lead Software Engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
+- [Andrew Ng: Unbiggen AI. &lpar;Or: Farewell, Big Data&rpar;](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
 - [FAANG promo committees are killing Kubernetes: A Short Thread](https://twitter.com/kantrn/status/1511791378497384454)
-- [Retype: A self-hosted and free alternative to gitbook](https://retype.com)
 - [Show HN: MetricFlow – open-source metric framework](https://github.com/transform-data/metricflow)
-- [Inside London&#39;s first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
