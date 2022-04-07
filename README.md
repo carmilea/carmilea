@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Archives: System/360 Announcement &lpar;April 7, 1964&rpar;](https://www.ibm.com/ibm/history/exhibits/mainframe/mainframe_PR360.html)
-- [Unit Testing is Overrated &lpar;2020&rpar;](https://tyrrrz.me/blog/unit-testing-is-overrated/)
-- [Piepacker &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/piepacker/jobs/nMq4ryJ-senior-game-developer)
-- [News for the Future of BeeWare](https://beeware.org/news/buzz/exciting-news-for-the-future-of-beeware/)
-- [Hand-optimizing the TCC code generator](https://briancallahan.net/blog/20220406.html)
+- [TrueVault &lpar;YC W14&rpar; Is Hiring Our Founding Account Executive](https://www.ycombinator.com/companies/truevault/jobs/4bVCF2r-founding-account-executive)
+- [Welcome to &#39;Le Monde&#39; in English](https://www.lemonde.fr/en/about-us/article/2022/04/07/welcome-to-le-monde-in-english_5979903_115.html)
+- [The 0,5 MB of nothing in all Apple Music files &lpar;2020&rpar;](https://www.ctrl.blog/entry/apple-music-nullbytes.html)
+- [The Genius of Fishing with Tidal Weirs](https://nautil.us/the-genius-of-fishing-with-tidal-weirs-15894/)
+- [Ask HN: Have you ever switched cloud?](https://news.ycombinator.com/item?id=30942698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
