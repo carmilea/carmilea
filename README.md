@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Novaya Gazeta: Relaunch](https://novayagazeta.eu/)
-- [FAA, do your damn job [unleaded avgas]](https://www.avweb.com/insider/faa-do-your-damn-job/)
-- [TrueVault &lpar;YC W14&rpar; Is Hiring Our Founding Account Executive](https://www.ycombinator.com/companies/truevault/jobs/4bVCF2r-founding-account-executive)
-- [Welcome to &#39;Le Monde&#39; in English](https://www.lemonde.fr/en/about-us/article/2022/04/07/welcome-to-le-monde-in-english_5979903_115.html)
-- [The 0,5 MB of nothing in all Apple Music files &lpar;2020&rpar;](https://www.ctrl.blog/entry/apple-music-nullbytes.html)
+- [I stopped advertising everywhere and nothing happened](https://theantistartup.com/i-stopped-advertising-everywhere-and-nothing-happened/)
+- [Using Windows after 15 years on Linux](https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/)
+- [Invitation to Europe](https://novayagazeta.eu/)
+- [FAA, Do Your Damn Job](https://www.avweb.com/insider/faa-do-your-damn-job/)
+- [Brain charts: mapping the rapid growth and slow decline of the brain over life](https://www.cam.ac.uk/stories/BrainCharts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
