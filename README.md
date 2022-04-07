@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS lowers data transfer prices for PrivateLink, Transit Gateway, Client VPN](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
+- [The ever-increasing walled-gardeness of Twitter](https://annoying.technology/posts/e6901c0ea272f57d/)
 - [Newly Measured Particle Seems Heavy Enough to Break Known Physics](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/)
 - [Mantle – Serverless Maps Using Lambda or Cloudflare Workers](https://protomaps.com/blog/serverless-self-hosted-maps/)
-- [Ruby 3.2 preview 1 with support for WASM compilation can run in browser](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
+- [Ruby 3.2 preview 1 with support for WASM compilation](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
 - [TypeScript as fast as Rust: TypeScript++](https://zaplib.com/docs/blog_ts++.html)
 <!-- BLOG-POST-LIST:END -->
 
