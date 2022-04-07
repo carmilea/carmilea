@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Physicalization of Metamathematics and the Implications for Its Foundations](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
-- [Tree-sitter grammar for org-mode](https://github.com/milisims/tree-sitter-org)
-- [Advantages of Monorepos](https://danluu.com/monorepo/)
-- [Tell HN: Recruiters are lying about remote positions](https://news.ycombinator.com/item?id=30945451)
-- [Canada to Ban Foreigners from Buying Homes](https://www.bloomberg.com/news/articles/2022-04-06/canada-to-ban-some-foreigners-from-buying-homes-as-prices-soar)
+- [Robot scientist finds less than one third of scientific results are reproducible](https://www.cam.ac.uk/research/news/robot-scientist-eve-finds-that-less-than-one-third-of-scientific-results-are-reproducible)
+- [Recurse Center &lpar;YC S10&rpar; Is Hiring an Online Facilitator &lpar;US Remote&rpar;](https://www.recurse.com/blog/171-were-hiring-an-online-facilitator)
+- [The computers used to do 3D animation for Final Fantasy VII in 1996](https://lunduke.substack.com/p/the-computers-used-to-do-3d-animation)
+- [Redesigning an App, One Day a Week at a Time](http://pketh.org/redesigning-an-app.html)
+- [Governments are failing to understand global catastrophic risks &lpar;2019&rpar;](https://www.cam.ac.uk/research/news/governments-are-failing-to-understand-global-catastrophic-risks-and-need-to-take-urgent-action-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
