@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wagetap &lpar;YC W22&rpar; Is Hiring a Lead Software Engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
+- [FAANG promo committees are killing Kubernetes: A Short Thread](https://twitter.com/kantrn/status/1511791378497384454)
+- [Retype: A self-hosted and free alternative to gitbook](https://retype.com)
 - [Show HN: MetricFlow – open-source metric framework](https://github.com/transform-data/metricflow)
 - [Inside London&#39;s first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
-- [A self-authenticating social protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
-- [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
-- [AWS Lambda function URLs: Built-in HTTPS endpoints](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
