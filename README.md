@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot scientist finds less than one third of scientific results are reproducible](https://www.cam.ac.uk/research/news/robot-scientist-eve-finds-that-less-than-one-third-of-scientific-results-are-reproducible)
+- [Mantle – Serverless Maps Using Lambda or Cloudflare Workers](https://protomaps.com/blog/serverless-self-hosted-maps/)
+- [Ruby 3.2 preview 1 with support for WASM compilation can run in browser](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
+- [TypeScript as fast as Rust: TypeScript++](https://zaplib.com/docs/blog_ts++.html)
+- [What software engineers can learn from the rapid collapse of Fast](https://newsletter.pragmaticengineer.com/p/the-scoop-fast)
 - [Recurse Center &lpar;YC S10&rpar; Is Hiring an Online Facilitator &lpar;US Remote&rpar;](https://www.recurse.com/blog/171-were-hiring-an-online-facilitator)
-- [The computers used to do 3D animation for Final Fantasy VII in 1996](https://lunduke.substack.com/p/the-computers-used-to-do-3d-animation)
-- [Redesigning an App, One Day a Week at a Time](http://pketh.org/redesigning-an-app.html)
-- [Governments are failing to understand global catastrophic risks &lpar;2019&rpar;](https://www.cam.ac.uk/research/news/governments-are-failing-to-understand-global-catastrophic-risks-and-need-to-take-urgent-action-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
