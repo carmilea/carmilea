@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Piepacker &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/piepacker/jobs/nMq4ryJ-senior-game-developer)
+- [News for the Future of BeeWare](https://beeware.org/news/buzz/exciting-news-for-the-future-of-beeware/)
 - [Hand-optimizing the TCC code generator](https://briancallahan.net/blog/20220406.html)
+- [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 - [It’s Time to Launch the Wolfram Institute](https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/)
-- [Gathering multiple system parameters in a single call](https://lwn.net/SubscriberLink/890449/368350f71f0aae10/)
-- [A Square Meal – Foods of the ‘20s and ‘30s](https://slimemoldtimemold.com/2022/04/04/book-review-a-square-meal-part-i-foods-of-the-20s-and-30s/)
-- [Wagetap &lpar;YC W22&rpar; is hiring a lead software engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
