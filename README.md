@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Physicalization of Metamathematics and the Implications for Its Foundations](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
+- [Tree-sitter grammar for org-mode](https://github.com/milisims/tree-sitter-org)
+- [Advantages of Monorepos](https://danluu.com/monorepo/)
 - [Tell HN: Recruiters are lying about remote positions](https://news.ycombinator.com/item?id=30945451)
-- [ACM Opens First 50 Years Backfile](https://www.acm.org/articles/bulletins/2022/april/50-years-backfile)
-- [Leaving California? A 2022 guide to what state is best to move to](https://www.ocregister.com/2022/04/06/leaving-california-a-2022-guide-to-what-state-is-best-to-move-to/)
-- [Nuclear power helped prevent ~2M deaths in the last 50 years](https://twitter.com/rafaelmgrossi/status/1512061341212704771)
-- [I stopped advertising everywhere and nothing happened](https://theantistartup.com/i-stopped-advertising-everywhere-and-nothing-happened/)
+- [Canada to Ban Foreigners from Buying Homes](https://www.bloomberg.com/news/articles/2022-04-06/canada-to-ban-some-foreigners-from-buying-homes-as-prices-soar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
