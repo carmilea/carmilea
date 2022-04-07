@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I found a 271,800 character demangled symbol name in libmshr](https://gregoryszorc.com/blog/2022/01/09/bulk-analyze-linux-packages-with-linux-package-analyzer/)
+- [Birds Make Better Bipedal Bots Than Humans Do](https://www.scientificamerican.com/article/birds-make-better-bipedal-bots-than-humans-do/)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer &lpar;Learn More&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 - [Raspberry Pi update removes the default user](http://deepaqua.me/2022/04/07/the-pi-user-is-dead-long-life-the-pi-user/)
 - [The ever-increasing walled-gardeness of Twitter](https://annoying.technology/posts/e6901c0ea272f57d/)
-- [Newly Measured Particle Seems Heavy Enough to Break Known Physics](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/)
-- [Mantle – Serverless Maps Using Lambda or Cloudflare Workers](https://protomaps.com/blog/serverless-self-hosted-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
