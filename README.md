@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gathering multiple system parameters in a single call](https://lwn.net/SubscriberLink/890449/368350f71f0aae10/)
 - [A Square Meal – Foods of the ‘20s and ‘30s](https://slimemoldtimemold.com/2022/04/04/book-review-a-square-meal-part-i-foods-of-the-20s-and-30s/)
-- [Wagetap &lpar;YC W22&rpar; Is Hiring a Lead Software Engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
-- [Andrew Ng: Unbiggen AI. &lpar;Or: Farewell, Big Data&rpar;](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
+- [Wagetap &lpar;YC W22&rpar; is hiring a lead software engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
+- [Andrew Ng: Unbiggen AI](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
 - [Why the WHO took two years to say Covid is airborne](https://www.nature.com/articles/d41586-022-00925-7)
-- [FAANG promo committees are killing Kubernetes: A Short Thread](https://twitter.com/kantrn/status/1511791378497384454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
