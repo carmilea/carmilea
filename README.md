@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Measurement of the W boson mass reveals 7σ deviation from calculations](https://www.science.org/doi/10.1126/science.abk1781)
 - [Buffereditor – Code and Text Editor for iPhone, iPad and iPad Pro](https://buffereditor.com/)
+- [OpenSSH 9.0 has been released](https://www.openssh.com/releasenotes.html#9.0)
 - [Flagright &lpar;YC W22&rpar; Is Hiring](https://www.workatastartup.com/jobs/51714)
 - [You may not need Cloudflare Tunnel. Linux is fine](https://kiwiziti.com/~matt/wireguard/)
-- [Video Diffusion Models](https://video-diffusion.github.io/)
-- [Is there any future for the GTK-based Desktop Environments?](https://ludditus.com/2021/05/30/is-there-any-future-for-the-gtk-based-desktop-environments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
