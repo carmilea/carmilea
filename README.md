@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers just discovered the farthest object in the known universe](https://www.livescience.com/farthest-astronomical-object-ever-seen)
+- [Vancouver Zoning Map](https://maps.nicholsonroad.com/zones/)
+- [B773 at Paris on Apr 5th, airplane did not respond to commands](https://avherald.com/h?article=4f700fec)
 - [Show HN: Zaplib – Speed up your webapp with Rust+Wasm](https://zaplib.com/docs/)
-- [Changing jobs during the Great Resignation](https://www.adamconrad.dev/blog/changing-jobs-during-the-great-resignation/)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/kable/jobs)
-- [Why I&#39;ll never use Affirm again](https://gist.github.com/mabunday/a9d8effcd1054fed30da172f97926c6a)
-- [A naked skydive inspired a way to keep pilots oriented in flight](https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
