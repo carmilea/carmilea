@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there any future for the GTK-based Desktop Environments?](https://ludditus.com/2021/05/30/is-there-any-future-for-the-gtk-based-desktop-environments/)
 - [Cohere: The world’s most powerful NLP toolkit](https://cohere.ai)
 - [User beware: Modified AGPLv3 removes freedoms, adds legal headaches](https://opensource.org/blog/modified-agplv3-removes-freedoms-adds-legal-headaches)
 - [Zas Editor](https://www.zeditor.app/)
-- [Reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
-- [Walmart truckers to start at $95k a year](https://www.axios.com/walmart-trucker-salary-9bc06c92-4da5-45d4-bc95-39795f75e015.html)
+- [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)
 <!-- BLOG-POST-LIST:END -->
 
 ---
