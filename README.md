@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Return to Monkey Island, Coming 2022](https://returntomonkeyisland.com)
-- [Kraken shuts down global headquarters because ‘San Francisco is not safe’](https://cointelegraph.com/news/kraken-shuts-down-global-headquarters-as-san-francisco-is-not-safe)
-- [Old C code – how to upgrade it?](https://news.ycombinator.com/item?id=30957273)
-- [Static Site Generator in 86 Lines](https://alexxx.co/static-site-generator.html)
-- [Mutagen – Cloud-based development using your local tools](https://mutagen.io/)
+- [A Naked Skydive Inspired a Way to Keep Pilots Oriented in Flight](https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html)
+- [Notepad Next](https://github.com/dail8859/NotepadNext)
+- [The United States Digital Corps](https://digitalcorps.gsa.gov/about/)
+- [List of 3.9k Twitter accounts dropping “.eth” from usernames](https://gist.github.com/travisbrown/ddea062402cc22cc2aba78bff4d9c95f)
+- [Turborepo 1.2: High-performance build system for monorepos](https://turborepo.org/blog/turbo-1-2-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
