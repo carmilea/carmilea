@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Zaplib – Speed up your webapp with Rust+Wasm](https://zaplib.com/docs/)
+- [Changing jobs during the Great Resignation](https://www.adamconrad.dev/blog/changing-jobs-during-the-great-resignation/)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/kable/jobs)
+- [Why I&#39;ll never use Affirm again](https://gist.github.com/mabunday/a9d8effcd1054fed30da172f97926c6a)
 - [A naked skydive inspired a way to keep pilots oriented in flight](https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html)
-- [Ask HN: Shouldn&#39;t we be turning an eye to power consumption?](https://news.ycombinator.com/item?id=30959094)
-- [NotepadNext: A cross-platform reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
-- [The United States Digital Corps](https://digitalcorps.gsa.gov/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
