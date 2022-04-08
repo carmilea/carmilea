@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Naked Skydive Inspired a Way to Keep Pilots Oriented in Flight](https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html)
-- [Notepad Next](https://github.com/dail8859/NotepadNext)
+- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/kable/jobs)
+- [A naked skydive inspired a way to keep pilots oriented in flight](https://www.military.com/history/how-naked-skydive-inspired-way-keep-pilots-oriented-flight.html)
+- [Ask HN: Shouldn&#39;t we be turning an eye to power consumption?](https://news.ycombinator.com/item?id=30959094)
+- [NotepadNext: A cross-platform reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 - [The United States Digital Corps](https://digitalcorps.gsa.gov/about/)
-- [List of 3.9k Twitter accounts dropping “.eth” from usernames](https://gist.github.com/travisbrown/ddea062402cc22cc2aba78bff4d9c95f)
-- [Turborepo 1.2: High-performance build system for monorepos](https://turborepo.org/blog/turbo-1-2-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
