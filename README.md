@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flagright &lpar;YC W22&rpar; Is Hiring](https://www.workatastartup.com/jobs/51714)
+- [Video Diffusion Models](https://video-diffusion.github.io/)
 - [Cohere: The world’s most powerful NLP toolkit](https://cohere.ai)
 - [‘Housing in ‘07 wasn’t a bubble” is a true statement that almost no one believes](https://fullstackeconomics.com/the-2000s-housing-bubble-was-greatly-exaggerated/)
 - [User beware: Modified AGPLv3 removes freedoms, adds legal headaches](https://opensource.org/blog/modified-agplv3-removes-freedoms-adds-legal-headaches)
-- [Zas Editor](https://www.zeditor.app/)
-- [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)
 <!-- BLOG-POST-LIST:END -->
 
 ---
