@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dall-E 2 illustrations of Twitter bios](https://twitter.com/nickcammarata/status/1511861061988892675)
+- [Drone Footage of Tesla Factory](https://twitter.com/alexandrosM/status/1510008990368878592)
+- [Inside the Bitcoin Bust That Took Down the Web’s Biggest Child Abuse Site](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/)
+- [Bongard Problems](http://www.foundalis.com/res/bps/bpidx.htm)
 - [Astronomers just discovered the farthest object in the known universe](https://www.livescience.com/farthest-astronomical-object-ever-seen)
-- [Vancouver Zoning Map](https://maps.nicholsonroad.com/zones/)
-- [B773 at Paris on Apr 5th, airplane did not respond to commands](https://avherald.com/h?article=4f700fec)
-- [Show HN: Zaplib – Speed up your webapp with Rust+Wasm](https://zaplib.com/docs/)
-- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/kable/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
