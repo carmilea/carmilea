@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I found a 271,800 character demangled symbol name in libmshr](https://gregoryszorc.com/blog/2022/01/09/bulk-analyze-linux-packages-with-linux-package-analyzer/)
-- [Birds Make Better Bipedal Bots Than Humans Do](https://www.scientificamerican.com/article/birds-make-better-bipedal-bots-than-humans-do/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer &lpar;Learn More&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- [Raspberry Pi update removes the default user](http://deepaqua.me/2022/04/07/the-pi-user-is-dead-long-life-the-pi-user/)
-- [The ever-increasing walled-gardeness of Twitter](https://annoying.technology/posts/e6901c0ea272f57d/)
+- [User beware: Modified AGPLv3 removes freedoms, adds legal headaches](https://opensource.org/blog/modified-agplv3-removes-freedoms-adds-legal-headaches)
+- [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)
+- [Reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
+- [Walmart truckers to start at $95k a year](https://www.axios.com/walmart-trucker-salary-9bc06c92-4da5-45d4-bc95-39795f75e015.html)
+- [Arrests of a Yakuza Leader and Affiliates for Narcotics and Weapons Trafficking](https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-arrests-yakuza-leader-and-affiliates-international)
 <!-- BLOG-POST-LIST:END -->
 
 ---
