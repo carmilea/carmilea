@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Measurement of the W boson mass reveals 7σ deviation from calculations](https://www.science.org/doi/10.1126/science.abk1781)
-- [Buffereditor – Code and Text Editor for iPhone, iPad and iPad Pro](https://buffereditor.com/)
-- [OpenSSH 9.0](https://www.openssh.com/releasenotes.html#9.0)
-- [Flagright &lpar;YC W22&rpar; Is Hiring](https://www.workatastartup.com/jobs/51714)
-- [You may not need Cloudflare Tunnel. Linux is fine](https://kiwiziti.com/~matt/wireguard/)
+- [Theneo &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/theneo/jobs/Q5qp3xL-backend-engineer)
+- [Ask HN: Which algorithms based on biological ideas do you know?](https://news.ycombinator.com/item?id=30955837)
+- [Is It Time to Revisit the Keystone XL Pipeline?](https://oilprice.com/Energy/Oil-Prices/Is-It-Time-To-Revisit-The-Keystone-XL-Pipeline.html)
+- [Bench Does Not Exist](https://shkspr.mobi/blog/2022/04/this-bench-does-not-exist/)
+- [Transformer Models](https://www.pinecone.io/learn/transformers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
