@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; Is a B2B Fintech Hiring in Engineering and Finance &lpar;US Remote&rpar;](https://www.finleycms.com/work-at-finley)
+- [The True Purpose of Propaganda](https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda)
 - [Dall-E 2 illustrations of Twitter bios](https://twitter.com/nickcammarata/status/1511861061988892675)
 - [Drone Footage of Tesla Factory](https://twitter.com/alexandrosM/status/1510008990368878592)
 - [Inside the Bitcoin Bust That Took Down the Web’s Biggest Child Abuse Site](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/)
-- [Bongard Problems](http://www.foundalis.com/res/bps/bpidx.htm)
-- [Astronomers just discovered the farthest object in the known universe](https://www.livescience.com/farthest-astronomical-object-ever-seen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
