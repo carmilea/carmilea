@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open letter from anonymous Ontario teacher &lpar;2021&rpar;](https://karlstack.substack.com/p/open-letter-from-an-anonymous-ontario)
 - [AI predicts if and when someone will experience cardiac arrest](https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/)
 - [Jango; Free Music Streaming](https://www.jango.com)
 - [Finley &lpar;YC W21&rpar; Is a B2B Fintech Hiring in Engineering and Finance &lpar;US Remote&rpar;](https://www.finleycms.com/work-at-finley)
 - [The true purpose of propaganda](https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda)
+- [Dall-E 2 illustrations of Twitter bios](https://twitter.com/nickcammarata/status/1511861061988892675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
