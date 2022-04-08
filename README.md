@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Theneo &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/theneo/jobs/Q5qp3xL-backend-engineer)
-- [Ask HN: Which algorithms based on biological ideas do you know?](https://news.ycombinator.com/item?id=30955837)
-- [Is It Time to Revisit the Keystone XL Pipeline?](https://oilprice.com/Energy/Oil-Prices/Is-It-Time-To-Revisit-The-Keystone-XL-Pipeline.html)
-- [Bench Does Not Exist](https://shkspr.mobi/blog/2022/04/this-bench-does-not-exist/)
-- [Transformer Models](https://www.pinecone.io/learn/transformers/)
+- [People who press on cookie banners anything except “agree” – why do you do that?](https://news.ycombinator.com/item?id=30956636)
+- [The full Windows 95 launch event video is finally online](https://gizmodo.com/the-best-and-worst-moments-from-the-full-windows-95-lau-1848758485)
+- [Mortgage rates just hit 5%. Buying a home has become a lot more expensive](https://www.npr.org/2022/04/08/1091398386/mortgage-rates-just-hit-5-buying-a-home-has-become-a-lot-more-expensive)
+- [Ask HN: Why are you sorting by new?](https://news.ycombinator.com/item?id=30956490)
+- [Voting in France: Paper ballots, cast in person; no machines](https://abcnews.go.com/International/wireStory/voting-france-paper-ballots-cast-person-machines-83954517)
 <!-- BLOG-POST-LIST:END -->
 
 ---
