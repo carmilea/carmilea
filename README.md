@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People who press on cookie banners anything except “agree” – why do you do that?](https://news.ycombinator.com/item?id=30956636)
-- [The full Windows 95 launch event video is finally online](https://gizmodo.com/the-best-and-worst-moments-from-the-full-windows-95-lau-1848758485)
-- [Mortgage rates just hit 5%. Buying a home has become a lot more expensive](https://www.npr.org/2022/04/08/1091398386/mortgage-rates-just-hit-5-buying-a-home-has-become-a-lot-more-expensive)
-- [Ask HN: Why are you sorting by new?](https://news.ycombinator.com/item?id=30956490)
-- [Voting in France: Paper ballots, cast in person; no machines](https://abcnews.go.com/International/wireStory/voting-france-paper-ballots-cast-person-machines-83954517)
+- [Return to Monkey Island, Coming 2022](https://returntomonkeyisland.com)
+- [Kraken shuts down global headquarters because ‘San Francisco is not safe’](https://cointelegraph.com/news/kraken-shuts-down-global-headquarters-as-san-francisco-is-not-safe)
+- [Old C code – how to upgrade it?](https://news.ycombinator.com/item?id=30957273)
+- [Static Site Generator in 86 Lines](https://alexxx.co/static-site-generator.html)
+- [Mutagen – Cloud-based development using your local tools](https://mutagen.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
