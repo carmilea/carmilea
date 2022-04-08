@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buffereditor – Code and Text Editor for iPhone, iPad and iPad Pro](https://buffereditor.com/)
 - [Flagright &lpar;YC W22&rpar; Is Hiring](https://www.workatastartup.com/jobs/51714)
 - [You may not need Cloudflare Tunnel. Linux is fine](https://kiwiziti.com/~matt/wireguard/)
 - [Video Diffusion Models](https://video-diffusion.github.io/)
 - [Is there any future for the GTK-based Desktop Environments?](https://ludditus.com/2021/05/30/is-there-any-future-for-the-gtk-based-desktop-environments/)
-- [Cohere: The world’s most powerful NLP toolkit](https://cohere.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
