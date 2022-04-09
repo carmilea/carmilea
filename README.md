@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heaps: A free, open-source and cross-platform game engine](https://heaps.io/index.html)
-- [Parking kills businesses, not bikes or buses](https://www.newsroom.co.nz/ideasroom/parking-kills-businesses-not-bikes-or-buses)
-- [Bore: A simple CLI tool for making tunnels to localhost](https://github.com/ekzhang/bore)
-- [Reverse-engineering the LM185 voltage reference chip and its bandgap reference](https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html)
-- [Raspberry Pi Pico: What is this obfuscated code&lpar;?&rpar; doing in its boot ROM &lpar;l.442&rpar;](https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Air Force Jet Was Scrambled to Intercept a UFO–Then Disappeared &lpar;1953&rpar;](https://www.history.com/news/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident)
+- [m.u.g.e.n. 2D Fighting Game Engine](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
+- [PSReadline – bash inspired readline implementation for PowerShell](https://github.com/PowerShell/PSReadLine)
+- [Ham Biscuit on &lpar;2021&rpar;](https://ericwbailey.design/writing/ham-biscuit-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
