@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Need to Find an Apartment](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html)
-- [The Impervious Browser: Your Portal to the P2P Internet](https://newsletter.impervious.ai/impervious-browser-functionality-overview/)
-- [Jimmy Carter saved Canadian nuclear reactor after meltdown](https://www.military.com/history/how-jimmy-carter-saved-canadian-nuclear-reactor-after-meltdown.html)
-- [Proposed bill would shorten California workweek to 32 hours](https://www.fisherphillips.com/news-insights/california-employees-4-day-workweek.html)
-- [New pill bottles for shaky hands will help people with Parkinson’s &lpar;2021&rpar;](https://nerdbot.com/2021/01/09/tiktok-pill-bottles-for-shaky-hands-parkinsons/)
+- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+- [Google Says AI Generated Content Is Against Guidelines](https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/)
+- [Ask HN: What do you do to recharge after a day of work?](https://news.ycombinator.com/item?id=30969437)
+- [Visi On by VisiCorp – The obscure first full GUI for the IBM PC](http://toastytech.com/guis/vision.html)
+- [Middle managers fear they&#39;ve become irrelevant with work from home](https://fortune.com/2022/04/07/remote-work-from-home-is-over-firing-pay-cut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
