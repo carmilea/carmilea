@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A basic introduction to NumPy&#39;s einsum](https://ajcr.net/Basic-guide-to-einsum/)
+- [Quaise Energy – Unlocking the true power of clean geothermal energy](https://www.quaise.energy)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Ask HN: Did you change jobs during the Great Reshuffling and regret it?](https://news.ycombinator.com/item?id=30971950)
 - [Air Force Jet Was Scrambled to Intercept a UFO–Then Disappeared &lpar;1953&rpar;](https://www.history.com/news/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident)
-- [m.u.g.e.n. 2D Fighting Game Engine](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
-- [PSReadline – bash inspired readline implementation for PowerShell](https://github.com/PowerShell/PSReadLine)
-- [Ham Biscuit on &lpar;2021&rpar;](https://ericwbailey.design/writing/ham-biscuit-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
