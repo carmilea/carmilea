@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Always Tell Your Kids the Truth](https://www.outsideonline.com/culture/active-families/tell-your-kids-truth/)
+- [Mozilla Thunderbird Beta now supports Matrix chat](https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird)
+- [RIP Bill Jolitz &lpar;1957 – 2022&rpar;, co-author of 386BSD](https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html)
+- [NPM package event-source-polyfill compromised by political activists](https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js)
 - [AI predicts if and when someone will experience cardiac arrest](https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/)
-- [Jango; Free Music Streaming](https://www.jango.com)
-- [Finley &lpar;YC W21&rpar; Is a B2B Fintech Hiring in Engineering and Finance &lpar;US Remote&rpar;](https://www.finleycms.com/work-at-finley)
-- [The true purpose of propaganda](https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda)
-- [Dall-E 2 illustrations of Twitter bios](https://twitter.com/nickcammarata/status/1511861061988892675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
