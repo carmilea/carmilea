@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heaps: A free, open-source and cross-platform game engine](https://heaps.io/index.html)
 - [Parking kills businesses, not bikes or buses](https://www.newsroom.co.nz/ideasroom/parking-kills-businesses-not-bikes-or-buses)
+- [Bore: A simple CLI tool for making tunnels to localhost](https://github.com/ekzhang/bore)
 - [Reverse-engineering the LM185 voltage reference chip and its bandgap reference](https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html)
 - [Raspberry Pi Pico: What is this obfuscated code&lpar;?&rpar; doing in its boot ROM &lpar;l.442&rpar;](https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S)
-- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
-- [Google Says AI Generated Content Is Against Guidelines](https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
