@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jimmy Carter Saved Canadian Nuclear Reactor After Meltdown](https://www.military.com/history/how-jimmy-carter-saved-canadian-nuclear-reactor-after-meltdown.html)
-- [Identifying fraudulent PPP loans through network analysis](https://www.tylerjamesjones.com/ppp_network/)
-- [New pill bottles for shaky hands will help people with Parkinson’s](https://nerdbot.com/2021/01/09/tiktok-pill-bottles-for-shaky-hands-parkinsons/)
-- [Ed Sheeran reveals creative cost of lawsuit: &#39;Now I just film everything&#39;](https://deadline.com/2022/04/ed-sheeran-creative-cost-shape-of-you-plagiarism-lawsuit-films-songwriting-sessions-1234997792/)
-- [Ohm Overlooked](https://spark.iop.org/ohm-overlooked)
+- [I Need to Find an Apartment](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html)
+- [The Impervious Browser: Your Portal to the P2P Internet](https://newsletter.impervious.ai/impervious-browser-functionality-overview/)
+- [Jimmy Carter saved Canadian nuclear reactor after meltdown](https://www.military.com/history/how-jimmy-carter-saved-canadian-nuclear-reactor-after-meltdown.html)
+- [Proposed bill would shorten California workweek to 32 hours](https://www.fisherphillips.com/news-insights/california-employees-4-day-workweek.html)
+- [New pill bottles for shaky hands will help people with Parkinson’s &lpar;2021&rpar;](https://nerdbot.com/2021/01/09/tiktok-pill-bottles-for-shaky-hands-parkinsons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
