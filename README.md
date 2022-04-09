@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is there no Linux distro that “just works” like macOS?](https://news.ycombinator.com/item?id=30966582)
+- [An Account of the Shanghai Lockdown](https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/)
+- [Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?](https://www.fatherly.com/play/frank-oz-says-sesame-street-has-gone-downhill-is-he-right/)
 - [Show HN: 3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)
 - [Multicomputation: A Fourth Paradigm for Theoretical Science](https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/)
-- [I Believe Zig Has Function Colors](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer &lpar;Remote/Europe&rpar;](https://www.stackerhq.com/careers)
-- [GitHub Text of government takedown notices as received](https://github.com/github/gov-takedowns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
