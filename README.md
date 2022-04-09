@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
 - [Google Says AI Generated Content Is Against Guidelines](https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/)
-- [Ask HN: What do you do to recharge after a day of work?](https://news.ycombinator.com/item?id=30969437)
 - [Visi On by VisiCorp – The obscure first full GUI for the IBM PC](http://toastytech.com/guis/vision.html)
 - [Middle managers fear they&#39;ve become irrelevant with work from home](https://fortune.com/2022/04/07/remote-work-from-home-is-over-firing-pay-cut/)
+- [I Need to Find an Apartment](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
