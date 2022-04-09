@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parking kills businesses, not bikes or buses](https://www.newsroom.co.nz/ideasroom/parking-kills-businesses-not-bikes-or-buses)
+- [Reverse-engineering the LM185 voltage reference chip and its bandgap reference](https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html)
+- [Raspberry Pi Pico: What is this obfuscated code&lpar;?&rpar; doing in its boot ROM &lpar;l.442&rpar;](https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S)
 - [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
 - [Google Says AI Generated Content Is Against Guidelines](https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/)
-- [Visi On by VisiCorp – The obscure first full GUI for the IBM PC](http://toastytech.com/guis/vision.html)
-- [Middle managers fear they&#39;ve become irrelevant with work from home](https://fortune.com/2022/04/07/remote-work-from-home-is-over-firing-pay-cut/)
-- [I Need to Find an Apartment](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
