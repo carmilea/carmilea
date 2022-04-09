@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer &lpar;Remote/Europe&rpar;](https://www.stackerhq.com/careers)
+- [GitHub Text of government takedown notices as received](https://github.com/github/gov-takedowns)
+- [Ask HN: Why Blog at All?](https://news.ycombinator.com/item?id=30965485)
 - [Back to India](https://yugal.me/back-to-india/)
 - [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu)
-- [The Unexpected Importance of the Trailing Slash](https://tookmund.com/2022/04/importance-of-the-trailing-slash)
-- [Electronics Flea Market](https://www.electronicsfleamarket.com/)
-- [Always tell kids the truth &lpar;2019&rpar;](https://www.outsideonline.com/culture/active-families/tell-your-kids-truth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
