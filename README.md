@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: 3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)
+- [Multicomputation: A Fourth Paradigm for Theoretical Science](https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/)
+- [I Believe Zig Has Function Colors](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer &lpar;Remote/Europe&rpar;](https://www.stackerhq.com/careers)
 - [GitHub Text of government takedown notices as received](https://github.com/github/gov-takedowns)
-- [Ask HN: Why Blog at All?](https://news.ycombinator.com/item?id=30965485)
-- [Back to India](https://yugal.me/back-to-india/)
-- [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
