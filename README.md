@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jimmy Carter Saved Canadian Nuclear Reactor After Meltdown](https://www.military.com/history/how-jimmy-carter-saved-canadian-nuclear-reactor-after-meltdown.html)
+- [Identifying fraudulent PPP loans through network analysis](https://www.tylerjamesjones.com/ppp_network/)
+- [New pill bottles for shaky hands will help people with Parkinson’s](https://nerdbot.com/2021/01/09/tiktok-pill-bottles-for-shaky-hands-parkinsons/)
+- [Ed Sheeran reveals creative cost of lawsuit: &#39;Now I just film everything&#39;](https://deadline.com/2022/04/ed-sheeran-creative-cost-shape-of-you-plagiarism-lawsuit-films-songwriting-sessions-1234997792/)
 - [Ohm Overlooked](https://spark.iop.org/ohm-overlooked)
-- [Patina and Intimacy](https://simonsarris.substack.com/p/patina-and-intimacy)
-- [The Caves of Mars](https://www.usgs.gov/news/caves-mars)
-- [MIT graduate students vote to unionize](https://thetech.com/2022/04/08/grad-students-unionize)
-- [Manara &lpar;YC W21&rpar; Is Hiring a front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
