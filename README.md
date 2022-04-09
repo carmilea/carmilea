@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ohm Overlooked](https://spark.iop.org/ohm-overlooked)
+- [Patina and Intimacy](https://simonsarris.substack.com/p/patina-and-intimacy)
+- [The Caves of Mars](https://www.usgs.gov/news/caves-mars)
+- [MIT graduate students vote to unionize](https://thetech.com/2022/04/08/grad-students-unionize)
 - [Manara &lpar;YC W21&rpar; Is Hiring a front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
-- [An Account of the Shanghai Lockdown](https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/)
-- [Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?](https://www.fatherly.com/play/frank-oz-says-sesame-street-has-gone-downhill-is-he-right/)
-- [Show HN: 3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)
-- [Multicomputation: A Fourth Paradigm for Theoretical Science](https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
