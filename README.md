@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deciphering an English Exorcism Manual](https://blogs.bl.uk/digitisedmanuscripts/2022/03/exorcism-manual.html)
 - [Mozilla Thunderbird Beta now supports Matrix chat](https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird)
 - [Bill Jolitz has died](https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html)
-- [NPM package event-source-polyfill compromised by political activists](https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js)
 - [AI predicts if and when someone will experience cardiac arrest](https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/)
 - [Jango; Free Music Streaming](https://www.jango.com)
 <!-- BLOG-POST-LIST:END -->
