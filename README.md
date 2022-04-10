@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: If I see an “accept cookies” on a website, I close it immediately](https://news.ycombinator.com/item?id=30978283)
+- [Zeit Medical &lpar;YC S21&rpar; is hiring a Senior Software Engineer to improve stroke care](https://www.ycombinator.com/companies/zeit-medical/jobs/A0DoXtp-sr-software-engineer)
+- [Estimating PaLM&#39;s Training Cost](https://blog.heim.xyz/palm-training-cost/)
+- [Chinese inmates had hearts or lungs removed during executions, study says](https://www.businessinsider.co.za/death-row-inmates-china-hearts-lungs-before-declared-dead-2022-4)
+- [Trapped in lockdown, Shanghai residents turn to WeChat groups for food](https://restofworld.org/2022/shanghai-lockdown-wechat-group-buying/)
 - [Why Scientists Are Worried About the W Boson: &#39;Something Is Amiss&#39;](https://www.cnet.com/science/why-scientists-are-worried-about-the-w-boson-something-is-amiss/)
-- [New Chinese GPU Maker Moore Threads Unveils the MTT S60 GPU](https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/)
-- [Tell HN: Startups Harvesting GitHub Commit Emails for Marketing Purposes](https://news.ycombinator.com/item?id=30977883)
-- [Restored F80 compiler code for CP/M](https://github.com/nikitinprior/dF80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
