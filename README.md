@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian products have been down for 4 days](https://status.atlassian.com)
+- [I&#39;m Not Sure I&#39;ve Ever Enjoyed Programming](https://news.ycombinator.com/item?id=30974726)
+- [What is the Eurodollar System? &lpar;2020&rpar; [pdf]](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf)
+- [Ask HN: Why do password managers have TOTP?](https://news.ycombinator.com/item?id=30974585)
+- [Ask HN: How to improve as a struggling junior swe?](https://news.ycombinator.com/item?id=30974544)
 - [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
-- [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
-- [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
-- [Super Simple Storage Service](http://www.supersimplestorageservice.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
