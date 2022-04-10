@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
+- [Pinry: A Selfhosted Alternative to Pinterest](https://github.com/pinry/pinry)
+- [Achievement unlocked: rustc segfault](https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44)
 - [The Joy of Small Projects](https://schroer.ca/2022/04/10/the-joy-of-small-projects/)
 - [An Ode to Apple’s Hide My Email](https://empty.coffee/an-ode-to-apples-hide-my-email/)
-- [What Is Rust&#39;s Unsafe?](https://nora.codes/post/what-is-rusts-unsafe/)
-- [A stupid joke resulting in a silly news cycle](https://kiwiziti.com/~matt/timberlake/)
-- [WeekToDo – Free Minimalist Weekly Planner App](https://weektodo.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
