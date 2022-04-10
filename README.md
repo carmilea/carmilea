@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Joy of Small Projects](https://schroer.ca/2022/04/10/the-joy-of-small-projects/)
+- [An Ode to Apple’s Hide My Email](https://empty.coffee/an-ode-to-apples-hide-my-email/)
 - [What Is Rust&#39;s Unsafe?](https://nora.codes/post/what-is-rusts-unsafe/)
 - [A stupid joke resulting in a silly news cycle](https://kiwiziti.com/~matt/timberlake/)
 - [WeekToDo – Free Minimalist Weekly Planner App](https://weektodo.me/)
-- [Closure of 3M chip coolant plant could upset semiconductor sector](https://taipeitimes.com/News/biz/archives/2022/04/05/2003776012)
-- [ThorCon: Cheap, reliable, CO2-free electric power](https://thorconpower.com/economics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
