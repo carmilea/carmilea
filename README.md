@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Erik Naggum – Wikiquote](https://en.wikiquote.org/wiki/Erik_Naggum)
+- [∑ Xah Code](http://xahlee.info/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Engineers to Build the Future of Video](https://bitmovin.com/careers/)
 - [Europe Is Building an International Facial Recognition System](https://www.wired.co.uk/article/europe-police-facial-recognition-prum)
-- [Ask HN: What Happened to Evernote?](https://news.ycombinator.com/item?id=30975586)
-- [Ask HN: Why are chess problems attack oriented?](https://news.ycombinator.com/item?id=30975583)
-- [W3M Rocks](http://w3m.rocks/)
+- [What science says: Could humans survive a nuclear war between NATO and Russia?](https://allianceforscience.cornell.edu/blog/2022/03/what-the-science-says-could-humans-survive-a-nuclear-war-between-nato-and-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
