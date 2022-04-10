@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: If I see an “accept cookies” on a website, I close it immediately](https://news.ycombinator.com/item?id=30978283)
+- [Why Scientists Are Worried About the W Boson: &#39;Something Is Amiss&#39;](https://www.cnet.com/science/why-scientists-are-worried-about-the-w-boson-something-is-amiss/)
+- [New Chinese GPU Maker Moore Threads Unveils the MTT S60 GPU](https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/)
+- [Tell HN: Startups Harvesting GitHub Commit Emails for Marketing Purposes](https://news.ycombinator.com/item?id=30977883)
 - [Restored F80 compiler code for CP/M](https://github.com/nikitinprior/dF80)
-- [Heresy](http://paulgraham.com/heresy.html)
-- [Ask HN: Have you had any real benefits from apps like Headspace, Fabulous, etc.?](https://news.ycombinator.com/item?id=30976971)
-- [Amtrak Is Streaming an Empty Railroad on Twitch](https://www.vice.com/en/article/k7w9n9/amtrak-is-streaming-an-empty-railroad-on-twitch-to-beef-with-freight-rail-companies)
-- [Erik Naggum](https://en.wikiquote.org/wiki/Erik_Naggum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
