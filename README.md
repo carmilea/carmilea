@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlassian products have been down for 4 days](https://status.atlassian.com)
 - [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
-- [Help needed to build the colony on Moon, Mars and the Dyson Sphere](https://asgardia.space/social/posts/112851)
+- [The Gambler&#39;s Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
 - [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
 - [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
-- [Super Simple Storage Service &lpar;S4&rpar;](http://www.supersimplestorageservice.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
