@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Engineers to Build the Future of Video](https://bitmovin.com/careers/)
+- [Europe Is Building an International Facial Recognition System](https://www.wired.co.uk/article/europe-police-facial-recognition-prum)
 - [Ask HN: What Happened to Evernote?](https://news.ycombinator.com/item?id=30975586)
 - [Ask HN: Why are chess problems attack oriented?](https://news.ycombinator.com/item?id=30975583)
-- [w3m rocks](http://w3m.rocks/)
-- [How Intelligent Are Cats?](http://messybeast.com/intelligence.htm)
-- [In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments in Coups](https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601)
+- [W3M Rocks](http://w3m.rocks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
