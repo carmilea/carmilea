@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zeit Medical &lpar;YC S21&rpar; is hiring a Senior Software Engineer to improve stroke care](https://www.ycombinator.com/companies/zeit-medical/jobs/A0DoXtp-sr-software-engineer)
-- [Estimating PaLM&#39;s Training Cost](https://blog.heim.xyz/palm-training-cost/)
-- [Chinese inmates had hearts or lungs removed during executions, study says](https://www.businessinsider.co.za/death-row-inmates-china-hearts-lungs-before-declared-dead-2022-4)
-- [Trapped in lockdown, Shanghai residents turn to WeChat groups for food](https://restofworld.org/2022/shanghai-lockdown-wechat-group-buying/)
-- [Why Scientists Are Worried About the W Boson: &#39;Something Is Amiss&#39;](https://www.cnet.com/science/why-scientists-are-worried-about-the-w-boson-something-is-amiss/)
+- [What Is Rust&#39;s Unsafe?](https://nora.codes/post/what-is-rusts-unsafe/)
+- [A stupid joke resulting in a silly news cycle](https://kiwiziti.com/~matt/timberlake/)
+- [WeekToDo – Free Minimalist Weekly Planner App](https://weektodo.me/)
+- [Closure of 3M chip coolant plant could upset semiconductor sector](https://taipeitimes.com/News/biz/archives/2022/04/05/2003776012)
+- [ThorCon: Cheap, reliable, CO2-free electric power](https://thorconpower.com/economics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
