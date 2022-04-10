@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Have you had any real benefits from apps like Headspace, Fabulous, etc.?](https://news.ycombinator.com/item?id=30976971)
+- [Amtrak Is Streaming an Empty Railroad on Twitch](https://www.vice.com/en/article/k7w9n9/amtrak-is-streaming-an-empty-railroad-on-twitch-to-beef-with-freight-rail-companies)
+- [Convert Twitter SF HQ to homeless shelter since no one shows up anyway? - Elon](https://twitter.com/elonmusk/status/1512966135423066116)
 - [Erik Naggum – Wikiquote](https://en.wikiquote.org/wiki/Erik_Naggum)
-- [∑ Xah Code](http://xahlee.info/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Engineers to Build the Future of Video](https://bitmovin.com/careers/)
-- [Europe Is Building an International Facial Recognition System](https://www.wired.co.uk/article/europe-police-facial-recognition-prum)
-- [What science says: Could humans survive a nuclear war between NATO and Russia?](https://allianceforscience.cornell.edu/blog/2022/03/what-the-science-says-could-humans-survive-a-nuclear-war-between-nato-and-russia/)
+- [Ask HN: What are the next internet infra problems?](https://news.ycombinator.com/item?id=30976594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
