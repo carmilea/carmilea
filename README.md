@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
+- [Help needed to build the colony on Moon, Mars and the Dyson Sphere](https://asgardia.space/social/posts/112851)
+- [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
+- [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
 - [Super Simple Storage Service &lpar;S4&rpar;](http://www.supersimplestorageservice.com/)
-- [Tell HN: iOS Signal eats your disk space](https://news.ycombinator.com/item?id=30972546)
-- [A basic introduction to NumPy&#39;s einsum](https://ajcr.net/Basic-guide-to-einsum/)
-- [Quaise Energy – Unlocking the true power of clean geothermal energy](https://www.quaise.energy)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
