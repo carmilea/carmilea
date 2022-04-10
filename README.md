@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Selfies Before a Selfie](https://www.sciencemuseumgroup.org.uk/blog/the-whole-picture-selfies-before-selfie/)
 - [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
+- [C72: A port of the earliest C compiler to x86](https://github.com/vegesm/c72)
 - [Pinry: A Selfhosted Alternative to Pinterest](https://github.com/pinry/pinry)
-- [Achievement unlocked: rustc segfault](https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44)
-- [The Joy of Small Projects](https://schroer.ca/2022/04/10/the-joy-of-small-projects/)
-- [An Ode to Apple’s Hide My Email](https://empty.coffee/an-ode-to-apples-hide-my-email/)
+- [Am I too old to become a professional programmer?](https://ehmatthes.github.io/pcc_2e/finding_employment/age_in_tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
