@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What Happened to Evernote?](https://news.ycombinator.com/item?id=30975586)
+- [Ask HN: Why are chess problems attack oriented?](https://news.ycombinator.com/item?id=30975583)
 - [w3m rocks](http://w3m.rocks/)
 - [How Intelligent Are Cats?](http://messybeast.com/intelligence.htm)
 - [In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments in Coups](https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601)
-- [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
