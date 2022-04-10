@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Mail 2000](https://cr.yp.to/im2000.html)
 - [Selfies Before a Selfie](https://www.sciencemuseumgroup.org.uk/blog/the-whole-picture-selfies-before-selfie/)
 - [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
-- [C72: A port of the earliest C compiler to x86](https://github.com/vegesm/c72)
-- [Pinry: A Selfhosted Alternative to Pinterest](https://github.com/pinry/pinry)
-- [Am I too old to become a professional programmer?](https://ehmatthes.github.io/pcc_2e/finding_employment/age_in_tech/)
+- [C72: A port of the earliest C compiler to x86 &lpar;2021&rpar;](https://github.com/vegesm/c72)
+- [TSA confirms controversial Amtrak passenger screening program underway](https://www.ketv.com/article/tsa-amtrak-passenger-screening-program-underway/39677630#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
