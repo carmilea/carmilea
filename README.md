@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments in Coups](https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601)
 - [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
+- [Zim – The Zsh configuration framework with blazing speed and modular extensions](https://zimfw.sh/)
 - [The Backdoor That Keeps Russian Oil Flowing into Europe](https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe)
 - [What is the Eurodollar System? &lpar;2020&rpar; [pdf]](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf)
-- [Ask HN: Why do password managers have TOTP?](https://news.ycombinator.com/item?id=30974585)
-- [Ask HN: How to improve as a struggling junior swe?](https://news.ycombinator.com/item?id=30974544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
