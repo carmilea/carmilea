@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring a lead engineer to build a better notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
+- [The Backdoor That Keeps Russian Oil Flowing into Europe](https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe)
 - [I&#39;m Not Sure I&#39;ve Ever Enjoyed Programming](https://news.ycombinator.com/item?id=30974726)
 - [What is the Eurodollar System? &lpar;2020&rpar; [pdf]](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf)
 - [Ask HN: Why do password managers have TOTP?](https://news.ycombinator.com/item?id=30974585)
-- [Ask HN: How to improve as a struggling junior swe?](https://news.ycombinator.com/item?id=30974544)
-- [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
