@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js packages don&#39;t deserve your trust](https://josephg.com/blog/node-sandbox/)
+- [DeepMind’s New Language Model,Chinchilla&lpar;70B Parameters&rpar;,Which Outperforms GPT-3](https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/)
+- [Ask HN: Editing remote code locally: Best practices?](https://news.ycombinator.com/item?id=30987770)
 - [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
-- [How do people learn to cook a poisonous plant safely? &lpar;2019&rpar;](https://www.bbc.com/news/business-48859333)
-- [Senior EU officials were targeted with Israeli spyware](https://www.reuters.com/technology/exclusive-senior-eu-officials-were-targeted-with-israeli-spyware-sources-2022-04-11/)
-- [Killing Robots and Just War Theory](https://oleg.nu/bkGqcAmKdfS3e2?repost)
-- [Ask HN: Where can I see many examples of real companies&#39; software architecture?](https://news.ycombinator.com/item?id=30986893)
+- [An Open Letter from the CEO of Puppet: Puppet and Perforce](https://puppet.com/blog/an-open-letter-from-the-ceo-of-puppet//)
 <!-- BLOG-POST-LIST:END -->
 
 ---
