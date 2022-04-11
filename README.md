@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe Is Investing Heavily in Trains](https://www.nytimes.com/2022/04/05/travel/europe-trains.html)
+- [Impressions from a first-time Mac user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
+- [White House warns of &#39;extraordinarily elevated&#39; March inflation](https://news.yahoo.com/white-house-warns-extraordinarily-elevated-174237300.html)
 - [Interstellar object exploded over Earth in 2014, declassified govmt data reveal](https://www.livescience.com/first-interstellar-object-detected)
-- [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
-- [Is my advice too mercenary?](https://jacobian.org/2022/apr/11/mercenary/)
-- [-h –Help -help Help –? –?](https://blog.craftyguy.net/cmdline-help/)
-- [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
+- [Intuit asked Mailchimp employees to pay medical costs out of pocket](https://twitter.com/dvsch/status/1458813237651247109)
 <!-- BLOG-POST-LIST:END -->
 
 ---
