@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon has decided not to join our board](https://twitter.com/paraga/status/1513354622466867201)
 - [Conflict-Free Replicated Data Types &lpar;CRDT&rpar;](https://crdt.tech/)
 - [Van life &lpar;cancer edition&rpar; finale](https://imgur.com/gallery/prUy1Kt)
 - [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
 - [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
-- [The $11BN Tunnel Connecting Scandinavia to the Mediterranean](https://www.youtube.com/watch?v=30foJiPUrBA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
