@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What if Sun Microsystems acquired Apple in 1996? &lpar;a timeline&rpar;](https://www.alternatehistory.com/forum/threads/the-internet-wars-tl.523117/)
+- [FBI Didn&#39;t Knock Down a Suspect&#39;s Door Because &#39;It Was an Affluent Neighborhood&#39;](https://reason.com/2022/04/08/the-fbi-decided-not-to-knock-down-a-suspects-front-door-because-it-was-an-affluent-neighborhood/)
 - [Elon has decided not to join our board](https://twitter.com/paraga/status/1513354622466867201)
 - [Conflict-Free Replicated Data Types &lpar;CRDT&rpar;](https://crdt.tech/)
 - [Van life &lpar;cancer edition&rpar; finale](https://imgur.com/gallery/prUy1Kt)
-- [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
-- [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
