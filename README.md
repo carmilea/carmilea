@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interstellar object exploded over Earth in 2014, declassified govmt data reveal](https://www.livescience.com/first-interstellar-object-detected)
 - [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
 - [Is my advice too mercenary?](https://jacobian.org/2022/apr/11/mercenary/)
+- [-h –Help -help Help –? –?](https://blog.craftyguy.net/cmdline-help/)
 - [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
-- [How FAANG etc. architect their recommendation systems at scale](https://blog.fennel.ai/p/real-world-recommendation-system)
-- [Psychedelic frees up depressed brain, study shows](https://www.bbc.co.uk/news/health-61070591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
