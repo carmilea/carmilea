@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian successfully restores just over 1 out of 3 affected customers data](https://confluence.status.atlassian.com/incidents/hf1xxft08nj5)
-- [Michelle Yeoh, martial arts and the multiverse: inside the year’s wildest movie](https://www.theguardian.com/film/2022/apr/11/everything-everywhere-all-at-once-michelle-yeoh)
-- [Human genes renamed to stop Microsoft Excel from misreading them as dates &lpar;2020&rpar;](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
-- [The flaws of distro hopping and asking other people about their OS of choice](https://unixsheikh.com/articles/the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice.html)
-- [San Francisco cops pull over a Cruise driverless car for no lights on](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
+- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- [How do people learn to cook a poisonous plant safely? &lpar;2019&rpar;](https://www.bbc.com/news/business-48859333)
+- [Senior EU officials were targeted with Israeli spyware](https://www.reuters.com/technology/exclusive-senior-eu-officials-were-targeted-with-israeli-spyware-sources-2022-04-11/)
+- [Killing Robots and Just War Theory](https://oleg.nu/bkGqcAmKdfS3e2?repost)
+- [Ask HN: Where can I see many examples of real companies&#39; software architecture?](https://news.ycombinator.com/item?id=30986893)
 <!-- BLOG-POST-LIST:END -->
 
 ---
