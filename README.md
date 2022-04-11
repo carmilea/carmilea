@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco cops pull over a Cruise driverless car for no lights on](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
 - [I decided to move away for big tech for my children and myself](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
 - [I must announce the immediate end of service of SSLPing](https://sslping.com)
 - [Ask HN: What jobs can I have knowing Python?](https://news.ycombinator.com/item?id=30985277)
 - [What if Sun Microsystems acquired Apple in 1996?](https://www.alternatehistory.com/forum/threads/the-internet-wars-tl.523117/)
-- [The Mathematics of Artificial Intelligence &lpar;2022&rpar;](https://arxiv.org/abs/2203.08890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
