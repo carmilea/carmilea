@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Web3 won&#39;t make the world more equal](https://www.stearsng.com/premium/article/why-web3-wont-make-the-world-more-equal)
-- [Alaska response to recent flight cancellations](https://news.alaskaair.com/alaska-airlines/operations/spring-operation-update/)
 - [The Apple-1&#39;s shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
 - [Get Familiar with Go Workspaces](https://go.dev/blog/get-familiar-with-workspaces)
-- [HireArt &lpar;YC W12&rpar; Is Hiring and Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
+- [HireArt &lpar;YC W12&rpar; is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
+- [Medusa is a device that allows connecting of old computers to modern displays](http://medusa-sc.org/index.php?title=Description)
+- [Europe is investing heavily in trains](https://www.nytimes.com/2022/04/05/travel/europe-trains.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
