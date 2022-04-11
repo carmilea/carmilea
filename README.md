@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elementary Audio: a modern platform for writing high performance audio software](https://www.elementary.audio/)
+- [Tour of Parser-Printers: Introduction](https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction)
+- [How and why Daily is using Rust for our WebRTC APIs](https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/)
 - [A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More](https://payloadspace.com/qa-peter-beck/)
-- [Apple starts manufacturing iPhone 13 in India](https://www.reuters.com/technology/apple-starts-manufacturing-iphone-13-india-2022-04-11/)
-- [Researchers home in on possible “day zero” for Antikythera mechanism](https://arstechnica.com/science/2022/04/researchers-home-in-on-possible-day-zero-for-antikythera-mechanism/)
-- [Taking Pictures the Hard Way](https://blog.brixit.nl/getting-into-analog-photography/)
-- [Why a Slide Rule Works](https://www.johndcook.com/blog/2022/04/10/why-a-slide-rule-works/)
+- [Finland and Sweden set to join NATO as soon as summer](https://www.thetimes.co.uk/article/finland-sweden-set-to-join-nato-war-ukraine-latest-7m8bn6mf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
