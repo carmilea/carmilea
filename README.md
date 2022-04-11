@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HireArt &lpar;YC W12&rpar; Is Hiring and Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
+- [Medusa is a device that allows connecting of old computers to modern displays](http://medusa-sc.org/index.php?title=Description)
 - [Europe Is Investing Heavily in Trains](https://www.nytimes.com/2022/04/05/travel/europe-trains.html)
-- [Impressions from a first-time Mac user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
-- [White House warns of &#39;extraordinarily elevated&#39; March inflation](https://news.yahoo.com/white-house-warns-extraordinarily-elevated-174237300.html)
-- [Interstellar object exploded over Earth in 2014, declassified govmt data reveal](https://www.livescience.com/first-interstellar-object-detected)
-- [Intuit asked Mailchimp employees to pay medical costs out of pocket](https://twitter.com/dvsch/status/1458813237651247109)
+- [How to Pursue a Career in Brain-Based AI](https://numenta.com/blog/2022/04/11/how-to-pursue-career-in-brain-based-ai)
+- [Negative dentries, 20 years later](https://lwn.net/SubscriberLink/890025/16c8b2a4f8bf3340/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
