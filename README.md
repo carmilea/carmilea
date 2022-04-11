@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What if Sun Microsystems acquired Apple in 1996? &lpar;a timeline&rpar;](https://www.alternatehistory.com/forum/threads/the-internet-wars-tl.523117/)
+- [The Mathematics of Artificial Intelligence &lpar;2022&rpar;](https://arxiv.org/abs/2203.08890)
+- [How to Look for Partners](https://www.iradeo.com)
 - [FBI Didn&#39;t Knock Down a Suspect&#39;s Door Because &#39;It Was an Affluent Neighborhood&#39;](https://reason.com/2022/04/08/the-fbi-decided-not-to-knock-down-a-suspects-front-door-because-it-was-an-affluent-neighborhood/)
 - [Elon has decided not to join our board](https://twitter.com/paraga/status/1513354622466867201)
-- [Conflict-Free Replicated Data Types &lpar;CRDT&rpar;](https://crdt.tech/)
-- [Van life &lpar;cancer edition&rpar; finale](https://imgur.com/gallery/prUy1Kt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
