@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tonight we&#39;re gonna log on like it&#39;s 1979 &lpar;Telenet, Dialcom and The Source&rpar;](http://oldvcr.blogspot.com/2022/04/tonight-were-gonna-log-on-like-its-1979.html)
-- [Bitcoin Threw a Party in Miami and I Crashed It](https://www.thedailybeast.com/inside-the-bitcoin-conference-2022-miami-party-scene)
-- [I Liked the Idea of Carbon Offsets, Until I Tried to Explain It](https://climateer.substack.com/p/avoided-emissions)
-- [Protect domains that do not send email](https://www.gov.uk/guidance/protect-domains-that-dont-send-email)
-- [More Fakery &lpar;In Scientific Publishing&rpar;](https://www.science.org/content/blog-post/more-fakery)
+- [A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More](https://payloadspace.com/qa-peter-beck/)
+- [Apple starts manufacturing iPhone 13 in India](https://www.reuters.com/technology/apple-starts-manufacturing-iphone-13-india-2022-04-11/)
+- [Researchers home in on possible “day zero” for Antikythera mechanism](https://arstechnica.com/science/2022/04/researchers-home-in-on-possible-day-zero-for-antikythera-mechanism/)
+- [Taking Pictures the Hard Way](https://blog.brixit.nl/getting-into-analog-photography/)
+- [Why a Slide Rule Works](https://www.johndcook.com/blog/2022/04/10/why-a-slide-rule-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
