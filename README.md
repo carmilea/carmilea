@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Michelle Yeoh, martial arts and the multiverse: inside the year’s wildest movie](https://www.theguardian.com/film/2022/apr/11/everything-everywhere-all-at-once-michelle-yeoh)
+- [Human genes renamed to stop Microsoft Excel from misreading them as dates &lpar;2020&rpar;](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
+- [The flaws of distro hopping and asking other people about their OS of choice](https://unixsheikh.com/articles/the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice.html)
 - [San Francisco cops pull over a Cruise driverless car for no lights on](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
 - [I decided to move away for big tech for my children and myself](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
-- [I must announce the immediate end of service of SSLPing](https://sslping.com)
-- [Ask HN: What jobs can I have knowing Python?](https://news.ycombinator.com/item?id=30985277)
-- [What if Sun Microsystems acquired Apple in 1996?](https://www.alternatehistory.com/forum/threads/the-internet-wars-tl.523117/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
