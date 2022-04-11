@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Conflict-Free Replicated Data Types &lpar;CRDT&rpar;](https://crdt.tech/)
+- [Van life &lpar;cancer edition&rpar; finale](https://imgur.com/gallery/prUy1Kt)
+- [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
 - [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
 - [The $11BN Tunnel Connecting Scandinavia to the Mediterranean](https://www.youtube.com/watch?v=30foJiPUrBA)
-- [What I learned from making a DNS client in Rust](https://blog.adamchalmers.com/making-a-dns-client/)
-- [Internet Mail 2000](https://cr.yp.to/im2000.html)
-- [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
