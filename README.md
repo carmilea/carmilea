@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js packages don&#39;t deserve your trust](https://josephg.com/blog/node-sandbox/)
-- [DeepMind’s New Language Model,Chinchilla&lpar;70B Parameters&rpar;,Which Outperforms GPT-3](https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/)
-- [Ask HN: Editing remote code locally: Best practices?](https://news.ycombinator.com/item?id=30987770)
-- [Basis &lpar;YC S21&rpar; is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/companies/basis-2)
-- [An Open Letter from the CEO of Puppet: Puppet and Perforce](https://puppet.com/blog/an-open-letter-from-the-ceo-of-puppet//)
+- [Tonight we&#39;re gonna log on like it&#39;s 1979 &lpar;Telenet, Dialcom and The Source&rpar;](http://oldvcr.blogspot.com/2022/04/tonight-were-gonna-log-on-like-its-1979.html)
+- [Bitcoin Threw a Party in Miami and I Crashed It](https://www.thedailybeast.com/inside-the-bitcoin-conference-2022-miami-party-scene)
+- [I Liked the Idea of Carbon Offsets, Until I Tried to Explain It](https://climateer.substack.com/p/avoided-emissions)
+- [Protect domains that do not send email](https://www.gov.uk/guidance/protect-domains-that-dont-send-email)
+- [More Fakery &lpar;In Scientific Publishing&rpar;](https://www.science.org/content/blog-post/more-fakery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
