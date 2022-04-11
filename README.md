@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
+- [How FAANG etc. architect their recommendation systems at scale](https://blog.fennel.ai/p/real-world-recommendation-system)
+- [Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework](https://github.com/ern0/howto-wasm-minimal)
 - [Elementary Audio: a modern platform for writing high performance audio software](https://www.elementary.audio/)
-- [Tour of Parser-Printers: Introduction](https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction)
-- [How and why Daily is using Rust for our WebRTC APIs](https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/)
-- [A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More](https://payloadspace.com/qa-peter-beck/)
-- [Finland and Sweden set to join NATO as soon as summer](https://www.thetimes.co.uk/article/finland-sweden-set-to-join-nato-war-ukraine-latest-7m8bn6mf8)
+- [Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks](https://twitter.com/kjartanmuller/status/1513462616030683138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
