@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
+- [Is my advice too mercenary?](https://jacobian.org/2022/apr/11/mercenary/)
 - [Pachyderm Is Hiring SDET&amp;Build/Release Eng to Power the Data-Centric AI Platform](https://www.pachyderm.com/careers/#positions)
 - [How FAANG etc. architect their recommendation systems at scale](https://blog.fennel.ai/p/real-world-recommendation-system)
-- [Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework](https://github.com/ern0/howto-wasm-minimal)
-- [Elementary Audio: a modern platform for writing high performance audio software](https://www.elementary.audio/)
-- [Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks](https://twitter.com/kjartanmuller/status/1513462616030683138)
+- [Psychedelic frees up depressed brain, study shows](https://www.bbc.co.uk/news/health-61070591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
