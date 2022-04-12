@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid Smell Loss Linked to Damage in Brain, Study Finds](https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735)
+- [Show HN: AV1 and WebRTC](https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1)
+- [Zapier: The $5B Unbundling Opportunity](https://www.georgesequeira.com/writing/zapier-the-5b-unbundling-opportunity/)
 - [Human Brain Compresses Working Memories into Low-Res ‘Summaries’](https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/)
 - [Show HN: Discover the IndieWeb, one blog post at a time](https://indieblog.page/)
-- [Consumer prices rose 8.5% in March – highest since 1981](https://www.cnbc.com/2022/04/12/consumer-prices-rose-8point5percent-in-march-slightly-hotter-than-expected.html)
-- [Show HN: Monocle – bidirectional code generation library](https://news.ycombinator.com/item?id=31001922)
-- [What hacking AOL taught a generation of programmers](https://github.com/readme/featured/aol-programming-culture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
