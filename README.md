@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Consumer prices rose 8.5% in March – highest since 1981](https://www.cnbc.com/2022/04/12/consumer-prices-rose-8point5percent-in-march-slightly-hotter-than-expected.html)
+- [What hacking AOL taught a generation of programmers](https://github.com/readme/featured/aol-programming-culture)
+- [Ask HN: Where can we find the unsexy jobs?](https://news.ycombinator.com/item?id=31001537)
+- [DuckDuckGo browser for Mac in Beta &lpar;with waitlist&rpar;](https://spreadprivacy.com/introducing-duckduckgo-for-mac/)
 - [Ambition &lpar;YC W14&rpar; Is Hiring a Full Stack Engineer &lpar;Tennessee HQ, Remote&rpar;](https://apply.workable.com/ambition/j/D9869311FD/)
-- [Ask HN: When did tech stop being cool?](https://news.ycombinator.com/item?id=31001155)
-- [Qt 6.3 Released](https://www.qt.io/blog/qt-6.3-released)
-- [Over 15% of world population has a headache on any given day](https://english.elpais.com/science-tech/2022-04-12/over-15-of-world-population-has-a-headache-on-any-given-day-new-global-estimate-finds.html)
-- [Axios-Ipsos poll: Most Americans say Covid is no longer a crisis](https://www.axios.com/axios-ipsos-poll-most-americans-say-covid-is-no-longer-a-crisis-6604f7d2-a476-48eb-8e2d-9cb94c425159.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
