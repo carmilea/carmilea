@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I asked a bank for a conventional mortgage and they said NO](https://twitter.com/dvassallo/status/1513681139952541700)
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
 - [Hexagonal Architecture and Domain Driven Design](https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f)
 - [A Taxonomy of Bugs](https://ourmachinery.com/post/a-taxonomy-of-bugs/)
 - [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
-- [Implementation of DALL-E 2 in PyTorch](https://github.com/lucidrains/DALLE2-pytorch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
