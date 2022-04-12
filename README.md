@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Flag Grooming Behaviors by Perpetrators &lpar;2021&rpar;](https://www.researchgate.net/publication/354019471_School_Employee_Sexual_Misconduct_Red_Flag_Grooming_Behaviors_by_Perpetrators)
+- [Google announced its free ACME server](https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api)
+- [The Endgames of Bad Faith Communication](https://consilienceproject.org/endgames-of-bad-communication/)
 - [Toys for Developers in SingleStoreDB: Spring 2022 Release](https://www.singlestore.com/blog/toys-for-developers-in-singlestoredb-spring-2022-release)
 - [The Apple-1&#39;s shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
 - [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
-- [HireArt &lpar;YC W12&rpar; is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
