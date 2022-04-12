@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People Are Injured, Including 5 Shot, in Apparent Attack on Brooklyn Subway](https://www.nytimes.com/live/2022/04/12/nyregion/brooklyn-subway-shooting)
-- [Are film critics losing sync with audiences?](https://stephenfollows.com/are-film-critics-becoming-out-of-sync-with-audiences/)
-- [Amazon workers at 100 more facilities want to unionize: Amazon Labor Union](https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html)
-- [Mullvad Privacy Companion is now open source](https://mullvad.net/en/blog/2022/3/22/mullvad-privacy-companion-now-open-source/)
-- [Covid Smell Loss Linked to Damage in Brain, Study Finds](https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735)
+- [Apple introduces new version of iMovie featuring Storyboards and Magic Movie](https://www.apple.com/newsroom/2022/04/apple-introduces-new-version-of-imovie-featuring-storyboards-and-magic-movie/)
+- [Great Question &lpar;YC W21&rpar; Is Hiring Senior Account Exec](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
+- [WireGuard multihop available in the Mullvad app](https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/)
+- [Show HN: Add live runnable code to your dev docs](https://www.usedevbook.com/)
+- [The complete guide to protecting your APIs with OAuth2](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
