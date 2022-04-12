@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Databases and DevOps: How to Use SingleStore With GitHub Actions](https://www.singlestore.com/blog/use-singlestore-with-github-actions)
 - [Eden](https://github.com/facebookexperimental/eden)
-- [RaidForums Get Raided, Alleged Admin Arrested](https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/)
+- [RaidForums gets raided, alleged admin arrested](https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/)
 - [Top Mac App Store dev abuses Free with In-App Purchase for bait-and-switch apps](https://twitter.com/lapcatsoftware/status/1513672378236166149)
 - [Apple introduces new version of iMovie featuring Storyboards and Magic Movie](https://www.apple.com/newsroom/2022/04/apple-introduces-new-version-of-imovie-featuring-storyboards-and-magic-movie/)
-- [Google Drive: Shortcuts replacing files and folders stored in multiple locations](https://support.google.com/drive/answer/10864219?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
