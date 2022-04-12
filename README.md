@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Organization Discussions – GitHub Changelog](https://github.blog/changelog/2022-04-12-organization-discussions/)
 - [A Case of Plagarism in Machine Learning Research](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)
 - [Databases and DevOps: How to Use SingleStore With GitHub Actions](https://www.singlestore.com/blog/use-singlestore-with-github-actions)
-- [Eden](https://github.com/facebookexperimental/eden)
-- [RaidForums gets raided, alleged admin arrested](https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/)
-- [Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps](https://twitter.com/lapcatsoftware/status/1513672378236166149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
