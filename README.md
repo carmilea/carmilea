@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did Fast get a $580mm valuation?](https://news.ycombinator.com/item?id=30998623)
+- [Our World in Data &lpar;YC W19&rpar; Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
+- [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
 - [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm)
 - [2021: A Titan M Odyssey [pdf]](https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf)
 - [Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger](https://skyjake.github.io/fdroid/repo/)
-- [Why the Gov.uk Design System team changed the input type for numbers &lpar;2020&rpar;](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
