@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBEdit is 30 years old today](http://www.barebones.com/products/bbedit/index.html)
+- [A few things I learned about using DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
+- [Mexico truckers protest new Texas inspections, halt trade at border bridges](https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/)
+- [BBEdit is 30 years old today](https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs)
 - [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [When to Use Generics](https://go.dev/blog/when-generics)
-- [Organization Discussions – GitHub Changelog](https://github.blog/changelog/2022-04-12-organization-discussions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
