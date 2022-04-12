@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Flag Grooming Behaviors by Perpetrators &lpar;2021&rpar;](https://www.researchgate.net/publication/354019471_School_Employee_Sexual_Misconduct_Red_Flag_Grooming_Behaviors_by_Perpetrators)
+- [Toys for Developers in SingleStoreDB: Spring 2022 Release](https://www.singlestore.com/blog/toys-for-developers-in-singlestoredb-spring-2022-release)
 - [The Apple-1&#39;s shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
-- [Get Familiar with Go Workspaces](https://go.dev/blog/get-familiar-with-workspaces)
+- [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
 - [HireArt &lpar;YC W12&rpar; is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
-- [Medusa is a device that allows connecting of old computers to modern displays](http://medusa-sc.org/index.php?title=Description)
-- [Europe is investing heavily in trains](https://www.nytimes.com/2022/04/05/travel/europe-trains.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
