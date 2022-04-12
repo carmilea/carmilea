@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm)
+- [2021: A Titan M Odyssey [pdf]](https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf)
+- [Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger](https://skyjake.github.io/fdroid/repo/)
 - [Google announced its free ACME server](https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api)
 - [The Endgames of Bad Faith Communication](https://consilienceproject.org/endgames-of-bad-communication/)
-- [Toys for Developers in SingleStoreDB: Spring 2022 Release](https://www.singlestore.com/blog/toys-for-developers-in-singlestoredb-spring-2022-release)
-- [The Apple-1&#39;s shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
-- [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
