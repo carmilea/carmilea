@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How Do I Start a Startup?](https://news.ycombinator.com/item?id=30998663)
 - [Ask HN: How did Fast get a $580mm valuation?](https://news.ycombinator.com/item?id=30998623)
 - [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm)
-- [Putin ‘purges’ 150 FSB agents in response to Russia’s botched war with Ukraine](https://www.thetimes.co.uk/article/putin-purges-150-fsb-agents-in-response-to-russias-botched-war-with-ukraine-lf9k6tn6g)
 - [2021: A Titan M Odyssey [pdf]](https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf)
+- [Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger](https://skyjake.github.io/fdroid/repo/)
+- [Why the Gov.uk Design System team changed the input type for numbers &lpar;2020&rpar;](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
