@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human Brain Compresses Working Memories into Low-Res ‘Summaries’](https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/)
+- [Show HN: Discover the IndieWeb, one blog post at a time](https://indieblog.page/)
 - [Consumer prices rose 8.5% in March – highest since 1981](https://www.cnbc.com/2022/04/12/consumer-prices-rose-8point5percent-in-march-slightly-hotter-than-expected.html)
+- [Show HN: Monocle – bidirectional code generation library](https://news.ycombinator.com/item?id=31001922)
 - [What hacking AOL taught a generation of programmers](https://github.com/readme/featured/aol-programming-culture)
-- [Ask HN: Where can we find the unsexy jobs?](https://news.ycombinator.com/item?id=31001537)
-- [DuckDuckGo browser for Mac in Beta &lpar;with waitlist&rpar;](https://spreadprivacy.com/introducing-duckduckgo-for-mac/)
-- [Ambition &lpar;YC W14&rpar; Is Hiring a Full Stack Engineer &lpar;Tennessee HQ, Remote&rpar;](https://apply.workable.com/ambition/j/D9869311FD/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
