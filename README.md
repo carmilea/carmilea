@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BBEdit is 30 years old today](http://www.barebones.com/products/bbedit/index.html)
 - [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [When to Use Generics](https://go.dev/blog/when-generics)
 - [Organization Discussions – GitHub Changelog](https://github.blog/changelog/2022-04-12-organization-discussions/)
-- [A Case of Plagarism in Machine Learning Research](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)
-- [Databases and DevOps: How to Use SingleStore With GitHub Actions](https://www.singlestore.com/blog/use-singlestore-with-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
