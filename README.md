@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 15% of world population has a headache on any given day](https://english.elpais.com/science-tech/2022-04-12/over-15-of-world-population-has-a-headache-on-any-given-day-new-global-estimate-finds.html)
+- [Former Xinjiang prisoner arrives in U.S. as key witness to abuses](https://www.axios.com/xinjiang-china-camps-human-rights-abuse-witness-3c2de155-0f9a-4f2b-84e1-83713bb7e443.html)
+- [How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
+- [What Le Corbusier got right about office space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
 - [EU is building an $11B tunnel connecting Scandinavia to Italy](https://www.designboom.com/technology/brenner-base-rail-tunnel-scandinavia-mediterranean-04-11-2022/)
-- [Our World in Data &lpar;YC W19&rpar; Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
-- [Hexagonal Architecture and Domain Driven Design](https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f)
-- [A Taxonomy of Bugs](https://ourmachinery.com/post/a-taxonomy-of-bugs/)
-- [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
