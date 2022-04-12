@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Today I asked a bank for a conventional mortgage and they said NO](https://twitter.com/dvassallo/status/1513681139952541700)
+- [EU is building an $11B tunnel connecting Scandinavia to Italy](https://www.designboom.com/technology/brenner-base-rail-tunnel-scandinavia-mediterranean-04-11-2022/)
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
 - [Hexagonal Architecture and Domain Driven Design](https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f)
 - [A Taxonomy of Bugs](https://ourmachinery.com/post/a-taxonomy-of-bugs/)
