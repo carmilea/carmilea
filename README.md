@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition &lpar;YC W14&rpar; Is Hiring a Full Stack Engineer &lpar;Tennessee HQ, Remote&rpar;](https://apply.workable.com/ambition/j/D9869311FD/)
+- [Ask HN: When did tech stop being cool?](https://news.ycombinator.com/item?id=31001155)
+- [Qt 6.3 Released](https://www.qt.io/blog/qt-6.3-released)
 - [Over 15% of world population has a headache on any given day](https://english.elpais.com/science-tech/2022-04-12/over-15-of-world-population-has-a-headache-on-any-given-day-new-global-estimate-finds.html)
-- [Former Xinjiang prisoner arrives in U.S. as key witness to abuses](https://www.axios.com/xinjiang-china-camps-human-rights-abuse-witness-3c2de155-0f9a-4f2b-84e1-83713bb7e443.html)
-- [How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
-- [What Le Corbusier got right about office space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
-- [EU is building an $11B tunnel connecting Scandinavia to Italy](https://www.designboom.com/technology/brenner-base-rail-tunnel-scandinavia-mediterranean-04-11-2022/)
+- [Axios-Ipsos poll: Most Americans say Covid is no longer a crisis](https://www.axios.com/axios-ipsos-poll-most-americans-say-covid-is-no-longer-a-crisis-6604f7d2-a476-48eb-8e2d-9cb94c425159.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
