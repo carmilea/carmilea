@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
+- [Hexagonal Architecture and Domain Driven Design](https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f)
+- [A Taxonomy of Bugs](https://ourmachinery.com/post/a-taxonomy-of-bugs/)
 - [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
-- [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm)
-- [2021: A Titan M Odyssey [pdf]](https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf)
-- [Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger](https://skyjake.github.io/fdroid/repo/)
+- [Implementation of DALL-E 2 in PyTorch](https://github.com/lucidrains/DALLE2-pytorch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
