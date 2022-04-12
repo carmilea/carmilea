@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People Are Injured, Including 5 Shot, in Apparent Attack on Brooklyn Subway](https://www.nytimes.com/live/2022/04/12/nyregion/brooklyn-subway-shooting)
+- [Are film critics losing sync with audiences?](https://stephenfollows.com/are-film-critics-becoming-out-of-sync-with-audiences/)
+- [Amazon workers at 100 more facilities want to unionize: Amazon Labor Union](https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html)
+- [Mullvad Privacy Companion is now open source](https://mullvad.net/en/blog/2022/3/22/mullvad-privacy-companion-now-open-source/)
 - [Covid Smell Loss Linked to Damage in Brain, Study Finds](https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735)
-- [Show HN: AV1 and WebRTC](https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1)
-- [Zapier: The $5B Unbundling Opportunity](https://www.georgesequeira.com/writing/zapier-the-5b-unbundling-opportunity/)
-- [Human Brain Compresses Working Memories into Low-Res ‘Summaries’](https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/)
-- [Show HN: Discover the IndieWeb, one blog post at a time](https://indieblog.page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
