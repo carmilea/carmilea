@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive, insightful, and otherwise interesting data science blogs](https://www.narrator.ai/blog/comprehensive-original-insightful-and-otherwise-interesting-data-science-blogs/)
+- [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
 - [California&#39;s Vanished Dream, by the Numbers](https://www.realclearinvestigations.com/articles/2022/04/13/californias_vanished_dream_by_the_numbers_826300.html)
-- [Frontend Component Architecture](https://gos.si/blog/frontend-component-architecture/)
+- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 - [Measuring Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
-- [8vdX &lpar;YC W22&rpar; Is Hiring a Product Manager](https://news.ycombinator.com/item?id=31017120)
-- [You’re muted – or are you? Videoconferencing apps listen even when mic is off](https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
