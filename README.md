@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Tour of Apple’s External &lpar;LCD&rpar; Displays](https://512pixels.net/2022/04/a-tour-of-apples-external-lcd-displays/)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Web3: A VC-funded gig economy of securities fraud](https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/)
 - [Deekaykwon 2D Animations](https://deekaykwon.com)
 - [Ana is a Python, PHP, and C inspired dynamically typed scripting language](https://github.com/analang/ana)
-- [Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote](https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations)
-- [WebP is such a goated format](https://sandyuraz.com/blogs/webp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
