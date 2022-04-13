@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Psilocybin Rewires the Brain for People with Depression](https://www.ucsf.edu/news/2022/04/422606/psilocybin-rewires-brain-people-depression)
-- [K-Nearest Neighbors](https://www.pinecone.io/learn/k-nearest-neighbor/)
-- [What&#39;s next for AlphaFold and the AI protein-folding revolution](https://www.nature.com/articles/d41586-022-00997-5)
-- [Ask HN: What happened to Apple&#39;s self service repair program?](https://news.ycombinator.com/item?id=31014998)
-- [Logarithms Yearning to Be Free](https://www.johndcook.com/blog/2022/04/13/logarithms-yearning-to-be-free/)
+- [A Modern Self-Referential Weight Matrix That Learns to Modify Itself](https://arxiv.org/abs/2202.05780)
+- [Learning garment manipulation policies toward robot-assisted dressing](https://www.science.org/doi/10.1126/scirobotics.abm6010)
+- [Testing New Tools for Horizon Worlds Creators to Earn Money](https://about.fb.com/news/2022/04/testing-creator-monetization-horizon-worlds/)
+- [Show HN: I’m building an eAuctioning platform for suppliers and businesses](https://www.playmellow.com/feed)
+- [Lend Me Your Ear: Passive Remote Physical Side Channels on PCs](https://www.usenix.org/conference/usenixsecurity22/presentation/genkin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
