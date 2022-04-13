@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Deekaykwon 2D Animations](https://deekaykwon.com)
+- [Ana is a Python, PHP, and C inspired dynamically typed scripting language](https://github.com/analang/ana)
 - [Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote](https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations)
 - [WebP is such a goated format](https://sandyuraz.com/blogs/webp/)
-- [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
-- [New&lpar;ish&rpar; command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
