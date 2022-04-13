@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote](https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations)
 - [WebP is such a goated format](https://sandyuraz.com/blogs/webp/)
 - [Update on the Atlassian outage affecting some customers](https://www.atlassian.com/engineering/april-2022-outage-update)
 - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
 - [New&lpar;ish&rpar; command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
-- [A few things to try with DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
