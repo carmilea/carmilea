@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California&#39;s Vanished Dream, by the Numbers](https://www.realclearinvestigations.com/articles/2022/04/13/californias_vanished_dream_by_the_numbers_826300.html)
+- [Frontend Component Architecture](https://gos.si/blog/frontend-component-architecture/)
+- [Measuring Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
 - [8vdX &lpar;YC W22&rpar; Is Hiring a Product Manager](https://news.ycombinator.com/item?id=31017120)
 - [You’re muted – or are you? Videoconferencing apps listen even when mic is off](https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/)
-- [A Modern Self-Referential Weight Matrix That Learns to Modify Itself](https://arxiv.org/abs/2202.05780)
-- [Learning garment manipulation policies toward robot-assisted dressing](https://www.science.org/doi/10.1126/scirobotics.abm6010)
-- [A new heat engine with no moving parts is as efficient as a steam turbine](https://news.mit.edu/2022/thermal-heat-engine-0413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
