@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch scandal serves as a warning for Europe over risks of using algorithms](https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/)
+- [Iron Cycle based energy storage and generation](https://teamsolid.org/)
+- [The Most Popular Chess Streamer on Twitch](https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch)
+- [File transfers via the parallel port on DOS using LapLink](https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/)
 - [Cumbuca &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=31013621)
-- [Show HN: I made a website to search for half loaves of bread near you](https://halfloafnear.me/)
-- [Concatenative Language](https://concatenative.org/wiki/view/Concatenative%20language)
-- [Russian trolls tried to distract voters with music tweets in 2016](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
-- [U+237C ⍼ Right Angle with Downwards Zigzag Arrow](https://ionathan.ch/2022/04/09/angzarr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
