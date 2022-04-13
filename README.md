@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31020206)
-- [The Story of a Stare Down](https://theamericanscholar.org/the-story-of-a-stare-down/)
 - [Jimmy Carter&#39;s White House Solar Panels &lpar;2019&rpar;](https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/)
 - [Ask HN: Have you created programs for only your personal use?](https://news.ycombinator.com/item?id=31018836)
+- [Due Dates Are a Lazy Way to Gain Commitment](https://tristanhood.substack.com/p/due-dates-are-a-lazy-way-to-gain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
