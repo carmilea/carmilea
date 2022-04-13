@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cumbuca &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=31013621)
+- [Show HN: I made a website to search for half loaves of bread near you](https://halfloafnear.me/)
+- [Concatenative Language](https://concatenative.org/wiki/view/Concatenative%20language)
+- [Russian trolls tried to distract voters with music tweets in 2016](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
 - [U+237C ⍼ Right Angle with Downwards Zigzag Arrow](https://ionathan.ch/2022/04/09/angzarr.html)
-- [Insider Trading at Coinbase](https://twitter.com/cobie/status/1513874972552355846)
-- [Taiwan should use “broken nest”, destroy TSMC in Chinese invasion: US military](https://www.datacenterdynamics.com/en/news/taiwan-should-adopt-a-broken-nest-policy-and-destroy-tsmc-in-wake-of-any-chinese-invasion-suggests-us-military-paper/)
-- [Create hand-drawn GIFs on paper](https://www.eatmy.art/)
-- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
