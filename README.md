@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dutch scandal serves as a warning for Europe over risks of using algorithms](https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/)
-- [Iron Cycle based energy storage and generation](https://teamsolid.org/)
-- [The Most Popular Chess Streamer on Twitch](https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch)
-- [File transfers via the parallel port on DOS using LapLink](https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/)
-- [Cumbuca &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=31013621)
+- [Moxie Marlinspike has stepped down as CEO of Signal](https://www.theverge.com/2022/1/10/22876891/signal-ceo-steps-down-moxie-marlinspike-encryption-cryptocurrency)
+- [Principles for Dealing with the Changing World Order](https://www.youtube.com/watch?v=xguam0TKMw8)
+- [Ask HN: Are the 2020s the decade of peak homogenisation?](https://news.ycombinator.com/item?id=31014508)
+- [Apple unveils the best photos from the Shot on iPhone Macro Challenge](https://www.apple.com/newsroom/2022/04/apple-unveils-the-best-photos-from-the-shot-on-iphone-macro-challenge/)
+- [Open source robot lawn mower](https://www.youtube.com/watch?v=BSF04i3zNGw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
