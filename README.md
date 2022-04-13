@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive, insightful, and otherwise interesting data science blogs](https://www.narrator.ai/blog/comprehensive-original-insightful-and-otherwise-interesting-data-science-blogs/)
-- [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
-- [California&#39;s Vanished Dream, by the Numbers](https://www.realclearinvestigations.com/articles/2022/04/13/californias_vanished_dream_by_the_numbers_826300.html)
-- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
-- [Measuring Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
+- [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31020206)
+- [The Story of a Stare Down](https://theamericanscholar.org/the-story-of-a-stare-down/)
+- [Jimmy Carter&#39;s White House Solar Panels &lpar;2019&rpar;](https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/)
+- [Ask HN: Have you created programs for only your personal use?](https://news.ycombinator.com/item?id=31018836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
