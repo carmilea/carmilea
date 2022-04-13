@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update on the Atlassian outage affecting some customers](https://www.atlassian.com/engineering/april-2022-outage-update)
 - [Git 2.30.3 will not operate in non-owned directories](https://github.com/git/git/commit/8959555cee7ec045958f9b6dd62e541affb7e7d9)
 - [New&lpar;ish&rpar; command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 - [A few things I learned about using DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
 - [Mexico truckers protest new Texas inspections, halt trade at border bridges](https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/)
-- [BBEdit is 30 years old today](https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
