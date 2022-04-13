@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Insider Trading at Coinbase](https://twitter.com/cobie/status/1513874972552355846)
+- [Taiwan should use “broken nest”, destroy TSMC in Chinese invasion: US military](https://www.datacenterdynamics.com/en/news/taiwan-should-adopt-a-broken-nest-policy-and-destroy-tsmc-in-wake-of-any-chinese-invasion-suggests-us-military-paper/)
 - [Create hand-drawn GIFs on paper](https://www.eatmy.art/)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Web3: A VC-funded gig economy of securities fraud](https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/)
-- [Deekaykwon 2D Animations](https://deekaykwon.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
