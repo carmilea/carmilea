@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moxie Marlinspike has stepped down as CEO of Signal](https://www.theverge.com/2022/1/10/22876891/signal-ceo-steps-down-moxie-marlinspike-encryption-cryptocurrency)
-- [Principles for Dealing with the Changing World Order](https://www.youtube.com/watch?v=xguam0TKMw8)
-- [Ask HN: Are the 2020s the decade of peak homogenisation?](https://news.ycombinator.com/item?id=31014508)
-- [Apple unveils the best photos from the Shot on iPhone Macro Challenge](https://www.apple.com/newsroom/2022/04/apple-unveils-the-best-photos-from-the-shot-on-iphone-macro-challenge/)
-- [Open source robot lawn mower](https://www.youtube.com/watch?v=BSF04i3zNGw)
+- [Psilocybin Rewires the Brain for People with Depression](https://www.ucsf.edu/news/2022/04/422606/psilocybin-rewires-brain-people-depression)
+- [K-Nearest Neighbors](https://www.pinecone.io/learn/k-nearest-neighbor/)
+- [What&#39;s next for AlphaFold and the AI protein-folding revolution](https://www.nature.com/articles/d41586-022-00997-5)
+- [Ask HN: What happened to Apple&#39;s self service repair program?](https://news.ycombinator.com/item?id=31014998)
+- [Logarithms Yearning to Be Free](https://www.johndcook.com/blog/2022/04/13/logarithms-yearning-to-be-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
