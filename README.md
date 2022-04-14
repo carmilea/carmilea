@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avalanche Energy – Fusion Power You Can Hold in Your Hands](https://www.avalanche.energy/)
-- [Link: Simple, secure one-click payments by Stripe](https://link.co/)
-- [Ask HN: How can I best assist my wife with a career transition?](https://news.ycombinator.com/item?id=31030740)
-- [Browser in the Dark: flashlights with CSS and canvas](https://voussoir.net/writing/browser_in_the_dark)
-- [LunaSec &lpar;YC S19&rpar; is hiring a growth lead to help build our GitHub community](https://news.ycombinator.com/item?id=31029718)
+- [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
+- [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
+- [New Research: Hitler’s Teeth Confirm He Died in 1945](https://www.smithsonianmag.com/smart-news/hitlers-teeth-confirm-he-died-1945-180969133/)
+- [The Irrelevance of Porter’s Five Forces for the B2B Software Industry](https://jhcblog.juliehuntconsulting.com/2012/12/the-irrelevance-of-porters-five-forces-for-the-b2b-software-industry.html)
+- [Avalanche Energy – Fusion power you can hold in your hands](https://www.avalanche.energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
