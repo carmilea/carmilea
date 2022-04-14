@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avalanche Energy – Fusion Power You Can Hold in Your Hands](https://www.avalanche.energy/)
+- [Link: Simple, secure one-click payments by Stripe](https://link.co/)
 - [Ask HN: How can I best assist my wife with a career transition?](https://news.ycombinator.com/item?id=31030740)
-- [ProPublica Continues to Report &lpar;Badly&rpar; on Illegally Leaked Taxpayer Data](https://www.ntu.org/foundation/detail/propublica-continues-to-report-badly-on-illegally-leaked-taxpayer-data)
 - [Browser in the Dark: flashlights with CSS and canvas](https://voussoir.net/writing/browser_in_the_dark)
-- [LunaSec &lpar;YC S19&rpar; Is Hiring a Growth Lead to Help Build Our GitHub Community](https://news.ycombinator.com/item?id=31029718)
-- [Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
+- [LunaSec &lpar;YC S19&rpar; is hiring a growth lead to help build our GitHub community](https://news.ycombinator.com/item?id=31029718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
