@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe&#39;s new one-click checkout product](https://twitter.com/EricNewcomer/status/1514616710174679061)
-- [The Elimination of Leaded Gasoline](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
-- [Ask HN: Why isn&#39;t there a standard network audio protocol?](https://news.ycombinator.com/item?id=31027526)
-- [Heatsink Skiving &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=6PUk0m3bISI)
-- [Amazon adds 5% ‘fuel and inflation surcharge’ to seller fees](https://apnews.com/article/business-inflation-prices-4ae9ab8b6dd28652672f3e2615149de0)
+- [Ask HN: How to Make 1M $?](https://news.ycombinator.com/item?id=31028927)
+- [Tell HN: Turned 44 today and I&#39;m lost](https://news.ycombinator.com/item?id=31028795)
+- [Ask HN: Do you manage your family&#39;s digital safety?](https://news.ycombinator.com/item?id=31027766)
+- [Natural Wine, Inherited Money, and the Delusions of the “Future-Rich Millennial”](https://lithub.com/on-natural-wine-inherited-money-and-the-delusions-of-the-future-rich-millennial/)
+- [The elimination of leaded gasoline](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
