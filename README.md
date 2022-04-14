@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why did HN just go down?](https://news.ycombinator.com/item?id=31026659)
-- [I&#39;m so tired of Google&#39;s business products](https://news.ycombinator.com/item?id=31026257)
-- [Netlify Is Down](https://www.isitdownrightnow.com/netlify.com.html)
-- [“iViewed your API Keys”: Aussie state media publishes env vars](https://wale.id.au/posts/iviewed-your-api-keys/)
-- [Discz Music &lpar;YC W22&rpar; Is Hiring a Senior iOS Engineer](https://www.ycombinator.com/companies/discz-music/jobs/34QbsbN-ios-engineer)
+- [Stripe&#39;s new one-click checkout product](https://twitter.com/EricNewcomer/status/1514616710174679061)
+- [The Elimination of Leaded Gasoline](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
+- [Ask HN: Why isn&#39;t there a standard network audio protocol?](https://news.ycombinator.com/item?id=31027526)
+- [Heatsink Skiving &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=6PUk0m3bISI)
+- [Amazon adds 5% ‘fuel and inflation surcharge’ to seller fees](https://apnews.com/article/business-inflation-prices-4ae9ab8b6dd28652672f3e2615149de0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
