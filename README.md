@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
+- [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
 - [Kula &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;London&rpar;](https://www.joinkula.io/jobs)
-- [Cruiser “Moskva” sank while being towed](https://tass.ru/armiya-i-opk/14383383)
 - [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
 - [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
-- [New Research: Hitler’s Teeth Confirm He Died in 1945](https://www.smithsonianmag.com/smart-news/hitlers-teeth-confirm-he-died-1945-180969133/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
