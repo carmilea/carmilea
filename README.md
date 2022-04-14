@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk Launches $43B Hostile Takeover of Twitter](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
+- [The New York Times compels the Wordle Archive project to be shut down](https://www.devangthakkar.com/wordle_archive/)
 - [New Covid nasal spray outperforms current antibody treatments in mice](https://news.northwestern.edu/stories/2022/04/new-covid-19-nasal-spray-outperforms-current-antibody-treatments-in-mice/)
 - [Why Ruby Has Symbols](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 - [Making Rust a Better Fit for Cheri and Other Platforms](https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html)
-- [Sturdy &lpar;YC W21&rpar; Is Hiring Senior Engineers &lpar;Stockholm, Sweden&rpar;](https://getsturdy.com/careers)
-- [Large-Scale Matrix Factorization on TPUs](https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
