@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Life as a Mentalist](https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/)
 - [Computers Can Be Understood &lpar;2020&rpar;](https://blog.nelhage.com/post/computers-can-be-understood/)
 - [Regology &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager)
 - [Why I quit this battle](https://badmodems.com/Why.htm)
 - [Apple&#39;s M1 Ultra comes with a 32MB TLB bottleneck](https://twitter.com/VadimYuryev/status/1514295682777059329)
-- [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
