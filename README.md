@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Obfuscated Obfuscation](https://blog.lexfo.fr/dexguard.html)
+- [Computers Can Be Understood &lpar;2020&rpar;](https://blog.nelhage.com/post/computers-can-be-understood/)
+- [Regology &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager)
+- [Why I quit this battle](https://badmodems.com/Why.htm)
+- [Apple&#39;s M1 Ultra comes with a 32MB TLB bottleneck](https://twitter.com/VadimYuryev/status/1514295682777059329)
 - [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31020206)
-- [Jimmy Carter&#39;s White House Solar Panels &lpar;2019&rpar;](https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/)
-- [Ask HN: Have you created programs for only your personal use?](https://news.ycombinator.com/item?id=31018836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
