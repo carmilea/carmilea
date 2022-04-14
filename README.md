@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How can I best assist my wife with a career transition?](https://news.ycombinator.com/item?id=31030740)
+- [ProPublica Continues to Report &lpar;Badly&rpar; on Illegally Leaked Taxpayer Data](https://www.ntu.org/foundation/detail/propublica-continues-to-report-badly-on-illegally-leaked-taxpayer-data)
+- [Browser in the Dark: flashlights with CSS and canvas](https://voussoir.net/writing/browser_in_the_dark)
 - [LunaSec &lpar;YC S19&rpar; Is Hiring a Growth Lead to Help Build Our GitHub Community](https://news.ycombinator.com/item?id=31029718)
-- [Americans’ views on the war reveal a striking generational divide](https://www.economist.com/united-states/2022/04/02/americans-views-on-the-war-reveal-a-striking-generational-divide)
-- [Tell HN: Turned 44 today and I&#39;m lost](https://news.ycombinator.com/item?id=31028795)
-- [Ask HN: Do you manage your family&#39;s digital safety?](https://news.ycombinator.com/item?id=31027766)
-- [Natural Wine, Inherited Money, and the Delusions of the “Future-Rich Millennial”](https://lithub.com/on-natural-wine-inherited-money-and-the-delusions-of-the-future-rich-millennial/)
+- [Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
