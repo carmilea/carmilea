@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Labs StarBook – AMD 14&quot; Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
 - [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
 - [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
 - [Kula &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;London&rpar;](https://www.joinkula.io/jobs)
 - [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
-- [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
