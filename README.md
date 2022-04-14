@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Covid nasal spray outperforms current antibody treatments in mice](https://news.northwestern.edu/stories/2022/04/new-covid-19-nasal-spray-outperforms-current-antibody-treatments-in-mice/)
+- [Why Ruby Has Symbols](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 - [Making Rust a Better Fit for Cheri and Other Platforms](https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html)
 - [Sturdy &lpar;YC W21&rpar; Is Hiring Senior Engineers &lpar;Stockholm, Sweden&rpar;](https://getsturdy.com/careers)
 - [Large-Scale Matrix Factorization on TPUs](https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html)
-- [Incident with GitHub Actions and Codespaces](https://www.githubstatus.com/incidents/vxvyrmy9w1vp)
-- [I want to give Oracle money but I can&#39;t](https://nickfa.ro/index.php/I_want_to_give_Oracle_money_but_I_can%27t)
 <!-- BLOG-POST-LIST:END -->
 
 ---
