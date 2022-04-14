@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Make 1M $?](https://news.ycombinator.com/item?id=31028927)
+- [LunaSec &lpar;YC S19&rpar; Is Hiring a Growth Lead to Help Build Our GitHub Community](https://news.ycombinator.com/item?id=31029718)
+- [Americans’ views on the war reveal a striking generational divide](https://www.economist.com/united-states/2022/04/02/americans-views-on-the-war-reveal-a-striking-generational-divide)
 - [Tell HN: Turned 44 today and I&#39;m lost](https://news.ycombinator.com/item?id=31028795)
 - [Ask HN: Do you manage your family&#39;s digital safety?](https://news.ycombinator.com/item?id=31027766)
 - [Natural Wine, Inherited Money, and the Delusions of the “Future-Rich Millennial”](https://lithub.com/on-natural-wine-inherited-money-and-the-delusions-of-the-future-rich-millennial/)
-- [The elimination of leaded gasoline](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
