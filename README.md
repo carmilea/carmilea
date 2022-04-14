@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Rust a Better Fit for Cheri and Other Platforms](https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html)
+- [Sturdy &lpar;YC W21&rpar; Is Hiring Senior Engineers &lpar;Stockholm, Sweden&rpar;](https://getsturdy.com/careers)
+- [Large-Scale Matrix Factorization on TPUs](https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html)
 - [Incident with GitHub Actions and Codespaces](https://www.githubstatus.com/incidents/vxvyrmy9w1vp)
 - [I want to give Oracle money but I can&#39;t](https://nickfa.ro/index.php/I_want_to_give_Oracle_money_but_I_can%27t)
-- [Don’t Cook Yourself with RF Energy](https://www.bigmessowires.com/2022/04/13/dont-cook-yourself-with-rf-energy/)
-- [My Life as a Mentalist](https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/)
-- [Computers Can Be Understood &lpar;2020&rpar;](https://blog.nelhage.com/post/computers-can-be-understood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
