@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Primer: Statistical [Tank] Armour](https://www.tanknology.co.uk/post/statistical-armour)
+- [Billionaires eye parallel media universe](https://www.axios.com/elon-musk-twitter-billionaires-free-speech-social-media-c74547a6-e51d-48fa-b2bd-3d7458f2adb4.html)
+- [The Colorado Safety Stop is the law of the land](https://www.bicyclecolorado.org/bike-news/colorado-safety-stop-becomes-law/)
+- [Elliptic Curve Cryptography: A Basic Introduction](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/)
 - [Wikipedia globally blocks Apple Private Relay IP ranges from editing](https://meta.wikimedia.org/wiki/Talk:Apple_iCloud_Private_Relay)
-- [MPLS/LDP Creation Myths](https://blog.ipspace.net/2022/03/mpls-ldp-creation-myths.html)
-- [Everything you need to know about psychedelics and mental illness](https://stuartritchie.substack.com/p/psychedelics)
-- [Neovim 0.7 Released](https://github.com/neovim/neovim/releases/tag/v0.7.0)
-- [Reversing hearing loss with regenerative therapy](https://news.mit.edu/2022/frequency-therapeutics-hearing-regeneration-0329)
 <!-- BLOG-POST-LIST:END -->
 
 ---
