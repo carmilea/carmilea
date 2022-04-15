@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It is not topics that are censored, it is behaviour](https://twitter.com/yishan/status/1514938507407421440)
+- [Wikipedia globally blocks Apple Private Relay IP ranges from editing](https://meta.wikimedia.org/wiki/Talk:Apple_iCloud_Private_Relay)
+- [MPLS/LDP Creation Myths](https://blog.ipspace.net/2022/03/mpls-ldp-creation-myths.html)
+- [Everything you need to know about psychedelics and mental illness](https://stuartritchie.substack.com/p/psychedelics)
 - [Neovim 0.7 Released](https://github.com/neovim/neovim/releases/tag/v0.7.0)
 - [Reversing hearing loss with regenerative therapy](https://news.mit.edu/2022/frequency-therapeutics-hearing-regeneration-0329)
-- [Nimbus &lpar;YC W22&rpar; is hiring our founding engineering team](https://news.ycombinator.com/item?id=31039184)
-- [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
