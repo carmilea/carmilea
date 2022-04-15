@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has anyone successfully renegotiated an AWS non-compete](https://news.ycombinator.com/item?id=31041711)
-- [The terrible things I&#39;d do with your money](https://timdaub.github.io/2022/04/15/the-terrible-things-I-would-do-with-your-money/)
-- [Primer: Statistical [Tank] Armour](https://www.tanknology.co.uk/post/statistical-armour)
-- [Billionaires eye parallel media universe](https://www.axios.com/elon-musk-twitter-billionaires-free-speech-social-media-c74547a6-e51d-48fa-b2bd-3d7458f2adb4.html)
-- [When Your “Public Square” Is a Private Company, Any Sulky Billionaire Can Buy It](https://lithub.com/when-your-public-square-is-a-private-company-any-sulky-billionaire-can-buy-it/)
+- [Goalbook &lpar;YC IK12&rpar; Is Hiring Senior Engineers to Impact Special Education](https://news.ycombinator.com/item?id=31042586)
+- [Employee’s unwanted birthday party nets him $450k after lawsuit](https://www.kentucky.com/news/state/kentucky/article260445977.html)
+- [They Thought They Were Free: The Germans, 1933-45](https://press.uchicago.edu/Misc/Chicago/511928.html)
+- [Twitter Adopts Limited Duration Shareholder Rights Plan](https://www.prnewswire.com/news-releases/twitter-adopts-limited-duration-shareholder-rights-plan-enabling-all-shareholders-to-realize-full-value-of-company-301526627.html)
+- [Ask HN: Has anyone successfully renegotiated an AWS non-compete?](https://news.ycombinator.com/item?id=31041711)
 <!-- BLOG-POST-LIST:END -->
 
 ---
