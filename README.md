@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Draw Sub Cutaways in MS Paint](http://www.hisutton.com/How%20to%20draw%20sub%20cutaways%20in%20MS%20Paint.html)
+- [Bevy 0.7: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-7/)
+- [Moreutils: A collection of Unix tools that nobody thought to write long ago](https://joeyh.name/code/moreutils/)
+- [Twitter board adopts poison pill after Musk’s $43B bid to buy company](https://www.cnbc.com/2022/04/15/twitter-board-adopts-poison-pill-after-musks-43-billion-offer-to-buy-company.html)
 - [Windows 10 minus the spyware plus added stability and security](https://ameliorated.info/)
-- [Goalbook &lpar;YC IK12&rpar; Is Hiring Senior Engineers to Impact Special Education](https://news.ycombinator.com/item?id=31042586)
-- [They Thought They Were Free: The Germans, 1933-45](https://press.uchicago.edu/Misc/Chicago/511928.html)
-- [Ask HN: Has anyone successfully renegotiated an AWS non-compete?](https://news.ycombinator.com/item?id=31041711)
-- [Researchers control brain circuits from a distance using infrared light](https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
