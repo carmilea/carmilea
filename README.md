@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What&#39;s Going on with Amazon Search?](https://news.ycombinator.com/item?id=31036537)
+- [Reddit Announces Comment Search](https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design)
+- [Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years](https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare)
 - [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
 - [5-min breathing workout lowers blood pressure as much as exercise, drugs &lpar;2021&rpar;](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
-- [Star Labs StarBook – AMD 14&quot; Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
-- [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
-- [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
 <!-- BLOG-POST-LIST:END -->
 
 ---
