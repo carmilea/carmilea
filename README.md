@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reversing hearing loss with regenerative therapy](https://news.mit.edu/2022/frequency-therapeutics-hearing-regeneration-0329)
+- [Nimbus &lpar;YC W22&rpar; is hiring our founding engineering team](https://news.ycombinator.com/item?id=31039184)
+- [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html)
+- [Shirky.com is gone &lpar;important essays, the history of the Web, is disappearing&rpar;](https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html)
 - [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
-- [What Is at Stake in Ukraine](https://www.economist.com/leaders/2022/04/16/what-is-at-stake-in-ukraine)
-- [I hope distributed is not the new default](https://www.zeptonaut.com/posts/i-hope-distributed-is-not-the-new-default/)
-- [It’s Still Stupidly, Difficult to Buy a ‘Dumb’ TV](https://www.techdirt.com/2022/04/14/its-still-stupidly-ridiculously-difficult-to-buy-a-dumb-tv/)
-- [Cultural Anorexia: The Pursuit of Thicker Desires in a Thinning World](https://read.lukeburgis.com/p/cultural-anorexia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
