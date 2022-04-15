@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 minus the spyware plus added stability and security](https://ameliorated.info/)
 - [Goalbook &lpar;YC IK12&rpar; Is Hiring Senior Engineers to Impact Special Education](https://news.ycombinator.com/item?id=31042586)
-- [Employee’s unwanted birthday party nets him $450k after lawsuit](https://www.kentucky.com/news/state/kentucky/article260445977.html)
 - [They Thought They Were Free: The Germans, 1933-45](https://press.uchicago.edu/Misc/Chicago/511928.html)
-- [Twitter Adopts Limited Duration Shareholder Rights Plan](https://www.prnewswire.com/news-releases/twitter-adopts-limited-duration-shareholder-rights-plan-enabling-all-shareholders-to-realize-full-value-of-company-301526627.html)
 - [Ask HN: Has anyone successfully renegotiated an AWS non-compete?](https://news.ycombinator.com/item?id=31041711)
+- [Researchers control brain circuits from a distance using infrared light](https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
