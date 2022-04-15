@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Has anyone successfully renegotiated an AWS non-compete](https://news.ycombinator.com/item?id=31041711)
+- [The terrible things I&#39;d do with your money](https://timdaub.github.io/2022/04/15/the-terrible-things-I-would-do-with-your-money/)
 - [Primer: Statistical [Tank] Armour](https://www.tanknology.co.uk/post/statistical-armour)
 - [Billionaires eye parallel media universe](https://www.axios.com/elon-musk-twitter-billionaires-free-speech-social-media-c74547a6-e51d-48fa-b2bd-3d7458f2adb4.html)
-- [The Colorado Safety Stop is the law of the land](https://www.bicyclecolorado.org/bike-news/colorado-safety-stop-becomes-law/)
-- [Elliptic Curve Cryptography: A Basic Introduction](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/)
-- [Wikipedia globally blocks Apple Private Relay IP ranges from editing](https://meta.wikimedia.org/wiki/Talk:Apple_iCloud_Private_Relay)
+- [When Your “Public Square” Is a Private Company, Any Sulky Billionaire Can Buy It](https://lithub.com/when-your-public-square-is-a-private-company-any-sulky-billionaire-can-buy-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
