@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
+- [Ask HN: Am I being fooled at a Dutch startup?](https://news.ycombinator.com/item?id=31045615)
+- [Ask HN: Are AI language models making search engines unusable for you too?](https://news.ycombinator.com/item?id=31045373)
+- [The silenced deaths of the Shanghai 2022 lockdown](https://storiesfromthestateofexception.wordpress.com/2022/04/14/the-silenced-deaths-of-the-shanghai-2022-lockdown/)
 - [Tails 5.0~beta1: Call for testing](https://tails.boum.org/news/test_5.0-beta1/)
-- [Acute hepatitis of unknown aetiology – UK](https://www.who.int/emergencies/disease-outbreak-news/item/acute-hepatitis-of-unknown-aetiology---the-united-kingdom-of-great-britain-and-northern-ireland)
-- [Ten Members of International Stock Manipulation Ring Charged in Manhattan](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
-- [DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results](https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/)
-- [The History of Franz and Lisp](https://ieeexplore.ieee.org/document/9740557)
 <!-- BLOG-POST-LIST:END -->
 
 ---
