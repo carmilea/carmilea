@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Single mom sues coding boot camp over job placement rates](https://finance.yahoo.com/news/single-mom-sues-coding-boot-camp-over-job-placement-rates-195151315.html)
+- [What Is Interchange?](https://blog.lithic.com/interchange/)
 - [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
-- [Ask HN: Am I being fooled at a Dutch startup?](https://news.ycombinator.com/item?id=31045615)
-- [Ask HN: Are AI language models making search engines unusable for you too?](https://news.ycombinator.com/item?id=31045373)
 - [The silenced deaths of the Shanghai 2022 lockdown](https://storiesfromthestateofexception.wordpress.com/2022/04/14/the-silenced-deaths-of-the-shanghai-2022-lockdown/)
 - [Tails 5.0~beta1: Call for testing](https://tails.boum.org/news/test_5.0-beta1/)
 <!-- BLOG-POST-LIST:END -->
