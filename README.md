@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
-- [Goldman told TWTR Elon’s $54.20 offer was too low but has a sell target at $30](https://twitter.com/zerohedge/status/1514612329031233547)
-- [5-minute breathing workout lowers blood pressure as much as exercise, drugs](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
+- [5-min breathing workout lowers blood pressure as much as exercise, drugs &lpar;2021&rpar;](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
 - [Star Labs StarBook – AMD 14&quot; Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
 - [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
+- [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
 <!-- BLOG-POST-LIST:END -->
 
 ---
