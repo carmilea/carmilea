@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
+- [Goldman told TWTR Elon’s $54.20 offer was too low but has a sell target at $30](https://twitter.com/zerohedge/status/1514612329031233547)
+- [5-minute breathing workout lowers blood pressure as much as exercise, drugs](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
 - [Star Labs StarBook – AMD 14&quot; Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
 - [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
-- [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
-- [Kula &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;London&rpar;](https://www.joinkula.io/jobs)
-- [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
