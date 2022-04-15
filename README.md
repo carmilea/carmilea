@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s Going on with Amazon Search?](https://news.ycombinator.com/item?id=31036537)
+- [Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males](https://www.atlasobscura.com/articles/fossil-record-prefers-males)
 - [Reddit Announces Comment Search](https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design)
 - [Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years](https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare)
 - [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
