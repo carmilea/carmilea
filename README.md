@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
 - [What Is at Stake in Ukraine](https://www.economist.com/leaders/2022/04/16/what-is-at-stake-in-ukraine)
 - [I hope distributed is not the new default](https://www.zeptonaut.com/posts/i-hope-distributed-is-not-the-new-default/)
 - [It’s Still Stupidly, Difficult to Buy a ‘Dumb’ TV](https://www.techdirt.com/2022/04/14/its-still-stupidly-ridiculously-difficult-to-buy-a-dumb-tv/)
 - [Cultural Anorexia: The Pursuit of Thicker Desires in a Thinning World](https://read.lukeburgis.com/p/cultural-anorexia)
-- [Rustaceans at the Border [Linux Kernel]](https://lwn.net/SubscriberLink/889924/2b330ed9ea4a9e23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
