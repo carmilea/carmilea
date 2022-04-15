@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Draw Sub Cutaways in MS Paint](http://www.hisutton.com/How%20to%20draw%20sub%20cutaways%20in%20MS%20Paint.html)
-- [Bevy 0.7: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-7/)
-- [Moreutils: A collection of Unix tools that nobody thought to write long ago](https://joeyh.name/code/moreutils/)
-- [Twitter board adopts poison pill after Musk’s $43B bid to buy company](https://www.cnbc.com/2022/04/15/twitter-board-adopts-poison-pill-after-musks-43-billion-offer-to-buy-company.html)
-- [Windows 10 minus the spyware plus added stability and security](https://ameliorated.info/)
+- [Tails 5.0~beta1: Call for testing](https://tails.boum.org/news/test_5.0-beta1/)
+- [Acute hepatitis of unknown aetiology – UK](https://www.who.int/emergencies/disease-outbreak-news/item/acute-hepatitis-of-unknown-aetiology---the-united-kingdom-of-great-britain-and-northern-ireland)
+- [Ten Members of International Stock Manipulation Ring Charged in Manhattan](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
+- [DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results](https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/)
+- [The History of Franz and Lisp](https://ieeexplore.ieee.org/document/9740557)
 <!-- BLOG-POST-LIST:END -->
 
 ---
