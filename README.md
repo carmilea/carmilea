@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet](http://serentty.com)
+- [Using SBCL Common Lisp as a Dynamic Library](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html)
 - [Virginia police routinely use secret GPS pings to track people’s cell phones](https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html)
-- [Nuclear weapons are not as destructive as you think](https://www.navalgazing.net/Nuclear-Weapon-Destructiveness)
+- [How destructive are nuclear weapons really?](https://www.navalgazing.net/Nuclear-Weapon-Destructiveness)
 - [Hurricane Electric Emergency DNS Maintenance](http://dns.he.net/)
-- [Study on US-Russia nuclear war: 91.5 MM casualties in first few hours &lpar;2019&rpar;](https://www.icanw.org/new_study_on_us_russia_nuclear_war)
-- [Show HN: Slow Social, a social network built for friends, not influencers](https://slowsocial.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
