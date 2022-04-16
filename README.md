@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heroku Security Incident](https://status.heroku.com/incidents/2413)
+- [A drug that cures alcoholism may be the next anti-anxiety medication](https://www.tus.ac.jp/en/mediarelations/archive/20220414_3208.html)
+- [Heroku Security Notification](https://status.heroku.com/incidents/2413)
 - [Intel deprecates SGX on Core series processors](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/)
 - [When hiring developers, have the candidate read existing code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
-- [XHTTP: An HTTP server library in a single C file](https://github.com/cozis/xHTTP)
 - [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
 <!-- BLOG-POST-LIST:END -->
 
