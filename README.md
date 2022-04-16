@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A drug that cures alcoholism may be the next anti-anxiety medication](https://www.tus.ac.jp/en/mediarelations/archive/20220414_3208.html)
-- [Heroku Security Notification](https://status.heroku.com/incidents/2413)
-- [Intel deprecates SGX on Core series processors](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/)
-- [When hiring developers, have the candidate read existing code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
-- [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
+- [Brendan Gregg is leaving Netflix](https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html)
+- [Calculating Pi on the 4004](https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/)
+- [Bristle &lpar;YC W21&rpar; is hiring engineers to prevent gum disease and bad breath](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
+- [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)
+- [MIT Engineers Create New Material Stronger Than Steel and Light as Plastic](https://scitechdaily.com/mit-engineers-create-the-impossible-new-material-that-is-stronger-than-steel-and-as-light-as-plastic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
