@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Self-calibrating USB Paper Tape Reader](http://www.e-basteln.de/computing/papertape/overview/)
 - [A Census of Minecraft Servers](https://blog.bithole.dev/mcmap.html)
+- [Birds Aren’t Real took on the conspiracy theorists](https://www.theguardian.com/us-news/2022/apr/14/the-lunacy-is-getting-more-intense-how-birds-arent-real-took-on-the-conspiracy-theorists)
 - [Zig self hosted compiler is now capable of building itself](https://github.com/ziglang/zig/pull/11442)
 - [Seashore: Easy to use Mac OS X image editing application for the rest of us](https://github.com/robaho/seashore)
-- [Netflix End of Series 1](https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
