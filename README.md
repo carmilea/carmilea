@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A New Map of All the Particles and Forces &lpar;2020&rpar;](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
+- [Notable items missing from English Wikipedia](https://blog.plover.com/2022/04/16/#missing)
 - [The &#39;Batman Effect&#39;: How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
 - [Standard ML Family](https://smlfamily.github.io/)
 - [Podman Desktop Companion GUI – Parity on All Major Operating Systems](https://iongion.github.io/podman-desktop-companion/)
-- [Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet](http://serentty.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
