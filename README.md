@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ribbon &lpar;YC S17&rpar; is hiring a Director of Engineering to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4153956004)
-- [Operating Systems: CPU Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)
-- [Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming](https://github.com/AlexEidt/Vidio)
-- [Wordle and Grep](https://leancrew.com/all-this/2022/02/wordle-and-grep/)
-- [Researchers Discover New Cell Type in Human Lung with Regenerative Properties](https://www.pennmedicine.org/news/news-releases/2022/april/penn-researchers-discover-new-cell-type-in-human-lung-with-regenerative-properties)
+- [Virginia police routinely use secret GPS pings to track people’s cell phones](https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html)
+- [Nuclear weapons are not as destructive as you think](https://www.navalgazing.net/Nuclear-Weapon-Destructiveness)
+- [Hurricane Electric Emergency DNS Maintenance](http://dns.he.net/)
+- [Study on US-Russia nuclear war: 91.5 MM casualties in first few hours &lpar;2019&rpar;](https://www.icanw.org/new_study_on_us_russia_nuclear_war)
+- [Show HN: Slow Social, a social network built for friends, not influencers](https://slowsocial.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
