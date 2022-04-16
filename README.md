@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former employee downloaded Cash App account info of 8.2M users &lpar;SEC Form 8k&rpar;](https://www.sec.gov/ix?doc=/Archives/edgar/data/1512673/000119312522095215/d343042d8k.htm)
+- [Intel deprecates SGX on Core series processors](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/)
+- [When hiring developers, have the candidate read existing code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
+- [The jewel-encrusted edition of the Rubáiyát of Omar Khayyám](https://www.bbc.com/news/uk-england-london-57683638)
 - [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
-- [Vectorflow: Minimalist neural network library faster than TensorFlow in D](https://github.com/Netflix/vectorflow)
-- [Single mom sues coding boot camp over job placement rates](https://finance.yahoo.com/news/single-mom-sues-coding-boot-camp-over-job-placement-rates-195151315.html)
-- [What Is Interchange?](https://blog.lithic.com/interchange/)
+- [Re-implementing an old DOS game in C++ 17](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
