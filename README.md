@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Map of All the Particles and Forces &lpar;2020&rpar;](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
+- [The &#39;Batman Effect&#39;: How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
+- [Standard ML Family](https://smlfamily.github.io/)
 - [Podman Desktop Companion GUI – Parity on All Major Operating Systems](https://iongion.github.io/podman-desktop-companion/)
 - [Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet](http://serentty.com)
-- [Using SBCL Common Lisp as a Dynamic Library](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html)
-- [Virginia police routinely use secret GPS pings to track people’s cell phones](https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html)
-- [Hurricane Electric Emergency DNS Maintenance](http://dns.he.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
