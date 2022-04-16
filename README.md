@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-calibrating USB Paper Tape Reader](http://www.e-basteln.de/computing/papertape/overview/)
+- [A Census of Minecraft Servers](https://blog.bithole.dev/mcmap.html)
 - [Zig self hosted compiler is now capable of building itself](https://github.com/ziglang/zig/pull/11442)
-- [Brendan Gregg is leaving Netflix](https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html)
-- [Calculating Pi on the 4004](https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/)
-- [Bristle &lpar;YC W21&rpar; is hiring engineers to prevent gum disease and bad breath](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
-- [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)
+- [Seashore: Easy to use Mac OS X image editing application for the rest of us](https://github.com/robaho/seashore)
+- [Netflix End of Series 1](https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
