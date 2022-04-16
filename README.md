@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ribbon &lpar;YC S17&rpar; is hiring a Director of Engineering to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4153956004)
+- [Operating Systems: CPU Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)
 - [Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming](https://github.com/AlexEidt/Vidio)
 - [Wordle and Grep](https://leancrew.com/all-this/2022/02/wordle-and-grep/)
 - [Researchers Discover New Cell Type in Human Lung with Regenerative Properties](https://www.pennmedicine.org/news/news-releases/2022/april/penn-researchers-discover-new-cell-type-in-human-lung-with-regenerative-properties)
-- [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
-- [Self-calibrating USB Paper Tape Reader](http://www.e-basteln.de/computing/papertape/overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
