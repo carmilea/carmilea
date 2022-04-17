@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aesthetic &lpar;YC S18&rpar; Is Hiring a Full-Stack Web Engineer](https://jobs.ashbyhq.com/aesthetic/335f5c64-c991-4a18-a696-b9c457217106)
+- [Stabilization of gamma sulfur enables 4000 cycle Li-S batteries [pdf]](https://www.nature.com/articles/s42004-022-00626-2.pdf)
+- [Show HN: Subreply News &lpar;Beta&rpar;](https://subreply.com/news)
 - [Why Are Some Egg Yolks So Orange?](https://www.foodunfolded.com/article/why-are-some-egg-yolks-so-orange)
 - [Heated Debate Rises over Hints of Superconductivity Above Boiling Temperatures](https://www.insidescience.org/news/heated-debate-rises-over-hints-superconductivity-above-boiling-temperatures)
-- [Ask HN: Has remote work made you procrastinate more?](https://news.ycombinator.com/item?id=31058930)
-- [Hello V-Lang](https://blog.hackersreboot.tech/hello-v-lang)
-- [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
