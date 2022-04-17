@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careersttps://www.raycast.com/blog/why-we-pay-equal-salaries-wherever-you-work/)
-- [The chicken you are eating has increased 364% in size over the last 50 years](https://twitter.com/MrSollozzo/status/1515324097223225345)
 - [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
 - [The u-root CPU command](http://book.linuxboot.org/cpu/)
 - [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
+- [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
 <!-- BLOG-POST-LIST:END -->
 
 ---
