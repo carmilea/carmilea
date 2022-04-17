@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Uber Bubble: Why Is a Company That Lost Billions Claimed to Be Successful?](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
+- [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Samsung Electronics Cultural Issues Causing Disasters in Foundry, LSI, &amp; DRAM](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
 - [Assume your devices are compromised](https://www.go350.com/posts/digital-secrets/)
-- [“With every good film I see, I feel reborn.”](https://www.sabzian.be/article/hossein-sabzian)
-- [The roots of videogame slime: snottites, star jelly and &#39;living mazes&#39; &lpar;2018&rpar;](https://videogamesoftheoppressed.wordpress.com/2018/09/17/the-untold-history-of-slimes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
