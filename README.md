@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/careersttps://www.raycast.com/blog/why-we-pay-equal-salaries-wherever-you-work/)
+- [Why Are Some Egg Yolks So Orange?](https://www.foodunfolded.com/article/why-are-some-egg-yolks-so-orange)
+- [Heated Debate Rises over Hints of Superconductivity Above Boiling Temperatures](https://www.insidescience.org/news/heated-debate-rises-over-hints-superconductivity-above-boiling-temperatures)
 - [Ask HN: Has remote work made you procrastinate more?](https://news.ycombinator.com/item?id=31058930)
 - [Hello V-Lang](https://blog.hackersreboot.tech/hello-v-lang)
 - [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
-- [The u-root CPU command](http://book.linuxboot.org/cpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
