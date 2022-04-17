@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorry, collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
+- [Tell HN: Happy Resurrection Sunday](https://news.ycombinator.com/item?id=31057454)
 - [Is Rust Web Yet?](https://www.arewewebyet.org/)
 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
 - [A New Map of All the Particles and Forces &lpar;2020&rpar;](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
-- [Notable items missing from English Wikipedia](https://blog.plover.com/2022/04/16/#missing)
-- [The &#39;Batman Effect&#39;: How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
