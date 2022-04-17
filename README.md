@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Samsung Electronics Cultural Issues Causing Disasters in Foundry, LSI, &amp; DRAM](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
 - [Assume your devices are compromised](https://www.go350.com/posts/digital-secrets/)
-- [Florida says it rejected math textbooks for referring to critical race theory](https://www.axios.com/florida-rejects-math-textbooks-critical-race-theory-1f7555e6-16b7-4303-bb67-4f79c9fc53d3.html)
 - [“With every good film I see, I feel reborn.”](https://www.sabzian.be/article/hossein-sabzian)
 - [The roots of videogame slime: snottites, star jelly and &#39;living mazes&#39; &lpar;2018&rpar;](https://videogamesoftheoppressed.wordpress.com/2018/09/17/the-untold-history-of-slimes/)
-- [Internet magically gets faster when opening speedtest?](https://news.ycombinator.com/item?id=31062799)
 <!-- BLOG-POST-LIST:END -->
 
 ---
