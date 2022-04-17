@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Assume your devices are compromised](https://www.go350.com/posts/digital-secrets/)
+- [Florida says it rejected math textbooks for referring to critical race theory](https://www.axios.com/florida-rejects-math-textbooks-critical-race-theory-1f7555e6-16b7-4303-bb67-4f79c9fc53d3.html)
+- [“With every good film I see, I feel reborn.”](https://www.sabzian.be/article/hossein-sabzian)
 - [The roots of videogame slime: snottites, star jelly and &#39;living mazes&#39; &lpar;2018&rpar;](https://videogamesoftheoppressed.wordpress.com/2018/09/17/the-untold-history-of-slimes/)
 - [Internet magically gets faster when opening speedtest?](https://news.ycombinator.com/item?id=31062799)
-- [The money I saved as a child would buy one picogram of gold today](https://twitter.com/dbasch/status/1515737443395383299)
-- [Warpgate: Smart SSH bastion that works with any SSH client](https://github.com/warp-tech/warpgate)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
