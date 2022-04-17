@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
 - [As Climate Fears Mount, Some Are Relocating Within the US](https://www.wired.com/story/as-climate-fears-mount-some-are-relocating-within-the-us/)
 - [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
 - [Collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
-- [Is Rust Web Yet?](https://www.arewewebyet.org/)
 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
 <!-- BLOG-POST-LIST:END -->
 
