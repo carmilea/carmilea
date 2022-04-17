@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD Handbook Improvement Survey](https://marc.info/?l=freebsd-announce&m=165016689418229&w=2)
-- [Aesthetic &lpar;YC S18&rpar; Is Hiring a Full-Stack Web Engineer](https://jobs.ashbyhq.com/aesthetic/335f5c64-c991-4a18-a696-b9c457217106)
-- [Stabilization of gamma sulfur enables 4000 cycle Li-S batteries [pdf]](https://www.nature.com/articles/s42004-022-00626-2.pdf)
-- [100,000 Detroit homeowners illegally taxed $600M still waiting to be compensated](https://www.metrotimes.com/news/detroit-illegally-overtaxed-homeowners-600m-theyre-still-waiting-to-be-compensated-29800877)
-- [The Joel test for remote work](https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/)
+- [No patches for digital audio releases](https://mcraiha.github.io/spotify/youtube/dark/knight/spectre/patch/hans/zimmer/sam/smith/2022/04/17/no-patches-for-digital-audio-releases.html)
+- [Fuck Your Miracle Year](https://rogersbacon.substack.com/p/fuck-your-miracle-year)
+- [Don&#39;t Build Useless Features](https://staysaasy.com/product/2022/04/16/battlefield-product-management-dont-build-useless-features.html)
+- [I Made an Entire Call Center Angry over Losing $94,000](https://www.youtube.com/watch?v=YQy0nBzdAYI)
+- [Vampire Attack Twitter](https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
