@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Handbook Improvement Survey](https://marc.info/?l=freebsd-announce&m=165016689418229&w=2)
 - [Aesthetic &lpar;YC S18&rpar; Is Hiring a Full-Stack Web Engineer](https://jobs.ashbyhq.com/aesthetic/335f5c64-c991-4a18-a696-b9c457217106)
 - [Stabilization of gamma sulfur enables 4000 cycle Li-S batteries [pdf]](https://www.nature.com/articles/s42004-022-00626-2.pdf)
-- [Show HN: Subreply News &lpar;Beta&rpar;](https://subreply.com/news)
-- [Why Are Some Egg Yolks So Orange?](https://www.foodunfolded.com/article/why-are-some-egg-yolks-so-orange)
-- [Heated Debate Rises over Hints of Superconductivity Above Boiling Temperatures](https://www.insidescience.org/news/heated-debate-rises-over-hints-superconductivity-above-boiling-temperatures)
+- [100,000 Detroit homeowners illegally taxed $600M still waiting to be compensated](https://www.metrotimes.com/news/detroit-illegally-overtaxed-homeowners-600m-theyre-still-waiting-to-be-compensated-29800877)
+- [The Joel test for remote work](https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
