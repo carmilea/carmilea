@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The games Nintendo didn&#39;t want you to play: Tengen](https://nicole.express/2022/the-center-point-can-not-hold.html)
+- [What Does “Shitty Job” Mean in the Low-Skill, Low-Pay World?](https://www.residentcontrarian.com/p/what-does-shitty-job-mean-in-the)
+- [Charlie&#39;s Diary: Why I Hate Star Trek &lpar;2009&rpar;](http://www.antipope.org/charlie/blog-static/2009/10/why_i_hate_star_trek.html)
 - [No patches for digital audio releases](https://mcraiha.github.io/spotify/youtube/dark/knight/spectre/patch/hans/zimmer/sam/smith/2022/04/17/no-patches-for-digital-audio-releases.html)
 - [Fuck Your Miracle Year](https://rogersbacon.substack.com/p/fuck-your-miracle-year)
-- [Don&#39;t Build Useless Features](https://staysaasy.com/product/2022/04/16/battlefield-product-management-dont-build-useless-features.html)
-- [I Made an Entire Call Center Angry over Losing $94,000](https://www.youtube.com/watch?v=YQy0nBzdAYI)
-- [Vampire Attack Twitter](https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
