@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The money I saved as a child would buy one picogram of gold today](https://twitter.com/dbasch/status/1515737443395383299)
 - [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [Running e2e tests 10x faster using firecracker VMs](https://webapp.io/blog/github-actions-10x-faster-with-firecracker/)
 - [Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi](https://github.com/probonopd/MiniDexed)
 - [Beanstalk Farms stablecoin project loses $182M to exploit](https://web3isgoinggreat.com/?id=beanstalk-farms-stablecoin-project-loses-182-million-to-exploit)
-- [The CLI for your next Chrome Extension](https://github.com/dutiyesh/chrome-extension-cli)
-- [Choosing the Right Integers](https://www.thecodedmessage.com/posts/programming-integers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
