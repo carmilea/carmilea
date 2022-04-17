@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
 - [Sorry, collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
-- [Tell HN: Happy Resurrection Sunday](https://news.ycombinator.com/item?id=31057454)
 - [Is Rust Web Yet?](https://www.arewewebyet.org/)
 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
 - [A New Map of All the Particles and Forces &lpar;2020&rpar;](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
