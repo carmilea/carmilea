@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi](https://github.com/probonopd/MiniDexed)
+- [Beanstalk Farms stablecoin project loses $182M to exploit](https://web3isgoinggreat.com/?id=beanstalk-farms-stablecoin-project-loses-182-million-to-exploit)
 - [The CLI for your next Chrome Extension](https://github.com/dutiyesh/chrome-extension-cli)
-- [Zero-Knowledge Middleboxes: enforce network policies on encrypted traffic](https://eprint.iacr.org/2021/1022)
-- [We’re taking down the paywall on QZ.com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com/)
-- [“YouTube-dl” and “Pirate Bay” back on DDG](https://fosstodon.org/@rudolf/108147439615842718)
-- [The games Nintendo didn&#39;t want you to play: Tengen](https://nicole.express/2022/the-center-point-can-not-hold.html)
+- [Choosing the Right Integers](https://www.thecodedmessage.com/posts/programming-integers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
