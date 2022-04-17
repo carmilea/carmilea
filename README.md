@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The CLI for your next Chrome Extension](https://github.com/dutiyesh/chrome-extension-cli)
+- [Zero-Knowledge Middleboxes: enforce network policies on encrypted traffic](https://eprint.iacr.org/2021/1022)
+- [We’re taking down the paywall on QZ.com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com/)
+- [“YouTube-dl” and “Pirate Bay” back on DDG](https://fosstodon.org/@rudolf/108147439615842718)
 - [The games Nintendo didn&#39;t want you to play: Tengen](https://nicole.express/2022/the-center-point-can-not-hold.html)
-- [What Does “Shitty Job” Mean in the Low-Skill, Low-Pay World?](https://www.residentcontrarian.com/p/what-does-shitty-job-mean-in-the)
-- [Charlie&#39;s Diary: Why I Hate Star Trek &lpar;2009&rpar;](http://www.antipope.org/charlie/blog-static/2009/10/why_i_hate_star_trek.html)
-- [No patches for digital audio releases](https://mcraiha.github.io/spotify/youtube/dark/knight/spectre/patch/hans/zimmer/sam/smith/2022/04/17/no-patches-for-digital-audio-releases.html)
-- [Fuck Your Miracle Year](https://rogersbacon.substack.com/p/fuck-your-miracle-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
