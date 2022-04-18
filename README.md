@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering interview question I’ve ever gotten, Part 1](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
-- [The Uber Bubble: Why Is a Company That Lost Billions Claimed to Be Successful?](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
+- [Ask HN: Are you lost / confused / stuck? I can try to help](https://news.ycombinator.com/item?id=31065876)
+- [Richard Stallman – “The state of the Free Software movement” – April 13, 2022](https://lunduke.substack.com/p/richard-stallman-the-state-of-the)
+- [The best engineering interview question I&#39;ve ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- [The Uber Bubble](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
 - [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [The New Old Way of Learning Languages &lpar;2008&rpar;](https://theamericanscholar.org/the-new-old-way-of-learning-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
