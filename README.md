@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where in the galaxy will we mine lithium?](https://www.sciof.fi/lithium-beyond-earth/)
+- [Eight points for one team is two points for another team](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
 - [Nobody Wants Your Fancy Algorithm](https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm)
 - [Ask HN: What Happened to Lambda-the-Ultimate.org?](https://news.ycombinator.com/item?id=31073922)
 - [The Lezer Parser System](https://lezer.codemirror.net)
-- [How does Apple achieve both secrecy and quality for a release?](https://news.ycombinator.com/item?id=31073754)
-- [SimpleHash &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
