@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six companies control 90% of what you read, watch, and hear](https://rebeccastrong.substack.com/p/big-media-big-conflicts-of-interest)
 - [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
 - [SDF Public Access Unix System](https://sdf.org)
-- [Why the Arrest of a Lebanese Doctor Should Terrify Every Visitor to the UAE](https://insidearabia.com/why-the-arrest-of-a-lebanese-doctor-should-terrify-every-visitor-to-the-uae/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)
 - [Synchronous Processors](https://www.yodaiken.com/2016/05/11/synchronous-processors/)
 <!-- BLOG-POST-LIST:END -->
