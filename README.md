@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
+- [SDF Public Access Unix System](https://sdf.org)
 - [Why the Arrest of a Lebanese Doctor Should Terrify Every Visitor to the UAE](https://insidearabia.com/why-the-arrest-of-a-lebanese-doctor-should-terrify-every-visitor-to-the-uae/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)
-- [Smartphones are shit: the case for LineageOS and the PinePhone](https://jleightcap.srht.site/blog/openphone.html)
-- [CVE-2022-1271: arbitrary file write vulnerability in GNU gzip&#39;s zgrep utility](https://access.redhat.com/security/cve/cve-2022-1271)
-- [Tri-County becomes the first electric co-op in Florida to tackle FTTH](https://www.fiercetelecom.com/broadband/tri-county-becomes-first-electric-co-op-florida-tackle-ftth)
+- [Synchronous Processors](https://www.yodaiken.com/2016/05/11/synchronous-processors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
