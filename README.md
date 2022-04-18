@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can this happen without the phone covertly listening?](https://news.ycombinator.com/item?id=31070161)
-- [Americans Are Drowning in Spam](https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html)
-- [Toyota Warns About Rushing into Electrification](https://www.motorious.com/articles/news/toyota-warns-about-rushing-electrification/)
+- [Florida rejects 54 math books, claiming critical race theory appeared in some](https://www.npr.org/2022/04/18/1093277449/florida-mathematics-textbooks)
+- [No one knows why the most used spacecraft propulsion system works](https://twitter.com/lougrims/status/1516013489722216450)
+- [7-Zip up to 21.07 on Windows allows privilege escalation and command execution](https://github.com/kagancapar/CVE-2022-29072)
+- [Americans are drowning in spam](https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html)
 - [Seize the Means of Computation](https://www.promarket.org/2022/04/15/seize-the-means-of-computation/)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Cloud Engineer &lpar;K8s, Argocd, Terraform&rpar;&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
