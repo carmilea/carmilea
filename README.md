@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vancouver proposes 10k-dollar annual fee for gas stations without EV charging](https://driving.ca/auto-news/local-content/vancouver-proposes-10000-dollar-annual-fee-for-gas-stations-without-ev-charging)
-- [Europe&#39;s now-drowned &#39;lost world&#39; &amp; the 25m-high tsunami that finished it off](https://everythingisamazing.substack.com/p/europes-lost-world-and-the-megaflood)
-- [Beanstalk cryptocurrency loses $182m of reserves in flash ‘attack’](https://www.theguardian.com/technology/2022/apr/18/beanstalk-cryptocurrency-loses-182m-of-reserves-in-flash-attack)
-- [1x Programming](https://tim.mcnamara.nz/post/667318290442600448/1x-programming)
-- [Jack Dorsey’s $2.9M NFT dropped 99% in value](https://www.artnews.com/art-news/news/jack-dorsey-nft-sale-1234625508/)
+- [SimpleHash &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+- [The Learjet era ends with a final delivery](https://www.flyingmag.com/the-learjet-era-ends-with-a-final-delivery/)
+- [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
+- [Where Linux&#39;s load average comes from in the kernel](https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom)
+- [Ask HN: Why has DMCA Circumvention Prohibition not been repealed?](https://news.ycombinator.com/item?id=31072931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
