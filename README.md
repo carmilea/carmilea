@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security experts declare all Proton apps secure after security audit](https://protonmail.com/blog/security-audit-all-proton-apps/)
 - [Space Math](https://aimath.org/~farmer/spacemath/)
 - [M1 Thunderbolt ports don’t fully support USB 3.1 Gen 2](https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/)
 - [Mental speed is high until age 60](https://www.nature.com/articles/s41562-021-01282-7)
-- [The 1936-1937 Purge of Soviet Astronomers](https://www.jstor.org/stable/2500602)
-- [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)
+- [The 1936-1937 Purge of Soviet Astronomers &lpar;1991&rpar;](https://www.jstor.org/stable/2500602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
