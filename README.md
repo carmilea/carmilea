@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Types of Deceptive Design](https://www.deceptive.design/types)
 - [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
-- [Jack Dorsey: Twitter Board “consistently the dysfunction of the company”](https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/)
 - [Cytopia: Open-source city simulator with pixel-art graphics](https://github.com/CytopiaTeam/Cytopia)
 - [Richard Stallman – “The state of the Free Software movement” – April 13, 2022](https://lunduke.substack.com/p/richard-stallman-the-state-of-the)
+- [The best engineering interview question I&#39;ve ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
