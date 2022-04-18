@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Giggle – A self-hosted customizable and ad-free Google Search interface](https://github.com/dan-lovelace/giggle)
 - [The Musl Preprocessor Debate](https://catfox.life/2022/04/16/the-musl-preprocessor-debate/)
 - [Types of Deceptive Design](https://www.deceptive.design/types)
 - [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
-- [Jack Dorsey: Twitter Board “consistently the dysfunction of the company”](https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/)
 - [Cytopia: Open-source city simulator with pixel-art graphics](https://github.com/CytopiaTeam/Cytopia)
 <!-- BLOG-POST-LIST:END -->
 
