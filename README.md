@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida rejects 54 math books, claiming critical race theory appeared in some](https://www.npr.org/2022/04/18/1093277449/florida-mathematics-textbooks)
+- [Jack Dorsey’s $2.9 M. NFT Dropped 99% in Value. Is the NFT Market Crumbling?](https://www.artnews.com/art-news/news/jack-dorsey-nft-sale-1234625508/)
+- [Workers at Apple&#39;s NYC store have started collecting signatures to form a union](https://www.businessinsider.com/apple-store-workers-unionizing-grand-central-2022-4)
+- [North Korea Diversifies into Ethereum via Record Crypto Hack](https://www.thismorningonchain.com/articles/defi/north-korea-diversifies-crypto-portfolio-via-largest-crypto-hack/)
+- [When You Get Locked Out of Your Google Account, What Do You Do? &lpar;2021&rpar;](https://www.linkedin.com/pulse/when-you-get-locked-out-your-google-account-what-do-desirea-calvillo)
 - [No one knows why the most used spacecraft propulsion system works](https://twitter.com/lougrims/status/1516013489722216450)
-- [7-Zip up to 21.07 on Windows allows privilege escalation and command execution](https://github.com/kagancapar/CVE-2022-29072)
-- [Americans are drowning in spam](https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html)
-- [Seize the Means of Computation](https://www.promarket.org/2022/04/15/seize-the-means-of-computation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
