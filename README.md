@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How can this happen without the phone covertly listening?](https://news.ycombinator.com/item?id=31070161)
+- [Americans Are Drowning in Spam](https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html)
+- [Toyota Warns About Rushing into Electrification](https://www.motorious.com/articles/news/toyota-warns-about-rushing-electrification/)
+- [Seize the Means of Computation](https://www.promarket.org/2022/04/15/seize-the-means-of-computation/)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Cloud Engineer &lpar;K8s, Argocd, Terraform&rpar;&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
-- [Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/)
-- [Security experts declare all Proton apps secure after security audit](https://protonmail.com/blog/security-audit-all-proton-apps/)
-- [Space Math](https://aimath.org/~farmer/spacemath/)
-- [M1 Thunderbolt ports don’t fully support USB 3.1 Gen 2](https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
