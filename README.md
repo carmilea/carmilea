@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jack Dorsey’s $2.9 M. NFT Dropped 99% in Value. Is the NFT Market Crumbling?](https://www.artnews.com/art-news/news/jack-dorsey-nft-sale-1234625508/)
-- [Workers at Apple&#39;s NYC store have started collecting signatures to form a union](https://www.businessinsider.com/apple-store-workers-unionizing-grand-central-2022-4)
-- [North Korea Diversifies into Ethereum via Record Crypto Hack](https://www.thismorningonchain.com/articles/defi/north-korea-diversifies-crypto-portfolio-via-largest-crypto-hack/)
-- [When You Get Locked Out of Your Google Account, What Do You Do? &lpar;2021&rpar;](https://www.linkedin.com/pulse/when-you-get-locked-out-your-google-account-what-do-desirea-calvillo)
-- [No one knows why the most used spacecraft propulsion system works](https://twitter.com/lougrims/status/1516013489722216450)
+- [Vancouver proposes 10k-dollar annual fee for gas stations without EV charging](https://driving.ca/auto-news/local-content/vancouver-proposes-10000-dollar-annual-fee-for-gas-stations-without-ev-charging)
+- [Europe&#39;s now-drowned &#39;lost world&#39; &amp; the 25m-high tsunami that finished it off](https://everythingisamazing.substack.com/p/europes-lost-world-and-the-megaflood)
+- [Beanstalk cryptocurrency loses $182m of reserves in flash ‘attack’](https://www.theguardian.com/technology/2022/apr/18/beanstalk-cryptocurrency-loses-182m-of-reserves-in-flash-attack)
+- [1x Programming](https://tim.mcnamara.nz/post/667318290442600448/1x-programming)
+- [Jack Dorsey’s $2.9M NFT dropped 99% in value](https://www.artnews.com/art-news/news/jack-dorsey-nft-sale-1234625508/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
