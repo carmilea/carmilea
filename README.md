@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
+- [A Helicopter Will Try to Catch a Rocket Booster Mid-Air](https://spectrum.ieee.org/rocket-booster-rocket-lab)
 - [Where in the galaxy will we mine lithium?](https://www.sciof.fi/lithium-beyond-earth/)
+- [MacBooks seems to be the only viable option these days](https://news.ycombinator.com/item?id=31074881)
 - [Eight points for one team is two points for another team](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
-- [Nobody Wants Your Fancy Algorithm](https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm)
-- [Ask HN: What Happened to Lambda-the-Ultimate.org?](https://news.ycombinator.com/item?id=31073922)
-- [The Lezer Parser System](https://lezer.codemirror.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
