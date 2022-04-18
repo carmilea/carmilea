@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobody Wants Your Fancy Algorithm](https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm)
+- [Ask HN: What Happened to Lambda-the-Ultimate.org?](https://news.ycombinator.com/item?id=31073922)
+- [The Lezer Parser System](https://lezer.codemirror.net)
+- [How does Apple achieve both secrecy and quality for a release?](https://news.ycombinator.com/item?id=31073754)
 - [SimpleHash &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-- [The Learjet era ends with a final delivery](https://www.flyingmag.com/the-learjet-era-ends-with-a-final-delivery/)
-- [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
-- [Where Linux&#39;s load average comes from in the kernel](https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom)
-- [Ask HN: Why has DMCA Circumvention Prohibition not been repealed?](https://news.ycombinator.com/item?id=31072931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
