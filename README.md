@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Math](https://aimath.org/~farmer/spacemath/)
+- [Mental speed is high until age 60](https://www.nature.com/articles/s41562-021-01282-7)
+- [The 1936-1937 Purge of Soviet Astronomers](https://www.jstor.org/stable/2500602)
 - [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)
 - [Show HN: Giggle – A self-hosted customizable and ad-free Google Search interface](https://github.com/dan-lovelace/giggle)
-- [The Musl Preprocessor Debate](https://catfox.life/2022/04/16/the-musl-preprocessor-debate/)
-- [Types of Deceptive Design](https://www.deceptive.design/types)
-- [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
