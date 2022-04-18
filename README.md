@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are you lost / confused / stuck? I can try to help](https://news.ycombinator.com/item?id=31065876)
+- [Types of Deceptive Design](https://www.deceptive.design/types)
+- [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
+- [Jack Dorsey: Twitter Board “consistently the dysfunction of the company”](https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/)
+- [Cytopia: Open-source city simulator with pixel-art graphics](https://github.com/CytopiaTeam/Cytopia)
 - [Richard Stallman – “The state of the Free Software movement” – April 13, 2022](https://lunduke.substack.com/p/richard-stallman-the-state-of-the)
-- [The best engineering interview question I&#39;ve ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
-- [The Uber Bubble](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
-- [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
