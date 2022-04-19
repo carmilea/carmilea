@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is Substack so popular?](https://news.ycombinator.com/item?id=31083165)
-- [Ask HN: How do you keep track of software requirements and test them?](https://news.ycombinator.com/item?id=31083131)
-- [Everyone gets numbers wrong, even the New York Times](https://climateer.substack.com/p/numbers)
-- [California considers a shortened, 32-hour workweek for larger companies](https://www.cnbc.com/2022/04/12/california-considers-a-32-hour-workweek-for-larger-companies.html)
-- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/Xz4YaAK-senior-backend-engineer)
+- [How we upgraded our 4TB PostgreSQL database](https://retool.com/blog/how-we-upgraded-postgresql-database/)
+- [Cheat Engine contains GPL-licensed code but disallows commercial use](https://github.com/cheat-engine/cheat-engine/pull/1872)
+- [Show HN: Emacs Configuration Generator](https://emacs.amodernist.com/)
+- [The Tech Bubble That Never Burst](https://www.nytimes.com/interactive/2022/04/19/technology/tech-startup-bubble.html)
+- [Show HN: Make Your PDF Look Scanned in Browser](https://lookscanned.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
