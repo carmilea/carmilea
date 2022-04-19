@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How we upgraded our 4TB PostgreSQL database](https://retool.com/blog/how-we-upgraded-postgresql-database/)
-- [Cheat Engine contains GPL-licensed code but disallows commercial use](https://github.com/cheat-engine/cheat-engine/pull/1872)
-- [Show HN: Emacs Configuration Generator](https://emacs.amodernist.com/)
-- [The Tech Bubble That Never Burst](https://www.nytimes.com/interactive/2022/04/19/technology/tech-startup-bubble.html)
-- [Show HN: Make Your PDF Look Scanned in Browser](https://lookscanned.io)
+- [De-AMP: Cutting Out Google](https://brave.com/privacy-updates/18-de-amp/)
+- [Serially-attached SD for old PalmOS devices](http://dmitry.gr/?r=05.Projects&proj=32.%20SASD)
+- [Hathora: Multiplayer Made Easy](https://blog.hathora.dev/introducing-hathora/)
+- [Local detection of dark matter with future missions to Uranus and Neptune](https://arxiv.org/abs/2204.07242)
+- [How DALL-E 2 Works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
