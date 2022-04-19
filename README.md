@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six companies control 90% of what you read, watch, and hear](https://rebeccastrong.substack.com/p/big-media-big-conflicts-of-interest)
+- [Build OCI images using APK directly without Dockerfile](https://github.com/chainguard-dev/apko)
+- [Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
+- [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
+- [As Lithium Drilling Advances at the Salton Sea, Researchers Work Out the Details](https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details)
 - [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
-- [SDF Public Access Unix System](https://sdf.org)
-- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)
-- [Synchronous Processors](https://www.yodaiken.com/2016/05/11/synchronous-processors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
