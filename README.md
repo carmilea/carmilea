@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian &amp; Firmware – what are we going to do about it?](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
+- [Wargame Simulating the Sinking of the Moskva](https://weaponsrelease.com/2022/04/18/simulating-the-sinking-of-the-moska/)
+- [Debian and firmware](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
 - [Nixery – Docker images on the fly with Nix](https://nixery.dev/)
-- [Build OCI images using APK directly without Dockerfile](https://github.com/chainguard-dev/apko)
 - [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
 - [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
 <!-- BLOG-POST-LIST:END -->
