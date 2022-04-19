@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone gets numbers wrong, even the New York Times](https://climateer.substack.com/p/numbers)
+- [California considers a shortened, 32-hour workweek for larger companies](https://www.cnbc.com/2022/04/12/california-considers-a-32-hour-workweek-for-larger-companies.html)
 - [The tank is dead: Long live the javelin, the switchblade, the ... ?](https://warontherocks.com/2022/04/the-tank-is-dead-long-live-the-javelin-the-switchblade-the/)
 - [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/Xz4YaAK-senior-backend-engineer)
 - [Canada bans foreign home buyers for two years](https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html)
-- [The Machiavellians of the Animal Kingdom](https://nautil.us/the-machiavellians-of-the-animal-kingdom-16090/)
-- [Japan invents ‘electric’ chopsticks that make food seem more salty](https://www.theguardian.com/world/2022/apr/19/saline-solution-japan-invents-electric-chopsticks-that-make-food-seem-more-salty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
