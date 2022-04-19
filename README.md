@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Null Island, the most real of fictional places [pdf]](https://arxiv.org/abs/2204.08383)
-- [Oggify: Download Songs Directly from Spotify](https://github.com/pisto/oggify)
-- [Dilution of whisky – the molecular perspective &lpar;2017&rpar;](https://www.nature.com/articles/s41598-017-06423-5)
-- [UserGems &lpar;YC S14&rpar; Is Hiring a VP of Engineering &lpar;Europe / East Coast&rpar;](https://www.usergems.com/careers/vp-of-engineering)
-- [Debian and firmware](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
+- [Canada bans foreign home buyers for two years](https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html)
+- [The Machiavellians of the Animal Kingdom](https://nautil.us/the-machiavellians-of-the-animal-kingdom-16090/)
+- [Japan invents ‘electric’ chopsticks that make food seem more salty](https://www.theguardian.com/world/2022/apr/19/saline-solution-japan-invents-electric-chopsticks-that-make-food-seem-more-salty)
+- [Persuasion and the Prestige Paradox](https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/)
+- [Increasing the Rate of Experimentation](https://arkid.substack.com/p/increasing-rate-of-experimentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
