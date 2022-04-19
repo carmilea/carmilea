@@ -55,7 +55,7 @@
 - [Debian and firmware](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
 - [Nixery – Docker images on the fly with Nix](https://nixery.dev/)
 - [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
-- [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
+- [Lithium drilling advances at the Salton Sea](https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details)
 <!-- BLOG-POST-LIST:END -->
 
 ---
