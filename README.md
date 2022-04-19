@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Debian &amp; Firmware – what are we going to do about it?](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
+- [Nixery – Docker images on the fly with Nix](https://nixery.dev/)
 - [Build OCI images using APK directly without Dockerfile](https://github.com/chainguard-dev/apko)
-- [Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
+- [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
 - [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
-- [As Lithium Drilling Advances at the Salton Sea, Researchers Work Out the Details](https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details)
-- [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
