@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [De-AMP: Cutting Out Google](https://brave.com/privacy-updates/18-de-amp/)
+- [Massdriver &lpar;YC W22&rpar; Is Hiring a Principal Elixir Engineer](https://www.ycombinator.com/companies/massdriver/jobs/6Jpy56U-principal-elixir-engineer)
+- [I Just Hit $100k/Yr on GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
+- [De-AMP: Cutting out Google and enhancing privacy](https://brave.com/privacy-updates/18-de-amp/)
 - [Serially-attached SD for old PalmOS devices](http://dmitry.gr/?r=05.Projects&proj=32.%20SASD)
 - [Hathora: Multiplayer Made Easy](https://blog.hathora.dev/introducing-hathora/)
-- [Local detection of dark matter with future missions to Uranus and Neptune](https://arxiv.org/abs/2204.07242)
-- [How DALL-E 2 Works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
