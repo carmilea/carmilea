@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s more to mathematics than rigour and proofs &lpar;2007&rpar;](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
-- [Google Docs will “warn you away from inappropriate words”?](https://twitter.com/pmarca/status/1516463416885399554)
-- [WebAssembly 2.0 First Working Draft](https://www.w3.org/TR/wasm-core-2/)
-- [Massdriver &lpar;YC W22&rpar; is hiring a principal Elixir engineer](https://www.ycombinator.com/companies/massdriver/jobs/6Jpy56U-principal-elixir-engineer)
-- [I Just Hit $100k/Yr on GitHub Sponsors &lpar;2020&rpar;](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
+- [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
+- [Minisleep – A Tiny Wiki Engine](http://halestrom.net/darksleep/software/minisleep/)
+- [Stitch It in Time: GAN-Based Facial Editing of Real Videos](https://stitch-time.github.io/)
+- [Bad but interesting mathematical notation idea](https://blog.plover.com/math/se/notation.html)
+- [Leaked Game Boy emulators for Switch were made by Nintendo, experts suggest](https://arstechnica.com/gaming/2022/04/leaked-game-boy-emulators-for-switch-were-made-by-nintendo-experts-suggest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
