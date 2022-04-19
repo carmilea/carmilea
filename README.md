@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Null Island, the most real of fictional places [pdf]](https://arxiv.org/abs/2204.08383)
+- [Oggify: Download Songs Directly from Spotify](https://github.com/pisto/oggify)
+- [Dilution of whisky – the molecular perspective &lpar;2017&rpar;](https://www.nature.com/articles/s41598-017-06423-5)
 - [UserGems &lpar;YC S14&rpar; Is Hiring a VP of Engineering &lpar;Europe / East Coast&rpar;](https://www.usergems.com/careers/vp-of-engineering)
-- [Wargame Simulating the Sinking of the Moskva](https://weaponsrelease.com/2022/04/18/simulating-the-sinking-of-the-moska/)
 - [Debian and firmware](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
-- [Nixery – Docker images on the fly with Nix](https://nixery.dev/)
-- [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
