@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Docs will “warn you away from inappropriate words”](https://twitter.com/pmarca/status/1516463416885399554)
-- [Massdriver &lpar;YC W22&rpar; Is Hiring a Principal Elixir Engineer](https://www.ycombinator.com/companies/massdriver/jobs/6Jpy56U-principal-elixir-engineer)
+- [There’s more to mathematics than rigour and proofs &lpar;2007&rpar;](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+- [Google Docs will “warn you away from inappropriate words”?](https://twitter.com/pmarca/status/1516463416885399554)
+- [WebAssembly 2.0 First Working Draft](https://www.w3.org/TR/wasm-core-2/)
+- [Massdriver &lpar;YC W22&rpar; is hiring a principal Elixir engineer](https://www.ycombinator.com/companies/massdriver/jobs/6Jpy56U-principal-elixir-engineer)
 - [I Just Hit $100k/Yr on GitHub Sponsors &lpar;2020&rpar;](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
-- [De-AMP: Cutting out Google and enhancing privacy](https://brave.com/privacy-updates/18-de-amp/)
-- [Serially-attached SD for old PalmOS devices](http://dmitry.gr/?r=05.Projects&proj=32.%20SASD)
 <!-- BLOG-POST-LIST:END -->
 
 ---
