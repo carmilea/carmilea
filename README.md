@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is Substack so popular?](https://news.ycombinator.com/item?id=31083165)
+- [Ask HN: How do you keep track of software requirements and test them?](https://news.ycombinator.com/item?id=31083131)
 - [Everyone gets numbers wrong, even the New York Times](https://climateer.substack.com/p/numbers)
 - [California considers a shortened, 32-hour workweek for larger companies](https://www.cnbc.com/2022/04/12/california-considers-a-32-hour-workweek-for-larger-companies.html)
-- [The tank is dead: Long live the javelin, the switchblade, the ... ?](https://warontherocks.com/2022/04/the-tank-is-dead-long-live-the-javelin-the-switchblade-the/)
 - [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/Xz4YaAK-senior-backend-engineer)
-- [Canada bans foreign home buyers for two years](https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
