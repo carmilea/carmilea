@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memray is a memory profiler for Python by Bloomberg](https://github.com/bloomberg/memray)
+- [Help Dover &lpar;YC S19&rpar; build the next-gen recruiting platform](https://www.dover.com/open-roles/software-engineer)
+- [Show HN: PyInpaint, a lightweight image inpainting tool written in Python](https://github.com/aGIToz/PyInpaint)
+- [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
 - [Is growth linear, not exponential?](https://rootsofprogress.org/is-growth-linear-not-exponential)
-- [Videolan.org robots.txt](https://www.videolan.org/robots.txt)
-- [Why crypto gaming is not the future](https://blakeir.com/reading-list/march-2022/why-crypto-gaming-is-not-the-future)
 - [AV Linux MX Edition](http://www.bandshed.net/avlinux/)
 <!-- BLOG-POST-LIST:END -->
 
