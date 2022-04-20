@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Which new skills for a data science career?](https://news.ycombinator.com/item?id=31093910)
 - [Opvia &lpar;YC S20&rpar; Is Hiring in London](https://airtable.com/shrhv1yYtcMtPskra)
 - [QEMU Version 7.0.0 Released](https://www.qemu.org/2022/04/19/qemu-7-0-0/)
 - [Double ridge formation over shallow water sills on Jupiter’s moon Europa](https://www.nature.com/articles/s41467-022-29458-3)
 - [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
-- [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
