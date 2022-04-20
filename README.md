@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Dover &lpar;YC S19&rpar; build the next-gen recruiting platform](https://www.dover.com/open-roles/software-engineer)
-- [Show HN: PyInpaint, a lightweight image inpainting tool written in Python](https://github.com/aGIToz/PyInpaint)
+- [Emilie &lpar;2010&rpar;](https://themillions.com/2010/04/emilie.html)
+- [California grid set record of 97% renewable power on April 3](https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/)
+- [Dover &lpar;YC S19&rpar; is hiring to build a next-gen recruiting platform](https://www.dover.com/open-roles/software-engineer)
+- [Ask HN: Why does this image look 3D?](https://news.ycombinator.com/item?id=31102152)
 - [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
-- [Is growth linear, not exponential?](https://rootsofprogress.org/is-growth-linear-not-exponential)
-- [AV Linux MX Edition](http://www.bandshed.net/avlinux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
