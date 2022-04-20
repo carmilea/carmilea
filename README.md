@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
-- [Jepsen-style testing of rqlite, the distributed DB built on Raft and SQLite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
+- [Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
 - [The absurd complexity of server-side rendering](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
