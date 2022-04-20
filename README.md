@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation](https://github.com/NASA-SW-VnV/ikos)
+- [Crypto bug of the year: ECDSA signatures broken in Java](https://twitter.com/tqbf/status/1516570590211153922)
 - [State Machine Replication, and Why You Should Care](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/)
 - [Daily &lpar;YC W16&rpar; Is Hiring a Technical Product Marketing Manager](https://boards.greenhouse.io/daily/jobs/4356195004)
-- [Candidates can signal sincerity in an era of cynicism](http://www.tessexperiments.org/study/clifford1222)
-- [Changing std:sort at Google’s Scale and Beyond](https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/)
-- [U.S. forgives 40k student loans](https://www.reuters.com/world/us/us-forgives-40000-student-loans-provides-aid-millions-more-2022-04-19/)
+- [Are You the Asshole? – AI Powered AITA Answer Bot](https://areyoutheasshole.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
