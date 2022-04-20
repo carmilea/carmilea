@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Validating Email Addresses with Regex &lpar;2012&rpar;](https://davidcel.is/posts/stop-validating-email-addresses-with-regex/)
+- [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
 - [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
 - [Utilities Want to Convert Coal Plants to Nuclear; Skeptics Abound](https://www.wsj.com/articles/utilities-want-to-convert-coal-plants-to-nuclear-skeptics-abound-11650279600)
 - [Detailed Assemblies for an Airtight Small Home](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home)
