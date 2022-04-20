@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I get my boyfriend to stop digging his tunnel?](https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/)
-- [Marriage Markets &lpar;and Muscularity&rpar;](https://robkhenderson.substack.com/p/marriage-markets-and-muscularity)
-- [Java 15 introduced a cryptographic vulnerability](https://www.itnews.com.au/news/java-15-introduced-a-cryptographic-vulnerability-578958)
-- [Fly.io &lpar;YC W20&rpar; Is Hiring Platform Engineers](https://fly.io/jobs/platform-product-engineer/)
-- [Results from first US trial of genetically modified mosquitoes](https://www.nature.com/articles/d41586-022-01070-x)
+- [The Swimming of a Dead Fish &lpar;2018&rpar;](https://fyfluiddynamics.com/2018/07/when-i-was-a-child-my-father-would-take-me-trout/)
+- [Forgetting a Child in a Car Is a Horrifying Mistake. Is It a Crime? &lpar;2009&rpar;](https://www.washingtonpost.com/lifestyle/magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html)
+- [Show HN: I built a website to find nearby cafes to work remotely from](https://workmode.co)
+- [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
+- [Amazon releases 51-language dataset for language understanding](https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
