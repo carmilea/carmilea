@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Validating Email Addresses with Regex &lpar;2012&rpar;](https://davidcel.is/posts/stop-validating-email-addresses-with-regex/)
 - [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
 - [Utilities Want to Convert Coal Plants to Nuclear; Skeptics Abound](https://www.wsj.com/articles/utilities-want-to-convert-coal-plants-to-nuclear-skeptics-abound-11650279600)
 - [Detailed Assemblies for an Airtight Small Home](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home)
-- [Nvidia: GPUs can do better chip design in a few days than 10 man year](https://www.hpcwire.com/2022/04/18/nvidia-rd-chief-on-how-ai-is-improving-chip-design/)
-- [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
+- [Nvidia R&amp;D chief on how AI is improving chip design](https://www.hpcwire.com/2022/04/18/nvidia-rd-chief-on-how-ai-is-improving-chip-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
