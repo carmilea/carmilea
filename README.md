@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Candidates can signal sincerity in an era of cynicism](http://www.tessexperiments.org/study/clifford1222)
+- [Changing std:sort at Google’s Scale and Beyond](https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/)
+- [U.S. forgives 40k student loans](https://www.reuters.com/world/us/us-forgives-40000-student-loans-provides-aid-millions-more-2022-04-19/)
 - [The Swimming of a Dead Fish &lpar;2018&rpar;](https://fyfluiddynamics.com/2018/07/when-i-was-a-child-my-father-would-take-me-trout/)
-- [Forgetting a Child in a Car Is a Horrifying Mistake. Is It a Crime? &lpar;2009&rpar;](https://www.washingtonpost.com/lifestyle/magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html)
-- [Show HN: I built a website to find nearby cafes to work remotely from](https://workmode.co)
-- [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
-- [Amazon releases 51-language dataset for language understanding](https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding)
+- [A 4-year-old can run errands alone and not just on reality TV](https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
