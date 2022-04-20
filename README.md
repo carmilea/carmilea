@@ -55,7 +55,7 @@
 - [QEMU Version 7.0.0 Released](https://www.qemu.org/2022/04/19/qemu-7-0-0/)
 - [Double ridge formation over shallow water sills on Jupiter’s moon Europa](https://www.nature.com/articles/s41467-022-29458-3)
 - [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
-- [Global population is crashing, soaring and moving](https://www.nature.com/articles/d41586-022-00926-6)
+- [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
