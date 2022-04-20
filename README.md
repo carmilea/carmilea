@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How can I get my boyfriend to stop digging his tunnel?](https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/)
+- [Marriage Markets &lpar;and Muscularity&rpar;](https://robkhenderson.substack.com/p/marriage-markets-and-muscularity)
 - [Java 15 introduced a cryptographic vulnerability](https://www.itnews.com.au/news/java-15-introduced-a-cryptographic-vulnerability-578958)
-- [Ask HN: What gives Cloudflare the right to takedown apps revealing site real IP?](https://news.ycombinator.com/item?id=31095709)
 - [Fly.io &lpar;YC W20&rpar; Is Hiring Platform Engineers](https://fly.io/jobs/platform-product-engineer/)
 - [Results from first US trial of genetically modified mosquitoes](https://www.nature.com/articles/d41586-022-01070-x)
-- [That time Sony installed rootkit software on thousands of computers [video]](https://www.youtube.com/watch?v=imMRzBzQm1U)
 <!-- BLOG-POST-LIST:END -->
 
 ---
