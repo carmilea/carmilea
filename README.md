@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State Machine Replication, and Why You Should Care](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/)
+- [Daily &lpar;YC W16&rpar; Is Hiring a Technical Product Marketing Manager](https://boards.greenhouse.io/daily/jobs/4356195004)
 - [Candidates can signal sincerity in an era of cynicism](http://www.tessexperiments.org/study/clifford1222)
 - [Changing std:sort at Google’s Scale and Beyond](https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/)
 - [U.S. forgives 40k student loans](https://www.reuters.com/world/us/us-forgives-40000-student-loans-provides-aid-millions-more-2022-04-19/)
-- [The Swimming of a Dead Fish &lpar;2018&rpar;](https://fyfluiddynamics.com/2018/07/when-i-was-a-child-my-father-would-take-me-trout/)
-- [A 4-year-old can run errands alone and not just on reality TV](https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
