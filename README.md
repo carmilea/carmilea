@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydration is pure overhead – by Misko Hevery](https://www.builder.io/blog/hydration-is-pure-overhead)
+- [Guido van Rossum: Let Web3 die in a flaming ball of fire](https://twitter.com/gvanrossum/status/1508959260905918465)
+- [BCI lets completely “locked-in” man communicate with his son, ask for a beer](https://arstechnica.com/science/2022/04/bci-lets-completely-locked-in-man-communicate-with-his-son-ask-for-a-beer/)
 - [IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation](https://github.com/NASA-SW-VnV/ikos)
 - [Crypto bug of the year: ECDSA signatures broken in Java](https://twitter.com/tqbf/status/1516570590211153922)
-- [State Machine Replication, and Why You Should Care](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/)
-- [Daily &lpar;YC W16&rpar; Is Hiring a Technical Product Marketing Manager](https://boards.greenhouse.io/daily/jobs/4356195004)
-- [Are You the Asshole? – AI Powered AITA Answer Bot](https://areyoutheasshole.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
