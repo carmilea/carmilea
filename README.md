@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Capitol evacuated due to possible aircraft threat](https://www.airlive.net/breaking-us-capitol-evacuated-due-to-to-possible-aircraft-threat/amp/)
+- [California tech billionaire launches Senate campaign to take on Tesla](https://www.mcclatchydc.com/news/politics-government/election/article260555957.html)
+- [A plastic bag’s 2000-mile journey](https://www.bloomberg.com/graphics/2022-tesco-recycle-plastic-waste-pledge-falls-short/)
 - [Emilie &lpar;2010&rpar;](https://themillions.com/2010/04/emilie.html)
-- [California grid set record of 97% renewable power on April 3](https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/)
-- [Dover &lpar;YC S19&rpar; is hiring to build a next-gen recruiting platform](https://www.dover.com/open-roles/software-engineer)
-- [Ask HN: Why does this image look 3D?](https://news.ycombinator.com/item?id=31102152)
-- [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
+- [Serra&#39;s Verbs](https://www.nplusonemag.com/online-only/online-only/serras-verbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
