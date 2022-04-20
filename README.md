@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix hints at password sharing crackdown as subscribers fall](https://www.bbc.co.uk/news/business-61153252)
-- [Uranus should be NASA’s top planetary target, influential report finds](https://www.science.org/content/article/uranus-should-be-nasa-s-top-planetary-target-influential-report-finds)
-- [On anti-crypto toxicity](https://blog.mollywhite.net/anti-crypto-toxicity/)
-- [Ask HN: What’s a good laptop for software development at around $2k](https://news.ycombinator.com/item?id=31094361)
-- [Ruby YJIT Ported to Rust](https://github.com/ruby/ruby/pull/5826)
+- [Ask HN: What gives Cloudflare the right to takedown apps revealing site real IP?](https://news.ycombinator.com/item?id=31095709)
+- [Fly.io &lpar;YC W20&rpar; Is Hiring Platform Engineers](https://fly.io/jobs/platform-product-engineer/)
+- [That time Sony installed rootkit software on thousands of computers [video]](https://www.youtube.com/watch?v=imMRzBzQm1U)
+- [Show HN: Favicons for HN](https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a)
+- [Le Corbusier&#39;s project Plan Voisin – a radical urban design for Paris from 1925](https://www.clemensgritl.com/video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
