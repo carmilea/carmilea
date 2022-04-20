@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hydration is pure overhead – by Misko Hevery](https://www.builder.io/blog/hydration-is-pure-overhead)
-- [Guido van Rossum: Let Web3 die in a flaming ball of fire](https://twitter.com/gvanrossum/status/1508959260905918465)
-- [BCI lets completely “locked-in” man communicate with his son, ask for a beer](https://arstechnica.com/science/2022/04/bci-lets-completely-locked-in-man-communicate-with-his-son-ask-for-a-beer/)
-- [IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation](https://github.com/NASA-SW-VnV/ikos)
-- [Crypto bug of the year: ECDSA signatures broken in Java](https://twitter.com/tqbf/status/1516570590211153922)
+- [Memray is a memory profiler for Python by Bloomberg](https://github.com/bloomberg/memray)
+- [Is growth linear, not exponential?](https://rootsofprogress.org/is-growth-linear-not-exponential)
+- [Videolan.org robots.txt](https://www.videolan.org/robots.txt)
+- [Why crypto gaming is not the future](https://blakeir.com/reading-list/march-2022/why-crypto-gaming-is-not-the-future)
+- [AV Linux MX Edition](http://www.bandshed.net/avlinux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
