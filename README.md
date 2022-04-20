@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Anti-Crypto Toxicity](https://blog.mollywhite.net/anti-crypto-toxicity/)
-- [Ask HN: What&#39;s a good laptop for software development in –$2000 range](https://news.ycombinator.com/item?id=31094361)
+- [Netflix hints at password sharing crackdown as subscribers fall](https://www.bbc.co.uk/news/business-61153252)
+- [Uranus should be NASA’s top planetary target, influential report finds](https://www.science.org/content/article/uranus-should-be-nasa-s-top-planetary-target-influential-report-finds)
+- [On anti-crypto toxicity](https://blog.mollywhite.net/anti-crypto-toxicity/)
+- [Ask HN: What’s a good laptop for software development at around $2k](https://news.ycombinator.com/item?id=31094361)
 - [Ruby YJIT Ported to Rust](https://github.com/ruby/ruby/pull/5826)
-- [Ask HN: Which new skills for a data science career?](https://news.ycombinator.com/item?id=31093910)
-- [Opvia &lpar;YC S20&rpar; Is Hiring in London](https://airtable.com/shrhv1yYtcMtPskra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
