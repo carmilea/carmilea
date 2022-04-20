@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 15 introduced a cryptographic vulnerability](https://www.itnews.com.au/news/java-15-introduced-a-cryptographic-vulnerability-578958)
 - [Ask HN: What gives Cloudflare the right to takedown apps revealing site real IP?](https://news.ycombinator.com/item?id=31095709)
 - [Fly.io &lpar;YC W20&rpar; Is Hiring Platform Engineers](https://fly.io/jobs/platform-product-engineer/)
+- [Results from first US trial of genetically modified mosquitoes](https://www.nature.com/articles/d41586-022-01070-x)
 - [That time Sony installed rootkit software on thousands of computers [video]](https://www.youtube.com/watch?v=imMRzBzQm1U)
-- [Show HN: Favicons for HN](https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a)
-- [Le Corbusier&#39;s project Plan Voisin – a radical urban design for Paris from 1925](https://www.clemensgritl.com/video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
