@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neobrutalism Is Taking over the Web](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web)
 - [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
 - [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
 - [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
 - [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
-- [Cog: Containers for Machine Learning](https://github.com/replicate/cog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
