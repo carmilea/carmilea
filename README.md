@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Webzine #9](https://webzine.puffy.cafe/issue-9.html)
+- [What Chords Do You Need?](https://www.jefftk.com/p/what-chords-do-you-need)
+- [Musk announces funding secured for Twitter buy](https://www.sec.gov/Archives/edgar/data/1418091/000110465922048128/tm2213229d1_sc13da.htm)
+- [FontCode: Embedding information in text documents using glyph perturbation](https://dl.acm.org/doi/pdf/10.1145/3152823)
 - [OpenBSD 7.1](https://www.openbsd.org/index.html)
-- [I&#39;m a security engineer and I still almost got scammed](https://robertheaton.com/almost-scammed/)
-- [Ask HN: How are pull requests integrated in a repo with high commit frequency?](https://news.ycombinator.com/item?id=31108828)
-- [SpaceX shut down a Russian electromagnetic warfare attack in Ukraine](https://www.c4isrnet.com/air/2022/04/20/spacex-shut-down-a-russian-electromagnetic-warfare-attack-in-ukraine-last-month-and-the-pentagon-is-taking-notes/)
-- [Big Tech Monopoly Power Is Vital to National Security](https://greenwald.substack.com/p/former-intelligence-officials-citing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
