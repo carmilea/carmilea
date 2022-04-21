@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
 - [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
+- [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
 - [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
 - [Cog: Containers for Machine Learning](https://github.com/replicate/cog)
-- [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
-- [A YouTuber purposely crashed his plane in California, FAA says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
