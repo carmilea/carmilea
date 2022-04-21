@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
+- [Cog: Containers for Machine Learning](https://github.com/replicate/cog)
+- [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
 - [A YouTuber Purposely Crashed His Plane in California, FAA Says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
 - [In defense of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
-- [A plastic bag’s 2000-mile journey](https://www.bloomberg.com/graphics/2022-tesco-recycle-plastic-waste-pledge-falls-short/)
-- [Emilie &lpar;2010&rpar;](https://themillions.com/2010/04/emilie.html)
-- [California grid set record of 97% renewable power on April 3](https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
