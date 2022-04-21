@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
 - [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
 - [Cog: Containers for Machine Learning](https://github.com/replicate/cog)
 - [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
-- [A YouTuber Purposely Crashed His Plane in California, FAA Says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
-- [In defense of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [A YouTuber purposely crashed his plane in California, FAA says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
