@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fig now supports JetBrains IDEs](https://fig.io/blog/post/jetbrains-support)
+- [How Polyester Bounced Back](https://www.worksinprogress.co/issue/how-polyester-bounced-back/)
+- [Thatcher killed the UK’s superfast broadband before it even existed](https://webreturn.co.uk/how-thatcher-killed-the-uks-superfast-broadband-before-it-even-existed/)
+- [K-9 Mail 6.000](https://k9mail.app/2022/04/18/K-9-Mail-6.000.html)
 - [Apple Discontinues macOS Server](https://support.apple.com/en-us/HT208312)
-- [AppleCensorship](https://applecensorship.com/)
 - [Listerine Mouthwash Royalties](https://auctions.royaltyexchange.com/orderbook/asset-detail/4580)
-- [Why do we call Deutschland Germany?](https://www.oktoberfesthaus.com/blogs/okt/161688647-why-do-we-call-deutschland-germany)
 <!-- BLOG-POST-LIST:END -->
 
 ---
