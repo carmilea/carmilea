@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you find credible information online?](https://news.ycombinator.com/item?id=31107699)
 - [Web color is still broken](https://webcolorisstillbroken.com/)
 - [Fedora considers deprecating legacy BIOS](https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/)
 - [Ask HN: Buying a domain previously owned by a now deceased person](https://news.ycombinator.com/item?id=31107178)
 - [Neobrutalism Is Taking over the Web](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web)
-- [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
