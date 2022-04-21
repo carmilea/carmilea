@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
+- [How Postgres Chooses Which Index to Use for a Query](https://pganalyze.com/blog/how-postgres-chooses-index)
+- [Uyuni – open-source release of SUSE Manager](https://www.uyuni-project.org/)
+- [Art Bits from Hypercard](http://archives.somnolescent.net/web/hypercard/)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers)
-- [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
-- [How Polyester Bounced Back](https://www.worksinprogress.co/issue/how-polyester-bounced-back/)
-- [Thatcher killed the UK’s superfast broadband before it even existed](https://webreturn.co.uk/how-thatcher-killed-the-uks-superfast-broadband-before-it-even-existed/)
-- [K-9 Mail 6.000](https://k9mail.app/2022/04/18/K-9-Mail-6.000.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
