@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers)
+- [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
 - [How Polyester Bounced Back](https://www.worksinprogress.co/issue/how-polyester-bounced-back/)
 - [Thatcher killed the UK’s superfast broadband before it even existed](https://webreturn.co.uk/how-thatcher-killed-the-uks-superfast-broadband-before-it-even-existed/)
 - [K-9 Mail 6.000](https://k9mail.app/2022/04/18/K-9-Mail-6.000.html)
-- [Apple Discontinues macOS Server](https://support.apple.com/en-us/HT208312)
-- [Listerine Mouthwash Royalties](https://auctions.royaltyexchange.com/orderbook/asset-detail/4580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
