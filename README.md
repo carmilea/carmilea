@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you find credible information online?](https://news.ycombinator.com/item?id=31107699)
+- [Daniel J. Bernstein&#39;s ptyget toolset](https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Site Reliability Engineers](https://boards.greenhouse.io/supabase/jobs/4307459004)
+- [Though New to Some Tea Drinkers, Yaupon Is Steeped in History](https://www.texasmonthly.com/food/yaupon-tea-steeped-history/)
+- [Chip manufacturers are buying washing machines to rip the chips and reuse them](https://www.protocol.com/bulletins/chip-shortage-washing-machines)
 - [Web color is still broken](https://webcolorisstillbroken.com/)
-- [Fedora considers deprecating legacy BIOS](https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/)
-- [Ask HN: Buying a domain previously owned by a now deceased person](https://news.ycombinator.com/item?id=31107178)
-- [Neobrutalism Is Taking over the Web](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
