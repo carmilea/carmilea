@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S..S. Akron and Macon, America&#39;s “flying aircraft carriers”](https://www.airships.net/us-navy-rigid-airships/uss-akron-macon/)
+- [Treble.ai &lpar;YC S19&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/treble-ai/jobs/Z7TVbjr-vp-of-engineering)
 - [TSMC head says drive to onshore chip supply chain is &#39;unrealistic&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-head-says-drive-to-onshore-chip-supply-chain-is-unrealistic)
-- [CNN+ to shut down April 30](https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680)
+- [CNN+ streaming service is shutting down a month after launching](https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680)
 - [The Birth of Tcl](http://www.tcl.tk/about/history.html)
-- [Apple must pay a man $1,000 for not including a power adapter with new iPhone](https://www.insider.com/iphone-charger-apple-pay-brazilian-man-1000-not-including-adapter-2022-4)
-- [How to move from output to outcome focus with business goals](https://www.just3things.com/posts/okrs-from-output-to-outcome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
