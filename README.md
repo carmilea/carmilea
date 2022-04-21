@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fig now supports JetBrains IDEs](https://fig.io/blog/post/jetbrains-support)
 - [Apple Discontinues macOS Server](https://support.apple.com/en-us/HT208312)
 - [AppleCensorship](https://applecensorship.com/)
 - [Listerine Mouthwash Royalties](https://auctions.royaltyexchange.com/orderbook/asset-detail/4580)
 - [Why do we call Deutschland Germany?](https://www.oktoberfesthaus.com/blogs/okt/161688647-why-do-we-call-deutschland-germany)
-- [The U.S.S. Akron and U.S.S. Macon, America&#39;s “flying aircraft carriers”](https://www.airships.net/us-navy-rigid-airships/uss-akron-macon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
