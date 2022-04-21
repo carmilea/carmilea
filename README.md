@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Cautionary Tale from the Decline of SourceForge](https://neverworkintheory.org/2022/04/21/decline-of-sourceforge.html)
 - [OpenBSD Webzine #9](https://webzine.puffy.cafe/issue-9.html)
+- [Senators want to mandate anti-piracy technology across the web](https://arstechnica.com/tech-policy/2022/04/if-you-like-youtubes-copyright-takedown-process-youll-love-this-bill/)
+- [OpenBSD 7.1: fan noise and high temperature solution](https://dataswamp.org/~solene/2022-04-21-openbsd-71-fan-noise-temperature.html)
 - [What Chords Do You Need?](https://www.jefftk.com/p/what-chords-do-you-need)
-- [Musk announces funding secured for Twitter buy](https://www.sec.gov/Archives/edgar/data/1418091/000110465922048128/tm2213229d1_sc13da.htm)
-- [FontCode: Embedding information in text documents using glyph perturbation](https://dl.acm.org/doi/pdf/10.1145/3152823)
-- [OpenBSD 7.1](https://www.openbsd.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
