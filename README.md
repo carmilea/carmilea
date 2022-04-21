@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web color is still broken](https://webcolorisstillbroken.com/)
 - [Fedora considers deprecating legacy BIOS](https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/)
+- [Ask HN: Buying a domain previously owned by a now deceased person](https://news.ycombinator.com/item?id=31107178)
 - [Neobrutalism Is Taking over the Web](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web)
 - [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
-- [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
-- [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
