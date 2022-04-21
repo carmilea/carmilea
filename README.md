@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Cautionary Tale from the Decline of SourceForge](https://neverworkintheory.org/2022/04/21/decline-of-sourceforge.html)
-- [OpenBSD Webzine #9](https://webzine.puffy.cafe/issue-9.html)
-- [Senators want to mandate anti-piracy technology across the web](https://arstechnica.com/tech-policy/2022/04/if-you-like-youtubes-copyright-takedown-process-youll-love-this-bill/)
-- [OpenBSD 7.1: fan noise and high temperature solution](https://dataswamp.org/~solene/2022-04-21-openbsd-71-fan-noise-temperature.html)
-- [What Chords Do You Need?](https://www.jefftk.com/p/what-chords-do-you-need)
+- [TSMC head says drive to onshore chip supply chain is &#39;unrealistic&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-head-says-drive-to-onshore-chip-supply-chain-is-unrealistic)
+- [CNN+ to shut down April 30](https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680)
+- [The Birth of Tcl](http://www.tcl.tk/about/history.html)
+- [Apple must pay a man $1,000 for not including a power adapter with new iPhone](https://www.insider.com/iphone-charger-apple-pay-brazilian-man-1000-not-including-adapter-2022-4)
+- [How to move from output to outcome focus with business goals](https://www.just3things.com/posts/okrs-from-output-to-outcome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
