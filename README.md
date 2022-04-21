@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Twitter&#39;s Algorithmic Feed Works](https://transitivebullsh.it/oss-twitter-algorithm-part-1)
 - [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
-- [How Postgres Chooses Which Index to Use for a Query](https://pganalyze.com/blog/how-postgres-chooses-index)
+- [How Postgres chooses which index to use for a query](https://pganalyze.com/blog/how-postgres-chooses-index)
 - [Uyuni – open-source release of SUSE Manager](https://www.uyuni-project.org/)
 - [Art Bits from Hypercard](http://archives.somnolescent.net/web/hypercard/)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
