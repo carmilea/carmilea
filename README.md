@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S..S. Akron and Macon, America&#39;s “flying aircraft carriers”](https://www.airships.net/us-navy-rigid-airships/uss-akron-macon/)
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring VP of Engineering](https://www.ycombinator.com/companies/treble-ai/jobs/Z7TVbjr-vp-of-engineering)
-- [TSMC head says drive to onshore chip supply chain is &#39;unrealistic&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-head-says-drive-to-onshore-chip-supply-chain-is-unrealistic)
-- [CNN+ streaming service is shutting down a month after launching](https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680)
-- [The Birth of Tcl](http://www.tcl.tk/about/history.html)
+- [Apple Discontinues macOS Server](https://support.apple.com/en-us/HT208312)
+- [AppleCensorship](https://applecensorship.com/)
+- [Listerine Mouthwash Royalties](https://auctions.royaltyexchange.com/orderbook/asset-detail/4580)
+- [Why do we call Deutschland Germany?](https://www.oktoberfesthaus.com/blogs/okt/161688647-why-do-we-call-deutschland-germany)
+- [The U.S.S. Akron and U.S.S. Macon, America&#39;s “flying aircraft carriers”](https://www.airships.net/us-navy-rigid-airships/uss-akron-macon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
