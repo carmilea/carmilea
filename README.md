@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daniel J. Bernstein&#39;s ptyget toolset](https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Site Reliability Engineers](https://boards.greenhouse.io/supabase/jobs/4307459004)
-- [Though New to Some Tea Drinkers, Yaupon Is Steeped in History](https://www.texasmonthly.com/food/yaupon-tea-steeped-history/)
-- [Chip manufacturers are buying washing machines to rip the chips and reuse them](https://www.protocol.com/bulletins/chip-shortage-washing-machines)
-- [Web color is still broken](https://webcolorisstillbroken.com/)
+- [OpenBSD 7.1](https://www.openbsd.org/index.html)
+- [I&#39;m a security engineer and I still almost got scammed](https://robertheaton.com/almost-scammed/)
+- [Ask HN: How are pull requests integrated in a repo with high commit frequency?](https://news.ycombinator.com/item?id=31108828)
+- [SpaceX shut down a Russian electromagnetic warfare attack in Ukraine](https://www.c4isrnet.com/air/2022/04/20/spacex-shut-down-a-russian-electromagnetic-warfare-attack-in-ukraine-last-month-and-the-pentagon-is-taking-notes/)
+- [Big Tech Monopoly Power Is Vital to National Security](https://greenwald.substack.com/p/former-intelligence-officials-citing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
