@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fedora considers deprecating legacy BIOS](https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/)
 - [Neobrutalism Is Taking over the Web](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web)
 - [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
 - [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
 - [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
-- [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
