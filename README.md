@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Real biological clock is you’re going to die &lpar;2018&rpar;](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
-- [Analyzing Mariupol&#39;s damage using SAR satalite data and algorithmic models](https://www.economist.com/graphic-detail/2022/04/23/nearly-half-of-mariupol-has-suffered-grave-damage)
-- [Jane Street magic-trace](https://github.com/janestreet/magic-trace)
-- [Ask HN: CNN+ Software Engineers](https://news.ycombinator.com/item?id=31121245)
-- [Leaked Chats Show Lapsus$ Stole T-Mobile Source Code](https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code/)
+- [Letter from the Carnation Company](https://www.pleacher.com/mp/mlessons/calculus/carnat.html)
+- [Ask HN: Is Hybrid Working a Ruse?](https://news.ycombinator.com/item?id=31122002)
+- [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
+- [Show HN: Augmented reality apps made hands-on interactive](https://portalble.cs.brown.edu/)
+- [Your real biological clock is you’re going to die &lpar;2018&rpar;](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
