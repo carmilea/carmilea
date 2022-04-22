@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enso &lpar;YC S21&rpar; Is Hiring Senior Rust Developer](https://www.ycombinator.com/companies/enso/jobs/AJAh56k-senior-rust-cloud-engineer)
+- [Snowman native code to C/C++ decompiler for x86/x86_64/ARM](https://github.com/yegord/snowman)
 - [Venmo forces binding arbitration unless you opt out by mail before June 22](https://help.venmo.com/hc/en-us/articles/360062640153)
 - [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
 - [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
-- [TypeScript and Set Theory](https://ivov.dev/notes/typescript-and-set-theory)
-- [Ask HN: People who use different emails everywhere, who sold you to spammers?](https://news.ycombinator.com/item?id=31116861)
 <!-- BLOG-POST-LIST:END -->
 
 ---
