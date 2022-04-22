@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Twitter&#39;s Algorithmic Feed Works](https://transitivebullsh.it/oss-twitter-algorithm-part-1)
-- [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
-- [How Postgres chooses which index to use for a query](https://pganalyze.com/blog/how-postgres-chooses-index)
-- [Uyuni – open-source release of SUSE Manager](https://www.uyuni-project.org/)
-- [Art Bits from Hypercard](http://archives.somnolescent.net/web/hypercard/)
+- [Show HN: Algorithmic trading for everyone](https://justfor.fund)
+- [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
+- [Ask HN: People who use different emails everywhere, who sold you to spammers?](https://news.ycombinator.com/item?id=31116861)
+- [Meta COO Sandberg reportedly tried to block story about Activision CEO Kotick](https://www.cnbc.com/2022/04/21/meta-coo-sandberg-reportedly-tried-to-block-news-story-about-activision-ceo-kotick.html)
+- [The smallest 256x256 single-color PNG file, and where you&#39;ve seen it &lpar;2015&rpar;](https://www.mjt.me.uk/posts/smallest-png/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
