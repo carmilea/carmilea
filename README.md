@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [Thinner on Paper](https://thelampmagazine.com/2022/04/21/thinner-on-paper/)
 - [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
-- [Disney Invites Applications for 2022 Disney Accelerator Program](https://thewaltdisneycompany.com/disney-invites-applications-from-innovative-growth-stage-companies-for-2022-disney-accelerator-program/)
 - [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5mm private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)
-- [Geometric deep learning: First steps](https://a-j.gitbook.io/geometric-deep-learning/)
+- [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
