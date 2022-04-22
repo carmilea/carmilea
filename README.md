@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
+- [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5mm private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)
+- [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
+- [Geometric deep learning: First steps](https://a-j.gitbook.io/geometric-deep-learning/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Engineer in London](https://news.ycombinator.com/item?id=31124426)
-- [Indian lawmaker arrested after tweet criticising Narendra Modi](https://www.theguardian.com/world/2022/apr/22/indian-lawmaker-arrested-after-tweet-criticising-narendra-modi)
-- [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
-- [Show HN: Prevent your computer sleeping with just a webpage](https://nosleep.page/)
-- [Regular Blood Donations Can Reduce Toxic “Forever Chemicals” in the Bloodstream](https://theswaddle.com/regular-blood-donations-can-reduce-toxic-forever-chemicals-in-the-bloodstream-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
