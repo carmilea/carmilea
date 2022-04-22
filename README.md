@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 - [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
+- [Disney Invites Applications for 2022 Disney Accelerator Program](https://thewaltdisneycompany.com/disney-invites-applications-from-innovative-growth-stage-companies-for-2022-disney-accelerator-program/)
 - [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5mm private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)
-- [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
 - [Geometric deep learning: First steps](https://a-j.gitbook.io/geometric-deep-learning/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Engineer in London](https://news.ycombinator.com/item?id=31124426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
