@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Engineer in London](https://news.ycombinator.com/item?id=31124426)
+- [Indian lawmaker arrested after tweet criticising Narendra Modi](https://www.theguardian.com/world/2022/apr/22/indian-lawmaker-arrested-after-tweet-criticising-narendra-modi)
 - [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
 - [Show HN: Prevent your computer sleeping with just a webpage](https://nosleep.page/)
 - [Regular Blood Donations Can Reduce Toxic “Forever Chemicals” in the Bloodstream](https://theswaddle.com/regular-blood-donations-can-reduce-toxic-forever-chemicals-in-the-bloodstream-study/)
-- [Got food cravings? What’s living in your gut may be responsible](https://www.pitt.edu/pittwire/features-articles/food-cravings-pitt-study)
-- [Google’s AI-powered ‘inclusive warnings’ feature is very broken](https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken)
 <!-- BLOG-POST-LIST:END -->
 
 ---
