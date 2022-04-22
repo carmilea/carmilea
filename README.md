@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Onion Has Been Permanently Banned from Twitter](https://www.theonion.com/breaking-the-onion-has-been-permanently-banned-from-tw-1848808405)
 - [Venmo forces binding arbitration unless you opt out by mail before June 22](https://help.venmo.com/hc/en-us/articles/360062640153)
 - [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
 - [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
 - [Show HN: Algorithmic trading for everyone](https://justfor.fund)
+- [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
