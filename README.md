@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Letter from the Carnation Company](https://www.pleacher.com/mp/mlessons/calculus/carnat.html)
-- [Ask HN: Is Hybrid Working a Ruse?](https://news.ycombinator.com/item?id=31122002)
-- [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
-- [Show HN: Augmented reality apps made hands-on interactive](https://portalble.cs.brown.edu/)
-- [Your real biological clock is you’re going to die &lpar;2018&rpar;](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
+- [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
+- [Show HN: Prevent your computer sleeping with just a webpage](https://nosleep.page/)
+- [Regular Blood Donations Can Reduce Toxic “Forever Chemicals” in the Bloodstream](https://theswaddle.com/regular-blood-donations-can-reduce-toxic-forever-chemicals-in-the-bloodstream-study/)
+- [Got food cravings? What’s living in your gut may be responsible](https://www.pitt.edu/pittwire/features-articles/food-cravings-pitt-study)
+- [Google’s AI-powered ‘inclusive warnings’ feature is very broken](https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken)
 <!-- BLOG-POST-LIST:END -->
 
 ---
