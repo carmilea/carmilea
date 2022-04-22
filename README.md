@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancient Roman Coins: How Were They Made?](https://www.thecollector.com/ancient-roman-coins-how-were-they-made/)
-- [Lenovo Forums stores plaintext password as a cookie](https://forums.lenovo.com/t5/Forum-Housekeeping/Lenovo-forums-do-store-user-password-in-a-cookie/m-p/5124794)
-- [Emerge Tools is building the future of mobile performance tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
-- [Silicon Zoo: Tiny artwork on CPU dies](https://micro.magnet.fsu.edu/creatures/index.html)
-- [Common Lisp Resources](https://lisp-journey.gitlab.io/resources/)
+- [Real biological clock is you’re going to die &lpar;2018&rpar;](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
+- [Analyzing Mariupol&#39;s damage using SAR satalite data and algorithmic models](https://www.economist.com/graphic-detail/2022/04/23/nearly-half-of-mariupol-has-suffered-grave-damage)
+- [Jane Street magic-trace](https://github.com/janestreet/magic-trace)
+- [Ask HN: CNN+ Software Engineers](https://news.ycombinator.com/item?id=31121245)
+- [Leaked Chats Show Lapsus$ Stole T-Mobile Source Code](https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
