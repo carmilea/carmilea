@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
+- [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
 - [Show HN: Algorithmic trading for everyone](https://justfor.fund)
 - [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
 - [Ask HN: People who use different emails everywhere, who sold you to spammers?](https://news.ycombinator.com/item?id=31116861)
-- [Meta COO Sandberg reportedly tried to block story about Activision CEO Kotick](https://www.cnbc.com/2022/04/21/meta-coo-sandberg-reportedly-tried-to-block-news-story-about-activision-ceo-kotick.html)
-- [The smallest 256x256 single-color PNG file, and where you&#39;ve seen it &lpar;2015&rpar;](https://www.mjt.me.uk/posts/smallest-png/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
