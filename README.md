@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancient Roman Coins: How Were They Made?](https://www.thecollector.com/ancient-roman-coins-how-were-they-made/)
+- [Lenovo Forums stores plaintext password as a cookie](https://forums.lenovo.com/t5/Forum-Housekeeping/Lenovo-forums-do-store-user-password-in-a-cookie/m-p/5124794)
 - [Emerge Tools is building the future of mobile performance tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
 - [Silicon Zoo: Tiny artwork on CPU dies](https://micro.magnet.fsu.edu/creatures/index.html)
 - [Common Lisp Resources](https://lisp-journey.gitlab.io/resources/)
-- [Show HN: A programmer&#39;s approach to finding gifts](https://givetheperfectgift.co/)
-- [London’s Lost Ringways](https://www.worksinprogress.co/issue/londons-lost-ringways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
