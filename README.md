@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The slowest and longest music piece ever, is being performed for 639 years](https://universes.art/en/specials/john-cage-organ-project-halberstadt#c29094)
+- [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
+- [Discussing Crypto, the Left and Technofeudalism](https://www.yanisvaroufakis.eu/2022/04/23/discussing-crypto-the-left-technofeudalism-with-evgeny-morozov-crypto-syllabus-long-interview/)
+- [Is XMPP any good? Let&#39;s write a client in Tcl, maybe](https://wusspuss.neocities.org/xmpp.html)
 - [Ask HN: What is the best streaming device for a Lineage OS user?](https://news.ycombinator.com/item?id=31132966)
-- [Google, Meta and others have to explain algorithms under new EU legislation](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
-- [Show HN: [Experimental] Fleet – A build tool for Rust that&#39;s upto 5x faster](https://news.ycombinator.com/item?id=31132659)
-- [Ask HN: Am I going insane or is there genuinely no value in blockchain tech?](https://news.ycombinator.com/item?id=31132610)
-- [EU DSA: Industry and government interests prevail over citizens’ digital rights](https://www.patrick-breyer.de/en/eu-digital-services-act-industry-and-government-interests-prevail-over-citizens-digital-rights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
