@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Interest Rates Have Soared Everywhere but Savings Accounts](https://www.bloomberg.com/news/articles/2022-02-15/will-interest-rates-on-savings-accounts-go-up-marcus-ally-bank-keep-levels-low)
+- [Dan Price, Seattle CEO who lowered his pay to $70K, accused of sexual misconduct](https://www.kuow.org/stories/dan-price-seattle-ceo-who-lowered-his-pay-to-70k-accused-of-sexual-misconduct?ref=upstract.com&curator=upstract.com)
 - [My upgrade to 25 Gbit/s Fiber To The Home](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/)
 - [VCR Virus Fake VHS Copy-Protection Warning Label &lpar;2016&rpar;](https://whyimnotanartist.net/2016/03/08/vcr-virus-fake-vhs-copy-protection-warning-label/)
 - [Making open source hardware design a reality](https://github.com/aolofsson/awesome-hardware-tools)
-- [$34M permanently locked into AkuDreams contract forever due to bad code](https://twitter.com/0xfoobar/status/1517680400142716929)
-- [DevOps for the Sinclair Spectrum](http://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
