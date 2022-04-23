@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
 - [Firefox on Ubuntu 22.04 from .deb &lpar;not from snap&rpar;](https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/)
-- [Inventing Postscript, the Tech That Took the Pain Out of Printing](https://spectrum.ieee.org/adobe-postscript)
+- [Inventing Postscript, the Tech That Took the Pain Out of Printing &lpar;1988&rpar;](https://spectrum.ieee.org/adobe-postscript)
 - [The Applesoft Compiler &lpar;TASC&rpar;: We have the source code, in a sense](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
 - [The one time North Vietnam’s MiGs attacked U.S. navy warships](https://www.thedrive.com/the-war-zone/the-one-time-north-vietnams-migs-attacked-u-s-navy-warships)
 <!-- BLOG-POST-LIST:END -->
