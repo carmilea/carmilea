@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Element – Introducing Threads in Beta](https://element.io/blog/introducing-threads-in-beta/)
 - [Celebrating 40 years of ZX Spectrum](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer &lpar;Remote/Europe&rpar;](https://www.stackerhq.com/careers)
 - [Casync – A Content-Addressable Data Synchronization Tool](https://github.com/systemd/casync)
 - [DALL·E 2 and The Origin of Vibe Shifts](https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts)
-- [Funding decentralised/local-first applications for GNOME](https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
