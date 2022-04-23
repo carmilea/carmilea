@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [War Without Rules: Inside China’s Playbook for Global Domination](https://www.realclearbooks.com/articles/2022/04/18/communist_china_has_thrown_out_the_old_rules_of_war_827699.html)
-- [Creating a GPU With C++ and an FPGA &lpar;2021&rpar;](https://www.youtube.com/watch?v=P7sNVvwhMJA)
-- [The slowest and longest music piece ever, is being performed for 639 years](https://universes.art/en/specials/john-cage-organ-project-halberstadt#c29094)
-- [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
-- [Crypto, the Left and Technofeudalism](https://www.yanisvaroufakis.eu/2022/04/23/discussing-crypto-the-left-technofeudalism-with-evgeny-morozov-crypto-syllabus-long-interview/)
+- [$34M permanently locked into AkuDreams contract forever due to bad code](https://twitter.com/0xfoobar/status/1517680400142716929)
+- [I stopped working on black hole information loss. Here’s why](http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html)
+- [Ozarks Technical Community College robbed of nearly $900k](https://www.bransontrilakesnews.com/news/local/article_0a6f60d4-c25a-11ec-9270-1b30a93475bc.html)
+- [A day after he bought electric scooter, man killed in battery explosion](https://indianexpress.com/article/cities/hyderabad/vijayawada-man-killed-in-electric-scooter-battery-explosion-7883920/)
+- [Braess Paradox](https://rjlipton.wpcomstaging.com/2022/04/22/a-paradox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
