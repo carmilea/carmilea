@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [War Without Rules: Inside China’s Playbook for Global Domination](https://www.realclearbooks.com/articles/2022/04/18/communist_china_has_thrown_out_the_old_rules_of_war_827699.html)
+- [Creating a GPU With C++ and an FPGA &lpar;2021&rpar;](https://www.youtube.com/watch?v=P7sNVvwhMJA)
 - [The slowest and longest music piece ever, is being performed for 639 years](https://universes.art/en/specials/john-cage-organ-project-halberstadt#c29094)
 - [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
-- [Discussing Crypto, the Left and Technofeudalism](https://www.yanisvaroufakis.eu/2022/04/23/discussing-crypto-the-left-technofeudalism-with-evgeny-morozov-crypto-syllabus-long-interview/)
-- [Is XMPP any good? Let&#39;s write a client in Tcl, maybe](https://wusspuss.neocities.org/xmpp.html)
-- [Ask HN: What is the best streaming device for a Lineage OS user?](https://news.ycombinator.com/item?id=31132966)
+- [Crypto, the Left and Technofeudalism](https://www.yanisvaroufakis.eu/2022/04/23/discussing-crypto-the-left-technofeudalism-with-evgeny-morozov-crypto-syllabus-long-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
