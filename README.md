@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC Alerts Providers to Hepatitis Cases of Unknown Origin](https://www.cdc.gov/media/releases/2022/s0421-hepatitis-alert.html)
+- [Casync – A Content-Addressable Data Synchronization Tool](https://github.com/systemd/casync)
+- [DALL·E 2 and The Origin of Vibe Shifts](https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts)
 - [Funding decentralised/local-first applications for GNOME](https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/)
 - [Interfaces for Ambient Computing](https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html)
-- [How SHA-256 Works Step-by-Step](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
-- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
-- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
