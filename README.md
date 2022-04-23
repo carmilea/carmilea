@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
+- [Firefox on Ubuntu 22.04 from .deb &lpar;not from snap&rpar;](https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/)
+- [The Applesoft Compiler &lpar;TASC&rpar;: We have the source code, in a sense](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
 - [The one time North Vietnam’s MiGs attacked U.S. navy warships](https://www.thedrive.com/the-war-zone/the-one-time-north-vietnams-migs-attacked-u-s-navy-warships)
 - [This AI Does Not Exist](https://thisaidoesnotexist.com/)
-- [Android loses 8% of its global OS market share in five years](https://stockapps.com/blog/android-loses-8-of-its-global-os-market-share-in-five-years/)
-- [The digital ranging system that measured the distance to the Apollo spacecraft](https://www.righto.com/2022/04/the-digital-ranging-system-that.html)
-- [VeriGPU: GPU in Verilog loosely based on RISC-V ISA](https://github.com/hughperkins/VeriGPU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
