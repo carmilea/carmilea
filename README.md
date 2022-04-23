@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why did Ruble stabilize and what&#39;s going on?](https://news.ycombinator.com/item?id=31132780)
+- [Google, Meta and others have to explain algorithms under new EU legislation](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
+- [Ask HN: Am I going insane or is there genuinely no value in blockchain tech?](https://news.ycombinator.com/item?id=31132610)
+- [EU DSA: Industry and government interests prevail over citizens’ digital rights](https://www.patrick-breyer.de/en/eu-digital-services-act-industry-and-government-interests-prevail-over-citizens-digital-rights/)
 - [Element – Introducing Threads in Beta](https://element.io/blog/introducing-threads-in-beta/)
-- [Celebrating 40 years of ZX Spectrum](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer &lpar;Remote/Europe&rpar;](https://www.stackerhq.com/careers)
-- [Casync – A Content-Addressable Data Synchronization Tool](https://github.com/systemd/casync)
-- [DALL·E 2 and The Origin of Vibe Shifts](https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
