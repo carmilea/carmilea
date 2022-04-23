@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- [EULAs Aren’t Inherently Evil – Proprietary done right can beat free and open](https://writing.kemitchell.com/2022/04/22/EULAs-Arent-Inherently-Evil)
-- [U.S. Interest Rates Have Soared Everywhere but Savings Accounts](https://www.bloomberg.com/news/articles/2022-02-15/will-interest-rates-on-savings-accounts-go-up-marcus-ally-bank-keep-levels-low)
-- [My upgrade to 25 Gbit/s Fiber To The Home](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/)
-- [VCR Virus Fake VHS Copy-Protection Warning Label &lpar;2016&rpar;](https://whyimnotanartist.net/2016/03/08/vcr-virus-fake-vhs-copy-protection-warning-label/)
+- [Umberto Eco Makes a List of the 14 Common Features of Fascism](https://www.openculture.com/2016/11/umberto-eco-makes-a-list-of-the-14-common-features-of-fascism.html)
+- [The digital ranging system that measured the distance to the Apollo spacecraft](https://www.righto.com/2022/04/the-digital-ranging-system-that.html)
+- [Google, Western Digital, Seagate quietly devolping an open source root of trust](https://github.com/lowRISC/opentitan)
+- [VeriGPU: GPU in Verilog loosely based on RISC-V ISA](https://github.com/hughperkins/VeriGPU)
+- [Rethinking submarine fibre cable projects in the South Pacific](https://blog.apnic.net/2022/04/20/rethinking-submarine-fibre-cable-projects-south-pacific/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
