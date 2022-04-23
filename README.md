@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why did Ruble stabilize and what&#39;s going on?](https://news.ycombinator.com/item?id=31132780)
+- [Ask HN: What is the best streaming device for a Lineage OS user?](https://news.ycombinator.com/item?id=31132966)
 - [Google, Meta and others have to explain algorithms under new EU legislation](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
+- [Show HN: [Experimental] Fleet – A build tool for Rust that&#39;s upto 5x faster](https://news.ycombinator.com/item?id=31132659)
 - [Ask HN: Am I going insane or is there genuinely no value in blockchain tech?](https://news.ycombinator.com/item?id=31132610)
 - [EU DSA: Industry and government interests prevail over citizens’ digital rights](https://www.patrick-breyer.de/en/eu-digital-services-act-industry-and-government-interests-prevail-over-citizens-digital-rights/)
-- [Element – Introducing Threads in Beta](https://element.io/blog/introducing-threads-in-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
