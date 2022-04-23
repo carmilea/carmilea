@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Funding decentralised/local-first applications for GNOME](https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/)
+- [How SHA-256 Works Step-by-Step](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 - [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 - [Thinner on Paper](https://thelampmagazine.com/2022/04/21/thinner-on-paper/)
-- [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
-- [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5mm private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)
-- [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
