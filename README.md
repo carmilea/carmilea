@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [EULAs Aren’t Inherently Evil – Proprietary done right can beat free and open](https://writing.kemitchell.com/2022/04/22/EULAs-Arent-Inherently-Evil)
 - [U.S. Interest Rates Have Soared Everywhere but Savings Accounts](https://www.bloomberg.com/news/articles/2022-02-15/will-interest-rates-on-savings-accounts-go-up-marcus-ally-bank-keep-levels-low)
-- [Dan Price, Seattle CEO who lowered his pay to $70K, accused of sexual misconduct](https://www.kuow.org/stories/dan-price-seattle-ceo-who-lowered-his-pay-to-70k-accused-of-sexual-misconduct?ref=upstract.com&curator=upstract.com)
 - [My upgrade to 25 Gbit/s Fiber To The Home](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/)
 - [VCR Virus Fake VHS Copy-Protection Warning Label &lpar;2016&rpar;](https://whyimnotanartist.net/2016/03/08/vcr-virus-fake-vhs-copy-protection-warning-label/)
-- [Making open source hardware design a reality](https://github.com/aolofsson/awesome-hardware-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ---
