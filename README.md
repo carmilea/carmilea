@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My upgrade to 25 Gbit/s Fiber To The Home](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/)
+- [VCR Virus Fake VHS Copy-Protection Warning Label &lpar;2016&rpar;](https://whyimnotanartist.net/2016/03/08/vcr-virus-fake-vhs-copy-protection-warning-label/)
+- [Making open source hardware design a reality](https://github.com/aolofsson/awesome-hardware-tools)
 - [$34M permanently locked into AkuDreams contract forever due to bad code](https://twitter.com/0xfoobar/status/1517680400142716929)
-- [I stopped working on black hole information loss. Here’s why](http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html)
-- [Ozarks Technical Community College robbed of nearly $900k](https://www.bransontrilakesnews.com/news/local/article_0a6f60d4-c25a-11ec-9270-1b30a93475bc.html)
-- [A day after he bought electric scooter, man killed in battery explosion](https://indianexpress.com/article/cities/hyderabad/vijayawada-man-killed-in-electric-scooter-battery-explosion-7883920/)
-- [Braess Paradox](https://rjlipton.wpcomstaging.com/2022/04/22/a-paradox/)
+- [DevOps for the Sinclair Spectrum](http://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
