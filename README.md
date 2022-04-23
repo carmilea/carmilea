@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The one time North Vietnam’s MiGs attacked U.S. navy warships](https://www.thedrive.com/the-war-zone/the-one-time-north-vietnams-migs-attacked-u-s-navy-warships)
+- [This AI Does Not Exist](https://thisaidoesnotexist.com/)
 - [Android loses 8% of its global OS market share in five years](https://stockapps.com/blog/android-loses-8-of-its-global-os-market-share-in-five-years/)
-- [Umberto Eco on common features of fascism](https://www.openculture.com/2016/11/umberto-eco-makes-a-list-of-the-14-common-features-of-fascism.html)
 - [The digital ranging system that measured the distance to the Apollo spacecraft](https://www.righto.com/2022/04/the-digital-ranging-system-that.html)
-- [Google, Western Digital, Seagate quietly devolping an open source root of trust](https://github.com/lowRISC/opentitan)
 - [VeriGPU: GPU in Verilog loosely based on RISC-V ISA](https://github.com/hughperkins/VeriGPU)
 <!-- BLOG-POST-LIST:END -->
 
