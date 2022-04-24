@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK-Morocco 10GW Renewable Electricity Interconnector Planned](https://xlinks.co/morocco-uk-power-project/)
+- [Transparently running binaries from any architecture in Linux &lpar;2018&rpar;](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
+- [TUI in webapp design language&lpar;CSS&rpar; and pattern&lpar;check the demo, it’s next level&rpar;](https://www.textualize.io/)
 - [No One Expects Young Men to Do Anything and They Are Responding by Doing Nothing](https://robkhenderson.substack.com/p/no-one-expects-young-men-to-do-anything)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
-- [Internet spring cleaning: How to delete Instagram, Facebook and other accounts](https://blog.mozilla.org/en/internet-culture/how-to-delete-instagram-facebook-online-accounts/)
-- [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
-- [Ultra-light liquid hydrogen tanks promise to make jet fuel obsolete](https://newatlas.com/aircraft/hypoint-gtl-lightweight-liquid-hydrogen-tank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
