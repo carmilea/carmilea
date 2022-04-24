@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: WorkOrPay: Set goals. Form contracts. Pay the penalty if you fail](https://www.workorpay.com/)
+- [Google gives Europe a ‘reject all’ button for tracking cookies](https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws)
+- [A Woman Who Survived the Lowest Body Temperature Ever](https://www.atlasobscura.com/articles/the-woman-who-survived-the-lowest-body-temperature-ever)
 - [Patching an Embedded Synthesiser OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
-- [Inside The New Right, Where Peter Thiel Is Placing His Biggest Bets](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets)
-- [UK-Morocco 10GW Renewable Electricity Interconnector Planned](https://xlinks.co/morocco-uk-power-project/)
-- [Transparently running binaries from any architecture in Linux &lpar;2018&rpar;](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
-- [TUI in webapp design language&lpar;CSS&rpar; and pattern&lpar;check the demo, it’s next level&rpar;](https://www.textualize.io/)
+- [What Is a Major Chord?](https://www.jefftk.com/p/what-is-a-major-chord)
 <!-- BLOG-POST-LIST:END -->
 
 ---
