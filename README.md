@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LA company to pay $22.5m after allegedly faking hundreds of Covid test results](https://abc7.com/settlement-covid-test-results/11777433/)
+- [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
 - [Why didn&#39;t our ancient ancestors get cavities?](https://sciencenorway.no/animal-kingdom-apes-history/why-didnt-our-ancient-ancestors-get-cavities/2010848)
-- [Will Japan Run on Ammonia?](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
-- [Cryptocurrency as a Cybersecurity Alarm](https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html)
+- [Will Japan run on ammonia? Major chemical firms want to build the infrastructure](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
+- [Cryptocurrency as a cybersecurity alarm](https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html)
 - [Chris Lattner on garbage collection vs. Automatic Reference Counting &lpar;2017&rpar;](https://atp.fm/205-chris-lattner-interview-transcript#gc)
 <!-- BLOG-POST-LIST:END -->
 
