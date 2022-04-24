@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My typical working day as Software Engineer](https://dimle.wordpress.com/2022/04/24/my-typical-working-day-as-software-engineer/)
+- [Facebook’s Ranking for App Downloads Drops to New Record Low](https://www.digitalinformationworld.com/2022/04/facebooks-ranking-for-app-downloads.html)
+- [Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
+- [Show HN: My typical working day as Software Engineer](https://dimle.wordpress.com/2022/04/24/my-typical-working-day-as-software-engineer/)
 - [Software Mise En Place](https://buttondown.email/hillelwayne/archive/software-mise-en-place/)
 - [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
-- [How Nix and NixOS Get So Close to Perfect](https://christine.website/talks/nixos-pain-2021-11-10)
-- [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
