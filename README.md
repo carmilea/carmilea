@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: WorkOrPay: Set goals. Form contracts. Pay the penalty if you fail](https://www.workorpay.com/)
-- [Google gives Europe a ‘reject all’ button for tracking cookies](https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws)
-- [A Woman Who Survived the Lowest Body Temperature Ever](https://www.atlasobscura.com/articles/the-woman-who-survived-the-lowest-body-temperature-ever)
-- [Patching an Embedded Synthesiser OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
-- [What Is a Major Chord?](https://www.jefftk.com/p/what-is-a-major-chord)
+- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+- [The lowly page number](https://theoutline.com/post/4257/what-of-the-lowly-page-number)
+- [Ask HN: How’s iCloud Private Relay?](https://news.ycombinator.com/item?id=31145807)
+- [$5939 per meter &quot;Audiophile Approved&quot; Mains Cable](https://www.hifiklubben.de/audioquest-nrg-dragon-high-current-stromkabel/aqnrgdragonhc1,0/)
+- [10 years since Google said to “hang tight” about Linux support for Google Drive](https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
