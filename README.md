@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norway convinced Japan to love salmon sushi &lpar;2015&rpar;](https://www.npr.org/2015/09/18/441530790/how-the-desperate-norwegian-salmon-industry-created-a-sushi-staple)
+- [In a surprise move, honeybee tongue hairs repel water](https://www.acs.org/content/acs/en/pressroom/newsreleases/2022/march/in-a-surprise-move-honeybee-tongue-hairs-repel-water.html)
 - [Zeit Medical &lpar;YC S21&rpar; Is Hiring an ML scientist to enable early stroke detection](https://www.ycombinator.com/companies/zeit-medical/jobs/hUGZxm5-ml-ai-scientist-time-series-classification-signal-processing)
 - [Pushing back against contract demands is scary but please try anyway](https://blog.plover.com/law/contracts-3.html)
 - [The TTY Demystified &lpar;2008&rpar;](https://www.linusakesson.net/programming/tty/)
-- [The Intuition Behind Bernoulli&#39;s Principle &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=6vGxSoK0QTY)
-- [Trove of tumour genomes offers clues to cancer origins](https://www.nature.com/articles/d41586-022-01095-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
