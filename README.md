@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LA company to pay $22.5m after allegedly faking hundreds of Covid test results](https://abc7.com/settlement-covid-test-results/11777433/)
 - [Why didn&#39;t our ancient ancestors get cavities?](https://sciencenorway.no/animal-kingdom-apes-history/why-didnt-our-ancient-ancestors-get-cavities/2010848)
 - [Cryptocurrency as a Cybersecurity Alarm](https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html)
 - [Chris Lattner on garbage collection vs. Automatic Reference Counting &lpar;2017&rpar;](https://atp.fm/205-chris-lattner-interview-transcript#gc)
-- [Arizona’s dry future begins as Colorado River shrinks](https://www.wsj.com/articles/arizonas-dry-future-begins-as-colorado-river-shrinks-11650718801)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
