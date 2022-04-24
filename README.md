@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushing back against contract demands is scary but please try anyway](https://blog.plover.com/law/contracts-3.html)
+- [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 - [The Intuition Behind Bernoulli&#39;s Principle &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=6vGxSoK0QTY)
-- [Emmanuel Macron is re-elected French President, defeating Marine Le Pen](https://www.nytimes.com/2022/04/24/world/europe/emmanuel-macron-france-election-marine-le-pen.html)
 - [The EU-US privacy shield 2.0 is political nonsense &lpar;again&rpar;](https://blog.simpleanalytics.com/eu-us-privacy-shield-2-0-is-again-a-political-show)
 - [Trove of tumour genomes offers clues to cancer origins](https://www.nature.com/articles/d41586-022-01095-2)
-- [Drones have transformed blood delivery in Rwanda](https://www.wired.com/story/drones-have-transformed-blood-delivery-in-rwanda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
