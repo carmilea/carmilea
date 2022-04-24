@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook’s Ranking for App Downloads Drops to New Record Low](https://www.digitalinformationworld.com/2022/04/facebooks-ranking-for-app-downloads.html)
-- [Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
-- [Show HN: My typical working day as Software Engineer](https://dimle.wordpress.com/2022/04/24/my-typical-working-day-as-software-engineer/)
+- [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+- [Ask HN: Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
+- [Energy Trends UK, October to December 2021 [pdf]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1064799/Energy_Trends_March_2022.pdf)
 - [Software Mise En Place](https://buttondown.email/hillelwayne/archive/software-mise-en-place/)
-- [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
+- [New artificial enamel is harder and more durable than the real thing](https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
