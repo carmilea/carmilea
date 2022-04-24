@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
-- [The lowly page number](https://theoutline.com/post/4257/what-of-the-lowly-page-number)
-- [Ask HN: How’s iCloud Private Relay?](https://news.ycombinator.com/item?id=31145807)
-- [$5939 per meter &quot;Audiophile Approved&quot; Mains Cable](https://www.hifiklubben.de/audioquest-nrg-dragon-high-current-stromkabel/aqnrgdragonhc1,0/)
-- [10 years since Google said to “hang tight” about Linux support for Google Drive](https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/)
+- [My priorities while building a webapp from scratch](https://criya.notion.site/Building-Webapps-from-Scratch-6973efe8329e4a7bae2d271415e9f309)
+- [Trove of tumour genomes offers clues to cancer origins](https://www.nature.com/articles/d41586-022-01095-2)
+- [Drones have transformed blood delivery in Rwanda](https://www.wired.com/story/drones-have-transformed-blood-delivery-in-rwanda/)
+- [The Psychedelic Experience: A new concept in psychotherapy &lpar;1962&rpar; [pdf]](https://erowid.org/references/texts/show/2179docid2021)
+- [Some of the forces blocking new ideas in science](https://mattsclancy.substack.com/p/conservatism-in-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
