@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
 - [Exposure to 835MHz RF-EMF induces hyperactivity and demyelination in mice &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5247706/)
 - [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
-- [Why didn&#39;t our ancient ancestors get cavities?](https://sciencenorway.no/animal-kingdom-apes-history/why-didnt-our-ancient-ancestors-get-cavities/2010848)
 - [Will Japan run on ammonia? Major chemical firms want to build the infrastructure](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
 - [The Curse of Systems Thinkers](https://blog.relyabilit.ie/the-curse-of-systems-thinkers/)
 <!-- BLOG-POST-LIST:END -->
