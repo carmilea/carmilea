@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My typical working day as Software Engineer](https://dimle.wordpress.com/2022/04/24/my-typical-working-day-as-software-engineer/)
+- [Software Mise En Place](https://buttondown.email/hillelwayne/archive/software-mise-en-place/)
 - [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
-- [Exposure to 835MHz RF-EMF induces hyperactivity and demyelination in mice &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5247706/)
+- [How Nix and NixOS Get So Close to Perfect](https://christine.website/talks/nixos-pain-2021-11-10)
 - [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
-- [Will Japan run on ammonia? Major chemical firms want to build the infrastructure](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
-- [The Curse of Systems Thinkers](https://blog.relyabilit.ie/the-curse-of-systems-thinkers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
