@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No One Expects Young Men to Do Anything and They Are Responding by Doing Nothing](https://robkhenderson.substack.com/p/no-one-expects-young-men-to-do-anything)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Internet spring cleaning: How to delete Instagram, Facebook and other accounts](https://blog.mozilla.org/en/internet-culture/how-to-delete-instagram-facebook-online-accounts/)
 - [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
 - [Ultra-light liquid hydrogen tanks promise to make jet fuel obsolete](https://newatlas.com/aircraft/hypoint-gtl-lightweight-liquid-hydrogen-tank/)
-- [Human head transplant is contemplated using tiny graphene nanoribbon scaffolds](https://www.christopherreeve.org/blog/research-news/texas-peg)
-- [Ask HN: Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
-- [Energy Trends UK, October to December 2021 [pdf]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1064799/Energy_Trends_March_2022.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
