@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+- [Ultra-light liquid hydrogen tanks promise to make jet fuel obsolete](https://newatlas.com/aircraft/hypoint-gtl-lightweight-liquid-hydrogen-tank/)
+- [Human head transplant is contemplated using tiny graphene nanoribbon scaffolds](https://www.christopherreeve.org/blog/research-news/texas-peg)
 - [Ask HN: Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
 - [Energy Trends UK, October to December 2021 [pdf]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1064799/Energy_Trends_March_2022.pdf)
-- [Software Mise En Place](https://buttondown.email/hillelwayne/archive/software-mise-en-place/)
-- [New artificial enamel is harder and more durable than the real thing](https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
