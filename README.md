@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patching an Embedded Synthesiser OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
+- [Inside The New Right, Where Peter Thiel Is Placing His Biggest Bets](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets)
 - [UK-Morocco 10GW Renewable Electricity Interconnector Planned](https://xlinks.co/morocco-uk-power-project/)
 - [Transparently running binaries from any architecture in Linux &lpar;2018&rpar;](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
 - [TUI in webapp design language&lpar;CSS&rpar; and pattern&lpar;check the demo, it’s next level&rpar;](https://www.textualize.io/)
-- [No One Expects Young Men to Do Anything and They Are Responding by Doing Nothing](https://robkhenderson.substack.com/p/no-one-expects-young-men-to-do-anything)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
