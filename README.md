@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Voxel Lunar Lander in the Browser](https://github.com/EngineersNeedArt/Mooncraft2000)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Junior Sales and Customer-Facing Roles](https://bitmovin.com/careers/)
+- [Twitter set to accept Musk&#39;s &#39;best and final&#39; offer-sources as soon as today](https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/)
 - [Ask HN: Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
 - [GitHub Packages and Pages Down](https://www.githubstatus.com/incidents/b40k7ckrs7sp)
-- [Japan&#39;s Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
-- [Announcing the Hare programming language](https://harelang.org/blog/2022-04-25-announcing-hare/)
-- [How to Quiet Your Mind Chatter &lpar;2021&rpar;](https://nautil.us/how-to-quiet-your-mind-chatter-9641/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
