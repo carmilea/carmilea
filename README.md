@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook’s big vulnerability](https://thebucketreport.com/video/facebooks-big-vulnerability)
+- [Launch HN: Echoes HQ &lpar;YC S21&rpar; – Developer-friendly activity reports](https://news.ycombinator.com/item?id=31155542)
+- [Can brain scans reveal behaviour? Study says not yet](https://www.nature.com/articles/d41586-022-00767-3)
+- [Abcdesktop – a cloud native desktopless system](https://www.abcdesktop.io/)
 - [The Balloon Learning Environment](https://ai.googleblog.com/2022/02/the-balloon-learning-environment.html)
-- [Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/)
-- [Long-term risks of surgery: ‘It gives people’s brains a hard time’](https://www.theguardian.com/science/2022/apr/24/the-hidden-long-term-risks-of-surgery-it-give-peoples-brains-a-hard-time)
-- [Whats New in PHP 8.2](https://stitcher.io/blog/new-in-php-82)
-- [Low-Latency, High-Throughput Garbage Collection [pdf]](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
