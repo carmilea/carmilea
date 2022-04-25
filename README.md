@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tara AI is building a smarter alternative to Jira and hiring a growth lead](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-84924/)
+- [Ask HN: What happened to Twitter poison pill?](https://news.ycombinator.com/item?id=31157969)
 - [C++20 Ranges Algorithms – 7 Non-Modifying Operations](https://www.cppstories.com/2022/ranges-alg-part-one/)
 - [LightPC: A Resilient System Using Only Non-Volatile Memory](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=20111&skey=&sval=&list_s_date=&list_e_date=&GotoPage=1)
 - [Show HN: I Made a Magic Trick:&rpar;](https://cyrusroshan.com/hosted-projects/magic-card-paste/)
-- [New Lidar System Promises 3D Vision for Cameras, Cars, and Bots](https://spectrum.ieee.org/solid-state-lidar-2657187384)
-- [Free Open Source Tailwind CSS Components](https://www.hyperui.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
