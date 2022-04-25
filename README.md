@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study for best font for online reading: no single answer](https://www.nngroup.com/articles/best-font-for-online-reading/)
-- [Cryogenic CO2 could end rail delays caused by leaves on the line](https://www.sheffield.ac.uk/news/leaf-busting-tech-could-end-rail-delays-caused-leaves-line)
-- [The Machine Learning Job Market](https://evjang.com/2022/04/25/rome.html)
-- [Launch HN: Echoes HQ &lpar;YC S21&rpar; – Developer-friendly activity reports](https://news.ycombinator.com/item?id=31155542)
-- [Can brain scans reveal behaviour? Study says not yet](https://www.nature.com/articles/d41586-022-00767-3)
+- [C++20 Ranges Algorithms – 7 Non-Modifying Operations](https://www.cppstories.com/2022/ranges-alg-part-one/)
+- [LightPC: A Resilient System Using Only Non-Volatile Memory](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=20111&skey=&sval=&list_s_date=&list_e_date=&GotoPage=1)
+- [Show HN: I Made a Magic Trick:&rpar;](https://cyrusroshan.com/hosted-projects/magic-card-paste/)
+- [New Lidar System Promises 3D Vision for Cameras, Cars, and Bots](https://spectrum.ieee.org/solid-state-lidar-2657187384)
+- [Free Open Source Tailwind CSS Components](https://www.hyperui.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
