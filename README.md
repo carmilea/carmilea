@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: Are you going to leave Twitter after Musk&#39;s acquisition?](https://news.ycombinator.com/item?id=31159585)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+- [HireArt &lpar;YC W12&rpar; Is Hiring a Product Designer](https://www.hireart.com/jobs/0e40a78f/apply?utm_source=hackernews)
 - [Sorbet and 100% cov makes Ruby refactoring possible](https://brandur.org/fragments/large-scale-ruby-refactoring)
-- [Tara AI is building a smarter alternative to Jira and hiring a growth lead](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-84924/)
 - [Hexells – Self-Organising System of Cells Drawing Textures [WebGL]](https://znah.net/hexells/)
 - [Multimodal Art](https://multimodal.art/)
 <!-- BLOG-POST-LIST:END -->
