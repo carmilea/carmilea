@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll: Are you going to leave Twitter after Musk&#39;s acquisition?](https://news.ycombinator.com/item?id=31159585)
+- [Sorbet and 100% cov makes Ruby refactoring possible](https://brandur.org/fragments/large-scale-ruby-refactoring)
 - [Tara AI is building a smarter alternative to Jira and hiring a growth lead](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-84924/)
 - [Hexells – Self-Organising System of Cells Drawing Textures [WebGL]](https://znah.net/hexells/)
 - [Multimodal Art](https://multimodal.art/)
-- [Ask HN: What happened to Twitter poison pill?](https://news.ycombinator.com/item?id=31157969)
-- [C++20 Ranges Algorithms – 7 Non-Modifying Operations](https://www.cppstories.com/2022/ranges-alg-part-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
