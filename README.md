@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook’s big vulnerability](https://thebucketreport.com/video/facebooks-big-vulnerability)
+- [Study for best font for online reading: no single answer](https://www.nngroup.com/articles/best-font-for-online-reading/)
+- [Cryogenic CO2 could end rail delays caused by leaves on the line](https://www.sheffield.ac.uk/news/leaf-busting-tech-could-end-rail-delays-caused-leaves-line)
+- [The Machine Learning Job Market](https://evjang.com/2022/04/25/rome.html)
 - [Launch HN: Echoes HQ &lpar;YC S21&rpar; – Developer-friendly activity reports](https://news.ycombinator.com/item?id=31155542)
 - [Can brain scans reveal behaviour? Study says not yet](https://www.nature.com/articles/d41586-022-00767-3)
-- [Abcdesktop – a cloud native desktopless system](https://www.abcdesktop.io/)
-- [The Balloon Learning Environment](https://ai.googleblog.com/2022/02/the-balloon-learning-environment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
