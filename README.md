@@ -41,8 +41,8 @@
 - [How to Use SingleStore With GitHub Actions](https://www.youtube.com/watch?v=m3bXAy0FU9w)
 - [SingleStore: Powering Data-Intensive Applications](https://www.youtube.com/watch?v=PlAwxTRO5yU)
 - [International Women&#39;s Day Tech Panel](https://www.youtube.com/watch?v=_3NqKaXYIcc)
-- [SingleStore: One database. Limitless applications.](https://www.youtube.com/watch?v=g9tbUE4dQWA)
 - [How to Work With Plancache](https://www.youtube.com/watch?v=39ShzlBgqPA)
+- [How to Migrate PostgreSQL to SingleStore](https://www.youtube.com/watch?v=S32UqI6RVXw)
 <!-- YOUTUBE:END -->
 
 
