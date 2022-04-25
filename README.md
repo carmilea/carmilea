@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
+- [GitHub Packages and Pages Down](https://www.githubstatus.com/incidents/b40k7ckrs7sp)
+- [Japan&#39;s Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
 - [Announcing the Hare programming language](https://harelang.org/blog/2022-04-25-announcing-hare/)
 - [How to Quiet Your Mind Chatter &lpar;2021&rpar;](https://nautil.us/how-to-quiet-your-mind-chatter-9641/)
-- [How macOS manages M1 CPU cores](https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
