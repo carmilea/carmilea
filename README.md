@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shanghai video overwhelms Chinese censor, gets 400m views](https://austrianchina.substack.com/p/shanghai-video-gets-400m-views)
+- [Shanghai video overwhelms Chinese censor, gets 400M views](https://austrianchina.substack.com/p/shanghai-video-gets-400m-views)
 - [Crimes with Go Generics](https://christine.website/blog/gonads-2022-04-24)
 - [BYOT: Bring your own team for new-grads](https://byot.app/#byot)
+- [Ask HN: What&#39;s the most stable form of digital storage?](https://news.ycombinator.com/item?id=31149427)
 - [Show HN: I&#39;m making a dynamic language in Rust](https://github.com/mwerezak/sphinx-lang)
-- [Generating the pseudo-random codes that measured distance to Apollo spacecraft](https://righto.com/apollo/ranging-xor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
