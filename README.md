@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Balloon Learning Environment](https://ai.googleblog.com/2022/02/the-balloon-learning-environment.html)
+- [Principles of Engineering Management](https://acjay.com/2022/03/11/11-principles-of-engineering-management/)
 - [Long-term risks of surgery: ‘It gives people’s brains a hard time’](https://www.theguardian.com/science/2022/apr/24/the-hidden-long-term-risks-of-surgery-it-give-peoples-brains-a-hard-time)
 - [Whats New in PHP 8.2](https://stitcher.io/blog/new-in-php-82)
 - [Low-Latency, High-Throughput Garbage Collection [pdf]](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)
-- [Show HN: Voxel Lunar Lander in the Browser](https://github.com/EngineersNeedArt/Mooncraft2000)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Junior Sales and Customer-Facing Roles](https://bitmovin.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
