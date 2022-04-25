@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Hare programming language](https://harelang.org/blog/2022-04-25-announcing-hare/)
+- [How to Quiet Your Mind Chatter &lpar;2021&rpar;](https://nautil.us/how-to-quiet-your-mind-chatter-9641/)
+- [How macOS manages M1 CPU cores](https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
-- [Swedish slow TV : The great moose migration [Live]](https://www.svtplay.se/video/34674835/den-stora-algvandringen/den-stora-algvandringen-sasong-4-24-apr-00-00)
-- [Some things that make shell scripts have performance issues](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsAndSpeed)
-- [When elites reject data: marriage stability at the UN](https://publica.org.au/marriage-beliefs-un/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
