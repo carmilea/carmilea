@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoldWave Open Source Goal](https://www.goldwave.com/osgoal/)
+- [Show HN: PyNeuraLogic: Python Differentiable Logic Programs](https://github.com/LukasZahradnik/PyNeuraLogic)
 - [Running prettier 40x faster than prettier CLI using dprint](https://david.deno.dev/posts/faster-prettier-with-dprint/)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 - [HireArt &lpar;YC W12&rpar; Is Hiring a Product Designer](https://www.hireart.com/jobs/0e40a78f/apply?utm_source=hackernews)
 - [Writing a Linux Kernel Remote in 2022](https://blog.immunityinc.com/p/writing-a-linux-kernel-remote-in-2022/)
-- [Sorbet and 100% cov makes Ruby refactoring possible](https://brandur.org/fragments/large-scale-ruby-refactoring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
