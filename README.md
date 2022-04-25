@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
+- [When elites reject data: marriage stability at the UN](https://publica.org.au/marriage-beliefs-un/)
 - [Shanghai video overwhelms Chinese censor, gets 400M views](https://austrianchina.substack.com/p/shanghai-video-gets-400m-views)
 - [Crimes with Go Generics](https://christine.website/blog/gonads-2022-04-24)
 - [BYOT: Bring your own team for new-grads](https://byot.app/#byot)
-- [Ask HN: What&#39;s the most stable form of digital storage?](https://news.ycombinator.com/item?id=31149427)
-- [Show HN: I&#39;m making a dynamic language in Rust](https://github.com/mwerezak/sphinx-lang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
