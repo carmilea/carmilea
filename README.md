@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norway convinced Japan to love salmon sushi &lpar;2015&rpar;](https://www.npr.org/2015/09/18/441530790/how-the-desperate-norwegian-salmon-industry-created-a-sushi-staple)
-- [In a surprise move, honeybee tongue hairs repel water](https://www.acs.org/content/acs/en/pressroom/newsreleases/2022/march/in-a-surprise-move-honeybee-tongue-hairs-repel-water.html)
-- [Zeit Medical &lpar;YC S21&rpar; Is Hiring an ML scientist to enable early stroke detection](https://www.ycombinator.com/companies/zeit-medical/jobs/hUGZxm5-ml-ai-scientist-time-series-classification-signal-processing)
-- [Pushing back against contract demands is scary but please try anyway](https://blog.plover.com/law/contracts-3.html)
-- [The TTY Demystified &lpar;2008&rpar;](https://www.linusakesson.net/programming/tty/)
+- [Ask HN: What&#39;s the most stable form of digital storage?](https://news.ycombinator.com/item?id=31149427)
+- [Show HN: I&#39;m making a dynamic language in Rust](https://news.ycombinator.com/item?id=31149332)
+- [Generating the pseudo-random codes that measured distance to Apollo spacecraft](https://righto.com/apollo/ranging-xor.html)
+- [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time](https://arxiv.org/abs/2203.00671)
+- [Do the same mechanisms that create complex life also create complex technology?](https://mattsclancy.substack.com/p/progress-in-programming-as-evolution-398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
