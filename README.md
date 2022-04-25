@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
+- [Swedish slow TV : The great moose migration [Live]](https://www.svtplay.se/video/34674835/den-stora-algvandringen/den-stora-algvandringen-sasong-4-24-apr-00-00)
+- [Some things that make shell scripts have performance issues](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsAndSpeed)
 - [When elites reject data: marriage stability at the UN](https://publica.org.au/marriage-beliefs-un/)
-- [Shanghai video overwhelms Chinese censor, gets 400M views](https://austrianchina.substack.com/p/shanghai-video-gets-400m-views)
-- [Crimes with Go Generics](https://christine.website/blog/gonads-2022-04-24)
-- [BYOT: Bring your own team for new-grads](https://byot.app/#byot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
