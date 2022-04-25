@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long-term risks of surgery: ‘It gives people’s brains a hard time’](https://www.theguardian.com/science/2022/apr/24/the-hidden-long-term-risks-of-surgery-it-give-peoples-brains-a-hard-time)
+- [Whats New in PHP 8.2](https://stitcher.io/blog/new-in-php-82)
+- [Low-Latency, High-Throughput Garbage Collection [pdf]](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)
 - [Show HN: Voxel Lunar Lander in the Browser](https://github.com/EngineersNeedArt/Mooncraft2000)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Junior Sales and Customer-Facing Roles](https://bitmovin.com/careers/)
-- [Twitter set to accept Musk&#39;s &#39;best and final&#39; offer-sources as soon as today](https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/)
-- [Ask HN: Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
-- [GitHub Packages and Pages Down](https://www.githubstatus.com/incidents/b40k7ckrs7sp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
