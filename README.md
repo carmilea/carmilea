@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write a Great Git Commit Message](https://cbea.ms/git-commit/)
 - [Finley &lpar;YC W21&rpar; is a B2B fintech hiring in sales and eng &lpar;US remote&rpar;](https://www.finleycms.com/work-at-finley)
 - [Alphabet Announces First Quarter 2022 Results](https://abc.xyz/investor/static/pdf/2022Q1_alphabet_earnings_release.pdf?cache=d9e9d97)
 - [Why Pessimism Sounds Smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
 - [Stress hormone reduces altruistic behavior in empathetic people](https://neurosciencenews.com/cortisol-altrusim-empathy-20262/)
-- [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
 <!-- BLOG-POST-LIST:END -->
 
 ---
