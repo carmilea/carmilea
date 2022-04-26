@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with Mechanical Switch Reviews](https://input.club/the-problem-with-mechanical-switch-reviews/)
-- [Indian cows &lpar;and buffaloes&rpar; are going online](https://www.economist.com/asia/2022/04/21/indian-cows-and-buffaloes-are-going-online)
-- [Launch HN: Kraftful &lpar;YC S19&rpar; – UX Analytics for IoT Products](https://news.ycombinator.com/item?id=31167368)
-- [Justify Your Exclusion Criteria](https://trevorklee.substack.com/p/one-neat-trick-for-instantly-improving)
-- [Zq: An Easier &lpar;and Faster&rpar; Alternative to Jq](https://www.brimdata.io/blog/introducing-zq/)
+- [Sell Bitcoin, Save Lives: Some Bitcoin Simulators](https://www.sellbitcoinsavelives.org/)
+- [Reloadium – Advanced hot reloading for Python](https://github.com/reloadware/reloadium)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [MCC &lpar;Master Chief Collection&rpar; Server Incident Summary](https://www.halowaypoint.com/news/mcc-server-incident-summary)
+- [The Problem with Mechanical Switch Reviews &lpar;2016&rpar;](https://input.club/the-problem-with-mechanical-switch-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
