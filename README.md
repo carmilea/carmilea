@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I can’t do on macOS which I can do on Ubuntu](https://shkspr.mobi/blog/2020/04/things-i-cant-do-on-macos-which-i-can-do-on-ubuntu/)
-- [Poll: What book should I write?](https://news.ycombinator.com/item?id=31165257)
-- [Show HN: thin.dev, back end for making realtime, typesafe React Apps](https://thin.dev/)
-- [Tools for a Culture of Writing &lpar;2021&rpar;](https://matt.blwt.io/post/tools-for-a-culture-of-writing/)
-- [Electronics Explained: Fundamentals for Engineers, Technicians, and Makers](https://www.sciencedirect.com/book/9780128116418/electronics-explained)
+- [Firezone &lpar;YC W22&rpar; Is Hiring Engineers to Build an Open-Source Security Platform](https://www.ycombinator.com/companies/firezone/jobs)
+- [LineageOS 19](https://lineageos.org/Changelog-26/)
+- [Ask HN: What happens with stock grants for Twitter employees?](https://news.ycombinator.com/item?id=31166225)
+- [Rotary Un-Smartphone Kit](https://skysedge.com/unsmartphones/RUSP/index.html)
+- [Ask HN: How to ask employer to match inflation rate, independent of pay rise](https://news.ycombinator.com/item?id=31166006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
