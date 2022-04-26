@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon – A Federated Twitter Alternative](https://joinmastodon.org/)
 - [Tools for a Culture of Writing &lpar;2021&rpar;](https://matt.blwt.io/post/tools-for-a-culture-of-writing/)
 - [Electronics Explained: Fundamentals for Engineers, Technicians, and Makers](https://www.sciencedirect.com/book/9780128116418/electronics-explained)
-- [Tell HN: Amazon.com is limiting purchases of Audio CDs to four-per-week](https://news.ycombinator.com/item?id=31163300)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Hush, a modern shell scripting language](https://hush-shell.github.io/)
-- [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
 <!-- BLOG-POST-LIST:END -->
 
 ---
