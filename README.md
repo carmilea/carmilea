@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tools for a Culture of Writing &lpar;2021&rpar;](https://matt.blwt.io/post/tools-for-a-culture-of-writing/)
+- [Electronics Explained: Fundamentals for Engineers, Technicians, and Makers](https://www.sciencedirect.com/book/9780128116418/electronics-explained)
 - [Tell HN: Amazon.com is limiting purchases of Audio CDs to four-per-week](https://news.ycombinator.com/item?id=31163300)
 - [Hush, a modern shell scripting language](https://hush-shell.github.io/)
 - [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
-- [PSA: Git.io links will stop working in 3 days &lpar;29 of April 2022&rpar;](https://github.blog/changelog/2022-04-25-git-io-deprecation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
