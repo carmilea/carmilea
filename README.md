@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem with Mechanical Switch Reviews](https://input.club/the-problem-with-mechanical-switch-reviews/)
+- [Indian cows &lpar;and buffaloes&rpar; are going online](https://www.economist.com/asia/2022/04/21/indian-cows-and-buffaloes-are-going-online)
+- [Launch HN: Kraftful &lpar;YC S19&rpar; – UX Analytics for IoT Products](https://news.ycombinator.com/item?id=31167368)
+- [Justify Your Exclusion Criteria](https://trevorklee.substack.com/p/one-neat-trick-for-instantly-improving)
 - [Zq: An Easier &lpar;and Faster&rpar; Alternative to Jq](https://www.brimdata.io/blog/introducing-zq/)
-- [The Cultural Meaning of Shitposting](https://whyisthisinteresting.substack.com/p/the-shitposting-edition)
-- [Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps](https://www.flycode.com/developers)
-- [World military expenditure passes $2T for first time](https://www.sipri.org/media/press-release/2022/world-military-expenditure-passes-2-trillion-first-time)
-- [High-Security Mechanical Locks &lpar;2020&rpar;](https://swiftsilentdeadly.com/high-security-mechanical-locks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
