@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in Neovim 0.7](https://neovim.io/news/2022/04)
+- [Why Pessimism Sounds Smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
+- [Book Review: A Clinical Introduction to Lacanian Psychoanalysis](https://astralcodexten.substack.com/p/book-review-a-clinical-introduction)
 - [Stress hormone reduces altruistic behavior in empathetic people](https://neurosciencenews.com/cortisol-altrusim-empathy-20262/)
+- [Prototyping a Logo programming environment inside natto.dev [video]](https://www.youtube.com/watch?v=XmS0QGan_Qs)
 - [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
-- [Show HN: Caddy v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0)
-- [OneLogin Outage](https://www.onelogin.com/status)
 <!-- BLOG-POST-LIST:END -->
 
 ---
