@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hush, a modern shell scripting language](https://hush-shell.github.io/)
 - [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
+- [PSA: Git.io links will stop working in 3 days &lpar;29 of April 2022&rpar;](https://github.blog/changelog/2022-04-25-git-io-deprecation/)
 - [Manara &lpar;YC W21&rpar; Is Hiring a senior front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
-- [Domain Driven Design Reference [pdf]](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
-- [Elegant six-page proof reveals the emergence of random structure](https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/)
+- [Domain Driven Design Reference &lpar;2015&rpar; [pdf]](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
