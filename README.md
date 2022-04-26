@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sell Bitcoin, Save Lives: Some Bitcoin Simulators](https://www.sellbitcoinsavelives.org/)
+- [3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work](https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html)
+- [Let&#39;s talk about supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
+- [macOS 8 running entirely in the browser](https://macos8.app/)
+- [Indigenous Myth and Science: From Egypt to New Zealand](https://lawrencekrauss.substack.com/p/indigenous-myth-and-science-from)
 - [Reloadium – Advanced hot reloading for Python](https://github.com/reloadware/reloadium)
-- [Effective Go](https://go.dev/doc/effective_go)
-- [MCC &lpar;Master Chief Collection&rpar; Server Incident Summary](https://www.halowaypoint.com/news/mcc-server-incident-summary)
-- [The Problem with Mechanical Switch Reviews &lpar;2016&rpar;](https://input.club/the-problem-with-mechanical-switch-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
