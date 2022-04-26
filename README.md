@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firezone &lpar;YC W22&rpar; Is Hiring Engineers to Build an Open-Source Security Platform](https://www.ycombinator.com/companies/firezone/jobs)
-- [LineageOS 19](https://lineageos.org/Changelog-26/)
-- [Ask HN: What happens with stock grants for Twitter employees?](https://news.ycombinator.com/item?id=31166225)
-- [Rotary Un-Smartphone Kit](https://skysedge.com/unsmartphones/RUSP/index.html)
-- [Ask HN: How to ask employer to match inflation rate, independent of pay rise](https://news.ycombinator.com/item?id=31166006)
+- [Zq: An Easier &lpar;and Faster&rpar; Alternative to Jq](https://www.brimdata.io/blog/introducing-zq/)
+- [The Cultural Meaning of Shitposting](https://whyisthisinteresting.substack.com/p/the-shitposting-edition)
+- [Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps](https://www.flycode.com/developers)
+- [World military expenditure passes $2T for first time](https://www.sipri.org/media/press-release/2022/world-military-expenditure-passes-2-trillion-first-time)
+- [High-Security Mechanical Locks &lpar;2020&rpar;](https://swiftsilentdeadly.com/high-security-mechanical-locks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
