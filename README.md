@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet Announces First Quarter 2022 Results](https://abc.xyz/investor/static/pdf/2022Q1_alphabet_earnings_release.pdf?cache=d9e9d97)
 - [Why Pessimism Sounds Smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
-- [Book Review: A Clinical Introduction to Lacanian Psychoanalysis](https://astralcodexten.substack.com/p/book-review-a-clinical-introduction)
+- [I received a patent infringement email for my weekend project &lpar;2010&rpar;](https://www.royvanrijn.com/blog/2010/07/patent-infringement/)
 - [Stress hormone reduces altruistic behavior in empathetic people](https://neurosciencenews.com/cortisol-altrusim-empathy-20262/)
-- [Prototyping a Logo programming environment inside natto.dev [video]](https://www.youtube.com/watch?v=XmS0QGan_Qs)
 - [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
 <!-- BLOG-POST-LIST:END -->
 
