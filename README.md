@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in Neovim 0.7](https://neovim.io/news/2022/04)
+- [Stress hormone reduces altruistic behavior in empathetic people](https://neurosciencenews.com/cortisol-altrusim-empathy-20262/)
+- [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
+- [Show HN: Caddy v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0)
 - [OneLogin Outage](https://www.onelogin.com/status)
-- [Runops is fixing security tech from the 80s and hiring dev advocate](https://www.ycombinator.com/companies/runops/jobs/4S6TgVQ-data-privacy-devops-advocate)
-- [Twitter owner transition: Temporary ban on product updates after Elon Musk deal](https://www.bloomberg.com/news/articles/2022-04-25/twitter-locks-down-product-changes-after-agreeing-to-musk-bid)
-- [3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work](https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html)
-- [Incremental Learning](http://www.super-memory.com/help/il.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
