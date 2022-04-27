@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top US corporations raising prices on Americans even as profits surge](https://www.theguardian.com/business/2022/apr/27/inflation-corporate-america-increased-prices-profits)
+- [I Got a Computer Science Degree in 3 Months for Less Than $5000 &lpar;2020&rpar;](https://miguelrochefort.com/blog/cs-degree/)
+- [90% of nurses considering leaving the profession in the next year](https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year)
+- [Ask HN: What tech companies/industries will do well in a recession?](https://news.ycombinator.com/item?id=31180508)
+- [Ask HN: Why can&#39;t I host my own email](https://news.ycombinator.com/item?id=31180379)
 - [Central African Republic Adopts Bitcoin as Legal Tender](https://www.coindesk.com/business/2022/04/27/central-african-republic-adopts-bitcoin-as-legal-tender/)
-- [Google almost convinced me to spend $400 on useless laser treatments](https://blog.tjcx.me/p/google-terrible-health-information)
-- [Apple’s Self Service Repair now available](https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/)
-- [Playhouse &lpar;YC S21&rpar; Is Hiring a Founding Full-Stack Engineer](https://www.ycombinator.com/companies/playhouse/jobs/s9TaYfC-founding-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
