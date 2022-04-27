@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Meta Earnings Results Q1 2022 [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q1/Q1-2022_Earnings-Presentation_Final.pdf)
 - [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
+- [Ask HN: Do you feel overwhelmed by the amount of information?](https://news.ycombinator.com/item?id=31185038)
 - [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
 - [North Koreans are jailbreaking phones to access forbidden media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
 <!-- BLOG-POST-LIST:END -->
