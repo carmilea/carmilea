@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It the “New York Review of Each Other’s Books”?](https://danielstone.substack.com/p/new-york-review-of-books-of-each-others-books)
-- [Public Money, Public Code](https://publiccode.eu/)
-- [Why companies move off Heroku &lpar;besides the cost&rpar;](https://blog.porter.run/why-companies-move-off-heroku/)
-- [Ask HN: What Happened to Pinboard &lpar;April &#39;22 edition&rpar;?](https://news.ycombinator.com/item?id=31183419)
-- [Pachyderm &lpar;YC W15&rpar; Is Hiring SDET/Build/Release Engineers](https://www.pachyderm.com/careers/#positions)
+- [We built 50 coming soon page templates with Tailwind CSS cause we couldn&#39;t find](https://comingsoonkit.com/)
+- [rq: Universal convertor between structured data &lpar;JSON, MessagePack, CBOR, etc.&rpar;](https://github.com/dflemstr/rq)
+- [North Koreans Are Jailbreaking Phones to Access Forbidden Media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
+- [Interactive, file-level Time Machine-like tool for ZFS](https://github.com/kimono-koans/httm)
+- [Is it the “New York Review of Each Other’s Books”?](https://danielstone.substack.com/p/new-york-review-of-books-of-each-others-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
