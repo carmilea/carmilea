@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+- [Khan Academy launches Khan World School online high school](https://asuprep.asu.edu/khan-world-school/)
 - [Deutsche Bank whistleblower found dead in LA&#39;s Lincoln Park](https://heysocal.com/2022/04/26/deutsche-bank-whistleblower-found-dead-in-las-lincoln-park/)
+- [Covid Influencers: Who Is Risa Hoshino?](https://sarahburwick.substack.com/p/who-is-risa-hoshino)
 - [Uber concedes deception, prepares for $26m ACCC spanking](https://www.innovationaus.com/uber-concedes-deception-prepares-for-26m-accc-spanking/)
-- [SELinux is unmanageable; just turn it off if it gets in your way](https://www.ctrl.blog/entry/selinux-unmanageable.html)
-- [The Datasette Ecosystem](https://docs.datasette.io/en/stable/ecosystem.html)
-- [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://arxiv.org/abs/2204.11918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
