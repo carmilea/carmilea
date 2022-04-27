@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top US corporations raising prices on Americans even as profits surge](https://www.theguardian.com/business/2022/apr/27/inflation-corporate-america-increased-prices-profits)
 - [Central African Republic Adopts Bitcoin as Legal Tender](https://www.coindesk.com/business/2022/04/27/central-african-republic-adopts-bitcoin-as-legal-tender/)
 - [Google almost convinced me to spend $400 on useless laser treatments](https://blog.tjcx.me/p/google-terrible-health-information)
 - [Apple’s Self Service Repair now available](https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/)
 - [Playhouse &lpar;YC S21&rpar; Is Hiring a Founding Full-Stack Engineer](https://www.ycombinator.com/companies/playhouse/jobs/s9TaYfC-founding-full-stack-engineer)
-- [Tutorial Series to learn Common Lisp quickly](https://github.com/rabbibotton/clog/blob/main/LEARN.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
