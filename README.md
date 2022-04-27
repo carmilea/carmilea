@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We built 50 coming soon page templates with Tailwind CSS cause we couldn&#39;t find](https://comingsoonkit.com/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Meta Earnings Results Q1 2022 [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q1/Q1-2022_Earnings-Presentation_Final.pdf)
+- [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
 - [rq: Universal convertor between structured data &lpar;JSON, MessagePack, CBOR, etc.&rpar;](https://github.com/dflemstr/rq)
 - [North Koreans Are Jailbreaking Phones to Access Forbidden Media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
-- [Interactive, file-level Time Machine-like tool for ZFS](https://github.com/kimono-koans/httm)
-- [Is it the “New York Review of Each Other’s Books”?](https://danielstone.substack.com/p/new-york-review-of-books-of-each-others-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
