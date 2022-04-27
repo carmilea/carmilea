@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why companies move off Heroku &lpar;besides the cost&rpar;](https://blog.porter.run/why-companies-move-off-heroku/)
 - [Pachyderm &lpar;YC W15&rpar; Is Hiring SDET/Build/Release Engineers](https://www.pachyderm.com/careers/#positions)
+- [The Lost Art of C Structure Packing &lpar;2014&rpar;](http://www.catb.org/esr/structure-packing/)
 - [Running Containers on AWS Lambda](https://earthly.dev/blog/aws-lambda-docker/)
 - [Show HN: gq – like jq or zq, but you use Go](https://github.com/hherman1/gq)
-- [Heatwave in India breaks records, still worsening](https://earthsky.org/earth/heatwave-in-india-breaks-records/)
-- [So Long Surrogates: How We Moved to UTF-8 in Haskell](https://www.channable.com/tech/so-long-surrogatesa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
