@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm &lpar;YC W15&rpar; Is Hiring SDET/Build/Release Engineers](https://www.pachyderm.com/careers/#positions)
+- [Running Containers on AWS Lambda](https://earthly.dev/blog/aws-lambda-docker/)
 - [Show HN: gq – like jq or zq, but you use Go](https://github.com/hherman1/gq)
 - [Heatwave in India breaks records, still worsening](https://earthsky.org/earth/heatwave-in-india-breaks-records/)
 - [So Long Surrogates: How We Moved to UTF-8 in Haskell](https://www.channable.com/tech/so-long-surrogatesa)
-- [Show HN: Loodio – A Bathroom Privacy Device](https://news.ycombinator.com/item?id=31181237)
-- [I Got a Computer Science Degree in 3 Months for Less Than $5000 &lpar;2020&rpar;](https://miguelrochefort.com/blog/cs-degree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
