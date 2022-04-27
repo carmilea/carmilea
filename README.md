@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Statistical Analysis shows Echos process voice to serve ads](https://arxiv.org/abs/2204.10920)
+- [FFmpeg now supports JPEG XL](https://git.videolan.org/?p=ffmpeg.git;a=commit;h=0008c159562b877700cd9b7c96f941de4ee69af5)
 - [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+- [Translate a message 10 times into different languages and back](https://loneliness.one/translate)
 - [Khan Academy launches Khan World School online high school](https://asuprep.asu.edu/khan-world-school/)
-- [Deutsche Bank whistleblower found dead in LA&#39;s Lincoln Park](https://heysocal.com/2022/04/26/deutsche-bank-whistleblower-found-dead-in-las-lincoln-park/)
-- [Covid Influencers: Who Is Risa Hoshino?](https://sarahburwick.substack.com/p/who-is-risa-hoshino)
-- [Uber concedes deception, prepares for $26m ACCC spanking](https://www.innovationaus.com/uber-concedes-deception-prepares-for-26m-accc-spanking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
