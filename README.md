@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT researchers develop a paper thin loudspeaker](https://news.mit.edu/2022/low-power-thin-loudspeaker-0426)
 - [Introduction to Haskell Typeclasses](https://serokell.io/blog/haskell-typeclasses)
 - [Statistical Analysis shows Echos process voice to serve ads](https://arxiv.org/abs/2204.10920)
 - [FFmpeg now supports JPEG XL](https://git.videolan.org/?p=ffmpeg.git;a=commit;h=0008c159562b877700cd9b7c96f941de4ee69af5)
 - [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
-- [Khan Academy launches Khan World School online high school](https://asuprep.asu.edu/khan-world-school/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
