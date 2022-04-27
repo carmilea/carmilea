@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is It the “New York Review of Each Other’s Books”?](https://danielstone.substack.com/p/new-york-review-of-books-of-each-others-books)
+- [Public Money, Public Code](https://publiccode.eu/)
 - [Why companies move off Heroku &lpar;besides the cost&rpar;](https://blog.porter.run/why-companies-move-off-heroku/)
+- [Ask HN: What Happened to Pinboard &lpar;April &#39;22 edition&rpar;?](https://news.ycombinator.com/item?id=31183419)
 - [Pachyderm &lpar;YC W15&rpar; Is Hiring SDET/Build/Release Engineers](https://www.pachyderm.com/careers/#positions)
-- [The Lost Art of C Structure Packing &lpar;2014&rpar;](http://www.catb.org/esr/structure-packing/)
-- [Running Containers on AWS Lambda](https://earthly.dev/blog/aws-lambda-docker/)
-- [Show HN: gq – like jq or zq, but you use Go](https://github.com/hherman1/gq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
