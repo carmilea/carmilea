@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Haskell Typeclasses](https://serokell.io/blog/haskell-typeclasses)
 - [Statistical Analysis shows Echos process voice to serve ads](https://arxiv.org/abs/2204.10920)
 - [FFmpeg now supports JPEG XL](https://git.videolan.org/?p=ffmpeg.git;a=commit;h=0008c159562b877700cd9b7c96f941de4ee69af5)
 - [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
-- [Translate a message 10 times into different languages and back](https://loneliness.one/translate)
 - [Khan Academy launches Khan World School online high school](https://asuprep.asu.edu/khan-world-school/)
 <!-- BLOG-POST-LIST:END -->
 
