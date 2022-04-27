@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deutsche Bank whistleblower found dead in LA&#39;s Lincoln Park](https://heysocal.com/2022/04/26/deutsche-bank-whistleblower-found-dead-in-las-lincoln-park/)
+- [Uber concedes deception, prepares for $26m ACCC spanking](https://www.innovationaus.com/uber-concedes-deception-prepares-for-26m-accc-spanking/)
 - [SELinux is unmanageable; just turn it off if it gets in your way](https://www.ctrl.blog/entry/selinux-unmanageable.html)
-- [Code licensed under the AGPL must not be used at Google](https://opensource.google/documentation/reference/using/agpl-policy)
 - [The Datasette Ecosystem](https://docs.datasette.io/en/stable/ecosystem.html)
 - [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://arxiv.org/abs/2204.11918)
-- [Textsynth: Bellard&#39;s free GPT-NeoX-20B, GPT-J playground and paid API](https://textsynth.com/playground.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
