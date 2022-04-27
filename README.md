@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: gq – like jq or zq, but you use Go](https://github.com/hherman1/gq)
+- [Heatwave in India breaks records, still worsening](https://earthsky.org/earth/heatwave-in-india-breaks-records/)
+- [So Long Surrogates: How We Moved to UTF-8 in Haskell](https://www.channable.com/tech/so-long-surrogatesa)
+- [Show HN: Loodio – A Bathroom Privacy Device](https://news.ycombinator.com/item?id=31181237)
 - [I Got a Computer Science Degree in 3 Months for Less Than $5000 &lpar;2020&rpar;](https://miguelrochefort.com/blog/cs-degree/)
-- [90% of nurses considering leaving the profession in the next year](https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year)
-- [Ask HN: What tech companies/industries will do well in a recession?](https://news.ycombinator.com/item?id=31180508)
-- [Ask HN: Why can&#39;t I host my own email](https://news.ycombinator.com/item?id=31180379)
-- [Central African Republic Adopts Bitcoin as Legal Tender](https://www.coindesk.com/business/2022/04/27/central-african-republic-adopts-bitcoin-as-legal-tender/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
