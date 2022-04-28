@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Security Roundup: How SingleStore Customers Power the World’s Cyber Security](https://www.singlestore.com/blog/cyber-security-roundup-how-singlestore-customers-power-the-worlds-cyber-security)
-- [Inform 7 v10.1.0 is now open-source](https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674)
-- [Near-linear speedup for CPU compute on 20-core Mac Studio](http://hrtapps.com/blogs/20220427/)
-- [Tell HN: By default, New Relic will start collecting production log data on 5/3](https://news.ycombinator.com/item?id=31195476)
-- [You Don&#39;t Need a F % ing Blockchain](https://cmdli.dev/blog/blockchain/)
+- [Amazon Q1/2022 [pdf]](https://s2.q4cdn.com/299287126/files/doc_financials/2022/q1/Q1-2022-Amazon-Earnings-Release.pdf)
+- [OpenRA: Open-source RTS game engine for games such as Command and Conquer](https://github.com/OpenRA/OpenRA)
+- [Gnome patent troll stripped of patent rights](https://blog.opensource.org/gnome-patent-troll-stripped-of-patent-rights/)
+- [EU considers banning use of up to 12,000 toxic chemicals](https://www.upi.com/Health_News/2022/04/26/europe-toxic-chemicals-ban-eu/8111650971773/)
+- [Core dumps, feedback loops, and a game of telephone](https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
