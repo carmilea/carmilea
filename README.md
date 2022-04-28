@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a decentralized cluster membership with failure detection in rust](https://quickwit.io/blog/chitchat/)
+- [NASA’s Mars Helicopter Spots Gear That Helped Perseverance Rover Land](https://www.jpl.nasa.gov/news/nasas-mars-helicopter-spots-gear-that-helped-perseverance-rover-land)
 - [Measuring TCP performance over Fibre, geostationary satellite and Starlink](https://www.potaroo.net/ispcol/2022-04/leogeo.html)
 - [Blockchain Is Dangerous Nonsense](https://www.eisfunke.com/article/blockchain-technology.html)
-- [Clipboard Health &lpar;YC W17&rpar; Is Hiring an Engineering Manager, QA](https://culture.clipboardhealth.com/engineering/engineering-manager-quality?utm_campaign=emqa&utm_medium=hackernews&utm_source=jobad)
-- [Scientists: Japan&#39;s Plan to Dump Nuclear Waste into the Pacific Ocean Not Safe](https://www.civilbeat.org/2022/04/scientists-japans-plan-to-dump-nuclear-waste-into-the-pacific-ocean-may-not-be-safe/)
-- [Tell HN: Facebook is blocking the publiccode.eu open letter initiative as spam](https://news.ycombinator.com/item?id=31189377)
+- [Show HN: Hatch 1.0.0 – Modern, extensible Python project management](https://github.com/ofek/hatch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
