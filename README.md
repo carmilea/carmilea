@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Security Roundup: How SingleStore Customers Power the World’s Cyber Security](https://www.singlestore.com/blog/cyber-security-roundup-how-singlestore-customers-power-the-worlds-cyber-security)
 - [Inform 7 v10.1.0 is now open-source](https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674)
+- [Near-linear speedup for CPU compute on 20-core Mac Studio](http://hrtapps.com/blogs/20220427/)
 - [Tell HN: By default, New Relic will start collecting production log data on 5/3](https://news.ycombinator.com/item?id=31195476)
 - [You Don&#39;t Need a F % ing Blockchain](https://cmdli.dev/blog/blockchain/)
-- [PropelAuth &lpar;YC W22&rpar; is hiring Rust developers](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-senior-backend-engineer)
-- [Twitter admits it overstated users for years ahead of Elon Musk takeover](https://www.axios.com/twitter-overstated-users-elon-musk-deal-f7cecef1-b156-4998-91ff-37f6f56c82e0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
