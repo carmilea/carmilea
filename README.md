@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Economy Shrinks in First Quarter of 2022](https://www.nationalreview.com/news/u-s-economy-shrinks-in-first-quarter-of-2022/)
-- [Balloon detects first signs of a ‘sound tunnel’ in the sky](https://www.science.org/content/article/balloon-detects-first-signs-sound-tunnel-sky)
-- [Distilling the Real Cost of Production Garbage Collectors [pdf]](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf)
-- [E Ink Launches E Ink Gallery 3 Color &lpar;Rollable&rpar; EPaper](https://www.eink.com/news.html?type=releasedetail&id=2645&year=2022&page=1)
-- [U.S. economy shrank at a 1.4% annual rate in the first quarter](https://www.wsj.com/articles/us-economy-gdp-growth-q1-11651108351)
+- [New Links Found Between Musical Training and Cognitive Ability](https://neurosciencenews.com/musical-training-cognition-20467/)
+- [Dashworks &lpar;YC W20&rpar; Is Hiring a Senior Product Engineer](https://www.ycombinator.com/companies/dashworks/jobs/BlnGlki-senior-product-engineer)
+- [Show HN: Free 30-year financial statements visualization](https://www.fintopea.com)
+- [Copilot is closing](https://meet.copilot.com/closing/)
+- [Actor system for the JVM developed by Electronic Arts](https://www.orbit.cloud/orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
