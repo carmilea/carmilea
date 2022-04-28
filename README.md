@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why isn&#39;t anyone talking about soil? The cause of a potential apocalypse by 2040](https://news.ycombinator.com/item?id=31189762)
 - [Clipboard Health &lpar;YC W17&rpar; Is Hiring an Engineering Manager, QA](https://culture.clipboardhealth.com/engineering/engineering-manager-quality?utm_campaign=emqa&utm_medium=hackernews&utm_source=jobad)
+- [Scientists: Japan&#39;s Plan to Dump Nuclear Waste into the Pacific Ocean Not Safe](https://www.civilbeat.org/2022/04/scientists-japans-plan-to-dump-nuclear-waste-into-the-pacific-ocean-may-not-be-safe/)
+- [Tell HN: Facebook is blocking the publiccode.eu open letter initiative as spam](https://news.ycombinator.com/item?id=31189377)
 - [Rocket Mortgage to trim 8% of workforce as home-loan market shrinks](https://www.detroitnews.com/story/business/2022/04/25/rocket-mortgage-trim-workforce-home-loan-market-shrinks/7445270001/)
-- [The SymPy/HackerRank DMCA Incident](https://www.asmeurer.com/blog/posts/the-sympy-hackerrank-dmca-incident/)
-- [Testing my system code in /usr/ without modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
-- [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
