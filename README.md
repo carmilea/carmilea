@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Details emerge of Air France B777 landing incident](https://www.aerotime.aero/articles/30863-air-france-boeing-777-incident-bea-update)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Hide a photo inside another photo](https://www.avestura.dev/blog/hide-a-photo-inside-another-photo)
-- [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/)
 - [Amazon Q1/2022 [pdf]](https://s2.q4cdn.com/299287126/files/doc_financials/2022/q1/Q1-2022-Amazon-Earnings-Release.pdf)
-- [Hacking attractiveness biases in hiring? The role of beautifying photo-filters](https://www.emerald.com/insight/content/doi/10.1108/MD-06-2021-0747/full/html)
+- [OpenRA: Open-source RTS game engine for games such as Command and Conquer](https://github.com/OpenRA/OpenRA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
