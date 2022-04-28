@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
+- [The death rate for children has dropped dramatically](https://www.npr.org/sections/goatsandsoda/2022/04/27/1093856457/the-death-rate-for-children-has-dropped-dramatically-yet-theres-cause-for-alarm)
+- [Terraform Provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify)
+- [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
 - [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
-- [Ask HN: Do you feel overwhelmed by the amount of information?](https://news.ycombinator.com/item?id=31185038)
-- [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
-- [North Koreans are jailbreaking phones to access forbidden media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
