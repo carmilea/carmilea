@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neon Is Hiring – Technical Writer](https://news.ycombinator.com/item?id=31191470)
+- [Ancient Temple dedicated to Zeus discovered in Egypt](https://www.livescience.com/zeus-temple-ancient-egypt)
+- [Fishing uranium from the ocean with a spider-silk line &lpar;2019&rpar;](https://cen.acs.org/materials/Fishing-uranium-ocean-spider-silk/97/web/2019/07)
 - [Append Reddit – Chrome extension that redoes searches with Reddit appended](https://chrome.google.com/webstore/detail/append-reddit/hfgllcmkdcpljffbcejhkengkfkiciob)
 - [Japanese rail company rolls out VR-piloted Gundam robot worker](https://newatlas.com/robotics/jr-west-gundam-maintenance-robot/)
-- [Are the Great Lakes really Inland Seas](https://www.atlasobscura.com/articles/great-lakes-inland-seas)
-- [An automatic theorem proving project](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/)
-- [Decentralized cluster membership in Rust](https://quickwit.io/blog/chitchat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
