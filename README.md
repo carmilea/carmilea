@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing my System Code in /usr/ Without Modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
+- [The SymPy/HackerRank DMCA Incident](https://www.asmeurer.com/blog/posts/the-sympy-hackerrank-dmca-incident/)
+- [Testing my system code in /usr/ without modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
 - [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
 - [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
-- [Do developers think Web3 will build a better internet?](https://stackoverflow.blog/2022/04/20/new-data-developers-web3/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
 <!-- BLOG-POST-LIST:END -->
 
