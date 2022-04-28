@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Economy Shrinks in First Quarter of 2022](https://www.nationalreview.com/news/u-s-economy-shrinks-in-first-quarter-of-2022/)
+- [Balloon detects first signs of a ‘sound tunnel’ in the sky](https://www.science.org/content/article/balloon-detects-first-signs-sound-tunnel-sky)
+- [Distilling the Real Cost of Production Garbage Collectors [pdf]](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf)
 - [E Ink Launches E Ink Gallery 3 Color &lpar;Rollable&rpar; EPaper](https://www.eink.com/news.html?type=releasedetail&id=2645&year=2022&page=1)
-- [Ask HN: Does anyone use a Raspberry Pi as your main computer?](https://news.ycombinator.com/item?id=31191817)
 - [U.S. economy shrank at a 1.4% annual rate in the first quarter](https://www.wsj.com/articles/us-economy-gdp-growth-q1-11651108351)
-- [Neon Is Hiring – Technical Writer](https://news.ycombinator.com/item?id=31191470)
-- [Ancient Temple dedicated to Zeus discovered in Egypt](https://www.livescience.com/zeus-temple-ancient-egypt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
