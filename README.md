@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing my System Code in /usr/ Without Modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
+- [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
+- [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
+- [Do developers think Web3 will build a better internet?](https://stackoverflow.blog/2022/04/20/new-data-developers-web3/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
-- [The death rate for children has dropped dramatically](https://www.npr.org/sections/goatsandsoda/2022/04/27/1093856457/the-death-rate-for-children-has-dropped-dramatically-yet-theres-cause-for-alarm)
-- [Terraform Provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify)
-- [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
-- [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
