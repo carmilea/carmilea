@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a decentralized cluster membership with failure detection in rust](https://quickwit.io/blog/chitchat/)
-- [NASA’s Mars Helicopter Spots Gear That Helped Perseverance Rover Land](https://www.jpl.nasa.gov/news/nasas-mars-helicopter-spots-gear-that-helped-perseverance-rover-land)
-- [Measuring TCP performance over Fibre, geostationary satellite and Starlink](https://www.potaroo.net/ispcol/2022-04/leogeo.html)
-- [Blockchain Is Dangerous Nonsense](https://www.eisfunke.com/article/blockchain-technology.html)
-- [Show HN: Hatch 1.0.0 – Modern, extensible Python project management](https://github.com/ofek/hatch)
+- [Append Reddit – Chrome extension that redoes searches with Reddit appended](https://chrome.google.com/webstore/detail/append-reddit/hfgllcmkdcpljffbcejhkengkfkiciob)
+- [Japanese rail company rolls out VR-piloted Gundam robot worker](https://newatlas.com/robotics/jr-west-gundam-maintenance-robot/)
+- [Are the Great Lakes really Inland Seas](https://www.atlasobscura.com/articles/great-lakes-inland-seas)
+- [An automatic theorem proving project](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/)
+- [Decentralized cluster membership in Rust](https://quickwit.io/blog/chitchat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
