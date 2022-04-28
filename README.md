@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clipboard Health &lpar;YC W17&rpar; Is Hiring an Engineering Manager, QA](https://culture.clipboardhealth.com/engineering/engineering-manager-quality?utm_campaign=emqa&utm_medium=hackernews&utm_source=jobad)
 - [Rocket Mortgage to trim 8% of workforce as home-loan market shrinks](https://www.detroitnews.com/story/business/2022/04/25/rocket-mortgage-trim-workforce-home-loan-market-shrinks/7445270001/)
 - [The SymPy/HackerRank DMCA Incident](https://www.asmeurer.com/blog/posts/the-sympy-hackerrank-dmca-incident/)
 - [Testing my system code in /usr/ without modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
 - [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
-- [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
