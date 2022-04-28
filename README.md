@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I employed a California resident, so now I’m subject to its regulations](https://ccleve.com/p/dont-hire-remote-employees-living)
+- [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
+- [Tackling multiple tasks with a single visual language model](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 - [New Links Found Between Musical Training and Cognitive Ability](https://neurosciencenews.com/musical-training-cognition-20467/)
-- [Dashworks &lpar;YC W20&rpar; Is Hiring a Senior Product Engineer](https://www.ycombinator.com/companies/dashworks/jobs/BlnGlki-senior-product-engineer)
-- [Show HN: Free 30-year financial statements visualization](https://www.fintopea.com)
-- [Copilot is closing](https://meet.copilot.com/closing/)
-- [Actor system for the JVM developed by Electronic Arts](https://www.orbit.cloud/orbit/)
+- [Nobody Will Admit the Best Novel of Our Generation Is About Football](https://www.residentcontrarian.com/p/nobody-will-admit-the-best-novel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
