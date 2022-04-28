@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why isn&#39;t anyone talking about soil? The cause of a potential apocalypse by 2040](https://news.ycombinator.com/item?id=31189762)
+- [Measuring TCP performance over Fibre, geostationary satellite and Starlink](https://www.potaroo.net/ispcol/2022-04/leogeo.html)
+- [Blockchain Is Dangerous Nonsense](https://www.eisfunke.com/article/blockchain-technology.html)
 - [Clipboard Health &lpar;YC W17&rpar; Is Hiring an Engineering Manager, QA](https://culture.clipboardhealth.com/engineering/engineering-manager-quality?utm_campaign=emqa&utm_medium=hackernews&utm_source=jobad)
 - [Scientists: Japan&#39;s Plan to Dump Nuclear Waste into the Pacific Ocean Not Safe](https://www.civilbeat.org/2022/04/scientists-japans-plan-to-dump-nuclear-waste-into-the-pacific-ocean-may-not-be-safe/)
 - [Tell HN: Facebook is blocking the publiccode.eu open letter initiative as spam](https://news.ycombinator.com/item?id=31189377)
-- [Rocket Mortgage to trim 8% of workforce as home-loan market shrinks](https://www.detroitnews.com/story/business/2022/04/25/rocket-mortgage-trim-workforce-home-loan-market-shrinks/7445270001/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
