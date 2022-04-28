@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inform 7 v10.1.0 is now open-source](https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674)
+- [Tell HN: By default, New Relic will start collecting production log data on 5/3](https://news.ycombinator.com/item?id=31195476)
+- [You Don&#39;t Need a F % ing Blockchain](https://cmdli.dev/blog/blockchain/)
 - [PropelAuth &lpar;YC W22&rpar; is hiring Rust developers](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-senior-backend-engineer)
-- [Snap launches its first drone called Pixy](https://pixy.com/)
-- [I employed a California resident, so now I’m subject to its regulations](https://ccleve.com/p/dont-hire-remote-employees-living)
-- [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
-- [Tackling multiple tasks with a single visual language model](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- [Twitter admits it overstated users for years ahead of Elon Musk takeover](https://www.axios.com/twitter-overstated-users-elon-musk-deal-f7cecef1-b156-4998-91ff-37f6f56c82e0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
