@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [E Ink Launches E Ink Gallery 3 Color &lpar;Rollable&rpar; EPaper](https://www.eink.com/news.html?type=releasedetail&id=2645&year=2022&page=1)
+- [Ask HN: Does anyone use a Raspberry Pi as your main computer?](https://news.ycombinator.com/item?id=31191817)
+- [U.S. economy shrank at a 1.4% annual rate in the first quarter](https://www.wsj.com/articles/us-economy-gdp-growth-q1-11651108351)
 - [Neon Is Hiring – Technical Writer](https://news.ycombinator.com/item?id=31191470)
 - [Ancient Temple dedicated to Zeus discovered in Egypt](https://www.livescience.com/zeus-temple-ancient-egypt)
-- [Fishing uranium from the ocean with a spider-silk line &lpar;2019&rpar;](https://cen.acs.org/materials/Fishing-uranium-ocean-spider-silk/97/web/2019/07)
-- [Append Reddit – Chrome extension that redoes searches with Reddit appended](https://chrome.google.com/webstore/detail/append-reddit/hfgllcmkdcpljffbcejhkengkfkiciob)
-- [Japanese rail company rolls out VR-piloted Gundam robot worker](https://newatlas.com/robotics/jr-west-gundam-maintenance-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
