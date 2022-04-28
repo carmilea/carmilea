@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PropelAuth &lpar;YC W22&rpar; is hiring Rust developers](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-senior-backend-engineer)
+- [Snap launches its first drone called Pixy](https://pixy.com/)
 - [I employed a California resident, so now I’m subject to its regulations](https://ccleve.com/p/dont-hire-remote-employees-living)
 - [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
 - [Tackling multiple tasks with a single visual language model](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
-- [New Links Found Between Musical Training and Cognitive Ability](https://neurosciencenews.com/musical-training-cognition-20467/)
-- [Nobody Will Admit the Best Novel of Our Generation Is About Football](https://www.residentcontrarian.com/p/nobody-will-admit-the-best-novel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
