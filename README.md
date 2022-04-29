@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can Now Ask Google to Remove Your Phone Number, Email or Address from Searc](https://krebsonsecurity.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/)
 - [Find books set in your hometown with this neat tool](https://lithub.com/find-books-set-in-your-hometown-with-this-neat-tool/)
 - [We fixed f-string bugs in 69 of the most popular Python repos in only 1 day](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
-- [Math augmentations – 16 visual design practices to enhance formulas [pdf]](https://andrewhead.info/assets/pdf/augmented-formulas.pdf)
 - [Maslow never proposed a pyramid](https://twitter.com/p_millerd/status/1509323819600732160)
 - [Robinhood Reports 43% Revenue Decline](https://www.wsj.com/articles/robinhood-earnings-loom-after-stock-tumble-layoffs-11651170909)
 <!-- BLOG-POST-LIST:END -->
