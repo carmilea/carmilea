@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco’s “Housing First” Nightmare](https://www.city-journal.org/san-franciscos-housing-first-nightmare)
+- [Show HN: Radiopaper – Troll-resistant public conversations](https://radiopaper.com/explore)
 - [SafeButler &lpar;YC S17&rpar; is hiring a digital marketing associate](https://www.safebutler.com/careers)
 - [Iron Salt Aerosol for Climate Control](https://ironsaltaerosol.com/home/isa_summary)
 - [Military mulls recruiting plan to enlist college athletes](https://www.sportico.com/leagues/college-sports/2022/military-college-sports-1234673750/)
-- [Wittgenstein&#39;s visit to Ithaca in 1949 &lpar;2012&rpar; [pdf]](http://people.soc.cornell.edu/swedberg/Wittgenstein%27sVisittoIthaca.pdf)
-- [You can now ask Google to remove your phone number, email or address from search](https://krebsonsecurity.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
