@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Can Now Ask Google to Remove Your Phone Number, Email or Address from Searc](https://krebsonsecurity.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/)
-- [Find books set in your hometown with this neat tool](https://lithub.com/find-books-set-in-your-hometown-with-this-neat-tool/)
-- [We fixed f-string bugs in 69 of the most popular Python repos in only 1 day](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
-- [Maslow never proposed a pyramid](https://twitter.com/p_millerd/status/1509323819600732160)
-- [Robinhood Reports 43% Revenue Decline](https://www.wsj.com/articles/robinhood-earnings-loom-after-stock-tumble-layoffs-11651170909)
+- [SafeButler &lpar;YC S17&rpar; is hiring a digital marketing associate](https://www.safebutler.com/careers)
+- [Iron Salt Aerosol for Climate Control](https://ironsaltaerosol.com/home/isa_summary)
+- [Military mulls recruiting plan to enlist college athletes](https://www.sportico.com/leagues/college-sports/2022/military-college-sports-1234673750/)
+- [Wittgenstein&#39;s visit to Ithaca in 1949 &lpar;2012&rpar; [pdf]](http://people.soc.cornell.edu/swedberg/Wittgenstein%27sVisittoIthaca.pdf)
+- [You can now ask Google to remove your phone number, email or address from search](https://krebsonsecurity.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
