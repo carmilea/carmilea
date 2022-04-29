@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sturdy &lpar;YC W21&rpar; Is Hiring &lpar;Stockholm, Sweden&rpar;](https://getsturdy.com/careers)
+- [Increased cardiovascular events in Israel during vaccine rollout and third wave](https://www.nature.com/articles/s41598-022-10928-z)
 - [What Computer Science Programs Should Teach &lpar;IMHO&rpar;](https://michaeldehaan.substack.com/p/what-computer-science-programs-should)
 - [Show HN: Recipes, not mommy blogs](https://letscooktime.com)
 - [A little fixed point math for embedded audio](https://jamesmunns.com/blog/fixed-point-math/)
-- [From seawater to drinking water, with the push of a button](https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
-- [Airbnb’s design to live and work anywhere](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
