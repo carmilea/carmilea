@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MutableAI &lpar;YC W22&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
-- [Petal Search: lots of good results, low spam](https://petalsearch.com)
-- [Git.io: GitHub will maintain active links in a read-only state](https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536)
-- [Ask HN: Dealing with Career Mistakes](https://news.ycombinator.com/item?id=31203186)
-- [DFI GHF51 – Worlds Smallest AMD Ryzen SBC](https://williamlam.com/2022/04/dfi-ghf51-worlds-smallest-amd-ryzen-sbc.html)
+- [The FDA is proposing a ban on menthol cigarettes](https://www.npr.org/2022/04/28/1095294407/menthol-cigarette-ban)
+- [Ask HN: CLI Tool for File Encryption?](https://news.ycombinator.com/item?id=31204523)
+- [Show HN: I made a site where you can travel in space in your browser](https://spaceinbrowser.com/)
+- [Uvg266: BSD licensed VVC encoder based on Kvazaar released](https://github.com/ultravideo/uvg266)
+- [It Took Me 6 Months, but I Finally Understand Methane Lifetimes](https://climateer.substack.com/p/methane-lifetime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
