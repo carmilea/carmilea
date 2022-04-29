@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Brilliance of “nil” in Objective-C](https://collindonnell.com/2022/04/28/the-brilliance-of-nil-in-objective-c/)
 - [Sturdy &lpar;YC W21&rpar; Is Hiring &lpar;Stockholm, Sweden&rpar;](https://getsturdy.com/careers)
 - [Increased cardiovascular events in Israel during vaccine rollout and third wave](https://www.nature.com/articles/s41598-022-10928-z)
+- [Correlation Between Mask Compliance and Covid-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
 - [What Computer Science Programs Should Teach &lpar;IMHO&rpar;](https://michaeldehaan.substack.com/p/what-computer-science-programs-should)
-- [Show HN: Recipes, not mommy blogs](https://letscooktime.com)
-- [A little fixed point math for embedded audio](https://jamesmunns.com/blog/fixed-point-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
