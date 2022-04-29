@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior FullStack &lpar;Back End Focused&rpar; Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
+- [Milk alternatives produce up to 4.5x less greenhouse gas emissions as milk](https://ourworldindata.org/environmental-impact-milks)
 - [Multi-tenancy in SingleStoreDB](https://www.singlestore.com/blog/multitenancy-in-singlestoredb)
 - [Actual is going open-source](https://actualbudget.com/open-source)
 - [The Glorious Stupidity of Fomenko’s New Chronology](https://nathangoldwag.wordpress.com/2021/04/03/the-glorious-stupidity-of-fomenkos-new-chronology/)
-- [Today’s CEOs are essentially carnival barkers &lpar;2021&rpar;](https://prospect.org/culture/books/hucksters-on-parade-todays-ceos/)
-- [The New OCaml Website](https://ocaml.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
