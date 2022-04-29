@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Release &lpar;YC W20&rpar; Is Hiring – Senior FullStack &lpar;Back End Focused&rpar; Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
-- [Milk alternatives produce up to 4.5x less greenhouse gas emissions as milk](https://ourworldindata.org/environmental-impact-milks)
-- [Multi-tenancy in SingleStoreDB](https://www.singlestore.com/blog/multitenancy-in-singlestoredb)
-- [Actual is going open-source](https://actualbudget.com/open-source)
-- [The Glorious Stupidity of Fomenko’s New Chronology](https://nathangoldwag.wordpress.com/2021/04/03/the-glorious-stupidity-of-fomenkos-new-chronology/)
+- [We fixed f-string bugs in 69 of the most popular Python repos in only 1 day](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
+- [Math augmentations – 16 visual design practices to enhance formulas [pdf]](https://andrewhead.info/assets/pdf/augmented-formulas.pdf)
+- [Maslow never proposed a pyramid](https://twitter.com/p_millerd/status/1509323819600732160)
+- [Robinhood Reports 43% Revenue Decline](https://www.wsj.com/articles/robinhood-earnings-loom-after-stock-tumble-layoffs-11651170909)
+- [Ask HN: Is the EULA on my new $30k RED cinema camera legal?](https://news.ycombinator.com/item?id=31208232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
