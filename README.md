@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redox OS 0.7.0](https://www.redox-os.org/news/release-0.7.0/)
+- [DeepSource &lpar;YC W20&rpar; Is Hiring Senior Site Reliability Engineers](https://deepsource.io/jobs/listing/senior-site-reliability-engineer/4289150004/)
+- [Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+- [The Twelve-Factor App &lpar;2011&rpar;](https://12factor.net/)
 - [Details emerge of Air France B777 landing incident](https://www.aerotime.aero/articles/30863-air-france-boeing-777-incident-bea-update)
-- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Hide a photo inside another photo](https://www.avestura.dev/blog/hide-a-photo-inside-another-photo)
-- [Amazon Q1/2022 [pdf]](https://s2.q4cdn.com/299287126/files/doc_financials/2022/q1/Q1-2022-Amazon-Earnings-Release.pdf)
-- [OpenRA: Open-source RTS game engine for games such as Command and Conquer](https://github.com/OpenRA/OpenRA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
