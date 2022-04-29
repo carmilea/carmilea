@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The FDA is proposing a ban on menthol cigarettes](https://www.npr.org/2022/04/28/1095294407/menthol-cigarette-ban)
-- [Ask HN: CLI Tool for File Encryption?](https://news.ycombinator.com/item?id=31204523)
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Digital Berlin wall: How the German prototype for online censorship went global](http://justitia-int.org/en/the-digital-berlin-wall-act-2-how-the-german-prototype-for-online-censorship-went-global-2020-edition/)
 - [Show HN: I made a site where you can travel in space in your browser](https://spaceinbrowser.com/)
 - [Uvg266: BSD licensed VVC encoder based on Kvazaar released](https://github.com/ultravideo/uvg266)
 - [It Took Me 6 Months, but I Finally Understand Methane Lifetimes](https://climateer.substack.com/p/methane-lifetime)
