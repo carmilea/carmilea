@@ -54,8 +54,8 @@
 - [Old apps sometimes die](https://mdj.substack.com/p/old-apps-sometimes-die)
 - [From seawater to drinking water, with the push of a button](https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
 - [Airbnb’s design to live and work anywhere](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/)
+- [What a better rust would look like](https://kerkour.com/what-a-better-rust-would-look-like)
 - [Redox OS 0.7.0](https://www.redox-os.org/news/release-0.7.0/)
-- [DeepSource &lpar;YC W20&rpar; Is Hiring Senior Site Reliability Engineers](https://deepsource.io/jobs/listing/senior-site-reliability-engineer/4289150004/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
