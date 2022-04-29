@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Contractual Impossibility of Unwinding Disney’s Reedy Creek](https://news.bloombergtax.com/tax-insights-and-commentary/the-contractual-impossibility-of-unwinding-disneys-reedy-creek)
+- [Qualcomm’s M1-class laptop chips will be ready for PCs in “late 2023”](https://arstechnica.com/gadgets/2022/04/qualcomms-m1-class-laptop-chips-will-be-ready-for-pcs-in-late-2023/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Digital Berlin wall: How the German prototype for online censorship went global](http://justitia-int.org/en/the-digital-berlin-wall-act-2-how-the-german-prototype-for-online-censorship-went-global-2020-edition/)
 - [Show HN: I made a site where you can travel in space in your browser](https://spaceinbrowser.com/)
-- [Uvg266: BSD licensed VVC encoder based on Kvazaar released](https://github.com/ultravideo/uvg266)
-- [It Took Me 6 Months, but I Finally Understand Methane Lifetimes](https://climateer.substack.com/p/methane-lifetime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
