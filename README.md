@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sturdy &lpar;YC W21&rpar; Is Hiring &lpar;Stockholm, Sweden&rpar;](https://getsturdy.com/careers)
-- [Increased cardiovascular events in Israel during vaccine rollout and third wave](https://www.nature.com/articles/s41598-022-10928-z)
-- [Correlation Between Mask Compliance and Covid-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
-- [What Computer Science Programs Should Teach &lpar;IMHO&rpar;](https://michaeldehaan.substack.com/p/what-computer-science-programs-should)
-- [A little fixed point math for embedded audio](https://jamesmunns.com/blog/fixed-point-math/)
+- [Swedbank customers positive balance turned into negative due to an update](https://news.ycombinator.com/item?id=31203282)
+- [Ask HN: Dealing with Career Mistakes](https://news.ycombinator.com/item?id=31203186)
+- [DFI GHF51 – Worlds Smallest AMD Ryzen SBC](https://williamlam.com/2022/04/dfi-ghf51-worlds-smallest-amd-ryzen-sbc.html)
+- [Show HN: Joyride: script VSCode like Emacs but using Clojure](https://news.ycombinator.com/item?id=31203024)
+- [MirBFT is a consensus library implementing the Mir consensus protocol](https://github.com/hyperledger-labs/mirbft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
