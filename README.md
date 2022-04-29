@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Old apps sometimes die](https://mdj.substack.com/p/old-apps-sometimes-die)
+- [From seawater to drinking water, with the push of a button](https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
+- [Airbnb’s design to live and work anywhere](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/)
 - [Redox OS 0.7.0](https://www.redox-os.org/news/release-0.7.0/)
 - [DeepSource &lpar;YC W20&rpar; Is Hiring Senior Site Reliability Engineers](https://deepsource.io/jobs/listing/senior-site-reliability-engineer/4289150004/)
-- [Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
-- [The Twelve-Factor App &lpar;2011&rpar;](https://12factor.net/)
-- [Details emerge of Air France B777 landing incident](https://www.aerotime.aero/articles/30863-air-france-boeing-777-incident-bea-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
