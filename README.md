@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swedbank customers positive balance turned into negative due to an update](https://news.ycombinator.com/item?id=31203282)
+- [MutableAI &lpar;YC W22&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
+- [Petal Search: lots of good results, low spam](https://petalsearch.com)
+- [Git.io: GitHub will maintain active links in a read-only state](https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536)
 - [Ask HN: Dealing with Career Mistakes](https://news.ycombinator.com/item?id=31203186)
 - [DFI GHF51 – Worlds Smallest AMD Ryzen SBC](https://williamlam.com/2022/04/dfi-ghf51-worlds-smallest-amd-ryzen-sbc.html)
-- [Show HN: Joyride: script VSCode like Emacs but using Clojure](https://news.ycombinator.com/item?id=31203024)
-- [MirBFT is a consensus library implementing the Mir consensus protocol](https://github.com/hyperledger-labs/mirbft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
