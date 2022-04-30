@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Effects of fexofenadine, diphenhydramine, and alcohol on driving performance](https://pubmed.ncbi.nlm.nih.gov/10691585/)
+- [At one company I worked at only one thing mattered: the yearly bonus](https://twitter.com/richgel999/status/1520473199410135040)
 - [Ask HN: Beyond AWS/Azure/GCP, what cloud providers should I know more about?](https://news.ycombinator.com/item?id=31218268)
 - [I&#39;ve Used All the Notebooks](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 - [GitBOM: Enabling Universal Artifact Traceability in Software Supply Chains](https://gitbom.dev/resources/whitepaper/)
-- [What Was Wrong with SML?](https://blog.plover.com/prog/haskell/sml-defects.html)
-- [Holy Duck! Fast Analysis with DuckDB and Pyarrow](https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
