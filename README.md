@@ -55,7 +55,7 @@
 - [Principles of Efficient Congestion Pricing &lpar;1992&rpar;](https://www.vtpi.org/vickrey.htm)
 - [Did the W-boson just “break the standard model”?](http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html)
 - [ZX Spectrum: Q&amp;A with some of the folks who worked on legendary PC](https://www.theregister.com/2022/04/30/zx_at_40/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
