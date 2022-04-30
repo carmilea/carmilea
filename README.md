@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did extroverts ruin remote work for the rest of us?](https://makeworkbetter.substack.com/p/extroverts)
-- [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/)
-- [Nearly the hottest place on Earth, India swelters under intense heat wave](https://www.accuweather.com/en/weather-forecasts/nearly-the-hottest-place-on-earth-india-swelters-amid-brutal-heat-wave/1179824)
-- [A cross-account database vulnerability in Azure PostgreSQL](https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/)
-- [Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist](https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/)
+- [What keeps earth from collapsing in on itself like at the end of a star&#39;s life?](http://scienceline.ucsb.edu/getkey.php?key=2451)
+- [Experiment to achieve 5M persistent connections with Project Loom &lpar;Java&rpar;](https://github.com/ebarlas/project-loom-c5m)
+- [Optimization solvers: missing link for fully open-source energy system modeling](https://drive.google.com/file/d/1uwkf_b9WQU2PogcWL_ST7xkn4EMCPz9s/view)
+- [Beginner-friendly guide to use Tailwind CSS with Jekyll](https://mzrn.sh/2022/04/09/starting-a-blank-jekyll-site-with-tailwind-css-in-2022/)
+- [How to Corrupt an SQLite Database File](https://sqlite.org/howtocorrupt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
