@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language Processing with Prolog in the IBM Watson System &lpar;2011&rpar;](https://www.cs.nmsu.edu/ALP/2011/03/natural-language-processing-with-prolog-in-the-ibm-watson-system/)
-- [Ask HN: What&#39;s on your learning list?](https://news.ycombinator.com/item?id=31214599)
-- [What keeps earth from collapsing in on itself like at the end of a star&#39;s life?](http://scienceline.ucsb.edu/getkey.php?key=2451)
-- [ClojureRS – Clojure interpreter implemented in Rust](https://github.com/clojure-rs/ClojureRS)
-- [Experiment to achieve 5M persistent connections with Project Loom &lpar;Java&rpar;](https://github.com/ebarlas/project-loom-c5m)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- [Tobii Pro Glasses 3](https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/)
+- [Top Navy Admiral Wants Rust-Free Ships](https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/)
+- [How do you power a rocket engine?](https://everydayastronaut.com/rocket-engine-cycles/)
+- [Privacy Friendly Apps – improved privacy protection on the smartphone](https://secuso.aifb.kit.edu/english/105.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
