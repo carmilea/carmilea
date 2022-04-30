@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- [Best practices for optimizing Lambda functions](https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions)
 - [Tobii Pro Glasses 3](https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/)
 - [Top Navy Admiral Wants Rust-Free Ships](https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/)
 - [How do you power a rocket engine?](https://everydayastronaut.com/rocket-engine-cycles/)
-- [Privacy Friendly Apps – improved privacy protection on the smartphone](https://secuso.aifb.kit.edu/english/105.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
