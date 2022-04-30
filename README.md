@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Principles of Efficient Congestion Pricing](https://www.vtpi.org/vickrey.htm)
+- [Indirect ownership, shallow borrow and self-referential data structures in Rust](https://yoyo-code.com/indirect-ownership-and-self-borrow/)
+- [Principles of Efficient Congestion Pricing &lpar;1992&rpar;](https://www.vtpi.org/vickrey.htm)
 - [Did the W-boson just “break the standard model”?](http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html)
+- [ZX Spectrum: Q&amp;A with some of the folks who worked on legendary PC](https://www.theregister.com/2022/04/30/zx_at_40/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
-- [Best practices for optimizing Lambda functions](https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions)
-- [Tobii Pro Glasses 3](https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
