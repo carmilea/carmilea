@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effects of fexofenadine, diphenhydramine, and alcohol on driving performance](https://pubmed.ncbi.nlm.nih.gov/10691585/)
-- [Small cars are getting larger – are fuel economy regulations to blame?](https://www.thedrive.com/news/small-cars-are-getting-huge-are-fuel-economy-regulations-to-blame)
+- [GnuCash](https://www.gnucash.org/)
+- [Let’s Authenticate: Automated Certificates for User Authentication [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-272-paper.pdf)
 - [At one company I worked at only one thing mattered: the yearly bonus](https://twitter.com/richgel999/status/1520473199410135040)
 - [Ask HN: Beyond AWS/Azure/GCP, what cloud providers should I know more about?](https://news.ycombinator.com/item?id=31218268)
 - [I&#39;ve used all the notebooks](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
