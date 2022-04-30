@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [38% of autism diagnoses caused by additional television watching due to rain](https://www.nber.org/bah/does-watching-television-trigger-autism)
-- [Dow plunges 900 points, Nasdaq suffers worst month since 2008](https://thehill.com/policy/finance/3472033-dow-plunges-900-points-nasdaq-suffers-worst-month-since-2008-after-brutal-april-selloff/)
+- [Does watching television trigger autism? &lpar;2007&rpar;](https://www.nber.org/bah/does-watching-television-trigger-autism)
 - [Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist](https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/)
 - [Workers discover ‘unprecedented’ Phoenician necropolis in southern Spain](https://www.theguardian.com/world/2022/apr/26/unprecedented-phoenician-necropolis-osuna-spain)
 - [Rpilocator – find in stock Raspberry Pi](https://rpilocator.com/)
+- [Georgia to mandate personal finance education](https://www.cnbc.com/2022/04/28/georgia-is-now-the-latest-state-to-mandate-personal-finance-education.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
