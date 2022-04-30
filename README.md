@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Processing with Prolog in the IBM Watson System &lpar;2011&rpar;](https://www.cs.nmsu.edu/ALP/2011/03/natural-language-processing-with-prolog-in-the-ibm-watson-system/)
+- [Ask HN: What&#39;s on your learning list?](https://news.ycombinator.com/item?id=31214599)
 - [What keeps earth from collapsing in on itself like at the end of a star&#39;s life?](http://scienceline.ucsb.edu/getkey.php?key=2451)
+- [ClojureRS – Clojure interpreter implemented in Rust](https://github.com/clojure-rs/ClojureRS)
 - [Experiment to achieve 5M persistent connections with Project Loom &lpar;Java&rpar;](https://github.com/ebarlas/project-loom-c5m)
-- [Optimization solvers: missing link for fully open-source energy system modeling](https://drive.google.com/file/d/1uwkf_b9WQU2PogcWL_ST7xkn4EMCPz9s/view)
-- [Beginner-friendly guide to use Tailwind CSS with Jekyll](https://mzrn.sh/2022/04/09/starting-a-blank-jekyll-site-with-tailwind-css-in-2022/)
-- [How to Corrupt an SQLite Database File](https://sqlite.org/howtocorrupt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
