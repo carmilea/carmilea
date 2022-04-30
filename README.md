@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Beyond AWS/Azure/GCP, what cloud providers should I know more about?](https://news.ycombinator.com/item?id=31218268)
+- [I&#39;ve Used All the Notebooks](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
+- [GitBOM: Enabling Universal Artifact Traceability in Software Supply Chains](https://gitbom.dev/resources/whitepaper/)
+- [What Was Wrong with SML?](https://blog.plover.com/prog/haskell/sml-defects.html)
 - [Holy Duck! Fast Analysis with DuckDB and Pyarrow](https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html)
-- [The Five Secrets for Getting Hired After Fifty](https://www.aarp.org/work/job-search/getting-hired-after-50/)
-- [Run Python in Your HTML via Pyodide](https://pyscript.net/)
-- [Experience Report: 6 months of Go](https://typesanitizer.com/blog/go-experience-report.html)
-- [Epic is asking a court to stop Google from yanking Bandcamp off the Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
 <!-- BLOG-POST-LIST:END -->
 
 ---
