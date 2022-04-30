@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Twitter, Briefly](https://theconvivialsociety.substack.com/p/on-twitter-briefly)
+- [Holy Duck! Fast Analysis with DuckDB and Pyarrow](https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html)
+- [The Five Secrets for Getting Hired After Fifty](https://www.aarp.org/work/job-search/getting-hired-after-50/)
+- [Run Python in Your HTML via Pyodide](https://pyscript.net/)
+- [Experience Report: 6 months of Go](https://typesanitizer.com/blog/go-experience-report.html)
 - [Epic is asking a court to stop Google from yanking Bandcamp off the Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
-- [Indirect ownership, shallow borrow and self-referential data structures in Rust](https://yoyo-code.com/indirect-ownership-and-self-borrow/)
-- [A Rust match made in hell](https://fasterthanli.me/articles/a-rust-match-made-in-hell)
-- [Principles of Efficient Congestion Pricing &lpar;1992&rpar;](https://www.vtpi.org/vickrey.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
