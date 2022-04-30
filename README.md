@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did extroverts ruin remote work for the rest of us?](https://makeworkbetter.substack.com/p/extroverts)
+- [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/)
+- [Nearly the hottest place on Earth, India swelters under intense heat wave](https://www.accuweather.com/en/weather-forecasts/nearly-the-hottest-place-on-earth-india-swelters-amid-brutal-heat-wave/1179824)
 - [A cross-account database vulnerability in Azure PostgreSQL](https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/)
 - [Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist](https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/)
-- [Workers discover ‘unprecedented’ Phoenician necropolis in southern Spain](https://www.theguardian.com/world/2022/apr/26/unprecedented-phoenician-necropolis-osuna-spain)
-- [Rpilocator – find in stock Raspberry Pi](https://rpilocator.com/)
-- [Bizarre Talmudic Scenarios](http://www.talmudology.com/jeremybrownmdgmailcom/2022/4/25/yevamot-54-bizzarre-talmudic-scenarios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
