@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Twitter, Briefly](https://theconvivialsociety.substack.com/p/on-twitter-briefly)
+- [Epic is asking a court to stop Google from yanking Bandcamp off the Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
 - [Indirect ownership, shallow borrow and self-referential data structures in Rust](https://yoyo-code.com/indirect-ownership-and-self-borrow/)
+- [A Rust match made in hell](https://fasterthanli.me/articles/a-rust-match-made-in-hell)
 - [Principles of Efficient Congestion Pricing &lpar;1992&rpar;](https://www.vtpi.org/vickrey.htm)
-- [Did the W-boson just “break the standard model”?](http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html)
-- [ZX Spectrum: Q&amp;A with some of the folks who worked on legendary PC](https://www.theregister.com/2022/04/30/zx_at_40/)
-- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
