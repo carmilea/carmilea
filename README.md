@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PocketBook Dissassembly and Root &lpar;2017&rpar;](https://wxcafe.net/posts/pocketbook_dissassembly_and_root/)
 - [The awake ape: Why people sleep less than their primate relatives](https://knowablemagazine.org/article/society/2022/why-people-sleep-less-than-primate-relatives)
 - [Ancient Genes for Symbiosis Hint at Mitochondria’s Origins](https://www.quantamagazine.org/ancient-genes-for-symbiosis-hint-at-mitochondrias-origins-20220426/)
+- [Modern Pandas &lpar;Part 2&rpar;: Method Chaining](https://tomaugspurger.github.io/method-chaining.html)
 - [Where Do Research Problems Come From?](https://tratt.net/laurie/blog/2022/where_do_research_problems_come_from.html)
-- [The X-Ray Tech That Reveals Chip Designs](https://spectrum.ieee.org/chip-x-ray)
-- [Russia Sanctions Add Shock Internet Censorship Twist for UK ISPs](https://www.ispreview.co.uk/index.php/2022/04/russia-sanctions-add-shock-internet-censorship-twist-for-uk-isps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
