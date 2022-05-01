@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For Fun: English Fake Town](https://www.atlasobscura.com/articles/digging-through-the-archives-of-scarfolk-the-internets-creepiest-fake-town)
+- [Project Alice – an open source virtual assistant that can run offline](https://github.com/project-alice-assistant/ProjectAlice)
 - [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
 - [Jump Trading Sues 79-Year-Old Carl Sagan Fan over Wormhole.com Domain](https://kqeducationgroup.com/jump-trading-sues-79-year-old-carl-sagan-fan-over-wormhole-com-domain/)
 - [Research helps explain how Ritalin sharpens attention](https://www.pitt.edu/pittwire/features-articles/ritalin-behavioral-effects)
-- [US plans campaign to attract Russian scientists, engineers to America &amp; CERN](https://sciencebusiness.net/news/us-plans-campaign-attract-russian-scientists-engineers-america)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
