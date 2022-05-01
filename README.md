@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
+- [Jump Trading Sues 79-Year-Old Carl Sagan Fan over Wormhole.com Domain](https://kqeducationgroup.com/jump-trading-sues-79-year-old-carl-sagan-fan-over-wormhole-com-domain/)
+- [Research helps explain how Ritalin sharpens attention](https://www.pitt.edu/pittwire/features-articles/ritalin-behavioral-effects)
+- [US plans campaign to attract Russian scientists, engineers to America &amp; CERN](https://sciencebusiness.net/news/us-plans-campaign-attract-russian-scientists-engineers-america)
 - [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
-- [90% of software engineering done today is integrating poorly documented APIs](https://twitter.com/Austen/status/1520792630853918722)
-- [Remote Pseudoterminals](https://github.com/TimeToogo/remote-pty)
-- [SDLang – Simple Declarative Language](https://sdlang.org/)
-- [Engineering artificial photosynthetic life-forms through endosymbiosis](https://www.nature.com/articles/s41467-022-29961-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
