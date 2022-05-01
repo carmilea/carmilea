@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing characters from strings faster with AVX-512](https://lemire.me/blog/2022/04/28/removing-characters-from-strings-faster-with-avx-512/)
+- [New C++ features in GCC 12](https://developers.redhat.com/articles/2022/04/25/new-c-features-gcc-12)
+- [Technocrats Triumphed at Apple](https://www.nytimes.com/2022/05/01/technology/jony-ive-apple-design.html)
 - [PocketBook Dissassembly and Root &lpar;2017&rpar;](https://wxcafe.net/posts/pocketbook_dissassembly_and_root/)
 - [The awake ape: Why people sleep less than their primate relatives](https://knowablemagazine.org/article/society/2022/why-people-sleep-less-than-primate-relatives)
-- [Ancient Genes for Symbiosis Hint at Mitochondria’s Origins](https://www.quantamagazine.org/ancient-genes-for-symbiosis-hint-at-mitochondrias-origins-20220426/)
-- [Modern Pandas &lpar;Part 2&rpar;: Method Chaining](https://tomaugspurger.github.io/method-chaining.html)
-- [Where Do Research Problems Come From?](https://tratt.net/laurie/blog/2022/where_do_research_problems_come_from.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
