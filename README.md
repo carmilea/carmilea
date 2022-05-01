@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fediverse Is Stuck](https://keinpfusch.net/why-the-fediverse-is-stuck/)
 - [Entanglement and superposition are equivalent concepts in any physical theory](https://arxiv.org/abs/2109.04446)
+- [Mental illness, attention deficit disorder, and suffering](https://blog.plover.com/brain/add.html)
 - [DALL-E 2 open source implementation](https://github.com/lucidrains/DALLE2-pytorch)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [I draw figures for my mathematical lecture notes using Inkscape &lpar;2019&rpar;](https://castel.dev/post/lecture-notes-2/)
-- [Digging through the archives of Scarfolk](https://www.atlasobscura.com/articles/digging-through-the-archives-of-scarfolk-the-internets-creepiest-fake-town)
 <!-- BLOG-POST-LIST:END -->
 
 ---
