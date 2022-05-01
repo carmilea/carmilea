@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring macOS Engineers &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/careers)
+- [We think this cool study we found is flawed. Help us reproduce it](https://pudding.cool/2022/04/random/)
 - [1974 Sinclair Scientific Calculator Repair and Restoration](https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/)
 - [Fig](https://fig.io/)
 - [Show HN: I&#39;m building the “chess.com” of speed cubing](https://www.cubedesk.io/home)
-- [Create YouTube playlists as links without having to log into YouTube](https://playlists.at/youtube/)
-- [Recommendation for the mom of a soon to be college aged “tech geared” student?](https://news.ycombinator.com/item?id=31221142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
