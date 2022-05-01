@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing characters from strings faster with AVX-512](https://lemire.me/blog/2022/04/28/removing-characters-from-strings-faster-with-avx-512/)
-- [New C++ features in GCC 12](https://developers.redhat.com/articles/2022/04/25/new-c-features-gcc-12)
-- [Technocrats Triumphed at Apple](https://www.nytimes.com/2022/05/01/technology/jony-ive-apple-design.html)
-- [PocketBook Dissassembly and Root &lpar;2017&rpar;](https://wxcafe.net/posts/pocketbook_dissassembly_and_root/)
-- [The awake ape: Why people sleep less than their primate relatives](https://knowablemagazine.org/article/society/2022/why-people-sleep-less-than-primate-relatives)
+- [Things I don’t want to do to grow my side project](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/)
+- [New from Anaconda: Python in the Browser](https://www.anaconda.com/blog/pyscript-python-in-the-browser)
+- [The free 30 day Build &amp; Sell startup challenge](https://buildsell30.com)
+- [Remotewide – Find remote jobs with location independent pay](https://remotewide.co/)
+- [Show HN: How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
