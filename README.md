@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney&#39;s writer wage theft, a year on](https://pluralistic.net/2022/04/30/disney-still-must-pay/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring macOS Engineers &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/careers)
 - [We think this cool study we found is flawed. Help us reproduce it](https://pudding.cool/2022/04/random/)
 - [I accidentally loaned all my money to the US government](https://beanlog.vercel.app/ibonds)
 - [1974 Sinclair Scientific Calculator Repair and Restoration](https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/)
-- [Fig](https://fig.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
