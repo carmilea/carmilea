@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [90% of software engineering done today is integrating poorly documented APIs](https://twitter.com/Austen/status/1520792630853918722)
 - [Remote Pseudoterminals](https://github.com/TimeToogo/remote-pty)
+- [SDLang – Simple Declarative Language](https://sdlang.org/)
 - [Engineering artificial photosynthetic life-forms through endosymbiosis](https://www.nature.com/articles/s41467-022-29961-7)
-- [Ask HN: Do you rewrite pull requests?](https://news.ycombinator.com/item?id=31225599)
-- [Show HN: A Web-Based Modular Drum Machine for You to Play With](https://noisecraft.app/557)
-- [Things I don’t want to do to grow my side project](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
