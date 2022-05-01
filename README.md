@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For Fun: English Fake Town](https://www.atlasobscura.com/articles/digging-through-the-archives-of-scarfolk-the-internets-creepiest-fake-town)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [I draw figures for my mathematical lecture notes using Inkscape](https://castel.dev/post/lecture-notes-2/)
+- [Digging Through the Archives of Scarfolk](https://www.atlasobscura.com/articles/digging-through-the-archives-of-scarfolk-the-internets-creepiest-fake-town)
+- [Bill and Ted and what art is for](https://www.echevarria.io/blog/bill-and-ted-on-art/index.html)
 - [Project Alice – an open source virtual assistant that can run offline](https://github.com/project-alice-assistant/ProjectAlice)
-- [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
-- [Jump Trading Sues 79-Year-Old Carl Sagan Fan over Wormhole.com Domain](https://kqeducationgroup.com/jump-trading-sues-79-year-old-carl-sagan-fan-over-wormhole-com-domain/)
-- [Research helps explain how Ritalin sharpens attention](https://www.pitt.edu/pittwire/features-articles/ritalin-behavioral-effects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
