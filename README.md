@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia Sanctions Add Shock Internet Censorship Twist for UK ISPs](https://www.ispreview.co.uk/index.php/2022/04/russia-sanctions-add-shock-internet-censorship-twist-for-uk-isps.html)
+- [The Niche Programmer](https://ano.ee/blog/the-niche-programmer)
+- [May Day](https://en.wikipedia.org/wiki/May_Day)
 - [Disney&#39;s writer wage theft, a year on](https://pluralistic.net/2022/04/30/disney-still-must-pay/)
-- [Raycast &lpar;YC W20&rpar; Is Hiring macOS Engineers &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/careers)
-- [We think this cool study we found is flawed. Help us reproduce it](https://pudding.cool/2022/04/random/)
-- [I accidentally loaned all my money to the US government](https://beanlog.vercel.app/ibonds)
-- [1974 Sinclair Scientific Calculator Repair and Restoration](https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/)
+- [Adopting Matrix at the Gnome Foundation](https://blog.ergaster.org/post/20220425-adopting-matrix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
