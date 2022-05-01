@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Entanglement and superposition are equivalent concepts in any physical theory](https://arxiv.org/abs/2109.04446)
+- [DALL-E 2 open source implementation](https://github.com/lucidrains/DALLE2-pytorch)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [I draw figures for my mathematical lecture notes using Inkscape](https://castel.dev/post/lecture-notes-2/)
-- [Digging Through the Archives of Scarfolk](https://www.atlasobscura.com/articles/digging-through-the-archives-of-scarfolk-the-internets-creepiest-fake-town)
-- [Bill and Ted and what art is for](https://www.echevarria.io/blog/bill-and-ted-on-art/index.html)
-- [Project Alice – an open source virtual assistant that can run offline](https://github.com/project-alice-assistant/ProjectAlice)
+- [I draw figures for my mathematical lecture notes using Inkscape &lpar;2019&rpar;](https://castel.dev/post/lecture-notes-2/)
+- [Digging through the archives of Scarfolk](https://www.atlasobscura.com/articles/digging-through-the-archives-of-scarfolk-the-internets-creepiest-fake-town)
 <!-- BLOG-POST-LIST:END -->
 
 ---
