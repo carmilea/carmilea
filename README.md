@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Pseudoterminals](https://github.com/TimeToogo/remote-pty)
+- [Engineering artificial photosynthetic life-forms through endosymbiosis](https://www.nature.com/articles/s41467-022-29961-7)
+- [Ask HN: Do you rewrite pull requests?](https://news.ycombinator.com/item?id=31225599)
+- [Show HN: A Web-Based Modular Drum Machine for You to Play With](https://noisecraft.app/557)
 - [Things I don’t want to do to grow my side project](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/)
-- [New from Anaconda: Python in the Browser](https://www.anaconda.com/blog/pyscript-python-in-the-browser)
-- [The free 30 day Build &amp; Sell startup challenge](https://buildsell30.com)
-- [Remotewide – Find remote jobs with location independent pay](https://remotewide.co/)
-- [Show HN: How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
