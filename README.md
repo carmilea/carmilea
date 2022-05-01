@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1974 Sinclair Scientific Calculator Repair and Restoration](https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/)
 - [Fig](https://fig.io/)
-- [Harvard and the Legacy of Slavery](https://legacyofslavery.harvard.edu)
 - [Show HN: I&#39;m building the “chess.com” of speed cubing](https://www.cubedesk.io/home)
 - [Create YouTube playlists as links without having to log into YouTube](https://playlists.at/youtube/)
 - [Recommendation for the mom of a soon to be college aged “tech geared” student?](https://news.ycombinator.com/item?id=31221142)
