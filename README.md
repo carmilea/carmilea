@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Create YouTube playlists as links without having to log into YouTube](https://playlists.at/youtube/)
 - [Recommendation for the mom of a soon to be college aged “tech geared” student?](https://news.ycombinator.com/item?id=31221142)
-- [Buying Real Estate with Crypto: New Mortgages Are Backed by Coins](https://www.bloomberg.com/news/articles/2022-04-27/buying-real-estate-with-crypto-new-mortgages-are-backed-by-coins)
 - [Rust from 0 to 80% for JavaScript Developers](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/)
 - [Software Jailbreak for Any Kindle](https://www.mobileread.com/forums/showthread.php?t=346037)
 - [Internet Archive joins opposition to the “SMART Copyright Act”](http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/)
