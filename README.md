@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SF Conservancy now accepting copyright assignment for any GPL software](https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/)
+- [‘Biodegradable’ drinking straws contain PFAS](https://cen.acs.org/environment/persistent-pollutants/Biodegradabledrinking-straws-contain-PFAS/99/i11)
+- [Bored Ape Virtual Land Sale Breaks Ethereum, Wastes $180M in Fees](https://www.vice.com/en/article/g5q7zb/bored-ape-virtual-land-sale-breaks-ethereum-wastes-dollar180-million-in-fees)
+- [Ask HN: What helped you get good at programming?](https://news.ycombinator.com/item?id=31240927)
 - [Queenly &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations)
-- [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
-- [The Elondrop](https://balajis.com/elondrop/)
-- [Single Page Applications using Rust &lpar;with WASM&rpar;](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
-- [The $440M software error at Knight Capital &lpar;2019&rpar;](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
