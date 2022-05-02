@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Game: A continually-run D&amp;D campaign, since 1982](https://thegamednd.com/the-game-out-of-game/)
+- [Greatest Con](https://worldsgreatestcon.fireside.fm/)
 - [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
+- [I won free load testing](https://fasterthanli.me/articles/i-won-free-load-testing)
 - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
-- [Decision looms for controversial Poseidon desalination plant](https://www.latimes.com/socal/daily-pilot/news/story/2022-04-26/decision-looms-for-poseidon-desalination-plant)
-- [Occlusion Grotesque Experimental Typeface &lpar;2021&rpar;](https://bjoernkarmann.dk/occlusion-grotesque)
-- [Fonoster: The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
