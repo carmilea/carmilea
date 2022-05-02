@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Illustrated Guide to Plastic Straws &lpar;2021&rpar;](https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws)
-- [Show HN: PostgresML, now with analytics and project management](https://postgresml.org)
-- [Ask HN: What email client do you prefer?](https://news.ycombinator.com/item?id=31238233)
-- [SimpleHash &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-- [JEP proposed to target JDK 19: 425: Virtual Threads &lpar;Preview&rpar;](https://mail.openjdk.java.net/pipermail/jdk-dev/2022-April/006530.html)
+- [The $440M Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
+- [Two workers are quadratically better than one &lpar;2020&rpar;](https://www.hillelwayne.com/post/queueing-prism/)
+- [Show HN: I am building a free version of Strava](https://mtbx.bike?page=hangtime)
+- [An O&lpar;1&rpar; Generic Blog Post About Rust](https://peterkos.me/rust-const-generics/)
+- [Show HN: Kontxt – Social web layer with CMS and social network](https://www.kontxt.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
