@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Companies hiring for a 4-day workweek?](https://news.ycombinator.com/item?id=31231690)
 - [The Game: A continually-run D&amp;D campaign, since 1982](https://thegamednd.com/the-game-out-of-game/)
-- [Greatest Con](https://worldsgreatestcon.fireside.fm/)
 - [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
 - [I won free load testing](https://fasterthanli.me/articles/i-won-free-load-testing)
-- [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
+- [Indian Agency Seeks to Flush Highly Toxic Pesticides into South African Sea](https://gcaptain.com/indian-agency-seeks-to-flush-highly-toxic-pesticides-into-south-african-sea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
