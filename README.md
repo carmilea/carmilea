@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fediverse Is Stuck](https://keinpfusch.net/why-the-fediverse-is-stuck/)
-- [Entanglement and superposition are equivalent concepts in any physical theory](https://arxiv.org/abs/2109.04446)
-- [Mental illness, attention deficit disorder, and suffering](https://blog.plover.com/brain/add.html)
-- [DALL-E 2 open source implementation](https://github.com/lucidrains/DALLE2-pytorch)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
+- [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
+- [Decision looms for controversial Poseidon desalination plant](https://www.latimes.com/socal/daily-pilot/news/story/2022-04-26/decision-looms-for-poseidon-desalination-plant)
+- [Occlusion Grotesque Experimental Typeface &lpar;2021&rpar;](https://bjoernkarmann.dk/occlusion-grotesque)
+- [Fonoster: The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
