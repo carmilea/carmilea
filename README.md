@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SimpleHash &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+- [Project Loom preview ships in JDK 19](https://mail.openjdk.java.net/pipermail/jdk-dev/2022-April/006530.html)
+- [Clues into a Sleep Mystery](https://hms.harvard.edu/news/clues-sleep-mystery)
 - [Zero Trust Hosting and Reverse Proxy via Cloudflare, Swag and Authelia](https://www.linuxserver.io/blog/zero-trust-hosting-and-reverse-proxy-via-cloudflare-swag-and-authelia)
-- [Toyota Unintended Acceleration and Software Safety [pdf]](https://course.ece.cmu.edu/~ece642/lectures/10_koopman_public_toyota_talk.pdf)
 - [Square-Enix sells all of its Western game studios and their games to Embracer](https://arstechnica.com/gaming/2022/05/embracer-acquires-tomb-raider-deus-ex-and-all-western-square-enix-game-studios/)
-- [Learning to think critically about machine learning](https://news.mit.edu/2022/ethical-machine-learning-course-0415)
-- [Brendan at Intel.com](https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
