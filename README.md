@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly all of the West is in drought and it&#39;s not even summer yet](https://www.cbsnews.com/news/west-climate-change-water/)
+- [The Golden Egg Circus](https://jacquesmattheij.com/the-golden-egg-circus/)
+- [Nearly all of the Western USA is in drought and it&#39;s not even summer yet](https://www.cbsnews.com/news/west-climate-change-water/)
+- [Starbeam](https://github.com/wycats/starbeam)
 - [‘It was the poor man’s studio’: how Amiga computers reprogrammed modern music](https://www.theguardian.com/music/2022/may/02/poor-man-studio-amiga-computers-modern-music-jungle-calvin-harris)
 - [Apple hit with EU antitrust charge over its payment technology](https://www.reuters.com/technology/apple-hit-with-eu-antitrust-charge-over-its-payment-technology-2022-05-02/)
-- [Don’t Trust Activity Monitor on M1 Macs](https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/)
-- [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
