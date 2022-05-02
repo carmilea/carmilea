@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Am I the only person who can’t get a job?](https://news.ycombinator.com/item?id=31232836)
 - [Ask HN: Learn C++11 or Rust in 2022?](https://news.ycombinator.com/item?id=31232722)
 - [Ask HN: Why are there so many companies trying to reinvent the terminal &lpar;badly&rpar;?](https://news.ycombinator.com/item?id=31232665)
 - [The Agony of Eros: Dating](https://ava.substack.com/p/the-agony-of-eros-dating)
 - [The Spanish PM and the defence minister were infected by Pegasus &lpar;in Spanish&rpar;](https://www.eldiario.es/politica/gobierno-revela-telefonos-pedro-sanchez-margarita-robles-han-sido-infectados-pegasus_1_8959353.html)
-- [June &lpar;YC W21&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
