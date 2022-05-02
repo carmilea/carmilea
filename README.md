@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using Todo for Everything](https://goldin.io/blog/stop-using-todo)
+- [Ask HN: Engineers Running a Business?](https://news.ycombinator.com/item?id=31235132)
+- [Fritzing is an open-source electronic design tool](https://fritzing.org/)
 - [The Golden Egg Circus](https://jacquesmattheij.com/the-golden-egg-circus/)
 - [Nearly all of the Western USA is in drought and it&#39;s not even summer yet](https://www.cbsnews.com/news/west-climate-change-water/)
-- [Starbeam](https://github.com/wycats/starbeam)
-- [‘It was the poor man’s studio’: how Amiga computers reprogrammed modern music](https://www.theguardian.com/music/2022/may/02/poor-man-studio-amiga-computers-modern-music-jungle-calvin-harris)
-- [Apple hit with EU antitrust charge over its payment technology](https://www.reuters.com/technology/apple-hit-with-eu-antitrust-charge-over-its-payment-technology-2022-05-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
