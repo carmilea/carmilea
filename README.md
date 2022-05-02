@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Difficult Diagnosis](https://ronnyliu.com/2022/04/27/a-difficult-diagnosis-part-1/)
 - [Ask HN: Companies hiring for a 4-day workweek?](https://news.ycombinator.com/item?id=31231690)
+- [Stop Using a Loading Spinner &lpar;2017&rpar;](http://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 - [The Game: A continually-run D&amp;D campaign, since 1982](https://thegamednd.com/the-game-out-of-game/)
 - [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
-- [I won free load testing](https://fasterthanli.me/articles/i-won-free-load-testing)
-- [Indian Agency Seeks to Flush Highly Toxic Pesticides into South African Sea](https://gcaptain.com/indian-agency-seeks-to-flush-highly-toxic-pesticides-into-south-african-sea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
