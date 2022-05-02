@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Am I the only person who can’t get a job?](https://news.ycombinator.com/item?id=31232836)
-- [Ask HN: Learn C++11 or Rust in 2022?](https://news.ycombinator.com/item?id=31232722)
-- [Ask HN: Why are there so many companies trying to reinvent the terminal &lpar;badly&rpar;?](https://news.ycombinator.com/item?id=31232665)
-- [The Agony of Eros: Dating](https://ava.substack.com/p/the-agony-of-eros-dating)
-- [The Spanish PM and the defence minister were infected by Pegasus &lpar;in Spanish&rpar;](https://www.eldiario.es/politica/gobierno-revela-telefonos-pedro-sanchez-margarita-robles-han-sido-infectados-pegasus_1_8959353.html)
+- [Nearly all of the West is in drought and it&#39;s not even summer yet](https://www.cbsnews.com/news/west-climate-change-water/)
+- [‘It was the poor man’s studio’: how Amiga computers reprogrammed modern music](https://www.theguardian.com/music/2022/may/02/poor-man-studio-amiga-computers-modern-music-jungle-calvin-harris)
+- [Apple hit with EU antitrust charge over its payment technology](https://www.reuters.com/technology/apple-hit-with-eu-antitrust-charge-over-its-payment-technology-2022-05-02/)
+- [Don’t Trust Activity Monitor on M1 Macs](https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/)
+- [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
