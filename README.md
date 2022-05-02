@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Single Page Applications using Rust &lpar;with WASM&rpar;](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+- [Twitter blocked my account for a tweet I did not make](https://jacquesmattheij.com/twitter-blocked-my-account-for-a-tweet-i-did-not-make/)
 - [The $440M Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
 - [Two workers are quadratically better than one &lpar;2020&rpar;](https://www.hillelwayne.com/post/queueing-prism/)
 - [Show HN: I am building a free version of Strava](https://mtbx.bike?page=hangtime)
-- [An O&lpar;1&rpar; Generic Blog Post About Rust](https://peterkos.me/rust-const-generics/)
-- [Show HN: Kontxt – Social web layer with CMS and social network](https://www.kontxt.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
