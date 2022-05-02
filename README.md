@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Todo for Everything](https://goldin.io/blog/stop-using-todo)
-- [Ask HN: Engineers Running a Business?](https://news.ycombinator.com/item?id=31235132)
-- [Fritzing is an open-source electronic design tool](https://fritzing.org/)
-- [The Golden Egg Circus](https://jacquesmattheij.com/the-golden-egg-circus/)
-- [Nearly all of the Western USA is in drought and it&#39;s not even summer yet](https://www.cbsnews.com/news/west-climate-change-water/)
+- [Launch HN: Meticulous &lpar;YC S21&rpar; – Catch JavaScript errors before they hit prod](https://meticulous.ai/)
+- [Ask HN: Who is hiring? &lpar;May 2022&rpar;](https://news.ycombinator.com/item?id=31235968)
+- [Ask HN: Who wants to be hired? &lpar;May 2022&rpar;](https://news.ycombinator.com/item?id=31235966)
+- [Costly SOFIA telescope faces termination after years of problems](https://www.nature.com/articles/d41586-022-01213-0)
+- [Practical bruteforce of military grade AES-1024 &lpar;2021&rpar; [video]](https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
