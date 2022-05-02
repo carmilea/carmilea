@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why are there so many companies trying to reinvent the terminal &lpar;badly&rpar;?](https://news.ycombinator.com/item?id=31232665)
+- [The Agony of Eros: Dating](https://ava.substack.com/p/the-agony-of-eros-dating)
+- [The Spanish PM and the defence minister were infected by Pegasus &lpar;in Spanish&rpar;](https://www.eldiario.es/politica/gobierno-revela-telefonos-pedro-sanchez-margarita-robles-han-sido-infectados-pegasus_1_8959353.html)
 - [June &lpar;YC W21&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-founding-engineer)
 - [Zelensky Compound NDA](https://writing.kemitchell.com/2022/04/30/Zelensky-Compound-NDA)
-- [Show HN: How did I live without Pipe Watch?](https://www.kylheku.com/cgit/pw/about/)
-- [Ask HN: Companies hiring for a 4-day workweek?](https://news.ycombinator.com/item?id=31231690)
-- [Stop Using a Loading Spinner &lpar;2017&rpar;](http://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
