@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Queenly &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations)
+- [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
+- [The Elondrop](https://balajis.com/elondrop/)
 - [Single Page Applications using Rust &lpar;with WASM&rpar;](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
-- [Twitter blocked my account for a tweet I did not make](https://jacquesmattheij.com/twitter-blocked-my-account-for-a-tweet-i-did-not-make/)
-- [The $440M Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
-- [Two workers are quadratically better than one &lpar;2020&rpar;](https://www.hillelwayne.com/post/queueing-prism/)
-- [Show HN: I am building a free version of Strava](https://mtbx.bike?page=hangtime)
+- [The $440M software error at Knight Capital &lpar;2019&rpar;](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
