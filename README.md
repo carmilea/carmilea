@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [June &lpar;YC W21&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-founding-engineer)
+- [Zelensky Compound NDA](https://writing.kemitchell.com/2022/04/30/Zelensky-Compound-NDA)
+- [Lenovo ThinkPad P1 Gen3 Review &lpar;With Linux&rpar;](https://ernestas.me/lenovo-thinkpad-p1-gen3)
 - [A Difficult Diagnosis](https://ronnyliu.com/2022/04/27/a-difficult-diagnosis-part-1/)
 - [Ask HN: Companies hiring for a 4-day workweek?](https://news.ycombinator.com/item?id=31231690)
-- [Stop Using a Loading Spinner &lpar;2017&rpar;](http://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
-- [The Game: A continually-run D&amp;D campaign, since 1982](https://thegamednd.com/the-game-out-of-game/)
-- [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
