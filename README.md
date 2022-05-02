@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Illustrated Guide to Plastic Straws &lpar;2021&rpar;](https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws)
+- [Show HN: PostgresML, now with analytics and project management](https://postgresml.org)
+- [Ask HN: What email client do you prefer?](https://news.ycombinator.com/item?id=31238233)
 - [SimpleHash &lpar;YC W22&rpar; Is Hiring a Senior Back End Engineer to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-- [Project Loom preview ships in JDK 19](https://mail.openjdk.java.net/pipermail/jdk-dev/2022-April/006530.html)
-- [Clues into a Sleep Mystery](https://hms.harvard.edu/news/clues-sleep-mystery)
-- [Zero Trust Hosting and Reverse Proxy via Cloudflare, Swag and Authelia](https://www.linuxserver.io/blog/zero-trust-hosting-and-reverse-proxy-via-cloudflare-swag-and-authelia)
-- [Square-Enix sells all of its Western game studios and their games to Embracer](https://arstechnica.com/gaming/2022/05/embracer-acquires-tomb-raider-deus-ex-and-all-western-square-enix-game-studios/)
+- [JEP proposed to target JDK 19: 425: Virtual Threads &lpar;Preview&rpar;](https://mail.openjdk.java.net/pipermail/jdk-dev/2022-April/006530.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
