@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Search reveals eight new sources of black hole echoes](https://news.mit.edu/2022/search-reveals-eight-new-sources-black-hole-echoes-0502)
+- [Framework Laptop Wins Two Design Awards](https://frame.work/blog/framework-laptop-wins-two-design-awards)
 - [Pirate Site Traffic Surges with Help from Manga Boom](https://torrentfreak.com/pirate-site-traffic-surges-with-help-from-manga-boom-220503/)
 - [The Growing Discontent Behind Nintendo’s Fun Facade](https://www.ign.com/articles/nintendo-america-contractors-full-time-complaints-report)
-- [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
-- [Diversity of extraterrestrial purine and pyrimidine in carbonaceous meteorites](https://www.nature.com/articles/s41467-022-29612-x)
-- [Porting Zelda Classic to the Web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)
+- [Google&#39;s most ridiculous trick to force users into adding phone number](https://news.ycombinator.com/item?id=31252070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
