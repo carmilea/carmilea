@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When I Made Another Monkey Island](https://grumpygamer.com/when_i_made_another_monkeyisland)
-- [Wolvic &lpar;Igalia’s Stewardship of Firefox Reality&rpar;](https://wolvic.com/)
-- [Show HN: A glib-like multi-platform C library](https://github.com/tboox/tbox)
-- [React Native On-Device Machine Learning with Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
-- [Cellular Landscapes: Protein Synthesis](https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html)
+- [Buttondown is a small, elegant tool for producing newsletters](https://buttondown.email/)
+- [Will Hare replace C? Or Rust? Or Zig? Or anything else?](https://harelang.org/blog/2022-05-02-what-is-hares-scope/)
+- [Show HN: Find the 10 highest and 10 lowest correlations to any stock](https://betagainst.fun/)
+- [Postmark acquired by marketing firm ActiveCampaign](https://wildbit.com/blog/postmark-has-been-acquired-by-activecampaign)
+- [Companies That Use Haskell in Production](https://serokell.io/blog/top-software-written-in-haskell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
