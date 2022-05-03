@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mayor of Lima, Peru impeached for serving on the board of state-owned company](https://perureports.com/mayor-of-lima-peru-impeached-for-serving-on-the-board-of-state-owned-company-while-in-office/9406/)
 - [Replit &lpar;YC W18&rpar; Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
 - [Pirate site traffic surges with help from manga boom](https://torrentfreak.com/pirate-site-traffic-surges-with-help-from-manga-boom-220503/)
 - [Google&#39;s most ridiculous trick to force users into adding phone number](https://news.ycombinator.com/item?id=31252070)
 - [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
-- [Diversity of extraterrestrial purine and pyrimidine in carbonaceous meteorites](https://www.nature.com/articles/s41467-022-29612-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
