@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaketsugi &lpar;invisible mending&rpar; for repairing holes or tears in fabric](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5003184/)
+- [Considered &quot;18+&quot;](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
+- [Apple employees criticize work-from-home policy in open letter](https://www.engadget.com/apple-criticized-by-employees-over-working-from-home-policy-in-open-letter-123027735.html)
 - [DirectShifts &lpar;YC S19&rpar; Is Hiring full stack engineers](https://www.ycombinator.com/companies/directshifts/jobs/qAoQPBc-full-stack-engineer-at-directshifts-yc-s19)
-- [A Single Memory Is Stored Across Many Connected Brain Regions](https://news.mit.edu/2022/single-memory-stored-across-many-connected-brain-regions-0502)
-- [Buttondown is a small, elegant tool for producing newsletters](https://buttondown.email/)
-- [Will Hare replace C? Or Rust? Or Zig? Or anything else?](https://harelang.org/blog/2022-05-02-what-is-hares-scope/)
-- [Show HN: Find the 10 highest and 10 lowest correlations to any stock](https://betagainst.fun/)
+- [How to Evaluate Your Company&#39;s Data Intensity with SingleStore&#39;s Data Intensity Assessment Calculator](https://www.singlestore.com/blog/how-to-evaluate-your-data-intensity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
