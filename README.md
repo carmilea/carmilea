@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When I Made Another Monkey Island](https://grumpygamer.com/when_i_made_another_monkeyisland)
 - [Wolvic &lpar;Igalia’s Stewardship of Firefox Reality&rpar;](https://wolvic.com/)
-- [Ask HN: The middle ground for email self-hosting?](https://news.ycombinator.com/item?id=31245625)
+- [Show HN: A glib-like multi-platform C library](https://github.com/tboox/tbox)
 - [React Native On-Device Machine Learning with Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
 - [Cellular Landscapes: Protein Synthesis](https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html)
-- [UA Gotta Be Kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
