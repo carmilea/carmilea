@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s)
 - [India reveals RISC-V CPU roadmap, expects product by 2023](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621)
 - [Meta announces a GPT3-size language model you can download](https://arxiv.org/abs/2205.01068)
 - [A first for Canada: New type of nuclear plant opening by 2028](https://www.theweathernetwork.com/en/news/climate/solutions/a-first-for-canada-new-type-of-nuclear-plant-opening-by-2028)
-- [Padlet is hiring engineers in Singapore to build software for a good education](https://jobs.lever.co/padlet?location=Singapore)
-- [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
+- [How to Compare Images Fairly &lpar;2017&rpar;](https://kornel.ski/en/faircomparison)
 <!-- BLOG-POST-LIST:END -->
 
 ---
