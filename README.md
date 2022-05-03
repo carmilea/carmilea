@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How rare is a Supreme Court breach? rare](https://www.politico.com/news/2022/05/02/supreme-court-draft-opinion-00029475)
-- [How to Compare Images Fairly &lpar;2017&rpar;](https://kornel.ski/en/faircomparison)
+- [India reveals RISC-V CPU roadmap, expects product by 2023](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621)
+- [Meta announces a GPT3-size language model you can download](https://arxiv.org/abs/2205.01068)
+- [A first for Canada: New type of nuclear plant opening by 2028](https://www.theweathernetwork.com/en/news/climate/solutions/a-first-for-canada-new-type-of-nuclear-plant-opening-by-2028)
 - [Padlet is hiring engineers in Singapore to build software for a good education](https://jobs.lever.co/padlet?location=Singapore)
 - [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
-- [SF Conservancy now accepting copyright assignment for any GPL software](https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
