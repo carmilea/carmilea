@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using QGIS to apply a 1777 style to today&#39;s OpenStreetMap data](https://manuelclaeysbouuaert.be/projects/ferrargis.html)
+- [Why I’m Skeptical of “Steelmanning”](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/)
 - [JavaScript quiz that may confuse you](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you/)
 - [Pitivi is a Free video editor with a beautiful and intuitive user interface](https://pitivi.org/)
 - [A minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s)
-- [India reveals RISC-V CPU roadmap, expects product by 2023](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621)
-- [Meta announces a GPT3-size language model you can download](https://arxiv.org/abs/2205.01068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
