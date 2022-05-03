@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IQ Test Made by Mensa Norway](https://test.mensa.no/)
+- [Ledger Investing &lpar;YC W17&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ledger-investing)
+- [Study of pet dogs shows breed does not predict behaviour](https://www.nature.com/articles/d41586-022-01193-1)
 - [How to Walk &lpar;12 miles a day&rpar;](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day)
-- [Preventing Burnout: A Manager&#39;s Toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
-- [A Philosophy of Software Design – Book Summary and Notes](https://elvischidera.com/2022-04-29-philosphy-software-design/)
-- [Kaketsugi – A technique for repairing holes or tears in fabric &lpar;2021&rpar; [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5003184/)
-- [Considered &quot;18+&quot;](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
+- [Simple declarative schema migration for SQLite](https://david.rothlis.net/declarative-schema-migration-for-sqlite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
