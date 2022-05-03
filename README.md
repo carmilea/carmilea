@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Walk &lpar;12 miles a day&rpar;](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day)
 - [Preventing Burnout: A Manager&#39;s Toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
 - [A Philosophy of Software Design – Book Summary and Notes](https://elvischidera.com/2022-04-29-philosphy-software-design/)
 - [Kaketsugi – A technique for repairing holes or tears in fabric &lpar;2021&rpar; [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5003184/)
 - [Considered &quot;18+&quot;](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
-- [Apple employees criticize work-from-home policy in open letter](https://www.engadget.com/apple-criticized-by-employees-over-working-from-home-policy-in-open-letter-123027735.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
