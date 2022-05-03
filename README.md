@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How rare is a Supreme Court breach? rare](https://www.politico.com/news/2022/05/02/supreme-court-draft-opinion-00029475)
+- [How to Compare Images Fairly &lpar;2017&rpar;](https://kornel.ski/en/faircomparison)
+- [Padlet is hiring engineers in Singapore to build software for a good education](https://jobs.lever.co/padlet?location=Singapore)
+- [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
 - [SF Conservancy now accepting copyright assignment for any GPL software](https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/)
-- [‘Biodegradable’ drinking straws contain PFAS](https://cen.acs.org/environment/persistent-pollutants/Biodegradabledrinking-straws-contain-PFAS/99/i11)
-- [Queenly &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations)
-- [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
-- [Single Page Applications using Rust &lpar;with WASM&rpar;](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
