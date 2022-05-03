@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DirectShifts &lpar;YC S19&rpar; Is Hiring full stack engineers](https://www.ycombinator.com/companies/directshifts/jobs/qAoQPBc-full-stack-engineer-at-directshifts-yc-s19)
+- [A Single Memory Is Stored Across Many Connected Brain Regions](https://news.mit.edu/2022/single-memory-stored-across-many-connected-brain-regions-0502)
 - [Buttondown is a small, elegant tool for producing newsletters](https://buttondown.email/)
 - [Will Hare replace C? Or Rust? Or Zig? Or anything else?](https://harelang.org/blog/2022-05-02-what-is-hares-scope/)
 - [Show HN: Find the 10 highest and 10 lowest correlations to any stock](https://betagainst.fun/)
-- [Postmark acquired by marketing firm ActiveCampaign](https://wildbit.com/blog/postmark-has-been-acquired-by-activecampaign)
-- [Companies That Use Haskell in Production](https://serokell.io/blog/top-software-written-in-haskell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
