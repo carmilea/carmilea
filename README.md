@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pirate Site Traffic Surges with Help from Manga Boom](https://torrentfreak.com/pirate-site-traffic-surges-with-help-from-manga-boom-220503/)
+- [The Growing Discontent Behind Nintendo’s Fun Facade](https://www.ign.com/articles/nintendo-america-contractors-full-time-complaints-report)
+- [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
+- [Diversity of extraterrestrial purine and pyrimidine in carbonaceous meteorites](https://www.nature.com/articles/s41467-022-29612-x)
 - [Porting Zelda Classic to the Web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)
-- [Data Broker Is Selling Location Data of People Who Visit Abortion Clinics](https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood)
-- [IQ Test Made by Mensa Norway](https://test.mensa.no/)
-- [Ledger Investing &lpar;YC W17&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ledger-investing)
-- [Study of pet dogs shows breed does not predict behaviour](https://www.nature.com/articles/d41586-022-01193-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
