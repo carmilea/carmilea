@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wolvic &lpar;Igalia’s Stewardship of Firefox Reality&rpar;](https://wolvic.com/)
 - [Ask HN: The middle ground for email self-hosting?](https://news.ycombinator.com/item?id=31245625)
+- [React Native On-Device Machine Learning with Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
 - [Cellular Landscapes: Protein Synthesis](https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html)
 - [UA Gotta Be Kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
-- [Emacs for Professionals](http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html)
-- [FreeDV – Digital Voice mode for HF radio](https://freedv.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
