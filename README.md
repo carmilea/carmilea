@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plan C Pills](https://www.plancpills.org/)
+- [The Crypto Elites Are Plotting a Wall Street Merger](https://concoda.substack.com/p/the-crypto-elites-are-plotting-a)
 - [Mayor of Lima, Peru impeached for serving on the board of state-owned company](https://perureports.com/mayor-of-lima-peru-impeached-for-serving-on-the-board-of-state-owned-company-while-in-office/9406/)
 - [Replit &lpar;YC W18&rpar; Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
-- [Pirate site traffic surges with help from manga boom](https://torrentfreak.com/pirate-site-traffic-surges-with-help-from-manga-boom-220503/)
-- [Google&#39;s most ridiculous trick to force users into adding phone number](https://news.ycombinator.com/item?id=31252070)
 - [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
