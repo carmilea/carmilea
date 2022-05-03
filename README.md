@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cellular Landscapes: Protein Synthesis](https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html)
+- [UA Gotta Be Kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
+- [Emacs for Professionals](http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html)
+- [FreeDV – Digital Voice mode for HF radio](https://freedv.org/)
 - [Using QGIS to apply a 1777 style to today&#39;s OpenStreetMap data](https://manuelclaeysbouuaert.be/projects/ferrargis.html)
-- [Why I’m Skeptical of “Steelmanning”](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/)
-- [JavaScript quiz that may confuse you](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you/)
-- [Pitivi is a Free video editor with a beautiful and intuitive user interface](https://pitivi.org/)
-- [A minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
