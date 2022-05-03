@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: The middle ground for email selfhosting](https://news.ycombinator.com/item?id=31245625)
+- [To Code or to Nocode?](https://getparthenon.com/blog/to-code-or-to-nocode/)
 - [Cellular Landscapes: Protein Synthesis](https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html)
 - [UA Gotta Be Kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
 - [Emacs for Professionals](http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html)
-- [FreeDV – Digital Voice mode for HF radio](https://freedv.org/)
-- [Using QGIS to apply a 1777 style to today&#39;s OpenStreetMap data](https://manuelclaeysbouuaert.be/projects/ferrargis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
