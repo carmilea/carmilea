@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plan C Pills](https://www.plancpills.org/)
-- [The Crypto Elites Are Plotting a Wall Street Merger](https://concoda.substack.com/p/the-crypto-elites-are-plotting-a)
-- [Mayor of Lima, Peru impeached for serving on the board of state-owned company](https://perureports.com/mayor-of-lima-peru-impeached-for-serving-on-the-board-of-state-owned-company-while-in-office/9406/)
-- [Replit &lpar;YC W18&rpar; Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
-- [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
+- [DbDiagram – Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
+- [Heroku resetting passwords for “a portion” of their users immediately](https://news.ycombinator.com/item?id=31255450)
+- [Coding Up an IoT PCB Design](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design)
+- [Oral administration of NMN is safe and efficiently increases blood NAD levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9036060/)
+- [Sigstore - A new standard for signing, verifying and protecting software](https://www.sigstore.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
