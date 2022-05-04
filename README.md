@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is every consumer startup selling me what I already own for 10x the price?](https://mleverything.substack.com/p/why-is-every-consumer-startup-trying)
+- [What Are Your Most Used Self Hosted Applications?](https://noted.lol/what-are-your-most-used-self-hosted-applications/)
 - [Clairnote: An alternative music notation system](https://clairnote.org/)
 - [Tailscale raises $100M to fix the Internet](https://tailscale.com/blog/series-b/)
-- [Bitwarden: Generate a Username](https://bitwarden.com/help/generator/#generate-a-username)
-- [Pinker vs. the AAAS on the politicization of climate change](https://whyevolutionistrue.com/2022/05/03/pinker-vs-the-aaas-on-the-politicization-of-climate-change/)
-- [Some special cases of method dispatch in Julia](https://bkamins.github.io/julialang/2022/04/15/dispatch.html)
+- [Most Salvadorans have already ditched their national Bitcoin wallets](https://restofworld.org/2022/el-salvador-chivo-bitcoin-wallet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
