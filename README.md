@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain in a Nutshell](https://arxiv.org/abs/2205.01091)
+- [Ask HN: Why encourage creativity in school given most employers don&#39;t reward it?](https://news.ycombinator.com/item?id=31259468)
+- [Perl, the first postmodern computer language &lpar;1999&rpar;](http://www.wall.org/~larry/pm.html)
+- [UpEquity &lpar;YC S19&rpar; Is Hiring a Software Engineer in Austin](https://www.ycombinator.com/companies/upequity/jobs/ca50OPP-software-engineer)
+- [Clojure/Script mode for CodeMirror 6](https://nextjournal.github.io/clojure-mode/)
 - [Keycloak: Open-Source Identity and Access Management](https://www.keycloak.org/)
-- [Criticizing Hare language approach for generic data structures](https://ayende.com/blog/197185-B/criticizing-hare-language-approach-for-generic-data-structures?key=37121a38a2c34d1ea56119261822ef99)
-- [Critical vulnerability in the Matrix IRC bridge](https://matrix.org/blog/2022/05/04/0-34-0-security-release-for-matrix-appservice-irc-high-severity/)
-- [SnappyMail – Modern, lightweight and fast web-based email client](https://snappymail.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
