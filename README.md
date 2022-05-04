@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe Financial Connections](https://stripe.com/financial-connections)
+- [Backblaze Drive Stats for Q1 2022](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2022/)
+- [Datasette Lite: a server-side Python web application running in a browser](https://simonwillison.net/2022/May/4/datasette-lite/)
+- [Stanford Gets $1.1B for New Climate School from John Doerr](https://www.nytimes.com/2022/05/04/climate/john-doerr-stanford-climate.html)
 - [Firecracker: Lightweight Virtualization for Serverless Applications &lpar;2020&rpar;](https://www.usenix.org/conference/nsdi20/presentation/agache)
-- [Founder&#39;s Choice of VCs](https://founderschoicevc.com/)
-- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
-- [The Google Incentive Mismatch: Problems with Promotion-Oriented Cultures](https://www.warp.dev/blog/problems-with-promotion-oriented-cultures)
-- [Introducing ArcticDB: A Database for Observability](https://www.polarsignals.com/blog/posts/2022/05/04/introducing-arcticdb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
