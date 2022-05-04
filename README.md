@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why encourage creativity in school given most employers don&#39;t reward it?](https://news.ycombinator.com/item?id=31259468)
-- [Perl, the first postmodern computer language &lpar;1999&rpar;](http://www.wall.org/~larry/pm.html)
-- [UpEquity &lpar;YC S19&rpar; Is Hiring a Software Engineer in Austin](https://www.ycombinator.com/companies/upequity/jobs/ca50OPP-software-engineer)
-- [Clojure/Script mode for CodeMirror 6](https://nextjournal.github.io/clojure-mode/)
-- [Keycloak: Open-Source Identity and Access Management](https://www.keycloak.org/)
+- [Clairnote: An alternative music notation system](https://clairnote.org/)
+- [Tailscale raises $100M to fix the Internet](https://tailscale.com/blog/series-b/)
+- [Bitwarden: Generate a Username](https://bitwarden.com/help/generator/#generate-a-username)
+- [Pinker vs. the AAAS on the politicization of climate change](https://whyevolutionistrue.com/2022/05/03/pinker-vs-the-aaas-on-the-politicization-of-climate-change/)
+- [Some special cases of method dispatch in Julia](https://bkamins.github.io/julialang/2022/04/15/dispatch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
