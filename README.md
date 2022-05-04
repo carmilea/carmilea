@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is every consumer startup selling me what I already own for 10x the price?](https://mleverything.substack.com/p/why-is-every-consumer-startup-trying)
-- [What Are Your Most Used Self Hosted Applications?](https://noted.lol/what-are-your-most-used-self-hosted-applications/)
-- [Clairnote: An alternative music notation system](https://clairnote.org/)
-- [Tailscale raises $100M to fix the Internet](https://tailscale.com/blog/series-b/)
-- [Most Salvadorans have already ditched their national Bitcoin wallets](https://restofworld.org/2022/el-salvador-chivo-bitcoin-wallet/)
+- [Firecracker: Lightweight Virtualization for Serverless Applications &lpar;2020&rpar;](https://www.usenix.org/conference/nsdi20/presentation/agache)
+- [Founder&#39;s Choice of VCs](https://founderschoicevc.com/)
+- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
+- [The Google Incentive Mismatch: Problems with Promotion-Oriented Cultures](https://www.warp.dev/blog/problems-with-promotion-oriented-cultures)
+- [Introducing ArcticDB: A Database for Observability](https://www.polarsignals.com/blog/posts/2022/05/04/introducing-arcticdb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
