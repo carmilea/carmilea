@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbo Tax to Pay 141M in Agreement Reached by All 50 States](https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax)
+- [Mighty &lpar;YC S19&rpar; is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [IBM&#39;s Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
+- [The Semiconductor Bust. Still Coming?](https://asianometry.substack.com/p/the-semiconductor-bust-still-coming)
+- [TurboTax to pay $141M in agreement reached by all 50 states](https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax)
 - [FM Towns Bootable FRAM Card: Final – Prebyopia vs. Surface Mount](http://ysflight.in.coocan.jp/FM/towns/icm/e.html#20220503)
-- [What we can deduce from a leaked PDF](https://matthewbutterick.com/chron/what-we-can-deduce-from-a-leaked-pdf.html)
-- [Making the Clubhouse hallway more relevant with machine learning](https://blog.clubhouse.com/making-the-hallway-more-relevant-with-machine-learning/)
-- [Jax vs. Julia &lpar;Vs PyTorch&rpar;](https://kidger.site/thoughts/jax-vs-julia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
