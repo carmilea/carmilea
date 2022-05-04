@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Stripe Financial Connections](https://stripe.com/financial-connections)
 - [Backblaze Drive Stats for Q1 2022](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2022/)
 - [Datasette Lite: a server-side Python web application running in a browser](https://simonwillison.net/2022/May/4/datasette-lite/)
 - [Stanford Gets $1.1B for New Climate School from John Doerr](https://www.nytimes.com/2022/05/04/climate/john-doerr-stanford-climate.html)
-- [Firecracker: Lightweight Virtualization for Serverless Applications &lpar;2020&rpar;](https://www.usenix.org/conference/nsdi20/presentation/agache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
