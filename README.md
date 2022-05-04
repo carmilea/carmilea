@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex data center in Finland loses power, runs on diesel, due to war sanctions](https://www.datacenterdynamics.com/en/news/yandex-data-center-in-finland-loses-power-runs-on-diesel-due-to-war-sanctions/)
 - [Sqldiff: SQLite Database Difference Utility](https://www.sqlite.org/sqldiff.html)
 - [Microsoft 3D Movie Maker Source Code](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 - [Practical advises on recommendation systems in production](https://arkid.substack.com/p/recommendation-systems-not-so-discussed)
 - [100-year-old Brazilian breaks record after 84 years at same company](https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664)
-- [Set up your own VPN at home with Raspberry Pi – Wolfang&#39;s Blog](https://notthebe.ee/raspi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
