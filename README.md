@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain in a Nutshell](https://arxiv.org/abs/2205.01091)
 - [Keycloak: Open-Source Identity and Access Management](https://www.keycloak.org/)
 - [Criticizing Hare language approach for generic data structures](https://ayende.com/blog/197185-B/criticizing-hare-language-approach-for-generic-data-structures?key=37121a38a2c34d1ea56119261822ef99)
 - [Critical vulnerability in the Matrix IRC bridge](https://matrix.org/blog/2022/05/04/0-34-0-security-release-for-matrix-appservice-irc-high-severity/)
 - [SnappyMail – Modern, lightweight and fast web-based email client](https://snappymail.eu/)
-- [Yandex data center in Finland loses power, runs on diesel, due to war sanctions](https://www.datacenterdynamics.com/en/news/yandex-data-center-in-finland-loses-power-runs-on-diesel-due-to-war-sanctions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
