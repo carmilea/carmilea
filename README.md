@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is the PDF format so inaccessible?](https://news.ycombinator.com/item?id=31266661)
 - [Mighty &lpar;YC S19&rpar; is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- [Walkthrough of UHC’s Medical Reimbursement Text Adventure](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
+- [Walkthrough of UHC’s claim reimbursement form game](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
 - [IBM&#39;s Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
 - [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science)
-- [The Semiconductor Bust. Still Coming?](https://asianometry.substack.com/p/the-semiconductor-bust-still-coming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
