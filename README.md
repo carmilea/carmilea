@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell profits nearly triple as oil prices surge](https://www.bbc.com/news/business-61330552)
+- [Nim Version 1.6.6 Released](https://nim-lang.org/blog/2022/05/05/version-166-released.html)
+- [OpenAlex: The Promising Alternative to Microsoft Academic Graph](https://library.smu.edu.sg/topics-insights/openalex-promising-alternative-microsoft-academic-graph)
 - [I Accidentally Deleted 7TB of Videos Before Going to Production](https://blog.thevinter.com/posts/vimeo)
 - [Cloud Cost Control: Best Practices](https://bestcloudplatform.com/cloud-cost-control-best-practices/)
-- [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
-- [The UX of Paid Journalism](https://builtformars.com/case-studies/wsj)
-- [V86: x86 virtualization in the browser, recompiling x86 to WASM on the fly](https://github.com/copy/v86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
