@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US sees largest productivity drop since 1947 [pdf]](https://www.bls.gov/news.release/pdf/prod2.pdf)
-- [Themes from Real World Crypto 2022](https://blog.trailofbits.com/2022/05/03/themes-from-real-world-crypto-2022/)
-- [Why Japan&#39;s Rail Workers Can&#39;t Stop Pointing at Things &lpar;2017&rpar;](https://www.atlasobscura.com/articles/pointing-and-calling-japan-trains)
-- [Unlayer &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/unlayer/jobs/42GufCM-product-designer)
-- [Netflix’s Big Power Clash and Rivalries Behind the Crash](https://www.hollywoodreporter.com/business/digital/netflixs-big-wake-up-call-the-power-clash-behind-the-crash-1235136004/)
+- [Interactive Circle of Fifths](https://muted.io/circle-of-fifths/)
+- [Show HN: Turing Pi 2 – the ultimate selfhosted](https://turingpi.com/turing-pi-2-the-ultimate-self-hosted/)
+- [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge)
+- [Endemic Pathogens Are Making You Crazy and Then Killing You](https://www.hardtowrite.com/pathogens/)
+- [Lirebird – a simple and powerful voice changer for Linux, written in GTK 3](https://github.com/lyrebird-voice-changer/lyrebird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
