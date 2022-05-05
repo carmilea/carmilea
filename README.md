@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can I PHP? – caniuse.com but for PHP features](https://caniphp.com/)
 - [Zero downtime migrations](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html)
+- [How Well Can You Kaggle with Just One Hour a Day?](https://wandb.ai/sairam6087/humpback_whale/reports/How-Well-Can-You-Kaggle-with-Just-One-Hour-a-Day---VmlldzoxNjQxMTQ4)
 - [Heroku Security Notification](https://status.heroku.com/incidents/2413?updated)
 - [Swarming drones autonomously navigate a dense forest](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
-- [Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
-- [Teen mental health is plummeting and social media is a major contributing cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
