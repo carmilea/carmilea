@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can I PHP? – caniuse.com but for PHP features](https://caniphp.com/)
+- [Ask HN: My house just got hit by lightning and it fried the PSU in my computer](https://news.ycombinator.com/item?id=31270349)
+- [ActivitySub](http://len.falken.directory/web/activity-sub.txt)
 - [Zero downtime migrations](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html)
 - [How Well Can You Kaggle with Just One Hour a Day?](https://wandb.ai/sairam6087/humpback_whale/reports/How-Well-Can-You-Kaggle-with-Just-One-Hour-a-Day---VmlldzoxNjQxMTQ4)
 - [Heroku Security Notification](https://status.heroku.com/incidents/2413?updated)
-- [Swarming drones autonomously navigate a dense forest](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
