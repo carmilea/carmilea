@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The UX of Paid Journalism](https://builtformars.com/case-studies/wsj)
 - [V86: x86 virtualization in the browser, recompiling x86 to WASM on the fly](https://github.com/copy/v86)
 - [The Gitlab Team Handbook](https://about.gitlab.com/handbook/)
-- [Ask HN: My house just got hit by lightning and it fried the PSU in my computer](https://news.ycombinator.com/item?id=31270349)
 - [ActivitySub](http://len.falken.directory/web/activity-sub.txt)
 - [Zero downtime migrations](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html)
 <!-- BLOG-POST-LIST:END -->
