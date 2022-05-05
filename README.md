@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
+- [Including “And. And. And. And. And.” in a Google doc causes it to crash](https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en)
 - [Interactive Circle of Fifths](https://muted.io/circle-of-fifths/)
 - [Show HN: Turing Pi 2 – the ultimate selfhosted](https://turingpi.com/turing-pi-2-the-ultimate-self-hosted/)
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge)
-- [Endemic Pathogens Are Making You Crazy and Then Killing You](https://www.hardtowrite.com/pathogens/)
-- [Lirebird – a simple and powerful voice changer for Linux, written in GTK 3](https://github.com/lyrebird-voice-changer/lyrebird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
