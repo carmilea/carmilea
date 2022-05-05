@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shell profits nearly triple as oil prices surge](https://www.bbc.com/news/business-61330552)
-- [Nim Version 1.6.6 Released](https://nim-lang.org/blog/2022/05/05/version-166-released.html)
-- [OpenAlex: The Promising Alternative to Microsoft Academic Graph](https://library.smu.edu.sg/topics-insights/openalex-promising-alternative-microsoft-academic-graph)
-- [I Accidentally Deleted 7TB of Videos Before Going to Production](https://blog.thevinter.com/posts/vimeo)
-- [Cloud Cost Control: Best Practices](https://bestcloudplatform.com/cloud-cost-control-best-practices/)
+- [Opvia &lpar;YC S20&rpar; Is Hiring Product Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
+- [Show HN: MockRTC – a mock peer and MitM proxy library for WebRTC](https://github.com/httptoolkit/mockrtc)
+- [How Crossrail was affected by the curvature of the Earth &lpar;2018&rpar;](https://www.ianvisits.co.uk/articles/how-crossrail-was-affected-by-the-curvature-of-the-earth-24285/)
+- [Facebook’s Retirement Plan](https://www.economist.com/business/facebooks-retirement-plan/21809131)
+- [Craft CMS 4 Released](https://craftcms.com/blog/craft-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
