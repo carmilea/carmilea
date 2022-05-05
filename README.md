@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On April 7, 2022, a threat actor obtained access to a Heroku database](https://status.heroku.com/incidents/2413?updated)
-- [Swarming drones autonomously navigate a dense forest &lpar;and chase a human&rpar;](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
-- [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
-- [Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
-- [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/)
+- [Zero downtime migrations](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html)
+- [Heroku Security Notification](https://status.heroku.com/incidents/2413?updated)
+- [Swarming drones autonomously navigate a dense forest](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
+- [Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
+- [Teen mental health is plummeting and social media is a major contributing cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
