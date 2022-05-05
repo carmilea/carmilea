@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On April 7, 2022, a threat actor obtained access to a Heroku database](https://status.heroku.com/incidents/2413?updated)
+- [Swarming drones autonomously navigate a dense forest &lpar;and chase a human&rpar;](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
 - [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
 - [Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
-- [Bluesky – Authenticated Data EXperiment](https://github.com/bluesky-social/adx)
 - [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/)
-- [After the First Tech Job](https://lowlyswe.substack.com/p/after-the-first-tech-job)
 <!-- BLOG-POST-LIST:END -->
 
 ---
