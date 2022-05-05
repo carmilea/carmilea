@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One step closer to a passwordless future](https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/)
+- [Apple/Google/Microsoft to accelerate rollout of passwordless sign‑in standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
+- [Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
 - [Opvia &lpar;YC S20&rpar; Is Hiring Product Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 - [Show HN: MockRTC – a mock peer and MitM proxy library for WebRTC](https://github.com/httptoolkit/mockrtc)
-- [How Crossrail was affected by the curvature of the Earth &lpar;2018&rpar;](https://www.ianvisits.co.uk/articles/how-crossrail-was-affected-by-the-curvature-of-the-earth-24285/)
-- [Facebook’s Retirement Plan](https://www.economist.com/business/facebooks-retirement-plan/21809131)
-- [Craft CMS 4 Released](https://craftcms.com/blog/craft-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
