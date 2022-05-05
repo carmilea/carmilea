@@ -54,8 +54,8 @@
 - [Unlayer &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/unlayer/jobs/42GufCM-product-designer)
 - [Tailscale Authentication for Nginx](https://tailscale.com/blog/tailscale-auth-nginx/)
 - [The D-Notice: A British Way of Censoring the Press](https://thedissenter.org/very-british-form-of-press-censorship/)
-- [Please stop disabling zoom](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/)
 - [Kubernetes and SingleStore: 5 Things You Absolutely Need to Know, Part 1](https://www.singlestore.com/blog/singlestore-and-kubernetes-part-1)
+- [Moving a macOS window by clicking anywhere on it](https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
