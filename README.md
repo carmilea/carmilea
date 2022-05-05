@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Defence of the Single Page Application](https://williamkennedy.ninja/javascript/2022/05/03/in-defence-of-the-single-page-application/)
+- [Tailscale Authentication for Nginx](https://tailscale.com/blog/tailscale-auth-nginx/)
+- [The D-Notice: A British Way of Censoring the Press](https://thedissenter.org/very-british-form-of-press-censorship/)
 - [Please, stop disabling zoom](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/)
 - [Kubernetes and SingleStore: 5 Things You Absolutely Need to Know, Part 1](https://www.singlestore.com/blog/singlestore-and-kubernetes-part-1)
-- [7GUIs](https://eugenkiss.github.io/7guis/tasks/)
-- [Mermaid: Create diagrams and visualizations using text and code](https://mermaid-js.github.io/mermaid/)
-- [Shopify to Acquire Delivrr for $2.1B](https://news.shopify.com/oh-ship-shopify-to-acquire-deliverr-for-21b-building-the-future-of-global-logistics-for-independent-brands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
