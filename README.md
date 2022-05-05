@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
 - [Including “And. And. And. And. And.” in a Google doc causes it to crash](https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en)
-- [Interactive Circle of Fifths](https://muted.io/circle-of-fifths/)
-- [Show HN: Turing Pi 2 – the ultimate selfhosted](https://turingpi.com/turing-pi-2-the-ultimate-self-hosted/)
-- [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge)
+- [OpenAI Leadership Team Update](https://openai.com/blog/leadership-team-update/)
+- [Show HN: Turing Pi 2](https://turingpi.com/turing-pi-2-the-ultimate-self-hosted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
