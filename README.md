@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please, stop disabling zoom](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/)
+- [Kubernetes and SingleStore: 5 Things You Absolutely Need to Know, Part 1](https://www.singlestore.com/blog/singlestore-and-kubernetes-part-1)
+- [7GUIs](https://eugenkiss.github.io/7guis/tasks/)
+- [Mermaid: Create diagrams and visualizations using text and code](https://mermaid-js.github.io/mermaid/)
 - [Shopify to Acquire Delivrr for $2.1B](https://news.shopify.com/oh-ship-shopify-to-acquire-deliverr-for-21b-building-the-future-of-global-logistics-for-independent-brands)
-- [UML Diagrams Designer via Code](https://sequencediagram.org/)
-- [‘I’m not a leak.’ Scientific careers aren’t a ‘pipeline,’: economists](https://www.science.org/content/article/i-m-absolutely-not-leak-scientific-careers-aren-t-pipeline-these-economists-say)
-- [Apple, Google and Microsoft Commit to Expanded Support for FIDO Standard](https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/)
-- [Windmill.dev](https://docs.windmill.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
