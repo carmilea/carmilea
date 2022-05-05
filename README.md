@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US sees largest productivity drop since 1947 [pdf]](https://www.bls.gov/news.release/pdf/prod2.pdf)
+- [Themes from Real World Crypto 2022](https://blog.trailofbits.com/2022/05/03/themes-from-real-world-crypto-2022/)
+- [Why Japan&#39;s Rail Workers Can&#39;t Stop Pointing at Things &lpar;2017&rpar;](https://www.atlasobscura.com/articles/pointing-and-calling-japan-trains)
 - [Unlayer &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/unlayer/jobs/42GufCM-product-designer)
-- [Tailscale Authentication for Nginx](https://tailscale.com/blog/tailscale-auth-nginx/)
-- [The D-Notice: A British Way of Censoring the Press](https://thedissenter.org/very-british-form-of-press-censorship/)
-- [Kubernetes and SingleStore: 5 Things You Absolutely Need to Know, Part 1](https://www.singlestore.com/blog/singlestore-and-kubernetes-part-1)
-- [Moving a macOS window by clicking anywhere on it](https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/)
+- [Netflix’s Big Power Clash and Rivalries Behind the Crash](https://www.hollywoodreporter.com/business/digital/netflixs-big-wake-up-call-the-power-clash-behind-the-crash-1235136004/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
