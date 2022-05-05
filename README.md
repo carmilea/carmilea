@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is the PDF format so inaccessible?](https://news.ycombinator.com/item?id=31266661)
+- [Bluesky – Authenticated Data EXperiment](https://github.com/bluesky-social/adx)
+- [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/)
+- [After the First Tech Job](https://lowlyswe.substack.com/p/after-the-first-tech-job)
+- [Former Facebook, WhatsApp employees lead new push to fix social media](https://www.wsj.com/articles/social-media-startups-take-aim-at-facebook-and-elon-musk-11651656600)
 - [Mighty &lpar;YC S19&rpar; is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- [Walkthrough of UHC’s claim reimbursement form game](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
-- [IBM&#39;s Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
-- [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
