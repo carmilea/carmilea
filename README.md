@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Accidentally Deleted 7TB of Videos Before Going to Production](https://blog.thevinter.com/posts/vimeo)
+- [Cloud Cost Control: Best Practices](https://bestcloudplatform.com/cloud-cost-control-best-practices/)
+- [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
 - [The UX of Paid Journalism](https://builtformars.com/case-studies/wsj)
 - [V86: x86 virtualization in the browser, recompiling x86 to WASM on the fly](https://github.com/copy/v86)
-- [The Gitlab Team Handbook](https://about.gitlab.com/handbook/)
-- [ActivitySub](http://len.falken.directory/web/activity-sub.txt)
-- [Zero downtime migrations](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
