@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools is building the future of mobile performance tooling, come join us](https://www.workatastartup.com/jobs/47879)
+- [Implementing a Merkle Tree for an Immutable Verifiable Log](https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/)
+- [Faecal transplants reverse hallmarks of ageing](https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing)
 - [Admission Announcement](https://admission.princeton.edu/admission-announcement)
 - [Half Baked](https://seths.blog/2022/05/half-baked/?via=thomas.me)
-- [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages)
-- [Show HN: Videobug – The time travel debugger for JVM](https://news.ycombinator.com/item?id=31286126)
-- [My vision for Open Source pro support](https://xcp-ng.org/blog/2022/05/06/my-vision-for-open-source-pro-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
