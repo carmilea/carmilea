@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun-like star found in the region of the sky that has most radio signals](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A)
+- [Second large Hetzner outage in a week caused by DDoS attack](https://status.hetzner.com/incident/ea9ed47d-ecfa-49bd-a961-fdfbdaf026e0)
 - [Meticulous is building the future of testing, join us](https://news.ycombinator.com/item?id=31289574)
 - [Mercedes-Benz Says Self-Driving Option Ready to Roll](https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/)
 - [Fclones – an efficient duplicate file finder and remover](https://github.com/pkolaczk/fclones)
-- [The joys and sorrows of maintaining a personal website](https://cheapskatesguide.org/articles/joys-and-sorrows.html)
-- [The piranha problem in social psychology / behavioral economics &lpar;2017&rpar;](https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
