@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Diminishing Returns of Productivity Culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
+- [Why I’ve spent my Easter break customizing Neovim](https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/)
 - [Sun-like star found in the region of the sky that has most radio signals](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A)
+- [Like Facebook, but smaller and “private” and “free” with no “ads”](https://www.halloapp.com/)
 - [Second large Hetzner outage in a week caused by DDoS attack](https://status.hetzner.com/incident/ea9ed47d-ecfa-49bd-a961-fdfbdaf026e0)
-- [Meticulous is building the future of testing, join us](https://news.ycombinator.com/item?id=31289574)
-- [Mercedes-Benz Says Self-Driving Option Ready to Roll](https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/)
-- [Fclones – an efficient duplicate file finder and remover](https://github.com/pkolaczk/fclones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
