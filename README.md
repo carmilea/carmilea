@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft insults dev, then takes credit for their idea](https://twitter.com/cmuratori/status/1522468481135902725)
-- [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [You say “cave dweller debugging”, I say debug logging](https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/)
-- [Social media break improves mental health](https://www.bath.ac.uk/announcements/social-media-break-improves-mental-health-new-study/)
-- [Trading and Weighing Metals in Bronze Age Western Eurasia](https://www.pnas.org/doi/10.1073/pnas.2110552118)
+- [The Elitist Philanthropy of So-Called Effective Altruism &lpar;2013&rpar;](https://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism)
+- [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79-0)
+- [Show HN: Recipe Search Engine &lpar;Built in Vanilla PHP&rpar;](https://recipehunt.app/)
+- [The Case for Higher Rates](https://thelastbearstanding.substack.com/p/the-case-for-higher-rates)
+- [Ask HN: Has social media reached its saturation point?](https://news.ycombinator.com/item?id=31284537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
