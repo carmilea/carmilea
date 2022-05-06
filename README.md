@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Britain has become unexpectedly European](https://www.economist.com/britain/2022/05/07/britain-has-become-unexpectedly-european)
+- [Fclones – an efficient duplicate file finder and remover](https://github.com/pkolaczk/fclones)
 - [The Joys and Sorrows of Maintaining a Personal Website](https://cheapskatesguide.org/articles/joys-and-sorrows.html)
 - [The piranha problem in social psychology / behavioral economics &lpar;2017&rpar;](https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/)
 - [Double detonation: from Type a Ia supernova explosion to its supernova remnant](https://arxiv.org/abs/2202.04268)
