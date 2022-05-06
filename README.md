@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rustc: Add do yeet expressions to allow experimentation in nightly](https://github.com/rust-lang/rust/pull/96376)
 - [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
-- [That Doesn’t Feel Like $150 Worth of Groceries](https://bariweiss.substack.com/p/that-doesnt-feel-like-150-worth-of)
+- [How many radioactive bananas would you need to power a house?](https://what-if.xkcd.com/158/)
 - [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
 - [Homes in 97% of U.S. cities are overvalued, Moody&#39;s says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
-- [Abletone Learning Synth](https://learningsynths.ableton.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
