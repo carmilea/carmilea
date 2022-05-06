@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated OS testing on physical laptops](https://www.qubes-os.org/news/2022/05/05/automated-os-testing-on-physical-laptops/)
 - [Rustc: Add do yeet expressions to allow experimentation in nightly](https://github.com/rust-lang/rust/pull/96376)
 - [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
 - [How many radioactive bananas would you need to power a house?](https://what-if.xkcd.com/158/)
 - [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
-- [Homes in 97% of U.S. cities are overvalued, Moody&#39;s says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
