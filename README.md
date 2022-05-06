@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Résumé: Service that creates a résumé based on your GitHub repos/activity](https://github.com/resume/resume.github.com)
-- [User Disengagement](https://zerodha.tech/blog/user-disengagement/)
-- [The Algol 68 Genie project](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
-- [When negotiating a price, never bid with a round number &lpar;2016&rpar;](https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number)
-- [Where Do Space, Time and Gravity Come From?](https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/)
+- [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- [You say “cave dweller debugging”, I say debug logging](https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/)
+- [Trading and Weighing Metals in Bronze Age Western Eurasia](https://www.pnas.org/doi/10.1073/pnas.2110552118)
+- [Oa.mg](https://oa.mg)
+- [Sentry.io outage](https://status.sentry.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
