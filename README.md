@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft insults dev, then takes credit for their idea](https://twitter.com/cmuratori/status/1522468481135902725)
 - [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
 - [You say “cave dweller debugging”, I say debug logging](https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/)
+- [Social media break improves mental health](https://www.bath.ac.uk/announcements/social-media-break-improves-mental-health-new-study/)
 - [Trading and Weighing Metals in Bronze Age Western Eurasia](https://www.pnas.org/doi/10.1073/pnas.2110552118)
-- [Oa.mg](https://oa.mg)
-- [Sentry.io outage](https://status.sentry.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
