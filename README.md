@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britain has become unexpectedly European](https://www.economist.com/britain/2022/05/07/britain-has-become-unexpectedly-european)
+- [The Joys and Sorrows of Maintaining a Personal Website](https://cheapskatesguide.org/articles/joys-and-sorrows.html)
 - [The piranha problem in social psychology / behavioral economics &lpar;2017&rpar;](https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/)
 - [Double detonation: from Type a Ia supernova explosion to its supernova remnant](https://arxiv.org/abs/2202.04268)
 - [Recognize Digits Using ML in Elixir](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
-- [Demystifying Database Performance for Developers](https://www.crunchydata.com/blog/demystifying-database-performance-for-developers)
-- [Emerge Tools is building the future of mobile performance tooling, come join us](https://www.workatastartup.com/jobs/47879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
