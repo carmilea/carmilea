@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Being Acquired](https://www.csisoftware.com/about-us/being-acquired)
-- [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
-- [Including “And. And. And. And. And.” in a Google doc causes it to crash](https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en)
-- [OpenAI Leadership Team Update](https://openai.com/blog/leadership-team-update/)
+- [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
+- [Homes in 97% of U.S. cities are overvalued, Moody&#39;s says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
+- [Abletone Learning Synth](https://learningsynths.ableton.com/)
+- [Mygov is a ‘huge disappointment,’ key architect despairs](https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/)
+- [$35 sculpture found at an Austin Goodwill was looted from a museum during WWII](https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what)
 <!-- BLOG-POST-LIST:END -->
 
 ---
