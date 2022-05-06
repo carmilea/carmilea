@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why can&#39;t I learn anymore?](https://news.ycombinator.com/item?id=31281919)
 - [In Test Tubes, RNA Molecules Evolve into a Tiny Ecosystem](https://www.quantamagazine.org/in-test-tubes-rna-molecules-evolve-into-a-tiny-ecosystem-20220505/)
 - [ESO event on groundbreaking results from Event Horizon Telescope Collaboration](https://www.eso.org/public/announcements/ann22006/)
 - [Tell HN: AT&amp;T disabled phone numbers and accounts of users using the old phones](https://news.ycombinator.com/item?id=31281580)
-- [Automated OS testing on physical laptops](https://www.qubes-os.org/news/2022/05/05/automated-os-testing-on-physical-laptops/)
-- [Rustc: Add do yeet expressions to allow experimentation in nightly](https://github.com/rust-lang/rust/pull/96376)
+- [PHP RFC: Deprecate ${} string interpolation](https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
