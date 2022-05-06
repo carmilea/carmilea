@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do you waste so much time on the internet](https://zan.bearblog.dev/why-i-waste-time/)
-- [TRPC: End-to-end typesafe APIs made easy](https://trpc.io/)
-- [Efficiency Is the Enemy](https://fs.blog/slack/)
-- [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79-0)
-- [Show HN: Recipe Search Engine &lpar;Built in Vanilla PHP&rpar;](https://recipehunt.app/)
+- [Admission Announcement](https://admission.princeton.edu/admission-announcement)
+- [Half Baked](https://seths.blog/2022/05/half-baked/?via=thomas.me)
+- [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages)
+- [Show HN: Videobug – The time travel debugger for JVM](https://news.ycombinator.com/item?id=31286126)
+- [My vision for Open Source pro support](https://xcp-ng.org/blog/2022/05/06/my-vision-for-open-source-pro-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
