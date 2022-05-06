@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
+- [That Doesn’t Feel Like $150 Worth of Groceries](https://bariweiss.substack.com/p/that-doesnt-feel-like-150-worth-of)
 - [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
 - [Homes in 97% of U.S. cities are overvalued, Moody&#39;s says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
 - [Abletone Learning Synth](https://learningsynths.ableton.com/)
-- [Mygov is a ‘huge disappointment,’ key architect despairs](https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/)
-- [$35 sculpture found at an Austin Goodwill was looted from a museum during WWII](https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what)
 <!-- BLOG-POST-LIST:END -->
 
 ---
