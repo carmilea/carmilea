@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Elitist Philanthropy of So-Called Effective Altruism &lpar;2013&rpar;](https://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism)
+- [Why do you waste so much time on the internet](https://zan.bearblog.dev/why-i-waste-time/)
+- [TRPC: End-to-end typesafe APIs made easy](https://trpc.io/)
+- [Efficiency Is the Enemy](https://fs.blog/slack/)
 - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79-0)
 - [Show HN: Recipe Search Engine &lpar;Built in Vanilla PHP&rpar;](https://recipehunt.app/)
-- [The Case for Higher Rates](https://thelastbearstanding.substack.com/p/the-case-for-higher-rates)
-- [Ask HN: Has social media reached its saturation point?](https://news.ycombinator.com/item?id=31284537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
