@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When negotiating a price, never bid with a round number &lpar;2016&rpar;](https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number)
 - [Cloud Pricing Comparison: AWS vs. Azure vs. Google Cloud Platform in 2022](https://cast.ai/blog/cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-platform/)
 - [Where Do Space, Time and Gravity Come From?](https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/)
 - [Average home prices in New Zealand reaches 8.8 times average household income](https://businessdesk.co.nz/article/property/house-prices-now-at-a-record-88x-nz-incomes)
 - [Aliexpress.com has NSFW terms on main page in localized versions](https://huntingbears.nl/2022/05/05/ali-whats-up/)
-- [Rad Basic 100% compatible with your Visual Basic 6 projects](https://www.radbasic.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
