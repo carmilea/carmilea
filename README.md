@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Test Tubes, RNA Molecules Evolve into a Tiny Ecosystem](https://www.quantamagazine.org/in-test-tubes-rna-molecules-evolve-into-a-tiny-ecosystem-20220505/)
+- [ESO event on groundbreaking results from Event Horizon Telescope Collaboration](https://www.eso.org/public/announcements/ann22006/)
+- [Tell HN: AT&amp;T disabled phone numbers and accounts of users using the old phones](https://news.ycombinator.com/item?id=31281580)
 - [Automated OS testing on physical laptops](https://www.qubes-os.org/news/2022/05/05/automated-os-testing-on-physical-laptops/)
 - [Rustc: Add do yeet expressions to allow experimentation in nightly](https://github.com/rust-lang/rust/pull/96376)
-- [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
-- [How many radioactive bananas would you need to power a house?](https://what-if.xkcd.com/158/)
-- [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
