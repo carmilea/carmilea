@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phone May Soon Replace Many of Your Passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/)
+- [Why Did 1980s Datsuns Have Tiny Vinyl Record Players in Them?](https://blog.adafruit.com/2022/04/27/why-did-1980s-datsuns-have-tiny-vinyl-record-players-in-them/)
+- [Shaving Is Too Expensive. Also the world is out to get you](https://www.johnwhiles.com/posts/shaving.html)
 - [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
 - [AI software clears high hurdles on IQ tests but still makes dumb mistakes](https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help)
-- [Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason)
-- [TodoMVC App Written in Vanilla JavaScript](https://github.com/1Marc/todomvc-vanillajs-2022)
-- [The Hyped and Distorted Claims of Psychedelic Marketing](https://www.psymposia.com/magazine/psychedelic-online-advertisements-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
