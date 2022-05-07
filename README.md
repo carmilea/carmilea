@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Review of the biological effects of Wi-Fi radiations on humans](https://www.semanticscholar.org/paper/Biological-and-pathological-effects-of-2.45-GHz-on-Wilke/8393d078e62a37133561ccec637cab2ec8ff60f3)
-- [I made an app to find great food trucks near you](https://www.sizzzle.app/)
-- [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html)
-- [The Record Player From The Engine Bay Of An 80’s Datsun Car [video]](https://www.youtube.com/watch?v=n3EuP7vZRSo)
-- [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving.html)
+- [Ask HN: How to Make Passive Income?](https://news.ycombinator.com/item?id=31295496)
+- [Japan&#39;s population falls by record 644,000 to 125.5M in 2021](https://english.kyodonews.net/news/2022/04/2682851af82b-breaking-news-tokyos-population-shrinks-for-1st-time-in-26-yrs-govt-data.html)
+- [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
+- [Final year medical students &#39;can&#39;t afford to pay rent&#39;](https://www.bbc.co.uk/news/uk-england-61302377)
+- [Lufthansa’s European Union Strasbourg “Shuttle”](https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
