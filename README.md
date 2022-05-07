@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Sonse, a note-taking CLI for plaintext enthusiasts](https://github.com/rattlerake/sonse)
+- [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab)
 - [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
 - [Heroku: We’ve Heard Your Feedback](https://blog.heroku.com/we-heard-your-feedback)
 - [Roboto but Make It Flex](https://material.io/blog/roboto-flex)
-- [MenuetOS](http://www.menuetos.net/index.htm)
-- [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
