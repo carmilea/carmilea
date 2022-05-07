@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- [Deletionpedia: Rescuing articles from Wikipedia&#39;s deletionism](https://deletionpedia.org/en/Main_Page)
 - [Meta-Perceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 - [Show HN: I made a browser-based RTS game](https://www.battle-of-flags.com)
-- [Amazon Abruptly Fires Senior Managers Tied to Unionized Warehouse](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
-- [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
