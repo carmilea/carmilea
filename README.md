@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Diminishing Returns of Productivity Culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
-- [Why I’ve spent my Easter break customizing Neovim](https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/)
-- [Sun-like star found in the region of the sky that has most radio signals](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A)
-- [Like Facebook, but smaller and “private” and “free” with no “ads”](https://www.halloapp.com/)
-- [Second large Hetzner outage in a week caused by DDoS attack](https://status.hetzner.com/incident/ea9ed47d-ecfa-49bd-a961-fdfbdaf026e0)
+- [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
+- [Heroku: We’ve Heard Your Feedback](https://blog.heroku.com/we-heard-your-feedback)
+- [Roboto but Make It Flex](https://material.io/blog/roboto-flex)
+- [MenuetOS](http://www.menuetos.net/index.htm)
+- [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
