@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go](https://github.com/pojntfx/weron)
+- [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Deletionpedia: Rescuing articles from Wikipedia&#39;s deletionism](https://deletionpedia.org/en/Main_Page)
 - [Meta-Perceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- [Show HN: I made a browser-based RTS game](https://www.battle-of-flags.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
