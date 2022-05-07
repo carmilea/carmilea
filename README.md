@@ -54,8 +54,8 @@
 - [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
 - [Unauthorized gem takeover for some gems](https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79)
 - [Apple&#39;s Director of Machine Learning Resigns Due to Return to Office Work](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/)
+- [Some CUDA programming fun with Julia](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html)
 - [Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go](https://github.com/pojntfx/weron)
-- [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
