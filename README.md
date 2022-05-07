@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Perceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 - [Show HN: I made a browser-based RTS game](https://www.battle-of-flags.com)
+- [Amazon Abruptly Fires Senior Managers Tied to Unionized Warehouse](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
 - [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
-- [Final year medical students &#39;can&#39;t afford to pay rent&#39;](https://www.bbc.co.uk/news/uk-england-61302377)
-- [Lufthansa’s European Union Strasbourg “shuttle”](https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
