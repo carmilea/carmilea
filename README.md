@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
+- [Unauthorized gem takeover for some gems](https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79)
+- [Apple&#39;s Director of Machine Learning Resigns Due to Return to Office Work](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/)
 - [Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go](https://github.com/pojntfx/weron)
 - [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
-- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-- [Deletionpedia: Rescuing articles from Wikipedia&#39;s deletionism](https://deletionpedia.org/en/Main_Page)
-- [Meta-Perceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
