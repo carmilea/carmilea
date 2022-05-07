@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RSS Feed Best Practices](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
+- [UK’s first full-sized autonomous bus takes to the roads of Scotland](https://www.fusionproc.com/uks-first-full-sized-autonomous-bus-takes-to-the-roads-of-scotland-for-the-first-time/)
+- [Wi-Fi may be coming soon to a lamppost near you](https://www.nist.gov/news-events/news/2022/05/wi-fi-may-be-coming-soon-lamppost-near-you)
 - [Citizens reject proposed South Africa law linking biometrics to SIM cards](https://www.itweb.co.za/content/GxwQD71DVelvlPVo)
-- [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x)
 - [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
-- [Traces vs. Snapshots: Print Statements and Debuggers](https://www.scott-a-s.com/traces-vs-snapshots/)
-- [Unix command line conventions over time](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
