@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Citizens reject proposed South Africa law linking biometrics to SIM cards](https://www.itweb.co.za/content/GxwQD71DVelvlPVo)
+- [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x)
+- [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
+- [Traces vs. Snapshots: Print Statements and Debuggers](https://www.scott-a-s.com/traces-vs-snapshots/)
 - [Unix command line conventions over time](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
-- [Ask HN: How to Monetize Open-Source Software?](https://news.ycombinator.com/item?id=31292768)
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- [Oral History of Chuck Peddle [video]](https://www.youtube.com/watch?v=enHF9lMseP8)
-- [Using a RaspberryPi as a Display Adapter](https://gwolf.org/2022/05/using-a-rpi-as-a-display-adapter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
