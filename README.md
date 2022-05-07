@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phone May Soon Replace Many of Your Passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/)
-- [Why Did 1980s Datsuns Have Tiny Vinyl Record Players in Them?](https://blog.adafruit.com/2022/04/27/why-did-1980s-datsuns-have-tiny-vinyl-record-players-in-them/)
-- [Shaving Is Too Expensive. Also the world is out to get you](https://www.johnwhiles.com/posts/shaving.html)
-- [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
-- [AI software clears high hurdles on IQ tests but still makes dumb mistakes](https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help)
+- [Review of the biological effects of Wi-Fi radiations on humans](https://www.semanticscholar.org/paper/Biological-and-pathological-effects-of-2.45-GHz-on-Wilke/8393d078e62a37133561ccec637cab2ec8ff60f3)
+- [I made an app to find great food trucks near you](https://www.sizzzle.app/)
+- [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html)
+- [The Record Player From The Engine Bay Of An 80’s Datsun Car [video]](https://www.youtube.com/watch?v=n3EuP7vZRSo)
+- [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
