@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unix command line conventions over time](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
 - [Ask HN: How to Monetize Open-Source Software?](https://news.ycombinator.com/item?id=31292768)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 - [Oral History of Chuck Peddle [video]](https://www.youtube.com/watch?v=enHF9lMseP8)
-- [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab)
-- [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
+- [Using a RaspberryPi as a Display Adapter](https://gwolf.org/2022/05/using-a-rpi-as-a-display-adapter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
