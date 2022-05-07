@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Make Passive Income?](https://news.ycombinator.com/item?id=31295496)
-- [Japan&#39;s population falls by record 644,000 to 125.5M in 2021](https://english.kyodonews.net/news/2022/04/2682851af82b-breaking-news-tokyos-population-shrinks-for-1st-time-in-26-yrs-govt-data.html)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [Show HN: I made a browser-based RTS game](https://www.battle-of-flags.com)
 - [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
 - [Final year medical students &#39;can&#39;t afford to pay rent&#39;](https://www.bbc.co.uk/news/uk-england-61302377)
-- [Lufthansa’s European Union Strasbourg “Shuttle”](https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/)
+- [Lufthansa’s European Union Strasbourg “shuttle”](https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
