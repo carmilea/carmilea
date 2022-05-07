@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RSS Feed Best Practices](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
-- [UK’s first full-sized autonomous bus takes to the roads of Scotland](https://www.fusionproc.com/uks-first-full-sized-autonomous-bus-takes-to-the-roads-of-scotland-for-the-first-time/)
-- [Wi-Fi may be coming soon to a lamppost near you](https://www.nist.gov/news-events/news/2022/05/wi-fi-may-be-coming-soon-lamppost-near-you)
-- [Citizens reject proposed South Africa law linking biometrics to SIM cards](https://www.itweb.co.za/content/GxwQD71DVelvlPVo)
-- [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
+- [DevCycle &lpar;YC W14&rpar; Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
+- [AI software clears high hurdles on IQ tests but still makes dumb mistakes](https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help)
+- [Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason)
+- [TodoMVC App Written in Vanilla JavaScript](https://github.com/1Marc/todomvc-vanillajs-2022)
+- [The Hyped and Distorted Claims of Psychedelic Marketing](https://www.psymposia.com/magazine/psychedelic-online-advertisements-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
