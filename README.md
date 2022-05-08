@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Culture of Innovation](https://changelog.com/practicalai/170)
+- [Ask HN: How do I get my Google account back?](https://news.ycombinator.com/item?id=31302391)
 - [Show HN: Thanks to BeAware, Deaf iPhone users have a free alerting device &lpar;OSS&rpar;](https://www.deafassistant.com/)
-- [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
-- [Layoffs.fyi](https://layoffs.fyi/)
-- [Boquila trifoliolata mimics leaves of an artificial plastic host plant](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.1977530)
-- [New Assembly Like Programming Language?](https://github.com/wellang/well)
+- [Jeffrey Snower was originally demoted over PowerShell](https://twitter.com/jsnover/status/1523010444570419200)
+- [Donald Knuth Was Framed &lpar;2020&rpar;](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
