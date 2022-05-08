@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [16 point IQ difference between identical twins raised apart](https://www.psypost.org/2022/05/psychologists-found-a-striking-difference-in-intelligence-after-examining-twins-raised-apart-in-south-korea-and-the-united-states-63091)
-- [Ask HN: Chrome says I have 83 compromised passwords. How do I fix this?](https://news.ycombinator.com/item?id=31304272)
+- [Ask HN: Any Open Library Memberships?](https://news.ycombinator.com/item?id=31304808)
+- [PowerToys – 11 features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
+- [The End of Industrial Society](https://palladiummag.com/2021/03/24/the-end-of-industrial-society/)
+- [VSCode – Markdown Edition](https://blog.dendron.so/notes/upyp4ow9fkpwvu50n8wsvnp/)
 - [Scapy: Low level packet hacking toolkit for Python](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
-- [Show HN: Automedia – a tool for managing bitrot and formats in media libraries](https://github.com/mmastrac/automedia)
-- [Thieves in London target digital investors by taking phones](https://www.theguardian.com/technology/2022/may/08/crypto-muggings-thieves-in-london-target-digital-investors-by-taking-phones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
