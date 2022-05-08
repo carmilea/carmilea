@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edward Snowden in Hindsight](https://www.zdziarski.com/blog/?p=11127)
+- [Thieves in London target digital investors by taking phones](https://www.theguardian.com/technology/2022/may/08/crypto-muggings-thieves-in-london-target-digital-investors-by-taking-phones)
+- [65,000 Fake Students Enrolled in the California Junior College System](https://openthebooks.substack.com/p/65000-fake-students-enrolled-in-the)
 - [Wealthy Americans are buying second passports as a &#39;plan B&#39;](https://www.businessinsider.com/wealthy-americans-buy-second-passports-amid-covid-politics-climate-change-2022-5)
 - [Multiple assignment and tuple unpacking improve Python code readability](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
-- [While I’m on a tech rant – who invented this piece of pure sadism?](https://twitter.com/hackedoffhugh/status/1523250148725637125)
-- [Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night](https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html)
-- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
