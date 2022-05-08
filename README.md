@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“I don&#39;t know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)
+- [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
 - [Compiling an OpenBSD kernel 50% faster](https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster)
 - [Kiss Linux](https://web.archive.org/web/20200528200318/https://k1ss.org/)
 - [RustBelt: Securing the Foundations of the Rust Programming Language &lpar;2018&rpar; [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
-- [Ask HN: WFH – will I be outsourced?](https://news.ycombinator.com/item?id=31306507)
-- [Show HN: Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
