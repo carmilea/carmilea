@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Assembly Like Programming Language?](https://github.com/wellang/well)
+- [Star Citizen is doing &#39;bedsheet deformation&#39; physics now](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is/)
+- [Swarm of micro flying robots in the wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)
 - [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [California Targets Loud Exhaust with Sound Activated Cameras](https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/)
-- [Robots Are Writing Poetry, and Many People Can’t Tell the Difference](https://thewalrus.ca/ai-poetry/)
+- [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
 - [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
 <!-- BLOG-POST-LIST:END -->
 
