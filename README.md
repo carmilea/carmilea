@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RustBelt: Securing the Foundations of the Rust Programming Language &lpar;2018&rpar; [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
+- [Ask HN: WFH – will I be outsourced?](https://news.ycombinator.com/item?id=31306507)
 - [Show HN: Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
 - [Feeling uncomfortable when leaving phone at home shouldn&#39;t be normal](https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/)
 - [Vitamin D and Depression &lpar;2020&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
-- [Tidbyt hardware display device: a review](https://macwright.com/2022/03/11/tidbyt-review.html)
-- [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 <!-- BLOG-POST-LIST:END -->
 
 ---
