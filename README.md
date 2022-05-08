@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Star Citizen is doing &#39;bedsheet deformation&#39; physics now](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is/)
-- [New Assembly Like Programming Language?](https://github.com/wellang/well)
 - [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
 - [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
+- [Unauthorized gem takeover for some gems](https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
