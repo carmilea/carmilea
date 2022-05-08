@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Any Open Library Memberships?](https://news.ycombinator.com/item?id=31304808)
-- [PowerToys – 11 features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
-- [The End of Industrial Society](https://palladiummag.com/2021/03/24/the-end-of-industrial-society/)
-- [VSCode – Markdown Edition](https://blog.dendron.so/notes/upyp4ow9fkpwvu50n8wsvnp/)
-- [Scapy: Low level packet hacking toolkit for Python](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
+- [Courier &lpar;YC S19&rpar; is hiring software engineers to fix bad product notifications](https://jobs.lever.co/trycourier)
+- [Equality is prevented by the misperception that it harms advantaged groups](https://www.science.org/doi/10.1126/sciadv.abm2385)
+- [What happens if Twitter gets encrypted DMs?](https://getsession.org/blog)
+- [Ask HN: Are there any good poverty simulator games?](https://news.ycombinator.com/item?id=31305446)
+- [Tell HN: I was permanently banned from eBay in one hour](https://news.ycombinator.com/item?id=31305341)
 <!-- BLOG-POST-LIST:END -->
 
 ---
