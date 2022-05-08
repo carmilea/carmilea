@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Thanks to BeAware, Deaf iPhone users have a free alerting device &lpar;OSS&rpar;](https://www.deafassistant.com/)
 - [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
 - [Layoffs.fyi](https://layoffs.fyi/)
-- [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
-- [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
+- [Boquila trifoliolata mimics leaves of an artificial plastic host plant](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.1977530)
+- [New Assembly Like Programming Language?](https://github.com/wellang/well)
 <!-- BLOG-POST-LIST:END -->
 
 ---
