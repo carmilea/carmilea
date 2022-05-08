@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [While I’m on a tech rant – who invented this piece of pure sadism?](https://twitter.com/hackedoffhugh/status/1523250148725637125)
+- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer)
+- [What the $ Is Parallelism, Anyhow?](https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/)
 - [Lessons learned from the recent job hunt](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/)
 - [Creating a Culture of Innovation](https://changelog.com/practicalai/170)
-- [Ask HN: How do I get my Google account back?](https://news.ycombinator.com/item?id=31302391)
-- [Show HN: Thanks to BeAware, Deaf iPhone users have a free alerting device &lpar;OSS&rpar;](https://www.deafassistant.com/)
-- [No Fixed Address Bank Account](https://www.hsbc.co.uk/help/money-worries/no-fixed-address/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
