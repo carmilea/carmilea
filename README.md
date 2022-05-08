@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
 - [Layoffs.fyi](https://layoffs.fyi/)
 - [Star Citizen is doing &#39;bedsheet deformation&#39; physics now](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is/)
 - [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
-- [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
