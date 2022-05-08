@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Courier &lpar;YC S19&rpar; is hiring software engineers to fix bad product notifications](https://jobs.lever.co/trycourier)
-- [Equality is prevented by the misperception that it harms advantaged groups](https://www.science.org/doi/10.1126/sciadv.abm2385)
-- [What happens if Twitter gets encrypted DMs?](https://getsession.org/blog)
-- [Ask HN: Are there any good poverty simulator games?](https://news.ycombinator.com/item?id=31305446)
-- [Tell HN: I was permanently banned from eBay in one hour](https://news.ycombinator.com/item?id=31305341)
+- [Show HN: Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
+- [Feeling uncomfortable when leaving phone at home shouldn&#39;t be normal](https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/)
+- [Vitamin D and Depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
+- [Tidbyt hardware display device: a review](https://macwright.com/2022/03/11/tidbyt-review.html)
+- [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 <!-- BLOG-POST-LIST:END -->
 
 ---
