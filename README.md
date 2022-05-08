@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wealthy Americans are buying second passports as a &#39;plan B&#39;](https://www.businessinsider.com/wealthy-americans-buy-second-passports-amid-covid-politics-climate-change-2022-5)
+- [Multiple assignment and tuple unpacking improve Python code readability](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
 - [While I’m on a tech rant – who invented this piece of pure sadism?](https://twitter.com/hackedoffhugh/status/1523250148725637125)
+- [Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night](https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer)
-- [What the $ Is Parallelism, Anyhow?](https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/)
-- [Lessons learned from the recent job hunt](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/)
-- [Creating a Culture of Innovation](https://changelog.com/practicalai/170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
