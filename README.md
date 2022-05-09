@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Still Hiring](https://flexport.com/careers)
+- [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
 - [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
 - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
 - [The Radioactive Boy Scout &lpar;2009&rpar;](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
-- [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
-- [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
