@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
+- [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
+- [The Radioactive Boy Scout &lpar;2009&rpar;](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
 - [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
 - [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
-- [Beyond message passing: A physics-inspired paradigm for graph neural networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
-- [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
-- [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
