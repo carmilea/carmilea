@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Farewell, Etaoin Shrdlu: The End of Hot Metal Typesetting at the NY Times &lpar;1978&rpar;](https://archive.org/details/FarewellEtaoinShrdlu)
+- [I&#39;m a fucking webmaster](https://justinjackson.ca/webmaster/)
+- [So You Wanna Be a Chef – By Bourdain &lpar;2010&rpar;](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
-- [Short URLs: Why and How](https://sive.rs/su)
-- [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
