@@ -55,7 +55,7 @@
 - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
 - [Short URLs: Why and How](https://sive.rs/su)
 - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
-- [Nvidia LHR Lock Officially Cracked Bringing Full Crypto Mining Speeds](https://www.forbes.com/sites/antonyleather/2022/05/07/nvidia-lhr-lock-officially-cracked-bringing-full-crypto-mining-speeds/)
+- [Humanity’s broken risk perception is reversing global progress](https://www.undrr.org/news/humanitys-broken-risk-perception-reversing-global-progress-spiral-self-destruction-finds-new)
 <!-- BLOG-POST-LIST:END -->
 
 ---
