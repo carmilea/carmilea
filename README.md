@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Short URLs: Why and How](https://sive.rs/su)
 - [Nvidia LHR Lock Officially Cracked Bringing Full Crypto Mining Speeds](https://www.forbes.com/sites/antonyleather/2022/05/07/nvidia-lhr-lock-officially-cracked-bringing-full-crypto-mining-speeds/)
 - [Colleges where everyone works and there&#39;s no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
 - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
 - [Show HN: Making a Falling Sand Simulator](https://jason.today/falling-sand)
-- [I saw a cool truck today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
