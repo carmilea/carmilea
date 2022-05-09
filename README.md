@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
-- [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
-- [Ask HN: Is Heroku Being Sunset?](https://news.ycombinator.com/item?id=31313779)
-- [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
-- [The Pop Song That’s Uniting India and Pakistan](https://www.newyorker.com/culture/culture-desk/the-pop-song-thats-uniting-india-and-pakistan)
+- [Twitter Circle](https://twitter.com/TwitterSafety/status/1521540727557218309)
+- [A Note About Today’s Wordle Game](https://www.nytimes.com/2022/05/09/crosswords/a-note-about-todays-wordle-game.html)
+- [“It Is Getting Worse. People Are Leaving”](https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/)
+- [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
+- [Is Erlang an albatross to Elixir adoption?](https://news.ycombinator.com/item?id=31314274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
