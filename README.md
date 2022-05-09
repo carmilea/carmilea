@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A CEO&#39;s Guide to Emacs &lpar;2015&rpar;](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
 - [AV1 Video Codec](https://aomedia.org/av1/)
+- [Webb Telescope Image Sharpness Check](https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus)
 - [Flexport Is Still Hiring](https://flexport.com/careers)
-- [2022 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2022)
-- [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
