@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Message Passing: A Physics-Inspired Paradigm for Graph Neural Networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
-- [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
-- [Ask HN: APC adding monthly fees / remotely defeaturing existing UPS&#39;s?](https://news.ycombinator.com/item?id=31316473)
-- [U.S. takes unprecedented steps to replenish Colorado River&#39;s Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
+- [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
+- [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
+- [Beyond message passing: A physics-inspired paradigm for graph neural networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
+- [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
+- [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
