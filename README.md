@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
+- [Monsanto’s Ghostwriting to Influence Science and Media](https://disinformationchronicle.substack.com/p/monsantos-ghostwriting-to-influence)
+- [Chart: Lithium prices are through the roof this year](https://www.canarymedia.com/articles/batteries/chart-lithium-prices-are-through-the-roof-this-year)
 - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
-- [A Case for an Open Source CS Curriculum [pdf]](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
-- [“I don&#39;t know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)
-- [Show HN: Pointless – Endless drawing canvas desktop app](https://github.com/kkoomen/pointless)
-- [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
+- [A Case for an Open Source CS Curriculum [pdf] &lpar;2018&rpar;](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
