@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Colleges where everyone works and there&#39;s no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
+- [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
+- [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
+- [I Saw a Cool Truck Today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
 - [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
-- [Monsanto’s Ghostwriting to Influence Science and Media](https://disinformationchronicle.substack.com/p/monsantos-ghostwriting-to-influence)
-- [Chart: Lithium prices are through the roof this year](https://www.canarymedia.com/articles/batteries/chart-lithium-prices-are-through-the-roof-this-year)
-- [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
-- [A Case for an Open Source CS Curriculum [pdf] &lpar;2018&rpar;](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
