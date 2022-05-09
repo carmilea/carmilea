@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
-- [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
-- [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
-- [Farewell, Etaoin Shrdlu &lpar;1978&rpar; [video]](https://archive.org/details/FarewellEtaoinShrdlu)
-- [I&#39;m a fucking webmaster](https://justinjackson.ca/webmaster/)
+- [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
+- [Addiction and Balance](https://jesperbylund.com/2022/05/09/addiction-and-balance/)
+- [The Pop Song That’s Uniting India and Pakistan](https://www.newyorker.com/culture/culture-desk/the-pop-song-thats-uniting-india-and-pakistan)
+- [Grand Theft Auto 1996 Making Of – GTA – – Retro Gaming – BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
+- [Babylonian astronomers calculated Jupiter position from area under time-velocity](https://www.science.org/doi/10.1126/science.aad8085)
 <!-- BLOG-POST-LIST:END -->
 
 ---
