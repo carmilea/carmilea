@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Circle](https://twitter.com/TwitterSafety/status/1521540727557218309)
-- [A Note About Today’s Wordle Game](https://www.nytimes.com/2022/05/09/crosswords/a-note-about-todays-wordle-game.html)
-- [“It Is Getting Worse. People Are Leaving”](https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/)
-- [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
-- [Is Erlang an albatross to Elixir adoption?](https://news.ycombinator.com/item?id=31314274)
+- [Stop Pretending Your Company Is Remote](https://mycodingtales.com/stop-pretending-your-company-is-remote/)
+- [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
+- [Scripting COM components in Haskell &lpar;1998&rpar; [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
+- [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
+- [Show HN: YouBarter – A Nonprofit Bartering Platform](https://news.ycombinator.com/item?id=31314666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
