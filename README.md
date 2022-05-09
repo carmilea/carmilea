@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
 - [Short URLs: Why and How](https://sive.rs/su)
+- [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
 - [Nvidia LHR Lock Officially Cracked Bringing Full Crypto Mining Speeds](https://www.forbes.com/sites/antonyleather/2022/05/07/nvidia-lhr-lock-officially-cracked-bringing-full-crypto-mining-speeds/)
-- [Colleges where everyone works and there&#39;s no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
-- [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
-- [Show HN: Making a Falling Sand Simulator](https://jason.today/falling-sand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
