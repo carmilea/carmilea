@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
 - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 - [Farewell, Etaoin Shrdlu &lpar;1978&rpar; [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 - [I&#39;m a fucking webmaster](https://justinjackson.ca/webmaster/)
-- [So You Wanna Be a Chef – By Bourdain &lpar;2010&rpar;](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
