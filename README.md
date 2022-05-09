@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
+- [AV1 Video Codec](https://aomedia.org/av1/)
 - [Flexport Is Still Hiring](https://flexport.com/careers)
+- [2022 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2022)
 - [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
-- [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
-- [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
-- [The Radioactive Boy Scout &lpar;2009&rpar;](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
