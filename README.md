@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Pretending Your Company Is Remote](https://mycodingtales.com/stop-pretending-your-company-is-remote/)
-- [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
-- [Scripting COM components in Haskell &lpar;1998&rpar; [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
-- [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
-- [Show HN: YouBarter – A Nonprofit Bartering Platform](https://news.ycombinator.com/item?id=31314666)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
+- [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
+- [Ask HN: APC adding monthly fees / remotely defeaturing existing UPS&#39;s?](https://news.ycombinator.com/item?id=31316473)
+- [U.S. takes unprecedented steps to replenish Colorado River&#39;s Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
+- [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
