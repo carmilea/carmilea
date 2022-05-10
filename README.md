@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Python Versions with Pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
-- [Poll Everywhere &lpar;YC S08&rpar; Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
-- [GDPR and the Lost Generation of Innovative Apps](https://www.nber.org/papers/w30028#fromrss)
-- [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
-- [Ask HN: How many computers you got?](https://news.ycombinator.com/item?id=31325893)
+- [Welcome to Hotel Elsevier: you can check-out any time you like not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
+- [Air-breathing electric propulsion for long-term orbital stability](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
+- [After losing contact with its helicopter, NASA put the Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/)
+- [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
+- [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
