@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
-- [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
-- [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
-- [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
-- [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
+- [Managing Python Versions with Pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
+- [Poll Everywhere &lpar;YC S08&rpar; Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
+- [GDPR and the Lost Generation of Innovative Apps](https://www.nber.org/papers/w30028#fromrss)
+- [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
+- [Ask HN: How many computers you got?](https://news.ycombinator.com/item?id=31325893)
 <!-- BLOG-POST-LIST:END -->
 
 ---
