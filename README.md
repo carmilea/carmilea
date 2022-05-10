@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
+- [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers and Product Managers](https://www.tesorio.com/careers#job-openings)
-- [Red Hat In-Vehicle Operating System in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
+- [Red Hat in-vehicle operating system in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
 - [Upside-Down-Ternet &lpar;2007&rpar;](http://www.ex-parrot.com/pete/upside-down-ternet.html)
-- [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
-- [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
