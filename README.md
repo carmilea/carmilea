@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers and Product Managers](https://www.tesorio.com/careers#job-openings)
+- [Red Hat In-Vehicle Operating System in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
+- [Upside-Down-Ternet &lpar;2007&rpar;](http://www.ex-parrot.com/pete/upside-down-ternet.html)
+- [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
 - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
-- [Rules for Conferences &lpar;2019&rpar;](https://milan.cvitkovic.net/writing/rules_for_conferences/)
-- [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
-- [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
-- [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
