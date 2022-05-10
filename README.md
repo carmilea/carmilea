@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Hotel Elsevier: you can check-out any time you like not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
-- [Air-breathing electric propulsion for long-term orbital stability](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
-- [After losing contact with its helicopter, NASA put the Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/)
-- [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
-- [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
+- [Give me back my monolith](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+- [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
+- [Parsing expressions by precedence climbing &lpar;2012&rpar;](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)
+- [We Need a Middle Class for Startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
+- [Welcome to Hotel Elsevier: you can check-out any time you like – not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
