@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
+- [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
+- [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
 - [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
 - [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers and Product Managers](https://www.tesorio.com/careers#job-openings)
-- [Red Hat in-vehicle operating system in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
-- [Upside-Down-Ternet &lpar;2007&rpar;](http://www.ex-parrot.com/pete/upside-down-ternet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
