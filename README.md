@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
+- [On Creating a Social Network](https://0xff.nu/social-network)
+- [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
 - [A CEO&#39;s Guide to Emacs &lpar;2015&rpar;](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
-- [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
-- [AV1 Video Codec](https://aomedia.org/av1/)
-- [Webb Telescope Image Sharpness Check](https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus)
-- [Flexport Is Still Hiring](https://flexport.com/careers)
+- [Show HN: A Spatial Environment for Python](https://python.natto.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
