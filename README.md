@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
+- [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
 - [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
 - [On Creating a Social Network](https://0xff.nu/social-network)
 - [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
-- [A CEO&#39;s Guide to Emacs &lpar;2015&rpar;](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
-- [Show HN: A Spatial Environment for Python](https://python.natto.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
