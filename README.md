@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase &lpar;YC S20&rpar; raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
-- [The Music Lives On](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
-- [Intel’s Core i9-12950HX has 16 cores and 55 watts of power](https://www.theverge.com/2022/5/10/23065131/intel-core-i9-12950hx-mobile-laptop-processor-16-cores-55-watts)
-- [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
-- [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
+- [Apple discontinues the iPod after 20 years](https://www.theverge.com/2022/5/10/23065412/apple-ipod-touch-canceled-discontinued)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Chat control: EU Commission presents mass surveillance plan on May 11](https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%ef%bf%bc/)
+- [EA and the Current Funding Situation](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation)
+- [The ACLU Has Lost Its Way](https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
