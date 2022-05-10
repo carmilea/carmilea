@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
+- [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
 - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
-- [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults &lpar;2014&rpar;](https://academic.oup.com/cercor/article/24/11/3059/304487)
-- [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
