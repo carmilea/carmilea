@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
-- [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
-- [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
-- [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
-- [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
+- [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
+- [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
+- [The Opportunity Atlas](https://www.opportunityatlas.org/)
+- [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
+- [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults &lpar;2014&rpar;](https://academic.oup.com/cercor/article/24/11/3059/304487)
 <!-- BLOG-POST-LIST:END -->
 
 ---
