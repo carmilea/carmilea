@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3.0 Must Be Destroyed](https://webtwoboomer.com/web3-0-must-be-destroyed-57803329ee47?gi=3d95f2f722db)
+- [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
+- [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
+- [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Powering Modern Fintech SaaS Applications with SingleStoreDB](https://www.singlestore.com/blog/powering-modern-fintech-saas-applications-with-singlestoredb)
-- [Chat control: EU Commission presents mass surveillance plan on May 11](https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%ef%bf%bc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
