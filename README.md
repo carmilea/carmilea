@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
+- [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
+- [Rules for Conferences &lpar;2019&rpar;](https://milan.cvitkovic.net/writing/rules_for_conferences/)
 - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
