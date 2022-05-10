@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStoreDB Product Spotlight: Universal Storage](https://www.youtube.com/watch?v=Jv5Ct63WbTQ)
 - [SingleStore | Community Call](https://www.youtube.com/watch?v=Ehud05lqbgg)
 - [SingleStoreDB Product Spotlight: Separation of Storage and Compute](https://www.youtube.com/watch?v=mQ7ygArrR84)
 - [How to Use SingleStore With GitHub Actions](https://www.youtube.com/watch?v=m3bXAy0FU9w)
 - [SingleStore: Powering Data-Intensive Applications](https://www.youtube.com/watch?v=PlAwxTRO5yU)
-- [International Women&#39;s Day Tech Panel](https://www.youtube.com/watch?v=_3NqKaXYIcc)
 <!-- YOUTUBE:END -->
 
 
