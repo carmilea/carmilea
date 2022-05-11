@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
+- [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
+- [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
 - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
-- [Show HN: Catchy melodies made with a diffusion-based neural net assistant](https://www.youtube.com/playlist?list=PLoCzMRqh5SkFwkumE578YO4qa1NTkmMi4)
 - [I/O 2022](https://blog.google/technology/developers/io-2022/)
-- [Windows Terminal Source Code](https://github.com/microsoft/terminal)
-- [Show HN: Vessel – Your Passport for the Internet](https://www.vessel.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
