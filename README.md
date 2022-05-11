@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Don&#39;t Use Cloudflare](https://news.ycombinator.com/item?id=31336515)
+- [Understanding the bin, sbin, usr/bin, usr/sbin split &lpar;2010&rpar;](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
 - [Ballerina: A Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/)
-- [A Hepatitis Mystery](https://www.science.org/content/blog-post/hepatitis-mystery)
-- [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
