@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb May 2022 Release](https://www.airbnb.com/2022-summer)
+- [D1: Cloudflare’s First SQL Database](https://blog.cloudflare.com/introducing-d1)
 - [Jack Dorsey says he agrees with reversing Trump&#39;s Twitter ban](https://www.axios.com/2022/05/10/jack-dorsey-trump-twitter-ban)
 - [Join YC&#39;s Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
-- [Neoliberalism has resulted in preference for greater income inequality](https://www.nyu.edu/about/news-publications/news/2022/may/neoliberal-policies--institutions-have-prompted-preference-for-g.html)
-- [Coinbase warns that bankruptcy could wipe out user funds](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/)
-- [Thousands of Popular Websites See What You Type–Before You Hit Submit](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/)
+- [Ask HN: How do you deal with rude interviewers?](https://news.ycombinator.com/item?id=31338591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
