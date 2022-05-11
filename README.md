@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Which housing markets are most exposed to the coming interest-rate storm?](https://www.economist.com/finance-and-economics/which-housing-markets-are-most-exposed/21809217)
+- [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
 - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
-- [FIFA will be rebranded as EA Sports FC in 2023](https://www.gamedeveloper.com/business/fifa-will-be-rebranded-as-ea-sports-fc-in-2023)
 - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
-- [UST “Stablecoin” at $.43](https://coinmarketcap.com/currencies/terrausd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
