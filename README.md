@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
-- [Stripe Open Sources Markdoc](https://markdoc.io)
-- [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
-- [My story on “worse is better” &lpar;2018&rpar;](https://www.sigbus.info/worse-is-better)
-- [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
+- [Use NLP to tackle online toxicity now](https://txt.cohere.ai/cohere-for-content-moderation/)
+- [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
+- [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
+- [Simons Institute 10th Anniversary Symposium](https://simons.berkeley.edu/workshops/simons-institute-10th-anniversary-symposium)
+- [Cameras and Open Source Smartphones: It’s Complicated](https://puri.sm/posts/cameras-its-complicated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
