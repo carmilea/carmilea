@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Don&#39;t Use Cloudflare](https://news.ycombinator.com/item?id=31336515)
+- [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
+- [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
+- [UST “Stablecoin” at $.38](https://coinmarketcap.com/currencies/terrausd/)
 - [Understanding the bin, sbin, usr/bin, usr/sbin split &lpar;2010&rpar;](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
-- [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
-- [Ballerina: A Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
