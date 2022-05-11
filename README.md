@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
+- [FIFA will be rebranded as EA Sports FC in 2023](https://www.gamedeveloper.com/business/fifa-will-be-rebranded-as-ea-sports-fc-in-2023)
 - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
-- [UST “Stablecoin” at $.38](https://coinmarketcap.com/currencies/terrausd/)
-- [Understanding the bin, sbin, usr/bin, usr/sbin split &lpar;2010&rpar;](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
-- [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
+- [UST “Stablecoin” at $.43](https://coinmarketcap.com/currencies/terrausd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
