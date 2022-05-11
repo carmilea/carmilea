@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
-- [The no-code blog builder Notion users have dreamed of](https://blogic.so)
+- [Ballerina: A Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/)
+- [A Hepatitis Mystery](https://www.science.org/content/blog-post/hepatitis-mystery)
 - [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
-- [‘Machine Scientists’ Distill the Laws of Physics from Raw Data](https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/)
-- [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
