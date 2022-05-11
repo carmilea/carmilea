@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
+- [Show HN: Catchy melodies made with a diffusion-based neural net assistant](https://www.youtube.com/playlist?list=PLoCzMRqh5SkFwkumE578YO4qa1NTkmMi4)
 - [I/O 2022](https://blog.google/technology/developers/io-2022/)
+- [Windows Terminal Source Code](https://github.com/microsoft/terminal)
 - [Show HN: Vessel – Your Passport for the Internet](https://www.vessel.xyz/)
-- [When Greenswashing Backfires – Thank You North Face](https://www.thankyounorthface.com/)
-- [Ask HN: Is it possible to train and improve your memory and recall?](https://news.ycombinator.com/item?id=31342766)
-- [Snippyly &lpar;YC W22&rpar; is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
