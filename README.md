@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smishing](https://zitadel.ch/blog/smishing)
-- [A multi-parameter persistence framework for mathematical morphology](https://www.nature.com/articles/s41598-022-09464-7)
-- [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
-- [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
-- [The Mitto AG surveillanve case – or why we must never backdoor encryption](https://tutanota.com/blog/posts/mitto-ag-surveillance/)
+- [Jack Dorsey says he agrees with reversing Trump&#39;s Twitter ban](https://www.axios.com/2022/05/10/jack-dorsey-trump-twitter-ban)
+- [Join YC&#39;s Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
+- [Neoliberalism has resulted in preference for greater income inequality](https://www.nyu.edu/about/news-publications/news/2022/may/neoliberal-policies--institutions-have-prompted-preference-for-g.html)
+- [Coinbase warns that bankruptcy could wipe out user funds](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/)
+- [Thousands of Popular Websites See What You Type–Before You Hit Submit](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
