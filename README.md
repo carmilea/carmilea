@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My story on “worse is better”](https://www.sigbus.info/worse-is-better)
+- [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
 - [Airbnb May 2022 Release](https://www.airbnb.com/2022-summer)
 - [D1: Cloudflare’s First SQL Database](https://blog.cloudflare.com/introducing-d1)
-- [Jack Dorsey says he agrees with reversing Trump&#39;s Twitter ban](https://www.axios.com/2022/05/10/jack-dorsey-trump-twitter-ban)
 - [Join YC&#39;s Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
-- [Ask HN: How do you deal with rude interviewers?](https://news.ycombinator.com/item?id=31338591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
