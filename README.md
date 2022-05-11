@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use NLP to tackle online toxicity now](https://txt.cohere.ai/cohere-for-content-moderation/)
+- [Ask HN: Is it possible to train and improve your memory and recall?](https://news.ycombinator.com/item?id=31342766)
+- [Snippyly &lpar;YC W22&rpar; is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
+- [Ask HN: Options for handling state at the edge?](https://news.ycombinator.com/item?id=31342436)
+- [Meta Is Transferring Jest to the OpenJS Foundation](https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/)
 - [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
-- [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
-- [Simons Institute 10th Anniversary Symposium](https://simons.berkeley.edu/workshops/simons-institute-10th-anniversary-symposium)
-- [Cameras and Open Source Smartphones: It’s Complicated](https://puri.sm/posts/cameras-its-complicated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
