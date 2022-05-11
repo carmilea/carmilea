@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Experience at Community College](https://sporks.space/2022/05/11/my-experience-at-community-college/)
+- [Blocking Inflammation May Lead to Chronic Pain](https://www.science.org/doi/10.1126/scitranslmed.abj9954)
+- [Ellen Ullman: We Have to Demystify Code &lpar;2017&rpar;](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 - [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
 - [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
-- [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
