@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
+- [Nvidia Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
+- [Some Notes on &#39;Asshat&#39;](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
 - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
-- [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
-- [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
-- [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
-- [I/O 2022](https://blog.google/technology/developers/io-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
