@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
+- [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
+- [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
-- [Nvidia Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
-- [Some Notes on &#39;Asshat&#39;](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
-- [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
