@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My story on “worse is better”](https://www.sigbus.info/worse-is-better)
+- [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
+- [Stripe Open Sources Markdoc](https://markdoc.io)
+- [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
+- [My story on “worse is better” &lpar;2018&rpar;](https://www.sigbus.info/worse-is-better)
 - [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
-- [Airbnb May 2022 Release](https://www.airbnb.com/2022-summer)
-- [D1: Cloudflare’s First SQL Database](https://blog.cloudflare.com/introducing-d1)
-- [Join YC&#39;s Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
 <!-- BLOG-POST-LIST:END -->
 
 ---
