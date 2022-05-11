@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
-- [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
-- [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
-- [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
-- [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
+- [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
+- [Why I left Google: work-life balance](https://www.scottkennedy.us/balance.html)
+- [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Release Engineer &lpar;Remote Anywhere&rpar;](https://www.ycombinator.com/companies/firezone/jobs/UCIGxy5-senior-release-engineer)
+- [Why do USB-C hubs still have USB 2.0 ports? &lpar;2021&rpar;](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
+- [Show HN: Prefixed, dual-token, base58 encoded API Keys](https://github.com/seamapi/prefixed-api-key)
 <!-- BLOG-POST-LIST:END -->
 
 ---
