@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
+- [The no-code blog builder Notion users have dreamed of](https://blogic.so)
 - [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 - [‘Machine Scientists’ Distill the Laws of Physics from Raw Data](https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/)
 - [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
-- [Why I left Google: work-life balance](https://www.scottkennedy.us/balance.html)
-- [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Release Engineer &lpar;Remote Anywhere&rpar;](https://www.ycombinator.com/companies/firezone/jobs/UCIGxy5-senior-release-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
