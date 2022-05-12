@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
+- [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
 - [New Twitter TOS](https://www.diffchecker.com/N1cAYuis)
 - [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
 - [OP-1 field](https://teenage.engineering/)
-- [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
-- [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
