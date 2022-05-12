@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Hole Image Reveals the Beast Inside the Milky Way’s Heart](https://www.quantamagazine.org/black-hole-image-reveals-sagittarius-a-20220512/)
-- [First image taken of black hole at center of Milky Way](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305148)
-- [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
+- [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
 - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
+- [Milky Way Results from the Event Horizon Telescope&lpar;EHT&rpar;](https://beta.nsf.gov/blackholes)
 - [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
+- [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
