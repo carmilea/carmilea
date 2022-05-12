@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How many melodies are there? &lpar;2014&rpar;](https://plus.maths.org/content/how-many-melodies-are-there)
 - [I Miss Heroku&#39;s DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
-- [Volume of an n-ball tends to a limiting value of 0 as n goes to infinity](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
+- [Volume of an n-ball](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
 - [Nota: A Document Language for the Browser](https://nota-lang.org/)
 - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
 <!-- BLOG-POST-LIST:END -->
