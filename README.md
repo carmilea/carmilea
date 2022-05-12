@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 - [Enso &lpar;YC S21&rpar; Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- [USDT Becoming Untethered](https://www.google.com/search?q=usdt&rlz=1CDGOYI_enUS900US900&hl=en-US&prmd=nibv&source=lnms&sa=X&ved=0ahUKEwjiiYOprNn3AhWFJX0KHTwfCa0Q_AUIFCgA&biw=320&bih=524&dpr=3)
 - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 - [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
 - [How many melodies are there? &lpar;2014&rpar;](https://plus.maths.org/content/how-many-melodies-are-there)
