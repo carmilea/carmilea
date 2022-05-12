@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience at Community College](https://sporks.space/2022/05/11/my-experience-at-community-college/)
-- [Blocking Inflammation May Lead to Chronic Pain](https://www.science.org/doi/10.1126/scitranslmed.abj9954)
-- [Ellen Ullman: We Have to Demystify Code &lpar;2017&rpar;](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
-- [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
-- [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
+- [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
+- [Bitcoin Is Acting Like Just Another Tech Stock](https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html)
+- [Cryptocurreny retailer BitPrime closes trading after running out of money](https://www.bitprime.co.nz/important-notice-for-all-customers/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31347969)
+- [Cheap technology for making optic lenses that could help 2.5B people – and NASA](https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
