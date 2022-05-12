@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
-- [Bitcoin Is Acting Like Just Another Tech Stock](https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html)
-- [Cryptocurreny retailer BitPrime closes trading after running out of money](https://www.bitprime.co.nz/important-notice-for-all-customers/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31347969)
-- [Cheap technology for making optic lenses that could help 2.5B people – and NASA](https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996)
+- [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
+- [Euro Is at $1.05–The Lowest It’s Been in Years](https://www.afar.com/magazine/the-dollar-and-euro-are-almost-equal-right-now)
+- [I Miss Heroku&#39;s DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
+- [Volume of an n-ball tends to a limiting value of 0 as n goes to infinity](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
+- [Nota: A Document Language for the Browser](https://nota-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
