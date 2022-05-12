@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical bruteforce of AES-1024 military grade encryption](https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/)
 - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
 - [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
-- [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
-- [Ask HN: Who decided copy+paste should copy styling/formatting?](https://news.ycombinator.com/item?id=31356896)
+- [Zig Programming Language](https://ziglang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
