@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Twitter TOS](https://www.diffchecker.com/N1cAYuis)
+- [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
+- [OP-1 field](https://teenage.engineering/)
 - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
-- [Enso &lpar;YC S21&rpar; Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
-- [How many melodies are there? &lpar;2014&rpar;](https://plus.maths.org/content/how-many-melodies-are-there)
 <!-- BLOG-POST-LIST:END -->
 
 ---
