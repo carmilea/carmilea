@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
+- [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
+- [Kea 3.0 – State Management via Logic Builders](https://keajs.org/blog/kea-3.0/)
+- [Photos: 50 years of Japanese concept cars &lpar;2010&rpar;](http://pinktentacle.com/2010/09/photos-50-years-of-japanese-concept-cars/)
 - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
 - [Milky Way Results from the Event Horizon Telescope&lpar;EHT&rpar;](https://beta.nsf.gov/blackholes)
-- [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
-- [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
