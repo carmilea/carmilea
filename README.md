@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enso &lpar;YC S21&rpar; Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
+- [USDT Becoming Untethered](https://www.google.com/search?q=usdt&rlz=1CDGOYI_enUS900US900&hl=en-US&prmd=nibv&source=lnms&sa=X&ved=0ahUKEwjiiYOprNn3AhWFJX0KHTwfCa0Q_AUIFCgA&biw=320&bih=524&dpr=3)
+- [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
+- [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
 - [How many melodies are there? &lpar;2014&rpar;](https://plus.maths.org/content/how-many-melodies-are-there)
-- [I Miss Heroku&#39;s DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
-- [Volume of an n-ball](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
-- [Nota: A Document Language for the Browser](https://nota-lang.org/)
-- [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
