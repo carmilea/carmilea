@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
+- [Ask HN: Who decided copy+paste should copy styling/formatting?](https://news.ycombinator.com/item?id=31356896)
 - [Fieldguide &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/fieldguide/jobs/hiGbcFx-senior-software-engineer)
 - [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
 - [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
-- [Ask HN: Is anyone else glad the crypto market is crashing?](https://news.ycombinator.com/item?id=31356579)
-- [Twitter’s head of consumer product fired](https://twitter.com/kayvz/status/1524787801757126656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
