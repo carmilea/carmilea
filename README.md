@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
+- [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
+- [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
 - [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
 - [Ask HN: Who decided copy+paste should copy styling/formatting?](https://news.ycombinator.com/item?id=31356896)
-- [Fieldguide &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/fieldguide/jobs/hiGbcFx-senior-software-engineer)
-- [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
-- [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
