@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
-- [Show HN: Swimlanes for Trello &lpar;at last!&rpar;](https://www.bluecatreports.com/swimlanes/)
-- [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
-- [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
-- [A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
+- [Black Hole Image Reveals the Beast Inside the Milky Way’s Heart](https://www.quantamagazine.org/black-hole-image-reveals-sagittarius-a-20220512/)
+- [First image taken of black hole at center of Milky Way](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305148)
+- [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
+- [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
+- [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
