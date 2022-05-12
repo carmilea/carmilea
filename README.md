@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
-- [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
-- [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
-- [A Generalist Agent [pdf]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
-- [Transfusion of brain fluid from young mice improves memory in old mice](https://www.statnews.com/2022/05/11/transfusion-of-young-cerebrospinal-fluid-is-memory-elevating-elixir/)
+- [Fieldguide &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/fieldguide/jobs/hiGbcFx-senior-software-engineer)
+- [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
+- [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
+- [Ask HN: Is anyone else glad the crypto market is crashing?](https://news.ycombinator.com/item?id=31356579)
+- [Twitter’s head of consumer product fired](https://twitter.com/kayvz/status/1524787801757126656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
