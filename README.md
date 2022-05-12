@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
-- [Kea 3.0 – State Management via Logic Builders](https://keajs.org/blog/kea-3.0/)
-- [Photos: 50 years of Japanese concept cars &lpar;2010&rpar;](http://pinktentacle.com/2010/09/photos-50-years-of-japanese-concept-cars/)
-- [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
-- [Milky Way Results from the Event Horizon Telescope&lpar;EHT&rpar;](https://beta.nsf.gov/blackholes)
+- [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
+- [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+- [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
+- [A Generalist Agent [pdf]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
+- [Transfusion of brain fluid from young mice improves memory in old mice](https://www.statnews.com/2022/05/11/transfusion-of-young-cerebrospinal-fluid-is-memory-elevating-elixir/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
