@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical bruteforce of AES-1024 military grade encryption](https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/)
+- [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
+- [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
 - [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
 - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
-- [Sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
