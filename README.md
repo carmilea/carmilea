@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiga &lpar;YC W21&rpar; Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+- [Show HN: A Visual IDE for React](https://dev.aspect.app)
 - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
 - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
-- [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
-- [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
