@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
-- [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
 - [Tokay Programming Language](https://tokay.dev/)
 - [Ziina &lpar;YC W21&rpar; Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
 <!-- BLOG-POST-LIST:END -->
