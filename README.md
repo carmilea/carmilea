@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
+- [Finding and fixing regressions in Lyft&#39;s data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
 - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 - [The Nature of the Firm &lpar;1937&rpar;](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
-- [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
-- [Book Review: Progress and Poverty](http://gameofrent.com/content/progress-and-poverty-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
