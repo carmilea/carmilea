@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany: Crypto held for more than a year will not get taxed](https://www.vanticatrading.com/post/germany-crypto-held-for-more-than-a-year-will-not-get-taxed)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+- [Ex-eBay exec pleads guilty to terrorizing couple with spiders, funeral wreaths](https://www.theguardian.com/technology/2022/may/12/ebay-executive-guilty-boston-couple-harassment)
 - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
-- [In Defense of Proof of Work](https://neptune.cash/blog/in-defense-of-proof-of-work/)
-- [Notes on Virtual Threads and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
-- [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
