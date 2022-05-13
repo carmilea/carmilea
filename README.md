@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Talking with the Moon: Inside Apollo&#39;s premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
+- [The Scourge of Rec.gov](https://pmags.com/the-scourge-of-rec-dot-gov)
+- [Safari Technology Preview Release 145 –:has&lpar;&rpar; and container queries](https://developer.apple.com/safari/technology-preview/release-notes/)
+- [Jonesforth – A sometimes minimal FORTH compiler and tutorial &lpar;2007&rpar;](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 - [Algae-Powered Computing](https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae)
-- [The Biggest Potential Water Disaster in the United States](https://www.newyorker.com/news/dispatch/the-biggest-potential-water-disaster-in-the-united-states)
-- [FormKit: Form building framework for Vue 3](https://formkit.com)
-- [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
-- [A Simple Ratio Came to Influence Military Strategy](https://www.wsj.com/articles/how-a-simple-ratio-came-to-influence-military-strategy-11652434202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
