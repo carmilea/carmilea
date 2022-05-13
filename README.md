@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
-- [Show HN: Fruits – sell digital products in less than 2 minutes](https://fruits.de/en)
-- [Luna Founder Requests Police Protection as Investors Are Visiting His House](https://news.mt.co.kr/mtview.php?no=2022051308574726920)
-- [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+- [In Defense of Proof of Work](https://neptune.cash/blog/in-defense-of-proof-of-work/)
+- [Notes on Virtual Threads and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
+- [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
