@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
+- [Show HN: Fruits – sell digital products in less than 2 minutes](https://fruits.de/en)
+- [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+- [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
 - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
-- [Show HN: A Visual IDE for React](https://dev.aspect.app)
-- [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
