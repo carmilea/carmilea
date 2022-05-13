@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
 - [Show HN: Fruits – sell digital products in less than 2 minutes](https://fruits.de/en)
+- [Luna Founder Requests Police Protection as Investors Are Visiting His House](https://news.mt.co.kr/mtview.php?no=2022051308574726920)
 - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
-- [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
-- [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
