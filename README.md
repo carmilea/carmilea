@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
+- [A Simple Ratio Came to Influence Military Strategy](https://www.wsj.com/articles/how-a-simple-ratio-came-to-influence-military-strategy-11652434202)
+- [Chainless electric drive system “Free Drive” for bicycles &lpar;2021&rpar;](https://www.schaeffler.de/en/news_media/press_releases/press_releases_detail.jsp?id=87716736)
 - [Germany: Crypto held for more than a year will not get taxed](https://www.vanticatrading.com/post/germany-crypto-held-for-more-than-a-year-will-not-get-taxed)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- [Ex-eBay exec pleads guilty to terrorizing couple with spiders, funeral wreaths](https://www.theguardian.com/technology/2022/may/12/ebay-executive-guilty-boston-couple-harassment)
-- [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
-- [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
 <!-- BLOG-POST-LIST:END -->
 
 ---
