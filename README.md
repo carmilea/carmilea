@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
+- [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
 - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
 - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
-- [Talking with the Moon: Inside Apollo&#39;s premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
-- [The scourge of Rec dot gov &lpar;2021&rpar;](https://pmags.com/the-scourge-of-rec-dot-gov)
 <!-- BLOG-POST-LIST:END -->
 
 ---
