@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nature of the Firm](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
+- [Dev snapshot: Godot 4.0 alpha 8](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-8)
+- [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
+- [The Nature of the Firm &lpar;1937&rpar;](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
-- [Would You Take Out a Loan for a Pair of Jeans? &lpar;2017&rpar;](https://www.racked.com/2017/11/29/16710502/affirm-loan-shopping)
 - [Henry George&#39;s Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
-- [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 <!-- BLOG-POST-LIST:END -->
 
 ---
