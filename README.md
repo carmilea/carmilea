@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
+- [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
 - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
-- [Tokay Programming Language](https://tokay.dev/)
-- [Ziina &lpar;YC W21&rpar; Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
 <!-- BLOG-POST-LIST:END -->
 
 ---
