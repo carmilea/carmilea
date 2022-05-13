@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev snapshot: Godot 4.0 alpha 8](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-8)
+- [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 - [The Nature of the Firm &lpar;1937&rpar;](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
-- [Henry George&#39;s Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
+- [Book Review: Progress and Poverty](http://gameofrent.com/content/progress-and-poverty-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
