@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+- [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 - [Show HN: A Visual IDE for React](https://dev.aspect.app)
 - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
-- [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
-- [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
