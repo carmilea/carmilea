@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
+- [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
+- [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
 - [Talking with the Moon: Inside Apollo&#39;s premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
-- [The Scourge of Rec.gov](https://pmags.com/the-scourge-of-rec-dot-gov)
-- [Safari Technology Preview Release 145 –:has&lpar;&rpar; and container queries](https://developer.apple.com/safari/technology-preview/release-notes/)
-- [Jonesforth – A sometimes minimal FORTH compiler and tutorial &lpar;2007&rpar;](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
-- [Algae-Powered Computing](https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae)
+- [The scourge of Rec dot gov &lpar;2021&rpar;](https://pmags.com/the-scourge-of-rec-dot-gov)
 <!-- BLOG-POST-LIST:END -->
 
 ---
