@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Nature of the Firm](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
+- [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
+- [Would You Take Out a Loan for a Pair of Jeans? &lpar;2017&rpar;](https://www.racked.com/2017/11/29/16710502/affirm-loan-shopping)
+- [Henry George&#39;s Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
 - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
-- [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
-- [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
-- [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
-- [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
