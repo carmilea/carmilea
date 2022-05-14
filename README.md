@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tilde.town is a computer meant for sharing](https://tilde.town/)
 - [Russian toops are proving that cell phones in war zones are a bad idea](https://taskandpurpose.com/analysis/russia-ukraine-cell-phones-track-combat/)
-- [India bans wheat exports to deepen global food crisis](https://www.telegraph.co.uk/business/2022/05/14/india-bans-wheat-exports-deepen-global-food-crisis/)
 - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
 - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
+- [Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
