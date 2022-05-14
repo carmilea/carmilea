@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
+- [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
 - [Safer Enums in Go](https://npf.io/2022/05/safer-enums/)
 - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
-- [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
-- [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
