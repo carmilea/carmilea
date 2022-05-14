@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whistleblower on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
-- [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
-- [Coffeezilla, the YouTuber Exposing Crypto Scams](https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams)
-- [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
-- [“Reddit is being funded by a fake company”](https://old.reddit.com/r/conspiracytheories/comments/up1cwf/reddit_is_being_funded_by_a_fake_company/)
+- [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
+- [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
+- [Ask HN: How do you manage – and remember to manage – your to-do list in 2022?](https://news.ycombinator.com/item?id=31378283)
+- [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
+- [Former employee blows whistle on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
