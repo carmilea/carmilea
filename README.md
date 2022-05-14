@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
+- [Curl Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
+- [A PDF zine readable in any plain text editor, and it&#39;s also an MP3 [pdf]](http://lab6.com/1)
 - [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
-- [Scientists Prove That Plants Can Grow in Soil from the Moon](https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/)
-- [Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard](https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted)
-- [Cursor Dance Party](https://www.cursordanceparty.com/)
-- [The First Image of Earth Taken from Outer Space](https://www.vintag.es/2022/02/first-photo-from-space.html)
+- [Why do those with higher IQs live longer? A new study points to answers](https://www.statnews.com/2017/06/28/high-iq-children-longevity-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
