@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- [Safer Enums in Go](https://npf.io/2022/05/safer-enums/)
+- [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
 - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
-- [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
-- [Why All Cryptocurrency Should Die in a Fire](https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/)
-- [Why to Start a Startup in a Bad Economy &lpar;2008&rpar;](http://www.paulgraham.com/badeconomy.html)
-- [Tilde.town is a computer meant for sharing](https://tilde.town/)
+- [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
