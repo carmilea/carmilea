@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
-- [Netflix to Employees: If you don&#39;t like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
-- [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
-- [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
-- [Edge Lane Roads a.k.a. Advisory Bike Lanes](https://www.advisorybikelanes.com/)
+- [Navattic &lpar;YC W21&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
+- [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
+- [You can create a great looking websites while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
+- [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
+- [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
