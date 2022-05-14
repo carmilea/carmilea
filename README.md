@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Formalizing a Proof of God by Leibniz](https://timlabs.org/leibniz/)
+- [Mattel debuts first Barbie with hearing aids](https://www.cbsnews.com/news/barnie-hearing-aid-mattel/)
+- [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
 - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
-- [Shaped Charges – Sheet of copper going through 1ft of solid steel &lpar;2010&rpar; [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
-- [Long-term benzodiazepine use causes synapse loss and cognitive deficits in mice](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
-- [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
