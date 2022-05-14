@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
+- [Shaped Charges – Sheet of copper going through 1ft of solid steel](https://www.youtube.com/watch?v=K-3cTsvI7ss)
+- [Long-term benzodiazepine use destroys neural connections in the brain](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
-- [You&#39;re Not Losing Fat Because You&#39;re Eating Too Damn Much](https://physiqonomics.com/eating-too-much/)
-- [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
-- [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
-- [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
+- [Show HN: A collaborative pixel drawing game for when you&#39;re bored &lpar;Attempt #2&rpar;](https://pixel.vkoskiv.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
