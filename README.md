@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whistleblower on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
 - [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
+- [Coffeezilla, the YouTuber Exposing Crypto Scams](https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams)
 - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
-- [Safer Enums in Go](https://npf.io/2022/05/safer-enums/)
-- [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
+- [“Reddit is being funded by a fake company”](https://old.reddit.com/r/conspiracytheories/comments/up1cwf/reddit_is_being_funded_by_a_fake_company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
