@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
-- [Finding and fixing regressions in Lyft&#39;s data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
-- [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
-- [The Nature of the Firm &lpar;1937&rpar;](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
-- [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
+- [A portable wind turbine the size of a water bottle](https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/)
+- [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
+- [A clean start for the web &lpar;2020&rpar;](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+- [Why Dopamine Makes People More Impulsive &lpar;2016&rpar;](https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/)
+- [Google Online SRE Books](https://sre.google/books/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
