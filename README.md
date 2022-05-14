@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
+- [You&#39;re Not Losing Fat Because You&#39;re Eating Too Damn Much](https://physiqonomics.com/eating-too-much/)
+- [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
+- [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 - [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
-- [Ask HN: Food Addiction](https://news.ycombinator.com/item?id=31380826)
-- [The Texas electric grid can barely keep the lights on and it’s not even hot yet](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
-- [Navattic &lpar;YC W21&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
-- [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
