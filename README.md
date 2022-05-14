@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
+- [Ask HN: Food Addiction](https://news.ycombinator.com/item?id=31380826)
+- [The Texas electric grid can barely keep the lights on and it’s not even hot yet](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
 - [Navattic &lpar;YC W21&rpar; Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 - [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
-- [“Blown Away Guy”: The Most Iconic Music Image of All Time](https://www.vintag.es/2022/02/blown-away-guy.html)
-- [You can create a great looking websites while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
-- [How Bad Government Policy Is Fueling the Infant Formula Shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
