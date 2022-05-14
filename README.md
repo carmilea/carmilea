@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A portable wind turbine the size of a water bottle](https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/)
-- [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
-- [A clean start for the web &lpar;2020&rpar;](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
-- [Why Dopamine Makes People More Impulsive &lpar;2016&rpar;](https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/)
-- [Google Online SRE Books](https://sre.google/books/)
+- [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
+- [Scientists Prove That Plants Can Grow in Soil from the Moon](https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/)
+- [Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard](https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted)
+- [Cursor Dance Party](https://www.cursordanceparty.com/)
+- [The First Image of Earth Taken from Outer Space](https://www.vintag.es/2022/02/first-photo-from-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
