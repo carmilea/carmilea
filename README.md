@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Taskwarrior](https://taskwarrior.org/)
-- [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
-- [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
+- [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
+- [Congress urged to ease immigration for foreign science talent](https://www.axios.com/2022/05/09/national-security-china-international-science-tech-talent)
+- [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [Modern JavaScript Tutorial](https://javascript.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
