@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crowdsource by Google](https://crowdsource.google.com/about/)
+- [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
+- [Tylr: A tiny tile-based editor](https://tylr.fun/)
 - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
-- [The Lawyers Who Ate California: Part I](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
-- [Old Maps Online – Georeferenced historical maps network](https://www.oldmapsonline.org/)
-- [Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
-- [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
+- [Restoring a $25k Convergent Technologies Miniframe CTIX Unix Computer [video]](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
