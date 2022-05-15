@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Liberating out-of-copyright photos from SmartFrame&#39;s DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
-- [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
-- [Observability Is Not Only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres)
-- [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
-- [Fyrox 0.25 Feature Highlights](https://fyrox.rs/blog/post/feature-highlights-0-25/)
+- [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
+- [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
+- [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
+- [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [Minoan Language Linear A Linked to Linear B in Groundbreaking Research](https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
