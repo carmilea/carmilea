@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Liberating out-of-copyright photos from SmartFrame&#39;s DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
+- [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
+- [Observability Is Not Only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres)
 - [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
-- [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
-- [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
-- [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/)
-- [ShadyURL: Don&#39;t just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
+- [Fyrox 0.25 Feature Highlights](https://fyrox.rs/blog/post/feature-highlights-0-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
