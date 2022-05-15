@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Webpage List: Discover new websites](https://webpagelist.com/)
-- [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
-- [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
-- [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
-- [Minoan Language Linear A Linked to Linear B in Groundbreaking Research](https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/)
+- [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
+- [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/)
+- [The Rebellion Against the Return to the Office Is Getting Serious](https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810)
+- [Jabra denies support for Elite 85t Bluetooth earbuds on computers](https://news.ycombinator.com/item?id=31388163)
+- [Who owns the copyright to my medical images? &lpar;2018&rpar;](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
