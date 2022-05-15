@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem with Bitcoin Miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+- [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
 - [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
 - [Ashby &lpar;YC W19&rpar; Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
-- [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
-- [GNU Data Language](https://github.com/gnudatalanguage/gdl)
-- [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
+- [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
