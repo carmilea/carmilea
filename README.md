@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
-- [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
-- [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
-- [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
-- [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
+- [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
+- [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
+- [Fly.io: The Reclaimer of Heroku&#39;s Magic](https://christine.website/blog/fly.io-heroku-replacement)
+- [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
+- [Sleep Helps Process Emotions](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/how_sleep_helps_to_process_emotions/index_eng.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
