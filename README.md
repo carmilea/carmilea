@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Crowdsource by Google](https://crowdsource.google.com/about/)
 - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
+- [Streaming Server Side Render in React 18](https://github.com/maxam2017/react-18-ssr)
 - [Tylr: A tiny tile-based editor](https://tylr.fun/)
 - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
-- [Restoring a $25k Convergent Technologies Miniframe CTIX Unix Computer [video]](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
