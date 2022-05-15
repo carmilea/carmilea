@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
 - [SQLite cron-based backup &lpar;alternative to Litestream for simpler usecases&rpar;](https://litestream.io/alternatives/cron/)
 - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 - [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
-- [Intel&#39;s New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 <!-- BLOG-POST-LIST:END -->
 
 ---
