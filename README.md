@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Maybe a 3090 is already a human brain&quot; –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
+- [SQLite cron-based backup &lpar;alternative to Litestream for simpler usecases&rpar;](https://litestream.io/alternatives/cron/)
+- [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
+- [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 - [Intel&#39;s New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
-- [XOS Electric Trucks](https://xostrucks.com/)
-- [Crowdsource by Google](https://crowdsource.google.com/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
