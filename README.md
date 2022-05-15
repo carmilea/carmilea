@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Formalizing a Proof of God by Leibniz](https://timlabs.org/leibniz/)
-- [Mattel debuts first Barbie with hearing aids](https://www.cbsnews.com/news/barnie-hearing-aid-mattel/)
-- [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
-- [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
-- [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
+- [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
+- [The Lawyers Who Ate California: Part I](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
+- [Old Maps Online – Georeferenced historical maps network](https://www.oldmapsonline.org/)
+- [Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
+- [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
