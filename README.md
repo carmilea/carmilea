@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
+- [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
 - [Congress urged to ease immigration for foreign science talent](https://www.axios.com/2022/05/09/national-security-china-international-science-tech-talent)
 - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- [Modern JavaScript Tutorial](https://javascript.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
