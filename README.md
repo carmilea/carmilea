@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with Bitcoin Miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+- [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
+- [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+- [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
 - [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
 - [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
-- [Ashby &lpar;YC W19&rpar; Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
-- [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
