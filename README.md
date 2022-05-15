@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [Taskwarrior](https://taskwarrior.org/)
 - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 - [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
-- [Fly.io: The Reclaimer of Heroku&#39;s Magic](https://christine.website/blog/fly.io-heroku-replacement)
-- [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
-- [Sleep Helps Process Emotions](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/how_sleep_helps_to_process_emotions/index_eng.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
