@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
+- [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
 - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
-- [SQLite cron-based backup &lpar;alternative to Litestream for simpler usecases&rpar;](https://litestream.io/alternatives/cron/)
-- [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
-- [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
+- [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/)
+- [ShadyURL: Don&#39;t just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
