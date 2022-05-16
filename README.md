@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
+- [The Lawyers Who Ate California](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
+- [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
 - [New WebKit Features in Safari 15.5](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/)
-- [Ten years of trying to meditate](https://ammarmian.substack.com/p/why-i-meditate-part-1)
-- [Chaingrep &lpar;YC W22&rpar; is hiring a founding engineer](https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f)
-- [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh)
-- [Court Ruling shows the GPL is both copyright license and contractual agreement](https://sfconservancy.org/news/2022/may/16/vizio-remand-win/)
+- [US Army&#39;s Land Trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
