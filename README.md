@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://www.abetterinternet.org/post/receiving-the-levchin-prize/)
 - [Join Jitx &lpar;YC S18&rpar; to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+- [GSuite legacy users can now get a free personal account, includes Gmail](https://twitter.com/NeighborGeek/status/1526267594180857856)
+- [My Experiences with Julia](https://weissmann.pm/julialang/)
 - [Request logging and web vitals for Vercel apps](https://www.axiom.co/vercel)
-- [The Worst &lpar;2012&rpar;](https://moxie.org/2012/11/27/the-worst.html)
-- [FreeBSD 13.1](https://www.freebsd.org/releases/13.1R/relnotes/)
-- [Off-Grid Cyberdeck with RPI and Pelican Case](https://back7.co/home/raspberry-pi-recovery-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
