@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://raycast.com/careers)
 - [Delhi sizzles at 49C &lpar;120F&rpar; as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
 - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
 - [Finger: The First Social Software &lpar;2019&rpar;](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
-- [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
