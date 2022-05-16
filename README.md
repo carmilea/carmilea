@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Living Worlds: 8 Bit art animated with palette cycling &lpar;2012&rpar;](http://www.effectgames.com/demos/worlds/)
+- [Meld for Macs](https://yousseb.github.io/meld/)
+- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
-- [The Lawyers Who Ate California](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
 - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
-- [New WebKit Features in Safari 15.5](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/)
-- [US Army&#39;s Land Trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
