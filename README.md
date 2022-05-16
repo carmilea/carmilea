@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
+- [Tel-Aviv University Releases Long-Text NLP Benchmark Scrolls](https://www.infoq.com/news/2022/03/scrolls-nlp-benchmark/)
 - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 - [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
 - [19.42% of Active Twitter Accounts Are Fake or Spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)
-- [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
-- [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
