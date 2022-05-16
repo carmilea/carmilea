@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not a Single Car Was Sold in Shanghai Last Month](https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month)
-- [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
-- [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
-- [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
-- [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
+- [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
+- [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
+- [DigitalOcean: New $4 Droplet and updated pricing](https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing)
+- [New DigitalOcean Pricing](https://www.digitalocean.com/try/new-pricing)
+- [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
