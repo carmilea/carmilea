@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaingrep &lpar;YC W22&rpar; Is Hiring a Founding Engineer](https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f)
+- [Release Date Update from the KSP2 Team](https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/)
+- [Court Ruling shows the GPL is both copyright license and contractual agreement](https://sfconservancy.org/news/2022/may/16/vizio-remand-win/)
 - [The ‘flawed five’ engineering productivity metrics](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics)
 - [Ansible 2.13](https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst)
-- [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
-- [Tesla FSD Beta almost causes a head-on collision [video]](https://www.youtube.com/watch?v=zDEWi2nC-Wg)
-- [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
