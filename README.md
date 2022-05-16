@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Living Worlds: 8 Bit art animated with palette cycling &lpar;2012&rpar;](http://www.effectgames.com/demos/worlds/)
-- [Meld for Macs](https://yousseb.github.io/meld/)
-- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
-- [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
-- [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
+- [Join Jitx &lpar;YC S18&rpar; to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+- [Request logging and web vitals for Vercel apps](https://www.axiom.co/vercel)
+- [The Worst &lpar;2012&rpar;](https://moxie.org/2012/11/27/the-worst.html)
+- [FreeBSD 13.1](https://www.freebsd.org/releases/13.1R/relnotes/)
+- [Off-Grid Cyberdeck with RPI and Pelican Case](https://back7.co/home/raspberry-pi-recovery-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
