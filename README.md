@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://raycast.com/careers)
+- [Delhi sizzles at 49C &lpar;120F&rpar; as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
+- [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
 - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
-- [Show HN: I built a minimal website for Los Angeles](https://news.ycombinator.com/item?id=31393542)
-- [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
