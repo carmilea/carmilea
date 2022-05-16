@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
+- [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
+- [19.42% of Active Twitter Accounts Are Fake or Spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)
 - [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
 - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
-- [DigitalOcean: New $4 Droplet and updated pricing](https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing)
-- [New DigitalOcean Pricing](https://www.digitalocean.com/try/new-pricing)
-- [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
