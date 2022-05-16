@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://www.abetterinternet.org/post/receiving-the-levchin-prize/)
+- [The Update Framework](https://theupdateframework.io)
+- [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+- [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
+- [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
 - [Join Jitx &lpar;YC S18&rpar; to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
-- [GSuite legacy users can now get a free personal account, includes Gmail](https://twitter.com/NeighborGeek/status/1526267594180857856)
-- [My Experiences with Julia](https://weissmann.pm/julialang/)
-- [Request logging and web vitals for Vercel apps](https://www.axiom.co/vercel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
