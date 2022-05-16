@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
+- [Ask HN: Can you share websites that are pushing the utility of browsers forward?](https://news.ycombinator.com/item?id=31393437)
 - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
 - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
 - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
-- [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
-- [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
