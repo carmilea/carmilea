@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://raycast.com/careers)
-- [Delhi sizzles at 49C &lpar;120F&rpar; as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
-- [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
-- [Finger: The First Social Software &lpar;2019&rpar;](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
+- [Not a Single Car Was Sold in Shanghai Last Month](https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month)
+- [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
+- [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
+- [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
+- [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
