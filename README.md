@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arm Open Source makes a seamless migration to Gitlab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
-- [Ask HN: How to break anxiety/fear-avoidance cycle?](https://news.ycombinator.com/item?id=31408431)
-- [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
-- [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
-- [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
+- [Finley &lpar;YC W21&rpar; is hiring fintech software engineers &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=31409182)
+- [I Am Long on Netscape &lpar;1999&rpar;](https://boards.fool.com/long-nscp-10517327.aspx?sort=whole#10517327)
+- [Ask HN: Cloudflare broke my domain&#39;s DNSSEC making it unreachable since 4 days](https://news.ycombinator.com/item?id=31409100)
+- [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
+- [ICCL report on the scale of RealTime Bidding data broadcast in the US and Europe](https://www.iccl.ie/digital-data/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
