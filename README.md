@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
+- [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
 - [Reviving Mind &lpar;YC W22&rpar; Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
-- [Everything you ever wanted to know about terminals&lpar;but were afraid to ask&rpar;](http://xn--rpa.cc/irl/term.html)
-- [Atmospheric Pollution from Rockets [PDF]](https://aip.scitation.org/doi/pdf/10.1063/5.0090017)
-- [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
-- [We’re All Working, All the Time: Workers Deserve the Right to Disconnect](https://novaramedia.com/2021/09/17/were-all-working-all-the-time/)
+- [Everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
+- [Atmospheric Pollution from Rockets [pdf]](https://aip.scitation.org/doi/pdf/10.1063/5.0090017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
