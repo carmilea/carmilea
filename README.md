@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Startup School 2022 – returning to live event](https://news.ycombinator.com/item?id=31412956)
+- [Comby - Structural code search and replace for every language](https://comby.dev/)
+- [Laylo &lpar;YC S20&rpar; is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+- [Tell HN: Startup School 2022 – returning to live event, with meetups worldwide](https://news.ycombinator.com/item?id=31412956)
+- [Let&#39;s build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
 - [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)
-- [Riot Games Tech Blog: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
-- [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
-- [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
