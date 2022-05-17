@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
+- [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
+- [A dev&#39;s thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
 - [Supercharging SaaS Applications: The Foodics Story](https://www.singlestore.com/blog/supercharging-saas-apps-foodics)
 - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
-- [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
-- [Comby - Structural code search and replace for every language](https://comby.dev/)
-- [Laylo &lpar;YC S20&rpar; is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
