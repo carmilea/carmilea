@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Startup School 2022 – returning to live event](https://news.ycombinator.com/item?id=31412956)
+- [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)
+- [Riot Games Tech Blog: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
+- [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
 - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
-- [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
-- [Launch HN: Infra &lpar;YC W21&rpar; – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
-- [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
-- [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
