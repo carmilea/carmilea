@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors pull $7bn from Tether as stablecoin jitters intensify](https://www.ft.com/content/db9c3f32-cd91-4149-9788-95b2046bea10)
 - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
 - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
-- [Judge: California’s women on boards law is unconstitutional](https://apnews.com/article/technology-government-and-politics-california-los-angeles-1ee602b76a4f9707c923a27da5805bcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
