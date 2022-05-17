@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fasting boosts stem cells’ regenerative capacity &lpar;2018&rpar;](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
+- [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
+- [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
+- [Avoiding burnout &lpar;as a student&rpar;](https://belkarx.github.io/posts/finished/Avoiding%20Burnout.html)
 - [Humans being confounded by color photography](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look)
-- [Sandboxie: Sandbox-based isolation software for Windows NT-based OS&#39;s](https://github.com/sandboxie-plus/Sandboxie)
-- [Common libraries and data structures for C](https://github.com/tezc/sc)
-- [Researchers Demo Bluetooth Relay Attack Against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
-- [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
