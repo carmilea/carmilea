@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
-- [New Jersey bans paper bags. Who&#39;s writing these laws?](https://mleverything.substack.com/p/new-jersey-bans-paper-bags)
+- [Launch HN: Infra &lpar;YC W21&rpar; – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
+- [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
 - [Tell HN: I probably spend more on piracy than if I just paid for content](https://news.ycombinator.com/item?id=31409664)
-- [AI identifies race from xray, researchers don&#39;t know how](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext)
+- [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
 - [Finley &lpar;YC W21&rpar; is hiring fintech software engineers &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=31409182)
 <!-- BLOG-POST-LIST:END -->
 
