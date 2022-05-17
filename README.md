@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Update Framework](https://theupdateframework.io)
+- [Humans being confounded by color photography](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look)
+- [Sandboxie: Sandbox-based isolation software for Windows NT-based OS&#39;s](https://github.com/sandboxie-plus/Sandboxie)
+- [Common libraries and data structures for C](https://github.com/tezc/sc)
+- [Researchers Demo Bluetooth Relay Attack Against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
 - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
-- [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
-- [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
-- [Join Jitx &lpar;YC S18&rpar; to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
