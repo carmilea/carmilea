@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviving Mind &lpar;YC W22&rpar; Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
+- [Everything you ever wanted to know about terminals&lpar;but were afraid to ask&rpar;](http://xn--rpa.cc/irl/term.html)
 - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
+- [We’re All Working, All the Time: Workers Deserve the Right to Disconnect](https://novaramedia.com/2021/09/17/were-all-working-all-the-time/)
 - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
-- [A dev&#39;s thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
-- [Supercharging SaaS Applications: The Foodics Story](https://www.singlestore.com/blog/supercharging-saas-apps-foodics)
-- [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
