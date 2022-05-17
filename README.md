@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
+- [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
 - [Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away](https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/)
 - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79)
-- [Kitchens in the World, by Income per Month](https://www.gapminder.org/dollar-street?topic=kitchens)
-- [Earth Overshoot Day](https://www.overshootday.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
