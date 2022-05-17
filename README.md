@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging SaaS Applications: The Foodics Story](https://www.singlestore.com/blog/supercharging-saas-apps-foodics)
+- [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
 - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
 - [Comby - Structural code search and replace for every language](https://comby.dev/)
 - [Laylo &lpar;YC S20&rpar; is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
-- [U.S. Air Force conducted successful hypersonic weapon test](https://www.reuters.com/business/aerospace-defense/us-air-force-says-it-conducted-successful-hypersonic-weapon-test-2022-05-17/)
-- [Tell HN: Startup School 2022 – returning to live event, with meetups worldwide](https://news.ycombinator.com/item?id=31412956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
