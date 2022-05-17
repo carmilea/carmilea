@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
+- [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
 - [Launch HN: Infra &lpar;YC W21&rpar; – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
-- [Tell HN: I probably spend more on piracy than if I just paid for content](https://news.ycombinator.com/item?id=31409664)
-- [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
-- [Finley &lpar;YC W21&rpar; is hiring fintech software engineers &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=31409182)
+- [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
