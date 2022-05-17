@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
+- [New Jersey bans paper bags. Who&#39;s writing these laws?](https://mleverything.substack.com/p/new-jersey-bans-paper-bags)
+- [Tell HN: I probably spend more on piracy than if I just paid for content](https://news.ycombinator.com/item?id=31409664)
+- [AI identifies race from xray, researchers don&#39;t know how](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext)
 - [Finley &lpar;YC W21&rpar; is hiring fintech software engineers &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=31409182)
-- [I Am Long on Netscape &lpar;1999&rpar;](https://boards.fool.com/long-nscp-10517327.aspx?sort=whole#10517327)
-- [Ask HN: Cloudflare broke my domain&#39;s DNSSEC making it unreachable since 4 days](https://news.ycombinator.com/item?id=31409100)
-- [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
-- [ICCL report on the scale of RealTime Bidding data broadcast in the US and Europe](https://www.iccl.ie/digital-data/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
