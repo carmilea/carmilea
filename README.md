@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
+- [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
 - [Fasting boosts stem cells’ regenerative capacity &lpar;2018&rpar;](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
 - [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
 - [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
-- [Avoiding burnout &lpar;as a student&rpar;](https://belkarx.github.io/posts/finished/Avoiding%20Burnout.html)
-- [Humans being confounded by color photography](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look)
 <!-- BLOG-POST-LIST:END -->
 
 ---
