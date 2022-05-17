@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
 - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
+- [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
 - [Judge: California’s women on boards law is unconstitutional](https://apnews.com/article/technology-government-and-politics-california-los-angeles-1ee602b76a4f9707c923a27da5805bcd)
-- [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
-- [Fasting boosts stem cells’ regenerative capacity &lpar;2018&rpar;](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
 <!-- BLOG-POST-LIST:END -->
 
 ---
