@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
+- [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 - [Verdn &lpar;YC W22&rpar; is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 - [How fast SSDs slow to a crawl: thermal throttling &lpar;2021&rpar;](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
 - [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
-- [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
-- [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
