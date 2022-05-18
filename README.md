@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
+- [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
 - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
-- [bcachefs: Principles of Operation [pdf]](https://bcachefs.org/bcachefs-principles-of-operation.pdf)
-- [Ask HN: Mailing list providers with global deliverability?](https://news.ycombinator.com/item?id=31418908)
-- [With plunging enrollment, a ‘seismic hit’ to public schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
-- [Kindle, ePub, and Amazon’s love of reinventing wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
+- [Why the GPL is great for business](https://www.socallinuxexpo.org/scale/19x/presentations/why-gpl-great-business)
+- [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
