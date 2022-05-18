@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verdn &lpar;YC W22&rpar; is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+- [How fast SSDs slow to a crawl: thermal throttling &lpar;2021&rpar;](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
 - [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
 - [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
 - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
-- [Why the GPL is great for business](https://www.socallinuxexpo.org/scale/19x/presentations/why-gpl-great-business)
-- [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
