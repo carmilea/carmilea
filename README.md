@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
+- [Deno 1.22](https://deno.com/blog/v1.22)
 - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
 - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 - [Google&#39;s Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
-- [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
-- [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
