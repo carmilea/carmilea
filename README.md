@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
-- [CTemplar Is Shutting Down](https://ctemplar.com/ctemplar-is-shutting-down/)
-- [Erlang/OTP 25 has been released](http://erlang.org/pipermail/erlang-announce/2022-May/000208.html)
-- [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
-- [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
+- [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
+- [Learning Car Speed Using Inertial Sensors](https://arxiv.org/abs/2205.07883)
+- [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique/)
+- [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
+- [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
 <!-- BLOG-POST-LIST:END -->
 
 ---
