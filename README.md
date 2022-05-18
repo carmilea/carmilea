@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple, Cheap and Portable: A Filter-Free Desalination System](https://spectrum.ieee.org/portable-desalination-filter-free)
+- [Recovering the Titanic&#39;s radio could signal a disaster for underwater heritage](https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795)
+- [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
+- [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
 - [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
-- [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
-- [Star Citizen &lpar;2015&rpar;](https://dereksmart.com/2015/07/interstellar-citizens/)
-- [The Unix-HATERS Handbook &lpar;1994&rpar; [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
-- [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
