@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)
+- [Hyper &lpar;YC S21&rpar; Is Hiring a Senior Back end Engineer to build mobile avatar tools](https://www.ycombinator.com/companies/hyper-online/jobs/EwWvbln-sr-backend-engineer)
 - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
-- [Learning Car Speed Using Inertial Sensors](https://arxiv.org/abs/2205.07883)
-- [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique/)
-- [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
-- [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
+- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [My deepfake DALL-E 2 vacation photos passed the Turing Test](https://www.mattbell.us/my-fake-dall-e-2-vacation-photos-passed-the-turing-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
