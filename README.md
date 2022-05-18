@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Simple, Cheap and Portable: A Filter-Free Desalination System](https://spectrum.ieee.org/portable-desalination-filter-free)
+- [With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
+- [Kindle, ePub, and Amazon’s Love of Reinventing Wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
 - [Recovering the Titanic&#39;s radio could signal a disaster for underwater heritage](https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795)
 - [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
-- [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
-- [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
