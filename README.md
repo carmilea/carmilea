@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thunderbird&#39;s donation-driven revenue rose to $2.7M in 2021 in 2021](https://www.ghacks.net/2022/05/15/thunderbirds-donation-drive-revenue-rose-21-in-2021/)
+- [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
+- [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
+- [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
 - [Lars Knoll Leaves the Qt Company](https://lists.qt-project.org/pipermail/development/2022-May/042477.html)
 - [Show HN: Open-source Firebase Alternative? It&#39;s here](https://github.com/appwrite/appwrite/discussions/3240)
-- [Why Google is so unbearable &lpar;and how to fix it&rpar;](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
-- [Formalising Gödel&#39;s incompleteness theorems, I](https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
