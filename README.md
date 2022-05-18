@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Natural Language Processing Demystified &lpar;Part One&rpar;](https://www.nlpdemystified.org/)
+- [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
+- [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
 - [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
 - [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
-- [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
-- [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
-- [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
