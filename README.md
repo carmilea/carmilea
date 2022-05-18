@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
+- [CTemplar Is Shutting Down](https://ctemplar.com/ctemplar-is-shutting-down/)
+- [Erlang/OTP 25 has been released](http://erlang.org/pipermail/erlang-announce/2022-May/000208.html)
 - [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
 - [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
-- [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
-- [Lars Knoll Leaves the Qt Company](https://lists.qt-project.org/pipermail/development/2022-May/042477.html)
-- [Show HN: Open-source Firebase Alternative? It&#39;s here](https://github.com/appwrite/appwrite/discussions/3240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
