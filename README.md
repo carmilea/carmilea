@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
+- [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
 - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
-- [Comparing Graviton &lpar;ARM&rpar; Performance to Intel and AMD for MySQL](https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/)
-- [Verdn &lpar;YC W22&rpar; is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
