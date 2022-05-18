@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
+- [Comparing Graviton &lpar;ARM&rpar; Performance to Intel and AMD for MySQL](https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/)
 - [Verdn &lpar;YC W22&rpar; is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
-- [How fast SSDs slow to a crawl: thermal throttling &lpar;2021&rpar;](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
-- [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
