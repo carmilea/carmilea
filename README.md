@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
+- [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
 - [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)
-- [Hyper &lpar;YC S21&rpar; Is Hiring a Senior Back end Engineer to build mobile avatar tools](https://www.ycombinator.com/companies/hyper-online/jobs/EwWvbln-sr-backend-engineer)
+- [Hyper &lpar;YC S21&rpar; is hiring a senior back end engineer to build mobile avatar tools](https://www.ycombinator.com/companies/hyper-online/jobs/EwWvbln-sr-backend-engineer)
 - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
-- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
-- [My deepfake DALL-E 2 vacation photos passed the Turing Test](https://www.mattbell.us/my-fake-dall-e-2-vacation-photos-passed-the-turing-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
