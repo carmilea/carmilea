@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Thoughts on Being “Boring”](https://news.ycombinator.com/item?id=31427696)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Foundations of Game Engine Development](http://foundationsofgameenginedev.com/)
+- [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
 - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
-- [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
-- [Deno 1.22](https://deno.com/blog/v1.22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
