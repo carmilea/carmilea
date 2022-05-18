@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple, Cheap and Portable: A Filter-Free Desalination System](https://spectrum.ieee.org/portable-desalination-filter-free)
-- [With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
-- [Kindle, ePub, and Amazon’s Love of Reinventing Wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
-- [Recovering the Titanic&#39;s radio could signal a disaster for underwater heritage](https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795)
-- [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
+- [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
+- [bcachefs: Principles of Operation [pdf]](https://bcachefs.org/bcachefs-principles-of-operation.pdf)
+- [Ask HN: Mailing list providers with global deliverability?](https://news.ycombinator.com/item?id=31418908)
+- [With plunging enrollment, a ‘seismic hit’ to public schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
+- [Kindle, ePub, and Amazon’s love of reinventing wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
