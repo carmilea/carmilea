@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Natural Language Processing Demystified &lpar;Part One&rpar;](https://www.nlpdemystified.org/)
-- [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
-- [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
-- [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
-- [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
+- [Lars Knoll Leaves the Qt Company](https://lists.qt-project.org/pipermail/development/2022-May/042477.html)
+- [Why Google is so unbearable &lpar;and how to fix it&rpar;](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
+- [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
+- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- [How to feel engaged at work: a software engineer&#39;s guide](https://jasont.co/ennui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
