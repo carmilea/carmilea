@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
-- [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
-- [Reviving Mind &lpar;YC W22&rpar; Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
-- [Everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
-- [Atmospheric Pollution from Rockets [pdf]](https://aip.scitation.org/doi/pdf/10.1063/5.0090017)
+- [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
+- [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
+- [Star Citizen &lpar;2015&rpar;](https://dereksmart.com/2015/07/interstellar-citizens/)
+- [The Unix-HATERS Handbook &lpar;1994&rpar; [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
+- [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
