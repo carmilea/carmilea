@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Lose When We Don&#39;t Speak the Same Language as Our Immigrant Parents](https://joysauce.com/asian-american-identity-bilingualism-assimilation/)
+- [Engineer Turns Plastic into Bricks That Are Reportedly Stronger Than Concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
+- [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [ARPANET Information Brochure &lpar;1985, PDF&rpar;](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
-- [The Worst CPUs Ever Made &lpar;2021&rpar;](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
-- [HTTP Cats](https://http.cat/)
-- [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
+- [Cockpit Project](https://cockpit-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
