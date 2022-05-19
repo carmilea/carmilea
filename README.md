@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What We Lose When We Don&#39;t Speak the Same Language as Our Immigrant Parents](https://joysauce.com/asian-american-identity-bilingualism-assimilation/)
+- [Ask HN: I found a pretty extreme data leak and I&#39;m not sure what to do](https://news.ycombinator.com/item?id=31441304)
 - [Engineer Turns Plastic into Bricks That Are Reportedly Stronger Than Concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 - [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
