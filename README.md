@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
-- [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
-- [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
-- [FairEmail stopping development after Google falsely flags app as spyware](https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853)
-- [The Rust Borrow Checker – A Deep Dive](https://www.infoq.com/presentations/rust-borrow-checker/)
+- [Introducing the New and Upgraded Framework Laptop](https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop)
+- [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [Serious Bug in MongoDB Geospatial distance calculation](https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/)
+- [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
