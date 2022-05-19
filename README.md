@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
+- [The Great Crypto Grift May Be Unwinding](https://www.newyorker.com/news/our-columnists/the-great-crypto-grift-may-be-unwinding)
 - [Duck Chess](https://duckchess.com/)
 - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
-- [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
-- [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
