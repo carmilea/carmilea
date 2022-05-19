@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
+- [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
+- [RIP Good Times &lpar;2008&rpar;](https://articles.sequoiacap.com/rip-good-times)
 - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
 - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
-- [Vangelis, Oscar-Winning Composer, Dies at 79](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
-- [Arc &lpar;YC W22&rpar; is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
-- [Google open sourced PSP &lpar;hardware cryptographic offload&rpar;](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
