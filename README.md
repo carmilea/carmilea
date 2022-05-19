@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator&#39;s Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
-- [LWN Is Hiring](https://lwn.net/Articles/895695/)
-- [Auditory console logging: identifying bugs by listening to code execution](https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/)
-- [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
-- [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
+- [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures)
+- [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
+- [Hawkeye &lpar;cbs&rpar;: Detect images in a video stream and execute automated actions](https://github.com/cbsinteractive/hawkeye)
+- [Letter to Myself in Late 2008 &lpar;2020&rpar;](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
+- [Wafer Shortage Improvement in Sight for 300mm, but Not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
