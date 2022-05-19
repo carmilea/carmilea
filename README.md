@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the New and Upgraded Framework Laptop](https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop)
+- [Glitch Is Joining Fastly](https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch)
+- [Fastly Announces Acquisition of Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
+- [The death of &#39;mandatory fun&#39; in the office](https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office)
 - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 - [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [Serious Bug in MongoDB Geospatial distance calculation](https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/)
-- [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
