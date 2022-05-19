@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking &lpar;YC W15&rpar; Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [ARPANET Information Brochure &lpar;1985, PDF&rpar;](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
+- [The Worst CPUs Ever Made &lpar;2021&rpar;](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 - [HTTP Cats](https://http.cat/)
 - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
-- [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
-- [Tell HN: The loneliness of a pretty good developer](https://news.ycombinator.com/item?id=31438426)
-- [RIP Good Times &lpar;2008&rpar;](https://articles.sequoiacap.com/rip-good-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
