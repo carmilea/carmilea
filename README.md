@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How did my brain get me home during Blackout?](https://news.ycombinator.com/item?id=31432120)
+- [The Rust Borrow Checker – A Deep Dive](https://www.infoq.com/presentations/rust-borrow-checker/)
 - [Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit](https://www.helloinbox.email)
+- [.NET 7 introduces Native AOT](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
 - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
-- [YC W22 Stablegains is being sued for losing $42m in funds from 4878 customers](https://twitter.com/FatManTerra/status/1527153694218797058)
-- [Missing TLS intermediate certificates can create mysterious browser problems](https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell)
-- [Engineers investigating NASA’s Voyager 1 telemetry data](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
