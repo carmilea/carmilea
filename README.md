@@ -55,7 +55,7 @@
 - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 - [Vangelis, Oscar-Winning Composer, Dies at 79](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
 - [Arc &lpar;YC W22&rpar; is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
-- [Google open sourced PSP &lpar;hardware crypto offload&rpar;](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
+- [Google open sourced PSP &lpar;hardware cryptographic offload&rpar;](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
