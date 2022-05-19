@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures)
-- [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
-- [Hawkeye &lpar;cbs&rpar;: Detect images in a video stream and execute automated actions](https://github.com/cbsinteractive/hawkeye)
-- [Letter to Myself in Late 2008 &lpar;2020&rpar;](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
-- [Wafer Shortage Improvement in Sight for 300mm, but Not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
+- [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
+- [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
+- [Vangelis, Oscar-Winning Composer, Dies at 79](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
+- [Arc &lpar;YC W22&rpar; is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
+- [Google open sourced PSP &lpar;hardware crypto offload&rpar;](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
