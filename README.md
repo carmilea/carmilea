@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Cats](https://http.cat/)
+- [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
-- [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
+- [Tell HN: The loneliness of a pretty good developer](https://news.ycombinator.com/item?id=31438426)
 - [RIP Good Times &lpar;2008&rpar;](https://articles.sequoiacap.com/rip-good-times)
-- [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
-- [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
