@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
+- [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
 - [FairEmail stopping development after Google falsely flags app as spyware](https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853)
 - [The Rust Borrow Checker – A Deep Dive](https://www.infoq.com/presentations/rust-borrow-checker/)
-- [Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit](https://www.helloinbox.email)
-- [.NET 7 introduces Native AOT](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
