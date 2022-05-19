@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
-- [The Great Crypto Grift May Be Unwinding](https://www.newyorker.com/news/our-columnists/the-great-crypto-grift-may-be-unwinding)
+- [Tesla&#39;s Safety Record vs. Volvo](https://www.flyingpenguin.com/?p=35819)
+- [Engineers investigating NASA’s Voyager 1 telemetry data](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
 - [Duck Chess](https://duckchess.com/)
+- [5th Circuit Court Finds SEC Enforcement Unconstitutional [pdf]](https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf)
 - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
-- [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
