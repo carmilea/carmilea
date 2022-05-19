@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator&#39;s Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
+- [LWN Is Hiring](https://lwn.net/Articles/895695/)
+- [Auditory console logging: identifying bugs by listening to code execution](https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/)
 - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
-- [Gov.uk drops jQuery from their front end](https://web.dev/gov-uk-drops-jquery/)
-- [Tell HN: FairEmail terminated after Google falsely flagged as spyware](https://news.ycombinator.com/item?id=31434372)
-- [Glitch Is Joining Fastly](https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch)
-- [Fastly Announces Acquisition of Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
+- [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
