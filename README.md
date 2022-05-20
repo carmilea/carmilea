@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
+- [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
+- [‘Extortion’: Why Web3 is making a lot of software developers angry](https://www.smh.com.au/business/companies/extortion-why-web3-is-pissing-off-a-lot-of-software-developers-20220516-p5alqd.html)
 - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
 - [Logging C Functions](https://justine.lol/ftrace/)
-- [The wonder material graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
-- [State of the Global Climate 2021 [pdf]](https://mcusercontent.com/e35fa2254c2a4394f75d43308/files/3d2f5b01-11a6-dee2-a42a-13ad5002dc33/1290_Statement_2021_en_1_.pdf)
-- [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
