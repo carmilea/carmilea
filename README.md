@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
+- [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)
+- [Eigr: Stateful Serverless in the Beam](https://eigr.io/)
+- [Judge orders trial in Tesla autopilot manslaughter case](https://www.courthousenews.com/judge-orders-trial-in-tesla-autopilot-manslaughter-case/)
 - [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
-- [Town Seized Building, Offered to Return It If Owners Bought Two Cars for Police](https://reason.com/2022/05/19/michigan-couple-says-town-seized-their-building-and-offered-to-return-it-if-they-bought-two-cars-for-police/)
-- [Ploomber &lpar;YC W22&rpar; Is Hiring Remote Software Engineers and DevRel](https://www.ycombinator.com/companies/ploomber/jobs)
-- [RouterOS – Communications Assistance for Law Enforcement Act &lpar;2012&rpar;](https://wiki.mikrotik.com/wiki/CALEA)
-- [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
