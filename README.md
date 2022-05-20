@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear Fusion Is Already Facing a Fuel Crisis](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
-- [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
-- [Fanless Intel J4125 4x I225 Virtualized Firewall Appliance Review](https://www.servethehome.com/topton-intel-j4125-4x-i225-fanless-virtualized-firewall-appliance-review-pfsense-opnsense-proxmox-ve/)
-- [An AI system for solving crossword puzzles that outperforms the best humans](https://twitter.com/albertxu__/status/1527703889104863232)
-- [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
+- [Is an unknown, extraordinarily ancient civilisation buried under eastern Turkey?](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
+- [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
+- [Letters between tsar Alex and Lincoln](http://beam-inc.org/abraham-lincoln-and-tsar-alexander-ii-part-i/)
+- [LWN Is Now on Mastodon](https://lwn.net/Articles/895898/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
