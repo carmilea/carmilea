@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
+- [Tell HN: Reddit does not allow comments post via old.reddit.com](https://news.ycombinator.com/item?id=31444511)
 - [Opvia &lpar;YC S20&rpar; Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
+- [Midnight Trains – A Hotel on Rails](https://www.midnight-trains.com/en/home)
 - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
-- [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
-- [Mithradites of Fond du Lac &lpar;2013&rpar;](https://thebeliever.net/mithradites-of-fond-du-lac/)
-- [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
