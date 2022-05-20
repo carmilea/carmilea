@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
 - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 - [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 - [Cockpit Project](https://cockpit-project.org/)
-- [ARPANET Information Brochure &lpar;1985&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
