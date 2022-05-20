@@ -55,7 +55,7 @@
 - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
 - [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
-- [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
+- [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
