@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
+- [LiveKit – open-source, high performance WebRTC infrastructure](https://github.com/livekit/livekit)
+- [Why won’t some people pay for news?](https://www.niemanlab.org/2022/05/why-wont-some-people-pay-for-news/)
 - [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
-- [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)
-- [Eigr: Stateful Serverless in the Beam](https://eigr.io/)
-- [Judge orders trial in Tesla autopilot manslaughter case](https://www.courthousenews.com/judge-orders-trial-in-tesla-autopilot-manslaughter-case/)
-- [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
+- [Crispier Chocolate](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
