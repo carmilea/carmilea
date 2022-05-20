@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
+- [The wonder material graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
+- [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
+- [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
 - [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
-- [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
-- [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
-- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [Cockpit Project](https://cockpit-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
