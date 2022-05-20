@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
+- [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
 - [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
-- [GCC Profiler Internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
-- [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
