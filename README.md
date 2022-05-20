@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
-- [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
-- [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
-- [PBS SpaceTime](https://www.pbsspacetime.com)
-- [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
+- [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
+- [Town Seized Building, Offered to Return It If Owners Bought Two Cars for Police](https://reason.com/2022/05/19/michigan-couple-says-town-seized-their-building-and-offered-to-return-it-if-they-bought-two-cars-for-police/)
+- [Ploomber &lpar;YC W22&rpar; Is Hiring Remote Software Engineers and DevRel](https://www.ycombinator.com/companies/ploomber/jobs)
+- [RouterOS – Communications Assistance for Law Enforcement Act &lpar;2012&rpar;](https://wiki.mikrotik.com/wiki/CALEA)
+- [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
