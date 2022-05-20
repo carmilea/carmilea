@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opvia &lpar;YC S20&rpar; Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
 - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
 - [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
-- [‘Extortion’: Why Web3 is making a lot of software developers angry](https://www.smh.com.au/business/companies/extortion-why-web3-is-pissing-off-a-lot-of-software-developers-20220516-p5alqd.html)
+- [Mithradites of Fond du Lac &lpar;2013&rpar;](https://thebeliever.net/mithradites-of-fond-du-lac/)
 - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
-- [Logging C Functions](https://justine.lol/ftrace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
