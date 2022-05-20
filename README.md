@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
-- [LiveKit – open-source, high performance WebRTC infrastructure](https://github.com/livekit/livekit)
-- [Why won’t some people pay for news?](https://www.niemanlab.org/2022/05/why-wont-some-people-pay-for-news/)
-- [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
-- [Crispier Chocolate](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f)
+- [Formula for a Shortage](https://thezvi.substack.com/p/formula-for-a-shortage-8ae)
+- [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
+- [Connecting an 8086 or 8088 processor to a Raspberry Pi](https://www.homebrew8088.com/home/raspberry-pi-second-project)
+- [Fd: A simple, fast and user-friendly alternative to &#39;find&#39;](https://github.com/sharkdp/fd)
+- [You Want My Password or a Dead Patient? [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
