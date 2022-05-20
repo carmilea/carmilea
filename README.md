@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
+- [Logging C Functions](https://justine.lol/ftrace/)
 - [The wonder material graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
+- [State of the Global Climate 2021 [pdf]](https://mcusercontent.com/e35fa2254c2a4394f75d43308/files/3d2f5b01-11a6-dee2-a42a-13ad5002dc33/1290_Statement_2021_en_1_.pdf)
 - [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
-- [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
-- [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
