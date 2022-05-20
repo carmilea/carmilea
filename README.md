@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear Fusion Is Already Facing a Fuel Crisis](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
+- [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
+- [Fanless Intel J4125 4x I225 Virtualized Firewall Appliance Review](https://www.servethehome.com/topton-intel-j4125-4x-i225-fanless-virtualized-firewall-appliance-review-pfsense-opnsense-proxmox-ve/)
+- [An AI system for solving crossword puzzles that outperforms the best humans](https://twitter.com/albertxu__/status/1527703889104863232)
 - [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
-- [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
-- [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
-- [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
-- [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
