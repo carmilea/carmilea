@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
+- [PBS SpaceTime](https://www.pbsspacetime.com)
 - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 - [Tell HN: Reddit does not allow comments post via old.reddit.com](https://news.ycombinator.com/item?id=31444511)
 - [Opvia &lpar;YC S20&rpar; Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
-- [Midnight Trains – A Hotel on Rails](https://www.midnight-trains.com/en/home)
-- [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
 <!-- BLOG-POST-LIST:END -->
 
 ---
