@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [an OnlyFans creator found and slept with FB employees to undelete her IG account](https://twitter.com/taylorlorenz/status/1527007677184110592)
+- [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
 - [PBS SpaceTime](https://www.pbsspacetime.com)
