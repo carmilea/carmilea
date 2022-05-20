@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
+- [GCC Profiler Internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
 - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)
-- [Design Principles Behind Smalltalk &lpar;2001&rpar;](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-- [How Three Developers Powered Their SaaS Apps with SingleStoreDB](https://www.singlestore.com/blog/how-three-developers-powered-saas-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
