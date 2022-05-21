@@ -55,7 +55,7 @@
 - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 - [Parker &lpar;YC W19&rpar; Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
 - [This week&#39;s archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
-- [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
+- [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
