@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
-- [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
-- [How to Be Successful](https://blog.samaltman.com/how-to-be-successful)
-- [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
-- [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+- [Open Letter to Noam Chomsky &lpar;and Other Intellectuals&rpar; on the Russia-Ukraine War](https://blogs.berkeley.edu/2022/05/19/open-letter-to-noam-chomsky-and-other-like-minded-intellectuals-on-the-russia-ukraine-war/)
+- [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
+- [Parker &lpar;YC W19&rpar; Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
+- [This week&#39;s archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
+- [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
