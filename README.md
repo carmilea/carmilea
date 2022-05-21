@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
-- [Gitee to review all code by temporarily closing public open-source projects](https://www.scmp.com/tech/big-tech/article/3178323/gitee-chinas-answer-github-review-all-code-temporarily-closing-open)
-- [Windows XP Delta Edition](https://xpdelta.weebly.com/)
-- [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
-- [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
+- [Dover &lpar;YC S19&rpar; is &lpar;still&rpar; hiring](https://www.dover.com/open-roles/software-engineer)
+- [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
+- [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
+- [What Happened to Tagging? &lpar;2019&rpar;](https://daily.jstor.org/what-happened-to-tagging/)
+- [Teach your Kids Bridge, not Poker](https://specbranch.com/posts/teach-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
