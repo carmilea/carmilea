@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
+- [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
+- [What Ever Happened to Scandium Bike Frames? &lpar;2016&rpar;](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
 - [Pike Programming Language](https://pike.lysator.liu.se/)
-- [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
-- [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
-- [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
+- [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
