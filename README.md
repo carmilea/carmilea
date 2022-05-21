@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
 - [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
 - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
 - [What Ever Happened to Scandium Bike Frames? &lpar;2016&rpar;](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
 - [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
+- [Pike Programming Language](https://pike.lysator.liu.se/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
