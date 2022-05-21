@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
+- [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
 - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
 - [What Ever Happened to Scandium Bike Frames? &lpar;2016&rpar;](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
-- [Pike Programming Language](https://pike.lysator.liu.se/)
-- [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
+- [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
