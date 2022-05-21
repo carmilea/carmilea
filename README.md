@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
 - [World’s largest vertical strawberry farm opens in Jersey City, NJ](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 - [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
 - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
 - [What Ever Happened to Scandium Bike Frames? &lpar;2016&rpar;](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
-- [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
