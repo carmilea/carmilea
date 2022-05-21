@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kinopio](https://kinopio.club/)
 - [Mark Zuckerberg on Messenger &lpar;2013&rpar;](https://twitter.com/TechEmails/status/1528063312461582342)
 - [C-Kermit Update History &lpar;since 8.0&rpar;](https://www.kermitproject.org/ckupdates.html)
 - [Dover &lpar;YC S19&rpar; is &lpar;still&rpar; hiring](https://www.dover.com/open-roles/software-engineer)
 - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
-- [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
