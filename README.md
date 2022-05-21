@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
+- [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
 - [The Muse &lpar;YC W12&rpar; Is Hiring Platform Engineers &lpar;All Levels&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [“We’re discontinuing the Stablegains service. Please withdraw remaining funds.”](https://blog.stablegains.com/were-discontinuing-the-stablegains-service-please-withdraw-your-remaining-funds-405e6bfb89c4)
 - [DEVONagent, a smart web &lpar;re&rpar;search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
-- [Collection of US Navy Training Courses Developed](https://archive.org/details/navpers)
-- [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
-- [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 <!-- BLOG-POST-LIST:END -->
 
 ---
