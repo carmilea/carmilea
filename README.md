@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
+- [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
+- [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
 - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
 - [Scapple](https://www.literatureandlatte.com/scapple/overview)
-- [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
-- [Parker &lpar;YC W19&rpar; Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
-- [This week&#39;s archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
