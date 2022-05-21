@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Letter to Noam Chomsky &lpar;and Other Intellectuals&rpar; on the Russia-Ukraine War](https://blogs.berkeley.edu/2022/05/19/open-letter-to-noam-chomsky-and-other-like-minded-intellectuals-on-the-russia-ukraine-war/)
+- [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
+- [Scapple](https://www.literatureandlatte.com/scapple/overview)
 - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 - [Parker &lpar;YC W19&rpar; Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
 - [This week&#39;s archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
-- [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
