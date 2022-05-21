@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ecto&#39;s uniqueness constraint vs. Rails&#39; uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
-- [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
-- [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
-- [Kinopio](https://kinopio.club/)
-- [Mark Zuckerberg on Messenger &lpar;2013&rpar;](https://twitter.com/TechEmails/status/1528063312461582342)
+- [The Muse &lpar;YC W12&rpar; Is Hiring Platform Engineers &lpar;All Levels&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [DEVONagent, a smart web &lpar;re&rpar;search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
+- [Collection of US Navy Training Courses Developed](https://archive.org/details/navpers)
+- [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
+- [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 <!-- BLOG-POST-LIST:END -->
 
 ---
