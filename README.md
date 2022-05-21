@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rustdesk: The open source TeamViewer alternative](https://rustdesk.com/)
-- [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
+- [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
+- [How to Be Successful](https://blog.samaltman.com/how-to-be-successful)
+- [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
+- [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
-- [Programming Burnout](https://tsk.bearblog.dev/programming-burnout/)
-- [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
