@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 - [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
 - [How to Be Successful](https://blog.samaltman.com/how-to-be-successful)
 - [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
 - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
