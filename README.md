@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
+- [Programming Burnout](https://tsk.bearblog.dev/programming-burnout/)
 - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
 - [5 Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
-- [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
-- [World’s largest vertical strawberry farm opens in Jersey City](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
