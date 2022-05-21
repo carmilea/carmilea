@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ecto&#39;s uniqueness constraint vs. Rails&#39; uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
+- [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
+- [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
 - [Kinopio](https://kinopio.club/)
 - [Mark Zuckerberg on Messenger &lpar;2013&rpar;](https://twitter.com/TechEmails/status/1528063312461582342)
-- [C-Kermit Update History &lpar;since 8.0&rpar;](https://www.kermitproject.org/ckupdates.html)
-- [Dover &lpar;YC S19&rpar; is &lpar;still&rpar; hiring](https://www.dover.com/open-roles/software-engineer)
-- [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
