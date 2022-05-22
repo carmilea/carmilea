@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kable &lpar;YC W22&rpar; Is Hiring Founding Software Engineers &lpar;US/Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
 - [Generating websites with SPARQL and Snowman, part 1](https://www.bobdc.com/blog/snowmanartbasept1/)
+- [Hello world in every computer language](https://github.com/xbinner18P/leachim6S)
 - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
-- [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
-- [Google blocked patch to disable extraction to APK](https://twitter.com/MishaalRahman/status/1527702937723621376)
-- [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
+- [Faster CRC32 on the Apple M1](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
