@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 - [Stacker &lpar;YC S20&rpar; Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
-- [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
+- [Book Review: The Little Typer](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
+- [FLibrary, a college notes publishing community](https://flibrary.info)
 - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
-- [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
-- [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
