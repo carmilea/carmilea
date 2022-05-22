@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
-- [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
-- [When Can Liquid Democracy Unveil the Truth? &lpar;2021&rpar;](https://arxiv.org/abs/2104.01828)
-- [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
-- [AI-art isn&#39;t art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
+- [Generating websites with SPARQL and Snowman, part 1](https://www.bobdc.com/blog/snowmanartbasept1/)
+- [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
+- [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
+- [Google blocked patch to disable extraction to APK](https://twitter.com/MishaalRahman/status/1527702937723621376)
+- [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
