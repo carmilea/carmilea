@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
+- [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
+- [The Small Steps of Giant Leaps](https://fs.blog/small-steps-giant-leaps/)
+- [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
 - [Vance &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
-- [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
-- [Tunneling Wikipedia through WhatsApp to &lpar;maybe?&rpar; get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
-- [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
-- [QCAD – Open Source CAD System](https://www.qcad.org/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
