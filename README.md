@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
-- [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
-- [Flightcontrol &lpar;YC W22&rpar; Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
-- [We almost built 8 gigawatt-class floating nuclear power plants](https://whatisnuclear.com/blog/2020-01-26-offshore-power-systems.html)
-- [Image Does Not Exist](https://thisimagedoesnotexist.com/)
+- [AI-art isn&#39;t art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
+- [Invade Haiti, Wall Street Urged. The U.S. Obliged](https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html)
+- [Ask HN: Should Instagram add labels indicating an image used filters?](https://news.ycombinator.com/item?id=31468033)
+- [SolveSpace – parametric 2d/3D CAD](https://solvespace.com/index.pl)
+- [Smaller is better &lpar;The rise, fall, and rise of flat file software&rpar;](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
