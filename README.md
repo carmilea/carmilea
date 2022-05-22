@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Details on AMD&#39;s Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
 - [PDP-11 Resource Timesharing System &lpar;1970&rpar; [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
-- [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
-- [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
+- [Current guidelines for sun exposure are unhealthy and unscientific – research](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
