@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
+- [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
 - [Flightcontrol &lpar;YC W22&rpar; Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
 - [We almost built 8 gigawatt-class floating nuclear power plants](https://whatisnuclear.com/blog/2020-01-26-offshore-power-systems.html)
 - [Image Does Not Exist](https://thisimagedoesnotexist.com/)
-- [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
-- [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
