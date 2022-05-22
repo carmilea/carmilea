@@ -54,8 +54,8 @@
 - [Vance &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
 - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
 - [Tunneling Wikipedia through WhatsApp to &lpar;maybe?&rpar; get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
-- [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
 - [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
+- [QCAD – Open Source CAD System](https://www.qcad.org/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
