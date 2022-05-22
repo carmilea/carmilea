@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lofi.co – Relax and Focus](https://lofi.co/)
+- [Constraint-based geometry &lpar;CAD&rpar; sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
+- [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Software Engineers &lpar;US/Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
-- [Generating websites with SPARQL and Snowman, part 1](https://www.bobdc.com/blog/snowmanartbasept1/)
-- [Hello world in every computer language](https://github.com/xbinner18P/leachim6S)
-- [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
-- [Faster CRC32 on the Apple M1](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
+- [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
