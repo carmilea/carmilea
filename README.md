@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s your greatest enjoyment in life?](https://news.ycombinator.com/item?id=31462773)
-- [QCAD – The Open Source CAD System for Everyone](https://www.qcad.org/en/)
-- [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
-- [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
-- [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
+- [Vance &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
+- [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
+- [Tunneling Wikipedia through WhatsApp to &lpar;maybe?&rpar; get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
+- [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
+- [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
