@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
+- [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
+- [When Can Liquid Democracy Unveil the Truth? &lpar;2021&rpar;](https://arxiv.org/abs/2104.01828)
+- [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
 - [AI-art isn&#39;t art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
-- [Invade Haiti, Wall Street Urged. The U.S. Obliged](https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html)
-- [Ask HN: Should Instagram add labels indicating an image used filters?](https://news.ycombinator.com/item?id=31468033)
-- [SolveSpace – parametric 2d/3D CAD](https://solvespace.com/index.pl)
-- [Smaller is better &lpar;The rise, fall, and rise of flat file software&rpar;](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
