@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
+- [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
 - [Lofi.co – Relax and Focus](https://lofi.co/)
 - [Constraint-based geometry &lpar;CAD&rpar; sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
 - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
-- [Kable &lpar;YC W22&rpar; Is Hiring Founding Software Engineers &lpar;US/Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
-- [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
