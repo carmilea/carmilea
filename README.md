@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The mindless tyranny of “what if it changes?” as a software design principle](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
+- [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
 - [Details on AMD&#39;s Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
-- [PDP-11 Resource Timesharing System &lpar;1970&rpar; [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
-- [Current guidelines for sun exposure are unhealthy and unscientific – research](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
