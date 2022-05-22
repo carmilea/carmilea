@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
 - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
 - [The Small Steps of Giant Leaps](https://fs.blog/small-steps-giant-leaps/)
 - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
-- [Vance &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
