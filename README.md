@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
+- [Programming with Nothing](https://tomstu.art/programming-with-nothing)
+- [PDP-11 Resource Timesharing System &lpar;1970&rpar; [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
 - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
-- [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
-- [Lofi.co – Relax and Focus](https://lofi.co/)
-- [Constraint-based geometry &lpar;CAD&rpar; sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
-- [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
+- [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
