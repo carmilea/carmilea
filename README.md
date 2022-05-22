@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
+- [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
 - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
+- [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
 - [Stacker &lpar;YC S20&rpar; Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
-- [Book Review: The Little Typer](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
-- [FLibrary, a college notes publishing community](https://flibrary.info)
 <!-- BLOG-POST-LIST:END -->
 
 ---
