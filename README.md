@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flightcontrol &lpar;YC W22&rpar; Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
+- [We almost built 8 gigawatt-class floating nuclear power plants](https://whatisnuclear.com/blog/2020-01-26-offshore-power-systems.html)
+- [Image Does Not Exist](https://thisimagedoesnotexist.com/)
+- [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
 - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
-- [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
-- [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
-- [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
-- [Stacker &lpar;YC S20&rpar; Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
