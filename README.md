@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Buy a Yeti](https://dontbuyayeti.com)
+- [I&#39;m quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
+- [Firefox&#39;s Protection Against Fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
+- [DARPA Wants a Better, Badder Caspian Sea Monster](https://spectrum.ieee.org/darpa-liberty-lifter)
 - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
-- [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
-- [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
-- [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
-- [Mountains of sugar have been found in the ocean under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
