@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Buy a Yeti](https://dontbuyayeti.com)
-- [I&#39;m quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
-- [Firefox&#39;s Protection Against Fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
-- [DARPA Wants a Better, Badder Caspian Sea Monster](https://spectrum.ieee.org/darpa-liberty-lifter)
-- [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
+- [Klarna company announcement from CEO regarding layoffs](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
+- [You may be denied life insurance for carrying naloxone &lpar;2018&rpar;](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
+- [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
+- [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
+- [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
