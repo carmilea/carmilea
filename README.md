@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Now Monkeypox](https://www.science.org/content/blog-post/now-monkeypox)
+- [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 - [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/)
 - [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-- [Extend your runway, cheap money is over](https://canvasapp.com/blog/extend-your-runway-cheap-cash-is-over/)
-- [Why is it traitorous to understand the people you disagree with?](https://dynomight.net/traitorous/)
-- [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/)
+- [Show HN: Little Procedural Pixel Worlds](https://jason.today/little-worlds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
