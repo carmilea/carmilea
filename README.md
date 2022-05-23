@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Useless Use of &quot;dd&quot;](https://www.vidarholen.net/contents/blog/?p=479)
+- [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
+- [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
+- [STUNner: A Kubernetes ingress gateway for WebRTC](https://github.com/l7mp/stunner)
+- [Useless Use of &quot;dd&quot; &lpar;2015&rpar;](https://www.vidarholen.net/contents/blog/?p=479)
 - [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
-- [Empirical Notes on Kissing](https://belkarx.github.io/posts/finished/Empirical%20Notes%20on%20Kissing.html)
-- [Discovered a 63kb tiddlywiki like self saving HTML+JS wiki and its looking cool](https://feather.wiki/)
-- [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
