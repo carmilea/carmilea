@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can preserve the Earth&#39;s livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
+- [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
 - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
 - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc &lpar;2021&rpar;](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
 - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
-- [Goodbye smallpox vaccination, hello monkeypox &lpar;2010&rpar;](https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox)
-- [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
