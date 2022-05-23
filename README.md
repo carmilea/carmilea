@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New text-to-image network from Google beats DALL-E](https://gweb-research-imagen.appspot.com/)
+- [The trouble with SPIR-V, 2022 edition](https://xol.io/blah/the-trouble-with-spirv/)
 - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
 - [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
 - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
-- [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
-- [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
