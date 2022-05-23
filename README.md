@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
 - [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
-- [Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
+- [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 - [Mountains of sugar have been found in the ocean under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
-- [Ghost 5.0](https://ghost.org/changelog/5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
