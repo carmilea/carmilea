@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
+- [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 - [New text-to-image network from Google beats DALL-E](https://gweb-research-imagen.appspot.com/)
 - [The trouble with SPIR-V, 2022 edition](https://xol.io/blah/the-trouble-with-spirv/)
 - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
-- [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
-- [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
