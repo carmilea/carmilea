@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Political Economy of Submarine Cables](https://www.researchgate.net/publication/360485815_THE_POLITICAL_ECONOMY_OF_SUBMARINE_CABLES_THE_QUANTUM_CABLE_PROJECT_IN_THE_MEDITERRANEAN_SEA)
+- [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
+- [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
+- [Growing food in hard clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
 - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
-- [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
-- [New text-to-image network from Google beats DALL-E](https://gweb-research-imagen.appspot.com/)
-- [The trouble with SPIR-V, 2022 edition](https://xol.io/blah/the-trouble-with-spirv/)
-- [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
