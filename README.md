@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
 - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
-- [Blogs should be clean and load fast](https://herman.bearblog.dev/big-fat-websites/)
+- [Big Fat Websites &lpar;2021&rpar;](https://herman.bearblog.dev/big-fat-websites/)
 - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
-- [You can preserve the Earth&#39;s livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
-- [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
+- [Actions rooted in open source culture can make a big impact](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
