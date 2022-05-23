@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
 - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
+- [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
+- [The Game Boy Sewing Machine &lpar;2020&rpar;](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
 - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
-- [Big Fat Websites &lpar;2021&rpar;](https://herman.bearblog.dev/big-fat-websites/)
-- [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
-- [Actions rooted in open source culture can make a big impact](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
