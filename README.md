@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
-- [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
-- [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
-- [The Game Boy Sewing Machine &lpar;2020&rpar;](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
-- [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
+- [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
+- [Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
+- [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
+- [Mountains of sugar have been found in the ocean under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
+- [Ghost 5.0](https://ghost.org/changelog/5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
