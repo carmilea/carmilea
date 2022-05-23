@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
+- [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
+- [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
 - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
 - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
-- [Donald Knuth on work habits, problem solving, and happiness &lpar;2020&rpar;](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
-- [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
