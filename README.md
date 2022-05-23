@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Klarna company announcement from CEO regarding layoffs](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
-- [You may be denied life insurance for carrying naloxone &lpar;2018&rpar;](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
-- [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
-- [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
-- [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
+- [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/)
+- [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+- [Extend your runway, cheap money is over](https://canvasapp.com/blog/extend-your-runway-cheap-cash-is-over/)
+- [Why is it traitorous to understand the people you disagree with?](https://dynomight.net/traitorous/)
+- [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
