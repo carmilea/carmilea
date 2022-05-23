@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Useless Use of &quot;dd&quot;](https://www.vidarholen.net/contents/blog/?p=479)
 - [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
 - [Empirical Notes on Kissing](https://belkarx.github.io/posts/finished/Empirical%20Notes%20on%20Kissing.html)
 - [Discovered a 63kb tiddlywiki like self saving HTML+JS wiki and its looking cool](https://feather.wiki/)
 - [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
-- [Autism increase mystery solved? No, it&#39;s not vaccines, GMOs, glyphosate](https://geneticliteracyproject.org/2022/05/20/autism-increase-mystery-solved-no-its-not-vaccines-gmos-glyphosate-or-organic-foods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
