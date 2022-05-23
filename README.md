@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye smallpox vaccination, hello monkeypox &lpar;2010&rpar;](https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox)
 - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
-- [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
 - [STUNner: A Kubernetes ingress gateway for WebRTC](https://github.com/l7mp/stunner)
 - [Useless Use of &quot;dd&quot; &lpar;2015&rpar;](https://www.vidarholen.net/contents/blog/?p=479)
 - [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
