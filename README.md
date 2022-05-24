@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
-- [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
-- [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
-- [Symbian Source Code](https://github.com/SymbianSource)
-- [Show HN: I brought the benefits of LaTeX to non technical users](https://www.monsterwriter.app/)
+- [Stripe App Marketplace](https://marketplace.stripe.com/)
+- [Accidentally Saving the Day](https://essays.jwatzman.org/essays/accidentally-saving-the-day.html)
+- [PlanetScale Portals: Read-only regions](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)
+- [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
+- [Kubernetes and SingleStore: 5 Things You Absolutely Need to Know](https://www.singlestore.com/blog/singlestore-and-kubernetes-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
