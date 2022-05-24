@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
+- [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
 - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
 - [Courier &lpar;YC S19&rpar; is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
-- [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
-- [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)
-- [Stripe App Marketplace](https://marketplace.stripe.com/)
+- [How We Put IPFS in Brave](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
