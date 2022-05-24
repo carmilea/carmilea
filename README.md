@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Political Economy of Submarine Cables](https://www.researchgate.net/publication/360485815_THE_POLITICAL_ECONOMY_OF_SUBMARINE_CABLES_THE_QUANTUM_CABLE_PROJECT_IN_THE_MEDITERRANEAN_SEA)
+- [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
+- [Why aren&#39;t fentanyl test strips more widespread? &lpar;2021&rpar;](https://www.healthaffairs.org/do/10.1377/forefront.20210601.974263/)
+- [Starlink for RVs](https://www.starlink.com/rv)
+- [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
 - [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
-- [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
-- [Growing food in hard clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
-- [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
