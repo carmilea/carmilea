@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
+- [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
+- [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
 - [Much philanthropy is a routinized exchange between salaried bureaucrats](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
-- [Starlink for RVs](https://www.starlink.com/rv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
