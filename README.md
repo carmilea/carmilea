@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
+- [The hollow universe of modern physics](http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html)
+- [FreeBSD on the Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)
 - [CSAM: EU Commission&#39;s lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 - [What One-person SaaS Healthchecks.io uses for hosting, hardware and software](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
-- [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
-- [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
