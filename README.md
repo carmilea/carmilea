@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Many graduate programs are “scams,” according to higher education policy analyst](https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/)
 - [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
-- [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
+- [Much philanthropy is a routinized exchange between salaried bureaucrats](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
+- [Starlink for RVs](https://www.starlink.com/rv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
