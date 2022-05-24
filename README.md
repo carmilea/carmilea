@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
 - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
 - [Courier &lpar;YC S19&rpar; is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
-- [How We Put IPFS in Brave](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
