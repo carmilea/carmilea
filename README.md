@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We fixed the ozone layer &lpar;2021&rpar;](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
+- [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
+- [On rebooting: the unreasonable effectiveness of turning computers off and on ag](https://keunwoo.com/notes/rebooting/)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
 - [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
-- [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
-- [Data Science in Context – Peter Norvig&#39;s New Book](https://datascienceincontext.com/)
-- [Fly Machines: An API for Fast-Booting VMs](https://fly.io/blog/fly-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
