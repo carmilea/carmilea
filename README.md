@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
 - [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
 - [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
-- [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
-- [Linode Managed Databases](https://www.linode.com/products/databases/)
-- [Bugs are evolving to eat plastic, study finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
+- [Data Science in Context – Peter Norvig&#39;s New Book](https://datascienceincontext.com/)
+- [Fly Machines: An API for Fast-Booting VMs](https://fly.io/blog/fly-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
