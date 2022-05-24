@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
+- [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
+- [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
 - [Symbian Source Code](https://github.com/SymbianSource)
-- [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
-- [DigitalOcean Functions: A powerful serverless computing solution](https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing)
-- [The Bitcoin Investment Thesis Is Broken](https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/)
-- [DuckDuckGo’s syndication deal with Microsoft disallows blocking of trackers](https://twitter.com/shivan_kaul/status/1528879590772338689)
+- [Show HN: I brought the benefits of LaTeX to non technical users](https://www.monsterwriter.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
