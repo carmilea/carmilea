@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
-- [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
-- [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
-- [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
-- [Courier &lpar;YC S19&rpar; is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
+- [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
+- [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
+- [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
+- [Linode Managed Databases](https://www.linode.com/products/databases/)
+- [Bugs are evolving to eat plastic, study finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
