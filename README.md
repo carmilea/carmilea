@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
+- [Control Esp32 from a web panel over MQTT protocol](https://github.com/fdisotto/esp32-mqtt)
 - [Browsh – A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
 - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
 - [Street View turns 15 with a new camera and fresh features](https://blog.google/products/maps/street-view-15-new-features/)
-- [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
-- [The hollow universe of modern physics](http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
