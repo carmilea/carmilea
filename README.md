@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
+- [Courier &lpar;YC S19&rpar; is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
+- [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
+- [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)
 - [Stripe App Marketplace](https://marketplace.stripe.com/)
-- [Accidentally Saving the Day](https://essays.jwatzman.org/essays/accidentally-saving-the-day.html)
-- [PlanetScale Portals: Read-only regions](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)
-- [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
-- [Kubernetes and SingleStore: 5 Things You Absolutely Need to Know](https://www.singlestore.com/blog/singlestore-and-kubernetes-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
