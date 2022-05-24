@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
+- [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
-- [Why aren&#39;t fentanyl test strips more widespread? &lpar;2021&rpar;](https://www.healthaffairs.org/do/10.1377/forefront.20210601.974263/)
 - [Starlink for RVs](https://www.starlink.com/rv)
 - [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
-- [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
 <!-- BLOG-POST-LIST:END -->
 
 ---
