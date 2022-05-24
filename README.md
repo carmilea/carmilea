@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
 - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
+- [Man Uploads 2M YouTube Videos](https://thenewleafjournal.com/leaf/man-uploads-2000000-youtube-videos/)
+- [The Xinjiang Police Files](https://www.xinjiangpolicefiles.org/)
 - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
-- [Much philanthropy is a routinized exchange between salaried bureaucrats](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
-- [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
-- [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
