@@ -54,7 +54,7 @@
 - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
 - [DigitalOcean Functions: A powerful serverless computing solution](https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing)
 - [The Bitcoin Investment Thesis Is Broken](https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/)
-- [DuckDuckGo paid by Microsoft to not block their trackers](https://twitter.com/shivan_kaul/status/1528879590772338689)
+- [DuckDuckGo’s syndication deal with Microsoft disallows blocking of trackers](https://twitter.com/shivan_kaul/status/1528879590772338689)
 - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 <!-- BLOG-POST-LIST:END -->
 
