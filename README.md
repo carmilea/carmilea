@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plundervolt](https://plundervolt.com/)
+- [Jasonette – Native App over HTTP](https://jasonette.com/)
+- [Plundervolt &lpar;2019&rpar;](https://plundervolt.com/)
 - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
-- [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
 - [Scrapism](https://scrapism.lav.io/)
 - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 <!-- BLOG-POST-LIST:END -->
