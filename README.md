@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mental Illness, Mass Shootings, and the Politics of American Firearms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/)
+- [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
+- [Original Pong did not have any code or even a microprocessor](https://www.falstad.com/pong/)
+- [We use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
+- [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
 - [Jack Dorsey leaves Twitter&#39;s board of directors](https://www.axios.com/2022/05/25/jack-dorsey-twitter-board)
-- [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
-- [New England&#39;s Largest Battery Is Hidden Inside a Mass. Mountain &lpar;2016&rpar;](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
-- [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
