@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
-- [Our build and release infrastructure, and upcoming updates](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
-- [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
-- [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
-- [Ask HN: How do you organize your routine?](https://news.ycombinator.com/item?id=31503770)
+- [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
+- [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
+- [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
+- [A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
+- [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
