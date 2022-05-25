@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 - [Scrapism](https://scrapism.lav.io/)
 - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
 - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
-- [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
