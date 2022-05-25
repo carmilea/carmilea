@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [8-bit number to binary string &lpar;2013&rpar;](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
+- [Ask HN: What Happened to Reddit?](https://news.ycombinator.com/item?id=31508253)
+- [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)
 - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
 - [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
-- [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
-- [Zettelkasten, Linking Your Thinking, and Nick Milo&#39;s Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
