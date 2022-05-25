@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
-- [CalyxInstitute is funding F-Droid](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
+- [Our build and release infrastructure, and upcoming updates](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
+- [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
 - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 - [Ask HN: How do you organize your routine?](https://news.ycombinator.com/item?id=31503770)
-- [Supersonic CO2 flow during champagne cork popping](https://aip.scitation.org/doi/10.1063/5.0089774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
