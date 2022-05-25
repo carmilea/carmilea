@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bicycles Have Evolved. Have We?](https://www.newyorker.com/magazine/2022/05/30/bicycles-have-evolved-have-we-jody-rosen-two-wheels-good)
-- [Ask HN: How worried are you about the upcoming recession?](https://news.ycombinator.com/item?id=31499513)
-- [How we fixed the ozone layer &lpar;2021&rpar;](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
-- [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
-- [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
+- [Scrapism](https://scrapism.lav.io/)
+- [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
+- [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
+- [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
+- [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
