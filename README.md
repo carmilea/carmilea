@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [Zettelkasten, Linking Your Thinking, and Nick Milo&#39;s Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
+- [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
 - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
-- [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
-- [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
-- [A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
-- [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
+- [The New York Times is wrong about Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
