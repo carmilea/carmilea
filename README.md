@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 - [8-bit number to binary string &lpar;2013&rpar;](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
-- [Ask HN: What Happened to Reddit?](https://news.ycombinator.com/item?id=31508253)
+- [Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows](https://minikube.sigs.k8s.io/docs/)
+- [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
 - [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)
-- [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
-- [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
