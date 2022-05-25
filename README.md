@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
+- [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
+- [Show HN: Dress Circle – IMDB for UK Theatre](https://www.dresscircle.co.uk)
+- [Statement on 4 Years of GDPR](https://noyb.eu/en/statement-4-years-gdpr)
 - [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
-- [Jasonette – Native App over HTTP](https://jasonette.com/)
-- [Plundervolt &lpar;2019&rpar;](https://plundervolt.com/)
-- [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
-- [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
