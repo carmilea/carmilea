@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
+- [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
 - [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
 - [Zettelkasten, Linking Your Thinking, and Nick Milo&#39;s Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
-- [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
-- [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
-- [The New York Times is wrong about Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
