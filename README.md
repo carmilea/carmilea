@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paperspace &lpar;YC W15&rpar; is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
-- [InSight&#39;s Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
-- [What don’t we know about the causes of gun violence? Almost everything](https://www.hsph.harvard.edu/magazine/magazine_article/off-the-cuff-what-dont-we-know-about-the-causes-of-gun-violence-almost-everything/)
-- [Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
-- [8-bit number to binary string &lpar;2013&rpar;](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
+- [Mental Illness, Mass Shootings, and the Politics of American Firearms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/)
+- [Jack Dorsey leaves Twitter&#39;s board of directors](https://www.axios.com/2022/05/25/jack-dorsey-twitter-board)
+- [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
+- [New England&#39;s Largest Battery Is Hidden Inside a Mass. Mountain &lpar;2016&rpar;](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
+- [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
