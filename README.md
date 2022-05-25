@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 - [Jasonette – Native App over HTTP](https://jasonette.com/)
 - [Plundervolt &lpar;2019&rpar;](https://plundervolt.com/)
 - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
-- [Naur on Programming as Theory Building &lpar;1985&rpar; [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
