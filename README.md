@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
+- [Paperspace &lpar;YC W15&rpar; is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
+- [InSight&#39;s Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
+- [What don’t we know about the causes of gun violence? Almost everything](https://www.hsph.harvard.edu/magazine/magazine_article/off-the-cuff-what-dont-we-know-about-the-causes-of-gun-violence-almost-everything/)
+- [Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 - [8-bit number to binary string &lpar;2013&rpar;](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
-- [Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows](https://minikube.sigs.k8s.io/docs/)
-- [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
-- [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
