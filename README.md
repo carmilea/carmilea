@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTPS Everywhere will sunset in January 2023](https://www.eff.org/https-everywhere/set-https-default-your-browser)
-- [GiveCampus &lpar;profitable YC S15&rpar; hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
-- [Estoppel](https://ente.io/blog/r/estoppel/)
-- [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
+- [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
+- [CalyxInstitute is funding F-Droid](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
+- [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
+- [Ask HN: How do you organize your routine?](https://news.ycombinator.com/item?id=31503770)
+- [Supersonic CO2 flow during champagne cork popping](https://aip.scitation.org/doi/10.1063/5.0089774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
