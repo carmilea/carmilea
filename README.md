@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTPS Everywhere will sunset in January 2023](https://www.eff.org/https-everywhere/set-https-default-your-browser)
+- [GiveCampus &lpar;profitable YC S15&rpar; hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
+- [Estoppel](https://ente.io/blog/r/estoppel/)
 - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
-- [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
-- [Credit Scores Can Run–and Ruin–Our Lives](https://thewalrus.ca/credit-score-canada/)
-- [History of 127/8 as localhost/loopback addresses?](https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html)
-- [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
