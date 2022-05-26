@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
+- [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
+- [Dutch gov&#39;t to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
+- [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
 - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
-- [A City in a Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
-- [Tech Layoff Tracker](https://www.trueup.io/layoffs)
-- [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
-- [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
