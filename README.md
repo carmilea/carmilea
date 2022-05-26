@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
+- [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
 - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31512985)
-- [Windows Update vs. My Router](https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
