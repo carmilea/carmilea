@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
+- [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
+- [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
 - [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
 - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
-- [Dutch gov&#39;t to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
-- [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
-- [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
