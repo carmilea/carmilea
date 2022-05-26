@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
+- [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
+- [Major discoveries made by mathematicians past age 50 &lpar;2010&rpar;](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
 - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
-- [IPv4 flag day &lpar;in 2030-02-01&rpar;](https://ipv4flagday.net/)
 - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
-- [Amazon investors nuke ethics overhaul and say yes to $212m CEO pay](https://www.theregister.com/2022/05/26/amazon_investors_kill_15_proposals/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote Engineers](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
