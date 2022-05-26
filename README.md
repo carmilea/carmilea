@@ -55,7 +55,7 @@
 - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31512985)
-- [Building an interface &lpar;even if there&#39;s only one implementation&rpar; is always right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
+- [Windows Update vs. My Router](https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
