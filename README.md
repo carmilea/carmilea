@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
+- [IPv4 flag day &lpar;in 2030-02-01&rpar;](https://ipv4flagday.net/)
+- [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
+- [Amazon investors nuke ethics overhaul and say yes to $212m CEO pay](https://www.theregister.com/2022/05/26/amazon_investors_kill_15_proposals/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote Engineers](https://www.easypost.com/careers)
-- [Webinar Recap: The Future of Data Management: A Thought Leadership Chat](https://www.singlestore.com/blog/webinar-recap-the-future-of-data-management-a-thought-leadership-chat)
-- [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
-- [PSA: HelloFresh doesn&#39;t delete data when asked, only changes the email address](https://news.ycombinator.com/item?id=31520145)
-- [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
