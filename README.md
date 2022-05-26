@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
+- [“It&#39;s done in hardware so it&#39;s cheap” &lpar;2012&rpar;](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 - [Release &lpar;YC W20&rpar; Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 - [FriendDA](https://friendda.org/)
-- [A Response to Paul Krugman from a Keynesian Bitcoiner](https://saito.tech/an-response-to-paul-krugman-from-a-keynesian-bitcoiner/)
-- [Proton Is Trying to Become Google–Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
-- [Virtual Graph Paper](https://virtual-graph-paper.com/)
+- [Proton Is Trying to Become Google Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
