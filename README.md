@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
-- [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
-- [Bernstein v. the U.S. Department of State &lpar;2014&rpar;](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
-- [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
-- [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
+- [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
+- [A City in a Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
+- [Tech Layoff Tracker](https://www.trueup.io/layoffs)
+- [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
+- [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
