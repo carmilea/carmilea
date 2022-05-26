@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
+- [Virtual Graph Paper](https://virtual-graph-paper.com/)
 - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
 - [Major discoveries made by mathematicians past age 50 &lpar;2010&rpar;](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
 - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
