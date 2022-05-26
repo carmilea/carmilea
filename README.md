@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
+- [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31512985)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31512985)
 - [Building an interface &lpar;even if there&#39;s only one implementation&rpar; is always right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
-- [Lucid recalls all of its 2022 Air EVs](https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html)
-- [Windows Update vs. My Router](https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
