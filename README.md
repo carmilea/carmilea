@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
+- [Smart landing page on writing copy for landing pages](https://www.copyipsum.com/)
 - [Bolt Financial&#39;s loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
 - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
-- [Ask HN: Why XMPP failed and SMTP didn&#39;t?](https://news.ycombinator.com/item?id=31519122)
-- [Is DuckDuckGo, DuckDuckDone?](https://kevq.uk/is-duckduckgo-duckduckdone/)
-- [Apple Removes Flag Icons in Monterey 12.4](https://news.ycombinator.com/item?id=31518749)
+- [Ask HN: Recommend employers with positive social impact](https://news.ycombinator.com/item?id=31518945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
