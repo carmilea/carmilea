@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
-- [Original Pong did not have any code or even a microprocessor](https://www.falstad.com/pong/)
-- [We use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
-- [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
-- [Jack Dorsey leaves Twitter&#39;s board of directors](https://www.axios.com/2022/05/25/jack-dorsey-twitter-board)
+- [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31512985)
+- [Building an interface &lpar;even if there&#39;s only one implementation&rpar; is always right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
+- [Lucid recalls all of its 2022 Air EVs](https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html)
+- [Windows Update vs. My Router](https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
