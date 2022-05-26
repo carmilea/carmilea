@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release &lpar;YC W20&rpar; Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
+- [FriendDA](https://friendda.org/)
+- [A Response to Paul Krugman from a Keynesian Bitcoiner](https://saito.tech/an-response-to-paul-krugman-from-a-keynesian-bitcoiner/)
+- [Proton Is Trying to Become Google–Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
 - [Virtual Graph Paper](https://virtual-graph-paper.com/)
-- [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
-- [Major discoveries made by mathematicians past age 50 &lpar;2010&rpar;](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
-- [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
-- [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
