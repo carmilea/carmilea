@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
-- [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
-- [Mental models that will make you more successful in life](https://fronterablog.com/mental-model-examples-and-their-explanations/)
-- [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
-- [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
+- [Bolt Financial&#39;s loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
+- [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
+- [Ask HN: Why XMPP failed and SMTP didn&#39;t?](https://news.ycombinator.com/item?id=31519122)
+- [Is DuckDuckGo, DuckDuckDone?](https://kevq.uk/is-duckduckgo-duckduckdone/)
+- [Apple Removes Flag Icons in Monterey 12.4](https://news.ycombinator.com/item?id=31518749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
