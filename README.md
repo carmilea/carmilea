@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote Engineers](https://www.easypost.com/careers)
+- [Webinar Recap: The Future of Data Management: A Thought Leadership Chat](https://www.singlestore.com/blog/webinar-recap-the-future-of-data-management-a-thought-leadership-chat)
+- [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
+- [PSA: HelloFresh doesn&#39;t delete data when asked, only changes the email address](https://news.ycombinator.com/item?id=31520145)
 - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
-- [Smart landing page on writing copy for landing pages](https://www.copyipsum.com/)
-- [Bolt Financial&#39;s loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
-- [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
-- [Ask HN: Recommend employers with positive social impact](https://news.ycombinator.com/item?id=31518945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
