@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghost recon breakpoint game save disappeared](https://community.stadia.com/t5/Stadia-General/Ghost-recon-breakpoint-game-save-disappeared/m-p/79391#M32421)
+- [Internet drama in Canada](https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html)
 - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
 - [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
 - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
-- [What are the odds that some idiot will name his mutex ether-rot-mutex &lpar;2017&rpar;](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
-- [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
