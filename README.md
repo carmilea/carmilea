@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Joseph Stiglitz: &#39;We should shut down the cryptocurrencies&#39;](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
+- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+- [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
 - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
-- [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
-- [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)
-- [Connection reuse may route traffic to malicious servers](https://bugzilla.mozilla.org/show_bug.cgi?id=1763632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
