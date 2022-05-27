@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A City Fights Back Against Heavyweight Cars](https://www.bloomberg.com/news/articles/2022-05-26/a-new-way-to-curb-the-rise-of-oversized-pickups-and-suvs)
-- [Red is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
-- [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
-- [Show HN: Contribution Graph as a Git Command](https://github.com/aaossa/git-activity)
-- [S.F. population fell 6.3%, most in nation, to lowest level since 2010](https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php)
+- [A Conference About Software You Can Love](https://kristoff.it/blog/software-you-can-love/)
+- [Senators Draft Bill to Ban Use of Digital Yuan in US-Based Mobile Apps](https://blockworks.co/senators-draft-bill-to-ban-use-of-digital-yuan-in-us-based-mobile-apps/)
+- [Codeball – AI-powered code review](https://codeball.ai/)
+- [Ask HN: Best Book on Modern Cryptography?](https://news.ycombinator.com/item?id=31533041)
+- [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
