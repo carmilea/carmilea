@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ribbon &lpar;YC S17&rpar; is hiring Data Engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
+- [Web Scraping Open Knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
+- [Can Growth Continue?](https://rootsofprogress.org/can-growth-continue-ignite-talk)
 - [Grade Inflation: Over 82% of Harvard &#39;22 Graduating With Over a 3.7 &lpar;A-&rpar; GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
-- [Filling a cultural void, one braided loaf at a time](https://longreads.com/2022/05/19/our-braided-bread-challah-essay/)
-- [If Europe and Japan can have small, cheap EVs, why can’t America?](https://arstechnica.com/cars/2022/05/want-a-small-affordable-ev-tough-luck-if-you-live-in-the-usa/)
-- [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
-- [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
+- [Long Covid risk falls only slightly after vaccination, study shows](https://www.nature.com/articles/d41586-022-01453-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
