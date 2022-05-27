@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
-- [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
+- [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
+- [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
 - [Today’s JavaScript, from an outsider’s perspective &lpar;2020&rpar;](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
 - [The home of Walmart wants to beat sprawl](https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl)
