@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
 - [Magic Doesn‘t Happen, Especially Not in Business](https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business)
 - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
-- [An autonomous car in SF blocked a fire truck responding to an emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles/)
 - [Codeball – AI-powered code review](https://codeball.ai/)
 <!-- BLOG-POST-LIST:END -->
 
