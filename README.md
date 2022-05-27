@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
+- [Magic Doesn‘t Happen, Especially Not in Business](https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business)
 - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
-- [Without Systemd](https://without-systemd.org/wiki/index_php/Main_Page/)
 - [An autonomous car in SF blocked a fire truck responding to an emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles/)
 - [Codeball – AI-powered code review](https://codeball.ai/)
-- [How to read mathematics &lpar;2015&rpar;](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
