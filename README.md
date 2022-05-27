@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Modem with HTML5 and the Web Audio API](https://martinmelhus.com/web-audio-modem/)
-- [Ask HN: How can you buy high quality healthcare?](https://news.ycombinator.com/item?id=31530176)
-- [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
-- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
+- [Grade Inflation: Over 82% of Harvard &#39;22 Graduating With Over a 3.7 &lpar;A-&rpar; GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
+- [Filling a cultural void, one braided loaf at a time](https://longreads.com/2022/05/19/our-braided-bread-challah-essay/)
+- [If Europe and Japan can have small, cheap EVs, why can’t America?](https://arstechnica.com/cars/2022/05/want-a-small-affordable-ev-tough-luck-if-you-live-in-the-usa/)
+- [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
+- [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
