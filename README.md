@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
 - [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
+- [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 - [What are the odds that some idiot will name his mutex ether-rot-mutex &lpar;2017&rpar;](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
 - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
-- [I was blackmailed – any YouTuber could be next &lpar;2020&rpar;](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
