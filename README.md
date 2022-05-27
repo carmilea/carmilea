@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Conference About Software You Can Love](https://kristoff.it/blog/software-you-can-love/)
-- [Senators Draft Bill to Ban Use of Digital Yuan in US-Based Mobile Apps](https://blockworks.co/senators-draft-bill-to-ban-use-of-digital-yuan-in-us-based-mobile-apps/)
+- [A conference about software you can love](https://kristoff.it/blog/software-you-can-love/)
+- [An autonomous car in SF blocked a fire truck responding to an emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles/)
 - [Codeball – AI-powered code review](https://codeball.ai/)
-- [Ask HN: Best Book on Modern Cryptography?](https://news.ycombinator.com/item?id=31533041)
-- [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
+- [How to read mathematics &lpar;2015&rpar;](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+- [Ask HN: Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
 <!-- BLOG-POST-LIST:END -->
 
 ---
