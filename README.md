@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Joseph Stiglitz: &#39;We should shut down the cryptocurrencies&#39;](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
+- [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
+- [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- [What Trait Affects Income the Most?](https://economicsfromthetopdown.com/2020/06/02/what-trait-affects-income-the-most/)
 - [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
 - [Windows OS, Services &amp; Apps: Network Connection Target Hosts](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 <!-- BLOG-POST-LIST:END -->
