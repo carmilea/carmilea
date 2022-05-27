@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ribbon &lpar;YC S17&rpar; is hiring Data Engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
-- [Web Scraping Open Knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
-- [Can Growth Continue?](https://rootsofprogress.org/can-growth-continue-ignite-talk)
-- [Grade Inflation: Over 82% of Harvard &#39;22 Graduating With Over a 3.7 &lpar;A-&rpar; GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
-- [Long Covid risk falls only slightly after vaccination, study shows](https://www.nature.com/articles/d41586-022-01453-0)
+- [A City Fights Back Against Heavyweight Cars](https://www.bloomberg.com/news/articles/2022-05-26/a-new-way-to-curb-the-rise-of-oversized-pickups-and-suvs)
+- [Red is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
+- [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
+- [Show HN: Contribution Graph as a Git Command](https://github.com/aaossa/git-activity)
+- [S.F. population fell 6.3%, most in nation, to lowest level since 2010](https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
