@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
+- [What are the odds that some idiot will name his mutex ether-rot-mutex &lpar;2017&rpar;](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
+- [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
 - [I was blackmailed – any YouTuber could be next &lpar;2020&rpar;](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
-- [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
-- [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
-- [It&#39;s done in hardware so it&#39;s cheap &lpar;2012&rpar;](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
-- [Release &lpar;YC W20&rpar; Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
+- [AlloyDB for PostgreSQL under the hood: Columnar engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
