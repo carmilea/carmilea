@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
 - [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)
-- [AWS SNS vs. SQS – Main Differences](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
-- [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
+- [Connection reuse may route traffic to malicious servers](https://bugzilla.mozilla.org/show_bug.cgi?id=1763632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
