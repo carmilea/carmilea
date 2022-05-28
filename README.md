@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
-- [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
-- [Magic Doesn‘t Happen, Especially Not in Business](https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business)
-- [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
-- [Codeball – AI-powered code review](https://codeball.ai/)
+- [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)
+- [Cost of ultra-rapid EV charging increases by almost 50%](https://www.autocar.co.uk/car-news/consumer/cost-ultra-rapid-ev-charging-increases-almost-50)
+- [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
+- [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
+- [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
