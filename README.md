@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
 - [GitHub Star History Graph](https://star-history.com)
 - [QuestDB &lpar;YC S20&rpar; is hiring Python and cloud engineers](https://questdb.io/careers)
+- [Ampere Announces 5nm Arm Server CPU AmpereOne](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)
 - [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
-- [Translating math into code with examples in Java, Racket, Haskell, Python &lpar;2011&rpar;](https://matt.might.net/articles/discrete-math-and-code/)
-- [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
