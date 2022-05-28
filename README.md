@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A belief in meritocracy is not only false: it’s bad for you &lpar;2020&rpar;](https://press.princeton.edu/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you)
+- [System Font Stack](https://systemfontstack.com)
+- [Living in a society without a counterculture](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
+- [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 - [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
-- [GitHub Star History Graph](https://star-history.com)
-- [QuestDB &lpar;YC S20&rpar; is hiring Python and cloud engineers](https://questdb.io/careers)
-- [Ampere Announces 5nm Arm Server CPU AmpereOne](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)
-- [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
