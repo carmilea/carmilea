@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [Open and Free Plant Identification API](https://plantnet.org/en/)
 - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
