@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why the web lately is all about JavaScript?](https://news.ycombinator.com/item?id=31539075)
 - [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
 - [Low-code online store builder](https://selldone.com)
 - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
-- [Blocklist of all Facebook domains &lpar;2016&rpar;](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all)
 - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
 <!-- BLOG-POST-LIST:END -->
 
