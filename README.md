@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
+- [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 - [System Font Stack](https://systemfontstack.com)
 - [A society without a counterculture?](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
 - [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
-- [Uber and Lyft’s new road: Fewer drivers, thrifty riders and jittery investors](https://www.wsj.com/articles/uber-and-lyfts-new-road-fewer-drivers-thrifty-riders-and-jittery-investors-11653651912?mod=hp_lead_pos6)
-- [Anytype: A local, privacy-first Notion alternative](https://anytype.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
