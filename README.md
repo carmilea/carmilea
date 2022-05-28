@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blocklist of all Facebook domains &lpar;2016&rpar;](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all)
+- [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
+- [Building the most inaccessible site with a perfect Lighthouse score &lpar;2019&rpar;](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
 - [Ariel Ekblaw on building beautiful architecture in space](https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511)
-- [Open and Free Plant Identification API](https://plantnet.org/en/)
-- [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
