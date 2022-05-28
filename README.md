@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
+- [Ariel Ekblaw on building beautiful architecture in space](https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511)
 - [Open and Free Plant Identification API](https://plantnet.org/en/)
 - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
-- [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
-- [Neon – Serverless Postgres](https://neon.tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
