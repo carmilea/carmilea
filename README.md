@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
+- [Open and Free Plant Identification API](https://plantnet.org/en/)
 - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 - [What a Recession Would Mean for Developers](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
 - [Neon – Serverless Postgres](https://neon.tech)
-- [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
-- [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
