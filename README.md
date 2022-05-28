@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink may now have global revenue of $44M monthly](https://news.ycombinator.com/item?id=31544298)
+- [Fearful Symmetry: Inkblot Books &lpar;1859–1915&rpar;](https://publicdomainreview.org/collection/inkblot-books/)
 - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
 - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 - [System Font Stack](https://systemfontstack.com)
-- [A society without a counterculture?](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
-- [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
