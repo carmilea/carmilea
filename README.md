@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why the web lately is all about JavaScript?](https://news.ycombinator.com/item?id=31539075)
-- [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
+- [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 - [Low-code online store builder](https://selldone.com)
 - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
 - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
