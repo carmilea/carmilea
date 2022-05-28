@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A belief in meritocracy is not only false: it’s bad for you &lpar;2020&rpar;](https://press.princeton.edu/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you)
 - [System Font Stack](https://systemfontstack.com)
-- [Living in a society without a counterculture](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
+- [A society without a counterculture?](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
 - [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
-- [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
+- [Uber and Lyft’s new road: Fewer drivers, thrifty riders and jittery investors](https://www.wsj.com/articles/uber-and-lyfts-new-road-fewer-drivers-thrifty-riders-and-jittery-investors-11653651912?mod=hp_lead_pos6)
+- [Anytype: A local, privacy-first Notion alternative](https://anytype.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
