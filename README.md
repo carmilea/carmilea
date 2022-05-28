@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QuestDB &lpar;YC S20&rpar; Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
+- [GitHub Star History Graph](https://star-history.com)
+- [QuestDB &lpar;YC S20&rpar; is hiring Python and cloud engineers](https://questdb.io/careers)
+- [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
 - [Translating math into code with examples in Java, Racket, Haskell, Python &lpar;2011&rpar;](https://matt.might.net/articles/discrete-math-and-code/)
 - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
-- [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
-- [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
