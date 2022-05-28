@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
-- [Exposure of fake Chinese tube amplifier](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
-- [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
-- [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go](https://github.com/richardartoul/tsdb-layer)
-- [Success determined by ability to speak, ability to write, and quality of ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
+- [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
+- [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
+- [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
+- [RIP Medical Debt](https://ripmedicaldebt.org/)
+- [Exposure of fake Chinese tube amplifier &lpar;2018&rpar;](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
