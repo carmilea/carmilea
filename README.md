@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB &lpar;YC S20&rpar; Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
+- [Translating math into code with examples in Java, Racket, Haskell, Python &lpar;2011&rpar;](https://matt.might.net/articles/discrete-math-and-code/)
+- [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 - [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
 - [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
-- [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
-- [RIP Medical Debt](https://ripmedicaldebt.org/)
-- [Exposure of fake Chinese tube amplifier &lpar;2018&rpar;](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
