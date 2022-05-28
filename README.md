@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neon – Serverless Postgres](https://neon.tech)
 - [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)
-- [Cost of ultra-rapid EV charging increases by almost 50%](https://www.autocar.co.uk/car-news/consumer/cost-ultra-rapid-ev-charging-increases-almost-50)
 - [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
 - [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
 - [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
