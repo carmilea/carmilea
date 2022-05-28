@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD 7.1](https://www.openbsd.org/71.html)
+- [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 - [Low-code online store builder](https://selldone.com)
-- [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
-- [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
