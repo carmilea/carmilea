@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
+- [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
 - [OpenBSD 7.1](https://www.openbsd.org/71.html)
-- [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
-- [Low-code online store builder](https://selldone.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
