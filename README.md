@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
+- [Why Germany Is Offering a Summer of Cheap Trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
 - [Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
 - [Workers quitting over return-to-office policies](https://www.bbc.com/worklife/article/20220523-the-workers-quitting-over-return-to-office-policies)
-- [Pixar&#39;s notes on Rigid Body Simulation &lpar;2001&rpar; [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
-- [Ask HN: Is there any Linux distro dedicated to music performance?](https://news.ycombinator.com/item?id=31549303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
