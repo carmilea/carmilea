@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sit-Up used to dominate American fitness practice. Now it’s all but over](https://www.theatlantic.com/health/archive/2022/05/sit-ups-crunches-lower-back-pain/639437/)
+- [Sequoia Capital has published a 52 slide presentation about the downturn [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
 - [Lisp, Smalltalk, and the power of symmetry &lpar;2014&rpar;](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
-- [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
-- [Show HN: Spanish Basic](https://www.vainilla.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
