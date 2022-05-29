@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
+- [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
+- [Charles Babbage’s Difference Engine Turns 200](https://spectrum.ieee.org/charles-babbage-difference-engine)
 - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
 - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
-- [Qantas ferried an engine on the wing of a 747 &lpar;2016&rpar;](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
-- [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
-- [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
