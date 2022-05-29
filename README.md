@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
-- [Why Germany Is Offering a Summer of Cheap Trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
-- [Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
+- [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
+- [Germany is offering a summer of cheap trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
 - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
-- [Workers quitting over return-to-office policies](https://www.bbc.com/worklife/article/20220523-the-workers-quitting-over-return-to-office-policies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
