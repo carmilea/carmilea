@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
 - [Lisp, Smalltalk, and the power of symmetry &lpar;2014&rpar;](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 - [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
-- [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
-- [The age of the fast self-checkout lane is over](https://devnull.land/bye-fast-checkout-lanes)
+- [Show HN: Spanish Basic](https://www.vainilla.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
