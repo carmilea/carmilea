@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
+- [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
+- [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
 - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
-- [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security)
-- [Electronic LCD Tiles for Settlers of Catan](https://coliniuliano.ca/projects/catan-tiles/)
-- [New Study Finds Significant Amount of HFO Degradation Product in Drinking Water](https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
