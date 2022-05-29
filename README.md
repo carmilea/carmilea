@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Falsehoods Programmers Believe About Search &lpar;2019&rpar;](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
-- [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
-- [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
-- [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
-- [Germany is offering a summer of cheap trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
+- [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
+- [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
+- [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
+- [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
+- [A Letter to D1sc0rd for Not Supporting the Linux Desktop](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
