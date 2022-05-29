@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britain should scrap its Online Safety Bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 - [Qantas Ferried an Engine on the Wing of a 747 &lpar;2016&rpar;](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 - [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
-- [Earthworms after rain &lpar;2019&rpar;](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
