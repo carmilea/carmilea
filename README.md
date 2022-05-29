@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink may now have global revenue of $44M monthly](https://news.ycombinator.com/item?id=31544298)
+- [The Reason You See Earthworms After Rain](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
+- [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
+- [In Defense of Coding Interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
+- [My Students Cheated... a Lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 - [Fearful Symmetry: Inkblot Books &lpar;1859–1915&rpar;](https://publicdomainreview.org/collection/inkblot-books/)
-- [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
-- [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
-- [System Font Stack](https://systemfontstack.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
