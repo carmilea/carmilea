@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Britain should scrap its Online Safety Bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
-- [Qantas Ferried an Engine on the Wing of a 747 &lpar;2016&rpar;](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
+- [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
+- [Qantas ferried an engine on the wing of a 747 &lpar;2016&rpar;](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
+- [The use of `class` for things that should be simple free functions &lpar;2020&rpar;](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
-- [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
