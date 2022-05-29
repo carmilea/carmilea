@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain vs. Quantum-Computing – Is Quantum Computing a Threat to Crypto?](https://www.blockchain-council.org/blockchain/blockchain-vs-quantum-computing-is-quantum-computing-the-biggest-threat-to-crypto/)
+- [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
 - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 - [Qantas ferried an engine on the wing of a 747 &lpar;2016&rpar;](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
-- [The use of `class` for things that should be simple free functions &lpar;2020&rpar;](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
+- [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
