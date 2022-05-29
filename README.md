@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Falsehoods Programmers Believe About Search &lpar;2019&rpar;](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
 - [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
 - [Germany is offering a summer of cheap trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
-- [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
