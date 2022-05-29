@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reason You See Earthworms After Rain](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
-- [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
-- [In Defense of Coding Interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
-- [My Students Cheated... a Lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
-- [Fearful Symmetry: Inkblot Books &lpar;1859–1915&rpar;](https://publicdomainreview.org/collection/inkblot-books/)
+- [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
+- [Earthworms after rain &lpar;2019&rpar;](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
+- [Debugging a mysterious Python crash](https://blog.dend.ro/a-mysterous-python-crash/)
+- [I&#39;m retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
+- [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
