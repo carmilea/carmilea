@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
+- [Ask HN: Is there any Linux distro dedicated to music performance?](https://news.ycombinator.com/item?id=31549303)
 - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
-- [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
-- [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
+- [Metrication Timeline](https://ukma.org.uk/press/metrication-timeline/)
+- [Building a Budget Homelab NAS Server](https://mtlynch.io/budget-nas/)
 - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
 <!-- BLOG-POST-LIST:END -->
 
