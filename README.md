@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Lisp, Smalltalk, and the power of symmetry &lpar;2014&rpar;](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 - [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
-- [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
-- [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
-- [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
-- [A Letter to D1sc0rd for Not Supporting the Linux Desktop](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
+- [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
+- [The age of the fast self-checkout lane is over](https://devnull.land/bye-fast-checkout-lanes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
