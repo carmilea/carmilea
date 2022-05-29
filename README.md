@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
+- [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security)
 - [Electronic LCD Tiles for Settlers of Catan](https://coliniuliano.ca/projects/catan-tiles/)
-- [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
-- [In Poland, there is a LARP group that roleplays as contemporary Americans](https://twitter.com/PenBercifield/status/1530466376204398592)
+- [New Study Finds Significant Amount of HFO Degradation Product in Drinking Water](https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
