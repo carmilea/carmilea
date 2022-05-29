@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
+- [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 - [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
 - [Earthworms after rain &lpar;2019&rpar;](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
 - [Debugging a mysterious Python crash](https://blog.dend.ro/a-mysterous-python-crash/)
-- [I&#39;m retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
-- [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
