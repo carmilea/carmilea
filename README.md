@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Loot Boxes in Video Games](https://commonslibrary.parliament.uk/research-briefings/cbp-8498/)
+- [House Bill Funds CHIPS Act, Stresses R&amp;D](https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/)
+- [Profiles of people living in homeless encampments, rarely what you’d expect](https://www.latimes.com/opinion/story/2022-05-29/venice-library-homeless-encampment-interviews)
 - [Schools Should Be Using Open Source Software](https://tdarb.org/posts/schools.txt)
-- [“When systems require novel accounting methods the reason is usually fraud”](https://twitter.com/br4s1d4s/status/1531135288428199936)
-- [What caused the hallucinations of the Oracle of Delphi?](https://dynomight.net/delphi/)
-- [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
-- [Aerosol particle emission increases exponentially above moderate exercise](https://www.pnas.org/doi/full/10.1073/pnas.2202521119)
+- [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
