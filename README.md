@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
+- [Working on the Weekends – An Academic Necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
 - [Why Is Front-End Development So Unstable? &lpar;2018&rpar;](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
-- [Blogchain](https://blogchain.app/)
 - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
-- [Bleh](https://drewdevault.com/2022/05/30/bleh.html)
-- [When Tether Blows Up](https://paranoidenough.com/2022/05/30/When-Tether-Blows-Up.html)
+- [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
