@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
+- [Disputing the Dogmas of Surveillance Advertising &lpar;2021&rpar; [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
+- [Microgrants &lpar;$100–$500&rpar; for microprojects to make computing marginally better](https://makeabetter.computer/)
+- [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 - [Scaleway price &#39;harmonization&#39; &lpar;mostly increases&rpar;](https://news.ycombinator.com/item?id=31557105)
-- [DuckDuckGo faces controversy over tracking agreement with Microsoft](https://metro.co.uk/2022/05/27/private-browser-duckduckgo-found-to-actually-be-tracking-users-16722038/)
-- [Solving Problems with Decomposition](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/)
-- [Electromagnetic Field Camp](https://www.emfcamp.org/)
-- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
