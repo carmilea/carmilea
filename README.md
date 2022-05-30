@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mosquitoes kill more than 700k people every year &lpar;2017&rpar;](https://www.isglobal.org/-/mosquito-el-animal-mas-letal-del-mundo)
+- [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
+- [Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
+- [Mosquitoes kill more than 700k people every year &lpar;2017&rpar;](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
+- [Code, Weights for VQ Diffusion Model for Text-to-Image Sythesis from Microsoft](https://github.com/microsoft/VQ-Diffusion)
 - [Jitx &lpar;YC S18&rpar; is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
-- [DeLorean returns with 300-mile Taycan rival for 2024](https://www.autocar.co.uk/car-news/new-cars/official-delorean-returns-300-mile-taycan-rival-2024)
-- [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
-- [Working on the Weekends – An Academic Necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
