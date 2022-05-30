@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can you imagine a world where anybody could do any job?](https://news.ycombinator.com/item?id=31557959)
 - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
+- [Grothendieck&#39;s Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
 - [Disputing the Dogmas of Surveillance Advertising &lpar;2021&rpar; [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
-- [Microgrants &lpar;$100–$500&rpar; for microprojects to make computing marginally better](https://makeabetter.computer/)
-- [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
-- [Scaleway price &#39;harmonization&#39; &lpar;mostly increases&rpar;](https://news.ycombinator.com/item?id=31557105)
+- [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
