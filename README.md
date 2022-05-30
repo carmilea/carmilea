@@ -55,7 +55,7 @@
 - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 - [Big money, nuclear subsidies, and systemic corruption &lpar;2021&rpar;](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
 - [Show HN: Easily create How-to videos with AI](https://www.wowto.ai/)
-- [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
+- [Smart-home-control with touch-screens from the late 80ies](https://www.unitysystemshomemanager.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
