@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ‘Capital of Silicon Valley’ Is Ignoring Its Privacy Experts](https://www.vice.com/en/article/g5qzj3/the-capital-of-silicon-valley-is-ignoring-its-privacy-experts)
+- [Scaleway price &#39;harmonization&#39; &lpar;mostly increases&rpar;](https://news.ycombinator.com/item?id=31557105)
+- [DuckDuckGo faces controversy over tracking agreement with Microsoft](https://metro.co.uk/2022/05/27/private-browser-duckduckgo-found-to-actually-be-tracking-users-16722038/)
+- [Solving Problems with Decomposition](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/)
+- [Electromagnetic Field Camp](https://www.emfcamp.org/)
 - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [ORNL’s Frontier First &lpar;listed system&rpar; to Break the Exaflop Ceiling](https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/)
-- [Raycast &lpar;YC W20&rpar; Is Hiring First Developer Advocate &lpar;Remote, UTC ± 3h&rpar;](https://raycast.com/jobs/developer-advocate/)
-- [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
