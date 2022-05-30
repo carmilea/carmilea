@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jitx &lpar;YC S18&rpar; is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+- [DeLorean returns with 300-mile Taycan rival for 2024](https://www.autocar.co.uk/car-news/new-cars/official-delorean-returns-300-mile-taycan-rival-2024)
 - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 - [Working on the Weekends – An Academic Necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
-- [Why Is Front-End Development So Unstable? &lpar;2018&rpar;](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
-- [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
-- [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
+- [Why is front-end development so unstable? &lpar;2018&rpar;](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
