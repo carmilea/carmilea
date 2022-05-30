@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
-- [AssemblyAI &lpar;YC S17&rpar; is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
-- [Alexa, why have you charged me £2 to say the Hail Mary?](https://www.theguardian.com/money/2022/may/28/alexa-daily-prayers-voice-command-amazon-subscription)
-- [Hacking Detergent DRM for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
-- [Climate Spiral](https://svs.gsfc.nasa.gov/4975)
+- [Enter a command to see help text for each arg](https://explainshell.com/)
+- [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)
+- [The Software Industry Is Still the Problem](https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext)
+- [Choose Boring Technology &lpar;2015&rpar;](https://boringtechnology.club/)
+- [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
