@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sit-Up used to dominate American fitness practice. Now it’s all but over](https://www.theatlantic.com/health/archive/2022/05/sit-ups-crunches-lower-back-pain/639437/)
-- [Sequoia Capital has published a 52 slide presentation about the downturn [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
+- [DNA Testing for Embryos Promises to Predict Genetic Diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)
+- [Hottest May in History for Texas](https://cbsaustin.com/weather/weather-blog/our-hottest-may-in-history-gets-much-worse-next-week)
+- [The Rise and Fall of Wall Street’s Most Controversial Investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
+- [Adapting to Endure – Sequoia Capital [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
-- [Lisp, Smalltalk, and the power of symmetry &lpar;2014&rpar;](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
