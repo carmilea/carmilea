@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Enter a command to see help text for each arg](https://explainshell.com/)
-- [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)
-- [The Software Industry Is Still the Problem](https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext)
-- [Choose Boring Technology &lpar;2015&rpar;](https://boringtechnology.club/)
-- [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
+- [3D Print Glass with a Laser Cutter](https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/)
+- [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
+- [Getting a vanity phone number with four consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
+- [The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf)
+- [The Story of Heroku](https://leerob.io/blog/heroku)
 <!-- BLOG-POST-LIST:END -->
 
 ---
