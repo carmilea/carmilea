@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
+- [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
+- [Really Prolific?](https://www.medo64.com/2022/05/really-prolific/)
 - [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
 - [The rise and fall of Cathie Wood, controversial Wall Street investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
 - [Adapting to Endure – Sequoia Capital [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
