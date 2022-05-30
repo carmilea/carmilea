@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ‘Capital of Silicon Valley’ Is Ignoring Its Privacy Experts](https://www.vice.com/en/article/g5qzj3/the-capital-of-silicon-valley-is-ignoring-its-privacy-experts)
+- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [ORNL’s Frontier First &lpar;listed system&rpar; to Break the Exaflop Ceiling](https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring First Developer Advocate &lpar;Remote, UTC ± 3h&rpar;](https://raycast.com/jobs/developer-advocate/)
 - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
-- [Big money, nuclear subsidies, and systemic corruption &lpar;2021&rpar;](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
-- [Show HN: Easily create How-to videos with AI](https://www.wowto.ai/)
-- [Smart-home-control with touch-screens from the late 80ies](https://www.unitysystemshomemanager.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
