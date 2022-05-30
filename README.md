@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Front-End Development So Unstable? &lpar;2018&rpar;](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
+- [Blogchain](https://blogchain.app/)
 - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 - [Bleh](https://drewdevault.com/2022/05/30/bleh.html)
-- [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
-- [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
-- [Intelligent Reflecting Surfaces prevented 95% of wifi attacks](https://www.mpg.de/18700996/internet-of-thinges-intelligent-reflecting-surface)
+- [When Tether Blows Up](https://paranoidenough.com/2022/05/30/When-Tether-Blows-Up.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
