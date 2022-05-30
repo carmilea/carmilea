@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNA Testing for Embryos Promises to Predict Genetic Diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)
-- [Hottest May in History for Texas](https://cbsaustin.com/weather/weather-blog/our-hottest-may-in-history-gets-much-worse-next-week)
-- [The Rise and Fall of Wall Street’s Most Controversial Investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
+- [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
+- [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
+- [The rise and fall of Cathie Wood, controversial Wall Street investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
 - [Adapting to Endure – Sequoia Capital [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
