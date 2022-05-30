@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can you imagine a world where anybody could do any job?](https://news.ycombinator.com/item?id=31557959)
-- [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
-- [Grothendieck&#39;s Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
-- [Disputing the Dogmas of Surveillance Advertising &lpar;2021&rpar; [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
-- [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
+- [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
+- [AssemblyAI &lpar;YC S17&rpar; is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
+- [Alexa, why have you charged me £2 to say the Hail Mary?](https://www.theguardian.com/money/2022/may/28/alexa-daily-prayers-voice-command-amazon-subscription)
+- [Hacking Detergent DRM for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
+- [Climate Spiral](https://svs.gsfc.nasa.gov/4975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
