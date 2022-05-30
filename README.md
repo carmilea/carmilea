@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Print Glass with a Laser Cutter](https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/)
-- [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
-- [Getting a vanity phone number with four consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
-- [The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf)
-- [The Story of Heroku](https://leerob.io/blog/heroku)
+- [Schools Should Be Using Open Source Software](https://tdarb.org/posts/schools.txt)
+- [“When systems require novel accounting methods the reason is usually fraud”](https://twitter.com/br4s1d4s/status/1531135288428199936)
+- [What caused the hallucinations of the Oracle of Delphi?](https://dynomight.net/delphi/)
+- [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
+- [Aerosol particle emission increases exponentially above moderate exercise](https://www.pnas.org/doi/full/10.1073/pnas.2202521119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
