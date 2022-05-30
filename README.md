@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring First Developer Advocate &lpar;Remote, UTC ± 3h&rpar;](https://raycast.com/jobs/developer-advocate/)
+- [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
+- [Big money, nuclear subsidies, and systemic corruption &lpar;2021&rpar;](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
 - [Show HN: Easily create How-to videos with AI](https://www.wowto.ai/)
 - [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
-- [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
-- [Goodbye PNaCl, Hello WebAssembly &lpar;2017&rpar;](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
-- [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
