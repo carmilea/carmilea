@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Loot Boxes in Video Games](https://commonslibrary.parliament.uk/research-briefings/cbp-8498/)
-- [House Bill Funds CHIPS Act, Stresses R&amp;D](https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/)
-- [Profiles of people living in homeless encampments, rarely what you’d expect](https://www.latimes.com/opinion/story/2022-05-29/venice-library-homeless-encampment-interviews)
-- [Schools Should Be Using Open Source Software](https://tdarb.org/posts/schools.txt)
-- [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
+- [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
+- [Bleh](https://drewdevault.com/2022/05/30/bleh.html)
+- [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
+- [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
+- [Intelligent Reflecting Surfaces prevented 95% of wifi attacks](https://www.mpg.de/18700996/internet-of-thinges-intelligent-reflecting-surface)
 <!-- BLOG-POST-LIST:END -->
 
 ---
