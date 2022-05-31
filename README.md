@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
 - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
 - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
 - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
-- [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
