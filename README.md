@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
 - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
-- [After Xinjiang Revelations, Germany&#39;s Ties to China Are Under the Microscope](https://www.spiegel.de/ausland/xinjiang-police-files-deutschland-furchtbarer-partner-a-70e96cd6-f7ed-47aa-9b71-31fca6abfda8)
 - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
 <!-- BLOG-POST-LIST:END -->
 
