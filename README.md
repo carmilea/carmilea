@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+- [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 - [I&#39;m a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
+- [Enzyme is what makes stevia so sweet](https://cen.acs.org/biological-chemistry/natural-products/enzyme-makes-stevia-sweet/97/i24)
 - [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
-- [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
-- [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
-- [The Scaling Hypothesis &lpar;2021&rpar;](https://www.gwern.net/Scaling-hypothesis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
