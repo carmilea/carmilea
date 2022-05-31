@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
+- [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
+- [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
+- [After Xinjiang Revelations, Germany&#39;s Ties to China Are Under the Microscope](https://www.spiegel.de/ausland/xinjiang-police-files-deutschland-furchtbarer-partner-a-70e96cd6-f7ed-47aa-9b71-31fca6abfda8)
 - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
-- [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
-- [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
-- [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
-- [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 <!-- BLOG-POST-LIST:END -->
 
 ---
