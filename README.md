@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford F-150 Lightning Reaches Its First Customers](https://cleantechnica.com/2022/05/31/ford-f-150-lightning-reaches-its-first-customers/)
-- [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
-- [Ask HN: Visualizing software designs, especially of large systems &lpar;if at all&rpar;?](https://news.ycombinator.com/item?id=31569646)
-- [AMD powers the most powerful supercomputer](https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/)
-- [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
+- [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
+- [After millennia of expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
+- [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
+- [The Watch That Came in from the Cold](https://www.hodinkee.com/magazine/the-watch-that-came-in-from-the-cold)
+- [Three Men Discuss Relativity &lpar;1926&rpar;](https://archive.org/details/threemendiscussr00sull)
 <!-- BLOG-POST-LIST:END -->
 
 ---
