@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
-- [Teleforking a Process onto a Different Computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
-- [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)
-- [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
-- [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/)
+- [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
+- [SPACs Are Warning They May Go Bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
+- [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
+- [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
+- [Why Darwin Failed &lpar;2006&rpar;](http://www.synack.net/~bbraun/writing/osfail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
