@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
+- [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
+- [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
 - [Farm equipment dealers block &#39;Right to Repair&#39; provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
-- [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
-- [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
-- [SomaFM](https://somafm.com/)
-- [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
+- [No Fair Sex in Academia: Evidence of Discrimination in Hiring to Editorial Board](https://openpsych.net/paper/66/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
