@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
+- [1x Engineer](https://1x.engineer/)
+- [Killer Asteroids are hiding in plain sight; a new tool finds them](https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html)
+- [Sick of Windows but can&#39;t afford a Mac? The cynic&#39;s guide to desktop Linux](https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/)
 - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
-- [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
-- [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
