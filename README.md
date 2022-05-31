@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
+- [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
+- [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
 - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 - [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
-- [I&#39;m a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
-- [Enzyme is what makes stevia so sweet](https://cen.acs.org/biological-chemistry/natural-products/enzyme-makes-stevia-sweet/97/i24)
-- [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
