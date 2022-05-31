@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has Cloudflare blocked your domain without explaining what&#39;s going on?](https://news.ycombinator.com/item?id=31573854)
-- [You don’t need to be “enterprise-ready” or “scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
-- [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
-- [The Elves Leave Middle Earth – Sodas Are No Longer Free &lpar;2009&rpar;](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
-- [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
+- [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
+- [Teleforking a Process onto a Different Computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
+- [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)
+- [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
+- [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
