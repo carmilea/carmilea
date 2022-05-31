@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
-- [After millennia of expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
-- [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
-- [The Watch That Came in from the Cold](https://www.hodinkee.com/magazine/the-watch-that-came-in-from-the-cold)
-- [Three Men Discuss Relativity &lpar;1926&rpar;](https://archive.org/details/threemendiscussr00sull)
+- [SomaFM](https://somafm.com/)
+- [NetScape: A Sneak Preview of the shape of WWW Browsers to come &lpar;1994&rpar;](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
+- [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
+- [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
+- [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
