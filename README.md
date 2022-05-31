@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
 - [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
 - [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
 - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
 - [The Scaling Hypothesis &lpar;2021&rpar;](https://www.gwern.net/Scaling-hypothesis)
-- [Mosquitoes kill more than 700k people every year &lpar;2017&rpar;](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
