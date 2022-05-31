@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Farm equipment dealers block &#39;Right to Repair&#39; provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
+- [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
+- [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 - [SomaFM](https://somafm.com/)
-- [NetScape: A Sneak Preview of the shape of WWW Browsers to come &lpar;1994&rpar;](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
-- [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
-- [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
-- [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
+- [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
 <!-- BLOG-POST-LIST:END -->
 
 ---
