@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord Is the World’s Most Important Financial Messenger, Hotbed for Scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
+- [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
 - [1x Engineer](https://1x.engineer/)
-- [Killer Asteroids are hiding in plain sight; a new tool finds them](https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html)
-- [Sick of Windows but can&#39;t afford a Mac? The cynic&#39;s guide to desktop Linux](https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/)
+- [Ford’s electric pickup can power a house for days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
 - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
-- [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
