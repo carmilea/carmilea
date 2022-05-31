@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord Is the World’s Most Important Financial Messenger, Hotbed for Scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
+- [Ford F-150 Lightning Reaches Its First Customers](https://cleantechnica.com/2022/05/31/ford-f-150-lightning-reaches-its-first-customers/)
+- [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
+- [Ask HN: Visualizing software designs, especially of large systems &lpar;if at all&rpar;?](https://news.ycombinator.com/item?id=31569646)
+- [AMD powers the most powerful supercomputer](https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/)
 - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
-- [1x Engineer](https://1x.engineer/)
-- [Ford’s electric pickup can power a house for days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
-- [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
