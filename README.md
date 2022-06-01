@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VC Meltdown](https://www.bogleheads.org/forum/viewtopic.php?t=378673)
-- [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)
-- [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
-- [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
-- [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
+- [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
+- [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
+- [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
+- [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
+- [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
