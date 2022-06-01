@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
 - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
-- [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
+- [Science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
 - [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
-- [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
