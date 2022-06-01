@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who Wants to Be Fired? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31586253)
-- [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
-- [ClojureDocs – Community-powered documentation and examples for Clojure](https://clojuredocs.org/)
-- [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution)
-- [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
+- [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
+- [Why We Don&#39;t Show Typing Status in Cardinal](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
+- [Sheryl Sandberg stepping down as Facebook COO](https://www.facebook.com/sheryl/posts/10166258399565177)
+- [My friend and I spent 6 years making a simulation game, it&#39;s finally released](https://news.ycombinator.com/item?id=31586833)
+- [Joe Polchinski’s “Memories of a Theoretical Physicist”](https://www.math.columbia.edu/~woit/wordpress/?p=12910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
