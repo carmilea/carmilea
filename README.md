@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who Wants to Be Fired? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31586253)
+- [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
 - [ClojureDocs – Community-powered documentation and examples for Clojure](https://clojuredocs.org/)
-- [Using a catch-all domain is a mistake](https://www.notcheckmark.com/2022/06/catch-all-domain/)
 - [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution)
-- [Ask HN: Who is firing / laying off &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31585304)
 - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 <!-- BLOG-POST-LIST:END -->
 
