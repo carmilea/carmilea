@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
+- [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
+- [Tech experts urge Washington to resist crypto industry’s influence](https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac)
 - [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
 - [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
-- [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
-- [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
-- [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
