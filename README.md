@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is hiring? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31582796)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31582795)
-- [Ask HN: Who wants to be hired? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31582793)
-- [Ask HN: Have you experienced decline in problem-solving skills? How to improve?](https://news.ycombinator.com/item?id=31582505)
-- [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
+- [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
+- [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
+- [When the US Military Launched 500M Needles into Space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
+- [New Computer Language Benchmarks Game metric: time + source code size](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
+- [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
