@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: An open source alternative to Evernote &lpar;Self Hosted&rpar;](https://github.com/git-noter/gitnoter)
+- [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
 - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
 - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
-- [Tech experts urge Washington to resist crypto industry’s influence](https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac)
-- [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
-- [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
+- [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
