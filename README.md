@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is hiring fintech software engineers &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=31585107)
 - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
-- [When the US Military Launched 500M Needles into Space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
+- [When the us military launched 500M needles into space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
 - [New Computer Language Benchmarks Game metric: time + source code size](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
-- [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
