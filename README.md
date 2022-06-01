@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Labs Caught Moving $4.8M Through Shell Company](https://cryptoslate.com/terraform-labs-caught-moving-4-8m-through-shell-company/)
-- [One-Third of Americans Making $250k Live Paycheck-to-Paycheck](https://www.bloomberg.com/news/articles/2022-06-01/a-third-of-americans-making-250-000-say-costs-eat-entire-salary)
-- [All About Libpas, Phil&#39;s Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md)
-- [Elon Musk on Remote Work](https://twitter.com/TechEmails/status/1531994582669348864)
-- [Google&#39;s PageRank patent has expired &lpar;2019&rpar;](https://patents.google.com/patent/US6285999B1/en)
+- [Ask HN: Who is hiring? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31582796)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31582795)
+- [Ask HN: Who wants to be hired? &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31582793)
+- [Ask HN: Have you experienced decline in problem-solving skills? How to improve?](https://news.ycombinator.com/item?id=31582505)
+- [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
