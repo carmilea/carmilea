@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VC Meltdown](https://www.bogleheads.org/forum/viewtopic.php?t=378673)
+- [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)
+- [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
+- [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
 - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
-- [SPACs Are Warning They May Go Bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
-- [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
-- [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
-- [Why Darwin Failed &lpar;2006&rpar;](http://www.synack.net/~bbraun/writing/osfail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
