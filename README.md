@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finley &lpar;YC W21&rpar; is hiring fintech software engineers &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=31585107)
-- [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
-- [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
-- [When the us military launched 500M needles into space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
-- [New Computer Language Benchmarks Game metric: time + source code size](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
+- [ClojureDocs – Community-powered documentation and examples for Clojure](https://clojuredocs.org/)
+- [Using a catch-all domain is a mistake](https://www.notcheckmark.com/2022/06/catch-all-domain/)
+- [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution)
+- [Ask HN: Who is firing / laying off &lpar;June 2022&rpar;](https://news.ycombinator.com/item?id=31585304)
+- [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
