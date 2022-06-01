@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monado&#39;s hand tracking: hand-waving our way towards a first attempt](https://www.collabora.com/news-and-blog/blog/2022/05/31/monado-hand-tracking-hand-waving-our-way-towards-a-first-attempt/)
+- [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
+- [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
 - [Science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
-- [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
