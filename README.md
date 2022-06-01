@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
 - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
+- [Amazon and the Dystopian Future of Book Censorship](https://sprovoost.nl/2022/06/01/amazon-and-the-dystopian-future-of-book-censorship/)
 - [We don&#39;t show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
 - [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
-- [My friend and I spent 6 years making a simulation game, it&#39;s finally released](https://news.ycombinator.com/item?id=31586833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
