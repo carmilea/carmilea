@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
-- [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
+- [UN registers &#39;Türkiye&#39; as new country name to replace &#39;Turkey&#39;](https://www.aa.com.tr/en/americas/un-registers-turkiye-as-new-country-name-to-replace-turkey/2603492)
+- [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
 - [Padlet &lpar;YC W13&rpar; is hiring in Singapore to build software for a good education](https://padlet.jobs)
