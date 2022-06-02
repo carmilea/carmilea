@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelvet Launches Today](https://svelvet.io/)
-- [Game Boy Camera Canon EF Lens Mount &lpar;2018&rpar;](http://ekeler.com/game-boy-camera-canon-ef-mount)
-- [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
-- [Toyota’s prototype &#39;cartridge&#39; is a way to make hydrogen portable](https://www.engadget.com/toyotas-prototype-cartridge-is-a-way-to-make-hydrogen-portable-120024714.html)
-- [Show HN: I hacked my son’s Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
+- [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)
+- [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
+- [Varo Bank could run out of funds by year-end](https://www.bankingdive.com/news/varo-bank-could-run-out-of-funds-by-year-end-filing-shows/624628/)
+- [In this small Virginia town, citizens review police like Uber drivers](https://www.washingtonpost.com/dc-md-va/2022/06/02/warrenton-virginia-police-reviews/)
+- [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
