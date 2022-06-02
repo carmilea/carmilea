@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Afraid We&#39;re Shutting Down](https://news.ycombinator.com/item?id=31598978)
+- [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
+- [Angular v14 is now available](https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f)
+- [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
+- [Tell HN: I&#39;m Afraid We&#39;re Shutting Down](https://news.ycombinator.com/item?id=31598978)
 - [The Fuzzing Book](https://www.fuzzingbook.org/)
-- [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
-- [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
-- [American tech giants are making life tough for startups &lpar;2018&rpar;](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
