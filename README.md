@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coffee Drinking Linked to Lower Risk of Dying, New Study Finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
+- [Show HN: I hacked my sons Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 - [How to make decisions like a poker player](https://fronterablog.com/thinking-in-bets/)
 - [Problems in Linear Algebra &lpar;1978&rpar;, a book of solved problems](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra)
 - [Google cancelled a talk on caste bias](https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/)
-- [Bristle &lpar;YC W21&rpar; Is hiring to analyze the oral microbiome and prevent disease](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
-- [Show HN: I made a deceptively simple but hard sliding puzzle](https://www.quaxio.com/sliding_puzzle/puzzle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
