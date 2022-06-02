@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Afraid We&#39;re Shutting Down](https://news.ycombinator.com/item?id=31598978)
 - [The Fuzzing Book](https://www.fuzzingbook.org/)
 - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
-- [Create Your First Node.js GitHub Action, a How-To Guide](https://fusebit.io/blog/first-nodejs-github-action/)
+- [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
 - [American tech giants are making life tough for startups &lpar;2018&rpar;](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
-- [Goalbook &lpar;YC IK12&rpar; is hiring senior engineers to impact special education](https://jobs.lever.co/goalbookapp-2/0b735c81-09d8-401a-94e8-150728c3ec7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
