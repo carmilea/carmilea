@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coffee Drinking Linked to Lower Risk of Dying, New Study Finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
-- [Show HN: I hacked my sons Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
-- [How to make decisions like a poker player](https://fronterablog.com/thinking-in-bets/)
-- [Problems in Linear Algebra &lpar;1978&rpar;, a book of solved problems](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra)
-- [Google cancelled a talk on caste bias](https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/)
+- [Svelvet Launches Today](https://svelvet.io/)
+- [Game Boy Camera Canon EF Lens Mount &lpar;2018&rpar;](http://ekeler.com/game-boy-camera-canon-ef-mount)
+- [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
+- [Toyota’s prototype &#39;cartridge&#39; is a way to make hydrogen portable](https://www.engadget.com/toyotas-prototype-cartridge-is-a-way-to-make-hydrogen-portable-120024714.html)
+- [Show HN: I hacked my son’s Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
