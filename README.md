@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sergey Brin&#39;s Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
+- [California Drought Update May 2022 [pdf]](https://drought.ca.gov/media/2022/05/External-CA-Drought-Weekly-Update-05232022.pdf)
+- [East German Doping Victims Die 10 to 12 Years Earlier &lpar;2018&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)
 - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
-- [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
-- [Padlet &lpar;YC W13&rpar; is hiring in Singapore to build software for a good education](https://padlet.jobs)
-- [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
