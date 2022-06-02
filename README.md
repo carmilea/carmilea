@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
 - [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
-- [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
+- [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
-- [Padlet Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
-- [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
+- [Padlet &lpar;YC W13&rpar; is hiring in Singapore to build software for a good education](https://padlet.jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
