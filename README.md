@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [On Java/JVM: Loom and Thread Fairness](https://www.morling.dev/blog/loom-and-thread-fairness/)
 - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
-- [Angular v14 is now available](https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f)
 - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 - [Tell HN: I&#39;m Afraid We&#39;re Shutting Down](https://news.ycombinator.com/item?id=31598978)
-- [The Fuzzing Book](https://www.fuzzingbook.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
