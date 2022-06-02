@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Father of MIDI&#39; Dave Smith Has Died](https://www.synthtopia.com/content/2022/06/01/sequential-founder-father-of-midi-dave-smith-has-died/)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring a Python Master with DevOps expertise](https://www.ycombinator.com/companies/wasmer/jobs/l6oF505-backend-developer)
-- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
-- [1k True Fans? Try 100](https://future.a16z.com/1000-true-fans-try-100/)
-- [Sergey Brin&#39;s Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
+- [I made a tool to automate your Twitter DMs](https://www.hivoe.com/)
+- [How to make decisions like a poker player](https://fronterablog.com/thinking-in-bets/)
+- [Problems in Linear Algebra &lpar;1978&rpar;, a book of solved problems](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra)
+- [Google cancelled a talk on caste bias](https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/)
+- [Bristle &lpar;YC W21&rpar; Is hiring to analyze the oral microbiome and prevent disease](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
