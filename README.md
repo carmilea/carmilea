@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
+- [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
+- [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
 - [Padlet Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
 - [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
-- [Open Source Alternative To](https://www.opensourcealternative.to)
-- [Remembering Dave Smith, 1950–2022](https://www.sequential.com/)
-- [The Curse of Strong Typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
