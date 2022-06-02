@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasmer &lpar;YC S19&rpar; Is Hiring a Python Master with DevOps expertise](https://www.ycombinator.com/companies/wasmer/jobs/l6oF505-backend-developer)
+- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+- [1k True Fans? Try 100](https://future.a16z.com/1000-true-fans-try-100/)
 - [Sergey Brin&#39;s Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 - [California Drought Update May 2022 [pdf]](https://drought.ca.gov/media/2022/05/External-CA-Drought-Weekly-Update-05232022.pdf)
-- [East German Doping Victims Die 10 to 12 Years Earlier &lpar;2018&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)
-- [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
-- [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
