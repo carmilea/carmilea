@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
+- [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 - [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 - [On Java/JVM: Loom and Thread Fairness](https://www.morling.dev/blog/loom-and-thread-fairness/)
 - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
-- [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
-- [Tell HN: I&#39;m Afraid We&#39;re Shutting Down](https://news.ycombinator.com/item?id=31598978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
