@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UN registers &#39;Türkiye&#39; as new country name to replace &#39;Turkey&#39;](https://www.aa.com.tr/en/americas/un-registers-turkiye-as-new-country-name-to-replace-turkey/2603492)
 - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
 - [Padlet &lpar;YC W13&rpar; is hiring in Singapore to build software for a good education](https://padlet.jobs)
+- [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
