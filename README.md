@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
-- [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
-- [Amazon and the Dystopian Future of Book Censorship](https://sprovoost.nl/2022/06/01/amazon-and-the-dystopian-future-of-book-censorship/)
-- [We don&#39;t show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
-- [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
+- [Padlet Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
+- [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
+- [Open Source Alternative To](https://www.opensourcealternative.to)
+- [Remembering Dave Smith, 1950–2022](https://www.sequential.com/)
+- [The Curse of Strong Typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
