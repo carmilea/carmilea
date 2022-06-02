@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
-- [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [On Java/JVM: Loom and Thread Fairness](https://www.morling.dev/blog/loom-and-thread-fairness/)
-- [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
+- [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
+- [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
+- [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
+- [Office 365 implementing AI to detect employees colluding, leaving and more](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
+- [Record Labels Dig Their Own Grave. and the Shovel Is Called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
