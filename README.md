@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)
-- [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
-- [Varo Bank could run out of funds by year-end](https://www.bankingdive.com/news/varo-bank-could-run-out-of-funds-by-year-end-filing-shows/624628/)
-- [In this small Virginia town, citizens review police like Uber drivers](https://www.washingtonpost.com/dc-md-va/2022/06/02/warrenton-virginia-police-reviews/)
-- [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)
+- [American tech giants are making life tough for startups &lpar;2018&rpar;](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
+- [Goalbook &lpar;YC IK12&rpar; is hiring senior engineers to impact special education](https://jobs.lever.co/goalbookapp-2/0b735c81-09d8-401a-94e8-150728c3ec7b)
+- [The timeless, futile effort to fix circadian rhythms with tech](https://reallifemag.com/temporal-belonging/)
+- [The Memory Techniques Wiki](https://artofmemory.com/wiki/Main_Page/)
+- [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
