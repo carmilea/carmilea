@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
+- [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
+- [Senate Bill S6486D Establishes a moratorium on cryptocurrency mining](https://www.nysenate.gov/legislation/bills/2021/S6486)
 - [Deprecation of OpenGL and OpenCL &lpar;2018&rpar;](https://developer.apple.com/macos/whats-new/)
 - [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
-- [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
-- [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
-- [Python library tracks energy consumption and calculates your carbon emissions](https://github.com/fvaleye/tracarbon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
