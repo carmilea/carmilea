@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)
+- [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
+- [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
 - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
 - [The last Howard Johnson&#39;s restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
-- [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
