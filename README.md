@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terra &lpar;YC W21&rpar; Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
+- [Italy Is Held Back by 2.6M People Who Have Given Up on Work](https://www.bloomberg.com/news/articles/2022-06-03/italy-is-held-back-by-2-6-million-people-who-ve-given-up-on-work)
+- [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
+- [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
 - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
-- [Creating Pixel Art &lpar;2010&rpar;](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
-- [Racket for e-commerce &lpar;2019&rpar;](https://defn.io/2019/08/20/racket-ecommerce/)
-- [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
-- [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
