@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
+- [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
+- [Ford Is Going to 100% Online, Fixed-Price Sales for EVs](https://www.roadandtrack.com/news/a40175990/ford-online-sales-no-negotiation/)
+- [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
+- [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
 - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
-- [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
-- [Office 365 implementing AI to detect employees colluding, leaving and more](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
-- [Record Labels Dig Their Own Grave. and the Shovel Is Called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
