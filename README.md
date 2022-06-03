@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: I restored Palm&#39;s webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
+- [Ask HN: Web frameworks – which less popular frameworks are you using and why?](https://news.ycombinator.com/item?id=31607256)
+- [Tesla to Cut 10% of Jobs](https://www.cnbc.com/2022/06/03/feeling-super-bad-about-economy-musk-wants-to-cut-10percent-of-tesla-jobs.html)
 - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
-- [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
-- [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
-- [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
+- [Netlify: Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
