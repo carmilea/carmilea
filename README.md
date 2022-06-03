@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Terra &lpar;YC W21&rpar; Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
-- [Italy Is Held Back by 2.6M People Who Have Given Up on Work](https://www.bloomberg.com/news/articles/2022-06-03/italy-is-held-back-by-2-6-million-people-who-ve-given-up-on-work)
-- [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
-- [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
-- [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
+- [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
+- [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
+- [Running a Minecraft server on OpenBSD -current](https://dataswamp.org/~rjc/running_minecraft_server_on_openbsd.html)
+- [Python library tracks energy consumption and calculates your carbon emissions](https://github.com/fvaleye/tracarbon)
+- [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
