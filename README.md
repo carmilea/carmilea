@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deprecation of OpenGL and OpenCL &lpar;2018&rpar;](https://developer.apple.com/macos/whats-new/)
+- [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
 - [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
 - [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
-- [Running a Minecraft server on OpenBSD -current](https://dataswamp.org/~rjc/running_minecraft_server_on_openbsd.html)
 - [Python library tracks energy consumption and calculates your carbon emissions](https://github.com/fvaleye/tracarbon)
-- [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
