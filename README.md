@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Blocks Linking to Mastodon.social](https://imgur.com/a/Ku19dVi)
-- [Show HN: I restored Palm&#39;s webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
-- [Tesla to Cut 10% of Jobs](https://www.cnbc.com/2022/06/03/feeling-super-bad-about-economy-musk-wants-to-cut-10percent-of-tesla-jobs.html)
-- [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
-- [Netlify: Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
+- [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
+- [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
+- [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
+- [Honestly? Don&#39;t Send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
+- [Indoor air filtration could lead to increased airborne endotoxin levels](https://www.sciencedirect.com/science/article/pii/S016041202031833X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
