@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
+- [Scott Alexander&#39;s correction on ivermectin and its meaning for the rationalists](https://doyourownresearch.substack.com/p/scott-alexander-corrects-error-ivermectin)
 - [The last Howard Johnson&#39;s restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
-- [When it comes to privacy, default settings matter &lpar;2019&rpar;](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
-- [Books I’ve read](https://sive.rs/book)
-- [Collaborative worldbuilding app with maps, wikis, and whiteboards](https://www.legendkeeper.com)
-- [Panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
+- [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
