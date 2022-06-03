@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The last Howard Johnson&#39;s restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
 - [When it comes to privacy, default settings matter &lpar;2019&rpar;](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
-- [Derek Sivers&#39; Book Notes](https://sive.rs/book)
+- [Books I’ve read](https://sive.rs/book)
+- [Collaborative worldbuilding app with maps, wikis, and whiteboards](https://www.legendkeeper.com)
 - [Panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
-- [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
-- [Tesla’s ‘phantom braking’ problem is getting worse](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
