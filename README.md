@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Blocks Linking to Mastodon.social](https://imgur.com/a/Ku19dVi)
 - [Show HN: I restored Palm&#39;s webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
-- [Ask HN: Web frameworks – which less popular frameworks are you using and why?](https://news.ycombinator.com/item?id=31607256)
 - [Tesla to Cut 10% of Jobs](https://www.cnbc.com/2022/06/03/feeling-super-bad-about-economy-musk-wants-to-cut-10percent-of-tesla-jobs.html)
 - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 - [Netlify: Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
