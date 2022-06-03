@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I restored Palm&#39;s webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
+- [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
+- [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
 - [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
 - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
-- [Senate Bill S6486D Establishes a moratorium on cryptocurrency mining](https://www.nysenate.gov/legislation/bills/2021/S6486)
-- [Deprecation of OpenGL and OpenCL &lpar;2018&rpar;](https://developer.apple.com/macos/whats-new/)
-- [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
