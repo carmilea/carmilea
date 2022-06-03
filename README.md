@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStoreDB Demo: Real-Time Marketing Offers &amp; Analytics for Smart Retail](https://www.youtube.com/watch?v=CNhx9qL_xjE)
 - [Fireside Chat: Powering 100% of Impact&#39;s Data and Reporting With SingleStoreDB](https://www.youtube.com/watch?v=l-BI5aZO9zo)
 - [May Community Call With SingleStore](https://www.youtube.com/watch?v=BYFKcfew_Mg)
 - [SingleStoreDB Product Spotlight: Universal Storage](https://www.youtube.com/watch?v=Jv5Ct63WbTQ)
 - [SingleStoreDB Product Spotlight: Separation of Storage and Compute](https://www.youtube.com/watch?v=mQ7ygArrR84)
-- [How to Use SingleStore With GitHub Actions](https://www.youtube.com/watch?v=m3bXAy0FU9w)
 <!-- YOUTUBE:END -->
 
 
