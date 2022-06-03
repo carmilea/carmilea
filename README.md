@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Racket for E-Commerce](https://defn.io/2019/08/20/racket-ecommerce/)
 - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
-- [Ford Is Going to 100% Online, Fixed-Price Sales for EVs](https://www.roadandtrack.com/news/a40175990/ford-online-sales-no-negotiation/)
+- [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
+- [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
 - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
-- [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
-- [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
