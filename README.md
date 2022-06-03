@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+- [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
+- [Ask HN: What happens to the global financial system if the USA has a coup?](https://news.ycombinator.com/item?id=31611179)
+- [Tesla’s ‘phantom braking’ problem is getting worse](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
+- [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [Confess your love with zero-knowledge](https://www.zkcrush.xyz/)
-- [Executive narcissism affects knowledge transfer among business units](https://onlinelibrary.wiley.com/doi/10.1002/smj.3406)
-- [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
