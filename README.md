@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
+- [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)
+- [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
-- [Scott Alexander&#39;s correction on ivermectin and its meaning for the rationalists](https://doyourownresearch.substack.com/p/scott-alexander-corrects-error-ivermectin)
 - [The last Howard Johnson&#39;s restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
 - [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
 <!-- BLOG-POST-LIST:END -->
