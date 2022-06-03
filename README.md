@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Racket for E-Commerce](https://defn.io/2019/08/20/racket-ecommerce/)
+- [Creating Pixel Art &lpar;2010&rpar;](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+- [Racket for E-Commerce &lpar;2019&rpar;](https://defn.io/2019/08/20/racket-ecommerce/)
 - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
 - [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
 - [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
-- [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
