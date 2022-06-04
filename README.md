@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.K. Government seeks to use Brexit as opportunity to use imperial again [pdf]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1079711/choice-on-units-of-measurement-markings-and-sales-consultation.pdf)
+- [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
 - [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
 - [Crabs evolved at least five times from separate groups of crustaceans &lpar;2021&rpar;](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
 - [I don&#39;t care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
