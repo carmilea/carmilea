@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It&lpar;1985&rpar;](https://spectrum.ieee.org/xerox-parc)
+- [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
+- [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
+- [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
 - [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
-- [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
-- [Russia’s Ill-Fated Invasion of Ukraine: Lessons in Modern Warfare](https://www.csis.org/analysis/russias-ill-fated-invasion-ukraine-lessons-modern-warfare)
-- [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
