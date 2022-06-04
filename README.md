@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 - [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
-- [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
-- [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
-- [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
+- [The FBI Tried to Ambush My Source](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
