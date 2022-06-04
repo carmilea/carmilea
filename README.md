@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
+- [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
 - [Dear Spotify, can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
 - [Pixel Art: Common Mistakes &lpar;2020&rpar;](https://derekyu.com/makegames/pixelart2.html)
 - [Rr](https://rr-project.org/)
-- [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
-- [Persistence of Vision Test](https://www.testufo.com/persistence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
