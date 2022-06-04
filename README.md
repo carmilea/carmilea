@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
+- [Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs rise](https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html)
 - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
-- [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
-- [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
-- [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
-- [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt)
+- [Apple Music is the most buggy and annoying software I use](https://blog.nephics.se/2022/06/04/apple-music/)
+- [Neon: The serverless open source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
