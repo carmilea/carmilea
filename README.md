@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+- [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
-- [Solving the Housing Crisis Will Require Fighting Monopolies in Construction](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
-- [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
-- [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
-- [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- [On Stretch Rap &lpar;and containers and shipping&rpar;](https://theprepared.org/features-feed/stretch-wrap)
+- [Solving the housing crisis requires fighting monopolies in construction &lpar;2020&rpar;](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
