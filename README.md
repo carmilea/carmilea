@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA raises amount of ethanol that must be blended with gas](https://apnews.com/article/covid-health-climate-and-environment-741866342fa94e30370cb6f4b2671e60)
+- [Ask HN: Why aren&#39;t code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
+- [Ubuntu 22.10 Replaces Gedit with New Text Editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
+- [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
 - [Lidl’s parent company launches cloud unit to offer ‘Made in Germany’ AWS rival](https://www.datacenterdynamics.com/en/news/lidls-parent-company-launches-cloud-unit-to-offer-made-in-germany-aws-rival/)
-- [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
-- [Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs rise](https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html)
-- [How is GNU yes&lpar;1&rpar; so fast?](https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/)
-- [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
