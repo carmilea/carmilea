@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
 - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
+- [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
 - [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
-- [Dear Spotify, can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
-- [Pixel Art: Common Mistakes &lpar;2020&rpar;](https://derekyu.com/makegames/pixelart2.html)
-- [Rr](https://rr-project.org/)
+- [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
