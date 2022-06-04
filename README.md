@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Spotify. Can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
+- [Pixel Art: Common Mistakes &lpar;2020&rpar;](https://derekyu.com/makegames/pixelart2.html)
+- [Rr](https://rr-project.org/)
 - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 - [Persistence of Vision Test](https://www.testufo.com/persistence)
-- [Common counterfeit foods and how to identify them &lpar;2014&rpar;](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
-- [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
-- [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ &lpar;2019&rpar;](https://www.nature.com/articles/d41586-019-02638-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
