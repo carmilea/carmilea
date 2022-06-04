@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
+- [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
+- [Russia’s Ill-Fated Invasion of Ukraine: Lessons in Modern Warfare](https://www.csis.org/analysis/russias-ill-fated-invasion-ukraine-lessons-modern-warfare)
+- [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 - [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
-- [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
-- [On Stretch Rap &lpar;and containers and shipping&rpar;](https://theprepared.org/features-feed/stretch-wrap)
-- [Solving the housing crisis requires fighting monopolies in construction &lpar;2020&rpar;](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
