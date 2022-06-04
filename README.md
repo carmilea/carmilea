@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
+- [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
-- [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
-- [The economics of stadium names](https://axiomalpha.com/the-economics-of-stadium-names/)
-- [Ask HN: Why aren&#39;t code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
-- [Ubuntu 22.10 replaces Gedit with new text editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
+- [What you’ll find inside Inkscape version 1.2](https://inkscape.org/news/2022/05/16/inkscape-12/)
+- [Coinbase is rescinding already-accepted job offers by – email](https://www.sfgate.com/bayarea/article/Coinbase-rescinds-accepted-job-offers-17217989.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
