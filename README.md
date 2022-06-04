@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basis &lpar;YC S21&rpar; Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+- [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
 - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
-- [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
-- [What you’ll find inside Inkscape version 1.2](https://inkscape.org/news/2022/05/16/inkscape-12/)
-- [Coinbase is rescinding already-accepted job offers by – email](https://www.sfgate.com/bayarea/article/Coinbase-rescinds-accepted-job-offers-17217989.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
