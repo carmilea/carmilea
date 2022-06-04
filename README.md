@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Spotify. Can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
+- [Dear Spotify, can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
 - [Pixel Art: Common Mistakes &lpar;2020&rpar;](https://derekyu.com/makegames/pixelart2.html)
 - [Rr](https://rr-project.org/)
 - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
