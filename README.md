@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EPA raises amount of ethanol that must be blended with gas](https://apnews.com/article/covid-health-climate-and-environment-741866342fa94e30370cb6f4b2671e60)
+- [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
+- [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
+- [The economics of stadium names](https://axiomalpha.com/the-economics-of-stadium-names/)
 - [Ask HN: Why aren&#39;t code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
-- [Ubuntu 22.10 Replaces Gedit with New Text Editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
-- [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
-- [Lidl’s parent company launches cloud unit to offer ‘Made in Germany’ AWS rival](https://www.datacenterdynamics.com/en/news/lidls-parent-company-launches-cloud-unit-to-offer-made-in-germany-aws-rival/)
+- [Ubuntu 22.10 replaces Gedit with new text editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
