@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Persistence of Vision Test](https://www.testufo.com/persistence)
 - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
-- [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
-- [Crabs evolved at least five times from separate groups of crustaceans &lpar;2021&rpar;](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
-- [I don&#39;t care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
-- [Continuous glucose monitoring on the Apple Watch](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
+- [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
+- [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ &lpar;2019&rpar;](https://www.nature.com/articles/d41586-019-02638-w)
+- [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
