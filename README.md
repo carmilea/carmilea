@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 - [Persistence of Vision Test](https://www.testufo.com/persistence)
-- [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
+- [Common counterfeit foods and how to identify them &lpar;2014&rpar;](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
 - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
 - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ &lpar;2019&rpar;](https://www.nature.com/articles/d41586-019-02638-w)
-- [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
