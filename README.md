@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
-- [Twee Editors&lpar;2005&rpar;](https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors)
+- [Crypto Industry Eclipses Defense, Big Pharma in US Political Giving](https://www.bloomberg.com/news/articles/2022-06-02/crypto-industry-eclipses-defense-big-pharma-in-political-giving)
+- [LSD microdosing does not appear to improve mood, new placebo-controlled study](https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277)
 - [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
-- [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
-- [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
