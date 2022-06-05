@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
+- [Twee Editors&lpar;2005&rpar;](https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors)
 - [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
 - [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
 - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
-- [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
-- [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
