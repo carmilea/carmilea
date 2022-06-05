@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
-- [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
-- [Ask HN: Why don&#39;t podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
-- [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
+- [Tell HN: Please Stop Using Imgur](https://news.ycombinator.com/item?id=31631144)
+- [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
+- [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
+- [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
+- [I Had Ramen Every Day for a Week, Here&#39;s What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
