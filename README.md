@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
+- [Create a Bot to Find Diamonds in Minecraft &lpar;using reinforcement learning&rpar;](https://mlabonne.github.io/blog/minecraft/)
 - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
 - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
-- [GitHub user sends notification to 400k users](https://github.com/EpicGames/Signup/pull/24)
-- [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
