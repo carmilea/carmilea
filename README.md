@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
-- [Welcome Tesla friends, we&#39;re Atlassian and we work from anywhere. Apply now](https://www.atlassian.com/company/careers)
+- [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
 - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
-- [GitHub user sends notification to 400000 users](https://github.com/EpicGames/Signup/pull/24)
+- [GitHub user sends notification to 400k users](https://github.com/EpicGames/Signup/pull/24)
 - [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
 <!-- BLOG-POST-LIST:END -->
 
