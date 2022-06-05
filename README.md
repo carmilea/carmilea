@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
+- [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
-- [Create a Bot to Find Diamonds in Minecraft &lpar;using reinforcement learning&rpar;](https://mlabonne.github.io/blog/minecraft/)
-- [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
-- [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
-- [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
+- [How one guy ruined Hacktoberfest &lpar;2020&rpar;](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
+- [Work from home and the office real estate apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
