@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking beyond privacy: the risks of big tech’s entry into public sectors](https://news.ycombinator.com/)
+- [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
+- [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
-- [How one guy ruined Hacktoberfest &lpar;2020&rpar;](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
-- [Work from home and the office real estate apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
