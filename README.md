@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- [In 1997,Wired Mag Predicts Things That Could Go Wrong in the 21st Century](https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html)
+- [Fine dining faces its dark truths in Copenhagen](https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef)
 - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
-- [Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
 - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
-- [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
-- [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
