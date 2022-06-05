@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
-- [Why Gas Stoves Are More Hazardous Than We’ve Been Led to Believe &lpar;2020&rpar;](https://slate.com/technology/2020/12/gas-stoves-hazardous-asthma.html)
-- [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
-- [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
-- [Deep Learning Opacity In Scientific Discovery](https://arxiv.org/abs/2206.00520)
+- [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
+- [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
+- [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
+- [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
+- [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
