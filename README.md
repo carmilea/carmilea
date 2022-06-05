@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Please Stop Using Imgur](https://news.ycombinator.com/item?id=31631144)
+- [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
+- [Why Gas Stoves Are More Hazardous Than We’ve Been Led to Believe &lpar;2020&rpar;](https://slate.com/technology/2020/12/gas-stoves-hazardous-asthma.html)
 - [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
 - [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
-- [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
-- [I Had Ramen Every Day for a Week, Here&#39;s What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
+- [Deep Learning Opacity In Scientific Discovery](https://arxiv.org/abs/2206.00520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
