@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
+- [Welcome Tesla friends, we&#39;re Atlassian and we work from anywhere. Apply now](https://www.atlassian.com/company/careers)
+- [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
 - [GitHub user sends notification to 400000 users](https://github.com/EpicGames/Signup/pull/24)
-- [Smart Asian women are the new targets of CCP global online repression](https://www.aspistrategist.org.au/smart-asian-women-are-the-new-targets-of-ccp-global-online-repression/)
-- [Why Rust easily optimizes out smart pointers where C++ cannot?](https://news.ycombinator.com/item?id=31626508)
-- [Show HN: Grid.js – Advanced table library that works everywhere &lpar;2020&rpar;](https://gridjs.io/?hn)
-- [Architecture Notes: Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
+- [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
