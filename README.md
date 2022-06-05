@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It&lpar;1985&rpar;](https://spectrum.ieee.org/xerox-parc)
-- [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
-- [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
-- [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
-- [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
+- [GitHub user sends notification to 400000 users](https://github.com/EpicGames/Signup/pull/24)
+- [Smart Asian women are the new targets of CCP global online repression](https://www.aspistrategist.org.au/smart-asian-women-are-the-new-targets-of-ccp-global-online-repression/)
+- [Why Rust easily optimizes out smart pointers where C++ cannot?](https://news.ycombinator.com/item?id=31626508)
+- [Show HN: Grid.js – Advanced table library that works everywhere &lpar;2020&rpar;](https://gridjs.io/?hn)
+- [Architecture Notes: Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
