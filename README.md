@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+- [Spotify Podcasters Are Making $18,000 a Month with Nothing but White Noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
+- [Ask HN: Why don&#39;t podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
 - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
-- [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
-- [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
-- [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
-- [RNA spontaneously forms on basalt lava glass &lpar;abundant on Earth 4.35B years ago&rpar;](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
+- [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
