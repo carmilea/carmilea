@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
-- [Spotify Podcasters Are Making $18,000 a Month with Nothing but White Noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
+- [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
 - [Ask HN: Why don&#39;t podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
 - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
-- [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
