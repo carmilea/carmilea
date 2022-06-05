@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
 - [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
 - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
 - [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [Ask HN: Has anyone successfully used LibreOffice for their business?](https://news.ycombinator.com/item?id=31634704)
-- [Why I&#39;m using Fossil SCM instead of other source control systems](https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems)
+- [Cannoli – High-performance QEMU memory and instruction tracing](https://github.com/MarginResearch/cannoli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
