@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
+- [Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
+- [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
 - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
-- [Crypto Industry Eclipses Defense, Big Pharma in US Political Giving](https://www.bloomberg.com/news/articles/2022-06-02/crypto-industry-eclipses-defense-big-pharma-in-political-giving)
-- [LSD microdosing does not appear to improve mood, new placebo-controlled study](https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277)
-- [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
