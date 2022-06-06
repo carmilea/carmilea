@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+- [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
+- [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
-- [Ask HN: Have You Burned Out?](https://news.ycombinator.com/item?id=31642123)
 - [Is Everything an MLM? &lpar;2019&rpar;](https://annehelen.substack.com/p/is-everything-an-mlm)
-- [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
-- [The foundations of modern end-to-end encryption: Signatures &lpar;2021&rpar;](https://kerkour.com/signatures-modern-end-to-end-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
