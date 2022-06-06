@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
+- [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
 - [Plain Text. With Lines](http://akkartik.name/lines.html)
 - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
-- [Amino acids found on asteroid by Japanese probe](https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html)
-- [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
