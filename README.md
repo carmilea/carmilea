@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools for Better Thinking](https://untools.co)
+- [Hate paywalls? 12ft.io is the answer](https://robinwinslow.uk/hate-paywalls-12ft.io-is-the-answer)
 - [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
-- [Axon Ditches Plan for Weaponized Taser Drones &lpar;Majority of Ethics Board Resigns&rpar;](https://www.wsj.com/articles/axon-ditches-plans-for-weaponized-taser-drones-as-majority-of-ethics-board-resigns-11654545598)
+- [Cuba about to adopt the most progressive family law in the world](https://en.granma.cu/cuba/2022-05-19/families-plural)
 - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
-- [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)
-- [A Road to Common Lisp &lpar;2018&rpar;](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
