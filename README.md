@@ -55,7 +55,7 @@
 - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
-- [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+- [What is a programmable programming language? &lpar;2019&rpar;](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
