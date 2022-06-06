@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Source code for 4kb demoscene production “Elevated” released &lpar;2016&rpar;](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
-- [Zipf&#39;s Law](https://plus.maths.org/content/mystery-zipf)
-- [Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras](https://arxiv.org/abs/2206.01384)
-- [γ-Linolenic Acid Makes Old Blood New Again](https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again)
-- [Dashy – A self-hosted homepage for your homelab](https://github.com/Lissy93/dashy)
+- [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+- [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
+- [Absolute truths I unlearned as junior developer &lpar;2019&rpar;](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [Show HN: Pidove, an Alternative to the Java Streams API](https://github.com/paulhoule/pidove)
+- [Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools](https://github.com/tinygo-org/tinygo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
