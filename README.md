@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
+- [Axon Ditches Plan for Weaponized Taser Drones &lpar;Majority of Ethics Board Resigns&rpar;](https://www.wsj.com/articles/axon-ditches-plans-for-weaponized-taser-drones-as-majority-of-ethics-board-resigns-11654545598)
 - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 - [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)
 - [A Road to Common Lisp &lpar;2018&rpar;](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
-- [Run full Linux distributions on Apple Silicon](https://developer.apple.com/videos/play/wwdc2022/10002/)
-- [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
