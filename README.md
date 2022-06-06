@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run full Linux distributions on Apple Silicon](https://developer.apple.com/videos/play/wwdc2022/10002/)
+- [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
+- [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/)
+- [iOS 16 to support Web push notifications in 2023](https://www.apple.com/ios/ios-16-preview/features/)
 - [iPadOS 16 takes the versatility of iPad even further](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
-- [Apple unveils all-new MacBook Air, supercharged by the new M2 chip](https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/)
-- [Apple Unveils M2](https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/)
-- [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
-- [FIDO Alliance](https://fidoalliance.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
