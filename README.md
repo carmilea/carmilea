@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
-- [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
-- [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
-- [Dover.com &lpar;YC S19&rpar; is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [Cannoli – High-performance QEMU memory and instruction tracing](https://github.com/MarginResearch/cannoli)
+- [Source code for 4kb demoscene production “Elevated” released &lpar;2016&rpar;](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
+- [Zipf&#39;s Law](https://plus.maths.org/content/mystery-zipf)
+- [Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras](https://arxiv.org/abs/2206.01384)
+- [γ-Linolenic Acid Makes Old Blood New Again](https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again)
+- [Dashy – A self-hosted homepage for your homelab](https://github.com/Lissy93/dashy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
