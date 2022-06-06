@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Toxic Grind](https://vadimkravcenko.com/shorts/the-toxic-grind/)
-- [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
-- [Probability and Statistics Cookbook &lpar;2011&rpar; [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
-- [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
-- [Show HN: WunderGraph – open-source API Developer Toolkit](https://news.ycombinator.com/item?id=31639879)
+- [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
+- [Ask HN: Have You Burned Out?](https://news.ycombinator.com/item?id=31642123)
+- [Is Everything an MLM? &lpar;2019&rpar;](https://annehelen.substack.com/p/is-everything-an-mlm)
+- [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
+- [The foundations of modern end-to-end encryption: Signatures &lpar;2021&rpar;](https://kerkour.com/signatures-modern-end-to-end-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
