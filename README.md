@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPadOS 16 takes the versatility of iPad even further](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
+- [Apple unveils all-new MacBook Air, supercharged by the new M2 chip](https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/)
+- [Apple Unveils M2](https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/)
 - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
 - [FIDO Alliance](https://fidoalliance.org/)
-- [Apple announces new flagship M2 processor](https://www.theverge.com/2022/6/6/23156370/apple-silicon-m2-processor-chip-specs-wwdc-2022)
-- [Great timing, supercomputer upgrade lead to successful forecast of eruption](https://news.illinois.edu/view/6367/913924091)
-- [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
