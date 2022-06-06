@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Universal access to free school meals end this summer](https://abc13.com/universal-free-school-meals-and-reduced-lunch-pandemic-programs-ending-spending-bill/11650887/)
+- [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
 - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
 - [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
