@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
+- [In Defense of OpenStreetMap&#39;s Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
-- [Plain Text. With Lines](http://akkartik.name/lines.html)
-- [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
