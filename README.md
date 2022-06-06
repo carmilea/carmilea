@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Probability and Statistics Cookbook &lpar;2011&rpar; [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+- [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 - [Musk SEC Filing](https://www.sec.gov/Archives/edgar/data/0001418091/000110465922068347/tm2217761d1_sc13da.htm)
-- [Small Modular Reactors Exacerbate Challenges of Nuclear Waste](https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/)
 - [Kable &lpar;usage-based billing for APIs&rpar; is hiring Founding Engineers &lpar;YC W22&rpar;](http://kable.io/)
 - [The Surreal Case of a CIA Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
-- [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
