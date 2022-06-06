@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Toxic Grind](https://vadimkravcenko.com/shorts/the-toxic-grind/)
+- [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 - [Probability and Statistics Cookbook &lpar;2011&rpar; [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
-- [Musk SEC Filing](https://www.sec.gov/Archives/edgar/data/0001418091/000110465922068347/tm2217761d1_sc13da.htm)
-- [Kable &lpar;usage-based billing for APIs&rpar; is hiring Founding Engineers &lpar;YC W22&rpar;](http://kable.io/)
-- [The Surreal Case of a CIA Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
+- [Show HN: WunderGraph – open-source API Developer Toolkit](https://news.ycombinator.com/item?id=31639879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
