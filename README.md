@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+- [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
 - [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
 - [Absolute truths I unlearned as junior developer &lpar;2019&rpar;](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 - [Show HN: Pidove, an Alternative to the Java Streams API](https://github.com/paulhoule/pidove)
-- [Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools](https://github.com/tinygo-org/tinygo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
