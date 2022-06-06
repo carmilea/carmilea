@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
-- [In Defense of OpenStreetMap&#39;s Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
-- [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
-- [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
-- [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
+- [One Job, One Pay](https://stellate.co/blog/one-job-one-pay)
+- [Small Modular Reactors Exacerbate Challenges of Nuclear Waste](https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/)
+- [Kable &lpar;usage-based billing for APIs&rpar; is hiring Founding Engineers &lpar;YC W22&rpar;](http://kable.io/)
+- [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
+- [GraphCDN is now Stellate and we’ve raised $30M to build the global data graph](https://stellate.co/blog/graphcdn-is-now-stellate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
