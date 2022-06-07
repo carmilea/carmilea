@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
+- [Celebrating PRIDE Month](https://www.singlestore.com/blog/celebrating-pride-month)
 - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
 - [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
-- [Please don&#39;t unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
-- [FAA Continues to Stall on G100UL](https://www.avweb.com/insider/faa-continues-to-stall-on-g100ul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
