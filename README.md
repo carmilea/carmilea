@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
+- [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
+- [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
 - [Tell HN: I used the same computer since 2007 &lpar;with minor upgrades&rpar;](https://news.ycombinator.com/item?id=31648326)
 - [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
-- [Starlight.jl – A game engine written in Julia](https://github.com/jhigginbotham64/Starlight.jl)
-- [iOS 16](https://www.apple.com/ios/ios-16-preview/)
-- [Tools for Better Thinking](https://untools.co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
