@@ -54,8 +54,8 @@
 - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
 - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
 - [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
-- [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
+- [Please don&#39;t unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
+- [FAA Continues to Stall on G100UL](https://www.avweb.com/insider/faa-continues-to-stall-on-g100ul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
