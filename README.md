@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
+- [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
+- [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
 - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
-- [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
-- [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
-- [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
 <!-- BLOG-POST-LIST:END -->
 
 ---
