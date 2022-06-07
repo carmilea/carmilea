@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please, don&#39;t build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
+- [Figma Is Down](https://status.figma.com)
+- [Deepfake Offensive Toolkit &lpar;real-time deepfakes for virtual cameras&rpar;](https://github.com/sensity-ai/dot)
 - [Eu.org, free domain names since 1996](https://nic.eu.org/)
 - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
-- [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
-- [A six-month program in Britain will assess the effects of a shorter workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
-- [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
