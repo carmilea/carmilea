@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
+- [Launch HN: Rootly &lpar;YC S21&rpar; – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
+- [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
 - [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
 - [Show HN: Better &lpar;arguably&rpar; &amp; 8x cheaper text-to-speech than AWS](https://unrealspeech.com/)
-- [Atlassian Confluence Server CVE-2022-26134 being actively expoited in the wild](https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134)
 - [The firefly population could be declining](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
