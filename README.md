@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Centaur Labs &lpar;YC W19&rpar; Is Hiring a React Engineer in Boston/Remote](https://www.centaurlabs.com/open-positions?gh_jid=4156173004)
+- [Dear Crypto](https://www.twitlonger.com/show/n_1ss24a6)
 - [Launch HN: Rootly &lpar;YC S21&rpar; – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
-- [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
-- [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
-- [Show HN: Better &lpar;arguably&rpar; &amp; 8x cheaper text-to-speech than AWS](https://unrealspeech.com/)
-- [The firefly population could be declining](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
+- [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
+- [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
