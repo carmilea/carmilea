@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
 - [Please, don&#39;t build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
 - [Why Emacs Has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
 - [Dark Sky Has a New Home &lpar;2020&rpar;](https://blog.darksky.net/dark-sky-has-a-new-home/)
-- [Deepfake Offensive Toolkit &lpar;real-time deepfakes for virtual cameras&rpar;](https://github.com/sensity-ai/dot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
