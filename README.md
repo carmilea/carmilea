@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
-- [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
-- [We&#39;re moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
-- [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
-- [Please, don&#39;t build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
+- [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
+- [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
+- [Show HN: Better &lpar;arguably&rpar; &amp; 8x cheaper text-to-speech than AWS](https://unrealspeech.com/)
+- [Atlassian Confluence Server CVE-2022-26134 being actively expoited in the wild](https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134)
+- [The firefly population could be declining](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
