@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
 - [Please, don&#39;t build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
-- [Figma Is Down](https://status.figma.com)
+- [Why Emacs Has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
+- [Dark Sky Has a New Home &lpar;2020&rpar;](https://blog.darksky.net/dark-sky-has-a-new-home/)
 - [Deepfake Offensive Toolkit &lpar;real-time deepfakes for virtual cameras&rpar;](https://github.com/sensity-ai/dot)
-- [Eu.org, free domain names since 1996](https://nic.eu.org/)
-- [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
