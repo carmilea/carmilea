@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
+- [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
 - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
-- [OptiPNG vs. PNGcrush vs. Gimp to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
-- [Cloture – Implementation of Clojure in Common Lisp](https://github.com/ruricolist/cloture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
