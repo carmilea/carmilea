@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Centaur Labs &lpar;YC W19&rpar; Is Hiring a React Engineer in Boston/Remote](https://www.centaurlabs.com/open-positions?gh_jid=4156173004)
-- [Dear Crypto](https://www.twitlonger.com/show/n_1ss24a6)
-- [Launch HN: Rootly &lpar;YC S21&rpar; – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
-- [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
-- [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
+- [Octagon Networks converts its entire balance sheet into Bitcoin](https://octagon.net/press/2022/06/05/octagon-networks-converts-its-balance-sheet-into-bitcoin/)
+- [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
+- [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
+- [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
+- [Talent Cooling](https://nirantk.com/writing/talentcooling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
