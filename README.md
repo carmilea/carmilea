@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
 - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
 - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
 - [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
-- [‘Damned Fun’ – ‘Top Gun: Maverick’ and the Military-Entertainment Complex](https://www.medialens.org/2022/damned-fun-top-gun-maverick-and-the-military-entertainment-complex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
