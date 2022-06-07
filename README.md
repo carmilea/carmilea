@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
+- [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
-- [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
-- [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
-- [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
-- [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
+- [OptiPNG vs. PNGcrush vs. Gimp to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
+- [Cloture – Implementation of Clojure in Common Lisp](https://github.com/ruricolist/cloture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
