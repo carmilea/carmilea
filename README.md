@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Octagon Networks converts its entire balance sheet into Bitcoin](https://octagon.net/press/2022/06/05/octagon-networks-converts-its-balance-sheet-into-bitcoin/)
+- [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
 - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
 - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
 - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
-- [Talent Cooling](https://nirantk.com/writing/talentcooling.html)
+- [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
