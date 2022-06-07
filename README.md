@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
+- [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 - [We&#39;re moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
 - [Please, don&#39;t build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
-- [Why Emacs Has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
-- [Dark Sky Has a New Home &lpar;2020&rpar;](https://blog.darksky.net/dark-sky-has-a-new-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
