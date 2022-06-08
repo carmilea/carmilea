@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco votes overwhelmingly to recall progressive DA Chesa Boudin](https://www.cbsnews.com/news/chesa-boudin-san-francisco-da-recalled/)
+- [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
+- [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
+- [Exploiting the Wii U&#39;s USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 - [What FreeBSD can offer compared to other operating systems &lpar;2020&rpar;](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
-- [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
-- [Medical Errors now Third leading cause of death in the United States &lpar;2016&rpar;](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
-- [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
-- [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 <!-- BLOG-POST-LIST:END -->
 
 ---
