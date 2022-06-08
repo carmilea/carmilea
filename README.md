@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
-- [Blender 3.2](https://www.blender.org/download/releases/3-2/)
-- [California Sends Democrats and the Nation a Message on Crime](https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html)
-- [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
-- [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
+- [Ask HN: New job at BigCo. EVERYTHING has friction](https://news.ycombinator.com/item?id=31669338)
+- [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm &lpar;1995&rpar;](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
+- [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
+- [Ask HN: Co-Founder pivoting, what are my options?](https://news.ycombinator.com/item?id=31668788)
+- [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
