@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cowfish: The Mutant Superheroes of the Ocean](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
 - [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
-- [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
-- [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
-- [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
+- [Folk &lpar;Browser&rpar; Interfaces](https://cristobal.space/writing/folk)
+- [When shipping containers sink in the drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
+- [Why JSON Isn’t A Good Configuration Language &lpar;2018&rpar;](https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
