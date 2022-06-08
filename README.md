@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco votes overwhelmingly to recall progressive DA Chesa Boudin](https://www.cbsnews.com/news/chesa-boudin-san-francisco-da-recalled/)
+- [San Francisco Became a Failed City](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
+- [Tesla is making us move or quit. Would I get severance?](https://news.ycombinator.com/item?id=31666593)
+- [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
+- [CodeMirror 6.0 Stable Release](https://marijnhaverbeke.nl/blog/codemirror-6.html)
 - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
-- [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
-- [Exploiting the Wii U&#39;s USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
-- [What FreeBSD can offer compared to other operating systems &lpar;2020&rpar;](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
