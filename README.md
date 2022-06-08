@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What FreeBSD can offer compared to other operating systems &lpar;2020&rpar;](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
 - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
 - [Medical Errors now Third leading cause of death in the United States &lpar;2016&rpar;](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
 - [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
 - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
-- [Find a good available .com domain](https://sive.rs/com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
