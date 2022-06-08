@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: New job at BigCo. EVERYTHING has friction](https://news.ycombinator.com/item?id=31669338)
-- [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm &lpar;1995&rpar;](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
-- [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
-- [Ask HN: Co-Founder pivoting, what are my options?](https://news.ycombinator.com/item?id=31668788)
-- [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
+- [Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
+- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+- [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
+- [Stop Eliminating Gifted Programs and Calling It ‘Equity’](https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity)
+- [The End of Localhost](https://dx.tips/the-end-of-localhost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
