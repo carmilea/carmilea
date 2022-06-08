@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache invalidation might no longer be a hard thing in Computer Science](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 - [Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 - [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
 - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
 - [Stop Eliminating Gifted Programs and Calling It ‘Equity’](https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity)
-- [The End of Localhost](https://dx.tips/the-end-of-localhost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
