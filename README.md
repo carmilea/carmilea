@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cowfish: The Mutant Superheroes of the Ocean](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
-- [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
-- [Folk &lpar;Browser&rpar; Interfaces](https://cristobal.space/writing/folk)
-- [When shipping containers sink in the drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
-- [Why JSON Isn’t A Good Configuration Language &lpar;2018&rpar;](https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/)
+- [Vintage Steel Kitchen Cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
+- [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
+- [What’s new in Safari and WebKit](https://developer.apple.com/videos/play/wwdc2022/10048/)
+- [Diablo Immortal won&#39;t release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
+- [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
