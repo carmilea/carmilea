@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Youth Cultures in East Germany 1985 / Stasi &lpar;East German Secret Police&rpar;](https://twitter.com/psychotronica_/status/1533839573108903939)
-- [Opera, Brave, Vivaldi to ignore Chrome&#39;s anti-ad-blocker changes &lpar;2019&rpar;](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
-- [How San Francisco became a failed city](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
-- [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
+- [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
+- [Blender 3.2](https://www.blender.org/download/releases/3-2/)
+- [California Sends Democrats and the Nation a Message on Crime](https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html)
+- [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
+- [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 <!-- BLOG-POST-LIST:END -->
 
 ---
