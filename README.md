@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
+- [Faced with scooter seizures, Bird pays property tax bill months late](https://www.kut.org/2022-06-07/faced-with-scooter-seizures-bird-pays-property-tax-bill-months-late)
 - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
 - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
-- [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
 - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
 <!-- BLOG-POST-LIST:END -->
 
