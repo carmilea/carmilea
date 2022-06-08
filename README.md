@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I quit the tech industry &lpar;2015&rpar;](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
 - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
 - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
-- [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)
 - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
 <!-- BLOG-POST-LIST:END -->
 
