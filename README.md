@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
+- [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
+- [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
 - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
-- [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
-- [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
-- [Small World: a Marauder&#39;s Map for the people you follow on Twitter](https://smallworld.kiwi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
