@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Medical Errors now Third leading cause of death in the United States](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
+- [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
+- [Medical Errors now Third leading cause of death in the United States &lpar;2016&rpar;](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
 - [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
 - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 - [Find a good available .com domain](https://sive.rs/com)
-- [I quit the tech industry &lpar;2015&rpar;](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
