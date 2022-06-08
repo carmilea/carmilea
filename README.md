@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vintage Steel Kitchen Cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
+- [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
+- [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)
+- [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
 - [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
-- [What’s new in Safari and WebKit](https://developer.apple.com/videos/play/wwdc2022/10048/)
 - [Diablo Immortal won&#39;t release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
-- [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
