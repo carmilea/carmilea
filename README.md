@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco Became a Failed City](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
-- [Tesla is making us move or quit. Would I get severance?](https://news.ycombinator.com/item?id=31666593)
+- [Youth Cultures in East Germany 1985 / Stasi &lpar;East German Secret Police&rpar;](https://twitter.com/psychotronica_/status/1533839573108903939)
+- [Opera, Brave, Vivaldi to ignore Chrome&#39;s anti-ad-blocker changes &lpar;2019&rpar;](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+- [How San Francisco became a failed city](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
 - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
-- [CodeMirror 6.0 Stable Release](https://marijnhaverbeke.nl/blog/codemirror-6.html)
-- [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
