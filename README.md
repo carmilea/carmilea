@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The plan to give the moon decent wireless coverage](https://spectrum.ieee.org/lunar-communications)
-- [Is it a Ponzi? A framework for evaluating crypto projects](https://every.to/almanack/is-it-a-ponzi)
-- [Digital fair repair act passed in New York](https://www.nysenate.gov/legislation/bills/2021/S4104)
-- [Cache invalidation might no longer be a hard thing in Computer Science](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
-- [Former U.S. congressman, operative pleads guilty to election fraud charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
+- [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
+- [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
+- [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
+- [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
+- [Small World: a Marauder&#39;s Map for the people you follow on Twitter](https://smallworld.kiwi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
