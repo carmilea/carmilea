@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 update accidentally brings the OS to older machines](https://www.techradar.com/news/windows-11-update-accidentally-brings-the-os-to-older-machines)
+- [Download offline maps in the Google Maps app without signing in](https://news.ycombinator.com/item?id=31680636)
 - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
 - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
 - [Show HN: Open-Source Identity Server Written in Go &lpar;Ory Kratos&rpar;](https://github.com/ory/kratos)
-- [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
-- [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
