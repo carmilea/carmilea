@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I cut GTA Online loading times &lpar;2021&rpar;](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- [Rust without the async &lpar;hard&rpar; part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
-- [Mark Cuban&#39;s Cost Plus Drugs](https://costplusdrugs.com/faq/)
 - [Dropbox deletes Rick and Morty creators account for secret TOS violation](https://twitter.com/JustinRoiland/status/1534670496402268160)
 - [How to build undo/redo in a multiplayer environment by Liveblocks](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment)
-- [Windows 11 update accidentally brings the OS to older machines](https://www.techradar.com/news/windows-11-update-accidentally-brings-the-os-to-older-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
