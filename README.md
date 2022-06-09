@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Filtering in Canada: Rogers&#39; NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
+- [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 - [AWS costs every programmer should know &lpar;2019&rpar;](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 - [Deluge BitTorrent Client](https://deluge-torrent.org/)
 - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
-- [50th Anniversary of the Mother of All Demos &lpar;2018&rpar;](https://amasad.me/moad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
