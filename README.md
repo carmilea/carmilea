@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
+- [The mysterious behaviour of the Flying Tiger Countdown Clock &lpar;and the bug&rpar;](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
+- [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
 - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 - [Dancing starling spectacle caused power cuts in Scottish village &lpar;2020&rpar;](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
-- [Discret 11, the French TV encryption of the 80s &lpar;2020&rpar;](https://fabiensanglard.net/discret11/index.html)
-- [Internet Filtering in Canada: Rogers&#39; NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
-- [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
