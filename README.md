@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS costs every programmer should know &lpar;2019&rpar;](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 - [Deluge BitTorrent Client](https://deluge-torrent.org/)
 - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
 - [50th Anniversary of the Mother of All Demos &lpar;2018&rpar;](https://amasad.me/moad)
-- [Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
