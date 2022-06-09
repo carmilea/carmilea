@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MedCrypt &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
-- [In Defense of Crypto&lpar;currency&rpar;](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
-- [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+- [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 - [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)
 - [Launch HN: Compose.ai &lpar;YC W21&rpar; – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
+- [Software Companies Die &lpar;1995&rpar; [pdf]](https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
