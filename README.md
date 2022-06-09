@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
+- [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
+- [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
+- [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
 - [MedCrypt &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
-- [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
-- [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)
-- [Launch HN: Compose.ai &lpar;YC W21&rpar; – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
-- [Software Companies Die &lpar;1995&rpar; [pdf]](https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
