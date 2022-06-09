@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
-- [50th Anniversary of the Mother of All Demos](https://amasad.me/moad)
-- [Big Oil Is Suing Countries to Block Climate Action](https://www.levernews.com/fossil-fuel-interests-are-suing-countries-for-taking-climate-action-and-winning/)
+- [50th Anniversary of the Mother of All Demos &lpar;2018&rpar;](https://amasad.me/moad)
 - [Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
-- [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
+- [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)
 <!-- BLOG-POST-LIST:END -->
 
 ---
