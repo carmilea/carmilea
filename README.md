@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)
 - [Launch HN: Compose.ai &lpar;YC W21&rpar; – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
-- [New GitHub Profile Badges Beta](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
-- [Why is American administrative capacity in decline?](https://donmoynihan.substack.com/p/why-is-american-administrative-capacity)
-- [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
-- [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
+- [Software Companies Die &lpar;1995&rpar; [pdf]](https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf)
+- [Notion Acquires Cron](https://www.notion.so/blog/notion-acquires-cron)
+- [Techniques for Training Large Neural Networks](https://openai.com/blog/techniques-for-training-large-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
