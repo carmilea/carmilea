@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radio signal coming from another galaxy detected by scientists](https://www.breezyscroll.com/space/radio-signal-coming-from-another-galaxy-detected-by-scientists/)
-- [Physicists Discover Never-Before Seen Particle Sitting on a Tabletop](https://www.math.columbia.edu/~woit/wordpress/?p=12936)
+- [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
+- [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
+- [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 - [Always Own Your Platform &lpar;2019&rpar;](http://www.alwaysownyourplatform.com/)
-- [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
-- [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
+- [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
