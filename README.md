@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
+- [Physicists Discover Never-Before Seen Particle Sitting on a Tabletop](https://www.math.columbia.edu/~woit/wordpress/?p=12936)
+- [Always Own Your Platform &lpar;2019&rpar;](http://www.alwaysownyourplatform.com/)
 - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
+- [Tesla investigation deepens after more than a dozen US ‘Autopilot’ crashes](https://www.theguardian.com/technology/2022/jun/09/tesla-autopilot-crashes-investigation-nhtsa)
 - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
-- [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
-- [MedCrypt &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
