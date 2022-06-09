@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Games and Puzzles as Multicomputational Systems](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
+- [50th Anniversary of the Mother of All Demos](https://amasad.me/moad)
+- [Big Oil Is Suing Countries to Block Climate Action](https://www.levernews.com/fossil-fuel-interests-are-suing-countries-for-taking-climate-action-and-winning/)
+- [Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
 - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
-- [Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
-- [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
