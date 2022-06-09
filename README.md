@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I cut GTA Online loading times &lpar;2021&rpar;](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
-- [Rust without the async &lpar;hard&rpar; part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
-- [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
-- [Dropbox deletes Rick and Morty creators account for secret TOS violation](https://twitter.com/JustinRoiland/status/1534670496402268160)
-- [How to build undo/redo in a multiplayer environment by Liveblocks](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment)
+- [Launch HN: Compose.ai &lpar;YC W21&rpar; – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
+- [New GitHub Profile Badges Beta](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
+- [Why is American administrative capacity in decline?](https://donmoynihan.substack.com/p/why-is-american-administrative-capacity)
+- [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
+- [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
