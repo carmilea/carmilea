@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
+- [Discret 11, the French TV encryption of the 80s &lpar;2020&rpar;](https://fabiensanglard.net/discret11/index.html)
 - [Internet Filtering in Canada: Rogers&#39; NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
 - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 - [AWS costs every programmer should know &lpar;2019&rpar;](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
-- [Deluge BitTorrent Client](https://deluge-torrent.org/)
-- [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
