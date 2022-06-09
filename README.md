@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
+- [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
+- [Show HN: Open-Source Identity Server Written in Go &lpar;Ory Kratos&rpar;](https://github.com/ory/kratos)
+- [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
 - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
-- [The mysterious behaviour of the Flying Tiger Countdown Clock &lpar;and the bug&rpar;](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
-- [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
-- [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
-- [Dancing starling spectacle caused power cuts in Scottish village &lpar;2020&rpar;](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
