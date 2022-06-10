@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
+- [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
-- [Vladimir Putin, in speech, hints at further territorial expansion for Russia](https://www.smh.com.au/world/europe/vladimir-putin-in-speech-hints-at-further-territorial-expansion-for-russia-20220610-p5asq0.html)
 - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 - [Petzold&#39;s “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
-- [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
