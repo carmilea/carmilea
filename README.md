@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
-- [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
 - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 - [Write HTML Right](http://lofi.limo/blog/write-html-right)
