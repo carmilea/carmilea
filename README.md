@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
 - [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
 - [Claws Mail](https://www.claws-mail.org/)
 - [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
 - [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
-- [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
