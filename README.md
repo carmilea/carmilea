@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Has Hacker New Become Programmer News?](https://news.ycombinator.com/item?id=31693497)
+- [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
+- [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
 - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 - [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
 - [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
-- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
