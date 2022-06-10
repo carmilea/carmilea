@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare pulsar detected in the Milky Way](https://list23.com/898121-according-to-the-astronomers-report-an-ultra-rare-cosmic-object-was-just-detected-in-the-milky-way/)
+- [AI Could Defeat All of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)
+- [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
 - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 - [Tell HN: Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
-- [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
