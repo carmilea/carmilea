@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Suffering from Toxic Productivity?](https://paperform.co/blog/toxic-productivity/)
 - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
-- [I Don&#39;t Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
 - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
 - [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
 - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
