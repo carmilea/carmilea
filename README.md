@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Has Hacker New Become Programmer News?](https://news.ycombinator.com/item?id=31693497)
+- [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
+- [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
+- [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
 - [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Ask HN: How did you find your current job?](https://news.ycombinator.com/item?id=31692834)
-- [Cull your dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
-- [Try Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
-- [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
