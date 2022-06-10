@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
+- [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
+- [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 - [Write HTML Right](http://lofi.limo/blog/write-html-right)
-- [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
-- [Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure](https://meadowrun.io)
-- [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
