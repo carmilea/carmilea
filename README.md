@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultra-Rare Cosmic object was just detected in the Milky Way](https://list23.com/898121-according-to-the-astronomers-report-an-ultra-rare-cosmic-object-was-just-detected-in-the-milky-way/)
+- [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
+- [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
 - [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
-- [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
-- [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
-- [Petzold&#39;s “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
