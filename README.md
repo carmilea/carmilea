@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
-- [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
-- [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
-- [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
-- [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
+- [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
+- [Write HTML Right](http://lofi.limo/blog/write-html-right)
+- [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
+- [Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure](https://meadowrun.io)
+- [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
