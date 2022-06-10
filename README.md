@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Python to NumPy &lpar;2017&rpar;](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [Reduced air pollution leads to higher crop yields](https://www.technologynetworks.com/applied-sciences/news/reduced-air-pollution-leads-to-higher-crop-yields-362214)
+- [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
+- [Quantum chip takes microseconds to do task that takes a supercomputer 9k years](https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/)
 - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
-- [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
-- [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
-- [Always Own Your Platform &lpar;2019&rpar;](http://www.alwaysownyourplatform.com/)
-- [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
