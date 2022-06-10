@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
+- [Claws Mail](https://www.claws-mail.org/)
 - [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
+- [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
 - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
-- [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
-- [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
-- [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
