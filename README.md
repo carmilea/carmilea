@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
 - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
+- [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
 - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
 - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
-- [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
-- [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
