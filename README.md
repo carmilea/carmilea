@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
-- [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
-- [Claws Mail](https://www.claws-mail.org/)
-- [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
-- [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
+- [The Svix Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Ask HN: How did you find your current job?](https://news.ycombinator.com/item?id=31692834)
+- [Cull your dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
+- [Try Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
+- [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
