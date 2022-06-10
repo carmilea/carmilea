@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
 - [Are You Suffering from Toxic Productivity?](https://paperform.co/blog/toxic-productivity/)
 - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
 - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
-- [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
 - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
 <!-- BLOG-POST-LIST:END -->
 
