@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
+- [Vladimir Putin, in speech, hints at further territorial expansion for Russia](https://www.smh.com.au/world/europe/vladimir-putin-in-speech-hints-at-further-territorial-expansion-for-russia-20220610-p5asq0.html)
+- [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
+- [Petzold&#39;s “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
-- [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
-- [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
-- [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
-- [Write HTML Right](http://lofi.limo/blog/write-html-right)
 <!-- BLOG-POST-LIST:END -->
 
 ---
