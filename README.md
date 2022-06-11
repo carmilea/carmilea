@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The DJB Legacy &lpar;2011&rpar;](https://skarnet.org/software/skalibs/djblegacy.html)
+- [L.A.&#39;s coast was once a DDT dumping ground &lpar;2020&rpar;](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
 - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
 - [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
 - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
-- [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
-- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
