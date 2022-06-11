@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brian Armstrong: This is really dumb on multiple levels](https://twitter.com/brian_armstrong/status/1535304943728414721)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
 - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
 - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
-- [The DJB Legacy &lpar;2011&rpar;](https://skarnet.org/software/skalibs/djblegacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
