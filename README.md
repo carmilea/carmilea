@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
 - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
-- [Activists rally to save Internet Archive as lawsuit threatens site &lpar;2020&rpar;](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
+- [Bye Bye Semantic Versioning, Say Hello to GitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
+- [No wait stop it matters how you raise your kids](https://wyclif.substack.com/p/no-wait-stop-it-matters-how-you-raise)
 - [Nintendo Nemesis Max Louarn: Hacker, Rebel, and Wanted by the FBI](https://torrentfreak.com/nintendo-nemesis-max-louarn-hacker-rebel-and-wanted-by-the-fbi-220611/)
-- [A British garden&#39;s rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
-- [A Facebook crawler was making 7M requests per day to my stupid website &lpar;2020&rpar;](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
