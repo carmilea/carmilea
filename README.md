@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
+- [I don&#39;t want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
+- [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
 - [DNS Toys](https://www.dns.toys/)
-- [Transparent stairs: what happens when no-one on the design team wears skirts](https://twitter.com/coereba/status/1534897063179128833)
-- [Taiwan to Deploy ‘Bee Eye’ Radars Near Chinese Mainland](https://www.thedefensepost.com/2022/06/10/taiwan-bee-eye-radars-china/)
-- [Eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
-- [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
+- [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
