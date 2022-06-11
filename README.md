@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brian Armstrong: This is really dumb on multiple levels](https://twitter.com/brian_armstrong/status/1535304943728414721)
+- [Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation](https://www.google.com/url?q=https://www.theguardian.com/business/2022/jun/10/apple-and-google-mobile-browser-stranglehold-may-face-uk-investigation&sa=U&ved=2ahUKEwjpu-2CgaX4AhVUiVwKHYjGAhUQFnoECAkQAg&usg=AOvVaw1-wQKzIpZQ_Q-hrV5PNKha)
+- [I turned down $500K, Pissed off my investors, and Shut down my startup](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/)
+- [MIT Ends Elsevier Negotiations &lpar;2020&rpar;](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
-- [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
 - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
-- [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
