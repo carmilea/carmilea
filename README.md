@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
 - [The DJB Legacy &lpar;2011&rpar;](https://skarnet.org/software/skalibs/djblegacy.html)
 - [L.A.&#39;s coast was once a DDT dumping ground &lpar;2020&rpar;](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
 - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
-- [Cooperation among an anonymous group protected Bitcoin during failures](https://arxiv.org/abs/2206.02871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
