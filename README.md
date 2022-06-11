@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
-- [I don&#39;t want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
-- [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
-- [DNS Toys](https://www.dns.toys/)
-- [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)
+- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
+- [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
+- [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [How big tech runs tech projects and the curious absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+- [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
