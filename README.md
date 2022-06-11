@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hollywood Can&#39;t Remember How to Make Movies Anymore](https://www.welltechnically.news/p/hollywood-cant-remember-how-to-make-movies)
+- [Silicon Valley braces for the good times to end](https://www.cnn.com/2022/06/09/tech/tech-downturn/index.html)
+- [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+- [Drop that fork Why eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
 - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
-- [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
-- [Bye Bye Semantic Versioning, Say Hello to GitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
-- [No wait stop it matters how you raise your kids](https://wyclif.substack.com/p/no-wait-stop-it-matters-how-you-raise)
-- [Nintendo Nemesis Max Louarn: Hacker, Rebel, and Wanted by the FBI](https://torrentfreak.com/nintendo-nemesis-max-louarn-hacker-rebel-and-wanted-by-the-fbi-220611/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
