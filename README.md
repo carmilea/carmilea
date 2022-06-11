@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hollywood Can&#39;t Remember How to Make Movies Anymore](https://www.welltechnically.news/p/hollywood-cant-remember-how-to-make-movies)
-- [Silicon Valley braces for the good times to end](https://www.cnn.com/2022/06/09/tech/tech-downturn/index.html)
-- [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
-- [Drop that fork Why eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
+- [DNS Toys](https://www.dns.toys/)
+- [Transparent stairs: what happens when no-one on the design team wears skirts](https://twitter.com/coereba/status/1534897063179128833)
+- [Taiwan to Deploy ‘Bee Eye’ Radars Near Chinese Mainland](https://www.thedefensepost.com/2022/06/10/taiwan-bee-eye-radars-china/)
+- [Eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
 - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
 <!-- BLOG-POST-LIST:END -->
 
