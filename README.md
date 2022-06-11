@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
+- [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
+- [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
+- [Ask HN: Is there a TV on the market without “Smart TV” features?](https://news.ycombinator.com/item?id=31706835)
 - [On the myth versus reality of 10x engineers](https://www.benkuhn.net/10x/)
-- [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
-- [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
-- [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
-- [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
