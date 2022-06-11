@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
-- [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
-- [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- [How big tech runs tech projects and the curious absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
-- [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
+- [On the myth versus reality of 10x engineers](https://www.benkuhn.net/10x/)
+- [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
+- [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
+- [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
+- [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
