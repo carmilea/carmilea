@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
+- [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
+- [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
+- [Crop Circles Were Made by Supernatural Forces. Named Doug and Dave](https://www.nytimes.com/2022/06/12/style/crop-circles.html)
 - [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
 - [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)
-- [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
-- [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
