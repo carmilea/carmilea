@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
+- [Parental alienation and the unregulated experts shattering children’s lives](https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives)
 - [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
+- [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
 - [IETF Tools](https://tools.ietf.org/)
-- [Stuxnet is embarrassing, not amazing &lpar;2011&rpar;](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
-- [Show HN: Go Template Preview – Powered by WebAssembly](https://gotemplate.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
