@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Go Template Preview &lpar;Powered by WebAssembly&rpar;](https://gotemplate.io/)
+- [I’m switching from VS Code to VS Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
 - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 - [Ask HN: Where are all the computers from the 1980&#39;s and 1990&#39;s?](https://news.ycombinator.com/item?id=31713331)
-- [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
