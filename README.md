@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Go Template Preview &lpar;Powered by WebAssembly&rpar;](https://gotemplate.io/)
-- [I’m switching from VS Code to VS Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
-- [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
-- [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
-- [Ask HN: Where are all the computers from the 1980&#39;s and 1990&#39;s?](https://news.ycombinator.com/item?id=31713331)
+- [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
+- [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
+- [IETF Tools](https://tools.ietf.org/)
+- [Stuxnet is embarrassing, not amazing &lpar;2011&rpar;](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
+- [Show HN: Go Template Preview – Powered by WebAssembly](https://gotemplate.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
