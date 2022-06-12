@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“We’re winding down Google Talk” on June 16, 2022](https://support.google.com/talk/?hl=en)
+- [We’re winding down Google Talk](https://support.google.com/talk/?hl=en)
 - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
 - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
