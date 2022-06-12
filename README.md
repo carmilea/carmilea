@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
+- [Eating more fish may be linked to higher melanoma risk](https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk)
+- [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
+- [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
 - [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
-- [Parental alienation and the unregulated experts shattering children’s lives](https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives)
-- [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
-- [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
-- [IETF Tools](https://tools.ietf.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
