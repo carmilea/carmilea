@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
+- [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
+- [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)
+- [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
 - [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
-- [Eating more fish may be linked to higher melanoma risk](https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk)
-- [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
-- [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
-- [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
