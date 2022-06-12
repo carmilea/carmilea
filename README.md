@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [The Story of the US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
-- [Ask HN: Why does WWDC get 10x more views than Google I/O?](https://news.ycombinator.com/item?id=31717821)
+- [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness in 2022](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
+- [Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
+- [The US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
 - [We’re winding down Google Talk](https://support.google.com/talk/?hl=en)
-- [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 <!-- BLOG-POST-LIST:END -->
 
 ---
