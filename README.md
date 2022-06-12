@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foone reverse engineering Skifree &lpar;Twitter thread&rpar;](https://twitter.com/Foone/status/1536053690368348160)
+- [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness in 2022](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
+- [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
 - [Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
-- [The US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
-- [We’re winding down Google Talk](https://support.google.com/talk/?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
