@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [The Story of the US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
+- [Ask HN: Why does WWDC get 10x more views than Google I/O?](https://news.ycombinator.com/item?id=31717821)
 - [We’re winding down Google Talk](https://support.google.com/talk/?hl=en)
 - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
-- [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
-- [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
-- [Crop Circles Were Made by Supernatural Forces. Named Doug and Dave](https://www.nytimes.com/2022/06/12/style/crop-circles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
