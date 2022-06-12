@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [She tracked her boyfriend using an AirTag – then killed him](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
+- [A New Day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
+- [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
 - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs &lpar;2011&rpar;](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
-- [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
-- [Ask HN: What&#39;s the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
-- [Show HN: The Amalgam Engine – Easily create isometric virtual worlds](https://github.com/Net5F/AmalgamEngine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
