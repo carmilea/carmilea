@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
+- [Show HN: Cleanup – UI app to erase the hard disk &lpar;Lite Touch MDT installation&rpar;](https://github.com/cregx/mdt-cleanup-harddrive-winpe)
 - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
-- [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
-- [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
-- [Risk of myocarditis after the Covid-19 mRNA vaccination in the USA cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00791-7/fulltext)
-- [Regular caffeine consumption affects brain structure](https://www.sciencedaily.com/releases/2021/02/210216100137.htm)
+- [Open Source federated link aggregator in rust](https://github.com/LemmyNet/lemmy)
+- [Shortsightedness has become an epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
