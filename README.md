@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [She tracked her boyfriend using an AirTag – then killed him](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
+- [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
+- [Woman accused of tracking boyfriend with Apple AirTag, killing him with car](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
+- [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
 - [A New Day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
-- [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
-- [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs &lpar;2011&rpar;](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
-- [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
+- [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
