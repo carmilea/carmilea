@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
-- [Woman accused of tracking boyfriend with Apple AirTag, killing him with car](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
 - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
-- [A New Day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
+- [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
 - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
+- [Adventures in Electronic Music &lpar;2011&rpar;](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
+- [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
