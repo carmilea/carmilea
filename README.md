@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Go Template Preview &lpar;Powered by WebAssembly&rpar;](https://gotemplate.io/)
+- [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
+- [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
+- [Ask HN: Where are all the computers from the 1980&#39;s and 1990&#39;s?](https://news.ycombinator.com/item?id=31713331)
 - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
-- [Show HN: Cleanup – UI app to erase the hard disk &lpar;Lite Touch MDT installation&rpar;](https://github.com/cregx/mdt-cleanup-harddrive-winpe)
-- [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
-- [Open Source federated link aggregator in rust](https://github.com/LemmyNet/lemmy)
-- [Shortsightedness has become an epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
