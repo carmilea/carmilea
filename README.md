@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
+- [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
+- [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
 - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
-- [A Short List of Hard Questions: How We Killed Arcus](https://www.psl.com/feed-posts/a-short-list-of-hard-questions-how-we-killed-arcus)
 - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
-- [Amazon Partially Down](https://news.ycombinator.com/item?id=31729261)
-- [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
 <!-- BLOG-POST-LIST:END -->
 
 ---
