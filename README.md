@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
-- [Binance ‘pauses’ Bitcoin withdrawals amid market collapse](https://www.telegraph.co.uk/business/2022/06/13/crypto-crash-continues-lender-celsius-pauses-withdrawals/)
-- [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
-- [Flavors of enums with Rust bindgen](https://www.mdaverde.com/posts/rust-bindgen-enum/)
-- [Reddit bans ‘SFW’ deepfake community](https://www.unite.ai/reddit-bans-sfw-deepfake-community/)
+- [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
+- [Diet Coke probably isn&#39;t a cognitive performance enhancer](https://dynomight.net/diet-coke-nootropic/)
+- [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
