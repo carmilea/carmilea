@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google and Facebook blocking wind farm because it will raise their electric bill](https://www.latimes.com/business/technology/story/2022-06-11/facebook-google-oppose-buffett-backed-wind-farm-project)
+- [Bitcoin plunges below $24,000, Celsius Network temporarily halts all withdrawals](https://www.cnn.com/2022/06/13/investing/bitcoin-price-celsius/index.html)
 - [Our Plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
 - [AssemblyAI &lpar;YC S17&rpar; Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950)
 - [Launch HN: Karate Labs &lpar;YC W22&rpar; – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
-- [The Fight to Hold Pornhub Accountable](https://www.newyorker.com/magazine/2022/06/20/the-fight-to-hold-pornhub-accountable)
-- [Binance has paused Bitcoin withdrawals “due to a stuck on-chain transaction”](https://twitter.com/binance/status/1536322033222664194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
