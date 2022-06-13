@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
-- [If Operating Systems Were Beers](https://beerme.com/beeros.php)
-- [Tachyum&#39;s Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP](https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/)
-- [Life after Guantanamo: &#39;We are still in jail&#39;](https://www.bbc.com/news/world-us-canada-61609417)
-- [Tron’s USDD stablecoin currently losing its peg](https://coinmarketcap.com/currencies/usdd/)
+- [Our Plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
+- [AssemblyAI &lpar;YC S17&rpar; Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950)
+- [Launch HN: Karate Labs &lpar;YC W22&rpar; – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
+- [The Fight to Hold Pornhub Accountable](https://www.newyorker.com/magazine/2022/06/20/the-fight-to-hold-pornhub-accountable)
+- [Binance has paused Bitcoin withdrawals “due to a stuck on-chain transaction”](https://twitter.com/binance/status/1536322033222664194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
