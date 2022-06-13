@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
+- [If Operating Systems Were Beers](https://beerme.com/beeros.php)
+- [Tachyum&#39;s Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP](https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/)
 - [Life after Guantanamo: &#39;We are still in jail&#39;](https://www.bbc.com/news/world-us-canada-61609417)
-- [Show HN: A way to torture an interviewer &lpar;C++, FizzBuzz&rpar;](https://news.ycombinator.com/item?id=31723446)
-- [Tether is starting to depeg from USD again](https://ftx.com/trade/USDT/USD)
-- [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)
-- [Major crypto lender Celsius freezes withdrawals as markets tumble](https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/)
+- [Tron’s USDD stablecoin currently losing its peg](https://coinmarketcap.com/currencies/usdd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
