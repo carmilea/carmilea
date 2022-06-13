@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
+- [Comparison of Data Lake Table Formats &lpar;Iceberg, Hudi and Delta Lake&rpar;](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
+- [Using TinyCC to compile Linux &lpar;2.4&rpar; kernels](https://github.com/seyko2/tccboot)
 - [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
 - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
-- [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
-- [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
-- [Show HN: Reddit search engine for startup founders](https://gummysearch.com/*)
 <!-- BLOG-POST-LIST:END -->
 
 ---
