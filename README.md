@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Open Letter to the Next School Shooter](https://www.unprepared.life/p/an-open-letter-to-the-next-school)
+- [No, LaMDA is not sentient. Not even slightly](https://garymarcus.substack.com/p/nonsense-on-stilts)
 - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
-- [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
-- [Mptcp: Moving laptop from GBit to wireless without applications noticing?](https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
