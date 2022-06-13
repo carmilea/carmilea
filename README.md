@@ -54,8 +54,8 @@
 - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
 - [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
-- [Show HN: Reddit search engine for startup founders](https://gummysearch.com/*)
 - [Mptcp: Moving laptop from GBit to wireless without applications noticing?](https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth)
+- [Robert Jordan, the Man Who Connecticut Police Said Was ‘Too Smart to Be a Cop’](https://melmagazine.com/en-us/story/robert-jordan-too-smart-to-be-a-cop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
