@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
+- [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
+- [Photos of chickens, taken by chickens](https://chicken.photos/)
 - [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
 - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
 - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
-- [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
