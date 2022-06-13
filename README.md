@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
-- [Comparison of Data Lake Table Formats &lpar;Iceberg, Hudi and Delta Lake&rpar;](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
-- [Using TinyCC to compile Linux &lpar;2.4&rpar; kernels](https://github.com/seyko2/tccboot)
-- [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
-- [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
+- [Life after Guantanamo: &#39;We are still in jail&#39;](https://www.bbc.com/news/world-us-canada-61609417)
+- [Show HN: A way to torture an interviewer &lpar;C++, FizzBuzz&rpar;](https://news.ycombinator.com/item?id=31723446)
+- [Tether is starting to depeg from USD again](https://ftx.com/trade/USDT/USD)
+- [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)
+- [Major crypto lender Celsius freezes withdrawals as markets tumble](https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
