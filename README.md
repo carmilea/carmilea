@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
+- [A Short List of Hard Questions: How We Killed Arcus](https://www.psl.com/feed-posts/a-short-list-of-hard-questions-how-we-killed-arcus)
+- [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
+- [Amazon Partially Down](https://news.ycombinator.com/item?id=31729261)
 - [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
-- [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
-- [Show HN: Voice Clones for Creators](https://coqui.ai/#)
-- [Think U.S. Gas Prices at $5 a Gallon Are Bad? Try $10](https://globelynews.com/world/gas-prices-by-country-petrol/)
-- [The Developer&#39;s Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
