@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
 - [LaMDA is not sentient](https://garymarcus.substack.com/p/nonsense-on-stilts)
 - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
-- [Show HN: Reddit search engine for startup founders](https://gummysearch.com/*)
 <!-- BLOG-POST-LIST:END -->
 
 ---
