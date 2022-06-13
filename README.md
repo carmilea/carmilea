@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fresh – The next-gen web framework](https://fresh.deno.dev/)
+- [Google Will Eat Itself &lpar;2005&rpar;](https://www.gwei.org/index.php)
 - [Foone reverse engineering Skifree &lpar;Twitter thread&rpar;](https://twitter.com/Foone/status/1536053690368348160)
+- [Show HN: Cleanup Photos by Dragging Boxes](https://cleanupphotos.com)
 - [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
-- [Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
