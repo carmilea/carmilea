@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh – The next-gen web framework](https://fresh.deno.dev/)
-- [Google Will Eat Itself &lpar;2005&rpar;](https://www.gwei.org/index.php)
-- [Foone reverse engineering Skifree &lpar;Twitter thread&rpar;](https://twitter.com/Foone/status/1536053690368348160)
-- [Show HN: Cleanup Photos by Dragging Boxes](https://cleanupphotos.com)
-- [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
+- [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
+- [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
+- [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
+- [Show HN: Reddit search engine for startup founders](https://gummysearch.com/*)
+- [Mptcp: Moving laptop from GBit to wireless without applications noticing?](https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
