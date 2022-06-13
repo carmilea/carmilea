@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Tuc – when cut doesn’t cut it](https://github.com/riquito/tuc)
-- [Our Plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
-- [AssemblyAI &lpar;YC S17&rpar; Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950)
-- [Launch HN: Karate Labs &lpar;YC W22&rpar; – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
-- [Temporary pause of Bitcoin withdrawals on Binance](https://twitter.com/cz_binance/status/1536317704990208000)
+- [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
+- [Binance ‘pauses’ Bitcoin withdrawals amid market collapse](https://www.telegraph.co.uk/business/2022/06/13/crypto-crash-continues-lender-celsius-pauses-withdrawals/)
+- [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
+- [Flavors of enums with Rust bindgen](https://www.mdaverde.com/posts/rust-bindgen-enum/)
+- [Reddit bans ‘SFW’ deepfake community](https://www.unite.ai/reddit-bans-sfw-deepfake-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
