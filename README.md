@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
-- [Diet Coke probably isn&#39;t a cognitive performance enhancer](https://dynomight.net/diet-coke-nootropic/)
-- [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
+- [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
+- [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
+- [Show HN: Voice Clones for Creators](https://coqui.ai/#)
+- [Think U.S. Gas Prices at $5 a Gallon Are Bad? Try $10](https://globelynews.com/world/gas-prices-by-country-petrol/)
+- [The Developer&#39;s Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
