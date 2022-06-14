@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)
+- [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+- [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
+- [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
+- [Why I Don&#39;t Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
 - [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
-- [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
-- [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
-- [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
