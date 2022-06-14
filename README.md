@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Enterprise SSO is broken, and they don&#39;t care](https://notes.acuteaura.net/posts/github-enterprise-security/)
-- [Digibarn Devices: Xerox Star Keyboard](https://digibarn.com/friends/curbow/star/keyboard/)
-- [IBM ordered to hand over ex-CEO emails plotting cuts in older workers](https://www.theregister.com/2022/06/13/ibm_discrimination_email/)
-- [Creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
-- [Fork&lpar;&rpar; without exec&lpar;&rpar; is dangerous in large programs](https://www.evanjones.ca/fork-is-dangerous.html)
+- [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
+- [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
+- [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
+- [Jail time for online insults, bullying. Japan passes new law.](https://mainichi.jp/english/articles/20220613/p2a/00m/0na/011000c)
+- [ADHD Medication increases risk of Depression in Kids &lpar;Study&rpar; &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
