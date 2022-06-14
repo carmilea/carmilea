@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
-- [Show HN: Plain Text Cryptocurrency Prices](https://plaintextco.in)
-- [Plasma 5.25](https://kde.org/announcements/plasma/5/5.25.0/)
-- [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
-- [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
+- [GitHub Enterprise SSO is broken, and they don&#39;t care](https://notes.acuteaura.net/posts/github-enterprise-security/)
+- [Digibarn Devices: Xerox Star Keyboard](https://digibarn.com/friends/curbow/star/keyboard/)
+- [IBM ordered to hand over ex-CEO emails plotting cuts in older workers](https://www.theregister.com/2022/06/13/ibm_discrimination_email/)
+- [Creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+- [Fork&lpar;&rpar; without exec&lpar;&rpar; is dangerous in large programs](https://www.evanjones.ca/fork-is-dangerous.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
