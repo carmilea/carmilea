@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a dashboard in Python with Jupyter Notebook](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
 - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
 - [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
-- [On the angst of American journalists &lpar;2019&rpar;](https://scholars-stage.org/on-the-angst-of-american-journalists/)
-- [Celsius Appears insolvent, and it&#39;s taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
-- [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
+- [What’s Going on with Sriracha?](https://www.grid.news/story/economy/2022/06/13/whats-going-on-with-sriracha/)
+- [El Salvador&#39;s Bitcoin Buys Tracker](https://nayibtracker.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
