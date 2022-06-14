@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Maraschino Mogul’s Secret Life: How a cherry factory turned bees red &lpar;2010&rpar;](https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life)
-- [How to create a dashboard in Python with Jupyter Notebook](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
-- [Ask HN: CS grad who barely knows any CS](https://news.ycombinator.com/item?id=31736094)
-- [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
-- [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
+- [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
+- [Ask HN: Do people want a LinkedIn alternative?](https://news.ycombinator.com/item?id=31736853)
+- [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
+- [Parsing R code: Freedom of expression is not always a good idea &lpar;2012&rpar;](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
+- [Why Rust is a great choice for startups](https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
