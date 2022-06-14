@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Any Sales Engineers out here?](https://news.ycombinator.com/item?id=31741881)
-- [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
-- [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
-- [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
-- [ADHD Medication increases risk of Depression in Kids &lpar;Study&rpar; &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
+- [FDA Approves First Systemic Treatment for Alopecia Areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
+- [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
+- [Hertzbleed Attack](https://www.hertzbleed.com/)
+- [Heroku April 2022 Incident Review](https://blog.heroku.com/april-2022-incident-review)
+- [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
