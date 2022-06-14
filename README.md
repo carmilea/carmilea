@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
+- [Ask HN: Any Sales Engineers out here?](https://news.ycombinator.com/item?id=31741881)
+- [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 - [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
-- [Jail time for online insults, bullying. Japan passes new law.](https://mainichi.jp/english/articles/20220613/p2a/00m/0na/011000c)
 - [ADHD Medication increases risk of Depression in Kids &lpar;Study&rpar; &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
 <!-- BLOG-POST-LIST:END -->
 
