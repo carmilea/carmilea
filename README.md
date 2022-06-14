@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infants&#39; sense of pain is recognized, finally &lpar;1987&rpar;](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
 - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
-- [FDA Approves First Systemic Treatment for Alopecia Areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
-- [Amazon Builds Property Empire, Quietly Buying Land Across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
-- [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
-- [Hertzbleed Attack](https://www.hertzbleed.com/)
+- [Situating Search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816)
+- [FDA approves first systemic treatment for alopecia areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
+- [Amazon builds property empire, quietly buying land across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
