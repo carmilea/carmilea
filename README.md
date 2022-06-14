@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Maraschino Mogul’s Secret Life: How a cherry factory turned bees red &lpar;2010&rpar;](https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life)
 - [How to create a dashboard in Python with Jupyter Notebook](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
+- [Ask HN: CS grad who barely knows any CS](https://news.ycombinator.com/item?id=31736094)
 - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
 - [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
-- [What’s Going on with Sriracha?](https://www.grid.news/story/economy/2022/06/13/whats-going-on-with-sriracha/)
-- [El Salvador&#39;s Bitcoin Buys Tracker](https://nayibtracker.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
