@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)
+- [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
 - [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
 - [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
-- [“Downthem” DDoS-for-Hire Boss Gets 2 Years in Prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
-- [Stanford’s war on social life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
-- [Human attention has become a commodity](https://mebassett.info/human-attention-commodity)
+- [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
