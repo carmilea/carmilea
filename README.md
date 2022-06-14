@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
-- [Ask HN: Do people want a LinkedIn alternative?](https://news.ycombinator.com/item?id=31736853)
+- [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
+- [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
+- [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
 - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
 - [Parsing R code: Freedom of expression is not always a good idea &lpar;2012&rpar;](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
-- [Why Rust is a great choice for startups](https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
