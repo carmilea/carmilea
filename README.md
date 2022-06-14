@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Angst of American Journalists &lpar;2019&rpar;](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+- [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
+- [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
+- [On the angst of American journalists &lpar;2019&rpar;](https://scholars-stage.org/on-the-angst-of-american-journalists/)
 - [Celsius Appears insolvent, and it&#39;s taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
-- [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
-- [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
