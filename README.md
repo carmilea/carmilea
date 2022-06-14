@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+- [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
+- [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
 - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
 - [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
-- [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
-- [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
-- [Parsing R code: Freedom of expression is not always a good idea &lpar;2012&rpar;](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
