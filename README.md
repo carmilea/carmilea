@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
 - [FDA Approves First Systemic Treatment for Alopecia Areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
+- [Amazon Builds Property Empire, Quietly Buying Land Across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 - [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
 - [Hertzbleed Attack](https://www.hertzbleed.com/)
-- [Heroku April 2022 Incident Review](https://blog.heroku.com/april-2022-incident-review)
-- [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
