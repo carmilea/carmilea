@@ -55,7 +55,7 @@
 - [Celsius Appears insolvent, and it&#39;s taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
-- [Why I Don&#39;t Like Golang &lpar;2016&rpar;](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
+- [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
