@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You vs. A Billionaire: compare your income](https://youvsabillionaire.com/)
 - [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
 - [Kodable &lpar;YC IK12&rpar; is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
 - [Ransomware group debuts searchable victim data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
 - [Infants&#39; sense of pain is recognized, finally &lpar;1987&rpar;](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
-- [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
 <!-- BLOG-POST-LIST:END -->
 
 ---
