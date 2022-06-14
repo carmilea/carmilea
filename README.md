@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
-- [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
-- [Photos of chickens, taken by chickens](https://chicken.photos/)
-- [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
-- [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
+- [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
+- [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
+- [“Downthem” DDoS-for-Hire Boss Gets 2 Years in Prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
+- [Stanford’s war on social life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
+- [Human attention has become a commodity](https://mebassett.info/human-attention-commodity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
