@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Git Origin Story &lpar;2018&rpar;](https://www.linuxjournal.com/content/git-origin-story)
-- [Porter &lpar;YC S20&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/porter/jobs)
-- [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
-- [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
-- [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
+- [Teslas running Autopilot have been in 273 crashes in less than a year](https://www.washingtonpost.com/technology/2022/06/15/tesla-autopilot-crashes/)
+- [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
+- [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)
+- [UK Ends Subsidies for Electric Cars](https://www.gov.uk/government/news/plug-in-grant-for-cars-to-end-as-focus-moves-to-improving-electric-vehicle-charging)
+- [What happened to proper tail calls in JavaScript? &lpar;2021&rpar;](https://www.mgmarlow.com/words/2021-03-27-proper-tail-calls-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
