@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You vs. A Billionaire: compare your income](https://youvsabillionaire.com/)
-- [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
-- [Kodable &lpar;YC IK12&rpar; is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
-- [Ransomware group debuts searchable victim data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
-- [Infants&#39; sense of pain is recognized, finally &lpar;1987&rpar;](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
+- [Major water cutbacks loom as shrinking Colorado River nears ‘moment of reckoning](https://www.latimes.com/environment/story/2022-06-14/big-water-cutbacks-ordered-amid-colorado-river-shortage)
+- [Show HN: Thoughts on Digital Sticky Notes](https://news.ycombinator.com/item?id=31747850)
+- [Docker on &lpar;rooted&rpar; Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
+- [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
+- [The First High-Yield, Sub-Penny Plastic Processor](https://spectrum.ieee.org/plastic-microprocessor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
