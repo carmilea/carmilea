@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
 - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
 - [Cheat sheet for if I&#39;m gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
-- [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
