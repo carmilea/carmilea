@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teslas running Autopilot have been in 273 crashes in less than a year](https://www.washingtonpost.com/technology/2022/06/15/tesla-autopilot-crashes/)
+- [What workers want: raises that beat inflation](https://www.axios.com/2022/06/15/what-workers-really-want-raises-that-beat-inflation)
+- [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
+- [40% of single Japanese men in their 20s have never been on a date, survey says](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
 - [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
 - [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)
-- [UK Ends Subsidies for Electric Cars](https://www.gov.uk/government/news/plug-in-grant-for-cars-to-end-as-focus-moves-to-improving-electric-vehicle-charging)
-- [What happened to proper tail calls in JavaScript? &lpar;2021&rpar;](https://www.mgmarlow.com/words/2021-03-27-proper-tail-calls-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
