@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear Is Back on the Table for a Green Future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
+- [Internet Explorer 11 has retired and is officially out of support](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
 - [What workers want: raises that beat inflation](https://www.axios.com/2022/06/15/what-workers-really-want-raises-that-beat-inflation)
 - [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
-- [40% of single Japanese men in their 20s have never been on a date, survey says](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
-- [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
-- [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)
+- [Many single Japanese people in their 20s have never been on a date – survey](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
