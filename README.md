@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Git Origin Story &lpar;2018&rpar;](https://www.linuxjournal.com/content/git-origin-story)
+- [Porter &lpar;YC S20&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/porter/jobs)
+- [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
+- [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
 - [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
-- [Intel 4 Process Node in Detail: 2x Density Scaling, 20% Improved Performance](https://www.anandtech.com/show/17448/intel-4-process-node-in-detail-2x-density-scaling-20-improved-performance)
-- [Apple Could Kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens)
-- [OCaml 5.0 Alpha Release](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026)
-- [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
