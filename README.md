@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear Is Back on the Table for a Green Future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
-- [Internet Explorer 11 has retired and is officially out of support](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
-- [What workers want: raises that beat inflation](https://www.axios.com/2022/06/15/what-workers-really-want-raises-that-beat-inflation)
-- [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
-- [Many single Japanese people in their 20s have never been on a date – survey](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
+- [SingleStoreDB Outshines Major Database Competitors in TCO Study](https://www.singlestore.com/blog/singlestoredb-outshines-database-competitors-tco-study)
+- [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
+- [Does the Tank Have a Future?](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)
+- [Despite crypto layoffs, Kraken continues to hire](https://blog.kraken.com/post/14372/kraken-announces-global-hiring-push-and-commitment-to-crypto-first-culture/)
+- [A biological super glue from mistletoe berries?](https://www.mcgill.ca/newsroom/channels/news/biological-super-glue-mistletoe-berries-339907)
 <!-- BLOG-POST-LIST:END -->
 
 ---
