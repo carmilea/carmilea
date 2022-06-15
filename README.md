@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
 - [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
-- [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
 - [Explore Matter, the new smart home standard, in Home Assistant](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
 - [spaCy: SpanCategorizer a new component that handles overlapping spans](https://explosion.ai/blog/spancat/)
+- [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
