@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dubious Science of Microaggressions](https://unsafescience.substack.com/p/the-dubious-science-of-microaggressions)
 - [Reverie Labs &lpar;YC W18&rpar; Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
 - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
 - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
 - [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
-- [What should you do with your stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
