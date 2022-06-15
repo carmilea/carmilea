@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverie Labs &lpar;YC W18&rpar; Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
+- [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
+- [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 - [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
 - [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
-- [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
-- [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
-- [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
