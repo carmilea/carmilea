@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
+- [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
+- [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
+- [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
-- [Federal Reserve raises rates by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
-- [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
-- [Undersea Cables Off Hawaii Targeted by Malicious Actors](https://twitter.com/willmanidis/status/1537071965608943616)
-- [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
