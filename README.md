@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
-- [Cheat Sheet for If I&#39;m Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
+- [Cheat sheet for if I&#39;m gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
 - [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
-- [Why duck typing &lpar;and structural subtyping&rpar; is safe](http://www.jerf.org/iri/post/2954)
+- [Duck typing is safe &lpar;2020&rpar;](http://www.jerf.org/iri/post/2954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
