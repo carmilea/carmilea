@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Journey is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
-- [Heroku 22 Stack](https://devcenter.heroku.com/articles/heroku-22-stack)
-- [SingleStoreDB Outshines Major Database Competitors in TCO Study](https://www.singlestore.com/blog/singlestoredb-outshines-database-competitors-tco-study)
-- [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
-- [Despite crypto layoffs, Kraken continues to hire](https://blog.kraken.com/post/14372/kraken-announces-global-hiring-push-and-commitment-to-crypto-first-culture/)
+- [Federal Reserve Raises Raises by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
+- [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
+- [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
+- [Show HN: Soliciting post placement on Hacker News](https://news.ycombinator.com/item?id=31756569)
+- [A single prophylactic 200mg dose of Doxycyline prevents Lyme disease](https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
