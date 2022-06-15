@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Major water cutbacks loom as shrinking Colorado River nears ‘moment of reckoning](https://www.latimes.com/environment/story/2022-06-14/big-water-cutbacks-ordered-amid-colorado-river-shortage)
-- [Show HN: Thoughts on Digital Sticky Notes](https://news.ycombinator.com/item?id=31747850)
-- [Docker on &lpar;rooted&rpar; Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
-- [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
-- [The First High-Yield, Sub-Penny Plastic Processor](https://spectrum.ieee.org/plastic-microprocessor)
+- [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
+- [Cheat Sheet for If I&#39;m Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
+- [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
+- [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
+- [Why duck typing &lpar;and structural subtyping&rpar; is safe](http://www.jerf.org/iri/post/2954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
