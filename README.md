@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CeresDB: A high-perf, distributed, schema-less and time-series database &lpar;Rust&rpar;](https://github.com/CeresDB/ceresdb)
+- [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
+- [Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
+- [/new convention: think of it as “dotfiles” but “for computers”](https://ghuntley.com/slash-new/)
+- [We Put Half a Million Files in One Git Repository, Here’s What We Learned](https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181)
 - [PicnicHealth &lpar;YC S14&rpar; is hiring Product Engineers to transform healthcare data](https://picnichealth.com/career-details?gh_jid=6202435002)
-- [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
-- [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
-- [“Crypto drainer” template facilitates theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
