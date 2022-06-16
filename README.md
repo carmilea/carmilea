@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Be Stoic: Roman Stoicism’s origins show its perniciousness](https://psyche.co/ideas/dont-be-stoic-roman-stoicisms-origins-show-its-perniciousness)
+- [CeresDB: A high-perf, distributed, schema-less and time-series database &lpar;Rust&rpar;](https://github.com/CeresDB/ceresdb)
 - [PicnicHealth &lpar;YC S14&rpar; is hiring Product Engineers to transform healthcare data](https://picnichealth.com/career-details?gh_jid=6202435002)
 - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
 - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
-- [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
+- [“Crypto drainer” template facilitates theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
