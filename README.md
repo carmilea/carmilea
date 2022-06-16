@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 - [I&#39;m making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
-- [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
+- [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 - [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
-- [Barber License in Rhode Island – Step 1: 1500 Hr Barber Training Program](https://www.barber-license.com/rhode-island/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
