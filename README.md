@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
+- [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
+- [Cults at Google](https://twitter.com/alphabetworkers/status/1537396946691772416)
 - [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
-- [Investors Think They’re More Impactful Than They Are](https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html)
-- [Asking for a date of birth – Design in government](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
-- [Wails – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
-- [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
+- [NextDNS API](https://nextdns.github.io/api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
