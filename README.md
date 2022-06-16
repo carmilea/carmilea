@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Padlet &lpar;YC W13&rpar; is hiring in SF to build software for a good education](https://padlet.jobs)
 - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
 - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
 - [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
 - [Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
-- [/new convention: think of it as “dotfiles” but “for computers”](https://ghuntley.com/slash-new/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
