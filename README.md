@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geekbench 5 Metal GPU scores have leaked for Apple&#39;s M2 Chip](https://twitter.com/vadimyuryev/status/1537134411962937344)
+- [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
 - [Padlet &lpar;YC W13&rpar; is hiring in SF to build software for a good education](https://padlet.jobs)
 - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
 - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
-- [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
-- [Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
