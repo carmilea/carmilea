@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wails 1.0 – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
+- [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
+- [Investors Think They’re More Impactful Than They Are](https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html)
+- [Asking for a date of birth – Design in government](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
+- [Wails – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
 - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
-- [Ask HN: Side projects that are making money, but you&#39;d not talk about them?](https://news.ycombinator.com/item?id=31764696)
-- [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
-- [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
