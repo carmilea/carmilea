@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasmer – The Universal WebAssembly Runtime](https://wasmer.io/)
+- [Reddit acquires ML startup Spell](https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell)
+- [CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack](https://www.thezdi.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack)
+- [Commodore Branded Kickstarter Gets Hit by IP Troll](https://www.amigalove.com/viewtopic.php?t=2254)
 - [Fish Shell 3.5.0](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022)
-- [Keeper Tax &lpar;YC W19&rpar; Is Hiring a freelance designer &lpar;design systems&rpar;](https://www.ycombinator.com/companies/keeper-tax/jobs/RsXu0Yl-product-designer-design-systems-contract)
-- [The silent majority of experts &lpar;2012&rpar;](https://prog21.dadgum.com/143.html)
-- [No, QuestDB is not Faster than ClickHouse](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15)
-- [Show HN: Recut automatically removes silence from videos. It&#39;s built with Tauri](https://getrecut.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
