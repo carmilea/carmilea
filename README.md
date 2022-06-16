@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
+- [I&#39;m making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
+- [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
-- [Cults at Google](https://twitter.com/alphabetworkers/status/1537396946691772416)
-- [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
-- [NextDNS API](https://nextdns.github.io/api/)
+- [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
+- [Barber License in Rhode Island – Step 1: 1500 Hr Barber Training Program](https://www.barber-license.com/rhode-island/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
