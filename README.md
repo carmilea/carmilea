@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
-- [I&#39;m making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
-- [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
-- [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
-- [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
+- [Fish Shell 3.5.0](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022)
+- [Keeper Tax &lpar;YC W19&rpar; Is Hiring a freelance designer &lpar;design systems&rpar;](https://www.ycombinator.com/companies/keeper-tax/jobs/RsXu0Yl-product-designer-design-systems-contract)
+- [The silent majority of experts &lpar;2012&rpar;](https://prog21.dadgum.com/143.html)
+- [No, QuestDB is not Faster than ClickHouse](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15)
+- [Show HN: Recut automatically removes silence from videos. It&#39;s built with Tauri](https://getrecut.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
