@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geekbench 5 Metal GPU scores have leaked for Apple&#39;s M2 Chip](https://twitter.com/vadimyuryev/status/1537134411962937344)
+- [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
+- [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
+- [Brave breaks language reporting in browser for more anonymity](https://brave.com/privacy-updates/17-language-fingerprinting/)
 - [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
-- [Padlet &lpar;YC W13&rpar; is hiring in SF to build software for a good education](https://padlet.jobs)
-- [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
-- [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
+- [Read Easy – Dyslexia, ADHD, and SSS Helper](https://chrome.google.com/webstore/detail/read-easy-dyslexia-adhd-a/oihhpemnlfdlkdhbiajjjkbbojdojchj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
