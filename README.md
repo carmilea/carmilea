@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What has melted your brain recently?](https://news.ycombinator.com/item?id=31764041)
 - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
 - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
 - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 - [Brave breaks language reporting in browser for more anonymity in strict mode](https://brave.com/privacy-updates/17-language-fingerprinting/)
+- [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
 <!-- BLOG-POST-LIST:END -->
 
 ---
