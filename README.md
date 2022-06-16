@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
+- [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
+- [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
 - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
 - [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
-- [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
-- [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
-- [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
