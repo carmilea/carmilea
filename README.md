@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
 - [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
 - [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 - [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
-- [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
