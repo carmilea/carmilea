@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
+- [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 - [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
-- [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
 - [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
