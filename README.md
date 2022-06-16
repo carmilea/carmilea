@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
+- [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
+- [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
 - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
-- [Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
-- [The computers are fast, but you don&#39;t know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
-- [Visualizing Elliptic Curves](https://curves.ulfheim.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
