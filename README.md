@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasmer – The Universal WebAssembly Runtime](https://wasmer.io/)
-- [Reddit acquires ML startup Spell](https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell)
-- [CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack](https://www.thezdi.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack)
-- [Commodore Branded Kickstarter Gets Hit by IP Troll](https://www.amigalove.com/viewtopic.php?t=2254)
-- [Fish Shell 3.5.0](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022)
+- [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
+- [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
+- [Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
+- [The computers are fast, but you don&#39;t know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
+- [Visualizing Elliptic Curves](https://curves.ulfheim.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
