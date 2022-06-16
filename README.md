@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
-- [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
-- [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
-- [Brave breaks language reporting in browser for more anonymity in strict mode](https://brave.com/privacy-updates/17-language-fingerprinting/)
-- [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
+- [Wails 1.0 – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
+- [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
+- [Ask HN: Side projects that are making money, but you&#39;d not talk about them?](https://news.ycombinator.com/item?id=31764696)
+- [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
+- [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
