@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
 - [Smarking &lpar;YC W15&rpar; Is Hiring ML Eng to scale dynamic pricing for $655B parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 - [Kickstarter Union voted 97.6% to ratify one of the first tech union contracts](https://twitter.com/ksr_united/status/1537828455403900928)
-- [SingleStoreDB on Google Cloud: The Backbone of Your Data Infrastructure](https://www.singlestore.com/blog/singlestoredb-on-google-cloud-the-backbone-of-your-data-infrastructure)
-- [Ask HN: What news subscription is worth it?](https://news.ycombinator.com/item?id=31780355)
+- [Polar bear population discovered that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
