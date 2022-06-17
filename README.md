@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
+- [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
+- [Ask HN: In these uncertain times, how do you handle anxiousness](https://news.ycombinator.com/item?id=31775411)
+- [Ante: A low-level functional language](https://antelang.org/)
 - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
-- [Behind the Scenes of a Bank Takeover by FDIC &lpar;1986&rpar;](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
-- [Shottr – macOS Screenshot Utility](https://shottr.cc)
-- [EPA: &#39;Forever chemicals&#39; pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
-- [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
