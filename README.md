@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: I haven&#39;t answered a call from Google Ads, this is what happened](https://news.ycombinator.com/item?id=31777650)
 - [SpaceX Fires Employees Involved in Letter Critical of Musk](https://www.wsj.com/articles/spacex-fires-employees-involved-in-letter-critical-of-musk-company-11655471021)
 - [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
-- [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts?](https://news.ycombinator.com/item?id=31777328)
 - [Ploopy open source thumb trackball](https://ploopy.co/thumb-trackball/)
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 <!-- BLOG-POST-LIST:END -->
