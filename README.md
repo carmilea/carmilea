@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 13,000 Vivo phones found to be using same IMEI number &lpar;2020&rpar;](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
-- [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
-- [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
-- [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
-- [Ask HN: In these uncertain times, how do you handle anxiousness](https://news.ycombinator.com/item?id=31775411)
+- [Adding a Rust compiler front end to GCC [video]](https://www.youtube.com/watch?v=R8Pr21nlhig)
+- [Probiotics can support the effect of antidepressants](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html)
+- [The bait-and-switch hidden in today’s cookie announcement](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
+- [Fed plans to ‘reset’ the housing market–raising likelihood of falling homeprices](https://finance.yahoo.com/news/fed-plans-reset-housing-market-215259418.html)
+- [Bundling binary tools in Python wheels](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
