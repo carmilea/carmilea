@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Rust compiler front end to GCC [video]](https://www.youtube.com/watch?v=R8Pr21nlhig)
-- [Probiotics can support the effect of antidepressants](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html)
-- [The bait-and-switch hidden in today’s cookie announcement](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
-- [Fed plans to ‘reset’ the housing market–raising likelihood of falling homeprices](https://finance.yahoo.com/news/fed-plans-reset-housing-market-215259418.html)
-- [Bundling binary tools in Python wheels](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/)
+- [SpaceX Fires Employees Involved in Letter Critical of Musk](https://www.wsj.com/articles/spacex-fires-employees-involved-in-letter-critical-of-musk-company-11655471021)
+- [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
+- [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts?](https://news.ycombinator.com/item?id=31777328)
+- [Ploopy open source thumb trackball](https://ploopy.co/thumb-trackball/)
+- [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 <!-- BLOG-POST-LIST:END -->
 
 ---
