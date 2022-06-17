@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA: &#39;Forever chemicals&#39; pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
+- [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 - [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
-- [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
-- [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
