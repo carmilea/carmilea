@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a powerful news shortening algorithm. I&#39;m not sure how to utilize it](https://news.ycombinator.com/item?id=31779260)
+- [Nanokelvin-resolution thermometry at room temperature](https://www.nature.com/articles/s41566-022-01011-0)
+- [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 - [SpaceX fires employees behind letter slamming Musk, tells staff: “Stay focused”](https://arstechnica.com/tech-policy/2022/06/spacex-fired-employees-who-wrote-letter-slamming-musks-embarrassing-behavior/)
 - [Leaked Amazon memo warns the company is running out of people to hire](https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage)
-- [Gnome has no thumbnails in the file picker and my toilets are blocked &lpar;2021&rpar;](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
-- [Sue Big Oil](https://suebigoil.ca/#newmode-embed-4723-49074)
+- [FDA Denies Petition to Ban All Phthalates in Food Packaging](https://www.consumerreports.org/food-safety/fda-denies-petition-to-ban-all-phthalates-in-food-packaging-a8313932149/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
