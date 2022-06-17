@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best Dev Tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
 - [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
-- [Smarking &lpar;YC W15&rpar; Is Hiring ML Eng to scale dynamic pricing for $655B parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [Kickstarter Union voted 97.6% to ratify one of the first tech union contracts](https://twitter.com/ksr_united/status/1537828455403900928)
-- [Polar bear population discovered that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
+- [Smarking &lpar;YC W15&rpar; is hiring ML engineers to scale dynamic pricing for parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [Polar bears that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
