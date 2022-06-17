@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
+- [The Privatized Internet Has Failed Us](https://slatereport.com/tech/the-privatized-internet-has-failed-us/)
 - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)
 - [Twitter Space Recap: Bringing the Heat on Data Intensity](https://www.singlestore.com/blog/twitter-space-recap-bringing-the-heat-on-data-intensity)
-- [Ask HN: Best dev tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
-- [Alien intelligence and the concept of technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
-- [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
+- [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
