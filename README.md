@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 13,000 Vivo phones found to be using same IMEI number &lpar;2020&rpar;](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
 - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
 - [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
 - [Ask HN: In these uncertain times, how do you handle anxiousness](https://news.ycombinator.com/item?id=31775411)
 - [Ante: A low-level functional language](https://antelang.org/)
-- [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
