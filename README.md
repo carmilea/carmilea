@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [36% of high earners are living paycheck to paycheck](https://www.cnbc.com/2022/06/16/more-high-earners-are-living-paycheck-to-paycheck.html)
+- [Brex: No Longer a Qualified Customer](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 - [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
 - [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
-- [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
-- [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
