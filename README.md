@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Said to Fire Employees Involved in Letter Rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
 - [Behind the Scenes of a Bank Takeover by FDIC &lpar;1986&rpar;](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
 - [Shottr – macOS Screenshot Utility](https://shottr.cc)
 - [EPA: &#39;Forever chemicals&#39; pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
 - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
-- [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
