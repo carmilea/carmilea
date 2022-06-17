@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: I haven&#39;t answered a call from Google Ads, this is what happened](https://news.ycombinator.com/item?id=31777650)
-- [SpaceX Fires Employees Involved in Letter Critical of Musk](https://www.wsj.com/articles/spacex-fires-employees-involved-in-letter-critical-of-musk-company-11655471021)
-- [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
-- [Ploopy open source thumb trackball](https://ploopy.co/thumb-trackball/)
-- [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+- [I created a powerful news shortening algorithm. I&#39;m not sure how to utilize it](https://news.ycombinator.com/item?id=31779260)
+- [SpaceX fires employees behind letter slamming Musk, tells staff: “Stay focused”](https://arstechnica.com/tech-policy/2022/06/spacex-fired-employees-who-wrote-letter-slamming-musks-embarrassing-behavior/)
+- [Leaked Amazon memo warns the company is running out of people to hire](https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage)
+- [Gnome has no thumbnails in the file picker and my toilets are blocked &lpar;2021&rpar;](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
+- [Sue Big Oil](https://suebigoil.ca/#newmode-embed-4723-49074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
