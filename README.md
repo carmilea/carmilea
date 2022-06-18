@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
-- [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
-- [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
-- [The Day The Standard Library Died &lpar;2020&rpar;](https://cor3ntin.github.io/posts/abi/)
-- [Basis &lpar;YC S21&rpar; Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
+- [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+- [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
+- [Because cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
+- [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
+- [Ask HN: Why are Git submodules so bad?](https://news.ycombinator.com/item?id=31792303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
