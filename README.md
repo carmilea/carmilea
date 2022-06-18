@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
 - [Basis &lpar;YC S21&rpar; Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
 - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
+- [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)
 - [Japan&#39;s NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
-- [Construction is life](https://kk.org/thetechnium/construction-is-life/)
-- [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
