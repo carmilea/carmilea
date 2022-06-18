@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
-- [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
-- [Scott Aaronson will work at OpenAI for a 1 year sabbatical](https://scottaaronson.blog/?p=6484)
-- [Vale: Fast, safe, and easy programming language](https://vale.dev/)
+- [Experts once predicted that Americans would face excess leisure time &lpar;2015&rpar;](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
+- [OpenAI](https://scottaaronson.blog/?p=6484)
+- [The Vale Programming Language](https://vale.dev/)
 - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
+- [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
