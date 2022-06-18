@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
-- [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
-- [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
-- [Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting](https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
+- [Vale is the fast, safe, and easy programming language](https://vale.dev/)
+- [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
+- [Blue Hair and the Blues: Dying Hair Unnatural Colors Associated with Depression](https://www.researchgate.net/publication/361085409_Blue_Hair_and_the_Blues_Dying_Your_Hair_Unnatural_Colours_is_Associated_with_Depression)
+- [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
+- [Sim Central Bank, the Explanation](https://benoitessiambre.com/simcb.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
