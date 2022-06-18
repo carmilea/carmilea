@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Experts once predicted that Americans would face excess leisure time &lpar;2015&rpar;](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
+- [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
 - [OpenAI](https://scottaaronson.blog/?p=6484)
 - [The Vale Programming Language](https://vale.dev/)
 - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
