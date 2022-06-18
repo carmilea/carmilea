@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vale is the fast, safe, and easy programming language](https://vale.dev/)
+- [Vale: Fast, safe, and easy programming language](https://vale.dev/)
 - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
-- [Blue Hair and the Blues: Dying Hair Unnatural Colors Associated with Depression](https://www.researchgate.net/publication/361085409_Blue_Hair_and_the_Blues_Dying_Your_Hair_Unnatural_Colours_is_Associated_with_Depression)
 - [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
-- [Sim Central Bank, the Explanation](https://benoitessiambre.com/simcb.html)
+- [Identify Birds by Their Chirp](https://merlin.allaboutbirds.org/)
+- [Fyne, a cross-platform GUI toolkit written in Go](https://fyne.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
