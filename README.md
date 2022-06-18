@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
+- [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
 - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
+- [The Day The Standard Library Died &lpar;2020&rpar;](https://cor3ntin.github.io/posts/abi/)
 - [Basis &lpar;YC S21&rpar; Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
-- [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
-- [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)
-- [Japan&#39;s NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
