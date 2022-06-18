@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
 - [Scott Aaronson will work at OpenAI for a 1 year sabbatical](https://scottaaronson.blog/?p=6484)
 - [Vale: Fast, safe, and easy programming language](https://vale.dev/)
 - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
 - [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
-- [Identify Birds by Their Chirp](https://merlin.allaboutbirds.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
