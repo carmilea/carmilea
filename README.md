@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Falls Below $20k](https://www.coindesk.com/price/bitcoin/)
+- [Thrussh – Portable SSH client and server library](https://pijul.org/)
+- [Raw Text Club](https://rawtext.club/)
 - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
 - [OpenAI](https://scottaaronson.blog/?p=6484)
-- [The Vale Programming Language](https://vale.dev/)
-- [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
-- [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
