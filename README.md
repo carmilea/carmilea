@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [100% of Long Covid patients have GPCR-autoantibodies](https://iovs.arvojournals.org/article.aspx?articleid=2781044)
+- [Basis &lpar;YC S21&rpar; Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
+- [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
+- [Japan&#39;s NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 - [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
-- [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
-- [How Inflation Works](https://finmasters.com/how-inflation-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
