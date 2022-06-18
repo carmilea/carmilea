@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
-- [AI Wrote and Performed a Jerry Seinfeld Routine [video]](https://www.youtube.com/watch?v=1onxri0duN0)
-- [Dan&#39;s Tools](https://www.danstools.com/)
-- [Patreon cuts deep inside creators’ pockets](https://thoughts.jatan.space/p/patreon-cuts-deep)
-- [Apple has a bug in its disk I/O throttling code that affects raw disk copies](https://mjacobson.net/blog/2022-02-throttling.html)
+- [Ask HN: Is your company giving you a holiday for Juneteenth?](https://news.ycombinator.com/item?id=31790169)
+- [Bitcoin drops below $20k, Ether cracks $1k – what this means](https://davidgerard.co.uk/blockchain/2022/06/18/bitcoin-drops-below-20000-ether-cracks-1000-what-this-means/)
+- [Construction is life](https://kk.org/thetechnium/construction-is-life/)
+- [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
+- [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
