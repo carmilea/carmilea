@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [V Language Review &lpar;2022&rpar;](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 - [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 - [Because cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
-- [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
-- [Ask HN: Why are Git submodules so bad?](https://news.ycombinator.com/item?id=31792303)
+- [EOS – Emacs Operating System](https://writequit.org/eos/eos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
