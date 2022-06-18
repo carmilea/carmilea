@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is your company giving you a holiday for Juneteenth?](https://news.ycombinator.com/item?id=31790169)
-- [Bitcoin drops below $20k, Ether cracks $1k – what this means](https://davidgerard.co.uk/blockchain/2022/06/18/bitcoin-drops-below-20000-ether-cracks-1000-what-this-means/)
+- [100% of Long Covid patients have GPCR-autoantibodies](https://iovs.arvojournals.org/article.aspx?articleid=2781044)
 - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 - [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
 - [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
+- [How Inflation Works](https://finmasters.com/how-inflation-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
