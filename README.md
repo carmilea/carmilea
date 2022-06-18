@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
 - [Jerry Seinfeld Routine written and performed by AI &lpar;GPT-3&rpar;](https://www.youtube.com/watch?v=1onxri0duN0)
-- [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
-- [Thrussh – Portable SSH client and server library](https://pijul.org/)
-- [Raw Text Club](https://rawtext.club/)
-- [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
+- [Dan&#39;s Tools](https://www.danstools.com/)
+- [Apple has a bug in its disk I/O throttling code that affects raw disk copies](https://mjacobson.net/blog/2022-02-throttling.html)
+- [International Institute of Not Doing Much](https://www.slowdownnow.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
