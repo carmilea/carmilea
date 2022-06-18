@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Falls Below $20k](https://www.coindesk.com/price/bitcoin/)
+- [Jerry Seinfeld Routine written and performed by AI &lpar;GPT-3&rpar;](https://www.youtube.com/watch?v=1onxri0duN0)
+- [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
 - [Thrussh – Portable SSH client and server library](https://pijul.org/)
 - [Raw Text Club](https://rawtext.club/)
 - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
-- [OpenAI](https://scottaaronson.blog/?p=6484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
