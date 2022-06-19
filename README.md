@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Insider Claims Company&#39;s “Sentient” AI Has Hired an Attorney](https://futurism.com/the-byte/google-insider-ai-lawyer)
+- [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
 - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
 - [Solend seized $170M of user funds](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
-- [Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port](https://github.com/necroware/gameport-adapter)
-- [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
