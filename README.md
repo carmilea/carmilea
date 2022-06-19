@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So, you call yourself the fastest key/value store? It&#39;s 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
+- [You and Your Research &lpar;1986&rpar;](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+- [Redis v/s KeyDB v/s Dragonfly v/s Skytable. It&#39;s 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
+- [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
+- [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
 - [Don&#39;t use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
-- [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
-- [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
-- [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
