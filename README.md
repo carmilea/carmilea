@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+- [How to Not Get Hit by Cars](https://bicyclesafe.com/)
+- [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
+- [Bolt has a cool web interface and they really don&#39;t want you to use it](https://toot.kuba-orlik.name/@kuba/108503475480137792)
 - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
-- [How we wound up with Linux&#39;s kernel mode setting &lpar;&#39;KMS&#39;&rpar;](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
-- [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
-- [Don&#39;t be that open-source user, don&#39;t be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
-- [Type-ish – A runtime type checker for bash, in bash](https://github.com/Mythra/typeish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
