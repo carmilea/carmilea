@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
 - [How we wound up with Linux&#39;s kernel mode setting &lpar;&#39;KMS&#39;&rpar;](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
 - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 - [Don&#39;t be that open-source user, don&#39;t be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
-- [House Address “Twins” Proximity](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
+- [Type-ish – A runtime type checker for bash, in bash](https://github.com/Mythra/typeish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
