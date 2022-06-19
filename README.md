@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
-- [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
-- [Why Webcams Aren&#39;t Good Enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
-- [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
-- [Making the Master System a master of speech](https://nicole.express/2022/let-me-show-you-the-sound-of-my-master.html)
+- [Solend DAO passes proposal to take over the account of a large holder](https://web3isgoinggreat.com/?id=solend-dao-passes-proposal-to-take-over-the-account-of-a-large-holder-with-a-position-that-poses-systemic-risk)
+- [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
+- [Solend just seized $170MM of user funds to prevent a decrease in Solana&#39;s price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+- [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
+- [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
