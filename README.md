@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
+- [So, you call yourself the fastest key/value store? It&#39;s 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
 - [Don&#39;t use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
 - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
