@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 - [You and Your Research &lpar;1986&rpar;](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 - [Redis v/s KeyDB v/s Dragonfly v/s Skytable. It&#39;s 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
 - [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
 - [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
-- [Don&#39;t use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
