@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t be that open-source user, don&#39;t be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
+- [House Address “Twins” Proximity](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 - [You and Your Research &lpar;1986&rpar;](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 - [Redis v/s KeyDB v/s Dragonfly v/s Skytable. It&#39;s 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
-- [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
-- [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
