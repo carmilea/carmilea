@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I have created something new to make your browsing experience enjoyable](https://productivitytoolset.com)
-- [V Language Review &lpar;2022&rpar;](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
-- [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
-- [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
-- [Because cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
+- [Bitcoin’s nosedive through the $20k mark is a Minsky Moment for crypto](https://www.marketwatch.com/story/bitcoins-nosedive-through-the-20-000-mark-is-a-minsky-moment-for-crypto-psychologically-for-a-lot-of-people-this-is-galling-11655591456)
+- [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
+- [Diablo Immortal Rift Simulator](https://dimi777.github.io/diablo-rift-simulator/)
+- [Don&#39;t Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+- [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
 <!-- BLOG-POST-LIST:END -->
 
 ---
