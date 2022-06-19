@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solend DAO passes proposal to take over the account of a large holder](https://web3isgoinggreat.com/?id=solend-dao-passes-proposal-to-take-over-the-account-of-a-large-holder-with-a-position-that-poses-systemic-risk)
+- [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
-- [Solend just seized $170MM of user funds to prevent a decrease in Solana&#39;s price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+- [Solend seized $170M of user funds](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+- [Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port](https://github.com/necroware/gameport-adapter)
 - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
-- [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
