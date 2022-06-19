@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
 - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
-- [Google deletes thousands of negative Robinhood app reviews](https://nypost.com/2021/01/29/google-deletes-thousands-of-negative-robinhood-app-reviews/)
+- [Why Webcams Aren&#39;t Good Enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
-- [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
-- [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
+- [Making the Master System a master of speech](https://nicole.express/2022/let-me-show-you-the-sound-of-my-master.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
