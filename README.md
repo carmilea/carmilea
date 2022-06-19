@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin’s nosedive through the $20k mark is a Minsky Moment for crypto](https://www.marketwatch.com/story/bitcoins-nosedive-through-the-20-000-mark-is-a-minsky-moment-for-crypto-psychologically-for-a-lot-of-people-this-is-galling-11655591456)
 - [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
-- [Diablo Immortal Rift Simulator](https://dimi777.github.io/diablo-rift-simulator/)
-- [Don&#39;t Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+- [Don&#39;t use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
+- [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
+- [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
