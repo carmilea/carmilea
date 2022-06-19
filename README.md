@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effects of Moderate Alcohol Intake on Fasting Insulin and Insulin Sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
+- [Effects of moderate alcohol on fasting insulin and insulin sensitivity &lpar;2002&rpar;](https://jamanetwork.com/journals/jama/fullarticle/194914)
 - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
+- [We asked teachers how their year went. They warned of an exodus to come](https://text.npr.org/1105655954)
+- [Software Disenchantment &lpar;2018&rpar;](https://tonsky.me/blog/disenchantment/)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
-- [How to Not Get Hit by Cars](https://bicyclesafe.com/)
-- [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
