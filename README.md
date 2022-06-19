@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
+- [Google deletes thousands of negative Robinhood app reviews](https://nypost.com/2021/01/29/google-deletes-thousands-of-negative-robinhood-app-reviews/)
+- [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
 - [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
 - [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
-- [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
-- [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
-- [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
