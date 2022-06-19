@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Insider Claims Company&#39;s “Sentient” AI Has Hired an Attorney](https://futurism.com/the-byte/google-insider-ai-lawyer)
+- [Ask HN: Do you upvote direct replies?](https://news.ycombinator.com/item?id=31804303)
 - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
 - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
