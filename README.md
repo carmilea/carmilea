@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
+- [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
+- [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
+- [Most Beautiful Abandoned Places](https://www.housebeautiful.com/design-inspiration/g2698/beautiful-abandoned-places/)
 - [Effects of moderate alcohol on fasting insulin and insulin sensitivity &lpar;2002&rpar;](https://jamanetwork.com/journals/jama/fullarticle/194914)
-- [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
-- [We asked teachers how their year went. They warned of an exodus to come](https://text.npr.org/1105655954)
-- [Software Disenchantment &lpar;2018&rpar;](https://tonsky.me/blog/disenchantment/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
