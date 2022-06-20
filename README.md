@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WebAssembly on Amazon Lambda: Lessons Learned](https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned)
-- [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
-- [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
-- [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
-- [I fucking hate Jira](https://ifuckinghatejira.com/)
+- [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
+- [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
+- [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
+- [EarthFM Natural Soundscapes](https://earth.fm/)
+- [Sunstone – the last unreleased Lisp machine architecture from Symbolics [pdf]](http://www.bitsavers.org/pdf/symbolics/Sunstone_Architecture_198711.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
