@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Fucking Hate Jira](https://ifuckinghatejira.com/)
+- [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
+- [I fucking hate Jira](https://ifuckinghatejira.com/)
+- [Web3 is Flawed &lpar;There is no problem being solved,Token Economics is the product&rpar;](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
 - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
 - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
-- [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
-- [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
