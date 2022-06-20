@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
+- [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
+- [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
-- [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
-- [Experiment: Pay students to tackle learning loss](https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/)
-- [Action Plan for a New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
-- [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
+- [On leaving Mapbox after 12 years](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
