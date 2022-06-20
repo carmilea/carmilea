@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Software career at 38 after beeing a Quant](https://news.ycombinator.com/item?id=31809503)
 - [3M’s PFAS Crisis Has Come to Europe](https://www.bloomberg.com/graphics/2022-3m-pfas-toxic-forever-chemicals-europe)
 - [Kable &lpar;Billing for API Products, YC W22&rpar; Is Hiring Founding Engineers](https://kable.io)
 - [Former AWS engineer convicted over hack that cost Capital One $270m](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
 - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html)
+- [Writing One Sentence per Line](https://sive.rs/1s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
