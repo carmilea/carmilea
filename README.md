@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Will Coinbase Last? [Incoming Intern]](https://news.ycombinator.com/item?id=31806155)
+- [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 - [Australia&#39;s Propaganda Unit – Declassified](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
 - [Floating Point Math](https://0.30000000000000004.com/)
