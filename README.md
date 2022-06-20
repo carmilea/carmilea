@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kable &lpar;Billing for API Products, YC W22&rpar; Is Hiring Founding Engineers](https://kable.io)
 - [Ask HN: How is Python&#39;s OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
-- [I got banned for life from Spotify](https://banned-for-life.com/)
+- [A conflict with a manager ended with me being disallowed to work at Spotify](https://banned-for-life.com/)
 - [Writing One Sentence per Line](https://sive.rs/1s)
 - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
-- [Transfer times in Switzerland&#39;s train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
