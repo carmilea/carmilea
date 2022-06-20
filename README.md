@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
+- [Mighty: The Browser You Didn’t Know You Needed but Definitely Do](https://jacobhrussell.com/blog/mighty)
 - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 - [I fucking hate Jira](https://ifuckinghatejira.com/)
 - [Web3 is Flawed &lpar;There is no problem being solved,Token Economics is the product&rpar;](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
-- [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
-- [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
