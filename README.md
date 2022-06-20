@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How is Python&#39;s OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
+- [I got banned for life from Spotify](https://banned-for-life.com/)
 - [Writing One Sentence per Line](https://sive.rs/1s)
 - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
-- [Correspondance times in Switzerland&#39;s train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
-- [Text Topography](http://www.tikalon.com/blog/blog.php?article=2022/text_topography)
-- [A Data-Centric Introduction to Computing &lpar;Free Book&rpar;](https://dcic-world.org/)
+- [Transfer times in Switzerland&#39;s train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
