@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
+- [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
 - [Experiment: Pay students to tackle learning loss](https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/)
+- [Action Plan for a New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
 - [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
-- [The case for unique email addresses &lpar;2020&rpar;](https://musings.tychi.me/the-case-for-unique-email-addresses)
-- [India could become a &#39;mushroom superpower&#39;](https://www.bbc.com/news/business-61420016)
-- [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
