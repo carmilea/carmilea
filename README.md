@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Fucking Hate Jira](https://ifuckinghatejira.com/)
+- [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
 - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
 - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
-- [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
-- [On leaving Mapbox after 12 years](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
