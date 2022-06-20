@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
+- [Orkut](http://www.orkut.com/index.html)
 - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
-- [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
