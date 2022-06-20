@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 - [Floating Point Math](https://0.30000000000000004.com/)
+- [The Peecyclers. Their Idea to Help Farmers Is No. 1](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
 - [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
 - [What&#39;s New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
-- [SpaceX launches three Falcon 9 rockets in 36 hours](https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/)
-- [We need a flowchart editor that doesn&#39;t give you carpal tunnel](https://www.scottantipa.com/why-knotend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
