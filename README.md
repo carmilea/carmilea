@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebAssembly on Amazon Lambda: Lessons Learned](https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned)
 - [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
-- [Mighty: The Browser You Didn’t Know You Needed but Definitely Do](https://jacobhrussell.com/blog/mighty)
+- [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
 - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 - [I fucking hate Jira](https://ifuckinghatejira.com/)
-- [Web3 is Flawed &lpar;There is no problem being solved,Token Economics is the product&rpar;](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
