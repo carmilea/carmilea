@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Text Topography](http://www.tikalon.com/blog/blog.php?article=2022/text_topography)
+- [C Xor C++ Programming](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
+- [Facebook Says Apple Is Too Powerful – They&#39;re Right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 - [No-one knows what they are doing](https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/)
-- [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
-- [Orkut](http://www.orkut.com/index.html)
-- [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
