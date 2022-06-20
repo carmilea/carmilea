@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
+- [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
+- [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
-- [Australia&#39;s Propaganda Unit – Declassified](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
-- [Floating Point Math](https://0.30000000000000004.com/)
-- [The Peecyclers](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
