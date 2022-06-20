@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experiment: Pay students to tackle learning loss](https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/)
+- [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
+- [The case for unique email addresses &lpar;2020&rpar;](https://musings.tychi.me/the-case-for-unique-email-addresses)
 - [India could become a &#39;mushroom superpower&#39;](https://www.bbc.com/news/business-61420016)
-- [SSO should be table stakes](https://tuple.app/blog/sso-should-be-table-stakes)
-- [Terminated](https://susiebright.substack.com/p/terminated)
-- [Owncast is a self-hosted live video and web chat server](https://owncast.online/)
-- [Ask HN: I shut down my company, now I need a job](https://news.ycombinator.com/item?id=31810471)
+- [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
