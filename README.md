@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom.us is Down](https://us02web.zoom.us/wc/join/)
+- [The Psycho-Geography of the Cretto Di Burri &lpar;2021&rpar;](https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri)
+- [Beginner&#39;s Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
+- [Zoom.us is down](https://us02web.zoom.us/wc/join/)
 - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
-- [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
-- [Safety features of the Hare programming language](https://harelang.org/blog/2022-06-21-safety-features/)
-- [Automated text/email reminders for volunteers](https://volunteerreminder.com/)
+- [The Value of an Undergraduate Degree](http://www.pearlleff.com/the-value-of-an-undergraduate-degree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
