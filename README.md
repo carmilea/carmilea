@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Need some advice, feeling depressed about the direction of our industry](https://news.ycombinator.com/item?id=31820677)
-- [Cloudflare Down Worldwide &lpar;Update: not worldwide but a lot of places&rpar;](https://www.cloudflare.com/)
+- [Cloudflare Down Worldwide &lpar;not worldwide but a lot of places&rpar; &lpar;up now&rpar;](https://www.cloudflare.com/)
 - [A look at search engines with their own indexes &lpar;2021&rpar;](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 - [Does one simple rule underlie learning in the brain?](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/)
 - [Why code isn&#39;t self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
+- [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
