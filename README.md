@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
 - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
-- [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
+- [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
+- [“When It Rains, It Pours”: The Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
-- [EarthFM Natural Soundscapes](https://earth.fm/)
-- [Sunstone – the last unreleased Lisp machine architecture from Symbolics [pdf]](http://www.bitsavers.org/pdf/symbolics/Sunstone_Architecture_198711.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
