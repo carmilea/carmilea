@@ -55,7 +55,7 @@
 - [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
 - [Jennifer Egan&#39;s Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
 - [FixPhrase – open-source, patent-free what3words alternative](https://fixphrase.com/)
-- [Mega: Malleable Encryption Goes Awry](https://mega-awry.io/)
+- [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
