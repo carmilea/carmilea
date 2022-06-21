@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
+- [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
+- [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
 - [Apple&#39;s Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
-- [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
-- [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
-- [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
-- [“When It Rains, It Pours”: The Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
+- [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
