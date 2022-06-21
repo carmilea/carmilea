@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why code isn&#39;t self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
 - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
 - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
-- [Apple&#39;s Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
-- [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
+- [Apple&#39;s feedback mechanism is broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
