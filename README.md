@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cheap, green hydrogen would be a breakthrough in clean energy](https://www.gatesnotes.com/Energy/Clean-Hydrogen)
 - [Meticulous &lpar;YC S21&rpar; is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
+- [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
-- [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
-- [How to Build a Notion Clone with Strapi v4 and Next.js &lpar;Part 1 of 2&rpar;](https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2)
-- [GitHub Copilot for individuals available without waitlist, with free trial](https://github.com/features/copilot)
+- [GitHub Copilot is generally available](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
