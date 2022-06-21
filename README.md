@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Permacomputing Wiki](https://permacomputing.net/)
-- [Electrocuted birds are sparking wildfires](https://www.science.org/content/article/electrocuted-birds-are-sparking-wildfires)
-- [“TITO,” the 100% electric, 100% Argentine car](https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/)
-- [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
-- [Deno raises $21M](https://deno.com/blog/series-a)
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
+- [Jennifer Egan&#39;s Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
+- [FixPhrase – open-source, patent-free what3words alternative](https://fixphrase.com/)
+- [Mega: Malleable Encryption Goes Awry](https://mega-awry.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
