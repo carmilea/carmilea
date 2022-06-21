@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
+- [How we made data aggregation on PostgreSQL better and faster](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/)
+- [Microsoft Donated Money to Gnome: Remember How They Attacked Open Source Before](https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/)
+- [Security on SingleStoreDB Cloud](https://www.singlestore.com/blog/security-on-singlestoredb-cloud)
+- [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
-- [The Psychology of not wanting to know [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)
-- [Sex is going out of fashion](https://www.welltechnically.news/p/sex-is-going-out-of-fashion)
-- [Habits Maketh the Man and Un-Maketh Him, Too](https://newsletter.butwhatfor.com/p/habits-maketh-man)
 <!-- BLOG-POST-LIST:END -->
 
 ---
