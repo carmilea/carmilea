@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psycho-Geography of the Cretto Di Burri &lpar;2021&rpar;](https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri)
-- [Beginner&#39;s Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
-- [Zoom.us is down](https://us02web.zoom.us/wc/join/)
-- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
-- [The Value of an Undergraduate Degree](http://www.pearlleff.com/the-value-of-an-undergraduate-degree)
+- [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
+- [GitHub Copilot for individuals available without waitlist, with free trial](https://github.com/features/copilot)
+- [Launch HN: Dioptra &lpar;YC W22&rpar; – Improve ML models by improving their training data](https://dioptra.ai/)
+- [10-sec 1-leg stance duration predicts survival in middle-aged/older individuals](https://bjsm.bmj.com/content/early/2022/05/15/bjsports-2021-105360)
+- [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
