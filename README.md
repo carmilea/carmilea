@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno raises $21M](https://deno.com/blog/series-a)
+- [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
+- [X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass](https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/)
 - [Cheap, green hydrogen would be a breakthrough in clean energy](https://www.gatesnotes.com/Energy/Clean-Hydrogen)
-- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
-- [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
-- [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
-- [GitHub Copilot is generally available](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
+- [Wikimedia Enterprise announces Google and Internet Archive as first customers](https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
