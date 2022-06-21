@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+- [Does one simple rule underlie learning in the brain?](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/)
 - [Why code isn&#39;t self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
 - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
-- [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
-- [Apple&#39;s feedback mechanism is broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
