@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
+- [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
 - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
+- [How to Build a Notion Clone with Strapi v4 and Next.js &lpar;Part 1 of 2&rpar;](https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2)
 - [GitHub Copilot for individuals available without waitlist, with free trial](https://github.com/features/copilot)
-- [Launch HN: Dioptra &lpar;YC W22&rpar; – Improve ML models by improving their training data](https://dioptra.ai/)
-- [10-sec 1-leg stance duration predicts survival in middle-aged/older individuals](https://bjsm.bmj.com/content/early/2022/05/15/bjsports-2021-105360)
-- [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
