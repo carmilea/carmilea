@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
 - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 - [Are blockchains decentralized: New Trail of Bits research report examines](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
 - [Timing Attacks](https://timing.attacks.cr.yp.to/)
-- [Ask HN: How does HN manage to be always online?](https://news.ycombinator.com/item?id=31821269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
