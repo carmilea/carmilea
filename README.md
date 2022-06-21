@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
+- [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
+- [Are blockchains decentralized: New Trail of Bits research report examines](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
 - [Timing Attacks](https://timing.attacks.cr.yp.to/)
 - [Ask HN: How does HN manage to be always online?](https://news.ycombinator.com/item?id=31821269)
-- [Cloudflare Down Worldwide &lpar;not worldwide but a lot of places&rpar; &lpar;up now&rpar;](https://www.cloudflare.com/)
-- [A look at search engines with their own indexes &lpar;2021&rpar;](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
