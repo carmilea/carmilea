@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
-- [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
-- [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
-- [Are blockchains decentralized: New Trail of Bits research report examines](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
-- [Timing Attacks](https://timing.attacks.cr.yp.to/)
+- [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
+- [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
+- [The Psychology of not wanting to know [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)
+- [Sex is going out of fashion](https://www.welltechnically.news/p/sex-is-going-out-of-fashion)
+- [Habits Maketh the Man and Un-Maketh Him, Too](https://newsletter.butwhatfor.com/p/habits-maketh-man)
 <!-- BLOG-POST-LIST:END -->
 
 ---
