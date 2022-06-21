@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Permacomputing Wiki](https://permacomputing.net/)
+- [Electrocuted birds are sparking wildfires](https://www.science.org/content/article/electrocuted-birds-are-sparking-wildfires)
 - [“TITO,” the 100% electric, 100% Argentine car](https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/)
 - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
-- [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
 - [Deno raises $21M](https://deno.com/blog/series-a)
-- [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
