@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How we made data aggregation on PostgreSQL better and faster](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/)
-- [Microsoft Donated Money to Gnome: Remember How They Attacked Open Source Before](https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/)
-- [Security on SingleStoreDB Cloud](https://www.singlestore.com/blog/security-on-singlestoredb-cloud)
-- [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
-- [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
+- [Zoom.us is Down](https://us02web.zoom.us/wc/join/)
+- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+- [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
+- [Safety features of the Hare programming language](https://harelang.org/blog/2022-06-21-safety-features/)
+- [Automated text/email reminders for volunteers](https://volunteerreminder.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
