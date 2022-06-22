@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [R.L. Stine and Ghostwriters &lpar;2012&rpar;](http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html)
+- [Chasing utopian energy: How I wasted 20 years of my life](https://briangitt.com/chasing-utopian-energy-how-i-wasted-20-years-of-my-life/)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
-- [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
-- [FDA to Order Juul E-Cigarettes off U.S. Market](https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689)
-- [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
-- [Ask HN: What are examples of common beliefs conclusively invalidated by data?](https://news.ycombinator.com/item?id=31835795)
+- [Why is Apache clinging to OpenOffice&#39;s corpse?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
+- [Fail Gardening: Low Expectations for Skillbuilding and Eventual Success](https://feastofassumption.substack.com/p/fail-gardening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
