@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
 - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
 - [Understanding AI for coders: Tabnine &lpar;your alternative to GitHub Copilot&rpar;](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
 - [TerraUSD crash led to vanished savings, shattered dreams](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
 - [Effective Shell](https://effective-shell.com/)
-- [OBS – Open Broadcaster Software](https://obsproject.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
