@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [R.L. Stine and Ghostwriters &lpar;2012&rpar;](http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html)
-- [Chasing utopian energy: How I wasted 20 years of my life](https://briangitt.com/chasing-utopian-energy-how-i-wasted-20-years-of-my-life/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
-- [Why is Apache clinging to OpenOffice&#39;s corpse?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
-- [Fail Gardening: Low Expectations for Skillbuilding and Eventual Success](https://feastofassumption.substack.com/p/fail-gardening)
+- [Goggles &lpar;beta&rpar; is now available in Brave Search](https://github.com/brave/goggles-quickstart)
+- [Brave Search passes 2.5B queries in its first year](https://brave.com/search-anniversary/)
+- [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
+- [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
+- [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
 <!-- BLOG-POST-LIST:END -->
 
 ---
