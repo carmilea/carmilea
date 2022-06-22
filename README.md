@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a fun video meeting app with 2D physics and proximity chat](https://flat.social)
 - [Airbnb&#39;s new $10m &#39;OMG Fund&#39;](https://www.airbnb.com/d/omgfund)
 - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
 - [Schluss. Basta. Stop. Take back control of your own information](https://schluss.org/roadmap/)
 - [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
-- [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
