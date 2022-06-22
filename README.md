@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb&#39;s new $10m &#39;OMG Fund&#39;](https://www.airbnb.com/d/omgfund)
+- [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
+- [Schluss. Basta. Stop. Take back control of your own information](https://schluss.org/roadmap/)
 - [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
-- [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
-- [Samsung expected to announce mass production of 3nm chip next week](https://en.yna.co.kr/view/AEN20220622002900320)
-- [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
