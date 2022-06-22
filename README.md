@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dendron &lpar;YC W21&rpar; Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
-- [Docker containers still exposed by default even if bound to 127.0.0.1 &lpar;2021&rpar;](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
+- [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
+- [The Grug Brained Developer](https://grugbrain.dev/)
+- [Dendron &lpar;YC W21&rpar; is hiring a senior web dev to build a better tool for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
+- [Permissive forwarding rule leads to unintentional exposure of containers &lpar;2021&rpar;](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
 - [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
-- [Ohio State University secures trademark for use of the word &#39;THE&#39; on clothing](https://www.dispatch.com/story/news/local/2022/06/22/ohio-state-secures-trademark-word-the-clothing/7699879001/)
-- [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
