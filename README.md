@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Is Poised to Ban Prostitution-Related Loitering Arrests](https://www.lamag.com/citythinkblog/california-is-poised-to-ban-prostitution-related-loitering-arrests/)
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+- [Ask HN: Has anyone of you made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
+- [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
 - [iPhone 3G frame by Grid review](https://giuliomagnifico.blog/misc/2022/06/18/iphone3g-frame-by-grid.html)
 - [One-night stands will be illegal at the 2022 World Cup in Qatar](https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html)
-- [What will a Chromium-only Web look like?](https://www.mnot.net/blog/2022/06/22/chromium-only)
-- [Show HN: I built a fun video meeting app with 2D physics and proximity chat](https://flat.social)
 <!-- BLOG-POST-LIST:END -->
 
 ---
