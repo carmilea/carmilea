@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
 - [Understanding AI for coders: Tabnine &lpar;your alternative to GitHub Copilot&rpar;](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
+- [TerraUSD crash led to vanished savings, shattered dreams](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
 - [Effective Shell](https://effective-shell.com/)
 - [OBS – Open Broadcaster Software](https://obsproject.com/)
-- [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
