@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding AI for coders: Tabnine &lpar;your alternative to GitHub Copilot&rpar;](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
+- [Effective Shell](https://effective-shell.com/)
+- [OBS – Open Broadcaster Software](https://obsproject.com/)
+- [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
 - [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
-- [Jennifer Egan&#39;s Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
-- [FixPhrase – open-source, patent-free what3words alternative](https://fixphrase.com/)
-- [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
