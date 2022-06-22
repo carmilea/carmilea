@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ladle Rat Rotten Hut &lpar;1940&rpar;](https://www.exploratorium.edu/files/exhibits/ladle/)
 - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
-- [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
 - [The Grug Brained Developer](https://grugbrain.dev/)
-- [Hot or Not?](https://creon.substack.com/p/hot-or-not)
+- [Dendron &lpar;YC W21&rpar; is hiring a senior web dev to build a better tool for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
