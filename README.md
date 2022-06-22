@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Astro &lpar;YC W21&rpar; – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
+- [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
+- [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
+- [Mapping the World of Package Management](https://enigma.com/blog/post/mapping-the-world-of-package-management)
 - [Goggles &lpar;beta&rpar; is now available in Brave Search](https://github.com/brave/goggles-quickstart)
-- [Brave Search passes 2.5B queries in its first year](https://brave.com/search-anniversary/)
-- [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
-- [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
-- [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
 <!-- BLOG-POST-LIST:END -->
 
 ---
