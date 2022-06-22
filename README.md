@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JVM Anatomy Quark #10: String.intern&lpar;&rpar;](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
+- [Power use is hitting record highs – what summer outage risks tell us about grids](https://smartcar.com/blog/what-increasing-power-outages-tell-us-about-grid-modernization/)
+- [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
+- [Pathways Autoregressive Text-to-Image Model &lpar;Parti&rpar;](https://parti.research.google/)
 - [Launch HN: Astro &lpar;YC W21&rpar; – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
-- [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
-- [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
-- [Mapping the World of Package Management](https://enigma.com/blog/post/mapping-the-world-of-package-management)
-- [Goggles &lpar;beta&rpar; is now available in Brave Search](https://github.com/brave/goggles-quickstart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
