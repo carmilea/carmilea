@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One-night stands will be illegal at the 2022 World Cup in Qatar](https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html)
+- [What will a Chromium-only Web look like?](https://www.mnot.net/blog/2022/06/22/chromium-only)
 - [Show HN: I built a fun video meeting app with 2D physics and proximity chat](https://flat.social)
-- [Airbnb&#39;s new $10m &#39;OMG Fund&#39;](https://www.airbnb.com/d/omgfund)
+- [Data engineering trends and tools map 2022](https://lakefs.io/the-state-of-data-engineering-2022/)
 - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
-- [Schluss. Basta. Stop. Take back control of your own information](https://schluss.org/roadmap/)
-- [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
