@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JVM Anatomy Quark #10: String.intern&lpar;&rpar;](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
-- [Power use is hitting record highs – what summer outage risks tell us about grids](https://smartcar.com/blog/what-increasing-power-outages-tell-us-about-grid-modernization/)
-- [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
-- [Pathways Autoregressive Text-to-Image Model &lpar;Parti&rpar;](https://parti.research.google/)
-- [Launch HN: Astro &lpar;YC W21&rpar; – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
+- [Dendron &lpar;YC W21&rpar; Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
+- [Docker containers still exposed by default even if bound to 127.0.0.1 &lpar;2021&rpar;](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
+- [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
+- [Ohio State University secures trademark for use of the word &#39;THE&#39; on clothing](https://www.dispatch.com/story/news/local/2022/06/22/ohio-state-secures-trademark-word-the-clothing/7699879001/)
+- [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
