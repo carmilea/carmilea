@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should I be specializing in either front end or back end as full-stack?](https://news.ycombinator.com/item?id=31835119)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [Ask HN: Has anyone made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
-- [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
-- [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
+- [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
+- [FDA to Order Juul E-Cigarettes off U.S. Market](https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689)
+- [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
+- [Ask HN: What are examples of common beliefs conclusively invalidated by data?](https://news.ycombinator.com/item?id=31835795)
 <!-- BLOG-POST-LIST:END -->
 
 ---
