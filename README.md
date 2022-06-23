@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
 - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
 - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 - [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
 - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
-- [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
