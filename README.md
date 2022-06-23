@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Returning to the office is costing you untapped talent](https://blog.testdouble.com/posts/2022-06-22-return-to-office-untapped-talent/)
+- [The Case for a Confederal Europe](https://ecfr.eu/article/the-case-for-a-confederal-europe/)
+- [Launch HN: Foster &lpar;YC W21&rpar; – Improve your writing with on-demand editing](https://www.foster.co/)
+- [How Safe Is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
-- [FDA removes all Juul products from US market](https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products)
-- [Diagram as Code](https://github.com/mingrammer/diagrams)
-- [Target: Hardening the Registers](https://tech.target.com/blog/hardening-the-registers)
-- [Custom SQL functions for data analytics in PostgreSQL](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
