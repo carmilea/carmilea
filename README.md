@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
+- [A brief history of one line fixes &lpar;2014&rpar;](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
-- [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life [2005]](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
 - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 - [Random Ultima Online anecdote #2 – Horses inside players &lpar;2014&rpar;](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
-- [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
