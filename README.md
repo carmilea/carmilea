@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
+- [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 - [Random Ultima Online anecdote #2 – Horses inside players &lpar;2014&rpar;](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 - [Introducing PyScript &lpar;summary of PyCon keynote&rpar;](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
-- [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
