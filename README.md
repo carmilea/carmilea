@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
 - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 - [LinkedDataHub: The Knowledge Graph Notebook](https://github.com/AtomGraph/LinkedDataHub)
 - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
 - [Unexpected solar weather is causing satellites to plummet from orbit](https://www.space.com/satellites-falling-off-sky-solar-weather)
-- [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
