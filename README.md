@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SingleStoreDB on Google Cloud: The Backbone of Your Data Infrastructure](https://www.singlestore.com/blog/singlestoredb-on-google-cloud)
-- [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)
-- [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
-- [Should GitHub Be Sued for Training Copilot on GPL Code?](https://fosspost.org/github-copilot/)
-- [MDalgorithms &lpar;YC W17&rpar; Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
+- [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
+- [FDA removes all Juul products from US market](https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products)
+- [Diagram as Code](https://github.com/mingrammer/diagrams)
+- [Target: Hardening the Registers](https://tech.target.com/blog/hardening-the-registers)
+- [Custom SQL functions for data analytics in PostgreSQL](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
