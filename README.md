@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should GitHub Be Sued for Training Copilot on GPL Code?](https://fosspost.org/github-copilot/)
+- [MDalgorithms &lpar;YC W17&rpar; Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
+- [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
+- [Dolt Is Git for Data](https://github.com/dolthub/dolt)
 - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
-- [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
-- [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
-- [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
-- [Street Epistemology](https://streetepistemology.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
