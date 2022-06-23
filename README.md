@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ferrari installed a 1MW fuel cell unit to expedite carbon neutrality](https://newsotg.com/2022/06/23/latest-news/ferrari-installed-a-1mw-fuel-cell-unit-to-expedite-carbon-neutrality/)
+- [Show HN: Nerd Crawler – we monitor original comic art sites so you don&#39;t have to](https://www.nerdcrawler.com/)
 - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
-- [The Return of Industrial Warfare](https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/)
 - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
+- [Six things I do every time I start a Django project](https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
