@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
+- [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
+- [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
 - [A brief history of one line fixes &lpar;2014&rpar;](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
-- [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
-- [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
-- [Random Ultima Online anecdote #2 – Horses inside players &lpar;2014&rpar;](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
