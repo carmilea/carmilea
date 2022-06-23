@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ladle Rat Rotten Hut &lpar;1940&rpar;](https://www.exploratorium.edu/files/exhibits/ladle/)
-- [Dropbox Shop Beta](https://www.dropbox.com/shop)
-- [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
-- [The Grug Brained Developer](https://grugbrain.dev/)
-- [Dendron &lpar;YC W21&rpar; is hiring a senior web dev to build a better tool for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
+- [Introducing PyScript &lpar;summary of PyCon keynote&rpar;](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
+- [Brooks County TX pays off hacker with tax dollars after ransomware attack](https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack)
+- [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
+- [Sometimes users prefer the less straightforward UX](https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
