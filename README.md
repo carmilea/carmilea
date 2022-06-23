@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
+- [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
+- [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
 - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
 - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
-- [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
-- [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
-- [A brief history of one line fixes &lpar;2014&rpar;](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
