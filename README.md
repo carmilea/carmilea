@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Random Ultima Online anecdote #2 – Horses inside players &lpar;2014&rpar;](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
+- [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 - [Introducing PyScript &lpar;summary of PyCon keynote&rpar;](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
 - [Brooks County TX pays off hacker with tax dollars after ransomware attack](https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack)
-- [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
-- [Sometimes users prefer the less straightforward UX](https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
