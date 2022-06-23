@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Returning to the office is costing you untapped talent](https://blog.testdouble.com/posts/2022-06-22-return-to-office-untapped-talent/)
-- [The Case for a Confederal Europe](https://ecfr.eu/article/the-case-for-a-confederal-europe/)
+- [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
+- [Unexpected solar weather is causing satellites to plummet from orbit](https://www.space.com/satellites-falling-off-sky-solar-weather)
+- [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
+- [Reverse Engineering Google Colab](https://dagshub.com/blog/reverse-engineering-google-colab/)
 - [Launch HN: Foster &lpar;YC W21&rpar; – Improve your writing with on-demand editing](https://www.foster.co/)
-- [How Safe Is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
-- [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
