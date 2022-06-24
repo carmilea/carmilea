@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Great Practice Systems Design Questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
-- [Show HN: Easily Convert WARC &lpar;Web Archive&rpar; into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
-- [The State of Global Learning Poverty: 2022 Update [pdf]](https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf)
-- [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
-- [The Key of Lisp &lpar;1987&rpar;](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
+- [How to Make a Complete Map of Every Thought You Think &lpar;2003&rpar;](https://users.speakeasy.net/~lion/nb/html/)
+- [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
+- [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
+- [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
+- [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
