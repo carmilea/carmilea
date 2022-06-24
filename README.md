@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rare ‘triple’ La Niña climate event looks likely – what does the future hold?](https://www.nature.com/articles/d41586-022-01668-1)
+- [FTC to Crack Down on Companies That Illegally Surveil Children Learning Online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
 - [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
-- [Netflix lays off 300 more people – almost 3% of its staff](https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/)
 - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
 - [Deadbolt locks offer false sense of security &lpar;2014&rpar;](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
 <!-- BLOG-POST-LIST:END -->
