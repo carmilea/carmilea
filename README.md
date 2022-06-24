@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do You Use RSS?](https://news.ycombinator.com/item?id=31860969)
+- [AI Sentience Is &lpar;Obviously&rpar; Not the Real Issue](https://mailchi.mp/datasociety/real-humans-on-twitter-not-so-magic-algorithms-the-datafied-state-part-three-1318441?e=03b5015f1c)
+- [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
+- [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
+- [Glasgow City Council approves 4-day week on full pay](https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-four-day-week-24308348)
 - [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
-- [Help me help my deaf team mate](https://news.ycombinator.com/item?id=31860765)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Ask HN: What are you using to manage in your team the projects/features?](https://news.ycombinator.com/item?id=31860489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
