@@ -55,7 +55,7 @@
 - [FTC to Crack Down on Companies That Illegally Surveil Children Learning Online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
 - [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
 - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
-- [Deadbolt locks offer false sense of security &lpar;2014&rpar;](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
+- [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
