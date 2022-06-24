@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+- [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
 - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
 - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
 - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
-- [Rare ‘triple’ La Niña climate event looks likely](https://www.nature.com/articles/d41586-022-01668-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
