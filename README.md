@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
+- [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
+- [Motorola 6800](https://en.wikipedia.org/wiki/Motorola_6800)
+- [What&#39;s New in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
 - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
-- [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
-- [Supreme Court Overturns Roe vs. Wade](https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court)
-- [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
-- [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
