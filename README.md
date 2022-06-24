@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Sentience Is &lpar;Obviously&rpar; Not the Real Issue](https://mailchi.mp/datasociety/real-humans-on-twitter-not-so-magic-algorithms-the-datafied-state-part-three-1318441?e=03b5015f1c)
+- [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
+- [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
+- [Supreme Court Overturns Roe vs. Wade](https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court)
 - [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
 - [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
-- [Glasgow City Council approves 4-day week on full pay](https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-four-day-week-24308348)
-- [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
