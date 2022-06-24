@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do You Use RSS?](https://news.ycombinator.com/item?id=31860969)
+- [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
+- [Help me help my deaf team mate](https://news.ycombinator.com/item?id=31860765)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [What’s Up with Austin?](https://perell.com/essay/whats-up-with-austin/)
-- [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
-- [Japanese man loses USB stick with entire city&#39;s personal details](https://www.bbc.com/news/world-asia-61921222)
-- [Lost USB with 460,000 city residents&#39; personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
+- [Ask HN: What are you using to manage in your team the projects/features?](https://news.ycombinator.com/item?id=31860489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
