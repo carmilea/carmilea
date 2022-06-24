@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare ‘triple’ La Niña climate event looks likely – what does the future hold?](https://www.nature.com/articles/d41586-022-01668-1)
-- [FTC to Crack Down on Companies That Illegally Surveil Children Learning Online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
-- [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
-- [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
-- [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
+- [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+- [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
+- [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
+- [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
+- [Rare ‘triple’ La Niña climate event looks likely](https://www.nature.com/articles/d41586-022-01668-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
