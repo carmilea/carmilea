@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make a Complete Map of Every Thought You Think &lpar;2003&rpar;](https://users.speakeasy.net/~lion/nb/html/)
+- [At the Bored Ape restaurant, your ApeCoin is no good now](https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars)
+- [How to make a complete map of every thought you think &lpar;2003&rpar;](https://users.speakeasy.net/~lion/nb/html/)
 - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
 - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
-- [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
