@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)
+- [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
+- [Hardening macOS](https://www.bejarano.io/hardening-macos/)
 - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
-- [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
-- [Motorola 6800](https://en.wikipedia.org/wiki/Motorola_6800)
-- [What&#39;s New in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
-- [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
+- [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
 <!-- BLOG-POST-LIST:END -->
 
 ---
