@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)
+- [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
+- [The Key of Lisp &lpar;1987&rpar;](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
+- [Flexport &lpar;YC W14&rpar; is hiring software engineers](https://flexport.com/careers)
 - [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
 - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
-- [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
-- [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
 <!-- BLOG-POST-LIST:END -->
 
 ---
