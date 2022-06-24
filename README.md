@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
+- [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
 - [Goodbye, shitty Car extends Vehicle object-orientation tutorial &lpar;2011&rpar;](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
 - [Mattermost – open-source platform for secure collaboration](https://github.com/mattermost/mattermost-server)
 - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
-- [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
-- [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
