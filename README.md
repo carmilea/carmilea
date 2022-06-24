@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
-- [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
-- [Goodbye, shitty Car extends Vehicle object-orientation tutorial &lpar;2011&rpar;](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
-- [Mattermost – open-source platform for secure collaboration](https://github.com/mattermost/mattermost-server)
-- [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [What’s Up with Austin?](https://perell.com/essay/whats-up-with-austin/)
+- [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+- [Japanese man loses USB stick with entire city&#39;s personal details](https://www.bbc.com/news/world-asia-61921222)
+- [Lost USB with 460,000 city residents&#39; personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
