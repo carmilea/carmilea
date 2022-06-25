@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
+- [Mutter-Rounded – A window manager for gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
 - [Bayesian Workflow &lpar;2020&rpar;](https://arxiv.org/abs/2011.01808)
-- [Tom Davies has become a beloved icon of the Google Maps guessing game](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
-- [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
-- [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
-- [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
+- [Tom Davies has become a beloved icon of GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
+- [Spiritual Bypassing &lpar;2011&rpar; [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
