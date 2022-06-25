@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
+- [ARM original operating system: RISC OS still alive after 35 years](https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/)
+- [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
+- [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
 - [AT&amp;T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
-- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
-- [SQLite Release 3.39.0](https://sqlite.org/releaselog/3_39_0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
