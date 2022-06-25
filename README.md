@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
+- [The two types of creativity that peak at different ages](https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/)
 - [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
-- [Oh Shit, Git?!?](https://ohshitgit.com/)
+- [Oh Shit, Git](https://ohshitgit.com/)
 - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
-- [If your website&#39;s full of assholes, it&#39;s your fault &lpar;2011&rpar;](https://anildash.com/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)
-- [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
