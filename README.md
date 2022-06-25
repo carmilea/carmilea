@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
+- [DARPA study challenges assumptions about distributed ledger &lpar;Bitcoin&rpar; security](https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/)
+- [Fermentation and Daily Life &lpar;2018&rpar;](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
+- [Dangit, Git?](https://dangitgit.com/en)
 - [Flowers for Algernon &lpar;1965&rpar; [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
-- [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
-- [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
-- [I spent $35k on a domain](https://testimonial.to/blog/here-is-why-i-spent-35000-dollars-on-a-domain)
-- [Whatever Happened to the Bee Apocalypse?](http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
