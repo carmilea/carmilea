@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
+- [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 - [AT&amp;T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 - [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
 - [SQLite Release 3.39.0](https://sqlite.org/releaselog/3_39_0.html)
-- [DARPA study challenges assumptions about distributed ledger &lpar;Bitcoin&rpar; security](https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/)
-- [Fermentation and Daily Life &lpar;2018&rpar;](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
