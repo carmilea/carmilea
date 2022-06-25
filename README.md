@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ARM original operating system: RISC OS still alive after 35 years](https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/)
+- [Bayesian Workflow &lpar;2020&rpar;](https://arxiv.org/abs/2011.01808)
+- [Tom Davies has become a beloved icon of the Google Maps guessing game](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
 - [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
-- [AT&amp;T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
