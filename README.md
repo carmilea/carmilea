@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Most Livable Cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
-- [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
-- [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
-- [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
+- [A mystery that took 13k years to crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
