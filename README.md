@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
+- [Oh Shit, Git?!?](https://ohshitgit.com/)
 - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+- [If your website&#39;s full of assholes, it&#39;s your fault &lpar;2011&rpar;](https://anildash.com/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)
 - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
-- [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 <!-- BLOG-POST-LIST:END -->
 
 ---
