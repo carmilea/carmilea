@@ -55,7 +55,7 @@
 - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
 - [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
-- [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
+- [The Collapsing Quality of Dev.to](https://wagslane.dev/posts/collapsing-quality-of-devto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
