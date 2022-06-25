@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Europe to East Coast, does it make sense to move at 50?](https://news.ycombinator.com/item?id=31873504)
 - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
 - [The most livable cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
+- [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
