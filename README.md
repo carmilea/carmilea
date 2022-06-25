@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
 - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
 - [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
-- [The Collapsing Quality of Dev.to](https://wagslane.dev/posts/collapsing-quality-of-devto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
