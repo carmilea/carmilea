@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Livable Cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
+- [Ask HN: Europe to East Coast, does it make sense to move at 50?](https://news.ycombinator.com/item?id=31873504)
+- [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
+- [The most livable cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
-- [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
-- [A mystery that took 13k years to crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
