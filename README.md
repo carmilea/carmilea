@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
+- [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
+- [Show HN: Tone v0.0.4 – now hackable command line audio tagger, any feedback?](https://news.ycombinator.com/item?id=31879133)
+- [Don&#39;t let dicts spoil your code &lpar;2020&rpar;](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 - [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
-- [Mutter-Rounded – A window manager for gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
-- [Bayesian Workflow &lpar;2020&rpar;](https://arxiv.org/abs/2011.01808)
-- [Tom Davies has become a beloved icon of GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
-- [Spiritual Bypassing &lpar;2011&rpar; [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
