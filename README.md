@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It](https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/)
-- [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
-- [Cycling: Why Tunnels are Better than Bridges &lpar;2014&rpar;](https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html)
-- [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
-- [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
+- [The need for world government](https://kk.org/thetechnium/the-need-for-world-government/)
+- [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
+- [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
+- [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
+- [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
