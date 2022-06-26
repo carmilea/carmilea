@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto Is Crashing, But Companies Aren&#39;t Acting Like It](https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/)
 - [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
+- [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
 - [We need to make adulthood more desirable](https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/)
 - [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
-- [They Think It&#39;s Murder](https://richarddawkins.com/articles/article/they-think-its-murder)
-- [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
