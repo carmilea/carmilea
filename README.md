@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java&#39;s Cover &lpar;2001&rpar;](http://paulgraham.com/javacover.html)
+- [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
+- [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers &lpar;2016&rpar;](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
+- [LaMDA’s Sentience Is Nonsense – Here’s Why](https://lastweekin.ai/p/lamdas-sentience-is-nonsense-heres)
 - [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
-- [Show HN: Simple games ported to Scala 3 – Try them in the browser](https://github.com/wiringbits/scala-js-games)
-- [Abolish Zoning. Entirely. For Good](https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/)
-- [Show HN: MiniMail – Disposable Email Service for Everyone](https://minimail.eu.org/hello@minimail.eu.org)
-- [Life Is Not Short](https://dkb.show/post/life-is-not-short)
 <!-- BLOG-POST-LIST:END -->
 
 ---
