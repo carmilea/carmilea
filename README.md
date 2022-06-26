@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
+- [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
 - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
-- [Show HN: Tone v0.0.4 – now hackable command line audio tagger, any feedback?](https://news.ycombinator.com/item?id=31879133)
 - [Don&#39;t let dicts spoil your code &lpar;2020&rpar;](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
