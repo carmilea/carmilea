@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life Is Not Short](https://dkb.show/post/life-is-not-short)
+- [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
+- [Who Is Going to Replace Google for Us?](https://michaeldehaan.substack.com/p/who-is-going-to-replace-google-for)
+- [Comprehensive list of modern reproductions of vintage sound cards](https://www.vogons.org/viewtopic.php?t=68265)
 - [Researchers demystify ancient Aboriginal migration across Australia &lpar;2021&rpar;](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
-- [Show HN: A tiny &lpar;850B&rpar; and fast reactive observables library via functions](https://github.com/maverick-js/observables)
-- [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
-- [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
-- [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
