@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$ curl -I https://web3usecase.com](https://web3usecase.com/)
 - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
-- [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
 - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
 - [‘Reverse Engineering’ Hacker News into an API](https://lukakerr.github.io/javascript/reverse-engineering-hacker-news-into-an-api)
