@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$ curl -I https://web3usecase.com](https://web3usecase.com/)
 - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
 - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
 - [‘Reverse Engineering’ Hacker News into an API](https://lukakerr.github.io/javascript/reverse-engineering-hacker-news-into-an-api)
+- [Don&#39;t let dicts spoil your code &lpar;2020&rpar;](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
