@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Is Crashing, But Companies Aren&#39;t Acting Like It](https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/)
+- [Researchers demystify ancient Aboriginal migration across Australia &lpar;2021&rpar;](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
+- [Show HN: A tiny &lpar;850B&rpar; and fast reactive observables library via functions](https://github.com/maverick-js/observables)
+- [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
 - [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
 - [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
-- [We need to make adulthood more desirable](https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/)
-- [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
