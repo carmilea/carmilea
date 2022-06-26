@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+- [Ask HN: How on earth are you using your Apple computer with external displays?](https://news.ycombinator.com/item?id=31886907)
 - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
-- [Java&#39;s Cover &lpar;2001&rpar;](http://paulgraham.com/javacover.html)
 - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
 - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
-- [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers &lpar;2016&rpar;](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
