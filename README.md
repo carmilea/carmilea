@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
+- [We need to make adulthood more desirable](https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/)
 - [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
+- [They Think It&#39;s Murder](https://richarddawkins.com/articles/article/they-think-its-murder)
 - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
-- [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
-- [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
-- [Germany Ends Ban on Abortion Advertisement](https://www.nytimes.com/2022/06/24/world/europe/germany-abortion-law.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
