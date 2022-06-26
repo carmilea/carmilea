@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 - [Java&#39;s Cover &lpar;2001&rpar;](http://paulgraham.com/javacover.html)
 - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
+- [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
 - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers &lpar;2016&rpar;](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
-- [LaMDA’s Sentience Is Nonsense – Here’s Why](https://lastweekin.ai/p/lamdas-sentience-is-nonsense-heres)
-- [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
