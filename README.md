@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The need for world government](https://kk.org/thetechnium/the-need-for-world-government/)
+- [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
 - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
 - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
-- [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
+- [Germany Ends Ban on Abortion Advertisement](https://www.nytimes.com/2022/06/24/world/europe/germany-abortion-law.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
