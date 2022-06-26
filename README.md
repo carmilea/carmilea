@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
+- [Show HN: Simple games ported to Scala 3 – Try them in the browser](https://github.com/wiringbits/scala-js-games)
+- [Abolish Zoning. Entirely. For Good](https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/)
+- [Show HN: MiniMail – Disposable Email Service for Everyone](https://minimail.eu.org/hello@minimail.eu.org)
 - [Life Is Not Short](https://dkb.show/post/life-is-not-short)
-- [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
-- [Who Is Going to Replace Google for Us?](https://michaeldehaan.substack.com/p/who-is-going-to-replace-google-for)
-- [Comprehensive list of modern reproductions of vintage sound cards](https://www.vogons.org/viewtopic.php?t=68265)
-- [Researchers demystify ancient Aboriginal migration across Australia &lpar;2021&rpar;](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
