@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It](https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/)
 - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
 - [Cycling: Why Tunnels are Better than Bridges &lpar;2014&rpar;](https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html)
 - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
-- [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
