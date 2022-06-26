@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Blade Runner&#39; at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 - [DevOps Is a Failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 - [What does an idle CPU do? &lpar;2014&rpar;](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
-- [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
