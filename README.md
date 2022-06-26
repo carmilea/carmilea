@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Blade Runner&#39; at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
+- [DevOps Is a Failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
-- [Ask HN: How on earth are you using your Apple computer with external displays?](https://news.ycombinator.com/item?id=31886907)
 - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
-- [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
-- [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
 <!-- BLOG-POST-LIST:END -->
 
 ---
