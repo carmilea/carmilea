@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
-- [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
+- [Two types of privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
 - [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
 - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
-- [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
