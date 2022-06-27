@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
-- [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
-- [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
-- [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
-- [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
+- [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
+- [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
+- [Top startups in Chicago &lpar;CSV file&rpar;](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
+- [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is &#39;abysmal&#39;](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
+- [Type-checked keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
