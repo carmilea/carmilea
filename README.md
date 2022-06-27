@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
+- [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
+- [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
+- [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
+- [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
-- [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
-- [Two types of privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
-- [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
