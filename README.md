@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision](https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision)
 - [tolower&lpar;&rpar; in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
 - [Finley &lpar;YC W21&rpar; is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
 - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
-- [Eating Our Own Dog Food – Building Amplication&#39;s Blog with Amplication](https://amplication.com/blog/eating-our-own-dog-food---building-amplication%27s-blog-with-amplication-cl4wnpayg963101s6f7svecil)
-- [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
+- [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
