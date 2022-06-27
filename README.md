@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: PRQL 0.2 — a better SQL — now ready to use](https://github.com/prql/prql)
-- [Show HN: Get rid of Git submodules and never look back &lpar;now for GitHub users&rpar;](https://gitmodules.com/)
-- [Spas: Theory versus Practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
-- [Three Arrows Capital has defaulted on a loan worth more than $670M](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
-- [The JavaScript Specification Has a New License](https://hacks.mozilla.org/2022/06/the-specification-for-javascript-has-a-new-license/)
+- [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
+- [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
+- [Whist, a new cloud-hybrid browser](https://www.whist.com/)
+- [Why America Can&#39;t Build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
+- [Misrepresenting Open Source for Business Benefit](https://danb.me/blog/posts/misrepresenting-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
