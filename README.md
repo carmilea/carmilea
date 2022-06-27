@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
+- [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
+- [Video PreTraining &lpar;VPT&rpar;: Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
 - [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
-- [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
-- [What&#39;s New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
-- [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
