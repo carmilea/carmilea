@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [tolower&lpar;&rpar; in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
+- [Finley &lpar;YC W21&rpar; is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
+- [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
+- [Eating Our Own Dog Food – Building Amplication&#39;s Blog with Amplication](https://amplication.com/blog/eating-our-own-dog-food---building-amplication%27s-blog-with-amplication-cl4wnpayg963101s6f7svecil)
 - [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
-- [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
-- [Anti-innovative effects of Apple&#39;s prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
-- [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
-- [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
