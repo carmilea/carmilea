@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision](https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision)
 - [tolower&lpar;&rpar; in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
-- [Finley &lpar;YC W21&rpar; is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
+- [Finley &lpar;YC W21&rpar; is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737)
 - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
 - [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
+- [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
 <!-- BLOG-POST-LIST:END -->
 
 ---
