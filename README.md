@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
+- [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
+- [Anti-innovative effects of Apple&#39;s prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
 - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
-- [4 in 5 Americans who need insulin have taken on credit card debt to cover cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
-- [Extreme Explorations of TypeScript&#39;s Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
-- [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
-- [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
+- [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
