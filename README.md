@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
 - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
+- [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
+- [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
 - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
-- [Top startups in Chicago &lpar;CSV file&rpar;](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
-- [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is &#39;abysmal&#39;](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
-- [Type-checked keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
