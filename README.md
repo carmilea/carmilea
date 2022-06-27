@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
+- [4 in 5 Americans who need insulin have taken on credit card debt to cover cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
+- [Extreme Explorations of TypeScript&#39;s Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
 - [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
 - [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
-- [Whist, a new cloud-hybrid browser](https://www.whist.com/)
-- [Why America Can&#39;t Build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
-- [Misrepresenting Open Source for Business Benefit](https://danb.me/blog/posts/misrepresenting-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
