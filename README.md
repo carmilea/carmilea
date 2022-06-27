@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
+- [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
 - [Tech Companies Won&#39;t Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
 - [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
 - [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
-- [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
-- [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
