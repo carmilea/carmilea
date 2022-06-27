@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook is bombarding cancer patients with ads for unproven treatments](https://www.technologyreview.com/2022/06/27/1054784/facebook-meta-cancer-treatment-ads-misinformation/)
+- [Show HN: PRQL 0.2 — a better SQL — now ready to use](https://github.com/prql/prql)
+- [Show HN: Get rid of Git submodules and never look back &lpar;now for GitHub users&rpar;](https://gitmodules.com/)
+- [Spas: Theory versus Practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
 - [Three Arrows Capital has defaulted on a loan worth more than $670M](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
-- [Things to know about databases](https://architecturenotes.co/things-you-should-know-about-databases/)
-- [Taloflow &lpar;YC W21&rpar; Is Hiring a React Dev &lpar;2 Mo. Contract&rpar;](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
-- [Electric fan car shatters the Goodwood hill climb record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
+- [The JavaScript Specification Has a New License](https://hacks.mozilla.org/2022/06/the-specification-for-javascript-has-a-new-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
