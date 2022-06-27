@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
+- [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 - [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
 - [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
-- [Video PreTraining &lpar;VPT&rpar;: Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
-- [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
 <!-- BLOG-POST-LIST:END -->
 
 ---
