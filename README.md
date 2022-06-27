@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple&#39;s claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
-- [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
-- [Tech Companies Won&#39;t Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
-- [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
-- [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
+- [Taloflow &lpar;YC W21&rpar; Is Hiring a React Dev &lpar;2 Mo. Contract&rpar;](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
+- [Watch an Electric Fan Car Shatter the Goodwood Hill Climb Record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
+- [Energy crunch concerns lead Japan’s government to call for reduced AC use](https://www.nippon.com/en/japan-data/h01355/)
+- [Consider disabling HTTPS auto redirects](https://1mb.club/blog/https-redirects/)
+- [Vitalik Buterin Talks Georgism, Crypto, Voting Systems](https://narrativespodcast.com/2022/06/27/100-vitalik-buterin-governance-political-economy-and-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
