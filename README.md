@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
 - [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
 - [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
 - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
 - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
-- [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
