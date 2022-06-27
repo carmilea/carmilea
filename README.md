@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is bombarding cancer patients with ads for unproven treatments](https://www.technologyreview.com/2022/06/27/1054784/facebook-meta-cancer-treatment-ads-misinformation/)
+- [Three Arrows Capital has defaulted on a loan worth more than $670M](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
+- [Things to know about databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 - [Taloflow &lpar;YC W21&rpar; Is Hiring a React Dev &lpar;2 Mo. Contract&rpar;](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
-- [Watch an Electric Fan Car Shatter the Goodwood Hill Climb Record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
-- [Energy crunch concerns lead Japan’s government to call for reduced AC use](https://www.nippon.com/en/japan-data/h01355/)
-- [Consider disabling HTTPS auto redirects](https://1mb.club/blog/https-redirects/)
-- [Vitalik Buterin Talks Georgism, Crypto, Voting Systems](https://narrativespodcast.com/2022/06/27/100-vitalik-buterin-governance-political-economy-and-crypto/)
+- [Electric fan car shatters the Goodwood hill climb record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
