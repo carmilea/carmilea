@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner To Advanced Challenge. Over 80 web applications](https://blog.zt4ff.dev/beginner-to-advanced-challenge-over-80-web-applications)
-- [Landeed &lpar;YC S22&rpar; Is Hiring Rust and React Native Engineers in India](https://www.ycombinator.com/companies/landeed/jobs)
-- [Flurry of Calls Among Saudi Staff and Spy Coincided with 9/11 Hijackers’ US Arri](https://starkrealities.substack.com/p/flurry-of-calls-among-saudi-diplomatic)
-- [Solar Protocol](http://solarprotocol.net)
-- [ROS – Robot Operating System](https://www.ros.org/?mc_cid=af51b76569&mc_eid=4b7466b9c7)
+- [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
+- [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
+- [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
+- [Why didn&#39;t Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
+- [What the Hell Was the Microsoft Network? &lpar;2018&rpar;](http://www.codersnotes.com/notes/the-microsoft-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
