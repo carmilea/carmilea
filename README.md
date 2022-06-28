@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It Is Your Responsibility to Follow Up](https://guzey.com/follow-up/)
-- [How Do Individual Contributors Get Stuck? A Primer &lpar;2017&rpar;](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
-- [Tell HN: I DDoSed myself using AWS CloudFront and Lambda Edge and got $4.5k bill](https://news.ycombinator.com/item?id=31907374)
-- [Guest Blog: Simply Go Faster!](https://www.singlestore.com/blog/ibm-singlestoredb-simply-go-faster)
-- [Demystifying pack and unpack, these most misunderstood functions](https://perldoc.perl.org/perlpacktut)
+- [SQLite or PostgreSQL? It&#39;s Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
+- [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
+- [Taiyo No Tamago](https://www.atlasobscura.com/foods/egg-of-the-sun-mango)
+- [Show HN: Virtual Maker – Make 3D/VR scenes in the browser](https://www.virtualmaker.net/)
+- [EY to pay $100 mln to settle U.S. charges of staff cheating on accountant exams](https://www.reuters.com/business/finance/ey-pay-100-mln-settle-us-charges-staff-cheating-accountant-exams-2022-06-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
