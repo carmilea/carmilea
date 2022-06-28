@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
+- [Retry XMLHttpRequest Carefully](http://lofi.limo/blog/retry-xmlhttprequest-carefully)
 - [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
 - [Tiny Mining Handbook](https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction)
 - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
-- [Show HN: We used investor tools to find the best startups to work at](https://joinmaasive.com)
-- [PermitFlow &lpar;YC W22&rpar; is hiring a head of permit operations](https://news.ycombinator.com/item?id=31910211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
