@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
+- [Canarytokens](https://canarytokens.org/generate)
+- [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
+- [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
 - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
-- [US military&#39;s mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
-- [Pen and paper exercises in machine learning](https://arxiv.org/abs/2206.13446)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Mastercard and visa are the de facto regulators of porn](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
