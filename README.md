@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [tolower&lpar;&rpar; in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
-- [Finley &lpar;YC W21&rpar; is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737)
-- [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
-- [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
-- [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
+- [Beginner To Advanced Challenge. Over 80 web applications](https://blog.zt4ff.dev/beginner-to-advanced-challenge-over-80-web-applications)
+- [Landeed &lpar;YC S22&rpar; Is Hiring Rust and React Native Engineers in India](https://www.ycombinator.com/companies/landeed/jobs)
+- [Flurry of Calls Among Saudi Staff and Spy Coincided with 9/11 Hijackers’ US Arri](https://starkrealities.substack.com/p/flurry-of-calls-among-saudi-diplomatic)
+- [Solar Protocol](http://solarprotocol.net)
+- [ROS – Robot Operating System](https://www.ros.org/?mc_cid=af51b76569&mc_eid=4b7466b9c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
