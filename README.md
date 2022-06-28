@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
+- [US military&#39;s mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
+- [Pen and paper exercises in machine learning](https://arxiv.org/abs/2206.13446)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Mastercard and visa are the de facto regulators of porn](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
-- [Interview with John Cook: mathematical consultant](https://sinews.siam.org/Details-Page/a-conversation-with-mathematical-consultant-john-d-cook)
-- [The Wood Database](https://www.wood-database.com/wood-filter/)
-- [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
