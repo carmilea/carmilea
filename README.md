@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
+- [Show HN: Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
 - [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
 - [Why didn&#39;t Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
