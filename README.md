@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It Is Your Responsibility to Follow Up](https://guzey.com/follow-up/)
+- [How Do Individual Contributors Get Stuck? A Primer &lpar;2017&rpar;](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
+- [Tell HN: I DDoSed myself using AWS CloudFront and Lambda Edge and got $4.5k bill](https://news.ycombinator.com/item?id=31907374)
 - [Guest Blog: Simply Go Faster!](https://www.singlestore.com/blog/ibm-singlestoredb-simply-go-faster)
-- [Anti-Abortion Centers Find Pregnant Teens Online, Then Save Their Data](https://www.bloomberg.com/news/articles/2022-06-27/anti-abortion-centers-find-pregnant-teens-online-then-save-their-data)
-- [Council of Europe anti-torture Committee visits the Netherlands](https://www.coe.int/en/web/cpt/-/council-of-europe-anti-torture-committee-carries-out-16-day-visit-to-the-netherlands)
-- [Important job interview questions engineers should ask &lpar;but don&#39;t&rpar;](https://posthog.com/blog/what-to-ask-in-interviews)
-- [Ask HN: How do I learn &lpar;real life&rpar; COBOL?](https://news.ycombinator.com/item?id=31906829)
+- [Demystifying pack and unpack, these most misunderstood functions](https://perldoc.perl.org/perlpacktut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
