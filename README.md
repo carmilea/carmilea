@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter CEO Quits $68B Firm to Sit at the Beach and ‘Do Nothing’](https://www.bloomberg.com/news/articles/2022-06-28/formica-plans-to-step-down-as-jupiter-ceo-beesley-to-take-over)
-- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Director of Engineering &lpar;Remote, US&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
-- [Haskell in Production: Channable](https://serokell.io/blog/haskell-in-production-channable)
-- [Shakespeare&#39;s Plays &lpar;Complete and Free&rpar;](https://shakespeare.folger.edu/shakespeares-works/)
-- [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
+- [Guest Blog: Simply Go Faster!](https://www.singlestore.com/blog/ibm-singlestoredb-simply-go-faster)
+- [Anti-Abortion Centers Find Pregnant Teens Online, Then Save Their Data](https://www.bloomberg.com/news/articles/2022-06-27/anti-abortion-centers-find-pregnant-teens-online-then-save-their-data)
+- [Council of Europe anti-torture Committee visits the Netherlands](https://www.coe.int/en/web/cpt/-/council-of-europe-anti-torture-committee-carries-out-16-day-visit-to-the-netherlands)
+- [Important job interview questions engineers should ask &lpar;but don&#39;t&rpar;](https://posthog.com/blog/what-to-ask-in-interviews)
+- [Ask HN: How do I learn &lpar;real life&rpar; COBOL?](https://news.ycombinator.com/item?id=31906829)
 <!-- BLOG-POST-LIST:END -->
 
 ---
