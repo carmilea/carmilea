@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
+- [Burning Out](https://polymerist.substack.com/p/on-burning-out)
+- [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
 - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
-- [Retry XMLHttpRequest Carefully](http://lofi.limo/blog/retry-xmlhttprequest-carefully)
-- [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
-- [Tiny Mining Handbook](https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction)
-- [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
+- [Return to Monkey Island Trailer](https://www.grumpygamer.com/rtmi_trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
