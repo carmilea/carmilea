@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Mastercard and visa are the de facto regulators of porn](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
+- [Interview with John Cook: mathematical consultant](https://sinews.siam.org/Details-Page/a-conversation-with-mathematical-consultant-john-d-cook)
+- [The Wood Database](https://www.wood-database.com/wood-filter/)
 - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
-- [Burning Out](https://polymerist.substack.com/p/on-burning-out)
-- [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
-- [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
-- [Return to Monkey Island Trailer](https://www.grumpygamer.com/rtmi_trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
