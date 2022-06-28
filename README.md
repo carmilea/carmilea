@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
+- [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 - [Show HN: Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
 - [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
-- [Why didn&#39;t Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
-- [What the Hell Was the Microsoft Network? &lpar;2018&rpar;](http://www.codersnotes.com/notes/the-microsoft-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
