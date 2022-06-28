@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter CEO Quits $68B Firm to Sit at the Beach and ‘Do Nothing’](https://www.bloomberg.com/news/articles/2022-06-28/formica-plans-to-step-down-as-jupiter-ceo-beesley-to-take-over)
+- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Director of Engineering &lpar;Remote, US&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
+- [Haskell in Production: Channable](https://serokell.io/blog/haskell-in-production-channable)
+- [Shakespeare&#39;s Plays &lpar;Complete and Free&rpar;](https://shakespeare.folger.edu/shakespeares-works/)
 - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
-- [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
-- [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
-- [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
-- [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 <!-- BLOG-POST-LIST:END -->
 
 ---
