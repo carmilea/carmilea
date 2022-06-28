@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring a Head of Permit Operations](https://news.ycombinator.com/item?id=31910211)
 - [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
-- [Police swoop on Stop Brexit Man under new anti-protest law](https://www.theguardian.com/uk-news/2022/jun/28/police-swoop-on-stop-brexit-man-under-new-anti-protest-law)
 - [Teenagers’ 30 minute guide to writing in Assembly](https://github.com/hackclub/some-assembly-required)
-- [WHO declines to label monkeypox a global emergency](https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency)
+- [Ask HN: How do I earn a small amount of money to sustain myself as a developer?](https://news.ycombinator.com/item?id=31908797)
 - [SQLite or PostgreSQL? It&#39;s Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 <!-- BLOG-POST-LIST:END -->
 
