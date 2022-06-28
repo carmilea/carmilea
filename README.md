@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring a Head of Permit Operations](https://news.ycombinator.com/item?id=31910211)
-- [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
-- [Teenagers’ 30 minute guide to writing in Assembly](https://github.com/hackclub/some-assembly-required)
-- [Ask HN: How do I earn a small amount of money to sustain myself as a developer?](https://news.ycombinator.com/item?id=31908797)
-- [SQLite or PostgreSQL? It&#39;s Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
+- [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
+- [Tiny Mining Handbook](https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction)
+- [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
+- [Show HN: We used investor tools to find the best startups to work at](https://joinmaasive.com)
+- [PermitFlow &lpar;YC W22&rpar; is hiring a head of permit operations](https://news.ycombinator.com/item?id=31910211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
