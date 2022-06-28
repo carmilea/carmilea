@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
+- [Police swoop on Stop Brexit Man under new anti-protest law](https://www.theguardian.com/uk-news/2022/jun/28/police-swoop-on-stop-brexit-man-under-new-anti-protest-law)
+- [Teenagers’ 30 minute guide to writing in Assembly](https://github.com/hackclub/some-assembly-required)
+- [WHO declines to label monkeypox a global emergency](https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency)
 - [SQLite or PostgreSQL? It&#39;s Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
-- [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
-- [Taiyo No Tamago](https://www.atlasobscura.com/foods/egg-of-the-sun-mango)
-- [Show HN: Virtual Maker – Make 3D/VR scenes in the browser](https://www.virtualmaker.net/)
-- [EY to pay $100 mln to settle U.S. charges of staff cheating on accountant exams](https://www.reuters.com/business/finance/ey-pay-100-mln-settle-us-charges-staff-cheating-accountant-exams-2022-06-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
