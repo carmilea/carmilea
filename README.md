@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
 - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
 - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
-- [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
