@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
+- [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
+- [10 Years of Meteor: My experience with a pioneering JavaScript framework](https://meteor10.sachagreif.com/)
 - [Generating Children’s Stories Using GPT-3 and DALL·E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
-- [Turn your conference talk into a blog post](https://herbertlui.net/conference-talk-blog-post-transcribe/)
 - [Thunderbird 102 Released](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
-- [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
-- [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
