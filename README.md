@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
+- [Geometric exercises in paper folding &lpar;1917&rpar;](https://archive.org/details/tsundararowsgeo00rowrich)
 - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
 - [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
 - [10 Years of Meteor: My experience with a pioneering JavaScript framework](https://meteor10.sachagreif.com/)
-- [Generating Children’s Stories Using GPT-3 and DALL·E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
-- [Thunderbird 102 Released](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
