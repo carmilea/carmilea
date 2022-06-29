@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco Poop Map](https://www.arcgis.com/apps/View/index.html?appid=b6fab720912642b6aedafdb02a76d2a4)
+- [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Elixir Engineers &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4544288004)
 - [It&#39;s worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
 - [Geometric exercises in paper folding &lpar;1917&rpar;](https://archive.org/details/tsundararowsgeo00rowrich)
