@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
 - [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
 - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 - [Reverie Labs &lpar;YC W18&rpar; is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
-- [Sun&#39;s magnetic arches may be just an optical illusion, research suggests](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
