@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
+- [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 - [Reverie Labs &lpar;YC W18&rpar; is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
-- [The Sun&#39;s Magnetic Arches May Just Be an Optical Illusion](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
-- [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
-- [Substack is laying off 14% of its staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)
+- [Sun&#39;s magnetic arches may be just an optical illusion, research suggests](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
