@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do you use to build auth? A library, a provider, writing your own?](https://news.ycombinator.com/item?id=31919548)
-- [Xbox Series X|S Has Outsold PS5 in Japan Again](https://www.gamespot.com/articles/xbox-series-x-s-has-outsold-ps5-in-japan-again/1100-6504863/)
-- [As eng manager, you so frequently get request to drop what you are doing](https://twitter.com/gergelyorosz/status/1542061516912037890)
-- [Sieve &lpar;YC W22&rpar; is building the MongoDB for video, come join us](https://www.sievedata.com/)
-- [Does warfare make societies more complex? Controversial study says yes](https://www.science.org/content/article/does-warfare-make-societies-more-complex-controversial-study-says-yes)
+- [St. John&#39;s woman loses home after Phoenix pay fiasco](https://www.cbc.ca/news/canada/newfoundland-labrador/phoenix-pay-joanne-osmond-1.6500083)
+- [Technology shock, fewer shotgun marriages, and the rise in unwed births &lpar;1996&rpar;](https://www.brookings.edu/articles/new-mothers-not-married-technology-shock-the-demise-of-shotgun-marriage-and-the-increase-in-out-of-wedlock-births/)
+- [Extreme temperatures in major Latin American cities could be linked to 1M deaths](https://www.science.org/content/article/extreme-temperatures-major-latin-american-cities-could-be-linked-nearly-1-million)
+- [The gut metabolite indole-3 propionate promotes nerve regeneration and repair](https://www.nature.com/articles/s41586-022-04884-x)
+- [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
