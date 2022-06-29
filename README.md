@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Increased Subscription Pricing for IDEs, .NET Tools, and the All Products Pack](https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/)
 - [Humans can&#39;t endure temperatures and humidities as high as previously thought](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
 - [Forebruary is a wall calendar that you do not need to replace every year. &lpar;2013&rpar;](https://ilyabirman.net/forebruary/)
 - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Elixir Engineers &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4544288004)
-- [It&#39;s worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
