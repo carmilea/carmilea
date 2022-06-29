@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software upgrade for 19-year-old martian water-spotter](https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter)
-- [Cryptographic failures in RF encryption allow stealing robotic devices](https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/)
-- [Pre-Modern Battlefields Were Absolutely Terrifying &lpar;2015&rpar; &lpar;2015&rpar;](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
-- [Show HN: Infracost &lpar;YC W21&rpar;: Cloud Costs for Terraform in VSCode](https://news.ycombinator.com/item?id=31921313)
-- [Improving Calc support for 16384 columns](http://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html)
+- [NES Game Genie Technical Notes](http://tuxnes.sourceforge.net/gamegenie.html)
+- [History of Lossless Data Compression Algorithms](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
+- [Arm Introduces the Cortex-A715](https://fuse.wikichip.org/news/6853/arm-introduces-the-cortex-a715/)
+- [Bitcoin is the only coin the SEC Chair will call a commodity](https://www.axios.com/2022/06/28/bitcoin-is-the-only-coin-the-sec-chair-will-call-a-commodity)
+- [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
