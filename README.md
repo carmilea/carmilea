@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
-- [Things I wish everyone knew about Git &lpar;Part I&rpar;](https://blog.plover.com/2022/06/29/#tips)
-- [GiveCampus &lpar;YC S15, profitable since 2016&rpar; Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
-- [Battersea Power Station in London unveils the newly restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
-- [When network is faster than browser cache &lpar;2020&rpar;](https://simonhearne.com/2020/network-faster-than-cache/)
+- [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
+- [Substack is laying off 14% of its staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)
+- [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
+- [Compound pejoratives on Reddit – from buttface to wankpuffin](http://colinmorris.github.io/blog/compound-curse-words)
+- [FCC commissioner wants TikTok removed from app stores over spying concerns](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
