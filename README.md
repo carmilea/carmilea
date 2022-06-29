@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humans can&#39;t endure temperatures and humidities as high as previously thought](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
+- [Forebruary is a wall calendar that you do not need to replace every year. &lpar;2013&rpar;](https://ilyabirman.net/forebruary/)
 - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Elixir Engineers &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4544288004)
 - [It&#39;s worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
-- [Geometric exercises in paper folding &lpar;1917&rpar;](https://archive.org/details/tsundararowsgeo00rowrich)
-- [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
