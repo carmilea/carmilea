@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
-- [Canarytokens](https://canarytokens.org/generate)
+- [Generating Children’s Stories Using GPT-3 and DALL·E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
+- [Turn your conference talk into a blog post](https://herbertlui.net/conference-talk-blog-post-transcribe/)
+- [Thunderbird 102 Released](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
 - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
 - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
-- [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
 <!-- BLOG-POST-LIST:END -->
 
 ---
