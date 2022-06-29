@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring Elixir Engineers &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4544288004)
 - [It&#39;s worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
 - [Geometric exercises in paper folding &lpar;1917&rpar;](https://archive.org/details/tsundararowsgeo00rowrich)
 - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
-- [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
-- [10 Years of Meteor: My experience with a pioneering JavaScript framework](https://meteor10.sachagreif.com/)
+- [New concentrator could help solar panels capture more sunlight without tracking](https://cosmosmagazine.com/science/agile-concentrator-solar-panels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
