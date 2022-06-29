@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [St. John&#39;s woman loses home after Phoenix pay fiasco](https://www.cbc.ca/news/canada/newfoundland-labrador/phoenix-pay-joanne-osmond-1.6500083)
-- [Technology shock, fewer shotgun marriages, and the rise in unwed births &lpar;1996&rpar;](https://www.brookings.edu/articles/new-mothers-not-married-technology-shock-the-demise-of-shotgun-marriage-and-the-increase-in-out-of-wedlock-births/)
-- [Extreme temperatures in major Latin American cities could be linked to 1M deaths](https://www.science.org/content/article/extreme-temperatures-major-latin-american-cities-could-be-linked-nearly-1-million)
-- [The gut metabolite indole-3 propionate promotes nerve regeneration and repair](https://www.nature.com/articles/s41586-022-04884-x)
-- [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
+- [Software upgrade for 19-year-old martian water-spotter](https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter)
+- [Cryptographic failures in RF encryption allow stealing robotic devices](https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/)
+- [Pre-Modern Battlefields Were Absolutely Terrifying &lpar;2015&rpar; &lpar;2015&rpar;](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
+- [Show HN: Infracost &lpar;YC W21&rpar;: Cloud Costs for Terraform in VSCode](https://news.ycombinator.com/item?id=31921313)
+- [Improving Calc support for 16384 columns](http://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
