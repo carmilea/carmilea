@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+- [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
+- [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
 - [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 - [Supreme Court limits EPA’s power to cut emissions](https://www.bbc.com/news/science-environment-62000742)
-- [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
-- [MIT engineers fly first-ever plane with no moving parts &lpar;2018&rpar;](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
-- [Coinbase is reportedly selling geolocation data to ICE](https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
