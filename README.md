@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Historic Rotterdam bridge won&#39;t be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
+- [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
+- [How to Migrate From PostgreSQL to SingleStoreDB](https://www.singlestore.com/blog/how-to-migrate-from-postgresql-to-singlestoredb)
 - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
-- [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
-- [Show HN: Movably – Protect your health, move more while you work](https://www.movably.com)
-- [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
