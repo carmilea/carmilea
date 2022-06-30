@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT engineers fly first-ever plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
+- [Bitcoin Critiques and Rebuttals](https://casebitcoin.com/critiques)
+- [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
+- [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)
 - [Why don&#39;t more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
-- [Volt, Australia&#39;s first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
-- [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
-- [We’ve Reached Peak Wellness. Most of It Is Nonsense. &lpar;2019&rpar;](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
-- [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
