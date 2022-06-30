@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [App School Live](https://developers.urbit.org/blog/asl-announce)
+- [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 - [Supreme Court limits EPA’s power to cut emissions](https://www.bbc.com/news/science-environment-62000742)
 - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
 - [MIT engineers fly first-ever plane with no moving parts &lpar;2018&rpar;](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
