@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
+- [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
 - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
 - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
-- [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
-- [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
-- [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
+- [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
