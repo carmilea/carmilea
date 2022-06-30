@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
+- [Amazon Branded Convenience and Normalized Monopoly](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
+- [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 - [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
-- [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
 - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
-- [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
-- [Reverie Labs &lpar;YC W18&rpar; is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
