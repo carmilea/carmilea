@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Historic Rotterdam bridge won&#39;t be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
+- [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
+- [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
+- [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
 - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
-- [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
-- [How to Migrate From PostgreSQL to SingleStoreDB](https://www.singlestore.com/blog/how-to-migrate-from-postgresql-to-singlestoredb)
-- [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
+- [Vim 9.0 Was Released](https://groups.google.com/g/vim_announce/c/f_-N3hYxK20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
