@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 - [Padlet &lpar;YC W13&rpar; Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
+- [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
-- [We are unable to refund mistaken purchases, and/or if you don&#39;t like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
-- [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
