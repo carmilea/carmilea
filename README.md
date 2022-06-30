@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why don&#39;t more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
+- [Volt, Australia&#39;s first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
 - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
+- [We’ve Reached Peak Wellness. Most of It Is Nonsense. &lpar;2019&rpar;](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
 - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
-- [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
-- [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
-- [Amazon bows to UAE pressure to restrict LGBT search results](https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results)
 <!-- BLOG-POST-LIST:END -->
 
 ---
