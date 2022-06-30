@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT engineers fly first-ever plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
-- [Bitcoin Critiques and Rebuttals](https://casebitcoin.com/critiques)
-- [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
-- [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)
-- [Why don&#39;t more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
+- [App School Live](https://developers.urbit.org/blog/asl-announce)
+- [Supreme Court limits EPA’s power to cut emissions](https://www.bbc.com/news/science-environment-62000742)
+- [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
+- [MIT engineers fly first-ever plane with no moving parts &lpar;2018&rpar;](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
+- [Coinbase is reportedly selling geolocation data to ICE](https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
