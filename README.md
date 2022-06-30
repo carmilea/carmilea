@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
+- [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
 - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
+- [Amazon bows to UAE pressure to restrict LGBT search results](https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results)
 - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
-- [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
-- [Padlet &lpar;YC W13&rpar; Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
-- [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
