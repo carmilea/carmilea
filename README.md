@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Padlet &lpar;YC W13&rpar; Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
 - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
 - [We are unable to refund mistaken purchases, and/or if you don&#39;t like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
 - [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
-- [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
