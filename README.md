@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We are unable to refund mistaken purchases, and/or if you don&#39;t like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
+- [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 - [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
-- [Amazon Branded Convenience and Normalized Monopoly](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
-- [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
-- [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
-- [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
+- [Controversy continues over whether hot water freezes faster than cold](https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/)
+- [Interview with the author of “Buy Now”, a book about Amazon](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
