@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
+- [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
+- [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
+- [Farewell to HTML5Rocks](https://web.dev/farewell-html5rocks/)
 - [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-- [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
-- [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
-- [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
-- [Supreme Court limits EPA’s power to cut emissions](https://www.bbc.com/news/science-environment-62000742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
