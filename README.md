@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
 - [We are unable to refund mistaken purchases, and/or if you don&#39;t like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
 - [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 - [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
 - [Controversy continues over whether hot water freezes faster than cold](https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/)
-- [Interview with the author of “Buy Now”, a book about Amazon](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
