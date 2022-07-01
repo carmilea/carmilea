@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
+- [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
+- [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
 - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
-- [Uzi Nissan &lpar;Nissan.com&rpar; died of Covid July 2020 and the website is now down](http://www.nissan.com/)
-- [What&#39;s the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
-- [mTCP 2022-07-01 &lpar;TCP/IP and programs for old DOS PCs&rpar; is available](http://www.brutman.com/mTCP/mTCP.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
