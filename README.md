@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
+- [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
+- [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
 - [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
-- [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
 - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 - [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
 <!-- BLOG-POST-LIST:END -->
