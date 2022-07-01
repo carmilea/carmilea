@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Your Shit Together – Because hoping for the best is not a plan](https://getyourshittogether.org/)
 - [Ask HN: Who is hiring? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947297)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947296)
 - [Ask HN: Who wants to be hired? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947295)
+- [If I cold emailed you, I apologize](https://blog.molecule.dev/sorry-for-the-cold-emails/)
 - [How Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
-- [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
