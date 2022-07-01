@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What can we learn from the secret habits of genius?](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
+- [Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months](https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine)
+- [Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
+- [US hypersonic missile fails in test- 2nd consecutive failed attempt](https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program)
 - [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
 - [UPchieve &lpar;Edtech Nonprofit, YC W21&rpar; is hiring our first product lead](https://upchieve.welcomekit.co/)
-- [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
-- [Harvard Must Fall](https://unherd.com/2022/07/harvard-must-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
