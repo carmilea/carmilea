@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozart Data &lpar;YC S20&rpar; Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+- [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
+- [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
 - [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
-- [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
-- [Pokemon Go Creator Niantic Cancels Four Projects, Cuts 8% of Staff](https://www.bloomberg.com/news/articles/2022-06-29/pokemon-go-creator-niantic-cancels-four-projects-cuts-jobs)
-- [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
+- [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
+- [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
