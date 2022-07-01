@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
 - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 - [Doom Builder](http://doombuilder.com/)
 - [Meta slashes hiring plans, girds for &#39;fierce&#39; headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
 - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
-- [Severe thermal throttling discovered in Apple&#39;s M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
