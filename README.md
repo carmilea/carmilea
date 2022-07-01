@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking &lpar;YC W15&rpar; Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [Klarna to raise fresh cash at slashed $6.5B valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 - [Ask HN: Who is hiring? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947297)
 - [Ask HN: Freelancer? Seeking freelancer? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947296)
-- [Ask HN: Who wants to be hired? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947295)
-- [If I cold emailed you, I apologize](https://blog.molecule.dev/sorry-for-the-cold-emails/)
-- [How Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
+- [Police Can Trace Cameras Thanks to Sensor Imperfection ‘Fingerprints’](https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
