@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
-- [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
-- [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
-- [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
-- [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
+- [Wayland is not ready as a 1:1 compatible Xorg replacement just yet](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+- [France bans veggie ′steaks,′ ′sausages′ to describe vegetarian products](https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333)
+- [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
+- [Steelmanning: How to Discover the Truth by Helping Your Opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
+- [Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe](https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
