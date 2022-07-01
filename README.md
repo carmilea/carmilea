@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
-- [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
-- [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
-- [Visualizing Algorithms &lpar;2014&rpar;](https://bost.ocks.org/mike/algorithms/)
-- [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
+- [What can we learn from the secret habits of genius?](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
+- [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
+- [UPchieve &lpar;Edtech Nonprofit, YC W21&rpar; is hiring our first product lead](https://upchieve.welcomekit.co/)
+- [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
+- [Harvard Must Fall](https://unherd.com/2022/07/harvard-must-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
