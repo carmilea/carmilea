@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
+- [Traffic cones confused a Waymo self-driving car. Then things got worse](https://www.cnn.com/2021/05/17/tech/waymo-arizona-confused/index.html)
 - [Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months](https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine)
 - [Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
-- [US hypersonic missile fails in test- 2nd consecutive failed attempt](https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program)
-- [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
-- [UPchieve &lpar;Edtech Nonprofit, YC W21&rpar; is hiring our first product lead](https://upchieve.welcomekit.co/)
+- [Tech layoffs keep stacking up](https://twitter.com/HayekAndKeynes/status/1541760176826499073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
