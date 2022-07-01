@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
-- [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
-- [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
-- [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
-- [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
+- [Mozart Data &lpar;YC S20&rpar; Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+- [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
+- [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
+- [Pokemon Go Creator Niantic Cancels Four Projects, Cuts 8% of Staff](https://www.bloomberg.com/news/articles/2022-06-29/pokemon-go-creator-niantic-cancels-four-projects-cuts-jobs)
+- [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
