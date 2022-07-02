@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Cryptoqueen&#39; Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
-- [Leading vs. Participating](https://www.subbu.org/articles/2021/leading-vs-participating/)
-- [Tailscale ate my network &lpar;and I love it&rpar;](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
-- [Notes on structured concurrency, or: Go statement considered harmful &lpar;2018&rpar;](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
-- [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
+- [World Population Clock: 7.96B People &lpar;2022&rpar;](https://www.worldometers.info/world-population/)
+- [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
+- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
+- [Goodbye, Feedly](https://erikgahner.dk/2022/goodbye-feedly/)
+- [Artificial photosynthesis can produce food without sunshine](https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
