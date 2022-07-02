@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
-- [The Bullshit Web &lpar;2018&rpar;](https://pxlnv.com/blog/bullshit-web/)
-- [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
-- [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
-- [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
+- [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
+- [The Windows malloc&lpar;&rpar; implementation is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
+- [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
+- [Kyoto framework is moving to sr.ht from GitHub](https://github.com/kyoto-framework/kyoto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
