@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
+- [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
+- [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
+- [why I left Android Development after 10 years for Backend](https://levelup.gitconnected.com/why-i-left-android-development-after-10-years-and-became-a-backend-developer-86ebf3595d43?gi=879b0c1492c9)
 - [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
-- [Are we too many people or too few?](http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html)
-- [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
-- [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
-- [UK Goverment keen on 50-year mortgages](https://www.independent.co.uk/news/uk/politics/boris-johnson-mortgages-parents-children-b2113882.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
