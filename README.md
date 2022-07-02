@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
+- [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
+- [The Bullshit Web &lpar;2018&rpar;](https://pxlnv.com/blog/bullshit-web/)
 - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 - [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
 - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
-- [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
