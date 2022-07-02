@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
-- [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
-- [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
-- [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
-- [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
+- [Psilocybin microdosing improves mood and mental health](https://www.nature.com/articles/s41598-022-14512-3)
+- [Common CyberPower UPS models are catching fire](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
+- [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
+- [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
+- [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
