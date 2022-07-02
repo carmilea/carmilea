@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Logic Project](http://builds.openlogicproject.org/)
+- [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
+- [Yahoo admits mangling e-mail &lpar;2002&rpar;](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
+- [Gunslinger Effect](https://en.wikipedia.org/wiki/Gunslinger_effect)
 - [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
-- [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
-- [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
-- [why I left Android Development after 10 years for Backend](https://levelup.gitconnected.com/why-i-left-android-development-after-10-years-and-became-a-backend-developer-86ebf3595d43?gi=879b0c1492c9)
-- [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
