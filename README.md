@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tailscale ate my network &lpar;and I love it&rpar;](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
-- [Atlanta Fed GDPNow](https://www.atlantafed.org/cqer/research/gdpnow)
+- [Notes on structured concurrency, or: Go statement considered harmful &lpar;2018&rpar;](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 - [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
 - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
