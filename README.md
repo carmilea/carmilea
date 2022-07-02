@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Draftbit &lpar;YC W18&rpar; Is Hiring Senior Engineers &lpar;TypeScript, React Native, GraphQL&rpar;](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
+- [ShotSpotter defamation lawsuit against VICE has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
+- [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
 - [How does a USB keyboard work? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
 - [Rich Hickey – Open Source is Not About You &lpar;2018&rpar;](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-- [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
-- [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
-- [World Population Clock: 7.96B People &lpar;2022&rpar;](https://www.worldometers.info/world-population/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
