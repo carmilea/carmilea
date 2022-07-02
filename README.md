@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailscale ate my network &lpar;and I love it&rpar;](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
+- [Atlanta Fed GDPNow](https://www.atlantafed.org/cqer/research/gdpnow)
 - [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
-- [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
 - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
-- [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
