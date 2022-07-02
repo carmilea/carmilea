@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+- [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+- [Games Done Quick Ocarina of Time beta showcase standing ovation](https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/)
 - [Streak &lpar;YC W22&rpar; is hiring customer success specialists to delight users &lpar;remote&rpar;](https://www.streak.com/careers/customer-success-specialist-remote)
 - [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
-- [Open Logic Project](http://builds.openlogicproject.org/)
-- [Yahoo admits mangling e-mail &lpar;2002&rpar;](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
-- [Gunslinger Effect](https://en.wikipedia.org/wiki/Gunslinger_effect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
