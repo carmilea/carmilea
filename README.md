@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
+- [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
+- [Ethereum Energy Consumption](https://ethereum.org/en/energy-consumption/)
+- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
 - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
-- [The Windows malloc&lpar;&rpar; implementation is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
-- [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
-- [Kyoto framework is moving to sr.ht from GitHub](https://github.com/kyoto-framework/kyoto)
+- [The Windows malloc&lpar;&rpar; implementation from MSVCRT is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
