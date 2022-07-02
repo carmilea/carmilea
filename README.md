@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
+- [Choosing SOFA](https://idiomdrottning.org/sofa)
 - [Draftbit &lpar;YC W18&rpar; Is Hiring Senior Engineers &lpar;TypeScript, React Native, GraphQL&rpar;](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
 - [ShotSpotter defamation lawsuit against VICE has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
-- [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
-- [How does a USB keyboard work? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
-- [Rich Hickey – Open Source is Not About You &lpar;2018&rpar;](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+- [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
