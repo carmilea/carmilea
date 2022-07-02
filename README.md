@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak &lpar;YC W22&rpar; is hiring customer success specialists to delight users &lpar;remote&rpar;](https://www.streak.com/careers/customer-success-specialist-remote)
+- [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
 - [Open Logic Project](http://builds.openlogicproject.org/)
-- [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
 - [Yahoo admits mangling e-mail &lpar;2002&rpar;](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
 - [Gunslinger Effect](https://en.wikipedia.org/wiki/Gunslinger_effect)
-- [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
