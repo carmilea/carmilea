@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How does a USB keyboard work? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
+- [Rich Hickey – Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+- [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
+- [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 - [World Population Clock: 7.96B People &lpar;2022&rpar;](https://www.worldometers.info/world-population/)
-- [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
-- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
-- [Goodbye, Feedly](https://erikgahner.dk/2022/goodbye-feedly/)
-- [Artificial photosynthesis can produce food without sunshine](https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
