@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Taxation Theft?](https://aeon.co/essays/if-your-pay-is-not-yours-to-keep-then-neither-is-the-tax)
+- [Patterns &lpar;YC S21&rpar; Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
+- [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
+- [Are Buy Now Pay Laters the Next Bubble?](https://www.crresearch.com/blog/buy_now_pay_later_statistics)
+- [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
-- [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
-- [Ask HN: Which book would you pick to re-read for the rest of your life?](https://news.ycombinator.com/item?id=31968169)
-- [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
