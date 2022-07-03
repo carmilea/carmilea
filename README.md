@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
+- [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
 - [The Muse &lpar;YC W12&rpar; Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [The web is not poor man’s native](https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/)
 - [It&#39;s quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
-- [Couch to 64k, a.k.a. Building a Z80 Breadboard Computer &lpar;2020&rpar;](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
-- [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
-- [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
