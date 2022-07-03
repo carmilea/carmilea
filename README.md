@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
+- [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
 - [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
+- [Show HN: Generate webpage summary images with DALL-E mini](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/35_Pictures_are_worth_a_thousand_words.ipynb)
 - [The Muse &lpar;YC W12&rpar; Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- [The web is not poor man’s native](https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/)
-- [It&#39;s quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
