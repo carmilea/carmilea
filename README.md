@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [It&#39;s quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
+- [Couch to 64k, a.k.a. Building a Z80 Breadboard Computer &lpar;2020&rpar;](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
+- [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 - [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
-- [Operation Gunman – how the Soviets bugged IBM typewriters &lpar;2015&rpar;](https://www.cryptomuseum.com/covert/bugs/selectric/)
-- [What happened when the rich stopped intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
-- [Stacker &lpar;YC S20&rpar; is hiring product engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- [StrictYAML](https://hitchdev.com/strictyaml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
