@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
-- [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
-- [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
-- [Introduction to Computer Vision](https://blog.theos.ai/articles/introduction-to-computer-vision)
-- [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
+- [Quantum Mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/#more-12)
+- [Pirate Library Mirror: Preserving 7TB of books &lpar;that are not in Libgen&rpar;](http://pilimi.org/blog-introducing.html)
+- [Transporting food generates whopping amounts of carbon dioxide](https://www.nature.com/articles/d41586-022-01766-0)
+- [Understanding how others relate to you](https://www.bmj.com/content/377/bmj.o1548)
+- [India plans to replace fossil fuels with hydrogen](https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
