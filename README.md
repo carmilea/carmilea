@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can we have a less flamey discussion of self driving cars?](https://news.ycombinator.com/item?id=31968223)
+- [Is Taxation Theft?](https://aeon.co/essays/if-your-pay-is-not-yours-to-keep-then-neither-is-the-tax)
+- [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
+- [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
+- [Ask HN: Which book would you pick to re-read for the rest of your life?](https://news.ycombinator.com/item?id=31968169)
 - [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
-- [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
-- [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
-- [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
