@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [StrictYAML](https://hitchdev.com/strictyaml/)
+- [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
 - [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 - [They&#39;re made out of meat &lpar;1991&rpar;](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
-- [WeatherKit](https://developer.apple.com/weatherkit/)
-- [Git from the Inside Out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
-- [IPL: Intuitionistic Programming Language &lpar;2013&rpar;](http://intuitionistic.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
