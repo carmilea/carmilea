@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)
+- [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
+- [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
 - [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
+- [Introduction to Computer Vision](https://blog.theos.ai/articles/introduction-to-computer-vision)
 - [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
-- [Satellites can now find the sources of methane leaks](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
-- [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
