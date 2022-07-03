@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)
+- [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
+- [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
 - [Satellites can now find the sources of methane leaks](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
 - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
-- [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
-- [Patterns &lpar;YC S21&rpar; Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
-- [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
