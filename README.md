@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norwegian Meteorological Institute has an excellent free weather API](https://developer.yr.no/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
+- [Operation Gunman – how the Soviets bugged IBM typewriters &lpar;2015&rpar;](https://www.cryptomuseum.com/covert/bugs/selectric/)
+- [What happened when the rich stopped intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
+- [Stacker &lpar;YC S20&rpar; is hiring product engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 - [StrictYAML](https://hitchdev.com/strictyaml/)
-- [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)
-- [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
