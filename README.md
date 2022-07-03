@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
+- [Can we have a less flamey discussion of self driving cars?](https://news.ycombinator.com/item?id=31968223)
+- [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
 - [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
+- [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
 - [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
-- [Show HN: Generate webpage summary images with DALL-E mini](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/35_Pictures_are_worth_a_thousand_words.ipynb)
-- [The Muse &lpar;YC W12&rpar; Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
