@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple WeatherKit](https://developer.apple.com/weatherkit/)
-- [IPL: Intuitionistic Programming Language](http://intuitionistic.org)
-- [How to build a Chess Engine, an interactive guide](https://www.chessengines.org/)
+- [They&#39;re made out of meat &lpar;1991&rpar;](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+- [WeatherKit](https://developer.apple.com/weatherkit/)
+- [IPL: Intuitionistic Programming Language &lpar;2013&rpar;](http://intuitionistic.org)
+- [How to build a chess engine](https://www.chessengines.org/)
 - [Documents reveal McKinsey&#39;s role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
-- [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
