@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indie Microblogging](https://book.micro.blog/)
+- [Project Helix by Adobe](https://www.hlx.live/home)
+- [The Norwegian library with unreadable books](https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books)
 - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
-- [About the Reactor](https://reactor.reed.edu/about.html)
-- [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
-- [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
