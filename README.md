@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
+- [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
+- [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
 - [The Materials Project](https://materialsproject.org/)
 - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
-- [Cow Clicker](http://www.cowclicker.com/)
-- [Bitpanda said no mass layoffs, three weeks before axing one-third of staff](https://www.theblock.co/post/155398/no-mass-layoffs-said-bitpanda-three-weeks-before-axing-third-of-staff)
-- [Crypto crisis has created an advertising vacuum](https://digiday.com/marketing/advertising-has-taken-a-hit-the-crypto-crisis-has-created-an-advertising-vacuum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
