@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
+- [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
 - [Kable &lpar;YC W22&rpar;, Billing for API Companies, Is Hiring](https://kable.io)
 - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
-- [Is McKinsey and Co. The Root of All Evil?](https://ritholtz.com/2011/03/is-mckinsey-co-the-root-of-all-evil/)
-- [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
-- [Indie Microblogging](https://book.micro.blog/)
+- [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
