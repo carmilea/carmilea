@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
-- [The Pixel 6 Pro has the worst connectivity and reception of any phone I&#39;ve used](https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/)
+- [macOS: App sandboxing via sandbox-exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
+- [The problem with free &lpar;2019&rpar;](https://vanschneider.com/blog/the-problem-with-free/)
 - [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
 - [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
-- [Building a Sevenesque Roadster](http://sevenesque.com/)
+- [Longitudinal cohort study of the displacement of teaspoons &lpar;2005&rpar;](https://www.bmj.com/content/331/7531/1498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
