@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncle Bob and Silver Bullets &lpar;2017&rpar;](https://www.hillelwayne.com/post/uncle-bob/)
 - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
+- [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
 - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
-- [The local news crisis is deepening America&#39;s divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
-- [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
-- [Hilarious &#39;Web 3 Console&#39; Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
+- [New study shows highly creative people’s brains work differently from others&#39;](https://www.uclahealth.org/news/CreativeBrain2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
