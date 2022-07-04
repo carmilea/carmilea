@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [On the Use of a Life &lpar;2020&rpar;](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
+- [Happy 4th of July](https://news.ycombinator.com/item?id=31981387)
+- [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
 - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
 - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
-- [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
-- [The Materials Project](https://materialsproject.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
