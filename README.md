@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum mechanics and Tomb Raider &lpar;2007&rpar;](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
-- [Pirate Library Mirror: Preserving 7TB of books &lpar;that are not in Libgen&rpar;](http://pilimi.org/blog-introducing.html)
-- [Transporting food generates whopping amounts of carbon dioxide](https://www.nature.com/articles/d41586-022-01766-0)
-- [Understanding how others relate to you](https://www.bmj.com/content/377/bmj.o1548)
-- [New Steganography Method for SVG Images Based on Improved LSB Algorithm &lpar;2019&rpar; [pdf]](http://paper.ijcsns.org/07_book/201910/20191016.pdf)
+- [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
+- [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
+- [Building a Sevenesque Roadster](http://sevenesque.com/)
+- [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
+- [The Old Reader](https://theoldreader.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
