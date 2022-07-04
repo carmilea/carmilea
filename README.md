@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Use of a Life &lpar;2020&rpar;](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
-- [Happy 4th of July](https://news.ycombinator.com/item?id=31981387)
+- [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
+- [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
+- [On the use of a life &lpar;2020&rpar;](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
 - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
-- [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
