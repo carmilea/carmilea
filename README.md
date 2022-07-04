@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
 - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
-- [Ask HN: First-time dad-to-be. What do you wish you&#39;d known back then?](https://news.ycombinator.com/item?id=31976803)
+- [The local news crisis is deepening America&#39;s divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
 - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
-- [Kable &lpar;YC W22&rpar;, Billing for API Companies, Is Hiring](https://kable.io)
-- [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
+- [Hilarious &#39;Web 3 Console&#39; Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
 <!-- BLOG-POST-LIST:END -->
 
 ---
