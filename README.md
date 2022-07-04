@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
+- [Medical Wordlists in EN/FR](https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt)
 - [Indie Microblogging](https://book.micro.blog/)
 - [Project Helix by Adobe](https://www.hlx.live/home)
 - [The Norwegian library with unreadable books](https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books)
-- [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
-- [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
