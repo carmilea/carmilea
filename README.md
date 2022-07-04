@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
+- [Ask HN: First-time dad-to-be. What do you wish you&#39;d known back then?](https://news.ycombinator.com/item?id=31976803)
 - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
-- [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
 - [Kable &lpar;YC W22&rpar;, Billing for API Companies, Is Hiring](https://kable.io)
 - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
-- [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
