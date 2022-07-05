@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full-office tech jobs pay 1.9x less than full-remote](https://landing.jobs/blog/global-tech-talent-trends-2022/)
+- [Sam Bankman-Fried – Crypto, Altruism, and Leadership](https://www.dwarkeshpatel.com/p/sbf)
+- [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
+- [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
-- [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
-- [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
-- [World’s Highest Website](https://worlds-highest-website.com)
-- [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
