@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
-- [SHGA Shanghai Gov National Police Database for sale &lpar;1B entries&rpar;](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
-- [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
 - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
+- [World’s Highest Website](https://worlds-highest-website.com)
+- [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
