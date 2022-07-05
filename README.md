@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Comes After Git](https://matt-rickard.com/what-comes-after-git/)
+- [No really, why can&#39;t we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 - [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
 - [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
 - [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
-- [Toyota’s Chief Says Electric Vehicles Are Overhyped](https://www.wsj.com/articles/toyotas-chief-says-electric-vehicles-are-overhyped-11608196665)
-- [My Quest for the Perfect Window Manager](http://ironphoenix.org/fvwm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
