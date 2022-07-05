@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No really, why can&#39;t we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
+- [Apple ][ &quot;Lemmings&quot; Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
+- [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
+- [Why can&#39;t we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
-- [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
-- [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
-- [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
+- [My quest for the perfect window manager &lpar;2004&rpar;](http://ironphoenix.org/fvwm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
