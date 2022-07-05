@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Felt](https://felt.com/)
-- [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
-- [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
-- [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
-- [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
+- [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
+- [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
+- [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
+- [Toyota’s Chief Says Electric Vehicles Are Overhyped](https://www.wsj.com/articles/toyotas-chief-says-electric-vehicles-are-overhyped-11608196665)
+- [My Quest for the Perfect Window Manager](http://ironphoenix.org/fvwm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
