@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-office tech jobs pay 1.9x less than full-remote](https://landing.jobs/blog/global-tech-talent-trends-2022/)
-- [Sam Bankman-Fried – Crypto, Altruism, and Leadership](https://www.dwarkeshpatel.com/p/sbf)
+- [Roe&#39;s overturn is tech&#39;s privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
+- [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
+- [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
+- [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
 - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
-- [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
-- [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
