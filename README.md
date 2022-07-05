@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Felt](https://felt.com/)
+- [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
+- [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
 - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
-- [On the use of a life &lpar;2020&rpar;](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
-- [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
-- [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
