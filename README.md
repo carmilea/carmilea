@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is it a strength that HN&#39;s UI has not changed over many years?](https://news.ycombinator.com/item?id=31991675)
+- [Turkey Discovers 694M Mt of Rare Earth Element Reserves](https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/)
+- [Compilers, Hands-Off My Hands-On Optimizations &lpar;2016&rpar; [pdf]](https://users.ece.cmu.edu/~franzf/papers/wpmvp16.pdf)
+- [Cory Doctorow: The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
 - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 - [PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat)
-- [Unraveling the linothorax mystery, or how linen armor came to dominate our lives &lpar;2013&rpar;](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-- [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 <!-- BLOG-POST-LIST:END -->
 
 ---
