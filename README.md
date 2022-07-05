@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 - [Compound &lpar;YC S19&rpar; is hiring to build financial products for startup employees](https://withcompound.com/)
 - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
-- [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://bun.sh/?launch)
-- [Ask HN: Does removing Google Analytics penalise a website in Google search?](https://news.ycombinator.com/item?id=31993278)
+- [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
 - [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
 <!-- BLOG-POST-LIST:END -->
 
