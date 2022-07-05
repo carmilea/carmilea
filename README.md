@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roe&#39;s overturn is tech&#39;s privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
+- [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
+- [Startups, this is how design works](https://startupsthisishowdesignworks.com)
+- [Robotic Surgery Turns Surgical Trainees into Spectators](https://spectrum.ieee.org/robotic-surgery)
 - [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
 - [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
-- [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
-- [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
