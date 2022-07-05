@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer](https://news.ycombinator.com/item?id=31990762)
+- [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
+- [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 - [Startups, this is how design works](https://startupsthisishowdesignworks.com)
 - [Robotic Surgery Turns Surgical Trainees into Spectators](https://spectrum.ieee.org/robotic-surgery)
-- [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
-- [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
 <!-- BLOG-POST-LIST:END -->
 
 ---
