@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s largest stock broker has 30 devs &lpar;2020&rpar;](https://zerodha.tech/blog/hello-world/)
+- [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
 - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
-- [Crypto’s last man standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
-- [Cash Transfers: No positive effect of cash – if anything, negative effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 - [I don&#39;t care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
-- [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
+- [The ‘E-Pimps’ of OnlyFans](https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
