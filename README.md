@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
 - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
 - [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
-- [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
