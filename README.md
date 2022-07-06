@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)
+- [2022 The Benefits of World Hunger – un.org [web.archive version]](https://web.archive.org/web/20220706173519/https://www.un.org/en/chronicle/article/benefits-world-hunger)
 - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
-- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
-- [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
-- [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
