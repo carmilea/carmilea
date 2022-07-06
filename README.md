@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard study finds no positive impact from UBI unconditional cash transfer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
+- [Ask HN: What&#39;s your favorite board game?](https://news.ycombinator.com/item?id=32004522)
 - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 - [Where to wait for an elevator &lpar;2010&rpar;](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
 - [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
-- [Ask HN: Why do I struggle to follow corporate meetings?](https://news.ycombinator.com/item?id=32003266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
