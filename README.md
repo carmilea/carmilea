@@ -55,7 +55,7 @@
 - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
-- [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
+- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
