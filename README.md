@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Genei &lpar;YC S21&rpar; Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
-- [I stumbled upon Strada while forwarding an email](https://stanko.io/how-i-stumbled-upon-strada-while-forwarding-an-email-3W8mbS5KSKXs)
+- [Tesla is no longer the largest EV producer](https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett)
 - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
 - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
