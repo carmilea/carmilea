@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India&#39;s largest stock broker has 30 devs &lpar;2020&rpar;](https://zerodha.tech/blog/hello-world/)
+- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
+- [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
+- [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
+- [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
-- [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
-- [I don&#39;t care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
-- [The ‘E-Pimps’ of OnlyFans](https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
