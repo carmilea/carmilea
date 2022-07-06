@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
-- [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
-- [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
-- [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
-- [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
+- [I Got Fired for Unionizing at Starbucks. and I’d Do It Again](https://jacobin.com/2022/07/starbucks-union-workers-united-firing-union-busting)
+- [Launch HN: Hello &lpar;YC S22&rpar; – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
+- [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
+- [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
+- [Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant](https://humaneyesonly.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
