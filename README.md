@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
+- [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
+- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
 - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
 - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
-- [Where to wait for an elevator &lpar;2010&rpar;](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
-- [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
