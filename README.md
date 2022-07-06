@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
-- [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
-- [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
-- [Genei &lpar;YC S21&rpar; Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
-- [Show HN: NeoPOP says “hello world” in open source](https://cred.club/neopop)
+- [Tell HN: Razorpay a YC company shared donor data without court order](https://news.ycombinator.com/item?id=31999714)
+- [All-new MacBook Air with M2 available to order starting Friday, July 8](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [The Ten Commandments for Detective Fiction &lpar;2017&rpar;](https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/)
+- [Why isn&#39;t the internet more fun and weird?](https://jarredsumner.com/codeblog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
