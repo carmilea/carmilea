@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Razorpay a YC company shared donor data without court order](https://news.ycombinator.com/item?id=31999714)
-- [All-new MacBook Air with M2 available to order starting Friday, July 8](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [The Ten Commandments for Detective Fiction &lpar;2017&rpar;](https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/)
-- [Why isn&#39;t the internet more fun and weird?](https://jarredsumner.com/codeblog/)
+- [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
+- [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
+- [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
+- [U.S. Mass Shootings on Rise No Matter How You Define Them – The Marshall Project](https://www.themarshallproject.org/2022/07/06/what-you-need-to-know-about-the-rise-in-u-s-mass-shootings)
+- [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
