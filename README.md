@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Should I take a step back in Seniority? &lpar;Sen-Mid&rpar;](https://news.ycombinator.com/item?id=32000922)
 - [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
-- [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
-- [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
-- [U.S. Mass Shootings on Rise No Matter How You Define Them – The Marshall Project](https://www.themarshallproject.org/2022/07/06/what-you-need-to-know-about-the-rise-in-u-s-mass-shootings)
-- [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
+- [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
+- [Apps and advertisers are coming for your lock screen](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
+- [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
