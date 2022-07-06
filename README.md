@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
+- [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
-- [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
-- [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
 <!-- BLOG-POST-LIST:END -->
 
