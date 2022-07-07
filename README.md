@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg: ‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
+- [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
+- [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
+- [Explaining Ethereum&#39;s consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
+- [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
 - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
-- [Ask HN: What&#39;s is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
-- [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
-- [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
