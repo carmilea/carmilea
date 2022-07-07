@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
-- [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
-- [Explaining Ethereum&#39;s consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
-- [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
-- [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
+- [Tesorio &lpar;YC S15&rpar; Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Show HN: PocketBase – open-source realtime back end in 1 file](https://github.com/pocketbase/pocketbase)
+- [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)
+- [Meta Sues Web Scrapers](https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/)
+- [Sending reply and forward emails with EmailEngine](https://docs.emailengine.app/sending-reply-and-forward-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
