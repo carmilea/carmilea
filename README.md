@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
+- [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
 - [Inversion Space &lpar;YC S21&rpar; Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
 - [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
 - [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
-- [Meshtastic is an encrypted communications platform for the Lora RF protocol](https://meshtastic.org/docs/about)
-- [Covid-19 Vaccine Doses, Once in High Demand, Now Thrown Away](https://www.wsj.com/articles/covid-19-vaccine-doses-once-in-high-demand-now-thrown-away-11657105202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
