@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is attitude more important than knowledge?](https://news.ycombinator.com/item?id=32013949)
-- [Ed Is the Standard Text Editor](https://wiki.c2.com/?EdIsTheStandardTextEditor)
-- [The Code the FBI Used to Wiretap the World](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
-- [Tesorio &lpar;YC S15&rpar; Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
-- [Show HN: PocketBase – open-source realtime back end in 1 file](https://github.com/pocketbase/pocketbase)
+- [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
+- [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
+- [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
+- [Ask HN: Resources on learning System Design &lpar;back end/data engineering&rpar;?](https://news.ycombinator.com/item?id=32014658)
+- [Ed is the standard text editor &lpar;2014&rpar;](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
