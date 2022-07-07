@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Out of Memory Issues in Linux at Redpanda](https://redpanda.com/blog/solve-out-of-memory-killer-events)
-- [You won&#39;t be able to run Windows 11 without a webcam](https://windowsreport.com/windows-11-webcam-mandatory/)
-- [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
-- [Is it safe to keep using period and fertility apps in a post-roe America](https://www.romper.com/pregnancy/should-you-stop-using-period-apps-fertility-roe-v-wade)
-- [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
+- [Inversion Space &lpar;YC S21&rpar; Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
+- [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
+- [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
+- [Meshtastic is an encrypted communications platform for the Lora RF protocol](https://meshtastic.org/docs/about)
+- [Covid-19 Vaccine Doses, Once in High Demand, Now Thrown Away](https://www.wsj.com/articles/covid-19-vaccine-doses-once-in-high-demand-now-thrown-away-11657105202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
