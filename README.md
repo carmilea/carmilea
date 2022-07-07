@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
-- [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
-- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
+- [Life Stats](https://neal.fun/life-stats/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
+- [I analyzed hospital price lists so you didn&#39;t have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
+- [Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth](https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html)
+- [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
