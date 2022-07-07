@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Out of Memory Issues in Linux at Redpanda](https://redpanda.com/blog/solve-out-of-memory-killer-events)
+- [You won&#39;t be able to run Windows 11 without a webcam](https://windowsreport.com/windows-11-webcam-mandatory/)
 - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
+- [Is it safe to keep using period and fertility apps in a post-roe America](https://www.romper.com/pregnancy/should-you-stop-using-period-apps-fertility-roe-v-wade)
 - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
-- [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
-- [Ask HN: Resources on learning System Design &lpar;back end/data engineering&rpar;?](https://news.ycombinator.com/item?id=32014658)
-- [Ed is the standard text editor &lpar;2014&rpar;](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
