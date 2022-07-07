@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+- [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
+- [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
 - [Music for Programming](https://musicforprogramming.net/)
 - [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
-- [Life Stats](https://neal.fun/life-stats/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
-- [I analyzed hospital price lists so you didn&#39;t have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
