@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming with union, intersection, and negation types](https://arxiv.org/abs/2111.03354)
-- [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
-- [Former Theranos COO Sunny Balwani is guilty of federal fraud](https://www.axios.com/2022/07/07/theranos-sunny-balwani-guilty-fraud)
-- [Twitter Layoff Started Today](https://www.linkedin.com/posts/ingridjohnson_twitter-layoffs-started-today-there-are-activity-6950869057071980545-1Q4t)
-- [Astrofox – Turn Audio into Videos](https://astrofox.io/)
+- [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
+- [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
+- [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
+- [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
+- [9K-lb Hummer EV produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
