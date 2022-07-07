@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 - [Ask HN: What&#39;s is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
-- [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
-- [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
-- [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
-- [Music for Programming](https://musicforprogramming.net/)
+- [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
+- [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
+- [LeCun&#39;s 2022 paper on autonomous machine intelligence does not cite prior work](https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
