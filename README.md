@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
 - [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 - [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
+- [ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams](https://github.com/asciitosvg/asciitosvg)
 - [SSH Cheat Sheet](https://www.marcobehler.com/guides/ssh-cheat-sheet)
-- [Former PM Abe Shinzo dies after being shot](https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/)
-- [Former Japan Prime Minister Shinzo Abe Dies After Being Shot](https://www.japantimes.co.jp/news/2022/07/08/national/shinzo-abe-dead-nara-shooting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
