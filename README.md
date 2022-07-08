@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Wayland Yet?](https://arewewaylandyet.com/)
-- [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
-- [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
-- [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
-- [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
+- [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
+- [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
+- [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
+- [Walking Venice](https://craigmod.com/ridgeline/144/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
