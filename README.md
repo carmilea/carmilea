@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple, Google, Facebook&#39;s AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
-- [Japan’s Ex-PM Abe shot during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)
-- [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
-- [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
-- [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
+- [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
+- [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
+- [Walking Venice](https://craigmod.com/ridgeline/144/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
