@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lion&#39;s mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
-- [Elon Musk terminating Twitter deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08/)
-- [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
-- [Show HN: Wiby is now free software](https://github.com/wibyweb/wiby)
-- [Boeing CEO says planemaker could be forced to cancel 737 Max 10](https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-plane-maker-could-be-forced-cancel-737-max-10-aviation-week-2022-07-07/)
+- [Ask HN: What&#39;s your experience with working M1 and M2 Macs?](https://news.ycombinator.com/item?id=32028945)
+- [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
+- [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
+- [The danger of license plate readers in post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)
+- [America Faces a Housing Bust](https://www.wsj.com/articles/america-faces-a-housing-bust-11655826309)
 <!-- BLOG-POST-LIST:END -->
 
 ---
