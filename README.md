@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
-- [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
-- [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
-- [ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams](https://github.com/asciitosvg/asciitosvg)
-- [SSH Cheat Sheet](https://www.marcobehler.com/guides/ssh-cheat-sheet)
+- [The Data [r]evolution Is Coming](https://www.singlestore.com/blog/the-data-revolution-is-coming)
+- [Laravel and SingleStoreDB Quickstart Guide](https://www.singlestore.com/blog/laravel-singlestoredb-quickstart-guide)
+- [How to Migrate From PostgreSQL to SingleStoreDB](https://www.singlestore.com/blog/how-to-migrate-from-postgresql-to-singlestoredb)
+- [Guest Blog: Simply Go Faster!](https://www.singlestore.com/blog/ibm-singlestoredb-simply-go-faster)
+- [SingleStoreDB on Google Cloud: The Backbone of Your Data Infrastructure](https://www.singlestore.com/blog/singlestoredb-on-google-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
