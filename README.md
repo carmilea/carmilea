@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple, Google, Facebook&#39;s AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
-- [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
-- [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
-- [Walking Venice](https://craigmod.com/ridgeline/144/)
+- [The Data [r]evolution Is Coming](https://www.singlestore.com/blog/the-data-revolution-is-coming)
+- [Laravel and SingleStoreDB Quickstart Guide](https://www.singlestore.com/blog/laravel-singlestoredb-quickstart-guide)
+- [How to Migrate From PostgreSQL to SingleStoreDB](https://www.singlestore.com/blog/how-to-migrate-from-postgresql-to-singlestoredb)
+- [Guest Blog: Simply Go Faster!](https://www.singlestore.com/blog/ibm-singlestoredb-simply-go-faster)
+- [SingleStoreDB on Google Cloud: The Backbone of Your Data Infrastructure](https://www.singlestore.com/blog/singlestoredb-on-google-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
