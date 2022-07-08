@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Data [r]evolution Is Coming](https://www.singlestore.com/blog/the-data-revolution-is-coming)
-- [Laravel and SingleStoreDB Quickstart Guide](https://www.singlestore.com/blog/laravel-singlestoredb-quickstart-guide)
-- [How to Migrate From PostgreSQL to SingleStoreDB](https://www.singlestore.com/blog/how-to-migrate-from-postgresql-to-singlestoredb)
-- [Guest Blog: Simply Go Faster!](https://www.singlestore.com/blog/ibm-singlestoredb-simply-go-faster)
-- [SingleStoreDB on Google Cloud: The Backbone of Your Data Infrastructure](https://www.singlestore.com/blog/singlestoredb-on-google-cloud)
+- [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
+- [Cruise’s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
+- [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
+- [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
+- [The U.S. may be losing the fight against monkeypox, scientists say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
