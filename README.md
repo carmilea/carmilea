@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
-- [Cruise’s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
-- [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
-- [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
-- [The U.S. may be losing the fight against monkeypox, scientists say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
+- [Lion&#39;s mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
+- [Elon Musk terminating Twitter deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08/)
+- [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
+- [Show HN: Wiby is now free software](https://github.com/wibyweb/wiby)
+- [Boeing CEO says planemaker could be forced to cancel 737 Max 10](https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-plane-maker-could-be-forced-cancel-737-max-10-aviation-week-2022-07-07/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
