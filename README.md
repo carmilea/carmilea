@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
 - [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
-- [Monitoring Tiny Web Services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
-- [Oxide Builds Servers](https://changelog.com/podcast/496)
-- [Crypto-Assets and Decentralized Finance Through a Financial Stability Lens](https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm)
+- [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
+- [The ‘70s toy that faked A.I. with an 8-Track](https://www.youtube.com/watch?v=amuRIydCoJk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
