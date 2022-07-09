@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers)
-- [No antibiotics worked, so this woman turned to a natural enemy of bacteria](https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e)
-- [NumPy `__contains__` Is Absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
-- [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
-- [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
+- [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
+- [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
+- [Monitoring Tiny Web Services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
+- [Oxide Builds Servers](https://changelog.com/podcast/496)
+- [Crypto-Assets and Decentralized Finance Through a Financial Stability Lens](https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
