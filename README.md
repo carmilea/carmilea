@@ -54,8 +54,8 @@
 - [Few people grasp the amount of effort Daniel Gackle expends running HN &lpar;2020&rpar;](https://twitter.com/paulg/status/1282055086433284103)
 - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 - [Amplify UI – Don&#39;t just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
+- [Reverse-engineering the Apollo spacecraft&#39;s FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
 - [Tiny Huts by MUJI &lpar;2017&rpar;](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
-- [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
