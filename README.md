@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas Freedom Caucus Warns of Illegality for Companies Funding Employee Abortion](https://texasscorecard.com/state/texas-house-freedom-caucus-warns-of-illegality-for-companies-funding-employee-abortions/)
-- [Ignition: An Informal History of Liquid Rocket Propellants &lpar;1972&rpar; [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
-- [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
-- [Ask HN: How would you bootstrap a telco? &lpar;re: Rogers outage&rpar;](https://news.ycombinator.com/item?id=32035633)
-- [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers)
+- [No antibiotics worked, so this woman turned to a natural enemy of bacteria](https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e)
+- [NumPy `__contains__` Is Absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
+- [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
+- [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
