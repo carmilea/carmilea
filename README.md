@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CompileIt: A Hypercard compiler written in Hypercard](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
+- [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)
 - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 - [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
 - [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
-- [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
-- [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
