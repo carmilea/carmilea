@@ -54,7 +54,7 @@
 - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 - [Maze Generation Visualization](https://github.com/pakastin/maze)
 - [Markdeep](https://casual-effects.com/markdeep/)
-- [Hysteresis in UI Elements](http://www.mackido.com/Interface/hysteresis.html)
+- [Hysteresis in UI Elements &lpar;1999&rpar;](http://www.mackido.com/Interface/hysteresis.html)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
