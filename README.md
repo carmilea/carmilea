@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
-- [Algorithms for Decision Making](https://algorithmsbook.com/)
-- [Few people grasp the amount of effort Daniel Gackle expends running HN &lpar;2020&rpar;](https://twitter.com/paulg/status/1282055086433284103)
-- [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
-- [Amplify UI – Don&#39;t just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
+- [Ask HN: How would you bootstrap a telco? &lpar;re: Rogers outage&rpar;](https://news.ycombinator.com/item?id=32035633)
+- [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
+- [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+- [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
