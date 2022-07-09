@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Freedom Caucus Warns of Illegality for Companies Funding Employee Abortion](https://texasscorecard.com/state/texas-house-freedom-caucus-warns-of-illegality-for-companies-funding-employee-abortions/)
+- [Ignition: An Informal History of Liquid Rocket Propellants &lpar;1972&rpar; [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
+- [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
 - [Ask HN: How would you bootstrap a telco? &lpar;re: Rogers outage&rpar;](https://news.ycombinator.com/item?id=32035633)
-- [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
 - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
-- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
-- [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
