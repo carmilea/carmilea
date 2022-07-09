@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny Huts by MUJI &lpar;2017&rpar;](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
+- [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
+- [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 - [Maze Generation Visualization](https://github.com/pakastin/maze)
-- [Markdeep](https://casual-effects.com/markdeep/)
-- [Hysteresis in UI Elements &lpar;1999&rpar;](http://www.mackido.com/Interface/hysteresis.html)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
