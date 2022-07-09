@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insulator or superconductor? Physicists find graphene is both &lpar;2018&rpar;](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
+- [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
 - [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
-- [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
-- [The ‘70s toy that faked A.I. with an 8-Track](https://www.youtube.com/watch?v=amuRIydCoJk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
