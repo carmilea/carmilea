@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s your experience with working M1 and M2 Macs?](https://news.ycombinator.com/item?id=32028945)
-- [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
-- [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
-- [The danger of license plate readers in post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)
-- [America Faces a Housing Bust](https://www.wsj.com/articles/america-faces-a-housing-bust-11655826309)
+- [HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
+- [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
+- [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
+- [Trust in news collapses to historic low](https://www.axios.com/2022/07/08/news-republicans-democrats-trust-partisanship)
+- [Show HN: I made a MIDI tool to teach me piano](https://github.com/ZaneH/piano-trainer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
