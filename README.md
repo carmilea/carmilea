@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
+- [Maze Generation Visualization](https://github.com/pakastin/maze)
+- [Markdeep](https://casual-effects.com/markdeep/)
+- [Hysteresis in UI Elements](http://www.mackido.com/Interface/hysteresis.html)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Barbie Typewriter &lpar;2018&rpar;](https://www.cryptomuseum.com/crypto/mehano/barbie/)
-- [AutoRegex](https://www.autoregex.xyz)
-- [Programming Fonts](https://www.programmingfonts.org/)
-- [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
