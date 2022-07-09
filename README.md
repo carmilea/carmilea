@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CompileIt: A Hypercard compiler written in Hypercard](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
+- [AutoRegex](https://www.autoregex.xyz)
+- [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
+- [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
+- [CompileIt: A Hypercard compiler written in Hypercard &lpar;2007&rpar;](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 - [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)
-- [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
-- [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
-- [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
