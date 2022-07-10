@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &lpar;Fairly Serious&rpar; Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
-- [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
-- [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
-- [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
+- [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
+- [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
 - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
+- [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+- [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
