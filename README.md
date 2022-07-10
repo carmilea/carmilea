@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data leak reveals how European politicians helped Uber](https://www.bbc.co.uk/news/business-62057321)
+- [A new trade and liberal arts school: “College of St. Joseph the Worker”](https://www.collegeofstjoseph.com)
+- [Breaking the warp barrier: hyper-fast solitons in Einstein–Maxwell-plasma theory](https://iopscience.iop.org/article/10.1088/1361-6382/abe692)
 - [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
+- [Triangle Grids in Games](https://kvachev.com/blog/posts/triangular-grid/)
 - [Lichess: The free and open source chess server](https://github.com/lichess-org/)
-- [Beginner&#39;s Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
-- [Spotify doesn&#39;t use the Spotify model &lpar;2020&rpar;](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
