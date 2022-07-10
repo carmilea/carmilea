@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
+- [Perl is still relevant](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
+- [Field Notice: FN – 70545 – SSD Will Fail at 40k Power-On Hours &lpar;2021&rpar;](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 - [Microsoft researched what made employees happy, collaborate less, more autonomy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
-- [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
-- [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
-- [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
