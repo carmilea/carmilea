@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Assassin’s Creed Liberation Delisted, Unplayable Even to Owners Starting Sep. 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
+- [Study: Association Between Mask Mandates and Covid Infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
+- [Typewaiter–the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
+- [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
+- [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
 - [Death, Nothingness, and Subjectivity &lpar;1994&rpar;](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
-- [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
-- [SSD will fail at 40k power-on hours &lpar;2021&rpar;](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
