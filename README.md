@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long term high-fat diet expands waistline and shrinks brain](https://unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/)
+- [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
+- [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+- [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
 - [Ivy &lpar;YC W23&rpar; is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
-- [Show HN: Copy React code from any site](https://sample-code.aspect.app)
-- [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
