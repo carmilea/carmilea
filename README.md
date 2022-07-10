@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
-- [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
-- [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
-- [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
-- [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
+- [Data leak reveals how European politicians helped Uber](https://www.bbc.co.uk/news/business-62057321)
+- [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
+- [Lichess: The free and open source chess server](https://github.com/lichess-org/)
+- [Beginner&#39;s Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
+- [Spotify doesn&#39;t use the Spotify model &lpar;2020&rpar;](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
