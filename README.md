@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The &lpar;Fairly Serious&rpar; Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
+- [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
 - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
-- [Ask HN: Are you hiking? How old are you and how many kilometers can you Hike?](https://news.ycombinator.com/item?id=32044296)
 - [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
-- [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
