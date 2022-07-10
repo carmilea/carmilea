@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
+- [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
+- [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
+- [Plan Composition Using Higher-Order Functions](https://blog.brownplt.org/2022/07/09/plan-comp-hof.html)
 - [A new trade and liberal arts school: “College of St. Joseph the Worker”](https://www.collegeofstjoseph.com)
-- [Breaking the warp barrier: hyper-fast solitons in Einstein–Maxwell-plasma theory](https://iopscience.iop.org/article/10.1088/1361-6382/abe692)
-- [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
-- [Triangle Grids in Games](https://kvachev.com/blog/posts/triangular-grid/)
-- [Lichess: The free and open source chess server](https://github.com/lichess-org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
