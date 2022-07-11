@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
+- [Playstation store will remove customer’s purchased movies](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591)
 - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
-- [US Crosses the Electric-Car Tipping Point for Mass Adoption](https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone)
 - [8-Part Film Adaptation of Tolstoy&#39;s Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
 - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
-- [Working in the software industry, circa 1989 – Jim Grey](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
