@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Project Naptha](https://projectnaptha.com/)
+- [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
 - [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
+- [University Profs&#39; Criticism Led to Retraction of Math Paper on Gender &lpar;2018&rpar;](https://www.chicagomaroon.com/article/2018/10/29/university-professors-involved-retraction-controve/)
 - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
-- [Show HN: Typewaiter, the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
-- [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
