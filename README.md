@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If the News Is Fake, Imagine History](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
+- [MedMe Health &lpar;YC W21&rpar; is hiring a Senior Engineer &lpar;yes, in this economy!&rpar;](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
+- [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
+- [Florida police department diverting calls to mental health staff](https://www.newsnationnow.com/solutions/florida-police-dept-diverting-calls-to-mental-health-staff/)
+- [If the news is fake, imagine history](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
 - [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
-- [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
-- [Avoiding image layout shifts &lpar;CLS&rpar;: aspect-ratio vs. width and height](https://jakearchibald.com/2022/img-aspect-ratio/)
-- [Universal influenza B vaccine induces broad, sustained protection in mice](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
