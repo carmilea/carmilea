@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: Association Between Mask Mandates and Covid Infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
-- [Typewaiter–the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
+- [Car Repos Are Exploding. That’s a Bad Omen](https://www.barrons.com/articles/recession-cars-bank-repos-51657316562)
+- [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
+- [Show HN: Typewaiter, the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
+- [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
 - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
-- [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
-- [Death, Nothingness, and Subjectivity &lpar;1994&rpar;](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
