@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
+- [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
+- [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
 - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
-- [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
-- [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
-- [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
-- [Smart mushroom growing device for beginners](https://shrooly.com/)
+- [ProtonMail Is Down](https://protonstatus.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
