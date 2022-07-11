@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
-- [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
+- [The Uber whistleblower: I’m exposing a system that sold people a lie](https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann)
 - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
-- [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
