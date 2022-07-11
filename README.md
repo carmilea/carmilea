@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
+- [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
 - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
 - [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
-- [The first smart mushroom growing device for beginners](https://shrooly.com/)
+- [Smart mushroom growing device for beginners](https://shrooly.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
