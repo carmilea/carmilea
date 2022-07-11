@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
+- [Exit, Pursued by a Bear: Europes Coming Gas Shortages Analyzed](https://viscosityredux.substack.com/p/exit-pursued-by-a-bear)
 - [NHTSA launches 37th investigation into Tesla after couple killed in crash](https://meaww.com/nhtsa-investigation-starts-tesla-california-crash-elderly-couple)
 - [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 - [Project Naptha](https://projectnaptha.com/)
-- [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
-- [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
