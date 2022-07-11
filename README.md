@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
+- [Working in the software industry, circa 1989 – Jim Grey](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
+- [Show HN: Lldap, a Simplified LDAP Server](https://github.com/nitnelave/lldap)
 - [Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity](https://www.colorvote.io)
 - [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
-- [Renewables remain cheapest, but cost reductions on hold](https://www.csiro.au/en/news/news-releases/2022/gencost-2022)
-- [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
-- [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 <!-- BLOG-POST-LIST:END -->
 
 ---
