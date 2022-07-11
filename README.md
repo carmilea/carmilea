@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
+- [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
 - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
 - [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
-- [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
-- [ProtonMail Is Down](https://protonstatus.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
