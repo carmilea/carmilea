@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photos Always Pointing the Pointer](https://pointerpointer.com/)
+- [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
+- [Domino&#39;s spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
+- [Photos Always Pointing at the Pointer](https://pointerpointer.com/)
 - [Ask HN: Why isn&#39;t GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
-- [Developer Workstation Backups](https://news.ycombinator.com/item?id=32069251)
-- [Uber used Greyball fake app to evade police across Europe](https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals)
-- [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
+- [Show HN: We are trying to &lpar;finally&rpar; get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
