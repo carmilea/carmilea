@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compare Webb&#39;s Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
+- [40 Years Ago, Disney&#39;s Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
 - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
 - [Pachyderm &lpar;YC W15&rpar; is hiring for DevRel to evangelize data-centric pipelines](https://www.pachyderm.com/careers/#positions)
 - [Heathrow tells airlines to stop selling additional flights until September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
-- [Retbleed: New speculative execution attack sends Intel and AMD scrambling](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/)
-- [A Moment &lpar;or Two&rpar; to Celebrate as SingleStore Makes a Big Announcement](https://www.singlestore.com/blog/celebrating-singlestore-successes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
