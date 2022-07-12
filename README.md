@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders of bankrupt crypto hedge fund 3AC go missing](https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html)
+- [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
+- [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
+- [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
 - [You Wouldn&#39;t Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
-- [Ask HN: Examples of large acquisitions that did not ruin the acquired company](https://news.ycombinator.com/item?id=32070747)
-- [Nikon to Stop Making SLR Cameras and Focus on Mirrorless Models](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
-- [Spotify to Acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
-- [Domino&#39;s spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
