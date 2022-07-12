@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Talking about Layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
+- [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
+- [Talking about layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
 - [Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
 - [State lotteries transfer wealth out of needy communities, investigation finds](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
 - [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
-- [DoD Open Source Software FAQ &lpar;2021&rpar;](https://dodcio.defense.gov/open-source-software-faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
