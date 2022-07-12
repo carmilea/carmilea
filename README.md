@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$5 WiFi6 Router? Um, Thank You, D-Link](https://shop.us.dlink.com/products/5-port-gigabit-ethernet-wifi-6-ax1500-mesh-router)
+- [Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat](https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l)
+- [Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines](https://www.pachyderm.com/careers/#positions)
+- [Heathrow tells airlines to stop selling additional flights until September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
 - [Founders of bankrupt crypto hedge fund 3AC go missing](https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html)
-- [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
-- [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
-- [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
-- [You Wouldn&#39;t Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
