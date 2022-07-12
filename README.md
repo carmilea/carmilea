@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring and Hiring](https://www.easypost.com/careers)
-- [How to write and sell a sci-fi story &lpar;and how much you&#39;ll make&rpar;](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
+- [News Engagement crashing 50% on Social](https://www.axios.com/2022/07/12/news-media-readership-ratings-2022)
+- [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 - [Compare Webb&#39;s Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
-- [40 years ago, Tron changed sci-fi movies](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
-- [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
