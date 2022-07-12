@@ -54,7 +54,7 @@
 - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
 - [Pachyderm &lpar;YC W15&rpar; is hiring for DevRel to evangelize data-centric pipelines](https://www.pachyderm.com/careers/#positions)
 - [Heathrow tells airlines to stop selling additional flights until September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
-- [Return Stack Buffer Underflow – Retbleed &lpar;Intel&rpar;](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/return-stack-buffer-underflow.html)
+- [Retbleed: New speculative execution attack sends Intel and AMD scrambling](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/)
 - [A Moment &lpar;or Two&rpar; to Celebrate as SingleStore Makes a Big Announcement](https://www.singlestore.com/blog/celebrating-singlestore-successes)
 <!-- BLOG-POST-LIST:END -->
 
