@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring and Hiring](https://www.easypost.com/careers)
+- [How to write and sell a sci-fi story &lpar;and how much you&#39;ll make&rpar;](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 - [Compare Webb&#39;s Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
-- [40 Years Ago, Disney&#39;s Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
+- [40 years ago, Tron changed sci-fi movies](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
 - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
-- [Pachyderm &lpar;YC W15&rpar; is hiring for DevRel to evangelize data-centric pipelines](https://www.pachyderm.com/careers/#positions)
-- [Heathrow tells airlines to stop selling additional flights until September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
