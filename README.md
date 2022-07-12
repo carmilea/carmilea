@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
+- [You Wouldn&#39;t Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
+- [Ask HN: Examples of large acquisitions that did not ruin the acquired company](https://news.ycombinator.com/item?id=32070747)
+- [Nikon to Stop Making SLR Cameras and Focus on Mirrorless Models](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
+- [Spotify to Acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
 - [Domino&#39;s spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
-- [Photos Always Pointing at the Pointer](https://pointerpointer.com/)
-- [Ask HN: Why isn&#39;t GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
-- [Show HN: We are trying to &lpar;finally&rpar; get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
