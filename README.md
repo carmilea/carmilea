@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MedMe Health &lpar;YC W21&rpar; is hiring a Senior Engineer &lpar;yes, in this economy!&rpar;](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
-- [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
-- [Florida police department diverting calls to mental health staff](https://www.newsnationnow.com/solutions/florida-police-dept-diverting-calls-to-mental-health-staff/)
-- [If the news is fake, imagine history](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
-- [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
+- [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
+- [DoD Open Source Software FAQ](https://dodcio.defense.gov/open-source-software-faq/)
+- [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
+- [MedMe Health &lpar;YC W21&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
+- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
