@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
+- [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
-- [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
-- [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
-- [Ashby &lpar;YC W19, B&rpar; hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
-- [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
+- [Gambling and Adult content DNS blocking using Mullvad VPN](https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/)
+- [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
