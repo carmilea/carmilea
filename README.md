@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inflation rose 9.1% in June, even more than expected](https://www.cnbc.com/2022/07/13/inflation-rose-9point1percent-in-june-even-more-than-expected-as-price-pressures-intensify.html)
+- [Sieve &lpar;YC W22&rpar; is building AI infra for video data, come join us](https://www.sievedata.com/)
+- [I&#39;ve been abusing HTTP Status Codes in my APIs for years](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
 - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
-- [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
-- [Gambling and Adult content DNS blocking using Mullvad VPN](https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/)
-- [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
