@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A 74xx-Defined Radio &lpar;2021&rpar;](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
+- [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 - [DoorDash and Pizza Arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
-- [Ask HN: Is it possible to get an 18-year-old to spend less time on the computer?](https://news.ycombinator.com/item?id=32086019)
 - [Language Models &lpar;Mostly&rpar; Know What They Know](https://arxiv.org/abs/2207.05221)
 - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
-- [Google Kubernetes Engine &lpar;GKE&rpar; adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
