@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash and Pizza Arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+- [Ask HN: Is it possible to get an 18-year-old to spend less time on the computer?](https://news.ycombinator.com/item?id=32086019)
+- [Language Models &lpar;Mostly&rpar; Know What They Know](https://arxiv.org/abs/2207.05221)
 - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
-- [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
-- [I made a Google sheet of local elections and it&#39;s been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
-- [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
-- [Show HN: A benchmark for analytical databases &lpar;Snowflake, Druid, Redshift&rpar;](https://benchmark.clickhouse.com/)
+- [Google Kubernetes Engine &lpar;GKE&rpar; adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
