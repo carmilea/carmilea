@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
-- [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
-- [Compare Webb&#39;s Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
+- [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
+- [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
+- [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Role of Lactobacillus Reuteri in Human Health and Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917019/)
+- [Waymo car swarmed by skaters in San Francisco &#39;hill bomb&#39;](https://www.sfgate.com/local/article/Waymo-car-swarmed-San-Francisco-skaters-17300261.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
