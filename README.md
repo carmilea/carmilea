@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19, B&rpar; hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
 - [Decompiler Explorer](https://dogbolt.org/)
+- [Choosing a New Comment Policy](https://scottaaronson.blog/?p=6552)
 - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
-- [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)
 - [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
-- [Truckers plan LA/Long Beach work stoppage Wednesday to protest AB5](https://www.freightwaves.com/news/truckers-plan-lalong-beach-work-stoppage-wednesday-to-protest-ab5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
