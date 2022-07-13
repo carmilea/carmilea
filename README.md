@@ -38,7 +38,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [[r]evolution 2022 Supercharging Real-Time](https://www.youtube.com/watch?v=g9j7tnMQYSA)
+- [[r]evolution 2022 Supercharging Real-Time](https://www.youtube.com/watch?v=PSmY7X91VZ0)
 - [[r]evolution Summer 2022: What&#39;s New In SingleStoreDB](https://www.youtube.com/watch?v=n1vQ3r1t4kk)
 - [SingleStoreDB Demo: Real-Time Marketing Offers &amp; Analytics for Smart Retail](https://www.youtube.com/watch?v=CNhx9qL_xjE)
 - [Fireside Chat: Powering 100% of Impact&#39;s Data and Reporting With SingleStoreDB](https://www.youtube.com/watch?v=l-BI5aZO9zo)
