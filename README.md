@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone is Impersonating us In a Recruiting Scam. What do we do?](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
-- [Teams Is Killing My Mac Every Day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
-- [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
-- [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
-- [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
+- [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
+- [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
+- [I made a Google sheet of local elections and it&#39;s been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
+- [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
+- [Show HN: A benchmark for analytical databases &lpar;Snowflake, Druid, Redshift&rpar;](https://benchmark.clickhouse.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
