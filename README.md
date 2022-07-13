@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [A 74xx-Defined Radio &lpar;2021&rpar;](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
 - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
-- [DoorDash and Pizza Arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+- [DoorDash and pizza arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 - [Language Models &lpar;Mostly&rpar; Know What They Know](https://arxiv.org/abs/2207.05221)
 - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
 <!-- BLOG-POST-LIST:END -->
