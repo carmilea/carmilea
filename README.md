@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
+- [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 - [Inflation rose 9.1% in June, even more than expected](https://www.cnbc.com/2022/07/13/inflation-rose-9point1percent-in-june-even-more-than-expected-as-price-pressures-intensify.html)
+- [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
 - [Sieve &lpar;YC W22&rpar; is building AI infra for video data, come join us](https://www.sievedata.com/)
-- [I&#39;ve been abusing HTTP Status Codes in my APIs for years](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
-- [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
-- [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
