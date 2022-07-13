@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
+- [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
 - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
-- [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
-- [Inflation rose 9.1% in June, even more than expected](https://www.cnbc.com/2022/07/13/inflation-rose-9point1percent-in-june-even-more-than-expected-as-price-pressures-intensify.html)
-- [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
-- [Sieve &lpar;YC W22&rpar; is building AI infra for video data, come join us](https://www.sievedata.com/)
+- [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
+- [Amazon Admits Giving Police Ring Footage Without Consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
