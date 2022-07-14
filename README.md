@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueBiz &lpar;YC S22&rpar; Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
+- [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
+- [Ask HN: What makes you optimistic about the future?](https://news.ycombinator.com/item?id=32100524)
 - [I Disagree with Alan Turing and Daniel Kahneman &lpar;2014&rpar;](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
-- [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
-- [ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
-- [Evidence &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
-- [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
+- [Lisp in 99 lines of C and how to write one yourself [pdf]](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
