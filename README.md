@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dhall Configuration Language](https://dhall-lang.org/)
+- [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
+- [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
 - [TrueBiz &lpar;YC S22&rpar; Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
 - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
-- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
-- [I disagree with Turing and Kahneman regarding statistical evidence &lpar;2014&rpar;](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
-- [Lisp in 99 lines of C and how to write one yourself [pdf]](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
