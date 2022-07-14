@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Disagree with Alan Turing and Daniel Kahneman &lpar;2014&rpar;](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
+- [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
 - [ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 - [Evidence &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
-- [Is WebAssembly magic performance pixie dust? &lpar;2021&rpar;](https://surma.dev/things/js-to-asc/)
-- [Rocky Linux 9.0](https://rockylinux.org/news/rocky-linux-9-0-ga-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
