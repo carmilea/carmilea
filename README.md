@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
+- [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
+- [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
+- [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Node.js Engineer &lpar;Edge Functions&rpar;](https://boards.greenhouse.io/supabase/jobs/4568813004)
-- [The History of User Interfaces](https://history.user-interface.io)
-- [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
-- [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
-- [Element &lpar;Matrix&rpar; adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
