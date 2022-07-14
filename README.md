@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [[r]evolution 2022: The Real-Time Revolution with SingleStore CEO Raj Verma](https://www.youtube.com/watch?v=QiD6ZiCpLeg)
+- [[r]evolution 2022: Building a Database for Real-Time Applications With SingleStore CTO ​​Adam Prout](https://www.youtube.com/watch?v=AlGwDaO4ssU)
 - [[r]evolution 2022: Data-Intensive Applications in Action With SingleStore CIO Oliver Schabenberger](https://www.youtube.com/watch?v=I0JKAMTCBj0)
 - [[r]evolution Summer 2022: Data API in SingleStoreDB](https://www.youtube.com/watch?v=qtvbM7oSUaw)
 - [[r]evolution Summer 2022: Code Engine Powered by Wasm in SingleStoreDB](https://www.youtube.com/watch?v=1KlS5YK5TA8)
-- [[r]evolution Summer 2022: Workspaces in SingleStoreDB](https://www.youtube.com/watch?v=6zjt6bP8JHY)
-- [[r]evolution 2022 Supercharging Real-Time](https://www.youtube.com/watch?v=PSmY7X91VZ0)
 <!-- YOUTUBE:END -->
 
 
