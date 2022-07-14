@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
+- [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
 - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/)
 - [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
 - [Nyxt 3 Pre-release 1 &lpar;a Lisp powered web browser&rpar;](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
-- [Show HN: Porting OpenBSD Pledge&lpar;&rpar; to Linux](https://justine.lol/pledge/)
-- [Tell HN: Upwork Has an Impersonation Problem](https://news.ycombinator.com/item?id=32096656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
