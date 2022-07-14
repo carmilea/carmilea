@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen enters battery business with $20bn investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
-- [Andrej Karpathy leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
-- [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
-- [Open Source Database QuestDB Is Hiring a Cloud Engineer &lpar;K8s, AWS, Argocd&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
-- [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
+- [We must protect our ability to transact privately online &lpar;2019&rpar;](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
+- [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
+- [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
+- [Silicon Valley Bets on New Transport to Counter the Rise of Remote Work](https://www.wsj.com/articles/silicon-valley-bets-on-new-transport-to-counter-the-rise-of-remote-work-11657627201)
+- [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
