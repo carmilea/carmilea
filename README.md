@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building multi-architecture Docker images](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
-- [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
-- [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
-- [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
-- [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
+- [Show HN: Porting OpenBSD Pledge&lpar;&rpar; to Linux](https://justine.lol/pledge/)
+- [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
+- [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
+- [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
+- [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
