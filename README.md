@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
+- [US Doesn&#39;t Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
+- [What I Wish Someone Would Have Told Me About Using Rabbitmq &lpar;2020&rpar;](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
 - [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
 - [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
-- [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
-- [We must protect our ability to transact privately online &lpar;2019&rpar;](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
-- [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
