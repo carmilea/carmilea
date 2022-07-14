@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
-- [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
-- [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
-- [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
-- [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
+- [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
+- [Twitter Is Down](https://twitter.com/)
+- [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+- [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
