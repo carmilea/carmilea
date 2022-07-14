@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [[r]evolution 2022: Data-Intensive Applications in Action With SingleStore CIO Oliver Schabenberger](https://www.youtube.com/watch?v=I0JKAMTCBj0)
 - [[r]evolution Summer 2022: Data API in SingleStoreDB](https://www.youtube.com/watch?v=qtvbM7oSUaw)
 - [[r]evolution Summer 2022: Code Engine Powered by Wasm in SingleStoreDB](https://www.youtube.com/watch?v=1KlS5YK5TA8)
 - [[r]evolution Summer 2022: Workspaces in SingleStoreDB](https://www.youtube.com/watch?v=6zjt6bP8JHY)
 - [[r]evolution 2022 Supercharging Real-Time](https://www.youtube.com/watch?v=PSmY7X91VZ0)
-- [[r]evolution Summer 2022: What&#39;s New In SingleStoreDB](https://www.youtube.com/watch?v=n1vQ3r1t4kk)
 <!-- YOUTUBE:END -->
 
 
