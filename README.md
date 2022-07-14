@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
+- [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
+- [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
 - [We must protect our ability to transact privately online &lpar;2019&rpar;](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
 - [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
-- [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
-- [Silicon Valley Bets on New Transport to Counter the Rise of Remote Work](https://www.wsj.com/articles/silicon-valley-bets-on-new-transport-to-counter-the-rise-of-remote-work-11657627201)
-- [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
