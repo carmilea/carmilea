@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building multi-architecture Docker images](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
 - [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
 - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 - [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
 - [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
-- [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
