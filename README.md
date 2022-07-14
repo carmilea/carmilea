@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
+- [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
+- [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
+- [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
 - [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
-- [Twitter Is Down](https://twitter.com/)
-- [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
-- [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
