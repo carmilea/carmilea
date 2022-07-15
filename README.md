@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
+- [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
+- [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
+- [People with low BMI aren&#39;t more active, they are just less hungry, &#39;run hotter&#39;](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
 - [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
-- [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
-- [Pledge&lpar;&rpar; and Unveil&lpar;&rpar; in SerenityOS &lpar;2020&rpar;](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
-- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
