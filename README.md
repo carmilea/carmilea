@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sirum &lpar;YC W15 Nonprofit&rpar; Is Hiring Engineers and Pharmacy Technicians](https://news.ycombinator.com/item?id=32103342)
-- [We discovered a 7-year old performance issue in Elixir](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
+- [We discovered a 7-year old performance Issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
+- [Lin Zexu&#39;s Letter to Queen Victoria &lpar;1839&rpar;](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
+- [Sirum &lpar;YC W15 nonprofit&rpar; is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
+- [We discovered a 7-year old performance issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
 - [The Dhall Configuration Language](https://dhall-lang.org/)
-- [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
-- [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
