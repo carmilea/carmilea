@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
+- [Firezone &lpar;YC W22&rpar; is building an open-source network security platform](https://www.workatastartup.com/companies/firezone)
+- [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
+- [ICYMI: Highlights From SingleStore [r]evolution 2022](https://www.singlestore.com/blog/icymi-highlights-from-revolution-2022)
 - [BBC Basic Editor](https://bbcmic.ro/)
-- [Why I created Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
-- [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
-- [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
-- [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
