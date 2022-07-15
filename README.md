@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
 - [Terra &lpar;YC W21&rpar; Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
 - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
-- [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
