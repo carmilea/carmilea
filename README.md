@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Wasn&#39;t the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
 - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
+- [Jury Finds Former CIA Programmer Guilty of Leaking CIA Hacking Materials](https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/)
 - [Terra &lpar;YC W21&rpar; Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
-- [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
-- [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
