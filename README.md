@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
+- [Pledge&lpar;&rpar; and Unveil&lpar;&rpar; in SerenityOS &lpar;2020&rpar;](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
 - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- [Ask HN: How have you deGoogled your life?](https://news.ycombinator.com/item?id=32106993)
 - [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
 - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
-- [Why Wasn&#39;t the Steam Engine Invented Earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
