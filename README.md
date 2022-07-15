@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+- [I&#39;m hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
+- [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
 - [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
-- [Firezone &lpar;YC W22&rpar; is building an open-source network security platform](https://www.workatastartup.com/companies/firezone)
-- [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
-- [ICYMI: Highlights From SingleStore [r]evolution 2022](https://www.singlestore.com/blog/icymi-highlights-from-revolution-2022)
-- [BBC Basic Editor](https://bbcmic.ro/)
+- [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
