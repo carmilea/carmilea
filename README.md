@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
-- [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
-- [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
-- [People with low BMI aren&#39;t more active, they are just less hungry, &#39;run hotter&#39;](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
-- [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
+- [BBC Basic Editor](https://bbcmic.ro/)
+- [Why I created Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
+- [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
+- [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
+- [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
