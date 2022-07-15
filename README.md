@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The case against CS master’s degrees](https://ozwrites.com/masters/)
+- [Smarking &lpar;YC W15&rpar; Is Hiring Staff ML Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
+- [Success stories are just propaganda &lpar;2017&rpar;](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
+- [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
-- [Why 8kun Went Offline During the January 6 Hearings](https://krebsonsecurity.com/2022/07/why-8kun-went-offline-during-the-january-6-hearings/)
-- [Google Chromebook outlawed in Danish public schools](https://politiken.dk/viden/art8882501/L%C3%A6rere-st%C3%A5r-med-%C2%BBk%C3%A6mpestort-problem%C2%AB-Chromebooks-bliver-forbudt-p%C3%A5-danske-skoler)
-- [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
-- [Leakage and the Reproducibility Crisis in ML-Based Science](https://reproducible.cs.princeton.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
