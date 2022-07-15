@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+- [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
+- [SearchHut](https://searchhut.org/)
 - [We discovered a 7-year old performance Issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
 - [Lin Zexu&#39;s Letter to Queen Victoria &lpar;1839&rpar;](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
-- [Sirum &lpar;YC W15 nonprofit&rpar; is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
-- [We discovered a 7-year old performance issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
-- [The Dhall Configuration Language](https://dhall-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
