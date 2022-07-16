@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
+- [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
+- [Why women leave tech – and how we can fix it](https://emhub.io/articles/why-women-leave-tech-and-how-we-can-fix-it)
+- [Amazon instructs New York workers “don&#39;t sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 - [Mozart Data &lpar;YC S20&rpar; Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
-- [Ever Wished That Calvin and Hobbes Creator Bill Watterson Would Return? &lpar;2014&rpar;](https://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/)
-- [The rise of air conditioning, and the eco-harm of the boom it enabled](https://www.historytoday.com/history-matters/rise-air-conditioning)
-- [XML-RPC Specification &lpar;1999&rpar;](http://xmlrpc.com/spec.md)
-- [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
