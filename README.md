@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Book of Experiments &lpar;1958&rpar; [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
-- [Study: Alcohol is never good for people under 40](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#%20)
+- [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things &lpar;except BeOS&rpar;](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
+- [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
 - [Do breastfed children have higher IQs? The answer is annoyingly hard to uncover](https://stuartritchie.substack.com/p/breastfeeding-iq)
 - [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
-- [Designing the Characters of &#39;Cowboy Bebop&#39;](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
