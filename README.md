@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Zero Trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
+- [The Book of Shaders](https://thebookofshaders.com/)
 - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
 - [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
-- [Why women leave tech – and how we can fix it](https://emhub.io/articles/why-women-leave-tech-and-how-we-can-fix-it)
-- [Amazon instructs New York workers “don&#39;t sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
-- [Mozart Data &lpar;YC S20&rpar; Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
+- [survey.apple.com showing Microsoft IIS default page](https://survey.apple.com/iisstart.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
