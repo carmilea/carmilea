@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
 - [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
 - [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
-- [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
