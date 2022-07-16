@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
+- [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
+- [Pipenv: Promises a Lot, Delivers Little](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/)
 - [On Bill Watterson’s Refusal to License Calvin and Hobbes &lpar;2016&rpar;](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
-- [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
-- [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
-- [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
-- [The Book of Experiments &lpar;1958&rpar; [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
+- [The 13-Inch MacBook Air](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air)
 <!-- BLOG-POST-LIST:END -->
 
 ---
