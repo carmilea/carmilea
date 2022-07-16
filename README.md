@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+- [On Bill Watterson’s Refusal to License Calvin and Hobbes &lpar;2016&rpar;](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
