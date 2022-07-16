@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
-- [Pipenv: Promises a Lot, Delivers Little](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/)
 - [On Bill Watterson’s Refusal to License Calvin and Hobbes &lpar;2016&rpar;](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 - [The 13-Inch MacBook Air](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air)
+- [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
