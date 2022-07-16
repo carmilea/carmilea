@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+- [When Coal First Arrived, Americans Said &#39;No Thanks&#39;](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
+- [Invisible XML is a language for describing the implicit structure of data](https://invisiblexml.org/)
+- [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
 - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
-- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
-- [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
-- [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
-- [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
