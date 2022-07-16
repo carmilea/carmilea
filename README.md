@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
+- [Designing the Characters of &#39;Cowboy Bebop&#39;](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
+- [Vala Programming Language](https://vala.dev/)
+- [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
+- [Show HN: Owlkettle – A Declarative user interface framework based on GTK 4](https://github.com/can-lehmann/owlkettle)
 - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
-- [The case against CS master’s degrees](https://ozwrites.com/masters/)
-- [Smarking &lpar;YC W15&rpar; Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
-- [Success stories are just propaganda &lpar;2017&rpar;](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
