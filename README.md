@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
+- [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
 - [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 - [When Coal First Arrived, Americans Said &#39;No Thanks&#39;](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
-- [Invisible XML is a language for describing the implicit structure of data](https://invisiblexml.org/)
-- [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
