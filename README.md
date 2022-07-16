@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+- [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
+- [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
 - [The Book of Experiments &lpar;1958&rpar; [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
-- [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things &lpar;except BeOS&rpar;](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
-- [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
-- [Do breastfed children have higher IQs? The answer is annoyingly hard to uncover](https://stuartritchie.substack.com/p/breastfeeding-iq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
