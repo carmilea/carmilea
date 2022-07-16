@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte Magazine: The FORTH programming language](https://archive.org/details/byte-magazine-1980-08)
-- [Company sends remote worker photo of herself, fires her for going to kitchen](https://www.dailydot.com/irl/remote-worker-klarna-webcam-photo-tiktok/)
+- [Byte Magazine: The Forth Language &lpar;1980&rpar;](https://archive.org/details/byte-magazine-1980-08)
 - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 - [Skio is hiring &lpar;NYC/remote&rpar; – Subscriptions for Shopify &lpar;ReCharge migrations&rpar;](https://skio.com/careers/)
+- [Show HN: A compiler and VM for a simple language, in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
