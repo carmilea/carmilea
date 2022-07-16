@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Rails Buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
+- [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
 - [&#39;Zero Trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
-- [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
-- [survey.apple.com showing Microsoft IIS default page](https://survey.apple.com/iisstart.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
