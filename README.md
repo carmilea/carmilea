@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
 - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
+- [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
 - [Dr. DOS Betamax&#39;s DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
 - [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
-- [Byte Magazine: The Forth Language &lpar;1980&rpar;](https://archive.org/details/byte-magazine-1980-08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
