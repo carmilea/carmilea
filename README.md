@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
-- [Bill Watterson, Picasso, and HN on self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
+- [Bill Watterson, Picasso, and self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
+- [Ask HN: How to deal with children&#39;s online habits?](https://news.ycombinator.com/item?id=32124809)
 - [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
-- [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
-- [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
+- [Why Concatenative Programming Matters](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
