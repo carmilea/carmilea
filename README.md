@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ʕ•ᴥ•ʔ Bear. A privacy-first, no-nonsense, super-fast blogging platform](https://bearblog.dev)
+- [Against Food](https://jayriverlong.substack.com/p/42-against-food)
+- [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
+- [Where is there more livestock than people?](https://erdavis.com/2022/06/21/where-is-there-more-livestock-than-people/)
 - [I&#39;ve started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
-- [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
-- [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
-- [Woodpeckers don&#39;t have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
-- [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
 <!-- BLOG-POST-LIST:END -->
 
 ---
