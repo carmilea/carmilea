@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar; is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
-- [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
-- [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
-- [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
-- [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
+- [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
+- [Does this idea make any sense?](https://www.rebaseapps.com)
+- [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
+- [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
+- [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
