@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case for Bad Coffee](https://www.seriouseats.com/the-case-for-bad-coffee)
 - [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
-- [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
-- [$9.99/month](https://basicappleguy.com/basicappleblog/999month)
-- [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
-- [Facebook has started to encrypt links to counter privacy-improving URL Stripping](https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/)
+- [How I made advanced BI queries child&#39;s play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
+- [Trilium Notes: note taking application for large personal knowledge bases](https://github.com/zadam/trilium)
+- [Trends in menstrual bleeding changes after SARS-CoV-2 vaccination](https://www.science.org/doi/10.1126/sciadv.abm7201)
 <!-- BLOG-POST-LIST:END -->
 
 ---
