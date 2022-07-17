@@ -54,7 +54,7 @@
 - [Woodpeckers don&#39;t have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
 - [FPGA Mel-Frequency Cepstrum](http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/)
-- [Bayes Rules: An Introduction to Applied Bayesian Modeling &lpar;2021&rpar;](https://www.bayesrulesbook.com/)
+- [Bayes Rules – An Introduction to Applied Bayesian Modeling &lpar;2021&rpar;](https://www.bayesrulesbook.com/)
 - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 <!-- BLOG-POST-LIST:END -->
 
