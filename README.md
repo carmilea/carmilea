@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case for Bad Coffee](https://www.seriouseats.com/the-case-for-bad-coffee)
-- [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
-- [How I made advanced BI queries child&#39;s play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
+- [Rowan Atkinson: Visual Comedy &lpar;1992&rpar; [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
+- [Neural Network Loss Landscapes: What do we know? &lpar;2021&rpar;](https://damueller.com/#/blog-post/NNLLs)
+- [Sitting and standing at work &lpar;2015&rpar;](http://ergo.human.cornell.edu/CUESitStand.html)
+- [I made advanced BI queries with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
 - [Trilium Notes: note taking application for large personal knowledge bases](https://github.com/zadam/trilium)
-- [Trends in menstrual bleeding changes after SARS-CoV-2 vaccination](https://www.science.org/doi/10.1126/sciadv.abm7201)
 <!-- BLOG-POST-LIST:END -->
 
 ---
