@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
+- [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
+- [Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
 - [Bill Watterson, Picasso, and self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
-- [Ask HN: How to deal with children&#39;s online habits?](https://news.ycombinator.com/item?id=32124809)
-- [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
-- [Why Concatenative Programming Matters](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
