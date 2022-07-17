@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ʕ•ᴥ•ʔ Bear. A privacy-first, no-nonsense, super-fast blogging platform](https://bearblog.dev)
-- [Against Food](https://jayriverlong.substack.com/p/42-against-food)
-- [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
-- [Where is there more livestock than people?](https://erdavis.com/2022/06/21/where-is-there-more-livestock-than-people/)
-- [I&#39;ve started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
+- [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
+- [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
+- [Understanding the make-buy question in a growing Mars city](https://caseyhandmer.wordpress.com/2022/03/29/understanding-the-make-buy-question-in-a-growing-mars-city/)
+- [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
+- [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
