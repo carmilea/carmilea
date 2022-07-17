@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
+- [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
+- [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
+- [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
 - [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
-- [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
-- [Understanding the make-buy question in a growing Mars city](https://caseyhandmer.wordpress.com/2022/03/29/understanding-the-make-buy-question-in-a-growing-mars-city/)
-- [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
-- [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
