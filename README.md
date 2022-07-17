@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
 - [Bill Watterson, Picasso, and HN on self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
+- [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
 - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
 - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
-- [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
