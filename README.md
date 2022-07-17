@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$9.99/Month](https://basicappleguy.com/basicappleblog/999month)
-- [Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
-- [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
-- [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
-- [35 years of &#39;RoboCop&#39;: An unforgettable vision of techno-fascist America](https://faroutmagazine.co.uk/35-years-robocop-techno-fascist-america/)
+- [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
+- [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
+- [$9.99/month](https://basicappleguy.com/basicappleblog/999month)
+- [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
+- [Facebook has started to encrypt links to counter privacy-improving URL Stripping](https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
