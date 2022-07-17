@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woodpeckers don&#39;t have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
+- [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
+- [FPGA Mel-Frequency Cepstrum](http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/)
+- [Bayes Rules: An Introduction to Applied Bayesian Modeling &lpar;2021&rpar;](https://www.bayesrulesbook.com/)
 - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
-- [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
-- [Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
-- [Bill Watterson, Picasso, and self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
