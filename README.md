@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
-- [Fart Stack](https://fart-stack.io/)
 - [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
 - [What I learned trying to classify abortion access across the rich world](https://dynomight.net/abortion/)
 - [Agave &lpar;YC W22&rpar; is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
