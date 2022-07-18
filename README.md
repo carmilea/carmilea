@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
-- [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
-- [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
-- [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
-- [How Did REST Come to Mean the Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+- [Film grain synthesis in AV1 &lpar;2019&rpar;](https://norkin.org/research/film_grain/index.html)
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+- [Entire telecomm infrastructure of Iceland sold to private equity](https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network)
+- [The Night I Met Einstein &lpar;2021&rpar;](https://www.rd.com/article/the-night-i-met-einstein/)
+- [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
