@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing “Seen by” Functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
-- [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
-- [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
-- [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
-- [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
+- [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
+- [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
+- [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
+- [My Poor Experience With Azure &lpar;or why I&#39;m sticking with AWS&rpar;](https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/)
+- [RSS is on fire again, and it&#39;s all down to SlackOps](https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
