@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+- [How efficient can cat&lpar;1&rpar; be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
-- [Paper Airplane Designs &lpar;2013&rpar;](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-- [Monodraw – a non-subscription, powerful ASCII art editor](https://blog.helftone.com/monodraw-v1.6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
