@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
+- [‘Things are going to break’: Texas power plants are running nonstop](https://www.bloomberg.com/news/articles/2022-07-15/texas-power-plants-are-skipping-maintenance-to-run-nonstop)
+- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 - [Rowan Atkinson: Visual Comedy &lpar;1992&rpar; [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 - [Neural Network Loss Landscapes: What do we know? &lpar;2021&rpar;](https://damueller.com/#/blog-post/NNLLs)
-- [The case for bad coffee &lpar;2015&rpar;](https://www.seriouseats.com/the-case-for-bad-coffee)
-- [Sitting and standing at work &lpar;2015&rpar;](http://ergo.human.cornell.edu/CUESitStand.html)
-- [I made advanced BI queries with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
