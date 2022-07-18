@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
+- [Fart Stack](https://fart-stack.io/)
+- [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
+- [What I learned trying to classify abortion access across the rich world](https://dynomight.net/abortion/)
 - [Agave &lpar;YC W22&rpar; is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
-- [Show HN: Babble – a tool for encrypting text and image you post/send to others](https://babble.landrop.app/)
-- [WordPerfect for Unix &lpar;1992&rpar; used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
-- [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
-- [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
