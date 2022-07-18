@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 - [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
+- [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
+- [Gnucash – open-source accounting software for personal and small businesses](https://www.gnucash.org/?hn)
 - [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
-- [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
-- [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
-- [Layoffs Create a Vacuum for Fraud](https://www.thewiretap.io/the-fraud-vacuum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
