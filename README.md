@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
+- [Kable &lpar;YC W22&rpar; Is Hiring a Founding Engineer &lpar;Remote, US&rpar;](https://kable.io)
+- [TV, or not TV: the story of our bike box &lpar;2019&rpar;](https://www.vanmoof.com/blog/en/tv-bike-box)
+- [Ask HN: I love programming but hate the industry. Can anyone relate?](https://news.ycombinator.com/item?id=32136733)
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
-- [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
-- [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
-- [Gnucash – open-source accounting software for personal and small businesses](https://www.gnucash.org/?hn)
-- [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
