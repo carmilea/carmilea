@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the Deep Learning Reproducibility Crisis](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+- [Implementing “Seen by” Functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
+- [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
+- [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
 - [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
-- [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
-- [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
