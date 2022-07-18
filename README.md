@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-- [Harris’s List of Covent-Garden Ladies &lpar;1757–1795&rpar;](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
-- [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
-- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
-- [Fields Medal was never meant for ‘the greatest mathematical genius&#39;](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
+- [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
+- [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
+- [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
+- [Paper Airplane Designs &lpar;2013&rpar;](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+- [Monodraw – a non-subscription, powerful ASCII art editor](https://blog.helftone.com/monodraw-v1.6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
