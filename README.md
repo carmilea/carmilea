@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the Deep Learning Reproducibility Crisis](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
 - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
+- [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
 - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
-- [Kable &lpar;YC W22&rpar; Is Hiring a Founding Engineer &lpar;Remote, US&rpar;](https://kable.io)
-- [TV, or not TV: the story of our bike box &lpar;2019&rpar;](https://www.vanmoof.com/blog/en/tv-bike-box)
 <!-- BLOG-POST-LIST:END -->
 
 ---
