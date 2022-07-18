@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
 - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
-- [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
-- [What I learned trying to classify abortion access across the rich world](https://dynomight.net/abortion/)
-- [Agave &lpar;YC W22&rpar; is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
+- [How Did REST Come to Mean the Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
