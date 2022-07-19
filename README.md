@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
+- [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 - [Parsing XML at the Speed of Light &lpar;2012&rpar;](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
 - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
 - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
-- [The simple usefulness of the Secchi disk](https://www.sciencehistory.org/distillations/the-simple-usefulness-of-the-secchi-disk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
