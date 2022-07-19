@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
+- [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
 - [Show HN: I built a self hosted recommendation feed to escape Google&#39;s algorithm](https://github.com/jawerty/myAlgorithm)
+- [[r]evolution Summer 2022: Wasm Space Program](https://www.singlestore.com/blog/revolution-2022-wasm-space-program)
 - [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
-- [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
-- [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
-- [Runway melts at London Luton airport has temperatures in UK near 40C](https://www.dailytelegraph.com.au/news/world/runway-melts-at-london-luton-airport-has-temperatures-in-uk-near-40c/news-story/d7266194145cda7949f2af1c243e9065)
 <!-- BLOG-POST-LIST:END -->
 
 ---
