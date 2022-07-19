@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verdn &lpar;YC W22&rpar; is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+- [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
+- [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
 - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
 - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
-- [Parsing XML at the Speed of Light &lpar;2012&rpar;](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
-- [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
-- [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
