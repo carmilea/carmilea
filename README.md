@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shannon&#39;s Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
-- [Film grain synthesis in AV1 &lpar;2019&rpar;](https://norkin.org/research/film_grain/index.html)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [The night I met Einstein &lpar;1955&rpar;](https://www.rd.com/article/the-night-i-met-einstein/)
-- [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
+- [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
+- [How to Design Programs](https://htdp.org/)
+- [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
+- [To hook diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
+- [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
