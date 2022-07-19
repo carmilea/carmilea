@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevCycle &lpar;YC W14&rpar; is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
+- [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
+- [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 - [We haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
-- [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
-- [Show HN: I built a self hosted recommendation feed to escape Google&#39;s algorithm](https://github.com/jawerty/myAlgorithm)
-- [[r]evolution Summer 2022: Wasm Space Program](https://www.singlestore.com/blog/revolution-2022-wasm-space-program)
-- [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
+- [Volkswagen bringing back Scout brand truck as electric vehicle made in America](https://www.axios.com/2022/07/19/volkswagen-scout-vw-electric-vehicles-truck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
