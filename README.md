@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
-- [How Much Money Do Indie Hackers Products Make?](https://scrapingfish.com/blog/indie-hackers-revenue)
-- [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
-- [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)
-- [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+- [Show HN: I built a self hosted recommendation feed to escape Google&#39;s algorithm](https://github.com/jawerty/myAlgorithm)
+- [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
+- [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
+- [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
+- [Runway melts at London Luton airport has temperatures in UK near 40C](https://www.dailytelegraph.com.au/news/world/runway-melts-at-london-luton-airport-has-temperatures-in-uk-near-40c/news-story/d7266194145cda7949f2af1c243e9065)
 <!-- BLOG-POST-LIST:END -->
 
 ---
