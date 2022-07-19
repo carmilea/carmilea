@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
-- [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
-- [Verdn &lpar;YC W22&rpar; is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
-- [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
-- [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
+- [Cotera &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
+- [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
+- [Oracle is the #1 contributor to the core of Linux in 5.18](https://blogs.oracle.com/linux/post/contributing-to-the-core-of-linux)
+- [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
+- [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
