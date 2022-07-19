@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cotera &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
-- [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
-- [Oracle is the #1 contributor to the core of Linux in 5.18](https://blogs.oracle.com/linux/post/contributing-to-the-core-of-linux)
-- [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
-- [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
+- [Only 5% Indie Hackers products make $100k/year](https://scrapingfish.com/blog/indie-hackers-revenue)
+- [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
+- [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)
+- [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+- [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
