@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Soft deletion probably isn&#39;t worth it](https://brandur.org/soft-deletion)
+- [Tom Lord RIP](https://lwn.net/Articles/901807/)
 - [DevCycle &lpar;YC W14&rpar; is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
-- [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
 - [Google Cloud &lpar;Europe-west2&rpar; is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
 - [The Entertainment Value Curve: Why TikTok Is on Fire and Quibi Isn’t &lpar;2020&rpar;](https://www.reforge.com/blog/entertainment-value-curve)
-- [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
