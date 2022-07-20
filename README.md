@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
+- [Show HN: bashttp - a very &lpar;very&rpar; simple web server in Bash](https://github.com/EddySchauHai/bashttp)
+- [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
 - [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
 - [Burnout](https://commoncog.com/g/burnout/)
-- [Battery cost declines raise prospects of all-electric container shipping](https://www.nature.com/articles/s41560-022-01065-y)
-- [Fran Blanche: This Is Not Legal](https://www.youtube.com/watch?v=1qCM9L_FaFU)
-- [What I Miss About Working at Stripe](https://every.to/p/what-i-miss-about-working-at-stripe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
