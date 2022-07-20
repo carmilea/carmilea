@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Wants to Work Anymore](https://twitter.com/paulisci/status/1549527748950892544)
+- [Cooling related failure &lpar;in Google London DC&rpar;](https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH)
+- [A brief history of nobody wants to work anymore](https://twitter.com/paulisci/status/1549527748950892544)
+- [Things I wish everyone knew about Git &lpar;Part II&rpar;](https://blog.plover.com/prog/git/tips-2.html)
 - [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
 - [Show HN: bashttp - a very &lpar;very&rpar; simple web server in Bash](https://github.com/EddySchauHai/bashttp)
-- [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
-- [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
