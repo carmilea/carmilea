@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chessguessr – Wordle for Chess Games](https://www.chessguessr.com/)
-- [Fleeting Memories of Youth and the Increasing Impermanence of Culture &lpar;2021&rpar;](https://www.datagubbe.se/fleeting/)
-- [Bluetooth remains an &#39;unusually painful&#39; technology after two decades](https://www.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html)
-- [Being On-Call Sucks](https://bobbiechen.com/blog/2022/7/20/being-on-call-sucks)
-- [Cooling related failure &lpar;in Google London DC&rpar;](https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH)
+- [Show HN: A CLI to avoid remembering HTTP status codes](https://github.com/sterchelen/hssp)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481)
+- [Hetzner to Offer First Arm-Based Dedicated Servers in Europe](https://www.hetzner.com/news/07-22-rx-line/)
+- [Magnus Carlsen to give up World Championship title](https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title)
+- [TeamViewer installs suspicious font only useful for web fingerprinting](https://www.ctrl.blog/entry/teamviewer-font-privacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
