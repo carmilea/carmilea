@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: This Food Does Not Exist](https://nyx-ai.github.io/stylegan2-flax-tpu/)
-- [QA workers at Blizzard Albany are unionizing](https://www.gamedeveloper.com/culture/qa-workers-at-blizzard-albany-are-unionizing2a8ba530bcd0daf0e1ae42d988c40dc261347&utm_source=eloqua&utm_medium=email&utm_campaign=Gama_NL_Game%20Developer%20Daily_07.19.22&sp_cid=45523&utm_content=Gama_NL_Game%20Developer%20Daily_07.19.22)
-- [Yuga Labs vs. Bungie – finding the Web3 delta](https://credistick.com/yuga-labs-vs-bungie-finding-the-web3-delta/)
-- [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
-- [Launch HN: Bend &lpar;YC S22&rpar; – Automatically measure your company&#39;s carbon footprint](https://news.ycombinator.com/item?id=32166140)
+- [The Rise and Peak of Japanese Semiconductors](https://asianometry.substack.com/p/the-rise-and-peak-of-japanese-semiconductors)
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [High property taxes are good](http://brooock.com/a/property-taxes-are-good)
+- [Naming microservices needs to be trivial, not cryptic &lpar;2018&rpar;](https://theiconic.tech/naming-your-microservices-needs-to-be-trivial-not-cryptic-288902e800e1?gi=94e2c65eaa27)
+- [Calvin and Hobbes Search Engine](https://michaelyingling.com/random/calvin_and_hobbes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
