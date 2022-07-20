@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yuga Labs vs. Bungie – finding the Web3 delta](https://credistick.com/yuga-labs-vs-bungie-finding-the-web3-delta/)
 - [Launch HN: Bend &lpar;YC S22&rpar; – Automatically measure your company&#39;s carbon footprint](https://news.ycombinator.com/item?id=32166140)
+- [Flipper Zero – Portable Multi-Tool Device for Geeks](https://flipperzero.one)
+- [Bridesmaids Go Professional](https://www.sixthtone.com/news/1010792/bridesmaids-go-professional)
 - [Thousands of classic Polish films, etc. made available for free online](https://35mm.online/)
-- [Show HN: I&#39;m building a browser-based DAW](https://signalsandsorcery.org/sas/composer)
-- [Show HN: A CLI to avoid remembering HTTP status codes](https://github.com/sterchelen/hssp)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
