@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About using Nix in my development workflow](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/)
+- [Rent in NYC without paying broker fees](https://reny-webapp.herokuapp.com/)
 - [The Rise and Peak of Japanese Semiconductors](https://asianometry.substack.com/p/the-rise-and-peak-of-japanese-semiconductors)
 - [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [High property taxes are good](http://brooock.com/a/property-taxes-are-good)
 - [Naming microservices needs to be trivial, not cryptic &lpar;2018&rpar;](https://theiconic.tech/naming-your-microservices-needs-to-be-trivial-not-cryptic-288902e800e1?gi=94e2c65eaa27)
-- [Calvin and Hobbes Search Engine](https://michaelyingling.com/random/calvin_and_hobbes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
