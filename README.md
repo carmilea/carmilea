@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
 - [Are Forum Platforms Dead?](https://rosie.land/posts/are-forum-platforms-dead/)
-- [Half of Americans anticipate a U.S. civil war soon](https://www.science.org/content/article/half-of-americans-anticipate-a-us-civil-war-soon-survey-finds)
 - [Media Confidence Ratings at Record Lows](https://news.gallup.com/poll/394817/media-confidence-ratings-record-lows.aspx)
 - [Pretty Maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
+- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
