@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Contributing to WebSockets – Cryptocurrency Users](https://websockets.readthedocs.io/en/stable/project/contributing.html#cryptocurrency-users)
 - [Chessguessr – Wordle for Chess Games](https://www.chessguessr.com/)
+- [Bluetooth remains an &#39;unusually painful&#39; technology after two decades](https://www.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html)
 - [Being On-Call Sucks](https://bobbiechen.com/blog/2022/7/20/being-on-call-sucks)
 - [Cooling related failure &lpar;in Google London DC&rpar;](https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH)
-- [A brief history of nobody wants to work anymore](https://twitter.com/paulisci/status/1549527748950892544)
-- [Things I wish everyone knew about Git &lpar;Part II&rpar;](https://blog.plover.com/prog/git/tips-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
