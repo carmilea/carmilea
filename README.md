@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB 6 Released](https://www.mongodb.com/blog/post/mongodb-6-0-now-available)
-- [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/)
-- [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
-- [Back from the Future: Global Tables in CockroachDB](https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/)
-- [Amazon memo: Here’s why we should acquire Ring &lpar;2017&rpar;](https://twitter.com/TechEmails/status/1549489359459454976)
+- [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
+- [Burnout](https://commoncog.com/g/burnout/)
+- [Battery cost declines raise prospects of all-electric container shipping](https://www.nature.com/articles/s41560-022-01065-y)
+- [Fran Blanche: This Is Not Legal](https://www.youtube.com/watch?v=1qCM9L_FaFU)
+- [What I Miss About Working at Stripe](https://every.to/p/what-i-miss-about-working-at-stripe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
