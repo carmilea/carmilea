@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite 3.39.2](https://sqlite.org/releaselog/3_39_2.html)
+- [Let&#39;s improve PeerTube – Help us define PeerTube&#39;s future roadmap](https://joinpeertube.org/en/news#ideas-jpt)
 - [Potentials signs of fabrication threaten reigning theory of Alzheimer&#39;s disease](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease)
-- [Commenting on Hacker News](https://superbowl.substack.com/p/commenting-on-hacker-news)
 - [Why We Ignore Thousands of Daily Car Crashes](https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes)
 - [The Birth of Random-Access Memory](https://spectrum.ieee.org/the-birth-of-ram)
-- [[r]evolution Summer 2022: Bring Application Logic to Your Data With SingleStoreDB Code Engine for Wasm](https://www.singlestore.com/blog/revolution-2022-code-engine-for-wasm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
