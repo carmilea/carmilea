@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Long Live Software Easter Eggs](https://queue.acm.org/detail.cfm?id=3534857&doi=10.1145%2F3534857)
 - [New Lisp-Stat Release](https://lisp-stat.dev/blog/releases/)
+- [Anti-Interdiction on the Librem 5 USA](https://puri.sm/posts/anti-interdiction-on-the-librem-5-usa/)
 - [A little story about the `yes` Unix command](https://endler.dev/2017/yes/)
 - [The Daily Wrong: AI-Generated Lies Every Day](http://dailywrong.com/)
-- [What happens when you press a key in your terminal?](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
