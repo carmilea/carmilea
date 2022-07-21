@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to Acquire One Medical](https://press.aboutamazon.com/news-releases/news-release-details/amazon-and-one-medical-sign-agreement-amazon-acquire-one-medical/)
+- [European Central Bank rises rates by 0.5%](https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html)
+- [Ask HN: Where can I find small companies to work for part-time?](https://news.ycombinator.com/item?id=32178328)
 - [HireArt &lpar;YC W12&rpar; is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
-- [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
-- [Blockchain.com Cuts 25% Workforce Amid Crypto Bear Market](https://www.coindesk.com/business/2022/07/21/blockchaincom-cuts-25-workforce-amid-crypto-bear-market/)
-- [Zendesk to Be Acquired](https://investor.zendesk.com/ir-home/press-releases/press-releases-details/2022/Zendesk-to-Be-Acquired-by-Investor-Group-Led-by-Hellman--Friedman-and-Permira-for-10.2-Billion/default.aspx)
-- [A Crack in the Linux Firewall](https://www.randorisec.fr/crack-linux-firewall/)
+- [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
