@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A framework for audio software development](https://cabbageaudio.com/)
-- [Visa Changes Chargeback Dispute Program](https://usa.visa.com/visa-everywhere/blog/bdp/2022/06/15/what-every-merchant-1655330664445.html)
-- [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
-- [Are forum platforms dead?](https://rosie.land/posts/are-forum-platforms-dead/)
-- [Pretty maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
+- [A 165-Mile Drone Superhighway Will Soon Be Built in the UK](https://singularityhub.com/2022/07/20/a-165-mile-drone-superhighway-will-soon-be-built-in-the-uk/)
+- [8-bit 64K 1802 computer with front panel and serial port in an Altoids tin](http://www.sunrise-ev.com/1802.htm)
+- [Tell HN: Salesforce has globally revoked Slack&#39;s holiday shutdown benefit](https://news.ycombinator.com/item?id=32174596)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543)
+- [Continued cyber activity in Eastern Europe observed by TAG](https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
