@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How far could you get Coding without Google?](https://news.ycombinator.com/item?id=32177716)
-- [Analyzing iOS 16 Lockdown Mode: Browser Features and Performance](https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/)
-- [Tips that helped us consistently achieve over 30% open rates for our newsletter](https://circuit.ooo/blog/the-key-ingredient-behind-high-newsletter-open-rates)
-- [Tell HN: Today I made my first “bucks” on the web](https://news.ycombinator.com/item?id=32177053)
-- [New Lisp-Stat Release](https://lisp-stat.dev/blog/releases/)
+- [HireArt &lpar;YC W12&rpar; is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
+- [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
+- [Blockchain.com Cuts 25% Workforce Amid Crypto Bear Market](https://www.coindesk.com/business/2022/07/21/blockchaincom-cuts-25-workforce-amid-crypto-bear-market/)
+- [Zendesk to Be Acquired](https://investor.zendesk.com/ir-home/press-releases/press-releases-details/2022/Zendesk-to-Be-Acquired-by-Investor-Group-Led-by-Hellman--Friedman-and-Permira-for-10.2-Billion/default.aspx)
+- [A Crack in the Linux Firewall](https://www.randorisec.fr/crack-linux-firewall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
