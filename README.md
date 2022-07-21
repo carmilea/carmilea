@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Potentials signs of fabrication threaten reigning theory of Alzheimer&#39;s disease](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease)
+- [Commenting on Hacker News](https://superbowl.substack.com/p/commenting-on-hacker-news)
+- [Why We Ignore Thousands of Daily Car Crashes](https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes)
 - [The Birth of Random-Access Memory](https://spectrum.ieee.org/the-birth-of-ram)
-- [[r]evolution Summer 2022: Bring Application Logic to your Data with SingleStoreDB Code Engine for Wasm](https://www.singlestore.com/blog/revolution-2022-code-engine-for-wasm)
-- [We don&#39;t have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/)
-- [ML is not that good at predicting consumers&#39; choices](https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [[r]evolution Summer 2022: Bring Application Logic to Your Data With SingleStoreDB Code Engine for Wasm](https://www.singlestore.com/blog/revolution-2022-code-engine-for-wasm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
