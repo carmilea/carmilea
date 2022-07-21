@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Americans think NASA’s $10B space telescope is a good investment](https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment)
+- [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
+- [Framework Laptop &lpar;2022&rpar; review: the repairability dream](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
+- [I Regret my Website Redesign](https://mtlynch.io/tinypilot-redesign/)
 - [Launch HN: Vital &lpar;YC W20&rpar; – API for wearables and labs](https://tryvital.io/)
-- [Help? My YouTube channel was suspended](https://news.ycombinator.com/item?id=32178895)
-- [Show HN: I made a website that helps you turn your life into a game and a story](https://www.gamestory.me/)
-- [Amazon to Acquire One Medical](https://press.aboutamazon.com/news-releases/news-release-details/amazon-and-one-medical-sign-agreement-amazon-acquire-one-medical/)
-- [European Central Bank rises rates by 0.5%](https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
