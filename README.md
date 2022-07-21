@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Vital &lpar;YC W20&rpar; – API for wearables and labs](https://tryvital.io/)
+- [Help? My YouTube channel was suspended](https://news.ycombinator.com/item?id=32178895)
+- [Show HN: I made a website that helps you turn your life into a game and a story](https://www.gamestory.me/)
 - [Amazon to Acquire One Medical](https://press.aboutamazon.com/news-releases/news-release-details/amazon-and-one-medical-sign-agreement-amazon-acquire-one-medical/)
 - [European Central Bank rises rates by 0.5%](https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html)
-- [Ask HN: Where can I find small companies to work for part-time?](https://news.ycombinator.com/item?id=32178328)
-- [HireArt &lpar;YC W12&rpar; is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
-- [Notation as a Tool of Thought &lpar;1979&rpar;](https://www.jsoftware.com/papers/tot.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
