@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Americans think NASA’s $10B space telescope is a good investment](https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment)
-- [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
-- [Framework Laptop &lpar;2022&rpar; review: the repairability dream](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
-- [I Regret my Website Redesign](https://mtlynch.io/tinypilot-redesign/)
-- [Launch HN: Vital &lpar;YC W20&rpar; – API for wearables and labs](https://tryvital.io/)
+- [Negative Incentives in Academic Research](https://lemire.me/blog/2022/07/21/negative-incentives-in-academic-research/)
+- [Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme](https://stacker.news/items/47796)
+- [Google Play is reinstating the app permissions section](https://twitter.com/AndroidDev/status/1550134137104740352)
+- [Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
+- [The data rules worth $40k a day](https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
