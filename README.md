@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
+- [InviZible](https://invizible.net/en/)
+- [Emirates statement on operations at London Heathrow](https://www.emirates.com/media-centre/emirates-statement-on-operations-at-london-heathrow/)
 - [Solar flares could cause delays on the railways](https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/)
 - [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
-- [Dutch schools must stop using Google&#39;s email and cloud due to privacy concerns](https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/)
-- [Let&#39;s improve PeerTube – Help us define PeerTube&#39;s future roadmap](https://joinpeertube.org/en/news#ideas-jpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
