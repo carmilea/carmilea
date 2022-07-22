@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to keep Water-obsessed autistic child from wasting](https://news.ycombinator.com/item?id=32190515)
 - [The Trouble with Symbolic Links](https://lwn.net/Articles/899543/)
 - [The lives of a man’s eighteenth-century coat &lpar;2014&rpar;](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
 - [CVE-2022-31163: Arbitrary file execution in TZinfo &lpar;Ruby&rpar;](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
 - [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
-- [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
