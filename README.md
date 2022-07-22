@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
+- [Practical Deep Learning for Coders 2022 &lpar;new edition of fast.ai course&rpar;](https://www.fast.ai/2022/07/21/dl-coders-22/)
 - [Ask HN: What are some &#39;cool&#39; but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
-- [Solar flares could cause delays on the railways](https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/)
-- [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
-- [Dutch schools must stop using Google&#39;s email and cloud due to privacy concerns](https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
