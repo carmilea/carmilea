@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Countries with Declining Population 2022](https://worldpopulationreview.com/country-rankings/countries-with-declining-population)
+- [Ask HN: PayPal dismissed my claim, saying I didn&#39;t provide evidence &lpar;yet I did&rpar;](https://news.ycombinator.com/item?id=32194373)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro](https://www.extremetech.com/computing/338068-thermal-pad-mod-makes-m2-macbook-air-faster-than-13-m2-pro)
-- [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
-- [Migratory monarch butterfly now endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
+- [You&#39;re not the only one whos confused about the economy. Experts are baffled too](https://lite.cnn.com/en/article/h_009fe391f054031ef1471bc139a96cf5)
+- [Show HN: Formie – an open source &lpar;WIP&rpar; form website made with pure HTML/JS/CSS](https://github.com/div72/formie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
