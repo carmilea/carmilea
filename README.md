@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2022-31163: Arbitrary file execution in TZinfo &lpar;Ruby&rpar;](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
+- [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
 - [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 - [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
 - [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
-- [Practical Deep Learning for Coders 2022](https://www.fast.ai/2022/07/21/dl-coders-22/)
-- [Ask HN: What are some cool but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
 <!-- BLOG-POST-LIST:END -->
 
 ---
