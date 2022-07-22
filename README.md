@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Air Force connects 1,760 Playstation 3&#39;s to build supercomputer &lpar;2010&rpar;](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
+- [Airbnb will up its penalty for hosts who cancel last-minute from $100 to $1k](https://www.businessinsider.com/airbnb-ups-host-cancellation-fee-from-100-to-1000-dollars-2022-7)
+- [Discworld on Page and Screen, Part 1: Serious Comedy](https://www.filfre.net/2022/07/discworld-on-page-and-screen-part-1-serious-comedy/)
 - [MPC-HC v1.9.22](https://github.com/clsid2/mpc-hc/releases/tag/1.9.22)
-- [South Carolina bill outlaws websites that tell how to get an abortion](https://www.washingtonpost.com/technology/2022/07/22/south-carolina-bill-abortion-websites/)
-- [Depression is probably not caused by a chemical imbalance in the brain](https://www.ucl.ac.uk/news/2022/jul/analysis-depression-probably-not-caused-chemical-imbalance-brain-new-study)
 - [Eve Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game/)
-- [How to advertise to developers: deep dive into paid developer marketing](https://www.developermarkepear.com/blog/paid-advertising-developer-marketing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
