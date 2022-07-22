@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Trouble with Symbolic Links](https://lwn.net/Articles/899543/)
 - [The lives of a man’s eighteenth-century coat &lpar;2014&rpar;](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
-- [M993 / M995 Armor Piercing Cartridges](https://man.fas.org/dod-101/sys/land/m993.htm)
 - [CVE-2022-31163: Arbitrary file execution in TZinfo &lpar;Ruby&rpar;](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
 - [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
-- [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
