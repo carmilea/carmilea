@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eleven Fewer Dead People](https://hwfo.substack.com/p/eleven-fewer-dead-people)
+- [Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?](https://twitter.com/ColeSouth/status/1550230795230781440)
+- [Hardcoded password in Confluence app has been leaked on Twitter](https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/)
+- [Announcing Apache OpenOffice 4.1.13](https://blogs.apache.org/OOo/entry/announcing-apache-openoffice-4-19)
 - [SpatiaLite: Extends SQLite core to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
-- [Border Wallets – a new way to quickly and reliably memorize Bitcoin seed phrases](https://www.borderwallets.com/)
-- [Ask HN: PayPal dismissed my claim, saying I didn&#39;t provide evidence &lpar;yet I did&rpar;](https://news.ycombinator.com/item?id=32194373)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro](https://www.extremetech.com/computing/338068-thermal-pad-mod-makes-m2-macbook-air-faster-than-13-m2-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
