@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll: What do you call the small USB device that you plug in to transfer files?](https://news.ycombinator.com/item?id=32193431)
+- [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
+- [Ask HN: Remote work credit? I built an app that the company thinks my boss built](https://news.ycombinator.com/item?id=32193016)
+- [Migratory monarch butterfly now Endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
 - [US Air Force connects 1,760 Playstation 3&#39;s to build supercomputer &lpar;2010&rpar;](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
-- [Airbnb will up its penalty for hosts who cancel last-minute from $100 to $1k](https://www.businessinsider.com/airbnb-ups-host-cancellation-fee-from-100-to-1000-dollars-2022-7)
-- [Discworld on Page and Screen, Part 1: Serious Comedy](https://www.filfre.net/2022/07/discworld-on-page-and-screen-part-1-serious-comedy/)
-- [MPC-HC v1.9.22](https://github.com/clsid2/mpc-hc/releases/tag/1.9.22)
-- [Eve Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
