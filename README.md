@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio Raised a Series B and Is Hiring Senior Front End Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- [For the first time in four decades, the Rio Grande through Albuquerque is dry](http://www.inkstain.net/fleck/2022/07/for-the-first-time-in-four-decades-the-rio-grande-through-albuquerque-is-dry/)
-- [Holm Oak in the Garden of Villa Il Balbianello, Lenno, Lombardy, Italy](https://www.monumentaltrees.com/en/ita/lombardy/como/15337_villailbalbianello/28787/)
-- [Boötes Void: What Is This Patch of Space with Few Stars?](https://mesonstars.com/space/bootes-void-what-is-this-patch-of-space-with-few-stars/)
-- [Is the Silence of the Great Plains to Blame for ‘Prairie Madness’?](https://www.atlasobscura.com/articles/prairie-madness-study-silence-great-plains)
+- [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
+- [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
+- [We&#39;re going to need a lot of solar panels](https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/)
+- [Soon, life for 40M people who depend on the Colorado River will change](https://www.denverpost.com/2022/07/21/colorado-river-drought-water-crisis-west/)
+- [Ask HN: Which book are you reading, since when?](https://news.ycombinator.com/item?id=32196791)
 <!-- BLOG-POST-LIST:END -->
 
 ---
