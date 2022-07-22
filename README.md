@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
-- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=32187745)
+- [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 - [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
-- [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
-- [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
+- [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- [Practical Deep Learning for Coders 2022](https://www.fast.ai/2022/07/21/dl-coders-22/)
+- [Ask HN: What are some cool but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
 <!-- BLOG-POST-LIST:END -->
 
 ---
