@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eleven Fewer Dead People](https://hwfo.substack.com/p/eleven-fewer-dead-people)
-- [Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?](https://twitter.com/ColeSouth/status/1550230795230781440)
-- [Hardcoded password in Confluence app has been leaked on Twitter](https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/)
-- [Announcing Apache OpenOffice 4.1.13](https://blogs.apache.org/OOo/entry/announcing-apache-openoffice-4-19)
-- [SpatiaLite: Extends SQLite core to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
+- [Tesorio Raised a Series B and Is Hiring Senior Front End Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
+- [For the first time in four decades, the Rio Grande through Albuquerque is dry](http://www.inkstain.net/fleck/2022/07/for-the-first-time-in-four-decades-the-rio-grande-through-albuquerque-is-dry/)
+- [Holm Oak in the Garden of Villa Il Balbianello, Lenno, Lombardy, Italy](https://www.monumentaltrees.com/en/ita/lombardy/como/15337_villailbalbianello/28787/)
+- [Boötes Void: What Is This Patch of Space with Few Stars?](https://mesonstars.com/space/bootes-void-what-is-this-patch-of-space-with-few-stars/)
+- [Is the Silence of the Great Plains to Blame for ‘Prairie Madness’?](https://www.atlasobscura.com/articles/prairie-madness-study-silence-great-plains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
