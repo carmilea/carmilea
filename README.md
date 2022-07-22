@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What makes users want to share a game?](https://news.ycombinator.com/item?id=32191526)
+- [Ask HN: Do you maintain a list of RSS links of GOAT blogs?](https://news.ycombinator.com/item?id=32191140)
 - [Charityvest &lpar;YC S20&rpar; Is Hiring Lead UX and Brand Designer](https://apply.workable.com/charityvest/j/37123CA4DC/)
 - [Three Arrows Founders Break Silence over Collapse of Crypto Hedge Fund](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
-- [The trouble with symbolic links](https://lwn.net/Articles/899543/)
-- [UK intelligence recycles “think of the children” argument for borking encryption](https://www.theregister.com/2022/07/22/british_encryption_scanning/)
-- [The lives of a man’s eighteenth-century coat &lpar;2014&rpar;](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
+- [Me and Monotropism: A unified theory of autism](https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
