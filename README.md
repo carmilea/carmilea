@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: What do you call the small USB device that you plug in to transfer files?](https://news.ycombinator.com/item?id=32193431)
+- [Countries with Declining Population 2022](https://worldpopulationreview.com/country-rankings/countries-with-declining-population)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro](https://www.extremetech.com/computing/338068-thermal-pad-mod-makes-m2-macbook-air-faster-than-13-m2-pro)
 - [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
-- [Ask HN: Remote work credit? I built an app that the company thinks my boss built](https://news.ycombinator.com/item?id=32193016)
-- [Migratory monarch butterfly now Endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
-- [US Air Force connects 1,760 Playstation 3&#39;s to build supercomputer &lpar;2010&rpar;](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
+- [Migratory monarch butterfly now endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
