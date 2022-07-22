@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Carolina lawmakers want to banish abortion talk from the Internet](https://arstechnica.com/tech-policy/2022/07/south-carolina-lawmakers-want-to-banish-abortion-talk-from-the-internet/)
 - [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
+- [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
 - [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
 - [We&#39;re going to need a lot of solar panels](https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/)
-- [Soon, life for 40M people who depend on the Colorado River will change](https://www.denverpost.com/2022/07/21/colorado-river-drought-water-crisis-west/)
-- [Ask HN: Which book are you reading, since when?](https://news.ycombinator.com/item?id=32196791)
 <!-- BLOG-POST-LIST:END -->
 
 ---
