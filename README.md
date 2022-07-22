@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to keep Water-obsessed autistic child from wasting](https://news.ycombinator.com/item?id=32190515)
-- [The Trouble with Symbolic Links](https://lwn.net/Articles/899543/)
+- [Charityvest &lpar;YC S20&rpar; Is Hiring Lead UX and Brand Designer](https://apply.workable.com/charityvest/j/37123CA4DC/)
+- [Three Arrows Founders Break Silence over Collapse of Crypto Hedge Fund](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
+- [The trouble with symbolic links](https://lwn.net/Articles/899543/)
+- [UK intelligence recycles “think of the children” argument for borking encryption](https://www.theregister.com/2022/07/22/british_encryption_scanning/)
 - [The lives of a man’s eighteenth-century coat &lpar;2014&rpar;](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
-- [CVE-2022-31163: Arbitrary file execution in TZinfo &lpar;Ruby&rpar;](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
-- [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
