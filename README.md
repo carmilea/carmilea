@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Carolina lawmakers want to banish abortion talk from the Internet](https://arstechnica.com/tech-policy/2022/07/south-carolina-lawmakers-want-to-banish-abortion-talk-from-the-internet/)
-- [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
-- [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
-- [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
-- [We&#39;re going to need a lot of solar panels](https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
+- [Unboxing a $100 Chromebook](https://twitter.com/timsneath/status/1550598445248811008)
+- [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
+- [Where Expats Should &lpar;Not&rpar; Move in 2022](https://www.internations.org/press/press-release/where-expats-should-not-move-in-2022-40279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
