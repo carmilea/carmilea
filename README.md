@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Dehumidifier Makes Air Conditioning a Breeze](https://www.pnnl.gov/news-media/efficient-dehumidifier-makes-air-conditioning-breeze)
-- [Publii: Open-source local WYSIWYG static site CMS](https://github.com/GetPublii/Publii)
-- [Spain will introduce free train travel](https://www.bloomberg.com/news/articles/2022-07-15/spain-will-introduce-free-train-travel-to-help-ease-the-cost-of-living)
-- [WHO declares monkeypox a public health emergency](https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/)
-- [Are language models deprived of electric sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
+- [Monkeypox declared global health emergency by WHO as cases surge](https://www.theguardian.com/world/2022/jul/23/monkeypox-who-declares-public-health-emergency-of-international-concern)
+- [Keeper Tax &lpar;YC W19&rpar; is hiring a data engineer to save freelancers $ on taxes](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer)
+- [Ask HN: Why are self-taught developers deprived of “free for education” tools?](https://news.ycombinator.com/item?id=32205036)
+- [Show HN: Famnom – Nutrition tracker and meal planner for families](https://www.famnom.com)
+- [Leaked documents reveal Amazon’s process to review employees’ worth to Amazon](https://fortune.com/2022/07/22/amazon-new-performance-review-process-leaked-how-managers-measure-employee-worth-and-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
