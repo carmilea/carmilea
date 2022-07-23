@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monkeypox declared global health emergency by WHO as cases surge](https://www.theguardian.com/world/2022/jul/23/monkeypox-who-declares-public-health-emergency-of-international-concern)
-- [Keeper Tax &lpar;YC W19&rpar; is hiring a data engineer to save freelancers $ on taxes](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer)
-- [Ask HN: Why are self-taught developers deprived of “free for education” tools?](https://news.ycombinator.com/item?id=32205036)
-- [Show HN: Famnom – Nutrition tracker and meal planner for families](https://www.famnom.com)
-- [Leaked documents reveal Amazon’s process to review employees’ worth to Amazon](https://fortune.com/2022/07/22/amazon-new-performance-review-process-leaked-how-managers-measure-employee-worth-and-pay/)
+- [An informal review of CTF abuse](https://gynvael.coldwind.pl/?id=750)
+- [Why Writing Your Own Search Engine Is Hard &lpar;2004&rpar;](https://queue.acm.org/detail.cfm?id=988407)
+- [Stop saying “They shouldn&#39;t have invested more than they could afford to lose”](https://blog.mollywhite.net/stop-saying-they-shouldnt-have-invested-more-than-they-can-afford-to-lose/)
+- [Imaginary Numbers Are Real](https://aeon.co/essays/how-imaginary-numbers-describe-the-fundamental-shape-of-nature)
+- [Trading Crypto and Forex with JavaScript](https://github.com/Reiryoku-Technologies/Mida)
 <!-- BLOG-POST-LIST:END -->
 
 ---
