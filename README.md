@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vodafone and Deutsche Telekom to introduce persistent user tracking](https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking)
 - [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
 - [Batman easter egg &lpar;click the bat signal&rpar;](https://www.google.com/search?q=gotham+city)
+- [The First Interview with the Panama Papers Whistleblower](https://www.spiegel.de/international/world/the-first-interview-with-the-panama-papers-whistleblower-the-russian-government-wants-to-see-me-dead-a-9f830d70-297a-472a-b0cc-9632ff2f514a)
 - [More invested in nuclear fusion in last 12 months than past decade](https://www.growthbusiness.co.uk/more-invested-in-nuclear-fusion-in-last-12-months-than-past-decade-2560528/)
-- [Why Trauma Doesn’t Exist According to Adlerian Psychology](https://theapeiron.co.uk/why-trauma-doesnt-exist-according-to-adlerian-psychology-db1368e1d667)
-- [The tar archive format, and why GNU tar extracts in quadratic time](https://mort.coffee/home/tar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
