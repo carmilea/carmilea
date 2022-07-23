@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Language Models Deprived of Electric Sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
-- [Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
-- [A Clip from Stray Got Me Banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
-- [Writing my PhD using groff](https://jstutter.netlify.app/)
-- [A genetic modification boosts grain yields, shortens the growth duration of rice](https://www.science.org/content/article/supercharged-biotech-rice-yields-40-more-grain)
+- [WHO declares monkeypox a public health emergency](https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/)
+- [Are language models deprived of electric sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
+- [Ask HN: What is the job market like, for niche languages &lpar;Nim, crystal&rpar;?](https://news.ycombinator.com/item?id=32202798)
+- [Windows&#39; market share declined 17 percent in the past 10 years](https://stockapps.com/blog/microsofts-windows-os-loses-17-of-its-market-share-in-the-last-10-years/)
+- [A clip from Stray got me banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
