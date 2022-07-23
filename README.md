@@ -54,7 +54,7 @@
 - [I&#39;ve now used Linux nftables for firewall rules and it went okay](https://utcc.utoronto.ca/~cks/space/blog/linux/NFTablesInoffensive)
 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
 - [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
-- [Ask HN: Why Don&#39;t Filesystems and OS&#39;s Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
+- [“On 16th Mar, 1968 Thompson realised he witnessed something: A massacre”](https://twitter.com/garius/status/1550397462355009536)
 - [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
 <!-- BLOG-POST-LIST:END -->
 
