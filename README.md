@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Aren’t Extraverts Rich?](https://betonit.substack.com/p/why-arent-extraverts-rich)
 - [Ask HN: Why Don&#39;t Filesystems and OS&#39;s Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
 - [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
 - [Interactive exploration of Boston&#39;s subway system](http://mbtaviz.github.io/)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
