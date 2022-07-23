@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
 - [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
 - [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
 - [“On 16th Mar, 1968 Thompson realised he witnessed something: A massacre”](https://twitter.com/garius/status/1550397462355009536)
-- [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
