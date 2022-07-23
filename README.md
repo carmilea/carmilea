@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Saudi Arabia’s Plan to Build a Skyscraper That Stretches for 75 Miles](https://www.wsj.com/articles/inside-saudi-arabias-plan-to-build-a-skyscraper-that-stretches-for-75-miles-11658581201)
+- [The Impact of Posing with Cats on Female Perceptions of Male Dateability](https://www.mdpi.com/2076-2615/10/6/1007)
+- [Making a Maradona: Meat Consumption and Soccer Prowess](https://ideas.repec.org/p/aoz/wpaper/161.html)
 - [An informal review of CTF abuse](https://gynvael.coldwind.pl/?id=750)
 - [Why Writing Your Own Search Engine Is Hard &lpar;2004&rpar;](https://queue.acm.org/detail.cfm?id=988407)
-- [Stop saying “They shouldn&#39;t have invested more than they could afford to lose”](https://blog.mollywhite.net/stop-saying-they-shouldnt-have-invested-more-than-they-can-afford-to-lose/)
-- [Imaginary Numbers Are Real](https://aeon.co/essays/how-imaginary-numbers-describe-the-fundamental-shape-of-nature)
-- [Trading Crypto and Forex with JavaScript](https://github.com/Reiryoku-Technologies/Mida)
 <!-- BLOG-POST-LIST:END -->
 
 ---
