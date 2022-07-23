@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why Don&#39;t Filesystems and OS&#39;s Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
+- [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
+- [Interactive exploration of Boston&#39;s subway system](http://mbtaviz.github.io/)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
-- [Unboxing a $100 Chromebook](https://twitter.com/timsneath/status/1550598445248811008)
-- [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
-- [Where Expats Should &lpar;Not&rpar; Move in 2022](https://www.internations.org/press/press-release/where-expats-should-not-move-in-2022-40279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
