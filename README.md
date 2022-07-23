@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is the job market like, for niche languages &lpar;Nim, crystal&rpar;?](https://news.ycombinator.com/item?id=32202798)
+- [Are Language Models Deprived of Electric Sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
 - [Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
 - [A Clip from Stray Got Me Banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
 - [Writing my PhD using groff](https://jstutter.netlify.app/)
