@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xz format considered inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
+- [Ford&#39;s answer to EV supply chain hell: Cheaper batteries](https://www.axios.com/2022/07/22/ford-lithium-iron-phosphate-batteries)
+- [Xz format considered inadequate for long-term archiving &lpar;2016&rpar;](https://www.nongnu.org/lzip/xz_inadequate.html)
 - [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
-- [François Chollet: Amazon sales of Deep Learning with Python are 100% counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
-- [Burning Ship Fractal](http://www.paulbourke.net/fractals/burnship/)
-- [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
+- [Amazon sales of “Deep Learning with Python” are counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
+- [&quot;Burning Ship&quot; fractal](http://www.paulbourke.net/fractals/burnship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
