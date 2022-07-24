@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cold emails and Twitter &lpar;2018&rpar;](https://guzey.com/personal/what-should-you-do-with-your-life/)
-- [Ford&#39;s answer to EV supply chain hell: Cheaper batteries](https://www.axios.com/2022/07/22/ford-lithium-iron-phosphate-batteries)
-- [Xz format considered inadequate for long-term archiving &lpar;2016&rpar;](https://www.nongnu.org/lzip/xz_inadequate.html)
-- [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
-- [Amazon sales of “Deep Learning with Python” are counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
+- [Body integrity identity disorder &lpar;BIID&rpar;: How satisfied are successful wannabes [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
+- [Prima: Cross-platform GUI toolkit written in Perl](https://github.com/dk/Prima)
+- [Ask HN: What is a sustainable methodology for taking notes of your learning?](https://news.ycombinator.com/item?id=32211734)
+- [How did the Dominican Republic become so much richer than Haiti?](https://www.thefitzwilliam.com/p/hispaniolas-great-divergence)
+- [How to drive away your best engineers](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
