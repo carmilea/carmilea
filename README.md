@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Kvass, a personal key-value store](https://github.com/maxmunzel/kvass)
-- [Netflix starts charging “extra home” fee. Blocks “extra homes” if you don’t pay](https://help.netflix.com/en/node/126602)
-- [Tech booms fuelled liveability busts in Silicon Valley and Bengaluru](https://daily.thesignal.co/p/a-tale-of-two-valleys)
-- [Body integrity identity disorder &lpar;BIID&rpar;: How satisfied are successful wannabes [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
-- [Prima: Cross-platform GUI toolkit written in Perl](https://github.com/dk/Prima)
+- [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
+- [At 88, Poker Legend Doyle Brunson Is Still Bluffing. Or Is He?](https://www.texasmonthly.com/arts-entertainment/doyle-brunson-poker-legend/)
+- [The Docker, Kubernetes, Terraform, and AWS crash course series](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274?gi=96ef3b8ffd04)
+- [How well do the Covid vaccines work? &lpar;and why has this been so confusing?&rpar;](https://youcanknowthings.com/2022/05/21/how-well-do-the-covid-vaccines-work-and-why-has-this-been-so-confusing/)
+- [Two decades of Alzheimer’s research was based on deliberate fraud](https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
