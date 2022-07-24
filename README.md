@@ -54,8 +54,8 @@
 - [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
 - [At 88, Poker Legend Doyle Brunson Is Still Bluffing. Or Is He?](https://www.texasmonthly.com/arts-entertainment/doyle-brunson-poker-legend/)
 - [The Docker, Kubernetes, Terraform, and AWS crash course series](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274?gi=96ef3b8ffd04)
-- [How well do the Covid vaccines work? &lpar;and why has this been so confusing?&rpar;](https://youcanknowthings.com/2022/05/21/how-well-do-the-covid-vaccines-work-and-why-has-this-been-so-confusing/)
 - [Two decades of Alzheimer’s research was based on deliberate fraud](https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/)
+- [Facial Hair Tracking for High Fidelity Performance Capture](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
