@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cold Emails and Twitter](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - [Ford&#39;s answer to EV supply chain hell: Cheaper batteries](https://www.axios.com/2022/07/22/ford-lithium-iron-phosphate-batteries)
 - [Xz format considered inadequate for long-term archiving &lpar;2016&rpar;](https://www.nongnu.org/lzip/xz_inadequate.html)
 - [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
 - [Amazon sales of “Deep Learning with Python” are counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
-- [&quot;Burning Ship&quot; fractal](http://www.paulbourke.net/fractals/burnship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
