@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A self-contained AVR programmer using an Arduino Uno](https://blog.jgc.org/2022/07/a-self-contained-avr-programmer-using.html)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- [Honestly: Does Glorifying Sickness Deter Healing?](https://www.commonsense.news/p/honestly-does-glorifying-sickness)
 - [Library Writing Realizations &lpar;2015&rpar;](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
 - [Mike Florio: Report Google Has Made a Bid for NFL Sunday Ticket](https://profootballtalk.nbcsports.com/2022/07/24/report-google-has-made-a-bid-for-sunday-ticket/)
-- [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
-- [Kubernetes for Developers Who Know How to Develop](https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
