@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vi Hart: Hexaflexagons [video]](https://www.youtube.com/watch?v=VIVIegSt81k&list=PLaNzoFtkQ7rbt5ac9qdi76iNKuqZWQkB3)
-- [Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall](https://app.skillpress.io/study/19/course/23)
-- [A new way to predict when software jobs will become automated](https://aifuture.substack.com/p/will-ai-target-your-job-next)
-- [Behavioral science: No evidence for nudging after adjusting for publication bias](https://www.pnas.org/doi/10.1073/pnas.2200300119)
-- [Baking bread with the Romans part III – the panis quadratus strikes back &lpar;2018&rpar;](https://tavolamediterranea.com/2018/06/14/baking-bread-romans-part-iii-panis-strikes-back/)
+- [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
+- [Prior Omicron infection protects against BA.4 and BA.5 variants](https://www.nature.com/articles/d41586-022-01950-2)
+- [Performance comparison: counting words in Python, C/C++, Awk, Rust, and more](https://benhoyt.com/writings/count-words/)
+- [Arizona Mom Fights Abusive Prosecution by Department of Child Safety](https://pacificlegal.org/press-release/arizona-mom-fights-abusive-prosecution-by-department-of-child-safety/)
+- [Non-Obvious Docker Uses](https://matt-rickard.com/non-obvious-docker-uses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
