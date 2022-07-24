@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xz format considered inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
 - [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
 - [François Chollet: Amazon sales of Deep Learning with Python are 100% counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
 - [Burning Ship Fractal](http://www.paulbourke.net/fractals/burnship/)
 - [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
-- [Do the people who design airports ever fly?](https://anncoulter.substack.com/p/do-the-people-who-design-airports)
 <!-- BLOG-POST-LIST:END -->
 
 ---
