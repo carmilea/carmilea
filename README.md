@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung asks for planning permission for 11 fabs in Texas](https://www.electronicsweekly.com/uncategorised/802190-2022-07/)
+- [I got fired for sharing my salary on TikTok](https://nypost.com/2022/07/21/i-got-fired-for-sharing-my-salary-on-tiktok-and-cried-for-days-straight/)
+- [The Creepiest Cycling Condition: Shermer’s Neck](https://www.welovecycling.com/wide/2017/08/10/creepiest-cycling-condition-shermers-neck/)
 - [OpenXanadu](https://xanadu.com/xanademos/MoeJusteOrigins.html)
 - [Standard Ebooks](https://standardebooks.org/)
-- [Take More Screenshots](https://alexwlchan.net/2022/07/screenshots/)
-- [Factor: A Practical Stack Language](https://factorcode.org/)
-- [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
