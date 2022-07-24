@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apply with me to Y Combinator in the next month and change the world](https://youogle.com)
+- [OpenXanadu](https://xanadu.com/xanademos/MoeJusteOrigins.html)
+- [Standard Ebooks](https://standardebooks.org/)
+- [Take More Screenshots](https://alexwlchan.net/2022/07/screenshots/)
+- [Factor: A Practical Stack Language](https://factorcode.org/)
 - [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
-- [Prior Omicron infection protects against BA.4 and BA.5 variants](https://www.nature.com/articles/d41586-022-01950-2)
-- [Shite: The little static shite generator from shell](https://github.com/adityaathalye/shite)
-- [AWS open sourced the AWS console design system](https://github.com/cloudscape-design/components)
 <!-- BLOG-POST-LIST:END -->
 
 ---
