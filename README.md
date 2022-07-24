@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [/dev/null: Anti-Cheat Kernel Driver](https://www.leagueoflegends.com/en-us/news/dev/dev-null-anti-cheat-kernel-driver/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- [Library Writing Realizations &lpar;2015&rpar;](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
+- [Mike Florio: Report Google Has Made a Bid for NFL Sunday Ticket](https://profootballtalk.nbcsports.com/2022/07/24/report-google-has-made-a-bid-for-sunday-ticket/)
 - [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
 - [Kubernetes for Developers Who Know How to Develop](https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/)
-- [The world that Twitter never made](https://scholars-stage.org/the-world-that-twitter-never-made/)
-- [Samsung asks for planning permission for 11 fabs in Texas](https://www.electronicsweekly.com/uncategorised/802190-2022-07/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
