@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
 - [Why are McDonald’s Self Service Kiosks so hackable?](https://ghuntley.com/mcdonalds/)
+- [Datadog dashboard for the Texas power grid](https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true)
 - [A self-contained AVR programmer using an Arduino Uno](https://blog.jgc.org/2022/07/a-self-contained-avr-programmer-using.html)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- [Honestly: Does Glorifying Sickness Deter Healing?](https://www.commonsense.news/p/honestly-does-glorifying-sickness)
-- [Library Writing Realizations &lpar;2015&rpar;](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
