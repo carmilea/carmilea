@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strawman? Steelman? How to Starman: Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
 - [The GNU Name System](https://www.gnunet.org/en/gns.html)
 - [The EU has quietly provided Morocco with powerful phone hacking systems [French]](https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones)
-- [What Happens When Texans Protest Their “Mind-Boggling” Property Taxes?](https://www.texasmonthly.com/news-politics/texas-property-tax-hearings/)
 - [Handshake – Decentralized naming and certificate authority](https://handshake.org/)
 - [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
 <!-- BLOG-POST-LIST:END -->
