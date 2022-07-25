@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why do you make class members private?](https://news.ycombinator.com/item?id=32227737)
+- [Safely Dropping MySQL Tables](https://planetscale.com/blog/safely-dropping-mysql-tables)
 - [FCC fines Charter, LTD Broadband more than $3M for RDOF defaults](https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults)
-- [Ask HN: What technologies have made your life worse?](https://news.ycombinator.com/item?id=32227006)
-- [Fedora to disallow CC0-licensed code](https://lwn.net/Articles/902410/)
-- [Ask HN: I&#39;m in a rut. How did you get out of yours?](https://news.ycombinator.com/item?id=32226910)
+- [[Fedora-legal-list] Change in classification of CC0](https://lwn.net/ml/fedora-legal/CAC1cPGw1xScGAXo-0NRs92zFB7ptRxTt=oCYi0BxfZDfAgUtYQ@mail.gmail.com/)
 - [Why Academic Freedom Matters &lpar;2021&rpar;](https://ravenmagazine.org/magazine/why-academic-freedom-matters/)
 <!-- BLOG-POST-LIST:END -->
 
