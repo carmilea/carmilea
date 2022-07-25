@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s time to leave the leap second in the past](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)
+- [The Global Housing Market Is Broken, and It’s Dividing Entire Countries](https://www.bloomberglinea.com/2021/09/20/the-global-housing-market-is-broken-and-its-dividing-entire-countries/)
+- [I remember feeling derisive about marketing as a young techie](https://twitter.com/id_aa_carmack/status/1551587190395789312)
+- [An Economy of Overfed Middlemen](https://mattstoller.substack.com/p/a-moat-trajectory)
 - [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/)
-- [Windows Start Menu not starting? You&#39;re not alone](https://www.theregister.com/2022/07/25/start_menu_stopped/)
-- [Faked Beta-Amyloid Data. What Does It Mean?](https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean)
-- [Lockdown: The coming war on general-purpose computing](https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/)
-- [Two weeks in, the Webb Space Telescope is reshaping astronomy](https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
