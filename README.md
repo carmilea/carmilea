@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Search PDFs with Transformers and Python Notebook](https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb)
-- [BMW’s Heated Seats as a Service Model Has Drivers Seeking Hacks](https://www.wired.com/story/bmw-heated-seats-as-a-service-model-has-drivers-seeking-hacks/)
-- [Mechanics invent an axle that can achieve steering angles of up to 80 degrees](https://interestingengineering.com/axle-steering-angles-80-degrees)
-- [Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?](https://news.ycombinator.com/item?id=32223919)
-- [Road dust: a literature review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968206/)
+- [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/)
+- [Windows Start Menu not starting? You&#39;re not alone](https://www.theregister.com/2022/07/25/start_menu_stopped/)
+- [Faked Beta-Amyloid Data. What Does It Mean?](https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean)
+- [Lockdown: The coming war on general-purpose computing](https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/)
+- [Two weeks in, the Webb Space Telescope is reshaping astronomy](https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
