@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why do you make class members private?](https://news.ycombinator.com/item?id=32227737)
+- [What I Learned at Clubhouse](https://anu.substack.com/p/what-i-learned-at-clubhouse-)
+- [Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing](https://www.tomshardware.com/news/intel-gpu-100x-performance-ray-tracing)
+- [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
 - [Safely Dropping MySQL Tables](https://planetscale.com/blog/safely-dropping-mysql-tables)
 - [FCC fines Charter, LTD Broadband more than $3M for RDOF defaults](https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults)
-- [[Fedora-legal-list] Change in classification of CC0](https://lwn.net/ml/fedora-legal/CAC1cPGw1xScGAXo-0NRs92zFB7ptRxTt=oCYi0BxfZDfAgUtYQ@mail.gmail.com/)
-- [Why Academic Freedom Matters &lpar;2021&rpar;](https://ravenmagazine.org/magazine/why-academic-freedom-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
