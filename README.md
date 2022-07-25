@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Likely cause of mystery child hepatitis outbreak found](https://www.bbc.co.uk/news/health-61269586)
-- [Intel NUC P14E Laptop Element with Swappable NUC 11 Compute Element &lpar;2021&rpar;](https://www.zdnet.com/article/intel-unveils-nuc-p14e-laptop-element-with-swappable-nuc-11-compute-element/)
-- [Arguing from compassion &lpar;2021&rpar;](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
-- [The GNU Name System](https://www.gnunet.org/en/gns.html)
-- [The New B-21 Stealth Bomber to Be Revealed Later This Year, Senator Says](https://www.military.com/daily-news/2022/07/22/new-b-21-stealth-bomber-be-revealed-later-year-senator-says.html)
+- [Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?](https://news.ycombinator.com/item?id=32223919)
+- [Ask HN: What are the best programming tricks you know?](https://news.ycombinator.com/item?id=32223834)
+- [Round a direction vector to an 8-way compass](https://lemire.me/blog/2022/07/24/round-a-direction-vector-to-the-nearest-8-way-compass/)
+- [Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’](https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/)
+- [Intel Foundry Services Lands MediaTek, a Leading TSMC Customer](https://www.tomshardware.com/news/intels-foundry-services-lands-mediatek-as-a-16nm-customer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
