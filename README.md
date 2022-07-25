@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My TransGentry Newfound Pronouns](https://asopposedtowhat.com/posts/trans-gentry-newfound-pronouns/)
+- [Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
+- [Whole Genome Sequencing](https://sequencing.com/)
 - [Show HN: PickCode – An educational coding environment for students after Scratch](https://www.pickcode.io/)
-- [Yes, the 8086 wanted to be mechanically translatable from the 8080, but](https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889)
-- [Show HN: I built an email marketing tool made for indie hackers and solopreneurs](https://www.useplunk.com)
-- [What I Learned at Clubhouse](https://anu.substack.com/p/what-i-learned-at-clubhouse-)
-- [Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing](https://www.tomshardware.com/news/intel-gpu-100x-performance-ray-tracing)
+- [Embodied Carbon: The Dirty Secret of SSDs &lpar;8x More Than HDD&rpar;](https://arxiv.org/abs/2207.10793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
