@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My TransGentry Newfound Pronouns](https://asopposedtowhat.com/posts/trans-gentry-newfound-pronouns/)
+- [I bought a cheap electric pickup truck from Alibaba. Here’s what showed up](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
 - [Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
 - [Whole Genome Sequencing](https://sequencing.com/)
 - [Show HN: PickCode – An educational coding environment for students after Scratch](https://www.pickcode.io/)
