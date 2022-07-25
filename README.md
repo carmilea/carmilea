@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Search PDFs with Transformers and Python Notebook](https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb)
+- [BMW’s Heated Seats as a Service Model Has Drivers Seeking Hacks](https://www.wired.com/story/bmw-heated-seats-as-a-service-model-has-drivers-seeking-hacks/)
+- [Mechanics invent an axle that can achieve steering angles of up to 80 degrees](https://interestingengineering.com/axle-steering-angles-80-degrees)
 - [Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?](https://news.ycombinator.com/item?id=32223919)
-- [Ask HN: What are the best programming tricks you know?](https://news.ycombinator.com/item?id=32223834)
-- [Round a direction vector to an 8-way compass](https://lemire.me/blog/2022/07/24/round-a-direction-vector-to-the-nearest-8-way-compass/)
-- [Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’](https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/)
-- [Intel Foundry Services Lands MediaTek, a Leading TSMC Customer](https://www.tomshardware.com/news/intels-foundry-services-lands-mediatek-as-a-16nm-customer)
+- [Road dust: a literature review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968206/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
