@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
+- [Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?](https://news.ycombinator.com/item?id=32220349)
+- [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
 - [Laser fusion facility heads back to drawing board](https://www.nature.com/articles/d41586-022-02022-1)
-- [The Identity of Kim Il Sung &lpar;1949&rpar; &lpar;declassified 2011&rpar; [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf)
-- [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
-- [Why are McDonald’s Self Service Kiosks so hackable?](https://ghuntley.com/mcdonalds/)
-- [Datadog dashboard for the Texas power grid](https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true)
+- [The Identity of Kim Il Sung &lpar;1949&rpar; [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
