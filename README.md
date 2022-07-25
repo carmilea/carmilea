@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseus-9 homemade mobile dual 6502 computer](https://hackaday.io/project/186479-perseus-9-homemade-mobile-6502-computer)
 - [Finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
 - [Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?](https://news.ycombinator.com/item?id=32220349)
 - [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
 - [Laser fusion facility heads back to drawing board](https://www.nature.com/articles/d41586-022-02022-1)
-- [The Identity of Kim Il Sung &lpar;1949&rpar; [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
