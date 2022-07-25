@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The audacious PR plot that seeded doubt about climate change](https://www.bbc.co.uk/news/science-environment-62225696)
-- [Handshake](https://handshake.org/)
+- [The GNU Name System](https://www.gnunet.org/en/gns.html)
+- [The EU has quietly provided Morocco with powerful phone hacking systems [French]](https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones)
+- [What Happens When Texans Protest Their “Mind-Boggling” Property Taxes?](https://www.texasmonthly.com/news-politics/texas-property-tax-hearings/)
+- [Handshake – Decentralized naming and certificate authority](https://handshake.org/)
 - [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
-- [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/)
-- [Deutsche Bahn’s Meltdown and High-Speed Rail](https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
