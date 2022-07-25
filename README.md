@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Strawman? Steelman? How to Starman: Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
+- [Likely cause of mystery child hepatitis outbreak found](https://www.bbc.co.uk/news/health-61269586)
+- [Intel NUC P14E Laptop Element with Swappable NUC 11 Compute Element &lpar;2021&rpar;](https://www.zdnet.com/article/intel-unveils-nuc-p14e-laptop-element-with-swappable-nuc-11-compute-element/)
+- [Arguing from compassion &lpar;2021&rpar;](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
 - [The GNU Name System](https://www.gnunet.org/en/gns.html)
-- [The EU has quietly provided Morocco with powerful phone hacking systems [French]](https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones)
-- [Handshake – Decentralized naming and certificate authority](https://handshake.org/)
-- [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
+- [The New B-21 Stealth Bomber to Be Revealed Later This Year, Senator Says](https://www.military.com/daily-news/2022/07/22/new-b-21-stealth-bomber-be-revealed-later-year-senator-says.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
