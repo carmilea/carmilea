@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s time to leave the leap second in the past](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)
-- [The Global Housing Market Is Broken, and It’s Dividing Entire Countries](https://www.bloomberglinea.com/2021/09/20/the-global-housing-market-is-broken-and-its-dividing-entire-countries/)
-- [I remember feeling derisive about marketing as a young techie](https://twitter.com/id_aa_carmack/status/1551587190395789312)
-- [An Economy of Overfed Middlemen](https://mattstoller.substack.com/p/a-moat-trajectory)
-- [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/)
+- [FCC fines Charter, LTD Broadband more than $3M for RDOF defaults](https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults)
+- [Ask HN: What technologies have made your life worse?](https://news.ycombinator.com/item?id=32227006)
+- [Fedora to disallow CC0-licensed code](https://lwn.net/Articles/902410/)
+- [Ask HN: I&#39;m in a rut. How did you get out of yours?](https://news.ycombinator.com/item?id=32226910)
+- [Why Academic Freedom Matters &lpar;2021&rpar;](https://ravenmagazine.org/magazine/why-academic-freedom-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
