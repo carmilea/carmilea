@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet Q2 FY2022 Earnings [pdf]](https://abc.xyz/investor/static/pdf/2022Q2_alphabet_earnings_release.pdf)
+- [Hetzner appears to impose unlisted “fair use” on traffic](https://lowendtalk.com/discussion/180504/hetzner-traffic-use-notice-unlimited-unlimited/p1)
+- [A little trick to spam the spammers](https://misc.l3m.in/txt/spam.txt)
+- [Toyota RAV4 Prime hybrid SUV now selling for 48% over MSRP](https://driverbase.com/inventory/new-and-used/toyota/rav4-prime)
 - [CircleCI Announces Support for Gitlab](https://circleci.com/blog/announcing-gitlab-support/)
-- [Retrofitting GDPR Compliance onto Legacy Databases [pdf]](https://vldb.org/pvldb/vol15/p958-george.pdf)
-- [Shipping Multi-Tenant SaaS Using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
-- [Understanding modern Linux routing &lpar;and wg-quick&rpar;](https://ro-che.info/articles/2021-02-27-linux-routing)
-- [Meta is raising the price of the Quest 2 to 400 USD](https://www.oculus.com/blog/meta-quest-2-pricing-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
