@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For Centuries, English Bakers’ Biggest Customers Were Horses](https://www.atlasobscura.com/articles/what-is-horse-bread)
+- [We don&#39;t know how to fix science](https://www.worksinprogress.co/issue/we-dont-know-how-to-fix-science/)
 - [The Last Public Payphone Kiosk on the Streets of New York](https://www.atlasobscura.com/articles/last-public-payphone-new-york-museum)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Alphabet Q2 FY2022 Earnings [pdf]](https://abc.xyz/investor/static/pdf/2022Q2_alphabet_earnings_release.pdf)
-- [Romans may have destroyed Moray metal-working site](https://www.bbc.com/news/articles/cw41ll3dw12o)
-- [Hetzner appears to impose unlisted “fair use” on traffic](https://lowendtalk.com/discussion/180504/hetzner-traffic-use-notice-unlimited-unlimited/p1)
+- [Micron&#39;s 232-layer NAND enables 2TB flash chips that deliver data 50% faster](https://spectrum.ieee.org/micron-is-first-to-deliver-3d-flash-chips-with-more-than-200-layers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
