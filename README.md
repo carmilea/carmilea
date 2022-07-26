@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Propagation of Mistakes in Papers](http://databasearchitects.blogspot.com/2018/06/propagation-of-mistakes-in-papers.html)
+- [Show HN: Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime](https://blueboat.io/)
+- [The Stanley Parable: Ultra Deluxe Review](https://xeiaso.net/blog/stanley-parable)
+- [Propagation of mistakes in papers](http://databasearchitects.blogspot.com/2018/06/propagation-of-mistakes-in-papers.html)
 - [Tor Project – Metrics](https://metrics.torproject.org)
-- [Ask HN: Why are privacy coins like Monero not seeing wide adoption?](https://news.ycombinator.com/item?id=32239796)
-- [How to Structure Your Sales Compensation Plan to Deliberately Undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
-- [Logistics, How Did They Do It, Part I: The Problem](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/)
+- [How to structure your sales compensation plan to deliberately undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
