@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do You Trust Grammarly?](https://news.ycombinator.com/item?id=32236438)
 - [miniexpect: Tiny “expect” library in 500 LoC](https://github.com/rwmjones/miniexpect)
 - [Dicom File Format Basics](https://www.vladsiv.com/dicom-file-format-basics/)
 - [Apple Interview &lpar;1995&rpar;](https://www.engineersneedart.com/blog/interview/interview.html)
-- [TNBL: The Narrow Bank, or how you have no right to have safe deposits](https://www.tnbusa.com/)
 - [Magnasanti – the largest and most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
 <!-- BLOG-POST-LIST:END -->
 
