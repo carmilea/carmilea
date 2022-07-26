@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 - [For Centuries, English Bakers’ Biggest Customers Were Horses](https://www.atlasobscura.com/articles/what-is-horse-bread)
 - [We don&#39;t know how to fix science](https://www.worksinprogress.co/issue/we-dont-know-how-to-fix-science/)
 - [The Last Public Payphone Kiosk on the Streets of New York](https://www.atlasobscura.com/articles/last-public-payphone-new-york-museum)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Micron&#39;s 232-layer NAND enables 2TB flash chips that deliver data 50% faster](https://spectrum.ieee.org/micron-is-first-to-deliver-3d-flash-chips-with-more-than-200-layers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
