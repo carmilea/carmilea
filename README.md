@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RustDesk – The open source TeamViewer alternative](https://github.com/rustdesk/rustdesk)
-- [CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)
-- [Build Pong in Your Terminal with Go for Some Reason](https://earthly.dev/blog/pongo/)
-- [Mullvad is now available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
-- [Ferrocene: Rust toolchain to safety-critical environments](https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/)
+- [Propagation of Mistakes in Papers](http://databasearchitects.blogspot.com/2018/06/propagation-of-mistakes-in-papers.html)
+- [Tor Project – Metrics](https://metrics.torproject.org)
+- [Ask HN: Why are privacy coins like Monero not seeing wide adoption?](https://news.ycombinator.com/item?id=32239796)
+- [How to Structure Your Sales Compensation Plan to Deliberately Undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
+- [Logistics, How Did They Do It, Part I: The Problem](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
