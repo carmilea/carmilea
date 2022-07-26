@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Public Payphone Kiosk on the Streets of New York](https://www.atlasobscura.com/articles/last-public-payphone-new-york-museum)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Alphabet Q2 FY2022 Earnings [pdf]](https://abc.xyz/investor/static/pdf/2022Q2_alphabet_earnings_release.pdf)
+- [Romans may have destroyed Moray metal-working site](https://www.bbc.com/news/articles/cw41ll3dw12o)
 - [Hetzner appears to impose unlisted “fair use” on traffic](https://lowendtalk.com/discussion/180504/hetzner-traffic-use-notice-unlimited-unlimited/p1)
-- [A little trick to spam the spammers](https://misc.l3m.in/txt/spam.txt)
-- [Toyota RAV4 Prime hybrid SUV now selling for 48% over MSRP](https://driverbase.com/inventory/new-and-used/toyota/rav4-prime)
-- [CircleCI Announces Support for Gitlab](https://circleci.com/blog/announcing-gitlab-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
