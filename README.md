@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding modern Linux routing &lpar;and wg-quick&rpar;](https://ro-che.info/articles/2021-02-27-linux-routing)
+- [Meta is raising the price of the Quest 2 to 400 USD](https://www.oculus.com/blog/meta-quest-2-pricing-changes/)
+- [Tesla ransoms car owner remotely by cutting 1/3 of their range](https://twitter.com/wk057/status/1551713024171548672)
 - [Show HN: Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime](https://blueboat.io/)
 - [The Stanley Parable: Ultra Deluxe Review](https://xeiaso.net/blog/stanley-parable)
-- [Propagation of mistakes in papers](http://databasearchitects.blogspot.com/2018/06/propagation-of-mistakes-in-papers.html)
-- [Tor Project – Metrics](https://metrics.torproject.org)
-- [How to structure your sales compensation plan to deliberately undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
