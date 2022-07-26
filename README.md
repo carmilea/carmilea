@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [miniexpect: Tiny “expect” library in 500 LoC](https://github.com/rwmjones/miniexpect)
+- [Dicom File Format Basics](https://www.vladsiv.com/dicom-file-format-basics/)
+- [Apple Interview &lpar;1995&rpar;](https://www.engineersneedart.com/blog/interview/interview.html)
+- [TNBL: The Narrow Bank, or how you have no right to have safe deposits](https://www.tnbusa.com/)
 - [Magnasanti – the largest and most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
-- [Helium has revenues of $6.5k/month after $365M investment from A16Z](https://twitter.com/liron/status/1551738599254773765)
-- [From August 1: Cash transactions above NIS 6k illegal](https://www.israelnationalnews.com/news/357072)
-- [The Danger of Journaling Is Introspection](https://www.bramadams.dev/projects/the-danger-of-journaling-is-introspection)
-- [Job Switchers Are Earning a Lot More Than Those Who Stay](https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
