@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnasanti – the largest and most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
+- [Helium has revenues of $6.5k/month after $365M investment from A16Z](https://twitter.com/liron/status/1551738599254773765)
 - [From August 1: Cash transactions above NIS 6k illegal](https://www.israelnationalnews.com/news/357072)
 - [The Danger of Journaling Is Introspection](https://www.bramadams.dev/projects/the-danger-of-journaling-is-introspection)
 - [Job Switchers Are Earning a Lot More Than Those Who Stay](https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425)
-- [The Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
-- [Saudi Crown Prince unveils plans for $500bn structure to house 9M people](https://twitter.com/Spa_Eng/status/1551627809973485573)
 <!-- BLOG-POST-LIST:END -->
 
 ---
