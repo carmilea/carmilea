@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CircleCI Announces Support for Gitlab](https://circleci.com/blog/announcing-gitlab-support/)
+- [Retrofitting GDPR Compliance onto Legacy Databases [pdf]](https://vldb.org/pvldb/vol15/p958-george.pdf)
+- [Shipping Multi-Tenant SaaS Using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
 - [Understanding modern Linux routing &lpar;and wg-quick&rpar;](https://ro-che.info/articles/2021-02-27-linux-routing)
 - [Meta is raising the price of the Quest 2 to 400 USD](https://www.oculus.com/blog/meta-quest-2-pricing-changes/)
-- [Tesla ransoms car owner remotely by cutting 1/3 of their range](https://twitter.com/wk057/status/1551713024171548672)
-- [Show HN: Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime](https://blueboat.io/)
-- [The Stanley Parable: Ultra Deluxe Review](https://xeiaso.net/blog/stanley-parable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
