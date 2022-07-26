@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RustDesk – The open source TeamViewer alternative](https://github.com/rustdesk/rustdesk)
+- [CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)
 - [Build Pong in Your Terminal with Go for Some Reason](https://earthly.dev/blog/pongo/)
 - [Mullvad is now available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
-- [Shopify to lay off 10% of workers in broad shake-up](https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047)
-- [Why is it so hard to give Google money?](https://paulbutler.org/2022/why-is-it-so-hard-to-give-google-money/)
-- [Universe &lpar;YC W18&rpar; Is Hiring a Staff Front End Web Engineer](https://jobs.lever.co/onuniverse/856fcda5-f043-4fcc-81b3-21b0eef6f644)
+- [Ferrocene: Rust toolchain to safety-critical environments](https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
