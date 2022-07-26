@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A coding error caused Rogers outage that left millions without service](https://web.archive.org/web/20220725181315/https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
-- [‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight](https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/)
-- [I bought a cheap electric pickup truck from Alibaba. Here’s what showed up](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
-- [Featherwiki.com – 2.1MB Compact Multi OS Single Binary Wiki Server](https://codeberg.org/Alamantus/FeatherWiki/issues/58#issuecomment-584161)
-- [Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
+- [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
+- [VRchat bans mods, embraces EAC](https://hello.vrchat.com/blog/vrchat-security-update)
+- [Emoji Kitchen](https://emoji.supply/kitchen/)
+- [How to Hire Good Engineers](https://siliconvict.com/articles/6-how-to-hire-actually-good-engineers)
+- [Princess Mononoke: The masterpiece that flummoxed the US](https://www.bbc.com/culture/article/20220713-princess-mononoke-the-masterpiece-that-flummoxed-the-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
