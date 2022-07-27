@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Federal Reserve to increase interest rates by 75 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm)
-- [Stranger Things is being edited retroactively by Netflix?](https://www.gq-magazine.co.uk/culture/article/stranger-things-netflix-retroactively-editing)
-- [Listerine Royalties](https://invariant.substack.com/p/listerine-royalties-the-origin-story)
-- [Nimble &lpar;YC S17&rpar; is hiring a part-time React/Django SWE &lpar;AI to recruit teachers&rpar;](https://news.ycombinator.com/item?id=32253034)
-- [Using GNU Stow to manage your dotfiles &lpar;2012&rpar;](https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+- [ESG should be boiled down to one simple measure: emissions](https://www.economist.com/leaders/2022/07/21/esg-should-be-boiled-down-to-one-simple-measure-emissions)
+- [Senate passes $250B semiconductor bill with House set to quickly take up measure](https://www.foxnews.com/politics/senate-passes-china-semiconductor-bill-house-set-quickly-take-measure)
+- [Dreamhost Shared Hosting Has Been Down for 3 Days](https://www.dreamhoststatus.com)
+- [What’s the maximum size of a DNS response?](https://www.netmeister.org/blog/dns-size.html)
+- [Instagram knows you don’t like its changes. It doesn’t care](https://www.washingtonpost.com/technology/2022/07/27/instagram-video-shift-kardashian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
