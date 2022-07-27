@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Reports Second Quarter 2022 Results](https://investor.fb.com/investor-news/press-release-details/2022/Meta-Reports-Second-Quarter-2022-Results/default.aspx)
 - [ESG should be boiled down to one simple measure: emissions](https://www.economist.com/leaders/2022/07/21/esg-should-be-boiled-down-to-one-simple-measure-emissions)
 - [Senate passes $250B semiconductor bill with House set to quickly take up measure](https://www.foxnews.com/politics/senate-passes-china-semiconductor-bill-house-set-quickly-take-measure)
-- [Dreamhost Shared Hosting Has Been Down for 3 Days](https://www.dreamhoststatus.com)
 - [What’s the maximum size of a DNS response?](https://www.netmeister.org/blog/dns-size.html)
-- [Instagram knows you don’t like its changes. It doesn’t care](https://www.washingtonpost.com/technology/2022/07/27/instagram-video-shift-kardashian/)
+- [CNIL makes Google Analytics almost illegal in France](https://www.cnil.fr/en/qa-cnils-formal-notices-concerning-use-google-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
