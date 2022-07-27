@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Zoe’ becomes the world’s first named heat wave](https://subscriber.politicopro.com/article/eenews/2022/07/26/zoe-becomes-the-worlds-first-named-heat-wave-00047792)
-- [How the &#39;&amp;&#39; got its name](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
+- [Want to Start Hacking?](https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/)
+- [The History of ‘Ampersand’](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
 - [Aquarium &lpar;YC S20&rpar; is hiring engineers to build the platform for data-centric ML](https://www.aquariumlearning.com/careers)
-- [Nikon Releases Bug Fix Firmware Update for the 10 Years Old D7100 DSLR Camera](https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/)
-- [After Obsidian and Logseq, I give Dendron a try](https://nsirap.com/posts/067-after-obsidian-and-logseq-i-try-dendron/)
+- [Show HN: Birdy – Twitter Profile A/B Testing](https://birdy.so)
+- [Nikon releases bug fix firmware update for the 10 years old D7100 DSLR camera](https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
