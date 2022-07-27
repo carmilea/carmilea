@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adventures in Text Rendering: Kerning and Glyph Atlases](https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases)
+- [We Don&#39;t Do That Here](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
+- [Fourth patient seemingly cured of HIV](https://www.bbc.co.uk/news/health-62312249)
 - [Huanan Seafood Market in Wuhan was early epicenter of the Covid-19 pandemic](https://www.science.org/doi/10.1126/science.abp8715)
 - [Launch HN: Warrant &lpar;YC S21&rpar; – Authorization and access control as a service](https://news.ycombinator.com/item?id=32251305)
-- [Adventures with Deferred Texturing in Horizon Forbidden West](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
-- [James Lovelock Has Died](https://en.wikipedia.org/wiki/James_Lovelock)
-- [ZX Spectrum Next Update 20 – Board comparison, events, editors and dates](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
