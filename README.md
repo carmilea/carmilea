@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
-- [For Centuries, English Bakers’ Biggest Customers Were Horses](https://www.atlasobscura.com/articles/what-is-horse-bread)
-- [We don&#39;t know how to fix science](https://www.worksinprogress.co/issue/we-dont-know-how-to-fix-science/)
-- [The Last Public Payphone Kiosk on the Streets of New York](https://www.atlasobscura.com/articles/last-public-payphone-new-york-museum)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [How to Stop Procrastinating on Your Goals by Using the “Seinfeld Strategy”](https://jamesclear.com/stop-procrastinating-seinfeld-strategy)
+- [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
+- [Facebook&#39;s TikTok-like redesign marks sunset of social networking era](https://www.axios.com/2022/07/25/sunset-social-network-facebook-tiktok)
+- [Twenty years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+- [Please save Hacker Lab](https://tombetthauser.github.io/save-hackerlab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
