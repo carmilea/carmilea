@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Start Hacking?](https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/)
-- [The History of ‘Ampersand’](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
-- [Aquarium &lpar;YC S20&rpar; is hiring engineers to build the platform for data-centric ML](https://www.aquariumlearning.com/careers)
-- [Show HN: Birdy – Twitter Profile A/B Testing](https://birdy.so)
-- [Nikon releases bug fix firmware update for the 10 years old D7100 DSLR camera](https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/)
+- [Fake Dog for Home Security](https://t0.vc/7/)
+- [Google’s Nest Will Provide Data to Police Without a Warrant](https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/)
+- [SQLite Internals: Pages and B-trees](https://fly.io/blog/sqlite-internals-btree/)
+- [RStudio Is Becoming Posit](https://www.rstudio.com/blog/rstudio-is-becoming-posit/)
+- [Ask HN: How to effectively jam audio speakers?](https://news.ycombinator.com/item?id=32250292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
