@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adventures in Text Rendering: Kerning and Glyph Atlases](https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases)
-- [We Don&#39;t Do That Here](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
-- [Fourth patient seemingly cured of HIV](https://www.bbc.co.uk/news/health-62312249)
-- [Huanan Seafood Market in Wuhan was early epicenter of the Covid-19 pandemic](https://www.science.org/doi/10.1126/science.abp8715)
-- [Launch HN: Warrant &lpar;YC S21&rpar; – Authorization and access control as a service](https://news.ycombinator.com/item?id=32251305)
+- [Listerine Royalties](https://invariant.substack.com/p/listerine-royalties-the-origin-story)
+- [P/T React/Django SWE Contract role Nimble &lpar;AI to recruit great teachers&rpar;](https://news.ycombinator.com/item?id=32253034)
+- [Using GNU Stow to manage your dotfiles &lpar;2012&rpar;](https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+- [Programming languages endorsed for server-side use at Meta](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)
+- [Notre Dame Rises Again](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/02/notre-dame-rises-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
