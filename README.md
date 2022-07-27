@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake Dog for Home Security](https://t0.vc/7/)
-- [Google’s Nest Will Provide Data to Police Without a Warrant](https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/)
-- [SQLite Internals: Pages and B-trees](https://fly.io/blog/sqlite-internals-btree/)
-- [RStudio Is Becoming Posit](https://www.rstudio.com/blog/rstudio-is-becoming-posit/)
-- [Ask HN: How to effectively jam audio speakers?](https://news.ycombinator.com/item?id=32250292)
+- [Huanan Seafood Market in Wuhan was early epicenter of the Covid-19 pandemic](https://www.science.org/doi/10.1126/science.abp8715)
+- [Launch HN: Warrant &lpar;YC S21&rpar; – Authorization and access control as a service](https://news.ycombinator.com/item?id=32251305)
+- [Adventures with Deferred Texturing in Horizon Forbidden West](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
+- [James Lovelock Has Died](https://en.wikipedia.org/wiki/James_Lovelock)
+- [ZX Spectrum Next Update 20 – Board comparison, events, editors and dates](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
