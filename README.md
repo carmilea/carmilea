@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help pick a syntax for CSS nesting](https://developer.chrome.com/blog/help-css-nesting/)
 - [An Architecture for Mostly Functional Languages &lpar;1986&rpar; [pdf]](https://web.archive.org/web/20131101085557/http://web.mit.edu/mmt/Public/Knight86.pdf)
 - [Translating a Visual Lego Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
-- [A Tale of Two Mice: Sustainable Electronics Design and Prototyping [pdf]](https://homes.cs.washington.edu/~vsiyer/Papers/biomouse-chi22.pdf)
 - [A Retrospective on the 2015 Ashley Madison Breach](https://krebsonsecurity.com/2022/07/a-retrospective-on-the-2015-ashley-madison-breach/)
 - [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
 <!-- BLOG-POST-LIST:END -->
