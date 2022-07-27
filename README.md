@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Federal Reserve to increase interest rates by 75 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm)
+- [Stranger Things is being edited retroactively by Netflix?](https://www.gq-magazine.co.uk/culture/article/stranger-things-netflix-retroactively-editing)
 - [Listerine Royalties](https://invariant.substack.com/p/listerine-royalties-the-origin-story)
-- [P/T React/Django SWE Contract role Nimble &lpar;AI to recruit great teachers&rpar;](https://news.ycombinator.com/item?id=32253034)
+- [Nimble &lpar;YC S17&rpar; is hiring a part-time React/Django SWE &lpar;AI to recruit teachers&rpar;](https://news.ycombinator.com/item?id=32253034)
 - [Using GNU Stow to manage your dotfiles &lpar;2012&rpar;](https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-- [Programming languages endorsed for server-side use at Meta](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)
-- [Notre Dame Rises Again](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/02/notre-dame-rises-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
