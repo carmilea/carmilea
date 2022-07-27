@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is there a bubble in the tech market? Is it about to explode?](https://news.ycombinator.com/item?id=32248750)
+- [‘Zoe’ becomes the world’s first named heat wave](https://subscriber.politicopro.com/article/eenews/2022/07/26/zoe-becomes-the-worlds-first-named-heat-wave-00047792)
+- [How the &#39;&amp;&#39; got its name](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
+- [Aquarium &lpar;YC S20&rpar; is hiring engineers to build the platform for data-centric ML](https://www.aquariumlearning.com/careers)
+- [Nikon Releases Bug Fix Firmware Update for the 10 Years Old D7100 DSLR Camera](https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/)
 - [After Obsidian and Logseq, I give Dendron a try](https://nsirap.com/posts/067-after-obsidian-and-logseq-i-try-dendron/)
-- [Help pick a syntax for CSS nesting](https://developer.chrome.com/blog/help-css-nesting/)
-- [You can read my blog posts using curl](https://mahdi.blog/raw-permalinks-for-accessibility/)
-- [An Architecture for Mostly Functional Languages &lpar;1986&rpar; [pdf]](https://web.archive.org/web/20131101085557/http://web.mit.edu/mmt/Public/Knight86.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
