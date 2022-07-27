@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York City Is a Lot Safer Than Small-Town America](https://www.bloomberg.com/opinion/articles/2022-06-07/is-new-york-city-more-dangerous-than-rural-america)
+- [Translating a Visual Lego Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
 - [A Tale of Two Mice: Sustainable Electronics Design and Prototyping [pdf]](https://homes.cs.washington.edu/~vsiyer/Papers/biomouse-chi22.pdf)
+- [A Retrospective on the 2015 Ashley Madison Breach](https://krebsonsecurity.com/2022/07/a-retrospective-on-the-2015-ashley-madison-breach/)
 - [How to Stop Procrastinating on Your Goals by Using the “Seinfeld Strategy”](https://jamesclear.com/stop-procrastinating-seinfeld-strategy)
 - [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
-- [Facebook&#39;s TikTok-like redesign marks sunset of social networking era](https://www.axios.com/2022/07/25/sunset-social-network-facebook-tiktok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
