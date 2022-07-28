@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Director of Engineering](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
-- [Man wakes up after night on sleeper train to find it never left Glasgow](https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere)
-- [AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
-- [Mission to reach and operate at the focal region of the solar gravitational lens](https://arxiv.org/abs/2207.03005)
-- [I&#39;ve Been Targeted with the Most Vicious Corporate Counterattack in US History](https://www.esquire.com/news-politics/a35812573/steven-donziger-chevron-house-arrest/)
+- [StackOverflow Is Having Issues](https://www.stackstatus.net/)
+- [Martin Kersten, creator of MonetDB, has died](https://www.cwi.nl/news/2022/in-memoriam-martin-kersten)
+- [U.S. economy just had a 2nd quarter of negative growth. Is it in a recession?](https://www.npr.org/2022/07/28/1113649843/gdp-2q-economy-2022-recession-two-quarters)
+- [Swift Proposal: Move Function](https://github.com/apple/swift-evolution/blob/main/proposals/0366-move-function.md)
+- [Mark Zuckerberg ‘visibly frustrated’ over worker’s vacation question](https://nypost.com/2022/07/26/mark-zuckerberg-visibly-frustrated-over-vacation-question-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
