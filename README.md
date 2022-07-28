@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SSD drives’ 40k-hour “death bug” continues to catch enterprises unawares](https://thestack.technology/ssd-death-bug-40000-hours-sandisk/)
-- [I Designed My Own 16-Bit CPU](https://www.youtube.com/watch?v=Zt0JfmV7CyI)
+- [The Best iPhone](https://notes.ghed.in/posts/the-best-iphone/)
+- [GL_EXT_fragment_shader_barycentric: Wireframe](https://wunkolo.github.io/post/2022/07/gl_ext_fragment_shader_barycentric-wireframe/)
+- [I Designed My Own 16-Bit CPU [video]](https://www.youtube.com/watch?v=Zt0JfmV7CyI)
 - [Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/)
 - [Show HN: TensorDock Core GPU Cloud – GPU servers from $0.29/hr](https://www.tensordock.com/product-core)
-- [On “A Canticle for Leibowitz”](http://www.loukidelis.com/canticle-for-leibowitz.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
