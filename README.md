@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unplugged Phone Mysteries](https://pxlnv.com/blog/unplugged-mysteries/)
-- [Ask HN: At which moment did you realise that you are built for computer science?](https://news.ycombinator.com/item?id=32264145)
-- [StackOverflow Is Having Issues](https://www.stackstatus.net/)
-- [Martin Kersten, creator of MonetDB, has died](https://www.cwi.nl/news/2022/in-memoriam-martin-kersten)
-- [That time when I accidentally social engineered myself to a film set](https://nibblestew.blogspot.com/2022/07/that-time-when-i-accidentally-social.html)
+- [Godot 4.0 development enters feature freeze ahead of the first beta](https://godotengine.org/article/godot-4-0-development-enters-feature-freeze)
+- [My newsletter is making $2k per month with 7k subscribers – AMA](https://news.ycombinator.com/item?id=32265223)
+- [House Democrats to propose in August ban on lawmaker stock trading – report](https://seekingalpha.com/news/3862127-house-democrats-to-propose-stock-trading-ban-in-august-report)
+- [Eating meat is good, says the philosopher](https://erikhoel.substack.com/p/eating-meat-is-good-says-the-philosopher)
+- [Yes, social media is undermining democracy](https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
