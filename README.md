@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Introduces Nudity Check for iMessage](https://support.apple.com/en-euro/HT212850)
+- [Tell HN: Collection of the some top HN Posts](https://gist.github.com/sachinsmc/2d2e86743204f4c6d16135406f8401c4)
 - [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
-- [West London faces new home ban as electric grid at capacity due to data centres](https://www.ft.com/content/519f701f-6a05-4cf4-bc46-22cf10c7c2c0)
+- [My Criteria for Picking Startup Ideas](https://news.ycombinator.com/item?id=32261464)
 - [A Framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 - [Evidence for behavioural interventions looks increasingly shaky](https://www.economist.com/science-and-technology/2022/07/27/evidence-for-behavioural-interventions-looks-increasingly-shaky)
 <!-- BLOG-POST-LIST:END -->
