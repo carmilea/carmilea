@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultra-minimal JSON schemas with TypeScript inference](https://github.com/ar-nelson/spartan-schema)
 - [Rust Is Actually Portable](https://ahgamut.github.io/2022/07/27/ape-rust-example/)
 - [The Harry Potter Fallacy](https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/)
 - [HypeScript: Simplified TypeScript type system in TypeScript&#39;s own type system](https://github.com/ronami/HypeScript)
 - [Druid: A Real-Time Analytical Data Store](https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html)
-- [Flipping until you are lost](https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
