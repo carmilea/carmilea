@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mission to reach and operate at the focal region of the solar gravitational lens](https://arxiv.org/abs/2207.03005)
+- [TIFU by using Stripe as a payment processor for my small business](https://old.reddit.com/r/tifu/comments/wa230m/tifu_by_using_stripe_as_a_payment_processor_for/)
 - [Tell HN: Collection of the some top HN Posts](https://gist.github.com/sachinsmc/2d2e86743204f4c6d16135406f8401c4)
 - [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
 - [My Criteria for Picking Startup Ideas](https://news.ycombinator.com/item?id=32261464)
-- [A Framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
-- [Evidence for behavioural interventions looks increasingly shaky](https://www.economist.com/science-and-technology/2022/07/27/evidence-for-behavioural-interventions-looks-increasingly-shaky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
