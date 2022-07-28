@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Folklore of ClarisWorks](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
+- [EdgeDB 2.0](https://www.edgedb.com/blog/edgedb-2-0)
+- [FBI is hiding details about a raid on Americans’ safe deposit boxes](https://reason.com/2022/07/26/what-is-the-fbi-hiding-about-its-raid-on-innocent-americans-safe-deposit-boxes/)
 - [AWS us-east-2 outage](https://news.ycombinator.com/item?id=32267222)
 - [AWS us-east-2 outage](https://status.zoom.us)
-- [UPchieve &lpar;EdTech Nonprofit, YC W21&rpar; is hiring senior engineers](https://upchieve.welcomekit.co/)
-- [AI Coding with CodeRL: Toward Mastering Program Synthesis with Deep RL](https://blog.salesforceairesearch.com/coderl/)
-- [Using linear algebra to convert a large code model](https://gist.github.com/moyix/7896575befbe1b99162ccfec8d135566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
