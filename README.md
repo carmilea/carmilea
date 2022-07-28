@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should a professional software dev know how many bits go in a byte?](https://news.ycombinator.com/item?id=32261590)
+- [Apple Introduces Nudity Check for iMessage](https://support.apple.com/en-euro/HT212850)
 - [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
 - [West London faces new home ban as electric grid at capacity due to data centres](https://www.ft.com/content/519f701f-6a05-4cf4-bc46-22cf10c7c2c0)
 - [A Framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
