@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unplugged Phone Mysteries](https://pxlnv.com/blog/unplugged-mysteries/)
+- [Ask HN: At which moment did you realise that you are built for computer science?](https://news.ycombinator.com/item?id=32264145)
 - [StackOverflow Is Having Issues](https://www.stackstatus.net/)
 - [Martin Kersten, creator of MonetDB, has died](https://www.cwi.nl/news/2022/in-memoriam-martin-kersten)
-- [U.S. economy just had a 2nd quarter of negative growth. Is it in a recession?](https://www.npr.org/2022/07/28/1113649843/gdp-2q-economy-2022-recession-two-quarters)
-- [Swift Proposal: Move Function](https://github.com/apple/swift-evolution/blob/main/proposals/0366-move-function.md)
-- [Mark Zuckerberg ‘visibly frustrated’ over worker’s vacation question](https://nypost.com/2022/07/26/mark-zuckerberg-visibly-frustrated-over-vacation-question-report/)
+- [That time when I accidentally social engineered myself to a film set](https://nibblestew.blogspot.com/2022/07/that-time-when-i-accidentally-social.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
