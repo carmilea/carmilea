@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot 4.0 development enters feature freeze ahead of the first beta](https://godotengine.org/article/godot-4-0-development-enters-feature-freeze)
-- [My newsletter is making $2k per month with 7k subscribers – AMA](https://news.ycombinator.com/item?id=32265223)
-- [House Democrats to propose in August ban on lawmaker stock trading – report](https://seekingalpha.com/news/3862127-house-democrats-to-propose-stock-trading-ban-in-august-report)
-- [Eating meat is good, says the philosopher](https://erikhoel.substack.com/p/eating-meat-is-good-says-the-philosopher)
-- [Yes, social media is undermining democracy](https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/)
+- [The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2](https://www.science.org/doi/10.1126/science.abp8337)
+- [Visualization of Amazon, Apple, Alphabet, and Microsoft’s Consumer Product Lines](https://www.papercutslibrary.com/process-notes/a-non-exhaustive-yet-fairly-thorough-view-of-big-tech-via-amazon-apple-alphabet-and-microsofts-consumer-product-lines/)
+- [Open-source API to generate PDF invoices](https://www.getlago.com/blog/generating-pdf-invoices-using-lago)
+- [Show HN: Parsnip – “Duolingo for Cooking”](https://www.parsnip.ai/)
+- [Developers are burned out, quitting jobs and creating a crisis for recruiters](https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
