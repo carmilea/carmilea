@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2](https://www.science.org/doi/10.1126/science.abp8337)
-- [Visualization of Amazon, Apple, Alphabet, and Microsoft’s Consumer Product Lines](https://www.papercutslibrary.com/process-notes/a-non-exhaustive-yet-fairly-thorough-view-of-big-tech-via-amazon-apple-alphabet-and-microsofts-consumer-product-lines/)
-- [Open-source API to generate PDF invoices](https://www.getlago.com/blog/generating-pdf-invoices-using-lago)
-- [Show HN: Parsnip – “Duolingo for Cooking”](https://www.parsnip.ai/)
-- [Developers are burned out, quitting jobs and creating a crisis for recruiters](https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/)
+- [AWS us-east-2 outage](https://news.ycombinator.com/item?id=32267222)
+- [AWS us-east-2 outage](https://status.zoom.us)
+- [UPchieve &lpar;EdTech Nonprofit, YC W21&rpar; is hiring senior engineers](https://upchieve.welcomekit.co/)
+- [AI Coding with CodeRL: Toward Mastering Program Synthesis with Deep RL](https://blog.salesforceairesearch.com/coderl/)
+- [Using linear algebra to convert a large code model](https://gist.github.com/moyix/7896575befbe1b99162ccfec8d135566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
