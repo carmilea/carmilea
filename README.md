@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HypeScript: Simplified TypeScript type system in TypeScript&#39;s own type system](https://github.com/ronami/HypeScript)
+- [Druid: A Real-Time Analytical Data Store](https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html)
 - [ShotSpotter requests to be held in contempt rather than disclose its methodology](https://chicagoreader.com/news-politics/shotspotter-held-in-contempt-of-court/)
 - [Flipping until you are lost](https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html)
-- [Inferior Is Better](https://parentheticallyspeaking.org/articles/inferior-is-better/)
-- [Mitsuba 3 Physically Based Renderer](http://www.mitsuba-renderer.org)
-- [How Graphviz thinks the USA is laid out &lpar;2021&rpar;](https://shitpost.plover.com/g/graphviz-usa.html)
+- [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
