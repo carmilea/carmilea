@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Director of Engineering](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
+- [Man wakes up after night on sleeper train to find it never left Glasgow](https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere)
+- [AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
 - [Mission to reach and operate at the focal region of the solar gravitational lens](https://arxiv.org/abs/2207.03005)
-- [TIFU by using Stripe as a payment processor for my small business](https://old.reddit.com/r/tifu/comments/wa230m/tifu_by_using_stripe_as_a_payment_processor_for/)
-- [Tell HN: Collection of the some top HN Posts](https://gist.github.com/sachinsmc/2d2e86743204f4c6d16135406f8401c4)
-- [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
-- [My Criteria for Picking Startup Ideas](https://news.ycombinator.com/item?id=32261464)
+- [I&#39;ve Been Targeted with the Most Vicious Corporate Counterattack in US History](https://www.esquire.com/news-politics/a35812573/steven-donziger-chevron-house-arrest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
