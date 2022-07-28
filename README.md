@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The British Library Has a Vulgar Dictionary – You Can Learn a Lot from Slang](https://www.atlasobscura.com/articles/grose-dicitionary-vulgar-tongue-british-library)
+- [Rebellion at DataRobot over insider stock sales](https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot)
 - [Folklore of ClarisWorks](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
 - [EdgeDB 2.0](https://www.edgedb.com/blog/edgedb-2-0)
 - [FBI is hiding details about a raid on Americans’ safe deposit boxes](https://reason.com/2022/07/26/what-is-the-fbi-hiding-about-its-raid-on-innocent-americans-safe-deposit-boxes/)
-- [AWS us-east-2 outage](https://news.ycombinator.com/item?id=32267222)
-- [AWS us-east-2 outage](https://status.zoom.us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
