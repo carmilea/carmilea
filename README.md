@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOMO is disastrous for company strategies](https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/)
-- [WebContainers are now supported in Firefox on desktop and Android](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/)
-- [Rebellion at DataRobot over insider stock sales](https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot)
-- [Folklore of ClarisWorks](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
-- [Execline – an interpreter-less scripting language](http://skarnet.org/software/execline/)
+- [SSD drives’ 40k-hour “death bug” continues to catch enterprises unawares](https://thestack.technology/ssd-death-bug-40000-hours-sandisk/)
+- [I Designed My Own 16-Bit CPU](https://www.youtube.com/watch?v=Zt0JfmV7CyI)
+- [Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/)
+- [Show HN: TensorDock Core GPU Cloud – GPU servers from $0.29/hr](https://www.tensordock.com/product-core)
+- [On “A Canticle for Leibowitz”](http://www.loukidelis.com/canticle-for-leibowitz.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
