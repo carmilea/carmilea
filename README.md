@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOMO Is Disastrous for Company Strategies](https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/)
+- [FOMO is disastrous for company strategies](https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/)
 - [WebContainers are now supported in Firefox on desktop and Android](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/)
 - [Rebellion at DataRobot over insider stock sales](https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot)
 - [Folklore of ClarisWorks](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
