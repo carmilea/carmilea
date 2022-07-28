@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google delays phasing out ad cookies on Chrome until 2024](https://www.bloomberg.com/news/articles/2022-07-27/google-delays-phasing-out-ad-cookies-on-chrome-until-2024)
-- [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
-- [Meta Reports Second Quarter 2022 Results](https://investor.fb.com/investor-news/press-release-details/2022/Meta-Reports-Second-Quarter-2022-Results/default.aspx)
-- [Upgrading from Debian Jessie to Bullseye after nearly 30 years](https://diziet.dreamwidth.org/11840.html)
-- [ESG should be boiled down to one simple measure: emissions](https://www.economist.com/leaders/2022/07/21/esg-should-be-boiled-down-to-one-simple-measure-emissions)
+- [ShotSpotter requests to be held in contempt rather than disclose its methodology](https://chicagoreader.com/news-politics/shotspotter-held-in-contempt-of-court/)
+- [Flipping until you are lost](https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html)
+- [Inferior Is Better](https://parentheticallyspeaking.org/articles/inferior-is-better/)
+- [Mitsuba 3 Physically Based Renderer](http://www.mitsuba-renderer.org)
+- [How Graphviz thinks the USA is laid out &lpar;2021&rpar;](https://shitpost.plover.com/g/graphviz-usa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
