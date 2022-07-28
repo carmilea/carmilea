@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Should a professional software dev know how many bits go in a byte?](https://news.ycombinator.com/item?id=32261590)
+- [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
+- [West London faces new home ban as electric grid at capacity due to data centres](https://www.ft.com/content/519f701f-6a05-4cf4-bc46-22cf10c7c2c0)
+- [A Framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 - [Evidence for behavioural interventions looks increasingly shaky](https://www.economist.com/science-and-technology/2022/07/27/evidence-for-behavioural-interventions-looks-increasingly-shaky)
-- [Ultra-minimal JSON schemas with TypeScript inference](https://github.com/ar-nelson/spartan-schema)
-- [Rust Is Actually Portable](https://ahgamut.github.io/2022/07/27/ape-rust-example/)
-- [The Harry Potter Fallacy](https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/)
-- [HypeScript: Simplified TypeScript type system in TypeScript&#39;s own type system](https://github.com/ronami/HypeScript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
