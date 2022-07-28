@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The British Library Has a Vulgar Dictionary – You Can Learn a Lot from Slang](https://www.atlasobscura.com/articles/grose-dicitionary-vulgar-tongue-british-library)
+- [FOMO Is Disastrous for Company Strategies](https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/)
+- [WebContainers are now supported in Firefox on desktop and Android](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/)
 - [Rebellion at DataRobot over insider stock sales](https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot)
 - [Folklore of ClarisWorks](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
-- [EdgeDB 2.0](https://www.edgedb.com/blog/edgedb-2-0)
-- [FBI is hiding details about a raid on Americans’ safe deposit boxes](https://reason.com/2022/07/26/what-is-the-fbi-hiding-about-its-raid-on-innocent-americans-safe-deposit-boxes/)
+- [Execline – an interpreter-less scripting language](http://skarnet.org/software/execline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
