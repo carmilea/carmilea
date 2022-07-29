@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
-- [‘Voyager on steroids.’ Mission would probe region beyond our Solar System](https://www.science.org/content/article/voyager-steroids-mission-probe-mysterious-region-beyond-solar-system)
-- [Why the Windows Registry sucks technically &lpar;2010&rpar;](https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/)
-- [Undersea eruption filled atmosphere with water – Science – AAAS](https://www.science.org/content/article/massive-undersea-eruption-filled-atmosphere-water)
-- [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people)
+- [Reference Count, Don&#39;t Garbage Collect](https://kevinlawler.com/refcount)
+- [How I successfully became a software engineer in 3 months](https://www.blog.edmondhui.com/software-engineer-in-3-months)
+- [200TB SSDs could come soon thanks to Micron&#39;s new chip](https://www.techradar.com/news/200tb-ssds-could-come-soon-thanks-to-microns-new-chip)
+- [Rumor: Google Stadia May Be Getting Shut Down](https://gamerant.com/rumor-google-stadia-shut-down/)
+- [How we renamed our Design Converter to Magical Ass](https://news.ycombinator.com/item?id=32276120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
