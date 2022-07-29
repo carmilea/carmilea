@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ambition as an Anxiety Disorder](https://moontower.substack.com/p/moontower-154)
-- [Apple Pay works in non-Safari browsers in iOS 16 Beta 3](https://news.ycombinator.com/item?id=32280325)
-- [Project Euler on a Microcontroller](https://shawnnapora.github.io/blog/2022/07/29/euler-on-micro/)
-- [Cfplot – Generate waterfall graphs of CloudFormation](https://github.com/jaredtrog/cfplot)
-- [Pachyderm &lpar;YC W15&rpar; is hiring React, Go devs to build reproducible data pipelines](https://www.pachyderm.com/careers/#positions)
+- [How to Start a Project: An Infocomic](https://www.autodidacts.io/how-to-start-a-project/)
+- [Wordris](https://mwenge.github.io/wordris/)
+- [911 Proxy Service Implodes After Disclosing Breach](https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/)
+- [Kitsault, Canada’s $50M 1980s ghost town](https://justinmcelroy.com/2022/07/26/visiting-canadas-50-million-1980s-ghost-town/)
+- [Ambition as an anxiety disorder](https://moontower.substack.com/p/moontower-154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
