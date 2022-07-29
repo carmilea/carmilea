@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reference Count, Don&#39;t Garbage Collect](https://kevinlawler.com/refcount)
+- [“Tactical” Infiltrated Everyday Life](https://www.gearpatrol.com/style/a39125064/tactical-clothing/)
+- [Filesystem hierarchy standard &lpar;2013&rpar;](https://www.pathname.com/fhs/)
+- [Scientists discover new “origins of life” chemical reactions](https://www.scripps.edu/news-and-events/press-room/2022/20220728-krishnamurthy-origins-of-life-chemical-reactions.html)
+- [The Rise and Fall of Micron Computers](https://dfarq.homeip.net/micron-computers-rise-and-fall/)
 - [200TB SSDs could come soon thanks to Micron&#39;s new chip](https://www.techradar.com/news/200tb-ssds-could-come-soon-thanks-to-microns-new-chip)
-- [Rumor: Google Stadia May Be Getting Shut Down](https://gamerant.com/rumor-google-stadia-shut-down/)
-- [How we renamed our Design Converter to Magical Ass](https://news.ycombinator.com/item?id=32276120)
-- [Scientists have finally found the potential “cure” for baldness](https://www.independent.co.uk/life-style/health-and-families/male-pattern-baldness-treatment-cure-scientists-b2133793.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
