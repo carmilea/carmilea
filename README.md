@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tabler: Free and open source dashboard HTML/CSS framework](https://github.com/tabler/tabler)
-- [Distributed SQL “Workspaces” Power Modern Applications](https://www.singlestore.com/blog/distributed-sql-workspaces-power-modern-applications)
-- [Build Your Own Web Framework](https://vercel.com/blog/build-your-own-web-framework)
-- [Binary Translators for Weak Memory Model Architectures](https://binary-translation.github.io/index.html)
-- [America&#39;s new favorite pastime: The lottery](https://www.axios.com/2022/07/29/mega-million-drawing-lottery-jackpot-us)
+- [Pachyderm &lpar;YC W15&rpar; is hiring React, Go devs to build reproducible data pipelines](https://www.pachyderm.com/careers/#positions)
+- [Random: Implement Getrandom&lpar;&rpar; in VDSO](https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/)
+- [Show HN: Doxx Me – See how doxxable your phone number is](https://app.efani.com/doxx/hackernews/)
+- [David Foster Wallace’s final attempt to make art moral](https://www.newyorker.com/books/under-review/david-foster-wallaces-final-attempt-to-make-art-moral)
+- [Timsort – the fastest sorting algorithm you’ve never heard of](https://skerritt.blog/timsort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
