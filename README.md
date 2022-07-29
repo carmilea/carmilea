@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pachyderm &lpar;YC W15&rpar; is hiring React, Go devs to build reproducible data pipelines](https://www.pachyderm.com/careers/#positions)
-- [Random: Implement Getrandom&lpar;&rpar; in VDSO](https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/)
+- [Appetite for Destruction: Indigenous Americans knew how to avoid starvation](https://www.laphamsquarterly.org/roundtable/appetite-destruction)
+- [Linux RNG RFC Patch: implement getrandom&lpar;&rpar; in vDSO](https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/)
 - [Show HN: Doxx Me – See how doxxable your phone number is](https://app.efani.com/doxx/hackernews/)
 - [David Foster Wallace’s final attempt to make art moral](https://www.newyorker.com/books/under-review/david-foster-wallaces-final-attempt-to-make-art-moral)
-- [Timsort – the fastest sorting algorithm you’ve never heard of](https://skerritt.blog/timsort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
