@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
+- [‘Voyager on steroids.’ Mission would probe region beyond our Solar System](https://www.science.org/content/article/voyager-steroids-mission-probe-mysterious-region-beyond-solar-system)
 - [Why the Windows Registry sucks technically &lpar;2010&rpar;](https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/)
-- [I don&#39;t have notifications enabled, nowhere and never](https://news.ycombinator.com/item?id=32274344)
+- [Undersea eruption filled atmosphere with water – Science – AAAS](https://www.science.org/content/article/massive-undersea-eruption-filled-atmosphere-water)
 - [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people)
-- [Phrases in computing that might need retiring](https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/)
-- [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
