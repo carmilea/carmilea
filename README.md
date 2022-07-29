@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Tactical” Infiltrated Everyday Life](https://www.gearpatrol.com/style/a39125064/tactical-clothing/)
-- [Filesystem hierarchy standard &lpar;2013&rpar;](https://www.pathname.com/fhs/)
-- [Scientists discover new “origins of life” chemical reactions](https://www.scripps.edu/news-and-events/press-room/2022/20220728-krishnamurthy-origins-of-life-chemical-reactions.html)
-- [The Rise and Fall of Micron Computers](https://dfarq.homeip.net/micron-computers-rise-and-fall/)
-- [200TB SSDs could come soon thanks to Micron&#39;s new chip](https://www.techradar.com/news/200tb-ssds-could-come-soon-thanks-to-microns-new-chip)
+- [Tabler: Free and open source dashboard HTML/CSS framework](https://github.com/tabler/tabler)
+- [Distributed SQL “Workspaces” Power Modern Applications](https://www.singlestore.com/blog/distributed-sql-workspaces-power-modern-applications)
+- [Build Your Own Web Framework](https://vercel.com/blog/build-your-own-web-framework)
+- [Binary Translators for Weak Memory Model Architectures](https://binary-translation.github.io/index.html)
+- [America&#39;s new favorite pastime: The lottery](https://www.axios.com/2022/07/29/mega-million-drawing-lottery-jackpot-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
