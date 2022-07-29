@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- [How to Start a Project: An Infocomic](https://www.autodidacts.io/how-to-start-a-project/)
-- [A media-fueled social panic over unmarked graves](https://quillette.com/2022/07/22/how-fake-news-in-the-new-york-times-led-to-a-canadian-social-panic-over-unmarked-graves/)
+- [Padlet &lpar;YC W13&rpar; is hiring in SF to build software for a good education](https://padlet.jobs)
+- [Knuth changes his mind on Bernoulli number B_1](https://www-cs-faculty.stanford.edu/~knuth/news22.html)
+- [Build Unix, Not Uber](https://thesephist.com/posts/legacy/)
+- [Photovoltaic Solar Panels &lpar;1905&rpar;](https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html)
 - [Wordris](https://mwenge.github.io/wordris/)
-- [911 Proxy Service Implodes After Disclosing Breach](https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
