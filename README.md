@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reference Count, Don&#39;t Garbage Collect](https://kevinlawler.com/refcount)
-- [How I successfully became a software engineer in 3 months](https://www.blog.edmondhui.com/software-engineer-in-3-months)
 - [200TB SSDs could come soon thanks to Micron&#39;s new chip](https://www.techradar.com/news/200tb-ssds-could-come-soon-thanks-to-microns-new-chip)
 - [Rumor: Google Stadia May Be Getting Shut Down](https://gamerant.com/rumor-google-stadia-shut-down/)
 - [How we renamed our Design Converter to Magical Ass](https://news.ycombinator.com/item?id=32276120)
+- [Scientists have finally found the potential “cure” for baldness](https://www.independent.co.uk/life-style/health-and-families/male-pattern-baldness-treatment-cure-scientists-b2133793.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
