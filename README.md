@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 - [How to Start a Project: An Infocomic](https://www.autodidacts.io/how-to-start-a-project/)
+- [A media-fueled social panic over unmarked graves](https://quillette.com/2022/07/22/how-fake-news-in-the-new-york-times-led-to-a-canadian-social-panic-over-unmarked-graves/)
 - [Wordris](https://mwenge.github.io/wordris/)
 - [911 Proxy Service Implodes After Disclosing Breach](https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/)
-- [Kitsault, Canada’s $50M 1980s ghost town](https://justinmcelroy.com/2022/07/26/visiting-canadas-50-million-1980s-ghost-town/)
-- [Ambition as an anxiety disorder](https://moontower.substack.com/p/moontower-154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
