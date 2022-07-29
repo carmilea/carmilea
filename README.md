@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok and the Fall of the Social-Media Giants](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants)
+- [UK tech industry valued at $1tn, becoming third country to hit milestone](https://www.uktech.news/news/industry-analysis/uk-tech-industry-valued-1tn-20220329)
+- [Out of the Matrix: Early Days of the Web &lpar;1991&rpar;](https://blog.yax.com/posts/early-days-of-the-web-1991/)
+- [NIST announces preliminary winners of post-quantum competition](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition)
 - [A complete guide to creating actually useful courses](https://schoolmaker.com/course-creation-guide)
-- [Buttery Smooth “10fps”](https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/)
-- [IPv6 Only Cloud Server](https://v6node.com)
-- [Asus Zenfone 9](https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/)
+- [How to freaking hire great developers by having them read code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
