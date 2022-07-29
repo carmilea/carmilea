@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best iPhone](https://notes.ghed.in/posts/the-best-iphone/)
-- [GL_EXT_fragment_shader_barycentric: Wireframe](https://wunkolo.github.io/post/2022/07/gl_ext_fragment_shader_barycentric-wireframe/)
-- [I Designed My Own 16-Bit CPU [video]](https://www.youtube.com/watch?v=Zt0JfmV7CyI)
-- [Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/)
-- [Show HN: TensorDock Core GPU Cloud – GPU servers from $0.29/hr](https://www.tensordock.com/product-core)
+- [IPv6 Only Cloud Server](https://v6node.com)
+- [Asus Zenfone 9](https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/)
+- [Overview of Consistency Levels in Database Systems](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html)
+- [Nbdev: Create delightful software with Jupyter Notebooks](https://nbdev.fast.ai/)
+- [Is the Kalman filter just a low-pass filter?](https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
