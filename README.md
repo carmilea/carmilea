@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Democrats revive the fight for net neutrality](https://www.theverge.com/2022/7/28/23282483/net-neutrality-ed-markey-bill-fcc-regulations-telecom-broadband-internet)
+- [TikTok and the Fall of the Social-Media Giants](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants)
+- [A complete guide to creating actually useful courses](https://schoolmaker.com/course-creation-guide)
 - [Buttery Smooth “10fps”](https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/)
 - [IPv6 Only Cloud Server](https://v6node.com)
 - [Asus Zenfone 9](https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/)
-- [Overview of Consistency Levels in Database Systems](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
