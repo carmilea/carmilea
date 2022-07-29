@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition as an Anxiety Disorder](https://moontower.substack.com/p/moontower-154)
+- [Apple Pay works in non-Safari browsers in iOS 16 Beta 3](https://news.ycombinator.com/item?id=32280325)
+- [Project Euler on a Microcontroller](https://shawnnapora.github.io/blog/2022/07/29/euler-on-micro/)
+- [Cfplot – Generate waterfall graphs of CloudFormation](https://github.com/jaredtrog/cfplot)
 - [Pachyderm &lpar;YC W15&rpar; is hiring React, Go devs to build reproducible data pipelines](https://www.pachyderm.com/careers/#positions)
-- [Appetite for Destruction: Indigenous Americans knew how to avoid starvation](https://www.laphamsquarterly.org/roundtable/appetite-destruction)
-- [Linux RNG RFC Patch: implement getrandom&lpar;&rpar; in vDSO](https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/)
-- [Show HN: Doxx Me – See how doxxable your phone number is](https://app.efani.com/doxx/hackernews/)
-- [David Foster Wallace’s final attempt to make art moral](https://www.newyorker.com/books/under-review/david-foster-wallaces-final-attempt-to-make-art-moral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
