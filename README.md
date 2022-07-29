@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying the hacker / engineering mindset to Spirituality](https://news.ycombinator.com/item?id=32273711)
+- [Phrases in computing that might need retiring](https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/)
+- [Seven megatrends that will shape the next 20 years](https://www.csiro.au/en/news/news-releases/2022/seven-megatrends-that-will-shape-the-next-20-years)
+- [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
 - [Out of the Matrix: Early Days of the Web &lpar;2020&rpar;](https://blog.yax.com/posts/early-days-of-the-web-1991/)
 - [NIST announces preliminary winners of post-quantum competition](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition)
-- [A complete guide to creating actually useful courses](https://schoolmaker.com/course-creation-guide)
-- [Buttery Smooth “10fps” &lpar;2020&rpar;](https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
