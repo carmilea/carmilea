@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clojure Web Development Evolved [video]](https://www.youtube.com/watch?v=DFzukK5-rpU)
+- [IR Decoding with BPF](https://lwn.net/Articles/759188/)
 - [Padlet &lpar;YC W13&rpar; is hiring in SF to build software for a good education](https://padlet.jobs)
 - [Knuth changes his mind on Bernoulli number B_1](https://www-cs-faculty.stanford.edu/~knuth/news22.html)
 - [Build Unix, Not Uber](https://thesephist.com/posts/legacy/)
-- [Photovoltaic Solar Panels &lpar;1905&rpar;](https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html)
-- [Wordris](https://mwenge.github.io/wordris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
