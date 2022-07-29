@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t have notifications enabled, nowhere and never](https://news.ycombinator.com/item?id=32274344)
+- [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people)
 - [Phrases in computing that might need retiring](https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/)
 - [Seven megatrends that will shape the next 20 years](https://www.csiro.au/en/news/news-releases/2022/seven-megatrends-that-will-shape-the-next-20-years)
 - [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
-- [Out of the Matrix: Early Days of the Web &lpar;2020&rpar;](https://blog.yax.com/posts/early-days-of-the-web-1991/)
-- [NIST announces preliminary winners of post-quantum competition](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
