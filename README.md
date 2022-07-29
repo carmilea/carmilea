@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Windows Registry sucks technically &lpar;2010&rpar;](https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/)
 - [I don&#39;t have notifications enabled, nowhere and never](https://news.ycombinator.com/item?id=32274344)
 - [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people)
 - [Phrases in computing that might need retiring](https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/)
-- [Seven megatrends that will shape the next 20 years](https://www.csiro.au/en/news/news-releases/2022/seven-megatrends-that-will-shape-the-next-20-years)
 - [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
 <!-- BLOG-POST-LIST:END -->
 
