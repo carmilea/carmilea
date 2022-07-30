@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Web Development Evolved [video]](https://www.youtube.com/watch?v=DFzukK5-rpU)
-- [IR Decoding with BPF](https://lwn.net/Articles/759188/)
-- [Padlet &lpar;YC W13&rpar; is hiring in SF to build software for a good education](https://padlet.jobs)
-- [Knuth changes his mind on Bernoulli number B_1](https://www-cs-faculty.stanford.edu/~knuth/news22.html)
-- [Build Unix, Not Uber](https://thesephist.com/posts/legacy/)
+- [Why Hypergraphs? &lpar;2013&rpar;](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
+- [Yandex open sources C++ asynchronous framework](https://userver.tech/)
+- [Why does nobody seem to know what imperative and declarative mean?](https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is)
+- [Jitter a Git-based binary manager for Linux written in Nim](https://github.com/sharpcdf/jitter)
+- [Remote Attestation is coming back. How much freedom will it take?](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
