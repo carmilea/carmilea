@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [9-Dimensional Haystack](https://sites.psu.edu/seticourse/9-dimensional-haystack/)
+- [Ask HN: Which re-entry/de-orbit was this?](https://news.ycombinator.com/item?id=32288399)
 - [Firezone &lpar;YC W22&rpar; is hiring a founding engineer – Elixir and networking](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
-- [The richer they get, the more meat they eat](https://spectrum.ieee.org/meat-eater)
-- [Clojure needs a Rails, but not for the reason you think](https://blog.janetacarr.com/clojure-needs-a-rails/)
-- [Why Punish?](https://thereader.mitpress.mit.edu/why-punish/)
-- [Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes](https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/)
+- [Mr. Rogers sued the KKK](https://allthatsinteresting.com/mr-rogers-sues-the-kkk)
+- [The richer people get, the more meat they eat](https://spectrum.ieee.org/meat-eater)
 <!-- BLOG-POST-LIST:END -->
 
 ---
