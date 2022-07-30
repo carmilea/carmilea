@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An accentuated Emacs experiment &lpar;à la macOS&rpar;](https://xenodium.com/an-accentuated-emacs-experiment/)
+- [Allocating resources where they solve the most important problems](https://terraformindustries.com/)
+- [Plaid but for Healthcare](https://www.healthcompiler.com/LP-API)
 - [Serverless DNS: Self-Hosted DNS Resolver at the Edge](https://github.com/serverless-dns/serverless-dns)
-- [When do you guys think Wayland will be broadly supported?](https://news.ycombinator.com/item?id=32286265)
-- [Sieve &lpar;YC W22&rpar; is building plug-and-play APIs for video AI](https://www.sievedata.com/)
-- [No-logging of user activity policy](https://mullvad.net/en/help/no-logging-data-policy/)
-- [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068)
+- [CZ5B &lpar;Chinese rocket&rpar; Reentry Prediction](https://aerospace.org/reentries/cz-5b-rb-id-53240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
