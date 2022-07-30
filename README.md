@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Safety: A comparaison between Rust, C++ and Go](https://nested.substack.com/p/safety)
+- [My customized Wim Hof breathing exercise for maximum high](https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/)
 - [I Miss the Programmable Web &lpar;2021&rpar;](https://matt-rickard.com/the-programmable-web/)
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
 - [Aldous Huxley’s version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
-- [The Fourth Operation: What Comes After Exponentiation](http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm)
-- [Why Hypergraphs? &lpar;2013&rpar;](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
