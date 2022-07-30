@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Is Collecting Data from Your Car?](https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car)
 - [An accentuated Emacs experiment &lpar;à la macOS&rpar;](https://xenodium.com/an-accentuated-emacs-experiment/)
 - [Allocating resources where they solve the most important problems](https://terraformindustries.com/)
 - [Plaid but for Healthcare](https://www.healthcompiler.com/LP-API)
 - [Serverless DNS: Self-Hosted DNS Resolver at the Edge](https://github.com/serverless-dns/serverless-dns)
-- [CZ5B &lpar;Chinese rocket&rpar; Reentry Prediction](https://aerospace.org/reentries/cz-5b-rb-id-53240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
