@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unexplained post-acute infection syndromes](https://www.nature.com/articles/s41591-022-01810-6)
-- [Aldous Huxley’s Version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
+- [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
+- [‘You Can Get Anything’: How SF’s Black Market Thrives Off Retail Theft](https://sfstandard.com/criminal-justice/how-san-francisco-black-market-thrives-off-retail-theft/)
+- [Aldous Huxley’s version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
+- [The Fourth Operation: What Comes After Exponentiation](http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm)
 - [Why Hypergraphs? &lpar;2013&rpar;](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
-- [C++ Asynchronous Framework](https://userver.tech/)
-- [Why does nobody seem to know what imperative and declarative mean?](https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
