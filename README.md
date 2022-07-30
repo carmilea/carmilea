@@ -54,8 +54,8 @@
 - [“After Going Solar, I Felt the Bliss of Sudden Abundance”](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
 - [I Miss the Programmable Web &lpar;2021&rpar;](https://matt-rickard.com/the-programmable-web/)
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
-- [‘You Can Get Anything’: How SF’s Black Market Thrives Off Retail Theft](https://sfstandard.com/criminal-justice/how-san-francisco-black-market-thrives-off-retail-theft/)
 - [Aldous Huxley’s version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
+- [The Fourth Operation: What Comes After Exponentiation](http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
