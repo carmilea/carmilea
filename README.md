@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“After Going Solar, I Felt the Bliss of Sudden Abundance”](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
 - [I Miss the Programmable Web &lpar;2021&rpar;](https://matt-rickard.com/the-programmable-web/)
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
 - [Aldous Huxley’s version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
 - [The Fourth Operation: What Comes After Exponentiation](http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm)
+- [Why Hypergraphs? &lpar;2013&rpar;](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
