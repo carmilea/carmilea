@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Master Perfumer&#39;s Reflections on Patchouli and Vetiver](https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/)
-- [Archive of Visualized Concepts](https://archivve.visualizevalue.com/)
-- [Ask HN: How do you critically evaluate scientific papers?](https://news.ycombinator.com/item?id=32287512)
-- [US court system suffered &#39;incredibly significant attack&#39; – sealed files at risk](https://www.theregister.com/2022/07/29/us_judiciary_attack/)
-- [An efficient key recovery attack on SIDH](https://eprint.iacr.org/2022/975)
+- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer – Elixir and networking](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
+- [The richer they get, the more meat they eat](https://spectrum.ieee.org/meat-eater)
+- [Clojure needs a Rails, but not for the reason you think](https://blog.janetacarr.com/clojure-needs-a-rails/)
+- [Why Punish?](https://thereader.mitpress.mit.edu/why-punish/)
+- [Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes](https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
