@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068)
 - [Safety: A comparaison between Rust, C++ and Go](https://nested.substack.com/p/safety)
 - [My customized Wim Hof breathing exercise for maximum high](https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/)
 - [I Miss the Programmable Web &lpar;2021&rpar;](https://matt-rickard.com/the-programmable-web/)
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
-- [Aldous Huxley’s version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
