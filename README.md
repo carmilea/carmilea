@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unexplained post-acute infection syndromes](https://www.nature.com/articles/s41591-022-01810-6)
+- [Aldous Huxley’s Version of the Disney “Alice” &lpar;2020&rpar;](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
 - [Why Hypergraphs? &lpar;2013&rpar;](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
-- [Yandex open sources C++ asynchronous framework](https://userver.tech/)
+- [C++ Asynchronous Framework](https://userver.tech/)
 - [Why does nobody seem to know what imperative and declarative mean?](https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is)
-- [Jitter a Git-based binary manager for Linux written in Nim](https://github.com/sharpcdf/jitter)
-- [Remote Attestation is coming back. How much freedom will it take?](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
