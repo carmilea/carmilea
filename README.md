@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slamming the Courthouse Door: 25 years of evidence for repealing the PLRA](https://www.prisonpolicy.org/reports/PLRA_25.html)
-- [Samsung adds &#39;repair mode&#39; to phones, blocking PII leak when phone is repaired](https://news.samsung.com/kr/%ec%82%bc%ec%84%b1-%ea%b0%a4%eb%9f%ad%ec%8b%9c%ed%8f%b0%ec%97%90-%ec%88%98%eb%a6%ac-%eb%aa%a8%eb%93%9c-%ec%b6%94%ea%b0%80-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c-%ec%9b%90)
+- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- [25 years of evidence for repealing the Prison Litigation Reform Act](https://www.prisonpolicy.org/reports/PLRA_25.html)
+- [A billion-dollar industry helping students at Australian universities cheat](https://www.abc.net.au/news/2022-07-30/cheating-rife-australian-unis-online-assessments-covid/101277426)
+- [Samsung’s “repair mode” lets technicians look at your phone, not your data](https://arstechnica.com/gadgets/2022/07/samsungs-repair-mode-lets-technicians-look-at-your-phone-not-your-data/)
 - [Carbon’s most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
-- [Libredirect – Redirect social media and websites to privacy friendly front ends](https://libredirect.github.io)
-- [SBCL – New in Version 2.2.7](http://sbcl.org/all-news.html?2.2.7#2.2.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
