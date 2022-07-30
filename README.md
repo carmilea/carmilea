@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar; is building plug-and-play APIs for video AI](https://www.sievedata.com/)
+- [No-logging of user activity policy](https://mullvad.net/en/help/no-logging-data-policy/)
 - [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068)
-- [Safety: A comparaison between Rust, C++ and Go](https://nested.substack.com/p/safety)
-- [My customized Wim Hof breathing exercise for maximum high](https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/)
-- [I Miss the Programmable Web &lpar;2021&rpar;](https://matt-rickard.com/the-programmable-web/)
-- [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
+- [Lisp in Vim &lpar;2019&rpar;](https://susam.net/blog/lisp-in-vim.html)
+- [Router Security](https://routersecurity.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
