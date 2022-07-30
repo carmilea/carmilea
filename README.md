@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- [The Node ecosystem &lpar;still&rpar; has tooling problems](https://maxleiter.com/blog/node-has-tooling-problems)
 - [25 years of evidence for repealing the Prison Litigation Reform Act](https://www.prisonpolicy.org/reports/PLRA_25.html)
 - [A billion-dollar industry helping students at Australian universities cheat](https://www.abc.net.au/news/2022-07-30/cheating-rife-australian-unis-online-assessments-covid/101277426)
 - [Samsung’s “repair mode” lets technicians look at your phone, not your data](https://arstechnica.com/gadgets/2022/07/samsungs-repair-mode-lets-technicians-look-at-your-phone-not-your-data/)
-- [Carbon’s most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
