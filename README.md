@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Is Collecting Data from Your Car?](https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car)
-- [An accentuated Emacs experiment &lpar;à la macOS&rpar;](https://xenodium.com/an-accentuated-emacs-experiment/)
-- [Allocating resources where they solve the most important problems](https://terraformindustries.com/)
-- [Plaid but for Healthcare](https://www.healthcompiler.com/LP-API)
-- [Serverless DNS: Self-Hosted DNS Resolver at the Edge](https://github.com/serverless-dns/serverless-dns)
+- [A Master Perfumer&#39;s Reflections on Patchouli and Vetiver](https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/)
+- [Archive of Visualized Concepts](https://archivve.visualizevalue.com/)
+- [Ask HN: How do you critically evaluate scientific papers?](https://news.ycombinator.com/item?id=32287512)
+- [US court system suffered &#39;incredibly significant attack&#39; – sealed files at risk](https://www.theregister.com/2022/07/29/us_judiciary_attack/)
+- [An efficient key recovery attack on SIDH](https://eprint.iacr.org/2022/975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
