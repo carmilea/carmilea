@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carbon’s most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
+- [Libredirect – Redirect social media and websites to privacy friendly front ends](https://libredirect.github.io)
+- [SBCL – New in Version 2.2.7](http://sbcl.org/all-news.html?2.2.7#2.2.7)
 - [9-Dimensional Haystack](https://sites.psu.edu/seticourse/9-dimensional-haystack/)
 - [Ask HN: Which re-entry/de-orbit was this?](https://news.ycombinator.com/item?id=32288399)
-- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer – Elixir and networking](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
-- [Mr. Rogers sued the KKK](https://allthatsinteresting.com/mr-rogers-sues-the-kkk)
-- [The richer people get, the more meat they eat](https://spectrum.ieee.org/meat-eater)
 <!-- BLOG-POST-LIST:END -->
 
 ---
