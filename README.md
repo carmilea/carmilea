@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Selling Shares in Yourself the Way of the Future?](https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future)
-- [Professor Maynard Burned Down](https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html)
-- [Famous HNers and Their Sites](https://jessimekirk.com/blog/hn_users_links/)
-- [Million: less than 1kb virtual DOM that is fast](https://millionjs.org/)
-- [MIT engineers develop stickers that can see inside the body](https://news.mit.edu/2022/ultrasound-stickers-0728)
+- [2022 Amish Population Profile](https://groups.etown.edu/amishstudies/statistics/amish-population-profile-2022/)
+- [Seeking mathematical truth in counterfeit coin puzzles](https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/)
+- [Two brothers selling shares in themselves](https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future)
+- [How Professor Maynard burned down](https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html)
+- [Famous HNers and their sites](https://jessimekirk.com/blog/hn_users_links/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
