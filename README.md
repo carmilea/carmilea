@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OnlyFans Star Aella Talks Sex Work Economics](https://reason.com/2022/07/31/aella-on-sex-work-economics/)
+- [The New Ghostscript PDF Interpreter](https://www.ghostscript.com/blog/pdfi.html)
 - [Riding Transit Takes Almost Twice as Long as Driving](https://www.governing.com/archive/gov-transit-driving-times.html)
 - [Google Timer Is Gone](https://www.google.com/search?q=6+minute+timer)
 - [Botanists are disappearing – just when the world needs them most](https://theconversation.com/botanists-are-disappearing-just-when-the-world-needs-them-most-186849)
-- [Ipcalc – Command line CIDR calculator with IPv6 support](https://gitlab.com/ipcalc/ipcalc)
-- [TI-83 Plus One More](https://www.leadedsolder.com/2021/08/10/ti83-lcd-ribbon-repair.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
