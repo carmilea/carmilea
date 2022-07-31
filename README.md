@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [Opppppsss you did it again](https://github.com/kaplanelad/shellfirm)
+- [I&#39;ve been making JavaScript sandbox alone for 6 years](https://playcode.io/)
 - [2022 Amish Population Profile](https://groups.etown.edu/amishstudies/statistics/amish-population-profile-2022/)
 - [Seeking mathematical truth in counterfeit coin puzzles](https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/)
-- [Two brothers selling shares in themselves](https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future)
-- [How Professor Maynard burned down](https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html)
-- [Famous HNers and their sites](https://jessimekirk.com/blog/hn_users_links/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
