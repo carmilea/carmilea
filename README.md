@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Riding Transit Takes Almost Twice as Long as Driving](https://www.governing.com/archive/gov-transit-driving-times.html)
+- [Google Timer Is Gone](https://www.google.com/search?q=6+minute+timer)
+- [Botanists are disappearing – just when the world needs them most](https://theconversation.com/botanists-are-disappearing-just-when-the-world-needs-them-most-186849)
 - [Ipcalc – Command line CIDR calculator with IPv6 support](https://gitlab.com/ipcalc/ipcalc)
 - [TI-83 Plus One More](https://www.leadedsolder.com/2021/08/10/ti83-lcd-ribbon-repair.html)
-- [When cities treated cars as dangerous intruders](https://thereader.mitpress.mit.edu/when-cities-treated-cars-as-dangerous-intruders/)
-- [Harvard CS109A, fully open and free](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
-- [Hitachi Wood Plug Cutter Works Perfectly in Hand Held Drills &lpar;2013&rpar;](https://paulsellers.com/2013/06/hitachi-plug-cutter-works-perfeclty-in-hand-held-drills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
