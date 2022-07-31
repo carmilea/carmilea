@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hitachi Wood Plug Cutter Works Perfectly in Hand Held Drills &lpar;2013&rpar;](https://paulsellers.com/2013/06/hitachi-plug-cutter-works-perfeclty-in-hand-held-drills/)
 - [Study finds Wikipedia influences judicial behavior](https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727)
 - [Shor, I’ll do it: explaining Shor’s algorithm without using a single ket sign](https://scottaaronson.blog/?p=208)
 - [Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
 - [Raising VC funding for a solo-dev OSS project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
