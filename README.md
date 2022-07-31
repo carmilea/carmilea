@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Selling Shares in Yourself the Way of the Future?](https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future)
+- [Professor Maynard Burned Down](https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html)
 - [Famous HNers and Their Sites](https://jessimekirk.com/blog/hn_users_links/)
 - [Million: less than 1kb virtual DOM that is fast](https://millionjs.org/)
 - [MIT engineers develop stickers that can see inside the body](https://news.mit.edu/2022/ultrasound-stickers-0728)
-- [Using Nix on macOS](https://checkoway.net/musings/nix/)
-- [Challenges in building a decentralized web](https://educatedguesswork.org/posts/challenges-web-decentralization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
