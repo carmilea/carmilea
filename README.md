@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Cities Treated Cars as Dangerous Intruders](https://thereader.mitpress.mit.edu/when-cities-treated-cars-as-dangerous-intruders/)
+- [Ipcalc – Command line CIDR calculator with IPv6 support](https://gitlab.com/ipcalc/ipcalc)
+- [TI-83 Plus One More](https://www.leadedsolder.com/2021/08/10/ti83-lcd-ribbon-repair.html)
+- [When cities treated cars as dangerous intruders](https://thereader.mitpress.mit.edu/when-cities-treated-cars-as-dangerous-intruders/)
+- [Harvard CS109A, fully open and free](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
 - [Hitachi Wood Plug Cutter Works Perfectly in Hand Held Drills &lpar;2013&rpar;](https://paulsellers.com/2013/06/hitachi-plug-cutter-works-perfeclty-in-hand-held-drills/)
-- [Study finds Wikipedia influences judicial behavior](https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727)
-- [Shor, I’ll do it: explaining Shor’s algorithm without using a single ket sign](https://scottaaronson.blog/?p=208)
-- [Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
