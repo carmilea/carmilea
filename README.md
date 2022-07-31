@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 5.19](https://lore.kernel.org/lkml/CAHk-=wgrz5BBk=rCz7W28Fj_o02s0Xi0OEQ3H1uQgOdFvHgx0w@mail.gmail.com/T/#u)
+- [Greg can&#39;t use encrypted apps and must open his phone for police at any time](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
 - [The Disintegrating Cube](https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/)
+- [The New Era of Nicotine](https://invariant.substack.com/p/the-new-era-of-nicotine)
 - [Nuclear Energy Is Clean](https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/)
-- [Patterns &lpar;YC S21&rpar; is hiring devs to build the Figma for data](https://www.patterns.app/)
-- [The Enigma Qube, Merging an Enigma Machine and a Rubik’s Cub](https://blogs.mathworks.com/cleve/2022/04/01/the-enigma-qube-merging-an-enigma-machine-and-a-rubiks-cube/)
-- [Breaking supersingular isogeny Diffie-Hellman &lpar;SIDH&rpar;](https://ellipticnews.wordpress.com/2022/07/31/breaking-supersingular-isogeny-diffie-hellman-sidh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
