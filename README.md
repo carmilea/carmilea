@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study finds Wikipedia influences judicial behavior](https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727)
+- [Shor, I’ll do it: explaining Shor’s algorithm without using a single ket sign](https://scottaaronson.blog/?p=208)
+- [Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
 - [Raising VC funding for a solo-dev OSS project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- [Atari 2600 Service Manual [pdf]](https://console5.com/techwiki/images/e/ec/2600_Field_Service_Manual.pdf)
-- [Opppppsss you did it again](https://github.com/kaplanelad/shellfirm)
-- [Turning an old Amazon Kindle into a eInk development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
