@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs Squandered Billions on Scooter Startups](https://news.crunchbase.com/transportation/scooter-startups-vc-public-market-lime-brds/)
+- [The worst dam idea in the world: evaporating the Mediterranean to power Europe](https://everythingisamazing.substack.com/p/the-worst-dam-idea-in-the-world)
+- [LinkedIn is importing job postings it finds online onto company&#39;s profiles](https://news.ycombinator.com/item?id=32296952)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32296906)
-- [The New Ghostscript PDF Interpreter](https://www.ghostscript.com/blog/pdfi.html)
-- [Google Timer Is Gone](https://www.google.com/search?q=6+minute+timer)
-- [Botanists are disappearing – just when the world needs them most](https://theconversation.com/botanists-are-disappearing-just-when-the-world-needs-them-most-186849)
-- [Ipcalc – Command line CIDR calculator with IPv6 support](https://gitlab.com/ipcalc/ipcalc)
+- [Show HN: DevRaven – Monitoring for Developers](https://www.devraven.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
