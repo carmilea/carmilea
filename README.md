@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Famous HNers and Their Sites](https://jessimekirk.com/blog/hn_users_links/)
+- [Million: less than 1kb virtual DOM that is fast](https://millionjs.org/)
 - [MIT engineers develop stickers that can see inside the body](https://news.mit.edu/2022/ultrasound-stickers-0728)
 - [Using Nix on macOS](https://checkoway.net/musings/nix/)
-- [Challenges of building a peer-to-peer replacement for the web](https://educatedguesswork.org/posts/challenges-web-decentralization/)
-- [Pagefind: Static Low-Bandwidth Search at Scale](https://cloudcannon.com/blog/introducing-pagefind/)
-- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- [Challenges in building a decentralized web](https://educatedguesswork.org/posts/challenges-web-decentralization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
