@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raising VC funding for a solo-dev OSS project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 - [Opppppsss you did it again](https://github.com/kaplanelad/shellfirm)
+- [Turning an old Amazon Kindle into a eInk development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 - [I&#39;ve been making JavaScript sandbox alone for 6 years](https://playcode.io/)
-- [2022 Amish Population Profile](https://groups.etown.edu/amishstudies/statistics/amish-population-profile-2022/)
-- [Seeking mathematical truth in counterfeit coin puzzles](https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
