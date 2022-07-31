@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyRPG](https://easyrpg.org/)
-- [Citroën Catalogs from the 70s](http://www.citrobe.org/br70s.htm)
-- [Instagram Scraping without APIs, no credentials required, Node.js &lpar;NPM&rpar; or PHP](https://orsi.me/instagram-without-api/)
-- [VCs Squandered Billions on Scooter Startups](https://news.crunchbase.com/transportation/scooter-startups-vc-public-market-lime-brds/)
-- [The worst dam idea in the world: evaporating the Mediterranean to power Europe](https://everythingisamazing.substack.com/p/the-worst-dam-idea-in-the-world)
+- [RISC-V based Single Board Computers are getting there](https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/)
+- [The looming copper crunch and why recycling can’t fix it](https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/)
+- [If Only Borland Had Stuck with Turbo Modula-2 for CP/M &lpar;2013&rpar;](https://techtinkering.com/2013/03/12/if-only-borland-had-stuck-with-turbo-modula-2-for-cpm/)
+- [Kubernetes Reinvented Virtual Machines &lpar;in a good sense&rpar;](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
+- [A tutorial like you have never seen before](https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
