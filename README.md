@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Disintegrating Cube](https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/)
+- [Nuclear Energy Is Clean](https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/)
 - [Patterns &lpar;YC S21&rpar; is hiring devs to build the Figma for data](https://www.patterns.app/)
-- [Amazon’s plan to “neutralize” unions with ex-inmates and “vulnerable students”](https://www.vox.com/recode/23282640/leaked-internal-memo-reveals-amazons-anti-union-strategies-teamsters)
-- [RISC-V based Single Board Computers are getting there](https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/)
-- [The looming copper crunch and why recycling can’t fix it](https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/)
-- [If Only Borland Had Stuck with Turbo Modula-2 for CP/M &lpar;2013&rpar;](https://techtinkering.com/2013/03/12/if-only-borland-had-stuck-with-turbo-modula-2-for-cpm/)
+- [The Enigma Qube, Merging an Enigma Machine and a Rubik’s Cub](https://blogs.mathworks.com/cleve/2022/04/01/the-enigma-qube-merging-an-enigma-machine-and-a-rubiks-cube/)
+- [Breaking supersingular isogeny Diffie-Hellman &lpar;SIDH&rpar;](https://ellipticnews.wordpress.com/2022/07/31/breaking-supersingular-isogeny-diffie-hellman-sidh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
