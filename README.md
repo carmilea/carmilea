@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyRPG](https://easyrpg.org/)
+- [Citroën Catalogs from the 70s](http://www.citrobe.org/br70s.htm)
+- [Instagram Scraping without APIs, no credentials required, Node.js &lpar;NPM&rpar; or PHP](https://orsi.me/instagram-without-api/)
 - [VCs Squandered Billions on Scooter Startups](https://news.crunchbase.com/transportation/scooter-startups-vc-public-market-lime-brds/)
 - [The worst dam idea in the world: evaporating the Mediterranean to power Europe](https://everythingisamazing.substack.com/p/the-worst-dam-idea-in-the-world)
-- [LinkedIn is importing job postings it finds online onto company&#39;s profiles](https://news.ycombinator.com/item?id=32296952)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32296906)
-- [Show HN: DevRaven – Monitoring for Developers](https://www.devraven.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
