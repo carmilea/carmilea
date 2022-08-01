@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Slotted Counter Pattern](https://planetscale.com/blog/the-slotted-counter-pattern)
+- [Cerbos and FusionAuth [video]](https://cerbos.dev/video/using-cerbos-with-fusionauth)
+- [Launch HN: Polymath Robotics &lpar;YC S22&rpar; – General autonomy for industrial vehicles](https://news.ycombinator.com/item?id=32307773)
 - [Ask HN: Who is hiring? &lpar;August 2022&rpar;](https://news.ycombinator.com/item?id=32306920)
-- [Ask HN: Who wants to be hired? &lpar;August 2022&rpar;](https://news.ycombinator.com/item?id=32306917)
 - [Rights Amplification in Master-Keyed Mechanical Locks &lpar;2003&rpar; [pdf]](https://www.mattblaze.org/papers/mk.pdf)
-- [Running Zig with WASI on Cloudflare Workers](https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/)
-- [Particle Physicists Puzzle over a New Duality](https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
