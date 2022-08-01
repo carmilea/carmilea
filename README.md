@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did this man spend 20 years in prison for murdering a man who is still alive?](https://www.economist.com/1843/2022/07/28/did-this-man-spend-20-years-in-prison-for-murdering-a-man-who-is-still-alive)
+- [Show HN: Outserv – GraphQL Search Engine](https://manishrjain.com/outserv-graphql-blockchain-search)
 - [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
 - [Show HN: International Legal Dictionary](https://www.public.law/dictionary)
-- [Max Headroom is getting rebooted](https://www.vanityfair.com/hollywood/2022/07/max-headroom-the-strange-pre-internet-ai-phenomenon-is-getting-rebooted)
-- [Time for Army Corps of Engineers to investigate moving water West?](https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/07/30/army-corps-engineers-must-study-feasibility-moving-water-west/10160750002/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
