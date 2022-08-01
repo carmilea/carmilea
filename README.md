@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Resurgence of Tesla Syndrome](https://www.noemamag.com/the-resurgence-of-tesla-syndrome/)
+- [Closing the door on home buying company Opendoor’s false claims](https://consumer.ftc.gov/consumer-alerts/2022/08/closing-door-home-buying-company-opendoors-false-claims)
+- [Game engines could help construction](https://spectrum.ieee.org/unreal-engine)
+- [Markov Chains for Queueing Systems](https://two-wrongs.com/markov-chains-for-queueing-systems)
 - [Japan, U.S. to launch R&amp;D for 2-nm chip mass production](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production)
-- [MBS: A volatile millennial wields absolute power in Saudi Arabia](https://www.economist.com/1843/2022/07/28/mbs-despot-in-the-desert)
-- [Dye-Sensitized Solar Cells: Fundamentals and Current Status](https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6)
-- [Juris Hartmanis 1928–2022](https://rjlipton.wpcomstaging.com/2022/07/29/juris-hartmanis-1928-2022/)
-- [Disneyland with Death Penalty](https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
