@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Have You Left Kubernetes?](https://news.ycombinator.com/item?id=32304834)
+- [TikTok videos leave teens thinking they have rare mental disorders &lpar;2021&rpar;](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
 - [Formally Verifying Rust&#39;s Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types/)
+- [How I Regained Concentration and Focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/)
 - [Librarian&#39;s Letter to Google Security](https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview)
-- [Nichelle Nichols Has Died](https://twitter.com/shanselman/status/1553830587122601984)
-- [Show HN: RandomGeo.City – Browse Random Geocities Websites](https://randomgeo.city/?seed=Ivs6PH)
 <!-- BLOG-POST-LIST:END -->
 
 ---
