@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nichelle Nichols Has Died](https://twitter.com/shanselman/status/1553830587122601984)
+- [Intel Let the Chips Fall Where They Might](https://www.nextplatform.com/2022/07/29/intel-let-the-chips-fall-where-they-might/)
+- [Ask HN: Do newsletters work? Why do websites push them so much?](https://news.ycombinator.com/item?id=32304011)
+- [Show HN: Open-source Typeform Alternative &lpar;beta&rpar; – snoopForms live](https://snoopforms.com/)
 - [Show HN: Reduce SQLite database size by up to 80% with transparent compression](https://github.com/phiresky/sqlite-zstd)
-- [Linus releases the 5.19 kernel from an M1 MacBook](https://lwn.net/Articles/903033/)
-- [Show HN: White Label Any Webpage](https://ablyhost.com/)
-- [Wikipedia has blocked editing ‘recession’ as people change definition](https://fortune.com/2022/07/29/wikipedia-recession-definition-debate-partial-blocking-new-users/)
-- [A Tutorial on Portable Makefiles &lpar;2017&rpar;](https://nullprogram.com/blog/2017/08/20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
