@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Reduce SQLite database size by up to 80% with transparent compression](https://github.com/phiresky/sqlite-zstd)
+- [Linus releases the 5.19 kernel from an M1 MacBook](https://lwn.net/Articles/903033/)
+- [Show HN: White Label Any Webpage](https://ablyhost.com/)
+- [Wikipedia has blocked editing ‘recession’ as people change definition](https://fortune.com/2022/07/29/wikipedia-recession-definition-debate-partial-blocking-new-users/)
 - [A Tutorial on Portable Makefiles &lpar;2017&rpar;](https://nullprogram.com/blog/2017/08/20/)
-- [Show HN: Outserv – GraphQL Search Engine](https://manishrjain.com/outserv-graphql-blockchain-search)
-- [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
-- [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
-- [What ever happened to xmms.org? &lpar;2010&rpar;](https://web.archive.org/web/20200813165218/https://thieta.wordpress.com/2010/04/28/what-ever-happened-to-xmms-org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
