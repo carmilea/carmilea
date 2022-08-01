@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Mormon Housewife Turned a Fake Diary into an Enormous Best-Seller](https://www.newyorker.com/magazine/2022/08/01/how-a-mormon-housewife-turned-a-fake-diary-into-an-enormous-best-seller)
-- [End of the Machinery Game Engine](https://news.ycombinator.com/item?id=32300785)
-- [Why the term “open source” is important](https://danb.me/blog/posts/why-open-source-term-is-important/)
-- [Why I built a dictionary app even with more than +300 apps available at AppStore](https://www.wordnote.app/blog/why-i-built-dictionary-app)
-- [Public Domain Posix Make](https://frippery.org/make/)
+- [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
+- [The Nothing Phone &lpar;1&rpar;](https://ca-en.nothing.tech/pages/phone-1)
+- [Max Headroom, the Strange Pre-Internet AI Phenomenon, Is Getting Rebooted](https://www.vanityfair.com/hollywood/2022/07/max-headroom-the-strange-pre-internet-ai-phenomenon-is-getting-rebooted)
+- [Ten Things to Do After Installing FreeBSD](https://bastillebsd.org/blog/2022/07/14/ten-things-to-do-after-installing-freebsd/)
+- [Meshtastic: A Review](https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
