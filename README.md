@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Have You Left Kubernetes?](https://news.ycombinator.com/item?id=32304834)
+- [Formally Verifying Rust&#39;s Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types/)
+- [Librarian&#39;s Letter to Google Security](https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview)
 - [Nichelle Nichols Has Died](https://twitter.com/shanselman/status/1553830587122601984)
-- [Intel Let the Chips Fall Where They Might](https://www.nextplatform.com/2022/07/29/intel-let-the-chips-fall-where-they-might/)
-- [Ask HN: Do newsletters work? Why do websites push them so much?](https://news.ycombinator.com/item?id=32304011)
-- [Show HN: Open-source Typeform Alternative &lpar;beta&rpar; – snoopForms live](https://snoopforms.com/)
-- [Show HN: Reduce SQLite database size by up to 80% with transparent compression](https://github.com/phiresky/sqlite-zstd)
+- [Show HN: RandomGeo.City – Browse Random Geocities Websites](https://randomgeo.city/?seed=Ivs6PH)
 <!-- BLOG-POST-LIST:END -->
 
 ---
