@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 5.19](https://lore.kernel.org/lkml/CAHk-=wgrz5BBk=rCz7W28Fj_o02s0Xi0OEQ3H1uQgOdFvHgx0w@mail.gmail.com/T/#u)
-- [Greg can&#39;t use encrypted apps and must open his phone for police at any time](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
-- [The Disintegrating Cube](https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/)
-- [The New Era of Nicotine](https://invariant.substack.com/p/the-new-era-of-nicotine)
-- [Nuclear Energy Is Clean](https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/)
+- [A Mormon Housewife Turned a Fake Diary into an Enormous Best-Seller](https://www.newyorker.com/magazine/2022/08/01/how-a-mormon-housewife-turned-a-fake-diary-into-an-enormous-best-seller)
+- [End of the Machinery Game Engine](https://news.ycombinator.com/item?id=32300785)
+- [Why the term “open source” is important](https://danb.me/blog/posts/why-open-source-term-is-important/)
+- [Why I built a dictionary app even with more than +300 apps available at AppStore](https://www.wordnote.app/blog/why-i-built-dictionary-app)
+- [Public Domain Posix Make](https://frippery.org/make/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
