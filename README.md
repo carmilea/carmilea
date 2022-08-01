@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PicnicHealth &lpar;YC S14&rpar; is hiring product engineers to improve patient care](https://picnichealth.com/careers)
+- [The Unofficial Simpsons Cookbook](https://www.itsnicethat.com/features/the-unofficial-simpsons-cookbook-culinary-culture-and-community-animation-publication-221121)
+- [AMD passes Intel in market cap](https://www.cnbc.com/2022/07/29/amd-passes-intel-in-market-cap.html)
 - [The Slotted Counter Pattern](https://planetscale.com/blog/the-slotted-counter-pattern)
-- [Cerbos and FusionAuth [video]](https://cerbos.dev/video/using-cerbos-with-fusionauth)
 - [Launch HN: Polymath Robotics &lpar;YC S22&rpar; – General autonomy for industrial vehicles](https://news.ycombinator.com/item?id=32307773)
-- [Ask HN: Who is hiring? &lpar;August 2022&rpar;](https://news.ycombinator.com/item?id=32306920)
-- [Rights Amplification in Master-Keyed Mechanical Locks &lpar;2003&rpar; [pdf]](https://www.mattblaze.org/papers/mk.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
