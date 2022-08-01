@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan, U.S. to launch R&amp;D for 2-nm chip mass production](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production)
+- [MBS: A volatile millennial wields absolute power in Saudi Arabia](https://www.economist.com/1843/2022/07/28/mbs-despot-in-the-desert)
 - [Dye-Sensitized Solar Cells: Fundamentals and Current Status](https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6)
-- [Juris Hartmanis 1928–2022 – Gödel&#39;s Lost Letter and P=NP](https://rjlipton.wpcomstaging.com/2022/07/29/juris-hartmanis-1928-2022/)
+- [Juris Hartmanis 1928–2022](https://rjlipton.wpcomstaging.com/2022/07/29/juris-hartmanis-1928-2022/)
 - [Disneyland with Death Penalty](https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty)
-- [PicnicHealth &lpar;YC S14&rpar; is hiring product engineers to improve patient care](https://picnichealth.com/careers)
-- [The Unofficial Simpsons Cookbook](https://www.itsnicethat.com/features/the-unofficial-simpsons-cookbook-culinary-culture-and-community-animation-publication-221121)
 <!-- BLOG-POST-LIST:END -->
 
 ---
