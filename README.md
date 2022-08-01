@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The hardest hires for founders: C-level executives, the best fakers in the world](https://twitter.com/paulg/status/1554205020907720704)
+- [Cardpunch: Punch a Punched Card](http://www.kloth.net/services/cardpunch.php)
+- [I have 218 browser tabs open](https://michaelsalim.co.uk/blog/i-have-218-browser-tabs-open/)
+- [Show HN: Personal productivity workspace for busy people](https://emery.to/)
+- [The hardest people for founders to hire are so called C-level executives](https://twitter.com/paulg/status/1554205020907720704)
 - [Tiny Proteins, Getting Sorted Out](https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out)
-- [FTC Takes Action to Stop Opendoor from Cheating Potential Sellers](https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-takes-action-stop-online-home-buying-firm-opendoor-labs-inc-cheating-potential-sellers)
-- [Apple Silicon Subsystems](https://github.com/AsahiLinux/docs/wiki/Apple-Silicon-Subsystems)
-- [The Resurgence of Tesla Syndrome](https://www.noemamag.com/the-resurgence-of-tesla-syndrome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
