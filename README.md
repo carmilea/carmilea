@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Books that have helped me the most as a software engineer](https://software-engineering-books.com/)
+- [Faster CRC32-C on x86](https://www.corsix.org/content/fast-crc32c-4k)
+- [I shaved 80 MB from my TypeScript build by removing googleapis](https://effectivetypescript.com/2022/07/30/treemap-for-source-files/)
 - [Ask HN: Have You Left Kubernetes?](https://news.ycombinator.com/item?id=32304834)
-- [TikTok videos leave teens thinking they have rare mental disorders &lpar;2021&rpar;](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
-- [Formally Verifying Rust&#39;s Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types/)
-- [How I Regained Concentration and Focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/)
-- [Librarian&#39;s Letter to Google Security](https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview)
+- [Show HN: Tech Compensation in Europe](https://techpays.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
