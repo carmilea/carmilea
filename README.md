@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did this man spend 20 years in prison for murdering a man who is still alive?](https://www.economist.com/1843/2022/07/28/did-this-man-spend-20-years-in-prison-for-murdering-a-man-who-is-still-alive)
+- [A Tutorial on Portable Makefiles](https://nullprogram.com/blog/2017/08/20/)
 - [Show HN: Outserv – GraphQL Search Engine](https://manishrjain.com/outserv-graphql-blockchain-search)
 - [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
