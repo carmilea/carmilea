@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Tutorial on Portable Makefiles](https://nullprogram.com/blog/2017/08/20/)
+- [A Tutorial on Portable Makefiles &lpar;2017&rpar;](https://nullprogram.com/blog/2017/08/20/)
 - [Show HN: Outserv – GraphQL Search Engine](https://manishrjain.com/outserv-graphql-blockchain-search)
 - [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
