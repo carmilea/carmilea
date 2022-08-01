@@ -55,7 +55,7 @@
 - [Show HN: Outserv – GraphQL Search Engine](https://manishrjain.com/outserv-graphql-blockchain-search)
 - [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
-- [Show HN: International Legal Dictionary](https://www.public.law/dictionary)
+- [What ever happened to xmms.org? &lpar;2010&rpar;](https://web.archive.org/web/20200813165218/https://thieta.wordpress.com/2010/04/28/what-ever-happened-to-xmms-org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
