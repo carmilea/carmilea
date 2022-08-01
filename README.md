@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dye-Sensitized Solar Cells: Fundamentals and Current Status](https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6)
+- [Juris Hartmanis 1928–2022 – Gödel&#39;s Lost Letter and P=NP](https://rjlipton.wpcomstaging.com/2022/07/29/juris-hartmanis-1928-2022/)
+- [Disneyland with Death Penalty](https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty)
 - [PicnicHealth &lpar;YC S14&rpar; is hiring product engineers to improve patient care](https://picnichealth.com/careers)
 - [The Unofficial Simpsons Cookbook](https://www.itsnicethat.com/features/the-unofficial-simpsons-cookbook-culinary-culture-and-community-animation-publication-221121)
-- [AMD passes Intel in market cap](https://www.cnbc.com/2022/07/29/amd-passes-intel-in-market-cap.html)
-- [The Slotted Counter Pattern](https://planetscale.com/blog/the-slotted-counter-pattern)
-- [Launch HN: Polymath Robotics &lpar;YC S22&rpar; – General autonomy for industrial vehicles](https://news.ycombinator.com/item?id=32307773)
 <!-- BLOG-POST-LIST:END -->
 
 ---
