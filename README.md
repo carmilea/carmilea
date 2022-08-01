@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Books that have helped me the most as a software engineer](https://software-engineering-books.com/)
-- [Faster CRC32-C on x86](https://www.corsix.org/content/fast-crc32c-4k)
-- [I shaved 80 MB from my TypeScript build by removing googleapis](https://effectivetypescript.com/2022/07/30/treemap-for-source-files/)
-- [Ask HN: Have You Left Kubernetes?](https://news.ycombinator.com/item?id=32304834)
-- [Show HN: Tech Compensation in Europe](https://techpays.eu/)
+- [Ask HN: Who is hiring? &lpar;August 2022&rpar;](https://news.ycombinator.com/item?id=32306920)
+- [Ask HN: Who wants to be hired? &lpar;August 2022&rpar;](https://news.ycombinator.com/item?id=32306917)
+- [Rights Amplification in Master-Keyed Mechanical Locks &lpar;2003&rpar; [pdf]](https://www.mattblaze.org/papers/mk.pdf)
+- [Running Zig with WASI on Cloudflare Workers](https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/)
+- [Particle Physicists Puzzle over a New Duality](https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
