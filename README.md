@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The hardest hires for founders: C-level executives, the best fakers in the world](https://twitter.com/paulg/status/1554205020907720704)
+- [Tiny Proteins, Getting Sorted Out](https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out)
+- [FTC Takes Action to Stop Opendoor from Cheating Potential Sellers](https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-takes-action-stop-online-home-buying-firm-opendoor-labs-inc-cheating-potential-sellers)
+- [Apple Silicon Subsystems](https://github.com/AsahiLinux/docs/wiki/Apple-Silicon-Subsystems)
 - [The Resurgence of Tesla Syndrome](https://www.noemamag.com/the-resurgence-of-tesla-syndrome/)
-- [Closing the door on home buying company Opendoor’s false claims](https://consumer.ftc.gov/consumer-alerts/2022/08/closing-door-home-buying-company-opendoors-false-claims)
-- [Game engines could help construction](https://spectrum.ieee.org/unreal-engine)
-- [Markov Chains for Queueing Systems](https://two-wrongs.com/markov-chains-for-queueing-systems)
-- [Japan, U.S. to launch R&amp;D for 2-nm chip mass production](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
