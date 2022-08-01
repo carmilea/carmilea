@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
-- [The Nothing Phone &lpar;1&rpar;](https://ca-en.nothing.tech/pages/phone-1)
-- [Max Headroom, the Strange Pre-Internet AI Phenomenon, Is Getting Rebooted](https://www.vanityfair.com/hollywood/2022/07/max-headroom-the-strange-pre-internet-ai-phenomenon-is-getting-rebooted)
-- [Ten Things to Do After Installing FreeBSD](https://bastillebsd.org/blog/2022/07/14/ten-things-to-do-after-installing-freebsd/)
-- [Meshtastic: A Review](https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/)
+- [Show HN: International Legal Dictionary](https://www.public.law/dictionary)
+- [Max Headroom is getting rebooted](https://www.vanityfair.com/hollywood/2022/07/max-headroom-the-strange-pre-internet-ai-phenomenon-is-getting-rebooted)
+- [Time for Army Corps of Engineers to investigate moving water West?](https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/07/30/army-corps-engineers-must-study-feasibility-moving-water-west/10160750002/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
