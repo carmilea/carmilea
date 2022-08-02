@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Data Fits in RAM](https://yourdatafitsinram.net/)
-- [Earth Sets New Record for Shortest Day](https://www.timeanddate.com/news/astronomy/shortest-day-2022)
+- [Finley &lpar;YC W21&rpar; is building out sales for its capital markets software](https://www.finleycms.com/careers/)
+- [Leaving Facebook/Meta was the best thing we could do for the community](https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html)
+- [Does my data fit in RAM?](https://yourdatafitsinram.net/)
+- [Earth sets new record for shortest day](https://www.timeanddate.com/news/astronomy/shortest-day-2022)
 - [A little whimsy copter based on a PCB frame](https://github.com/barafael/cute-copter)
-- [20B-parameter Alexa model sets new marks in few-shot learning](https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning)
-- [North Korean Tactics &lpar;2020&rpar; [pdf]](https://irp.fas.org/doddir/army/atp7-100-2.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
