@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I was on TikTok for 30d: it is manipulative, addictive, and harmful to privacy](https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122)
-- [Equivalence of Unicode strings is strange](http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html)
-- [The biggest new idea in computing for half a century was just scrapped](https://www.theregister.com/2022/08/01/optane_intel_cancellation/)
-- [Capy – Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
-- [Parallel Programming for FPGAs](https://github.com/KastnerRG/pp4fpgas)
+- [TikTok is manipulative, addictive, and harmful to privacy](https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122)
+- [Ask HN: Is there a tool / product that enables commenting on HTML elements?](https://news.ycombinator.com/item?id=32315035)
+- [Making a PR to Nixpkgs](https://johns.codes/blog/updating-a-package-in-nixpkgs)
+- [Equivalence of Unicode strings is strange &lpar;2016&rpar;](http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html)
+- [The end of Optane is bad news](https://www.theregister.com/2022/08/01/optane_intel_cancellation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
