@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linode EU-West &lpar;London&rpar; is out again](https://status.linode.com/incidents/8qnvzrfz7hg2)
 - [Finley &lpar;YC W21&rpar; is building out sales for its capital markets software](https://www.finleycms.com/careers/)
 - [Leaving Facebook/Meta was the best thing we could do for the community](https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html)
+- [Robinhood lays off 23% of staff](https://www.wsj.com/articles/robinhood-lays-off-23-of-staff-11659471011)
 - [Does my data fit in RAM?](https://yourdatafitsinram.net/)
-- [Earth sets new record for shortest day](https://www.timeanddate.com/news/astronomy/shortest-day-2022)
-- [A little whimsy copter based on a PCB frame](https://github.com/barafael/cute-copter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
