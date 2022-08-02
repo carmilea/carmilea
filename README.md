@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: DeploySentinel &lpar;YC S22&rpar; – End-to-end tests that don&#39;t flake](https://news.ycombinator.com/item?id=32319404)
-- [In Supreme Court brief, Yale and peers defend use of race in admissions](https://news.yale.edu/2022/08/01/supreme-court-brief-yale-and-peers-defend-use-race-admissions)
-- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
-- [How to Load CSV/JSON Files Into SingleStoreDB With the Portal UI](https://www.singlestore.com/blog/how-to-load-csv-json-files-into-singlestoredb)
-- [Nomad drained of $150m due to a coding mistake](https://threadreaderapp.com/thread/1554252024723546112.html)
+- [Introducing multitasking to Arduino](https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/)
+- [Ubuntu Security Notice USN-5544-1 Atheros ath9k wireless device driver](https://dl.packetstormsecurity.net/2208-advisories/USN-5544-1.txt)
+- [The Hero&#39;s Journey of Getting Laid &lpar;Off&rpar;](https://backtohumanity.substack.com/p/getting-laid-off)
+- [The endless search for a crypto use case](https://networked.substack.com/p/the-endless-search-for-a-crypto-use)
+- [Carbon Capture on Trains](https://spectrum.ieee.org/carbon-capture-2657738131)
 <!-- BLOG-POST-LIST:END -->
 
 ---
