@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [23 years into my career, I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
 - [Linode EU-West &lpar;London&rpar; is out again](https://status.linode.com/incidents/8qnvzrfz7hg2)
+- [Ask HN: Working in Tech for Climate](https://news.ycombinator.com/item?id=32324592)
 - [Finley &lpar;YC W21&rpar; is building out sales for its capital markets software](https://www.finleycms.com/careers/)
 - [Leaving Facebook/Meta was the best thing we could do for the community](https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html)
-- [Robinhood lays off 23% of staff](https://www.wsj.com/articles/robinhood-lays-off-23-of-staff-11659471011)
-- [Does my data fit in RAM?](https://yourdatafitsinram.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
