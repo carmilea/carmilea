@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2021/xv6.html)
-- [Show HN: PiBox: a tiny personal server for self-hosting](https://pibox.io/order)
-- [AlphaFold&#39;s Database Grows over 200x to Cover Nearly All Known Proteins](https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5)
-- [Disney&#39;s mosquito control program](https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/)
-- [Cardpunch: Punch a punched card](http://www.kloth.net/services/cardpunch.php)
+- [I was on TikTok for 30d: it is manipulative, addictive, and harmful to privacy](https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122)
+- [Equivalence of Unicode strings is strange](http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html)
+- [The biggest new idea in computing for half a century was just scrapped](https://www.theregister.com/2022/08/01/optane_intel_cancellation/)
+- [Capy – Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
+- [Parallel Programming for FPGAs](https://github.com/KastnerRG/pp4fpgas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
