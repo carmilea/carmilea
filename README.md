@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A JavaScript Runtime in ~100 lines of code](https://github.com/JLCarveth/zjs)
+- [Oracle Suspended My Account &lpar;Without Notice&rpar;](https://batin.sh/blog/oracle-suspended-my-account/)
+- [Flutter’s Modern Slavery Statement](https://www.flutter.com/modern-slavery-statement/)
+- [CVE-2022-29154: Rsync client-side arbitrary file write vulnerability](https://www.openwall.com/lists/oss-security/2022/08/02/1)
+- [What the Hell Is Up with Dilbert?](https://meghanboilard.substack.com/p/what-the-hell-is-up-with-dilbert)
 - [Post-quantum encryption contender is taken out by single-core PC and 1 hour](https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/)
-- [Pornhub: Judge rules Visa can be sued in abuse claim](https://www.bbc.co.uk/news/technology-62372964)
-- [Airflow&#39;s Problem](https://stkbailey.substack.com/p/airflows-problem)
-- [Using Firecracker and Go to run short, untrusted code execution jobs &lpar;2021&rpar;](https://stanislas.blog/2021/08/firecracker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
