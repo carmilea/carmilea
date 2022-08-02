@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A JavaScript Runtime in ~100 lines of code](https://github.com/JLCarveth/zjs)
+- [Post-quantum encryption contender is taken out by single-core PC and 1 hour](https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/)
+- [Pornhub: Judge rules Visa can be sued in abuse claim](https://www.bbc.co.uk/news/technology-62372964)
 - [Airflow&#39;s Problem](https://stkbailey.substack.com/p/airflows-problem)
 - [Using Firecracker and Go to run short, untrusted code execution jobs &lpar;2021&rpar;](https://stanislas.blog/2021/08/firecracker/)
-- [Ask HN: What does Full-Stack Developer even mean?](https://news.ycombinator.com/item?id=32317514)
-- [Coding as a greybeard](https://news.ycombinator.com/item?id=32317441)
-- [Ask HN: Meal Planning App?](https://news.ycombinator.com/item?id=32316604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
