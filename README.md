@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Suspended My Account &lpar;Without Notice&rpar;](https://batin.sh/blog/oracle-suspended-my-account/)
-- [Flutter’s Modern Slavery Statement](https://www.flutter.com/modern-slavery-statement/)
-- [CVE-2022-29154: Rsync client-side arbitrary file write vulnerability](https://www.openwall.com/lists/oss-security/2022/08/02/1)
-- [What the Hell Is Up with Dilbert?](https://meghanboilard.substack.com/p/what-the-hell-is-up-with-dilbert)
-- [Post-quantum encryption contender is taken out by single-core PC and 1 hour](https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/)
+- [Launch HN: DeploySentinel &lpar;YC S22&rpar; – End-to-end tests that don&#39;t flake](https://news.ycombinator.com/item?id=32319404)
+- [In Supreme Court brief, Yale and peers defend use of race in admissions](https://news.yale.edu/2022/08/01/supreme-court-brief-yale-and-peers-defend-use-race-admissions)
+- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
+- [How to Load CSV/JSON Files Into SingleStoreDB With the Portal UI](https://www.singlestore.com/blog/how-to-load-csv-json-files-into-singlestoredb)
+- [Nomad drained of $150m due to a coding mistake](https://threadreaderapp.com/thread/1554252024723546112.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
