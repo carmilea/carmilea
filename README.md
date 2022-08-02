@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Celody – A Music Network State](https://celody.com/)
 - [Go 1.19 Released](https://go.dev/doc/go1.19)
-- [Why Study Functional Programming?](https://acm.wustl.edu/functional/whyfp.php)
-- [Eden &lpar;Desk Booking and Workplace Software&rpar; Is Hiring – Product Manager](https://news.ycombinator.com/item?id=32321294)
+- [Why study functional programming?](https://acm.wustl.edu/functional/whyfp.php)
+- [Eden &lpar;YC S15&rpar; is hiring a product manager – Desk booking and workplace software](https://news.ycombinator.com/item?id=32321294)
 - [Introducing multitasking to Arduino](https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/)
-- [PlanetScale Prevents MySQL Downtime](https://planetscale.com/blog/how-planetscale-prevents-mysql-downtime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
