@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salivary microbiome reveals a dysbiotic schizophrenia-associated microbiota](https://www.nature.com/articles/s41537-021-00180-1)
+- [Outside the Safe Operating Space of a New Planetary Boundary for PFAS](https://pubs.acs.org/doi/10.1021/acs.est.2c02765)
+- [The DALL·E 2 prompt book [pdf]](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)
 - [Show HN: Celody – A Music Network State](https://celody.com/)
 - [Go 1.19 Released](https://go.dev/doc/go1.19)
-- [Why study functional programming?](https://acm.wustl.edu/functional/whyfp.php)
-- [Eden &lpar;YC S15&rpar; is hiring a product manager – Desk booking and workplace software](https://news.ycombinator.com/item?id=32321294)
-- [Introducing multitasking to Arduino](https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
