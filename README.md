@@ -54,7 +54,7 @@
 - [Ask HN: Meal Planning App?](https://news.ycombinator.com/item?id=32316604)
 - [Building a Panel out of e-ink Electronic Shelf Labels](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)
 - [Show HN: OneDev – A Lightweight Gitlab Alternative](https://github.com/theonedev/onedev)
-- [How a cooling vest invented by a furry made it&#39;s way into the US military](https://www.thedailybeast.com/how-a-cooling-vest-invented-by-a-furry-made-its-way-into-the-us-military)
+- [How a cooling vest invented by a furry made it&#39;s way into the US military &lpar;2019&rpar;](https://www.thedailybeast.com/how-a-cooling-vest-invented-by-a-furry-made-its-way-into-the-us-military)
 - [eXpOS – An Educational Operating System](https://exposnitc.github.io/expos-docs/about/)
 <!-- BLOG-POST-LIST:END -->
 
