@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Salivary microbiome reveals a dysbiotic schizophrenia-associated microbiota](https://www.nature.com/articles/s41537-021-00180-1)
-- [Outside the Safe Operating Space of a New Planetary Boundary for PFAS](https://pubs.acs.org/doi/10.1021/acs.est.2c02765)
-- [The DALL·E 2 prompt book [pdf]](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)
-- [Show HN: Celody – A Music Network State](https://celody.com/)
-- [Go 1.19 Released](https://go.dev/doc/go1.19)
+- [Your Data Fits in RAM](https://yourdatafitsinram.net/)
+- [Earth Sets New Record for Shortest Day](https://www.timeanddate.com/news/astronomy/shortest-day-2022)
+- [A little whimsy copter based on a PCB frame](https://github.com/barafael/cute-copter)
+- [20B-parameter Alexa model sets new marks in few-shot learning](https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning)
+- [North Korean Tactics &lpar;2020&rpar; [pdf]](https://irp.fas.org/doddir/army/atp7-100-2.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
