@@ -55,7 +55,7 @@
 - [How a cooling vest invented by a furry made it&#39;s way into the US military](https://www.thedailybeast.com/how-a-cooling-vest-invented-by-a-furry-made-its-way-into-the-us-military)
 - [eXpOS – An Educational Operating System](https://exposnitc.github.io/expos-docs/about/)
 - [Ask HN: Is there a tool / product that enables commenting on HTML elements?](https://news.ycombinator.com/item?id=32315035)
-- [Equivalence of Unicode strings is strange &lpar;2016&rpar;](http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html)
+- [Making a PR to Nixpkgs](https://johns.codes/blog/updating-a-package-in-nixpkgs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
