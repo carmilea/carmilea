@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mosquitoes at Disney World: why do you &lpar;almost&rpar; never see them?](https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/)
+- [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2021/xv6.html)
+- [Show HN: PiBox: a tiny personal server for self-hosting](https://pibox.io/order)
+- [AlphaFold&#39;s Database Grows over 200x to Cover Nearly All Known Proteins](https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5)
+- [Disney&#39;s mosquito control program](https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/)
 - [Cardpunch: Punch a punched card](http://www.kloth.net/services/cardpunch.php)
-- [Show HN: Emery – Personal productivity workspace](https://emery.to/)
-- [The hardest people for founders to hire are so called C-level executives](https://twitter.com/paulg/status/1554205020907720704)
-- [Tiny Proteins, Getting Sorted Out](https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
