@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes, the U.S. economy is likely in recession](https://www.japantimes.co.jp/opinion/2022/08/02/commentary/world-commentary/u-s-economy-recession-forecast/)
 - [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [Eqwalizer: A Type-Checker for Erlang](https://github.com/WhatsApp/eqwalizer)
 - [The Pine Formula](https://tuxphones.com/pine-formula/)
 - [Django 4.1](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
-- [OpenVPN &amp; WireGuard server at GitHub Actions: representative NAT traversal case](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard)
-- [Hikaru Nakamura&#39;s Forbidden Platform](https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
