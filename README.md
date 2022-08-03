@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RTEMS Real Time Operating System](https://www.rtems.org/)
+- [Klipper – open-source 3D Printer firmware](https://www.klipper3d.org/)
+- [Nonprofit markups.org is exposing the most egregious new car prices](https://www.themanual.com/auto/markup-exposes-car-dealership-greed/)
 - [The Pickleball Troll](https://thepickler.com/blogs/pickleball-blog/pickleball-troll)
 - [GitHub is adding web cookies for enterprise users](https://github.com/github/site-policy/pull/582)
-- [Capital One enters enterprise B2B software, new data management SaaS](https://www.capitalone.com/about/newsroom/capital-one-launches-capital-one-software/)
-- [Show HN: Property Trends Scraped from Zillow](https://trends.pillr.io)
-- [Simplicity of IRC](https://susam.net/maze/wall/simplicity-of-irc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
