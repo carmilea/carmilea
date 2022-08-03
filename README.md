@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who do you talk to about system architecture and design?](https://news.ycombinator.com/item?id=32331825)
+- [The End of Snow Threatens to Upend 76M American Lives](https://www.bloomberg.com/graphics/2022-western-us-snowpack-drought/)
+- [StackOverflow Is Down](https://www.stackstatus.net/incidents/9cbac2e1-6bdc-41c9-b520-8875d3ce5050)
+- [Ask HN: Is my software stack choice sound?](https://news.ycombinator.com/item?id=32331461)
 - [Yes, the U.S. economy is likely in recession](https://www.japantimes.co.jp/opinion/2022/08/02/commentary/world-commentary/u-s-economy-recession-forecast/)
-- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [Eqwalizer: A Type-Checker for Erlang](https://github.com/WhatsApp/eqwalizer)
-- [The Pine Formula](https://tuxphones.com/pine-formula/)
-- [Django 4.1](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
