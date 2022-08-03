@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minify your container by up to 30x to be more secure &lpar;free and open source&rpar;](https://github.com/docker-slim)
+- [Strangest Thing Found in a Book](https://noctslackv2.wordpress.com/)
 - [YC Event: Becoming a founding engineer at a YC startup, Aug 10th](https://news.ycombinator.com/item?id=32334238)
 - [Free Online Textbooks Work](https://www.gatesnotes.com/Education/Supporting-educators)
 - [You Can&#39;t Guarantee Webhook Ordering](https://www.svix.com/blog/guaranteeing-webhook-ordering/)
-- [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
-- [Using light to restore cell function](https://www.uc.edu/news/articles/2022/08/using-light-to-restore-cell-function.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
