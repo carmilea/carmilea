@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
 - [Minify your container by up to 30x to be more secure &lpar;free and open source&rpar;](https://github.com/docker-slim)
-- [Strangest Thing Found in a Book](https://noctslackv2.wordpress.com/)
+- [What’s the strangest thing you ever found in a book?](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/)
+- [GlobalFoundries joins Google’s open source silicon initiative](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html)
 - [YC Event: Becoming a founding engineer at a YC startup, Aug 10th](https://news.ycombinator.com/item?id=32334238)
-- [Free Online Textbooks Work](https://www.gatesnotes.com/Education/Supporting-educators)
-- [You Can&#39;t Guarantee Webhook Ordering](https://www.svix.com/blog/guaranteeing-webhook-ordering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
