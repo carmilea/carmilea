@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [Alpine Linux is reducing dependencies on Busybox](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/52)
+- [How to support open-source software and stay sane](https://www.nature.com/articles/d41586-019-02046-0)
 - [Things I Have Drawn is a site in which the things kids draw are real](https://www.thingsihavedrawn.com)
 - [SQLite-HTML: A SQLite extension for querying, manipulating, and creating HTML](https://github.com/asg017/sqlite-html)
-- [Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
-- [Minify your container by up to 30x to be more secure &lpar;free and open source&rpar;](https://github.com/docker-slim)
-- [What’s the strangest thing you ever found in a book?](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
