@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [23 years into my career, I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
-- [Linode EU-West &lpar;London&rpar; is out again](https://status.linode.com/incidents/8qnvzrfz7hg2)
-- [Ask HN: Working in Tech for Climate](https://news.ycombinator.com/item?id=32324592)
-- [Finley &lpar;YC W21&rpar; is building out sales for its capital markets software](https://www.finleycms.com/careers/)
-- [Leaving Facebook/Meta was the best thing we could do for the community](https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html)
+- [The Pickleball Troll](https://thepickler.com/blogs/pickleball-blog/pickleball-troll)
+- [GitHub is adding web cookies for enterprise users](https://github.com/github/site-policy/pull/582)
+- [Capital One enters enterprise B2B software, new data management SaaS](https://www.capitalone.com/about/newsroom/capital-one-launches-capital-one-software/)
+- [Show HN: Property Trends Scraped from Zillow](https://trends.pillr.io)
+- [Simplicity of IRC](https://susam.net/maze/wall/simplicity-of-irc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
