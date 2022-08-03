@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT invents $4 solar desalination device](https://www.freethink.com/technology/solar-desalination)
+- [Vulkan update: version 1.2 conformance for Raspberry Pi 4](https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/)
 - [Malicious code added to 35k GitHub repos, leaking user environments](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [FauxPilot – an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 - [RTEMS Real Time Operating System](https://www.rtems.org/)
-- [Klipper – open-source 3D Printer firmware](https://www.klipper3d.org/)
-- [Nonprofit markups.org is exposing the most egregious new car prices](https://www.themanual.com/auto/markup-exposes-car-dealership-greed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
