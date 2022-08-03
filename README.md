@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Anti-Robocall Litigation Task Force created to fight –$30B in scam call theft](https://www.thecentersquare.com/national/nationwide-anti-robocall-litigation-task-force-created-to-fight-estimated-29-8b-in-scam-call/article_e3dfd458-129f-11ed-b714-7b059dbcf5e7.html)
-- [IF 2 days vs. 1 day/week increases weight loss in overweight m/f](https://oa.mg/blog/intermittent-fasting-2-days-vs-1-day-per-week-increases-weight-loss-in-overweight-men-and-women/)
-- [Political Chips](https://stratechery.com/2022/political-chips/)
-- [Being swamped is not a badge of honor](https://www.gkogan.co/blog/swamped/)
-- [Modus: A language for building Docker/OCI container images](https://github.com/modus-continens/modus)
+- [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
+- [Using light to restore cell function](https://www.uc.edu/news/articles/2022/08/using-light-to-restore-cell-function.html)
+- [Launch HN: Iollo &lpar;YC S22&rpar; – At-home metabolomics test to extend healthy lifespan](https://news.ycombinator.com/item?id=32333417)
+- [The Illustrated TLS 1.3 Connection &lpar;Every byte explained and reproduced&rpar;](https://tls13.xargs.org)
+- [US Anti-Robocall Litigation Task Force](https://www.thecentersquare.com/national/nationwide-anti-robocall-litigation-task-force-created-to-fight-estimated-29-8b-in-scam-call/article_e3dfd458-129f-11ed-b714-7b059dbcf5e7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
