@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Django 4.1 Released](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
 - [Hikaru Nakamura&#39;s Forbidden Platform](https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform)
 - [GDPR for Developers by Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
-- [Abolish the PhD](http://blog.devicerandom.org/2016/05/16/abolish-the-phd/)
+- [Abolish the PhD &lpar;2016&rpar;](http://blog.devicerandom.org/2016/05/16/abolish-the-phd/)
 - [MIT invents $4 solar desalination device](https://www.freethink.com/technology/solar-desalination)
-- [Vulkan update: version 1.2 conformance for Raspberry Pi 4](https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
