@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I Have Drawn is a site in which the things kids draw are real](https://www.thingsihavedrawn.com)
+- [SQLite-HTML: A SQLite extension for querying, manipulating, and creating HTML](https://github.com/asg017/sqlite-html)
 - [Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
 - [Minify your container by up to 30x to be more secure &lpar;free and open source&rpar;](https://github.com/docker-slim)
 - [What’s the strangest thing you ever found in a book?](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/)
-- [GlobalFoundries joins Google’s open source silicon initiative](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html)
-- [YC Event: Becoming a founding engineer at a YC startup, Aug 10th](https://news.ycombinator.com/item?id=32334238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
