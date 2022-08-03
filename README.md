@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why has quality of YouTube reduced drastically?](https://news.ycombinator.com/item?id=32328207)
+- [GDPR for Developers by Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
 - [MIT invents $4 solar desalination device](https://www.freethink.com/technology/solar-desalination)
 - [Vulkan update: version 1.2 conformance for Raspberry Pi 4](https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/)
-- [Malicious code added to 35k GitHub repos, leaking user environments](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [TikTok’s Poison Pill](https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/)
+- [FauxPilot – an attempt to build a locally hosted version of GitHub Copilot](https://github.com/moyix/fauxpilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
