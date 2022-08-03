@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run FreeBSD 13.1 for ARM64 in QEMU on Apple Silicon Mac with HVF Acceleration](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f)
+- [The Microsoft Team Racing to Catch Bugs Before They Happen](https://www.wired.com/story/microsoft-morse-team/)
 - [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 - [Alpine Linux is reducing dependencies on Busybox](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/52)
 - [How to support open-source software and stay sane](https://www.nature.com/articles/d41586-019-02046-0)
-- [Things I Have Drawn is a site in which the things kids draw are real](https://www.thingsihavedrawn.com)
-- [SQLite-HTML: A SQLite extension for querying, manipulating, and creating HTML](https://github.com/asg017/sqlite-html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
