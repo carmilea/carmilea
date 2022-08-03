@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who do you talk to about system architecture and design?](https://news.ycombinator.com/item?id=32331825)
-- [The End of Snow Threatens to Upend 76M American Lives](https://www.bloomberg.com/graphics/2022-western-us-snowpack-drought/)
-- [StackOverflow Is Down](https://www.stackstatus.net/incidents/9cbac2e1-6bdc-41c9-b520-8875d3ce5050)
-- [Ask HN: Is my software stack choice sound?](https://news.ycombinator.com/item?id=32331461)
-- [Yes, the U.S. economy is likely in recession](https://www.japantimes.co.jp/opinion/2022/08/02/commentary/world-commentary/u-s-economy-recession-forecast/)
+- [US Anti-Robocall Litigation Task Force created to fight –$30B in scam call theft](https://www.thecentersquare.com/national/nationwide-anti-robocall-litigation-task-force-created-to-fight-estimated-29-8b-in-scam-call/article_e3dfd458-129f-11ed-b714-7b059dbcf5e7.html)
+- [IF 2 days vs. 1 day/week increases weight loss in overweight m/f](https://oa.mg/blog/intermittent-fasting-2-days-vs-1-day-per-week-increases-weight-loss-in-overweight-men-and-women/)
+- [Political Chips](https://stratechery.com/2022/political-chips/)
+- [Being swamped is not a badge of honor](https://www.gkogan.co/blog/swamped/)
+- [Modus: A language for building Docker/OCI container images](https://github.com/modus-continens/modus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
