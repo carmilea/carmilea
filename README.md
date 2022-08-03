@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC Event: Becoming a founding engineer at a YC startup, Aug 10th](https://news.ycombinator.com/item?id=32334238)
+- [Free Online Textbooks Work](https://www.gatesnotes.com/Education/Supporting-educators)
+- [You Can&#39;t Guarantee Webhook Ordering](https://www.svix.com/blog/guaranteeing-webhook-ordering/)
 - [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
 - [Using light to restore cell function](https://www.uc.edu/news/articles/2022/08/using-light-to-restore-cell-function.html)
-- [Launch HN: Iollo &lpar;YC S22&rpar; – At-home metabolomics test to extend healthy lifespan](https://news.ycombinator.com/item?id=32333417)
-- [The Illustrated TLS 1.3 Connection &lpar;Every byte explained and reproduced&rpar;](https://tls13.xargs.org)
-- [US Anti-Robocall Litigation Task Force](https://www.thecentersquare.com/national/nationwide-anti-robocall-litigation-task-force-created-to-fight-estimated-29-8b-in-scam-call/article_e3dfd458-129f-11ed-b714-7b059dbcf5e7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
