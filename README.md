@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [The Pine Formula](https://tuxphones.com/pine-formula/)
 - [Django 4.1](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
+- [OpenVPN &amp; WireGuard server at GitHub Actions: representative NAT traversal case](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard)
 - [Hikaru Nakamura&#39;s Forbidden Platform](https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform)
-- [GDPR for Developers by Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
-- [Abolish the PhD &lpar;2016&rpar;](http://blog.devicerandom.org/2016/05/16/abolish-the-phd/)
-- [Ask HN: Why has quality of YouTube reduced drastically?](https://news.ycombinator.com/item?id=32328207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
