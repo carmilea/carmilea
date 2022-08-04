@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cut the Cutesy Errors](https://alexwlchan.net/2022/08/no-cute/)
-- [Run FreeBSD 13.1 for ARM64 in QEMU on Apple Silicon Mac with HVF Acceleration](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f)
-- [A Microsoft team racing to catch bugs before they happen](https://www.wired.com/story/microsoft-morse-team/)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [Alpine Linux is reducing dependencies on Busybox](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/52)
+- [Manara &lpar;YC W21&rpar; is hiring for a senior back end engineer position [Remote]](https://manara.breezy.hr/p/4722c0eb2911-senior-backend-engineer?state=published)
+- [Sending Spammers to Password Purgatory with MS Power Automate and CF Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
+- [A Simple Guide to Quadratic Voting](https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1)
+- [New open source project: Common Lisp 3D graphics system](https://old.reddit.com/r/lisp/comments/weocc5/new_open_source_common_lisp_3d_graphics_project/)
+- [Cut the cutesy errors](https://alexwlchan.net/2022/08/no-cute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
