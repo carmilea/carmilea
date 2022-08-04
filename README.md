@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a “mini-LaTeX” in ~2000 lines of code](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html)
+- [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
+- [Google’s video chat merger begins: Now there are two “Google Meet” apps](https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/)
 - [Strict-serializability, but at what cost, for what purpose?](http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
 - [Why Is the Human Brain So Efficient?](https://nautil.us/why-is-the-human-brain-so-efficient-7216/)
-- [Connect-Web: It&#39;s time for Protobuf/gRPC to be your first choice in the browser](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)
-- [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624)
-- [Old jokes](https://dynomight.net/old-jokes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
