@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Would you use an email service that can only be reset in person?](https://news.ycombinator.com/item?id=32341987)
-- [Google declined to review an extension because they can’t find a Kindle to test](https://twitter.com/daniel_nguyenx/status/1555111384437772288)
-- [It Is Time to Stop Teaching Frequentism to Non-Statisticians &lpar;2012&rpar;](https://arxiv.org/abs/1201.2590)
-- [A small group of activists got leaf blowers banned in the nation’s capital](https://www.theatlantic.com/magazine/archive/2019/04/james-fallows-leaf-blower-ban/583210/)
-- [Hyundai rolls out 27 heavy-duty hydrogen trucks in Germany](https://thedriven.io/2022/08/04/hyundai-rolls-out-27-heavy-duty-hydrogen-trucks-in-germany/)
+- [Tapping into the million-year energy source below our feet](https://news.mit.edu/2022/quaise-energy-geothermal-0628)
+- [Ask HN: Any great books about technical writing?](https://news.ycombinator.com/item?id=32342493)
+- [Launch HN: CodeCrafters &lpar;YC S22&rpar; – Practice writing complex software](https://codecrafters.io)
+- [Geometric Analysis Reveals How Birds Mastered Flight](https://www.quantamagazine.org/geometric-analysis-reveals-how-birds-mastered-flight-20220803/)
+- [Ask HN: How to Be Independent as a Developer?](https://news.ycombinator.com/item?id=32342058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
