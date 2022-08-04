@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strict-serializability, but at what cost, for what purpose?](http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
+- [Why Is the Human Brain So Efficient?](https://nautil.us/why-is-the-human-brain-so-efficient-7216/)
+- [Connect-Web: It&#39;s time for Protobuf/gRPC to be your first choice in the browser](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)
 - [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624)
 - [Old jokes](https://dynomight.net/old-jokes/)
-- [The SQL query engine Trino &lpar;formerly PrestoSQL&rpar; recaps a decade of innovation](https://trino.io/blog/2022/08/04/decade-innovation.html)
-- [The OG Social Network: Other People’s Websites](https://blog.jim-nielsen.com/2022/other-peoples-websites/)
-- [Solein – Protein out of thin air](https://www.solein.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
