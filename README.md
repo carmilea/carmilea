@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: I interviewed my dad before he died](https://news.ycombinator.com/item?id=32349006)
 - [Coral makes comeback on Great Barrier Reef](https://www.hawkesburygazette.com.au/story/7846819/coral-makes-comeback-on-great-barrier-reef/)
 - [Why Is the Web So Monotonous? Google](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
+- [Show HN: Penumbra, a perceptually optimized color palette based on natural light](https://github.com/nealmckee/penumbra)
 - [Software engineering books to read and reread](https://quentin.delcourt.be/blog/software-engineering-books-to-read-and-reread/index.html)
-- [Cumulative loneliness and subsequent memory function](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12734)
-- [Using grape harvest dates to estimate summer temperature over 650 years](https://tamino.wordpress.com/2022/08/02/french-heat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
