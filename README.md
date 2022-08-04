@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime)
+- [Botspam Apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
 - [Let&#39;s Encrypt has updated their Subscriber Agreement &lpar;v1.2 – v1.3&rpar;](https://letsencrypt.org/repository/)
 - [My lab went from 4000 kg to 130 kg of waste a year](https://www.nature.com/articles/d41586-022-02092-1)
 - [Part of my code makes Copilot crash](https://github.com/orgs/community/discussions/20273)
-- [Manara &lpar;YC W21&rpar; is hiring for a senior back end engineer position [Remote]](https://manara.breezy.hr/p/4722c0eb2911-senior-backend-engineer?state=published)
-- [Sending spammers to password purgatory](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
