@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers discover major roadblock in alleviating network congestion](https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804)
-- [Ask HN: ZFS native encryption vs LUKS](https://news.ycombinator.com/item?id=32340433)
-- [OmnesViae: Roman Routeplanner](https://omnesviae.org/)
-- [I Am a Spammer. AMA &lpar;2009&rpar;](https://old.reddit.com/r/IAmA/comments/9dw73/i_am_a_spammer_ama/)
-- [Silent SHA256 based proof-of-work&lpar;PoW&rpar; captcha solution](https://github.com/mCaptcha/mCaptcha)
+- [Ask HN: Would you use an email service that can only be reset in person?](https://news.ycombinator.com/item?id=32341987)
+- [Google declined to review an extension because they can’t find a Kindle to test](https://twitter.com/daniel_nguyenx/status/1555111384437772288)
+- [It Is Time to Stop Teaching Frequentism to Non-Statisticians &lpar;2012&rpar;](https://arxiv.org/abs/1201.2590)
+- [A small group of activists got leaf blowers banned in the nation’s capital](https://www.theatlantic.com/magazine/archive/2019/04/james-fallows-leaf-blower-ban/583210/)
+- [Hyundai rolls out 27 heavy-duty hydrogen trucks in Germany](https://thedriven.io/2022/08/04/hyundai-rolls-out-27-heavy-duty-hydrogen-trucks-in-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
