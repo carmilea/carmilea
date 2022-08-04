@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code&lpar;IaC&rpar; with Examples](https://awstip.com/getting-started-infrastructure-as-code-iac-bfd186de93a5)
-- [Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs](https://www.superblocks.com/)
-- [Redis Source Walkthrough: How the ECHO command is implemented](https://app.codecrafters.io/walkthroughs/redis-echo-command)
-- [Near Real-Time Ingestion for Trino](https://www.starburst.io/blog/near-real-time-ingestion-for-trino/)
-- [Scammers Sent Uber to Take Elderly Lady to the Bank](https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/)
+- [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624)
+- [Old jokes](https://dynomight.net/old-jokes/)
+- [The SQL query engine Trino &lpar;formerly PrestoSQL&rpar; recaps a decade of innovation](https://trino.io/blog/2022/08/04/decade-innovation.html)
+- [The OG Social Network: Other People’s Websites](https://blog.jim-nielsen.com/2022/other-peoples-websites/)
+- [Solein – Protein out of thin air](https://www.solein.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
