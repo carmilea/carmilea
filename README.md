@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sex Redefined &lpar;2015&rpar;](https://www.nature.com/articles/518288a)
+- [Tower 9 for Mac is here](https://www.git-tower.com/blog/tower-mac-9/)
+- [Is DALL-E 2 ‘Gluing Things Together’ Without Understanding Their Relationships?](https://www.unite.ai/is-dall-e-2-just-gluing-things-together-without-understanding-their-relationships/)
 - [Tapping into the million-year energy source below our feet](https://news.mit.edu/2022/quaise-energy-geothermal-0628)
 - [Ask HN: Any great books about technical writing?](https://news.ycombinator.com/item?id=32342493)
-- [Launch HN: CodeCrafters &lpar;YC S22&rpar; – Practice writing complex software](https://codecrafters.io)
-- [Geometric Analysis Reveals How Birds Mastered Flight](https://www.quantamagazine.org/geometric-analysis-reveals-how-birds-mastered-flight-20220803/)
-- [Ask HN: How to Be Independent as a Developer?](https://news.ycombinator.com/item?id=32342058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
