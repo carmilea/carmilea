@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sex Redefined &lpar;2015&rpar;](https://www.nature.com/articles/518288a)
-- [Tower 9 for Mac is here](https://www.git-tower.com/blog/tower-mac-9/)
-- [Is DALL-E 2 ‘Gluing Things Together’ Without Understanding Their Relationships?](https://www.unite.ai/is-dall-e-2-just-gluing-things-together-without-understanding-their-relationships/)
-- [Tapping into the million-year energy source below our feet](https://news.mit.edu/2022/quaise-energy-geothermal-0628)
-- [Ask HN: Any great books about technical writing?](https://news.ycombinator.com/item?id=32342493)
+- [OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol](https://omniedge.io/)
+- [C99 doesn&#39;t need function bodies, or &#39;VLAs are Turing complete&#39;](https://lemon.rip/w/c99-vla-tricks/)
+- [LocalStack and AWS Parity Explained](https://localstack.cloud/blog/2022-08-04-parity-explained/)
+- [Art of README](https://github.com/hackergrrl/art-of-readme)
+- [Black holes finally proven mathematically stable](https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
