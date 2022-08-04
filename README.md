@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Am a Spammer. AMA &lpar;2009&rpar;](https://old.reddit.com/r/IAmA/comments/9dw73/i_am_a_spammer_ama/)
+- [The Feynman Technique](https://dsebastien.net/blog/2022-08-03-the-feynman-technique)
+- [How prestige outlets like The Guardian get away with copypasta](https://erikhoel.substack.com/p/how-prestige-outlets-like-the-guardian)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32340023)
-- [Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
 - [Infineon chip flaws to disrupt IONIQ 5 EV production](https://www.kedglobal.com/automobiles/newsView/ked202208030010)
-- [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime)
-- [Botspam Apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
