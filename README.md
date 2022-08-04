@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol](https://omniedge.io/)
-- [C99 doesn&#39;t need function bodies, or &#39;VLAs are Turing complete&#39;](https://lemon.rip/w/c99-vla-tricks/)
-- [LocalStack and AWS Parity Explained](https://localstack.cloud/blog/2022-08-04-parity-explained/)
-- [Art of README](https://github.com/hackergrrl/art-of-readme)
-- [Black holes finally proven mathematically stable](https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/)
+- [Infrastructure as Code&lpar;IaC&rpar; with Examples](https://awstip.com/getting-started-infrastructure-as-code-iac-bfd186de93a5)
+- [Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs](https://www.superblocks.com/)
+- [Redis Source Walkthrough: How the ECHO command is implemented](https://app.codecrafters.io/walkthroughs/redis-echo-command)
+- [Near Real-Time Ingestion for Trino](https://www.starburst.io/blog/near-real-time-ingestion-for-trino/)
+- [Scammers Sent Uber to Take Elderly Lady to the Bank](https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
