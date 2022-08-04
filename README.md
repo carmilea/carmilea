@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers discover major roadblock in alleviating network congestion](https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804)
 - [Ask HN: ZFS native encryption vs LUKS](https://news.ycombinator.com/item?id=32340433)
 - [OmnesViae: Roman Routeplanner](https://omnesviae.org/)
 - [I Am a Spammer. AMA &lpar;2009&rpar;](https://old.reddit.com/r/IAmA/comments/9dw73/i_am_a_spammer_ama/)
-- [The Feynman Technique](https://dsebastien.net/blog/2022-08-03-the-feynman-technique)
-- [How prestige outlets like The Guardian get away with copypasta](https://erikhoel.substack.com/p/how-prestige-outlets-like-the-guardian)
+- [Silent SHA256 based proof-of-work&lpar;PoW&rpar; captcha solution](https://github.com/mCaptcha/mCaptcha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
