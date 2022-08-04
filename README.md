@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: ZFS native encryption vs LUKS](https://news.ycombinator.com/item?id=32340433)
+- [OmnesViae: Roman Routeplanner](https://omnesviae.org/)
 - [I Am a Spammer. AMA &lpar;2009&rpar;](https://old.reddit.com/r/IAmA/comments/9dw73/i_am_a_spammer_ama/)
 - [The Feynman Technique](https://dsebastien.net/blog/2022-08-03-the-feynman-technique)
 - [How prestige outlets like The Guardian get away with copypasta](https://erikhoel.substack.com/p/how-prestige-outlets-like-the-guardian)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32340023)
-- [Infineon chip flaws to disrupt IONIQ 5 EV production](https://www.kedglobal.com/automobiles/newsView/ked202208030010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
