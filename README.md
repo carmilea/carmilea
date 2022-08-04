@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cumulative loneliness and subsequent memory function&amp;rate of decline 1996-2016](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12734)
+- [Coral makes comeback on Great Barrier Reef](https://www.hawkesburygazette.com.au/story/7846819/coral-makes-comeback-on-great-barrier-reef/)
+- [Why Is the Web So Monotonous? Google](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
+- [Software engineering books to read and reread](https://quentin.delcourt.be/blog/software-engineering-books-to-read-and-reread/index.html)
+- [Cumulative loneliness and subsequent memory function](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12734)
 - [Using grape harvest dates to estimate summer temperature over 650 years](https://tamino.wordpress.com/2022/08/02/french-heat/)
-- [Lex Fridman Podcast #309 – John Carmack](https://lexfridman.com/john-carmack/)
-- [How to Use an iPad as a Secure Calling and Messaging Device &lpar;Updated 2022&rpar;](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device/)
-- [Implementing a “mini-LaTeX” in ~2000 lines of code](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
