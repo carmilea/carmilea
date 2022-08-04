@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32340023)
+- [Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
 - [Infineon chip flaws to disrupt IONIQ 5 EV production](https://www.kedglobal.com/automobiles/newsView/ked202208030010)
 - [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime)
 - [Botspam Apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
-- [Let&#39;s Encrypt has updated their Subscriber Agreement &lpar;v1.2 – v1.3&rpar;](https://letsencrypt.org/repository/)
-- [Ask HN: What&#39;s up with these DoorDash dark patterns?](https://news.ycombinator.com/item?id=32338779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
