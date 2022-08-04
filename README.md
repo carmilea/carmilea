@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infineon chip flaws to disrupt IONIQ 5 EV production](https://www.kedglobal.com/automobiles/newsView/ked202208030010)
 - [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime)
 - [Botspam Apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
 - [Let&#39;s Encrypt has updated their Subscriber Agreement &lpar;v1.2 – v1.3&rpar;](https://letsencrypt.org/repository/)
-- [My lab went from 4000 kg to 130 kg of waste a year](https://www.nature.com/articles/d41586-022-02092-1)
-- [Part of my code makes Copilot crash](https://github.com/orgs/community/discussions/20273)
+- [Ask HN: What&#39;s up with these DoorDash dark patterns?](https://news.ycombinator.com/item?id=32338779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
