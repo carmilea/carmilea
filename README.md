@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My lab went from 4000 kg to 130 kg of waste a year](https://www.nature.com/articles/d41586-022-02092-1)
+- [Part of my code makes Copilot crash](https://github.com/orgs/community/discussions/20273)
 - [Manara &lpar;YC W21&rpar; is hiring for a senior back end engineer position [Remote]](https://manara.breezy.hr/p/4722c0eb2911-senior-backend-engineer?state=published)
-- [Sending Spammers to Password Purgatory with MS Power Automate and CF Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
+- [Sending spammers to password purgatory](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
 - [A Simple Guide to Quadratic Voting](https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1)
-- [New open source project: Common Lisp 3D graphics system](https://old.reddit.com/r/lisp/comments/weocc5/new_open_source_common_lisp_3d_graphics_project/)
-- [Cut the cutesy errors](https://alexwlchan.net/2022/08/no-cute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
