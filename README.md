@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cumulative loneliness and subsequent memory function&amp;rate of decline 1996-2016](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12734)
+- [Lex Fridman Podcast #309 – John Carmack](https://lexfridman.com/john-carmack/)
+- [How to Use an iPad as a Secure Calling and Messaging Device &lpar;Updated 2022&rpar;](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device/)
 - [Implementing a “mini-LaTeX” in ~2000 lines of code](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html)
 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
-- [Google’s video chat merger begins: Now there are two “Google Meet” apps](https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/)
-- [Strict-serializability, but at what cost, for what purpose?](http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
-- [Why Is the Human Brain So Efficient?](https://nautil.us/why-is-the-human-brain-so-efficient-7216/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
