@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Keeping a Project Bisectable](https://andrealmeid.com/post/2022-07-31-keep-bisect/)
 - [Windows HEVC video codec from Microsoft costs $0.99](https://apps.microsoft.com/store/detail/hevc-video-extensions/9NMZLZ57R3T7?hl=en-us&gl=US)
-- [TikTok Is Reportedly an &#39;Essential&#39; App for Some Samsung Installs](https://screenrant.com/tiktok-essential-app-samsung-install/)
-- [Is Marc Andreessen a NIMBY?](https://twitter.com/JerusalemDemsas/status/1555360241931485186)
-- [The Billionaire’s Dilemma – On Marc Andreessen&#39;s NIMBYism](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
+- [Marc Andreessen says he’s for new housing, but records tell a different story](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
+- [The Nightmare of Targeted Individuals in the Age of Paranoia](https://roundtable.io/failed-state-update/features/the-nightmare-of-targeted-individuals-in-the-age-of-paranoia)
+- [We&#39;re improving search results when you use quotes](https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
