@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Passive exercise may benefit postexercise executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14132)
-- [We&#39;re improving search results when you use quotes](https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/)
-- [Every U.S. Crypto Exchange &lpar;and Binance&rpar; Is Being Investigated by the SEC](https://www.forbes.com/sites/michaeldelcastillo/2022/08/04/every-us-crypto-exchange-and-binance-is-being-investigated-by-the-sec-says-senator-lummis-staffer/)
-- [Lowbar – The simplest no-nonsense loading bar for Python](https://github.com/AnnikaV9/lowbar)
-- [What Is the Cost of a Cashless Society?](https://thewalrus.ca/cashless-society/)
+- [Keeping a Project Bisectable](https://andrealmeid.com/post/2022-07-31-keep-bisect/)
+- [Windows HEVC video codec from Microsoft costs $0.99](https://apps.microsoft.com/store/detail/hevc-video-extensions/9NMZLZ57R3T7?hl=en-us&gl=US)
+- [TikTok Is Reportedly an &#39;Essential&#39; App for Some Samsung Installs](https://screenrant.com/tiktok-essential-app-samsung-install/)
+- [Is Marc Andreessen a NIMBY?](https://twitter.com/JerusalemDemsas/status/1555360241931485186)
+- [The Billionaire’s Dilemma – On Marc Andreessen&#39;s NIMBYism](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
