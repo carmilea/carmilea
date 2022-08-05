@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: I interviewed my dad before he died](https://news.ycombinator.com/item?id=32349006)
-- [Coral makes comeback on Great Barrier Reef](https://www.hawkesburygazette.com.au/story/7846819/coral-makes-comeback-on-great-barrier-reef/)
-- [Why Is the Web So Monotonous? Google](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
-- [Show HN: Penumbra, a perceptually optimized color palette based on natural light](https://github.com/nealmckee/penumbra)
-- [Software engineering books to read and reread](https://quentin.delcourt.be/blog/software-engineering-books-to-read-and-reread/index.html)
+- [Passive exercise may benefit postexercise executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14132)
+- [We&#39;re improving search results when you use quotes](https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/)
+- [Every U.S. Crypto Exchange &lpar;and Binance&rpar; Is Being Investigated by the SEC](https://www.forbes.com/sites/michaeldelcastillo/2022/08/04/every-us-crypto-exchange-and-binance-is-being-investigated-by-the-sec-says-senator-lummis-staffer/)
+- [Lowbar – The simplest no-nonsense loading bar for Python](https://github.com/AnnikaV9/lowbar)
+- [What Is the Cost of a Cashless Society?](https://thewalrus.ca/cashless-society/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
