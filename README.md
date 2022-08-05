@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevCycle &lpar;YC W14&rpar; is hiring feature flag developers to fix software innovation](https://devcycle.com/company/careers)
+- [You Shouldn’t Use Modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/)
+- [Show HN: Convert English to Cron Expressions](https://cronprompt.com/)
+- [Patent Act requires an “inventor” to be a natural person, not an AI [pdf]](https://cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf)
 - [Launch HN: Taro &lpar;YC S22&rpar; – Private engineer community focused on career growth](https://news.ycombinator.com/item?id=32358038)
-- [Helium](https://blog.dshr.org/2022/08/helium.html)
-- [DreamWorks Animation to Release MoonRay as Open Source](https://www.awn.com/news/dreamworks-animation-release-moonray-open-source)
-- [I was at Woodstock ’99 and it destroyed my innocence](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
-- [Godot 3.5](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
