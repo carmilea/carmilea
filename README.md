@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon to acquire maker of Roomba vacuum for roughly $1.7B](https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html)
-- [Israeli researchers discovered the first consensus-level attack on Ethereum](https://twitter.com/yaish_aviv/status/1555445499041300481)
-- [Decentralized Identifiers &lpar;DIDs&rpar; v1.0 Becomes a W3C Recommendation](https://www.w3.org/2022/07/pressrelease-did-rec.html.en)
-- [Gates-Backed Startup Builds Modular Homes Out of Energy-Efficient Panels](https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/)
-- [Asus Zenbook 17 Fold OLED](https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/)
+- [Enough with the Notifications](https://www.theregister.com/2022/08/05/something_for_the_weekend/)
+- [French Scientist&#39;s Photo of ‘Distant Star’ Was Chorizo](https://www.vice.com/en/article/akeemk/chorizo-james-webb-space-telescope)
+- [French mayor demands €15,000 fee to climb Mont Blanc](https://www.bbc.co.uk/news/world-europe-62436466)
+- [Nix: Taming Unix with Functional Programming](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
+- [Amazon to Acquire iRobot](https://www.aboutamazon.com/news/company-news/amazon-and-irobot-sign-an-agreement-for-amazon-to-acquire-irobot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
