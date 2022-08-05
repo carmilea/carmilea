@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the best books or resources on SRE automation that are also practical?](https://news.ycombinator.com/item?id=32353824)
+- [Documenting Software Architectures with arc42](https://www.innoq.com/en/blog/brief-introduction-to-arc42/)
 - [UK&#39;s largest tunnel cutting head lowered into its London shaft](https://www.ianvisits.co.uk/articles/uks-largest-tunnel-cutting-head-lowered-into-its-london-shaft-56372/)
 - [$55 board turns a Raspberry Pi CM4 into a router](https://liliputing.com/this-55-board-turns-a-raspberry-pi-cm4-into-a-router/)
-- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Bringing back the golden days of Bell Labs](https://www.nature.com/articles/s42254-022-00426-6)
-- [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu)
+- [Parts of Great Barrier Reef show highest coral cover seen in 36 years](https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2021-22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
