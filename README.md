@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to acquire maker of Roomba vacuum for roughly $1.7B](https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html)
+- [Israeli researchers discovered the first consensus-level attack on Ethereum](https://twitter.com/yaish_aviv/status/1555445499041300481)
+- [Decentralized Identifiers &lpar;DIDs&rpar; v1.0 Becomes a W3C Recommendation](https://www.w3.org/2022/07/pressrelease-did-rec.html.en)
 - [Gates-Backed Startup Builds Modular Homes Out of Energy-Efficient Panels](https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/)
 - [Asus Zenbook 17 Fold OLED](https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/)
-- [Blender 3.2.2 Released](https://www.blender.org/download/)
-- [What are the best books or resources on SRE automation that are also practical?](https://news.ycombinator.com/item?id=32353824)
-- [Did we all believe a myth about depression?](https://www.bbc.co.uk/news/health-62286093)
 <!-- BLOG-POST-LIST:END -->
 
 ---
