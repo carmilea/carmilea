@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Windows is prohibited at Gitlab](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
-- [Show HN: SQLite store for node cache manager](https://github.com/maxpert/node-cache-manager-sqlite)
-- [Apple warns Taiwanese suppliers to label “China” on badges](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-warns-suppliers-to-follow-China-rules-on-Taiwan-labeling)
-- [Italy, Intel close to $5B deal for chip factory](https://www.reuters.com/technology/exclusive-italy-intel-close-5-bln-deal-chip-factory-sources-2022-08-04/)
-- [How to Choose Your College Degree](https://giansegato.com/essays/how-to-choose-your-college-degree)
+- [Launch HN: Taro &lpar;YC S22&rpar; – Private engineer community focused on career growth](https://news.ycombinator.com/item?id=32358038)
+- [Helium](https://blog.dshr.org/2022/08/helium.html)
+- [DreamWorks Animation to Release MoonRay as Open Source](https://www.awn.com/news/dreamworks-animation-release-moonray-open-source)
+- [I was at Woodstock ’99 and it destroyed my innocence](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
+- [Godot 3.5](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
