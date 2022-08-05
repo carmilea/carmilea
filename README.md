@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Phoenix record store owner set the audiophile world on fire](https://www.washingtonpost.com/music/2022/08/05/mofi-records-analog-digital-scandal/)
+- [NSA, NIST, and post-quantum crypto: Announcing my second lawsuit against the US](http://blog.cr.yp.to/20220805-nsa.html)
+- [CudaText: Open-source, cross-platform text editor, written in Lazarus](https://github.com/Alexey-T/CudaText)
 - [Aug 5 – 100000 robotic lawn mowers can sing Happy Birthday to Curiosity](https://www.husqvarna.com/us/discover/news-and-media/happybirthday/)
 - [Analysis of energy consumption of Bluetooth Low Energy versus Bluetooth Classic](http://hj.diva-portal.org/smash/record.jsf?pid=diva2%3A1683816&dswid=1160)
 - [Byte Magazine: LISP &lpar;1979&rpar;](https://archive.org/details/byte-magazine-1979-08)
-- [Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans](http://www.righto.com/2022/08/lumafield-flip-flop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
