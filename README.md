@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Bringing back the golden days of Bell Labs](https://www.nature.com/articles/s42254-022-00426-6)
 - [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu)
 - [My favorite iPhone feature was removed long live its subpar replacement](https://technicallychallenged.substack.com/p/my-favorite-iphone-feature-was-removed)
 - [Keeping a project bisectable](https://andrealmeid.com/post/2022-07-31-keep-bisect/)
-- [Marc Andreessen says he’s for new housing, but records tell a different story](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
