@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gates-Backed Startup Builds Modular Homes Out of Energy-Efficient Panels](https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/)
+- [Asus Zenbook 17 Fold OLED](https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/)
+- [Blender 3.2.2 Released](https://www.blender.org/download/)
 - [What are the best books or resources on SRE automation that are also practical?](https://news.ycombinator.com/item?id=32353824)
-- [Documenting Software Architectures with arc42](https://www.innoq.com/en/blog/brief-introduction-to-arc42/)
-- [UK&#39;s largest tunnel cutting head lowered into its London shaft](https://www.ianvisits.co.uk/articles/uks-largest-tunnel-cutting-head-lowered-into-its-london-shaft-56372/)
-- [$55 board turns a Raspberry Pi CM4 into a router](https://liliputing.com/this-55-board-turns-a-raspberry-pi-cm4-into-a-router/)
-- [Parts of Great Barrier Reef show highest coral cover seen in 36 years](https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2021-22)
+- [Did we all believe a myth about depression?](https://www.bbc.co.uk/news/health-62286093)
 <!-- BLOG-POST-LIST:END -->
 
 ---
