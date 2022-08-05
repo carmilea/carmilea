@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Counterfeits, fraud, and theft: Why Silca changed its return policy](https://cyclingtips.com/2022/07/interview-silca-on-amazon-e-commerce-fraud-theft-returns/)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers in the US](https://kable.io)
+- [AllegroServe, a web server written in Common Lisp](https://github.com/franzinc/aserve)
 - [Some notes on DynamoDB 2022 paper](http://_.0xffff.me/dynamodb2022.html)
 - [NSA, NIST, and post-quantum crypto: my second lawsuit against the US government](http://blog.cr.yp.to/20220805-nsa.html)
-- [CudaText: Open-source, cross-platform text editor, written in Lazarus](https://github.com/Alexey-T/CudaText)
-- [A Phoenix record store owner set the audiophile world on fire](https://www.washingtonpost.com/music/2022/08/05/mofi-records-analog-digital-scandal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
