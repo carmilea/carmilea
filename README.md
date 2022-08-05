@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Windows is prohibited at Gitlab](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
+- [Show HN: SQLite store for node cache manager](https://github.com/maxpert/node-cache-manager-sqlite)
 - [Apple warns Taiwanese suppliers to label “China” on badges](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-warns-suppliers-to-follow-China-rules-on-Taiwan-labeling)
-- [Ask HN: Why are there so many duplicate articles?](https://news.ycombinator.com/item?id=32356205)
 - [Italy, Intel close to $5B deal for chip factory](https://www.reuters.com/technology/exclusive-italy-intel-close-5-bln-deal-chip-factory-sources-2022-08-04/)
-- [Plan B for UUIDs: double AES-128](https://pvk.ca/Blog/2022/07/11/plan-b-for-uuids-double-aes-128/)
-- [Enough with the Notifications](https://www.theregister.com/2022/08/05/something_for_the_weekend/)
+- [How to Choose Your College Degree](https://giansegato.com/essays/how-to-choose-your-college-degree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
