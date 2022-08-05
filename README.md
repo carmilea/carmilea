@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alex Jones must pay $50m in punitive damages for Sandy Hook hoax claim](https://www.bbc.co.uk/news/world-us-canada-62444302)
 - [Counterfeits, fraud, and theft: Why Silca changed its return policy](https://cyclingtips.com/2022/07/interview-silca-on-amazon-e-commerce-fraud-theft-returns/)
+- [California DMV accuses Tesla of falsely advertising Autopilot and FSD features](https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla)
 - [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers in the US](https://kable.io)
 - [AllegroServe, a web server written in Common Lisp](https://github.com/franzinc/aserve)
-- [Some notes on DynamoDB 2022 paper](http://_.0xffff.me/dynamodb2022.html)
-- [NSA, NIST, and post-quantum crypto: my second lawsuit against the US government](http://blog.cr.yp.to/20220805-nsa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
