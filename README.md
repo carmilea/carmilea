@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping a Project Bisectable](https://andrealmeid.com/post/2022-07-31-keep-bisect/)
+- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu)
+- [My favorite iPhone feature was removed long live its subpar replacement](https://technicallychallenged.substack.com/p/my-favorite-iphone-feature-was-removed)
+- [Keeping a project bisectable](https://andrealmeid.com/post/2022-07-31-keep-bisect/)
 - [Marc Andreessen says he’s for new housing, but records tell a different story](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
-- [The nightmare of targeted individuals in the age of paranoia &lpar;2017&rpar;](https://roundtable.io/failed-state-update/features/the-nightmare-of-targeted-individuals-in-the-age-of-paranoia)
-- [We&#39;re improving search results when you use quotes](https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/)
-- [Lowbar – The simplest no-nonsense loading bar for Python](https://github.com/AnnikaV9/lowbar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
