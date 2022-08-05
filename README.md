@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK&#39;s largest tunnel cutting head lowered into its London shaft](https://www.ianvisits.co.uk/articles/uks-largest-tunnel-cutting-head-lowered-into-its-london-shaft-56372/)
+- [$55 board turns a Raspberry Pi CM4 into a router](https://liliputing.com/this-55-board-turns-a-raspberry-pi-cm4-into-a-router/)
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Bringing back the golden days of Bell Labs](https://www.nature.com/articles/s42254-022-00426-6)
 - [C23 is Finished: Here is What is on the Menu](https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu)
-- [My favorite iPhone feature was removed long live its subpar replacement](https://technicallychallenged.substack.com/p/my-favorite-iphone-feature-was-removed)
-- [Keeping a project bisectable](https://andrealmeid.com/post/2022-07-31-keep-bisect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
