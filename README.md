@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DevCycle &lpar;YC W14&rpar; is hiring feature flag developers to fix software innovation](https://devcycle.com/company/careers)
-- [You Shouldn’t Use Modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/)
-- [Show HN: Convert English to Cron Expressions](https://cronprompt.com/)
-- [Patent Act requires an “inventor” to be a natural person, not an AI [pdf]](https://cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf)
-- [Launch HN: Taro &lpar;YC S22&rpar; – Private engineer community focused on career growth](https://news.ycombinator.com/item?id=32358038)
+- [Aug 5 – 100000 robotic lawn mowers can sing Happy Birthday to Curiosity](https://www.husqvarna.com/us/discover/news-and-media/happybirthday/)
+- [Bluetooth Classic is faster and more energy efficient than Bluetooth Low Energy](http://hj.diva-portal.org/smash/record.jsf?pid=diva2%3A1683816&dswid=1160)
+- [Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans](http://www.righto.com/2022/08/lumafield-flip-flop.html)
+- [Solving a bad ARP behavior on a Linux router](https://dataswamp.org/~solene/2022-08-05-linux-arp-filter.html)
+- [Twitter says Musk’s spam analysis used tool that called his own account a bot](https://arstechnica.com/tech-policy/2022/08/twitter-says-musks-spam-analysis-used-tool-that-called-his-own-account-a-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
