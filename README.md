@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kanye West&#39;s Stem Player – An engineering disaster](https://krystalgamer.github.io/stem-player-emulator/)
 - [US library defunded after refusing to censor authors](https://www.theguardian.com/books/2022/aug/05/michigan-library-book-bans-lgbtq-authors)
+- [Twitter confirms zero-day used to expose data of 5.4M accounts](https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/)
+- [Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01013-5)
 - [Having, a less understood SQL clause](https://smallthingssql.com/having-a-less-understood-sql-clause/)
 - [How Did Elevators Lose Their Music?](https://tedgioia.substack.com/p/how-did-elevators-lose-their-music)
-- [I assure you, medieval people bathed](https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
