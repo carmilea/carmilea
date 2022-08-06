@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Trying to Solve a UUID](https://www.google.com/search?q=0e2b835d-4d9a-4b8b-b009-988741022e8c&sourceid=chrome&ie=UTF-8)
+- [Simulating an Entire Car Engine &lpar;yes, it makes noise&rpar; [video]](https://www.youtube.com/watch?v=RKT-sKtR970)
+- [Show HN: Open-source serverless security lake powered by Rust + Apache Iceberg](https://github.com/matanolabs/matano)
+- [The Song of the Summer: A Heian-era epistolary romance](https://www.laphamsquarterly.org/roundtable/song-summer)
 - [ESA – Climate from Space](https://cfs.climate.esa.int/index.html#/)
-- [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
-- [What We Gain from a Good Bookstore](https://www.newyorker.com/culture/cultural-comment/what-we-gain-from-a-good-bookstore)
-- [US has lost at least three nuclear bombs that have never been located](https://www.bbc.com/future/article/20220804-the-lost-nuclear-bombs-that-no-one-can-find)
-- [Ask HN: Why aren&#39;t games marketed as the work of director X like movies are?](https://news.ycombinator.com/item?id=32367102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
