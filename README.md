@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microdosing with psilocybin mushrooms: a double-blind placebo-controlled study](https://www.nature.com/articles/s41398-022-02039-0)
 - [Flexport is hiring software engineers to streamline global trade](https://flexport.com/careers)
+- [Ask HN: What are the ways you go about getting comfortable with a new codebase?](https://news.ycombinator.com/item?id=32365660)
 - [AI generated, command whatever you want. It will generate mind-blowing images](https://www.midjourney.com/app/)
-- [Twitter confirms zero-day used to expose data of 5.4M accounts](https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/)
-- [Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01013-5)
-- [Having, a less understood SQL clause](https://smallthingssql.com/having-a-less-understood-sql-clause/)
+- [A Simple but Nifty Inequality](https://residuetheorem.com/2017/02/10/a-simple-but-nifty-inequality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
