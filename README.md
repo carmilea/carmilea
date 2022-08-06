@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESA – Climate from Space](https://cfs.climate.esa.int/index.html#/)
 - [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
 - [What We Gain from a Good Bookstore](https://www.newyorker.com/culture/cultural-comment/what-we-gain-from-a-good-bookstore)
 - [US has lost at least three nuclear bombs that have never been located](https://www.bbc.com/future/article/20220804-the-lost-nuclear-bombs-that-no-one-can-find)
 - [Ask HN: Why aren&#39;t games marketed as the work of director X like movies are?](https://news.ycombinator.com/item?id=32367102)
-- [A summary of modern physics in one table](https://arxiv.org/abs/2208.01038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
