@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Did Elevators Lose Their Music?](https://tedgioia.substack.com/p/how-did-elevators-lose-their-music)
+- [I assure you, medieval people bathed](https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/)
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [HNSJ: The Consequences of Corrupting a Cryptographic Standardization Process [pdf]](https://harvardnsj.org/wp-content/uploads/sites/13/2022/06/Vol13Iss2_Kostyuk-Landau_Dual-EC-DRGB.pdf)
 - [Alex Jones must pay $50m in punitive damages for Sandy Hook hoax claim](https://www.bbc.co.uk/news/world-us-canada-62444302)
-- [Counterfeits, fraud, and theft: Why Silca changed its return policy](https://cyclingtips.com/2022/07/interview-silca-on-amazon-e-commerce-fraud-theft-returns/)
-- [California DMV accuses Tesla of falsely advertising Autopilot and FSD features](https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla)
-- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers in the US](https://kable.io)
-- [AllegroServe, a web server written in Common Lisp](https://github.com/franzinc/aserve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
