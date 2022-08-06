@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical reasons to choose FreeBSD over GNU/Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
-- [NetBSD 9.3 Released](https://www.netbsd.org/releases/formal-9/NetBSD-9.3.html)
-- [NetBSD 9.3 Released](https://blog.netbsd.org/tnf/entry/netbsd_9_3_released)
+- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [Technical reasons to choose FreeBSD over GNU/Linux &lpar;2020&rpar;](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
+- [NetBSD 9.3](https://blog.netbsd.org/tnf/entry/netbsd_9_3_released)
 - [Ubisoft about to take away games you bought](https://www.pcgamer.com/ubisoft-to-pull-online-from-older-games-which-also-takes-away-your-dlc/)
 - [Original source of `&lpar;seed * 9301 and 49297&rpar; % 233280` random algorithm? &lpar;2014&rpar;](https://softwareengineering.stackexchange.com/questions/260969/original-source-of-seed-9301-49297-233280-random-algorithm)
 <!-- BLOG-POST-LIST:END -->
