@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanye West&#39;s Stem Player – An engineering disaster](https://krystalgamer.github.io/stem-player-emulator/)
+- [US library defunded after refusing to censor authors](https://www.theguardian.com/books/2022/aug/05/michigan-library-book-bans-lgbtq-authors)
 - [Having, a less understood SQL clause](https://smallthingssql.com/having-a-less-understood-sql-clause/)
 - [How Did Elevators Lose Their Music?](https://tedgioia.substack.com/p/how-did-elevators-lose-their-music)
 - [I assure you, medieval people bathed](https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/)
-- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [HNSJ: The Consequences of Corrupting a Cryptographic Standardization Process [pdf]](https://harvardnsj.org/wp-content/uploads/sites/13/2022/06/Vol13Iss2_Kostyuk-Landau_Dual-EC-DRGB.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
