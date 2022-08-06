@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
+- [Cramming &#39;Papers, Please&#39; onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
 - [Why AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
 - [Ask HN: Resources to learn generative art programming?](https://news.ycombinator.com/item?id=32370671)
-- [Why general artificial intelligence will not be realized &lpar;2020&rpar;](https://www.nature.com/articles/s41599-020-0494-4)
 - [Git In Two Minutes &lpar;updated after 8 years&rpar;](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
-- [Show HN: JWST Image Slideshow](https://jwst.seanchenpiano.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
