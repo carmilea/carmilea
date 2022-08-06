@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Original source of `&lpar;seed * 9301 and 49297&rpar; % 233280` random algorithm? &lpar;2014&rpar;](https://softwareengineering.stackexchange.com/questions/260969/original-source-of-seed-9301-49297-233280-random-algorithm)
 - [Google Trying to Solve a UUID](https://www.google.com/search?q=0e2b835d-4d9a-4b8b-b009-988741022e8c&sourceid=chrome&ie=UTF-8)
 - [Simulating an Entire Car Engine &lpar;yes, it makes noise&rpar; [video]](https://www.youtube.com/watch?v=RKT-sKtR970)
 - [Show HN: Open-source serverless security lake powered by Rust + Apache Iceberg](https://github.com/matanolabs/matano)
 - [The Song of the Summer: A Heian-era epistolary romance](https://www.laphamsquarterly.org/roundtable/song-summer)
-- [ESA – Climate from Space](https://cfs.climate.esa.int/index.html#/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
