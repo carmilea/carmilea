@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Use ZFS with ECC Memory &lpar;2014&rpar;](https://louwrentius.com/please-use-zfs-with-ecc-memory.html)
+- [Why AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
+- [Ask HN: Resources to learn generative art programming?](https://news.ycombinator.com/item?id=32370671)
+- [Why general artificial intelligence will not be realized &lpar;2020&rpar;](https://www.nature.com/articles/s41599-020-0494-4)
 - [Git In Two Minutes &lpar;updated after 8 years&rpar;](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
-- [XUiDesigner: Wysiwyg LV2 X11UI GUI/plugin creator tool](https://github.com/brummer10/XUiDesigner)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
-- [Technical reasons to choose FreeBSD over GNU/Linux &lpar;2020&rpar;](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
+- [Show HN: JWST Image Slideshow](https://jwst.seanchenpiano.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
