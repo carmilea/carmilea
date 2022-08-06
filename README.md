@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
+- [The Scottish Highlands, Appalachians, and the Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
+- [SpaceMonger](https://www.portablefreeware.com/index.php?id=150)
 - [Cramming &#39;Papers, Please&#39; onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
-- [Why AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
-- [Ask HN: Resources to learn generative art programming?](https://news.ycombinator.com/item?id=32370671)
-- [Git In Two Minutes &lpar;updated after 8 years&rpar;](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
+- [Foods That Fight Inflammation](https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
