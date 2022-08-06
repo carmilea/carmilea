@@ -55,7 +55,7 @@
 - [The Scottish Highlands, Appalachians, and the Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
 - [SpaceMonger](https://www.portablefreeware.com/index.php?id=150)
 - [Cramming &#39;Papers, Please&#39; onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
-- [Foods That Fight Inflammation](https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation)
+- [AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
