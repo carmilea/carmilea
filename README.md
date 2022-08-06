@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Longevity for your parents, what to do?](https://news.ycombinator.com/item?id=32366557)
 - [Ask HN: How to say NO to a GitHub issue feature request?](https://news.ycombinator.com/item?id=32366248)
 - [MyNoise – Background Sound Canceller](https://mynoise.net/)
 - [Monad Confusion and the Blurry Line Between Data and Computation](https://www.micahcantor.com/blog/monad-confusion/)
-- [Finland to Become the First EU Country to Test Digital Passports](https://www.schengenvisainfo.com/news/finland-to-become-the-first-eu-country-to-test-digital-passports/)
 - [Microdosing with psilocybin mushrooms: a double-blind placebo-controlled study](https://www.nature.com/articles/s41398-022-02039-0)
 <!-- BLOG-POST-LIST:END -->
 
