@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please Use ZFS with ECC Memory &lpar;2014&rpar;](https://louwrentius.com/please-use-zfs-with-ecc-memory.html)
+- [Git In Two Minutes &lpar;updated after 8 years&rpar;](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
+- [XUiDesigner: Wysiwyg LV2 X11UI GUI/plugin creator tool](https://github.com/brummer10/XUiDesigner)
 - [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
 - [Technical reasons to choose FreeBSD over GNU/Linux &lpar;2020&rpar;](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
-- [NetBSD 9.3](https://blog.netbsd.org/tnf/entry/netbsd_9_3_released)
-- [Barn raising: thoughts on going through change with the help of others](https://inaliminalspace.org/barn-raising-thoughts-on-going-through-change-with-the-help-of-others/)
-- [Ubisoft about to take away games you bought](https://www.pcgamer.com/ubisoft-to-pull-online-from-older-games-which-also-takes-away-your-dlc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
