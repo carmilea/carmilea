@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where should I move to meet interesting tech people?](https://news.ycombinator.com/item?id=32377084)
 - [The case of fake IMDB credits](https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits)
+- [Machine learning finds an improved way to match donor organs with patients](https://ccaim.cam.ac.uk/machine-learning-finds-an-improved-way-to-match-donor-organs-with-patients/)
+- [Trealla Prolog embedded in Go using WASM](https://github.com/guregu/trealla-go)
 - [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs)
-- [The pervasive effects of C&#39;s malloc&lpar;&rpar; and free&lpar;&rpar; on C APIs](https://utcc.utoronto.ca/~cks/space/blog/programming/CAPIsEffectsOfMalloc)
-- [Hacker’s Delight &lpar;2012&rpar;](https://books.google.com/books/about/Hacker_s_Delight.html?id=VicPJYM0I5QC)
+- [The government is burying the anti-Asian violent hate crime crisis](https://twitter.com/michaeljburry/status/1556003057699209218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
