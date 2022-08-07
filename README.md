@@ -55,7 +55,7 @@
 - [Prison Money Diaries: What People Make &lpar;and Spend&rpar; Behind Bars](https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars)
 - [Home built with marble tombstones from the graves of 2,200 Union soldiers](https://www.atlasobscura.com/places/the-tombstone-house-petersburg-virginia)
 - [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Does Education Matter? Tests from Extensions of Schooling in 1919-22, 47 and 72](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688207)
+- [Framework Tablet Assembly Manual](https://www.instructables.com/Framework-Tablet-Assembly-Manual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
