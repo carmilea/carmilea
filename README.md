@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
-- [The Scottish Highlands, Appalachians, and the Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
-- [SpaceMonger](https://www.portablefreeware.com/index.php?id=150)
-- [Cramming &#39;Papers, Please&#39; onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
-- [AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
+- [Prison Money Diaries: What People Make &lpar;and Spend&rpar; Behind Bars](https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars)
+- [Sensitivity Readers Are the New Literary Gatekeepers](https://reason.com/2022/07/05/rise-of-the-sensitivity-reader/)
+- [Home built with marble tombstones from the graves of 2,200 Union soldiers](https://www.atlasobscura.com/places/the-tombstone-house-petersburg-virginia)
+- [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Does Education Matter? Tests from Extensions of Schooling in 1919-22, 47 and 72](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
