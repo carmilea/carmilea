@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker&#39;s Delight](https://books.google.com/books/about/Hacker_s_Delight.html?id=VicPJYM0I5QC)
-- [Show HN: Figure is a daily logic puzzle game](https://figure.game)
-- [Harnessing public entrepreneurship](https://elgl.org/podcast-harnessing-public-entrepreneurship-with-mitchell-weiss/)
-- [Syncthing Anywhere with Tailscale](https://init8.lol/synthing-anywhere-with-tailscale/)
-- [Another court case fails to unlock the mystery of Bitcoin’s Satoshi Nakamoto](https://www.theguardian.com/technology/2022/aug/06/another-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto)
+- [Ask HN: Where should I move to meet interesting tech people?](https://news.ycombinator.com/item?id=32377084)
+- [The case of fake IMDB credits](https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits)
+- [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs)
+- [The pervasive effects of C&#39;s malloc&lpar;&rpar; and free&lpar;&rpar; on C APIs](https://utcc.utoronto.ca/~cks/space/blog/programming/CAPIsEffectsOfMalloc)
+- [Hacker’s Delight &lpar;2012&rpar;](https://books.google.com/books/about/Hacker_s_Delight.html?id=VicPJYM0I5QC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
