@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can We Even Solve Public Problems Anymore?](https://elgl.org/podcast-harnessing-public-entrepreneurship-with-mitchell-weiss/)
+- [Harnessing public entrepreneurship](https://elgl.org/podcast-harnessing-public-entrepreneurship-with-mitchell-weiss/)
 - [Ask HN: Anyone tried development using an Oculus?](https://news.ycombinator.com/item?id=32375677)
-- [Ask HN: Expert Advices for New Learners in Android Kotlin Development?](https://news.ycombinator.com/item?id=32375609)
-- [Everyone loves e-bikes – except some who have to share roads with them](https://www.washingtonpost.com/lifestyle/2022/08/06/e-bikes-rules-laws-road/)
+- [Another court case fails to unlock the mystery of Bitcoin’s Satoshi Nakamoto](https://www.theguardian.com/technology/2022/aug/06/another-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto)
 - [The Apollo On-Board Computers](https://web.archive.org/web/20120827000829/http://history.nasa.gov/afj/compessay.htm)
+- [Tutors / tips to change your English accent](https://news.ycombinator.com/item?id=32375394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
