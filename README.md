@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guest Engineer Showcase: Vedran Cindric](https://www.singlestore.com/blog/engineer-showcase-vedran-cindric)
-- [Row-Level Security for SingleStoreDB](https://www.singlestore.com/blog/row-level-security-for-singlestoredb)
-- [How to Load CSV/JSON Files Into SingleStoreDB With the Portal UI](https://www.singlestore.com/blog/how-to-load-csv-json-files-into-singlestoredb)
-- [[r]evolution Summer 2022: Distributed SQL “Workspaces” Power Modern Applications](https://www.singlestore.com/blog/distributed-sql-workspaces-power-modern-applications)
-- [Making Real Time a Reality: 5 Things You Missed at SingleStore [r]evolution 2022](https://www.singlestore.com/blog/making-real-time-a-reality)
+- [Bits – Build Credit &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
+- [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 &lpar;2019&rpar;](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
+- [Ivy: Rob Pike&#39;s APL-Like Language / Desk Calculator](https://pkg.go.dev/robpike.io/ivy)
+- [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
+- [Our Roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
