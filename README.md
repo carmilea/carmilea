@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene](https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext)
+- [Why Does gRPC Insist on Trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
+- [The Last Naval Battle of World War 2 &lpar;2018&rpar;](https://www.navygeneralboard.com/the-last-naval-battle-of-world-war-2/)
+- [Code.golf – Solve problems in the least number of characters](https://code.golf)
 - [Look at median, and not mean GDP per capita](https://medianism.org/)
-- [Ask HN: Best free software to read text aloud](https://news.ycombinator.com/item?id=32380045)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- [Carbon offsetting is just another form of greenwashing](https://www.theartnewspaper.com/2022/08/04/offsetting-greenwashing-carbon-emissions)
-- [In-browser retro-futuristic tank game, open source](https://synthblast.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
