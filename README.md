@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker&#39;s Delight](https://books.google.com/books/about/Hacker_s_Delight.html?id=VicPJYM0I5QC)
+- [Show HN: Figure is a daily logic puzzle game](https://figure.game)
 - [Harnessing public entrepreneurship](https://elgl.org/podcast-harnessing-public-entrepreneurship-with-mitchell-weiss/)
-- [Ask HN: Anyone tried development using an Oculus?](https://news.ycombinator.com/item?id=32375677)
+- [Syncthing Anywhere with Tailscale](https://init8.lol/synthing-anywhere-with-tailscale/)
 - [Another court case fails to unlock the mystery of Bitcoin’s Satoshi Nakamoto](https://www.theguardian.com/technology/2022/aug/06/another-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto)
-- [The Apollo On-Board Computers](https://web.archive.org/web/20120827000829/http://history.nasa.gov/afj/compessay.htm)
-- [Tutors / tips to change your English accent](https://news.ycombinator.com/item?id=32375394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
