@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bits – Build Credit &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
+- [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 &lpar;2019&rpar;](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
+- [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
 - [Our Roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
-- [Solar canopies on parking lots](https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution)
-- [Prison Money Diaries: What People Make &lpar;and Spend&rpar; Behind Bars](https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars)
-- [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Framework Tablet Assembly Manual](https://www.instructables.com/Framework-Tablet-Assembly-Manual/)
+- [Apple: Using a camera cover might damage your MacBook&#39;s display](https://support.apple.com/en-us/HT211148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
