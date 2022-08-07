@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [“Code” 2nd Edition Now Available](https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html)
+- [Show HN: A generically typed pipe function in TypeScript](https://github.com/MathisBullinger/froebel)
 - [The case of fake IMDB credits](https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits)
 - [Machine learning finds an improved way to match donor organs with patients](https://ccaim.cam.ac.uk/machine-learning-finds-an-improved-way-to-match-donor-organs-with-patients/)
-- [Trealla Prolog embedded in Go using WASM](https://github.com/guregu/trealla-go)
-- [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs)
-- [The government is burying the anti-Asian violent hate crime crisis](https://twitter.com/michaeljburry/status/1556003057699209218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
