@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Obesity Is Now the Top Modifiable Dementia Risk Factor in the US](https://jamanetwork.com/journals/jama/article-abstract/2793840)
 - [Cellular recovery after prolonged warm ischaemia of the whole body](https://www.nature.com/articles/s41586-022-05016-1)
-- [Knowledge overconfidence is associated with anti-consensus views](https://www.science.org/doi/10.1126/sciadv.abo0038)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [“Code” 2nd Edition Now Available](https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html)
+- [Show HN: A generically typed pipe function in TypeScript](https://github.com/MathisBullinger/froebel)
+- [Computing Adler32 Checksums at 41 GB/s](https://wooo.sh/articles/adler32.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
