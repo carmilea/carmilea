@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 - [Solar canopies on parking lots](https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution)
 - [Prison Money Diaries: What People Make &lpar;and Spend&rpar; Behind Bars](https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars)
-- [Home built with marble tombstones from the graves of 2,200 Union soldiers](https://www.atlasobscura.com/places/the-tombstone-house-petersburg-virginia)
 - [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Framework Tablet Assembly Manual](https://www.instructables.com/Framework-Tablet-Assembly-Manual/)
 <!-- BLOG-POST-LIST:END -->
