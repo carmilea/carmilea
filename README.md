@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone loves e-bikes – except some who have to share roads with them](https://www.washingtonpost.com/lifestyle/2022/08/06/e-bikes-rules-laws-road/)
+- [Tutors / tips to change your English accent](https://news.ycombinator.com/item?id=32375394)
 - [Bits – Build Credit &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
 - [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 &lpar;2019&rpar;](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
 - [Ivy: Rob Pike&#39;s APL-Like Language / Desk Calculator](https://pkg.go.dev/robpike.io/ivy)
-- [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
-- [Our Roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
