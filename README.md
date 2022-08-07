@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can We Even Solve Public Problems Anymore?](https://elgl.org/podcast-harnessing-public-entrepreneurship-with-mitchell-weiss/)
+- [Ask HN: Anyone tried development using an Oculus?](https://news.ycombinator.com/item?id=32375677)
+- [Ask HN: Expert Advices for New Learners in Android Kotlin Development?](https://news.ycombinator.com/item?id=32375609)
 - [Everyone loves e-bikes – except some who have to share roads with them](https://www.washingtonpost.com/lifestyle/2022/08/06/e-bikes-rules-laws-road/)
-- [Tutors / tips to change your English accent](https://news.ycombinator.com/item?id=32375394)
-- [Bits – Build Credit &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
-- [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 &lpar;2019&rpar;](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
-- [Ivy: Rob Pike&#39;s APL-Like Language / Desk Calculator](https://pkg.go.dev/robpike.io/ivy)
+- [The Apollo On-Board Computers](https://web.archive.org/web/20120827000829/http://history.nasa.gov/afj/compessay.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
