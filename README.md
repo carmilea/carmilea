@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Look at median, and not mean GDP per capita](https://medianism.org/)
+- [Ask HN: Best free software to read text aloud](https://news.ycombinator.com/item?id=32380045)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- [Carbon offsetting is just another form of greenwashing](https://www.theartnewspaper.com/2022/08/04/offsetting-greenwashing-carbon-emissions)
 - [In-browser retro-futuristic tank game, open source](https://synthblast.com)
-- [“Ignore the f&#39;ing haters!” And other lessons learned from creating JSON5](https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5)
-- [Making Quieter Technology](https://nicolasbouliane.com/blog/silence)
-- [The Case of the Mysterious Holes on the Seafloor](https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
