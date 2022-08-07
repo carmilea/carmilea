@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Quieter Technology](https://nicolasbouliane.com/blog/silence)
+- [Class Action Targets Experian over Account Security](https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/)
+- [Oncall Compensation for Software Engineers](https://blog.pragmaticengineer.com/oncall-compensation/)
 - [Cellular recovery after prolonged warm ischaemia of the whole body](https://www.nature.com/articles/s41586-022-05016-1)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [“Code” 2nd Edition Now Available](https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html)
-- [Show HN: A generically typed pipe function in TypeScript](https://github.com/MathisBullinger/froebel)
-- [Computing Adler32 Checksums at 41 GB/s](https://wooo.sh/articles/adler32.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
