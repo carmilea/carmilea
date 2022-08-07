@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bits – Build Credit &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
 - [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 &lpar;2019&rpar;](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
+- [Uber&#39;s Still Not Profitable](https://pluralistic.net/2022/08/05/a-lousy-taxi/)
+- [Ivy: Rob Pike&#39;s APL-Like Language / Desk Calculator](https://pkg.go.dev/robpike.io/ivy)
 - [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
-- [Our Roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
-- [Apple: Using a camera cover might damage your MacBook&#39;s display](https://support.apple.com/en-us/HT211148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
