@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In 2003, Mark Zuckerberg Took a Vow of User Privacy on Slashdot](https://slashdot.org/comments.pl?sid=61425&cid=5774175)
+- [Post-Apocalyptic Programming](https://zserge.com/posts/post-apocalyptic-programming/)
 - [Tom Blomfield: Monzo Growth](https://tomblomfield.com/post/691384431502557184/monzo-growth)
 - [The East African Experiment](https://www.karlsnotes.com/the-east-african-federation/)
 - [The Ends of Education](http://www.antipope.org/charlie/blog-static/2022/08/the-end-of-education.html)
