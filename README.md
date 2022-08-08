@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Usage of EU subsidiaries of US cloud providers deemed unlawful by German court](https://gdprhub.eu/index.php?title=VK_Baden-W%C3%BCrttemburg_-_Az._1_VK_23/22)
+- [The 1857 Utah War](https://www.imetatronink.com/2022/08/the-mostly-forgotten-1857-utah-war.html)
+- [Fintech is making credit cards weirder](https://workweek.com/2022/08/05/fintech-is-making-credit-cards-weirder/)
 - [Launch HN: Wolfia &lpar;YC S22&rpar; – A mobile app emulator you can share with a link](https://www.wolfia.com)
 - [Keeper Tax &lpar;YC W19&rpar; Is Hiring a PM to Distrupt TurboTax](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=9be1bbe16311433d85102a822ea4b511&pm=s)
-- [Solving and explaining university math problems with Deep Learning](https://www.pnas.org/doi/10.1073/pnas.2123433119)
-- [The AK-47](https://coolmilitarystuff.com/the-ak-47/)
-- [Amazon’s Roomba deal is about mapping your home](https://www.bloomberg.com/news/articles/2022-08-05/amazon-s-irobot-deal-is-about-roomba-s-data-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
