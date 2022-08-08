@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A History of Storage Media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
-- [Show HN: Rewind 4, a Chrome extension for bookmark hoarders](https://chrome.google.com/webstore/detail/rewind/oghafdocdmlkkjipdmnikdcgekjpiapf)
-- [Working Out Only on Weekends Is Equal as Daily Exercise](https://www.prevention.com/fitness/workouts/a40542944/working-out-only-on-weekends-as-effective-as-daily-exercise-study-finds/)
-- [Spaced Repetition for Mathematics](https://cronokirby.com/posts/2021/02/spaced-repetition-for-mathematics/)
-- [Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s [pdf]](https://static.newamerica.org/attachments/3407-doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/Crypto%20Wars_ReDo.7cb491837ac541709797bdf868d37f52.pdf)
+- [A content model is not a design system &lpar;2021&rpar;](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
+- [The case against an alternative to C](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
+- [Using Python Jupyter Notebook With SingleStoreDB](https://www.singlestore.com/blog/using-python-jupyter-notebook-with-singlestoredb)
+- [A history of storage media &lpar;2017&rpar;](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
+- [Some Epson printers are programmed to stop working after a certain amount of use](https://gizmodo.com/epson-printer-end-of-service-life-error-not-working-dea-1849384045)
 <!-- BLOG-POST-LIST:END -->
 
 ---
