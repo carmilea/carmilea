@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Incident Report: Employee and Customer Account Compromise](https://www.twilio.com/blog/august-2022-social-engineering-attack)
-- [Plant-based ‘beef’ reduces CO2 but threatens ag jobs](https://news.cornell.edu/stories/2022/08/plant-based-beef-reduces-co2-threatens-ag-jobs)
-- [Bridge Loans](https://avc.com/2022/08/bridge-loans/)
-- [HN Leaders — What are the most upvoted users of Hacker News commenting on?](https://hn-leaders.herokuapp.com)
-- [Who Owns Tesla’s Data?](https://spectrum.ieee.org/tesla-autopilot-data-ownership)
+- [OFAC Sanctions on Tornado Cash](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808)
+- [Starting October 19, storage limit will be enforced on all Gitlab Free accounts](https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit-enforcement-schedule)
+- [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916)
+- [Show HN: SaveSlack – create searchable knowledgebase from your Slack community](https://saveslack.com)
+- [California DMV accuses Tesla of making false claims about Autopilot and FSD](https://www.theverge.com/2022/8/6/23294658/california-dmv-accuses-tesla-false-claims-autopilot-full-self-driving-autonomous-vehicles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
