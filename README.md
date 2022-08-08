@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you stop your open-source project from being used for evil?](https://stackoverflow.blog/2022/08/08/can-you-stop-your-open-source-project-from-being-used-for-evil/)
-- [I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned](https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/)
-- [Automated Reasoning at Amazon: A Conversation](https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc)
-- [Technical Writing Courses from Google](https://developers.google.com/tech-writing)
-- [Fintech is making credit cards weirder](https://workweek.com/2022/08/05/fintech-is-making-credit-cards-weirder/)
+- [A History of Storage Media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
+- [Show HN: Rewind 4, a Chrome extension for bookmark hoarders](https://chrome.google.com/webstore/detail/rewind/oghafdocdmlkkjipdmnikdcgekjpiapf)
+- [Working Out Only on Weekends Is Equal as Daily Exercise](https://www.prevention.com/fitness/workouts/a40542944/working-out-only-on-weekends-as-effective-as-daily-exercise-study-finds/)
+- [Spaced Repetition for Mathematics](https://cronokirby.com/posts/2021/02/spaced-repetition-for-mathematics/)
+- [Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s [pdf]](https://static.newamerica.org/attachments/3407-doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/Crypto%20Wars_ReDo.7cb491837ac541709797bdf868d37f52.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
