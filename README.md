@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incident Report: Employee and Customer Account Compromise](https://www.twilio.com/blog/august-2022-social-engineering-attack)
+- [Plant-based ‘beef’ reduces CO2 but threatens ag jobs](https://news.cornell.edu/stories/2022/08/plant-based-beef-reduces-co2-threatens-ag-jobs)
+- [Bridge Loans](https://avc.com/2022/08/bridge-loans/)
+- [HN Leaders — What are the most upvoted users of Hacker News commenting on?](https://hn-leaders.herokuapp.com)
 - [Who Owns Tesla’s Data?](https://spectrum.ieee.org/tesla-autopilot-data-ownership)
-- [Ask HN: Have you ever inherited a code base you thought was well done?](https://news.ycombinator.com/item?id=32384769)
-- [Tricks to start working despite not feeling like it](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)
-- [To Uncover a Deepfake Video Call, Ask the Caller to Turn Sideways](https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/)
-- [No More “Insight Porn”](https://jakobgreenfeld.com/insight-porn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
