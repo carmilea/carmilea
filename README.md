@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft blocks Tutanota users from own service](https://tutanota.com/blog/posts/microsoft-blocks-tutanota-users-from-own-service/)
+- [A physical wiring diagram for the human immune system](https://www.nature.com/articles/s41586-022-05028-x)
 - [I 10x&#39;d a TI-84 emulator&#39;s speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
 - [The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene](https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext)
 - [Why does gRPC insist on trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
