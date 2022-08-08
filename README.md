@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AK-47](https://coolmilitarystuff.com/the-ak-47/)
+- [Keeper Tax &lpar;YC W19&rpar; Is Hiring a PM to Distrupt TurboTax](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=9be1bbe16311433d85102a822ea4b511&pm=s)
+- [A secret language of cells? New cell computations uncovered](https://actu.epfl.ch/news/a-secret-language-of-cells-new-cell-computations-u/)
+- [Solving and explaining university math problems with Deep Learning](https://www.pnas.org/doi/10.1073/pnas.2123433119)
 - [Amazon’s Roomba deal is about mapping your home](https://www.bloomberg.com/news/articles/2022-08-05/amazon-s-irobot-deal-is-about-roomba-s-data-collection)
-- [A Completely Open-Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
-- [Starting October 19, storage limit will be enforced on all Gitlab Free accounts](https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit-enforcement-schedule)
-- [IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp](https://www.thetylergibson.com/ikea-symfonisk-gen2-amp-modification-guide-a-much-cheaper-sonos-amp/)
+- [Achieving an open-source implementation of Apple Code Signing and notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
