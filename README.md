@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In 2003, Mark Zuckerberg Took a Vow of User Privacy on Slashdot](https://slashdot.org/comments.pl?sid=61425&cid=5774175)
+- [Tom Blomfield: Monzo Growth](https://tomblomfield.com/post/691384431502557184/monzo-growth)
+- [The East African Experiment](https://www.karlsnotes.com/the-east-african-federation/)
 - [The Ends of Education](http://www.antipope.org/charlie/blog-static/2022/08/the-end-of-education.html)
-- [$250K Longevity Prize Announced](https://www.longevityprize.com/)
-- [Blosxom: The Zen of Blogging](http://www.blosxom.com/)
-- [Trealla – A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
-- [Why your daily stand-ups don&#39;t work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
+- [Learn Effective C++ for Embedded Code](https://luckyresistor.me/knowledge/learn-cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
