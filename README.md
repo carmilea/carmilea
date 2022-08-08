@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you stop your open-source project from being used for evil?](https://stackoverflow.blog/2022/08/08/can-you-stop-your-open-source-project-from-being-used-for-evil/)
+- [I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned](https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/)
 - [Automated Reasoning at Amazon: A Conversation](https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc)
-- [GitHub suspends Tornado Cash developer account](https://twitter.com/semenov_roman_/status/1556717890308653059)
 - [Technical Writing Courses from Google](https://developers.google.com/tech-writing)
-- [The 1857 Utah War](https://www.imetatronink.com/2022/08/the-mostly-forgotten-1857-utah-war.html)
 - [Fintech is making credit cards weirder](https://workweek.com/2022/08/05/fintech-is-making-credit-cards-weirder/)
 <!-- BLOG-POST-LIST:END -->
 
