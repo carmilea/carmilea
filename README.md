@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft blocks Tutanota users from own service](https://tutanota.com/blog/posts/microsoft-blocks-tutanota-users-from-own-service/)
+- [I 10x&#39;d a TI-84 emulator&#39;s speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
 - [The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene](https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext)
-- [Why Does gRPC Insist on Trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
-- [The Last Naval Battle of World War 2 &lpar;2018&rpar;](https://www.navygeneralboard.com/the-last-naval-battle-of-world-war-2/)
-- [Code.golf – Solve problems in the least number of characters](https://code.golf)
-- [Look at median, and not mean GDP per capita](https://medianism.org/)
+- [Why does gRPC insist on trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
+- [The “bicameral mind” 30 years on &lpar;2007&rpar;](https://pubmed.ncbi.nlm.nih.gov/17509238/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
