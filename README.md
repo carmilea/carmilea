@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$250K Longevity Prize Announced](https://www.longevityprize.com/)
 - [Trealla – A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
 - [Why your daily stand-ups don&#39;t work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
 - [A physical wiring diagram for the human immune system](https://www.nature.com/articles/s41586-022-05028-x)
 - [I 10x&#39;d a TI-84 emulator&#39;s speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
-- [Debugging bare-metal STM32 from the seventh level of hell](https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
