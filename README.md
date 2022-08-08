@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OFAC Sanctions on Tornado Cash](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808)
+- [The AK-47](https://coolmilitarystuff.com/the-ak-47/)
+- [Amazon’s Roomba deal is about mapping your home](https://www.bloomberg.com/news/articles/2022-08-05/amazon-s-irobot-deal-is-about-roomba-s-data-collection)
+- [A Completely Open-Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 - [Starting October 19, storage limit will be enforced on all Gitlab Free accounts](https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit-enforcement-schedule)
-- [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916)
-- [Show HN: SaveSlack – create searchable knowledgebase from your Slack community](https://saveslack.com)
-- [California DMV accuses Tesla of making false claims about Autopilot and FSD](https://www.theverge.com/2022/8/6/23294658/california-dmv-accuses-tesla-false-claims-autopilot-full-self-driving-autonomous-vehicles)
+- [IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp](https://www.thetylergibson.com/ikea-symfonisk-gen2-amp-modification-guide-a-much-cheaper-sonos-amp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
