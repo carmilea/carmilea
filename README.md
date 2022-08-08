@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trealla – A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
 - [A physical wiring diagram for the human immune system](https://www.nature.com/articles/s41586-022-05028-x)
 - [I 10x&#39;d a TI-84 emulator&#39;s speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
 - [Debugging bare-metal STM32 from the seventh level of hell](https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/)
 - [The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene](https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext)
-- [Why does gRPC insist on trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
