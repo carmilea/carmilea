@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Owns Tesla’s Data?](https://spectrum.ieee.org/tesla-autopilot-data-ownership)
+- [Ask HN: Have you ever inherited a code base you thought was well done?](https://news.ycombinator.com/item?id=32384769)
 - [Tricks to start working despite not feeling like it](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)
+- [To Uncover a Deepfake Video Call, Ask the Caller to Turn Sideways](https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/)
 - [No More “Insight Porn”](https://jakobgreenfeld.com/insight-porn)
-- [Announcing: MiniRust](https://www.ralfj.de/blog/2022/08/08/minirust.html)
-- [Adtech giant Criteo faces $65M fine in France for GDPR consent breaches](https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/)
-- [NIST’s Post-Quantum Cryptography Standards](https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
