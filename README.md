@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ends of Education](http://www.antipope.org/charlie/blog-static/2022/08/the-end-of-education.html)
 - [$250K Longevity Prize Announced](https://www.longevityprize.com/)
+- [Blosxom: The Zen of Blogging](http://www.blosxom.com/)
 - [Trealla – A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
 - [Why your daily stand-ups don&#39;t work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
-- [A physical wiring diagram for the human immune system](https://www.nature.com/articles/s41586-022-05028-x)
-- [I 10x&#39;d a TI-84 emulator&#39;s speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
