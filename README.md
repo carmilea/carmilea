@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Apocalyptic Programming](https://zserge.com/posts/post-apocalyptic-programming/)
-- [Tom Blomfield: Monzo Growth](https://tomblomfield.com/post/691384431502557184/monzo-growth)
-- [The East African Experiment](https://www.karlsnotes.com/the-east-african-federation/)
-- [The Ends of Education](http://www.antipope.org/charlie/blog-static/2022/08/the-end-of-education.html)
-- [Learn Effective C++ for Embedded Code](https://luckyresistor.me/knowledge/learn-cpp/)
+- [Tricks to start working despite not feeling like it](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)
+- [No More “Insight Porn”](https://jakobgreenfeld.com/insight-porn)
+- [Announcing: MiniRust](https://www.ralfj.de/blog/2022/08/08/minirust.html)
+- [Adtech giant Criteo faces $65M fine in France for GDPR consent breaches](https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/)
+- [NIST’s Post-Quantum Cryptography Standards](https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
