@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The quick and practical “MSI” hash table](https://nullprogram.com/blog/2022/08/08/)
-- [V-22 Osprey](https://coolmilitarystuff.com/u-s-marines-corps-v-22-osprey/)
-- [$5.6B Cloud Company Fivetran Acquired Its Way to Survival](https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/)
+- [The Story of Mel, a Real Programmer](https://www.cs.utah.edu/~elb/folklore/mel.html)
+- [A quick and practical “MSI” hash table](https://nullprogram.com/blog/2022/08/08/)
+- [$5.6B cloud company Fivetran acquired its way to survival](https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/)
 - [Show HN: Yare 2 – Programmable RTS game](https://www.yare.io)
 - [The tooling ecosystem that adds joy to KiCad](https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad)
 <!-- BLOG-POST-LIST:END -->
