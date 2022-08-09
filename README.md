@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Gas Prices Fall Below $4 per Gallon; First Time Since March](https://www.gasbuddy.com/go/399-gas)
-- [Tell HN: Spotify Premium is full of Ads](https://news.ycombinator.com/item?id=32402040)
-- [Slack Status – Trouble with DMs and Threads](https://status.slack.com/2022-08/1a58d5714b3ef784)
-- [Ask HN: Anyone else having trouble with Twitter?](https://news.ycombinator.com/item?id=32401665)
+- [Google Maps&#39; Moat Is Evaporating &lpar;2020&rpar;](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
+- [Implementing a Zero Trust Architecture](https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
+- [How and why to host a blog at home](https://kubesail.com/blog/2022-08-08-how-and-why)
 - [The state of South Africa, 28ish years post-apartheid](https://www.awanderingmind.blog/posts/2022-07-30-state-of-south-africa.html)
+- [Lz_xor](http://richg42.blogspot.com/2022/01/lzxor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
