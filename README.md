@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to make a native GUI with a modern language?](https://news.ycombinator.com/item?id=32398181)
+- [Wildfires are destroying California&#39;s forest carbon credit reserves, study says](https://www.reuters.com/world/us/wildfires-are-destroying-californias-forest-carbon-credit-reserves-study-2022-08-05/)
+- [Saskatoon Freezing Deaths](https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths)
+- [From Novice to Master, and Back Again](https://blog.djmnet.org/2013/01/14/from-novice-to-master-and-back-again/)
 - [Almost every Ferrari sold since 2005 is being recalled](https://arstechnica.com/cars/2022/08/almost-every-ferrari-sold-since-2005-is-being-recalled/)
 - [2022 NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)
-- [Iran makes first import order using cryptocurrency – report](https://www.reuters.com/business/finance/iran-makes-first-import-order-using-cryptocurrency-tasnim-2022-08-09/)
-- [“Who Should Write the Terraform?”](https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
