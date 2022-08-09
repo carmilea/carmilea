@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How fast is 12th Gen Intel Core?](https://frame.work/blog/how-fast-is-12th-gen-intel-core)
+- [Write a note to your spouse every day](https://jdnoc.com/note/)
+- [Three people in critical condition from Google data center &#39;electrical incident&#39;](https://www.sfgate.com/news/article/google-electrical-incident-injures-3-17360321.php)
 - [The Illustrated QUIC Connection](https://quic.xargs.org/)
-- [Is Google.com Down?](https://www.google.com)
-- [Google Is Partially Down](https://news.ycombinator.com/item?id=32393197)
-- [Ask HN: Google Search Down?](https://news.ycombinator.com/item?id=32393051)
-- [Man Arrested for Promoting Jury Nullification Wins Federal Case](https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/)
+- [Ask HN: Google Search down?](https://news.ycombinator.com/item?id=32393051)
 <!-- BLOG-POST-LIST:END -->
 
 ---
