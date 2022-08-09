@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wildfires are destroying California&#39;s forest carbon credit reserves, study says](https://www.reuters.com/world/us/wildfires-are-destroying-californias-forest-carbon-credit-reserves-study-2022-08-05/)
-- [Saskatoon Freezing Deaths](https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths)
-- [From Novice to Master, and Back Again](https://blog.djmnet.org/2013/01/14/from-novice-to-master-and-back-again/)
-- [Almost every Ferrari sold since 2005 is being recalled](https://arstechnica.com/cars/2022/08/almost-every-ferrari-sold-since-2005-is-being-recalled/)
-- [2022 NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)
+- [An incident impacting some accounts &lpar;5.4mm&rpar; and private information on Twitter](https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts)
+- [Show HN: Recode – Free, open-source, community-driven Codespaces alternative](https://github.com/recode-sh/cli)
+- [Why Heroku-like pricing models are hard to build](https://www.getlago.com/blog/why-heroku-like-pricing-models-are-hard-to-build)
+- [The do-it-yourself cyclotron &lpar;2010&rpar;](https://www.symmetrymagazine.org/article/august-2010/the-do-it-yourself-cyclotron)
+- [Implementing Parts of the Swift Compiler in Swift](https://forums.swift.org/t/implementing-parts-of-the-swift-compiler-in-swift/59524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
