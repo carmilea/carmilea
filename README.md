@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why did smartphones become a single point of failure?](https://news.ycombinator.com/item?id=32396685)
-- [Universe &lpar;YC W18&rpar; Is Hiring a Senior Front End Web Engineer](https://jobs.lever.co/onuniverse/f2909021-bac3-4938-975e-62eb9c5d8dc4)
-- [France experiencing worst drought on record](https://www.bbc.co.uk/newsround/62456540)
-- [How do palm trees survive hurricanes? &lpar;2017&rpar;](https://www.indefenseofplants.com/blog/2017/9/10/how-do-palms-survive-hurricanes)
-- [Spiders Seem to Have REM-Like Sleep and May Even Dream](https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/)
+- [The End of Manual Transmission](https://www.theatlantic.com/technology/archive/2022/08/stick-shift-manual-transmission-cars/671078/)
+- [Iran makes first import order using cryptocurrency – report](https://www.reuters.com/business/finance/iran-makes-first-import-order-using-cryptocurrency-tasnim-2022-08-09/)
+- [GitHub removes promise not to track you](https://twitter.com/lgarron/status/1556835002897207296)
+- [“Who Should Write the Terraform?”](https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/)
+- [New Home Prices Are Starting to Drop](https://fortune.com/2022/08/08/new-home-prices-falling-homebuilders-oversupply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
