@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of Manual Transmission](https://www.theatlantic.com/technology/archive/2022/08/stick-shift-manual-transmission-cars/671078/)
+- [Ask HN: How to make a native GUI with a modern language?](https://news.ycombinator.com/item?id=32398181)
+- [Almost every Ferrari sold since 2005 is being recalled](https://arstechnica.com/cars/2022/08/almost-every-ferrari-sold-since-2005-is-being-recalled/)
+- [2022 NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)
 - [Iran makes first import order using cryptocurrency – report](https://www.reuters.com/business/finance/iran-makes-first-import-order-using-cryptocurrency-tasnim-2022-08-09/)
-- [GitHub removes promise not to track you](https://twitter.com/lgarron/status/1556835002897207296)
 - [“Who Should Write the Terraform?”](https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/)
-- [New Home Prices Are Starting to Drop](https://fortune.com/2022/08/08/new-home-prices-falling-homebuilders-oversupply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
