@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Twitter Employee Convicted of Charges Related to Spying for Saudis](https://politpost.com/2022/08/09/former-twitter-employee-convicted-of-charges-related-to-spying-for-saudis/)
 - [Relationship Hero &lpar;YC S17&rpar; is hiring coaches](https://relationshiphero.com/careers?role=coach)
-- [The Data Facebook Gave Police to Prosecute a Teenager for Abortion](https://www.vice.com/en/article/n7zevd/this-is-the-data-facebook-gave-police-to-prosecute-a-teenager-for-abortion)
 - [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
-- [Fishing Gear Accounts for an Alarming Amount of Plastic in Oceans &lpar;2021&rpar;](https://www.nature.org/en-us/newsroom/ca-ocean-plastic/)
+- [Tornado cash takedown and its repercussions](https://rnikhil.com/2022/08/09/tornado-cash-block.html)
+- [Fishing gear accounts for an alarming amount of plastic in oceans &lpar;2021&rpar;](https://www.nature.org/en-us/newsroom/ca-ocean-plastic/)
+- [Google Maps&#39; moat is evaporating &lpar;2020&rpar;](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
 <!-- BLOG-POST-LIST:END -->
 
 ---
