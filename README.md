@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Story of Mel, a Real Programmer](https://www.cs.utah.edu/~elb/folklore/mel.html)
+- [GitHub accounts of people who contributed to tornado repos just got deleted](https://twitter.com/bantg/status/1556721709931175937)
+- [The Story of Mel, a Real Programmer &lpar;1983&rpar;](https://www.cs.utah.edu/~elb/folklore/mel.html)
 - [A quick and practical “MSI” hash table](https://nullprogram.com/blog/2022/08/08/)
 - [$5.6B cloud company Fivetran acquired its way to survival](https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/)
 - [Show HN: Yare 2 – Programmable RTS game](https://www.yare.io)
-- [The tooling ecosystem that adds joy to KiCad](https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
