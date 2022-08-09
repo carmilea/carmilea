@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Gas Prices Fall Below $4 per Gallon; First Time Since March](https://www.gasbuddy.com/go/399-gas)
+- [Tell HN: Spotify Premium is full of Ads](https://news.ycombinator.com/item?id=32402040)
+- [Slack Status – Trouble with DMs and Threads](https://status.slack.com/2022-08/1a58d5714b3ef784)
 - [Ask HN: Anyone else having trouble with Twitter?](https://news.ycombinator.com/item?id=32401665)
-- [Will Intel&#39;s AXG division survive Pat Gelsinger’s axe?](https://www.jonpeddie.com/editorials/will-axg-survive-gelsingers-axe/)
-- [ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture [pdf]](https://aepicleak.com/aepicleak.pdf)
-- [Facebook Gave Police Teenager&#39;s DMs in Abortion Prosecution](https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/)
-- [Astro 1.0 – a web framework for building fast, content-focused websites](https://astro.build/blog/astro-1/)
+- [The state of South Africa, 28ish years post-apartheid](https://www.awanderingmind.blog/posts/2022-07-30-state-of-south-africa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
