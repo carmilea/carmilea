@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three people critically injured after &#39;electrical event&#39; at Google Data Center](https://www.ketv.com/article/council-bluffs-google-data-center-electrical-event-three-people-critically-injured/40838924)
 - [How fast is 12th Gen Intel Core?](https://frame.work/blog/how-fast-is-12th-gen-intel-core)
 - [Write a note to your spouse every day](https://jdnoc.com/note/)
 - [Three people in critical condition from Google data center &#39;electrical incident&#39;](https://www.sfgate.com/news/article/google-electrical-incident-injures-3-17360321.php)
-- [The Illustrated QUIC Connection](https://quic.xargs.org/)
 - [Ask HN: Google Search down?](https://news.ycombinator.com/item?id=32393051)
 <!-- BLOG-POST-LIST:END -->
 
