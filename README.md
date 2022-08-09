@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Windmill &lpar;YC S22&rpar; – Turn scripts into internal apps and workflows](https://news.ycombinator.com/item?id=32400849)
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior FullStack Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
+- [New Tuberculosis vaccine candidate safe in HIV- and non-HIV-exposed newborns](https://www.mpg.de/19040549/0801-bich-tuberculosis-vaccine-candidate-vpm1002-safe-in-hiv-and-non-hiv-exposed-newborns-as-study-shows-17216463-x)
 - [An incident impacting some accounts &lpar;5.4mm&rpar; and private information on Twitter](https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts)
 - [Show HN: Recode – Free, open-source, community-driven Codespaces alternative](https://github.com/recode-sh/cli)
-- [Why Heroku-like pricing models are hard to build](https://www.getlago.com/blog/why-heroku-like-pricing-models-are-hard-to-build)
-- [The do-it-yourself cyclotron &lpar;2010&rpar;](https://www.symmetrymagazine.org/article/august-2010/the-do-it-yourself-cyclotron)
-- [Implementing Parts of the Swift Compiler in Swift](https://forums.swift.org/t/implementing-parts-of-the-swift-compiler-in-swift/59524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
