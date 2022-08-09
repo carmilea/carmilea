@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The quick and practical “MSI” hash table](https://nullprogram.com/blog/2022/08/08/)
+- [V-22 Osprey](https://coolmilitarystuff.com/u-s-marines-corps-v-22-osprey/)
+- [$5.6B Cloud Company Fivetran Acquired Its Way to Survival](https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/)
+- [Show HN: Yare 2 – Programmable RTS game](https://www.yare.io)
 - [The tooling ecosystem that adds joy to KiCad](https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad)
-- [How fast is 12th Gen Intel Core?](https://frame.work/blog/how-fast-is-12th-gen-intel-core)
-- [Write a note to your spouse every day](https://jdnoc.com/note/)
-- [Three people in critical condition from Google data center &#39;electrical incident&#39;](https://www.sfgate.com/news/article/google-electrical-incident-injures-3-17360321.php)
-- [Ask HN: Google Search down?](https://news.ycombinator.com/item?id=32393051)
 <!-- BLOG-POST-LIST:END -->
 
 ---
