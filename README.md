@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why did smartphones become a single point of failure?](https://news.ycombinator.com/item?id=32396685)
+- [Universe &lpar;YC W18&rpar; Is Hiring a Senior Front End Web Engineer](https://jobs.lever.co/onuniverse/f2909021-bac3-4938-975e-62eb9c5d8dc4)
+- [France experiencing worst drought on record](https://www.bbc.co.uk/newsround/62456540)
+- [How do palm trees survive hurricanes? &lpar;2017&rpar;](https://www.indefenseofplants.com/blog/2017/9/10/how-do-palms-survive-hurricanes)
 - [Spiders Seem to Have REM-Like Sleep and May Even Dream](https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/)
-- [GitHub accounts of people who contributed to tornado repos just got deleted](https://twitter.com/bantg/status/1556721709931175937)
-- [Our brain is a prediction machine that is always active](https://www.mpi.nl/news/our-brain-prediction-machine-always-active)
-- [The Story of Mel, a Real Programmer &lpar;1983&rpar;](https://www.cs.utah.edu/~elb/folklore/mel.html)
-- [Thank You, Firebug](https://getfirebug.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
