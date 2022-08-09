@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A content model is not a design system &lpar;2021&rpar;](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
-- [The case against an alternative to C](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
-- [Using Python Jupyter Notebook With SingleStoreDB](https://www.singlestore.com/blog/using-python-jupyter-notebook-with-singlestoredb)
-- [A history of storage media &lpar;2017&rpar;](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
-- [Some Epson printers are programmed to stop working after a certain amount of use](https://gizmodo.com/epson-printer-end-of-service-life-error-not-working-dea-1849384045)
+- [The Illustrated QUIC Connection](https://quic.xargs.org/)
+- [Is Google.com Down?](https://www.google.com)
+- [Google Is Partially Down](https://news.ycombinator.com/item?id=32393197)
+- [Ask HN: Google Search Down?](https://news.ycombinator.com/item?id=32393051)
+- [Man Arrested for Promoting Jury Nullification Wins Federal Case](https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
