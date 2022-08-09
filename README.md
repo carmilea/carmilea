@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spiders Seem to Have REM-Like Sleep and May Even Dream](https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/)
 - [GitHub accounts of people who contributed to tornado repos just got deleted](https://twitter.com/bantg/status/1556721709931175937)
+- [Our brain is a prediction machine that is always active](https://www.mpi.nl/news/our-brain-prediction-machine-always-active)
 - [The Story of Mel, a Real Programmer &lpar;1983&rpar;](https://www.cs.utah.edu/~elb/folklore/mel.html)
-- [A quick and practical “MSI” hash table](https://nullprogram.com/blog/2022/08/08/)
-- [$5.6B cloud company Fivetran acquired its way to survival](https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/)
-- [Show HN: Yare 2 – Programmable RTS game](https://www.yare.io)
+- [Thank You, Firebug](https://getfirebug.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
