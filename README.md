@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three people critically injured after &#39;electrical event&#39; at Google Data Center](https://www.ketv.com/article/council-bluffs-google-data-center-electrical-event-three-people-critically-injured/40838924)
+- [The tooling ecosystem that adds joy to KiCad](https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad)
 - [How fast is 12th Gen Intel Core?](https://frame.work/blog/how-fast-is-12th-gen-intel-core)
 - [Write a note to your spouse every day](https://jdnoc.com/note/)
 - [Three people in critical condition from Google data center &#39;electrical incident&#39;](https://www.sfgate.com/news/article/google-electrical-incident-injures-3-17360321.php)
