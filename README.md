@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps&#39; Moat Is Evaporating &lpar;2020&rpar;](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
-- [Implementing a Zero Trust Architecture](https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
-- [How and why to host a blog at home](https://kubesail.com/blog/2022-08-08-how-and-why)
-- [The state of South Africa, 28ish years post-apartheid](https://www.awanderingmind.blog/posts/2022-07-30-state-of-south-africa.html)
-- [Lz_xor](http://richg42.blogspot.com/2022/01/lzxor.html)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Coaches](https://relationshiphero.com/careers?role=coach)
+- [The Data Facebook Gave Police to Prosecute a Teenager for Abortion](https://www.vice.com/en/article/n7zevd/this-is-the-data-facebook-gave-police-to-prosecute-a-teenager-for-abortion)
+- [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
+- [Tornado cash takedown and its repercussions](https://rnikhil.com/2022/08/09/tornado-cash-block.html)
+- [Fishing Gear Accounts for an Alarming Amount of Plastic in Oceans &lpar;2021&rpar;](https://www.nature.org/en-us/newsroom/ca-ocean-plastic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
