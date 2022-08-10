@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC rejects Starlink, LTD bids for $2.18B in broadband subsidies](https://www.fiercetelecom.com/broadband/fcc-rejects-ltd-broadband-starlink-rdof-bids)
+- [Smarking &lpar;YC W15&rpar; Is Hiring Senior ML Eng to Scale Data Platform and Infra](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [FCC rejects LTD Broadband, Starlink RDOF bids](https://www.fiercetelecom.com/broadband/fcc-rejects-ltd-broadband-starlink-rdof-bids)
 - [SQLite-HTTP: A SQLite extension for making HTTP requests](https://observablehq.com/@asg017/introducing-sqlite-http)
 - [OnlyFans bribed Meta to put many porn stars on terror watchlist, suits claim](https://nypost.com/2022/08/09/onlyfans-bribed-meta-to-put-thousands-of-porn-stars-on-terror-watchlist-suits-claim/)
-- [Instagram can track anything you do on any website in their in-app browser](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
-- [CareRev &lpar;YC S16&rpar; is hiring Ruby/Rails devs to transform healthcare &lpar;Remote US&rpar;](https://grnh.se/ad639bdc3us)
+- [Why does anything exist?](https://alwaysasking.com/why-does-anything-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
