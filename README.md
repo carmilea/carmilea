@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarking &lpar;YC W15&rpar; Is Hiring Senior ML Eng to Scale Data Platform and Infra](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [FCC rejects LTD Broadband, Starlink RDOF bids](https://www.fiercetelecom.com/broadband/fcc-rejects-ltd-broadband-starlink-rdof-bids)
-- [SQLite-HTTP: A SQLite extension for making HTTP requests](https://observablehq.com/@asg017/introducing-sqlite-http)
-- [Reversing the freight train: The case for degrowth](https://www.lrb.co.uk/the-paper/v44/n16/geoff-mann/reversing-the-freight-train)
-- [OnlyFans bribed Meta to put many porn stars on terror watchlist, suits claim](https://nypost.com/2022/08/09/onlyfans-bribed-meta-to-put-thousands-of-porn-stars-on-terror-watchlist-suits-claim/)
+- [Disney surpasses Netflix in global paid streaming subscribers](https://www.axios.com/2022/08/10/disney-surpasses-netflix-global-paid-subscribers)
+- [New REST API Enables Distributed SQL at Enterprise Scale](https://www.singlestore.com/blog/rest-api-enables-distributed-sql)
+- [Let websites framebust out of native apps](https://www.holovaty.com/writing/framebust-native-apps/)
+- [Smarking &lpar;YC W15&rpar; Is Hiring a Senior ML Engineer](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [The World Excel Championship is being broadcast on ESPN](https://www.ladbible.com/sport/world-excel-championship-that-is-getting-national-tv-coverage-20220809)
 <!-- BLOG-POST-LIST:END -->
 
 ---
