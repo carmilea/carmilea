@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why does anything exist?](https://alwaysasking.com/why-does-anything-exist/)
-- [Themes in academic literature: prejudice and social justice](https://www.nas.org/academic-questions/35/2/themes-in-academic-literature-prejudice-and-social-justice#.YvPaE05MI_Q.twitter)
 - [Instagram can track anything you do on any website in their in-app browser](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
 - [CareRev &lpar;YC S16&rpar; is hiring Ruby/Rails devs to transform healthcare &lpar;Remote US&rpar;](https://grnh.se/ad639bdc3us)
 - [Stable Diffusion launch announcement](https://stability.ai/blog/stable-diffusion-announcement)
+- [Nip2: A spreadsheet-like GUI for the libvips image processing library](https://github.com/libvips/nip2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
