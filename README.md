@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why does anything exist?](https://alwaysasking.com/why-does-anything-exist/)
+- [FCC rejects Starlink, LTD bids for $2.18B in broadband subsidies](https://www.fiercetelecom.com/broadband/fcc-rejects-ltd-broadband-starlink-rdof-bids)
+- [SQLite-HTTP: A SQLite extension for making HTTP requests](https://observablehq.com/@asg017/introducing-sqlite-http)
+- [OnlyFans bribed Meta to put many porn stars on terror watchlist, suits claim](https://nypost.com/2022/08/09/onlyfans-bribed-meta-to-put-thousands-of-porn-stars-on-terror-watchlist-suits-claim/)
 - [Instagram can track anything you do on any website in their in-app browser](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
 - [CareRev &lpar;YC S16&rpar; is hiring Ruby/Rails devs to transform healthcare &lpar;Remote US&rpar;](https://grnh.se/ad639bdc3us)
-- [Stable Diffusion launch announcement](https://stability.ai/blog/stable-diffusion-announcement)
-- [Nip2: A spreadsheet-like GUI for the libvips image processing library](https://github.com/libvips/nip2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
