@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Baby’s First Garbage Collector &lpar;2013&rpar;](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-- [Photoshop CC v19 installer for Linux](https://github.com/Gictorbit/photoshopCClinux)
+- [AppLovin bids $17.5B to acquire Unity](https://www.axios.com/2022/08/09/applovin-unity-video-game-consolidation)
 - [Artificial synapses 10k times faster than real thing](https://spectrum.ieee.org/artificial-synapses)
 - [Cognitive training: A field in search of a phenomenon](https://journals.sagepub.com/doi/10.1177/17456916221091830)
 - [Tcled: Pure Tcl Console Text Editor &lpar;2019&rpar;](https://github.com/slebetman/tcled)
