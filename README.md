@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric Vehicles Are Going to Suck; Here&#39;s Why [video]](https://media.ccc.de/v/mch2022-77-electric-vehicles-are-going-to-suck-here-s-why)
+- [Strong force grows quickly from zero, then becomes constant at all distances](https://phys.org/news/2022-08-strength-strong.html)
 - [Faster Ruby: Thoughts from the Outside](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
 - [Ashby &lpar;YC W19&rpar; hiring Europe Product Eng in low-meeting, great devex culture](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7dcbfb52-f465-46b2-adbb-b6caccafbe0a)
 - [How to Choose the Right Python Concurrency API](https://superfastpython.com/python-concurrency-choose-api/)
-- [Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
-- [Essential Climbing Knots](https://www.climbing.com/skills/essential-climbing-knots-complete-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
