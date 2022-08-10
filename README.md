@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MakerDAO May Execute Emergency Shutdown If Sanctions Hit DAI](https://thedefiant.io/tornado-impact-makerdao-dai)
-- [Show HN: Lumina Desk – digital desk for health and productivity](https://getlumina.com/desk)
-- [Celsius Network Files Chapter 11 Bankruptcy](https://dfr.vermont.gov/consumer-alert/celsius-network-files-chapter-11-bankruptcy)
-- [Launch HN: Sematic &lpar;YC S22&rpar; – Open-source framework to build ML pipelines faster](https://news.ycombinator.com/item?id=32413070)
-- [How SQLite Helps You Do ACID](https://fly.io/blog/sqlite-internals-rollback-journal/)
+- [CareRev &lpar;YC S16&rpar; is hiring Ruby/Rails devs to transform healthcare &lpar;Remote US&rpar;](https://grnh.se/ad639bdc3us)
+- [Dark Matter Doesn&#39;t Exist](https://iai.tv/articles/dark-matter-doesnt-exist-auid-2180)
+- [Stable Diffusion launch announcement](https://stability.ai/blog/stable-diffusion-announcement)
+- [Nip2: A spreadsheet-like GUI for the libvips image processing library](https://github.com/libvips/nip2)
+- [Mathematicians Crack a Simple but Stubborn Class of Equations](https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
