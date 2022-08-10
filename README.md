@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Exercises to think, then speak, more clearly](https://news.ycombinator.com/item?id=32411586)
-- [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
-- [Wet/Dry Vacuum Buying Guide &lpar;2019&rpar;](http://wet-dry-vac.com/wet-dry-vacuum-guide.html)
-- [The many derivatives of CP/M – and which of them are now FOSS?](https://www.theregister.com/2022/08/04/the_many_derivatives_of_cpm/)
-- [U.S. annual inflation rate drops to 8.5%](https://www.bls.gov/news.release/archives/cpi_08102022.htm)
+- [Celsius Network Files Chapter 11 Bankruptcy](https://dfr.vermont.gov/consumer-alert/celsius-network-files-chapter-11-bankruptcy)
+- [Launch HN: Sematic &lpar;YC S22&rpar; – Open-source framework to build ML pipelines faster](https://news.ycombinator.com/item?id=32413070)
+- [How SQLite Helps You Do ACID](https://fly.io/blog/sqlite-internals-rollback-journal/)
+- [The Semantic Web Is Dead – Long Live the Semantic Web](https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md)
+- [RaspberryPi for measure bio signals &lpar;open-source&rpar;](https://github.com/HackerBCI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
