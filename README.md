@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.K.&#39;S Online Censorship Bill Causes Far More Harm Than It Attempts to Prevent](https://reason.com/2022/08/10/u-k-s-online-censorship-bill-causes-far-more-harm-than-it-attempts-to-prevent/)
-- [Toko &lpar;YC W22&rpar; is hiring a Founding Engineer to make language fluency accessible](https://www.ycombinator.com/companies/toko/jobs/Oiatspl-founding-engineer)
-- [“Autistic people can’t acknowledge when they’re wrong”](https://the.scapegoat.dev/autistic-people-cant-acknowledge-when-they-are-wrong/)
-- [Ask HN: List of titles and specifications for tech jobs?](https://news.ycombinator.com/item?id=32410333)
-- [Francis Fukuyama: Paths to Depolarization](https://www.persuasion.community/p/fukuyama-paths-to-depolarization)
+- [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
+- [Wet/Dry Vacuum Guide](http://wet-dry-vac.com/wet-dry-vacuum-guide.html)
+- [The many derivatives of CP/M – and which of them are now FOSS?](https://www.theregister.com/2022/08/04/the_many_derivatives_of_cpm/)
+- [Elon Musk Dumps $6.9B in Tesla Stock After Pumping Up Investors](https://thedeepdive.ca/elon-musk-dumps-6-9-billion-in-tesla-stock-after-pumping-up-investors-at-shareholder-meeting/)
+- [Inflation drops to 8.5% annual rate](https://www.bls.gov/news.release/archives/cpi_08102022.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
