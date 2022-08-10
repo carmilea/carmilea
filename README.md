@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why aren&#39;t smart people happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
-- [Electric Vehicles Are Going to Suck; Here&#39;s Why [video]](https://media.ccc.de/v/mch2022-77-electric-vehicles-are-going-to-suck-here-s-why)
-- [Strong force grows quickly from zero, then becomes constant at all distances](https://phys.org/news/2022-08-strength-strong.html)
-- [Faster Ruby: Thoughts from the Outside](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
-- [Ashby &lpar;YC W19&rpar; hiring Europe Product Eng in low-meeting, great devex culture](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7dcbfb52-f465-46b2-adbb-b6caccafbe0a)
+- [U.K.&#39;S Online Censorship Bill Causes Far More Harm Than It Attempts to Prevent](https://reason.com/2022/08/10/u-k-s-online-censorship-bill-causes-far-more-harm-than-it-attempts-to-prevent/)
+- [Toko &lpar;YC W22&rpar; is hiring a Founding Engineer to make language fluency accessible](https://www.ycombinator.com/companies/toko/jobs/Oiatspl-founding-engineer)
+- [“Autistic people can’t acknowledge when they’re wrong”](https://the.scapegoat.dev/autistic-people-cant-acknowledge-when-they-are-wrong/)
+- [Ask HN: List of titles and specifications for tech jobs?](https://news.ycombinator.com/item?id=32410333)
+- [Francis Fukuyama: Paths to Depolarization](https://www.persuasion.community/p/fukuyama-paths-to-depolarization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
