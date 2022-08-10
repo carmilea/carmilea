@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why aren&#39;t smart people happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
 - [Electric Vehicles Are Going to Suck; Here&#39;s Why [video]](https://media.ccc.de/v/mch2022-77-electric-vehicles-are-going-to-suck-here-s-why)
 - [Strong force grows quickly from zero, then becomes constant at all distances](https://phys.org/news/2022-08-strength-strong.html)
 - [Faster Ruby: Thoughts from the Outside](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
 - [Ashby &lpar;YC W19&rpar; hiring Europe Product Eng in low-meeting, great devex culture](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7dcbfb52-f465-46b2-adbb-b6caccafbe0a)
-- [How to Choose the Right Python Concurrency API](https://superfastpython.com/python-concurrency-choose-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
