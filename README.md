@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Exercises to think, then speak, more clearly](https://news.ycombinator.com/item?id=32411586)
 - [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
-- [Wet/Dry Vacuum Guide](http://wet-dry-vac.com/wet-dry-vacuum-guide.html)
+- [Wet/Dry Vacuum Buying Guide &lpar;2019&rpar;](http://wet-dry-vac.com/wet-dry-vacuum-guide.html)
 - [The many derivatives of CP/M – and which of them are now FOSS?](https://www.theregister.com/2022/08/04/the_many_derivatives_of_cpm/)
-- [Elon Musk Dumps $6.9B in Tesla Stock After Pumping Up Investors](https://thedeepdive.ca/elon-musk-dumps-6-9-billion-in-tesla-stock-after-pumping-up-investors-at-shareholder-meeting/)
-- [Inflation drops to 8.5% annual rate](https://www.bls.gov/news.release/archives/cpi_08102022.htm)
+- [U.S. annual inflation rate drops to 8.5%](https://www.bls.gov/news.release/archives/cpi_08102022.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
