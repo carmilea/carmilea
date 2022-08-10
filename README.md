@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; hiring Europe Product Eng in low-meeting, great devex culture](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7dcbfb52-f465-46b2-adbb-b6caccafbe0a)
+- [Essential Climbing Knots](https://www.climbing.com/skills/essential-climbing-knots-complete-guide/)
 - [Reddit’s database has two tables &lpar;2012&rpar;](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/)
-- [Unprecedented 100% of First 14 Patients with Cancer Respond to Dostarlimab](https://ascopost.com/news/june-2022/unprecedented-100-of-first-14-untreated-patients-with-rectal-cancer-respond-to-pd-1-blocker-dostarlimab-gxly/)
 - [JNumPy: Writing high-performance C extensions for Python in minutes](https://github.com/Suzhou-Tongyuan/jnumpy)
 - [A History of Lua](https://www.lua.org/history.html)
-- [Mental Model Practices](https://mmpractices.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
