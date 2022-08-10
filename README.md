@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [[r]evolution 2022: ITDM &amp; Business Leader Breakout Session](https://www.youtube.com/watch?v=Vp5Vi7BzxYE)
 - [SingleStore | Community Call | August 2022](https://www.youtube.com/watch?v=Pi_oCXj7LEo)
 - [[r]evolution 2022: Main Keynote Session](https://www.youtube.com/watch?v=WVcCA9uu33c)
 - [[r]evolution 2022: Building Data-Intensive Applications using SingleStoreDB](https://www.youtube.com/watch?v=vcNgoE3kX8M)
 - [SingleStore | Community Call | July 2022](https://www.youtube.com/watch?v=_H7QyjTvnik)
-- [[r]evolution 2022: The Real-Time Revolution with SingleStore CEO Raj Verma](https://www.youtube.com/watch?v=QiD6ZiCpLeg)
 <!-- YOUTUBE:END -->
 
 
