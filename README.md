@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relationship Hero &lpar;YC S17&rpar; is hiring coaches](https://relationshiphero.com/careers?role=coach)
-- [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
-- [Tornado cash takedown and its repercussions](https://rnikhil.com/2022/08/09/tornado-cash-block.html)
-- [Fishing gear accounts for an alarming amount of plastic in oceans &lpar;2021&rpar;](https://www.nature.org/en-us/newsroom/ca-ocean-plastic/)
-- [Google Maps&#39; moat is evaporating &lpar;2020&rpar;](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
+- [Baby’s First Garbage Collector &lpar;2013&rpar;](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- [Photoshop CC v19 installer for Linux](https://github.com/Gictorbit/photoshopCClinux)
+- [Artificial synapses 10k times faster than real thing](https://spectrum.ieee.org/artificial-synapses)
+- [Cognitive training: A field in search of a phenomenon](https://journals.sagepub.com/doi/10.1177/17456916221091830)
+- [Tcled: Pure Tcl Console Text Editor &lpar;2019&rpar;](https://github.com/slebetman/tcled)
 <!-- BLOG-POST-LIST:END -->
 
 ---
