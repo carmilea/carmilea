@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit’s database has two tables &lpar;2012&rpar;](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/)
+- [Unprecedented 100% of First 14 Patients with Cancer Respond to Dostarlimab](https://ascopost.com/news/june-2022/unprecedented-100-of-first-14-untreated-patients-with-rectal-cancer-respond-to-pd-1-blocker-dostarlimab-gxly/)
 - [JNumPy: Writing high-performance C extensions for Python in minutes](https://github.com/Suzhou-Tongyuan/jnumpy)
+- [A History of Lua](https://www.lua.org/history.html)
 - [Mental Model Practices](https://mmpractices.com/)
-- [Baby’s First Garbage Collector &lpar;2013&rpar;](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-- [AppLovin bids $17.5B to acquire Unity](https://www.axios.com/2022/08/09/applovin-unity-video-game-consolidation)
-- [Artificial synapses 10k times faster than real thing](https://spectrum.ieee.org/artificial-synapses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
