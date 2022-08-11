@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SharpestMinds &lpar;YC W18&rpar; Is Hiring a Software Developer](https://public.3.basecamp.com/p/gR8WJgPHPUq5r51MyWSVAX5T)
-- [IPFS and Their Gateways](https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/)
-- [Fully Dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
-- [Backyard hens’ eggs contain 40 times more lead on average than shop eggs](https://theconversation.com/backyard-hens-eggs-contain-40-times-more-lead-on-average-than-shop-eggs-research-finds-187442)
-- [No Silver Bullet &lpar;1986&rpar; [pdf]](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+- [Google’s Caste-Bias Problem](https://www.newyorker.com/news/q-and-a/googles-caste-bias-problem)
+- [GM gives customers no choice to opt out of $1500 onstar subscription](https://www.theautopian.com/gm-gives-buick-gmc-and-cadillac-escalade-customers-no-choice-to-opt-out-of-1500-onstar-subscription/)
+- [GM Makes $1,500 OnStar Subscription Mandatory on GMC, Buick, Cadillac Models](https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models)
+- [The Reason Why Are Trucks Getting Bigger](https://toddofmischief.blogspot.com/2022/05/why-are-trucks-getting-bigger.html)
+- [Show HN: GitHub Commit Visualiser](https://github-vis.ably.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
