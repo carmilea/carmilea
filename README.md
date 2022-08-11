@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own EV charging solution](https://www.chargelab.co/developer-program)
 - [Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]](https://www.usenix.org/system/files/sec22-sullivan.pdf)
 - [Don&#39;t Pickle Your Data](https://www.benfrederickson.com/dont-pickle-your-data/)
 - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
-- [Do spiders dream? A new study suggests they do](https://www.nationalgeographic.com/animals/article/jumping-spiders-dream-rem-sleep-study-suggests)
 - [Is this the end of social networking?](https://reb00ted.org/tech/20220727-end-of-social-networking/)
 <!-- BLOG-POST-LIST:END -->
 
