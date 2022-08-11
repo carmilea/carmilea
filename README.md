@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Click the Paw](https://www.google.com/search?q=cat)
 - [Robotic swimming in curved space via geometric phase](https://www.pnas.org/doi/full/10.1073/pnas.2200924119)
 - [Join Data from PostgreSQL Declaratively in GraphQL Without Writing SQL](https://stepzen.com/blog/join-data-postgresql-declarative-graphql-without-sql)
 - [New study overturns 100-year-old understanding of color perception](https://discover.lanl.gov/news/0810-color-perception)
 - [New REST API Enables Distributed SQL at Enterprise Scale](https://www.singlestore.com/blog/rest-api-enables-distributed-sql)
-- [Let websites framebust out of native apps](https://www.holovaty.com/writing/framebust-native-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
