@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IRS Audits Poorest Families at Five Times the Rate for Everyone Else](https://trac.syr.edu/tracirs/latest/679/)
+- [System.css: A design system for building retro Apple interfaces](https://sakofchit.github.io/system.css/)
 - [PGPP &lpar;Pretty Good Phone Privacy&rpar; Beta Launch](https://invisv.com/articles/pretty-good-phone-privacy.html)
 - [Ethereum merge on schedule after successful Goerli test merge](https://cryptowiky.com/ethereum-merge-on-schedule-after-successful-goerli-test-merge/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Spent $15 in DALL·E 2 credits creating this AI image, and here’s what I learned](https://pub.towardsai.net/i-spent-15-in-dall-e-2-credits-creating-this-ai-image-and-heres-what-i-learned-52f352912025)
-- [Qt signal is ten times slower than a virtual function](https://developernote.com/2022/08/qt-signal-is-ten-times-slower-than-a-virtual-function/)
+- [A Model for Journalistic Copypasta](https://dynomight.net/copypasta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
