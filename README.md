@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney Plus to Raise Prices by $3 a Month as It Launches Tier with Ads](https://www.cnet.com/tech/services-and-software/disney-plus-to-hike-prices-3-a-month-as-it-launches-tier-with-advertising/)
+- [Will low and no code tools ever truly disrupt tech development?](https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/)
 - [Google’s Caste-Bias Problem](https://www.newyorker.com/news/q-and-a/googles-caste-bias-problem)
 - [GM gives customers no choice to opt out of $1500 onstar subscription](https://www.theautopian.com/gm-gives-buick-gmc-and-cadillac-escalade-customers-no-choice-to-opt-out-of-1500-onstar-subscription/)
 - [GM Makes $1,500 OnStar Subscription Mandatory on GMC, Buick, Cadillac Models](https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models)
-- [The Reason Why Are Trucks Getting Bigger](https://toddofmischief.blogspot.com/2022/05/why-are-trucks-getting-bigger.html)
-- [Show HN: GitHub Commit Visualiser](https://github-vis.ably.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
