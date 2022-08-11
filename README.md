@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SharpestMinds &lpar;YC W18&rpar; Is Hiring a Software Developer](https://public.3.basecamp.com/p/gR8WJgPHPUq5r51MyWSVAX5T)
+- [IPFS and Their Gateways](https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/)
 - [Fully Dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
-- [General Belief in a Just World Is Positively Associated with Dishonest Behavior](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01770/full)
+- [Backyard hens’ eggs contain 40 times more lead on average than shop eggs](https://theconversation.com/backyard-hens-eggs-contain-40-times-more-lead-on-average-than-shop-eggs-research-finds-187442)
 - [No Silver Bullet &lpar;1986&rpar; [pdf]](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
-- [CEO&#39;s LinkedIn Crying Selfie About Layoffs Met with Backlash](https://www.newsweek.com/ceos-linkedin-crying-selfie-about-layoffs-backlash-1732677)
-- [Using satellites to uncover large methane emissions from landfills](https://www.science.org/doi/10.1126/sciadv.abn9683)
 <!-- BLOG-POST-LIST:END -->
 
 ---
