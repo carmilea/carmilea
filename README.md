@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney surpasses Netflix in global paid streaming subscribers](https://www.axios.com/2022/08/10/disney-surpasses-netflix-global-paid-subscribers)
+- [Robotic swimming in curved space via geometric phase](https://www.pnas.org/doi/full/10.1073/pnas.2200924119)
+- [Join Data from PostgreSQL Declaratively in GraphQL Without Writing SQL](https://stepzen.com/blog/join-data-postgresql-declarative-graphql-without-sql)
+- [New study overturns 100-year-old understanding of color perception](https://discover.lanl.gov/news/0810-color-perception)
 - [New REST API Enables Distributed SQL at Enterprise Scale](https://www.singlestore.com/blog/rest-api-enables-distributed-sql)
 - [Let websites framebust out of native apps](https://www.holovaty.com/writing/framebust-native-apps/)
-- [Smarking &lpar;YC W15&rpar; Is Hiring a Senior ML Engineer](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [The World Excel Championship is being broadcast on ESPN](https://www.ladbible.com/sport/world-excel-championship-that-is-getting-national-tv-coverage-20220809)
 <!-- BLOG-POST-LIST:END -->
 
 ---
