@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IRS Audits Poorest Families at Five Times the Rate for Everyone Else](https://trac.syr.edu/tracirs/latest/679/)
+- [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
+- [Do spiders dream? A new study suggests they do](https://www.nationalgeographic.com/animals/article/jumping-spiders-dream-rem-sleep-study-suggests)
+- [Is this the end of social networking?](https://reb00ted.org/tech/20220727-end-of-social-networking/)
+- [Xbox has accused Sony of paying Game Pass &#39;block fees&#39; to developers](https://www.toisthe.com/2022/08/xbox-has-accused-sony-of-paying-game-pass-block-fees-to-developers.html)
 - [System.css: A design system for building retro Apple interfaces](https://sakofchit.github.io/system.css/)
-- [PGPP &lpar;Pretty Good Phone Privacy&rpar; Beta Launch](https://invisv.com/articles/pretty-good-phone-privacy.html)
-- [Ethereum merge on schedule after successful Goerli test merge](https://cryptowiky.com/ethereum-merge-on-schedule-after-successful-goerli-test-merge/)
-- [A Model for Journalistic Copypasta](https://dynomight.net/copypasta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
