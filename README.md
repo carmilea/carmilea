@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I wish I could organize my thoughts](https://drewdevault.com/2022/08/10/Organizing-my-thoughts.html)
-- [Quantity yields quality in creativity: brain and behavioral test equal-odds rule](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00864/full)
-- [Irishman arrested in UK for &#39;causing anxiety&#39; by retweeting meme](https://www.irishmirror.ie/news/irish-news/irishman-arrested-uk-causing-anxiety-27639423)
-- [Advanced Metaprogramming in C: A select statement](https://250bpm.com/blog:56/index.html)
-- [Redis explained](https://architecturenotes.co/redis/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Spent $15 in DALL·E 2 credits creating this AI image, and here’s what I learned](https://pub.towardsai.net/i-spent-15-in-dall-e-2-credits-creating-this-ai-image-and-heres-what-i-learned-52f352912025)
+- [Qt signal is ten times slower than a virtual function](https://developernote.com/2022/08/qt-signal-is-ten-times-slower-than-a-virtual-function/)
+- [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
+- [Rob Pike: “Dotfiles” being hidden is a UNIXv2 mistake &lpar;2012&rpar;](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
