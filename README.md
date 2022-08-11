@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mindustry – Open-Source Game](https://mindustrygame.github.io/)
+- [Give nothing, expect nothing: Gitlab latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)
 - [How to learn hard things in tech](https://technicallychallenged.substack.com/p/how-to-learn-hard-things-in-tech)
-- [There aren&#39;t that many uses for blockchains](https://calpaterson.com/blockchain.html)
 - [Podman 4.2.0](https://github.com/containers/podman/releases/tag/v4.2.0)
-- [Ask HN: How do you keep marching?](https://news.ycombinator.com/item?id=32421659)
 - [Retirement of Amazon MOBI eBook file format](https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421)
 <!-- BLOG-POST-LIST:END -->
 
