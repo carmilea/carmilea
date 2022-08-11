@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Podman 4.2.0](https://github.com/containers/podman/releases/tag/v4.2.0)
 - [Retirement of Amazon MOBI eBook file format](https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421)
 - [Click the Paw](https://www.google.com/search?q=cat)
 - [Robotic swimming in curved space via geometric phase](https://www.pnas.org/doi/full/10.1073/pnas.2200924119)
 - [Join Data from PostgreSQL Declaratively in GraphQL Without Writing SQL](https://stepzen.com/blog/join-data-postgresql-declarative-graphql-without-sql)
-- [New study overturns 100-year-old understanding of color perception](https://discover.lanl.gov/news/0810-color-perception)
 <!-- BLOG-POST-LIST:END -->
 
 ---
