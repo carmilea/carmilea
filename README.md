@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Explained](https://architecturenotes.co/redis/)
-- [Rust 1.63.0](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html)
-- [17-Year-Old Designed a Motor That Could Transform the Electric Car Industry](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/)
-- [Starlink Maritime coverage map [pdf]](https://api.starlink.com/public-files/maritime-coverage-map.pdf)
-- [Nearby star’s midlife crisis illuminates the future of our own Sun](https://www.science.org/content/article/nearby-star-midlife-crisis-suggests-our-own-sun-may-lose-its-spots-again-decades)
+- [I wish I could organize my thoughts](https://drewdevault.com/2022/08/10/Organizing-my-thoughts.html)
+- [Quantity yields quality in creativity: brain and behavioral test equal-odds rule](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00864/full)
+- [Irishman arrested in UK for &#39;causing anxiety&#39; by retweeting meme](https://www.irishmirror.ie/news/irish-news/irishman-arrested-uk-causing-anxiety-27639423)
+- [Advanced Metaprogramming in C: A select statement](https://250bpm.com/blog:56/index.html)
+- [Redis explained](https://architecturenotes.co/redis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
