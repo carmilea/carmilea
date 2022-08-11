@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney Plus to Raise Prices by $3 a Month as It Launches Tier with Ads](https://www.cnet.com/tech/services-and-software/disney-plus-to-hike-prices-3-a-month-as-it-launches-tier-with-advertising/)
-- [Will low and no code tools ever truly disrupt tech development?](https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/)
-- [Google’s Caste-Bias Problem](https://www.newyorker.com/news/q-and-a/googles-caste-bias-problem)
-- [GM gives customers no choice to opt out of $1500 onstar subscription](https://www.theautopian.com/gm-gives-buick-gmc-and-cadillac-escalade-customers-no-choice-to-opt-out-of-1500-onstar-subscription/)
-- [GM Makes $1,500 OnStar Subscription Mandatory on GMC, Buick, Cadillac Models](https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models)
+- [Redis Explained](https://architecturenotes.co/redis/)
+- [Rust 1.63.0](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html)
+- [17-Year-Old Designed a Motor That Could Transform the Electric Car Industry](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/)
+- [Starlink Maritime coverage map [pdf]](https://api.starlink.com/public-files/maritime-coverage-map.pdf)
+- [Nearby star’s midlife crisis illuminates the future of our own Sun](https://www.science.org/content/article/nearby-star-midlife-crisis-suggests-our-own-sun-may-lose-its-spots-again-decades)
 <!-- BLOG-POST-LIST:END -->
 
 ---
