@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using satellites to uncover large methane emissions from landfills](https://www.science.org/doi/10.1126/sciadv.abn9683)
+- [Launch HN: AccessOwl &lpar;YC S22&rpar; – Automating SaaS Provisioning and Permissioning](https://news.ycombinator.com/item?id=32422871)
 - [Mindustry – Open-Source Game](https://mindustrygame.github.io/)
 - [Give nothing, expect nothing: Gitlab latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)
 - [How to learn hard things in tech](https://technicallychallenged.substack.com/p/how-to-learn-hard-things-in-tech)
-- [Podman 4.2.0](https://github.com/containers/podman/releases/tag/v4.2.0)
-- [Retirement of Amazon MOBI eBook file format](https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421)
 <!-- BLOG-POST-LIST:END -->
 
 ---
