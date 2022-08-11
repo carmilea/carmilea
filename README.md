@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Silver Bullet &lpar;1986&rpar; [pdf]](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+- [CEO&#39;s LinkedIn Crying Selfie About Layoffs Met with Backlash](https://www.newsweek.com/ceos-linkedin-crying-selfie-about-layoffs-backlash-1732677)
 - [Using satellites to uncover large methane emissions from landfills](https://www.science.org/doi/10.1126/sciadv.abn9683)
 - [Launch HN: AccessOwl &lpar;YC S22&rpar; – Automating SaaS Provisioning and Permissioning](https://news.ycombinator.com/item?id=32422871)
 - [Mindustry – Open-Source Game](https://mindustrygame.github.io/)
-- [Give nothing, expect nothing: Gitlab latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)
-- [How to learn hard things in tech](https://technicallychallenged.substack.com/p/how-to-learn-hard-things-in-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
