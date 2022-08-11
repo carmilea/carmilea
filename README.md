@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fully Dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
+- [General Belief in a Just World Is Positively Associated with Dishonest Behavior](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01770/full)
 - [No Silver Bullet &lpar;1986&rpar; [pdf]](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [CEO&#39;s LinkedIn Crying Selfie About Layoffs Met with Backlash](https://www.newsweek.com/ceos-linkedin-crying-selfie-about-layoffs-backlash-1732677)
 - [Using satellites to uncover large methane emissions from landfills](https://www.science.org/doi/10.1126/sciadv.abn9683)
-- [Launch HN: AccessOwl &lpar;YC S22&rpar; – Automating SaaS Provisioning and Permissioning](https://news.ycombinator.com/item?id=32422871)
-- [Mindustry – Open-Source Game](https://mindustrygame.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
