@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Markdown as web page/site](https://github.com/casualwriter/casual-markdown-page)
-- [Rob Pike&#39;s simple C regex matcher in Go](https://benhoyt.com/writings/rob-pike-regex/)
-- [Goat Rental – Hire Goats](https://hiregoats.com/)
-- [Nanostructured fibers can impersonate human muscles](https://www.ae.utexas.edu/news/nanostructured-fibers-can-impersonate-human-muscles)
-- [Curio – Notebook application for note-taking and research](https://www.zengobi.com/curio/)
+- [Overrun by influencers, historic sites are banning TikTok creators in Nepal](https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/)
+- [Glutamate buildup may be key factor in mental exhaustion](https://www.science.org/content/article/mentally-exhausted-study-blames-buildup-key-chemical-brain)
+- [Windows10Debloater: Script to remove Windows 10 bloatware](https://github.com/Sycnex/Windows10Debloater)
+- [Snakisms](https://pippinbarr.com/SNAKISMS/)
+- [Autonomous Reputation System](https://reb00ted.org/tech/20220810-autonomous-reputation-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
