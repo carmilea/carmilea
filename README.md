@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
+- [Fusion Turns Up the Heat](https://physics.aps.org/articles/v15/67)
 - [Objective-S: A general purpose programming language](http://objective.st/About)
+- [Crop Report: USA spring wheat production up over 50%, record high for soybeans](https://release.nass.usda.gov/reports/crop0822.txt)
 - [Harvard Professor on Quest for Possible Alien Tech Crashed in the Pacific Ocean](https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/)
-- [NSA&#39;s Warrantless Wiretaps &lpar;2012&rpar;](https://www.nerdylorrin.net/jerry/politics/Warrantless/WarrantlessINTRO.html)
-- [Intel 286 secrets: ICE mode and F1 0F 04](https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/)
-- [New Intel chips won&#39;t play Blu-ray disks due to SGX deprecation](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
