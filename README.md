@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Circling the wagons and the tendency towards tribalism in academia](https://stuartritchie.substack.com/p/circling-the-wagons)
 - [The Supreme Korean court says that scraping publicly available data is legal](https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29)
 - [Cancer in the Cold](https://www.science.org/content/blog-post/cancer-cold)
 - [Logistics, How Did They Do It, Part III: On the Move](https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/)
 - [Excel is pretty dang cool](https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/)
-- [Ask HN: Why are distributed systems so polarizing?](https://news.ycombinator.com/item?id=32439601)
 <!-- BLOG-POST-LIST:END -->
 
 ---
