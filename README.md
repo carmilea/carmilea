@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The One-Eyed African Queen Who Defeated the Roman Empire](https://narratively.com/the-one-eyed-african-queen-who-defeated-the-roman-empire/)
-- [One more clue to the Moon’s origin](https://ethz.ch/en/news-and-events/eth-news/news/2022/08/one-more-clue-to-the-moons-origin.html)
-- [Asdf Performance](http://stratus3d.com/blog/2022/08/11/asdf-performance/)
-- [Tell HN: Reddit mandatory login to see sensitive pages](https://news.ycombinator.com/item?id=32438251)
-- [PyPI Package &#39;Secretslib&#39; Drops Fileless Linux Malware to Mine Monero](https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero)
+- [Supabase Series B](https://supabase.com/blog/supabase-series-b)
+- [Ask HN: Why am I always stuck working on legacy software](https://news.ycombinator.com/item?id=32439438)
+- [Constructive and obsessive criticism in science](https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13839)
+- [Kubernetes Statefulsets Are Broken](https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/)
+- [Starlink Successfully Hacked Using $25 Modchip](https://threatpost.com/starlink-hack/180389/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
