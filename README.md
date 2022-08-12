@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Periodex – Elegant Periodic Table &lpar;158 kb page&rpar;](https://periodex.co/)
+- [Curio – Notebook application for note-taking and research](https://www.zengobi.com/curio/)
 - [Build your own EV charging solution](https://www.chargelab.co/developer-program)
-- [No, you cannot trust third party code without reading it first](https://unixsheikh.com/articles/no-you-cannot-trust-third-party-code-without-reading-it-first.html)
 - [Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]](https://www.usenix.org/system/files/sec22-sullivan.pdf)
-- [Don&#39;t Pickle Your Data](https://www.benfrederickson.com/dont-pickle-your-data/)
 - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
 <!-- BLOG-POST-LIST:END -->
 
