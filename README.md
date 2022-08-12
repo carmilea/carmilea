@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
 - [Overrun by influencers, historic sites are banning TikTok creators in Nepal](https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/)
 - [Glutamate buildup may be key factor in mental exhaustion](https://www.science.org/content/article/mentally-exhausted-study-blames-buildup-key-chemical-brain)
 - [Windows10Debloater: Script to remove Windows 10 bloatware](https://github.com/Sycnex/Windows10Debloater)
 - [Snakisms](https://pippinbarr.com/SNAKISMS/)
-- [Autonomous Reputation System](https://reb00ted.org/tech/20220810-autonomous-reputation-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
