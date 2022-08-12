@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cancer in the Cold](https://www.science.org/content/blog-post/cancer-cold)
+- [Logistics, How Did They Do It, Part III: On the Move](https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/)
+- [Excel is pretty dang cool](https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/)
 - [Supabase Series B](https://supabase.com/blog/supabase-series-b)
-- [Ask HN: Why am I always stuck working on legacy software](https://news.ycombinator.com/item?id=32439438)
 - [Constructive and obsessive criticism in science](https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13839)
-- [Kubernetes Statefulsets Are Broken](https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/)
-- [Starlink Successfully Hacked Using $25 Modchip](https://threatpost.com/starlink-hack/180389/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
