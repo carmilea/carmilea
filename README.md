@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Markdown as Web Page/Site](https://github.com/casualwriter/casual-markdown-page)
+- [Show HN: Markdown as web page/site](https://github.com/casualwriter/casual-markdown-page)
 - [Rob Pike&#39;s simple C regex matcher in Go](https://benhoyt.com/writings/rob-pike-regex/)
 - [Goat Rental – Hire Goats](https://hiregoats.com/)
-- [Nanostructured Fibers Can Impersonate Human Muscles](https://www.ae.utexas.edu/news/nanostructured-fibers-can-impersonate-human-muscles)
+- [Nanostructured fibers can impersonate human muscles](https://www.ae.utexas.edu/news/nanostructured-fibers-can-impersonate-human-muscles)
 - [Curio – Notebook application for note-taking and research](https://www.zengobi.com/curio/)
 <!-- BLOG-POST-LIST:END -->
 
