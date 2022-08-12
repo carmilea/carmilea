@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The One-Eyed African Queen Who Defeated the Roman Empire](https://narratively.com/the-one-eyed-african-queen-who-defeated-the-roman-empire/)
+- [One more clue to the Moon’s origin](https://ethz.ch/en/news-and-events/eth-news/news/2022/08/one-more-clue-to-the-moons-origin.html)
+- [Asdf Performance](http://stratus3d.com/blog/2022/08/11/asdf-performance/)
 - [Tell HN: Reddit mandatory login to see sensitive pages](https://news.ycombinator.com/item?id=32438251)
-- [Launch HN: Pana &lpar;YC S22&rpar; – Social Trust Banking with a US Latino Focus](https://news.ycombinator.com/item?id=32437234)
-- [Ask HN: Who is using C++ as the main language for new project?](https://news.ycombinator.com/item?id=32437173)
-- [Open-source tool to enforce privacy/security best-practices on Windows, macOS](https://github.com/undergroundwires/privacy.sexy)
-- [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
+- [PyPI Package &#39;Secretslib&#39; Drops Fileless Linux Malware to Mine Monero](https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
