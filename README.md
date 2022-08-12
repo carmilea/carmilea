@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it classist to be against fast fashion?](https://putthison.com/is-it-classist-to-be-against-fast-fashion/)
+- [Tell HN: Reddit mandatory login to see sensitive pages](https://news.ycombinator.com/item?id=32438251)
 - [Launch HN: Pana &lpar;YC S22&rpar; – Social Trust Banking with a US Latino Focus](https://news.ycombinator.com/item?id=32437234)
 - [Ask HN: Who is using C++ as the main language for new project?](https://news.ycombinator.com/item?id=32437173)
-- [Tell HN: Unpaid home assignments are not ok](https://news.ycombinator.com/item?id=32437078)
-- [FOSS tool to enforce privacy and security best-practices on Windows and macOS](https://github.com/undergroundwires/privacy.sexy)
+- [Open-source tool to enforce privacy/security best-practices on Windows, macOS](https://github.com/undergroundwires/privacy.sexy)
+- [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
 <!-- BLOG-POST-LIST:END -->
 
 ---
