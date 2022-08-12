@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Objective-S: A general purpose programming language](http://objective.st/About)
 - [Harvard Professor on Quest for Possible Alien Tech Crashed in the Pacific Ocean](https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/)
 - [NSA&#39;s Warrantless Wiretaps &lpar;2012&rpar;](https://www.nerdylorrin.net/jerry/politics/Warrantless/WarrantlessINTRO.html)
-- [Scientists Protest Censorship in Cosmology](https://www.lppfusion.com/scientists-protest-censorship-in-cosmology/)
+- [Intel 286 secrets: ICE mode and F1 0F 04](https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/)
 - [New Intel chips won&#39;t play Blu-ray disks due to SGX deprecation](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
-- [France risks winter blackouts as nuclear-power generation stalls](https://www.wsj.com/articles/france-risks-winter-blackouts-as-nuclear-power-generation-stalls-11660315467)
 <!-- BLOG-POST-LIST:END -->
 
 ---
