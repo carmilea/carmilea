@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Circling the wagons and the tendency towards tribalism in academia](https://stuartritchie.substack.com/p/circling-the-wagons)
+- [VLC media player banned in India](https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12)
 - [The Supreme Korean court says that scraping publicly available data is legal](https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29)
+- [BART charges $6.20 to not ride BART](https://sf.streetsblog.org/2017/12/14/barts-excursion-fare-how-the-agency-earns-millions-from-passengers-not-riding-trains/)
 - [Cancer in the Cold](https://www.science.org/content/blog-post/cancer-cold)
 - [Logistics, How Did They Do It, Part III: On the Move](https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/)
-- [Excel is pretty dang cool](https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
