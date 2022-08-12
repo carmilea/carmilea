@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
+- [Man overcharged 20 rupees for India train ticket wins 22-year legal battle](https://www.theguardian.com/world/2022/aug/12/man-overcharged-20-rupees-for-india-train-ticket-wins-22-year-legal-battle)
+- [Arctic melting four times faster than rest of the planet, study says](https://www.ft.com/content/9bb32c6f-b3dc-46bd-944e-9e583407b866)
+- [Arrest of suspected developer of Tornado Cash](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/)
 - [Ask HN: How do you work with Dependabot?](https://news.ycombinator.com/item?id=32436316)
-- [There is a shortage of Dijon mustard in France](https://www.economist.com/the-economist-explains/2022/08/09/why-there-is-a-shortage-of-dijon-mustard-in-france)
-- [Google LLC to pay $60M for misleading representations in Australia](https://www.accc.gov.au/media-release/google-llc-to-pay-60-million-for-misleading-representations)
-- [The first dynamic analysis framework for CPU microcode](https://github.com/pietroborrello/CustomProcessingUnit)
-- [JiraCLI](https://github.com/ankitpokhrel/jira-cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
