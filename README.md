@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you work with Dependabot?](https://news.ycombinator.com/item?id=32436316)
+- [There is a shortage of Dijon mustard in France](https://www.economist.com/the-economist-explains/2022/08/09/why-there-is-a-shortage-of-dijon-mustard-in-france)
 - [Google LLC to pay $60M for misleading representations in Australia](https://www.accc.gov.au/media-release/google-llc-to-pay-60-million-for-misleading-representations)
 - [The first dynamic analysis framework for CPU microcode](https://github.com/pietroborrello/CustomProcessingUnit)
 - [JiraCLI](https://github.com/ankitpokhrel/jira-cli)
-- [TruffleC: A C implementation on top of JVM &lpar;2014&rpar;](https://dl.acm.org/doi/10.1145/2647508.2647528)
-- [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
