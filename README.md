@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Use DuckDuckGo](https://portal.mozz.us/gemini/remyabel.srht.site/posts/2022-08-11.gmi)
+- [Ask HN: Hobbies/Skills which can be picked in 30s and compete at world level?](https://news.ycombinator.com/item?id=32435598)
+- [JiraCLI](https://github.com/ankitpokhrel/jira-cli)
+- [TruffleC: A C implementation on top of JVM &lpar;2014&rpar;](https://dl.acm.org/doi/10.1145/2647508.2647528)
 - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
-- [Overrun by influencers, historic sites are banning TikTok creators in Nepal](https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/)
-- [Glutamate buildup may be key factor in mental exhaustion](https://www.science.org/content/article/mentally-exhausted-study-blames-buildup-key-chemical-brain)
-- [Windows10Debloater: Script to remove Windows 10 bloatware](https://github.com/Sycnex/Windows10Debloater)
-- [Snakisms](https://pippinbarr.com/SNAKISMS/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
