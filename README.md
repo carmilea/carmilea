@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard Professor on Quest for Possible Alien Tech Crashed in the Pacific Ocean](https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/)
+- [NSA&#39;s Warrantless Wiretaps &lpar;2012&rpar;](https://www.nerdylorrin.net/jerry/politics/Warrantless/WarrantlessINTRO.html)
+- [Scientists Protest Censorship in Cosmology](https://www.lppfusion.com/scientists-protest-censorship-in-cosmology/)
 - [New Intel chips won&#39;t play Blu-ray disks due to SGX deprecation](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
-- [The Calvine UFO photograph – revealed](https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/)
-- [Show HN: List of Menu Items for all Food stores in USA &lpar;zipcode wise&rpar;](https://news.ycombinator.com/item?id=32442707)
-- [Google execs threaten workers with layoffs: ‘There will be blood on the streets’](https://nypost.com/2022/08/12/google-execs-threaten-workers-with-layoffs-there-will-be-blood-on-the-streets/)
-- [VLC media player banned in India](https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12)
+- [France risks winter blackouts as nuclear-power generation stalls](https://www.wsj.com/articles/france-risks-winter-blackouts-as-nuclear-power-generation-stalls-11660315467)
 <!-- BLOG-POST-LIST:END -->
 
 ---
