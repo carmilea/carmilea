@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
-- [Man overcharged 20 rupees for India train ticket wins 22-year legal battle](https://www.theguardian.com/world/2022/aug/12/man-overcharged-20-rupees-for-india-train-ticket-wins-22-year-legal-battle)
-- [Arctic melting four times faster than rest of the planet, study says](https://www.ft.com/content/9bb32c6f-b3dc-46bd-944e-9e583407b866)
-- [Arrest of suspected developer of Tornado Cash](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/)
-- [Ask HN: How do you work with Dependabot?](https://news.ycombinator.com/item?id=32436316)
+- [Is it classist to be against fast fashion?](https://putthison.com/is-it-classist-to-be-against-fast-fashion/)
+- [Launch HN: Pana &lpar;YC S22&rpar; – Social Trust Banking with a US Latino Focus](https://news.ycombinator.com/item?id=32437234)
+- [Ask HN: Who is using C++ as the main language for new project?](https://news.ycombinator.com/item?id=32437173)
+- [Tell HN: Unpaid home assignments are not ok](https://news.ycombinator.com/item?id=32437078)
+- [FOSS tool to enforce privacy and security best-practices on Windows and macOS](https://github.com/undergroundwires/privacy.sexy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
