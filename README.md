@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Use DuckDuckGo](https://portal.mozz.us/gemini/remyabel.srht.site/posts/2022-08-11.gmi)
-- [Ask HN: Hobbies/Skills which can be picked in 30s and compete at world level?](https://news.ycombinator.com/item?id=32435598)
+- [Google LLC to pay $60M for misleading representations in Australia](https://www.accc.gov.au/media-release/google-llc-to-pay-60-million-for-misleading-representations)
+- [The first dynamic analysis framework for CPU microcode](https://github.com/pietroborrello/CustomProcessingUnit)
 - [JiraCLI](https://github.com/ankitpokhrel/jira-cli)
 - [TruffleC: A C implementation on top of JVM &lpar;2014&rpar;](https://dl.acm.org/doi/10.1145/2647508.2647528)
 - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
