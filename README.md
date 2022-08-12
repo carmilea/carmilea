@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Intel chips won&#39;t play Blu-ray disks due to SGX deprecation](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
+- [The Calvine UFO photograph – revealed](https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/)
+- [Show HN: List of Menu Items for all Food stores in USA &lpar;zipcode wise&rpar;](https://news.ycombinator.com/item?id=32442707)
+- [Google execs threaten workers with layoffs: ‘There will be blood on the streets’](https://nypost.com/2022/08/12/google-execs-threaten-workers-with-layoffs-there-will-be-blood-on-the-streets/)
 - [VLC media player banned in India](https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12)
-- [The Supreme Korean court says that scraping publicly available data is legal](https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29)
-- [BART charges $6.20 to not ride BART](https://sf.streetsblog.org/2017/12/14/barts-excursion-fare-how-the-agency-earns-millions-from-passengers-not-riding-trains/)
-- [Cancer in the Cold](https://www.science.org/content/blog-post/cancer-cold)
-- [Logistics, How Did They Do It, Part III: On the Move](https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
