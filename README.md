@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Periodex – Elegant Periodic Table &lpar;158 kb page&rpar;](https://periodex.co/)
+- [Show HN: Markdown as Web Page/Site](https://github.com/casualwriter/casual-markdown-page)
+- [Rob Pike&#39;s simple C regex matcher in Go](https://benhoyt.com/writings/rob-pike-regex/)
+- [Goat Rental – Hire Goats](https://hiregoats.com/)
+- [Nanostructured Fibers Can Impersonate Human Muscles](https://www.ae.utexas.edu/news/nanostructured-fibers-can-impersonate-human-muscles)
 - [Curio – Notebook application for note-taking and research](https://www.zengobi.com/curio/)
-- [Build your own EV charging solution](https://www.chargelab.co/developer-program)
-- [Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]](https://www.usenix.org/system/files/sec22-sullivan.pdf)
-- [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
