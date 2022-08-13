@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Taught AI Shows Similarities to How the Brain Works](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/)
 - [Twitter is hiring an alarming number of FBI agents](https://therealnews.com/twitter-is-hiring-an-alarming-number-of-fbi-agents)
 - [Tauri – Creating Tiny Desktop Apps With React/Vue](https://tauri.app/)
 - [Superlattices Could Make Bulky Capacitors Obsolete](https://spectrum.ieee.org/antiferroelectric)
 - [Improving Postgres Text Search Speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records)
-- [Subreply](https://subreply.com/discover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
