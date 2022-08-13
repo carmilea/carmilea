@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips](https://www.youtube.com/watch?v=tzr7hRXcwkw)
+- [Taktile &lpar;YC S20&rpar; Is Hiring Front End Engineer](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d)
+- [The Zoom installer let a researcher hack his way to root access on macOS](https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle)
+- [The Bay Area&#39;s Lost Streetcars](https://sfstreetcars.co/)
 - [Autodesk criticised by 35 named architects &lpar;2020&rpar;](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
-- [Show HN: I will now send this to beginner programmers](https://headlinedev.xyz/2022/08/12/how-to-learn-to-program.html)
-- [Ask HN: Favorite audio book for long drives?](https://news.ycombinator.com/item?id=32446779)
-- [Self-taught AI shows similarities to how the brain works](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/)
-- [Why StarCraft crashed frequently during development](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
