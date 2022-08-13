@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rufus: Microsoft is blocking Windows ISO downloads](https://www.ghacks.net/2022/08/13/rufus-microsoft-is-blocking-windows-iso-downloads/)
 - [Ask HN: Anyone else feels the commoditization of real estate is unethical?](https://news.ycombinator.com/item?id=32448825)
+- [List of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
 - [Cast Iron Leet](https://erock.prose.sh/cast-iron-leet)
 - [Researchers agree: World can reach 100% renewable energy system by/before 2050](https://www.helsinkitimes.fi/themes/themes/science-and-technology/22012-researchers-agree-the-world-can-reach-a-100-renewable-energy-system-by-or-before-2050.html)
-- [Dillo web browser homepage is for sale](http://dillo.org/contact.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
