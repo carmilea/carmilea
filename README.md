@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man who robbed bank to get his own money back hailed national hero](https://www.unilad.com/news/man-robbed-bank-money-lebanon-20220812)
+- [School demands search of text messaging, outside of school](https://twitter.com/DrRachaelF/status/1558250615813263360)
+- [Man who robbed bank to get his own money back hailed as national hero](https://www.unilad.com/news/man-robbed-bank-money-lebanon-20220812)
+- [Who Makes Ridgid Tools?](https://housegrail.com/who-makes-ridgid-tools/)
 - [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
-- [Ask HN: Are Linux HowTos dead? Why?](https://www.linuxhowtos.org/)
-- [Ban Bottled Water:Microplastics Reside in Them Globally](https://adetokunbo.substack.com/p/ban-bottled-water-microplastics-reside)
-- [WinterCG: Web-Interoperable Runtimes Community Group](https://wintercg.org/)
+- [Ask HN: Are Linux HowTos dead? Why?](https://news.ycombinator.com/item?id=32453735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
