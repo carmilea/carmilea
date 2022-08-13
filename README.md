@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is hiring an alarming number of FBI agents](https://therealnews.com/twitter-is-hiring-an-alarming-number-of-fbi-agents)
+- [Tauri – Creating Tiny Desktop Apps With React/Vue](https://tauri.app/)
+- [Superlattices Could Make Bulky Capacitors Obsolete](https://spectrum.ieee.org/antiferroelectric)
 - [Improving Postgres Text Search Speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records)
 - [Subreply](https://subreply.com/discover)
-- [US Navy Radio Communications – 1950s and 1960s](https://www.navy-radio.com/)
-- [1959 Santa Susana meltdown](https://www.kcrw.com/news/shows/greater-la/santa-susana)
-- [Local simulation feature to be removed from all Autodesk Fusion 360 versions](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
