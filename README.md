@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
 - [WinterCG: Web-Interoperable Runtimes Community Group](https://wintercg.org/)
-- [Ask HN: How to price a service that saves hundreds of engineering hours?](https://news.ycombinator.com/item?id=32452905)
+- [Speedcubing kid can skip last layer by learning 3915 algorithms for every case](https://twitter.com/glaciereal/status/1558224006070673408)
 - [Show HN: Rocket Drone, a lunar lander type game for the web](https://rocket-drone.lol)
-- [Quirky Computing Books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
-- [A Python-compatible statically typed language erg-lang/erg](https://github.com/erg-lang/erg)
+- [Quirky computing books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
