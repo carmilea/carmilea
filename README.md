@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
-- [Fusion Turns Up the Heat](https://physics.aps.org/articles/v15/67)
-- [Objective-S: A general purpose programming language](http://objective.st/About)
-- [Crop Report: USA spring wheat production up over 50%, record high for soybeans](https://release.nass.usda.gov/reports/crop0822.txt)
-- [Harvard Professor on Quest for Possible Alien Tech Crashed in the Pacific Ocean](https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/)
+- [Improving Postgres Text Search Speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records)
+- [Subreply](https://subreply.com/discover)
+- [US Navy Radio Communications – 1950s and 1960s](https://www.navy-radio.com/)
+- [1959 Santa Susana meltdown](https://www.kcrw.com/news/shows/greater-la/santa-susana)
+- [Local simulation feature to be removed from all Autodesk Fusion 360 versions](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
