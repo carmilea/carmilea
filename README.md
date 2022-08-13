@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WinterCG: Web-Interoperable Runtimes Community Group](https://wintercg.org/)
+- [Ask HN: How to price a service that saves hundreds of engineering hours?](https://news.ycombinator.com/item?id=32452905)
 - [Show HN: Rocket Drone, a lunar lander type game for the web](https://rocket-drone.lol)
+- [Quirky Computing Books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
 - [A Python-compatible statically typed language erg-lang/erg](https://github.com/erg-lang/erg)
-- [Firezone &lpar;YC W22&rpar; hiring engineers to build a modern corporate VPN &lpar;remote, US&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
-- [The dangers of non-empirical confirmation &lpar;2016&rpar;](https://arxiv.org/abs/1609.01966)
-- [Uber Rewards is ending on November 1, 2022](https://help.uber.com/riders/article/uber-rewards-update?nodeId=0f8a4b77-6e68-4c7c-a6f5-62cf549fbad4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
