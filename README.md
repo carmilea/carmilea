@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Rocket Drone, a lunar lander type game for the web](https://rocket-drone.lol)
+- [A Python-compatible statically typed language erg-lang/erg](https://github.com/erg-lang/erg)
 - [Firezone &lpar;YC W22&rpar; hiring engineers to build a modern corporate VPN &lpar;remote, US&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
 - [The dangers of non-empirical confirmation &lpar;2016&rpar;](https://arxiv.org/abs/1609.01966)
 - [Uber Rewards is ending on November 1, 2022](https://help.uber.com/riders/article/uber-rewards-update?nodeId=0f8a4b77-6e68-4c7c-a6f5-62cf549fbad4)
-- [It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet](https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735)
-- [AI Guidance for Mental Resilience](https://futurself.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
