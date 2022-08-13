@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Julia, Matlab, Python or R in economics?](https://cepr.org/voxeu/columns/choosing-numerical-programming-language-economic-research-julia-matlab-python-or-r)
 - [John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips](https://www.youtube.com/watch?v=tzr7hRXcwkw)
 - [Taktile &lpar;YC S20&rpar; Is Hiring Front End Engineer](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d)
 - [The Zoom installer let a researcher hack his way to root access on macOS](https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle)
 - [The Bay Area&#39;s Lost Streetcars](https://sfstreetcars.co/)
-- [Autodesk criticised by 35 named architects &lpar;2020&rpar;](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
