@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do we need another build system?](https://news.ycombinator.com/item?id=32450402)
-- [2022 Oder Environmental Disaster](https://en.wikipedia.org/wiki/2022_Oder_environmental_disaster)
-- [Mysterious mass fish kill in Oder River: Climate change or poison?](https://www.dw.com/en/mysterious-mass-fish-kill-in-oder-river-climate-change-or-poison/a-62784099)
-- [Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text](https://zmarshall.nl/static/eink-vnc.html)
-- [I Watched an 857-Hour Movie to Encounter Capitalism’s Extremes](https://readpassage.com/i-watched-an-857-hour-movie-to-encounter-capitalisms-extremes/)
+- [It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet](https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735)
+- [AI Guidance for Mental Resilience](https://futurself.ai)
+- [A Pig and a Locust Get into Trouble with the Law: On Justice in Medieval Europe](https://lithub.com/a-pig-and-a-locust-get-into-serious-trouble-with-the-law-on-justice-in-medieval-europe/)
+- [Split Brain Psychology](https://superbowl.substack.com/p/split-brain-psychology)
+- [Germany Sees Tidal Shift in Sentiment Toward Atomic Energy](https://www.spiegel.de/international/germany/germany-sees-tidal-shift-in-sentiment-toward-atomic-energy-a-05f47c3c-d20e-44dc-bd6d-1e1dbfb7f0cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
