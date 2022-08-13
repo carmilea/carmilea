@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man who robbed bank to get his own money back hailed national hero](https://www.unilad.com/news/man-robbed-bank-money-lebanon-20220812)
 - [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- [Ask HN: Are Linux HowTos dead? Why?](https://www.linuxhowtos.org/)
+- [Ban Bottled Water:Microplastics Reside in Them Globally](https://adetokunbo.substack.com/p/ban-bottled-water-microplastics-reside)
 - [WinterCG: Web-Interoperable Runtimes Community Group](https://wintercg.org/)
-- [Speedcubing kid can skip last layer by learning 3915 algorithms for every case](https://twitter.com/glaciereal/status/1558224006070673408)
-- [Show HN: Rocket Drone, a lunar lander type game for the web](https://rocket-drone.lol)
-- [Quirky computing books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
