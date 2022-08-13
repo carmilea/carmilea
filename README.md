@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heap Overflows on iOS ARM64](https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html)
 - [Rufus: Microsoft is blocking Windows ISO downloads](https://www.ghacks.net/2022/08/13/rufus-microsoft-is-blocking-windows-iso-downloads/)
 - [Ask HN: Anyone else feels the commoditization of real estate is unethical?](https://news.ycombinator.com/item?id=32448825)
 - [List of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
 - [Cast Iron Leet](https://erock.prose.sh/cast-iron-leet)
-- [Researchers agree: World can reach 100% renewable energy system by/before 2050](https://www.helsinkitimes.fi/themes/themes/science-and-technology/22012-researchers-agree-the-world-can-reach-a-100-renewable-energy-system-by-or-before-2050.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
