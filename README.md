@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Taught AI Shows Similarities to How the Brain Works](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/)
-- [Twitter is hiring an alarming number of FBI agents](https://therealnews.com/twitter-is-hiring-an-alarming-number-of-fbi-agents)
-- [Tauri – Creating Tiny Desktop Apps With React/Vue](https://tauri.app/)
-- [Superlattices Could Make Bulky Capacitors Obsolete](https://spectrum.ieee.org/antiferroelectric)
-- [Improving Postgres Text Search Speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records)
+- [Autodesk criticised by 35 named architects &lpar;2020&rpar;](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
+- [Show HN: I will now send this to beginner programmers](https://headlinedev.xyz/2022/08/12/how-to-learn-to-program.html)
+- [Ask HN: Favorite audio book for long drives?](https://news.ycombinator.com/item?id=32446779)
+- [Self-taught AI shows similarities to how the brain works](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/)
+- [Why StarCraft crashed frequently during development](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
