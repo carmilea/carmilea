@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US data transfer unlawful according to German procurement authority](https://www.simpleanalytics.com/blog/us-data-transfer-unlawful-according-to-german-procurement-authority)
+- [Rufus: Microsoft is blocking Windows ISO downloads](https://www.ghacks.net/2022/08/13/rufus-microsoft-is-blocking-windows-iso-downloads/)
+- [Ask HN: Anyone else feels the commoditization of real estate is unethical?](https://news.ycombinator.com/item?id=32448825)
+- [Cast Iron Leet](https://erock.prose.sh/cast-iron-leet)
 - [Researchers agree: World can reach 100% renewable energy system by/before 2050](https://www.helsinkitimes.fi/themes/themes/science-and-technology/22012-researchers-agree-the-world-can-reach-a-100-renewable-energy-system-by-or-before-2050.html)
-- [Animal melting pot created by climate change could lead to new disease outbreaks](https://www.science.org/content/article/animal-melting-pot-created-climate-change-could-lead-new-disease-outbreaks)
-- [Hyundai car software update private keys came from easily Googleable sample code](https://programmingwithstyle.com/posts/howihackedmycar/)
-- [John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips](https://www.youtube.com/watch?v=tzr7hRXcwkw)
+- [Dillo web browser homepage is for sale](http://dillo.org/contact.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
