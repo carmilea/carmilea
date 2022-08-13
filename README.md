@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firezone is hiring engineers to build a modern corporate VPN &lpar;Remote, US&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
+- [The dangers of non-empirical confirmation &lpar;2016&rpar;](https://arxiv.org/abs/1609.01966)
+- [Uber Rewards Update](https://help.uber.com/riders/article/uber-rewards-update?nodeId=0f8a4b77-6e68-4c7c-a6f5-62cf549fbad4)
 - [It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet](https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735)
 - [AI Guidance for Mental Resilience](https://futurself.ai)
-- [A Pig and a Locust Get into Trouble with the Law: On Justice in Medieval Europe](https://lithub.com/a-pig-and-a-locust-get-into-serious-trouble-with-the-law-on-justice-in-medieval-europe/)
-- [Split Brain Psychology](https://superbowl.substack.com/p/split-brain-psychology)
-- [Germany Sees Tidal Shift in Sentiment Toward Atomic Energy](https://www.spiegel.de/international/germany/germany-sees-tidal-shift-in-sentiment-toward-atomic-energy-a-05f47c3c-d20e-44dc-bd6d-1e1dbfb7f0cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
