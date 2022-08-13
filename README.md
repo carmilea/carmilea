@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Julia, Matlab, Python or R in economics?](https://cepr.org/voxeu/columns/choosing-numerical-programming-language-economic-research-julia-matlab-python-or-r)
+- [Researchers agree: World can reach 100% renewable energy system by/before 2050](https://www.helsinkitimes.fi/themes/themes/science-and-technology/22012-researchers-agree-the-world-can-reach-a-100-renewable-energy-system-by-or-before-2050.html)
+- [Animal melting pot created by climate change could lead to new disease outbreaks](https://www.science.org/content/article/animal-melting-pot-created-climate-change-could-lead-new-disease-outbreaks)
 - [Hyundai car software update private keys came from easily Googleable sample code](https://programmingwithstyle.com/posts/howihackedmycar/)
 - [John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips](https://www.youtube.com/watch?v=tzr7hRXcwkw)
 - [Taktile &lpar;YC S20&rpar; Is Hiring Front End Engineer](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d)
-- [The Zoom installer let a researcher hack his way to root access on macOS](https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
