@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heap Overflows on iOS ARM64](https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html)
-- [Rufus: Microsoft is blocking Windows ISO downloads](https://www.ghacks.net/2022/08/13/rufus-microsoft-is-blocking-windows-iso-downloads/)
-- [Ask HN: Anyone else feels the commoditization of real estate is unethical?](https://news.ycombinator.com/item?id=32448825)
-- [List of Japanese Vegetable Cutting Techniques](https://thechefdojo.com/japanese-vegetable-cutting-techniques/)
-- [Cast Iron Leet](https://erock.prose.sh/cast-iron-leet)
+- [Ask HN: Do we need another build system?](https://news.ycombinator.com/item?id=32450402)
+- [2022 Oder Environmental Disaster](https://en.wikipedia.org/wiki/2022_Oder_environmental_disaster)
+- [Mysterious mass fish kill in Oder River: Climate change or poison?](https://www.dw.com/en/mysterious-mass-fish-kill-in-oder-river-climate-change-or-poison/a-62784099)
+- [Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text](https://zmarshall.nl/static/eink-vnc.html)
+- [I Watched an 857-Hour Movie to Encounter Capitalism’s Extremes](https://readpassage.com/i-watched-an-857-hour-movie-to-encounter-capitalisms-extremes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
