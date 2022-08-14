@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Mars Is Irrelevant to Us If Earth Is Doomed”, Author of Legendary Mars Trilogy](https://www.vice.com/en/article/ake3k5/mars-is-irrelevant-to-us-if-earth-is-doomed-author-of-legendary-mars-trilogy-says)
+- [Forecasting of energy consumption by G20 countries](https://www.nature.com/articles/s41598-022-17505-4)
 - [The Remote Pop-In &lpar;2021&rpar;](https://twos.dev/thepopin.html)
+- [The Open Source Paradox](http://antirez.com/news/134)
 - [samurai: Ninja-compatible build tool written in C](https://github.com/michaelforney/samurai)
 - [AWS Just Walk Out Technology](https://aws.amazon.com/blogs/industries/elevate-your-retail-experience-with-just-walk-out-technology/)
-- [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
 <!-- BLOG-POST-LIST:END -->
 
 ---
