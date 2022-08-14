@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“Mars Is Irrelevant to Us If Earth Is Doomed”, Author of Legendary Mars Trilogy](https://www.vice.com/en/article/ake3k5/mars-is-irrelevant-to-us-if-earth-is-doomed-author-of-legendary-mars-trilogy-says)
-- [The Remote Pop-In Meeting](https://twos.dev/thepopin.html)
+- [The Remote Pop-In &lpar;2021&rpar;](https://twos.dev/thepopin.html)
+- [samurai: Ninja-compatible build tool written in C](https://github.com/michaelforney/samurai)
+- [AWS Just Walk Out Technology](https://aws.amazon.com/blogs/industries/elevate-your-retail-experience-with-just-walk-out-technology/)
 - [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
-- [OctoPrint: The snappy web interface for your 3D printer](https://octoprint.org/)
-- [Severance Is the Workplace Thriller We’ve Needed](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
