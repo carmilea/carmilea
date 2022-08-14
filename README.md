@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [List of over 500 Swedish tech startups and scaleups](https://www.swedishtechnews.com/ultimate-swedish-startups-list/)
 - [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
 - [Human Capital, Innovation, and Growth](https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346)
+- [A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave](https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/)
 - [Will Bun JavaScript Take Node&#39;s Crown](https://semaphoreci.com/blog/javascript-bun)
-- [Apple held up Telegram’s latest update over emoji](https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji)
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
