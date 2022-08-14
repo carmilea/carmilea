@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [School demands search of text messaging, outside of school](https://twitter.com/DrRachaelF/status/1558250615813263360)
-- [Man who robbed bank to get his own money back hailed as national hero](https://www.unilad.com/news/man-robbed-bank-money-lebanon-20220812)
-- [Who Makes Ridgid Tools?](https://housegrail.com/who-makes-ridgid-tools/)
-- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
-- [Ask HN: Are Linux HowTos dead? Why?](https://news.ycombinator.com/item?id=32453735)
+- [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
+- [OctoPrint: The snappy web interface for your 3D printer](https://octoprint.org/)
+- [Observations on tragedy in a digital age](https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital)
+- [Off the Grid Cali “Slab City” Reaches Its Boiling Point](https://bluedotliving.com/slab-city-reaches-its-boiling-point/)
+- [Show HN: Create WireGuard Mesh Networks Using Vault](https://github.com/candiddev/vault-plugin-secrets-wireguard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
