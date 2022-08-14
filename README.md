@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; is hiring devs to help build the Figma for data](https://www.patterns.app/)
+- [Chrome was delivered without any sprints at all](https://twitter.com/aboodman/status/1427137725119959046)
+- [Riemann Hypothesis Disproved?](https://figshare.com/articles/preprint/Untitled_Item/14776146)
 - [Milwaukee Tool Raises the Bar with New USA Factory](https://toolguyd.com/milwaukee-tool-new-usa-factory/)
-- [Status Traps: Learning from Web2 Social Networks](https://a16zcrypto.com/social-network-status-traps-web2-learnings/)
-- [As an artist I am concerned about AI image generation](https://twitter.com/arvalis/status/1558623545374023680)
-- [Hacker News Predictions](https://hnpredictions.github.io/)
-- [What to know to begin fixing amplifiers [video]](https://www.youtube.com/watch?v=0oWBcTTeMNQ)
+- [Page was served from Nginx on ReactOS](https://reactos.aaron.cc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
