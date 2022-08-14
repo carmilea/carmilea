@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What is something you built but never marketed?](https://news.ycombinator.com/item?id=32458897)
+- [Zoom macOS app quietly added back cs.disable-library-validation entitlement](https://news.ycombinator.com/item?id=32458878)
 - [Oasis: Small statically-linked Linux system](https://github.com/oasislinux/oasis)
 - [ID This SciFi Short Story](https://news.ycombinator.com/item?id=32458729)
 - [Windows 11 x64 security hardening guide](https://github.com/beerisgood/Windows11_Hardening)
-- [List of over 500 Swedish tech startups and scaleups](https://www.swedishtechnews.com/ultimate-swedish-startups-list/)
-- [Lisp-Stat: An Environment for Statistical Computing](https://lisp-stat.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
