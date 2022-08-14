@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Layoffs at Klarna](https://blog.pragmaticengineer.com/layoffs-at-klarna/)
-- [How do you decide which language/tech stack you invest learning?](https://news.ycombinator.com/item?id=32460304)
-- [Cloud.gov](https://cloud.gov/)
-- [Metastable Failures in the Wild](https://www.micahlerner.com/2022/07/11/metastable-failures-in-the-wild.html)
-- [Are We Blub Programmers?](http://weblog.raganwald.com/2006/10/are-we-blub-programmers.html)
+- [Show HN: Hacker News Predictions](https://hnpredictions.github.io/)
+- [What to know to begin fixing amplifiers [video]](https://www.youtube.com/watch?v=0oWBcTTeMNQ)
+- [Checkmake: Experimental Linter/Analyzer for Makefiles](https://github.com/mrtazz/checkmake)
+- [The layoffs at Klarna](https://blog.pragmaticengineer.com/layoffs-at-klarna/)
+- [Ask HN: How do you decide which language/tech stack to learn?](https://news.ycombinator.com/item?id=32460304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
