@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Mars Is Irrelevant to Us If Earth Is Doomed”, Author of Legendary Mars Trilogy](https://www.vice.com/en/article/ake3k5/mars-is-irrelevant-to-us-if-earth-is-doomed-author-of-legendary-mars-trilogy-says)
+- [The Remote Pop-In Meeting](https://twos.dev/thepopin.html)
 - [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
 - [OctoPrint: The snappy web interface for your 3D printer](https://octoprint.org/)
-- [Capitalism and Alienation [Severance Is the Workplace Thriller We’ve Needed]](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
-- [Observations on tragedy in a digital age](https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital)
-- [Off the Grid Cali “Slab City” Reaches Its Boiling Point](https://bluedotliving.com/slab-city-reaches-its-boiling-point/)
+- [Severance Is the Workplace Thriller We’ve Needed](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
