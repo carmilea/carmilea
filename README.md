@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Milwaukee Tool Raises the Bar with New USA Factory](https://toolguyd.com/milwaukee-tool-new-usa-factory/)
 - [Status Traps: Learning from Web2 Social Networks](https://a16zcrypto.com/social-network-status-traps-web2-learnings/)
-- [“As an artist I am concerned.”](https://twitter.com/arvalis/status/1558623545374023680)
-- [Show HN: Hacker News Predictions](https://hnpredictions.github.io/)
+- [As an artist I am concerned about AI image generation](https://twitter.com/arvalis/status/1558623545374023680)
+- [Hacker News Predictions](https://hnpredictions.github.io/)
 - [What to know to begin fixing amplifiers [video]](https://www.youtube.com/watch?v=0oWBcTTeMNQ)
-- [Checkmake: Experimental Linter/Analyzer for Makefiles](https://github.com/mrtazz/checkmake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
