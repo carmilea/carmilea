@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [Muxfs – a mirroring, checksumming, self-healing filesystem layer](https://sdadams.org/blog/introducing-muxfs/)
 - [Forecasting of energy consumption by G20 countries](https://www.nature.com/articles/s41598-022-17505-4)
 - [The Remote Pop-In &lpar;2021&rpar;](https://twos.dev/thepopin.html)
 - [The Open Source Paradox](http://antirez.com/news/134)
-- [samurai: Ninja-compatible build tool written in C](https://github.com/michaelforney/samurai)
-- [AWS Just Walk Out Technology](https://aws.amazon.com/blogs/industries/elevate-your-retail-experience-with-just-walk-out-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
