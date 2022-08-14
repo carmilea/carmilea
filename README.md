@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is something you built but never marketed?](https://news.ycombinator.com/item?id=32458897)
-- [Zoom macOS app quietly added back cs.disable-library-validation entitlement](https://news.ycombinator.com/item?id=32458878)
-- [Oasis: Small statically-linked Linux system](https://github.com/oasislinux/oasis)
-- [ID This SciFi Short Story](https://news.ycombinator.com/item?id=32458729)
-- [Windows 11 x64 security hardening guide](https://github.com/beerisgood/Windows11_Hardening)
+- [Elements of Programming](http://elementsofprogramming.com/)
+- [Activities for Boring Meetings &lpar;2012&rpar;](https://wiki.c2.com/?ActivitiesForBoringMeetings)
+- [Mexican Loan Apps, Extortion, and the Google Play Store](https://techpolicy.press/mexican-loan-apps-extortion-and-the-google-play-store/)
+- [Sick Codes has jailbroken a John Deere, and this is just the beginning](https://twitter.com/kwiens/status/1558688970799648769/photo/1)
+- [Nuclear Fusion Breakthrough California Team Achieved Ignition](https://www.llnl.gov/news/three-peer-reviewed-papers-highlight-scientific-results-national-ignition-facility-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
