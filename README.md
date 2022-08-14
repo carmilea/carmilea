@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Bun JavaScript Take Node&#39;s Crown](https://semaphoreci.com/blog/javascript-bun)
 - [Meatless meat is nothing new](https://www.economist.com/christmas-specials/2021/12/18/meatless-meat-is-nothing-new)
 - [Apple held up Telegram’s latest update over emoji](https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji)
 - [Stacker &lpar;YC S20&rpar; Is Hiring a Product Engineer](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 - [Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD](https://sdadams.org/blog/introducing-muxfs/)
-- [Forecasting of energy consumption by G20 countries](https://www.nature.com/articles/s41598-022-17505-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
