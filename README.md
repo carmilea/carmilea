@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you justify your existence?](https://news.ycombinator.com/item?id=32463336)
 - [Sony Unlocks In-Camera Forgery-Proof Technology](https://www.sony.eu/presscentre/news/sony-unlocks-in-camera-forgery-proof-technology)
 - [Declining quality of consumer-grade products – 2009 fridge compressor autopsy](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2)
 - [Patterns &lpar;YC S21&rpar; is hiring devs to help build the Figma for data](https://www.patterns.app/)
 - [How to Delete Gmail Attachments Without Deleting the Emails](https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html)
+- [Chrome was delivered without any sprints at all &lpar;2021&rpar;](https://twitter.com/aboodman/status/1427137725119959046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
