@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oasis: Small statically-linked Linux system](https://github.com/oasislinux/oasis)
+- [ID This SciFi Short Story](https://news.ycombinator.com/item?id=32458729)
+- [Windows 11 x64 security hardening guide](https://github.com/beerisgood/Windows11_Hardening)
 - [List of over 500 Swedish tech startups and scaleups](https://www.swedishtechnews.com/ultimate-swedish-startups-list/)
-- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
-- [Human Capital, Innovation, and Growth](https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346)
-- [A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave](https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/)
-- [Will Bun JavaScript Take Node&#39;s Crown](https://semaphoreci.com/blog/javascript-bun)
+- [Lisp-Stat: An Environment for Statistical Computing](https://lisp-stat.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
