@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elements of Programming](http://elementsofprogramming.com/)
-- [Activities for Boring Meetings &lpar;2012&rpar;](https://wiki.c2.com/?ActivitiesForBoringMeetings)
-- [Mexican Loan Apps, Extortion, and the Google Play Store](https://techpolicy.press/mexican-loan-apps-extortion-and-the-google-play-store/)
-- [Sick Codes has jailbroken a John Deere, and this is just the beginning](https://twitter.com/kwiens/status/1558688970799648769/photo/1)
-- [Nuclear Fusion Breakthrough California Team Achieved Ignition](https://www.llnl.gov/news/three-peer-reviewed-papers-highlight-scientific-results-national-ignition-facility-record)
+- [The Layoffs at Klarna](https://blog.pragmaticengineer.com/layoffs-at-klarna/)
+- [How do you decide which language/tech stack you invest learning?](https://news.ycombinator.com/item?id=32460304)
+- [Cloud.gov](https://cloud.gov/)
+- [Metastable Failures in the Wild](https://www.micahlerner.com/2022/07/11/metastable-failures-in-the-wild.html)
+- [Are We Blub Programmers?](http://weblog.raganwald.com/2006/10/are-we-blub-programmers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
