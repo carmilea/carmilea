@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
 - [OctoPrint: The snappy web interface for your 3D printer](https://octoprint.org/)
+- [Capitalism and Alienation [Severance Is the Workplace Thriller We’ve Needed]](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
 - [Observations on tragedy in a digital age](https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital)
 - [Off the Grid Cali “Slab City” Reaches Its Boiling Point](https://bluedotliving.com/slab-city-reaches-its-boiling-point/)
-- [Show HN: Create WireGuard Mesh Networks Using Vault](https://github.com/candiddev/vault-plugin-secrets-wireguard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
