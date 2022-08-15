@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
+- [Hacker News moved off AWS again at 10:17 PM PST](https://news.ycombinator.com/item?id=32466203)
 - [John Muir&#39;s Alarm Clock Desk](https://www.atlasobscura.com/places/john-muirs-alarm-clock-desk)
+- [The World of Egyptian Demons](https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons)
 - [Stitching – A Python package for fast and robust Image Stitching &lpar;Panoramas&rpar;](https://github.com/lukasalexanderweber/stitching)
-- [ADPS – Digital Communication of Doomsday](https://adps-project.org/)
-- [Why employees want to work in vilified industries](https://www.economist.com/business/2022/08/11/why-employees-want-to-work-in-vilified-industries)
-- [WaniKani, a Kanji Learning Application](https://www.wanikani.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
