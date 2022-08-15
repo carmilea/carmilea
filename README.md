@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twilio Incident: What Signal Users Need to Know](https://support.signal.org/hc/en-us/articles/4850133017242)
+- [Learnings of a CEO: Wade Foster, Zapier](https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier)
+- [Pachyderm &lpar;YC W15&rpar; is hiring Go distributed systems and testing engineers](https://www.pachyderm.com/careers/#positions)
+- [Twilio incident: What Signal users need to know](https://support.signal.org/hc/en-us/articles/4850133017242)
+- [Android 13](https://blog.google/products/android/android-13)
 - [Win32 Is the Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
-- [Scaling Kubernetes to Thousands of CRDs](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
-- [How to create a blog post title optimizer with GPT-3 and Hacker News data](https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/)
-- [Open-source rival for OpenAI’s DALL-E runs on your graphics card](https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
