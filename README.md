@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS GuardDuty – the Good, the Bad, and the Ugly](https://badshah.io/guardduty-good-bad-ugly/)
-- [Ask HN: How to find a small town to relocate for remote work?](https://news.ycombinator.com/item?id=32465372)
-- [Website to Sign Up for the Lyme Disease Vaccine Phase 3 Trial](https://fightlyme.careaccess.com/)
-- [Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch](https://github.com/kentjhall/horizon-linux)
-- [Caste in California: Tech giants confront ancient Indian hierarchy](https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/)
+- [John Muir&#39;s Alarm Clock Desk](https://www.atlasobscura.com/places/john-muirs-alarm-clock-desk)
+- [Stitching – A Python package for fast and robust Image Stitching &lpar;Panoramas&rpar;](https://github.com/lukasalexanderweber/stitching)
+- [ADPS – Digital Communication of Doomsday](https://adps-project.org/)
+- [Why employees want to work in vilified industries](https://www.economist.com/business/2022/08/11/why-employees-want-to-work-in-vilified-industries)
+- [WaniKani, a Kanji Learning Application](https://www.wanikani.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
