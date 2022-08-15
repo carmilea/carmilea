@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Big Bang didn&#39;t happen: What do the James Webb images show?](https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215)
+- [Steve Teixeira, Mozilla’s New Chief Product Officer](https://blog.mozilla.org/en/mozilla/steve-teixeira-mozilla-new-chief-product-officer/)
+- [Google IoT Core will be discontinued on Aug. 16, 2023](https://news.ycombinator.com/item?id=32475298)
+- [Timelock Encryption made possible and easy to use](https://github.com/drand/tlock)
 - [MacBook Air M1 screen crack for no apparent reason](https://origin-discussions2-us-dr-prz.apple.com/en/thread/252794122?page=49)
-- [Rules for Weird Ideas](https://dynomight.net/weird-ideas/)
-- [discordo: Lightweight, secure, and feature-rich Discord terminal client](https://github.com/ayntgl/discordo)
-- [How Discord supercharges network disks for extreme low latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
-- [Anonymous Search Engine](https://www.tuxdex.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
