@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can I see your scripts?](https://news.ycombinator.com/item?id=32467957)
-- [There are many ways to fail to read a file in a C program](https://colinpaice.blog/2022/08/06/there-are-many-ways-to-fail-to-read-a-file-in-a-c-program/)
-- [Using your SIM card for MFA when logging in to an SSH server](https://developer.tru.id/tutorials/ssh-mfa-with-phonecheck)
-- [Ask HN: Depressed, need to leave web development, what can I do?](https://news.ycombinator.com/item?id=32467288)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
+- [Microsoft finally admits Xbox One sales were less than half of the PS4](https://www.theverge.com/2022/8/15/23306068/microsoft-xbox-one-sales-lifetime-versus-ps4-sales)
+- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
+- [More Energy on Less Land: The Drive to Shrink Solar’s Footprint](https://e360.yale.edu/features/small-solar-agriculture-technology)
+- [A Review of the Art of the Metaobject Protocol &lpar;2010&rpar; [pdf]](https://www.dreamsongs.com/Files/amop-review.pdf)
+- [Tailscale changes its Android app to support the open source Headscale server](https://github.com/tailscale/tailscale-android/pull/45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
