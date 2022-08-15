@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There are many ways to fail to read a file in a C program](https://colinpaice.blog/2022/08/06/there-are-many-ways-to-fail-to-read-a-file-in-a-c-program/)
+- [Solo developer startups to $5k MRR](https://microfounder.com/5k)
 - [Ask HN: Depressed, need to leave web development, what can I do?](https://news.ycombinator.com/item?id=32467288)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/second-order-thinking/)
-- [Show HN: Teapodo &lpar;Lightweight Audio Editor&rpar; Now Supports VST/AU Plugins](https://teapodo.com/releases)
-- [Labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
