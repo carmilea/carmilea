@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Depressed, need to leave web development, what can I do?](https://news.ycombinator.com/item?id=32467288)
+- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/second-order-thinking/)
 - [Show HN: Teapodo &lpar;Lightweight Audio Editor&rpar; Now Supports VST/AU Plugins](https://teapodo.com/releases)
 - [Labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
-- [John Muir&#39;s Alarm Clock Desk](https://www.atlasobscura.com/places/john-muirs-alarm-clock-desk)
-- [The World of Egyptian Demons](https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
