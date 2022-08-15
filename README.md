@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft finally admits Xbox One sales were less than half of the PS4](https://www.theverge.com/2022/8/15/23306068/microsoft-xbox-one-sales-lifetime-versus-ps4-sales)
-- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
-- [More Energy on Less Land: The Drive to Shrink Solar’s Footprint](https://e360.yale.edu/features/small-solar-agriculture-technology)
-- [A Review of the Art of the Metaobject Protocol &lpar;2010&rpar; [pdf]](https://www.dreamsongs.com/Files/amop-review.pdf)
-- [Tailscale changes its Android app to support the open source Headscale server](https://github.com/tailscale/tailscale-android/pull/45)
+- [Blitz.js – The Missing Fullstack Toolkit for Next.js](https://blitzjs.com/)
+- [The Mensa Fallacy](https://kirkegaard.substack.com/p/the-mensa-fallacy)
+- [Attacking Titan M with Only One Byte](https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html)
+- [Investing in Flow](https://a16z.com/2022/08/15/investing-in-flow/)
+- [Commercial Surveillance and Data Security Rulemaking](https://www.ftc.gov/legal-library/browse/federal-register-notices/commercial-surveillance-data-security-rulemaking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
