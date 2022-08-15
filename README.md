@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony Unlocks In-Camera Forgery-Proof Technology](https://www.sony.eu/presscentre/news/sony-unlocks-in-camera-forgery-proof-technology)
+- [Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch](https://github.com/kentjhall/horizon-linux)
+- [Breaking all macOS security layers with a single vulnerability](https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/)
 - [Declining quality of consumer-grade products – 2009 fridge compressor autopsy](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2)
 - [Patterns &lpar;YC S21&rpar; is hiring devs to help build the Figma for data](https://www.patterns.app/)
 - [How to Delete Gmail Attachments Without Deleting the Emails](https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html)
-- [Chrome was delivered without any sprints at all &lpar;2021&rpar;](https://twitter.com/aboodman/status/1427137725119959046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
