@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rules for Weird Ideas](https://dynomight.net/weird-ideas/)
+- [discordo: Lightweight, secure, and feature-rich Discord terminal client](https://github.com/ayntgl/discordo)
+- [How Discord supercharges network disks for extreme low latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
 - [Anonymous Search Engine](https://www.tuxdex.com)
 - [Learnings of a CEO: Wade Foster, Zapier](https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier)
-- [How much gold has been found in the world?](https://www.usgs.gov/faqs/how-much-gold-has-been-found-world)
-- [Pachyderm &lpar;YC W15&rpar; is hiring Go distributed systems and testing engineers](https://www.pachyderm.com/careers/#positions)
-- [Twilio incident: What Signal users need to know](https://support.signal.org/hc/en-us/articles/4850133017242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
