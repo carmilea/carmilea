@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anonymous Search Engine](https://www.tuxdex.com)
 - [Learnings of a CEO: Wade Foster, Zapier](https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier)
+- [How much gold has been found in the world?](https://www.usgs.gov/faqs/how-much-gold-has-been-found-world)
 - [Pachyderm &lpar;YC W15&rpar; is hiring Go distributed systems and testing engineers](https://www.pachyderm.com/careers/#positions)
 - [Twilio incident: What Signal users need to know](https://support.signal.org/hc/en-us/articles/4850133017242)
-- [Android 13](https://blog.google/products/android/android-13)
-- [Win32 Is the Only Stable ABI on Linux](https://blog.hiler.eu/win32-the-only-stable-abi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
