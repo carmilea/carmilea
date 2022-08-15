@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MacBook Air M1 screen crack for no apparent reason](https://origin-discussions2-us-dr-prz.apple.com/en/thread/252794122?page=49)
 - [Rules for Weird Ideas](https://dynomight.net/weird-ideas/)
 - [discordo: Lightweight, secure, and feature-rich Discord terminal client](https://github.com/ayntgl/discordo)
 - [How Discord supercharges network disks for extreme low latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
 - [Anonymous Search Engine](https://www.tuxdex.com)
-- [Learnings of a CEO: Wade Foster, Zapier](https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
