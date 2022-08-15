@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/second-order-thinking/)
 - [Show HN: Teapodo &lpar;Lightweight Audio Editor&rpar; Now Supports VST/AU Plugins](https://teapodo.com/releases)
 - [Labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
-- [Lastpass locked us out of our shared password database and want $750](https://news.ycombinator.com/item?id=32466299)
-- [Hacker News moved off AWS again at 10:17 PM PST](https://news.ycombinator.com/item?id=32466203)
 - [John Muir&#39;s Alarm Clock Desk](https://www.atlasobscura.com/places/john-muirs-alarm-clock-desk)
+- [The World of Egyptian Demons](https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
