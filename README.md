@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Blog Post Title Optimizer with GPT-3 and Hacker News Data](https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/)
+- [Open-source rival for OpenAI’s DALL-E runs on your graphics card](https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/)
+- [The future of work isn&#39;t just remote, it&#39;s part-time](https://parttimetech.substack.com/p/the-future-of-work-isnt-just-remote)
 - [Tell HN: After 10 years of experiments, custom username emails receive no spam](https://news.ycombinator.com/item?id=32470645)
 - [Best Papers – Usenix Security 2022](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2022&title_1=sec)
-- [Why is solar more expensive in the U.S. than in other countries?](https://news.energysage.com/why-is-solar-more-expensive-in-the-us/)
-- [Foreign Affairs at 100: A Look Back at the First Issue](https://bcmullins.github.io/foreign-affairs-100/)
-- [Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150](https://news.ycombinator.com/item?id=32470017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
