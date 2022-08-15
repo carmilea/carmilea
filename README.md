@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Japanese Complete Book 1 Released](https://news.ycombinator.com/item?id=32469538)
-- [Blitz.js – The Missing Fullstack Toolkit for Next.js](https://blitzjs.com/)
-- [Attacking Titan M with Only One Byte](https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html)
-- [Commercial Surveillance and Data Security Rulemaking](https://www.ftc.gov/legal-library/browse/federal-register-notices/commercial-surveillance-data-security-rulemaking)
-- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
+- [Tell HN: After 10 years of experiments, custom username emails receive no spam](https://news.ycombinator.com/item?id=32470645)
+- [Best Papers – Usenix Security 2022](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2022&title_1=sec)
+- [Why is solar more expensive in the U.S. than in other countries?](https://news.energysage.com/why-is-solar-more-expensive-in-the-us/)
+- [Foreign Affairs at 100: A Look Back at the First Issue](https://bcmullins.github.io/foreign-affairs-100/)
+- [Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150](https://news.ycombinator.com/item?id=32470017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
