@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS GuardDuty – the Good, the Bad, and the Ugly](https://badshah.io/guardduty-good-bad-ugly/)
+- [Ask HN: How to find a small town to relocate for remote work?](https://news.ycombinator.com/item?id=32465372)
+- [Website to Sign Up for the Lyme Disease Vaccine Phase 3 Trial](https://fightlyme.careaccess.com/)
 - [Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch](https://github.com/kentjhall/horizon-linux)
-- [Breaking all macOS security layers with a single vulnerability](https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/)
-- [Declining quality of consumer-grade products – 2009 fridge compressor autopsy](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2)
-- [Patterns &lpar;YC S21&rpar; is hiring devs to help build the Figma for data](https://www.patterns.app/)
-- [How to Delete Gmail Attachments Without Deleting the Emails](https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html)
+- [Caste in California: Tech giants confront ancient Indian hierarchy](https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
