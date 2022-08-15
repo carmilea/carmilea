@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Big Bang didn&#39;t happen: What do the James Webb images show?](https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215)
+- [Impact to DigitalOcean customers resulting from Mailchimp security incident](https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident)
+- [Gen Z have 86% less purchasing power compared to baby boomers in their twenties](https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html)
+- [A robots.txt Problem](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
 - [Steve Teixeira, Mozilla’s New Chief Product Officer](https://blog.mozilla.org/en/mozilla/steve-teixeira-mozilla-new-chief-product-officer/)
 - [Google IoT Core will be discontinued on Aug. 16, 2023](https://news.ycombinator.com/item?id=32475298)
-- [Timelock Encryption made possible and easy to use](https://github.com/drand/tlock)
-- [MacBook Air M1 screen crack for no apparent reason](https://origin-discussions2-us-dr-prz.apple.com/en/thread/252794122?page=49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
