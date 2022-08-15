@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Japanese Complete Book 1 Released](https://news.ycombinator.com/item?id=32469538)
 - [Blitz.js – The Missing Fullstack Toolkit for Next.js](https://blitzjs.com/)
-- [The Mensa Fallacy](https://kirkegaard.substack.com/p/the-mensa-fallacy)
 - [Attacking Titan M with Only One Byte](https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html)
-- [Investing in Flow](https://a16z.com/2022/08/15/investing-in-flow/)
 - [Commercial Surveillance and Data Security Rulemaking](https://www.ftc.gov/legal-library/browse/federal-register-notices/commercial-surveillance-data-security-rulemaking)
+- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
