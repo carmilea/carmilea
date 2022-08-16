@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
+- [VPNs on iOS Are Scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php)
+- [Vector search just got up to 10x faster and vertically scalable](https://www.pinecone.io/learn/faster-easier-scalable/)
 - [Plasma reactors could create oxygen on Mars](https://www.science.org/content/article/plasma-reactors-could-create-oxygen-mars)
 - [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology)
-- [You can&#39;t afford to be an artist and/or author, let alone be respected](https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected)
-- [One Tag to Rule Them All: Introducing the New Google Tag](https://www.simoahava.com/analytics/one-tag-rule-them-all-introducing-google-tag/)
-- [We need young programmers; we need old programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
