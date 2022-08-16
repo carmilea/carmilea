@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
-- [Handpicked No-Signup Tools](https://www.nosignup.tools/)
-- [When high profile mercenaries have opinions about markets, and more](https://the-blindspot.com/when-high-profile-mercenaries-have-opinions-about-markets-and-more/)
-- [Great-houk/mouse-project: DIY Gaming Mouse](https://github.com/great-houk/mouse-project)
-- [RubyGems now requires MFA for owners of top gems](https://blog.rubygems.org/2022/08/15/requiring-mfa-on-popular-gems.html)
+- [Poly-time algorithm for deciding Hilbert Nullstellensatz. A proof of P=NP](https://arxiv.org/abs/2208.07327)
+- [Dodge will discontinue its Challenger and Charger muscle cars next year](https://www.cnbc.com/2022/08/15/dodge-challenger-charger-to-be-discontinued-in-2023.html)
+- [The West&#39;s historic drought is threatening hydropower at Hoover Dam](https://keyt.com/news/2022/08/16/the-wests-historic-drought-is-threatening-hydropower-at-hoover-dam/)
+- [American Airlines agrees to purchase Boom Supersonic Overture aircraft](https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures)
+- [Instagram, TikTok, and the Three Trends](https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
