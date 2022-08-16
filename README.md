@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Cookieless Conversion Attribution with Pathview](https://pathview.io/example)
+- [The impact of removing jQuery on our web performance](https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/)
+- [Fabimycin and Its Activity against Drug-Resistant Gram-Negative Pathogens](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00598)
 - [Ask HN: In 2022, what is the proper way to get into machine/deep learning?](https://news.ycombinator.com/item?id=32480009)
-- [Deconstructing Bézier Curves](http://blog.pkh.me/p/33-deconstructing-be%CC%81zier-curves.html)
-- [A little exercise each day improves muscles more than one big weekly workout](https://www.studyfinds.org/exercise-each-day-builds-muscle/)
-- [Def Con hacker shows John Deere’s tractors can run Doom](https://www.theverge.com/2022/8/15/23306650/def-con-hacker-john-deere-tractors-run-doom-right-to-repair)
-- [Happy Birthday GNOME! 25 years today](https://happybirthdaygnome.org/)
+- [Soviet Computer Software and Applications in the 1980&#39;s [pdf]](https://www.ucis.pitt.edu/nceeer/1989-801-5-2-Judy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
