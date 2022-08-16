@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wealthy Americans are flocking to Florida at four times the rate of any other st](https://fortune.com/2022/08/15/states-wealthy-americans-moving-to-florida-texas/)
-- [Eden &lpar;Performance Management Software&rpar; Is Hiring – Product Manager](https://news.ycombinator.com/item?id=32485639)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Germany to Keep Last Three Nuclear-Power Plants Running](https://www.wsj.com/articles/germany-to-keep-last-three-nuclear-power-plants-running-in-policy-u-turn-11660661914)
-- [Learning to Spell in Linear B: Scribal Training in Mycenaean Pylos](https://www.cambridge.org/core/journals/cambridge-classical-journal/article/learning-to-spell-in-linear-b-orthography-and-scribal-training-in-mycenaean-pylos/50556D5B86414A3958575FB2C24B6FD1)
+- [We need young programmers; we need old programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
+- [A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16](https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy)
+- [Is El Salvador Up?](https://www.iselsalvadorup.com/)
+- [Ford F-150 Lightning Review: Fast Truck, Slow Computer](https://www.theverge.com/23307298/ford-f-150-lightning-review)
+- [Make Fermented Hot Sauce](https://www.seriouseats.com/fermented-hot-sauce-how-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
