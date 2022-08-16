@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus &lpar;YC S15&rpar; Is US-Remote Hiring Senior Software Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [A Geologic map of the Entire Moon has Been Released at 1:2,500,000-Scale](https://www.universetoday.com/156265/a-geologic-map-of-the-entire-moon-has-been-released-at-12500000-scale/)
+- [What does it take to test a sorting routine? &lpar;2010&rpar;](https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/)
 - [Scanning for AWS Security Issues with Trivy](https://lia.mg/posts/trivy-aws/)
-- [Adam Neumann’s New Company Gets a Big Check from Andreessen Horowitz](https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-wework-startup.html)
-- [T-Mobile and Deutsche Telekom lie to customers](https://hasbrouck.org/blog/archives/002653.html)
-- [Show HN: Cookieless Conversion Attribution with Pathview](https://pathview.io/example)
-- [The impact of removing jQuery on our web performance](https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/)
+- [T-Mobile USA doesn&#39;t comply with its German parent company’s GDPR policies](https://hasbrouck.org/blog/archives/002653.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
