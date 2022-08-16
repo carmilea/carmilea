@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plasma reactors could create oxygen on Mars](https://www.science.org/content/article/plasma-reactors-could-create-oxygen-mars)
+- [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology)
+- [You can&#39;t afford to be an artist and/or author, let alone be respected](https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected)
+- [One Tag to Rule Them All: Introducing the New Google Tag](https://www.simoahava.com/analytics/one-tag-rule-them-all-introducing-google-tag/)
 - [We need young programmers; we need old programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
-- [A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16](https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy)
-- [Is El Salvador Up?](https://www.iselsalvadorup.com/)
-- [Ford F-150 Lightning Review: Fast Truck, Slow Computer](https://www.theverge.com/23307298/ford-f-150-lightning-review)
-- [Make Fermented Hot Sauce](https://www.seriouseats.com/fermented-hot-sauce-how-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
