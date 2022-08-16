@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tup – an instrumenting file-based build system](https://gittup.org/tup/)
+- [Freeshow: A Free and Open-source ProPresenter alternative](https://github.com/vassbo/freeshow)
 - [Impact to DigitalOcean customers resulting from Mailchimp security incident](https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident)
-- [Gen Z have 86% less purchasing power compared to baby boomers in their twenties](https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html)
 - [A robots.txt Problem](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
-- [Steve Teixeira, Mozilla’s New Chief Product Officer](https://blog.mozilla.org/en/mozilla/steve-teixeira-mozilla-new-chief-product-officer/)
-- [Google IoT Core will be discontinued on Aug. 16, 2023](https://news.ycombinator.com/item?id=32475298)
+- [Timelock Encryption made possible and easy to use](https://github.com/drand/tlock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
