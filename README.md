@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
+- [Apple becomes first tech giant to explicitly ban caste discrimination](https://www.indiatoday.in/technology/news/story/apple-becomes-first-tech-giant-to-explicitly-ban-caste-discrimination-trains-managers-on-indian-caste-system-1988183-2022-08-15)
+- [Philippines orders fraud probe after paying MacBook prices for Celeron laptops](https://www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/)
+- [Debian Turns 29](https://bits.debian.org/2022/08/debian-turns-29.html)
 - [GiveCampus &lpar;YC S15&rpar; Is US-Remote Hiring Senior Software Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [A Geologic map of the Entire Moon has Been Released at 1:2,500,000-Scale](https://www.universetoday.com/156265/a-geologic-map-of-the-entire-moon-has-been-released-at-12500000-scale/)
-- [What does it take to test a sorting routine? &lpar;2010&rpar;](https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/)
-- [Scanning for AWS Security Issues with Trivy](https://lia.mg/posts/trivy-aws/)
-- [T-Mobile USA doesn&#39;t comply with its German parent company’s GDPR policies](https://hasbrouck.org/blog/archives/002653.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
