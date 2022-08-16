@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: In 2022, what is the proper way to get into machine/deep learning?](https://news.ycombinator.com/item?id=32480009)
+- [Deconstructing Bézier Curves](http://blog.pkh.me/p/33-deconstructing-be%CC%81zier-curves.html)
 - [A little exercise each day improves muscles more than one big weekly workout](https://www.studyfinds.org/exercise-each-day-builds-muscle/)
 - [Def Con hacker shows John Deere’s tractors can run Doom](https://www.theverge.com/2022/8/15/23306650/def-con-hacker-john-deere-tractors-run-doom-right-to-repair)
 - [Happy Birthday GNOME! 25 years today](https://happybirthdaygnome.org/)
-- [Certifying Interpreters in Racket](https://kmicinski.com/certifying-interpreters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
