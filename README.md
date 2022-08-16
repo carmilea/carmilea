@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Interactive Theorem Proving?](https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/)
 - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
-- [VPNs on iOS Are Scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php)
+- [VPNs on iOS are a scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php)
 - [Vector search just got up to 10x faster and vertically scalable](https://www.pinecone.io/learn/faster-easier-scalable/)
 - [Plasma reactors could create oxygen on Mars](https://www.science.org/content/article/plasma-reactors-could-create-oxygen-mars)
-- [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
