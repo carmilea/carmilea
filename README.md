@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Did Facebook just stop fighting adblockers?](https://news.ycombinator.com/item?id=32479223)
 - [SQLite is not a toy database &lpar;2021&rpar;](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [Apple to mandate three days in a week in the office by Labor Day](https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php)
 - [Ask HN: Where to meet people who are interested in building a company together?](https://news.ycombinator.com/item?id=32478642)
 - [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
-- [Tup – an instrumenting file-based build system](https://gittup.org/tup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
