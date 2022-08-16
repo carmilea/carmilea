@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poly-time algorithm for deciding Hilbert Nullstellensatz. A proof of P=NP](https://arxiv.org/abs/2208.07327)
-- [Dodge will discontinue its Challenger and Charger muscle cars next year](https://www.cnbc.com/2022/08/15/dodge-challenger-charger-to-be-discontinued-in-2023.html)
-- [The West&#39;s historic drought is threatening hydropower at Hoover Dam](https://keyt.com/news/2022/08/16/the-wests-historic-drought-is-threatening-hydropower-at-hoover-dam/)
-- [American Airlines agrees to purchase Boom Supersonic Overture aircraft](https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures)
-- [Instagram, TikTok, and the Three Trends](https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/)
+- [Learning to Spell in Linear B: Scribal Training in Mycenaean Pylos](https://www.cambridge.org/core/journals/cambridge-classical-journal/article/learning-to-spell-in-linear-b-orthography-and-scribal-training-in-mycenaean-pylos/50556D5B86414A3958575FB2C24B6FD1)
+- [Show HN: A developper friendly &lpar;web&rpar; comic format](https://drdru.github.io/twc/twc_save_aryn/02_on_the_way_to_kilm_1.html)
+- [Docker Compose best practices for dev and prod](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
+- [Using the Same Arch Linux Installation for a Decade](https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/)
+- [Ask HN: Is RSS dying? Or coming back?](https://news.ycombinator.com/item?id=32483967)
 <!-- BLOG-POST-LIST:END -->
 
 ---
