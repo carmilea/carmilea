@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: In 2022, what is the proper way to get into machine/deep learning?](https://news.ycombinator.com/item?id=32480009)
 - [A little exercise each day improves muscles more than one big weekly workout](https://www.studyfinds.org/exercise-each-day-builds-muscle/)
-- [WeWork&#39;s former CEO has a new startup, reportedly valued at more than $1B](https://www.cnn.com/2022/08/15/tech/adam-neumann-flow/index.html)
-- [Ask HN: Did Facebook just stop fighting adblockers?](https://news.ycombinator.com/item?id=32479223)
-- [SQLite is not a toy database &lpar;2021&rpar;](https://antonz.org/sqlite-is-not-a-toy-database/)
-- [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
+- [Def Con hacker shows John Deere’s tractors can run Doom](https://www.theverge.com/2022/8/15/23306650/def-con-hacker-john-deere-tractors-run-doom-right-to-repair)
+- [Happy Birthday GNOME! 25 years today](https://happybirthdaygnome.org/)
+- [Certifying Interpreters in Racket](https://kmicinski.com/certifying-interpreters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
