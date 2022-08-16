@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
-- [Apple becomes first tech giant to explicitly ban caste discrimination](https://www.indiatoday.in/technology/news/story/apple-becomes-first-tech-giant-to-explicitly-ban-caste-discrimination-trains-managers-on-indian-caste-system-1988183-2022-08-15)
-- [Philippines orders fraud probe after paying MacBook prices for Celeron laptops](https://www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/)
-- [Debian Turns 29](https://bits.debian.org/2022/08/debian-turns-29.html)
-- [GiveCampus &lpar;YC S15&rpar; Is US-Remote Hiring Senior Software Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Handpicked No-Signup Tools](https://www.nosignup.tools/)
+- [When high profile mercenaries have opinions about markets, and more](https://the-blindspot.com/when-high-profile-mercenaries-have-opinions-about-markets-and-more/)
+- [Great-houk/mouse-project: DIY Gaming Mouse](https://github.com/great-houk/mouse-project)
+- [RubyGems now requires MFA for owners of top gems](https://blog.rubygems.org/2022/08/15/requiring-mfa-on-popular-gems.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
