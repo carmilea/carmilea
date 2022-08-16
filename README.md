@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite is not a toy database &lpar;2021&rpar;](https://antonz.org/sqlite-is-not-a-toy-database/)
+- [Apple to mandate three days in a week in the office by Labor Day](https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php)
+- [Ask HN: Where to meet people who are interested in building a company together?](https://news.ycombinator.com/item?id=32478642)
+- [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
 - [Tup – an instrumenting file-based build system](https://gittup.org/tup/)
-- [Freeshow: A Free and Open-source ProPresenter alternative](https://github.com/vassbo/freeshow)
-- [Impact to DigitalOcean customers resulting from Mailchimp security incident](https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident)
-- [A robots.txt Problem](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
-- [Timelock Encryption made possible and easy to use](https://github.com/drand/tlock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
