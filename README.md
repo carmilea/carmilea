@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A little exercise each day improves muscles more than one big weekly workout](https://www.studyfinds.org/exercise-each-day-builds-muscle/)
+- [WeWork&#39;s former CEO has a new startup, reportedly valued at more than $1B](https://www.cnn.com/2022/08/15/tech/adam-neumann-flow/index.html)
 - [Ask HN: Did Facebook just stop fighting adblockers?](https://news.ycombinator.com/item?id=32479223)
 - [SQLite is not a toy database &lpar;2021&rpar;](https://antonz.org/sqlite-is-not-a-toy-database/)
-- [Apple to mandate three days in a week in the office by Labor Day](https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php)
-- [Ask HN: Where to meet people who are interested in building a company together?](https://news.ycombinator.com/item?id=32478642)
 - [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
 <!-- BLOG-POST-LIST:END -->
 
