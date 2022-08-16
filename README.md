@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wealthy Americans are flocking to Florida at four times the rate of any other st](https://fortune.com/2022/08/15/states-wealthy-americans-moving-to-florida-texas/)
 - [Eden &lpar;Performance Management Software&rpar; Is Hiring – Product Manager](https://news.ycombinator.com/item?id=32485639)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Germany to Keep Last Three Nuclear-Power Plants Running](https://www.wsj.com/articles/germany-to-keep-last-three-nuclear-power-plants-running-in-policy-u-turn-11660661914)
 - [Learning to Spell in Linear B: Scribal Training in Mycenaean Pylos](https://www.cambridge.org/core/journals/cambridge-classical-journal/article/learning-to-spell-in-linear-b-orthography-and-scribal-training-in-mycenaean-pylos/50556D5B86414A3958575FB2C24B6FD1)
-- [Faster offset pagination for Rails apps](https://planetscale.com/blog/fastpage-faster-offset-pagination-for-rails-apps)
-- [A developper friendly &lpar;web&rpar; comic format](https://drdru.github.io/twc/twc_save_aryn/02_on_the_way_to_kilm_1.html)
-- [Raft Consensus Animated](https://thesecretlivesofdata.com/raft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
