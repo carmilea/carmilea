@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scanning for AWS Security Issues with Trivy](https://lia.mg/posts/trivy-aws/)
+- [Adam Neumann’s New Company Gets a Big Check from Andreessen Horowitz](https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-wework-startup.html)
+- [T-Mobile and Deutsche Telekom lie to customers](https://hasbrouck.org/blog/archives/002653.html)
 - [Show HN: Cookieless Conversion Attribution with Pathview](https://pathview.io/example)
 - [The impact of removing jQuery on our web performance](https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/)
-- [Fabimycin and Its Activity against Drug-Resistant Gram-Negative Pathogens](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00598)
-- [Ask HN: In 2022, what is the proper way to get into machine/deep learning?](https://news.ycombinator.com/item?id=32480009)
-- [Soviet Computer Software and Applications in the 1980&#39;s [pdf]](https://www.ucis.pitt.edu/nceeer/1989-801-5-2-Judy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
