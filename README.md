@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Large-Scale Graph Analytics with Memgraph and Nvidia CuGraph Algorithms](https://developer.nvidia.com/blog/running-large-scale-graph-analytics-with-memgraph-and-nvidia-cugraph-algorithms/)
 - [Show HN: I made a web-based notepad with a built in unit calculator](https://numpad.io/)
+- [Low-Tech Magazine](https://www.lowtechmagazine.com/)
+- [Housing is at the root of many of the rich world’s problems &lpar;2020&rpar;](https://www.economist.com/special-report/2020/01/16/housing-is-at-the-root-of-many-of-the-rich-worlds-problems)
 - [The Jank Language: LLVM Hosted Clojure](https://jank-lang.org/)
-- [Ask HN: Startup idea – disconnected, physical space charged by hour](https://news.ycombinator.com/item?id=32493174)
-- [Opvia &lpar;YC S20&rpar; Is Hiring a Chief of Staff in London, UK](https://www.opvia.io/careers)
-- [Uno platform: build single-codebase applications across all platforms](https://github.com/unoplatform/uno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
