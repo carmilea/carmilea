@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Has any Rust developer moved to embedded device programming?](https://news.ycombinator.com/item?id=32494606)
+- [Physical buttons clearly outperform touchscreens in new cars, test finds](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
+- [Aparté – Simple XMPP console client written in Rust](https://github.com/paulfariello/aparte)
 - [Running Large-Scale Graph Analytics with Memgraph and Nvidia CuGraph Algorithms](https://developer.nvidia.com/blog/running-large-scale-graph-analytics-with-memgraph-and-nvidia-cugraph-algorithms/)
 - [Show HN: I made a web-based notepad with a built in unit calculator](https://numpad.io/)
-- [Low-Tech Magazine](https://www.lowtechmagazine.com/)
-- [Housing is at the root of many of the rich world’s problems &lpar;2020&rpar;](https://www.economist.com/special-report/2020/01/16/housing-is-at-the-root-of-many-of-the-rich-worlds-problems)
-- [The Jank Language: LLVM Hosted Clojure](https://jank-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
