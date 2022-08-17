@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a web-based notepad with a built in unit calculator](https://numpad.io/)
 - [The Jank Language: LLVM Hosted Clojure](https://jank-lang.org/)
 - [Ask HN: Startup idea – disconnected, physical space charged by hour](https://news.ycombinator.com/item?id=32493174)
 - [Opvia &lpar;YC S20&rpar; Is Hiring a Chief of Staff in London, UK](https://www.opvia.io/careers)
 - [Uno platform: build single-codebase applications across all platforms](https://github.com/unoplatform/uno)
-- [RavynOS – Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
