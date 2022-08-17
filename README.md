@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Insider Trading in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4184367)
+- [Show HN: Exp. Smoothing is 32% more accurate and 100x faster than Neural-Prophet](https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md)
+- [Protect Animals in the State of Oregon](https://www.yesonip3.org)
+- [Vietnam to make Apple Watch and MacBook for first time ever](https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever)
 - [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
-- [Show HN: GraphJSON – Easily log and analyze events using ClickHouse](https://www.graphjson.com/)
-- [NMN: A Stable, Reliable NAD+Activator and Anti-Aging Molecule &lpar;2020&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238909/)
-- [Build Your Own Imagen Text-to-Image Model](https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/)
+- [HP LaserJet Tank – Refillable laser printer](https://www.hp.com/us-en/printers/laserjet-tank.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
