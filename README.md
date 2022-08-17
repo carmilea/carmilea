@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Odyssey of Ulysses S. Grant](https://www.neh.gov/humanities/2014/mayjune/feature/the-odyssey-ulysses-s-grant)
-- [Car Seats as Contraception](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3665046)
-- [Physics Duo Finds Magic in Two Dimensions](https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/)
-- [Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing)
-- [High Court of Australia rules hyperlinking is not publishing](https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27)
+- [RavynOS – Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
+- [Enhanced Rock Weathering for CO2 Removal [video]](https://www.youtube.com/watch?v=Vr4A7PKCHAw)
+- [Paper: Augmenting Decompiler Output with Learned Variable Names and Types [pdf]](https://www.usenix.org/system/files/sec22-chen-qibin.pdf)
+- [Physics duo finds magic in two dimensions](https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/)
+- [A spelled-out intro to neural networks and backpropagation [video]](https://www.youtube.com/watch?v=VMj-3S1tku0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
