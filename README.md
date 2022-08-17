@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains Research](https://research.jetbrains.org)
+- [Accounting for Developers](https://www.moderntreasury.com/journal/accounting-for-developers-part-i)
+- [Why American cities are broke &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=7IsMeKl-Sv0)
 - [Do not ship work in progress: An open letter](https://dont-ship.it/)
 - [These Are Not Photos: Beautiful Landscapes Created by New AI](https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/)
-- [Sorry, your wife is Indian, landlord won’t rent to you](https://www.techinasia.com/landlords-dont-racist-can)
-- [Using SSH_config Match to connect to a host using multiple IP or Hostnames](https://fmartingr.com/blog/2022/08/12/using-ssh-config-match-to-connect-to-a-host-using-multiple-ip-or-hostnames/)
-- [Ask HN: Did the Tesla return to work happen?](https://news.ycombinator.com/item?id=32494872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
