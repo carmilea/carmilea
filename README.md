@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insider Trading in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4184367)
 - [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
-- [HP LaserJet Tank – Refillable laser printer](https://www.hp.com/us-en/printers/laserjet-tank.html)
-- [You can’t buy one square foot of land in Scotland and become a Scottish lord](https://talesoftimesforgotten.com/2022/06/15/no-you-cant-buy-one-square-foot-of-land-in-scotland-and-become-a-scottish-lord/)
 - [Show HN: GraphJSON – Easily log and analyze events using ClickHouse](https://www.graphjson.com/)
 - [NMN: A Stable, Reliable NAD+Activator and Anti-Aging Molecule &lpar;2020&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238909/)
+- [Build Your Own Imagen Text-to-Image Model](https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
