@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has any Rust developer moved to embedded device programming?](https://news.ycombinator.com/item?id=32494606)
-- [Physical buttons clearly outperform touchscreens in new cars, test finds](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
-- [Aparté – Simple XMPP console client written in Rust](https://github.com/paulfariello/aparte)
-- [Running Large-Scale Graph Analytics with Memgraph and Nvidia CuGraph Algorithms](https://developer.nvidia.com/blog/running-large-scale-graph-analytics-with-memgraph-and-nvidia-cugraph-algorithms/)
-- [Show HN: I made a web-based notepad with a built in unit calculator](https://numpad.io/)
+- [Do not ship work in progress: An open letter](https://dont-ship.it/)
+- [These Are Not Photos: Beautiful Landscapes Created by New AI](https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/)
+- [Sorry, your wife is Indian, landlord won’t rent to you](https://www.techinasia.com/landlords-dont-racist-can)
+- [Using SSH_config Match to connect to a host using multiple IP or Hostnames](https://fmartingr.com/blog/2022/08/12/using-ssh-config-match-to-connect-to-a-host-using-multiple-ip-or-hostnames/)
+- [Ask HN: Did the Tesla return to work happen?](https://news.ycombinator.com/item?id=32494872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
