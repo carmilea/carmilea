@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Interactive Theorem Proving?](https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/)
-- [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
-- [A one-bit processor explained: reverse-engineering the vintage MC14500B](http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
-- [VPNs on iOS are a scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php)
-- [Vector search just got up to 10x faster and vertically scalable](https://www.pinecone.io/learn/faster-easier-scalable/)
+- [Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing)
+- [How Safe Are Nuclear Power Plants?](https://www.newyorker.com/science/elements/how-safe-are-nuclear-power-plants)
+- [High Court of Australia rules hyperlinking is not publishing](https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27)
+- [Exhausting All Possibilities: The Stanley Parable](https://www.nybooks.com/articles/2022/08/18/exhausting-all-possibilities-the-stanley-parable-winslow-yost/)
+- [Putting Tailscale on the Steam Deck](https://tailscale.com/blog/steam-deck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
