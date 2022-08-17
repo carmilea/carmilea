@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nixpacks takes a source directory and produces an OCI compliant image](https://nixpacks.com/docs/getting-started)
+- [My ETH Wallet is wrongly sanctioned](https://depression2022.substack.com/p/8172022-my-eth-wallet-is-wrongly)
+- [Saudi Arabia sentenced a woman to 34 years in prison for tweeting](https://www.theverge.com/2022/8/17/23310126/twitter-saudi-woman-sentenced-34-years-salma-al-shehab)
 - [Show HN: Exp. Smoothing is 32% more accurate and 100x faster than Neural-Prophet](https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md)
-- [Protect Animals in the State of Oregon](https://www.yesonip3.org)
-- [Vietnam to make Apple Watch and MacBook for first time ever](https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever)
-- [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
-- [HP LaserJet Tank – Refillable laser printer](https://www.hp.com/us-en/printers/laserjet-tank.html)
+- [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
