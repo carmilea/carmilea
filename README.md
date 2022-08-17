@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PolyScale and ClickHouse Materialized Views](https://www.polyscale.ai/blog/polyscale-metrics-materialized-views/)
+- [Launch HN: Nimbus &lpar;YC W22&rpar; – Cloud dev environments for teams](https://news.ycombinator.com/item?id=32496462)
+- [Show HN: Match&lpar;it&rpar;: A C++17 pattern-matching library with lots of good stuffs](https://github.com/BowenFu/matchit.cpp)
 - [JetBrains Research](https://research.jetbrains.org)
 - [Accounting for Developers](https://www.moderntreasury.com/journal/accounting-for-developers-part-i)
-- [Why American cities are broke &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=7IsMeKl-Sv0)
-- [Do not ship work in progress: An open letter](https://dont-ship.it/)
-- [These Are Not Photos: Beautiful Landscapes Created by New AI](https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
