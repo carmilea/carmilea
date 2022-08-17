@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [RavynOS – Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 - [Enhanced Rock Weathering for CO2 Removal [video]](https://www.youtube.com/watch?v=Vr4A7PKCHAw)
-- [Paper: Augmenting Decompiler Output with Learned Variable Names and Types [pdf]](https://www.usenix.org/system/files/sec22-chen-qibin.pdf)
 - [Physics duo finds magic in two dimensions](https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/)
 - [A spelled-out intro to neural networks and backpropagation [video]](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [High Court of Australia rules hyperlinking is not publishing [pdf]](https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
