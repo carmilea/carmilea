@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard](https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard)
 - [PolyScale and ClickHouse Materialized Views](https://www.polyscale.ai/blog/polyscale-metrics-materialized-views/)
 - [Launch HN: Nimbus &lpar;YC W22&rpar; – Cloud dev environments for teams](https://news.ycombinator.com/item?id=32496462)
 - [Show HN: Match&lpar;it&rpar;: A C++17 pattern-matching library with lots of good stuffs](https://github.com/BowenFu/matchit.cpp)
 - [JetBrains Research](https://research.jetbrains.org)
-- [Accounting for Developers](https://www.moderntreasury.com/journal/accounting-for-developers-part-i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
