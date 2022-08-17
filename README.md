@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Odyssey of Ulysses S. Grant](https://www.neh.gov/humanities/2014/mayjune/feature/the-odyssey-ulysses-s-grant)
+- [Car Seats as Contraception](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3665046)
+- [Physics Duo Finds Magic in Two Dimensions](https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/)
 - [Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing)
-- [How Safe Are Nuclear Power Plants?](https://www.newyorker.com/science/elements/how-safe-are-nuclear-power-plants)
 - [High Court of Australia rules hyperlinking is not publishing](https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27)
-- [Exhausting All Possibilities: The Stanley Parable](https://www.nybooks.com/articles/2022/08/18/exhausting-all-possibilities-the-stanley-parable-winslow-yost/)
-- [Putting Tailscale on the Steam Deck](https://tailscale.com/blog/steam-deck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
