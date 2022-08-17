@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Another Path to Intelligence](https://nautil.us/another-path-to-intelligence-23113/)
 - [The Essence of Programming &lpar;2021&rpar;](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
 - [Can the Visa-Mastercard duopoly be broken?](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken)
 - [Nixpacks takes a source directory and produces an OCI compliant image](https://nixpacks.com/docs/getting-started)
-- [Inaction on Climate Change Could Cost the US Economy $14.5T by 2070](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/press-releases/deloitte-report-inaction-on-climate-change-could-cost-the-us-economy-trillions-by-2070.html)
 - [Saudi Arabia sentenced a woman to 34 years in prison for tweeting](https://www.theverge.com/2022/8/17/23310126/twitter-saudi-woman-sentenced-34-years-salma-al-shehab)
 <!-- BLOG-POST-LIST:END -->
 
