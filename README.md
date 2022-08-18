@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FedNow℠ Service FAQ: Instant Bank Payments for the US Coming in 2023](https://www.federalreserve.gov/paymentsystems/fednow_faq.htm)
+- [A sane SSH&lpar;1&rpar; key management example](https://try.popho.be/ssh-keys.html)
+- [Supabase – Realtime: Multiplayer Edition](https://supabase.com/blog/supabase-realtime-multiplayer-general-availability)
+- [Metal Archives 20th Anniversary](https://www.metal-archives.com/news/view/id/284)
 - [Thunderbird Time Machine: Windows XP and Thunderbird 1.0](https://blog.thunderbird.net/2022/08/thunderbird-time-machine-windows-xp-thunderbird-1-0/)
-- [TSMC to Begin 3nm Chip Production Next Month, Apple gets first dib](https://www.tomshardware.com/news/tsmc-initiates-3nm-chips-production-next-month)
-- [PINE64 has let its community down](https://drewdevault.com/2022/08/18/PINE64-let-us-down.html)
-- [The only thing needed is Seinfeld making a career change and getting into tech](https://festivus.dev/)
-- [Japan wants young people to drink more alcohol](https://www.cnn.com/2022/08/18/asia/japan-tax-alcohol-competition-intl-hnk/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
