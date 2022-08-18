@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I love my GPD Micro PC](https://blog.danieljanus.pl/2022/08/18/i-love-my-gpd-micro-pc/)
+- [Third-polarizing-filter experiment demystified &lpar;2004&rpar;](http://alienryderflex.com/polarizer/)
+- [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer &lpar;Part 1&rpar;](https://www.thezdi.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
 - [Unofficial Spotify Client for the Nintendo Switch &lpar;PoC&rpar;](https://gbatemp.net/threads/90spot-spotify-for-nintendo-switch-proof-of-concept.617533/)
 - [Sudden increase in number of mid-air diversions to Hawaii](https://beatofhawaii.com/hawaiian-joins-mid-air-diversions-now-7-in-three-weeks/)
-- [Shouting in the Datacenter &lpar;2008&rpar;](https://www.youtube.com/watch?v=tDacjrSCeq4)
-- [Former judges who sent kids to jail for kickbacks must pay more than 200M](https://www.npr.org/2022/08/18/1118108084/michael-conahan-mark-ciavarella-kids-for-cash)
-- [Whytheluckystiff&#39;s original domain back as an archive](https://whytheluckystiff.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
