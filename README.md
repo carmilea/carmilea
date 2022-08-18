@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults.html)
+- [$8600 MRR business on Airtable](https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240)
-- [Ask HN: Shut down a startup despite strong traction?](https://news.ycombinator.com/item?id=32506229)
 - [Cory Doctorow&#39;s next book: Chokepoint Capitalism](https://twitter.com/doctorow/status/1559927883551883266)
 - [Ask HN: Is there a spiritual successor to del.icio.us?](https://news.ycombinator.com/item?id=32506168)
-- [DIY Guide to Sheet Metal Press Brakes &lpar;2018&rpar;](https://www.cnccookbook.com/easy-diy-guide-to-press-brakes-tooling-metal-folding-magnabend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
