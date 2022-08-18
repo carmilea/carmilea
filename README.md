@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird Time Machine: Windows XP and Thunderbird 1.0](https://blog.thunderbird.net/2022/08/thunderbird-time-machine-windows-xp-thunderbird-1-0/)
+- [TSMC to Begin 3nm Chip Production Next Month, Apple gets first dib](https://www.tomshardware.com/news/tsmc-initiates-3nm-chips-production-next-month)
+- [PINE64 has let its community down](https://drewdevault.com/2022/08/18/PINE64-let-us-down.html)
+- [The only thing needed is Seinfeld making a career change and getting into tech](https://festivus.dev/)
 - [Japan wants young people to drink more alcohol](https://www.cnn.com/2022/08/18/asia/japan-tax-alcohol-competition-intl-hnk/index.html)
-- [Zimbu programming language by Vim author Bram Moolenaar](http://www.zimbu.org/Home)
-- [Delphi Still Exists and Is Actively Developed](https://www.embarcadero.com/products/delphi)
-- [An io_uring-based user-space block driver](https://lwn.net/Articles/903855/)
-- [Launch HN: Cerrion &lpar;YC S22&rpar; – Computer vision to reduce production line problems](https://www.cerrion.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
