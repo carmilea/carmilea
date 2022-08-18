@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Rust on Logic Gates](https://zdimension.fr/crabs-all-the-way-down/)
-- [Why are bookmarks second class citizens in browsers?](https://news.ycombinator.com/item?id=32505314)
-- [Talking to your customers: a disruptive Agile framework](https://lucasfcosta.com/2022/08/03/talk-to-your-customers.html)
-- [Edible insects role in transmission of parasitic diseases to humans &lpar;2019&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219303)
-- [G1-G3 Watches for 17-19 August, 2022](https://www.swpc.noaa.gov/news/g1-g3-watches-17-19-august-2022)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240)
+- [Ask HN: Shut down a startup despite strong traction?](https://news.ycombinator.com/item?id=32506229)
+- [Ask HN: Is there a spiritual successor to del.icio.us?](https://news.ycombinator.com/item?id=32506168)
+- [DIY Guide to Sheet Metal Press Brakes &lpar;2018&rpar;](https://www.cnccookbook.com/easy-diy-guide-to-press-brakes-tooling-metal-folding-magnabend/)
+- [Emergent Features in 6.7B+ Param Transformers](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
