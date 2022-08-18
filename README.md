@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA moves to make over-the-counter hearing aids available to millions](https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/)
-- [Is the Windows Bridge for iOS Projects Dead?](https://github.com/microsoft/WinObjC)
+- [Why does Meta Quest – Horizon Worlds look so terible?](https://news.ycombinator.com/item?id=32504933)
+- [G1-G3 Watches for 17-19 August, 2022](https://www.swpc.noaa.gov/news/g1-g3-watches-17-19-august-2022)
+- [New antibody neutralizes all known SARS-CoV-2 variants in lab tests](https://hms.harvard.edu/news/one-all)
+- [FDA moves to make over-the-counter hearing aids available](https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/)
 - [AirTag leads to arrest of airline worker who stole $15,000 of items from luggage](https://www.nbcnews.com/news/us-news/airtag-leads-arrest-airline-worker-accused-stealing-least-15000-items-rcna43547)
-- [The Soviets Hunted Whales to the Brink of Extinction but Scientists Tracked Toll](https://gcaptain.com/the-soviets-hunted-whales-to-the-brink-of-extinction-but-its-scientists-secretly-tracked-its-toll/)
-- [Zooko&#39;s Triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
