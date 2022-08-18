@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan wants young people to drink more alcohol](https://www.cnn.com/2022/08/18/asia/japan-tax-alcohol-competition-intl-hnk/index.html)
+- [Zimbu programming language by Vim author Bram Moolenaar](http://www.zimbu.org/Home)
+- [Delphi Still Exists and Is Actively Developed](https://www.embarcadero.com/products/delphi)
+- [An io_uring-based user-space block driver](https://lwn.net/Articles/903855/)
 - [Launch HN: Cerrion &lpar;YC S22&rpar; – Computer vision to reduce production line problems](https://www.cerrion.com/)
-- [Julia 1.8 has been released](https://julialang.org/blog/2022/08/julia-1.8-highlights/)
-- [Pine64’s response to “Why I left Pine64”](https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/)
-- [Tempest LCD: Playing Songs from Your LCD Monitor with a Radio](https://github.com/luamfb/tempest-lcd)
-- [Learn MYOG – learn to make &lpar;sew&rpar; your own outdoor gear](https://learnmyog.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
