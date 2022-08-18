@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozart Data &lpar;YC S20&rpar; is Hiring a Data Analyst to productize common data problems](https://www.mozartdata.com/data-analyst)
+- [Impact of Extension Privileges](https://palant.info/2022/08/17/impact-of-extension-privileges/)
 - [The PlanetScale serverless driver for JavaScript](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript)
-- [Dodge Reveals New Charger Daytona EV](https://www.carexpert.com.au/car-news/dodge-charger-daytona-srt-concept-muscle-ev-revealed)
-- [Show HN: I built a vector map from scratch](https://ckochis.com/building-a-vector-map-from-scratch)
-- [FedNow FAQ](https://www.federalreserve.gov/paymentsystems/fednow_faq.htm)
-- [A sane SSH&lpar;1&rpar; key management example](https://try.popho.be/ssh-keys.html)
+- [Just-in-time code generation within WebAssembly](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
+- [PayPal phishing scam uses invoices sent via PayPal](https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
