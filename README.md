@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240)
 - [Ask HN: Shut down a startup despite strong traction?](https://news.ycombinator.com/item?id=32506229)
+- [Cory Doctorow&#39;s next book: Chokepoint Capitalism](https://twitter.com/doctorow/status/1559927883551883266)
 - [Ask HN: Is there a spiritual successor to del.icio.us?](https://news.ycombinator.com/item?id=32506168)
 - [DIY Guide to Sheet Metal Press Brakes &lpar;2018&rpar;](https://www.cnccookbook.com/easy-diy-guide-to-press-brakes-tooling-metal-folding-magnabend/)
-- [Emergent Features in 6.7B+ Param Transformers](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
