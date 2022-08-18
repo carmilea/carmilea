@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Rust on Logic Gates](https://zdimension.fr/crabs-all-the-way-down/)
+- [Why are bookmarks second class citizens in browsers?](https://news.ycombinator.com/item?id=32505314)
 - [Talking to your customers: a disruptive Agile framework](https://lucasfcosta.com/2022/08/03/talk-to-your-customers.html)
 - [Edible insects role in transmission of parasitic diseases to humans &lpar;2019&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219303)
 - [G1-G3 Watches for 17-19 August, 2022](https://www.swpc.noaa.gov/news/g1-g3-watches-17-19-august-2022)
-- [New antibody neutralizes all known SARS-CoV-2 variants in lab tests](https://hms.harvard.edu/news/one-all)
-- [FDA moves to make over-the-counter hearing aids available](https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
