@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple mix of soap and solvent could help destroy ‘forever chemicals’](https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals)
 - [To Hell with Facebook &lpar;2021&rpar;](https://www.damninteresting.com/to-hell-with-facebook/)
 - [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624)
 - [I love my GPD Micro PC](https://blog.danieljanus.pl/2022/08/18/i-love-my-gpd-micro-pc/)
 - [Third-polarizing-filter experiment demystified &lpar;2004&rpar;](http://alienryderflex.com/polarizer/)
-- [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer &lpar;Part 1&rpar;](https://www.thezdi.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
