@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Path to Intelligence](https://nautil.us/another-path-to-intelligence-23113/)
-- [The Essence of Programming &lpar;2021&rpar;](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
-- [Can the Visa-Mastercard duopoly be broken?](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken)
-- [Nixpacks takes a source directory and produces an OCI compliant image](https://nixpacks.com/docs/getting-started)
-- [Saudi Arabia sentenced a woman to 34 years in prison for tweeting](https://www.theverge.com/2022/8/17/23310126/twitter-saudi-woman-sentenced-34-years-salma-al-shehab)
+- [FDA moves to make over-the-counter hearing aids available to millions](https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/)
+- [Is the Windows Bridge for iOS Projects Dead?](https://github.com/microsoft/WinObjC)
+- [AirTag leads to arrest of airline worker who stole $15,000 of items from luggage](https://www.nbcnews.com/news/us-news/airtag-leads-arrest-airline-worker-accused-stealing-least-15000-items-rcna43547)
+- [The Soviets Hunted Whales to the Brink of Extinction but Scientists Tracked Toll](https://gcaptain.com/the-soviets-hunted-whales-to-the-brink-of-extinction-but-its-scientists-secretly-tracked-its-toll/)
+- [Zooko&#39;s Triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
