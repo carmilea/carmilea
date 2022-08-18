@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Millet, a Language Server for SML](https://azdavis.net/posts/millet/)
-- [Mozart Data &lpar;YC S20&rpar; is Hiring a Data Analyst to productize common data problems](https://www.mozartdata.com/data-analyst)
-- [Impact of Extension Privileges](https://palant.info/2022/08/17/impact-of-extension-privileges/)
-- [The PlanetScale serverless driver for JavaScript](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript)
-- [Just-in-time code generation within WebAssembly](https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly)
+- [Unofficial Spotify Client for the Nintendo Switch &lpar;PoC&rpar;](https://gbatemp.net/threads/90spot-spotify-for-nintendo-switch-proof-of-concept.617533/)
+- [Sudden increase in number of mid-air diversions to Hawaii](https://beatofhawaii.com/hawaiian-joins-mid-air-diversions-now-7-in-three-weeks/)
+- [Shouting in the Datacenter &lpar;2008&rpar;](https://www.youtube.com/watch?v=tDacjrSCeq4)
+- [Former judges who sent kids to jail for kickbacks must pay more than 200M](https://www.npr.org/2022/08/18/1118108084/michael-conahan-mark-ciavarella-kids-for-cash)
+- [Whytheluckystiff&#39;s original domain back as an archive](https://whytheluckystiff.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
