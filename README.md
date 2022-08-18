@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: MyNotifier – Simple Notifications](https://www.mynotifier.app/)
+- [CVE-2022-38392 – Janet Jackson Song as vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392)
+- [Are You Intellectually Humble?](https://oa.mg/blog/are-you-intellectually-humble/)
 - [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults.html)
 - [$8600 MRR business on Airtable](https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240)
-- [Cory Doctorow&#39;s next book: Chokepoint Capitalism](https://twitter.com/doctorow/status/1559927883551883266)
-- [Ask HN: Is there a spiritual successor to del.icio.us?](https://news.ycombinator.com/item?id=32506168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
