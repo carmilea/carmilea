@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FedNow℠ Service FAQ: Instant Bank Payments for the US Coming in 2023](https://www.federalreserve.gov/paymentsystems/fednow_faq.htm)
+- [The PlanetScale serverless driver for JavaScript](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript)
+- [Dodge Reveals New Charger Daytona EV](https://www.carexpert.com.au/car-news/dodge-charger-daytona-srt-concept-muscle-ev-revealed)
+- [Show HN: I built a vector map from scratch](https://ckochis.com/building-a-vector-map-from-scratch)
+- [FedNow FAQ](https://www.federalreserve.gov/paymentsystems/fednow_faq.htm)
 - [A sane SSH&lpar;1&rpar; key management example](https://try.popho.be/ssh-keys.html)
-- [Supabase – Realtime: Multiplayer Edition](https://supabase.com/blog/supabase-realtime-multiplayer-general-availability)
-- [Metal Archives 20th Anniversary](https://www.metal-archives.com/news/view/id/284)
-- [Thunderbird Time Machine: Windows XP and Thunderbird 1.0](https://blog.thunderbird.net/2022/08/thunderbird-time-machine-windows-xp-thunderbird-1-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
