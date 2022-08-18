@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where do you find the interesting jobs?](https://news.ycombinator.com/item?id=32507789)
-- [Embracer enters into agreement to acquire The Lord of the Rings, The Hobbit IP](https://embracer.com/release/embracer-group-enters-into-agreement-to-acquire-ip-rights-to-the-lord-of-the-rings-and-the-hobbit-literary-works-by-j-r-r-tolkien/)
-- [Denmark&#39;s ban on trans fat has led to an 11% reduction in CVD mortality](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272744)
-- [Tesla in-house supercomputer now has 28% more A100 GPU &lpar;7,360&rpar;](https://www.hpcwire.com/2022/08/16/tesla-gooses-its-gpu-powered-ai-super-is-dojo-next/)
-- [Show HN: MyNotifier – Simple Notifications](https://www.mynotifier.app/)
+- [Launch HN: Cerrion &lpar;YC S22&rpar; – Computer vision to reduce production line problems](https://www.cerrion.com/)
+- [Julia 1.8 has been released](https://julialang.org/blog/2022/08/julia-1.8-highlights/)
+- [Pine64’s response to “Why I left Pine64”](https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/)
+- [Tempest LCD: Playing Songs from Your LCD Monitor with a Radio](https://github.com/luamfb/tempest-lcd)
+- [Learn MYOG – learn to make &lpar;sew&rpar; your own outdoor gear](https://learnmyog.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
