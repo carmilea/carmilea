@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crumb Circuit Simulator](https://www.crumbsim.com)
+- [FDIC issues cease and desist letter to FTX US [pdf]](https://www.fdic.gov/news/press-releases/2022/ftx-harrison-letter.pdf)
+- [Apple’s Use of AppKit, Mac Catalyst and SwiftUI in macOS](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)
+- [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 - [Webinar Recap: Getting Started in SingleStoreDB](https://www.singlestore.com/blog/getting-started-in-singlestoredb)
-- [“Quantum-Safe” Crypto Hacked by 10-Year-Old PC](https://spectrum.ieee.org/quantum-safe-encryption-hacked)
-- [DevCycle &lpar;YC W14&rpar; is hiring feature flag developers to fix software innovation](https://devcycle.com/company/careers)
-- [Advanced Bash-Scripting Guide &lpar;2014&rpar;](https://tldp.org/LDP/abs/html/)
-- [OpenAI Status](https://status.openai.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
