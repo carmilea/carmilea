@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collection of best practices for providing and consuming webhooks](https://webhooks.fyi/)
+- [The story of the first “computer bug” is a pile of lies](https://lunduke.substack.com/p/the-story-of-the-first-computer-bug)
 - [Why Were Medieval Monks So Susceptible to Intestinal Worms?](https://www.smithsonianmag.com/science-nature/why-were-medieval-monks-so-susceptible-to-intestinal-worms-180980608/)
+- [Possible breakthrough to destroy PFAS using sodium hydroxide](https://www.science.org/doi/10.1126/science.abm8868)
 - [The World Has Passed ‘Peak Agricultural Land’](https://singularityhub.com/2022/08/18/after-millennia-of-agricultural-expansion-the-world-has-passed-peak-agricultural-land/)
-- [The growing image-processor unpleasantness](https://lwn.net/SubscriberLink/904776/aa7224d94a7c43c0/)
-- [Why is the OpenBSD documentation so good?](https://dataswamp.org/~solene/2022-08-18-why-openbsd-documentation-is-good.html)
-- [Simple mix of soap and solvent could help destroy ‘forever chemicals’](https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
