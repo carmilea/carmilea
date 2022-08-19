@@ -54,8 +54,8 @@
 - [Why is the OpenBSD documentation so good?](https://dataswamp.org/~solene/2022-08-18-why-openbsd-documentation-is-good.html)
 - [Managarm: August 2022 Update](https://managarm.org/2022/08/14/aug-update.html)
 - [Simple mix of soap and solvent could help destroy ‘forever chemicals’](https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals)
-- [To Hell with Facebook &lpar;2021&rpar;](https://www.damninteresting.com/to-hell-with-facebook/)
 - [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624)
+- [See what JavaScript commands get injected through an in-app browser](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
