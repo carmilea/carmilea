@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ideological Bias in the Psychology of Sex and Gender [pdf]](https://www.researchgate.net/profile/Marco-Del-Giudice/publication/346447193_Ideological_Bias_in_the_Psychology_of_Sex_and_Gender/links/5fc3c456458515b79786033f/Ideological-Bias-in-the-Psychology-of-Sex-and-Gender.pdf)
 - [More content by people, for people in Search](https://blog.google/products/search/more-content-by-people-for-people-in-search/)
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Dan Price, CEO who cut his pay so workers earned $70k, quits amid legal woes](https://www.cbsnews.com/news/ceo-who-cut-his-pay-so-workers-earned-70k-dan-price-gravity-payments-resigns-seattle/)
 - [Collection of best practices for providing and consuming webhooks](https://webhooks.fyi/)
-- [The story of the first “computer bug” is a pile of lies](https://lunduke.substack.com/p/the-story-of-the-first-computer-bug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
