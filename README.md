@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Dan Price, CEO who cut his pay so workers earned $70k, quits amid legal woes](https://www.cbsnews.com/news/ceo-who-cut-his-pay-so-workers-earned-70k-dan-price-gravity-payments-resigns-seattle/)
 - [Collection of best practices for providing and consuming webhooks](https://webhooks.fyi/)
 - [The story of the first “computer bug” is a pile of lies](https://lunduke.substack.com/p/the-story-of-the-first-computer-bug)
 - [Why Were Medieval Monks So Susceptible to Intestinal Worms?](https://www.smithsonianmag.com/science-nature/why-were-medieval-monks-so-susceptible-to-intestinal-worms-180980608/)
-- [Possible breakthrough to destroy PFAS using sodium hydroxide](https://www.science.org/doi/10.1126/science.abm8868)
-- [The World Has Passed ‘Peak Agricultural Land’](https://singularityhub.com/2022/08/18/after-millennia-of-agricultural-expansion-the-world-has-passed-peak-agricultural-land/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
