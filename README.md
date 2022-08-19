@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Were Medieval Monks So Susceptible to Intestinal Worms?](https://www.smithsonianmag.com/science-nature/why-were-medieval-monks-so-susceptible-to-intestinal-worms-180980608/)
+- [The World Has Passed ‘Peak Agricultural Land’](https://singularityhub.com/2022/08/18/after-millennia-of-agricultural-expansion-the-world-has-passed-peak-agricultural-land/)
+- [The growing image-processor unpleasantness](https://lwn.net/SubscriberLink/904776/aa7224d94a7c43c0/)
 - [Why is the OpenBSD documentation so good?](https://dataswamp.org/~solene/2022-08-18-why-openbsd-documentation-is-good.html)
-- [Managarm: August 2022 Update](https://managarm.org/2022/08/14/aug-update.html)
 - [Simple mix of soap and solvent could help destroy ‘forever chemicals’](https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals)
-- [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624)
-- [See what JavaScript commands get injected through an in-app browser](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
