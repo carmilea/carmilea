@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple M2 vs. AMD Ryzen 7 Pro 6850U Performance in Nearly 200 Benchmarks](https://www.phoronix.com/review/apple-m2-amd-ryzen)
+- [For 110 years, climate change has been in the news](https://theconversation.com/for-110-years-climate-change-has-been-in-the-news-are-we-finally-ready-to-listen-188646)
 - [A list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
-- [Simple method destroys dangerous ‘forever chemicals,’ making water safe](https://newsroom.ucla.edu/releases/how-to-guillotine-hazardous-chemicals-in-water)
-- [Apple&#39;s Diabolical Plan to Control the Ad Buisiness](https://www.youngmoney.co/p/apples-diabolical-plan-control-ads)
 - [RFC 9293: Transmission Control Protocol &lpar;TCP&rpar;](https://www.rfc-editor.org/rfc/rfc9293)
 - [More content by people, for people in Search](https://blog.google/products/search/more-content-by-people-for-people-in-search/)
 <!-- BLOG-POST-LIST:END -->
