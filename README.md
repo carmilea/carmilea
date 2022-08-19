@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Webinar Recap: Getting Started in SingleStoreDB](https://www.singlestore.com/blog/getting-started-in-singlestoredb)
 - [“Quantum-Safe” Crypto Hacked by 10-Year-Old PC](https://spectrum.ieee.org/quantum-safe-encryption-hacked)
 - [DevCycle &lpar;YC W14&rpar; is hiring feature flag developers to fix software innovation](https://devcycle.com/company/careers)
+- [Advanced Bash-Scripting Guide &lpar;2014&rpar;](https://tldp.org/LDP/abs/html/)
 - [OpenAI Status](https://status.openai.com)
-- [Removing HTTP/2 Server Push from Chrome](https://developer.chrome.com/blog/removing-push/)
-- [The ABI status of ELF hash tables](https://lwn.net/SubscriberLink/904892/dba951441b61cbdc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
