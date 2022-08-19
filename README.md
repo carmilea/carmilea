@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Antibody fragment discovered that neutralizes all major Covid-19 variants](https://www.nature.com/articles/s41467-022-32262-8)
-- [Apple surpassed $3.5B in annual revenue from its ad network](https://twitter.com/nathanbaugh27/status/1560247230057127937)
-- [LackRack: IKEA&#39;s cheapest table is perfectly sized to rackmount computers &lpar;2020&rpar;](https://boingboing.net/2020/08/14/lack-rack-ikeas-cheapest-ta.html)
-- [Apple releases security fixes for two zero-days under active attack](https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/)
-- [TikTok’s in-app browser could be keylogging, privacy analysis warns](https://techcrunch.com/2022/08/19/tiktok-fb-in-app-browser-tracking-analysis/)
+- [FBI agent pleads guilty to wiping hard-drive containing exculpatory evidence](https://katv.com/news/local/a-former-agent-of-fbi-pleads-guilty-to-charges-connected-to-jon-woods-trial-ex-arkansas-lawmaker-now-in-prison-says-he-and-other-inmates-wants-to-build-trumps-wall-ecclesia-college-springdale-robert-cessario)
+- [Ask HN: What MIDI micro/nano keyboard&lpar;s&rpar; do you like? &lpar;Electronic music&rpar;](https://news.ycombinator.com/item?id=32521693)
+- [US Mortgage Lenders Are Starting to Go Broke](https://www.bloomberg.com/news/articles/2022-08-19/mortgage-lenders-are-starting-to-go-broke-as-loan-volumes-plunge)
+- [Welcome to Philip K. Dick’s dystopia](https://unherd.com/2022/08/welcome-to-philip-k-dicks-dystopia/)
+- [Show HN: SineRider - A game about love, math, and graphing built by teenagers](https://sinerider.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
