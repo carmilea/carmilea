@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving an Unusual WiFi Issue](https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/)
 - [Crumb Circuit Simulator](https://www.crumbsim.com)
 - [FDIC issues cease and desist letter to FTX US [pdf]](https://www.fdic.gov/news/press-releases/2022/ftx-harrison-letter.pdf)
 - [Apple’s Use of AppKit, Mac Catalyst and SwiftUI in macOS](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)
 - [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
-- [Webinar Recap: Getting Started in SingleStoreDB](https://www.singlestore.com/blog/getting-started-in-singlestoredb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
