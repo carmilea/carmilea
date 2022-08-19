@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack&#39;s new AGI company, Keen Technologies, has raised a $20M round](https://twitter.com/ID_AA_Carmack/status/1560728042959507457)
+- [How to lose access of our your servers on DigitalOcean](https://news.ycombinator.com/item?id=32525560)
+- [Being-Doing Balance over Work-Life Balance](https://jeanhsu.substack.com/p/being-doing-balance-over-work-life)
 - [Resolving an Unusual WiFi Issue](https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/)
 - [Crumb Circuit Simulator](https://www.crumbsim.com)
-- [FDIC issues cease and desist letter to FTX US [pdf]](https://www.fdic.gov/news/press-releases/2022/ftx-harrison-letter.pdf)
-- [Apple’s Use of AppKit, Mac Catalyst and SwiftUI in macOS](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)
-- [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
