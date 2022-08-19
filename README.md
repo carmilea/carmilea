@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Carmack&#39;s new AGI company, Keen Technologies, has raised a $20M round](https://twitter.com/ID_AA_Carmack/status/1560728042959507457)
-- [How to lose access of our your servers on DigitalOcean](https://news.ycombinator.com/item?id=32525560)
-- [Being-Doing Balance over Work-Life Balance](https://jeanhsu.substack.com/p/being-doing-balance-over-work-life)
-- [Resolving an Unusual WiFi Issue](https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/)
-- [Crumb Circuit Simulator](https://www.crumbsim.com)
+- [Electric Vehicles as a Subscription](https://www.autonomy.com/)
+- [Digger – Back and Digitally Remastered &lpar;1998&rpar;](http://www.digger.org/)
+- [Ask HN: Why is there no performant remote desktop for Mac/Linux?](https://news.ycombinator.com/item?id=32526108)
+- [App Store doesn&#39;t accept “too simple” apps](https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections)
+- [Inappbrowser.com – see what JavaScript gets injected through an in-app browser](https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
