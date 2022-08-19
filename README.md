@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Went to a “Dangerous Alt-Right Rally”](https://www.joshcsimmons.com/posts/i-went-to-a-dangerous-alt-right-rally)
+- [Why is the OpenBSD documentation so good?](https://dataswamp.org/~solene/2022-08-18-why-openbsd-documentation-is-good.html)
 - [Managarm: August 2022 Update](https://managarm.org/2022/08/14/aug-update.html)
 - [Simple mix of soap and solvent could help destroy ‘forever chemicals’](https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals)
 - [To Hell with Facebook &lpar;2021&rpar;](https://www.damninteresting.com/to-hell-with-facebook/)
