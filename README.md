@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [API security: Broken access controls, injection attacks plague the enterprise](https://portswigger.net/daily-swig/api-security-broken-access-controls-injection-attacks-plague-the-enterprise-security-landscape-in-2022)
-- [Integrating variants in 42k autism cases identifies mutations in new genes](https://www.nature.com/articles/s41588-022-01148-2)
-- [Apple M2 vs. AMD Ryzen 7 Pro 6850U Performance in Nearly 200 Benchmarks](https://www.phoronix.com/review/apple-m2-amd-ryzen)
-- [The James Webb Space Telescope Runs JavaScript, Apparently](https://www.theverge.com/2022/8/18/23206110/james-webb-space-telescope-javascript-jwst-instrument-control)
-- [Serving Netflix Video Traffic at 800Gb/s and Beyond [pdf]](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
+- [Antibody fragment discovered that neutralizes all major Covid-19 variants](https://www.nature.com/articles/s41467-022-32262-8)
+- [Apple surpassed $3.5B in annual revenue from its ad network](https://twitter.com/nathanbaugh27/status/1560247230057127937)
+- [LackRack: IKEA&#39;s cheapest table is perfectly sized to rackmount computers &lpar;2020&rpar;](https://boingboing.net/2020/08/14/lack-rack-ikeas-cheapest-ta.html)
+- [Apple releases security fixes for two zero-days under active attack](https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/)
+- [TikTok’s in-app browser could be keylogging, privacy analysis warns](https://techcrunch.com/2022/08/19/tiktok-fb-in-app-browser-tracking-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
