@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [API security: Broken access controls, injection attacks plague the enterprise](https://portswigger.net/daily-swig/api-security-broken-access-controls-injection-attacks-plague-the-enterprise-security-landscape-in-2022)
+- [Integrating variants in 42k autism cases identifies mutations in new genes](https://www.nature.com/articles/s41588-022-01148-2)
 - [Apple M2 vs. AMD Ryzen 7 Pro 6850U Performance in Nearly 200 Benchmarks](https://www.phoronix.com/review/apple-m2-amd-ryzen)
-- [For 110 years, climate change has been in the news](https://theconversation.com/for-110-years-climate-change-has-been-in-the-news-are-we-finally-ready-to-listen-188646)
-- [A list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
-- [RFC 9293: Transmission Control Protocol &lpar;TCP&rpar;](https://www.rfc-editor.org/rfc/rfc9293)
-- [More content by people, for people in Search](https://blog.google/products/search/more-content-by-people-for-people-in-search/)
+- [The James Webb Space Telescope Runs JavaScript, Apparently](https://www.theverge.com/2022/8/18/23206110/james-webb-space-telescope-javascript-jwst-instrument-control)
+- [Serving Netflix Video Traffic at 800Gb/s and Beyond [pdf]](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
