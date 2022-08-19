@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Technology Deep Dive: Building a Faster ORAM Layer for Enclaves](https://signal.org/blog/building-faster-oram/)
-- [Lab takes ‘giant leap’ toward thylacine de-extinction](https://www.unimelb.edu.au/newsroom/news/2022/august/lab-takes-giant-leap-toward-thylacine-de-extinction-with-colossal-genetic-engineering-technology-partnership2)
-- [W4 plans to monetize the Godot engine using Red Hat’s open-source playbook](https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/)
-- [FBI agent pleads guilty to wiping hard-drive containing exculpatory evidence](https://katv.com/news/local/a-former-agent-of-fbi-pleads-guilty-to-charges-connected-to-jon-woods-trial-ex-arkansas-lawmaker-now-in-prison-says-he-and-other-inmates-wants-to-build-trumps-wall-ecclesia-college-springdale-robert-cessario)
-- [Ask HN: What MIDI micro/nano keyboard&lpar;s&rpar; do you like? &lpar;Electronic music&rpar;](https://news.ycombinator.com/item?id=32521693)
+- [“Quantum-Safe” Crypto Hacked by 10-Year-Old PC](https://spectrum.ieee.org/quantum-safe-encryption-hacked)
+- [DevCycle &lpar;YC W14&rpar; is hiring feature flag developers to fix software innovation](https://devcycle.com/company/careers)
+- [OpenAI Status](https://status.openai.com)
+- [Removing HTTP/2 Server Push from Chrome](https://developer.chrome.com/blog/removing-push/)
+- [The ABI status of ELF hash tables](https://lwn.net/SubscriberLink/904892/dba951441b61cbdc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
