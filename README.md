@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadian MTO grounds trucking businesses involved in &#39;Freedom Convoy&#39; protests](https://www.trucknews.com/transportation/mto-grounds-trucking-businesses-involved-in-freedom-convoy-protests/1003157332/)
+- [Brian Kernighan adds Unicode support to Awk &lpar;May, 2022&rpar;](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
+- [A competitive multiplayer version of Conway&#39;s Game of Life](http://lifecompetes.com)
 - [I recreated famous album covers with DALL-E](https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/)
-- [Put It on the Crazy Pile: Ideas and Creativity](https://bastian.rieck.me/blog/posts/2022/crazy_pile/)
-- [Faster zlib/DEFLATE decompression on the Apple M1 &lpar;and x86&rpar;](https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/)
-- [Show HN: A new way to use GPT-3 to generate code &lpar;and everything else&rpar;](https://news.ycombinator.com/item?id=32532875)
+- [The Transputer Handbook &lpar;1990&rpar; [pdf]](http://www.transputer.net/iset/isbn-013929134-2/tthb.pdf)
+- [Put it on the crazy pile: Ideas and creativity](https://bastian.rieck.me/blog/posts/2022/crazy_pile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
