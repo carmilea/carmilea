@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brian Kernighan adds Unicode support to Awk &lpar;May, 2022&rpar;](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
+- [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
 - [A competitive multiplayer version of Conway&#39;s Game of Life](http://lifecompetes.com)
 - [I recreated famous album covers with DALL-E](https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/)
 - [The Transputer Handbook &lpar;1990&rpar; [pdf]](http://www.transputer.net/iset/isbn-013929134-2/tthb.pdf)
