@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proof-of-Stake is better than Proof-of-Work; the Merge won’t fix other problems](https://davidgerard.co.uk/blockchain/2022/08/20/proof-of-stake-is-better-than-proof-of-work-but-ethereums-merge-wont-fix-any-other-problem-with-cryptocurrency/)
+- [Microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance](https://www.cell.com/cell/fulltext/S0092-8674(22)00919-9)
 - [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- [Miami advances plan to move homeless onto island](https://www.newsnationnow.com/us-news/southeast/miami-homeless-island-virginia-key/)
 - [Shared Libraries as Executables](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
 - [Show HN: An attempt to make a reduce-palette/dither filter for 2d canvas images](https://scrawl-v8.rikweb.org.uk/demo/filters-027.html)
-- [As India turns 75, it slides deeper into fascism](https://www.dailymaverick.co.za/article/2022-08-14-the-flag-and-the-bulldozer-as-india-turns-75-it-slides-deeper-into-fascism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
