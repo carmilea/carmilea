@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Galaxy S23 will be equipped with 200-megapixel camera](https://english.etnews.com/20220819200001)
-- [Electric Vehicles as a Subscription](https://www.autonomy.com/)
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [High-Speed Rail Board Completes Environmental Clearance in Northern California](https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/)
+- [Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin](https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/)
 - [Digger – Back and Digitally Remastered &lpar;1998&rpar;](http://www.digger.org/)
 - [Seeing Like a State, Progress and Poverty, and Owning Land](http://www.loukidelis.com/on-land-ownership.html)
-- [Ask HN: Why is there no performant remote desktop for Mac/Linux?](https://news.ycombinator.com/item?id=32526108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
