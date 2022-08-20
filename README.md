@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambient Scotrail Beats – Relax to Scottish train announcements over low-fi beats](https://www.matteason.co.uk/scotbeats/)
 - [Let&#39;s Try Gnome Boxes](https://glovesoff.substack.com/p/lets-try-gnome-boxes)
 - [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
 - [The Merge is approaching, and comes with changes to Ethereum](https://ethereum.org/en/upgrades/merge/)
 - [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
-- [A competitive multiplayer version of Conway&#39;s Game of Life](http://lifecompetes.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
