@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
+- [The Merge is approaching, and comes with changes to Ethereum](https://ethereum.org/en/upgrades/merge/)
 - [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
 - [A competitive multiplayer version of Conway&#39;s Game of Life](http://lifecompetes.com)
 - [I recreated famous album covers with DALL-E](https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/)
-- [The Transputer Handbook &lpar;1990&rpar; [pdf]](http://www.transputer.net/iset/isbn-013929134-2/tthb.pdf)
-- [Put it on the crazy pile: Ideas and creativity](https://bastian.rieck.me/blog/posts/2022/crazy_pile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
