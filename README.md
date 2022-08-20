@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Advice after a decade trying to get into YC](https://news.ycombinator.com/item?id=32530842)
-- [Ask HN: What problem did Slack solve?](https://news.ycombinator.com/item?id=32530831)
-- [Ask HN: So, what&#39;s up with Phoenix &lpar;web framework&rpar;?](https://news.ycombinator.com/item?id=32530203)
-- [Joseph Tainter: The Collapse of Complex Societies &lpar;Book Review&rpar;](https://continuations.com/post/685683226736525312/joseph-tainter-the-collapse-of-complex-societies)
-- [Lessons I Wish I Had Learned Before I Started Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+- [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
+- [Miami advances plan to move homeless onto island](https://www.newsnationnow.com/us-news/southeast/miami-homeless-island-virginia-key/)
+- [Shared Libraries as Executables](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
+- [Show HN: An attempt to make a reduce-palette/dither filter for 2d canvas images](https://scrawl-v8.rikweb.org.uk/demo/filters-027.html)
+- [As India turns 75, it slides deeper into fascism](https://www.dailymaverick.co.za/article/2022-08-14-the-flag-and-the-bulldozer-as-india-turns-75-it-slides-deeper-into-fascism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
