@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons I Wish I Had Learned Before I Started Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+- [Unconscious Bias in Interviews with Female Top Managers](https://fgsglobal.com/en/insights/about-rising-stars-and-female-ceos-unconscious-bias-in-interviews-with-female-top-managers)
 - [Flexport is hiring software engineers](https://flexport.com/careers)
-- [Freedom and Privacy: Two Sides of the Same Coin](https://dergigi.com/2022/06/19/freedom-and-privacy/)
-- [AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage](https://twitter.com/adrianco/status/1560854827810361345)
-- [The Low Energy Trap](https://continuations.com/post/693055225602424832/the-low-energy-trap)
-- [After 50 years, Michael Heizer is finally ready to unveil City, his life&#39;s work](https://news.artnet.com/art-world/city-michael-heizers-desert-masterpiece-2162720)
+- [Using: Has&lpar;&rpar; as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/)
+- [Cosmopolitan Libc v2.0](https://github.com/jart/cosmopolitan/releases/tag/2.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
