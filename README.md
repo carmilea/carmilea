@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Virtual Power Plant &lpar;Beta&rpar;](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant)
+- [Ask HN: Advice after a decade trying to get into YC](https://news.ycombinator.com/item?id=32530842)
+- [Ask HN: What problem did Slack solve?](https://news.ycombinator.com/item?id=32530831)
 - [Ask HN: So, what&#39;s up with Phoenix &lpar;web framework&rpar;?](https://news.ycombinator.com/item?id=32530203)
 - [Joseph Tainter: The Collapse of Complex Societies &lpar;Book Review&rpar;](https://continuations.com/post/685683226736525312/joseph-tainter-the-collapse-of-complex-societies)
 - [Lessons I Wish I Had Learned Before I Started Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
-- [Unconscious Bias in Interviews with Female Top Managers](https://fgsglobal.com/en/insights/about-rising-stars-and-female-ceos-unconscious-bias-in-interviews-with-female-top-managers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
