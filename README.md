@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian MTO grounds trucking businesses involved in &#39;Freedom Convoy&#39; protests](https://www.trucknews.com/transportation/mto-grounds-trucking-businesses-involved-in-freedom-convoy-protests/1003157332/)
+- [I recreated famous album covers with DALL-E](https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/)
+- [Put It on the Crazy Pile: Ideas and Creativity](https://bastian.rieck.me/blog/posts/2022/crazy_pile/)
+- [Faster zlib/DEFLATE decompression on the Apple M1 &lpar;and x86&rpar;](https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/)
 - [Show HN: A new way to use GPT-3 to generate code &lpar;and everything else&rpar;](https://news.ycombinator.com/item?id=32532875)
-- [Coping with Copilot](https://www.sigarch.org/coping-with-copilot/)
-- [Ask HN: I automated part of someone else&#39;s job in my free time – how to proceed?](https://news.ycombinator.com/item?id=32532430)
-- [Supabase Vault](https://supabase.com/blog/supabase-vault)
-- [The world map that reboots your brain](https://axbom.com/world-map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
