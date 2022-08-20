@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The architect who became the king of bank robberies](https://thehustle.co/the-architect-who-became-the-king-of-bank-robberies/)
+- [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/)
 - [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
 - [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
 - [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
-- [Diablo 1 for Web Browsers](https://github.com/d07RiV/diabloweb)
-- [Is Haskell really the language of geniuses and academia? &lpar;2019&rpar;](https://habr.com/en/post/441350/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
