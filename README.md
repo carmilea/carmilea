@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freedom and Privacy: Two Sides of the Same Coin](https://dergigi.com/2022/06/19/freedom-and-privacy/)
+- [After 50 years, Michael Heizer is finally ready to unveil City, his life&#39;s work](https://news.artnet.com/art-world/city-michael-heizers-desert-masterpiece-2162720)
 - [The architect who became the king of bank robberies](https://thehustle.co/the-architect-who-became-the-king-of-bank-robberies/)
 - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/)
-- [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
-- [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
-- [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
+- [Anarchy Works &lpar;2010&rpar;](https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
