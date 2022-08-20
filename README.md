@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coping with Copilot](https://www.sigarch.org/coping-with-copilot/)
+- [Deep Learning Alone Isn’t Getting Us to Human-Like AI](https://www.noemamag.com/deep-learning-alone-isnt-getting-us-to-human-like-ai/)
+- [The Silence of Risk Management Victory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory)
+- [The Truth about Laura Ingalls Wilder &lpar;2019&rpar;](https://www.montanapress.net/post/the-truth-about-laura-ingalls-wilder)
 - [Please, Lego, let this engineer bring your computer brick to life](https://www.theverge.com/2022/8/20/23308217/lego-brick-computer-james-brown)
-- [Microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance](https://www.cell.com/cell/fulltext/S0092-8674(22)00919-9)
-- [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- [Show HN: Bandhiking &lpar;Unofficial Bandcamp Radio&rpar;](https://bandhiking.isandrew.com/)
-- [Shared Libraries as Executables](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
