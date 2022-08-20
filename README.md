@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A new way to use GPT-3 to generate code &lpar;and everything else&rpar;](https://news.ycombinator.com/item?id=32532875)
 - [Coping with Copilot](https://www.sigarch.org/coping-with-copilot/)
-- [Deep Learning Alone Isn’t Getting Us to Human-Like AI](https://www.noemamag.com/deep-learning-alone-isnt-getting-us-to-human-like-ai/)
-- [The Silence of Risk Management Victory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory)
-- [The Truth about Laura Ingalls Wilder &lpar;2019&rpar;](https://www.montanapress.net/post/the-truth-about-laura-ingalls-wilder)
-- [Please, Lego, let this engineer bring your computer brick to life](https://www.theverge.com/2022/8/20/23308217/lego-brick-computer-james-brown)
+- [Ask HN: I automated part of someone else&#39;s job in my free time – how to proceed?](https://news.ycombinator.com/item?id=32532430)
+- [Supabase Vault](https://supabase.com/blog/supabase-vault)
+- [The world map that reboots your brain](https://axbom.com/world-map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
