@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [High-Speed Rail Board Completes Environmental Clearance in Northern California](https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/)
-- [Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin](https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/)
-- [Digger – Back and Digitally Remastered &lpar;1998&rpar;](http://www.digger.org/)
-- [Seeing Like a State, Progress and Poverty, and Owning Land](http://www.loukidelis.com/on-land-ownership.html)
+- [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
+- [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
+- [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
+- [Diablo 1 for Web Browsers](https://github.com/d07RiV/diabloweb)
+- [Is Haskell the language of geniuses and academia?](https://habr.com/en/post/441350/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
