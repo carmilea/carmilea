@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: So, what&#39;s up with Phoenix &lpar;web framework&rpar;?](https://news.ycombinator.com/item?id=32530203)
+- [Joseph Tainter: The Collapse of Complex Societies &lpar;Book Review&rpar;](https://continuations.com/post/685683226736525312/joseph-tainter-the-collapse-of-complex-societies)
 - [Lessons I Wish I Had Learned Before I Started Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 - [Unconscious Bias in Interviews with Female Top Managers](https://fgsglobal.com/en/insights/about-rising-stars-and-female-ceos-unconscious-bias-in-interviews-with-female-top-managers)
 - [Flexport is hiring software engineers](https://flexport.com/careers)
-- [Using: Has&lpar;&rpar; as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/)
-- [Cosmopolitan Libc v2.0](https://github.com/jart/cosmopolitan/releases/tag/2.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
