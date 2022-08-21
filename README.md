@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silent crisis of soaring excess deaths in Britain is only tip of the iceberg](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
-- [Flight Simulator 2022: Ultra Realism on RTX 3090 with $100 Graphics Mods [video]](https://www.youtube.com/watch?v=lBIqHC6kbX0)
-- [A dad took photos of his naked child for a doctor; Google reported him to police](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
-- [Wreck of SMS Kaiser Franz Joseph](https://historyandwar.org/2022/08/21/wreck-of-sms-kaiser-franz-joseph/)
-- [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
+- [iOS VPNs have leaked traffic for years, researcher claims](https://arstechnica.com/information-technology/2022/08/ios-vpns-still-leak-traffic-more-than-2-years-later-researcher-claims/)
+- [Apple builds new ad empire after kneecapping competitors](https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone)
+- [LibGen&#39;s Bloat Problem](https://liberalgeneral.neocities.org/libgens-bloat-problem/)
+- [New chip ramps up AI computing efficiency](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/)
+- [Turning SQLite into a Distributed Database](https://univalence.me/posts/mvsqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
