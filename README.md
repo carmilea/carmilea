@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Got a rejection for mentioning Apple pre-release software, but I am not](https://twitter.com/eternalstorms/status/1559794943673122818)
+- [Singapore will decriminalize sex between men, prime minister says](https://www.reuters.com/world/asia-pacific/singapore-will-decriminalise-sex-between-men-pm-2022-08-21/)
 - [Outdoor Sound Propagation in the U.S. Civil War](http://wesclark.com/jw/sound_propagation.html)
 - [Good Conversations Have Lots of Doorknobs](https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Consensus not censorship](https://www.interfluidity.com/v2/9258.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
