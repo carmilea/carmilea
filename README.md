@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dad Took Photos of His Naked Toddler for Doctor Google Flagged Him as a Criminal](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
+- [Wreck of SMS Kaiser Franz Joseph](https://historyandwar.org/2022/08/21/wreck-of-sms-kaiser-franz-joseph/)
 - [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
 - [The Excellent Schemer](https://code-magazine.com/Article/2207071/The-Excellent-Schemer)
 - [Crossrail Project Update](https://www.crossrail.co.uk/news/articles/crossrail-project-update)
-- [Why I&#39;m Publishing My Next Book on Substack](https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next)
-- [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
