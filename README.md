@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tornado Cash developer arrested in Amsterdam](https://www.theblock.co/post/164657/developers-family-protest-arrest-of-tornado-cash-developer-in-amsterdam)
-- [Beyond Hyperanthropormorphism. Or, why fears of AI are not even wrong](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
+- [Ask HN: Anyone else feel trapped in FANG? How did you get out?](https://news.ycombinator.com/item?id=32537004)
+- [Beyond Hyperanthropomorphism. Or, why fears of AI are not even wrong](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
 - [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Show HN: As your priorities change, your Google calendar gets rearranged by AI](https://www.atomiclife.app/)
 - [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
