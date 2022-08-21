@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ambient Scotrail Beats – Relax to Scottish train announcements over low-fi beats](https://www.matteason.co.uk/scotbeats/)
-- [Let&#39;s Try Gnome Boxes](https://glovesoff.substack.com/p/lets-try-gnome-boxes)
-- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
-- [The Merge is approaching, and comes with changes to Ethereum](https://ethereum.org/en/upgrades/merge/)
-- [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
+- [Tornado Cash developer arrested in Amsterdam](https://www.theblock.co/post/164657/developers-family-protest-arrest-of-tornado-cash-developer-in-amsterdam)
+- [Beyond Hyperanthropormorphism. Or, why fears of AI are not even wrong](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
+- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Show HN: As your priorities change, your Google calendar gets rearranged by AI](https://www.atomiclife.app/)
+- [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
