@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding “longtermism”: Why this suddenly influential philosophy is toxic](https://www.salon.com/2022/08/20/understanding-longtermism-why-this-suddenly-influential-philosophy-is-so/)
+- [Price of FSD will rise to $15k in North America on September 5th](https://twitter.com/elonmusk/status/1561362640261226499)
+- [Uacme: ACMEv2 client written in plain C with minimal dependencies](https://github.com/ndilieto/uacme)
+- [Religion as an Ego-modulator](https://superbowl.substack.com/p/religion-as-an-ego-modulator)
+- [America’s First Black Physician &lpar;2021&rpar;](https://www.smithsonianmag.com/history/james-mccune-smith-america-first-black-physician-180977110/)
 - [iOS VPNs have leaked traffic for years, researcher claims](https://arstechnica.com/information-technology/2022/08/ios-vpns-still-leak-traffic-more-than-2-years-later-researcher-claims/)
-- [Apple is building an ad empire as its iPhone privacy crackdown weakens rivals](https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone)
-- [LibGen&#39;s Bloat Problem](https://liberalgeneral.neocities.org/libgens-bloat-problem/)
-- [New chip ramps up AI computing efficiency](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
