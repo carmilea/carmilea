@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Publishing My Next Book on Substack](https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next)
 - [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 - [How far can you go by train in 5h?](https://www.chronotrains.com/)
+- [Color Journey](https://boltkey.github.io/color-journey/)
 - [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
-- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
