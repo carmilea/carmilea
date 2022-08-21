@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding “longtermism”: Why this suddenly influential philosophy is toxic](https://www.salon.com/2022/08/20/understanding-longtermism-why-this-suddenly-influential-philosophy-is-so/)
 - [iOS VPNs have leaked traffic for years, researcher claims](https://arstechnica.com/information-technology/2022/08/ios-vpns-still-leak-traffic-more-than-2-years-later-researcher-claims/)
-- [Apple builds new ad empire after kneecapping competitors](https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone)
+- [Apple is building an ad empire as its iPhone privacy crackdown weakens rivals](https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone)
 - [LibGen&#39;s Bloat Problem](https://liberalgeneral.neocities.org/libgens-bloat-problem/)
 - [New chip ramps up AI computing efficiency](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/)
-- [Turning SQLite into a Distributed Database](https://univalence.me/posts/mvsqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
