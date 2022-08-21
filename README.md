@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
 - [Ask HN: Anyone else feel trapped in FANG? How did you get out?](https://news.ycombinator.com/item?id=32537004)
-- [Beyond Hyperanthropomorphism. Or, why fears of AI are not even wrong](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
+- [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
 - [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Show HN: As your priorities change, your Google calendar gets rearranged by AI](https://www.atomiclife.app/)
 - [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
 <!-- BLOG-POST-LIST:END -->
 
