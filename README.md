@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 - [How far can you go by train in 5h?](https://www.chronotrains.com/)
 - [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
-- [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
 - [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
 <!-- BLOG-POST-LIST:END -->
