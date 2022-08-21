@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
-- [If everyone bicycled like the Danes, we’d avoid a UK’s worth of emissions](https://arstechnica.com/science/2022/08/if-everyone-bicycled-like-the-danes-wed-avoid-a-uks-worth-of-emissions/)
 - [The Excellent Schemer](https://code-magazine.com/Article/2207071/The-Excellent-Schemer)
 - [Crossrail Project Update](https://www.crossrail.co.uk/news/articles/crossrail-project-update)
 - [Why I&#39;m Publishing My Next Book on Substack](https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next)
+- [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
