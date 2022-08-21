@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Libgen-text: complete Library Genesis, re-packaged as text only &lpar;1.2TB&rpar;](https://www.offlineos.com/)
-- [Who’s your favorite public thinker?](https://news.ycombinator.com/item?id=32542895)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [New evidence shows water separates into two different liquids at low temperature](https://www.birmingham.ac.uk/news/2022/new-evidence-shows-water-separates-into-two-different-liquids-at-low-temperatures)
+- [Ask HN: Anyone working 4 day week here, as an employee?](https://news.ycombinator.com/item?id=32544315)
 - [Got a rejection for mentioning Apple pre-release software, but I am not](https://twitter.com/eternalstorms/status/1559794943673122818)
-- [Singapore will decriminalize sex between men, prime minister says](https://www.reuters.com/world/asia-pacific/singapore-will-decriminalise-sex-between-men-pm-2022-08-21/)
 - [Gojq: Pure Go Implementation of Jq](https://github.com/itchyny/gojq)
 <!-- BLOG-POST-LIST:END -->
 
