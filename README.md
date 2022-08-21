@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NAC protects from lung emphysema but induces lung adenocarcinoma in mice](https://insight.jci.org/articles/view/127647)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [New evidence shows water separates into two different liquids at low temperature](https://www.birmingham.ac.uk/news/2022/new-evidence-shows-water-separates-into-two-different-liquids-at-low-temperatures)
 - [Ask HN: Anyone working 4 day week here, as an employee?](https://news.ycombinator.com/item?id=32544315)
-- [Got a rejection for mentioning Apple pre-release software, but I am not](https://twitter.com/eternalstorms/status/1559794943673122818)
-- [Gojq: Pure Go Implementation of Jq](https://github.com/itchyny/gojq)
+- [U.S. Forest Service - History of Yard Lumber Size Standards &lpar;1964&rpar; [pdf]](https://www.fpl.fs.fed.us/documnts/misc/miscpub_6409.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
