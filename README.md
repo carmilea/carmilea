@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dad Took Photos of His Naked Toddler for Doctor Google Flagged Him as a Criminal](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
+- [Silent crisis of soaring excess deaths in Britain is only tip of the iceberg](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
+- [Flight Simulator 2022: Ultra Realism on RTX 3090 with $100 Graphics Mods [video]](https://www.youtube.com/watch?v=lBIqHC6kbX0)
+- [A dad took photos of his naked child for a doctor; Google reported him to police](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
 - [Wreck of SMS Kaiser Franz Joseph](https://historyandwar.org/2022/08/21/wreck-of-sms-kaiser-franz-joseph/)
 - [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
-- [The Excellent Schemer](https://code-magazine.com/Article/2207071/The-Excellent-Schemer)
-- [Crossrail Project Update](https://www.crossrail.co.uk/news/articles/crossrail-project-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
