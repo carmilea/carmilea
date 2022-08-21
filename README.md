@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Consensus Not Censorship](https://www.interfluidity.com/v2/9258.html)
 - [HBO Max Pulls Nearly 200 ‘Sesame Street’ Episodes](https://www.nytimes.com/2022/08/20/arts/television/sesame-street-hbo-max.html)
 - [Your Makefiles Are Wrong](https://tech.davis-hansson.com/p/make/)
 - [Hacker News Official API](https://github.com/HackerNews/API)
-- [Uacme: ACMEv2 client written in plain C with minimal dependencies](https://github.com/ndilieto/uacme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
