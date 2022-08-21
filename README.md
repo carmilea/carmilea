@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
+- [If everyone bicycled like the Danes, we’d avoid a UK’s worth of emissions](https://arstechnica.com/science/2022/08/if-everyone-bicycled-like-the-danes-wed-avoid-a-uks-worth-of-emissions/)
+- [The Excellent Schemer](https://code-magazine.com/Article/2207071/The-Excellent-Schemer)
+- [Crossrail Project Update](https://www.crossrail.co.uk/news/articles/crossrail-project-update)
 - [Why I&#39;m Publishing My Next Book on Substack](https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next)
-- [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
-- [How far can you go by train in 5h?](https://www.chronotrains.com/)
-- [Color Journey](https://boltkey.github.io/color-journey/)
-- [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
