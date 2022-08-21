@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Got a rejection for mentioning Apple pre-release software, but I am not](https://twitter.com/eternalstorms/status/1559794943673122818)
+- [Outdoor Sound Propagation in the U.S. Civil War](http://wesclark.com/jw/sound_propagation.html)
+- [Good Conversations Have Lots of Doorknobs](https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Consensus Not Censorship](https://www.interfluidity.com/v2/9258.html)
-- [HBO Max Pulls Nearly 200 ‘Sesame Street’ Episodes](https://www.nytimes.com/2022/08/20/arts/television/sesame-street-hbo-max.html)
-- [Your Makefiles Are Wrong](https://tech.davis-hansson.com/p/make/)
-- [Hacker News Official API](https://github.com/HackerNews/API)
+- [Consensus not censorship](https://www.interfluidity.com/v2/9258.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
