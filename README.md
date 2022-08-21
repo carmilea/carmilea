@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Price of FSD will rise to $15k in North America on September 5th](https://twitter.com/elonmusk/status/1561362640261226499)
+- [Consensus Not Censorship](https://www.interfluidity.com/v2/9258.html)
+- [HBO Max Pulls Nearly 200 ‘Sesame Street’ Episodes](https://www.nytimes.com/2022/08/20/arts/television/sesame-street-hbo-max.html)
+- [Your Makefiles Are Wrong](https://tech.davis-hansson.com/p/make/)
+- [Hacker News Official API](https://github.com/HackerNews/API)
 - [Uacme: ACMEv2 client written in plain C with minimal dependencies](https://github.com/ndilieto/uacme)
-- [Religion as an Ego-modulator](https://superbowl.substack.com/p/religion-as-an-ego-modulator)
-- [America’s First Black Physician &lpar;2021&rpar;](https://www.smithsonianmag.com/history/james-mccune-smith-america-first-black-physician-180977110/)
-- [iOS VPNs have leaked traffic for years, researcher claims](https://arstechnica.com/information-technology/2022/08/ios-vpns-still-leak-traffic-more-than-2-years-later-researcher-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
