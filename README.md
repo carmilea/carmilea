@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Toxic Air](https://www.propublica.org/nerds/visualizing-toxic-air)
+- [Ask HN: Should I Log Errors, Throw Errors or Both?](https://news.ycombinator.com/item?id=32549619)
+- [Report: The median developer codes 52 minutes per day](https://www.software.com/reports/code-time-report)
 - [GifCities – The GeoCities Animated GIF Search Engine](https://gifcities.org/)
 - [10BASE-T using Raspberry Pi Pico with 2 GPIO pins](https://github.com/kingyoPiyo/Pico-10BASE-T)
-- [QEMU Internals &lpar;2021&rpar;](https://airbus-seclab.github.io/qemu_blog/)
-- [Ridiculous vulnerability disclosure process with CrowdStrike Falcon Sensor](https://www.modzero.com/modlog/archives/2022/08/22/ridiculous_vulnerability_disclosure_process_with_crowdstrike_falcon_sensor/index.html)
-- [Increased CVE Activity in Curl?](https://daniel.haxx.se/blog/2022/08/22/increased-cve-activity-in-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
