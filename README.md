@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Car Seats as Contraception](https://thezvi.wordpress.com/2022/08/22/on-car-seats-as-contraception/)
+- [Show HN: Digs.fm – For passionate music explorers &lpar;like Goodreads but for music&rpar;](https://digs.fm)
 - [Clip Control on the Apple GPU](https://rosenzweig.io/blog/asahi-gpu-part-6.html)
-- [59% of Americans worry student loan forgiveness will make inflation worse](https://www.cnbc.com/2022/08/22/americans-are-concerned-student-loan-forgiveness-will-worsen-inflation.html)
-- [Fake News and Democracy](https://www.jesp.org/index.php/jesp/article/view/1258)
-- [Separation Logic](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
-- [Apple Expands Self Service Repair to Mac Notebooks](https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/)
+- [Why I moved to Estonia](https://maksimdrachov.github.io/2021/12/24/moving-to-estonia)
+- [Maps.earth – free and open-source web maps](https://about.maps.earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
