@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi](https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/)
-- [Glibc and Dt_gnu_hash](https://maskray.me/blog/2022-08-21-glibc-and-dt-gnu-hash)
-- [Ask HN: Our users don&#39;t want to pay taxes](https://news.ycombinator.com/item?id=32545466)
-- [Adam74: A terminal for a small 8-bit computer](https://www.engineersneedart.com/adam74/adam74.html)
-- [The Church of Interruption &lpar;2018&rpar;](https://sambleckley.com/writing/church-of-interruption.html)
+- [Ask HN: Are you going to quit?](https://news.ycombinator.com/item?id=32547173)
+- [NYC Fire Department Forcible Entry Reference Guide [pdf]](https://ia800207.us.archive.org/15/items/FDNYforcibleEntryReferenceGuide/FDNY_Forcible_entry_reference_guide.pdf)
+- [Applying a rule from Pixar with a camera from 1961](https://news.gregjeanneau.com/pixar-camera-1961/)
+- [Crazy Eddie’s Life Was Insane](https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html)
+- [Our long, vulnerable childhoods may be the key to our success](https://www.spectator.co.uk/article/our-long-vulnerable-childhoods-may-be-the-key-to-our-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
