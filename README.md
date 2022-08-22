@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail will call the cops on you based on the content of your emails](https://pluralistic.net/2022/08/22/allopathic-risk/)
+- [Stripe down for 4 hours &lpar;and counting&rpar; for all those with Stripe Tax enabled](https://status.stripe.com/)
+- [A republished fork of the banned on sanction order Tornado Cash repositories](https://twitter.com/matthew_d_green/status/1561813046338748417)
+- [SQLite has pretty limited builtin functions](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
 - [Replit &lpar;YC W18&rpar; Is Hiring ML engineers to invent the future of software](https://replit.com/careers)
 - [Using Mypy in Production](https://notes.crmarsh.com/using-mypy-in-production-at-spring)
-- [U-M researchers untangle the physics of high-temperature superconductors](https://www.nanotechnologyworld.org/post/u-m-researchers-untangle-the-physics-of-high-temperature-superconductors)
-- [Using the power of the sun to roast green chile](https://www.sandia.gov/labnews/2022/06/30/using-the-power-of-the-sun-to-roast-green-chile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
