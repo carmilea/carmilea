@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Euro falls below parity with the dollar](https://www.reuters.com/markets/us/dollar-hits-5-week-high-hawkish-fed-before-jackson-hole-2022-08-22/)
-- [TMTP a Internet protocol combining elements of email and the web](https://mnmnotmail.org/)
-- [The downfall of smart TVs: From promises of seamless viewing to ad tool](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
-- [Visualizing Toxic Air](https://www.propublica.org/nerds/visualizing-toxic-air)
-- [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
+- [Fake News and Democracy](https://www.jesp.org/index.php/jesp/article/view/1258)
+- [Separation Logic](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
+- [Apple Expands Self Service Repair to Mac Notebooks](https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/)
+- [&lpar;A Few&rpar; Ops Lessons We All Learn the Hard Way &lpar;2020&rpar;](https://www.netmeister.org/blog/ops-lessons.html)
+- [Cloud database for tomorrow&#39;s applications &lpar;written in Rust&rpar;](https://surrealdb.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
