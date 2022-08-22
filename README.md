@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Increased CVE Activity in Curl?](https://daniel.haxx.se/blog/2022/08/22/increased-cve-activity-in-curl/)
+- [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
 - [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547912)
 - [How do cash transfers impact the people who don’t receive them? &lpar;2019&rpar;](https://www.givedirectly.org/how-do-cash-transfers-impact-neighbors/)
 - [React PDF Viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
-- [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547605)
-- [The GPU Banana Stand](https://acko.net/blog/the-gpu-banana-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
