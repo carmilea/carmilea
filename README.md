@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tour of Dresden, the heart of Germany’s semiconductor industry](https://innovationorigins.com/en/on-the-road-with-the-9-euro-ticket-part-8-a-bike-tour-of-dresden-the-heart-of-germanys-semiconductor-industry/)
+- [Reflections on my time in Y Combinator](https://chrisfrantz.com/reflections-on-my-time-in-y-combinator/)
+- [YouTube disrupted in Pakistan as former PM Khan streams speech – NetBlocks](https://netblocks.org/reports/youtube-disrupted-in-pakistan-as-former-pm-khan-streams-speech-XADMq6Bg)
 - [Stable Diffusion Public Release – Stability.ai](https://stability.ai/blog/stable-diffusion-public-release)
 - [OpenAI API pricing update FAQ](https://help.openai.com/en/articles/6485334-openai-api-pricing-update-faq)
-- [Pigeon – Send Messages by Carrier Pigeon](https://flypigeon.co/)
-- [Keeper Tax &lpar;YC W19&rpar; is hiring an engineer to simplify taxes for gig workers](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-software-engineer-platform)
-- [Why Does Everything on Netflix Look Like That?](https://www.vice.com/en/article/ake3j5/why-does-everything-on-netflix-look-like-that)
 <!-- BLOG-POST-LIST:END -->
 
 ---
