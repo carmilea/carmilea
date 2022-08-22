@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring ML engineers to invent the future of software](https://replit.com/careers)
+- [U-M researchers untangle the physics of high-temperature superconductors](https://www.nanotechnologyworld.org/post/u-m-researchers-untangle-the-physics-of-high-temperature-superconductors)
+- [Using the power of the sun to roast green chile](https://www.sandia.gov/labnews/2022/06/30/using-the-power-of-the-sun-to-roast-green-chile/)
 - [How messed up was Germany&#39;s energy policy?](https://jeromeaparis.substack.com/p/how-messed-up-was-germanys-energy)
-- [A General Overview of What Happens Before main&lpar;&rpar; &lpar;2019&rpar;](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
-- [Google Timer is back](https://www.google.com/search?q=timer+6+minutes)
-- [Tour of Dresden, the heart of Germany’s semiconductor industry](https://innovationorigins.com/en/on-the-road-with-the-9-euro-ticket-part-8-a-bike-tour-of-dresden-the-heart-of-germanys-semiconductor-industry/)
-- [Reflections on my time in Y Combinator](https://chrisfrantz.com/reflections-on-my-time-in-y-combinator/)
+- [A general overview of what happens before main&lpar;&rpar; &lpar;2019&rpar;](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
