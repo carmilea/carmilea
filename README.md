@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Euro falls below parity with the dollar](https://www.reuters.com/markets/us/dollar-hits-5-week-high-hawkish-fed-before-jackson-hole-2022-08-22/)
+- [TMTP a Internet protocol combining elements of email and the web](https://mnmnotmail.org/)
+- [The downfall of smart TVs: From promises of seamless viewing to ad tool](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
 - [Visualizing Toxic Air](https://www.propublica.org/nerds/visualizing-toxic-air)
-- [Ask HN: Should I Log Errors, Throw Errors or Both?](https://news.ycombinator.com/item?id=32549619)
-- [Report: The median developer codes 52 minutes per day](https://www.software.com/reports/code-time-report)
-- [GifCities – The GeoCities Animated GIF Search Engine](https://gifcities.org/)
-- [10BASE-T using Raspberry Pi Pico with 2 GPIO pins](https://github.com/kingyoPiyo/Pico-10BASE-T)
+- [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 <!-- BLOG-POST-LIST:END -->
 
 ---
