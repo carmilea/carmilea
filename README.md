@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clip Control on the Apple GPU](https://rosenzweig.io/blog/asahi-gpu-part-6.html)
+- [59% of Americans worry student loan forgiveness will make inflation worse](https://www.cnbc.com/2022/08/22/americans-are-concerned-student-loan-forgiveness-will-worsen-inflation.html)
 - [Fake News and Democracy](https://www.jesp.org/index.php/jesp/article/view/1258)
 - [Separation Logic](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
 - [Apple Expands Self Service Repair to Mac Notebooks](https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/)
-- [&lpar;A Few&rpar; Ops Lessons We All Learn the Hard Way &lpar;2020&rpar;](https://www.netmeister.org/blog/ops-lessons.html)
-- [Cloud database for tomorrow&#39;s applications &lpar;written in Rust&rpar;](https://surrealdb.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
