@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Application submitted for US molten salt research reactor](https://www.world-nuclear-news.org/Articles/Application-submitted-for-US-molten-salt-research)
-- [&lpar;Not&rpar; Getting a New Computer](https://whatever.scalzi.com/2022/08/22/not-getting-a-new-computer/)
-- [“I survived the TCP transition” &lpar;2013&rpar;](https://blog.google/inside-google/googlers/marking-birth-of-modern-day-internet/)
-- [Tell HN: Stop sending unsolicited emails to developers GitHub email](https://news.ycombinator.com/item?id=32552134)
-- [Show HN: Digs.fm – For passionate music explorers &lpar;like Goodreads but for music&rpar;](https://digs.fm)
+- [Keeper Tax &lpar;YC W19&rpar; is hiring an engineer to simplify taxes for gig workers](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-software-engineer-platform)
+- [Why Does Everything on Netflix Look Like That?](https://www.vice.com/en/article/ake3j5/why-does-everything-on-netflix-look-like-that)
+- [Starting Sep 1, GPT-3 is becoming 3X Cheaper](https://openai.com/api/pricing/)
+- [Show HN: Largest collection of pitch deck, videos and memos to fund my education](https://fundingfyre.com/)
+- [What alcohol does to your body, brain and health [video]](https://hubermanlab.com/what-alcohol-does-to-your-body-brain-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
