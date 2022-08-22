@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547912)
+- [How do cash transfers impact the people who don’t receive them? &lpar;2019&rpar;](https://www.givedirectly.org/how-do-cash-transfers-impact-neighbors/)
 - [React PDF Viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
+- [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547605)
 - [The GPU Banana Stand](https://acko.net/blog/the-gpu-banana-stand/)
-- [A deceptive curing practice in hunter–Gatherer societies](https://www.mdpi.com/2673-9461/2/3/7/htm)
-- [NYC Fire Department forcible entry reference guide [pdf]](https://ia800207.us.archive.org/15/items/FDNYforcibleEntryReferenceGuide/FDNY_Forcible_entry_reference_guide.pdf)
-- [Applying a rule from Pixar with a camera from 1961](https://news.gregjeanneau.com/pixar-camera-1961/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
