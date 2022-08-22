@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Church of Interruption](https://sambleckley.com/writing/church-of-interruption.html)
-- [Offline-First Apps: Why Should Apps Be Made to Work in an Offline State?](https://www.dewsolutions.in/offline-first-apps/)
-- [NAC protects from lung emphysema but induces lung adenocarcinoma in mice](https://insight.jci.org/articles/view/127647)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [New evidence shows water separates into two different liquids at low temperature](https://www.birmingham.ac.uk/news/2022/new-evidence-shows-water-separates-into-two-different-liquids-at-low-temperatures)
+- [Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi](https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/)
+- [Glibc and Dt_gnu_hash](https://maskray.me/blog/2022-08-21-glibc-and-dt-gnu-hash)
+- [Ask HN: Our users don&#39;t want to pay taxes](https://news.ycombinator.com/item?id=32545466)
+- [Adam74: A terminal for a small 8-bit computer](https://www.engineersneedart.com/adam74/adam74.html)
+- [The Church of Interruption &lpar;2018&rpar;](https://sambleckley.com/writing/church-of-interruption.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
