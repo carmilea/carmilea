@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail will call the cops on you based on the content of your emails](https://pluralistic.net/2022/08/22/allopathic-risk/)
 - [Replit &lpar;YC W18&rpar; Is Hiring ML engineers to invent the future of software](https://replit.com/careers)
+- [Using Mypy in Production](https://notes.crmarsh.com/using-mypy-in-production-at-spring)
 - [U-M researchers untangle the physics of high-temperature superconductors](https://www.nanotechnologyworld.org/post/u-m-researchers-untangle-the-physics-of-high-temperature-superconductors)
 - [Using the power of the sun to roast green chile](https://www.sandia.gov/labnews/2022/06/30/using-the-power-of-the-sun-to-roast-green-chile/)
-- [How messed up was Germany&#39;s energy policy?](https://jeromeaparis.substack.com/p/how-messed-up-was-germanys-energy)
-- [A general overview of what happens before main&lpar;&rpar; &lpar;2019&rpar;](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
