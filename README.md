@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Car Seats as Contraception](https://thezvi.wordpress.com/2022/08/22/on-car-seats-as-contraception/)
+- [Application submitted for US molten salt research reactor](https://www.world-nuclear-news.org/Articles/Application-submitted-for-US-molten-salt-research)
+- [&lpar;Not&rpar; Getting a New Computer](https://whatever.scalzi.com/2022/08/22/not-getting-a-new-computer/)
+- [“I survived the TCP transition” &lpar;2013&rpar;](https://blog.google/inside-google/googlers/marking-birth-of-modern-day-internet/)
+- [Tell HN: Stop sending unsolicited emails to developers GitHub email](https://news.ycombinator.com/item?id=32552134)
 - [Show HN: Digs.fm – For passionate music explorers &lpar;like Goodreads but for music&rpar;](https://digs.fm)
-- [Clip Control on the Apple GPU](https://rosenzweig.io/blog/asahi-gpu-part-6.html)
-- [Why I moved to Estonia](https://maksimdrachov.github.io/2021/12/24/moving-to-estonia)
-- [Maps.earth – free and open-source web maps](https://about.maps.earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
