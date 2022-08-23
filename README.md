@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you organize or rename pdf files &lpar;books, papers, etc.&rpar;?](https://news.ycombinator.com/item?id=32565059)
-- [Twitter CEO paraga weighs in on whistleblower story sending this message](https://twitter.com/donie/status/1562069281545900033)
-- [Twitter’s former security chief says company lied about bots and safety](https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety)
-- [Study first to link weed killer Roundup to convulsions in animals](https://phys.org/news/2022-08-link-weed-killer-roundup-convulsions.html)
-- [H1B Rejected – Builds Unicorn back home](https://twitter.com/1kunalbahl/status/1561640374900125696)
+- [A history of OSS licensing from a lawyer who helped blaze the trail [audio]](https://stackoverflow.blog/2022/08/16/a-history-of-open-source-licensing-from-a-lawyer-who-helped-blaze-the-trail-ep-473/)
+- [Remote Startups Will Win the War for Top Talent](https://future.com/remote-startups-hire-top-talent/)
+- [Permutation Generation Methods [pdf]](http://homepage.divms.uiowa.edu/~goodman/22m150.dir/2007/Permutation%20Generation%20Methods.pdf)
+- [Class action against Oracle’s worldwide surveillance machine](https://www.iccl.ie/news/class-action-against-oracle/)
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
