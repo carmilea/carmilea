@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors Bought a Quarter of US Homes Sold Last Year](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/07/22/investors-bought-a-quarter-of-homes-sold-last-year-driving-up-rents)
+- [Why Is Rent Skyrocketing?](https://thehustle.co/why-is-rent-skyrocketing/)
+- [The Gathering Crisis](https://www.antipope.org/charlie/blog-static/2022/08/the-gathering-crisis.html)
+- [SSH commit verification now supported](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/)
 - [UPchieve &lpar;EdTech Nonprofit, YC W21&rpar; is hiring senior engineers](https://upchieve.welcomekit.co/)
-- [Every action you take is a vote for the type of person you wish to become](https://jeremyeder.com/2022/08/16/every-action-you-take-is-a-vote-for-the-type-of-person-you-wish-to-become/)
-- [Data Partitioning and Consistent Hashing](https://www.thedigitalcatonline.com/blog/2022/08/23/data-partitioning-and-consistent-hashing/)
-- [Top Programming Languages 2022](https://spectrum.ieee.org/top-programming-languages-2022)
-- [Design the Next iPhone](https://neal.fun/design-the-next-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
