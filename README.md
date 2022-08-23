@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A history of OSS licensing from a lawyer who helped blaze the trail [audio]](https://stackoverflow.blog/2022/08/16/a-history-of-open-source-licensing-from-a-lawyer-who-helped-blaze-the-trail-ep-473/)
-- [Remote Startups Will Win the War for Top Talent](https://future.com/remote-startups-hire-top-talent/)
-- [Permutation Generation Methods [pdf]](http://homepage.divms.uiowa.edu/~goodman/22m150.dir/2007/Permutation%20Generation%20Methods.pdf)
-- [Class action against Oracle’s worldwide surveillance machine](https://www.iccl.ie/news/class-action-against-oracle/)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [Top Programming Languages 2022](https://spectrum.ieee.org/top-programming-languages-2022)
+- [Design the Next iPhone](https://neal.fun/design-the-next-iphone/)
+- [Perfluorocubane Is &lpar;As You Would Expect&rpar; Weird](https://www.science.org/content/blog-post/perfluorocubane-you-would-expect-weird)
+- [Why Machines Will Never Rule the World – Artificial Intelligence Without Fear](https://www.routledge.com/Why-Machines-Will-Never-Rule-the-World-Artificial-Intelligence-without/Landgrebe-Smith/p/book/9781032309934)
+- [India forced Twitter to put agent on payroll, whistleblower says](https://www.reuters.com/world/india/india-forced-twitter-put-agent-payroll-whistleblower-says-2022-08-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
