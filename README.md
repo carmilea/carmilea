@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Risk Everything](http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/)
+- [Digitizing 55,000 pages of civic meetings](https://phildini.dev/digitizing-55-000-pages-of-civic-meetings)
+- [Google refuses to reinstate account after man took medical images of son’s groin](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
 - [The Val Object Model: Template for a possible future Swift object model](https://forums.swift.org/t/template-for-a-possible-future-object-model/59823)
 - [Parsing SQL](https://tomassetti.me/parsing-sql/)
-- [Military drone swarms and how to combat them](https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them)
-- [EV shipping is set to blow internal combustion engines out of the water](https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/)
-- [Electrical currents to the brain improve memory for older adults](https://www.theverge.com/23316230/brain-stimulation-memory-short-long-alzheimers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
