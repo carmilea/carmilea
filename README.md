@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study first to link weed killer Roundup to convulsions in animals](https://phys.org/news/2022-08-link-weed-killer-roundup-convulsions.html)
 - [Accessing WebAssembly reference-typed arrays from C++](https://wingolog.org/archives/2022/08/23/accessing-webassembly-reference-typed-arrays-from-c)
 - [The American Dream](https://www.tomkiefer.com/el-sueno-americano)
 - [Java in the Browser](https://www.jpro.one/)
-- [A 12-Year-Old Died on an E-Bike. Is the Manufacturer to Blame?](https://www.outsideonline.com/outdoor-gear/bikes-and-biking/molly-steinsapir-death-rad-bikes-lawsuit/)
 - [Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies](https://www.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
 <!-- BLOG-POST-LIST:END -->
 
