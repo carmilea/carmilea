@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bank Shot: Abe Assassin’s Wild Success](https://shingetsunewsagency.com/2022/08/23/bank-shot-abe-assassins-wild-success/)
-- [Common Tech Jobs Described as Cabals of Mesoamerican Wizards](https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals)
-- [In 1995, 14 wolves were released into the wild in Yellowstone National Park](https://twitter.com/DrClaytonForre1/status/1561730584329732096)
-- [Release &lpar;YC W20&rpar; Is Hiring a Senior Product Manager](https://www.ycombinator.com/companies/release/jobs/t72DUPj-senior-product-manager)
-- [The Futures of Inform](https://ganelson.github.io/inform-website/talks/2022/07/31/narrascope-iii.html)
+- [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
+- [Mobility startup TIER is laying off 16 percent of staff](https://about.tier.app/tier-increases-focus-on-profitability-actions-and-organizational-changes/)
+- [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
+- [Does syntax highlighting help programming novices? &lpar;2018&rpar;](https://dl.acm.org/doi/10.1007/s10664-017-9579-0)
+- [The Future of Nginx: Getting Back to Our Open Source Roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
