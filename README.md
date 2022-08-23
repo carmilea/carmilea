@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe down for 4 hours &lpar;and counting&rpar; for all those with Stripe Tax enabled](https://status.stripe.com/)
-- [A republished fork of the banned on sanction order Tornado Cash repositories](https://twitter.com/matthew_d_green/status/1561813046338748417)
-- [SQLite has pretty limited builtin functions](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
-- [Replit &lpar;YC W18&rpar; Is Hiring ML engineers to invent the future of software](https://replit.com/careers)
-- [Using Mypy in Production](https://notes.crmarsh.com/using-mypy-in-production-at-spring)
+- [The Best and Worst of 1994 and Predictions for &#39;95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
+- [Twitter Tells Employees They Might Get Only Half Their Annual Bonus](https://www.nytimes.com/2022/08/19/technology/twitter-annual-bonus.html)
+- [Why Apple Will Switch to ARM-Based Macs &lpar;2014&rpar;](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)
+- [My black body story &lpar;it&#39;s physics&rpar;](https://commandcenter.blogspot.com/2022/08/my-black-body-story-its-physics.html)
+- [An odd discovery on Spotify](https://www.robinsloan.com/newsletters/visions/#spotify)
 <!-- BLOG-POST-LIST:END -->
 
 ---
