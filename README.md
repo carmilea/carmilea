@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD on the Framework Laptop](https://xyinn.org/md/freebsd/framework_laptop)
 - [TypeScript is terrible for library developers](https://erock.prose.sh/typescript-terrible-for-library-developers)
 - [Investors bought a quarter of US homes sold last year](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/07/22/investors-bought-a-quarter-of-homes-sold-last-year-driving-up-rents)
-- [Let’s Not Have a Beer](https://www.dewanahmed.com/alcohol-obsession-in-tech/)
-- [Is there hope for Linux on smartphones?](https://media.ccc.de/v/froscon2022-2797-is_there_hope_for_linux_on_smartphones)
 - [Open Source Canva Clone](https://github.com/layerhub-io/react-design-editor)
+- [SSH commit verification now supported](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
