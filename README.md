@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Crawlee – The web scraping and browser automation library for Node.js](https://crawlee.dev/)
 - [Dell XPS 13 Plus developer edition: Now available with Ubuntu 22.04 LTS](https://www.dell.com/community/Developer-Blogs/Dell-XPS-13-Plus-developer-edition-with-Ubuntu-22-04-LTS-pre/ba-p/8255332)
 - [Isaac Solar Ice Maker](https://www.energy-concepts.com/_pages/app_isaac_solar_ice_maker.htm)
 - [Risk Everything](http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/)
-- [Digitizing 55,000 pages of civic meetings](https://phildini.dev/digitizing-55-000-pages-of-civic-meetings)
-- [Google refuses to reinstate account after man took medical images of son’s groin](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
+- [The messages that survived civilisation&#39;s collapse](https://www.bbc.com/future/article/20220818-how-to-write-a-message-to-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
