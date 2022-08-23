@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best and Worst of 1994 and Predictions for &#39;95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
-- [Twitter Tells Employees They Might Get Only Half Their Annual Bonus](https://www.nytimes.com/2022/08/19/technology/twitter-annual-bonus.html)
-- [Why Apple Will Switch to ARM-Based Macs &lpar;2014&rpar;](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)
-- [My black body story &lpar;it&#39;s physics&rpar;](https://commandcenter.blogspot.com/2022/08/my-black-body-story-its-physics.html)
-- [An odd discovery on Spotify](https://www.robinsloan.com/newsletters/visions/#spotify)
+- [The Val Object Model: Template for a possible future Swift object model](https://forums.swift.org/t/template-for-a-possible-future-object-model/59823)
+- [Parsing SQL](https://tomassetti.me/parsing-sql/)
+- [Military drone swarms and how to combat them](https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them)
+- [EV shipping is set to blow internal combustion engines out of the water](https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/)
+- [Electrical currents to the brain improve memory for older adults](https://www.theverge.com/23316230/brain-stimulation-memory-short-long-alzheimers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
