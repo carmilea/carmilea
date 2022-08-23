@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies](https://www.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
+- [I hope Apple never adopts RCS](https://blog.mogery.me/rcs-is-stupid/)
+- [Collapse of emergency healthcare in England may be costing 500 lives every week](https://twitter.com/jburnmurdoch/status/1562004612172873728)
 - [Ask HN: Interested on writing a book on software design/architecture together?](https://news.ycombinator.com/item?id=32562332)
 - [“10% error rate is okay“ – Leaked EU Commission document regarding Chat Control](https://reddit.com/r/privacy/comments/voaicx/10_error_rate_is_okay_leaked_eu_commission/)
-- [Should Your Notes Be End-to-End Encrypted?](https://supernotes.app/blog/posts/notes-end-to-end-encryption/)
-- [LinkedIn Viral Post Generator](https://viralpostgenerator.com)
-- [Debugging Win32 Binaries in Ghidra via Wine](https://john-millikin.com/debugging-win32-binaries-in-ghidra-via-wine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
