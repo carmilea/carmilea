@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you organize or rename pdf files &lpar;books, papers, etc.&rpar;?](https://news.ycombinator.com/item?id=32565059)
+- [Twitter CEO paraga weighs in on whistleblower story sending this message](https://twitter.com/donie/status/1562069281545900033)
+- [Twitter’s former security chief says company lied about bots and safety](https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety)
 - [Study first to link weed killer Roundup to convulsions in animals](https://phys.org/news/2022-08-link-weed-killer-roundup-convulsions.html)
-- [Accessing WebAssembly reference-typed arrays from C++](https://wingolog.org/archives/2022/08/23/accessing-webassembly-reference-typed-arrays-from-c)
-- [The American Dream](https://www.tomkiefer.com/el-sueno-americano)
-- [Java in the Browser](https://www.jpro.one/)
-- [Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies](https://www.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
+- [H1B Rejected – Builds Unicorn back home](https://twitter.com/1kunalbahl/status/1561640374900125696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
