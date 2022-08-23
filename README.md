@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Interested on writing a book on software design/architecture together?](https://news.ycombinator.com/item?id=32562332)
+- [“10% error rate is okay“ – Leaked EU Commission document regarding Chat Control](https://reddit.com/r/privacy/comments/voaicx/10_error_rate_is_okay_leaked_eu_commission/)
+- [Should Your Notes Be End-to-End Encrypted?](https://supernotes.app/blog/posts/notes-end-to-end-encryption/)
 - [LinkedIn Viral Post Generator](https://viralpostgenerator.com)
 - [Debugging Win32 Binaries in Ghidra via Wine](https://john-millikin.com/debugging-win32-binaries-in-ghidra-via-wine)
-- [Show HN: Crawlee – The web scraping and browser automation library for Node.js](https://crawlee.dev/)
-- [Ask HN: Should a &#39;no side projects&#39; policy be taken seriously?](https://news.ycombinator.com/item?id=32560740)
-- [Isaac Solar Ice Maker](https://www.energy-concepts.com/_pages/app_isaac_solar_ice_maker.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
