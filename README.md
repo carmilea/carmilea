@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UPchieve &lpar;EdTech Nonprofit, YC W21&rpar; is hiring senior engineers](https://upchieve.welcomekit.co/)
+- [Every action you take is a vote for the type of person you wish to become](https://jeremyeder.com/2022/08/16/every-action-you-take-is-a-vote-for-the-type-of-person-you-wish-to-become/)
+- [Data Partitioning and Consistent Hashing](https://www.thedigitalcatonline.com/blog/2022/08/23/data-partitioning-and-consistent-hashing/)
 - [Top Programming Languages 2022](https://spectrum.ieee.org/top-programming-languages-2022)
 - [Design the Next iPhone](https://neal.fun/design-the-next-iphone/)
-- [Perfluorocubane Is &lpar;As You Would Expect&rpar; Weird](https://www.science.org/content/blog-post/perfluorocubane-you-would-expect-weird)
-- [Why Machines Will Never Rule the World – Artificial Intelligence Without Fear](https://www.routledge.com/Why-Machines-Will-Never-Rule-the-World-Artificial-Intelligence-without/Landgrebe-Smith/p/book/9781032309934)
-- [India forced Twitter to put agent on payroll, whistleblower says](https://www.reuters.com/world/india/india-forced-twitter-put-agent-payroll-whistleblower-says-2022-08-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
