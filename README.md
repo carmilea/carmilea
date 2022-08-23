@@ -54,8 +54,8 @@
 - [LinkedIn Viral Post Generator](https://viralpostgenerator.com)
 - [Debugging Win32 Binaries in Ghidra via Wine](https://john-millikin.com/debugging-win32-binaries-in-ghidra-via-wine)
 - [Show HN: Crawlee – The web scraping and browser automation library for Node.js](https://crawlee.dev/)
+- [Ask HN: Should a &#39;no side projects&#39; policy be taken seriously?](https://news.ycombinator.com/item?id=32560740)
 - [Isaac Solar Ice Maker](https://www.energy-concepts.com/_pages/app_isaac_solar_ice_maker.htm)
-- [Risk Everything &lpar;2007&rpar;](http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
