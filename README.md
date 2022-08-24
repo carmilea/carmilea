@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Dojo Custom AI Supercomputer at HC34](https://www.servethehome.com/tesla-dojo-custom-ai-supercomputer-at-hc34/)
+- [Show HN: Digital Products as a Side Hustle; a list of successful examples](https://www.marindie.com/digital-products/)
 - [Oven: The Company Behind Bun](https://oven.sh)
 - [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
 - [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
-- [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
-- [The future of Nginx: Getting back to our open source roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
