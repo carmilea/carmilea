@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibVF.IO: Add support for GPU Virtual Machine &lpar;GVM&rpar;](https://arccompute.com/blog/libvfio-add-gvm-support/)
+- [Attorney General Bonta Announces Settlement with Sephora on CCPA/GPC Enforcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-sephora-part-ongoing-enforcement)
+- [“We kill people based on metadata” and other metadata things](https://darknetlive.com/post/former-nsa-director-will-kill-you-via-metadata/)
+- [PlanBags Has Retired 1968-2021](https://planbags.com/)
 - [Jitx &lpar;YC S18&rpar; is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
-- [Virginia Tech researcher finds a new method for recycling polystyrene](https://vtx.vt.edu/articles/2022/08/one-industrys-trash-polystyrene.html)
-- [Bank of America Email: “Update Your iPhone”](https://news.ycombinator.com/item?id=32581337)
-- [IFixit: Self Repair Program makes M1 MacBooks less repairable](https://9to5mac.com/2022/08/24/ifixit-apple-self-repair-program-m1-macbook-less-repairable/)
-- [A near 100% renewables grid is well within reach, and with little storage](https://reneweconomy.com.au/a-near-100-per-cent-renewables-grid-is-well-within-reach-and-with-little-storage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
