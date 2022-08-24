@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What should I do next for my career?](https://news.ycombinator.com/item?id=32578927)
-- [Pinecone: Rust – A hard decision pays off](https://www.pinecone.io/learn/inside-the-pinecone/)
-- [A Critique of SQL, 40 Years Later](https://carlineng.com/?postid=sql-critique#blog)
-- [Ethereum Mainnet Merge Announcement](https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/)
-- [Show HN: Fuzz Map – a GUI fuzzer, interactive demo](https://www.fuzzmap.io/?welcome=1)
+- [Fixing my PC&#39;s persistent graphics and audio stutters](https://www.ctrl.blog/entry/troubleshoot-stuttering.html)
+- [Auto giants like BMW, GM and Toyota make drivers ‘subscribe’ for basic features](https://nypost.com/2022/08/21/auto-giants-like-bmw-gm-and-toyota-make-drivers-subscribe-for-basic-features/)
+- [Accounting for Developers, Part II](https://www.moderntreasury.com/journal/accounting-for-developers-part-ii)
+- [Free Will: Who’s in Control?](https://deepfix.substack.com/p/free-will-whos-in-control)
+- [AI-designed camera only records objects of interest while being blind to others](https://cnsi.ucla.edu/project/august-15-2022-ai-designed-camera-only-records-objects-of-interest-while-being-blind-to-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
