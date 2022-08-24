@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte Compiler Rewritten in Rust](https://github.com/pintariching/rustle)
 - [Tesla Dojo Custom AI Supercomputer at HC34](https://www.servethehome.com/tesla-dojo-custom-ai-supercomputer-at-hc34/)
 - [Show HN: Digital Products as a Side Hustle; a list of successful examples](https://www.marindie.com/digital-products/)
 - [Oven: The Company Behind Bun](https://oven.sh)
 - [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
-- [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
