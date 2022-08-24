@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A near 100% renewables grid is well within reach, and with little storage](https://reneweconomy.com.au/a-near-100-per-cent-renewables-grid-is-well-within-reach-and-with-little-storage/)
+- [France is paying car drivers nearly $4k to switch to an electric bike](https://electrek.co/2022/08/22/france-paying-car-drivers-switch-electric-bike/)
+- [Denuvo Launches Nintendo Switch Emulator Protection](https://irdeto.com/news/denuvo-by-irdeto-launches-the-industrys-first-nintendo-switch-emulator-protection/)
+- [Ask HN: Are You Leaving Heroku?](https://news.ycombinator.com/item?id=32580597)
 - [Fixing my PC&#39;s persistent graphics and audio stutters](https://www.ctrl.blog/entry/troubleshoot-stuttering.html)
-- [Auto giants like BMW, GM and Toyota make drivers ‘subscribe’ for basic features](https://nypost.com/2022/08/21/auto-giants-like-bmw-gm-and-toyota-make-drivers-subscribe-for-basic-features/)
-- [Accounting for Developers, Part II](https://www.moderntreasury.com/journal/accounting-for-developers-part-ii)
-- [Free Will: Who’s in Control?](https://deepfix.substack.com/p/free-will-whos-in-control)
-- [AI-designed camera only records objects of interest while being blind to others](https://cnsi.ucla.edu/project/august-15-2022-ai-designed-camera-only-records-objects-of-interest-while-being-blind-to-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
