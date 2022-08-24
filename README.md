@@ -54,8 +54,8 @@
 - [Oven: The Company Behind Bun](https://oven.sh)
 - [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
 - [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
-- [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
 - [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
+- [The future of Nginx: Getting back to our open source roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
