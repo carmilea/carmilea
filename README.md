@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a simple 2D physics engine for JavaScript games](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785)
 - [Ask HN: Is it just me or Facebook is being bombarded by spam?](https://news.ycombinator.com/item?id=32575675)
 - [Things people blamed on bicycles](https://twitter.com/paulisci/status/1561848479470694403)
 - [Capacity Plan](https://fev.al/posts/capacity-plan/)
-- [Facebook&#39;s timeline just shows random things for some users](https://news.ycombinator.com/item?id=32575608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
