@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you and your spouse handle big income differences?](https://news.ycombinator.com/item?id=32586361)
+- [George Hotz &lpar;Comma AI&rpar; Our First Patent Troll Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
+- [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
+- [“Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
 - [search.marginalia.nu: A Theoretical Justification](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
 - [GeForce Now: A Review](https://whatever.scalzi.com/2022/08/24/geforce-now-a-review/)
-- [Ask HN: Why can&#39;t we comment on “X is Hiring” posts?](https://news.ycombinator.com/item?id=32585801)
-- [Smarking &lpar;YC W15&rpar; Is Hiring a Product Lead to digitize $655B parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
