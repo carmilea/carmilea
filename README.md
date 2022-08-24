@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+- [Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
 - [Great Way to Make Mockups Online](https://deviceframes.com/)
 - [Build a simple 2D physics engine for JavaScript games &lpar;2012&rpar;](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785)
-- [Ask HN: Is it just me or Facebook is being bombarded by spam?](https://news.ycombinator.com/item?id=32575675)
-- [Things people blamed on bicycles](https://twitter.com/paulisci/status/1561848479470694403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
