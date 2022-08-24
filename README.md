@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte Compiler Rewritten in Rust](https://github.com/pintariching/rustle)
-- [Tesla Dojo Custom AI Supercomputer at HC34](https://www.servethehome.com/tesla-dojo-custom-ai-supercomputer-at-hc34/)
-- [Show HN: Digital Products as a Side Hustle; a list of successful examples](https://www.marindie.com/digital-products/)
-- [Oven: The Company Behind Bun](https://oven.sh)
-- [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785)
+- [Things people blamed on bicycles](https://twitter.com/paulisci/status/1561848479470694403)
+- [Capacity Plan](https://fev.al/posts/capacity-plan/)
+- [Facebook&#39;s timeline just shows random things for some users](https://news.ycombinator.com/item?id=32575608)
+- [Plex: Important notice of a potential data breach](https://news.ycombinator.com/item?id=32575350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
