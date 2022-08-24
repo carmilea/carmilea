@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What should I do next for my career?](https://news.ycombinator.com/item?id=32578927)
+- [Pinecone: Rust – A hard decision pays off](https://www.pinecone.io/learn/inside-the-pinecone/)
 - [Show HN: Fuzz Map – a GUI fuzzer, interactive demo](https://www.fuzzmap.io/?welcome=1)
+- [Quest 2 no longer requires a Facebook account starting today](https://uploadvr.com/quest-2-no-longer-requires-facebook-today/)
 - [Sieve &lpar;YC W22&rpar; Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206)
-- [Ask HN: Will AI-generated images flooding the web pollute future training data?](https://news.ycombinator.com/item?id=32577822)
-- [Why women receive less CPR from bystanders](https://www.sciencedaily.com/releases/2018/11/181105105453.htm)
-- [The Container Orchestrator Landscape](https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
