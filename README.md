@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Theory of Distributed Systems [pdf]](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
+- [America’s Affordable Housing Problem](https://ourbuiltenvironment.substack.com/p/americas-affordable-housing-problem)
 - [LibVF.IO: Add support for GPU Virtual Machine &lpar;GVM&rpar;](https://arccompute.com/blog/libvfio-add-gvm-support/)
 - [Attorney General Bonta Announces Settlement with Sephora on CCPA/GPC Enforcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-sephora-part-ongoing-enforcement)
-- [“We kill people based on metadata” and other metadata things](https://darknetlive.com/post/former-nsa-director-will-kill-you-via-metadata/)
 - [PlanBags Has Retired 1968-2021](https://planbags.com/)
-- [Jitx &lpar;YC S18&rpar; is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
