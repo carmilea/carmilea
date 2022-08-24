@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking &lpar;YC W15&rpar; Is Hiring a Product Lead to digitize $655B parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
+- [EPB Launches America’s First Community-Wide 25 Gig Internet Service](https://epb.com/newsroom/press-releases/epb-launches-americas-first-community-wide-25-gig-internet-service/)
 - [Notes on Theory of Distributed Systems [pdf]](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
 - [America’s Affordable Housing Problem](https://ourbuiltenvironment.substack.com/p/americas-affordable-housing-problem)
 - [LibVF.IO: Add support for GPU Virtual Machine &lpar;GVM&rpar;](https://arccompute.com/blog/libvfio-add-gvm-support/)
-- [Attorney General Bonta Announces Settlement with Sephora on CCPA/GPC Enforcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-sephora-part-ongoing-enforcement)
-- [PlanBags Has Retired 1968-2021](https://planbags.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
