@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
-- [Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
-- [Great Way to Make Mockups Online](https://deviceframes.com/)
-- [Build a simple 2D physics engine for JavaScript games &lpar;2012&rpar;](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785)
+- [Show HN: Fuzz Map – a GUI fuzzer, interactive demo](https://www.fuzzmap.io/?welcome=1)
+- [Sieve &lpar;YC W22&rpar; Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206)
+- [Ask HN: Will AI-generated images flooding the web pollute future training data?](https://news.ycombinator.com/item?id=32577822)
+- [Why women receive less CPR from bystanders](https://www.sciencedaily.com/releases/2018/11/181105105453.htm)
+- [The Container Orchestrator Landscape](https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
