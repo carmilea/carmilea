@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oven: The Company Behind Bun](https://oven.sh)
+- [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
+- [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
 - [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
-- [Mobility startup TIER is laying off 16 percent of staff](https://about.tier.app/tier-increases-focus-on-profitability-actions-and-organizational-changes/)
-- [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
-- [Does syntax highlighting help programming novices? &lpar;2018&rpar;](https://dl.acm.org/doi/10.1007/s10664-017-9579-0)
-- [The Future of Nginx: Getting Back to Our Open Source Roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
+- [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
