@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What should I do next for my career?](https://news.ycombinator.com/item?id=32578927)
 - [Pinecone: Rust – A hard decision pays off](https://www.pinecone.io/learn/inside-the-pinecone/)
+- [A Critique of SQL, 40 Years Later](https://carlineng.com/?postid=sql-critique#blog)
+- [Ethereum Mainnet Merge Announcement](https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/)
 - [Show HN: Fuzz Map – a GUI fuzzer, interactive demo](https://www.fuzzmap.io/?welcome=1)
-- [Quest 2 no longer requires a Facebook account starting today](https://uploadvr.com/quest-2-no-longer-requires-facebook-today/)
-- [Sieve &lpar;YC W22&rpar; Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
