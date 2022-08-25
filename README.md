@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I want to dive into how to make search engines](https://news.ycombinator.com/item?id=32593190)
-- [How to Make Flappy Bird with C++](https://terminalroot.com/how-to-make-flappy-bird-with-cpp/)
-- [Build Android apps without an Android SDK using PicoLisp](https://picolisp.com/wiki/?pilbox)
-- [Apple Collects the Least Amount of User Data Out of Major Tech Companies: Study](https://www.macrumors.com/2022/08/25/apple-least-data-major-tech-companies/)
-- [Zentail &lpar;YC S12&rpar; Is Hiring a Head of Sales](https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda)
+- [Heroku&#39;s Next Chapter](https://blog.heroku.com/next-chapter)
+- [How the Dead Internet Theory is fast becoming reality](https://grandy.substack.com/p/the-new-normal-the-coming-tsunami)
+- [PostgreSQL 14 Internals book – Part II released](https://postgrespro.com/blog/pgsql/5969682)
+- [Too many Americans live in places built for cars – not for human connection](https://www.vox.com/features/23191527/urban-planning-friendship-houston-cars-loneliness)
+- [Orcas Are Breaking Rudders Off Boats in Europe](https://www.smithsonianmag.com/smart-news/orcas-are-breaking-rudders-off-boats-in-europe-180980627/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
