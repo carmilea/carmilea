@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an 18 year old developer. How do I become one of the best programmers ever?](https://news.ycombinator.com/item?id=32589714)
-- [A Regular Expression in 30 Lines of C](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- [Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)
+- [A Regular Expression in 30 Lines of C &lpar;2007&rpar;](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 - [Imagen: An AI system that creates photorealistic images from input text](https://imagen.research.google)
-- [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
+- [Poorly configured cloud technology makes 5G networks worryingly hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
 - [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
