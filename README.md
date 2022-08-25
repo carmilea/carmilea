@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
+- [Largest Japanese Anime Database “Anime Taizen” Opens to the Public Today](https://www.crunchyroll.com/anime-news/2022/08/24-1/the-worlds-largest-japanese-anime-database-anime-taizen-opens-to-the-public-today)
 - [Launch HN: Artemis &lpar;YC S22&rpar; – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
 - [Running SingleStoreDB on Your Mac M1](https://www.singlestore.com/blog/running-singlestoredb-on-your-mac-m1)
-- [Move Fast or Die: Key Startup Lessons](https://blog.southparkcommons.com/move-fast-or-die/)
-- [We compiled a library of realistic engineering take-home tests and ranked them](https://www.trytapioca.com/library-of-assessments)
-- [AI and the Limits of Language](https://www.noemamag.com/ai-and-the-limits-of-language/)
+- [Show HN: New BucketRateLimiter Python package to rate limit requests to APIs](https://pypi.org/project/bucketratelimiter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
