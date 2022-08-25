@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fall of Datacenter Software](https://www.sigarch.org/the-fall-of-datacenter-software/)
-- [The Evolution of Camera Phones, Visualized](https://simpleghar.com/the-evolution-of-camera-phones-visualized/)
-- [Meta’s chatbot replying that Dutch politican is a terrorist](https://twitter.com/MarietjeSchaake/status/1562515297688399873)
-- [Type of Barcodes and Their Usage](https://scanbot.io/blog/types-of-barcodes/)
-- [Fix it, Fork it, Fuck off](https://boyter.org/posts/the-three-f-s-of-open-source/)
+- [Ask HN: Remote-Friendly for International Timezones?](https://news.ycombinator.com/item?id=32592584)
+- [Build Android apps without an Android SDK using PicoLisp](https://picolisp.com/wiki/?pilbox)
+- [Apple Collects the Least Amount of User Data Out of Major Tech Companies: Study](https://www.macrumors.com/2022/08/25/apple-least-data-major-tech-companies/)
+- [Zentail &lpar;YC S12&rpar; Is Hiring a Head of Sales](https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda)
+- [Lisp can be Hard Real Time [pdf]](https://franz.com/services/conferences_seminars/jlugm00/conference/Talk14_takeuchi.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
