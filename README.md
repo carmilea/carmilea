@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Median webpage size was 2.3 MB in July](https://httparchive.org/reports/state-of-the-web)
 - [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Mission-Driven Engineers](https://news.ycombinator.com/item?id=32590497)
 - [Ask HN: How to get a job as a compiler engineer?](https://news.ycombinator.com/item?id=32590390)
 - [The Hub+Spoke Content Strategy of 100k+ follower B2B creators](https://dx.tips/hubspoke-strategy)
-- [Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)
-- [A Regular Expression in 30 Lines of C &lpar;2007&rpar;](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- [Seven years in the life of Hypergiants&#39; off-nets](https://dl.acm.org/doi/10.1145/3452296.3472928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
