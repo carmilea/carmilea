@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
+- [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
+- [Starlink is reducing your monthly service fee](https://news.ycombinator.com/item?id=32588703)
 - [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 - [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
-- [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
-- [OpenArt: “Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
-- [A Theoretical Justification &lpar;2021&rpar;](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
