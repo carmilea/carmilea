@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop saying 10x developer](https://earthly.dev/blog/stop-10x-developer/)
+- [Devbox: Instant, easy, and predictable shells and containers](https://github.com/jetpack-io/devbox)
+- [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
+- [1Password delisting forum posts critical of their new Electron based 1Password 8](https://1password.community/discussion/128419/version-8-in-the-apple-app-store/p6)
 - [Chez Scheme](https://github.com/cisco/ChezScheme)
 - [Show HN: MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
-- [Launch HN: Artemis &lpar;YC S22&rpar; – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
-- [LastPass: Notice of Security Incident](https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
