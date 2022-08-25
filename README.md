@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s chatbot replying that Dutch politican is a terrorist](https://twitter.com/MarietjeSchaake/status/1562515297688399873)
 - [Fix it, Fork it, Fuck off](https://boyter.org/posts/the-three-f-s-of-open-source/)
 - [Protonmail Recommended Browsers](https://proton.me/support/recommended-browsers)
 - [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Mission-Driven Engineers](https://news.ycombinator.com/item?id=32590497)
 - [Ask HN: How to get a job as a compiler engineer?](https://news.ycombinator.com/item?id=32590390)
-- [The Hub+Spoke Content Strategy of 100k+ follower B2B creators](https://dx.tips/hubspoke-strategy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
