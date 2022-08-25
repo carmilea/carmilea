@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Removal of Heroku Free Product Plans FAQ](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq)
-- [Heroku is phasing out free product plans](https://twitter.com/heroku/status/1562817050565054469)
-- [Dropping latency 90% by porting SpiceDB to WASM](https://authzed.com/blog/some-assembly-required/)
-- [Science must respect the dignity and rights of all humans](https://www.nature.com/articles/s41562-022-01443-2)
-- [Ask HN: CEO wants us to fill out NOT ANONYMOUS survey that only he can read](https://news.ycombinator.com/item?id=32594941)
+- [Kubernetes Failure Stories](https://k8s.af/)
+- [Contentedge &lpar;YC W17&rpar; is hiring engineers to build AI copywriting software](https://www.contentedge.com/?pg=jobs)
+- [DuckDuckGo Email](https://duckduckgo.com/email/)
+- [A Graph-Based Firebase](https://stopa.io/post/296)
+- [Creativity Requires Solitude](https://dkb.show/post/creativity-requires-solitude)
 <!-- BLOG-POST-LIST:END -->
 
 ---
