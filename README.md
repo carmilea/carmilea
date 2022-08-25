@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Hotz &lpar;Comma AI&rpar; Our First Patent Troll Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
+- [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+- [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
 - [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
-- [“Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
-- [search.marginalia.nu: A Theoretical Justification](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
-- [GeForce Now: A Review](https://whatever.scalzi.com/2022/08/24/geforce-now-a-review/)
+- [OpenArt: “Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
+- [A Theoretical Justification &lpar;2021&rpar;](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
