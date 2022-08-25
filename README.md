@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Artemis &lpar;YC S22&rpar; – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
+- [Running SingleStoreDB on Your Mac M1](https://www.singlestore.com/blog/running-singlestoredb-on-your-mac-m1)
+- [Move Fast or Die: Key Startup Lessons](https://blog.southparkcommons.com/move-fast-or-die/)
 - [We compiled a library of realistic engineering take-home tests and ranked them](https://www.trytapioca.com/library-of-assessments)
-- [Slackmoji has been sunset due to cease and desist](http://slackmoji.com)
-- [When Private Equity Takes over a Nursing Home](https://www.newyorker.com/news/dispatch/when-private-equity-takes-over-a-nursing-home)
-- [YaCy – your own search engine](https://yacy.net/)
-- [Oracle started as a CIA project &lpar;2014&rpar;](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238)
+- [AI and the Limits of Language](https://www.noemamag.com/ai-and-the-limits-of-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
