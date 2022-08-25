@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fall of Datacenter Software](https://www.sigarch.org/the-fall-of-datacenter-software/)
+- [The Evolution of Camera Phones, Visualized](https://simpleghar.com/the-evolution-of-camera-phones-visualized/)
 - [Meta’s chatbot replying that Dutch politican is a terrorist](https://twitter.com/MarietjeSchaake/status/1562515297688399873)
+- [Type of Barcodes and Their Usage](https://scanbot.io/blog/types-of-barcodes/)
 - [Fix it, Fork it, Fuck off](https://boyter.org/posts/the-three-f-s-of-open-source/)
-- [Protonmail Recommended Browsers](https://proton.me/support/recommended-browsers)
-- [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Mission-Driven Engineers](https://news.ycombinator.com/item?id=32590497)
-- [Ask HN: How to get a job as a compiler engineer?](https://news.ycombinator.com/item?id=32590390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
