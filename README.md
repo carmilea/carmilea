@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [I want to dive into how to make search engines](https://news.ycombinator.com/item?id=32593190)
 - [How to Make Flappy Bird with C++](https://terminalroot.com/how-to-make-flappy-bird-with-cpp/)
-- [Ask HN: Remote-Friendly for International Timezones?](https://news.ycombinator.com/item?id=32592584)
 - [Build Android apps without an Android SDK using PicoLisp](https://picolisp.com/wiki/?pilbox)
 - [Apple Collects the Least Amount of User Data Out of Major Tech Companies: Study](https://www.macrumors.com/2022/08/25/apple-least-data-major-tech-companies/)
+- [Zentail &lpar;YC S12&rpar; Is Hiring a Head of Sales](https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
