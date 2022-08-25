@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m an 18 year old developer. How do I become one of the best programmers ever?](https://news.ycombinator.com/item?id=32589714)
+- [A Regular Expression in 30 Lines of C](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- [Imagen: An AI system that creates photorealistic images from input text](https://imagen.research.google)
 - [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
 - [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
-- [Starlink is reducing your monthly service fee](https://news.ycombinator.com/item?id=32588703)
-- [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
-- [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
