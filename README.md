@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Failure Stories](https://k8s.af/)
-- [Contentedge &lpar;YC W17&rpar; is hiring engineers to build AI copywriting software](https://www.contentedge.com/?pg=jobs)
-- [DuckDuckGo Email](https://duckduckgo.com/email/)
-- [A Graph-Based Firebase](https://stopa.io/post/296)
-- [Creativity Requires Solitude](https://dkb.show/post/creativity-requires-solitude)
+- [We compiled a library of realistic engineering take-home tests and ranked them](https://www.trytapioca.com/library-of-assessments)
+- [Slackmoji has been sunset due to cease and desist](http://slackmoji.com)
+- [When Private Equity Takes over a Nursing Home](https://www.newyorker.com/news/dispatch/when-private-equity-takes-over-a-nursing-home)
+- [YaCy – your own search engine](https://yacy.net/)
+- [Oracle started as a CIA project &lpar;2014&rpar;](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
