@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Mission-Driven Engineers](https://news.ycombinator.com/item?id=32590497)
+- [Ask HN: How to get a job as a compiler engineer?](https://news.ycombinator.com/item?id=32590390)
+- [The Hub+Spoke Content Strategy of 100k+ follower B2B creators](https://dx.tips/hubspoke-strategy)
 - [Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)
 - [A Regular Expression in 30 Lines of C &lpar;2007&rpar;](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
-- [Imagen: An AI system that creates photorealistic images from input text](https://imagen.research.google)
-- [Poorly configured cloud technology makes 5G networks worryingly hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
-- [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
