@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Heroku alternatives with generous free tiers](https://news.ycombinator.com/item?id=32599398)
+- [Kuymak – Cross-platform shellcode runner](https://github.com/blue-devil/kuymak)
 - [Show HN: MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
 - [Largest Japanese Anime Database “Anime Taizen” Opens to the Public Today](https://www.crunchyroll.com/anime-news/2022/08/24-1/the-worlds-largest-japanese-anime-database-anime-taizen-opens-to-the-public-today)
 - [Launch HN: Artemis &lpar;YC S22&rpar; – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
-- [Running SingleStoreDB on Your Mac M1](https://www.singlestore.com/blog/running-singlestoredb-on-your-mac-m1)
-- [Show HN: New BucketRateLimiter Python package to rate limit requests to APIs](https://pypi.org/project/bucketratelimiter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
