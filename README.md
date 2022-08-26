@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Killed Nuclear Energy and How to Revive It](https://americanaffairsjournal.org/2022/05/who-killed-nuclear-energy-and-how-to-revive-it/)
+- [Psychedelic Drugs Take on Depression](https://www.nature.com/articles/d41586-022-02205-w)
 - [Use TouchID to Authenticate Sudo on macOS](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)
 - [Ask HN: Boring but important tech no one is working on](https://news.ycombinator.com/item?id=32611247)
-- [White House requires public access to all U.S.-funded research papers by 2025](https://www.science.org/content/article/white-house-requires-immediate-public-access-all-u-s--funded-research-papers-2025)
-- [Mouse embryos grown without eggs or sperm](https://www.nature.com/articles/d41586-022-02334-2)
-- [13 Months: The Kodak Calendar Experiment](https://theinternetsaysitstrue.com/2022/03/28/13-months-the-kodak-calendar-experiment/)
+- [Ghana Bans a Delta Boeing 767 &lpar;Yes, Just One&rpar;](https://onemileatatime.com/news/ghana-bans-delta-boeing-767/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
