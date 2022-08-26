@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19, B&rpar; Hiring Engineers Who Want to Own Product/Design](https://www.ashbyhq.com/careers?utm_source=hn)
+- [Personalized microbiome-driven effects of non-nutritive sweeteners](https://www.sciencedirect.com/science/article/pii/S0092867422009199)
 - [Unstripping Stripped Binaries](http://lock.cmpxchg8b.com/symbols.html)
 - [Why Is a British Baroness Drafting California Censorship Laws?](https://www.techdirt.com/2022/08/25/why-is-a-british-baroness-drafting-california-censorship-laws/)
 - [Mudge&#39;s redacted Twitter whistleblower disclosure [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
-- [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
-- [The Jupyter+Git problem is now solved](https://www.fast.ai/2022/08/25/jupyter-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
