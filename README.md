@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOE to Invest Up to $165M to Advance Domestic Geothermal Energy](https://www.energy.gov/articles/doe-invest-165-million-advance-domestic-geothermal-energy-deployment)
 - [Who Killed Nuclear Energy and How to Revive It](https://americanaffairsjournal.org/2022/05/who-killed-nuclear-energy-and-how-to-revive-it/)
 - [Psychedelic Drugs Take on Depression](https://www.nature.com/articles/d41586-022-02205-w)
 - [Use TouchID to Authenticate Sudo on macOS](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)
 - [Ask HN: Boring but important tech no one is working on](https://news.ycombinator.com/item?id=32611247)
-- [Ghana Bans a Delta Boeing 767 &lpar;Yes, Just One&rpar;](https://onemileatatime.com/news/ghana-bans-delta-boeing-767/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
