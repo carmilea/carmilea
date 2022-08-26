@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Chip Startups?](https://news.ycombinator.com/item?id=32610780)
+- [Use TouchID to Authenticate Sudo on macOS](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)
+- [Ask HN: Boring but important tech no one is working on](https://news.ycombinator.com/item?id=32611247)
+- [White House requires public access to all U.S.-funded research papers by 2025](https://www.science.org/content/article/white-house-requires-immediate-public-access-all-u-s--funded-research-papers-2025)
 - [Mouse embryos grown without eggs or sperm](https://www.nature.com/articles/d41586-022-02334-2)
 - [13 Months: The Kodak Calendar Experiment](https://theinternetsaysitstrue.com/2022/03/28/13-months-the-kodak-calendar-experiment/)
-- [Finnish as a World Language?](https://www.hagen-schmidt.de/suomi/worldlanguage.html)
-- [Unifying fold left and fold right in Prolog](https://gopiandcode.uk/logs/log-unifying-folds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
