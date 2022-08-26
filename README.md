@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cancelling student debt is essentially printing money](https://mleverything.substack.com/p/cancelling-student-debt-is-essentially)
+- [Unifying fold left and fold right in Prolog](https://gopiandcode.uk/logs/log-unifying-folds.html)
+- [Engineer distributes resume via IPv6 traceroute](https://cv6.poinsignon.org/)
+- [The Signal State – Modular Synth Logic Puzzle Game](https://signalstate.io/)
+- [Depending in Common Lisp](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
 - [Is Heroku’s DNS down again?](https://news.ycombinator.com/item?id=32608734)
-- [Things I Won&#39;t Work With: Azidoazide Azides, More or Less](https://www.science.org/content/blog-post/things-i-won-t-work-azidoazide-azides-more-or-less)
-- [Americans Will Soon Be Able to Renew Passports Online](https://www.cntraveler.com/story/americans-will-soon-be-able-to-renew-passports-online)
-- [Hooking Go from Rust – Hitchhiker’s Guide to the Go-Laxy](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
