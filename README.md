@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cancelling student debt is essentially printing money](https://mleverything.substack.com/p/cancelling-student-debt-is-essentially)
+- [Is Heroku’s DNS down again?](https://news.ycombinator.com/item?id=32608734)
+- [Things I Won&#39;t Work With: Azidoazide Azides, More or Less](https://www.science.org/content/blog-post/things-i-won-t-work-azidoazide-azides-more-or-less)
+- [Americans Will Soon Be Able to Renew Passports Online](https://www.cntraveler.com/story/americans-will-soon-be-able-to-renew-passports-online)
 - [Hooking Go from Rust – Hitchhiker’s Guide to the Go-Laxy](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/)
-- [Hetzner bans running Ethereum PoS nodes](https://old.reddit.com/r/hetzner/comments/wucxs4/is_it_allowed_to_run_a_crypto_block_chain_node/)
-- [Why No Roman Industrial Revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
-- [MIT scientists discover neurons that light up whenever we see images of food](https://news.mit.edu/2022/food-neurons-visual-cortex-0825)
-- [Poll: Contractors, what is your hourly rate](https://news.ycombinator.com/item?id=32606904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
