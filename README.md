@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Contractors, what is your hourly rate?](https://news.ycombinator.com/item?id=32606348)
+- [Amazon Reportedly Makes Offer to Acquire Electronic Arts](https://www.thegamer.com/amazon-reportedly-makes-offer-acquire-electronic-arts/)
+- [Amazon set to buy Electronic Arts](https://ftw.usatoday.com/2022/08/amazon-buy-electronic-arts)
+- [Tell HN: Spammed by a Hacker News Enthusiast](https://news.ycombinator.com/item?id=32605784)
 - [The Next Mainstream Programming Language: A Game Developer’s Perspective &lpar;2005&rpar; [pdf]](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf)
-- [Why Xen Wasn&#39;t Hit by RETBleed on Intel CPUs](https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/)
-- [Oberon: The tiniest but richest FOSS HLL and OS you&#39;ve never heard of](http://ignorethecode.net/blog/2009/04/22/oberon/)
-- [Espanso Cross-Platform Text Expander](https://espanso.org/)
-- [Classic HN Links](https://posobin.com/hn_classics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
