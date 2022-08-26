@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas requires ‘In God We Trust’ signs in schools. A man wants some in Arabic](https://www.washingtonpost.com/education/2022/08/25/texas-arabic-in-god-we-trust/)
+- [In Germany digital signage to be reprogrammed so that it turns off after 10pm](https://www.avinteractive.com/news/digital-signage/german-display-ban-prompts-confusion-about-exceptions-25-08-2022/)
 - [Holochain: End-to-end open source P2P app framework](https://www.holochain.org/)
 - [Unsigned comparisons in AVX2/SSE: a quick note](https://outerproduct.net/trivial/2022-08-25_unsigned.html)
-- [What are Magnus Carlsen&#39;s chances of reaching 2900?](https://new.chess24.com/wall/news/what-are-magnus-carlsen-s-chances-of-reaching-2900)
-- [Ashby &lpar;YC W19, B&rpar; Hiring Engineers Who Want to Own Product/Design](https://www.ashbyhq.com/careers?utm_source=hn)
-- [Remote scan of student’s room before test violated his privacy, judge rules](https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html)
+- [A toolbox for a secure software supply chain](https://blog.chainguard.dev/a-toolbox-for-a-secure-software-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
