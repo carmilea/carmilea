@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unstripping Stripped Binaries](http://lock.cmpxchg8b.com/symbols.html)
 - [Why Is a British Baroness Drafting California Censorship Laws?](https://www.techdirt.com/2022/08/25/why-is-a-british-baroness-drafting-california-censorship-laws/)
 - [Mudge&#39;s redacted Twitter whistleblower disclosure [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
 - [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
 - [The Jupyter+Git problem is now solved](https://www.fast.ai/2022/08/25/jupyter-git/)
-- [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
