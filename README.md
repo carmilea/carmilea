@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Holochain: End-to-end open source P2P app framework](https://www.holochain.org/)
+- [Unsigned comparisons in AVX2/SSE: a quick note](https://outerproduct.net/trivial/2022-08-25_unsigned.html)
+- [What are Magnus Carlsen&#39;s chances of reaching 2900?](https://new.chess24.com/wall/news/what-are-magnus-carlsen-s-chances-of-reaching-2900)
 - [Ashby &lpar;YC W19, B&rpar; Hiring Engineers Who Want to Own Product/Design](https://www.ashbyhq.com/careers?utm_source=hn)
-- [Personalized microbiome-driven effects of non-nutritive sweeteners](https://www.sciencedirect.com/science/article/pii/S0092867422009199)
-- [Unstripping Stripped Binaries](http://lock.cmpxchg8b.com/symbols.html)
-- [Why Is a British Baroness Drafting California Censorship Laws?](https://www.techdirt.com/2022/08/25/why-is-a-british-baroness-drafting-california-censorship-laws/)
-- [Mudge&#39;s redacted Twitter whistleblower disclosure [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
+- [Remote scan of student’s room before test violated his privacy, judge rules](https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
