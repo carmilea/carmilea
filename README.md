@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hooking Go from Rust – Hitchhiker’s Guide to the Go-Laxy](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/)
+- [Hetzner bans running Ethereum PoS nodes](https://old.reddit.com/r/hetzner/comments/wucxs4/is_it_allowed_to_run_a_crypto_block_chain_node/)
 - [Why No Roman Industrial Revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
 - [MIT scientists discover neurons that light up whenever we see images of food](https://news.mit.edu/2022/food-neurons-visual-cortex-0825)
 - [Poll: Contractors, what is your hourly rate](https://news.ycombinator.com/item?id=32606904)
-- [Amid Chip Shortages, Companies Bet on RISC-V](https://www.allaboutcircuits.com/news/amid-chip-shortages-companies-bet-on-risc-v/)
-- [GitHub-Next](https://githubnext.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
