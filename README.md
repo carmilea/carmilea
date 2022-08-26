@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why No Roman Industrial Revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
+- [MIT scientists discover neurons that light up whenever we see images of food](https://news.mit.edu/2022/food-neurons-visual-cortex-0825)
 - [Poll: Contractors, what is your hourly rate](https://news.ycombinator.com/item?id=32606904)
 - [Amid Chip Shortages, Companies Bet on RISC-V](https://www.allaboutcircuits.com/news/amid-chip-shortages-companies-bet-on-risc-v/)
 - [GitHub-Next](https://githubnext.com/)
-- [How discord stores billions of messages &lpar;2017&rpar;](https://discord.com/blog/how-discord-stores-billions-of-messages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
