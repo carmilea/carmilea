@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Chip Startups?](https://news.ycombinator.com/item?id=32610780)
+- [Mouse embryos grown without eggs or sperm](https://www.nature.com/articles/d41586-022-02334-2)
+- [13 Months: The Kodak Calendar Experiment](https://theinternetsaysitstrue.com/2022/03/28/13-months-the-kodak-calendar-experiment/)
+- [Finnish as a World Language?](https://www.hagen-schmidt.de/suomi/worldlanguage.html)
 - [Unifying fold left and fold right in Prolog](https://gopiandcode.uk/logs/log-unifying-folds.html)
-- [Engineer distributes resume via IPv6 traceroute](https://cv6.poinsignon.org/)
-- [The Signal State – Modular Synth Logic Puzzle Game](https://signalstate.io/)
-- [Depending in Common Lisp](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
-- [Is Heroku’s DNS down again?](https://news.ycombinator.com/item?id=32608734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
