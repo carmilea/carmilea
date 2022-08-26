@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Devbox: Instant, easy, and predictable shells and containers](https://github.com/jetpack-io/devbox)
+- [SpaceX and T-Mobile to Connect Starlink Satellites to Cellphones in Remote U.S.](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
+- [SpaceX + T-Mobile Announcement: Increasing Connectivity from Space](https://twitter.com/SpaceX/status/1562954090996346880)
+- [US Government to make all research it funds open access on publication](https://arstechnica.com/science/2022/08/us-government-to-make-all-research-it-funds-open-access-on-publication/)
+- [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
 - [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
-- [1Password delisting forum posts critical of their new Electron based 1Password 8](https://1password.community/discussion/128419/version-8-in-the-apple-app-store/p6)
-- [Chez Scheme](https://github.com/cisco/ChezScheme)
-- [Show HN: MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
