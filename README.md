@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jonathan Blow on Societal Collapse &lpar;2019&rpar;](https://gist.github.com/clumma/4c5016f808adde034a575f1dd7d401a8)
+- [Why Slack’s free plan change is causing an exodus](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
 - [The cursed computer iceberg meme &lpar;2021&rpar;](https://suricrasia.online/iceberg/)
 - [Hyoka](https://github.com/olamide203/hyoka)
-- [DOE to Invest Up to $165M to Advance Domestic Geothermal Energy](https://www.energy.gov/articles/doe-invest-165-million-advance-domestic-geothermal-energy-deployment)
-- [Who killed nuclear energy and how to revive it](https://americanaffairsjournal.org/2022/05/who-killed-nuclear-energy-and-how-to-revive-it/)
-- [Psychedelic drugs take on depression](https://www.nature.com/articles/d41586-022-02205-w)
+- [DOE to invest up to $165M to advance domestic geothermal energy](https://www.energy.gov/articles/doe-invest-165-million-advance-domestic-geothermal-energy-deployment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
