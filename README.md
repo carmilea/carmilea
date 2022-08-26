@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Contractors, what is your hourly rate?](https://news.ycombinator.com/item?id=32606348)
-- [Amazon Reportedly Makes Offer to Acquire Electronic Arts](https://www.thegamer.com/amazon-reportedly-makes-offer-acquire-electronic-arts/)
-- [Amazon set to buy Electronic Arts](https://ftw.usatoday.com/2022/08/amazon-buy-electronic-arts)
-- [Tell HN: Spammed by a Hacker News Enthusiast](https://news.ycombinator.com/item?id=32605784)
-- [The Next Mainstream Programming Language: A Game Developer’s Perspective &lpar;2005&rpar; [pdf]](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf)
+- [Why No Roman Industrial Revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
+- [Poll: Contractors, what is your hourly rate](https://news.ycombinator.com/item?id=32606904)
+- [Amid Chip Shortages, Companies Bet on RISC-V](https://www.allaboutcircuits.com/news/amid-chip-shortages-companies-bet-on-risc-v/)
+- [GitHub-Next](https://githubnext.com/)
+- [How discord stores billions of messages &lpar;2017&rpar;](https://discord.com/blog/how-discord-stores-billions-of-messages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
