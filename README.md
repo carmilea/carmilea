@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX and T-Mobile to Connect Starlink Satellites to Cellphones in Remote U.S.](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
-- [SpaceX + T-Mobile Announcement: Increasing Connectivity from Space](https://twitter.com/SpaceX/status/1562954090996346880)
-- [US Government to make all research it funds open access on publication](https://arstechnica.com/science/2022/08/us-government-to-make-all-research-it-funds-open-access-on-publication/)
+- [Why Is a British Baroness Drafting California Censorship Laws?](https://www.techdirt.com/2022/08/25/why-is-a-british-baroness-drafting-california-censorship-laws/)
+- [Mudge&#39;s redacted Twitter whistleblower disclosure [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
+- [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
+- [The Jupyter+Git problem is now solved](https://www.fast.ai/2022/08/25/jupyter-git/)
 - [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
-- [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
