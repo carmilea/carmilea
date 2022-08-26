@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Next Mainstream Programming Language: A Game Developer’s Perspective &lpar;2005&rpar; [pdf]](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf)
+- [Why Xen Wasn&#39;t Hit by RETBleed on Intel CPUs](https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/)
 - [Oberon: The tiniest but richest FOSS HLL and OS you&#39;ve never heard of](http://ignorethecode.net/blog/2009/04/22/oberon/)
 - [Espanso Cross-Platform Text Expander](https://espanso.org/)
-- [Texas requires ‘In God We Trust’ signs in schools. A man wants some in Arabic](https://www.washingtonpost.com/education/2022/08/25/texas-arabic-in-god-we-trust/)
 - [Classic HN Links](https://posobin.com/hn_classics/)
-- [In Germany digital signage to be reprogrammed so that it turns off after 10pm](https://www.avinteractive.com/news/digital-signage/german-display-ban-prompts-confusion-about-exceptions-25-08-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
