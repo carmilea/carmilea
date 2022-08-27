@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Heating Cost Comparison](https://www.efficiencymaine.com/at-home/heating-cost-comparison/)
+- [The MKULTRA Evolutions](https://im1776.com/the-mkultra-evolutions/)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [Built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
 - [Volkswriter Deluxe – One of the first word processors for the IBM PC](https://computeradsfromthepast.substack.com/p/volkswriter-deluxe)
-- [Ask HN: How can I start a business to generate electricity?](https://news.ycombinator.com/item?id=32622949)
-- [Some Authy 2FA accounts were compromised in Twilio data breach](https://www.engadget.com/twilio-authy-data-breach-202314313.html)
-- [Chrome&#39;s Manifest v3 is lacking features](https://bugs.chromium.org/p/chromium/issues/detail?id=1160302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
