@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new Linux handheld game console based on powerful ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
+- [Show HN: The Programming Language Database](https://github.com/breck7/pldb)
 - [Dominion threatens to abandon 2.6GW offshore windfarm over performance guarantee](https://www.utilitydive.com/news/dominion-offshore-wind-performance-standard/630397/)
 - [Apple and Globalstar Rumored to Announce Satellite Connectivity for iPhone 14](https://www.macrumors.com/2022/08/26/apple-globalstar-iphone-14-satellite-rumor/)
 - [We don&#39;t know how the universe began, and we will never know](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html)
-- [The end of Moore&#39;s Law forced YouTube to make its own video chip](https://www.techspot.com/news/95774-end-moore-law-forced-youtube-make-own-video.html)
-- [What to read to understand how economists think](https://www.economist.com/the-economist-reads/2022/08/09/what-to-read-to-understand-how-economists-think)
 <!-- BLOG-POST-LIST:END -->
 
 ---
