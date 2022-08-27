@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who acquires big &lpar;13,000 lines&rpar; Mac apps?](https://news.ycombinator.com/item?id=32621929)
+- [At $249 per day, prison stays leave ex-inmates deep in debt](https://apnews.com/article/crime-prisons-lawsuits-connecticut-074a8f643766e155df58d2c8fbc7214c)
+- [American Chestnut tree discovery in Delaware wows conservationists](https://www.delawareonline.com/story/news/2022/08/26/american-chestnut-tree-discovery-in-delaware-wows-conservationists/65414649007/)
 - [How the National Environmental Policy Act &lpar;NEPA&rpar; Works](https://constructionphysics.substack.com/p/how-nepa-works)
-- [Firezone &lpar;YC W22&rpar; is building a open-source corporate VPN &lpar;remote, US&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
-- [Long Covid, Cognitive Impairment, and the Stalled Decline in Disability Rates](https://www.federalreserve.gov/econres/notes/feds-notes/long-covid-cognitive-impairment-and-the-stalled-decline-in-disability-rates-20220805.htm)
-- [Intel Enters a New Era of Chiplets That Will Change Everything](https://www.servethehome.com/intel-enters-a-new-era-of-chiplets-that-will-change-everything-34/)
-- [A new Linux handheld game console based on ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
+- [The Student Loan Giveaway Is Much Bigger Than You Think](https://marginalrevolution.com/marginalrevolution/2022/08/the-student-loan-giveaway-its-much-bigger-than-you-think.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
