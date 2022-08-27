@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The utterly delightful site dedicated to classifying plastic bread tags](https://www.inputmag.com/culture/horg-plastic-bread-tags-occlupanids-classification-site)
-- [Tool beeps every time data is sent to Google [spoiler: “constant” beeping]](https://twitter.com/bert_hu_bert/status/1561466204602220544)
-- [UK energy prices at 50 year high and expected to triple](https://www.carbonbrief.org/analysis-why-uk-energy-bills-are-soaring-to-record-highs-and-how-to-cut-them/)
-- [JWST: Identification of carbon dioxide in an exoplanet atmosphere](https://arxiv.org/abs/2208.11692)
-- [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
+- [The end of Moore&#39;s Law forced YouTube to make its own video chip](https://www.techspot.com/news/95774-end-moore-law-forced-youtube-make-own-video.html)
+- [What to read to understand how economists think](https://www.economist.com/the-economist-reads/2022/08/09/what-to-read-to-understand-how-economists-think)
+- [Day ahead electricity prices for EU](https://euenergy.live/)
+- [Ask HN: How can I come to peace with the years I wasted on pointless things?](https://news.ycombinator.com/item?id=32618163)
+- [Robert&#39;s Rules of Order](https://www.gutenberg.org/files/9097/9097.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
