@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jonathan Blow on Societal Collapse &lpar;2019&rpar;](https://gist.github.com/clumma/4c5016f808adde034a575f1dd7d401a8)
-- [Why Slack’s free plan change is causing an exodus](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
-- [The cursed computer iceberg meme &lpar;2021&rpar;](https://suricrasia.online/iceberg/)
-- [Hyoka](https://github.com/olamide203/hyoka)
-- [DOE to invest up to $165M to advance domestic geothermal energy](https://www.energy.gov/articles/doe-invest-165-million-advance-domestic-geothermal-energy-deployment)
+- [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
+- [Ushering Out Strlcpy&lpar;&rpar;](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
+- [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
+- [Meta Is Building an AI to Fact-Check Wikipedia–All 6.5M Articles](https://singularityhub.com/2022/08/26/meta-is-building-an-ai-to-fact-check-wikipedia-all-6-5-million-articles/)
+- [Tactical Combat Umbrella](https://thepreparednessexperience.com/tactical-umbrellas-self-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
