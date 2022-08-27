@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The utterly delightful site dedicated to classifying plastic bread tags](https://www.inputmag.com/culture/horg-plastic-bread-tags-occlupanids-classification-site)
+- [Tool beeps every time data is sent to Google [spoiler: “constant” beeping]](https://twitter.com/bert_hu_bert/status/1561466204602220544)
+- [UK energy prices at 50 year high and expected to triple](https://www.carbonbrief.org/analysis-why-uk-energy-bills-are-soaring-to-record-highs-and-how-to-cut-them/)
 - [JWST: Identification of carbon dioxide in an exoplanet atmosphere](https://arxiv.org/abs/2208.11692)
-- [What’s going on with security at PayPal?](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
-- [3-Lisp: an infinite tower of meta-circular interpreters](http://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
-- [Why are there so few economies of scale in construction? Part I](https://constructionphysics.substack.com/p/why-are-there-so-few-economies-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
