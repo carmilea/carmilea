@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the National Environmental Policy Act &lpar;NEPA&rpar; Works](https://constructionphysics.substack.com/p/how-nepa-works)
 - [Firezone &lpar;YC W22&rpar; is building a open-source corporate VPN &lpar;remote, US&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
 - [Long Covid, Cognitive Impairment, and the Stalled Decline in Disability Rates](https://www.federalreserve.gov/econres/notes/feds-notes/long-covid-cognitive-impairment-and-the-stalled-decline-in-disability-rates-20220805.htm)
 - [Intel Enters a New Era of Chiplets That Will Change Everything](https://www.servethehome.com/intel-enters-a-new-era-of-chiplets-that-will-change-everything-34/)
 - [A new Linux handheld game console based on ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
-- [Show HN: A Programming Language Database](https://github.com/breck7/pldb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
