@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [What’s going on with security at PayPal?](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
-- [The Anomaly of Cheap Complexity](https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/)
 - [3-Lisp: an infinite tower of meta-circular interpreters](http://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
 - [Why are there so few economies of scale in construction? Part I](https://constructionphysics.substack.com/p/why-are-there-so-few-economies-of)
+- [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
 <!-- BLOG-POST-LIST:END -->
 
 ---
