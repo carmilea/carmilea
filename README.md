@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku to discontinue free product plans and delete inactive accounts](https://blog.heroku.com/next-chapter)
 - [Home Heating Cost Comparison](https://www.efficiencymaine.com/at-home/heating-cost-comparison/)
 - [The MKULTRA Evolutions](https://im1776.com/the-mkultra-evolutions/)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 - [Built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
-- [Volkswriter Deluxe – One of the first word processors for the IBM PC](https://computeradsfromthepast.substack.com/p/volkswriter-deluxe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
