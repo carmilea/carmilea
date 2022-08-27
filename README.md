@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s going on with security at PayPal?](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
 - [3-Lisp: an infinite tower of meta-circular interpreters](http://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
 - [Why are there so few economies of scale in construction? Part I](https://constructionphysics.substack.com/p/why-are-there-so-few-economies-of)
 - [Ushering out strlcpy&lpar;&rpar;](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
+- [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
