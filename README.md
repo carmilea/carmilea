@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A new Linux handheld game console based on powerful ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
-- [Show HN: The Programming Language Database](https://github.com/breck7/pldb)
-- [Dominion threatens to abandon 2.6GW offshore windfarm over performance guarantee](https://www.utilitydive.com/news/dominion-offshore-wind-performance-standard/630397/)
-- [Apple and Globalstar Rumored to Announce Satellite Connectivity for iPhone 14](https://www.macrumors.com/2022/08/26/apple-globalstar-iphone-14-satellite-rumor/)
-- [We don&#39;t know how the universe began, and we will never know](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html)
+- [Firezone &lpar;YC W22&rpar; is building a open-source corporate VPN &lpar;remote, US&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
+- [Long Covid, Cognitive Impairment, and the Stalled Decline in Disability Rates](https://www.federalreserve.gov/econres/notes/feds-notes/long-covid-cognitive-impairment-and-the-stalled-decline-in-disability-rates-20220805.htm)
+- [Intel Enters a New Era of Chiplets That Will Change Everything](https://www.servethehome.com/intel-enters-a-new-era-of-chiplets-that-will-change-everything-34/)
+- [A new Linux handheld game console based on ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
+- [Show HN: A Programming Language Database](https://github.com/breck7/pldb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
