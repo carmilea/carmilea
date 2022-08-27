@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Globalstar Rumored to Announce Satellite Connectivity for iPhone 14](https://www.macrumors.com/2022/08/26/apple-globalstar-iphone-14-satellite-rumor/)
+- [We don&#39;t know how the universe began, and we will never know](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html)
 - [The end of Moore&#39;s Law forced YouTube to make its own video chip](https://www.techspot.com/news/95774-end-moore-law-forced-youtube-make-own-video.html)
 - [What to read to understand how economists think](https://www.economist.com/the-economist-reads/2022/08/09/what-to-read-to-understand-how-economists-think)
 - [Day ahead electricity prices for EU](https://euenergy.live/)
-- [Ask HN: How can I come to peace with the years I wasted on pointless things?](https://news.ycombinator.com/item?id=32618163)
-- [Robert&#39;s Rules of Order](https://www.gutenberg.org/files/9097/9097.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
