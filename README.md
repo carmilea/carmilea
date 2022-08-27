@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who acquires big &lpar;13,000 lines&rpar; Mac apps?](https://news.ycombinator.com/item?id=32621929)
-- [At $249 per day, prison stays leave ex-inmates deep in debt](https://apnews.com/article/crime-prisons-lawsuits-connecticut-074a8f643766e155df58d2c8fbc7214c)
-- [American Chestnut tree discovery in Delaware wows conservationists](https://www.delawareonline.com/story/news/2022/08/26/american-chestnut-tree-discovery-in-delaware-wows-conservationists/65414649007/)
-- [How the National Environmental Policy Act &lpar;NEPA&rpar; Works](https://constructionphysics.substack.com/p/how-nepa-works)
-- [Interlisp Online](https://online.interlisp.org/user/login)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [Volkswriter Deluxe – One of the first word processors for the IBM PC](https://computeradsfromthepast.substack.com/p/volkswriter-deluxe)
+- [Ask HN: How can I start a business to generate electricity?](https://news.ycombinator.com/item?id=32622949)
+- [Some Authy 2FA accounts were compromised in Twilio data breach](https://www.engadget.com/twilio-authy-data-breach-202314313.html)
+- [Chrome&#39;s Manifest v3 is lacking features](https://bugs.chromium.org/p/chromium/issues/detail?id=1160302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
