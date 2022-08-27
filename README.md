@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s Going on with Security at PayPal?](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
+- [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
 - [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
 - [Ushering Out Strlcpy&lpar;&rpar;](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
 - [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
-- [Meta Is Building an AI to Fact-Check Wikipedia–All 6.5M Articles](https://singularityhub.com/2022/08/26/meta-is-building-an-ai-to-fact-check-wikipedia-all-6-5-million-articles/)
-- [Tactical Combat Umbrella](https://thepreparednessexperience.com/tactical-umbrellas-self-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
