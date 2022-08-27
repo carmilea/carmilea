@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gen Z and the rise of influencer culture](https://www.highervisibility.com/blog/gen-z-and-the-rise-of-influencer-culture/)
 - [What’s Going on with Security at PayPal?](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
-- [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
-- [Ushering Out Strlcpy&lpar;&rpar;](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
-- [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
+- [The Anomaly of Cheap Complexity](https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/)
+- [3-Lisp: an infinite tower of meta-circular interpreters](http://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
