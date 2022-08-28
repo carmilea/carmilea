@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Are All Nerds: The Literary Works of Neal Stephenson](https://bastian.rieck.me/blog/posts/2022/neal_stephenson/)
+- [Segment Found Product Market Fit](https://bip.so/@TIL_/How-Segment-Found-PMF-bDaLg)
+- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird%20monitor%20bugs)
+- [An Introduction to PipeWire](https://bootlin.com/blog/an-introduction-to-pipewire/)
 - [The fight against drought in California has a new tool: The restrictor](https://lite.cnn.com/en/article/h_cd89eccf059599965e2244435012cde5)
-- [Hammer and Tickle](https://www.prospectmagazine.co.uk/magazine/communist-jokes)
-- [Common Lisp Wiki: Naming Conventions](https://www.cliki.net/naming+conventions)
-- [Fissure: The RF and Reverse Engineering Framework for Everyone](https://github.com/ainfosec/FISSURE)
-- [Web3 Domain Name Service Could Lose Web Address-Owner Who Can Renew Is in Prison](https://www.coindesk.com/tech/2022/08/26/web3-domain-name-service-could-lose-its-web-address-because-programmer-who-can-renew-it-sits-in-jail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
