@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pal Colour Recovery from black-and-white &#39;telerecordings&#39;](http://www.techmind.org/colrec/)
 - [Tool visualizes any JSON data](https://jsonvisio.com)
 - [“Is there a heuristic we might use to identify and flag questionable papers?”](https://statmodeling.stat.columbia.edu/2022/08/26/is-there-any-heuristic-we-might-use-to-identify-wholly-inappropriate-stats-and-flag-questionable-papers/)
 - [I like the Odin programming language](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/)
-- [Difficulties of providing a crypto payment system on your website](https://cryptogif.info/project2/docs.php)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 <!-- BLOG-POST-LIST:END -->
 
