@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Quit Using SwiftUI](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html)
+- [Ask HN: Should grapefruit juice have warning labels for medicine interactions?](https://news.ycombinator.com/item?id=32630318)
 - [We Are All Nerds: The Literary Works of Neal Stephenson](https://bastian.rieck.me/blog/posts/2022/neal_stephenson/)
 - [Segment Found Product Market Fit](https://bip.so/@TIL_/How-Segment-Found-PMF-bDaLg)
 - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird%20monitor%20bugs)
-- [An Introduction to PipeWire](https://bootlin.com/blog/an-introduction-to-pipewire/)
-- [The fight against drought in California has a new tool: The restrictor](https://lite.cnn.com/en/article/h_cd89eccf059599965e2244435012cde5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
