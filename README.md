@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airline Wizz Air is charging £10 “System Surcharge” when using ad blocker &lpar;2020&rpar;](https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/)
+- [Denver Startup Week Is Coming Up in September](https://www.denverstartupweek.org/)
 - [Could long Covid be linked to herpes viruses? Early data offer a hint](https://www.nature.com/articles/d41586-022-02296-5)
 - [Presentation: Four programming languages from forty years ago &lpar;2018&rpar;](https://fsharpforfunandprofit.com/fourfromforty/)
 - [Stable Diffusion Is the Most Important AI Art Model Ever](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
-- [Blood for Oil: The Quest for Fuel in World War Ⅱ &lpar;1993&rpar;](http://www.eiaonline.com/history/bloodforoil.htm)
-- [Wren is a small, fast, class-based concurrent scripting language](https://wren.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
