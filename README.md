@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [A year of RISC-V adventures: embracing chaos in your software journey [video]](https://fosdem.org/2022/schedule/event/riscvadventures/)
+- [Why are D-sharp and E-flat considered to be two different notes?](https://www.ethanhein.com/wp/2022/why-are-d-sharp-and-e-flat-considered-to-be-two-different-notes/)
 - [Valeriepieris Circle](https://en.wikipedia.org/wiki/Valeriepieris_circle)
-- [Relax for the same result &lpar;2015&rpar;](https://sive.rs/relax)
-- [D.C.-area startup wants to solve the public bathroom problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
-- [Samba on Linux the Easy Way](https://glovesoff.substack.com/p/samba-on-linux-the-easy-way)
-- [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
+- [Derinkuyu: Mysterious underground city in Turkey found in man’s basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
