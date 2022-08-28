@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could long Covid be linked to herpes viruses? Early data offer a hint](https://www.nature.com/articles/d41586-022-02296-5)
+- [Presentation: Four programming languages from forty years ago &lpar;2018&rpar;](https://fsharpforfunandprofit.com/fourfromforty/)
+- [Stable Diffusion Is the Most Important AI Art Model Ever](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
+- [Blood for Oil: The Quest for Fuel in World War Ⅱ &lpar;1993&rpar;](http://www.eiaonline.com/history/bloodforoil.htm)
 - [Wren is a small, fast, class-based concurrent scripting language](https://wren.io)
-- [Austrian ISPs Block Cloudflare IP addresses after apparent court order](http://netzsperre.liwest.at/)
-- [Open Circuits – No Starch Press [pdf]](https://nostarch.com/download/OpenCircuits_Chapter1.pdf)
-- [An Intuition for Lisp Syntax](https://stopa.io/post/265)
-- [Water Wizard of Oregon – Permaculture Water Systems of the Seven Seeds Farm](https://yewtu.be/watch?v=BuYGS5pLRZg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
