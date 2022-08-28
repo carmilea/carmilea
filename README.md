@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tool visualizes any JSON data](https://jsonvisio.com)
+- [“Is there a heuristic we might use to identify and flag questionable papers?”](https://statmodeling.stat.columbia.edu/2022/08/26/is-there-any-heuristic-we-might-use-to-identify-wholly-inappropriate-stats-and-flag-questionable-papers/)
 - [I like the Odin programming language](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/)
 - [Difficulties of providing a crypto payment system on your website](https://cryptogif.info/project2/docs.php)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- [A year of RISC-V adventures: embracing chaos in your software journey [video]](https://fosdem.org/2022/schedule/event/riscvadventures/)
-- [Why are D-sharp and E-flat considered to be two different notes?](https://www.ethanhein.com/wp/2022/why-are-d-sharp-and-e-flat-considered-to-be-two-different-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
