@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Austrian ISPs Block Cloudflare IP addresses after apparent court order](http://netzsperre.liwest.at/)
+- [Open Circuits – No Starch Press [pdf]](https://nostarch.com/download/OpenCircuits_Chapter1.pdf)
+- [An Intuition for Lisp Syntax](https://stopa.io/post/265)
+- [Water Wizard of Oregon – Permaculture Water Systems of the Seven Seeds Farm](https://yewtu.be/watch?v=BuYGS5pLRZg)
 - [I Quit Using SwiftUI](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html)
-- [Ask HN: Should grapefruit juice have warning labels for medicine interactions?](https://news.ycombinator.com/item?id=32630318)
-- [We Are All Nerds: The Literary Works of Neal Stephenson](https://bastian.rieck.me/blog/posts/2022/neal_stephenson/)
-- [Segment Found Product Market Fit](https://bip.so/@TIL_/How-Segment-Found-PMF-bDaLg)
-- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird%20monitor%20bugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
