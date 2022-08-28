@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relax for the Same Result](https://sive.rs/relax)
-- [Washington D.C.-Area Startup Wants to Solve the Public Bathroom Problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
+- [Relax for the same result &lpar;2015&rpar;](https://sive.rs/relax)
+- [D.C.-area startup wants to solve the public bathroom problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
 - [Samba on Linux the Easy Way](https://glovesoff.substack.com/p/samba-on-linux-the-easy-way)
 - [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
-- [Acorn: A lightweight PaaS for Kubernertes, from Rancher founders](https://acorn.io/)
+- [Acorn: A simple application deployment framework for Kubernetes](https://acorn.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
