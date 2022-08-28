@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wren is a small, fast, class-based concurrent scripting language](https://wren.io)
 - [Austrian ISPs Block Cloudflare IP addresses after apparent court order](http://netzsperre.liwest.at/)
 - [Open Circuits – No Starch Press [pdf]](https://nostarch.com/download/OpenCircuits_Chapter1.pdf)
 - [An Intuition for Lisp Syntax](https://stopa.io/post/265)
 - [Water Wizard of Oregon – Permaculture Water Systems of the Seven Seeds Farm](https://yewtu.be/watch?v=BuYGS5pLRZg)
-- [I Quit Using SwiftUI](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
