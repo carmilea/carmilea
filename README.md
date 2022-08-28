@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
+- [Tell HN: Most DisplayPort cables aren&#39;t sold with correct information](https://news.ycombinator.com/item?id=32627484)
+- [GitHub for English Teachers](https://blog.jonudell.net/2022/08/27/github-for-english-teachers/)
 - [Jack Dorsey says his biggest regret is Twitter became a company](https://www.reuters.com/business/media-telecom/jack-dorsey-says-he-believes-twitter-should-not-be-owned-by-state-company-2022-08-25/)
 - [Pal Colour Recovery from black-and-white &#39;telerecordings&#39;](http://www.techmind.org/colrec/)
-- [Tool visualizes any JSON data](https://jsonvisio.com)
-- [“Is there a heuristic we might use to identify and flag questionable papers?”](https://statmodeling.stat.columbia.edu/2022/08/26/is-there-any-heuristic-we-might-use-to-identify-wholly-inappropriate-stats-and-flag-questionable-papers/)
-- [I like the Odin programming language](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
