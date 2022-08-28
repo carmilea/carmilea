@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The fight against drought in California has a new tool: The restrictor](https://lite.cnn.com/en/article/h_cd89eccf059599965e2244435012cde5)
+- [Hammer and Tickle](https://www.prospectmagazine.co.uk/magazine/communist-jokes)
 - [Common Lisp Wiki: Naming Conventions](https://www.cliki.net/naming+conventions)
 - [Fissure: The RF and Reverse Engineering Framework for Everyone](https://github.com/ainfosec/FISSURE)
 - [Web3 Domain Name Service Could Lose Web Address-Owner Who Can Renew Is in Prison](https://www.coindesk.com/tech/2022/08/26/web3-domain-name-service-could-lose-its-web-address-because-programmer-who-can-renew-it-sits-in-jail/)
-- [Ask HN: I want to be an expert in many things but my lifetime won&#39;t be enough](https://news.ycombinator.com/item?id=32628511)
-- [Computer Networks from Scratch Ch.4](https://www.networksfromscratch.com/4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
