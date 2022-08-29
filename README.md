@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why hasn&#39;t the ACH system been more abused?](https://news.ycombinator.com/item?id=32641259)
+- [The Big [Censored] Theory](https://pudding.cool/2022/08/censorship/)
+- [The Effects of Grounding on Inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
+- [90s Cursor Effects](https://tholman.com/cursor-effects/)
 - [Suiteness &lpar;YC S16&rpar; is hiring a customer support concierge](https://www.ycombinator.com/companies/suiteness/jobs/kblNhHC-concierge)
-- [DevOps: An Idea So Good, No One Admits They Don’t Do It](https://wagslane.dev/posts/no-one-does-devops/)
-- [Speech by Chair Powell on monetary policy and price stability](https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm)
-- [Image generation ethics: Will you be an AI vegan?](https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan)
-- [Decoding AWS Reserved Instances](https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
