@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Warm Welcomes a.k.a. Newbie Fingering](https://news.ycombinator.com/item?id=32638237)
+- [Show HN: Knockles – eBPF Port Knocking Tool](https://github.com/eeriedusk/knockles)
+- [Namecheap CEO gives incentive to hack arbitrary users on their platform](https://twitter.com/_nyancrimew/status/1564042466675793920)
 - [ContainIQ &lpar;YC S21&rpar; Is Hiring an SDR – Founding Role](https://news.ycombinator.com/item?id=32638007)
-- [A CSS-Inspired Syntax for Flowcharts](https://tone-row.com/blog/graph-syntax-css-selectors)
-- [Welcome Home, Garry Tan](https://www.ycombinator.com/blog/welcome-home-garry-tan/)
-- [NASA Artemis I Launch Attempt Scrubbed](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/)
-- [Artemis Launch Scrubbed](https://twitter.com/NASA/status/1564232429279272962)
+- [Ask HN: Is there a good reason for disallowing some characters from a password?](https://news.ycombinator.com/item?id=32637990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
