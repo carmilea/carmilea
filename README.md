@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS services, explained in Victorian English with GPT-3](https://victorianaws.com/)
 - [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Associations of body mass index, fasting insulin and inflammation with mortality](https://www.nature.com/articles/s41366-022-01211-2)
 - [Microformats Wiki](http://microformats.org/wiki/Main_Page)
 - [C++ Coroutines: Understanding the Compiler Transform](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
 <!-- BLOG-POST-LIST:END -->
