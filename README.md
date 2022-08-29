@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suiteness &lpar;YC S16&rpar; is hiring a customer support concierge](https://www.ycombinator.com/companies/suiteness/jobs/kblNhHC-concierge)
+- [DevOps: An Idea So Good, No One Admits They Don’t Do It](https://wagslane.dev/posts/no-one-does-devops/)
 - [Speech by Chair Powell on monetary policy and price stability](https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm)
 - [Image generation ethics: Will you be an AI vegan?](https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan)
 - [Decoding AWS Reserved Instances](https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/)
-- [Is SLS Worth the Cost?](https://www.space.com/artemis-1-space-launch-system-rocket-cost)
-- [Large scale Internet SSH brute force attacks seem to have stopped here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
