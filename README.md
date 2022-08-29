@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferret: A functional, lazy language for realtime embedded control systems](https://ferret-lang.org/)
+- [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
 - [NASA Artemis I Launch](https://www.youtube.com/watch?v=k5KfrDAM2Bo)
-- [The state of Flow-based Programming](https://blog.kodigy.com/post/state-of-flow-based-programming/)
-- [The Silent Majority in Software](https://vadimkravcenko.com/shorts/the-silent-majority/)
-- [Try Stable Diffusion&#39;s Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
-- [Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?](https://news.ycombinator.com/item?id=32632720)
+- [Chezmoi – Manage your dotfiles across multiple diverse machines, securely](https://www.chezmoi.io/)
+- [The Latency/Throughput Tradeoff: Why Fast Services Are Slow and Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
