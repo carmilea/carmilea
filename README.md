@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS services, explained in Victorian English with GPT-3](https://victorianaws.com/)
+- [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
 - [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Microformats Wiki](http://microformats.org/wiki/Main_Page)
-- [C++ Coroutines: Understanding the Compiler Transform](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
+- [C++ coroutines: Understanding the compiler transform](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
