@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why hasn&#39;t the ACH system been more abused?](https://news.ycombinator.com/item?id=32641259)
+- [Alpaca – Stable Diffusion Plugin for Photoshop](https://www.getalpaca.io/)
+- [Are GPUs Worth It for ML?](https://exafunction.com/blog/are-gpus-worth-it)
+- [The Toothpaste Argument for Universal Basic Income](https://www.scottsantens.com/the-toothpaste-argument-for-universal-basic-income-ubi-gotz-werner/)
 - [The Big [Censored] Theory](https://pudding.cool/2022/08/censorship/)
 - [The Effects of Grounding on Inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
-- [90s Cursor Effects](https://tholman.com/cursor-effects/)
-- [Suiteness &lpar;YC S16&rpar; is hiring a customer support concierge](https://www.ycombinator.com/companies/suiteness/jobs/kblNhHC-concierge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
