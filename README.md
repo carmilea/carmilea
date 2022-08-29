@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is cracking down on Android Adblockers](https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110)
-- [Ferret: A functional, lazy language for realtime embedded control systems](https://ferret-lang.org/)
-- [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
-- [NASA Artemis I Launch](https://www.youtube.com/watch?v=k5KfrDAM2Bo)
-- [Chezmoi – Manage your dotfiles across multiple diverse machines, securely](https://www.chezmoi.io/)
+- [Artemis Launch Scrubbed](https://twitter.com/NASA/status/1564232429279272962)
+- [Auditory brainstem response distinguishes occasional and constant tinnitus](https://www.jci.org/articles/view/155094)
+- [Hacker News is a masterpiece](https://thesumup.substack.com/p/hacker-news-is-a-masterpiece)
+- [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/)
+- [Google cracks down on VPN based adblockers](https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
