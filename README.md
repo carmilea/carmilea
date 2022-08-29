@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Warm Welcomes a.k.a. Newbie Fingering](https://news.ycombinator.com/item?id=32638237)
+- [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
+- [Silicon Values](https://pxlnv.com/blog/silicon-values/)
+- [Show HN: Sidekick - Live application debugger is now open source](https://github.com/runsidekick/sidekick)
 - [Show HN: Knockles – eBPF Port Knocking Tool](https://github.com/eeriedusk/knockles)
-- [Namecheap CEO gives incentive to hack arbitrary users on their platform](https://twitter.com/_nyancrimew/status/1564042466675793920)
-- [ContainIQ &lpar;YC S21&rpar; Is Hiring an SDR – Founding Role](https://news.ycombinator.com/item?id=32638007)
-- [Ask HN: Is there a good reason for disallowing some characters from a password?](https://news.ycombinator.com/item?id=32637990)
+- [Namecheap CEO gives incentive to hack arbitrary users on their platform](https://twitter.com/NamecheapCEO/status/1564041532470358016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
