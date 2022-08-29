@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The sudden silencing of Guantanamo&#39;s artists](https://www.bbc.com/news/world-us-canada-62399826)
+- [Try Stable Diffusion&#39;s Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+- [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
 - [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
-- [Airline Wizz Air is charging £10 “System Surcharge” when using ad blocker &lpar;2020&rpar;](https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/)
-- [Excess mortality in Germany 2020-2022](https://www.researchgate.net/publication/362777743_Excess_mortality_in_Germany_2020-2022)
-- [Denver Startup Week Is Coming Up in September](https://www.denverstartupweek.org/)
-- [Could long Covid be linked to herpes viruses? Early data offer a hint](https://www.nature.com/articles/d41586-022-02296-5)
+- [GitHub Does Dotfiles](https://dotfiles.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
