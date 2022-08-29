@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Association of body mass index with mortality](https://oa.mg/work/10.1038/s41366-022-01211-2)
-- [Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon)
-- [Alpaca – Stable Diffusion Plugin for Photoshop](https://www.getalpaca.io/)
-- [Run Stable Diffusion on Intel CPUs](https://github.com/bes-dev/stable_diffusion.openvino)
-- [Are GPUs Worth It for ML?](https://exafunction.com/blog/are-gpus-worth-it)
+- [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Associations of body mass index, fasting insulin and inflammation with mortality](https://www.nature.com/articles/s41366-022-01211-2)
+- [Microformats Wiki](http://microformats.org/wiki/Main_Page)
+- [C++ Coroutines: Understanding the Compiler Transform](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
