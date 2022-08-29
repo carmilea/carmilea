@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Artemis I Launch](https://www.youtube.com/watch?v=k5KfrDAM2Bo)
 - [The state of Flow-based Programming](https://blog.kodigy.com/post/state-of-flow-based-programming/)
 - [The Silent Majority in Software](https://vadimkravcenko.com/shorts/the-silent-majority/)
 - [Try Stable Diffusion&#39;s Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 - [Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?](https://news.ycombinator.com/item?id=32632720)
-- [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
