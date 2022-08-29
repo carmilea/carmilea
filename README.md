@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The sudden silencing of Guantanamo&#39;s artists](https://www.bbc.com/news/world-us-canada-62399826)
 - [Try Stable Diffusion&#39;s Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 - [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
 - [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
-- [GitHub Does Dotfiles](https://dotfiles.github.io/)
+- [Unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
+- [Presentation: Four programming languages from forty years ago &lpar;2018&rpar;](https://fsharpforfunandprofit.com/fourfromforty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
