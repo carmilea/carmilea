@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is cracking down on Android Adblockers](https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110)
 - [Ferret: A functional, lazy language for realtime embedded control systems](https://ferret-lang.org/)
 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
 - [NASA Artemis I Launch](https://www.youtube.com/watch?v=k5KfrDAM2Bo)
 - [Chezmoi – Manage your dotfiles across multiple diverse machines, securely](https://www.chezmoi.io/)
-- [The Latency/Throughput Tradeoff: Why Fast Services Are Slow and Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
