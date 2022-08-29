@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
-- [Silicon Values](https://pxlnv.com/blog/silicon-values/)
-- [Show HN: Sidekick - Live application debugger is now open source](https://github.com/runsidekick/sidekick)
-- [Show HN: Knockles – eBPF Port Knocking Tool](https://github.com/eeriedusk/knockles)
-- [Namecheap CEO gives incentive to hack arbitrary users on their platform](https://twitter.com/NamecheapCEO/status/1564041532470358016)
+- [Speech by Chair Powell on monetary policy and price stability](https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm)
+- [Image generation ethics: Will you be an AI vegan?](https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan)
+- [Decoding AWS Reserved Instances](https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/)
+- [Is SLS Worth the Cost?](https://www.space.com/artemis-1-space-launch-system-rocket-cost)
+- [Large scale Internet SSH brute force attacks seem to have stopped here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
