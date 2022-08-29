@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ContainIQ &lpar;YC S21&rpar; Is Hiring an SDR – Founding Role](https://news.ycombinator.com/item?id=32638007)
+- [A CSS-Inspired Syntax for Flowcharts](https://tone-row.com/blog/graph-syntax-css-selectors)
+- [Welcome Home, Garry Tan](https://www.ycombinator.com/blog/welcome-home-garry-tan/)
+- [NASA Artemis I Launch Attempt Scrubbed](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/)
 - [Artemis Launch Scrubbed](https://twitter.com/NASA/status/1564232429279272962)
-- [Auditory brainstem response distinguishes occasional and constant tinnitus](https://www.jci.org/articles/view/155094)
-- [Hacker News is a masterpiece](https://thesumup.substack.com/p/hacker-news-is-a-masterpiece)
-- [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/)
-- [Google cracks down on VPN based adblockers](https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
