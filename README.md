@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
+- [CA Design Code Law AB-2273: You’ll Scan Your Face for Every Website You Visit](https://www.techdirt.com/2022/08/29/age-verification-providers-say-dont-worry-about-california-design-code-youll-just-have-to-scan-your-face-for-every-website-you-visit/)
 - [PowerUp: IDE Decompilation and Disassembly Tools](https://github.com/badamczewski/PowerUp)
 - [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/)
 - [Python library for univariate regression, interpolation, and smoothing](https://github.com/brendanartley/Regressio)
-- [AMD Details Ryzen 7000 Launch: Ryzen 7950X and More, Coming Sept. 27th](https://www.anandtech.com/show/17552/amd-details-ryzen-7000-launch-up-ryzen-7900x-coming-sept-30)
-- [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
