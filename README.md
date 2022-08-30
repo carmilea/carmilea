@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terra &lpar;YC W21&rpar; Is Hiring for Operations in London &lpar;UK&rpar;](https://www.ycombinator.com/companies/terra/jobs/1A5lpBT-operations)
+- [Show HN: Ubähnchen – Animated subway map of Berlin](https://xn--ubhnchen-1za.vercel.app/)
+- [Tips for Developers Who Want to Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)
 - [How to Nationalize the Internet in Canada](https://anarc.at/blog/2022-08-26-nationalize-internet/)
 - [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
-- [Host your own OpenStreetMap Map Tiles](https://altilunium.my.id/blog/osm_selfhost/)
-- [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
-- [CA Design Code Law AB-2273: You’ll Scan Your Face for Every Website You Visit](https://www.techdirt.com/2022/08/29/age-verification-providers-say-dont-worry-about-california-design-code-youll-just-have-to-scan-your-face-for-every-website-you-visit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
