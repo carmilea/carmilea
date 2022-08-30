@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to build hardware for agriculture? Get supply chain resilient](https://www.hardwarethings.org/features/supply-chain-resilience-agritech-hardware)
 - [Show HN: A short sci-fi story written with GPT-3 and illustrated with DALL-E 2](https://news.ycombinator.com/item?id=32652673)
+- [Understanding UseMemo and UseCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 - [Patterns &lpar;YC S21&rpar; Is hiring to build the OS for your data warehouse](https://www.patterns.app/)
 - [$250k for your AI-first product startup](https://aigrant.org/)
-- [D2: A new declarative language to turn text into diagrams](https://d2-lang.com/tour/intro)
-- [Git’s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
