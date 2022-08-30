@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram is asking german users when to share information with law enforcement](https://news.ycombinator.com/item?id=32648801)
+- [50 years Smalltalk anniversary celebration at Computer History Museum](https://computerhistory.org/events/making-smalltalk/)
 - [AdGuard publishes the first ad blocker built on Manifest V3](https://adguard.com/en/blog/adguard-mv3.html)
 - [Using your phone as a software development platform](https://aista.com/blog/using-your-phone-as-a-software-development-platform/)
 - [Cost of a Integer Cast in Go](https://boyter.org/posts/cost-of-integer-cast-in-go/)
-- [Show HN: Live-Map of Public Transport in Kiel, Germany](https://mobility.kielregion.de/liveaccess/)
-- [Terra &lpar;YC W21&rpar; Is Hiring for Operations in London &lpar;UK&rpar;](https://www.ycombinator.com/companies/terra/jobs/1A5lpBT-operations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
