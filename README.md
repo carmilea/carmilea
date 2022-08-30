@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using your phone as a software development platform](https://aista.com/blog/using-your-phone-as-a-software-development-platform/)
+- [Issue Trackers Considered Harmful](https://kitemaker.co/blog/issue-trackers-considered-harmful)
+- [Cost of a Integer Cast in Go](https://boyter.org/posts/cost-of-integer-cast-in-go/)
+- [Customize your Slack sound notifications](https://github.com/SharonBrizinov/slack-sounds)
 - [Terra &lpar;YC W21&rpar; Is Hiring for Operations in London &lpar;UK&rpar;](https://www.ycombinator.com/companies/terra/jobs/1A5lpBT-operations)
-- [Show HN: Ubähnchen – Animated subway map of Berlin](https://xn--ubhnchen-1za.vercel.app/)
-- [Tips for Developers Who Want to Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)
-- [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
-- [Host your own OpenStreetMap Map Tiles](https://altilunium.my.id/blog/osm_selfhost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
