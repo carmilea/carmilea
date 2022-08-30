@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid “Fudge Factor” – A map of Covid data corruption and approach that worked](https://maximumtruth.substack.com/p/the-covid-fudge-factor)
-- [Remotely Controlled Lawn Tractor](https://offthegrid.dev/blog/remotely-controlled-lawn-mower)
-- [Pachyderm Is Hiring Go Distributed Systems and Testing Engineers](https://www.pachyderm.com/careers/#positions)
-- [Observations from our Joe Rogan Experience experience](https://lulu.substack.com/p/joe-rogan-has-a-werewolf)
-- [Wikipedia Recent Changes Map](http://rcmap.hatnote.com/#en)
+- [Launch HN: Be Golden &lpar;YC S22&rpar; – Measure and manage your inflammation levels](https://news.ycombinator.com/item?id=32650142)
+- [A third of Pakistan is underwater from floods, climate chief says](https://www.washingtonpost.com/world/2022/08/30/pakistan-flooding-underwater-monsoon/)
+- [Why is WebMD so awful?](https://blog.tjcx.me/p/why-is-webmd-so-awful)
+- [Living on a Torus](https://vinequai.com/livingonatorus)
+- [Becoming a Systems Architect – 10 years into a software engineering career](https://wojtekmandrysz.com/blog/systems-architect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
