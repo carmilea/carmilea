@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ARM Pointer Authentication](https://lwn.net/Articles/718888/)
+- [Show HN: EthicalAds – Privacy-first ad network for developers](https://www.ethicalads.io)
 - [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
 - [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion)
 - [Launch HN: Be Golden &lpar;YC S22&rpar; – Measure and manage your inflammation levels](https://news.ycombinator.com/item?id=32650142)
-- [Why Stephen Fry is arguing against political correctness &lpar;2018&rpar;](https://www.cbc.ca/news/canada/toronto/stephen-fry-political-correctness-1.4662626)
-- [A third of Pakistan is underwater from floods, climate chief says](https://www.washingtonpost.com/world/2022/08/30/pakistan-flooding-underwater-monsoon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
