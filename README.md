@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ARM Pointer Authentication](https://lwn.net/Articles/718888/)
+- [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
+- [Converting a fisheye image into a panoramic, spherical or perspective projection](http://paulbourke.net/dome/fish2/)
+- [ARM Pointer Authentication [2017]](https://lwn.net/Articles/718888/)
 - [Show HN: EthicalAds – Privacy-first ad network for developers](https://www.ethicalads.io)
 - [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
-- [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion)
-- [Launch HN: Be Golden &lpar;YC S22&rpar; – Measure and manage your inflammation levels](https://news.ycombinator.com/item?id=32650142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
