@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerUp: IDE Decompilation and Disassembly Tools](https://github.com/badamczewski/PowerUp)
+- [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/)
+- [Python library for univariate regression, interpolation, and smoothing](https://github.com/brendanartley/Regressio)
+- [AMD Details Ryzen 7000 Launch: Ryzen 7950X and More, Coming Sept. 27th](https://www.anandtech.com/show/17552/amd-details-ryzen-7000-launch-up-ryzen-7900x-coming-sept-30)
 - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
-- [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Microformats Wiki](http://microformats.org/wiki/Main_Page)
-- [C++ coroutines: Understanding the compiler transform](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
