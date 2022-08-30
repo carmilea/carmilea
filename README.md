@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring 12M of the 2.3B Images Used to Train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
-- [XCode Cloud Subscriptions Now Available](https://developer.apple.com/xcode-cloud/)
-- [Egg Freckles: The Newton at 30](https://timemachiner.io/2022/07/16/egg-freckles/)
-- [Mikhail Gorbachev has died](https://www.reuters.com/world/mikhail-gorbachev-who-ended-cold-war-dies-aged-92-agencies-2022-08-30/)
-- [Show HN: AutoHotkey for Linux](https://github.com/phil294/AHK_X11)
+- [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
+- [C++ compiler can dynamically inline functions at runtime](https://github.com/drti)
+- [Royal Caribbean to use SpaceX&#39;s Starlink to provide internet onboard their fleet](https://www.rclinvestor.com/press-releases/release/)
+- [Exploring 12M of the 2.3B images used to train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+- [Experimenters’ sex modulates mouse behaviors in ketamine trial](https://www.nature.com/articles/s41593-022-01146-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
