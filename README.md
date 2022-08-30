@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
-- [Converting a fisheye image into a panoramic, spherical or perspective projection](http://paulbourke.net/dome/fish2/)
-- [ARM Pointer Authentication [2017]](https://lwn.net/Articles/718888/)
-- [Show HN: EthicalAds – Privacy-first ad network for developers](https://www.ethicalads.io)
-- [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
+- [Show HN: A short sci-fi story written with GPT-3 and illustrated with DALL-E 2](https://news.ycombinator.com/item?id=32652673)
+- [Patterns &lpar;YC S21&rpar; Is hiring to build the OS for your data warehouse](https://www.patterns.app/)
+- [$250k for your AI-first product startup](https://aigrant.org/)
+- [D2: A new declarative language to turn text into diagrams](https://d2-lang.com/tour/intro)
+- [Git’s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
