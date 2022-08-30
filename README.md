@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AutoHotkey for Linux](https://github.com/phil294/AHK_X11)
+- [The Open Sourcing of Paranoid&#39;s Library](https://security.googleblog.com/2022/08/announcing-open-sourcing-of-paranoids.html)
 - [The PC and Internet Revolution in Rural America](https://changelog.complete.org/archives/10417-the-pc-internet-revolution-in-rural-america)
 - [A simple paint job can save birds from wind turbines](https://www.anthropocenemagazine.org/2020/09/a-simple-paint-job-can-save-birds-from-wind-turbines/)
 - [Want to build hardware for agriculture? Get supply chain resilient](https://www.hardwarethings.org/features/supply-chain-resilience-agritech-hardware)
-- [Show HN: A short sci-fi story written with GPT-3 and illustrated with DALL-E 2](https://news.ycombinator.com/item?id=32652673)
-- [Understanding UseMemo and UseCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
