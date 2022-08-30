@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram is asking german users when to share information with law enforcement](https://news.ycombinator.com/item?id=32648801)
-- [50 years Smalltalk anniversary celebration at Computer History Museum](https://computerhistory.org/events/making-smalltalk/)
-- [AdGuard publishes the first ad blocker built on Manifest V3](https://adguard.com/en/blog/adguard-mv3.html)
-- [Using your phone as a software development platform](https://aista.com/blog/using-your-phone-as-a-software-development-platform/)
-- [Cost of a Integer Cast in Go](https://boyter.org/posts/cost-of-integer-cast-in-go/)
+- [Covid “Fudge Factor” – A map of Covid data corruption and approach that worked](https://maximumtruth.substack.com/p/the-covid-fudge-factor)
+- [Remotely Controlled Lawn Tractor](https://offthegrid.dev/blog/remotely-controlled-lawn-mower)
+- [Pachyderm Is Hiring Go Distributed Systems and Testing Engineers](https://www.pachyderm.com/careers/#positions)
+- [Observations from our Joe Rogan Experience experience](https://lulu.substack.com/p/joe-rogan-has-a-werewolf)
+- [Wikipedia Recent Changes Map](http://rcmap.hatnote.com/#en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
