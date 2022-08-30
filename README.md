@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AdGuard publishes the first ad blocker built on Manifest V3](https://adguard.com/en/blog/adguard-mv3.html)
 - [Using your phone as a software development platform](https://aista.com/blog/using-your-phone-as-a-software-development-platform/)
-- [Issue Trackers Considered Harmful](https://kitemaker.co/blog/issue-trackers-considered-harmful)
 - [Cost of a Integer Cast in Go](https://boyter.org/posts/cost-of-integer-cast-in-go/)
-- [Customize your Slack sound notifications](https://github.com/SharonBrizinov/slack-sounds)
+- [Show HN: Live-Map of Public Transport in Kiel, Germany](https://mobility.kielregion.de/liveaccess/)
 - [Terra &lpar;YC W21&rpar; Is Hiring for Operations in London &lpar;UK&rpar;](https://www.ycombinator.com/companies/terra/jobs/1A5lpBT-operations)
 <!-- BLOG-POST-LIST:END -->
 
