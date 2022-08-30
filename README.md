@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring 12M of the 2.3B Images Used to Train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+- [XCode Cloud Subscriptions Now Available](https://developer.apple.com/xcode-cloud/)
 - [Egg Freckles: The Newton at 30](https://timemachiner.io/2022/07/16/egg-freckles/)
 - [Mikhail Gorbachev has died](https://www.reuters.com/world/mikhail-gorbachev-who-ended-cold-war-dies-aged-92-agencies-2022-08-30/)
 - [Show HN: AutoHotkey for Linux](https://github.com/phil294/AHK_X11)
-- [The PC and Internet Revolution in Rural America](https://changelog.complete.org/archives/10417-the-pc-internet-revolution-in-rural-america)
-- [A simple paint job can save birds from wind turbines](https://www.anthropocenemagazine.org/2020/09/a-simple-paint-job-can-save-birds-from-wind-turbines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
