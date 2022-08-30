@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Nationalize the Internet in Canada](https://anarc.at/blog/2022-08-26-nationalize-internet/)
+- [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
+- [Host your own OpenStreetMap Map Tiles](https://altilunium.my.id/blog/osm_selfhost/)
 - [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
 - [CA Design Code Law AB-2273: You’ll Scan Your Face for Every Website You Visit](https://www.techdirt.com/2022/08/29/age-verification-providers-say-dont-worry-about-california-design-code-youll-just-have-to-scan-your-face-for-every-website-you-visit/)
-- [PowerUp: IDE Decompilation and Disassembly Tools](https://github.com/badamczewski/PowerUp)
-- [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/)
-- [Python library for univariate regression, interpolation, and smoothing](https://github.com/brendanartley/Regressio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
