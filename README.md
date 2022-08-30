@@ -54,8 +54,8 @@
 - [Terra &lpar;YC W21&rpar; Is Hiring for Operations in London &lpar;UK&rpar;](https://www.ycombinator.com/companies/terra/jobs/1A5lpBT-operations)
 - [Show HN: Ubähnchen – Animated subway map of Berlin](https://xn--ubhnchen-1za.vercel.app/)
 - [Tips for Developers Who Want to Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)
-- [How to Nationalize the Internet in Canada](https://anarc.at/blog/2022-08-26-nationalize-internet/)
 - [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
+- [Host your own OpenStreetMap Map Tiles](https://altilunium.my.id/blog/osm_selfhost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
