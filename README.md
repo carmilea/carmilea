@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
+- [Want quick answers? Ask questions well](https://quick-answers.kronis.dev/)
+- [Ruff – an fast Python Linter written in Rust](https://github.com/charliermarsh/ruff)
+- [Ask HN: Am I the only one tired of seeing DALL·E /Stable Diffusion posts?](https://news.ycombinator.com/item?id=32665587)
 - [Launch HN: Payload &lpar;YC S22&rpar; – Headless CMS for Developers](https://news.ycombinator.com/item?id=32665325)
-- [Show HN: An opinionated and statically-typed TypeScript SDK generator](https://easysdk.xyz/)
-- [134.5 kg Concrete Bike [video]](https://www.youtube.com/watch?v=Yqgn-qlg1X0)
-- [DALL·E: Introducing Outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)
-- [Fuzzing Go APIs for SQL Injection](https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
