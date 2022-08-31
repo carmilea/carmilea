@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is the printer industry so scammy?](https://news.ycombinator.com/item?id=32661193)
-- [Things not available when someone blocks all cookies](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/)
-- [Ask HN: For those using Stable Diffusion locally, how do you filter fishy repos?](https://news.ycombinator.com/item?id=32660957)
-- [Lambda the Ultimate is now running in a new, more stable environment](http://lambda-the-ultimate.org/node/5654)
-- [Poll HN: Do you use SSH *certificates* &lpar;not mere public-key authentication&rpar;?](https://news.ycombinator.com/item?id=32660773)
+- [Git’s Database Internals III: File History Queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
+- [Meet HN: HN Bangalore Meetup](https://news.ycombinator.com/item?id=32662083)
+- [U.S. Life Expectancy Falls Again in ‘Historic’ Setback](https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html)
+- [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
+- [Cloudflare&#39;s abuse policies &amp; approach](https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
