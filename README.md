@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tab &lpar;YC W15&rpar; Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
+- [Company Tells Employees: Work ‘Voluntary’ Overtime or Go to Jail](https://www.vice.com/en/article/m7g7wa/company-tells-employees-work-voluntary-overtime-or-go-to-jail)
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials)
-- [Washington state county removes an election security device](https://www.npr.org/2022/08/28/1119692541/washington-state-albert-sensor-cybersecurity-election-security)
+- [Show HN: Investorsexchange.jl – parse trade-level stock market data in Julia](https://github.com/lukemerrick/InvestorsExchange.jl)
 - [Stable Diffusion Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)
-- [Software engineering research questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
