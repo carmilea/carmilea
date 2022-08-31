@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tab &lpar;YC W15&rpar; Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials)
+- [Washington state county removes an election security device](https://www.npr.org/2022/08/28/1119692541/washington-state-albert-sensor-cybersecurity-election-security)
 - [Stable Diffusion Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)
 - [Software engineering research questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
-- [Historical patterns and sustainability implications of worldwide bicycle use](https://www.nature.com/articles/s43247-022-00497-4)
-- [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
