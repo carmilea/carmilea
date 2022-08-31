@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to offer effective free trials](https://upollo.ai/blog/effective-trials)
 - [Stable Diffusion Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)
-- [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
+- [Software engineering research questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
 - [Historical patterns and sustainability implications of worldwide bicycle use](https://www.nature.com/articles/s43247-022-00497-4)
-- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 - [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
 <!-- BLOG-POST-LIST:END -->
 
