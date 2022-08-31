@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html)
 - [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
 - [Want quick answers? Ask questions well](https://quick-answers.kronis.dev/)
-- [Ruff – an fast Python Linter written in Rust](https://github.com/charliermarsh/ruff)
-- [Ask HN: Am I the only one tired of seeing DALL·E /Stable Diffusion posts?](https://news.ycombinator.com/item?id=32665587)
-- [Launch HN: Payload &lpar;YC S22&rpar; – Headless CMS for Developers](https://news.ycombinator.com/item?id=32665325)
+- [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/)
+- [Ruff – a fast Python Linter written in Rust](https://github.com/charliermarsh/ruff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
