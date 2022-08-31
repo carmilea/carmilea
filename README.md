@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
+- [DJI Drone Flies over the Top of Mount Everest](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
+- [Fed expects to launch long-awaited Faster Payments System by 2023](https://forkast.news/headlines/fed-faster-payments-system-by-2023/)
+- [Play 1978 Oregon Trail in the browser](https://paleotronic.com/applesoft/?load=/applesoft/examples/adventure/oregon.apl)
 - [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
-- [C++ compiler can dynamically inline functions at runtime](https://github.com/drti)
-- [Royal Caribbean to use SpaceX&#39;s Starlink to provide internet onboard their fleet](https://www.rclinvestor.com/press-releases/release/)
-- [Exploring 12M of the 2.3B images used to train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
-- [Experimenters’ sex modulates mouse behaviors in ketamine trial](https://www.nature.com/articles/s41593-022-01146-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
