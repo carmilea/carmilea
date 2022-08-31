@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pricing page templates for SaaS founders](https://news.ycombinator.com/item?id=32659940)
+- [Want to found a startup? Work at one first](https://blog.lawrencejones.dev/learn-at-scale-up/)
+- [Busy Beaver Updates: Now Even Busier](https://scottaaronson.blog/?p=6673)
+- [A Linux-powered microwave oven &lpar;2016&rpar;](https://lwn.net/Articles/674877/)
 - [Film: Frame Interpolation for Large Motion](https://film-net.github.io/)
 - [Tab &lpar;YC W15&rpar; Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
-- [Company Tells Employees: Work ‘Voluntary’ Overtime or Go to Jail](https://www.vice.com/en/article/m7g7wa/company-tells-employees-work-voluntary-overtime-or-go-to-jail)
-- [How to offer effective free trials](https://upollo.ai/blog/effective-trials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
