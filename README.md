@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Payload &lpar;YC S22&rpar; – Headless CMS for Developers](https://news.ycombinator.com/item?id=32665325)
+- [Show HN: An opinionated and statically-typed TypeScript SDK generator](https://easysdk.xyz/)
+- [134.5 kg Concrete Bike [video]](https://www.youtube.com/watch?v=Yqgn-qlg1X0)
+- [DALL·E: Introducing Outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)
 - [Fuzzing Go APIs for SQL Injection](https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/)
-- [Launch HN: Lion Pose &lpar;YC W21&rpar; – Safe and effective skin care for people of color](https://news.ycombinator.com/item?id=32664261)
-- [The Original “Universal” Port by Atari](https://tedium.co/2022/08/24/atari-2600-joystick-port-history/)
-- [Final thoughts on Ubiquiti](https://krebsonsecurity.com/2022/08/final-thoughts-on-ubiquiti/)
-- [Pakistan&#39;s floods have created 100km-wide inland lake, satellite images](https://www.cnn.com/2022/08/31/asia/pakistan-floods-forms-inland-lake-satellite-intl-hnk/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
