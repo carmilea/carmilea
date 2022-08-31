@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can iOS apps with access to all photos, bulk upload in the background?](https://news.ycombinator.com/item?id=32668774)
+- [Ask HN: Anyone having issues with job applicant fraud?](https://news.ycombinator.com/item?id=32668694)
 - [Dealing with the Perfectionism Trap as a Developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
-- [WebKit Migrates from Subversion to GitHub](https://webkit.org/blog/13140/webkit-on-github/)
-- [Will California Eliminate Anonymous Web Browsing? &lpar;Comments on CA AB 2273&rpar;](https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm)
-- [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html)
-- [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
+- [Saying Goodbye to My Parents’ Library](https://www.wsj.com/articles/saying-goodbye-to-my-parents-library-11661572861)
+- [FDA Authorizes Moderna, Pfizer-BioNTech Bivalent Covid-19 Vaccines Booster Dose](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-pfizer-biontech-bivalent-covid-19-vaccines-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
