@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with the Perfectionism Trap as a Developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
 - [WebKit Migrates from Subversion to GitHub](https://webkit.org/blog/13140/webkit-on-github/)
 - [Will California Eliminate Anonymous Web Browsing? &lpar;Comments on CA AB 2273&rpar;](https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm)
 - [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html)
 - [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
-- [Want quick answers? Ask questions well](https://quick-answers.kronis.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
