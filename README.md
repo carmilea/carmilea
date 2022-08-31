@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NordVPN Gets Slammed for Shadiness](https://www.cnet.com/tech/services-and-software/nordvpn-review/)
+- [Pricing page templates for SaaS founders](https://news.ycombinator.com/item?id=32659940)
 - [Film: Frame Interpolation for Large Motion](https://film-net.github.io/)
 - [Tab &lpar;YC W15&rpar; Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
 - [Company Tells Employees: Work ‘Voluntary’ Overtime or Go to Jail](https://www.vice.com/en/article/m7g7wa/company-tells-employees-work-voluntary-overtime-or-go-to-jail)
