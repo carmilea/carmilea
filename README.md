@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)
+- [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
+- [Historical patterns and sustainability implications of worldwide bicycle use](https://www.nature.com/articles/s43247-022-00497-4)
+- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 - [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
-- [DJI Drone Flies over the Top of Mount Everest](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
-- [Fed expects to launch long-awaited Faster Payments System by 2023](https://forkast.news/headlines/fed-faster-payments-system-by-2023/)
-- [Play 1978 Oregon Trail in the browser](https://paleotronic.com/applesoft/?load=/applesoft/examples/adventure/oregon.apl)
-- [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
