@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can iOS apps with access to all photos, bulk upload in the background?](https://news.ycombinator.com/item?id=32668774)
+- [Ask HN: How to design database schema for usage based billing?](https://news.ycombinator.com/item?id=32669344)
+- [US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia](https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm)
 - [Ask HN: Anyone having issues with job applicant fraud?](https://news.ycombinator.com/item?id=32668694)
-- [Dealing with the Perfectionism Trap as a Developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
-- [Saying Goodbye to My Parents’ Library](https://www.wsj.com/articles/saying-goodbye-to-my-parents-library-11661572861)
-- [FDA Authorizes Moderna, Pfizer-BioNTech Bivalent Covid-19 Vaccines Booster Dose](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-pfizer-biontech-bivalent-covid-19-vaccines-use)
+- [Dealing with the perfectionism trap as a developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
+- [Saying goodbye to my parents’ library](https://www.wsj.com/articles/saying-goodbye-to-my-parents-library-11661572861)
 <!-- BLOG-POST-LIST:END -->
 
 ---
