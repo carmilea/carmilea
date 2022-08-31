@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 90% of U.S. households used air conditioning in 2020](https://www.eia.gov/todayinenergy/detail.php?id=52558)
-- [Inter-brain sync occurs without physical copresence during online gaming](https://www.sciencedirect.com/science/article/pii/S0028393222001750)
-- [Google block my Chrome extension so I created a website to host it](https://extensionhub.site/)
-- [Ask HN: IT Security Checklist for Startups?](https://news.ycombinator.com/item?id=32662385)
-- [You Have No Idea How Bad Europe’s Energy Crisis Is](https://foreignpolicy.com/2022/08/26/europe-energy-crisis-natural-gas-economy-winter/)
+- [Fuzzing Go APIs for SQL Injection](https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/)
+- [Launch HN: Lion Pose &lpar;YC W21&rpar; – Safe and effective skin care for people of color](https://news.ycombinator.com/item?id=32664261)
+- [The Original “Universal” Port by Atari](https://tedium.co/2022/08/24/atari-2600-joystick-port-history/)
+- [Final thoughts on Ubiquiti](https://krebsonsecurity.com/2022/08/final-thoughts-on-ubiquiti/)
+- [Pakistan&#39;s floods have created 100km-wide inland lake, satellite images](https://www.cnn.com/2022/08/31/asia/pakistan-floods-forms-inland-lake-satellite-intl-hnk/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
