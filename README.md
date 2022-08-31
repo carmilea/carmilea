@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to found a startup? Work at one first](https://blog.lawrencejones.dev/learn-at-scale-up/)
-- [Busy Beaver Updates: Now Even Busier](https://scottaaronson.blog/?p=6673)
-- [A Linux-powered microwave oven &lpar;2016&rpar;](https://lwn.net/Articles/674877/)
-- [Film: Frame Interpolation for Large Motion](https://film-net.github.io/)
-- [Tab &lpar;YC W15&rpar; Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
+- [Ask HN: Why is the printer industry so scammy?](https://news.ycombinator.com/item?id=32661193)
+- [Things not available when someone blocks all cookies](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/)
+- [Ask HN: For those using Stable Diffusion locally, how do you filter fishy repos?](https://news.ycombinator.com/item?id=32660957)
+- [Lambda the Ultimate is now running in a new, more stable environment](http://lambda-the-ultimate.org/node/5654)
+- [Poll HN: Do you use SSH *certificates* &lpar;not mere public-key authentication&rpar;?](https://news.ycombinator.com/item?id=32660773)
 <!-- BLOG-POST-LIST:END -->
 
 ---
