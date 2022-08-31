@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebKit Migrates from Subversion to GitHub](https://webkit.org/blog/13140/webkit-on-github/)
+- [Will California Eliminate Anonymous Web Browsing? &lpar;Comments on CA AB 2273&rpar;](https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm)
 - [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html)
 - [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
 - [Want quick answers? Ask questions well](https://quick-answers.kronis.dev/)
-- [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/)
-- [Ruff – a fast Python Linter written in Rust](https://github.com/charliermarsh/ruff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
