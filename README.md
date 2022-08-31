@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git’s Database Internals III: File History Queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
-- [Meet HN: HN Bangalore Meetup](https://news.ycombinator.com/item?id=32662083)
-- [U.S. Life Expectancy Falls Again in ‘Historic’ Setback](https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html)
-- [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
-- [Cloudflare&#39;s abuse policies &amp; approach](https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/)
+- [Nearly 90% of U.S. households used air conditioning in 2020](https://www.eia.gov/todayinenergy/detail.php?id=52558)
+- [Inter-brain sync occurs without physical copresence during online gaming](https://www.sciencedirect.com/science/article/pii/S0028393222001750)
+- [Google block my Chrome extension so I created a website to host it](https://extensionhub.site/)
+- [Ask HN: IT Security Checklist for Startups?](https://news.ycombinator.com/item?id=32662385)
+- [You Have No Idea How Bad Europe’s Energy Crisis Is](https://foreignpolicy.com/2022/08/26/europe-energy-crisis-natural-gas-economy-winter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
