@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Toll of Dating App Burnout](https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html)
+- [Show HN: Using GPT-3 to answer annoying interview application questions](https://whydoyouwanttoworkhere.com/)
+- [Our Collective Synesthesia, in Graphs](https://aella.substack.com/p/our-collective-synesthesia-in-graphs)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32672970)
-- [Google employee resigns after ‘retaliation’ for protesting Israeli contract](https://www.timesofisrael.com/jewish-google-employee-resigns-after-retaliation-for-protesting-israeli-contract/)
-- [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
-- [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
-- [Random Google Street View](https://randomstreetview.com/)
+- [AI wins state fair art contest, annoys humans](https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
