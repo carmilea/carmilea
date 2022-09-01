@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn PWA](https://web.dev/learn/pwa/)
+- [Launch HN: Boostly &lpar;YC S22&rpar; – SMS marketing for restaurants](https://news.ycombinator.com/item?id=32675658)
 - [Armies are re-learning how to fight in cities](https://www.economist.com/international/2022/08/17/armies-are-re-learning-how-to-fight-in-cities)
+- [Germany’s ultra-cheap train ticket saved 1.8M tons of CO2](https://www.bloomberg.com/news/articles/2022-08-30/germany-s-ultra-cheap-train-ticket-saved-1-8-million-tons-of-co2)
 - [SBX Robotics &lpar;YC W21&rpar; Is Hiring Techincal Artists in Toronto [Remote]](https://www.linkedin.com/jobs/view/3184745474/)
-- [Arm sues Qualcomm, aiming to unwind Qualcomm&#39;s $1.4B Nuvia purchase](https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/)
-- [Ask HN: Are authors of “how to be great developer” blogs great developers?](https://news.ycombinator.com/item?id=32674479)
-- [Avoiding space leaks at all costs](https://kodimensional.dev/space-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
