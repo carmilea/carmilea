@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
+- [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
 - [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
 - [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
 - [Random Google Street View](https://randomstreetview.com/)
-- [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
+- [The dictatorship of the articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
