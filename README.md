@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncle Bob: Case for Language Agnostic Hiring](https://alphalist.com/blog/the-case-for-language-agnostic-hiring)
 - [The Toll of Dating App Burnout](https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html)
 - [Show HN: Using GPT-3 to answer annoying interview application questions](https://whydoyouwanttoworkhere.com/)
 - [Our Collective Synesthesia, in Graphs](https://aella.substack.com/p/our-collective-synesthesia-in-graphs)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32672970)
-- [AI wins state fair art contest, annoys humans](https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
