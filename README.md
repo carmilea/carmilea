@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-an-Operations-Analyst-781f129af8924b9096a28cb4960bea8d)
-- [FAA approves GAMI unleaded avgas for entire piston airplane fleet](https://www.aopa.org/news-and-media/all-news/2022/september/01/closer-to-an-unleaded-future)
-- [Rising inequality risks regional collapse and climate catastrophe](https://www.clubofrome.org/impact-hubs/reframing-economics/earth4all-book-launch/)
+- [FAA approves unleaded fuel for piston fleet](https://www.aopa.org/news-and-media/all-news/2022/september/01/closer-to-an-unleaded-future)
 - [High-dose Vitamin B6 reduces anxiety and strengthens visual surround suppression](https://onlinelibrary.wiley.com/doi/10.1002/hup.2852)
-- [The Twitter Whistleblower Story Is Worse Than You Think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)
+- [The Twitter whistleblower story is worse than you think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)
+- [How military operations get their code names &lpar;2011&rpar;](https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names)
 <!-- BLOG-POST-LIST:END -->
 
 ---
