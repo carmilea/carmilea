@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One million queries per second with MySQL](https://planetscale.com/blog/one-million-queries-per-second-with-mysql)
-- [Ask HN: Why don&#39;t we have 3 day weekends yet?](https://news.ycombinator.com/item?id=32680382)
-- [Substack Is Hiring Android Engineers to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006027005)
-- [Show HN: Open-source infra for building embedded data pipelines](https://github.com/pipebird/pipebird)
-- [MS Teams Linux client is being retired. To be replaced by a progressive web app](https://news.ycombinator.com/item?id=32678839)
+- [The Twitter Whistleblower Story Is Worse Than You Think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)
+- [How military operations get their code names &lpar;2011&rpar;](https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names)
+- [macOS now scans for malware whenever it gets a chance](https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/)
+- [Forms should be apps: Why I&#39;m building Component](https://blog.usecomponent.com/forms-should-be-apps-why-component-exists/)
+- [Customer who defamed BC company on Google, Yelp ordered to pay $90k](https://vancouversun.com/news/local-news/customer-who-defamed-company-on-google-and-yelp-ordered-to-pay-90000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
