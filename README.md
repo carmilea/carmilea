@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Armies are re-learning how to fight in cities](https://www.economist.com/international/2022/08/17/armies-are-re-learning-how-to-fight-in-cities)
+- [SBX Robotics &lpar;YC W21&rpar; Is Hiring Techincal Artists in Toronto [Remote]](https://www.linkedin.com/jobs/view/3184745474/)
+- [Arm sues Qualcomm, aiming to unwind Qualcomm&#39;s $1.4B Nuvia purchase](https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/)
+- [Ask HN: Are authors of “how to be great developer” blogs great developers?](https://news.ycombinator.com/item?id=32674479)
 - [Avoiding space leaks at all costs](https://kodimensional.dev/space-leak)
-- [Velox: An open source unified execution engine](https://engineering.fb.com/2022/08/31/open-source/velox/)
-- [Case for language agnostic hiring](https://alphalist.com/blog/the-case-for-language-agnostic-hiring)
-- [Why our Screwdriver took 3 YEARS](https://www.youtube.com/watch?v=2K5Gqp1cEcM)
-- [Our Collective Synesthesia, in Graphs](https://aella.substack.com/p/our-collective-synesthesia-in-graphs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
