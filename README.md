@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion: Is Video Coming Soon?](https://metaphysic.ai/stable-diffusion-is-video-coming-soon/)
+- [To Save the Deep Ocean, We Should Mine the Moon](https://nautil.us/to-save-the-deep-ocean-we-should-mine-the-moon-26579/)
+- [California Declares Grid Emergency](https://www.rigzone.com/news/wire/california_declares_grid_emergency-01-sep-2022-170187-article/)
+- [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
 - [Learn PWA](https://web.dev/learn/pwa/)
-- [Launch HN: Boostly &lpar;YC S22&rpar; – SMS marketing for restaurants](https://news.ycombinator.com/item?id=32675658)
-- [Armies are re-learning how to fight in cities](https://www.economist.com/international/2022/08/17/armies-are-re-learning-how-to-fight-in-cities)
-- [Germany’s ultra-cheap train ticket saved 1.8M tons of CO2](https://www.bloomberg.com/news/articles/2022-08-30/germany-s-ultra-cheap-train-ticket-saved-1-8-million-tons-of-co2)
-- [SBX Robotics &lpar;YC W21&rpar; Is Hiring Techincal Artists in Toronto [Remote]](https://www.linkedin.com/jobs/view/3184745474/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
