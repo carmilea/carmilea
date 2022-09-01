@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-an-Operations-Analyst-781f129af8924b9096a28cb4960bea8d)
-- [FAA approves unleaded fuel for piston fleet](https://www.aopa.org/news-and-media/all-news/2022/september/01/closer-to-an-unleaded-future)
-- [High-dose Vitamin B6 reduces anxiety and strengthens visual surround suppression](https://onlinelibrary.wiley.com/doi/10.1002/hup.2852)
-- [The Twitter whistleblower story is worse than you think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)
-- [How military operations get their code names &lpar;2011&rpar;](https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names)
+- [Ernie-ViLG better anime quality than Stable Diffusion](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
+- [Framework is now available in Australia](https://frame.work/au/en)
+- [Not Your Grandmother&#39;s Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
+- [We clone a running VM in 2 seconds](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds)
+- [USB 4 version 2 promises 80 Gbps speeds over existing cables](https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
