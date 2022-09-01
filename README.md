@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stable Diffusion: Is Video Coming Soon?](https://metaphysic.ai/stable-diffusion-is-video-coming-soon/)
-- [To Save the Deep Ocean, We Should Mine the Moon](https://nautil.us/to-save-the-deep-ocean-we-should-mine-the-moon-26579/)
-- [California Declares Grid Emergency](https://www.rigzone.com/news/wire/california_declares_grid_emergency-01-sep-2022-170187-article/)
-- [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
-- [Learn PWA](https://web.dev/learn/pwa/)
+- [Ask HN: Who is hiring? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677265)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677264)
+- [Ask HN: Who wants to be hired? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677261)
+- [Kagi/Orion status update: First three months](https://blog.kagi.com/status-update-first-three-months)
+- [Tell HN: Meetup.com is offering abandoned meetups to anyone willing to pay](https://news.ycombinator.com/item?id=32676728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
