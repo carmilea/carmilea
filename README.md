@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack Is Hiring Android Engineers to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006027005)
+- [Crypto CEO behind $2.5B &#39;rug pull&#39; arrested, faces 40,564 years in prison](https://www.pcgamer.com/crypto-ceo-behind-dollar25b-rug-pull-arrested-faces-40564-years-in-prison/)
+- [Run Stable Diffusion on Your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
 - [Launch HN: SideGuide &lpar;YC S22&rpar; – Learn APIs by running them in live environments](https://news.ycombinator.com/item?id=32678553)
 - [Backsliding on free expression around the world needs to end](https://www.thenewhumanitarian.org/opinion/2022/08/25/World-freedom-of-expression-report)
-- [Ask HN: Whatever Happened to Dedicated Soundcards?](https://news.ycombinator.com/item?id=32678091)
-- [Will I Ever See the $36MM Oberlin College Owes Me?](https://www.commonsense.news/p/will-i-ever-see-the-36-million-oberlin)
-- [Ask HN: Who is hiring? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677265)
 <!-- BLOG-POST-LIST:END -->
 
 ---
