@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Substack Is Hiring Android Engineers to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006027005)
-- [Crypto CEO behind $2.5B &#39;rug pull&#39; arrested, faces 40,564 years in prison](https://www.pcgamer.com/crypto-ceo-behind-dollar25b-rug-pull-arrested-faces-40564-years-in-prison/)
+- [Show HN: Open-source infra for building embedded data pipelines](https://github.com/pipebird/pipebird)
 - [Run Stable Diffusion on Your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
 - [Launch HN: SideGuide &lpar;YC S22&rpar; – Learn APIs by running them in live environments](https://news.ycombinator.com/item?id=32678553)
 - [Backsliding on free expression around the world needs to end](https://www.thenewhumanitarian.org/opinion/2022/08/25/World-freedom-of-expression-report)
