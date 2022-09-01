@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One million queries per second with MySQL](https://planetscale.com/blog/one-million-queries-per-second-with-mysql)
+- [Ask HN: Why don&#39;t we have 3 day weekends yet?](https://news.ycombinator.com/item?id=32680382)
 - [Substack Is Hiring Android Engineers to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006027005)
 - [Show HN: Open-source infra for building embedded data pipelines](https://github.com/pipebird/pipebird)
-- [Run Stable Diffusion on Your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
-- [Launch HN: SideGuide &lpar;YC S22&rpar; – Learn APIs by running them in live environments](https://news.ycombinator.com/item?id=32678553)
-- [Backsliding on free expression around the world needs to end](https://www.thenewhumanitarian.org/opinion/2022/08/25/World-freedom-of-expression-report)
+- [MS Teams Linux client is being retired. To be replaced by a progressive web app](https://news.ycombinator.com/item?id=32678839)
 <!-- BLOG-POST-LIST:END -->
 
 ---
