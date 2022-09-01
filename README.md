@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: SideGuide &lpar;YC S22&rpar; – Learn APIs by running them in live environments](https://news.ycombinator.com/item?id=32678553)
+- [Backsliding on free expression around the world needs to end](https://www.thenewhumanitarian.org/opinion/2022/08/25/World-freedom-of-expression-report)
+- [Ask HN: Whatever Happened to Dedicated Soundcards?](https://news.ycombinator.com/item?id=32678091)
+- [Will I Ever See the $36MM Oberlin College Owes Me?](https://www.commonsense.news/p/will-i-ever-see-the-36-million-oberlin)
 - [Ask HN: Who is hiring? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677265)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677264)
-- [Ask HN: Who wants to be hired? &lpar;September 2022&rpar;](https://news.ycombinator.com/item?id=32677261)
-- [Kagi/Orion status update: First three months](https://blog.kagi.com/status-update-first-three-months)
-- [Tell HN: Meetup.com is offering abandoned meetups to anyone willing to pay](https://news.ycombinator.com/item?id=32676728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
