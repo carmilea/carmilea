@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
+- [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
+- [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
+- [Random Google Street View](https://randomstreetview.com/)
 - [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
-- [Scientific grant applications are getting heavier on hype](https://www.statnews.com/2022/08/30/science-grant-nih-hype-application/)
-- [Fylm: Web&#39;s most advanced colour corrector](https://fylm.ai/)
-- [Former world champion reveals that she was ordered to lose Olympic semi-final](https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final)
-- [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
