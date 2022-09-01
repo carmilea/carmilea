@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to design database schema for usage based billing?](https://news.ycombinator.com/item?id=32669344)
-- [US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia](https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm)
-- [Ask HN: Anyone having issues with job applicant fraud?](https://news.ycombinator.com/item?id=32668694)
-- [Dealing with the perfectionism trap as a developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
-- [Saying goodbye to my parents’ library](https://www.wsj.com/articles/saying-goodbye-to-my-parents-library-11661572861)
+- [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
+- [Scientific grant applications are getting heavier on hype](https://www.statnews.com/2022/08/30/science-grant-nih-hype-application/)
+- [Fylm: Web&#39;s most advanced colour corrector](https://fylm.ai/)
+- [Former world champion reveals that she was ordered to lose Olympic semi-final](https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final)
+- [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
