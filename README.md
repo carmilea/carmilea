@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$2k Atom Bomb](https://nuclearprinceton.princeton.edu/people/john-phillips-1955-present)
+- [Australian Signals Directorate coin code cracked by 14yo in &#39;just over an hour&#39;](https://www.abc.net.au/news/2022-09-02/asd-50-cent-code-cracked-by-14yo-tasmanian-boy/101401978)
+- [Extroverts Destroy the World &lpar;2012&rpar;](https://nypost.com/2012/02/05/extroverts-destroy-the-world/)
+- [John A Phillips](https://nuclearprinceton.princeton.edu/people/john-phillips-1955-present)
 - [Germany pushes for ‘pay as you fly’ model](https://www.businesstravelnewseurope.com/Air-Travel/Germany-pushes-for-pay-as-you-fly-model)
 - [Cops wanted to keep mass surveillance app secret; privacy advocates refused](https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/)
-- [Trending tabs are being deprecated due to low usage](https://github.com/community/community/discussions/31644)
-- [Show HN: Countle](https://www.countle.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
