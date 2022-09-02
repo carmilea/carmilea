@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
-- [Apple overtakes Android to pass 50% share of smartphones used in US](https://www.ft.com/content/75891d95-4432-4571-83df-b4cdf82d5da5)
-- [Breaking down how USB4 goes where no USB standard has gone before](https://arstechnica.com/gadgets/2022/09/breaking-down-how-usb4-goes-where-no-usb-standard-has-gone-before/)
-- [Help Improve Gnome](https://blogs.gnome.org/aday/2022/08/25/help-improve-gnome/)
-- [Animating Prompts with Stable Diffusion](https://replicate.com/deforum/deforum_stable_diffusion/examples#cccjscm6w5cindhifcn5xc5sdm)
+- [What to do if you find a nuclear-powered cardiac pacemaker](https://osrp.lanl.gov/pacemakers.shtml)
+- [An Apple Watch for Your 5-Year-Old? More Parents Say Yes](https://www.nytimes.com/2022/09/01/technology/apple-watch-children-kids.html)
+- [Compile the Minecraft Server &lpar;Java Edition&rpar; to Native with GraalVM Native Image](https://github.com/hpi-swa/native-minecraft-server)
+- [Flicking the kill switch: governments embrace internet shutdowns](https://www.theguardian.com/technology/2022/aug/29/flicking-the-kill-switch-governments-embrace-internet-shutdowns-as-a-form-of-control)
+- [Apple refuses to produce information regarding The App Association &lpar;ACT&rpar;](http://www.fosspatents.com/2022/09/apple-refuses-to-cooperate-with-us.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
