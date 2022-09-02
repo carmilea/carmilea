@@ -55,7 +55,7 @@
 - [An Apple Watch for Your 5-Year-Old? More Parents Say Yes](https://www.nytimes.com/2022/09/01/technology/apple-watch-children-kids.html)
 - [Compile the Minecraft Server &lpar;Java Edition&rpar; to Native with GraalVM Native Image](https://github.com/hpi-swa/native-minecraft-server)
 - [Flicking the kill switch: governments embrace internet shutdowns](https://www.theguardian.com/technology/2022/aug/29/flicking-the-kill-switch-governments-embrace-internet-shutdowns-as-a-form-of-control)
-- [Apple refuses to produce information regarding The App Association &lpar;ACT&rpar;](http://www.fosspatents.com/2022/09/apple-refuses-to-cooperate-with-us.html)
+- [Xkcd: Universe Price Tiers](https://xkcd.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
