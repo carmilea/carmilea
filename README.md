@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [$2k Atom Bomb](https://nuclearprinceton.princeton.edu/people/john-phillips-1955-present)
-- [Google Blocks Truth Social from the Play Store – Will Apple Be Next?](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
 - [Germany pushes for ‘pay as you fly’ model](https://www.businesstravelnewseurope.com/Air-Travel/Germany-pushes-for-pay-as-you-fly-model)
 - [Cops wanted to keep mass surveillance app secret; privacy advocates refused](https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/)
 - [Trending tabs are being deprecated due to low usage](https://github.com/community/community/discussions/31644)
+- [Show HN: Countle](https://www.countle.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
