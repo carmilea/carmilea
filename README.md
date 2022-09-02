@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ernie-ViLG better anime quality than Stable Diffusion](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
-- [Framework is now available in Australia](https://frame.work/au/en)
-- [Not Your Grandmother&#39;s Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
-- [We clone a running VM in 2 seconds](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds)
-- [USB 4 version 2 promises 80 Gbps speeds over existing cables](https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt)
+- [50 years on from The Limits to Growth, what did we learn and what’s next?](https://www.clubofrome.org/publication/limits-and-beyond/)
+- [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
+- [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
+- [Implementing a Dark Theme for SingleStoreDB Cloud Portal UI](https://www.singlestore.com/blog/implementing-a-dark-theme-for-singlestoredb-cloud-portal-ui)
+- [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
