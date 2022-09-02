@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Hacker Stations – tech workspace setups to get inspiration from](https://hackerstations.com)
+- [Tell HN: Citus is 100% open source now](https://news.ycombinator.com/item?id=32693724)
+- [Ask HN: Should a German founder with a Greencard set up a holding company?](https://news.ycombinator.com/item?id=32693593)
+- [Poland plans to seek $1.3T in reparations from Germany for WWII](https://www.axios.com/2022/09/01/poland-reparations-germany-wwii)
 - [We want to make Nix better](https://determinate.systems/posts/we-want-to-make-nix-better)
-- [DevCycle &lpar;YC W14&rpar; – Feature Flags and Remote Config Automation – Is Hiring](https://devcycle.com/company/careers)
-- [Frank Drake, astronomer famed for contributions to SETI, has died](https://arstechnica.com/science/2022/09/frank-drake-astronomer-famed-for-contributions-to-seti-has-died/)
-- [Show HN: Create a freelance business in a few minutes](https://clienty.app/)
-- [My Contribution to Markdown](https://leancrew.com/all-this/2022/09/my-contribution-to-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
