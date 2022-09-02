@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Collaborative event registration with WebGL and WebSockets](https://nextjs.org/conf?d=oct2022)
-- [Cannabis legalization decreases stock market value of major pharmaceutical firms](http://news.unm.edu/news/cannabis-legalization-decreases-the-stock-market-value-of-major-pharmaceutical-firms)
-- [Lawsuit Uncovers Federal Bureaucrats Coercing Social-Media to Censor Speech](https://nclalegal.org/2022/09/ncla-suit-uncovers-army-of-federal-bureaucrats-coercing-social-media-companies-to-censor-speech/)
-- [Intel details 12th Gen Core SoCs optimized for edge applications](https://www.theregister.com/2022/09/02/intel_details_12th_gen_core/)
-- [Ask HN: How do startups/lean teams successfully handle mat/pat leave?](https://news.ycombinator.com/item?id=32692016)
+- [We want to make Nix better](https://determinate.systems/posts/we-want-to-make-nix-better)
+- [DevCycle &lpar;YC W14&rpar; – Feature Flags and Remote Config Automation – Is Hiring](https://devcycle.com/company/careers)
+- [Frank Drake, astronomer famed for contributions to SETI, has died](https://arstechnica.com/science/2022/09/frank-drake-astronomer-famed-for-contributions-to-seti-has-died/)
+- [Show HN: Create a freelance business in a few minutes](https://clienty.app/)
+- [My Contribution to Markdown](https://leancrew.com/all-this/2022/09/my-contribution-to-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
