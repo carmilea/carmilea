@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure as Software](https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
+- [What would make AWS even better](https://yehudacohen.substack.com/p/what-would-make-aws-even-better)
 - [Tor – Arti 1.0.0 is released: Rust Tor implementation ready for production use](https://blog.torproject.org/arti_100_released/)
-- [America’s Bad Bet on Sports Gambling](https://compactmag.com/article/america-s-bad-bet-on-sports-gambling)
-- [USB4 v2 is also 120 Gbps](https://www.angstronomics.com/p/usb4-v2)
 - [Elixir – Phoenix LiveView Native](https://native.live)
 - [Birds Changed Their Tune During the Pandemic](https://www.atlasobscura.com/articles/bird-songs-changed-pandemic)
 <!-- BLOG-POST-LIST:END -->
