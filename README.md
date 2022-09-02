@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California asks people not to charge EVs during heatwave](https://www.theregister.com/2022/09/01/california_ev_heatwave/)
-- [Australian Signals Directorate coin code cracked by 14yo in &#39;just over an hour&#39;](https://www.abc.net.au/news/2022-09-02/asd-50-cent-code-cracked-by-14yo-tasmanian-boy/101401978)
-- [Folk Interfaces](https://maggieappleton.com/folk-interfaces)
-- [Show HN: Wavvy – web-based audio editor &lpar;Audacity port&rpar;](https://wavvy.app/)
-- [Extroverts Destroy the World &lpar;2012&rpar;](https://nypost.com/2012/02/05/extroverts-destroy-the-world/)
+- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
+- [Apple overtakes Android to pass 50% share of smartphones used in US](https://www.ft.com/content/75891d95-4432-4571-83df-b4cdf82d5da5)
+- [Breaking down how USB4 goes where no USB standard has gone before](https://arstechnica.com/gadgets/2022/09/breaking-down-how-usb4-goes-where-no-usb-standard-has-gone-before/)
+- [Help Improve Gnome](https://blogs.gnome.org/aday/2022/08/25/help-improve-gnome/)
+- [Animating Prompts with Stable Diffusion](https://replicate.com/deforum/deforum_stable_diffusion/examples#cccjscm6w5cindhifcn5xc5sdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
