@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Germany pushes for ‘pay as you fly’ model](https://www.businesstravelnewseurope.com/Air-Travel/Germany-pushes-for-pay-as-you-fly-model)
 - [Cops wanted to keep mass surveillance app secret; privacy advocates refused](https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/)
-- [GitHub is removing the Trending Repositories page due to “low usage”](https://github.com/community/community/discussions/31644)
+- [Trending tabs are being deprecated due to low usage](https://github.com/community/community/discussions/31644)
 - [Show HN: Countle](https://www.countle.org)
 - [Cost Savings With SingleStoreDB On-Premises](https://www.singlestore.com/blog/cost-savings-with-singlestoredb)
 <!-- BLOG-POST-LIST:END -->
