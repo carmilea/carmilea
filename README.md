@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cannabis users no less likely to be motivated or able to enjoy life’s pleasure](https://www.cam.ac.uk/research/news/cannabis-users-no-less-likely-to-be-motivated-or-able-to-enjoy-lifes-pleasure)
+- [California Passes Law Requiring Companies to Post Salary Ranges on Job Listings](https://www.bloomberg.com/news/articles/2022-08-30/california-passes-law-requiring-companies-like-meta-disney-to-post-salary-range)
 - [USB4 v2 is also 120 Gbps](https://www.angstronomics.com/p/usb4-v2)
+- [Elixir – Phoenix LiveView Native](https://native.live)
 - [Birds Changed Their Tune During the Pandemic](https://www.atlasobscura.com/articles/bird-songs-changed-pandemic)
-- [Why have I never heard of the Ene-Farm? &lpar;2017&rpar;](https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/)
-- [Making Iron from Sand](https://www.youtube.com/watch?v=OPIUMpiV0IY)
-- [Hacker Stations – Tech workspace setups to get inspiration from](https://hackerstations.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
