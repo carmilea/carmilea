@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using a Raspberry Pi as a Bluetooth Speaker with PipeWire](https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/)
+- [Spain launches free train tickets for short and medium journeys from Sept to Dec](https://www.euronews.com/travel/2022/09/01/spain-short-and-medium-distance-trains-will-be-free-this-autumn-thanks-to-a-windfall-tax)
+- [Ranking the 25 Most Painful Lego to Step On](https://nerdist.com/article/ranking-the-25-most-painful-lego-to-step-on/)
+- [Hackers created an enormous traffic jam in Moscow](https://cybernews.com/cyber-war/hackers-created-an-enormous-traffic-jam-in-moscow/)
 - [What to do if you find a nuclear-powered cardiac pacemaker](https://osrp.lanl.gov/pacemakers.shtml)
-- [An Apple Watch for Your 5-Year-Old? More Parents Say Yes](https://www.nytimes.com/2022/09/01/technology/apple-watch-children-kids.html)
-- [Compile the Minecraft Server &lpar;Java Edition&rpar; to Native with GraalVM Native Image](https://github.com/hpi-swa/native-minecraft-server)
-- [Flicking the kill switch: governments embrace internet shutdowns](https://www.theguardian.com/technology/2022/aug/29/flicking-the-kill-switch-governments-embrace-internet-shutdowns-as-a-form-of-control)
-- [Xkcd: Universe Price Tiers](https://xkcd.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
