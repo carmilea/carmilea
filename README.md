@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [USB4 v2 is also 120 Gbps](https://www.angstronomics.com/p/usb4-v2)
+- [Birds Changed Their Tune During the Pandemic](https://www.atlasobscura.com/articles/bird-songs-changed-pandemic)
+- [Why have I never heard of the Ene-Farm? &lpar;2017&rpar;](https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/)
+- [Making Iron from Sand](https://www.youtube.com/watch?v=OPIUMpiV0IY)
 - [Hacker Stations – Tech workspace setups to get inspiration from](https://hackerstations.com)
-- [Ask HN: Should a German founder with a green card set up a holding company?](https://news.ycombinator.com/item?id=32693593)
-- [Poland plans to seek $1.3T in reparations from Germany for WWII](https://www.axios.com/2022/09/01/poland-reparations-germany-wwii)
-- [Samsung Recent Security Incident](https://www.samsung.com/us/support/securityresponsecenter/)
-- [We want to make Nix better](https://determinate.systems/posts/we-want-to-make-nix-better)
 <!-- BLOG-POST-LIST:END -->
 
 ---
