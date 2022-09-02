@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [50 years on from The Limits to Growth, what did we learn and what’s next?](https://www.clubofrome.org/publication/limits-and-beyond/)
+- [Cost Savings With SingleStoreDB On-Premises](https://www.singlestore.com/blog/cost-savings-with-singlestoredb)
+- [Why Instagram Is Dying: We Asked 100 Gen Z Users to Compare TikTok vs. Reels](https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation)
 - [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
 - [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
 - [Implementing a Dark Theme for SingleStoreDB Cloud Portal UI](https://www.singlestore.com/blog/implementing-a-dark-theme-for-singlestoredb-cloud-portal-ui)
-- [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
