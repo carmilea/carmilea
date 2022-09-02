@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using a Raspberry Pi as a Bluetooth Speaker with PipeWire](https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/)
-- [Spain launches free train tickets for short and medium journeys from Sept to Dec](https://www.euronews.com/travel/2022/09/01/spain-short-and-medium-distance-trains-will-be-free-this-autumn-thanks-to-a-windfall-tax)
-- [Ranking the 25 Most Painful Lego to Step On](https://nerdist.com/article/ranking-the-25-most-painful-lego-to-step-on/)
-- [Hackers created an enormous traffic jam in Moscow](https://cybernews.com/cyber-war/hackers-created-an-enormous-traffic-jam-in-moscow/)
-- [What to do if you find a nuclear-powered cardiac pacemaker](https://osrp.lanl.gov/pacemakers.shtml)
+- [Show HN: Collaborative event registration with WebGL and WebSockets](https://nextjs.org/conf?d=oct2022)
+- [Cannabis legalization decreases stock market value of major pharmaceutical firms](http://news.unm.edu/news/cannabis-legalization-decreases-the-stock-market-value-of-major-pharmaceutical-firms)
+- [Lawsuit Uncovers Federal Bureaucrats Coercing Social-Media to Censor Speech](https://nclalegal.org/2022/09/ncla-suit-uncovers-army-of-federal-bureaucrats-coercing-social-media-companies-to-censor-speech/)
+- [Intel details 12th Gen Core SoCs optimized for edge applications](https://www.theregister.com/2022/09/02/intel_details_12th_gen_core/)
+- [Ask HN: How do startups/lean teams successfully handle mat/pat leave?](https://news.ycombinator.com/item?id=32692016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
