@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker Stations – tech workspace setups to get inspiration from](https://hackerstations.com)
-- [Tell HN: Citus is 100% open source now](https://news.ycombinator.com/item?id=32693724)
-- [Ask HN: Should a German founder with a Greencard set up a holding company?](https://news.ycombinator.com/item?id=32693593)
+- [Hacker Stations – Tech workspace setups to get inspiration from](https://hackerstations.com)
+- [Ask HN: Should a German founder with a green card set up a holding company?](https://news.ycombinator.com/item?id=32693593)
 - [Poland plans to seek $1.3T in reparations from Germany for WWII](https://www.axios.com/2022/09/01/poland-reparations-germany-wwii)
+- [Samsung Recent Security Incident](https://www.samsung.com/us/support/securityresponsecenter/)
 - [We want to make Nix better](https://determinate.systems/posts/we-want-to-make-nix-better)
 <!-- BLOG-POST-LIST:END -->
 
