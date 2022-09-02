@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany pushes for ‘pay as you fly’ model](https://www.businesstravelnewseurope.com/Air-Travel/Germany-pushes-for-pay-as-you-fly-model)
+- [Cops wanted to keep mass surveillance app secret; privacy advocates refused](https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/)
+- [GitHub is removing the Trending Repositories page due to “low usage”](https://github.com/community/community/discussions/31644)
+- [Show HN: Countle](https://www.countle.org)
 - [Cost Savings With SingleStoreDB On-Premises](https://www.singlestore.com/blog/cost-savings-with-singlestoredb)
-- [Why Instagram Is Dying: We Asked 100 Gen Z Users to Compare TikTok vs. Reels](https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation)
-- [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
-- [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
-- [Implementing a Dark Theme for SingleStoreDB Cloud Portal UI](https://www.singlestore.com/blog/implementing-a-dark-theme-for-singlestoredb-cloud-portal-ui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
