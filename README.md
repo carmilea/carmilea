@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub backtracks on depreciating the trending tabs page](https://github.com/orgs/community/discussions/31644)
-- [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
-- [Nokia’s Burning Platform Memo](https://aaplinvestors.net/stats/iphone/nokiamemo/)
+- [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
+- [Witnesses, drone expert react to mysterious lights captured in Texas sky](https://www.fox7austin.com/news/mysterious-lights-in-the-sky-had-people-mesmerized-in-round-rock)
+- [Nokia’s Burning Platform Memo &lpar;2011&rpar;](https://aaplinvestors.net/stats/iphone/nokiamemo/)
 - [Science is political, and that&#39;s a bad thing](https://stuartritchie.substack.com/p/science-is-political)
 - [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
 <!-- BLOG-POST-LIST:END -->
