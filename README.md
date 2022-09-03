@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Eckersley, may his memory be a blessing](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
+- [Tell HN: The 10-bit timers are about to overflow on September 17th](https://news.ycombinator.com/item?id=32700184)
+- [Peter Eckersley has died](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
+- [IMDB deleted all negative user reviews for The Rings of Power](https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/)
+- [SBCL: New in Version 2.2.8](http://sbcl.org/all-news.html?2.2.8#2.2.8)
 - [Flexport is hiring smart people who want to work hard](https://flexport.com)
-- [Countering the Achievement Society](https://iai.tv/articles/should-we-rediscover-education-as-leisure-auid-1109)
-- [Myths About CGI Scalability](http://z505.com/cgi-bin/qkcont/qkcont.cgi?p=Myths%20About%20CGI%20Scalability)
-- [Ask HN: Working as Software Engr for 5 years but forgotten all CS stuff. Normal?](https://news.ycombinator.com/item?id=32698784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
