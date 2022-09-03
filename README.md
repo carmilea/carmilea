@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
 - [OneSignal &lpar;YC S11&rpar; just announced a $50M Series C and is hiring engineers](https://onesignal.com/careers)
+- [The History of FoxPro: Interview with Wayne Ratliff](http://www.foxprohistory.org/interview_wayne_ratliff.htm)
+- [Chronic blue light leads to accelerated aging in Drosophila](https://www.frontiersin.org/articles/10.3389/fragi.2022.983373/full)
 - [Porsche Boss Faces Software Woes Keeping VW a Step Behind Tesla](https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla)
-- [In Jackson, Mississippi, a water crisis of unparalleled scale](https://www.washingtonpost.com/nation/2022/09/03/jackson-mississippi-water-crisis/)
-- [DBOS: A Database-Oriented Operating System](https://dbos-project.github.io/blog/intro-blog.html)
-- [Tavis Ormandy: Cloudflare lobbied FTC to stifle security researchers](https://twitter.com/taviso/status/1566077115992133634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
