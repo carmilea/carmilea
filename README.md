@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Eckersley, may his memory be a blessing](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
 - [Flexport is hiring smart people who want to work hard](https://flexport.com)
-- [Ballmer Laughs at iPhone &lpar;2007&rpar;](https://www.youtube.com/watch?v=eywi0h_Y5_U)
+- [Countering the Achievement Society](https://iai.tv/articles/should-we-rediscover-education-as-leisure-auid-1109)
+- [Myths About CGI Scalability](http://z505.com/cgi-bin/qkcont/qkcont.cgi?p=Myths%20About%20CGI%20Scalability)
 - [Ask HN: Working as Software Engr for 5 years but forgotten all CS stuff. Normal?](https://news.ycombinator.com/item?id=32698784)
-- [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
-- [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
