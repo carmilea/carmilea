@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Generalist contractors, what is your hourly rate?](https://news.ycombinator.com/item?id=32701641)
+- [Why all personal websites die](https://theyellowarchitect.com/blog/why-personal-websites-die#title)
+- [Behind the fall of renowned cancer researcher David Sabatini](https://www.commonsense.news/p/he-was-a-world-renowned-cancer-researcher)
+- [From Prison to Programming](https://corecursive.com/prison-programming-with-rick-wolter/)
 - [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- [As Britain awaits a new prime minister, its cost-of-living crisis mounts](https://www.cbc.ca/news/world/britian-new-prime-minister-cost-of-living-crisis-1.6571189)
-- [Israeli rules say West Bank visitors must declare love interest](https://www.bbc.com/news/world-middle-east-62730164)
-- [Tell HN: The 10-bit timers are about to overflow on September 17th](https://news.ycombinator.com/item?id=32700184)
-- [Peter Eckersley has died](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
