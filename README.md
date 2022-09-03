@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Working as Software Engr for 5 years but forgotten all CS stuff. Normal?](https://news.ycombinator.com/item?id=32698784)
+- [Flexport is hiring smart people who want to work hard](https://flexport.com)
+- [Ballmer Laughs at iPhone &lpar;2007&rpar;](https://www.youtube.com/watch?v=eywi0h_Y5_U)
 - [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
-- [Witnesses, drone expert react to mysterious lights captured in Texas sky](https://www.fox7austin.com/news/mysterious-lights-in-the-sky-had-people-mesmerized-in-round-rock)
+- [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
 - [Nokia’s Burning Platform Memo &lpar;2011&rpar;](https://aaplinvestors.net/stats/iphone/nokiamemo/)
-- [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
