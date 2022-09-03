@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; just announced a $50M Series C and is hiring engineers](https://onesignal.com/careers)
+- [Porsche Boss Faces Software Woes Keeping VW a Step Behind Tesla](https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla)
 - [In Jackson, Mississippi, a water crisis of unparalleled scale](https://www.washingtonpost.com/nation/2022/09/03/jackson-mississippi-water-crisis/)
 - [DBOS: A Database-Oriented Operating System](https://dbos-project.github.io/blog/intro-blog.html)
 - [Tavis Ormandy: Cloudflare lobbied FTC to stifle security researchers](https://twitter.com/taviso/status/1566077115992133634)
-- [Brew Is a Bad Neighbor](https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341)
-- [PC wakes from sleep when changing clothes](https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
