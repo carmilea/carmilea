@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [11 18 25 13 19 11 1 2 1 22 15 22 14 1](https://twitter.com/DI_Ukraine/status/1566062095757721602)
+- [DockYard R&amp;D: FireFly Optimizes Your Elixir Compilation](https://dockyard.com/blog/2022/09/01/dockyard-r-d-firefly-optimizes-your-elixir-compilation)
+- [Overview of the New LH2 Sphere at NASA Kennedy Space Center [pdf]](https://www.energy.gov/sites/default/files/2021-10/new-lh2-sphere.pdf)
+- [Lost islands cited in Welsh folklore and poetry are plausible](https://www.sciencedaily.com/releases/2022/08/220825120347.htm)
 - [Census Bureau: 3.8M renters will likely be evicted in the next two months](https://finance.yahoo.com/news/census-bureau-3-8-million-100000978.html)
-- [So You Want to be a Writer…](https://hughhowey.com/so-you-want-to-be-a-writer/)
-- [Why Aren’t Student Loans Simple? Because This Is America](https://www.nytimes.com/2022/09/03/your-money/student-loans-personal-finance.html)
-- [Show HN: Alumina Programming Language](https://github.com/tibordp/alumina)
-- [Artemis I Launch Attempt Scrubbed](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
