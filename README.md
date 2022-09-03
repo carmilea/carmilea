@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Software](https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
-- [What would make AWS even better](https://yehudacohen.substack.com/p/what-would-make-aws-even-better)
-- [Tor – Arti 1.0.0 is released: Rust Tor implementation ready for production use](https://blog.torproject.org/arti_100_released/)
-- [Elixir – Phoenix LiveView Native](https://native.live)
-- [Birds Changed Their Tune During the Pandemic](https://www.atlasobscura.com/articles/bird-songs-changed-pandemic)
+- [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
+- [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Non Fungible Tickets](https://dx.tips/non-fungible-tickets)
+- [Fog Revealed: A guided tour of how cops can browse your location data](https://www.eff.org/deeplinks/2022/08/fog-revealed-guided-tour-how-cops-can-browse-your-location-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
