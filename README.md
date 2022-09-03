@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: “lofi” File Share for personal, team usage](https://news.ycombinator.com/item?id=32704774)
+- [Tavis Ormandy: Cloudflare lobbied FTC to stifle security researchers](https://twitter.com/taviso/status/1566077115992133634)
+- [Brew Is a Bad Neighbor](https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341)
 - [PC wakes from sleep when changing clothes](https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/)
-- [A girl wanted to keep the goat she raised for a county fair. They killed it](https://www.theguardian.com/us-news/2022/sep/02/goat-cedar-county-fair-auction-california)
-- [The E-bike Is a Monstrosity](https://www.theatlantic.com/technology/archive/2022/08/ebike-electric-bikes-climate-change-exercise/671305/)
 - [11 18 25 13 19 11 1 2 1 22 15 22 14 1](https://twitter.com/DI_Ukraine/status/1566062095757721602)
-- [Melting ice reveals two-million-year old peat](http://williamcolgan.net/blog/?p=692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
