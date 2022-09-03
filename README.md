@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PC wakes from sleep when changing clothes](https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/)
+- [A girl wanted to keep the goat she raised for a county fair. They killed it](https://www.theguardian.com/us-news/2022/sep/02/goat-cedar-county-fair-auction-california)
+- [The E-bike Is a Monstrosity](https://www.theatlantic.com/technology/archive/2022/08/ebike-electric-bikes-climate-change-exercise/671305/)
 - [11 18 25 13 19 11 1 2 1 22 15 22 14 1](https://twitter.com/DI_Ukraine/status/1566062095757721602)
-- [DockYard R&amp;D: FireFly Optimizes Your Elixir Compilation](https://dockyard.com/blog/2022/09/01/dockyard-r-d-firefly-optimizes-your-elixir-compilation)
-- [Overview of the New LH2 Sphere at NASA Kennedy Space Center [pdf]](https://www.energy.gov/sites/default/files/2021-10/new-lh2-sphere.pdf)
-- [Lost islands cited in Welsh folklore and poetry are plausible](https://www.sciencedaily.com/releases/2022/08/220825120347.htm)
-- [Census Bureau: 3.8M renters will likely be evicted in the next two months](https://finance.yahoo.com/news/census-bureau-3-8-million-100000978.html)
+- [Melting ice reveals two-million-year old peat](http://williamcolgan.net/blog/?p=692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
