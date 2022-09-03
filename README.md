@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Flexport is hiring smart people who want to work hard](https://flexport.com)
 - [Ballmer Laughs at iPhone &lpar;2007&rpar;](https://www.youtube.com/watch?v=eywi0h_Y5_U)
+- [Ask HN: Working as Software Engr for 5 years but forgotten all CS stuff. Normal?](https://news.ycombinator.com/item?id=32698784)
 - [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
 - [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
-- [Nokia’s Burning Platform Memo &lpar;2011&rpar;](https://aaplinvestors.net/stats/iphone/nokiamemo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
