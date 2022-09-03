@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncommentable HN post “Flexport is hiring smart people..” on the front page?](https://news.ycombinator.com/item?id=32700568)
+- [Israeli rules say West Bank visitors must declare love interest](https://www.bbc.com/news/world-middle-east-62730164)
 - [Tell HN: The 10-bit timers are about to overflow on September 17th](https://news.ycombinator.com/item?id=32700184)
 - [Peter Eckersley has died](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
 - [IMDB deleted all negative user reviews for The Rings of Power](https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/)
-- [SBCL: New in Version 2.2.8](http://sbcl.org/all-news.html?2.2.8#2.2.8)
-- [Flexport is hiring smart people who want to work hard](https://flexport.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
