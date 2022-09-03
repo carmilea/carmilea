@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Working as Software Engr for 5 years but forgotten all CS stuff. Normal?](https://news.ycombinator.com/item?id=32698784)
 - [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
 - [Witnesses, drone expert react to mysterious lights captured in Texas sky](https://www.fox7austin.com/news/mysterious-lights-in-the-sky-had-people-mesmerized-in-round-rock)
 - [Nokia’s Burning Platform Memo &lpar;2011&rpar;](https://aaplinvestors.net/stats/iphone/nokiamemo/)
-- [Science is political, and that&#39;s a bad thing](https://stuartritchie.substack.com/p/science-is-political)
-- [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
+- [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
