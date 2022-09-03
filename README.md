@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA – Artemis I – Liquid Hydrogen Leak Detected Once Again](https://blogs.nasa.gov/artemis/2022/09/03/liquid-hydrogen-leak-detected-once-again/)
-- [Amazon&#39;s Global Quest to Crush Unions](https://newrepublic.com/maz/article/167263/amazons-global-quest-crush-unions)
-- [Lenovo’s Glasses T1 let you bring a private big screen display with you](https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa)
-- [Ubuntu: “How are we improving Firefox snap performance?”](https://snapcraft.io/blog/how-are-we-improving-firefox-snap-performance-part-1)
-- [The optimal amount of fraud is non-zero](https://bam.kalzumeus.com/archive/optimal-amount-of-fraud/)
+- [Census Bureau: 3.8M renters will likely be evicted in the next two months](https://finance.yahoo.com/news/census-bureau-3-8-million-100000978.html)
+- [So You Want to be a Writer…](https://hughhowey.com/so-you-want-to-be-a-writer/)
+- [Why Aren’t Student Loans Simple? Because This Is America](https://www.nytimes.com/2022/09/03/your-money/student-loans-personal-finance.html)
+- [Show HN: Alumina Programming Language](https://github.com/tibordp/alumina)
+- [Artemis I Launch Attempt Scrubbed](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
