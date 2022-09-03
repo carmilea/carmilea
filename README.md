@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub backtracks on depreciating the trending tabs page](https://github.com/orgs/community/discussions/31644)
+- [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
+- [Nokia’s Burning Platform Memo](https://aaplinvestors.net/stats/iphone/nokiamemo/)
+- [Science is political, and that&#39;s a bad thing](https://stuartritchie.substack.com/p/science-is-political)
 - [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
-- [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Non Fungible Tickets](https://dx.tips/non-fungible-tickets)
-- [Fog Revealed: A guided tour of how cops can browse your location data](https://www.eff.org/deeplinks/2022/08/fog-revealed-guided-tour-how-cops-can-browse-your-location-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
