@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actor Bill Murray lost $185K raised for charity in crypto hack](https://fortune.com/2022/09/02/bill-murray-crypto-stolen-hacker-nfts-charity/)
+- [NASA – Artemis I – Liquid Hydrogen Leak Detected Once Again](https://blogs.nasa.gov/artemis/2022/09/03/liquid-hydrogen-leak-detected-once-again/)
+- [Amazon&#39;s Global Quest to Crush Unions](https://newrepublic.com/maz/article/167263/amazons-global-quest-crush-unions)
+- [Lenovo’s Glasses T1 let you bring a private big screen display with you](https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa)
+- [Ubuntu: “How are we improving Firefox snap performance?”](https://snapcraft.io/blog/how-are-we-improving-firefox-snap-performance-part-1)
 - [The optimal amount of fraud is non-zero](https://bam.kalzumeus.com/archive/optimal-amount-of-fraud/)
-- [Frank Drake Has Died](https://www.nadiadrake.com)
-- [GM offers to buy out Buick dealers that don&#39;t want to invest in EVs](https://www.cnbc.com/2022/09/02/gm-offers-to-buy-out-buick-dealers-that-dont-want-to-invest-in-evs.html)
-- [Ask HN: Generalist contractors, what is your hourly rate?](https://news.ycombinator.com/item?id=32701641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
