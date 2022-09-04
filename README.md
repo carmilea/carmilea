@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Zelda BOTW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/)
-- [Create epic music together with friends and strangers](https://test.plink.in)
-- [Zstandard – Real-time data compression algorithm](http://facebook.github.io/zstd/)
-- [After self-hosting my email for twenty-three years I have thrown in the towel](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
+- [Unreal Rust](https://maikklein.github.io/unreal-rust-1/)
+- [A New Materials Paradigm Is Overdue](https://www.tsungxu.com/materials-paradigm/)
+- [The Benefits of Breakfast Cereal Consumption](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4188247/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
