@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Haskell Is Interesting?](https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell)
-- [Kiwi Farms response to CloudFlare](https://kiwifarms.ru/threads/matthew-prince-lied.128900/)
-- [Oberon, Plan 9 and Inferno &lpar;2021&rpar;](https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/)
-- [Apple can terminate developer account without a reason by mistake](https://twitter.com/svbelmeha/status/1566063915515133952)
-- [Simutrans Turns 25](https://blog.simutrans.com/?p=2443)
+- [Leak ruins NASA moon rocket launch bid; next try weeks away](https://apnews.com/article/astronomy-space-launches-exploration-science-9a89bb77af17be3e3b5891a0b224ac69)
+- [Suddenly everyone wants ‘super-hot’ heat pumps](https://norwegianscitechnews.com/2022/05/suddenly-everyone-wants-super-hot-heat-pumps/)
+- [C Integer Quiz](https://www.acepace.net/integerQuiz/)
+- [Why Haskell Is Interesting? &lpar;2005&rpar;](https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell)
+- [Program Synthesis is Possible &lpar;2018&rpar;](https://www.cs.cornell.edu/~asampson/blog/minisynth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
