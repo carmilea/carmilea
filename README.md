@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost Half of Cancer Deaths Are Preventable](https://www.nature.com/articles/d41586-022-02355-x)
-- [Lapce Editor, Release v0.2.0](https://github.com/lapce/lapce/releases/tag/v0.2.0)
-- [Capsaicin in Peppers](https://luciditysystems.com/2020/10/23/capsaicin-in-peppers/)
-- [W2UI is a JavaScript UI library for building rich web applications](https://github.com/vitmalina/w2ui)
-- [Poll of Wikipedians concludes: Wikimedia fundraising emails are misleading](https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/thread/YKYDOBBH2RHJO2DHNP4YEPH37J3L5PBH/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [What the KIM-1 really needs is bubble memory](http://oldvcr.blogspot.com/2022/09/what-kim-1-really-needs-is-bubble.html)
+- [Questions to ask a prospective employer during a job interview](https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html)
+- [Google Mortgage Loan Calculator](https://www.google.com/search?q=mortgage+calculator)
+- [Reviving the coolest scanner you&#39;ve never heard of](https://ktkaufman03.github.io/blog/2022/09/04/pakon-reverse-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
