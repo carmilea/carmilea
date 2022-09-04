@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [22,000 smart thermostats in Colorado locked over ‘energy emergency’](https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/)
+- [Ask HN: What book have you re-read 3x or more?](https://news.ycombinator.com/item?id=32712496)
 - [Leak ruins NASA moon rocket launch bid; next try weeks away](https://apnews.com/article/astronomy-space-launches-exploration-science-9a89bb77af17be3e3b5891a0b224ac69)
+- [Thunderbolt, Displayport and Docks](https://stderr.nl/Blog/Hardware/Thunderbolt/TechnologyOverview.html)
 - [Suddenly everyone wants ‘super-hot’ heat pumps](https://norwegianscitechnews.com/2022/05/suddenly-everyone-wants-super-hot-heat-pumps/)
-- [C Integer Quiz](https://www.acepace.net/integerQuiz/)
-- [Why Haskell Is Interesting? &lpar;2005&rpar;](https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
