@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Oracle, Please Release the JavaScript Trademark](https://tinyclouds.org)
 - [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
 - [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
 - [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
 - [Ivy &lpar;YC W23&rpar; is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
