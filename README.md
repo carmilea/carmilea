@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Haskell Is Interesting?](https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell)
+- [Kiwi Farms response to CloudFlare](https://kiwifarms.ru/threads/matthew-prince-lied.128900/)
+- [Oberon, Plan 9 and Inferno &lpar;2021&rpar;](https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/)
+- [Apple can terminate developer account without a reason by mistake](https://twitter.com/svbelmeha/status/1566063915515133952)
 - [Simutrans Turns 25](https://blog.simutrans.com/?p=2443)
-- [Instagram removes Pornhub&#39;s account](https://variety.com/2022/digital/news/instagram-bans-pornhub-account-removed-1235359364/)
-- [Was Vincent van Gogh Color Blind? It Sure Looks Like It](https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/)
-- [Why was western printing superior to Asian printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior)
-- [Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM](https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
