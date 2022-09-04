@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After self-hosting my email for twenty-three years I have thrown in the towel](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Genomics of mortal andimmortal cnidarians unveils novel keys behind rejuvenation](https://www.pnas.org/doi/full/10.1073/pnas.2118763119)
 - [What the KIM-1 really needs is bubble memory](http://oldvcr.blogspot.com/2022/09/what-kim-1-really-needs-is-bubble.html)
 - [Questions to ask a prospective employer during a job interview](https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html)
-- [Google Mortgage Loan Calculator](https://www.google.com/search?q=mortgage+calculator)
-- [Reviving the coolest scanner you&#39;ve never heard of](https://ktkaufman03.github.io/blog/2022/09/04/pakon-reverse-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
