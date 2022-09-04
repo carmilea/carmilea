@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
+- [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
+- [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
 - [Ivy &lpar;YC W23&rpar; is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
-- [Ask HN: If I enter account or order in a phone tree, why am I asked again?](https://news.ycombinator.com/item?id=32707737)
-- [Space Weather Prediction Center](https://www.spaceweather.gov/homepage)
-- [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
