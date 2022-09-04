@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simutrans Turns 25](https://blog.simutrans.com/?p=2443)
 - [Instagram removes Pornhub&#39;s account](https://variety.com/2022/digital/news/instagram-bans-pornhub-account-removed-1235359364/)
+- [Was Vincent van Gogh Color Blind? It Sure Looks Like It](https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/)
 - [Why was western printing superior to Asian printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior)
 - [Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM](https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html)
-- [Some things to learn from the British East India Company&#39;s growth and demise](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british)
-- [Dear Oracle, Please Release the JavaScript Trademark](https://tinyclouds.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
