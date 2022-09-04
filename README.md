@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Illustrating Gutenberg library using Stable Diffusion](https://storybooks.ai/)
-- [The Kodak Disc Camera](https://clickamericana.com/media/photography/what-happened-to-kodak-disc-camera-debuted-in-1982)
-- [Leak ruins NASA moon rocket launch bid; next try weeks away](https://apnews.com/article/astronomy-space-launches-exploration-science-9a89bb77af17be3e3b5891a0b224ac69)
-- [Thunderbolt, Displayport and Docks](https://stderr.nl/Blog/Hardware/Thunderbolt/TechnologyOverview.html)
-- [Suddenly everyone wants ‘super-hot’ heat pumps](https://norwegianscitechnews.com/2022/05/suddenly-everyone-wants-super-hot-heat-pumps/)
+- [Almost Half of Cancer Deaths Are Preventable](https://www.nature.com/articles/d41586-022-02355-x)
+- [Lapce Editor, Release v0.2.0](https://github.com/lapce/lapce/releases/tag/v0.2.0)
+- [Capsaicin in Peppers](https://luciditysystems.com/2020/10/23/capsaicin-in-peppers/)
+- [W2UI is a JavaScript UI library for building rich web applications](https://github.com/vitmalina/w2ui)
+- [Poll of Wikipedians concludes: Wikimedia fundraising emails are misleading](https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/thread/YKYDOBBH2RHJO2DHNP4YEPH37J3L5PBH/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
