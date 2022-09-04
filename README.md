@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief History of Just-In-Time &lpar;2003&rpar; [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
+- [TikTok Hacked](https://twitter.com/AggressiveCurl/status/1566161198248509440)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
 - [Unreal Rust](https://maikklein.github.io/unreal-rust-1/)
-- [A New Materials Paradigm Is Overdue](https://www.tsungxu.com/materials-paradigm/)
-- [Scraping data from an app: real world example](https://substack.thewebscraping.club/p/the-lab-1-scraping-data-from-an-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
