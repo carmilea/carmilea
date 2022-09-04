@@ -55,7 +55,7 @@
 - [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
 - [Unreal Rust](https://maikklein.github.io/unreal-rust-1/)
 - [A New Materials Paradigm Is Overdue](https://www.tsungxu.com/materials-paradigm/)
-- [The Benefits of Breakfast Cereal Consumption](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4188247/)
+- [Scraping data from an app: real world example](https://substack.thewebscraping.club/p/the-lab-1-scraping-data-from-an-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
