@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [22,000 smart thermostats in Colorado locked over ‘energy emergency’](https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/)
 - [Leak ruins NASA moon rocket launch bid; next try weeks away](https://apnews.com/article/astronomy-space-launches-exploration-science-9a89bb77af17be3e3b5891a0b224ac69)
 - [Suddenly everyone wants ‘super-hot’ heat pumps](https://norwegianscitechnews.com/2022/05/suddenly-everyone-wants-super-hot-heat-pumps/)
 - [C Integer Quiz](https://www.acepace.net/integerQuiz/)
 - [Why Haskell Is Interesting? &lpar;2005&rpar;](https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell)
-- [Program Synthesis is Possible &lpar;2018&rpar;](https://www.cs.cornell.edu/~asampson/blog/minisynth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
