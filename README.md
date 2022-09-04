@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy &lpar;YC W23&rpar; is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
+- [Ask HN: If I enter account or order in a phone tree, why am I asked again?](https://news.ycombinator.com/item?id=32707737)
+- [Space Weather Prediction Center](https://www.spaceweather.gov/homepage)
 - [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
-- [OneSignal &lpar;YC S11&rpar; just announced a $50M Series C and is hiring engineers](https://onesignal.com/careers)
-- [The History of FoxPro: Interview with Wayne Ratliff](http://www.foxprohistory.org/interview_wayne_ratliff.htm)
-- [Chronic blue light leads to accelerated aging in Drosophila](https://www.frontiersin.org/articles/10.3389/fragi.2022.983373/full)
-- [Porsche Boss Faces Software Woes Keeping VW a Step Behind Tesla](https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
