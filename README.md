@@ -54,8 +54,8 @@
 - [Dear Oracle, Please Release the JavaScript Trademark](https://tinyclouds.org)
 - [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
 - [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
+- [The Best Debugging Story I&#39;ve Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard)
 - [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
-- [Ivy &lpar;YC W23&rpar; is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
