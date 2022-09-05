@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple AMX instruction set &lpar;M1/M2 matrix coprocessor&rpar;](https://github.com/corsix/amx)
-- [The quantum computing bubble](https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765)
-- [Visualize active fires around the world with Javascript](https://blog.znote.io/2022/znote-climate-post/)
-- [Outlook.com is silently discarding email messages &lpar;2015&rpar;](https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/)
-- [Why A4? – The Mathematical Beauty of Paper Size](https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/)
+- [Nobel Prize winner Gregg Semenza retracts four papers](https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/)
+- [Meticulous &lpar;YC S21&rpar; is hiring #3 founding engineer in London](https://news.ycombinator.com/item?id=32723316)
+- [Study: Chances of serious side effects from coronavirus vaccines](https://pubmed.ncbi.nlm.nih.gov/36055877/?fs=e&s=cl)
+- [I didn’t want it anywhere near me: how the Apple AirTag became a stalker&#39;s gift](https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers)
+- [Optimizing Polygon Intersections with Subdivide](https://findenergy.com/optimizing-polygon-intersections-with-subdivide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
