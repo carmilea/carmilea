@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxford Physicist Unloads on Quantum Computing Industry, It&#39;s Basically a Scam](https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing)
+- [Apple AMX instruction set &lpar;M1/M2 matrix coprocessor&rpar;](https://github.com/corsix/amx)
+- [The quantum computing bubble](https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765)
+- [Visualize active fires around the world with Javascript](https://blog.znote.io/2022/znote-climate-post/)
 - [Outlook.com is silently discarding email messages &lpar;2015&rpar;](https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/)
-- [Private Jets to Ibiza, Paris Surge as Rich Evade Travel Chaos](https://www.bloomberg.com/news/articles/2022-08-27/private-jets-to-ibiza-paris-surge-as-rich-evade-travel-chaos)
 - [Why A4? – The Mathematical Beauty of Paper Size](https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/)
-- [Self-hosted email is the hardest it&#39;s ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
