@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DDoS-Guard also drops Kiwi Farms](https://ddos-guard.net/en/info/blog-detail/ddos-guard-terminating-services-for-kiwi-farms)
+- [Kext-less FUSE library for macOS](https://www.fuse-t.org/)
 - [Alan D. Sokal – Transgressing the Boundaries &lpar;1995&rpar;](https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html)
 - [PHP 8.2.0 RC1 available for testing](https://www.php.net/archive/2022.php)
-- [Solr’s Dense Vector Search for indexing and searching dense numerical vectors](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
-- [Why being an effective environmentalist can often feel like being a bad one](https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist)
-- [Heatwaves kill more Americans than hurricanes, tornadoes and floods](https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods)
+- [Spotify have finally killed 3rd party streaming apps](https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
