@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Brief History of Just-In-Time &lpar;2003&rpar; [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
-- [TikTok Hacked](https://twitter.com/AggressiveCurl/status/1566161198248509440)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [EV adoption in US is happening faster than predicted](https://www.recurrentauto.com/research/ev-adoption-us)
+- [Has  tiktok_us  been breached?](https://twitter.com/troyhunt/status/1566565409939427328)
+- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 - [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
-- [Unreal Rust](https://maikklein.github.io/unreal-rust-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
