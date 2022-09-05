@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok hacked, over 2 bn user database records stolen: Security researchers](https://www.business-standard.com/article/technology/tiktok-hacked-over-2-bn-user-database-records-stolen-security-researchers-122090500767_1.html)
+- [Alan D. Sokal – Transgressing the Boundaries &lpar;1995&rpar;](https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html)
+- [PHP 8.2.0 RC1 available for testing](https://www.php.net/archive/2022.php)
+- [Solr’s Dense Vector Search for indexing and searching dense numerical vectors](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
+- [Why being an effective environmentalist can often feel like being a bad one](https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist)
 - [Heatwaves kill more Americans than hurricanes, tornadoes and floods](https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods)
-- [&#39;Serious errors&#39; in research linking deaths to red meat](https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5)
-- [Ask HN: YC misses that went on to do well &lpar;like veed.io&rpar;](https://news.ycombinator.com/item?id=32724564)
-- [Ubisoft delays server shutdowns, prevents purchased DLC from going away](https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
