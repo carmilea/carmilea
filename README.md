@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A solution to current high power prices &lpar;Europe&rpar;](https://jeromeaparis.substack.com/p/a-solution-to-current-high-power)
+- [Accidental complexity, essential complexity, and Kubernetes](https://driftingin.space/posts/complexity-kubernetes)
+- [Show HN: Watchlimits – Chrome extension to solve excessive video watching](https://watchlimits.com/)
+- [Place-Based Productivity and Costs in Science](https://www.nber.org/papers/w30416)
 - [How the FLAC format compresses audio without loss of quality](https://xiph.org/flac/documentation_format_overview.html)
-- [Violence-as-a-Service: Brickings, Firebombings and Shootings for Hire](https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/)
-- [Show HN: Draw Anything – A Simple Stable Diffusion Playground](https://www.drawanything.app/)
-- [Userspace FUSE for macOS](https://www.fuse-t.org/)
-- [Mille Bornes](http://www.codex99.com/design/28.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
