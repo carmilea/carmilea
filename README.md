@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the FLAC format compresses audio without loss of quality](https://xiph.org/flac/documentation_format_overview.html)
 - [Violence-as-a-Service: Brickings, Firebombings and Shootings for Hire](https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/)
-- [Extending SQLite with Rust](http://www.ricardoanderegg.com/posts/extending-sqlite-with-rust/)
 - [Show HN: Draw Anything – A Simple Stable Diffusion Playground](https://www.drawanything.app/)
-- [Kext-less FUSE library for macOS](https://www.fuse-t.org/)
+- [Userspace FUSE for macOS](https://www.fuse-t.org/)
 - [Mille Bornes](http://www.codex99.com/design/28.html)
 <!-- BLOG-POST-LIST:END -->
 
