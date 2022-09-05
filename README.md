@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [House Does Not Exist](https://thishousedoesnotexist.org/)
+- [Contrasting Intel AMX and Apple AMX](https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
 - [A solution to current high power prices &lpar;Europe&rpar;](https://jeromeaparis.substack.com/p/a-solution-to-current-high-power)
+- [Compared to traditional activities, programming did not benefit math learning](https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883)
 - [Accidental complexity, essential complexity, and Kubernetes](https://driftingin.space/posts/complexity-kubernetes)
-- [Show HN: Watchlimits – Chrome extension to solve excessive video watching](https://watchlimits.com/)
-- [Place-Based Productivity and Costs in Science](https://www.nber.org/papers/w30416)
-- [How the FLAC format compresses audio without loss of quality](https://xiph.org/flac/documentation_format_overview.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
