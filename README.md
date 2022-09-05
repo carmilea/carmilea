@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosted email is the hardest it&#39;s ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
+- [The WFH Folks](https://news.ycombinator.com/item?id=32720171)
+- [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
+- [CreditKarma Fined 3M by FTC for Misleading Consumers with CreditCard Offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
 - [A Brief History of Just-In-Time &lpar;2003&rpar; [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
-- [EV adoption in US is happening faster than predicted](https://www.recurrentauto.com/research/ev-adoption-us)
-- [Has  tiktok_us  been breached?](https://twitter.com/troyhunt/status/1566565409939427328)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
 <!-- BLOG-POST-LIST:END -->
 
 ---
