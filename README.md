@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I’ve learned from having Covid](https://scottaaronson.blog/?p=6704)
+- [Ask HN: How much electricity consumes a WiFi router?](https://news.ycombinator.com/item?id=32721734)
+- [Why A4? – The Mathematical Beauty of Paper Size](https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/)
+- [The Air Force Just Survived a Reply-All Apocalypse](https://gizmodo.com/air-force-reply-all-email-storm-snafu-1849490442)
 - [Self-hosted email is the hardest it&#39;s ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
 - [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
-- [Credit Karma fined $3M by FTC for misleading consumers with credit card offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
-- [A Brief History of Just-In-Time &lpar;2003&rpar; [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
