@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How much electricity consumes a WiFi router?](https://news.ycombinator.com/item?id=32721734)
+- [Oxford Physicist Unloads on Quantum Computing Industry, It&#39;s Basically a Scam](https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing)
+- [Outlook.com is silently discarding email messages &lpar;2015&rpar;](https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/)
+- [Private Jets to Ibiza, Paris Surge as Rich Evade Travel Chaos](https://www.bloomberg.com/news/articles/2022-08-27/private-jets-to-ibiza-paris-surge-as-rich-evade-travel-chaos)
 - [Why A4? – The Mathematical Beauty of Paper Size](https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/)
-- [The Air Force Just Survived a Reply-All Apocalypse](https://gizmodo.com/air-force-reply-all-email-storm-snafu-1849490442)
 - [Self-hosted email is the hardest it&#39;s ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
-- [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
