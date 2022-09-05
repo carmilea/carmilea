@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AirPods Pro 2 to be unveiled during iPhone 14 event](https://9to5mac.com/2022/09/04/airpods-pro-2-iphone-14-event-announcement/)
-- [Nano-nonsense: 25 years of charlatanry](https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/)
-- [Toyota Patents Plans for EV with Manual Transmission and Clutch](https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/)
-- [Common Lisp vs Racket](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
-- [Launch HN: Mito &lpar;YC S20&rpar; – Edit a spreadsheet, generate Python](https://news.ycombinator.com/item?id=32723766)
+- [TikTok hacked, over 2 bn user database records stolen: Security researchers](https://www.business-standard.com/article/technology/tiktok-hacked-over-2-bn-user-database-records-stolen-security-researchers-122090500767_1.html)
+- [Heatwaves kill more Americans than hurricanes, tornadoes and floods](https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods)
+- [&#39;Serious errors&#39; in research linking deaths to red meat](https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5)
+- [Ask HN: YC misses that went on to do well &lpar;like veed.io&rpar;](https://news.ycombinator.com/item?id=32724564)
+- [Ubisoft delays server shutdowns, prevents purchased DLC from going away](https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
