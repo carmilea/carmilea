@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nano-nonsense: 25 years of charlatanry](https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/)
+- [Toyota Patents Plans for EV with Manual Transmission and Clutch](https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/)
+- [Common Lisp vs Racket](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
+- [Launch HN: Mito &lpar;YC S20&rpar; – Edit a spreadsheet, generate Python](https://news.ycombinator.com/item?id=32723766)
 - [Nobel Prize winner Gregg Semenza retracts four papers](https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/)
-- [Meticulous &lpar;YC S21&rpar; is hiring #3 founding engineer in London](https://news.ycombinator.com/item?id=32723316)
-- [Study: Chances of serious side effects from coronavirus vaccines](https://pubmed.ncbi.nlm.nih.gov/36055877/?fs=e&s=cl)
-- [I didn’t want it anywhere near me: how the Apple AirTag became a stalker&#39;s gift](https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers)
-- [Optimizing Polygon Intersections with Subdivide](https://findenergy.com/optimizing-polygon-intersections-with-subdivide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
