@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OBS Studio 28.0 with Native Apple Silicon Support Is Here](https://projectobs.com/en/news/obs-studio-28-0/)
+- [Meta Fined $400M for Treatment of Children’s Data on Instagram](https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html)
+- [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
+- [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
+- [How To Present Backend Demos](https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59)
 - [Cheating at chess with a computer for my shoes](https://incoherency.co.uk/blog/stories/sockfish.html)
-- [Contrasting Intel AMX and Apple AMX](https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
-- [Compared to traditional activities, programming did not benefit math learning](https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883)
-- [Accidental complexity, essential complexity, and Kubernetes](https://driftingin.space/posts/complexity-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
