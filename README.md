@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [House Does Not Exist](https://thishousedoesnotexist.org/)
+- [OBS Studio 28.0 with Native Apple Silicon Support Is Here](https://projectobs.com/en/news/obs-studio-28-0/)
+- [Cheating at chess with a computer for my shoes](https://incoherency.co.uk/blog/stories/sockfish.html)
 - [Contrasting Intel AMX and Apple AMX](https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
-- [A solution to current high power prices &lpar;Europe&rpar;](https://jeromeaparis.substack.com/p/a-solution-to-current-high-power)
 - [Compared to traditional activities, programming did not benefit math learning](https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883)
 - [Accidental complexity, essential complexity, and Kubernetes](https://driftingin.space/posts/complexity-kubernetes)
 <!-- BLOG-POST-LIST:END -->
