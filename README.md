@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DDoS-Guard also drops Kiwi Farms](https://ddos-guard.net/en/info/blog-detail/ddos-guard-terminating-services-for-kiwi-farms)
+- [Violence-as-a-Service: Brickings, Firebombings and Shootings for Hire](https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/)
+- [Extending SQLite with Rust](http://www.ricardoanderegg.com/posts/extending-sqlite-with-rust/)
+- [Show HN: Draw Anything – A Simple Stable Diffusion Playground](https://www.drawanything.app/)
 - [Kext-less FUSE library for macOS](https://www.fuse-t.org/)
-- [Alan D. Sokal – Transgressing the Boundaries &lpar;1995&rpar;](https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html)
-- [PHP 8.2.0 RC1 available for testing](https://www.php.net/archive/2022.php)
-- [Spotify have finally killed 3rd party streaming apps](https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477)
+- [Mille Bornes](http://www.codex99.com/design/28.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
