@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirPods Pro 2 to be unveiled during iPhone 14 event](https://9to5mac.com/2022/09/04/airpods-pro-2-iphone-14-event-announcement/)
 - [Nano-nonsense: 25 years of charlatanry](https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/)
 - [Toyota Patents Plans for EV with Manual Transmission and Clutch](https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/)
 - [Common Lisp vs Racket](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
 - [Launch HN: Mito &lpar;YC S20&rpar; – Edit a spreadsheet, generate Python](https://news.ycombinator.com/item?id=32723766)
-- [Nobel Prize winner Gregg Semenza retracts four papers](https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
