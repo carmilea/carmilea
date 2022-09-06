@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The design approach to the Zig programming language](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach)
+- [Revisiting the design approach to Zig](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach)
 - [A Message from Signal&#39;s New President](https://signal.org/blog/announcing-signal-president/)
-- [It’s time to let the five stages of grief die &lpar;2019&rpar;](https://www.mcgill.ca/oss/article/health-history/its-time-let-five-stages-grief-die)
 - [The history of sending signals to Unix process groups](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals)
 - [Show HN: Open-source APM with support for tracing, metrics, and logs](https://app.uptrace.dev/play)
+- [OpenWrt 22.03](https://openwrt.org/releases/22.03/notes-22.03.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
