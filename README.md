@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiga &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us)
+- [Gated Deployments: addressing the complexity of schema deployments at scale](https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale)
 - [Sierra Club, environmental groups petition EPA to ban natural gas for heating](https://denvergazette.com/news/environment/sierra-club-environmental-groups-petition-epa-to-ban-natural-gas-for-home-heating/article_256ea4ca-28bd-11ed-a31c-fb00aa7f1db2.html)
 - [Richard Stallman Announces GNU C Language Reference Manual](https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html)
 - [A sequel to SQL? An intro to Malloy](https://carlineng.com/?postid=malloy-intro#blog)
-- [Pushing HTAP Databases Forward With SingleStoreDB](https://www.singlestore.com/blog/pushing-htap-databases-forward-with-singlestoredb)
-- [Show HN: Make 3D art in your browser using Lisp and math](https://bauble.studio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
