@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in TensorFlow 2.10?](https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html)
+- [Judge rules Facebook parent Meta intentionally violated campaign finance laws](https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign)
 - [NASA Selects SiFive and Makes RISC-V the Go-To Ecosystem for Future Missions](https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem)
 - [Brave&#39;s deviations from Chromium &lpar;features we disable or remove&rpar;](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
 - [San Francisco Braces for Commercial Real Estate Crash](https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/)
-- [Riff, automatically provide external dependencies for Rust projects](https://determinate.systems/posts/introducing-riff)
-- [Jiga &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
