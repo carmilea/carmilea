@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Github.com Down Again?](https://GitHub.com)
 - [GiveCampus &lpar;YC S15&rpar; hiring senior engineers who care about affordable education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Preact Signals](https://github.com/preactjs/signals)
 - [New Text and Array Functions for Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066)
 - [NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions](https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem)
-- [Ask HN: Which startups have the most interesting pivot stories?](https://news.ycombinator.com/item?id=32740486)
-- [Deviations from Chromium &lpar;features we disable or remove&rpar;](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
