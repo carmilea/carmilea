@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long-term cardiac pathology in individuals with mild initial Covid-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
+- [Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral](https://chitchatter.im/)
+- [Keith Davis: He was protecting the oceans – then he disappeared](https://www.bbc.com/news/world-us-canada-62603911)
 - [Killing invasive species is now a competitive sport](https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport)
 - [Dreamy Blur](https://yuanchuan.dev/dreamy-blur)
-- [I patched my Slack client to keep “oops” messages others delete](https://github.com/SharonBrizinov/slack-anti-delete)
-- [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
-- [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
