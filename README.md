@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Douglas Crockford: The best thing we can do today to JavaScript is to retire it](https://www.crockford.com/qa2.html)
-- [Peter Thiel&#39;s Religion](https://perell.com/essay/peter-thiel/)
-- [Launch HN: FlyCode &lpar;YC S22&rpar; – Let product teams edit web apps without coding](https://news.ycombinator.com/item?id=32736817)
-- [Maintaining Files on Plan 9 with Mk](https://9p.io/sys/doc/mk.html)
-- [CERN drafts plans to idle accelerators due to Europe’s energy crunch](https://www.swissinfo.ch/eng/sci-tech/cern-drafts-plans-to-idle-accelerators-due-to-europe-s-energy-crunch/47875950)
+- [Clasp: A Common Lisp implementation using LLVM for compilation to native code](https://github.com/clasp-developers/clasp)
+- [NASA Can Now Reliably Produce a Tree’s Worth of Oxygen on Mars](https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/)
+- [What Should You Work On?](https://perell.com/essay/what-should-you-work-on/)
+- [The Death of the PCIe Expansion Card](https://kerricklong.com/articles/pci-express-slots.html)
+- [How sustainable are fake meats?](https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
