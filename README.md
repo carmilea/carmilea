@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenWrt 22.03.0 Released](https://openwrt.org/releases/22.03/notes-22.03.0)
+- [The history of sending signals to Unix process groups](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals)
+- [Show HN: Open-source APM with support for tracing, metrics, and logs](https://app.uptrace.dev/play)
+- [OpenWrt 22.03](https://openwrt.org/releases/22.03/notes-22.03.0)
+- [Closing 10% of all Emacs bugs](https://lars.ingebrigtsen.no/2020/10/26/5x10/)
 - [Synthetic embryos complete gastrulation to neurulation and organogenesis](https://www.nature.com/articles/s41586-022-05246-3)
-- [Lunatic: Erlang-Inspired Runtime for WebAssembly](https://github.com/lunatic-solutions/lunatic)
-- [Long-term cardiac pathology in individuals with mild initial Covid-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
-- [Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral](https://chitchatter.im/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
