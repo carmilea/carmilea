@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The energy historian who says rapid decarbonization is a fantasy](https://www.latimes.com/business/story/2022-09-05/the-energy-historian-who-says-rapid-decarbonization-is-a-fantasy)
-- [The invention of the first wearable computer &lpar;1998&rpar; [pdf]](https://www.cs.virginia.edu/~evans/thorp.pdf)
-- [Bitwarden Raises $100M](https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/)
-- [My Surreal Experience with COBOL](https://mutt0-ds.github.io/posts/2022/06/my-surreal-experience-cobol.md/)
-- [Optical Illusions of the Year](https://kottke.org/22/02/the-best-optical-illusions-of-the-year)
+- [Launch HN: FlyCode &lpar;YC S22&rpar; – Let product teams edit web apps without coding](https://news.ycombinator.com/item?id=32736817)
+- [Maintaining Files on Plan 9 with Mk](https://9p.io/sys/doc/mk.html)
+- [CERN drafts plans to idle accelerators due to Europe’s energy crunch](https://www.swissinfo.ch/eng/sci-tech/cern-drafts-plans-to-idle-accelerators-due-to-europe-s-energy-crunch/47875950)
+- [PGPP – a new type of service that gives you private mobile connectivity](https://invisv.com/pgpp/)
+- [Show HN: Simulate dollar-cost averaging in any mix of stocks](https://simulator.tryshare.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
