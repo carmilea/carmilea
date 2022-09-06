@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Text and Array Functions for Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066)
+- [Never Hire a Herd of Goats to Mow Your Lawn](https://storiesby.ai/p/never-hire-a-herd-of-goats-to-mow)
 - [What’s New in TensorFlow 2.10?](https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html)
 - [Judge rules Facebook parent Meta intentionally violated campaign finance laws](https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign)
 - [NASA Selects SiFive and Makes RISC-V the Go-To Ecosystem for Future Missions](https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem)
-- [Brave&#39;s deviations from Chromium &lpar;features we disable or remove&rpar;](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
-- [San Francisco Braces for Commercial Real Estate Crash](https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
