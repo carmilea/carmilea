@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Nitric – Node.js framework for building portable cloud apps](https://github.com/nitrictech/node-sdk)
-- [Revisiting the design approach to Zig](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach)
-- [A Message from Signal&#39;s New President](https://signal.org/blog/announcing-signal-president/)
-- [The history of sending signals to Unix process groups](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals)
-- [Show HN: Open-source APM with support for tracing, metrics, and logs](https://app.uptrace.dev/play)
+- [The energy historian who says rapid decarbonization is a fantasy](https://www.latimes.com/business/story/2022-09-05/the-energy-historian-who-says-rapid-decarbonization-is-a-fantasy)
+- [The invention of the first wearable computer &lpar;1998&rpar; [pdf]](https://www.cs.virginia.edu/~evans/thorp.pdf)
+- [Bitwarden Raises $100M](https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/)
+- [My Surreal Experience with COBOL](https://mutt0-ds.github.io/posts/2022/06/my-surreal-experience-cobol.md/)
+- [Optical Illusions of the Year](https://kottke.org/22/02/the-best-optical-illusions-of-the-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
