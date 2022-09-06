@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Nitric – Node.js framework for building portable cloud apps](https://github.com/nitrictech/node-sdk)
 - [Revisiting the design approach to Zig](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach)
 - [A Message from Signal&#39;s New President](https://signal.org/blog/announcing-signal-president/)
 - [The history of sending signals to Unix process groups](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals)
 - [Show HN: Open-source APM with support for tracing, metrics, and logs](https://app.uptrace.dev/play)
-- [OpenWrt 22.03](https://openwrt.org/releases/22.03/notes-22.03.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
