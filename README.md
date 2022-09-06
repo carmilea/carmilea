@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Douglas Crockford: The best thing we can do today to JavaScript is to retire it](https://www.crockford.com/qa2.html)
+- [Peter Thiel&#39;s Religion](https://perell.com/essay/peter-thiel/)
 - [Launch HN: FlyCode &lpar;YC S22&rpar; – Let product teams edit web apps without coding](https://news.ycombinator.com/item?id=32736817)
 - [Maintaining Files on Plan 9 with Mk](https://9p.io/sys/doc/mk.html)
 - [CERN drafts plans to idle accelerators due to Europe’s energy crunch](https://www.swissinfo.ch/eng/sci-tech/cern-drafts-plans-to-idle-accelerators-due-to-europe-s-energy-crunch/47875950)
-- [PGPP – a new type of service that gives you private mobile connectivity](https://invisv.com/pgpp/)
-- [Show HN: Simulate dollar-cost averaging in any mix of stocks](https://simulator.tryshare.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
