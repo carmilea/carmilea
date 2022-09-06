@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Which software do you use for your Presentations?](https://news.ycombinator.com/item?id=32734139)
+- [It’s Time to Let the Five Stages of Grief Die](https://www.mcgill.ca/oss/article/health-history/its-time-let-five-stages-grief-die)
 - [The history of sending signals to Unix process groups](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals)
 - [Show HN: Open-source APM with support for tracing, metrics, and logs](https://app.uptrace.dev/play)
 - [OpenWrt 22.03](https://openwrt.org/releases/22.03/notes-22.03.0)
-- [Closing 10% of all Emacs bugs](https://lars.ingebrigtsen.no/2020/10/26/5x10/)
-- [Synthetic embryos complete gastrulation to neurulation and organogenesis](https://www.nature.com/articles/s41586-022-05246-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
