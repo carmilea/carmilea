@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Fined $400M for Treatment of Children’s Data on Instagram](https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html)
+- [Killing invasive species is now a competitive sport](https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport)
+- [Dreamy Blur](https://yuanchuan.dev/dreamy-blur)
+- [I patched my Slack client to keep “oops” messages others delete](https://github.com/SharonBrizinov/slack-anti-delete)
 - [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
 - [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
-- [How To Present Backend Demos](https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59)
-- [Cheating at chess with a computer for my shoes](https://incoherency.co.uk/blog/stories/sockfish.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
