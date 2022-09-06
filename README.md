@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
+- [The future of cryptocurrency is at stake in Ethereum’s switch](https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch)
 - [Github.com Down Again?](https://GitHub.com)
 - [GiveCampus &lpar;YC S15&rpar; hiring senior engineers who care about affordable education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Preact Signals](https://github.com/preactjs/signals)
-- [New Text and Array Functions for Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066)
-- [NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions](https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
