@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Selects SiFive and Makes RISC-V the Go-To Ecosystem for Future Missions](https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem)
+- [Brave&#39;s deviations from Chromium &lpar;features we disable or remove&rpar;](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
+- [San Francisco Braces for Commercial Real Estate Crash](https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/)
+- [Riff, automatically provide external dependencies for Rust projects](https://determinate.systems/posts/introducing-riff)
 - [Jiga &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us)
-- [Gated Deployments: addressing the complexity of schema deployments at scale](https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale)
-- [Sierra Club, environmental groups petition EPA to ban natural gas for heating](https://denvergazette.com/news/environment/sierra-club-environmental-groups-petition-epa-to-ban-natural-gas-for-home-heating/article_256ea4ca-28bd-11ed-a31c-fb00aa7f1db2.html)
-- [Richard Stallman Announces GNU C Language Reference Manual](https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html)
-- [A sequel to SQL? An intro to Malloy](https://carlineng.com/?postid=malloy-intro#blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
