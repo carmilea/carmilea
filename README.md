@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Eckersley, tech activist and founder of Let&#39;s Encrypt, dies at 43](https://www.techspot.com/news/95870-peter-eckersley-tech-activist-founder-encrypt-dies-43.html)
+- [Speculoos-2c: A new potentially habitable earth](https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth)
+- [Open source, modular, wood based, zero carbon housing](https://www.wikihouse.cc/)
 - [What makes a good REPL? &lpar;2017&rpar;](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html)
 - [Show HN: Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch)
-- [Hydrogen Production from the Air](https://www.nature.com/articles/s41467-022-32652-y)
-- [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741)
+- [Hydrogen production from the air](https://www.nature.com/articles/s41467-022-32652-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
