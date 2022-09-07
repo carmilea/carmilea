@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stable Diffusion optimized web UI with low vram, up to 1216x1216 on 8 gb vram](https://github.com/neonsecret/stable-diffusion-webui)
-- [iOS 16 Available September 12th](https://www.apple.com/ios/ios-16/)
-- [AirPods Pro &lpar;2nd Generation&rpar;](https://www.apple.com/airpods-pro/)
-- [“UBO Minus &lpar;MV3&rpar;” – An Experimental uBlock Origin Build for Manifest V3](https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897)
-- [Akka is moving away from Open Source – Alexandru Nedelcu](https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/)
+- [Deconstructing the Bakery to Build a Distributed State Machine](https://cacm.acm.org/magazines/2022/9/263810-deconstructing-the-bakery-to-build-a-distributed-state-machine/fulltext)
+- [The most secure cloud is your computer](https://anita-app.com/blog/articles/most-secure-cloud.html)
+- [New technical analysis confirms the evidence against Billy Mitchell](https://perfectpacman.com/2022/09/06/new-technical-analysis/)
+- [Globalstar SEC filing, Apple to use 85% of its satellite network capacity](https://sec.report/Document/0001366868-22-000059/)
+- [Emergency SOS via satellite is included for free with iPhone 14 Pro for 2 years](https://www.apple.com/iphone-14-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
