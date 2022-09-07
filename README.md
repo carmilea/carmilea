@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Your attention span is being robbed!](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
 - [Peloton riding is planet’s most energy efficient locomotion, finds new research](https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/)
-- [Detect and block spam phone calls](https://support.apple.com/en-us/HT207099)
-- [Ask HN: Should I be panicking about jobs in Europe?](https://news.ycombinator.com/item?id=32756476)
 - [A mysterious new Babylon 5 project is coming sooner than you think](https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023)
+- [Why companies are interested in Myers-Briggs types](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
 - [Shannon Entropy Imposes Fundamental Limits on Communication](https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/)
 <!-- BLOG-POST-LIST:END -->
 
