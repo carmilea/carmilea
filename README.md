@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Life for Certificate Revocation Lists – Let&#39;s Encrypt](https://letsencrypt.org/2022/09/07/new-life-for-crls.html)
-- [Apple Introduces Apple Watch Ultra](https://www.apple.com/newsroom/2022/09/introducing-apple-watch-ultra/)
-- [TinyClock – a tiny true 5-arch universal Mac OS X single-binary GUI application](http://tycho.sytes.net/TinyClock/)
-- [`int&lpar;&#39;1&#39; * 4301&rpar;` will raise ValueError starting with Python 3.10.7](https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html)
-- [Quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+- [Stable Diffusion optimized web UI with low vram, up to 1216x1216 on 8 gb vram](https://github.com/neonsecret/stable-diffusion-webui)
+- [iOS 16 Available September 12th](https://www.apple.com/ios/ios-16/)
+- [AirPods Pro &lpar;2nd Generation&rpar;](https://www.apple.com/airpods-pro/)
+- [“UBO Minus &lpar;MV3&rpar;” – An Experimental uBlock Origin Build for Manifest V3](https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897)
+- [Akka is moving away from Open Source – Alexandru Nedelcu](https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
