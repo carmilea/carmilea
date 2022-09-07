@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How can I calculate CO2 emission of servers/VPS?](https://news.ycombinator.com/item?id=32749651)
+- [Handwritten thank you notes increase sales](https://tips.ariyh.com/p/handwritten-notes)
+- [BigFAT – Backward compatible FAT extension for unlimited file size](https://www.segger.com/products/file-system/emfile/bigfat/)
 - [Speculoos-2c: A new potentially habitable earth](https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth)
 - [Open source, modular, wood based, zero carbon housing](https://www.wikihouse.cc/)
-- [What makes a good REPL? &lpar;2017&rpar;](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html)
-- [Show HN: Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch)
-- [Hydrogen production from the air](https://www.nature.com/articles/s41467-022-32652-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
