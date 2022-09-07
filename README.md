@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is There a Hacker News for Writers Out There?](https://news.ycombinator.com/item?id=32750322)
-- [Improved Galileo Time to First Fix](https://berthub.eu/articles/posts/improved-galileo-fix-time/)
-- [Is Engineering Management Bullshit?](https://www.makeartwithpython.com/blog/is-engineering-management-bullshit/)
-- [Facebook engineers: we have no idea where we keep all your personal data](https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/)
-- [Why Not: From Common Lisp to Julia](https://gist.github.com/digikar99/24decb414ddfa15a220b27f6748165d7)
+- [The YC Summer 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-summer-2022-batch/)
+- [Hydrogen battery startup says it has $700M order backlog](https://www.rechargenews.com/energy-transition/hydrogen-battery-start-up-says-it-has-700m-order-backlog-for-utility-scale-renewables-projects/2-1-1266148?zephr_sso_ott=PTwqbU)
+- [Tell HN: Otter.ai bot recording meetings without consent](https://news.ycombinator.com/item?id=32751071)
+- [Google CEO says hope to make GOOG 20% more efficient, hints at potential cuts](https://www.cnbc.com/2022/09/07/google-ceo-says-he-hopes-to-make-company-20percent-more-efficient-hints-at-potential-cuts.html)
+- [How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
