@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Synthetic Data in 3 Lines of Code](https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code)
-- [Zig, the Small Language](https://zserge.com/posts/zig-the-small-language/)
-- [Albania expelled Iran’s embassy staff over July cyberattack](https://apnews.com/article/nato-technology-iran-middle-east-6be153b291f42bd549d5ecce5941c32a)
-- [Pypi.org is running a survey on the state of Python packaging](https://pypi.org/)
-- [The YC Summer 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-summer-2022-batch/)
+- [TinyClock – a tiny true 5-arch universal Mac OS X single-binary GUI application](http://tycho.sytes.net/TinyClock/)
+- [Laylo &lpar;YC S20&rpar; Is Hiring a Full Stack Engineer to Grow “Salesforce” for Creators](https://news.ycombinator.com/item?id=32753205)
+- [Async Postmortems in a Global, Remote Team](https://www.ashbyhq.com/blog/engineering/async-remote-postmortems)
+- [IRS will look into setting up a free e-filing system](https://www.washingtonpost.com/us-policy/2022/09/07/irs-free-efile-biden/)
+- [Where do economies of scale come from? Part II](https://constructionphysics.substack.com/p/where-do-economies-of-scale-come)
 <!-- BLOG-POST-LIST:END -->
 
 ---
