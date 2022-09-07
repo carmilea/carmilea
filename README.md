@@ -55,7 +55,7 @@
 - [Improved Galileo Time to First Fix](https://berthub.eu/articles/posts/improved-galileo-fix-time/)
 - [Is Engineering Management Bullshit?](https://www.makeartwithpython.com/blog/is-engineering-management-bullshit/)
 - [Facebook engineers: we have no idea where we keep all your personal data](https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/)
-- [Ask HN: How can I calculate CO2 emission of servers/VPS?](https://news.ycombinator.com/item?id=32749651)
+- [Why Not: From Common Lisp to Julia](https://gist.github.com/digikar99/24decb414ddfa15a220b27f6748165d7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
