@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Pay UK](https://dontpay.uk/)
+- [ExtremeBB – Supporting Large-Scale Research into Misogyny and Online Extremism](https://www.lightbluetouchpaper.org/2022/09/02/extremebb-supporting-large-scale-research-into-misogyny-and-online-extremism/)
+- [My family’s unlikely homeschooling journey](https://www.fast.ai/2022/09/06/homeschooling/)
+- [City-based soda pop taxes don’t effectively reduce sugar consumption](https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/)
 - [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
-- [“Proctorio detected none of the cheating students” [pdf]](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
-- [Create videos with Stable Diffusion by exploring the latent space](https://github.com/nateraw/stable-diffusion-videos)
-- [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
