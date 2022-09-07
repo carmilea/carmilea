@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Pay UK](https://dontpay.uk/)
-- [ExtremeBB – Supporting Large-Scale Research into Misogyny and Online Extremism](https://www.lightbluetouchpaper.org/2022/09/02/extremebb-supporting-large-scale-research-into-misogyny-and-online-extremism/)
-- [My family’s unlikely homeschooling journey](https://www.fast.ai/2022/09/06/homeschooling/)
-- [City-based soda pop taxes don’t effectively reduce sugar consumption](https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/)
-- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
+- [We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
+- [Hydrogen Production from the Air](https://www.nature.com/articles/s41467-022-32652-y)
+- [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741)
+- [Why has software supply chain security exploded?](https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/)
+- [Yak Shaving: A Short Lesson on Staying Focused](https://americanexpress.io/yak-shaving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
