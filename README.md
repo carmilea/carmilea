@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
+- [“Proctorio detected none of the cheating students” [pdf]](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
+- [Create videos with Stable Diffusion by exploring the latent space](https://github.com/nateraw/stable-diffusion-videos)
 - [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
-- [The future of cryptocurrency is at stake in Ethereum’s switch](https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch)
-- [Github.com Down Again?](https://GitHub.com)
-- [GiveCampus &lpar;YC S15&rpar; hiring senior engineers who care about affordable education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Preact Signals](https://github.com/preactjs/signals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
