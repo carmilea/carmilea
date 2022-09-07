@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies&#39; Interest in Your Myers-Briggs Type](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
-- [Korean nuclear fusion reactor achieves 100M°C for 30 seconds](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html)
-- [New technical analysis confirms the evidence against Billy Mitchell](https://perfectpacman.com/2022/09/06/new-technical-analysis/)
-- [Globalstar SEC filing, Apple to use 85% of its satellite network capacity](https://sec.report/Document/0001366868-22-000059/)
-- [iOS 16 Available September 12th](https://www.apple.com/ios/ios-16/)
+- [Peloton riding is planet’s most energy efficient locomotion, finds new research](https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/)
+- [Detect and block spam phone calls](https://support.apple.com/en-us/HT207099)
+- [Ask HN: Should I be panicking about jobs in Europe?](https://news.ycombinator.com/item?id=32756476)
+- [A mysterious new Babylon 5 project is coming sooner than you think](https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023)
+- [Shannon Entropy Imposes Fundamental Limits on Communication](https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
