@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deconstructing the Bakery to Build a Distributed State Machine](https://cacm.acm.org/magazines/2022/9/263810-deconstructing-the-bakery-to-build-a-distributed-state-machine/fulltext)
-- [The most secure cloud is your computer](https://anita-app.com/blog/articles/most-secure-cloud.html)
+- [Companies&#39; Interest in Your Myers-Briggs Type](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
+- [Korean nuclear fusion reactor achieves 100M°C for 30 seconds](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html)
 - [New technical analysis confirms the evidence against Billy Mitchell](https://perfectpacman.com/2022/09/06/new-technical-analysis/)
 - [Globalstar SEC filing, Apple to use 85% of its satellite network capacity](https://sec.report/Document/0001366868-22-000059/)
-- [Emergency SOS via satellite is included for free with iPhone 14 Pro for 2 years](https://www.apple.com/iphone-14-pro/)
+- [iOS 16 Available September 12th](https://www.apple.com/ios/ios-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
