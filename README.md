@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Life for Certificate Revocation Lists – Let&#39;s Encrypt](https://letsencrypt.org/2022/09/07/new-life-for-crls.html)
+- [Apple Introduces Apple Watch Ultra](https://www.apple.com/newsroom/2022/09/introducing-apple-watch-ultra/)
 - [TinyClock – a tiny true 5-arch universal Mac OS X single-binary GUI application](http://tycho.sytes.net/TinyClock/)
-- [Laylo &lpar;YC S20&rpar; Is Hiring a Full Stack Engineer to Grow “Salesforce” for Creators](https://news.ycombinator.com/item?id=32753205)
-- [Async Postmortems in a Global, Remote Team](https://www.ashbyhq.com/blog/engineering/async-remote-postmortems)
-- [IRS will look into setting up a free e-filing system](https://www.washingtonpost.com/us-policy/2022/09/07/irs-free-efile-biden/)
-- [Where do economies of scale come from? Part II](https://constructionphysics.substack.com/p/where-do-economies-of-scale-come)
+- [`int&lpar;&#39;1&#39; * 4301&rpar;` will raise ValueError starting with Python 3.10.7](https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html)
+- [Quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
