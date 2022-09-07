@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is There a Hacker News for Writers Out There?](https://news.ycombinator.com/item?id=32750322)
+- [Improved Galileo Time to First Fix](https://berthub.eu/articles/posts/improved-galileo-fix-time/)
+- [Is Engineering Management Bullshit?](https://www.makeartwithpython.com/blog/is-engineering-management-bullshit/)
+- [Facebook engineers: we have no idea where we keep all your personal data](https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/)
 - [Ask HN: How can I calculate CO2 emission of servers/VPS?](https://news.ycombinator.com/item?id=32749651)
-- [Handwritten thank you notes increase sales](https://tips.ariyh.com/p/handwritten-notes)
-- [BigFAT – Backward compatible FAT extension for unlimited file size](https://www.segger.com/products/file-system/emfile/bigfat/)
-- [Speculoos-2c: A new potentially habitable earth](https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth)
-- [Open source, modular, wood based, zero carbon housing](https://www.wikihouse.cc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
