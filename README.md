@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
+- [What makes a good REPL? &lpar;2017&rpar;](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html)
+- [Show HN: Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch)
+- [Rsync.net](https://www.rsync.net/)
 - [Hydrogen Production from the Air](https://www.nature.com/articles/s41467-022-32652-y)
 - [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741)
-- [Why has software supply chain security exploded?](https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/)
-- [Yak Shaving: A Short Lesson on Staying Focused](https://americanexpress.io/yak-shaving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
