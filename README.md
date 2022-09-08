@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: TattoosAI – AI-powered tattoo artist, using Stable Diffusion](https://www.tattoosai.com/)
 - [Kamby – A programming language based on Lisp that doesn&#39;t seems like Lisp](https://kamby.org/)
 - [Steve Jobs emails himself &lpar;2010&rpar;](https://twitter.com/TechEmails/status/1567712985979707393)
 - [Are Hawaii’s beach showers in violation of the Clean Water Act?](https://undark.org/2022/09/07/hawaii-beach-showers-violation-clean-water-act/)
-- [The Steve Jobs Archive](https://stevejobsarchive.com/)
-- [I Tracked Everything I Read on the Internet for a Year](https://www.tdpain.net/blog/a-year-of-reading)
+- [Compaq Brand Licensing](https://www.compaq.com/#licensing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
