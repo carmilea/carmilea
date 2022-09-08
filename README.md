@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if consciousness is not an emergent property of the brain?](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.955594/full)
+- [Kamby – A programming language based on Lisp that doesn&#39;t seems like Lisp](https://kamby.org/)
+- [Steve Jobs emails himself &lpar;2010&rpar;](https://twitter.com/TechEmails/status/1567712985979707393)
+- [Are Hawaii’s beach showers in violation of the Clean Water Act?](https://undark.org/2022/09/07/hawaii-beach-showers-violation-clean-water-act/)
+- [The Steve Jobs Archive](https://stevejobsarchive.com/)
 - [I Tracked Everything I Read on the Internet for a Year](https://www.tdpain.net/blog/a-year-of-reading)
-- [Our attention span is being robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
-- [Riding in a peloton is the most energy efficient locomotion, finds new research](https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/)
-- [Why companies are interested in Myers-Briggs types](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
