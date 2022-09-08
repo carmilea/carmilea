@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s party like it’s 1999 &lpar;Emacs bugs left&rpar;](https://lars.ingebrigtsen.no/2022/09/06/lets-party-like-its-1999/)
 - [Show HN: Our project got 4 connectors and 4 l10ns from community in 2 months](https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9)
 - [“Pwned”, the Book, Is Finally Here](https://www.troyhunt.com/pwned-the-book-is-finally-here/)
+- [A byte string library for Rust](https://blog.burntsushi.net/bstr/)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Frontend engineers to build open source APM](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer)
-- [The Risks of WebAssembly](https://www.fermyon.com)
-- [Economists are flocking to Silicon Valley](https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
