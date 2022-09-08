@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Svelte, and Comparing Svelte with React and Vue &lpar;2021&rpar;](https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue)
-- [1999 open Emacs bugs](https://lars.ingebrigtsen.no/2022/09/06/lets-party-like-its-1999/)
-- [Show HN: Our project got 4 connectors and 4 l10ns from community in 2 months](https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9)
-- [Pwned, the book](https://www.troyhunt.com/pwned-the-book-is-finally-here/)
-- [A byte string library for Rust](https://blog.burntsushi.net/bstr/)
+- [Reddit&#39;s Favorite Products in One Place](https://looria.com/reddit/overview)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Writer](https://questdb.io/careers/technical-content-writer/)
+- [Queen under medical supervision at Balmoral](https://www.bbc.co.uk/news/uk-62836057)
+- [Nine million people in city 170km long; is world ready for a linear metropolis?](https://www.theguardian.com/artanddesign/2022/sep/08/nine-million-people-in-a-city-170km-long-will-the-world-ever-be-ready-for-a-linear-metropolis)
+- [Who Controls the Internet? And should they? &lpar;2021&rpar;](https://berthub.eu/articles/posts/who-controls-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
