@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eight Secret Societies You Might Not Know](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
+- [What We Learned from Our Five Failed YC Applications and One Successful One](https://www.relate.so/blog/six-applications-y-combinator/)
+- [Congress.gov API](https://api.congress.gov/)
 - [TAOBench: Running social media workloads on PlanetScale](https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale)
 - [Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
-- [Show HN: I made a modern web UI for Hacker News](https://www.modernhn.com/)
-- [Caddyhttp: Enable HTTP/3 by Default](https://github.com/caddyserver/caddy/pull/4707)
-- [Motion &lpar;YC W20&rpar; Is Hiring QA and Back End Engineers](https://www.usemotion.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
