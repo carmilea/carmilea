@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Your attention span is being robbed!](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
-- [Peloton riding is planet’s most energy efficient locomotion, finds new research](https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/)
-- [A mysterious new Babylon 5 project is coming sooner than you think](https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023)
+- [What if consciousness is not an emergent property of the brain?](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.955594/full)
+- [I Tracked Everything I Read on the Internet for a Year](https://www.tdpain.net/blog/a-year-of-reading)
+- [Our attention span is being robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
+- [Riding in a peloton is the most energy efficient locomotion, finds new research](https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/)
 - [Why companies are interested in Myers-Briggs types](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
-- [Shannon Entropy Imposes Fundamental Limits on Communication](https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
