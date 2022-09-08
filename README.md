@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archaeologists unearth the lost tomb of Genghis Khan](https://archaeology-world.com/archaeologists-unearth-tomb-of-genghis-khan/)
 - [Eight Secret Societies You Might Not Know](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
 - [What We Learned from Our Five Failed YC Applications and One Successful One](https://www.relate.so/blog/six-applications-y-combinator/)
 - [Congress.gov API](https://api.congress.gov/)
-- [TAOBench: Running social media workloads on PlanetScale](https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale)
 - [Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
 <!-- BLOG-POST-LIST:END -->
 
