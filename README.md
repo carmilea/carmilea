@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Queen Elizabeth II has died](https://www.bbc.co.uk/news/uk-61585886)
+- [Show HN: I made a modern web UI for Hacker News](https://www.modernhn.com/)
 - [Caddyhttp: Enable HTTP/3 by Default](https://github.com/caddyserver/caddy/pull/4707)
 - [Motion &lpar;YC W20&rpar; Is Hiring QA and Back End Engineers](https://www.usemotion.com/jobs)
 - [Rolls Royce Ends Boom Supersonic Partnership](https://airwaysmag.com/rolls-royce-boom-supersonic/)
-- [Defeating eBPF Uprobe Monitoring](https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html)
-- [Show HN: Make better decisions with fewer online meetings](https://topagree.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
