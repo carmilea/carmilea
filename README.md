@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Archaeologists unearth the lost tomb of Genghis Khan](https://archaeology-world.com/archaeologists-unearth-tomb-of-genghis-khan/)
+- [Patreon laid off their ENTIRE security team](https://twitter.com/wbm312/status/1567974063578185728)
+- [Building a house in California is not a housing development project [pdf]](https://www.courts.ca.gov/opinions/documents/A161813.PDF)
 - [Eight Secret Societies You Might Not Know](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
-- [What We Learned from Our Five Failed YC Applications and One Successful One](https://www.relate.so/blog/six-applications-y-combinator/)
+- [Our five failed YC applications and one successful one](https://www.relate.so/blog/six-applications-y-combinator/)
 - [Congress.gov API](https://api.congress.gov/)
-- [Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
