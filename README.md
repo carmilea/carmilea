@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hack LinkedIn with PDFs](https://taplio.com/carousel)
+- [Show HN: Our project got 4 connectors and 4 l10ns from community in 2 months](https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9)
+- [“Pwned”, the Book, Is Finally Here](https://www.troyhunt.com/pwned-the-book-is-finally-here/)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Frontend engineers to build open source APM](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer)
+- [The Risks of WebAssembly](https://www.fermyon.com)
 - [Economists are flocking to Silicon Valley](https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley)
-- [What to read to understand central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking)
-- [Show HN: TattoosAI – AI-powered tattoo artist, using Stable Diffusion](https://www.tattoosai.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
