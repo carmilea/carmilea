@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Attacking Firecracker: AWS&#39; MicroVM Monitor Written in Rust](https://www.graplsecurity.com/post/attacking-firecracker)
-- [Accelerate Python code 100x by import taichi as ti](https://docs.taichi-lang.org/blog/accelerate-python-code-100x)
-- [Go Developer Survey 2022 Q2 Results](https://go.dev/blog/survey2022-q2-results)
-- [Not Your Grandfather’s Perl](https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/)
-- [It&#39;s time to upscale FSR 2 even further: Meet FSR 2.1](https://gpuopen.com/meet-fidelityfx-super-resolution-2-1/)
+- [Caddyhttp: Enable HTTP/3 by Default](https://github.com/caddyserver/caddy/pull/4707)
+- [Motion &lpar;YC W20&rpar; Is Hiring QA and Back End Engineers](https://www.usemotion.com/jobs)
+- [Rolls Royce Ends Boom Supersonic Partnership](https://airwaysmag.com/rolls-royce-boom-supersonic/)
+- [Defeating eBPF Uprobe Monitoring](https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html)
+- [Show HN: Make better decisions with fewer online meetings](https://topagree.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
