@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit&#39;s Favorite Products in One Place](https://looria.com/reddit/overview)
+- [Stop Measuring Community Engagement](https://rosie.land/posts/stop-measuring-community-engagement/)
+- [Europe’s energy crisis hits science](https://www.science.org/content/article/europe-s-energy-crisis-hits-science)
+- [Reddit&#39;s favorite products in one place](https://looria.com/reddit/overview)
+- [Why Does This Horrifying Woman Keep Appearing in AI-Generated Images?](https://www.vice.com/en/article/g5vjw3/why-does-this-horrifying-woman-keep-appearing-in-ai-generated-images)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Writer](https://questdb.io/careers/technical-content-writer/)
-- [Queen under medical supervision at Balmoral](https://www.bbc.co.uk/news/uk-62836057)
-- [Nine million people in city 170km long; is world ready for a linear metropolis?](https://www.theguardian.com/artanddesign/2022/sep/08/nine-million-people-in-a-city-170km-long-will-the-world-ever-be-ready-for-a-linear-metropolis)
-- [Who Controls the Internet? And should they? &lpar;2021&rpar;](https://berthub.eu/articles/posts/who-controls-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
