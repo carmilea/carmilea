@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Queen Elizabeth II has died](https://www.bbc.co.uk/news/uk-61585886)
+- [TAOBench: Running social media workloads on PlanetScale](https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale)
+- [Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
 - [Show HN: I made a modern web UI for Hacker News](https://www.modernhn.com/)
 - [Caddyhttp: Enable HTTP/3 by Default](https://github.com/caddyserver/caddy/pull/4707)
 - [Motion &lpar;YC W20&rpar; Is Hiring QA and Back End Engineers](https://www.usemotion.com/jobs)
-- [Rolls Royce Ends Boom Supersonic Partnership](https://airwaysmag.com/rolls-royce-boom-supersonic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
