@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Hack LinkedIn with PDFs](https://taplio.com/carousel)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Frontend engineers to build open source APM](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer)
 - [Economists are flocking to Silicon Valley](https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley)
-- [Ask HN: What is the cheapest laptop I can buy for development](https://news.ycombinator.com/item?id=32761525)
 - [What to read to understand central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking)
 - [Show HN: TattoosAI – AI-powered tattoo artist, using Stable Diffusion](https://www.tattoosai.com/)
 <!-- BLOG-POST-LIST:END -->
