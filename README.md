@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Half of Japan&#39;s LDP lawmakers had ties with Unification Church](https://asia.nikkei.com/Politics/Unification-Church-and-politics/Half-of-Japan-s-LDP-lawmakers-had-ties-with-Unification-Church)
+- [Tim Cook&#39;s response to Android texting compatibility: &#39;buy your mom an iPhone&#39;](https://www.engadget.com/tim-cook-response-green-bubbles-android-your-mom-095538175.html)
+- [Ask HN: How do I/you prep for the energy crisis in EU?](https://news.ycombinator.com/item?id=32765431)
+- [Fresh 1.1 – automatic JSX, plugins, DevTools, and more](https://deno.com/blog/fresh-1.1)
 - [Stop Measuring Community Engagement](https://rosie.land/posts/stop-measuring-community-engagement/)
-- [Europe’s energy crisis hits science](https://www.science.org/content/article/europe-s-energy-crisis-hits-science)
-- [Reddit&#39;s favorite products in one place](https://looria.com/reddit/overview)
-- [Why Does This Horrifying Woman Keep Appearing in AI-Generated Images?](https://www.vice.com/en/article/g5vjw3/why-does-this-horrifying-woman-keep-appearing-in-ai-generated-images)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Writer](https://questdb.io/careers/technical-content-writer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
