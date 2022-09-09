@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [H.R.2184 – End Oil and Gas Tax Subsidies Act](https://www.congress.gov/bill/117th-congress/house-bill/2184)
+- [Three Developer Mistakes: Schema Design](https://www.singlestore.com/blog/three-developer-mistakes-schema-design)
+- [FTC proposes rule to ban junk fees, bait-and-switch tactics plaguing car buyers](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-proposes-rule-ban-junk-fees-bait-switch-tactics-plaguing-car-buyers)
+- [Companies are buying large numbers of carbon offsets that don’t cut emissions](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
 - [Byte Magazine: The C Programming Language &lpar;1983&rpar;](https://archive.org/details/byte-magazine-1983-08)
-- [Meta Platforms Cuts Responsible Innovation Team](https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS)
-- [Ask HN: What happened to vanilla HTML/CSS/JS development?](https://news.ycombinator.com/item?id=32780191)
-- [The Hiker’s Dilemma](https://acko.net/blog/the-hikers-dilemma/)
-- [Grafana Mimir and VictoriaMetrics: performance tests](https://victoriametrics.com/blog/mimir-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
