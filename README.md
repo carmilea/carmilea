@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OOP “is really just a common sense extension of structured programming”](https://archive.org/details/classconstructio00sess)
 - [Olark &lpar;YC W09&rpar; Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
+- [Simulated Growing Plants](https://www.youtube.com/watch?v=NogVlXVsJIs)
 - [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
 - [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
-- [A Web UI for Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [Why investors are reaching for the astrology of finance](https://www.economist.com/finance-and-economics/2022/09/01/why-investors-are-reaching-for-the-astrology-of-finance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
