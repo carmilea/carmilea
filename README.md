@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Touhou PC-98 Restoration Project](https://github.com/nmlgc/ReC98)
+- [Making a Website Under 1kB](https://tdarb.org/blog/under-1kb.html)
 - [ADSL Router as Effects Pedal](https://hackaday.com/2022/09/08/adsl-router-as-effects-pedal/)
-- [What&#39;s SAP, and why&#39;s it worth $163B? &lpar;2020&rpar;](https://retool.com/blog/erp-for-engineers/)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [iPhone 14: Cheapest Country to Buy in 37 Countries](https://www.nukeni.com/en/apple/iphone/iphone14)
-- [CernVM File System](https://cernvm.cern.ch/fs/)
+- [Why public chats are better than direct messages](https://teamplify.com/blog/why-public-chats-are-better-than-direct-messages/)
+- [Movim – A decentralized social platform built on XMPP](https://github.com/movim/movim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
