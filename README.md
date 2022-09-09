@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Olark &lpar;YC W09&rpar; Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
+- [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
+- [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
+- [A Web UI for Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Why investors are reaching for the astrology of finance](https://www.economist.com/finance-and-economics/2022/09/01/why-investors-are-reaching-for-the-astrology-of-finance)
-- [The Next Chapter for Learning on YouTube](https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/)
-- [Software Engineering Code &lpar;of Ethics&rpar;](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
-- [Lensless camera creates 3D images from single exposure](https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/)
-- [Cravings for fatty foods traced to gut-brain connection](https://zuckermaninstitute.columbia.edu/cravings-fatty-foods-traced-gut-brain-connection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
