@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WASM-4 Game Jam 2 Results – Zig most used](https://wasm4.org/blog/jam-2-results/)
-- [The Touhou PC-98 Restoration Project](https://github.com/nmlgc/ReC98)
-- [Making a Website Under 1kB](https://tdarb.org/blog/under-1kb.html)
-- [ADSL Router as Effects Pedal](https://hackaday.com/2022/09/08/adsl-router-as-effects-pedal/)
-- [Why public chats are better than direct messages](https://teamplify.com/blog/why-public-chats-are-better-than-direct-messages/)
+- [Amazon CEO says company will slow hiring rate, no hard return to office planned](https://www.theregister.com/2022/09/08/amazon_andy_jassy_hiring_return_to_office/)
+- [Use.GPU](https://usegpu.live)
+- [Ask HN: Why do we need central bank digital currency &lpar;CBDC&rpar;?](https://news.ycombinator.com/item?id=32777875)
+- [AirPods Pro &lpar;First Gen&rpar; Service Program for Sound Issues](https://support.apple.com/airpods-pro-service-program-sound-issues)
+- [Exceeding 1.5°C global warming could trigger multiple climate tipping points](https://www.science.org/doi/10.1126/science.abn7950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
