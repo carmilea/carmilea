@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon CEO says company will slow hiring rate, no hard return to office planned](https://www.theregister.com/2022/09/08/amazon_andy_jassy_hiring_return_to_office/)
-- [Use.GPU](https://usegpu.live)
-- [Ask HN: Why do we need central bank digital currency &lpar;CBDC&rpar;?](https://news.ycombinator.com/item?id=32777875)
-- [AirPods Pro &lpar;First Gen&rpar; Service Program for Sound Issues](https://support.apple.com/airpods-pro-service-program-sound-issues)
-- [Exceeding 1.5°C global warming could trigger multiple climate tipping points](https://www.science.org/doi/10.1126/science.abn7950)
+- [Letters about Soap](https://people.cs.ksu.edu/~schmidt/soap.txt)
+- [Winamp 5.9 Final Released](http://forums.winamp.com/showthread.php?t=458120)
+- [WebSockets in Curl](https://curl.se/docs/websockets.html)
+- [How to handle an over-productive employee? – The Workplace Stack Exchange](https://workplace.stackexchange.com/questions/187269/how-to-handle-an-over-productive-employee)
+- [Ask HN: What Happened to Theregister.com?](https://news.ycombinator.com/item?id=32778803)
 <!-- BLOG-POST-LIST:END -->
 
 ---
