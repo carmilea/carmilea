@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Byte Magazine: The C Programming Language &lpar;1983&rpar;](https://archive.org/details/byte-magazine-1983-08)
+- [Meta Platforms Cuts Responsible Innovation Team](https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS)
+- [Ask HN: What happened to vanilla HTML/CSS/JS development?](https://news.ycombinator.com/item?id=32780191)
+- [The Hiker’s Dilemma](https://acko.net/blog/the-hikers-dilemma/)
 - [Grafana Mimir and VictoriaMetrics: performance tests](https://victoriametrics.com/blog/mimir-benchmark/)
-- [Python Type Hints Are Turing Complete](https://arxiv.org/abs/2208.14755)
-- [Letters about Soap](https://people.cs.ksu.edu/~schmidt/soap.txt)
-- [Winamp 5.9](http://forums.winamp.com/showthread.php?t=458120)
-- [WebSockets in Curl](https://curl.se/docs/websockets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
