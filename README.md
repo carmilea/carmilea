@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WASM-4 Game Jam 2 Results – Zig most used](https://wasm4.org/blog/jam-2-results/)
 - [The Touhou PC-98 Restoration Project](https://github.com/nmlgc/ReC98)
 - [Making a Website Under 1kB](https://tdarb.org/blog/under-1kb.html)
 - [ADSL Router as Effects Pedal](https://hackaday.com/2022/09/08/adsl-router-as-effects-pedal/)
 - [Why public chats are better than direct messages](https://teamplify.com/blog/why-public-chats-are-better-than-direct-messages/)
-- [Movim – A decentralized social platform built on XMPP](https://github.com/movim/movim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
