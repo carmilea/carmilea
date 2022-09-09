@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [H.R.2184 – End Oil and Gas Tax Subsidies Act](https://www.congress.gov/bill/117th-congress/house-bill/2184)
+- [Lensless camera creates 3D images from single exposure](https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/)
+- [Cravings for fatty foods traced to gut-brain connection](https://zuckermaninstitute.columbia.edu/cravings-fatty-foods-traced-gut-brain-connection)
+- [Remembering When America Banned Sliced Bread](https://www.atlasobscura.com/articles/america-banned-sliced-bread)
+- [How Transistors Work [video]](https://www.youtube.com/watch?v=CQtSS6g00h0)
 - [Three Developer Mistakes: Schema Design](https://www.singlestore.com/blog/three-developer-mistakes-schema-design)
-- [FTC proposes rule to ban junk fees, bait-and-switch tactics plaguing car buyers](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-proposes-rule-ban-junk-fees-bait-switch-tactics-plaguing-car-buyers)
-- [Companies are buying large numbers of carbon offsets that don’t cut emissions](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
-- [Byte Magazine: The C Programming Language &lpar;1983&rpar;](https://archive.org/details/byte-magazine-1983-08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
