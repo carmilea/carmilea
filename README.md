@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Type Hints Are Turing Complete](https://arxiv.org/abs/2208.14755)
 - [Letters about Soap](https://people.cs.ksu.edu/~schmidt/soap.txt)
 - [Winamp 5.9 Final Released](http://forums.winamp.com/showthread.php?t=458120)
 - [WebSockets in Curl](https://curl.se/docs/websockets.html)
 - [How to handle an over-productive employee? – The Workplace Stack Exchange](https://workplace.stackexchange.com/questions/187269/how-to-handle-an-over-productive-employee)
-- [Ask HN: What Happened to Theregister.com?](https://news.ycombinator.com/item?id=32778803)
 <!-- BLOG-POST-LIST:END -->
 
 ---
