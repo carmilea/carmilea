@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering Code &lpar;of Ethics&rpar;](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
 - [Lensless camera creates 3D images from single exposure](https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/)
 - [Cravings for fatty foods traced to gut-brain connection](https://zuckermaninstitute.columbia.edu/cravings-fatty-foods-traced-gut-brain-connection)
 - [Remembering When America Banned Sliced Bread](https://www.atlasobscura.com/articles/america-banned-sliced-bread)
 - [How Transistors Work [video]](https://www.youtube.com/watch?v=CQtSS6g00h0)
-- [Three Developer Mistakes: Schema Design](https://www.singlestore.com/blog/three-developer-mistakes-schema-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
