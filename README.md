@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Better Together: Google Cloud &amp; SingleStore](https://www.youtube.com/watch?v=vltqTBG_Vyg)
 - [SingleStore Snackables: Streaming Data Ingestion](https://www.youtube.com/watch?v=3BiyiH-eyLM)
 - [SingleStore | Community Call | August 2022](https://www.youtube.com/watch?v=Pi_oCXj7LEo)
 - [[r]evolution 2022: Developers &amp; Engineers Breakout Session](https://www.youtube.com/watch?v=ganE7nyqvwA)
 - [[r]evolution 2022: ITDM &amp; Business Leader Breakout Session](https://www.youtube.com/watch?v=Vp5Vi7BzxYE)
-- [[r]evolution 2022: Main Keynote Session](https://www.youtube.com/watch?v=WVcCA9uu33c)
 <!-- YOUTUBE:END -->
 
 
