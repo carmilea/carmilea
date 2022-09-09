@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s SAP, and why&#39;s it worth $163B?](https://retool.com/blog/erp-for-engineers/)
+- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Defending Privacy in Crypto](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8)
 - [CernVM File System](https://cernvm.cern.ch/fs/)
 - [Apple’s Killing the Password. Here’s Everything You Need to Know](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/)
-- [Edge Case Poisoning &lpar;2020&rpar;](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
-- [Flip the Switch for 5.5 Seconds](https://55thegame.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
