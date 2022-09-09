@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s SAP, and why&#39;s it worth $163B?](https://retool.com/blog/erp-for-engineers/)
+- [What&#39;s SAP, and why&#39;s it worth $163B? &lpar;2020&rpar;](https://retool.com/blog/erp-for-engineers/)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [Defending Privacy in Crypto](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8)
+- [iPhone 14: Cheapest Country to Buy in 37 Countries](https://www.nukeni.com/en/apple/iphone/iphone14)
 - [CernVM File System](https://cernvm.cern.ch/fs/)
 - [Apple’s Killing the Password. Here’s Everything You Need to Know](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/)
 <!-- BLOG-POST-LIST:END -->
