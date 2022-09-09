@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patreon laid off their ENTIRE security team](https://twitter.com/wbm312/status/1567974063578185728)
-- [Building a house in California is not a housing development project [pdf]](https://www.courts.ca.gov/opinions/documents/A161813.PDF)
-- [Eight Secret Societies You Might Not Know](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
-- [Our five failed YC applications and one successful one](https://www.relate.so/blog/six-applications-y-combinator/)
-- [Congress.gov API](https://api.congress.gov/)
+- [After a Legal Fight, Oberlin Says It Will Pay $36.59M to a Local Bakery](https://www.nytimes.com/2022/09/08/us/oberlin-bakery-lawsuit.html)
+- [Crash recovery for user-space block drivers](https://lwn.net/Articles/906097/)
+- [Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut](https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/)
+- [It seems that the good times for online Minecraft play are over](https://bae.st/notice/AL3OGtBIWr6Bz2Y4um)
+- [Patreon laid off their security team](https://twitter.com/wbm312/status/1567974063578185728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
