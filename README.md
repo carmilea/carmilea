@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why investors are reaching for the astrology of finance](https://www.economist.com/finance-and-economics/2022/09/01/why-investors-are-reaching-for-the-astrology-of-finance)
+- [The Next Chapter for Learning on YouTube](https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/)
 - [Software Engineering Code &lpar;of Ethics&rpar;](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
 - [Lensless camera creates 3D images from single exposure](https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/)
 - [Cravings for fatty foods traced to gut-brain connection](https://zuckermaninstitute.columbia.edu/cravings-fatty-foods-traced-gut-brain-connection)
-- [Remembering When America Banned Sliced Bread](https://www.atlasobscura.com/articles/america-banned-sliced-bread)
-- [How Transistors Work [video]](https://www.youtube.com/watch?v=CQtSS6g00h0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
