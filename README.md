@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Defending Privacy in Crypto](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8)
 - [CernVM File System](https://cernvm.cern.ch/fs/)
-- [Edge Case Poisoning](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
+- [Apple’s Killing the Password. Here’s Everything You Need to Know](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/)
+- [Edge Case Poisoning &lpar;2020&rpar;](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 - [Flip the Switch for 5.5 Seconds](https://55thegame.com)
-- [Widespread misperceptions of long-term attitude change](https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract)
-- [When Every Ketchup but One Went Extinct](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
