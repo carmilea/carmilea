@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Garmin Reacts to Apple Watch Ultra: We Measure Battery Life in Months. Not Hours](https://www.macrumors.com/2022/09/09/garmin-reacts-to-apple-watch-ultra/)
+- [Cognitive ability is related to supporting freedom of speech &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/1948550619896168)
+- [The U.S. military is growing concerned about UFOs. Should we worry?](https://superbowl.substack.com/p/uap-evidence-summary-skepticism-and)
 - [Profession &lpar;1957&rpar;](https://www.abelard.org/asimov.php)
 - [iPhone 14 Pro comes with dual-frequency GPS](https://www.apple.com/iphone-14-pro/specs/)
-- [Visual Effects for the Indian Blockbuster “RRR” made entirely in Blender](https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/)
-- [Bank tells customers to disable updates and not upgrade to iOS 16](https://www.coutts.com/coutts-digital/Bank-In-the-App.html)
-- [Bouncer – Private SMS Blocker](https://apps.apple.com/us/app/bouncer-private-sms-blocker/id1457476313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
