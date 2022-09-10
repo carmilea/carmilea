@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unintended Consequences of Photography](https://www.saturdayeveningpost.com/2022/08/5-unintended-consequences-of-photography/)
+- [No, Most Books Don&#39;t Sell Only a Dozen Copies](https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen)
+- [Argentina&#39;s currency exchange black markets](https://devonzuegel.com/post/inside-argentina-s-currency-exchange-black-markets)
+- [Living Like Nothing Matters](https://awealthofcommonsense.com/2022/09/living-like-nothing-matters/)
 - [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
-- [Foreign Candy Puts American Candy to Shame](https://www.theatlantic.com/health/archive/2022/08/foreign-international-candy-snacks-japan/671291/)
-- [Whats the best SDK documentation you’ve ever read, and why?](https://news.ycombinator.com/item?id=32794330)
-- [What went down on Wikipedia after Queen Elizabeth II&#39;s death was announced](https://twitter.com/depthsofwiki/status/1568101529273643008)
-- [Zoho became a $1B company without external investment](https://techcrunch.com/2022/09/10/how-zoho-became-1b-company-without-a-dime-of-external-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
