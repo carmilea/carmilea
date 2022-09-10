@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jackson MS water crisis resolved within 24 hours of Corps of Engr on site](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
+- [Fabrice Bellard: Portrait of a Super-Productive Programmer &lpar;2011&rpar;](https://smartbear.com/blog/fabrice-bellard-portrait-of-a-super-productive-pro/)
 - [Unintended Consequences of Photography](https://www.saturdayeveningpost.com/2022/08/5-unintended-consequences-of-photography/)
 - [No, Most Books Don&#39;t Sell Only a Dozen Copies](https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen)
 - [Argentina&#39;s currency exchange black markets](https://devonzuegel.com/post/inside-argentina-s-currency-exchange-black-markets)
-- [Living Like Nothing Matters](https://awealthofcommonsense.com/2022/09/living-like-nothing-matters/)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
