@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Bans Turned a Texas Town Upside Down](https://www.nytimes.com/2022/09/08/magazine/book-bans-texas.html)
+- [White House Is Mulling a Ban on Bitcoin Mining](https://www.barrons.com/articles/white-house-bitcoin-proof-of-work-mining-ban-51662728547)
+- [Transcending Posix: The End of an Era?](https://www.usenix.org/publications/loginonline/transcending-posix-end-era)
 - [ContainerSSH: Launch containers on demand](https://github.com/ContainerSSH/ContainerSSH)
 - [Air pollution cancer breakthrough will rewrite the rules](https://www.bbc.com/news/health-62797777)
 - [Ashby hiring engineers who want to make product decisions and/or design](https://www.ashbyhq.com/careers?utm_source=hn)
-- [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
