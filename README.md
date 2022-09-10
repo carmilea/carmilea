@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Olark &lpar;YC W09&rpar; Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
-- [Simulated Growing Plants](https://www.youtube.com/watch?v=NogVlXVsJIs)
-- [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
-- [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
-- [Why UML “Really” Died](https://buttondown.email/hillelwayne/archive/why-uml-really-died/)
+- [Oberlin College to pay $36M to bakery owners who were falsely accused of racism](https://www.cnn.com/2022/09/09/us/oberlin-college-bakery-lawsuit-payment-reaj/index.html)
+- [Filthy Plane Videos Ignite Debate About Airline Cleanliness](https://www.nytimes.com/2022/09/09/travel/dirty-planes.html)
+- [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
+- [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
+- [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
