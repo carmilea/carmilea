@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set &lpar;2016&rpar; [pdf]](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
+- [Elementary OS – Why we write elementary apps in Vala](https://blog.elementary.io/why-we-write-elementary-apps-in-vala/)
 - [Android 13 requires devices to have more than 2GB RAM and 16GB storage](https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html)
 - [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
 - [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
-- [Regarding the eSIM-only iPhone 14 models in the U.S.](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
