@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What&#39;s the best source code you&#39;ve read?](https://news.ycombinator.com/item?id=32793534)
 - [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://twitter.com/zhuowei/status/1568659229887664129)
 - [Cloudflare Warp](https://1.1.1.1)
 - [You’re Not Addicted to Technology. Here’s What’s Happening Instead](https://www.nirandfar.com/technology-addiction/)
-- [Firezone is hiring to build a WireGuard based remote access platform &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
-- [Analysis Shows &#39;Quiet Fleecing&#39; of US Workers–Not Quiet Quitting–Is Real Problem](https://www.commondreams.org/news/2022/09/09/analysis-shows-quiet-fleecing-us-workers-not-quiet-quitting-real-problem)
+- [Ask HN: Is there a precedent for legislation that mandates code changes to OSS?](https://news.ycombinator.com/item?id=32792825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
