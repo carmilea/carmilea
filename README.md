@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oberlin College to pay $36M to bakery owners who were falsely accused of racism](https://www.cnn.com/2022/09/09/us/oberlin-college-bakery-lawsuit-payment-reaj/index.html)
-- [Filthy Plane Videos Ignite Debate About Airline Cleanliness](https://www.nytimes.com/2022/09/09/travel/dirty-planes.html)
+- [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set &lpar;2016&rpar; [pdf]](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
+- [Android 13 requires devices to have more than 2GB RAM and 16GB storage](https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html)
 - [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
 - [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
-- [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
+- [Regarding the eSIM-only iPhone 14 models in the U.S.](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
