@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House Is Mulling a Ban on Bitcoin Mining](https://www.barrons.com/articles/white-house-bitcoin-proof-of-work-mining-ban-51662728547)
-- [Transcending Posix: The End of an Era?](https://www.usenix.org/publications/loginonline/transcending-posix-end-era)
-- [ContainerSSH: Launch containers on demand](https://github.com/ContainerSSH/ContainerSSH)
-- [Air pollution cancer breakthrough will rewrite the rules](https://www.bbc.com/news/health-62797777)
-- [Ashby hiring engineers who want to make product decisions and/or design](https://www.ashbyhq.com/careers?utm_source=hn)
+- [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
+- [K-219](https://en.wikipedia.org/wiki/Soviet_submarine_K-219)
+- [Ask HN: Best empirical papers on software development?](https://news.ycombinator.com/item?id=32789507)
+- [Tell HN: My phone just told me to check for moisture in the USB port](https://news.ycombinator.com/item?id=32789464)
+- [Show HN: 1paragraph – a browser-based, offline-first ePub reader](https://1paragraph.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
