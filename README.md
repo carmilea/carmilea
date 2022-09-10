@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bank tells customers to disable updates and not upgrade to iOS 16](https://www.coutts.com/coutts-digital/Bank-In-the-App.html)
+- [Ask HN: Which books do you consider real gems in your field of work/study?](https://news.ycombinator.com/item?id=32790064)
+- [About Tech Worker Unions Pt 2 – I Would Never Know [audio]](https://podcasts.apple.com/us/podcast/about-tech-worker-unions-part-2/id1630559316?i=1000578677315)
 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
 - [K-219](https://en.wikipedia.org/wiki/Soviet_submarine_K-219)
-- [Ask HN: Best empirical papers on software development?](https://news.ycombinator.com/item?id=32789507)
-- [Tell HN: My phone just told me to check for moisture in the USB port](https://news.ycombinator.com/item?id=32789464)
-- [Show HN: 1paragraph – a browser-based, offline-first ePub reader](https://1paragraph.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
