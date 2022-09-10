@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Autistic employees think they’re better than everyone](https://news.ycombinator.com/item?id=32788790)
+- [Container + SSH = a good development environment](https://github.com/ContainerSSH/ContainerSSH)
+- [Air pollution cancer breakthrough will rewrite the rules](https://www.bbc.com/news/health-62797777)
 - [Ashby hiring engineers who want to make product decisions and/or design](https://www.ashbyhq.com/careers?utm_source=hn)
 - [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html)
 - [Zstd Compressed Debug Sections](https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections)
-- [Ask HN: Does anyone have a great public domain list of programming books?](https://news.ycombinator.com/item?id=32788281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
