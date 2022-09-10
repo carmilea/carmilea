@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://twitter.com/zhuowei/status/1568659229887664129)
-- [We Need to Talk About the Carbon Footprints of the Rich](https://www.noemamag.com/we-need-to-talk-about-the-carbon-footprints-of-the-rich/)
 - [Cloudflare Warp](https://1.1.1.1)
 - [You’re Not Addicted to Technology. Here’s What’s Happening Instead](https://www.nirandfar.com/technology-addiction/)
 - [Firezone is hiring to build a WireGuard based remote access platform &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
+- [Analysis Shows &#39;Quiet Fleecing&#39; of US Workers–Not Quiet Quitting–Is Real Problem](https://www.commondreams.org/news/2022/09/09/analysis-shows-quiet-fleecing-us-workers-not-quiet-quitting-real-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
