@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Garmin Reacts to Apple Watch Ultra: We Measure Battery Life in Months. Not Hours](https://www.macrumors.com/2022/09/09/garmin-reacts-to-apple-watch-ultra/)
+- [Firezone is hiring to build a WireGuard based remote access platform &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
 - [Cognitive ability is related to supporting freedom of speech &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/1948550619896168)
-- [The U.S. military is growing concerned about UFOs. Should we worry?](https://superbowl.substack.com/p/uap-evidence-summary-skepticism-and)
 - [Profession &lpar;1957&rpar;](https://www.abelard.org/asimov.php)
 - [iPhone 14 Pro comes with dual-frequency GPS](https://www.apple.com/iphone-14-pro/specs/)
+- [Visual effects for the Indian blockbuster “RRR”](https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
