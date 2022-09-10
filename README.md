@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s the best source code you&#39;ve read?](https://news.ycombinator.com/item?id=32793534)
-- [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://twitter.com/zhuowei/status/1568659229887664129)
-- [Cloudflare Warp](https://1.1.1.1)
-- [You’re Not Addicted to Technology. Here’s What’s Happening Instead](https://www.nirandfar.com/technology-addiction/)
-- [Ask HN: Is there a precedent for legislation that mandates code changes to OSS?](https://news.ycombinator.com/item?id=32792825)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [Foreign Candy Puts American Candy to Shame](https://www.theatlantic.com/health/archive/2022/08/foreign-international-candy-snacks-japan/671291/)
+- [Whats the best SDK documentation you’ve ever read, and why?](https://news.ycombinator.com/item?id=32794330)
+- [What went down on Wikipedia after Queen Elizabeth II&#39;s death was announced](https://twitter.com/depthsofwiki/status/1568101529273643008)
+- [Zoho became a $1B company without external investment](https://techcrunch.com/2022/09/10/how-zoho-became-1b-company-without-a-dime-of-external-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
