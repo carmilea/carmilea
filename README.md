@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://twitter.com/zhuowei/status/1568659229887664129)
+- [We Need to Talk About the Carbon Footprints of the Rich](https://www.noemamag.com/we-need-to-talk-about-the-carbon-footprints-of-the-rich/)
+- [Cloudflare Warp](https://1.1.1.1)
+- [You’re Not Addicted to Technology. Here’s What’s Happening Instead](https://www.nirandfar.com/technology-addiction/)
 - [Firezone is hiring to build a WireGuard based remote access platform &lpar;YC W22&rpar;](https://www.ycombinator.com/companies/firezone/jobs)
-- [Cognitive ability is related to supporting freedom of speech &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/1948550619896168)
-- [Profession &lpar;1957&rpar;](https://www.abelard.org/asimov.php)
-- [iPhone 14 Pro comes with dual-frequency GPS](https://www.apple.com/iphone-14-pro/specs/)
-- [Visual effects for the Indian blockbuster “RRR”](https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
