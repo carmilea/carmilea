@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker News Bot That Automated Archive Finding and Commenting](https://github.com/ShlomoStept/hn_bot)
+- [Show HN: Hacker News bot that automated archive finding and commenting](https://github.com/ShlomoStept/hn_bot)
+- [DIY Dial Caliper Repair Guide &lpar;Mitutoyo, Starrett, Browne &amp; Sharpe&rpar;](http://www.longislandindicator.com/p44.html)
 - [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
-- [Common Lisp Names All Sixteen Possible Binary Logic Gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
+- [Common Lisp names all sixteen binary logic gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
 - [Perfecting WebGPU/Dawn native graphics for Zig](https://devlog.hexops.com/2022/perfecting-webgpu-native/)
-- [Microservices – Please, Don’t &lpar;2016&rpar;](https://riak.com/posts/technical/microservices-please-dont/index.html?p=12525.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
