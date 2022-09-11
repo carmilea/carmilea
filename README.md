@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Sudden Chile daylight savings time rules change causes chaos](https://news.ycombinator.com/item?id=32800484)
+- [Show HN: Compass and Ruler construction problems as puzzle game](https://sdkgames.itch.io/ecocoru)
+- [Ask HN: Does anyone else think SQL needs help?](https://news.ycombinator.com/item?id=32799920)
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- [Osint: Recommended reading before the end of 2022](https://www.osintme.com/index.php/2022/09/10/recommended-reading-before-the-end-of-2022/)
-- [A Review of the Odin Programming Language](https://graphitemaster.github.io/odin_review/)
-- [Feather: A Minecraft server implementation in Rust](https://github.com/feather-rs/feather)
-- [Show HN: Chard – simple async/await background tasks for Django](https://github.com/drpancake/chard)
+- [Ask HN: What are some of the best documentaries you&#39;ve seen?](https://news.ycombinator.com/item?id=32799789)
 <!-- BLOG-POST-LIST:END -->
 
 ---
