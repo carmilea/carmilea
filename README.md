@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Hacker News Bot That Automated Archive Finding and Commenting](https://github.com/ShlomoStept/hn_bot)
 - [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
 - [Common Lisp Names All Sixteen Possible Binary Logic Gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
+- [Perfecting WebGPU/Dawn native graphics for Zig](https://devlog.hexops.com/2022/perfecting-webgpu-native/)
 - [Microservices – Please, Don’t &lpar;2016&rpar;](https://riak.com/posts/technical/microservices-please-dont/index.html?p=12525.html)
-- [Show HN: I built an extension for analyzing rental properties in Zillow](https://www.homescope.io/)
-- [Living Worlds in HTML5 &lpar;2012&rpar;](http://effectgames.com/demos/worlds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
