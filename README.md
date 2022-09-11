@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazarus IDE – write once, compile anywhere](https://www.getlazarus.org/)
+- [India is almost 80% IPv6](https://www.apnic.net/community/ipv6/ipv6-in-your-region/)
+- [How random can you be?](https://www.expunctis.com/2019/03/07/Not-so-random.html)
+- [Ask HN: Is there any beautiful Markdown editor?](https://news.ycombinator.com/item?id=32797711)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
-- [Finland will be self-sufficient in electricity within a year or two](https://yle.fi/news/3-12618297)
 - [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
-- [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
