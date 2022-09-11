@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Solopreneurs, how do you maintain a professional/social network?](https://news.ycombinator.com/item?id=32795970)
-- [Why Empty Offices Are Becoming Apartments in Texas’s Big Cities](https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/)
-- [&lpar;Changes to grep&rpar; Time To Stop Using egrep and fgrep Commands, Per GNU grep 3.8](https://www.phoronix.com/news/GNU-Grep-3.8-Stop-egrep-fgrep)
-- [Jackson MS water crisis resolved within 24 hours of Corps of Engr on site](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
-- [Rethinking GPS: Engineering Next-Gen Location at Uber](https://www.uber.com/en-SE/blog/rethinking-gps/)
+- [&#39;We don’t have enough&#39; lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
+- [Google&#39;s &#39;Rest and Vest&#39; Days for Senior Employees Are Over, Says CEO](https://www.inc.com/nick-hobson/googles-rest-vest-days-for-sr-employees-are-over-says-ceo-its-a-brilliant-idea.html)
+- [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
+- [The case for building something wonderful alone](https://derw.substack.com/p/the-case-for-building-something-wonderful)
+- [Modulating Brain Function with Microbiota](https://www.science.org/doi/10.1126/science.abo4220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
