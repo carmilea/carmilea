@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Duck Spam: Start Using Your Duck Address](https://news.ycombinator.com/item?id=32799221)
+- [Feather: A Minecraft server implementation in Rust](https://github.com/feather-rs/feather)
+- [Show HN: Chard – simple async/await background tasks for Django](https://github.com/drpancake/chard)
+- [Cirrus Vision Jet Pilot Pulls Chute in Florida](https://www.flyingmag.com/cirrus-vision-jet-pilot-pulls-chute-in-florida/)
 - [Declarative GUI with constraints-based layout engine for Python](https://github.com/nucleic/enaml)
 - [Revamped German stellarator should run longer, hotter and compete with tokamaks](https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion)
-- [You Can&#39;t Do That: Abstracting over Ownership in Rust with HRTBs. Or Can You?](https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/)
-- [Ask HN: Help me pick a front-end framework](https://news.ycombinator.com/item?id=32799003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
