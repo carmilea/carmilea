@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Sudden Chile daylight savings time rules change causes chaos](https://news.ycombinator.com/item?id=32800484)
-- [Show HN: Compass and Ruler construction problems as puzzle game](https://sdkgames.itch.io/ecocoru)
-- [Ask HN: Does anyone else think SQL needs help?](https://news.ycombinator.com/item?id=32799920)
-- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- [Ask HN: What are some of the best documentaries you&#39;ve seen?](https://news.ycombinator.com/item?id=32799789)
+- [The Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index)
+- [Build Your Career on Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
+- [We&#39;re Wildly Underestimating the Potential of Mobile Housing](https://www.sightline.org/2022/09/09/were-wildly-underestimating-the-potential-of-mobile-housing/)
+- [Go standard library: structured, leveled logging](https://github.com/golang/go/discussions/54763)
+- [Open source, cross-platform, low latency, user-mode tablet driver](https://github.com/OpenTabletDriver/OpenTabletDriver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
