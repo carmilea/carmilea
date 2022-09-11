@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
+- [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
 - [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 - [&#39;We don’t have enough&#39; lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
 - [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
-- [The case for building something wonderful alone](https://derw.substack.com/p/the-case-for-building-something-wonderful)
-- [Modulating Brain Function with Microbiota](https://www.science.org/doi/10.1126/science.abo4220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
