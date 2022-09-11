@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Duck Spam: Start Using Your Duck Address](https://news.ycombinator.com/item?id=32799221)
+- [Declarative GUI with constraints-based layout engine for Python](https://github.com/nucleic/enaml)
+- [Revamped German stellarator should run longer, hotter and compete with tokamaks](https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion)
+- [You Can&#39;t Do That: Abstracting over Ownership in Rust with HRTBs. Or Can You?](https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/)
 - [Ask HN: Help me pick a front-end framework](https://news.ycombinator.com/item?id=32799003)
-- [What scientists have learnt from Covid lockdowns](https://www.nature.com/articles/d41586-022-02823-4)
-- [Ask HN: How did you start higher education after 40?](https://news.ycombinator.com/item?id=32798901)
-- [Show HN: HiFiScan, a Python app to optimize your loudspeakers](https://github.com/erdewit/HiFiScan)
-- [Teaching C &lpar;2016&rpar;](https://blog.regehr.org/archives/1393)
 <!-- BLOG-POST-LIST:END -->
 
 ---
