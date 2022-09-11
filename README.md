@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazarus IDE – write once, compile anywhere](https://www.getlazarus.org/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
+- [Finland will be self-sufficient in electricity within a year or two](https://yle.fi/news/3-12618297)
 - [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
 - [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
-- [&#39;We don’t have enough&#39; lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
-- [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
