@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- [Osint: Recommended reading before the end of 2022](https://www.osintme.com/index.php/2022/09/10/recommended-reading-before-the-end-of-2022/)
+- [A Review of the Odin Programming Language](https://graphitemaster.github.io/odin_review/)
 - [Feather: A Minecraft server implementation in Rust](https://github.com/feather-rs/feather)
 - [Show HN: Chard – simple async/await background tasks for Django](https://github.com/drpancake/chard)
-- [Cirrus Vision Jet Pilot Pulls Chute in Florida](https://www.flyingmag.com/cirrus-vision-jet-pilot-pulls-chute-in-florida/)
-- [Declarative GUI with constraints-based layout engine for Python](https://github.com/nucleic/enaml)
-- [Revamped German stellarator should run longer, hotter and compete with tokamaks](https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
