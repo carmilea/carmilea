@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google suspended our domain out of the blue – lyearn[.]com](https://twitter.com/shuchit_gandhi/status/1568829269488603139)
 - [India is almost 80% IPv6](https://www.apnic.net/community/ipv6/ipv6-in-your-region/)
-- [How random can you be?](https://www.expunctis.com/2019/03/07/Not-so-random.html)
-- [Ask HN: Is there any beautiful Markdown editor?](https://news.ycombinator.com/item?id=32797711)
+- [How random can you be? &lpar;2019&rpar;](https://www.expunctis.com/2019/03/07/Not-so-random.html)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
 - [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
 <!-- BLOG-POST-LIST:END -->
