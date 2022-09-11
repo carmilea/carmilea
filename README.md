@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the shortest URL for which content is served on the internet?](https://jameswillia.ms/posts/shortest-urls.html)
-- [Build Your Career on Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
-- [We&#39;re Wildly Underestimating the Potential of Mobile Housing](https://www.sightline.org/2022/09/09/were-wildly-underestimating-the-potential-of-mobile-housing/)
-- [A small reivew of the Poem Rust web framework](https://github.com/poem-web/poem)
-- [Go standard library: structured, leveled logging](https://github.com/golang/go/discussions/54763)
+- [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
+- [Microservices – Please, Don’t &lpar;2016&rpar;](https://riak.com/posts/technical/microservices-please-dont/index.html?p=12525.html)
+- [Show HN: I built an extension for analyzing rental properties in Zillow](https://www.homescope.io/)
+- [Living Worlds in HTML5 &lpar;2012&rpar;](http://effectgames.com/demos/worlds/)
+- [Show HN: A script to allow installing unsigned extensions on Firefox](https://gist.github.com/TheBrokenRail/c43bf0f07f4860adac2631a1bd9e4136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
