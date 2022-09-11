@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is it smart to change jobs considering the possible recession? &lpar;EU&rpar;](https://news.ycombinator.com/item?id=32798377)
 - [Google suspended our domain out of the blue – lyearn[.]com](https://twitter.com/shuchit_gandhi/status/1568829269488603139)
+- [Fark.com&#39;s live thread during the Sept. 11 attacks](https://www.fark.com/comments/45086/NEWS-FLASH-PLANES-CRASH-INTO-WORLD-TRADE-CENTER-PENTAGON-Our-link-to-CNN-works-thanks-Metafilter-We-have-news-pics-in-comments-section-if-you-have-any-post-it-there)
 - [India is almost 80% IPv6](https://www.apnic.net/community/ipv6/ipv6-in-your-region/)
 - [How random can you be? &lpar;2019&rpar;](https://www.expunctis.com/2019/03/07/Not-so-random.html)
-- [Stacker &lpar;YC S20&rpar; Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
-- [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
