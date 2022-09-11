@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What’s the shortest URL for which content is served on the internet?](https://jameswillia.ms/posts/shortest-urls.html)
-- [The Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index)
 - [Build Your Career on Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
 - [We&#39;re Wildly Underestimating the Potential of Mobile Housing](https://www.sightline.org/2022/09/09/were-wildly-underestimating-the-potential-of-mobile-housing/)
+- [A small reivew of the Poem Rust web framework](https://github.com/poem-web/poem)
 - [Go standard library: structured, leveled logging](https://github.com/golang/go/discussions/54763)
 <!-- BLOG-POST-LIST:END -->
 
