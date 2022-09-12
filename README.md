@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is pay so much higher in the US? &lpar;or is it?&rpar;](https://news.ycombinator.com/item?id=32807800)
+- [Hans Niemann Says He Is Being Unfairly Attacked in Chess Scandal](https://www.vice.com/en/article/v7v38y/the-silence-of-my-critics-speaks-for-itself-hans-niemann-says-he-is-being-unfairly-attacked-in-chess-scandal)
+- [Let’s make WordPress officially support SQLite](https://make.wordpress.org/core/2022/09/12/lets-make-wordpress-officially-support-sqlite/)
 - [Making your own e-paper dashboard for home from scratch](https://lengrand.fr/complete-setup-epaper/)
-- [The link between personality and success – Combining introverts and extroverts](https://www.economist.com/business/2021/03/18/the-link-between-personality-and-success)
-- [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
-- [Ask HN: How do you find the weird parts of the web?](https://news.ycombinator.com/item?id=32804832)
-- [Diffusion Bee: Stable Diffusion GUI App for M1 Mac](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+- [The link between personality and success](https://www.economist.com/business/2021/03/18/the-link-between-personality-and-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
