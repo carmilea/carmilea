@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tunis: A Unix Lookalike OS Written in a Pascal Derivative, Concurrent Euclid](https://archive.org/details/technicalreportc140univ)
-- [Investors Sue Treasury Department for Blacklisting Crypto Platform Tornado Cash](https://www.nytimes.com/2022/09/08/business/tornado-cash-treasury-sued.html)
-- [The AI Unbundling](https://stratechery.com/2022/the-ai-unbundling/)
-- [Zoom’s Slack competitor is getting a new name and features](https://www.theverge.com/2022/9/12/23345352/zoom-team-chat-name-features)
-- [Should we let cars use the road as a projection screen?](https://www.autocar.co.uk/car-news/technology/should-we-let-cars-use-road-projection-screen)
+- [Apple’s Next Big Thing: A Business Model Change](https://mondaynote.com/apples-next-big-thing-a-business-model-change-e9b0145500c9?gi=176846fdbc6d)
+- [Intel’s Meteor Lake Chiplets, Compared to AMD’s – Chips and Cheese](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/)
+- [Maps from “The End of the World Is Just the Beginning”](https://zeihan.com/end-of-the-world-maps/)
+- [Transformers Seem to Mimic Parts of the Brain](https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/)
+- [A Syntactic Theory of Software Architecture &lpar;1995&rpar; [pdf]](https://www.panda.sys.t.u-tokyo.ac.jp/kushiro/ReferencePaper/Pattern&Framework/00385969.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
