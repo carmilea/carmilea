@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speedup from switch to +=](https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500)
 - [It Works!](http://pn./)
-- [Sham investigations silence professors at Central Florida and Princeton](https://www.thefire.org/a-tale-of-two-pretexts-sham-investigations-silence-professors-at-central-florida-and-princeton/)
+- [Are You a DevOps Engineer If You Aren’t Writing Code?](https://blog.boot.dev/devops/devops-engineers-should-code/)
+- [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
 - [One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
-- [Heavier cars are safer for their drivers, but far deadlier for everyone else](https://academic.oup.com/restud/article-abstract/81/2/535/1517632)
-- [There are two kinds of happiness. Choose wisely](https://humbledollar.com/2022/09/choosing-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
