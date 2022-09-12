@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Snackables: What Makes SingleStoreDB Unique?](https://www.youtube.com/watch?v=C29owZyi6XE)
 - [Better Together: Google Cloud &amp; SingleStore](https://www.youtube.com/watch?v=vltqTBG_Vyg)
 - [SingleStore Snackables: Streaming Data Ingestion](https://www.youtube.com/watch?v=3BiyiH-eyLM)
 - [SingleStore | Community Call | August 2022](https://www.youtube.com/watch?v=Pi_oCXj7LEo)
 - [[r]evolution 2022: Developers &amp; Engineers Breakout Session](https://www.youtube.com/watch?v=ganE7nyqvwA)
-- [[r]evolution 2022: ITDM &amp; Business Leader Breakout Session](https://www.youtube.com/watch?v=Vp5Vi7BzxYE)
 <!-- YOUTUBE:END -->
 
 
