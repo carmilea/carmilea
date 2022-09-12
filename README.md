@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Next Big Thing: A Business Model Change](https://mondaynote.com/apples-next-big-thing-a-business-model-change-e9b0145500c9?gi=176846fdbc6d)
-- [Intel’s Meteor Lake Chiplets, Compared to AMD’s – Chips and Cheese](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/)
-- [Maps from “The End of the World Is Just the Beginning”](https://zeihan.com/end-of-the-world-maps/)
-- [Transformers Seem to Mimic Parts of the Brain](https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/)
-- [A Syntactic Theory of Software Architecture &lpar;1995&rpar; [pdf]](https://www.panda.sys.t.u-tokyo.ac.jp/kushiro/ReferencePaper/Pattern&Framework/00385969.pdf)
+- [EDI vs. API](https://support.edifabric.com/hc/en-us/articles/6738567109277-EDI-vs-API)
+- [Online art communities begin banning AI-generated images](https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/)
+- [Ask HN: Who is building credit card size tracker using U1 spec?](https://news.ycombinator.com/item?id=32811434)
+- [Apple’s next big thing: A business model change](https://mondaynote.com/apples-next-big-thing-a-business-model-change-e9b0145500c9?gi=176846fdbc6d)
+- [Intel’s Meteor Lake Chiplets, Compared to AMD’s](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
