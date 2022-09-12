@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Release &lpar;YC W20&rpar; Is Hiring Business Development Reps &lpar;BDRS&rpar;](https://www.ycombinator.com/companies/release/jobs/4UBvS1Y-sales-development-representative)
-- [Wirth Language Evolution](https://wiki.alopex.li/WirthEvolution)
-- [A Preview of Raptor Lake’s Improved L2 Caches](https://chipsandcheese.com/2022/08/23/a-preview-of-raptor-lakes-improved-l2-caches/)
-- [Intel Hyperscan is a high-performance multiple regex matching library](http://intel.github.io/hyperscan/dev-reference/)
-- [The World Has More Trees Than It Did 35 Years Ago](https://www.goodgoodgood.co/articles/the-world-has-more-trees-than-it-did-35-years-ago)
+- [Dark Sky iOS app ends December 31, 2022](https://blog.darksky.net/)
+- [Prenatal cannabis exposure associated with mental disorders in children](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence)
+- [The &#39;Quiet Quitting&#39; Phenomenon](https://workonomics.substack.com/p/roundup-2-the-quiet-quitting-phenomenon)
+- [Anti-royal protesters are being arrested in the U.K. as &#39;Not My King&#39; tag grows](https://text.npr.org/1122379162)
+- [Work Is Work](https://codahale.com//work-is-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
