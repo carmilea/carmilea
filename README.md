@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
 - [EDI vs. API](https://support.edifabric.com/hc/en-us/articles/6738567109277-EDI-vs-API)
+- [Bikes, not self driving cars, are the technological gateway to urban progress](https://nextcity.org/urbanist-news/bikes-not-self-driving-cars-are-the-technological-gateway-to-progress)
 - [Online art communities begin banning AI-generated images](https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/)
-- [Ask HN: Who is building credit card size tracker using U1 spec?](https://news.ycombinator.com/item?id=32811434)
 - [Apple’s next big thing: A business model change](https://mondaynote.com/apples-next-big-thing-a-business-model-change-e9b0145500c9?gi=176846fdbc6d)
-- [Intel’s Meteor Lake Chiplets, Compared to AMD’s](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
