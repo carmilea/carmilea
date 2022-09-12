@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plastic Might Be Making You Obese](https://www.washingtonpost.com/business/plastic-might-be-making-you-obese/2022/09/11/73c0f132-31d2-11ed-a0d6-415299bfebd5_story.html)
-- [Ladybird: A new cross-platform browser project](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/)
-- [Handbook for Writers](https://saylordotorg.github.io/text_handbook-for-writers/)
-- [Intel says one of its 13th Gen CPUs will hit 6GHz out of the box](https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked)
-- [FTC Investigating Amazon’s Acquisition of iRobot](https://www.therobotreport.com/ftc-investigating-amazon-acquisition-of-irobot/)
+- [Tunis: A Unix Lookalike OS Written in a Pascal Derivative, Concurrent Euclid](https://archive.org/details/technicalreportc140univ)
+- [Investors Sue Treasury Department for Blacklisting Crypto Platform Tornado Cash](https://www.nytimes.com/2022/09/08/business/tornado-cash-treasury-sued.html)
+- [The AI Unbundling](https://stratechery.com/2022/the-ai-unbundling/)
+- [Zoom’s Slack competitor is getting a new name and features](https://www.theverge.com/2022/9/12/23345352/zoom-team-chat-name-features)
+- [Should we let cars use the road as a projection screen?](https://www.autocar.co.uk/car-news/technology/should-we-let-cars-use-road-projection-screen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
