@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker News bot that automated archive finding and commenting](https://github.com/ShlomoStept/hn_bot)
-- [DIY Dial Caliper Repair Guide &lpar;Mitutoyo, Starrett, Browne &amp; Sharpe&rpar;](http://www.longislandindicator.com/p44.html)
-- [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
-- [Common Lisp names all sixteen binary logic gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
-- [Perfecting WebGPU/Dawn native graphics for Zig](https://devlog.hexops.com/2022/perfecting-webgpu-native/)
+- [It Works!](http://pn./)
+- [Sham investigations silence professors at Central Florida and Princeton](https://www.thefire.org/a-tale-of-two-pretexts-sham-investigations-silence-professors-at-central-florida-and-princeton/)
+- [One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+- [Heavier cars are safer for their drivers, but far deadlier for everyone else](https://academic.oup.com/restud/article-abstract/81/2/535/1517632)
+- [There are two kinds of happiness. Choose wisely](https://humbledollar.com/2022/09/choosing-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
