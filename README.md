@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The relationship between plant-based diet and risk of digestive system cancers](https://pubmed.ncbi.nlm.nih.gov/35719615/)
-- [The many problems with implementing Single Sign-On](https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/)
-- [Why Schools Don’t Educate &lpar;1990&rpar;](https://www.thesunmagazine.org/issues/175/why-schools-dont-educate)
-- [Framework Laptop 2.5Gbps Ethernet Expansion Card](https://frame.work/products/ethernet-expansion-card)
-- [Benefits of ‘looping’ kids with teachers for multiple years](https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/)
+- [Release &lpar;YC W20&rpar; Is Hiring Business Development Reps &lpar;BDRS&rpar;](https://www.ycombinator.com/companies/release/jobs/4UBvS1Y-sales-development-representative)
+- [Wirth Language Evolution](https://wiki.alopex.li/WirthEvolution)
+- [A Preview of Raptor Lake’s Improved L2 Caches](https://chipsandcheese.com/2022/08/23/a-preview-of-raptor-lakes-improved-l2-caches/)
+- [Intel Hyperscan is a high-performance multiple regex matching library](http://intel.github.io/hyperscan/dev-reference/)
+- [The World Has More Trees Than It Did 35 Years Ago](https://www.goodgoodgood.co/articles/the-world-has-more-trees-than-it-did-35-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
