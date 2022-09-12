@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dark Sky iOS app ends December 31, 2022](https://blog.darksky.net/)
 - [Prenatal cannabis exposure associated with mental disorders in children](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence)
-- [The &#39;Quiet Quitting&#39; Phenomenon](https://workonomics.substack.com/p/roundup-2-the-quiet-quitting-phenomenon)
 - [Anti-royal protesters are being arrested in the U.K. as &#39;Not My King&#39; tag grows](https://text.npr.org/1122379162)
 - [Work Is Work](https://codahale.com//work-is-work/)
+- [Fixing a 30 year-old Roland synthesizer Bug](https://www.vogons.org/viewtopic.php?t=86257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
