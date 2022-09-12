@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dump these small-biz routers, says Cisco, we won&#39;t patch their flawed VPN](https://www.theregister.com/2022/09/08/cisco_routers_vulnerability/)
-- [Ask HN: Anyone hosting their own video&#39;s?](https://news.ycombinator.com/item?id=32808126)
-- [Estonia’s inflation hit 25% year-on-year in August, energy prices to blame](https://estonianworld.com/business/estonias-inflation-hit-25-year-on-year-in-august-energy-prices-to-blame/)
-- [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
-- [Hans Niemann says he is being unfairly attacked in chess scandal](https://www.vice.com/en/article/v7v38y/the-silence-of-my-critics-speaks-for-itself-hans-niemann-says-he-is-being-unfairly-attacked-in-chess-scandal)
+- [Plastic Might Be Making You Obese](https://www.washingtonpost.com/business/plastic-might-be-making-you-obese/2022/09/11/73c0f132-31d2-11ed-a0d6-415299bfebd5_story.html)
+- [Ladybird: A new cross-platform browser project](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/)
+- [Handbook for Writers](https://saylordotorg.github.io/text_handbook-for-writers/)
+- [Intel says one of its 13th Gen CPUs will hit 6GHz out of the box](https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked)
+- [FTC Investigating Amazon’s Acquisition of iRobot](https://www.therobotreport.com/ftc-investigating-amazon-acquisition-of-irobot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
