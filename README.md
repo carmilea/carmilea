@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why hasn&#39;t the Deep Learning community embraced Julia yet?](https://news.ycombinator.com/item?id=32806179)
+- [Federal Judge Halts Arizona Ban on Filming Police Within 8 Feet](https://petapixel.com/2022/09/10/federal-judge-halts-arizona-ban-on-filming-police-within-8-feet/)
 - [Speedup from switch to +=](https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500)
-- [It Works!](http://pn./)
-- [Are You a DevOps Engineer If You Aren’t Writing Code?](https://blog.boot.dev/devops/devops-engineers-should-code/)
+- [Ask HN: Why is Python package management still a dumpster fire?](https://news.ycombinator.com/item?id=32805483)
 - [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
-- [One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
