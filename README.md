@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Relationship Between Plant-Based Diet and Risk of Digestive System Cancers](https://pubmed.ncbi.nlm.nih.gov/35719615/)
+- [Why Schools Don’t Educate &lpar;1990&rpar;](https://www.thesunmagazine.org/issues/175/why-schools-dont-educate)
+- [WebKit Features in Safari 16.0](https://webkit.org/blog/13152/webkit-features-in-safari-16-0/)
 - [Framework Laptop 2.5Gbit/S Ethernet Expansion Card](https://frame.work/products/ethernet-expansion-card)
 - [Benefits of ‘looping’ kids with teachers for multiple years](https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/)
-- [How to Learn Modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
-- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
-- [Who cares about diversity?](https://fakenous.substack.com/p/who-cares-about-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
