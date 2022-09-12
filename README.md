@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is pay so much higher in the US? &lpar;or is it?&rpar;](https://news.ycombinator.com/item?id=32807800)
-- [Hans Niemann Says He Is Being Unfairly Attacked in Chess Scandal](https://www.vice.com/en/article/v7v38y/the-silence-of-my-critics-speaks-for-itself-hans-niemann-says-he-is-being-unfairly-attacked-in-chess-scandal)
-- [Let’s make WordPress officially support SQLite](https://make.wordpress.org/core/2022/09/12/lets-make-wordpress-officially-support-sqlite/)
-- [Making your own e-paper dashboard for home from scratch](https://lengrand.fr/complete-setup-epaper/)
-- [The link between personality and success](https://www.economist.com/business/2021/03/18/the-link-between-personality-and-success)
+- [Dump these small-biz routers, says Cisco, we won&#39;t patch their flawed VPN](https://www.theregister.com/2022/09/08/cisco_routers_vulnerability/)
+- [Ask HN: Anyone hosting their own video&#39;s?](https://news.ycombinator.com/item?id=32808126)
+- [Estonia’s inflation hit 25% year-on-year in August, energy prices to blame](https://estonianworld.com/business/estonias-inflation-hit-25-year-on-year-in-august-energy-prices-to-blame/)
+- [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
+- [Hans Niemann says he is being unfairly attacked in chess scandal](https://www.vice.com/en/article/v7v38y/the-silence-of-my-critics-speaks-for-itself-hans-niemann-says-he-is-being-unfairly-attacked-in-chess-scandal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
