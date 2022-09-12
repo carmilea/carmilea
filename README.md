@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The link between personality and success – Combining introverts and extroverts](https://www.economist.com/business/2021/03/18/the-link-between-personality-and-success)
 - [Federal Judge Halts Arizona Ban on Filming Police Within 8 Feet](https://petapixel.com/2022/09/10/federal-judge-halts-arizona-ban-on-filming-police-within-8-feet/)
 - [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
 - [Ask HN: How do you find the weird parts of the web?](https://news.ycombinator.com/item?id=32804832)
 - [Diffusion Bee: Stable Diffusion GUI App for M1 Mac](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
-- [Heavier cars are safer for their drivers, but far deadlier for everyone else](https://academic.oup.com/restud/article-abstract/81/2/535/1517632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
