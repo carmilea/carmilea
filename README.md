@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
 - [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
 - [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
 - [Planning Go 1.20 Cryptography Work](https://words.filippo.io/dispatches/go1-20/)
 - [Li-Ion Battery Warehouse Fire Put Out with Portland Cement &lpar;2021&rpar;](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
-- [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
