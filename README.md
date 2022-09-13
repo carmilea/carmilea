@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AiSupervision &lpar;YC W22&rpar; is hiring a back-end software engineer &lpar;Remote&rpar;](https://www.aisupervision.com/careers/back-end-software-engineer)
+- [mRNA-LNP inhibits adaptive immune response, alters immune fitness inheritably](https://pubmed.ncbi.nlm.nih.gov/36054264/)
+- [The Last Person Standing in the Floppy Disk Business](https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/)
+- [Show HN: pg_netstat, a Postgres extension to monitor database network traffic](https://github.com/supabase/pg_netstat)
 - [Some New HTTP Verbs](https://shkspr.mobi/blog/2022/09/some-new-http-verbs/)
-- [Cake: C23 Front End and Transpiler C23 – C99](https://github.com/thradams/cake)
-- [European natural gas imports and storage reserves](https://www.bruegel.org/dataset/european-natural-gas-imports)
-- [Weightless: Parabolic flight on an A310](https://www.flightradar24.com/blog/parabolic-flight/)
-- [Scala Isn&#39;t Fun Anymore](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
