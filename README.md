@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Contentedge &lpar;YC W17&rpar; is hiring to build AI content writing software for SEO](https://www.contentedge.com/?pg=jobs)
+- [US Treasury FAQ on Cyber-Related Sanctions](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076)
+- [Rust stabilizes generic associated types](https://github.com/rust-lang/rust/pull/96709)
 - [The Next Incarnation of EDA](https://semiengineering.com/the-next-incarnation-of-eda/)
 - [Show HN: Query SQLite files stored in S3](https://github.com/litements/s3sqlite)
-- [Increase: Banking API](https://increase.com/)
-- [When to use Bazel?](https://earthly.dev/blog/bazel-build/)
-- [Byte Magazine: Declarative Languages &lpar;1985&rpar;](https://archive.org/details/byte-magazine-1985-08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
