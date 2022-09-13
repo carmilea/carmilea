@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: Should you work for yourself or take a full-time job?](https://news.ycombinator.com/item?id=32825178)
+- [X-Plane 12 Early Access](https://www.x-plane.com/desktop/buy-it/)
+- [Factorio is coming to Nintendo Switch](https://www.factorio.com/blog/post/factorio-on-nintendo-switch)
+- [Woman sues after DNA from rape kit used to arrest her](https://nypost.com/2022/09/13/woman-sues-after-dna-from-rape-kit-used-to-arrest-her/)
 - [Grafana Labs launches free incident management tool in Grafana Cloud](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
 - [Senior Engineers Are Living in the Future](https://www.zerobanana.com/essays/living-in-the-future/)
-- [What Is Kubernetes HPA and How Can It Help You Save on the Cloud?](https://cast.ai/blog/what-is-kubernetes-hpa-and-how-can-it-help-you-save-on-the-cloud/)
-- [Mudge Twitter whistleblower testimony [video]](https://www.judiciary.senate.gov/meetings/data-security-at-risk-testimony-from-a-twitter-whistleblower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
