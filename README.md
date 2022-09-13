@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Increase: Become Your Own Bank](https://increase.com/)
+- [The Next Incarnation of EDA](https://semiengineering.com/the-next-incarnation-of-eda/)
+- [Show HN: Query SQLite files stored in S3](https://github.com/litements/s3sqlite)
+- [Increase: Banking API](https://increase.com/)
+- [When to use Bazel?](https://earthly.dev/blog/bazel-build/)
 - [Byte Magazine: Declarative Languages &lpar;1985&rpar;](https://archive.org/details/byte-magazine-1985-08)
-- [Mini Metroidvania in 13KB of JavaScript](https://arineonshark.itch.io/infernal-throne)
-- [W4 Games raises $8.5M to support Godot Engine growth](https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/)
-- [Creative employees thrive when remote](https://www.honestbot.app/blog/creative-employees-thrive-when-remote/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
