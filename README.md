@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HAProxy: How to temporary disable a back end server using the command line](https://gby.kakoku.online/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket)
+- [Climate change: Six tipping points ‘likely’ to be crossed](https://www.bbc.co.uk/news/science-environment-62838627)
 - [Is bin-opening in cockatoos leading to an innovation arms race with humans?](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4)
 - [Show HN: BrainFlow the library to work with biosensors and neurointerfaces](https://brainflow.org/)
 - [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
-- [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
-- [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
