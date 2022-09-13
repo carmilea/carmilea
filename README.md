@@ -55,7 +55,7 @@
 - [mRNA-LNP inhibits adaptive immune response, alters immune fitness inheritably](https://pubmed.ncbi.nlm.nih.gov/36054264/)
 - [The Last Person Standing in the Floppy Disk Business](https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/)
 - [Show HN: pg_netstat, a Postgres extension to monitor database network traffic](https://github.com/supabase/pg_netstat)
-- [Some New HTTP Verbs](https://shkspr.mobi/blog/2022/09/some-new-http-verbs/)
+- [Unfortunately for the Star, that person was their fashion editor](https://twitter.com/pdmcleod/status/1569388980315033601)
 <!-- BLOG-POST-LIST:END -->
 
 ---
