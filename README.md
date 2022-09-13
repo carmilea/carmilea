@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Patreon Lays off 17% of Staff](https://www.instagram.com/p/CidAMM7pQ7u/)
+- [FB feed is 98% suggested pages and barely any friend&#39;s posts](https://old.reddit.com/r/facebook/comments/tvqddc/fb_feed_is_98_suggested_pages_and_barely_any/)
 - [X-Plane 12 Early Access](https://www.x-plane.com/desktop/buy-it/)
 - [Factorio is coming to Nintendo Switch](https://www.factorio.com/blog/post/factorio-on-nintendo-switch)
-- [Woman sues after DNA from rape kit used to arrest her](https://nypost.com/2022/09/13/woman-sues-after-dna-from-rape-kit-used-to-arrest-her/)
-- [Grafana Labs launches free incident management tool in Grafana Cloud](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
-- [Senior Engineers Are Living in the Future](https://www.zerobanana.com/essays/living-in-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
