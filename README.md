@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HAProxy: How to temporary disable a back end server using the command line](https://gby.kakoku.online/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket)
+- [Entity Resolution: Reflections on the most common data science challenge](https://tilores.io/content/Entity-Resolution-Reflections-on-the-most-common-data-science-challenge)
+- [Jean-Luc Godard has died](https://www.lemonde.fr/en/obituaries/article/2022/09/13/jean-luc-godard-legendary-french-film-director-dies-aged-91_5996746_15.html)
+- [HAProxy: How to temporary disable a back end server using the command line](https://www.claudiokuenzler.com/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket)
+- [Details on new free tier limits on gitlab.com](https://about.gitlab.com/pricing/faq-efficient-free-tier/)
 - [Climate change: Six tipping points ‘likely’ to be crossed](https://www.bbc.co.uk/news/science-environment-62838627)
-- [Is bin-opening in cockatoos leading to an innovation arms race with humans?](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4)
-- [Show HN: BrainFlow the library to work with biosensors and neurointerfaces](https://brainflow.org/)
-- [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
