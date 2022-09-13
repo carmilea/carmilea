@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some New HTTP Verbs](https://shkspr.mobi/blog/2022/09/some-new-http-verbs/)
+- [Cake: C23 Front End and Transpiler C23 – C99](https://github.com/thradams/cake)
+- [European natural gas imports and storage reserves](https://www.bruegel.org/dataset/european-natural-gas-imports)
+- [Weightless: Parabolic flight on an A310](https://www.flightradar24.com/blog/parabolic-flight/)
 - [Scala Isn&#39;t Fun Anymore](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/)
-- [Show HN: Tombl – Easily query .toml files from bash](https://github.com/snyball/tombl)
-- [Don&#39;t compare yourself to other entrepreneurs](https://www.petecodes.io/dont-compare-yourself-to-others/)
-- [Open Props: Tailwind Alternative from Chrome Dev Team](https://open-props.style/)
-- [A pair of Linux kernel modules using Rust](https://lwn.net/SubscriberLink/907685/0290fbfe1ba855ea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
