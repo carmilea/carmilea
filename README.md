@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Is bin-opening in cockatoos leading to an innovation arms race with humans?](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4)
-- [Dr. David Klurfeld on Meat Not Causing Cancer, Bogus Vegetarian Scientists](http://yelling-stop.blogspot.com/2022/06/dr-david-klurfeld-on-meat-not-causing.html)
+- [Show HN: BrainFlow the library to work with biosensors and neurointerfaces](https://brainflow.org/)
 - [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
 - [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
 - [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
