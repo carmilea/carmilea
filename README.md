@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [W4 Games raises $8.5M to support Godot Engine growth](https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Patreon Lays off 17% of Staff](https://www.instagram.com/p/CidAMM7pQ7u/)
 - [FB feed is 98% suggested pages and barely any friend&#39;s posts](https://old.reddit.com/r/facebook/comments/tvqddc/fb_feed_is_98_suggested_pages_and_barely_any/)
 - [X-Plane 12 Early Access](https://www.x-plane.com/desktop/buy-it/)
-- [Factorio is coming to Nintendo Switch](https://www.factorio.com/blog/post/factorio-on-nintendo-switch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
