@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AiSupervision &lpar;YC W22&rpar; is hiring a back-end software engineer &lpar;Remote&rpar;](https://www.aisupervision.com/careers/back-end-software-engineer)
-- [mRNA-LNP inhibits adaptive immune response, alters immune fitness inheritably](https://pubmed.ncbi.nlm.nih.gov/36054264/)
-- [The Last Person Standing in the Floppy Disk Business](https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/)
-- [Show HN: pg_netstat, a Postgres extension to monitor database network traffic](https://github.com/supabase/pg_netstat)
-- [Unfortunately for the Star, that person was their fashion editor](https://twitter.com/pdmcleod/status/1569388980315033601)
+- [Poll: Should you work for yourself or take a full-time job?](https://news.ycombinator.com/item?id=32825178)
+- [Grafana Labs launches free incident management tool in Grafana Cloud](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
+- [Senior Engineers Are Living in the Future](https://www.zerobanana.com/essays/living-in-the-future/)
+- [What Is Kubernetes HPA and How Can It Help You Save on the Cloud?](https://cast.ai/blog/what-is-kubernetes-hpa-and-how-can-it-help-you-save-on-the-cloud/)
+- [Mudge Twitter whistleblower testimony [video]](https://www.judiciary.senate.gov/meetings/data-security-at-risk-testimony-from-a-twitter-whistleblower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
