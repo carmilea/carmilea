@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala Isn&#39;t Fun Anymore](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/)
+- [Show HN: Tombl – Easily query .toml files from bash](https://github.com/snyball/tombl)
+- [Don&#39;t compare yourself to other entrepreneurs](https://www.petecodes.io/dont-compare-yourself-to-others/)
+- [Open Props: Tailwind Alternative from Chrome Dev Team](https://open-props.style/)
 - [A pair of Linux kernel modules using Rust](https://lwn.net/SubscriberLink/907685/0290fbfe1ba855ea/)
-- [Modula-2 Compilers on CP/M](https://techtinkering.com/articles/modula-2-compilers-on-cpm/)
-- [Entity Resolution: Reflections on the most common data science challenge](https://tilores.io/content/Entity-Resolution-Reflections-on-the-most-common-data-science-challenge)
-- [Europe gas storage reserves – by country, updated daily](https://viborc.com/europe-gas-storage-reserves-capacities-by-country-daily/)
-- [Jean-Luc Godard has died](https://www.lemonde.fr/en/obituaries/article/2022/09/13/jean-luc-godard-legendary-french-film-director-dies-aged-91_5996746_15.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
