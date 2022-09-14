@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco Makes It Insanely Hard to Build Housing](https://sfstandard.com/housing-development/how-san-francisco-makes-it-insanely-hard-to-build-housing/)
+- [A closer look at child marriage in California &lpar;2021&rpar;](https://www.uscannenbergmedia.com/2021/11/12/a-closer-look-at-child-marriage-in-california/)
+- [Once again so many people are led to think Wikipedia is broke and must be saved](https://twitter.com/Wikiland/status/1570072717931552770)
+- [The spam on Twitter is appalling](https://twitter.com/paulg/status/1570094327338274823)
 - [Patterns &lpar;YC S21&rpar; Is hiring devs to help us build the Figma for data](https://patterns.app/)
-- [DVD Bouncing Logo](https://www.google.com/search?q=dvd+bouncing+logo)
-- [Saturated fat: villain and bogeyman in development of cardiovascular disease?](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwac194/6691821)
-- [Discord adds new “Forum” channels](https://discord.com/blog/forum-channels-space-for-organized-conversation)
-- [Why Racket? Why Lisp?](https://beautifulracket.com/appendix/why-racket-why-lisp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
