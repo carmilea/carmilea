@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Denmark no longer offering Covid vaccinations to healthy adults under 50](https://www.sst.dk/en/english/corona-eng/vaccination-against-covid-19)
+- [Crazy Thin ‘Deep Insert’ ATM Skimmers](https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/)
+- [iPhone 14 Pro Camera Review: Scotland](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland)
+- [Search 5.8B images used to train popular AI art models](https://haveibeentrained.com/)
 - [Act-1: Transformer for Actions](https://www.adept.ai/act)
-- [Rocks, Air, and Memory &lpar;2006&rpar;](https://uh.edu/engines/epi2204.htm)
 - [About Lockdown Mode](https://support.apple.com/en-us/HT212650)
-- [Aurora Store: An Open Source alternative for Google Play Store](https://gitlab.com/AuroraOSS/AuroraStore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
