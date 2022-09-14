@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tab &lpar;YC W15&rpar; Is Hiring a Full Stack Developer in London](https://tab.recruitee.com/o/full-stack-developer-3)
 - [Ask HN: Is there any “PBS Kids” alternatives these days?](https://news.ycombinator.com/item?id=32833581)
-- [Finley &lpar;YC W21&rpar; is hiring across all teams to build fintech infrastructure](https://www.finleycms.com/careers/)
 - [Why car wheels are so flat these days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
 - [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
 - [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
