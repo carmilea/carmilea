@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is Disney+ UX so bad?](https://news.ycombinator.com/item?id=32837397)
+- [Ask HN: How do I write a Linux driver for my 15 year old photo printer?](https://news.ycombinator.com/item?id=32838225)
+- [Twilio to lay off 11% of workforce](https://www.cnbc.com/2022/09/14/twilio-to-lay-of-11percent-of-workforce.html)
+- [Ask HN: Where are the good platforms for contract work?](https://news.ycombinator.com/item?id=32837800)
 - [My First BillG Review &lpar;2006&rpar;](https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/)
-- [Tornado Cash and bullets](https://blog.yossarian.net/2022/09/14/Tornado-Cash-and-bullets)
-- [Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
-- [The B-52 was designed in a hotel room over one weekend](https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/)
+- [DuckDuckGo, Proton, Mozilla back bill targeting Big Tech ‘surveillance’](https://www.techradar.com/news/duckduckgo-proton-mozilla-throw-weight-behind-bill-targeting-big-tech-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
