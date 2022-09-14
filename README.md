@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Denmark no longer offering Covid vaccinations to healthy adults under 50](https://www.sst.dk/en/english/corona-eng/vaccination-against-covid-19)
+- [Act-1: Transformer for Actions](https://www.adept.ai/act)
+- [Rocks, Air, and Memory &lpar;2006&rpar;](https://uh.edu/engines/epi2204.htm)
 - [About Lockdown Mode](https://support.apple.com/en-us/HT212650)
-- [Just What Is It That Makes Today’s Homes So Different, So Appealing?](https://smarthistory.org/richard-hamilton-just-what-is-it/)
-- [FLAC 1.4.0 released – added support for 32-bit audio](https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html)
-- [Worldwide Rail Network Map](https://www.openrailwaymap.org/?style=standard&lat=51.58248&lon=15.6501&zoom=3)
-- [Cachegrand – a modern OSS Key-Value store built for today&#39;s hardware](https://github.com/danielealbano/cachegrand)
+- [Aurora Store: An Open Source alternative for Google Play Store](https://gitlab.com/AuroraOSS/AuroraStore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
