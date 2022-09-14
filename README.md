@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: BoldContacts – Mobile App for Alzheimer&#39;s, Parkinson&#39;s, ALS, MS, MD](https://github.com/SixArm/BoldContacts)
-- [Contentedge &lpar;YC W17&rpar; is hiring to build AI content writing software for SEO](https://www.contentedge.com/?pg=jobs)
-- [Diablo 2, Diablo 4, and Single Player: An open letter to Blizzard](https://www.purediablo.com/diablo-2-diablo-4-and-single-player/)
-- [US Treasury FAQ on Cyber-Related Sanctions](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076)
-- [Rust stabilizes generic associated types](https://github.com/rust-lang/rust/pull/96709)
+- [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
+- [The transistor – or 25 miles on a hunk of Germanium &lpar;1953&rpar;](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html)
+- [Signing Git Commits with Your SSH Key](https://calebhearth.com/sign-git-with-ssh)
+- [Ask HN: What are examples of companies dying due to many people quitting?](https://news.ycombinator.com/item?id=32831701)
+- [W3.css – A Minimal Alternative to Bootstrap](https://www.w3schools.com/w3css/default.asp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
