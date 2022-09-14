@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mudge is a cyber activist, not a business executive](https://cybersect.substack.com/p/re-mudge-v-twitter)
-- [Why Car Wheels Are So Flat These Days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
+- [Ask HN: Is there any “PBS Kids” alternatives these days?](https://news.ycombinator.com/item?id=32833581)
+- [Finley &lpar;YC W21&rpar; is hiring across all teams to build fintech infrastructure](https://www.finleycms.com/careers/)
+- [Why car wheels are so flat these days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
 - [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
 - [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
-- [The transistor – or 25 miles on a hunk of Germanium &lpar;1953&rpar;](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
