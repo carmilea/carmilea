@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you discover music?](https://news.ycombinator.com/item?id=32835559)
+- [Lisp is more trendy than Rust?](https://toddwschneider.com/dashboards/hacker-news-trends/)
 - [Demystifying tables &lpar;cells inside; borders outside&rpar;](https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg)
 - [The SEC revealed today that it charged VMware with fraud](https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/)
 - [National Rail Network Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41)
-- [One year on, El Salvador’s Bitcoin experiment has proven a failure](https://theconversation.com/one-year-on-el-salvadors-bitcoin-experiment-has-proven-a-spectacular-failure-190229)
-- [The UX of Porn Tube Sites Are Designed for the Ultimate Money Shot](https://eyeondesign.aiga.org/the-ux-of-porn-tubes-are-designed-for-the-ultimate-money-shot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
