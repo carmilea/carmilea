@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One year on, El Salvador’s Bitcoin experiment has proven a failure](https://theconversation.com/one-year-on-el-salvadors-bitcoin-experiment-has-proven-a-spectacular-failure-190229)
+- [Does anyone have the right to sex? &lpar;2018&rpar;](https://www.lrb.co.uk/the-paper/v40/n06/amia-srinivasan/does-anyone-have-the-right-to-sex)
+- [Countersteering](https://en.wikipedia.org/wiki/Countersteering)
 - [Tab &lpar;YC W15&rpar; Is Hiring a Full Stack Developer in London](https://tab.recruitee.com/o/full-stack-developer-3)
-- [Ask HN: Is there any “PBS Kids” alternatives these days?](https://news.ycombinator.com/item?id=32833581)
-- [Why car wheels are so flat these days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
-- [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
-- [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
+- [Lottery seeking behavior is pretty much everywhere](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4184501)
 <!-- BLOG-POST-LIST:END -->
 
 ---
