@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you discover music?](https://news.ycombinator.com/item?id=32835559)
-- [Lisp is more trendy than Rust?](https://toddwschneider.com/dashboards/hacker-news-trends/)
-- [Demystifying tables &lpar;cells inside; borders outside&rpar;](https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg)
-- [The SEC revealed today that it charged VMware with fraud](https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/)
-- [National Rail Network Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41)
+- [GitHub Down?](https://news.ycombinator.com/item?id=32836340)
+- [Privacy vs. “I have nothing to hide” &lpar;2019&rpar;](https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/)
+- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
+- [Color Fonts](https://material.io/blog/color-fonts-are-here)
+- [Woman holds up Lebanese bank for $13,000 of her own money](https://www.reuters.com/world/middle-east/woman-holds-up-lebanese-bank-13000-her-own-money-advocacy-group-says-2022-09-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
