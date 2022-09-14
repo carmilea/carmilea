@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tornado Cash and Bullets](https://blog.yossarian.net/2022/09/14/Tornado-Cash-and-bullets)
+- [Ask HN: Why is Disney+ UX so bad?](https://news.ycombinator.com/item?id=32837397)
+- [My First BillG Review &lpar;2006&rpar;](https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/)
+- [Tornado Cash and bullets](https://blog.yossarian.net/2022/09/14/Tornado-Cash-and-bullets)
+- [Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
 - [The B-52 was designed in a hotel room over one weekend](https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/)
-- [Hacktoberfest 2022](https://hacktoberfest.com)
-- [io_uring_spawn: Launching New Processes with io_uring](https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn)
-- [Privacy vs. “I have nothing to hide” &lpar;2019&rpar;](https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
