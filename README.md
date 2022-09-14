@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink is now on all seven continents, enabled by its space laser network](https://twitter.com/SpaceX/status/1570073223005622274)
-- [Dabbling with Dagster vs. Airflow](https://davidsj.substack.com/p/dabbling-with-dagster-part-1)
-- [Show HN: Rentaflop – Render your Blender projects without sacrificing quality](https://news.ycombinator.com/item?id=32838673)
-- [H-m-m &lpar;hackers mind map&rpar;](https://github.com/nadrad/h-m-m)
-- [What&#39;s New in Jakarta EE 10?](https://blog.payara.fish/whats-new-in-jakarta-ee-10)
+- [Patterns &lpar;YC S21&rpar; Is hiring devs to help us build the Figma for data](https://patterns.app/)
+- [DVD Bouncing Logo](https://www.google.com/search?q=dvd+bouncing+logo)
+- [Saturated fat: villain and bogeyman in development of cardiovascular disease?](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwac194/6691821)
+- [Discord adds new “Forum” channels](https://discord.com/blog/forum-channels-space-for-organized-conversation)
+- [Why Racket? Why Lisp?](https://beautifulracket.com/appendix/why-racket-why-lisp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
