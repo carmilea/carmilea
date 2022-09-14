@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mudge is a cyber activist, not a business executive](https://cybersect.substack.com/p/re-mudge-v-twitter)
+- [Why Car Wheels Are So Flat These Days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
+- [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
 - [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
 - [The transistor – or 25 miles on a hunk of Germanium &lpar;1953&rpar;](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html)
-- [Signing Git Commits with Your SSH Key](https://calebhearth.com/sign-git-with-ssh)
-- [Ask HN: What are examples of companies dying due to many people quitting?](https://news.ycombinator.com/item?id=32831701)
-- [W3.css – A Minimal Alternative to Bootstrap](https://www.w3schools.com/w3css/default.asp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
