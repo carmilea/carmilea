@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying tables &lpar;cells inside; borders outside&rpar;](https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg)
+- [The SEC revealed today that it charged VMware with fraud](https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/)
+- [National Rail Network Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41)
 - [One year on, El Salvador’s Bitcoin experiment has proven a failure](https://theconversation.com/one-year-on-el-salvadors-bitcoin-experiment-has-proven-a-spectacular-failure-190229)
-- [Does anyone have the right to sex? &lpar;2018&rpar;](https://www.lrb.co.uk/the-paper/v40/n06/amia-srinivasan/does-anyone-have-the-right-to-sex)
-- [Countersteering](https://en.wikipedia.org/wiki/Countersteering)
-- [Tab &lpar;YC W15&rpar; Is Hiring a Full Stack Developer in London](https://tab.recruitee.com/o/full-stack-developer-3)
-- [Lottery seeking behavior is pretty much everywhere](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4184501)
+- [The UX of Porn Tube Sites Are Designed for the Ultimate Money Shot](https://eyeondesign.aiga.org/the-ux-of-porn-tubes-are-designed-for-the-ultimate-money-shot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
