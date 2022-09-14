@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FLAC 1.4.0 released – added support for 32-bit audio](https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html)
+- [Cachegrand – a modern OSS Key-Value store built for today&#39;s hardware](https://github.com/danielealbano/cachegrand)
 - [San Francisco Makes It Insanely Hard to Build Housing](https://sfstandard.com/housing-development/how-san-francisco-makes-it-insanely-hard-to-build-housing/)
-- [A closer look at child marriage in California &lpar;2021&rpar;](https://www.uscannenbergmedia.com/2021/11/12/a-closer-look-at-child-marriage-in-california/)
+- [Why is every podcast sponsored by a VPN company?](https://girdley.substack.com/p/why-is-every-podcast-sponsored-by)
 - [Once again so many people are led to think Wikipedia is broke and must be saved](https://twitter.com/Wikiland/status/1570072717931552770)
-- [The spam on Twitter is appalling](https://twitter.com/paulg/status/1570094327338274823)
-- [Patterns &lpar;YC S21&rpar; Is hiring devs to help us build the Figma for data](https://patterns.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
