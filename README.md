@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Lockdown Mode](https://support.apple.com/en-us/HT212650)
+- [Just What Is It That Makes Today’s Homes So Different, So Appealing?](https://smarthistory.org/richard-hamilton-just-what-is-it/)
 - [FLAC 1.4.0 released – added support for 32-bit audio](https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html)
+- [Worldwide Rail Network Map](https://www.openrailwaymap.org/?style=standard&lat=51.58248&lon=15.6501&zoom=3)
 - [Cachegrand – a modern OSS Key-Value store built for today&#39;s hardware](https://github.com/danielealbano/cachegrand)
-- [San Francisco Makes It Insanely Hard to Build Housing](https://sfstandard.com/housing-development/how-san-francisco-makes-it-insanely-hard-to-build-housing/)
-- [Why is every podcast sponsored by a VPN company?](https://girdley.substack.com/p/why-is-every-podcast-sponsored-by)
-- [Once again so many people are led to think Wikipedia is broke and must be saved](https://twitter.com/Wikiland/status/1570072717931552770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
