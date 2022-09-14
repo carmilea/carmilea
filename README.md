@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do I write a Linux driver for my 15 year old photo printer?](https://news.ycombinator.com/item?id=32838225)
-- [Twilio to lay off 11% of workforce](https://www.cnbc.com/2022/09/14/twilio-to-lay-of-11percent-of-workforce.html)
-- [Ask HN: Where are the good platforms for contract work?](https://news.ycombinator.com/item?id=32837800)
-- [My First BillG Review &lpar;2006&rpar;](https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/)
-- [DuckDuckGo, Proton, Mozilla back bill targeting Big Tech ‘surveillance’](https://www.techradar.com/news/duckduckgo-proton-mozilla-throw-weight-behind-bill-targeting-big-tech-surveillance)
+- [Starlink is now on all seven continents, enabled by its space laser network](https://twitter.com/SpaceX/status/1570073223005622274)
+- [Dabbling with Dagster vs. Airflow](https://davidsj.substack.com/p/dabbling-with-dagster-part-1)
+- [Show HN: Rentaflop – Render your Blender projects without sacrificing quality](https://news.ycombinator.com/item?id=32838673)
+- [H-m-m &lpar;hackers mind map&rpar;](https://github.com/nadrad/h-m-m)
+- [What&#39;s New in Jakarta EE 10?](https://blog.payara.fish/whats-new-in-jakarta-ee-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
