@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dick the Birthday Boy: The Legacy Continues [video]](https://www.youtube.com/watch?v=hwu1427MUIE)
+- [Suspected counterfeit components found in ejection seat after fatal F-16 crash](https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/)
+- [GraphBLAS](https://people.engr.tamu.edu/davis/GraphBLAS.html)
 - [Crazy Thin ‘Deep Insert’ ATM Skimmers](https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/)
 - [iPhone 14 Pro Camera Review: Scotland](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland)
-- [Search 5.8B images used to train popular AI art models](https://haveibeentrained.com/)
-- [Act-1: Transformer for Actions](https://www.adept.ai/act)
-- [About Lockdown Mode](https://support.apple.com/en-us/HT212650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
