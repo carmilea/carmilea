@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Down?](https://news.ycombinator.com/item?id=32836340)
+- [Tornado Cash and Bullets](https://blog.yossarian.net/2022/09/14/Tornado-Cash-and-bullets)
+- [The B-52 was designed in a hotel room over one weekend](https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/)
+- [Hacktoberfest 2022](https://hacktoberfest.com)
+- [io_uring_spawn: Launching New Processes with io_uring](https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn)
 - [Privacy vs. “I have nothing to hide” &lpar;2019&rpar;](https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/)
-- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
-- [Color Fonts](https://material.io/blog/color-fonts-are-here)
-- [Woman holds up Lebanese bank for $13,000 of her own money](https://www.reuters.com/world/middle-east/woman-holds-up-lebanese-bank-13000-her-own-money-advocacy-group-says-2022-09-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
