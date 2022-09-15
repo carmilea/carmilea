@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“No politics” Coinbase rolls out feature to promote crypto-friendly politicians](https://web3isgoinggreat.com/single/no-politics-at-work-coinbase-rolls-out-a-feature-to-promote-crypto-friendly-politicians)
-- [I wish I was a little bit taller](https://www.gq.com/story/leg-lengthening)
-- [The number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
-- [Show HN: WunderBase – Serverless OSS database on top of SQLite, Firecracker](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
-- [Chaos researchers can now predict perilous points of no return](https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/)
+- [Substack &lpar;YC W18&rpar; is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005)
+- [Launch HN: Signadot &lpar;YC W20&rpar; – Lightweight Test Environments for Microservices](https://news.ycombinator.com/item?id=32854746)
+- [BliKVM PCIe puts a computer in your computer](https://www.jeffgeerling.com/blog/2022/blikvm-pcie-puts-computer-your-computer)
+- [TGV unveils high-speed trains of the future](https://www.cnn.com/travel/article/tgv-m-next-generation-high-speed-train-france/index.html)
+- [Stripe has decided to nuke my entire business](https://news.ycombinator.com/item?id=32854528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
