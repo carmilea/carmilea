@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did GoogleAI Just Snooker One of Silicon Valley’s Sharpest Minds?](https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of)
 - [Ask HN: Why is everything a SaaS product?](https://news.ycombinator.com/item?id=32856779)
 - [The Collapse of CryptoKitties, the First Big Blockchain Game](https://spectrum.ieee.org/cryptokitties)
 - [Webinar Recap: Introduction to SingleStoreDB](https://www.singlestore.com/blog/introduction-to-singlestoredb)
 - [Godot 4 Beta 1](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
-- [Cloud Spanner now with a free tier](https://cloud.google.com/blog/products/spanner/try-cloud-spanner-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
