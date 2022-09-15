@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter blocked our indie game account for no reason](https://news.ycombinator.com/item?id=32849506)
-- [Ask HN: Have tech salaries been stagnant for the past decade?](https://news.ycombinator.com/item?id=32849258)
+- [Have I reached the Douglas Adams Inflection point?](https://shkspr.mobi/blog/2022/09/have-i-reached-the-douglas-adams-inflection-point-or-is-modern-tech-just-a-bit-rubbish/)
+- [Adobe to acquire Figma for $20B](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)
+- [Ask HN: Discord banned me with no recourse](https://news.ycombinator.com/item?id=32849922)
 - [The definitive guide to “modulo bias” and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118)
-- [Vitalik: Ethereum Merge Just Finalized](https://twitter.com/VitalikButerin/status/1570306185391378434)
+- [That annoying shade of blue &lpar;2018&rpar;](https://bsago.me/posts/that-annoying-shade-of-blue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
