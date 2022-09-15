@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can I avoid being nuked by Stripe?](https://news.ycombinator.com/item?id=32856237)
+- [Webinar Recap: Introduction to SingleStoreDB](https://www.singlestore.com/blog/introduction-to-singlestoredb)
+- [Godot 4 Beta 1](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
+- [Alaska Ranked Choice Voting Cast Vote Record [JSON at the Bottom]](https://www.elections.alaska.gov/election-results/e/)
 - [Substack &lpar;YC W18&rpar; is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005)
-- [Launch HN: Signadot &lpar;YC W20&rpar; – Lightweight Test Environments for Microservices](https://news.ycombinator.com/item?id=32854746)
-- [BliKVM PCIe puts a computer in your computer](https://www.jeffgeerling.com/blog/2022/blikvm-pcie-puts-computer-your-computer)
-- [TGV unveils high-speed trains of the future](https://www.cnn.com/travel/article/tgv-m-next-generation-high-speed-train-france/index.html)
-- [Stripe has decided to nuke my entire business](https://news.ycombinator.com/item?id=32854528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
