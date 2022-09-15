@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to help crying infants sleep. Study suggests a two-part path: “walk-to-sit” [pdf]](https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf)
-- [Dick the Birthday Boy: The Legacy Continues [video]](https://www.youtube.com/watch?v=hwu1427MUIE)
-- [Suspected counterfeit components found in ejection seat after fatal F-16 crash](https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/)
-- [Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air](https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air)
-- [GraphBLAS](https://people.engr.tamu.edu/davis/GraphBLAS.html)
+- [Checkout trader&#39;s joe logo on Google](https://www.google.com/search?q=trader+joe)
+- [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
+- [Apple.com Is Down](https://www.apple.com/)
+- [Long Covid is now the third leading neurological disorder in the US](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
+- [The Importance of Stupidity in Scientific Research &lpar;2008&rpar; [pdf]](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
