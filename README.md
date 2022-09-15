@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some WFH Employees Have a Secret: They Now Live in Another Country](https://www.vice.com/en/article/4ax4gw/some-wfh-employees-have-a-secret-they-now-live-in-another-country)
+- [Show HN: DFlex – JavaScript framework for modern Drag and Drop apps](https://github.com/dflex-js/dflex)
+- [Walking is good for health but walking faster is even better, study finds](https://www.theguardian.com/australia-news/2022/sep/13/step-on-it-walking-is-good-for-health-but-walking-faster-is-even-better-study-finds)
+- [Should Traffic Lights Be Abolished?](https://freakonomics.com/podcast/should-traffic-lights-be-abolished-ep-454/)
 - [Penpot, Open Source Figma](https://penpot.app/)
 - [The End of /R/GPUMining](https://old.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/)
-- [I don’t care about cookies Web Extension acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/)
-- [Have I reached the Douglas Adams Inflection point?](https://shkspr.mobi/blog/2022/09/have-i-reached-the-douglas-adams-inflection-point-or-is-modern-tech-just-a-bit-rubbish/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
