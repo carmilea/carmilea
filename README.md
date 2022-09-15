@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter blocked our indie game account for no reason](https://news.ycombinator.com/item?id=32849506)
 - [Ask HN: Have tech salaries been stagnant for the past decade?](https://news.ycombinator.com/item?id=32849258)
 - [The definitive guide to “modulo bias” and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118)
 - [Vitalik: Ethereum Merge Just Finalized](https://twitter.com/VitalikButerin/status/1570306185391378434)
-- [LibreRPi – open source replacements for RPi firmware](https://github.com/librerpi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
