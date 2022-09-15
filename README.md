@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can I avoid being nuked by Stripe?](https://news.ycombinator.com/item?id=32856237)
+- [Ask HN: Why is everything a SaaS product?](https://news.ycombinator.com/item?id=32856779)
+- [The Collapse of CryptoKitties, the First Big Blockchain Game](https://spectrum.ieee.org/cryptokitties)
 - [Webinar Recap: Introduction to SingleStoreDB](https://www.singlestore.com/blog/introduction-to-singlestoredb)
 - [Godot 4 Beta 1](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
-- [Alaska Ranked Choice Voting Cast Vote Record [JSON at the Bottom]](https://www.elections.alaska.gov/election-results/e/)
-- [Substack &lpar;YC W18&rpar; is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005)
+- [Cloud Spanner now with a free tier](https://cloud.google.com/blog/products/spanner/try-cloud-spanner-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
