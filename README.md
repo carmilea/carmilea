@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Is Down Globally](https://www.zoom.com/)
-- [Zoom is down](https://zoom.us/)
-- [Ask HN: HN Slooow or Just Me?](https://news.ycombinator.com/item?id=32852810)
-- [Why the number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
-- [46% of ETH POS post merge is just two addresses](https://twitter.com/santimentfeed/status/1570339602346684416)
+- [“No politics” Coinbase rolls out feature to promote crypto-friendly politicians](https://web3isgoinggreat.com/single/no-politics-at-work-coinbase-rolls-out-a-feature-to-promote-crypto-friendly-politicians)
+- [I wish I was a little bit taller](https://www.gq.com/story/leg-lengthening)
+- [The number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
+- [Show HN: WunderBase – Serverless OSS database on top of SQLite, Firecracker](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
+- [Chaos researchers can now predict perilous points of no return](https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
