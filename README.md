@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some WFH Employees Have a Secret: They Now Live in Another Country](https://www.vice.com/en/article/4ax4gw/some-wfh-employees-have-a-secret-they-now-live-in-another-country)
+- [Penpot, Open Source Figma](https://penpot.app/)
+- [The End of /R/GPUMining](https://old.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/)
+- [I don’t care about cookies Web Extension acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/)
 - [Have I reached the Douglas Adams Inflection point?](https://shkspr.mobi/blog/2022/09/have-i-reached-the-douglas-adams-inflection-point-or-is-modern-tech-just-a-bit-rubbish/)
-- [Adobe to acquire Figma for $20B](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)
-- [Ask HN: Discord banned me with no recourse](https://news.ycombinator.com/item?id=32849922)
-- [The definitive guide to “modulo bias” and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it/)
-- [That annoying shade of blue &lpar;2018&rpar;](https://bsago.me/posts/that-annoying-shade-of-blue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
