@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118)
+- [Vitalik: Ethereum Merge Just Finalized](https://twitter.com/VitalikButerin/status/1570306185391378434)
+- [LibreRPi – open source replacements for RPi firmware](https://github.com/librerpi/)
 - [Ethereum activates The Merge as it shifts to proof of stake](https://www.theblock.co/post/169299/ethereum-activates-the-merge-as-it-shifts-to-proof-of-stake)
 - [The Ethereum Merge Is Done, Opening a New Era for the Second-Biggest Blockchain](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/)
-- [Pay attention to deviations from mainstream incentives](https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/)
-- [Merge soon](https://ultrasound.money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
