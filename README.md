@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: DFlex – JavaScript framework for modern Drag and Drop apps](https://github.com/dflex-js/dflex)
-- [Walking is good for health but walking faster is even better, study finds](https://www.theguardian.com/australia-news/2022/sep/13/step-on-it-walking-is-good-for-health-but-walking-faster-is-even-better-study-finds)
-- [Should Traffic Lights Be Abolished?](https://freakonomics.com/podcast/should-traffic-lights-be-abolished-ep-454/)
-- [Penpot, Open Source Figma](https://penpot.app/)
-- [The End of /R/GPUMining](https://old.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/)
+- [Zoom Is Down Globally](https://www.zoom.com/)
+- [Zoom is down](https://zoom.us/)
+- [Ask HN: HN Slooow or Just Me?](https://news.ycombinator.com/item?id=32852810)
+- [Why the number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
+- [46% of ETH POS post merge is just two addresses](https://twitter.com/santimentfeed/status/1570339602346684416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
