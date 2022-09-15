@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TaxProper &lpar;YC S19&rpar; Is Hiring Engineers and Operations](https://news.ycombinator.com/item?id=32858405)
-- [Facebook spied on private messages of Americans who questioned 2020 election](https://nypost.com/2022/09/14/facebook-spied-on-private-messages-of-americans-who-questioned-2020-election/)
+- [The Koh-I-Noor Diamond, and Why the British Won’t Give It Back](https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)
+- [Earth is now our only shareholder](https://www.patagonia.com/home/)
 - [Senators Introduce Bill to Thin Out the 900k Pieces of Orbiting Junk](https://www.commerce.senate.gov/2022/9/cantwell-hickenlooper-lummis-wicker-introduce-bill-to-thin-out-the-900-000-pieces-of-orbiting-junk-that-endanger-the-future-of-space-exploration)
 - [Did GoogleAI Just Snooker One of Silicon Valley’s Sharpest Minds?](https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of)
-- [Ask HN: Why is everything a SaaS product?](https://news.ycombinator.com/item?id=32856779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
