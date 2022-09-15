@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TaxProper &lpar;YC S19&rpar; Is Hiring Engineers and Operations](https://news.ycombinator.com/item?id=32858405)
-- [The Koh-I-Noor Diamond, and Why the British Won’t Give It Back](https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)
-- [Earth is now our only shareholder](https://www.patagonia.com/home/)
-- [Senators Introduce Bill to Thin Out the 900k Pieces of Orbiting Junk](https://www.commerce.senate.gov/2022/9/cantwell-hickenlooper-lummis-wicker-introduce-bill-to-thin-out-the-900-000-pieces-of-orbiting-junk-that-endanger-the-future-of-space-exploration)
-- [Did GoogleAI Just Snooker One of Silicon Valley’s Sharpest Minds?](https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of)
+- [YouTube ads appear to be ramping up, with as many as 10 unskippable ads](https://9to5google.com/2022/09/15/youtube-ads-unskippable/)
+- [Plasma Bigscreen](https://plasma-bigscreen.org/)
+- [Scientists are using AI to dream up revolutionary new proteins](https://www.nature.com/articles/d41586-022-02947-7)
+- [Building the Future of the Command Line](https://github.com/readme/featured/future-of-the-command-line)
+- [Size Matters – By Dr Pippa – Dr. Pippa&#39;s Pen and Podcast](https://drpippa.substack.com/p/size-matters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
