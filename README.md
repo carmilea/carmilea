@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Checkout trader&#39;s joe logo on Google](https://www.google.com/search?q=trader+joe)
+- [Pay attention to deviations from mainstream incentives](https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/)
+- [Merge soon](https://ultrasound.money)
 - [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
-- [Apple.com Is Down](https://www.apple.com/)
-- [Long Covid is now the third leading neurological disorder in the US](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
-- [The Importance of Stupidity in Scientific Research &lpar;2008&rpar; [pdf]](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
+- [A neurologist’s quest to solve Covid-related neurological disorders](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
+- [The importance of stupidity in scientific research &lpar;2008&rpar; [pdf]](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
