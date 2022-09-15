@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118)
+- [Ethereum activates The Merge as it shifts to proof of stake](https://www.theblock.co/post/169299/ethereum-activates-the-merge-as-it-shifts-to-proof-of-stake)
+- [The Ethereum Merge Is Done, Opening a New Era for the Second-Biggest Blockchain](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/)
 - [Pay attention to deviations from mainstream incentives](https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/)
 - [Merge soon](https://ultrasound.money)
-- [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
-- [A neurologist’s quest to solve Covid-related neurological disorders](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
-- [The importance of stupidity in scientific research &lpar;2008&rpar; [pdf]](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
