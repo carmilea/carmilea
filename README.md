@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s stealth aircraft you&#39;ve never heard of – Sandboxx](https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/)
-- [Foldscope: The Paper Microscope](https://foldscope.com/)
-- [Microsoft Edge&#39;s news feed pushes tech support scams](https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam)
-- [Email deliverability: Everything you need to know](https://mailtrap.io/blog/email-deliverability/)
-- [Cloudflare Ditches Nginx for In-House, Rust-Written Pingora](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx)
+- [US border forces are seizing Americans&#39; phone data and storing it for 15 years](https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html)
+- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
+- [Good CI/CD and SRE Blogs](https://news.ycombinator.com/item?id=32864909)
+- [Social media app Parler buys cloud-services provider](https://www.reuters.com/markets/deals/social-media-app-parler-buys-cloud-services-provider-2022-09-16/)
+- [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
