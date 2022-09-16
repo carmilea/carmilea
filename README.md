@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Ethereum, as of 2022, over 90% of miners are connected to one single server](https://blog.bitmex.com/flashbots/)
+- [CoreML Benchmark for the iPhone 14 Pro](https://www.photoroom.com/tech/core-ml-performance-2022/)
 - [Philly pays $30K to two &#39;courtesy&#39; tow victims, but class-action suit continues](https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html)
-- [TinyBase v2.0: “the reactive data store for local-first apps”](https://tinybase.org/guides/releases/#v2-0)
+- [TinyBase v2.0: reactive data store for local-first apps](https://tinybase.org/guides/releases/#v2-0)
 - [Egg Boxing](https://peterattiamd.com/egg-boxing/)
-- [The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun)
-- [Peltier vs. Compressor-Based Cooling](https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
