@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McDonald&#39;s CEO sounds the alarm over crime in Chicago](https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html)
+- [Diversion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
+- [Tell HN: Locked out of Gmail account even after right password, recovery email](https://news.ycombinator.com/item?id=32862713)
 - [Food delivery robot rolls through LA crime scene as confused cops look on](https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/)
 - [Death of a Project &lpar;1965&rpar;](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
 - [F4PGA: Open FPGA Tooling: Xilinx 7-Series, Lattice iCE40/ECP5, QuickLogic EOS S3](https://f4pga.org/)
-- [Confirmed the MOS 7600/7601 Pong chip is a true microcontroller](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
