@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Finance, Ops and M&amp;A Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
 - [Iranian Citizens Charged in Broad Hacking Campaign in US](https://www.insurancejournal.com/news/national/2022/09/16/685303.htm)
+- [Siting Bank Branches](https://bam.kalzumeus.com/archive/why-is-that-bank-branch-there/)
 - [Datastream for BigQuery Preview](https://cloud.google.com/datastream-for-bigquery)
-- [How to build a graph visualization engine and why you shouldn’t](https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt)
-- [Show HN: Reflio – Open-source affiliate program creator for SaaS](https://reflio.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
