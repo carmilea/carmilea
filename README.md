@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EVGA will not carry new Nvidia GPUs](https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx)
+- [Philly pays $30K to two &#39;courtesy&#39; tow victims, but class-action suit continues](https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html)
+- [TinyBase v2.0: “the reactive data store for local-first apps”](https://tinybase.org/guides/releases/#v2-0)
+- [Egg Boxing](https://peterattiamd.com/egg-boxing/)
 - [The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun)
-- [EVGA Terminates Nvidia Partnership, Cites Disrespectful Treatment](https://www.youtube.com/watch?v=cV9QES-FUAM)
-- [NaN Boxing &lpar;2020&rpar;](https://piotrduperas.com/posts/nan-boxing/)
-- [Sergey Brin, David Baszucki, Kent Dauten commit $150M to fight Bipolar disorder](https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/)
+- [Peltier vs. Compressor-Based Cooling](https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
