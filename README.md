@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please Don&#39;t Be Spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
 - [Diversion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
 - [Tell HN: Locked out of Gmail account even after right password, recovery email](https://news.ycombinator.com/item?id=32862713)
-- [Food delivery robot rolls through LA crime scene as confused cops look on](https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/)
-- [Death of a Project &lpar;1965&rpar;](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
-- [F4PGA: Open FPGA Tooling: Xilinx 7-Series, Lattice iCE40/ECP5, QuickLogic EOS S3](https://f4pga.org/)
+- [Ask HN: Anyone joined a company after contributing to their OSS projects?](https://news.ycombinator.com/item?id=32862672)
+- [Facebook Bans Holocaust Film for Violating Race Policy](https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
