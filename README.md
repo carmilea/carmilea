@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CPSC Warns Consumers to Stop Using Male-to-Male Extension Cords Sold on Amazon](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards)
+- [Shopify lets staff decide cash-stock pay mix as shares dive](https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge)
+- [Columbia whistleblower on exposing college rankings: ‘They are worthless’](https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus)
+- [The movie Hackers was released 27 years ago](https://blog.adafruit.com/2022/09/15/the-movie-hackers-was-released-27-years-ago-today-hackers-popculture-movies/)
 - [Figma Alternatives](https://stackdiary.com/figma-alternatives/)
-- [Vaccine development against methamphetamine drug addiction [pdf]](https://dynomight.net/hossain2020.pdf)
-- [35M Hot Dogs: Benchmarking Caddy vs. Nginx](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
-- [Ask HN: What interesting problems are you working on? &lpar; 2022 Edition &rpar;](https://news.ycombinator.com/item?id=32865428)
-- [Arm fills in some gaps and details in server chip roadmaps](https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
