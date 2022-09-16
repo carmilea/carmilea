@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man Makes World’s Longest Journey by Pumpkin Boat](https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/)
+- [60-80% of Tweeters posting on Russia-Ukraine war are bots, 90% pro Ukraine](https://theprint.in/tech/60-80-of-twitter-accounts-posting-on-russia-ukraine-war-bots-90-pro-ukraine-finds-new-study/1114878/)
+- [Show HN: A framework for building Slack bots in Python](https://github.com/DonDebonair/slack-machine)
 - [CPSC Warns Consumers to Stop Using Male-to-Male Extension Cords Sold on Amazon](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards)
 - [Shopify lets staff decide cash-stock pay mix as shares dive](https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge)
-- [Columbia whistleblower on exposing college rankings: ‘They are worthless’](https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus)
-- [The movie Hackers was released 27 years ago](https://blog.adafruit.com/2022/09/15/the-movie-hackers-was-released-27-years-ago-today-hackers-popculture-movies/)
-- [Figma Alternatives](https://stackdiary.com/figma-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
