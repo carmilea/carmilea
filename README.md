@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US border forces are seizing Americans&#39; phone data and storing it for 15 years](https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html)
-- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
-- [Good CI/CD and SRE Blogs](https://news.ycombinator.com/item?id=32864909)
-- [Social media app Parler buys cloud-services provider](https://www.reuters.com/markets/deals/social-media-app-parler-buys-cloud-services-provider-2022-09-16/)
-- [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html)
+- [Figma Alternatives](https://stackdiary.com/figma-alternatives/)
+- [Vaccine development against methamphetamine drug addiction [pdf]](https://dynomight.net/hossain2020.pdf)
+- [35M Hot Dogs: Benchmarking Caddy vs. Nginx](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
+- [Ask HN: What interesting problems are you working on? &lpar; 2022 Edition &rpar;](https://news.ycombinator.com/item?id=32865428)
+- [Arm fills in some gaps and details in server chip roadmaps](https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
