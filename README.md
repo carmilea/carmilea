@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man Makes World’s Longest Journey by Pumpkin Boat](https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/)
-- [60-80% of Tweeters posting on Russia-Ukraine war are bots, 90% pro Ukraine](https://theprint.in/tech/60-80-of-twitter-accounts-posting-on-russia-ukraine-war-bots-90-pro-ukraine-finds-new-study/1114878/)
-- [Show HN: A framework for building Slack bots in Python](https://github.com/DonDebonair/slack-machine)
-- [CPSC Warns Consumers to Stop Using Male-to-Male Extension Cords Sold on Amazon](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards)
-- [Shopify lets staff decide cash-stock pay mix as shares dive](https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge)
+- [Are Race-Based Firings Legal? Twilio&#39;s About to Find Out](https://www.piratewires.com/p/are-race-based-firings-legal-twilios)
+- [Datastream for BigQuery Preview](https://cloud.google.com/datastream-for-bigquery)
+- [How to build a graph visualization engine and why you shouldn’t](https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt)
+- [Show HN: Reflio – Open-source affiliate program creator for SaaS](https://reflio.com)
+- [Using WebTransport](https://web.dev/webtransport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
