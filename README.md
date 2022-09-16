@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Race-Based Firings Legal? Twilio&#39;s About to Find Out](https://www.piratewires.com/p/are-race-based-firings-legal-twilios)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Finance, Ops and M&amp;A Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
+- [Iranian Citizens Charged in Broad Hacking Campaign in US](https://www.insurancejournal.com/news/national/2022/09/16/685303.htm)
 - [Datastream for BigQuery Preview](https://cloud.google.com/datastream-for-bigquery)
 - [How to build a graph visualization engine and why you shouldn’t](https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt)
 - [Show HN: Reflio – Open-source affiliate program creator for SaaS](https://reflio.com)
-- [Using WebTransport](https://web.dev/webtransport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
