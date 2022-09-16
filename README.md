@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube ads appear to be ramping up, with as many as 10 unskippable ads](https://9to5google.com/2022/09/15/youtube-ads-unskippable/)
+- [The sooner we accept RCS is dead, the sooner we can choose the next platform](https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/)
+- [Confirmed the MOS 7600/7601 Pong chip is a true microcontroller](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
+- [Macwright.com redirects HN readers away](https://macwright.com/2022/09/15/hacker-news.html)
+- [Uber Investigating Breach of Its Computer Systems](https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html)
 - [Plasma Bigscreen](https://plasma-bigscreen.org/)
-- [Scientists are using AI to dream up revolutionary new proteins](https://www.nature.com/articles/d41586-022-02947-7)
-- [Building the Future of the Command Line](https://github.com/readme/featured/future-of-the-command-line)
-- [Size Matters – By Dr Pippa – Dr. Pippa&#39;s Pen and Podcast](https://drpippa.substack.com/p/size-matters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
