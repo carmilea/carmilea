@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Don&#39;t Be Spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
+- [Please don&#39;t be spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
 - [Diversion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
-- [Tell HN: Locked out of Gmail account even after right password, recovery email](https://news.ycombinator.com/item?id=32862713)
+- [Observability is becoming mission critical, but who watches the watchmen?](https://simme.dev/posts/who-watches-the-watchmen/)
 - [Ask HN: Anyone joined a company after contributing to their OSS projects?](https://news.ycombinator.com/item?id=32862672)
 - [Facebook Bans Holocaust Film for Violating Race Policy](https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/)
 <!-- BLOG-POST-LIST:END -->
