@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nan Boxing](https://piotrduperas.com/posts/nan-boxing/)
+- [EVGA will not carry new Nvidia GPUs](https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx)
+- [The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun)
+- [EVGA Terminates Nvidia Partnership, Cites Disrespectful Treatment](https://www.youtube.com/watch?v=cV9QES-FUAM)
+- [NaN Boxing &lpar;2020&rpar;](https://piotrduperas.com/posts/nan-boxing/)
 - [Sergey Brin, David Baszucki, Kent Dauten commit $150M to fight Bipolar disorder](https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/)
-- [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Finance, Ops and M&amp;A Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
-- [Iranian Citizens Charged in Broad Hacking Campaign in US](https://www.insurancejournal.com/news/national/2022/09/16/685303.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
