@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Ditches Nginx for In-House, Rust-Written Pingora](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx)
 - [Please don&#39;t be spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
 - [Diversion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
 - [Observability is becoming mission critical, but who watches the watchmen?](https://simme.dev/posts/who-watches-the-watchmen/)
 - [Ask HN: Anyone joined a company after contributing to their OSS projects?](https://news.ycombinator.com/item?id=32862672)
-- [Facebook Bans Holocaust Film for Violating Race Policy](https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
