@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s stealth aircraft you&#39;ve never heard of – Sandboxx](https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/)
+- [Foldscope: The Paper Microscope](https://foldscope.com/)
+- [Microsoft Edge&#39;s news feed pushes tech support scams](https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam)
+- [Email deliverability: Everything you need to know](https://mailtrap.io/blog/email-deliverability/)
 - [Cloudflare Ditches Nginx for In-House, Rust-Written Pingora](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx)
-- [Please don&#39;t be spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
-- [Diversion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
-- [Observability is becoming mission critical, but who watches the watchmen?](https://simme.dev/posts/who-watches-the-watchmen/)
-- [Ask HN: Anyone joined a company after contributing to their OSS projects?](https://news.ycombinator.com/item?id=32862672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
