@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/bcfcfd08-229a-4209-a44b-ce11befe5ecf)
 - [$ rm Important.txt &lpar;uh oh&rpar;](https://xenodium.com/rm-important-txt-oh-sht/)
 - [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
-- [The Viewpoint Diversity Crisis at Canadian Universities [pdf]](https://macdonaldlaurier.ca/wp-content/uploads/2022/09/20220829_University_censorship_Dummit_Patterson_PAPER_FWeb.pdf)
 - [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
 - [Show HN: LambdaLisp – A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
 <!-- BLOG-POST-LIST:END -->
