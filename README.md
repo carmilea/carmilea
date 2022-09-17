@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Super Apps Are Proliferating Across Emerging Markets](https://afridigest.com/super-apps-in-emerging-markets/)
+- [Why does a librarian own MetaFilter?](https://publicinfrastructure.org/podcast/jessamyn-west-part-1/)
+- [Cppfront, Herb Sutter&#39;s proposal for a new C++ syntax](https://github.com/hsutter/cppfront)
+- [Super apps are proliferating across emerging markets](https://afridigest.com/super-apps-in-emerging-markets/)
+- [Don&#39;t be your own worst boss as a solopreneur](https://indiecreator.beehiiv.com/p/don-t-be-your-own-worst-boss)
 - [5th Circuit Rules Internet Companies Have No Right to Moderate](https://www.techdirt.com/2022/09/16/5th-circuit-rewrites-a-century-of-1st-amendment-law-to-argue-internet-companies-have-no-right-to-moderate/)
-- [CSCI1730: Introduction to Programming Languages &lpar;BrownU&rpar;](https://cs.brown.edu/courses/csci1730/2012/)
-- [“Titanic” Disaster: Report of the Committee on Commerce, US Senate &lpar;1918&rpar; [pdf]](https://www.senate.gov/artandhistory/history/resources/pdf/TitanicReport.pdf)
-- [Google &lpar;Feedburner&rpar; just voided RSS URLs for CNN, Marketwatch, etc.](https://news.ycombinator.com/item?id=32876954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
