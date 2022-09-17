@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma vs. Adobe XD](https://www.figma.com/figma-vs-adobe-xd/)
+- [How the Netherlands facilitate the most hated websites in the world](https://www.nrc.nl/nieuws/2022/09/16/how-the-netherlands-facilitate-the-most-hated-websites-in-the-world-a4142126)
+- [MIT&#39;s new &lpar;2020&rpar; Introduction to Algorithms course with all course materials](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Show HN: We make artisanal collectible cards from freshly harvested binary trees](https://www.cs.cards?referrer=hn)
-- [Surrealdb – FOSS document-graph database, for the realtime web in Rust](https://github.com/surrealdb/surrealdb)
-- [FogBugz new owners attempting to auto-upgrade all free plans to paid](https://twitter.com/josephruscio/status/1570957688405917698)
-- [Apple to Move a Part of Its Embedded Cores to RISC-V](https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
