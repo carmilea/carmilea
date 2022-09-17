@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://jobs.lever.co/tesorio)
+- [The Sounds of CDMX](https://pudding.cool/2022/09/cdmx/)
+- [Why Figma Is Special](https://staysaasy.com/product/2022/09/16/why-figma-is-special.html)
 - [The absurdity of Europe burning wood for energy](https://twitter.com/doombergt/status/1571063488860286977)
 - [Saul Kripke has died](https://dailynous.com/2022/09/16/saul-kripke-1940-2022/)
-- [A subpolar-focused stratospheric aerosol injection deployment scenario](https://iopscience.iop.org/article/10.1088/2515-7620/ac8cd3)
-- [What&#39;s New in Matplotlib 3.6.0](https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.6.0.html)
-- [Soft White Underbelly demonetized by YouTube [video]](https://www.youtube.com/watch?v=81bMiEjYZ54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
