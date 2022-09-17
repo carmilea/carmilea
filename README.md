@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://jobs.lever.co/tesorio)
+- [“Titanic” Disaster: Report of the Committee on Commerce, US Senate &lpar;1918&rpar; [pdf]](https://www.senate.gov/artandhistory/history/resources/pdf/TitanicReport.pdf)
+- [Google &lpar;Feedburner&rpar; just voided RSS URLs for CNN, Marketwatch, etc.](https://news.ycombinator.com/item?id=32876954)
+- [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://jobs.lever.co/tesorio)
 - [The Sounds of CDMX](https://pudding.cool/2022/09/cdmx/)
-- [Why Figma Is Special](https://staysaasy.com/product/2022/09/16/why-figma-is-special.html)
 - [The absurdity of Europe burning wood for energy](https://twitter.com/doombergt/status/1571063488860286977)
-- [Saul Kripke has died](https://dailynous.com/2022/09/16/saul-kripke-1940-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
