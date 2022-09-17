@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: WalletWatch – a social network for Ethereum wallets](https://walletwatch-frontend.vercel.app/)
+- [$ rm Important.txt &lpar;uh oh&rpar;](https://xenodium.com/rm-important-txt-oh-sht/)
+- [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
+- [The Viewpoint Diversity Crisis at Canadian Universities [pdf]](https://macdonaldlaurier.ca/wp-content/uploads/2022/09/20220829_University_censorship_Dummit_Patterson_PAPER_FWeb.pdf)
 - [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
 - [Show HN: LambdaLisp – A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
-- [Number Theory – Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
-- [S6: A standalone JIT compiler library for CPython](https://github.com/deepmind/s6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
