@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: WalletWatch – a social network for Ethereum wallets](https://walletwatch-frontend.vercel.app/)
+- [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
+- [Show HN: LambdaLisp – A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
 - [Number Theory – Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
 - [S6: A standalone JIT compiler library for CPython](https://github.com/deepmind/s6)
-- [p0f: TCP Packet Fingerprinting](https://lcamtuf.coredump.cx/p0f3/)
-- [To study ancient seafarers, researcher built a replica ship – and sailed it](https://www.washingtonpost.com/history/2022/09/17/seafarers-mediterranean-wind-david-gal/)
-- [Devcycle &lpar;YC W14&rpar; – feature flags and remote config automation – is hiring](https://devcycle.com/company/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
