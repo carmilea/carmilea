@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Show HN: We make artisanal collectible cards from freshly harvested binary trees](https://www.cs.cards?referrer=hn)
 - [Surrealdb – FOSS document-graph database, for the realtime web in Rust](https://github.com/surrealdb/surrealdb)
 - [FogBugz new owners attempting to auto-upgrade all free plans to paid](https://twitter.com/josephruscio/status/1570957688405917698)
 - [Apple to Move a Part of Its Embedded Cores to RISC-V](https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa)
-- [Blocking Web Fonts for Speed and Privacy](https://collinmbarrett.com/block-web-fonts/)
-- [“The Suck” &lpar;Learning Anything by Writing It Out by Hand&rpar;](https://scottscheper.com/letter/40/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
