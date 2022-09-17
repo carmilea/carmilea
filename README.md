@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC to crack down on companies taking advantage of gig workers](https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-crack-down-companies-taking-advantage-gig-workers)
+- [Ubuntu 22.10 Aiming to Support the $16 Sipeed LicheeRV RISC-V Board](https://www.phoronix.com/news/Ubuntu-22.10-Sipeed-LicheeRV)
+- [ZX81plus38 – A ULA-less ZX81 clone](https://github.com/mahjongg2/ZX81plus38)
+- [How to disagree with someone more powerful than you &lpar;2016&rpar;](https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you)
 - [Why does a librarian own MetaFilter?](https://publicinfrastructure.org/podcast/jessamyn-west-part-1/)
-- [Cppfront, Herb Sutter&#39;s proposal for a new C++ syntax](https://github.com/hsutter/cppfront)
-- [Super apps are proliferating across emerging markets](https://afridigest.com/super-apps-in-emerging-markets/)
-- [Don&#39;t be your own worst boss as a solopreneur](https://indiecreator.beehiiv.com/p/don-t-be-your-own-worst-boss)
-- [5th Circuit Rules Internet Companies Have No Right to Moderate](https://www.techdirt.com/2022/09/16/5th-circuit-rewrites-a-century-of-1st-amendment-law-to-argue-internet-companies-have-no-right-to-moderate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
