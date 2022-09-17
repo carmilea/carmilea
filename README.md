@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Ethereum, as of 2022, over 90% of miners are connected to one single server](https://blog.bitmex.com/flashbots/)
-- [CoreML Benchmark for the iPhone 14 Pro](https://www.photoroom.com/tech/core-ml-performance-2022/)
-- [Philly pays $30K to two &#39;courtesy&#39; tow victims, but class-action suit continues](https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html)
-- [TinyBase v2.0: reactive data store for local-first apps](https://tinybase.org/guides/releases/#v2-0)
-- [Egg Boxing](https://peterattiamd.com/egg-boxing/)
+- [Blocking Web Fonts for Speed and Privacy](https://collinmbarrett.com/block-web-fonts/)
+- [Bankman-Fried survived the slump and still expanded](https://www.cnbc.com/2022/09/16/how-billionaire-bankman-fried-survived-the-slump-and-still-expanded.html)
+- [“The Suck” &lpar;Learning Anything by Writing It Out by Hand&rpar;](https://scottscheper.com/letter/40/)
+- [Synthetic embryo with brain and beating heart created by Cambridge scientists](https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/)
+- [Flashbots](https://blog.bitmex.com/flashbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
