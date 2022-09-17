@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soft White Underbelly Demonetized by YouTube](https://www.youtube.com/watch?v=81bMiEjYZ54)
+- [Saul Kripke &lpar;1940-2022&rpar;](https://dailynous.com/2022/09/16/saul-kripke-1940-2022/)
+- [What&#39;s New in Matplotlib 3.6.0](https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.6.0.html)
+- [Soft White Underbelly demonetized by YouTube [video]](https://www.youtube.com/watch?v=81bMiEjYZ54)
 - [Figma vs. Adobe XD](https://www.figma.com/figma-vs-adobe-xd/)
-- [How the Netherlands facilitate the most hated websites in the world](https://www.nrc.nl/nieuws/2022/09/16/how-the-netherlands-facilitate-the-most-hated-websites-in-the-world-a4142126)
 - [Introduction to Algorithms &lpar;2020&rpar;](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-- [Svix &lpar;YC W21&rpar;, enterprise-ready webhook service, is hiring &lpar;remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
