@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to Move a Part of Its Embedded Cores to RISC-V](https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa)
 - [Blocking Web Fonts for Speed and Privacy](https://collinmbarrett.com/block-web-fonts/)
 - [Bankman-Fried survived the slump and still expanded](https://www.cnbc.com/2022/09/16/how-billionaire-bankman-fried-survived-the-slump-and-still-expanded.html)
 - [“The Suck” &lpar;Learning Anything by Writing It Out by Hand&rpar;](https://scottscheper.com/letter/40/)
 - [Synthetic embryo with brain and beating heart created by Cambridge scientists](https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/)
-- [Flashbots](https://blog.bitmex.com/flashbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
