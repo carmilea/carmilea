@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: A virtual Yubikey device for 2FA/WebAuthN](https://github.com/bulwarkid/virtual-fido)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/bcfcfd08-229a-4209-a44b-ce11befe5ecf)
-- [$ rm Important.txt &lpar;uh oh&rpar;](https://xenodium.com/rm-important-txt-oh-sht/)
 - [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
 - [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
+- [Show HN: LambdaLisp – A Lisp interpreter that runs on lambda calculus](https://woodrush.github.io/blog/lambdalisp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
