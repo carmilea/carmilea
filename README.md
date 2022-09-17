@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Super Apps Are Proliferating Across Emerging Markets](https://afridigest.com/super-apps-in-emerging-markets/)
+- [5th Circuit Rules Internet Companies Have No Right to Moderate](https://www.techdirt.com/2022/09/16/5th-circuit-rewrites-a-century-of-1st-amendment-law-to-argue-internet-companies-have-no-right-to-moderate/)
+- [CSCI1730: Introduction to Programming Languages &lpar;BrownU&rpar;](https://cs.brown.edu/courses/csci1730/2012/)
 - [“Titanic” Disaster: Report of the Committee on Commerce, US Senate &lpar;1918&rpar; [pdf]](https://www.senate.gov/artandhistory/history/resources/pdf/TitanicReport.pdf)
 - [Google &lpar;Feedburner&rpar; just voided RSS URLs for CNN, Marketwatch, etc.](https://news.ycombinator.com/item?id=32876954)
-- [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://jobs.lever.co/tesorio)
-- [The Sounds of CDMX](https://pudding.cool/2022/09/cdmx/)
-- [The absurdity of Europe burning wood for energy](https://twitter.com/doombergt/status/1571063488860286977)
 <!-- BLOG-POST-LIST:END -->
 
 ---
