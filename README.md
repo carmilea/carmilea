@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Devcycle &lpar;YC W14&rpar; – feature flags and remote config automation – is hiring](https://devcycle.com/company/careers)
 - [FTC to crack down on companies taking advantage of gig workers](https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-crack-down-companies-taking-advantage-gig-workers)
 - [Ubuntu 22.10 Aiming to Support the $16 Sipeed LicheeRV RISC-V Board](https://www.phoronix.com/news/Ubuntu-22.10-Sipeed-LicheeRV)
 - [ZX81plus38 – A ULA-less ZX81 clone](https://github.com/mahjongg2/ZX81plus38)
 - [How to disagree with someone more powerful than you &lpar;2016&rpar;](https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you)
-- [Why does a librarian own MetaFilter?](https://publicinfrastructure.org/podcast/jessamyn-west-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
