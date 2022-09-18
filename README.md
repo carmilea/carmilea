@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GTA VI Leak [video]](https://www.youtube.com/watch?v=az2wt7sRuHM)
-- [J40: Independent, self-contained JPEG XL decoder](https://github.com/lifthrasiir/j40)
-- [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
-- [Show HN: I may have created a new type of puzzle](http://www.dogbunnypuzzle.com/)
-- [Gen Z never learned to read cursive](https://www.theatlantic.com/magazine/archive/2022/10/gen-z-handwriting-teaching-cursive-history/671246/)
+- [History of the Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#History)
+- [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
+- [My productivity system](https://www.nunodonato.com/my-productivity-system-in-2022/)
+- [TikTok privacy policy says they monitor names of other installed apps](https://www.tiktok.com/legal/privacy-policy-us?lang=en)
+- [Note-taking isn&#39;t rocket science](https://tsk.bearblog.dev/note-taking-isnt-rocket-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
