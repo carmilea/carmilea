@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [J40: Independent, self-contained JPEG XL decoder](https://github.com/lifthrasiir/j40)
+- [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
 - [Show HN: I may have created a new type of puzzle](http://www.dogbunnypuzzle.com/)
 - [The Allied “Passierschein” Safe Conduct Passes of WWII &lpar;2003&rpar;](https://www.psywarrior.com/GermanSCP.html)
 - [Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it?](https://news.ycombinator.com/item?id=32883596)
-- [What will you do with the stories entrusted to you?](https://joylere.substack.com/p/unabridged)
-- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
