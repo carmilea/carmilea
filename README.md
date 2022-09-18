@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ada Programming Language](https://ada-lang.io/)
-- [The $300bn Google-Meta duopoly is under attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
-- [Hacker News stylized as a retro 90s macOS desktop](https://hackertosh.org/)
-- [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [America’s most remarkable kid died in Newcastle, Utah](https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled)
+- [Not Perfect, Just Better](https://satfax.substack.com/p/not-perfect-just-better)
+- [Hot Chips 34: AMD’s Instinct MI200 Architecture](https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/)
+- [The Hyperinflation Gallery](https://lcamtuf.coredump.cx/hyper/)
+- [The $300B Google-Meta advertising duopoly is under attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
