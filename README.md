@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EmuTOS: A Modern FOSS Replacement OS for the Atari ST – and the Amiga Too](https://emutos.sourceforge.io/)
+- [Finding the “Second Bug” in Glibc’s Condition Variable](https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/)
+- [Merriam-Webster and Unstructured Data Processing](https://www.georgeho.org/webster-unstructured-data/)
+- [How to blow $85M in 11 months: The inside story of Airlift’s crash](https://restofworld.org/2022/inside-story-of-airlift-crash/)
 - [History of the Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#History)
-- [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
-- [My productivity system](https://www.nunodonato.com/my-productivity-system-in-2022/)
-- [TikTok privacy policy says they monitor names of other installed apps](https://www.tiktok.com/legal/privacy-policy-us?lang=en)
-- [Note-taking isn&#39;t rocket science](https://tsk.bearblog.dev/note-taking-isnt-rocket-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
