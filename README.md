@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you still buy physical tech books like “Learn Rust” or “Learn Go”?](https://news.ycombinator.com/item?id=32888730)
+- [DHS to Spend Almost $700k Investigating ‘Radicalization in Gaming’](https://www.vice.com/en/article/4ax4n3/dhs-to-spend-almost-dollar700000-investigating-radicalization-in-gaming)
+- [YouTubePluginReplacement.cpp: YouTube-specific code in WebKit](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp)
 - [Treasury recommends exploring creation of a digital dollar](https://apnews.com/article/cryptocurrency-biden-technology-united-states-ae9cf8df1d16deeb2fab48edb2e49f0e)
 - [Refurb weekend: New batteries for the Palm Pilots](http://oldvcr.blogspot.com/2022/09/refurb-weekend-new-batteries-for-palm.html)
-- [Trianglify.io – Low Poly Pattern Generator](https://trianglify.io/)
-- [Mister FPGA: Recreate classic computers using modern hardware](https://mister-devel.github.io/MkDocs_MiSTer/)
-- [EmuTOS – Free OS for Atari ST and more](https://emutos.sourceforge.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
