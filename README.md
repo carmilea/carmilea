@@ -54,8 +54,8 @@
 - [J40: Independent, self-contained JPEG XL decoder](https://github.com/lifthrasiir/j40)
 - [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
 - [Show HN: I may have created a new type of puzzle](http://www.dogbunnypuzzle.com/)
+- [Gen Z never learned to read cursive](https://www.theatlantic.com/magazine/archive/2022/10/gen-z-handwriting-teaching-cursive-history/671246/)
 - [The Allied “Passierschein” Safe Conduct Passes of WWII &lpar;2003&rpar;](https://www.psywarrior.com/GermanSCP.html)
-- [Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it?](https://news.ycombinator.com/item?id=32883596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
