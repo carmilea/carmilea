@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A virtual Yubikey device for 2FA/WebAuthN](https://github.com/bulwarkid/virtual-fido)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/bcfcfd08-229a-4209-a44b-ce11befe5ecf)
-- [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
-- [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
-- [Show HN: LambdaLisp – A Lisp interpreter that runs on lambda calculus](https://woodrush.github.io/blog/lambdalisp.html)
+- [The Allied “Passierschein” Safe Conduct Passes of WWII](https://web.archive.org/web/20220913004820/http://www.psywarrior.com/GermanSCP.html)
+- [Everyone you meet is living a story that you know nothing about](https://joylere.substack.com/p/unabridged)
+- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [How to Make a Sundial](https://www.sundialzone.com/en/sundial)
+- [Wildlife Photographer of the Year &lpar;2021&rpar;](https://www.nhm.ac.uk/wpy/gallery?tags=ed.current)
 <!-- BLOG-POST-LIST:END -->
 
 ---
