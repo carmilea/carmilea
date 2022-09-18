@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mister FPGA: recreate classic computers using modern hardware](https://mister-devel.github.io/MkDocs_MiSTer/)
-- [EmuTOS: A Modern FOSS Replacement OS for the Atari ST – and the Amiga Too](https://emutos.sourceforge.io/)
-- [Finding the “Second Bug” in Glibc’s Condition Variable](https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/)
-- [How James Clear Is Writing His Next Book](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
-- [Merriam-Webster and Unstructured Data Processing](https://www.georgeho.org/webster-unstructured-data/)
+- [Treasury recommends exploring creation of a digital dollar](https://apnews.com/article/cryptocurrency-biden-technology-united-states-ae9cf8df1d16deeb2fab48edb2e49f0e)
+- [Refurb weekend: New batteries for the Palm Pilots](http://oldvcr.blogspot.com/2022/09/refurb-weekend-new-batteries-for-palm.html)
+- [Trianglify.io – Low Poly Pattern Generator](https://trianglify.io/)
+- [Mister FPGA: Recreate classic computers using modern hardware](https://mister-devel.github.io/MkDocs_MiSTer/)
+- [EmuTOS – Free OS for Atari ST and more](https://emutos.sourceforge.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
