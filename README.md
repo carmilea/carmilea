@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PhD gets 5x increase in postdoc interview invitations by just changing his name](https://twitter.com/Mohamad_IPS/status/1571214032937394176)
-- [Measuring core-to-core latency &lpar;in Rust&rpar;](https://github.com/nviennot/core-to-core-latency)
+- [Ada Programming Language](https://ada-lang.io/)
+- [The $300bn Google-Meta duopoly is under attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
+- [Hacker News stylized as a retro 90s macOS desktop](https://hackertosh.org/)
+- [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Poor writing, not specialized concepts, drives difficulty with legal language](https://www.sciencedirect.com/science/article/pii/S0010027722000580)
-- [Sony Android TVs waste 25W in standby due to built-in Google Chromecast](https://www.avsforum.com/threads/sony-2015-xbr-55x850c-xbr-65x850c-xbr-75x850c-owners-club.1985298/page-765#post-61979548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
