@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring smart, gritty People who get stuff done](https://Flexport.com/careers)
 - [America’s most remarkable kid died in Newcastle, Utah](https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled)
 - [Not Perfect, Just Better](https://satfax.substack.com/p/not-perfect-just-better)
 - [Hot Chips 34: AMD’s Instinct MI200 Architecture](https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/)
 - [The Hyperinflation Gallery](https://lcamtuf.coredump.cx/hyper/)
-- [The $300B Google-Meta advertising duopoly is under attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
