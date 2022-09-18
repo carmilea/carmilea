@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Allied “Passierschein” Safe Conduct Passes of WWII](https://web.archive.org/web/20220913004820/http://www.psywarrior.com/GermanSCP.html)
+- [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
+- [The Allied “Passierschein” Safe Conduct Passes of WWII](https://www.psywarrior.com/GermanSCP.html)
+- [Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it?](https://news.ycombinator.com/item?id=32883596)
 - [Everyone you meet is living a story that you know nothing about](https://joylere.substack.com/p/unabridged)
 - [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [How to Make a Sundial](https://www.sundialzone.com/en/sundial)
-- [Wildlife Photographer of the Year &lpar;2021&rpar;](https://www.nhm.ac.uk/wpy/gallery?tags=ed.current)
 <!-- BLOG-POST-LIST:END -->
 
 ---
