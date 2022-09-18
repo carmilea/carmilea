@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mister FPGA: recreate classic computers using modern hardware](https://mister-devel.github.io/MkDocs_MiSTer/)
 - [EmuTOS: A Modern FOSS Replacement OS for the Atari ST – and the Amiga Too](https://emutos.sourceforge.io/)
 - [Finding the “Second Bug” in Glibc’s Condition Variable](https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/)
+- [How James Clear Is Writing His Next Book](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
 - [Merriam-Webster and Unstructured Data Processing](https://www.georgeho.org/webster-unstructured-data/)
-- [How to blow $85M in 11 months: The inside story of Airlift’s crash](https://restofworld.org/2022/inside-story-of-airlift-crash/)
-- [History of the Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#History)
 <!-- BLOG-POST-LIST:END -->
 
 ---
