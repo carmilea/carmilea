@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhD gets 5x increase in postdoc interview invitations by just changing his name](https://twitter.com/Mohamad_IPS/status/1571214032937394176)
+- [Measuring core-to-core latency &lpar;in Rust&rpar;](https://github.com/nviennot/core-to-core-latency)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Poor writing, not specialized concepts, drives difficulty with legal language](https://www.sciencedirect.com/science/article/pii/S0010027722000580)
 - [Sony Android TVs waste 25W in standby due to built-in Google Chromecast](https://www.avsforum.com/threads/sony-2015-xbr-55x850c-xbr-65x850c-xbr-75x850c-owners-club.1985298/page-765#post-61979548)
-- [Ask HN: Do you still buy physical tech books like “Learn Rust” or “Learn Go”?](https://news.ycombinator.com/item?id=32888730)
-- [YouTubePluginReplacement.cpp: YouTube-specific code in WebKit](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp)
-- [Refurb weekend: New batteries for the Palm Pilots](http://oldvcr.blogspot.com/2022/09/refurb-weekend-new-batteries-for-palm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
