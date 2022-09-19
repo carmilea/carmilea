@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twilio CEO announces 11% of employees will be laid off](https://www.foxbusiness.com/economy/twilio-ceo-announces-11-of-employees-lose-jobs-anti-racist-focused-layoffs)
+- [Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]](https://www.youtube.com/watch?v=qnSh8C40i1s)
 - [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
-- [Mr. Boop&#39;s Web Page](https://mrboop.net/)
+- [Censorship of our report on govt purchasing from Microsoft, Amazon, and Alphabet](https://techinquiry.org/?about=UNI-censorship)
 - [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
-- [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
-- [Figma: A Random Walk in Palo Alto](https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
