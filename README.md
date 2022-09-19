@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mullvad Creates a Hardware Company](https://mullvad.net/en/blog/2022/9/19/mullvad-creates-a-hardware-company/)
+- [BuildZoom &lpar;YC W13&rpar; is hiring](https://jobs.lever.co/buildzoom)
+- [The tyranny of the supertweeter](https://omnibudsman.substack.com/p/the-tyranny-of-the-supertweeter)
+- [Tillitis Key – Mullvad spin-off inspired by measured boot and DICE](https://www.tillitis.se/)
 - [Ask HN: Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
 - [Java&#39;s Cultural Problem](https://alexn.org/blog/2022/09/19/java-cultural-problem/)
-- [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
-- [You can watch how much I rewrite here](https://twitter.com/paulg/status/1571774245214244864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
