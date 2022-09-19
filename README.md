@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS 10.15: Slow by Design &lpar;2020&rpar;](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
+- [Sim NIMBY, the Game Where You Can’t Build Anything](https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything)
+- [Show HN: Distributed JMAP and IMAP Servers in Rust](https://github.com/stalwartlabs/jmap-server)
+- [MacOS 10.15: Slow by Design &lpar;2020&rpar;](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 - [https://16777217/](https://16777217./)
 - [Global-Chem: A Free Dictionary from Common Chemical Names to Molecules](https://www.globalchemistry.org/)
-- [Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]](https://www.youtube.com/watch?v=qnSh8C40i1s)
-- [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
