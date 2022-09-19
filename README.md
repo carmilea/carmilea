@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Food Delivery Robot Casually Drives Under Police Tape Through Active Crime Scene](https://www.vice.com/en/article/93adae/food-delivery-robot-casually-drives-under-police-tape-through-active-crime-scene)
-- [Taxing Mechanical Engineers and Subsidizing Drama Majors](https://marginalrevolution.com/marginalrevolution/2022/09/taxing-mechanical-engineers-and-subsidizing-drama-majors.html)
+- [I Resurrected “Ugly Sonic” with Stable Diffusion Textual Inversion](https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/)
+- [Raster Master Sprite Editor and Utilities for Dos](https://github.com/RetroNick2020/raster-master-dos)
+- [Proxy chrome extensions are not going to be usable in MV3](https://bugs.chromium.org/p/chromium/issues/detail?id=1135492)
+- [Apple’s iPhone 14 Redesign for Repair](https://www.ifixit.com/News/64865/iphone-14-teardown)
 - [Show HN: DevTools-X – a cross platform alternative of devutils and devtoys](https://github.com/fosslife/devtools-x)
-- [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)
-- [Ask HN: Why Adobe still can’t figure out Flash on WASM?](https://news.ycombinator.com/item?id=32898210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
