@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnus Carlsen resigns against Hans Niemann in the second move](https://www.chessdom.com/magnus-carlsen-resigns-against-hans-niemann-in-the-second-move/)
+- [“Return to Monkey Island” is out today](https://returntomonkeyisland.com/?abc)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32900942)
 - [AI Seamless Texture Generator Built-In to Blender](https://github.com/carson-katri/dream-textures)
 - [I&#39;m Building a Self-Destructing USB Drive Part 2](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
-- [Ask HN: Do you browse the web with JavaScript disabled?](https://news.ycombinator.com/item?id=32900487)
-- [How Data Flows in Postgres](https://www.crunchydata.com/blog/postgres-data-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
