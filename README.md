@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mullvad Creates a Hardware Company](https://mullvad.net/en/blog/2022/9/19/mullvad-creates-a-hardware-company/)
+- [Ask HN: Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
 - [Java&#39;s Cultural Problem](https://alexn.org/blog/2022/09/19/java-cultural-problem/)
-- [How to get started with Rust for Web Dev](https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust)
+- [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
 - [You can watch how much I rewrite here](https://twitter.com/paulg/status/1571774245214244864)
-- [Matrix was worth the effort to self host](https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/)
-- [Google removed our website from search because it uses YouTube-dl](https://www.kapwing.com/blog/google-erased-our-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
