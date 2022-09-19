@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Viral “racism in academia” story deleted when I started asking questions](https://tracingwoodgrains.substack.com/p/viral-racism-in-academia-story)
+- [Food Delivery Robot Casually Drives Under Police Tape Through Active Crime Scene](https://www.vice.com/en/article/93adae/food-delivery-robot-casually-drives-under-police-tape-through-active-crime-scene)
+- [Taxing Mechanical Engineers and Subsidizing Drama Majors](https://marginalrevolution.com/marginalrevolution/2022/09/taxing-mechanical-engineers-and-subsidizing-drama-majors.html)
+- [Show HN: DevTools-X – a cross platform alternative of devutils and devtoys](https://github.com/fosslife/devtools-x)
+- [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)
 - [Ask HN: Why Adobe still can’t figure out Flash on WASM?](https://news.ycombinator.com/item?id=32898210)
-- [Pentagon orders review of psyops after takedown of fake social accounts](https://www.washingtonpost.com/politics/2022/09/19/pentagon-orders-review-psyops-after-takedown-fake-social-accounts/)
-- [Aleksandr Sorokin smashes 24H world record with 198.6 mile/319.6 kilometer run](https://www.irunfar.com/aleksandr-sorokin-smashes-24-hour-world-record-with-198-6-mile-319-6-kilometer-run)
-- [Why Figma Is Worth $20B and Other Observations from the Adobe Acquisition](https://hunterwalk.com/2022/09/19/why-figma-is-worth-20b-and-other-observations-from-the-adobe-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
