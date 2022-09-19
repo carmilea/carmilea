@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Subprime Loans for College Hiding in Plain Sight](https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html)
+- [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
+- [Mr. Boop&#39;s Web Page](https://mrboop.net/)
+- [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
+- [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
 - [Figma: A Random Walk in Palo Alto](https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/)
-- [Flexport is hiring smart, gritty People who get stuff done](https://Flexport.com/careers)
-- [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
-- [America’s most remarkable kid died in Newcastle, Utah](https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled)
 <!-- BLOG-POST-LIST:END -->
 
 ---
