@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;YC W13&rpar; is hiring](https://jobs.lever.co/buildzoom)
-- [The tyranny of the supertweeter](https://omnibudsman.substack.com/p/the-tyranny-of-the-supertweeter)
-- [Tillitis Key – Mullvad spin-off inspired by measured boot and DICE](https://www.tillitis.se/)
-- [Ask HN: Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
-- [Java&#39;s Cultural Problem](https://alexn.org/blog/2022/09/19/java-cultural-problem/)
+- [Ask HN: Why Adobe still can&#39;t figure out Flash on WASM?](https://news.ycombinator.com/item?id=32898210)
+- [Pentagon orders review of psyops after takedown of fake social accounts](https://www.washingtonpost.com/politics/2022/09/19/pentagon-orders-review-psyops-after-takedown-fake-social-accounts/)
+- [Aleksandr Sorokin Smashes 24H World Record with 198.6 Mile/319.6 Kilometer Run](https://www.irunfar.com/aleksandr-sorokin-smashes-24-hour-world-record-with-198-6-mile-319-6-kilometer-run)
+- [Why Figma Is Worth $20B and Other Observations from the Adobe Acquisition](https://hunterwalk.com/2022/09/19/why-figma-is-worth-20b-and-other-observations-from-the-adobe-acquisition/)
+- [A $23M Amazon book about flies &lpar;2011&rpar;](https://www.michaeleisen.org/blog/?p=358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
