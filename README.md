@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Resurrected “Ugly Sonic” with Stable Diffusion Textual Inversion](https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/)
-- [Raster Master Sprite Editor and Utilities for Dos](https://github.com/RetroNick2020/raster-master-dos)
-- [Proxy chrome extensions are not going to be usable in MV3](https://bugs.chromium.org/p/chromium/issues/detail?id=1135492)
-- [Apple’s iPhone 14 Redesign for Repair](https://www.ifixit.com/News/64865/iphone-14-teardown)
-- [Show HN: DevTools-X – a cross platform alternative of devutils and devtoys](https://github.com/fosslife/devtools-x)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32900942)
+- [AI Seamless Texture Generator Built-In to Blender](https://github.com/carson-katri/dream-textures)
+- [I&#39;m Building a Self-Destructing USB Drive Part 2](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
+- [Ask HN: Do you browse the web with JavaScript disabled?](https://news.ycombinator.com/item?id=32900487)
+- [How Data Flows in Postgres](https://www.crunchydata.com/blog/postgres-data-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
