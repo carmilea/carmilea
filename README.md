@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Serial’ case: Adnan Syed released, conviction tossed](https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882)
+- [Tik Tok is a national security threat](https://twitter.com/zachtratar/status/1571595169207812096)
 - [Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion](https://github.com/amrrs/stable-diffusion-prompt-inpainting)
 - [Apple is top funder of lobby group that says it represents small developers](https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/)
 - [I accidentally started a movement – Policing the Police by scraping court data](https://news.ycombinator.com/item?id=32902945)
-- [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
-- [2-in-1 calculator app adds up to surprise hit for retired engineer](https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
