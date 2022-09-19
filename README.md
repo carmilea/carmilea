@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java&#39;s Cultural Problem](https://alexn.org/blog/2022/09/19/java-cultural-problem/)
+- [How to get started with Rust for Web Dev](https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust)
 - [You can watch how much I rewrite here](https://twitter.com/paulg/status/1571774245214244864)
 - [Matrix was worth the effort to self host](https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/)
 - [Google removed our website from search because it uses YouTube-dl](https://www.kapwing.com/blog/google-erased-our-website/)
-- [How Tokyo keeps house prices affordable](https://www.konichivalue.com/p/contrarian-investing-how-tokyo-avoided)
-- [Sim NIMBY, the Game Where You Can’t Build Anything](https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
