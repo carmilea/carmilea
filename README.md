@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unique 2-in-1 calculator app adds up to surprise hit for retired engineer](https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c)
+- [Nuclear Power Learning &amp; Deployment Rates; Disruption &amp; Global Benefits Forgone](https://www.mdpi.com/1996-1073/10/12/2169)
+- [1Hz CPU made in Minecraft running Minecraft at 0.1fps [video]](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [Magnus Carlsen resigns against Hans Niemann in the second move](https://www.chessdom.com/magnus-carlsen-resigns-against-hans-niemann-in-the-second-move/)
 - [“Return to Monkey Island” is out today](https://returntomonkeyisland.com/?abc)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32900942)
-- [AI Seamless Texture Generator Built-In to Blender](https://github.com/carson-katri/dream-textures)
-- [I&#39;m Building a Self-Destructing USB Drive Part 2](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
