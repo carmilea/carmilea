@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unique 2-in-1 calculator app adds up to surprise hit for retired engineer](https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c)
-- [Nuclear Power Learning &amp; Deployment Rates; Disruption &amp; Global Benefits Forgone](https://www.mdpi.com/1996-1073/10/12/2169)
-- [1Hz CPU made in Minecraft running Minecraft at 0.1fps [video]](https://www.youtube.com/watch?v=-BP7DhHTU-I)
-- [Magnus Carlsen resigns against Hans Niemann in the second move](https://www.chessdom.com/magnus-carlsen-resigns-against-hans-niemann-in-the-second-move/)
-- [“Return to Monkey Island” is out today](https://returntomonkeyisland.com/?abc)
+- [Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion](https://github.com/amrrs/stable-diffusion-prompt-inpainting)
+- [Apple is top funder of lobby group that says it represents small developers](https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/)
+- [I accidentally started a movement – Policing the Police by scraping court data](https://news.ycombinator.com/item?id=32902945)
+- [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
+- [2-in-1 calculator app adds up to surprise hit for retired engineer](https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
