@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can watch how much I rewrite here](https://twitter.com/paulg/status/1571774245214244864)
+- [Matrix was worth the effort to self host](https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/)
 - [Google removed our website from search because it uses YouTube-dl](https://www.kapwing.com/blog/google-erased-our-website/)
 - [How Tokyo keeps house prices affordable](https://www.konichivalue.com/p/contrarian-investing-how-tokyo-avoided)
 - [Sim NIMBY, the Game Where You Can’t Build Anything](https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything)
-- [Show HN: Distributed JMAP and IMAP Servers in Rust](https://github.com/stalwartlabs/jmap-server)
-- [MacOS 10.15: Slow by Design &lpar;2020&rpar;](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
