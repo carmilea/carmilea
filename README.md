@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twilio CEO announces 11% of employees will be laid off](https://www.foxbusiness.com/economy/twilio-ceo-announces-11-of-employees-lose-jobs-anti-racist-focused-layoffs)
+- [macOS 10.15: Slow by Design &lpar;2020&rpar;](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
+- [https://16777217/](https://16777217./)
+- [Global-Chem: A Free Dictionary from Common Chemical Names to Molecules](https://www.globalchemistry.org/)
 - [Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]](https://www.youtube.com/watch?v=qnSh8C40i1s)
 - [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
-- [Censorship of our report on govt purchasing from Microsoft, Amazon, and Alphabet](https://techinquiry.org/?about=UNI-censorship)
-- [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
 <!-- BLOG-POST-LIST:END -->
 
 ---
