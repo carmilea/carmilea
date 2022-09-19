@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why Adobe still can&#39;t figure out Flash on WASM?](https://news.ycombinator.com/item?id=32898210)
+- [Viral “racism in academia” story deleted when I started asking questions](https://tracingwoodgrains.substack.com/p/viral-racism-in-academia-story)
+- [Ask HN: Why Adobe still can’t figure out Flash on WASM?](https://news.ycombinator.com/item?id=32898210)
 - [Pentagon orders review of psyops after takedown of fake social accounts](https://www.washingtonpost.com/politics/2022/09/19/pentagon-orders-review-psyops-after-takedown-fake-social-accounts/)
-- [Aleksandr Sorokin Smashes 24H World Record with 198.6 Mile/319.6 Kilometer Run](https://www.irunfar.com/aleksandr-sorokin-smashes-24-hour-world-record-with-198-6-mile-319-6-kilometer-run)
+- [Aleksandr Sorokin smashes 24H world record with 198.6 mile/319.6 kilometer run](https://www.irunfar.com/aleksandr-sorokin-smashes-24-hour-world-record-with-198-6-mile-319-6-kilometer-run)
 - [Why Figma Is Worth $20B and Other Observations from the Adobe Acquisition](https://hunterwalk.com/2022/09/19/why-figma-is-worth-20b-and-other-observations-from-the-adobe-acquisition/)
-- [A $23M Amazon book about flies &lpar;2011&rpar;](https://www.michaeleisen.org/blog/?p=358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
