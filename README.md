@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DRUIDS by Datadog](https://druids.datadoghq.com/?ref=hackernews)
+- [React I Love You, but You&#39;re Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 - [UX Testing for Public Infrastructure](https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/)
 - [Tell HN: Somebody implemented something I wrote a blog about](https://news.ycombinator.com/item?id=32911299)
 - [European Court of Justice overturns German law on indiscriminate data retention](https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention)
-- [Launch HN: Spinach.io &lpar;YC W22&rpar; – Better daily standups](https://news.ycombinator.com/item?id=32911232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
