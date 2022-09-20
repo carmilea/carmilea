@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Philosophy of Mathematics – A Reading List &lpar;2020&rpar;](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
-- [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
-- [List of most expensive video games to develop](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop)
-- [Full House: Developers Share 3 Signs You’ve Outgrown Your Open Source Database](https://www.singlestore.com/blog/3-signs-youve-outgrown-your-open-source-db)
-- [EU Open Web Search project kicked off](https://openwebsearch.eu/)
+- [SQLite Code of Ethics &lpar;2020&rpar;](https://www.sqlite.org/codeofethics.html)
+- [Upcyling a 40-year-old Tandy Model 100 Portable Computer](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
+- [FogBugz Goes Dark](https://successfulsoftware.net/2022/09/20/fogbugz-goes-dark/)
+- [Each country as a Pokemon, using Stable Diffusion](https://github.com/sradc/each-country-as-a-pokemon-stable-diffusion)
+- [Fork of the popular “I don&#39;t care about cookies” extension](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
