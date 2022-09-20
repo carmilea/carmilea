@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intelligence and Radical Economic Attitudes](https://www.sciencedirect.com/science/article/pii/S0160289622000800)
+- [Measuring the popularity of different vector databases](https://gradientflow.com/the-vector-database-index/)
 - [Wasmtime 1.0](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
-- [Ask HN: About to have a child, completely burnt out at my job, what do I do?](https://news.ycombinator.com/item?id=32913377)
+- [JITX &lpar;YC S18&rpar; launches and announces $12M Series A from Sequoia](https://www.jitx.com/blog/series-a-announcement)
 - [GTK4 Bindings for Common Lisp](https://github.com/bohonghuang/cl-gtk4)
-- [Learn how to unleash the full potential of the type system of TypeScript](https://type-level-typescript.com/)
-- [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
