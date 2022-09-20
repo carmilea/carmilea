@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS calc&lpar;100% – 0&rpar; is invalid, but calc&lpar;100% -0px&rpar; is valid](https://webplatform.news/#1663639656000)
-- [The Aerodynamics of Gravel Bikes](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
-- [Ask HN: It&#39;s always the people isn&#39;t it?](https://news.ycombinator.com/item?id=32909410)
-- [SQLite: Past, Present, and Future](http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
-- [Magnus Carlsen resigns against Hans Niemann after one move](https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move)
+- [US Wealth dropped $6 Trillion in Q2](https://money.usnews.com/investing/news/articles/2022-09-09/u-s-household-wealth-falls-again-in-second-quarter-fed-says)
+- [JDK 19 Release Notes](https://jdk.java.net/19/release-notes)
+- [Hash collisions and exploitations – Instant MD5 collision](https://github.com/corkami/collisions)
+- [CSS calc&lpar;100% – 0&rpar; is invalid, but calc&lpar;100% - 0px&rpar; is valid](https://webplatform.news/#1663639656000)
+- [Aerodynamics of Gravel Bikes](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
