@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Open Web Search Project Started](https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/)
+- [The Texas Instruments TMX 1795: the &lpar;almost&rpar; first, forgotten microprocessor](https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html)
+- [Available today: The Windows 11 2022 Update](https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/)
+- [Dwell House – 540 sq ft prefab home that you can add to your backyard](https://house.dwell.com/)
 - [Intelligence and Radical Economic Attitudes](https://www.sciencedirect.com/science/article/pii/S0160289622000800)
-- [Measuring the popularity of different vector databases](https://gradientflow.com/the-vector-database-index/)
-- [Wasmtime 1.0](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
-- [JITX &lpar;YC S18&rpar; launches and announces $12M Series A from Sequoia](https://www.jitx.com/blog/series-a-announcement)
-- [GTK4 Bindings for Common Lisp](https://github.com/bohonghuang/cl-gtk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
