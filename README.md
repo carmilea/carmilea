@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS calc&lpar;100% – 0&rpar; is invalid, but calc&lpar;100% -0px&rpar; is valid](https://webplatform.news/#1663639656000)
+- [The Aerodynamics of Gravel Bikes](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
+- [Ask HN: It&#39;s always the people isn&#39;t it?](https://news.ycombinator.com/item?id=32909410)
 - [SQLite: Past, Present, and Future](http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
-- [Magnus Carlsen resigns against Hans Niemann after ONE move: The reaction](https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move)
-- [Document Foundation starts charging €8.99 for &#39;free&#39; LibreOffice](https://www.theregister.com/2022/09/20/libre_office_macos_fees/)
-- [Ask HN: How do you switch between programming languages?](https://news.ycombinator.com/item?id=32908160)
-- [Upcoming price and tax changes for apps and in-app purchases](https://developer.apple.com/news/?id=e1b1hcmv)
+- [Magnus Carlsen resigns against Hans Niemann after one move](https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move)
 <!-- BLOG-POST-LIST:END -->
 
 ---
