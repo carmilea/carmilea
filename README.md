@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Beta &lpar;2009&rpar;](https://www.projecthoneypot.org/cloudflare_beta.html)
-- [FCC asked to probe US carriers locking handsets to networks](https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/)
-- [You don’t want to be on Cloudflare’s naughty list](https://www.ctrl.blog/entry/cloudflare-ip-blockade.html)
-- [Gray386Linux – Linux for 386 Machines](https://github.com/marmolak/gray386linux)
-- [DRUIDS by Datadog](https://druids.datadoghq.com/?ref=hackernews)
+- [Wasmtime 1.0](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
+- [Ask HN: About to have a child, completely burnt out at my job, what do I do?](https://news.ycombinator.com/item?id=32913377)
+- [GTK4 Bindings for Common Lisp](https://github.com/bohonghuang/cl-gtk4)
+- [Learn how to unleash the full potential of the type system of TypeScript](https://type-level-typescript.com/)
+- [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
