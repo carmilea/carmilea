@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Beta &lpar;2009&rpar;](https://www.projecthoneypot.org/cloudflare_beta.html)
+- [FCC asked to probe US carriers locking handsets to networks](https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/)
+- [You don’t want to be on Cloudflare’s naughty list](https://www.ctrl.blog/entry/cloudflare-ip-blockade.html)
+- [Gray386Linux – Linux for 386 Machines](https://github.com/marmolak/gray386linux)
 - [DRUIDS by Datadog](https://druids.datadoghq.com/?ref=hackernews)
-- [React I Love You, but You&#39;re Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
-- [UX Testing for Public Infrastructure](https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/)
-- [Tell HN: Somebody implemented something I wrote a blog about](https://news.ycombinator.com/item?id=32911299)
-- [European Court of Justice overturns German law on indiscriminate data retention](https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention)
 <!-- BLOG-POST-LIST:END -->
 
 ---
