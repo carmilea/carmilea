@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Philosophy of Mathematics – A Reading List &lpar;2020&rpar;](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
 - [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
+- [List of most expensive video games to develop](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop)
+- [Show HN: TaskTXT, plain text task-timing notepad](https://tasktxt.com/)
 - [Full House: Developers Share 3 Signs You’ve Outgrown Your Open Source Database](https://www.singlestore.com/blog/3-signs-youve-outgrown-your-open-source-db)
-- [Nvidia RTX Remix: Create and Share Rtxon Mods for Classic Games](https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/)
-- [EU Open Web Search Project Started](https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/)
-- [Show HN: Tigris – the open source developer data platform for your next app](https://docs.tigrisdata.com/quickstart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
