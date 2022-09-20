@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you switch between programming languages?](https://news.ycombinator.com/item?id=32908160)
 - [Upcoming price and tax changes for apps and in-app purchases](https://developer.apple.com/news/?id=e1b1hcmv)
 - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
-- [Cache Your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
-- [Boeing&#39;s 737 Max Software Outsourced to $9-an-Hour Engineers &lpar;2019&rpar;](https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers)
-- [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
+- [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
+- [Public buses across country adding microphones to record conversations &lpar;2012&rpar;](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
