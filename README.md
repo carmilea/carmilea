@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html)
-- [‘Serial’ case: Adnan Syed released, conviction tossed](https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882)
-- [Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion](https://github.com/amrrs/stable-diffusion-prompt-inpainting)
-- [Apple is top funder of lobby group that says it represents small developers](https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/)
-- [I accidentally started a movement – Policing the Police by scraping court data](https://news.ycombinator.com/item?id=32902945)
+- [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
+- [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
+- [Azure CTO: “It&#39;s time to halt starting any new projects in C/C++”](https://twitter.com/markrussinovich/status/1571995117233504257)
+- [Show HN: Figr.app – a multi-user, notepad style calculator &lpar;desktop app&rpar;](https://www.figr.app/)
+- [More US Employers Are Trapping Workers in a New Form of Indentured Servitude](https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
