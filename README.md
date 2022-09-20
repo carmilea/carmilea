@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache Your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
+- [Boeing&#39;s 737 Max Software Outsourced to $9-an-Hour Engineers &lpar;2019&rpar;](https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers)
 - [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
 - [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
 - [Azure CTO: “It&#39;s time to halt starting any new projects in C/C++”](https://twitter.com/markrussinovich/status/1571995117233504257)
-- [Show HN: Figr.app – a multi-user, notepad style calculator &lpar;desktop app&rpar;](https://www.figr.app/)
-- [More US Employers Are Trapping Workers in a New Form of Indentured Servitude](https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
