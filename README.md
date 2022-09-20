@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
+- [Full House: Developers Share 3 Signs You’ve Outgrown Your Open Source Database](https://www.singlestore.com/blog/3-signs-youve-outgrown-your-open-source-db)
+- [Nvidia RTX Remix: Create and Share Rtxon Mods for Classic Games](https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/)
 - [EU Open Web Search Project Started](https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/)
-- [The Texas Instruments TMX 1795: the &lpar;almost&rpar; first, forgotten microprocessor](https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html)
-- [Available today: The Windows 11 2022 Update](https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/)
-- [Dwell House – 540 sq ft prefab home that you can add to your backyard](https://house.dwell.com/)
-- [Intelligence and Radical Economic Attitudes](https://www.sciencedirect.com/science/article/pii/S0160289622000800)
+- [Show HN: Tigris – the open source developer data platform for your next app](https://docs.tigrisdata.com/quickstart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
