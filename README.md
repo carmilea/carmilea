@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Document Foundation starts charging €8.99 for &#39;free&#39; LibreOffice](https://www.theregister.com/2022/09/20/libre_office_macos_fees/)
 - [Ask HN: How do you switch between programming languages?](https://news.ycombinator.com/item?id=32908160)
 - [Upcoming price and tax changes for apps and in-app purchases](https://developer.apple.com/news/?id=e1b1hcmv)
-- [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
-- [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
-- [Public buses across country adding microphones to record conversations &lpar;2012&rpar;](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
+- [Deadlines are pointless – what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
+- [The Internet Is Already Over](https://samkriss.substack.com/p/the-internet-is-already-over)
 <!-- BLOG-POST-LIST:END -->
 
 ---
