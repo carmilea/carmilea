@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Wealth dropped $6 Trillion in Q2](https://money.usnews.com/investing/news/articles/2022-09-09/u-s-household-wealth-falls-again-in-second-quarter-fed-says)
-- [JDK 19 Release Notes](https://jdk.java.net/19/release-notes)
-- [Hash collisions and exploitations – Instant MD5 collision](https://github.com/corkami/collisions)
-- [CSS calc&lpar;100% – 0&rpar; is invalid, but calc&lpar;100% - 0px&rpar; is valid](https://webplatform.news/#1663639656000)
-- [Aerodynamics of Gravel Bikes](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
+- [DRUIDS by Datadog](https://druids.datadoghq.com/?ref=hackernews)
+- [UX Testing for Public Infrastructure](https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/)
+- [Tell HN: Somebody implemented something I wrote a blog about](https://news.ycombinator.com/item?id=32911299)
+- [European Court of Justice overturns German law on indiscriminate data retention](https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention)
+- [Launch HN: Spinach.io &lpar;YC W22&rpar; – Better daily standups](https://news.ycombinator.com/item?id=32911232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
