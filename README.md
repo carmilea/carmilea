@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is deprecating Google Surveys](https://support.google.com/surveys/answer/12626240?hl=en)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
+- [What is BFF? &lpar;Back end for Front end&rpar;](https://blog.frankel.ch/backend-for-frontend/)
 - [Upcyling a 40-year-old Tandy Model 100 Portable Computer](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
 - [YouTube’s ‘dislike’ barely works according to new study on recommendations](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
 - [Fork of the popular “I don&#39;t care about cookies” extension](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
-- [Philosophy of Mathematics – A Reading List &lpar;2020&rpar;](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
