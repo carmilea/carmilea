@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Since mid-April, the Fed has withdrawn ~$140B of liquidity from financial system](https://fred.stlouisfed.org/graph/?g=TXcI)
+- [Danish Data Protection Agency concludes Google Analytics cannot be used lawfully](https://www.datatilsynet.dk/english/google-analytics/use-of-google-analytics-for-web-analytics)
 - [Sharing some statistics about BTRFS compression](https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html)
+- [Fed raises rates by another 75 bps to fight inflation](https://www.cnbc.com/2022/09/21/fed-rate-hike-september-2022-.html)
 - [Federal Reserve to increase interest rates by 75 basis points for the third time](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm)
-- [Checkmate: Cheating Detection](https://joeposnanski.substack.com/p/checkmate)
-- [Russian airlines ordered to stop selling tickets to Russian men aged 18 to 65](https://www.airlive.net/breaking-russian-airlines-ordered-to-stop-selling-tickets-to-russian-men-aged-18-to-65/)
-- [Meta and Google Are Cutting Staff. Just Don’t Mention Layoffs](https://www.wsj.com/articles/meta-and-google-are-cutting-staff-just-dont-mention-layoffs-11663778729)
 <!-- BLOG-POST-LIST:END -->
 
 ---
