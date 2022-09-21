@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch Finally Takes Action Against Gambling](https://www.jacobwolf.report/p/twitch-finally-takes-action-against)
+- [Nvidia Reveals RTX 6000 with 48GB GDDR6 ECC Memory](https://www.tomshardware.com/news/nvidia-reveals-rtx-6000-with-48gb-gddr6-ecc-memory)
+- [Show HN: Send a GitHub webhook to a private URL](https://github.com/openziti-test-kitchen/webhookz)
 - [Pliant language and FullPliant operating system](http://www.fullpliant.org/)
-- [Next steps for Rust in the kernel](https://lwn.net/SubscriberLink/908347/da67a5162d1bc4a3/)
-- [The NTSB wants all new vehicles to check drivers for alcohol use](https://www.npr.org/2022/09/20/1124171320/autos-drunk-driving-blood-alcohol-system-ntsb)
-- [Karelian Question](https://en.wikipedia.org/wiki/Karelian_question)
-- [An anonymous donor just sent 299 Ether &lpar;equivalent to 393k USD&rpar; to redox_OS](https://twitter.com/jeremy_soller/status/1572350419594268673)
+- [Show HN: I made a site that easily lets you generate AI images using templates](https://phantasmagoria.stavros.io/templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
