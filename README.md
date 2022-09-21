@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitch Finally Takes Action Against Gambling](https://www.jacobwolf.report/p/twitch-finally-takes-action-against)
-- [Nvidia Reveals RTX 6000 with 48GB GDDR6 ECC Memory](https://www.tomshardware.com/news/nvidia-reveals-rtx-6000-with-48gb-gddr6-ecc-memory)
-- [Show HN: Send a GitHub webhook to a private URL](https://github.com/openziti-test-kitchen/webhookz)
-- [Pliant language and FullPliant operating system](http://www.fullpliant.org/)
-- [Show HN: I made a site that easily lets you generate AI images using templates](https://phantasmagoria.stavros.io/templates/)
+- [The Framework Laptop Chromebook Edition](https://frame.work/at/en/blog/introducing-the-framework-laptop-chromebook-edition)
+- [Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT](https://finance.yahoo.com/news/stablecoin-issuer-tether-ordered-produce-041706661.html)
+- [Getty Images bans AI-generated content over fears of legal challenges](https://www.theverge.com/2022/9/21/23364696/getty-images-ai-ban-generated-artwork-illustration-copyright)
+- [Study finds high levels of PFAS in school uniforms](https://phys.org/news/2022-09-high-pfas-school-uniforms.html)
+- [Scientists calculated global population of ants: 20 quadrillion](https://www.pnas.org/doi/10.1073/pnas.2201550119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
