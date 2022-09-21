@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s happening with Gmail spam filtering?](https://news.ycombinator.com/item?id=32923098)
-- [First reported EMFI attack against an AMD desktop CPU](https://arxiv.org/abs/2209.09835)
-- [Linux by No Starch Press Humble Bundle](https://www.humblebundle.com/books/linux-no-starch-press-books)
-- [Demodesk GmbH Is Hiring a Full-Stack Product Engineer](https://demodesk.com/careers)
-- [20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
+- [Pliant language and FullPliant operating system](http://www.fullpliant.org/)
+- [Next steps for Rust in the kernel](https://lwn.net/SubscriberLink/908347/da67a5162d1bc4a3/)
+- [The NTSB wants all new vehicles to check drivers for alcohol use](https://www.npr.org/2022/09/20/1124171320/autos-drunk-driving-blood-alcohol-system-ntsb)
+- [Karelian Question](https://en.wikipedia.org/wiki/Karelian_question)
+- [An anonymous donor just sent 299 Ether &lpar;equivalent to 393k USD&rpar; to redox_OS](https://twitter.com/jeremy_soller/status/1572350419594268673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
