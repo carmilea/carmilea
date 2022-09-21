@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A text adventure game on TypeScript&#39;s type system](https://github.com/cassiozen/TDungeon)
+- [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
 - [Since mid-April, the Fed has withdrawn ~$140B of liquidity from financial system](https://fred.stlouisfed.org/graph/?g=TXcI)
+- [Why do we salt the ice when making ice cream?](https://www.timothyrice.org/icecreamsalt/)
 - [Danish Data Protection Agency concludes Google Analytics cannot be used lawfully](https://www.datatilsynet.dk/english/google-analytics/use-of-google-analytics-for-web-analytics)
-- [Sharing some statistics about BTRFS compression](https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html)
-- [Fed raises rates by another 75 bps to fight inflation](https://www.cnbc.com/2022/09/21/fed-rate-hike-september-2022-.html)
-- [Federal Reserve to increase interest rates by 75 basis points for the third time](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
