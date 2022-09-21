@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharing some statistics about BTRFS compression](https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html)
+- [Federal Reserve to increase interest rates by 75 basis points for the third time](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm)
 - [Checkmate: Cheating Detection](https://joeposnanski.substack.com/p/checkmate)
+- [Russian airlines ordered to stop selling tickets to Russian men aged 18 to 65](https://www.airlive.net/breaking-russian-airlines-ordered-to-stop-selling-tickets-to-russian-men-aged-18-to-65/)
 - [Meta and Google Are Cutting Staff. Just Don’t Mention Layoffs](https://www.wsj.com/articles/meta-and-google-are-cutting-staff-just-dont-mention-layoffs-11663778729)
-- [Learnings from Chef and the Future of Open Source](https://anchor.fm/ossstartuppodcast/episodes/E52-Learnings-from-Chef--the-Future-of-Open-Source-e1o4c0l)
-- [SIM Swapper Abducted, Beaten, Held for $200k Ransom](https://krebsonsecurity.com/2022/09/sim-swapper-abducted-beaten-held-for-200k-ransom/)
-- [Whisper – open source speech recognition by OpenAI](https://openai.com/blog/whisper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
