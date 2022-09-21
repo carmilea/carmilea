@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [President Putin has announced a partial mobilization in Russia](https://www.netnewsledger.com/2022/09/20/russian-president-putin-to-declare-mobilization/)
+- [Why is Canada euthanising the poor?](https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-)
+- [Linux by No Starch Press Humble Bundle](https://www.humblebundle.com/books/linux-no-starch-press-books)
 - [Demodesk GmbH Is Hiring a Full-Stack Product Engineer](https://demodesk.com/careers)
 - [20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
 - [The Right to Read &lpar;1997&rpar;](https://www.gnu.org/philosophy/right-to-read.html)
-- [Hotel safety tips from a former intelligence officer](https://www.securitymagazine.com/blogs/14-security-blog/post/89106-hotel-safety-tips-from-a-former-intelligence-officer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
