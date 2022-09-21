@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
 - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
-- [Recent AI image generation explosion is delightful – John Carmack](https://twitter.com/ID_AA_Carmack/status/1572627593953742848)
 - [AWS vs. GCP reliability is wildly different](https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different)
 - [A text adventure game on TypeScript&#39;s type system](https://github.com/cassiozen/TDungeon)
 - [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
