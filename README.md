@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Checkmate: Cheating Detection](https://joeposnanski.substack.com/p/checkmate)
+- [Meta and Google Are Cutting Staff. Just Don’t Mention Layoffs](https://www.wsj.com/articles/meta-and-google-are-cutting-staff-just-dont-mention-layoffs-11663778729)
+- [Learnings from Chef and the Future of Open Source](https://anchor.fm/ossstartuppodcast/episodes/E52-Learnings-from-Chef--the-Future-of-Open-Source-e1o4c0l)
+- [SIM Swapper Abducted, Beaten, Held for $200k Ransom](https://krebsonsecurity.com/2022/09/sim-swapper-abducted-beaten-held-for-200k-ransom/)
 - [Whisper – open source speech recognition by OpenAI](https://openai.com/blog/whisper/)
-- [New Webb image captures clearest view of Neptune’s rings in decades](https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/)
-- [Your Work Matters. Build Your Schedule Accordingly](https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/)
-- [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
-- [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
