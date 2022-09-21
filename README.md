@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you regret being a generalist?](https://news.ycombinator.com/item?id=32920577)
+- [Betterbird is a fine-tuned version of Mozilla Thunderbird email client](https://www.betterbird.eu/##)
+- [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
-- [What is BFF? &lpar;Back end for Front end&rpar;](https://blog.frankel.ch/backend-for-frontend/)
-- [Upcyling a 40-year-old Tandy Model 100 Portable Computer](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
-- [YouTube’s ‘dislike’ barely works according to new study on recommendations](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
-- [Fork of the popular “I don&#39;t care about cookies” extension](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
+- [Backend for Front-end](https://blog.frankel.ch/backend-for-frontend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
