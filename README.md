@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do you regret being a generalist?](https://news.ycombinator.com/item?id=32920577)
-- [Betterbird is a fine-tuned version of Mozilla Thunderbird email client](https://www.betterbird.eu/##)
-- [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
-- [Backend for Front-end](https://blog.frankel.ch/backend-for-frontend/)
+- [The Right to Read &lpar;1997&rpar;](https://www.gnu.org/philosophy/right-to-read.html)
+- [Hotel Safety Tips from a Former Intelligence Officer](https://www.securitymagazine.com/blogs/14-security-blog/post/89106-hotel-safety-tips-from-a-former-intelligence-officer)
+- [Solving Entry-Level Edge AI Challenges with Nvidia Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/)
+- [Energy Efficiency across Programming Languages &lpar;2017&rpar; [pdf]](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+- [Daily &#39;Breath Training&#39; can work as well as Meds to reduce high blood pressure](https://text.npr.org/1123500781)
 <!-- BLOG-POST-LIST:END -->
 
 ---
