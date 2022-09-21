@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Framework Laptop Chromebook Edition](https://frame.work/at/en/blog/introducing-the-framework-laptop-chromebook-edition)
-- [Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT](https://finance.yahoo.com/news/stablecoin-issuer-tether-ordered-produce-041706661.html)
-- [Getty Images bans AI-generated content over fears of legal challenges](https://www.theverge.com/2022/9/21/23364696/getty-images-ai-ban-generated-artwork-illustration-copyright)
-- [Study finds high levels of PFAS in school uniforms](https://phys.org/news/2022-09-high-pfas-school-uniforms.html)
-- [Scientists calculated global population of ants: 20 quadrillion](https://www.pnas.org/doi/10.1073/pnas.2201550119)
+- [Whisper – open source speech recognition by OpenAI](https://openai.com/blog/whisper/)
+- [New Webb image captures clearest view of Neptune’s rings in decades](https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/)
+- [Your Work Matters. Build Your Schedule Accordingly](https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/)
+- [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
+- [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
