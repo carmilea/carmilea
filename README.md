@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Liz Truss urges world leaders to follow UK with trickle down economics](https://www.theguardian.com/politics/2022/sep/20/liz-truss-urges-world-leaders-to-follow-uk-with-trickle-down-economics)
+- [President Putin has announced a partial mobilization in Russia](https://www.netnewsledger.com/2022/09/20/russian-president-putin-to-declare-mobilization/)
 - [Demodesk GmbH Is Hiring a Full-Stack Product Engineer](https://demodesk.com/careers)
-- [Emacs: 20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
+- [20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
 - [The Right to Read &lpar;1997&rpar;](https://www.gnu.org/philosophy/right-to-read.html)
-- [Solving Entry-Level Edge AI Challenges with Nvidia Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/)
+- [Hotel safety tips from a former intelligence officer](https://www.securitymagazine.com/blogs/14-security-blog/post/89106-hotel-safety-tips-from-a-former-intelligence-officer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
