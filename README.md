@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Canada euthanising the poor?](https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-)
+- [Ask HN: What&#39;s happening with Gmail spam filtering?](https://news.ycombinator.com/item?id=32923098)
+- [First reported EMFI attack against an AMD desktop CPU](https://arxiv.org/abs/2209.09835)
 - [Linux by No Starch Press Humble Bundle](https://www.humblebundle.com/books/linux-no-starch-press-books)
 - [Demodesk GmbH Is Hiring a Full-Stack Product Engineer](https://demodesk.com/careers)
 - [20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
-- [The Right to Read &lpar;1997&rpar;](https://www.gnu.org/philosophy/right-to-read.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
