@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS vs. GCP reliability is wildly different](https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different)
 - [A text adventure game on TypeScript&#39;s type system](https://github.com/cassiozen/TDungeon)
 - [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
-- [Since mid-April, the Fed has withdrawn ~$140B of liquidity from financial system](https://fred.stlouisfed.org/graph/?g=TXcI)
 - [Why do we salt the ice when making ice cream?](https://www.timothyrice.org/icecreamsalt/)
 - [Danish Data Protection Agency concludes Google Analytics cannot be used lawfully](https://www.datatilsynet.dk/english/google-analytics/use-of-google-analytics-for-web-analytics)
 <!-- BLOG-POST-LIST:END -->
