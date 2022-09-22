@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Road to Realistic Full-Body Deepfakes](https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/)
+- [Gender and Age Differences in Love Styles and Attitudes](https://www.dimensional.me/blog/gender-differences-in-love-attitudes-and-expression)
+- [Show HN: I made an open-source Bitly alternative](https://dub.sh/)
+- [American Data Privacy and Protection Act](https://www.congress.gov/bill/117th-congress/house-bill/8152/text)
+- [The road to realistic full-body deepfakes](https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/)
 - [Wasp &lpar;YC W21&rpar; is hiring eng to work on DSL for making web apps &lpar;compiler, webdev&rpar;](https://news.ycombinator.com/item?id=32938880)
-- [Google loses EU appeal and is fined a record $4B](https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling)
-- [The Next Silicon Valley Will Be in the US Heartland](https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/)
-- [First new Jakarta EE &lpar;Java EE&rpar; release in years; Jakarta EE 10 released](https://jakarta.ee/news/jakarta-ee-10-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
