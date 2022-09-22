@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Suspension](https://news.ycombinator.com/item?id=32937234)
+- [Engine makers sound downbeat on supersonic, leaving Boom in a bind](https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article)
+- [I came up with a better way to communicate with users](https://news.ycombinator.com/item?id=32937523)
+- [Exploring Lock-Free Rust &lpar;2017&rpar;](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks)
 - [If the Moon Were Only 1 Pixel &lpar;2014&rpar;](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- [Show HN: Rocketry – Modern scheduler to power your Python projects](https://github.com/Miksus/rocketry)
-- [Ask HN: Which books you have read till now that were worth investing time in?](https://news.ycombinator.com/item?id=32935412)
-- [So You Want to Compete with Steam &lpar;2018&rpar;](https://www.fortressofdoors.com/so-you-want-to-compete-with-steam/)
+- [Show HN: Rocketry – Statement-based scheduling framework for Python](https://github.com/Miksus/rocketry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
