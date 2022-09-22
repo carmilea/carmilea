@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reason Java Is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
-- [Extending supabase with your own back end – its supa easy](https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/)
-- [AlphaFold developers win US$3M Breakthrough Prize](https://www.nature.com/articles/d41586-022-02999-9)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
-- [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar)
+- [Luxury Media](https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media)
+- [&#39;Soleus Pushup&#39; Fuels Metabolism for Hours While Sitting](https://stories.uh.edu/2022-soleus-pushup/index.html)
+- [Japan will allow visa-free, individual tourism from Oct. 11](https://twitter.com/japantimes/status/1572962383252934656)
+- [Dilemmas in a General Theory of Planning &lpar;1973&rpar; [pdf]](https://hci.stanford.edu/dschool/resources/readings/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf)
+- [Running a Docker Host under OpenBSD using vmd&lpar;8&rpar;](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
