@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PayPal closes account of UK&#39;s Free Speech Union without explanation](https://lauradodsworth.substack.com/p/paypal-censors-free-speech-union)
+- [The rush to mine lithium could dry up the high Andes](https://e360.yale.edu/features/lithium-mining-water-andes-argentina)
+- [Pcmcia Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
 - [Why adults still dream about school](https://www.theatlantic.com/family/archive/2022/09/why-school-haunts-our-dreams-long-after-graduation/671506/)
 - [New Story &lpar;YC S15&rpar; Is Hiring a Controller](https://newstorycharity.org/careers/)
 - [TLDR explains what a piece of code does](https://twitter.com/marcelpociot/status/1572690548074348549)
-- [Luxury Media](https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
