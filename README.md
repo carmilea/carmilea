@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engine makers sound downbeat on supersonic, leaving Boom in a bind](https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article)
-- [I came up with a better way to communicate with users](https://news.ycombinator.com/item?id=32937523)
-- [Exploring Lock-Free Rust &lpar;2017&rpar;](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks)
-- [If the Moon Were Only 1 Pixel &lpar;2014&rpar;](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- [Show HN: Rocketry – Statement-based scheduling framework for Python](https://github.com/Miksus/rocketry)
+- [Google loses EU appeal and is fined a record $4B](https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling)
+- [The Next Silicon Valley Will Be in the US Heartland](https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/)
+- [First new Jakarta EE &lpar;Java EE&rpar; release in years; Jakarta EE 10 released](https://jakarta.ee/news/jakarta-ee-10-released/)
+- [Censorship by big tech at the behest of the U.S. government](https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime)
+- [ZincSearch – lightweight alternative to Elasticsearch written in Go](https://zincsearch.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
