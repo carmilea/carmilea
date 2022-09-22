@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Road to Realistic Full-Body Deepfakes](https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/)
+- [Wasp &lpar;YC W21&rpar; is hiring eng to work on DSL for making web apps &lpar;compiler, webdev&rpar;](https://news.ycombinator.com/item?id=32938880)
 - [Google loses EU appeal and is fined a record $4B](https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling)
 - [The Next Silicon Valley Will Be in the US Heartland](https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/)
 - [First new Jakarta EE &lpar;Java EE&rpar; release in years; Jakarta EE 10 released](https://jakarta.ee/news/jakarta-ee-10-released/)
-- [Censorship by big tech at the behest of the U.S. government](https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime)
-- [ZincSearch – lightweight alternative to Elasticsearch written in Go](https://zincsearch.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
