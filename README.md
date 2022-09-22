@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
+- [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar)
+- [TimescaleDB 2.7 vs. PostgreSQL 14](https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/)
 - [Gender and Age Differences in Love Styles and Attitudes](https://www.dimensional.me/blog/gender-differences-in-love-attitudes-and-expression)
 - [Show HN: I made an open-source Bitly alternative](https://dub.sh/)
-- [American Data Privacy and Protection Act](https://www.congress.gov/bill/117th-congress/house-bill/8152/text)
-- [The road to realistic full-body deepfakes](https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/)
-- [Wasp &lpar;YC W21&rpar; is hiring eng to work on DSL for making web apps &lpar;compiler, webdev&rpar;](https://news.ycombinator.com/item?id=32938880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
