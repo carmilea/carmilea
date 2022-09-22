@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1.1B Taxi Rides in ClickHouse on DoubleCloud](https://tech.marksblogg.com/billion-taxi-rides-doublecloud-clickhouse.html)
+- [9m Australians affected by Optus data breach](https://www.optus.com.au/about/media-centre/media-releases/2022/09/optus-notifies-customers-of-cyberattack)
 - [The Deceiving Stretch of Water with 100% Mortality Rate](https://the-yorkshireman.com/the-strid/)
 - [Using a Canon EOS camera as a webcam in Debian](https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot)
 - [Olive.c: a simple graphics library that does not have any dependencies](https://tsoding.org/olive.c/)
-- [The IT Crowd US Pilot](https://archive.org/details/the-it-crowd-us-pilot)
-- [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
 <!-- BLOG-POST-LIST:END -->
 
 ---
