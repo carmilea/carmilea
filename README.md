@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal closes account of UK&#39;s Free Speech Union without explanation](https://lauradodsworth.substack.com/p/paypal-censors-free-speech-union)
+- [Why adults still dream about school](https://www.theatlantic.com/family/archive/2022/09/why-school-haunts-our-dreams-long-after-graduation/671506/)
 - [New Story &lpar;YC S15&rpar; Is Hiring a Controller](https://newstorycharity.org/careers/)
+- [TLDR explains what a piece of code does](https://twitter.com/marcelpociot/status/1572690548074348549)
 - [Luxury Media](https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media)
-- [&#39;Soleus Pushup&#39; Fuels Metabolism for Hours While Sitting](https://stories.uh.edu/2022-soleus-pushup/index.html)
-- [Japan will allow visa-free, individual tourism from Oct. 11](https://twitter.com/japantimes/status/1572962383252934656)
-- [Dilemmas in a General Theory of Planning &lpar;1973&rpar; [pdf]](https://hci.stanford.edu/dschool/resources/readings/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
