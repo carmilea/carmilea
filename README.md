@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If the Moon Were Only 1 Pixel - real scale of our Solar System](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - [Show HN: Rocketry – Modern scheduler to power your Python projects](https://github.com/Miksus/rocketry)
 - [Ask HN: Which books you have read till now that were worth investing time in?](https://news.ycombinator.com/item?id=32935412)
 - [So You Want to Compete with Steam](https://www.fortressofdoors.com/so-you-want-to-compete-with-steam/)
 - [9m Australians affected by Optus data breach](https://www.optus.com.au/about/media-centre/media-releases/2022/09/optus-notifies-customers-of-cyberattack)
-- [Real-time sync for apps even without the internet](https://www.ditto.live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
