@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reason Java Is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
+- [Tell HN: Reddit shadowban account upon creation](https://news.ycombinator.com/item?id=32942635)
+- [Extending supabase with your own back end – its supa easy](https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/)
+- [Nvidia launches first SaaS Offering](https://nvidianews.nvidia.com/news/nvidia-launches-omniverse-cloud-services-for-building-and-operating-industrial-metaverse-applications)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
-- [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar)
-- [TimescaleDB 2.7 vs. PostgreSQL 14](https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/)
-- [Gender and Age Differences in Love Styles and Attitudes](https://www.dimensional.me/blog/gender-differences-in-love-attitudes-and-expression)
-- [Show HN: I made an open-source Bitly alternative](https://dub.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
