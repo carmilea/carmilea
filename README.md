@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Reason Java Is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
-- [Tell HN: Reddit shadowban account upon creation](https://news.ycombinator.com/item?id=32942635)
 - [Extending supabase with your own back end – its supa easy](https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/)
-- [Nvidia launches first SaaS Offering](https://nvidianews.nvidia.com/news/nvidia-launches-omniverse-cloud-services-for-building-and-operating-industrial-metaverse-applications)
+- [AlphaFold developers win US$3M Breakthrough Prize](https://www.nature.com/articles/d41586-022-02999-9)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
+- [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
