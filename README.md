@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
+- [“The image in this post displays its own MD5 hash.”](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
+- [Ask HN: I love to be alone. But this loneliness is killing me](https://news.ycombinator.com/item?id=32956548)
 - [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
 - [MD5 Collision with CRC32 Preimage](https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae)
-- [&#39;Securing Open Source Software Act&#39; Introduced to US Senate](https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_)
-- [Shasta: Adobe&#39;s AI audio recording and editing](https://pages.adobe.com/shasta/)
-- [Mozilla claims Apple, Google and Microsoft force users to use default browsers](https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
