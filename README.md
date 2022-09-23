@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whistleblower: Military Is Purchasing Internet Data](https://gizmodo.com/ncis-whistleblower-military-data-broker-cymru-wyden-1849564984)
+- [Extending org-mode to handle YouTube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
 - [US installs record solar capacity as prices keep falling](https://arstechnica.com/science/2022/09/us-installs-record-solar-capacity-as-prices-keep-falling/)
 - [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
-- [On Adobe Acquiring Figma](https://build.typogram.co/p/on-adobe-acquiring-figma)
-- [The sum of all knowledge and the sorry state of the web](https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/)
-- [The Disaster of Superstition in Nutrition](https://optimisingnutrition.com/belief-based-nutrition/)
+- [On Adobe acquiring Figma](https://build.typogram.co/p/on-adobe-acquiring-figma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
