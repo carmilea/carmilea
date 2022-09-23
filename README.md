@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GCC Rust Monthly Report #20 August 2022](https://thephilbert.io/2022/09/22/gcc-rust-monthly-report-20-august-2022/)
 - [US installs record solar capacity as prices keep falling](https://arstechnica.com/science/2022/09/us-installs-record-solar-capacity-as-prices-keep-falling/)
 - [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
-- [From Ex-Adobe Employee: On Adobe Acquiring Figma](https://build.typogram.co/p/on-adobe-acquiring-figma)
+- [On Adobe Acquiring Figma](https://build.typogram.co/p/on-adobe-acquiring-figma)
 - [The sum of all knowledge and the sorry state of the web](https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/)
+- [The Disaster of Superstition in Nutrition](https://optimisingnutrition.com/belief-based-nutrition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
