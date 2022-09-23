@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
-- [“The image in this post displays its own MD5 hash.”](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
-- [Ask HN: I love to be alone. But this loneliness is killing me](https://news.ycombinator.com/item?id=32956548)
+- [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
+- [At 4.4 miles, Wyoming team sets new rifle shot world record](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
 - [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
-- [MD5 Collision with CRC32 Preimage](https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae)
+- [&#39;Securing Open Source Software Act&#39; introduced to US Senate](https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_)
 <!-- BLOG-POST-LIST:END -->
 
 ---
