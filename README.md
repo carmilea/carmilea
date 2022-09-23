@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whistleblower: Military Is Purchasing Internet Data](https://gizmodo.com/ncis-whistleblower-military-data-broker-cymru-wyden-1849564984)
-- [Extending org-mode to handle YouTube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
-- [US installs record solar capacity as prices keep falling](https://arstechnica.com/science/2022/09/us-installs-record-solar-capacity-as-prices-keep-falling/)
-- [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
-- [On Adobe acquiring Figma](https://build.typogram.co/p/on-adobe-acquiring-figma)
+- [Ask HN: Ads triggered by WhatsApp “end to end encrypted” messages](https://news.ycombinator.com/item?id=32950204)
+- [Manifest V3, webRequest, and ad blockers](https://vivaldi.com/blog/manifest-v3-webrequest-and-ad-blockers/)
+- [The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps](https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/)
+- [Are You Ready for the Internet? &lpar;1994&rpar; [video]](https://www.youtube.com/watch?v=XpZ5STahhPE)
+- [Podcasting is just radio now](https://www.vulture.com/2022/09/podcasting-is-just-radio-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
