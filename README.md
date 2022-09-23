@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OCaml Exercises](https://ocaml.org/problems)
+- [Ask HN: Tips to relearn how to care about my job?](https://news.ycombinator.com/item?id=32954452)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Full Stack and Back End Engineers](https://www.usemotion.com/jobs)
+- [Wails as Electron in Go](https://wails.io/blog/wails-v2-released/)
 - [Software I’m Thankful For](https://crawshaw.io/blog/thankful-for-technology)
-- [“Durable Computronics”](https://github.com/otherjoel/durable-computronics)
-- [LXC and LXD: a different container story](https://lwn.net/Articles/907613/)
-- [Be Critical or Be Corrupted](https://www.cenizal.com/be-critical-or-be-corrupted/)
-- [Charging cars at home at night is not the way to go: study](https://news.stanford.edu/press/view/45245)
 <!-- BLOG-POST-LIST:END -->
 
 ---
