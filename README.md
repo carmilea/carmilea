@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Ads triggered by WhatsApp “end to end encrypted” messages](https://news.ycombinator.com/item?id=32950204)
-- [Manifest V3, webRequest, and ad blockers](https://vivaldi.com/blog/manifest-v3-webrequest-and-ad-blockers/)
-- [The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps](https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/)
-- [Are You Ready for the Internet? &lpar;1994&rpar; [video]](https://www.youtube.com/watch?v=XpZ5STahhPE)
-- [Podcasting is just radio now](https://www.vulture.com/2022/09/podcasting-is-just-radio-now.html)
+- [The Road to 128 bit Linux](https://lwn.net/SubscriberLink/908026/6284e31d9060a6ec/)
+- [Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”](https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often)
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Show HN: Vim Tutorial as RPG](https://vim-adventures.com/)
+- [Good Coffee Is Now Bad](https://meltedcheeseonwhitefish.substack.com/p/good-coffee-is-now-bad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
