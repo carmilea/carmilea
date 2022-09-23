@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The South Asian Polycrisis](https://adamtooze.substack.com/p/chartbook-153-the-south-asian-polycrisis)
+- [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
 - [Uify: One Workspace](https://uify.io/)
 - [Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di](https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/)
 - [A pair of Rust kernel modules](https://lwn.net/Articles/907685/)
-- [We Need New Motherboards Before GPUs Collapse Under Their Own Gravity](https://erikmcclure.com/blog/we-need-new-motherboards/)
-- [Rust 2024 the Year of Everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
