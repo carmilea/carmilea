@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Should CTO own company shares?](https://news.ycombinator.com/item?id=32952280)
+- [FreeBSD Cope with WiFi Fuckup](https://vermaden.wordpress.com/2022/09/14/freebsd-cope-with-wifi-fuckup/)
 - [Google CEO tells employees not to ‘equate fun with money’ in heated meeting](https://www.cnbc.com/2022/09/23/google-ceo-pichai-fields-questions-on-cost-cuts-at-all-hands-meeting-.html)
-- [Fly.io makes infrastructure easy &lpar;for us developers&rpar;](https://blog.chiselstrike.com/fly-io-makes-infrastructure-easy-for-us-developers-63081d4d0476)
-- [Association Between Maternal Fluoride Exposure During Pregnancy and IQ Scores](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2748634)
-- [Show HN: Morgan – PyPI Mirror for Restricted/Offline Environments](https://github.com/ido50/morgan)
-- [The Road to 128 bit Linux](https://lwn.net/SubscriberLink/908026/6284e31d9060a6ec/)
+- [Show HN: TwitterToNitter. A bookmarklet that makes reading on Twitter easier](https://github.com/no-gravity/TwitterToNitter)
+- [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
