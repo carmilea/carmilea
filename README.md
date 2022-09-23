@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Association Between Maternal Fluoride Exposure During Pregnancy and IQ Scores](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2748634)
+- [Show HN: Morgan – PyPI Mirror for Restricted/Offline Environments](https://github.com/ido50/morgan)
 - [The Road to 128 bit Linux](https://lwn.net/SubscriberLink/908026/6284e31d9060a6ec/)
 - [Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”](https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Show HN: Vim Tutorial as RPG](https://vim-adventures.com/)
-- [Good Coffee Is Now Bad](https://meltedcheeseonwhitefish.substack.com/p/good-coffee-is-now-bad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
