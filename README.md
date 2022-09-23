@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The rush to mine lithium could dry up the high Andes](https://e360.yale.edu/features/lithium-mining-water-andes-argentina)
-- [Pcmcia Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
-- [Why adults still dream about school](https://www.theatlantic.com/family/archive/2022/09/why-school-haunts-our-dreams-long-after-graduation/671506/)
-- [New Story &lpar;YC S15&rpar; Is Hiring a Controller](https://newstorycharity.org/careers/)
-- [TLDR explains what a piece of code does](https://twitter.com/marcelpociot/status/1572690548074348549)
+- [Uify: One Workspace](https://uify.io/)
+- [Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di](https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/)
+- [A pair of Rust kernel modules](https://lwn.net/Articles/907685/)
+- [We Need New Motherboards Before GPUs Collapse Under Their Own Gravity](https://erikmcclure.com/blog/we-need-new-motherboards/)
+- [Rust 2024 the Year of Everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
