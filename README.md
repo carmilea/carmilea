@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should CTO own company shares?](https://news.ycombinator.com/item?id=32952280)
-- [FreeBSD Cope with WiFi Fuckup](https://vermaden.wordpress.com/2022/09/14/freebsd-cope-with-wifi-fuckup/)
-- [Google CEO tells employees not to ‘equate fun with money’ in heated meeting](https://www.cnbc.com/2022/09/23/google-ceo-pichai-fields-questions-on-cost-cuts-at-all-hands-meeting-.html)
-- [Show HN: TwitterToNitter. A bookmarklet that makes reading on Twitter easier](https://github.com/no-gravity/TwitterToNitter)
-- [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
+- [Software I’m Thankful For](https://crawshaw.io/blog/thankful-for-technology)
+- [“Durable Computronics”](https://github.com/otherjoel/durable-computronics)
+- [LXC and LXD: a different container story](https://lwn.net/Articles/907613/)
+- [Be Critical or Be Corrupted](https://www.cenizal.com/be-critical-or-be-corrupted/)
+- [Charging cars at home at night is not the way to go: study](https://news.stanford.edu/press/view/45245)
 <!-- BLOG-POST-LIST:END -->
 
 ---
