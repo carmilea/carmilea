@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An anonymous person donated 299 ETH from Tornado Cash to Redox OS](https://etherscan.io/tx/0x21f4b538ea53df8685eed62a8036562c48dee0a64bfee77b3299988bec84f134)
 - [OCaml Exercises](https://ocaml.org/problems)
 - [Ask HN: Tips to relearn how to care about my job?](https://news.ycombinator.com/item?id=32954452)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Full Stack and Back End Engineers](https://www.usemotion.com/jobs)
 - [Wails as Electron in Go](https://wails.io/blog/wails-v2-released/)
-- [Software I’m Thankful For](https://crawshaw.io/blog/thankful-for-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
