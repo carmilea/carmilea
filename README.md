@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Disaster of Superstition in Nutrition](https://optimisingnutrition.com/belief-based-nutrition/)
 - [The South Asian Polycrisis](https://adamtooze.substack.com/p/chartbook-153-the-south-asian-polycrisis)
 - [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
+- [Passkeys](https://www.imperialviolet.org/2022/09/22/passkeys.html)
 - [Uify: One Workspace](https://uify.io/)
-- [Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di](https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/)
-- [A pair of Rust kernel modules](https://lwn.net/Articles/907685/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
