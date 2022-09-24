@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The latest CDC paper on vaccine myocarditis](https://anishkokamd.substack.com/p/the-latest-cdc-paper-on-vaccine-myocarditis)
+- [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
 - [FBI misled judge who signed warrant for seizure of $86M in cash](https://www.latimes.com/california/story/2022-09-23/fbi-beverly-hills-safe-deposit-box-raid-forfeiture-judge)
 - [Audio Optocouplers](https://learnabout-electronics.org/Semiconductors/opto_53.php)
 - [Firezone is hiring a founding engineer to build an open-source corporate VPN](https://www.ycombinator.com/companies/firezone/jobs)
-- [Hertz Is Still Having Rental Car Customers Wrongfully Arrested, Lawsuit Claims](https://www.thedrive.com/news/hertz-is-still-having-rental-car-customers-wrongfully-arrested-lawsuit-claims)
+- [Hertz is still having rental car customers wrongfully arrested, lawsuit claims](https://www.thedrive.com/news/hertz-is-still-having-rental-car-customers-wrongfully-arrested-lawsuit-claims)
 <!-- BLOG-POST-LIST:END -->
 
 ---
