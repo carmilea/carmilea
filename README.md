@@ -54,7 +54,7 @@
 - [I tried replacing Google with TikTok, and it worked better than I thought](https://www.theverge.com/23365101/tiktok-search-google-replacement)
 - [The End of My Crypto Explorations](https://www.nicolasbustamante.com/p/the-end-of-my-crypto-explorations)
 - [Cruise driverless vehicles involved in 3 separate traffic incidents in SF](https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/)
-- [Aging Programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
+- [Aging programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
 - [Ask HN: How to Master Verbal Communication?](https://news.ycombinator.com/item?id=32961885)
 <!-- BLOG-POST-LIST:END -->
 
