@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World’s Best Airlines Were Just Announced and Not One US Carrier Made the List](https://www.johnnyjet.com/the-worlds-best-airlines-were-just-announced-and-not-a-single-us-carrier-made-the-list/)
+- [iPhones and action discoverability, or “How the hell was I supposed to know?”](https://alexanderell.is/posts/iphone-discoverability/)
+- [Gadgetbridge is an Android application for your smart watch and other devices](https://gadgetbridge.org/)
+- [Ask HN: Books on designing disk-optimized data structures?](https://news.ycombinator.com/item?id=32965075)
 - [SafeBeat Rx &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position)
 - [Free Book: Linux IP Stacks Commentary Annotates TCP/IP Code](https://www.satchell.net/ipstacks/)
-- [Software engineering changed my life](https://technicallychallenged.substack.com/p/software-engineering-changed-my-life)
-- [Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet](https://github.com/roapi/roapi/blob/main/columnq-cli/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
