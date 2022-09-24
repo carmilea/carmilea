@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Protests spur Internet disruptions in Iran](https://blog.cloudflare.com/protests-internet-disruption-ir/)
 - [Ashby hiring engineers in Europe who want ownership &lpar;e.g. product decisions&rpar;](https://www.ashbyhq.com/careers?utm_source=hn)
 - [Ask HN: Companies of one, how do you ensure business continuity?](https://news.ycombinator.com/item?id=32960255)
+- [Windows Will Die: 90 Minutes to Do 5 Minutes of Work](https://gavinhoward.com/2022/09/windows-will-die-90-minutes-to-do-5-minutes-of-work/)
 - [3dfx Voodoo 5 6000 recreated via reverse engineering &lpar;2021&rpar;](https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/)
-- [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=32960033)
-- [The Homemade Heat Pump Manifesto &lpar;2009&rpar;](https://ecorenovator.org/forum/showthread.php?p=2631#post2631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
