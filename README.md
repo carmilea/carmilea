@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet](https://github.com/roapi/roapi/blob/main/columnq-cli/README.md)
+- [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://github.com/vulhub/vulhub)
+- [Whois: Fragile, Unparseable, Obsolete](https://www.netmeister.org/blog/whois.html)
 - [Fitbit users will have to sign into Google from 2023](https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/)
-- [Ask HN: What are you doing this weekend?](https://news.ycombinator.com/item?id=32963163)
-- [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
-- [Show HN: Jot: Rapid note management for the terminal, inspired by Obsidian](https://github.com/araekiel/jot)
-- [Artist Matches Influencer Photos with Surveillance Footage](https://www.smithsonianmag.com/smart-news/the-followers-influencer-photos-surveillance-footage-180980825/)
+- [Want cleaner code? Use the rule of six](https://davidamos.dev/the-rule-of-six/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
