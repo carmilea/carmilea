@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeBeat Rx &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position)
+- [TikTok’s Ugly ‘NPC in Real Life’ Trend](https://kotaku.com/tiktok-npc-in-real-life-trend-twitter-gen-z-video-games-1849575169)
+- [Free Book: Linux IP Stacks Commentary Annotates TCP/IP Code](https://www.satchell.net/ipstacks/)
+- [Software engineering changed my life](https://technicallychallenged.substack.com/p/software-engineering-changed-my-life)
 - [Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet](https://github.com/roapi/roapi/blob/main/columnq-cli/README.md)
-- [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://github.com/vulhub/vulhub)
-- [Whois: Fragile, Unparseable, Obsolete](https://www.netmeister.org/blog/whois.html)
-- [Fitbit users will have to sign into Google from 2023](https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/)
-- [Want cleaner code? Use the rule of six](https://davidamos.dev/the-rule-of-six/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
