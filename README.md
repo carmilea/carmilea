@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Strategies to land remote US job while living in living in EU](https://news.ycombinator.com/item?id=32961061)
+- [Aging Programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
+- [Ask HN: How to Master Verbal Communication?](https://news.ycombinator.com/item?id=32961885)
+- [‘I’d rather eat an actual burger’: plant-based meat’s sizzle fizzled in the US](https://www.theguardian.com/food/2022/sep/24/plant-based-meat-failed-impossible-burger-mcdonalds-beyond-meat)
+- [IBM AIX for IA64 &lpar;Itanium&rpar; a.k.a. Project Monterey Runs Again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
 - [Mozilla reaffirms that Firefox will continue to support current content blockers](https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/)
-- [Ashby &lpar;YC W19&rpar; is hiring engineers in Europe](https://www.ashbyhq.com/careers?utm_source=hn)
-- [3dfx Voodoo 5 6000 recreated via reverse engineering &lpar;2021&rpar;](https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/)
-- [Homemade Heat Pump Manifesto &lpar;2009&rpar;](https://ecorenovator.org/forum/showthread.php?p=2631#post2631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
