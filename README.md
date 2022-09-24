@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=32960033)
 - [The Homemade Heat Pump Manifesto &lpar;2009&rpar;](https://ecorenovator.org/forum/showthread.php?p=2631#post2631)
+- [Real-time internal combustion engine simulation](https://www.engine-sim.parts/)
 - [Get in Zoomer, We&#39;re Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
-- [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
-- [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
-- [The small town that saved its only grocery store – by buying it](https://thehustle.co/the-small-town-that-saved-its-only-grocery-store-by-buying-it/)
+- [America Has Lost Its Oil Buffer](https://www.wsj.com/articles/america-has-lost-its-oil-buffer-11663821015)
 <!-- BLOG-POST-LIST:END -->
 
 ---
