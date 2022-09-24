@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I tried replacing Google with TikTok, and it worked better than I thought](https://www.theverge.com/23365101/tiktok-search-google-replacement)
+- [The End of My Crypto Explorations](https://www.nicolasbustamante.com/p/the-end-of-my-crypto-explorations)
+- [Cruise driverless vehicles involved in 3 separate traffic incidents in SF](https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/)
 - [Aging Programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
 - [Ask HN: How to Master Verbal Communication?](https://news.ycombinator.com/item?id=32961885)
-- [‘I’d rather eat an actual burger’: plant-based meat’s sizzle fizzled in the US](https://www.theguardian.com/food/2022/sep/24/plant-based-meat-failed-impossible-burger-mcdonalds-beyond-meat)
-- [IBM AIX for IA64 &lpar;Itanium&rpar; a.k.a. Project Monterey Runs Again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
-- [Mozilla reaffirms that Firefox will continue to support current content blockers](https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
