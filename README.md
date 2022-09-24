@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby hiring engineers in Europe who want ownership &lpar;e.g. product decisions&rpar;](https://www.ashbyhq.com/careers?utm_source=hn)
-- [Ask HN: Companies of one, how do you ensure business continuity?](https://news.ycombinator.com/item?id=32960255)
+- [Ask HN: Strategies to land remote US job while living in living in EU](https://news.ycombinator.com/item?id=32961061)
+- [Mozilla reaffirms that Firefox will continue to support current content blockers](https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/)
+- [Ashby &lpar;YC W19&rpar; is hiring engineers in Europe](https://www.ashbyhq.com/careers?utm_source=hn)
 - [3dfx Voodoo 5 6000 recreated via reverse engineering &lpar;2021&rpar;](https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/)
-- [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=32960033)
 - [Homemade Heat Pump Manifesto &lpar;2009&rpar;](https://ecorenovator.org/forum/showthread.php?p=2631#post2631)
 <!-- BLOG-POST-LIST:END -->
 
