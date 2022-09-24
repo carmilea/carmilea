@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby hiring engineers in Europe who want ownership &lpar;e.g. product decisions&rpar;](https://www.ashbyhq.com/careers?utm_source=hn)
+- [Ask HN: Companies of one, how do you ensure business continuity?](https://news.ycombinator.com/item?id=32960255)
+- [3dfx Voodoo 5 6000 recreated via reverse engineering &lpar;2021&rpar;](https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/)
 - [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=32960033)
 - [The Homemade Heat Pump Manifesto &lpar;2009&rpar;](https://ecorenovator.org/forum/showthread.php?p=2631#post2631)
-- [Real-time internal combustion engine simulation](https://www.engine-sim.parts/)
-- [Get in Zoomer, We&#39;re Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
-- [America Has Lost Its Oil Buffer](https://www.wsj.com/articles/america-has-lost-its-oil-buffer-11663821015)
 <!-- BLOG-POST-LIST:END -->
 
 ---
