@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Audio Optocouplers](https://learnabout-electronics.org/Semiconductors/opto_53.php)
+- [Firezone is hiring a founding engineer to build an open-source corporate VPN](https://www.ycombinator.com/companies/firezone/jobs)
+- [Hertz Is Still Having Rental Car Customers Wrongfully Arrested, Lawsuit Claims](https://www.thedrive.com/news/hertz-is-still-having-rental-car-customers-wrongfully-arrested-lawsuit-claims)
 - [iPhones and action discoverability](https://alexanderell.is/posts/iphone-discoverability/)
 - [Gadgetbridge is an Android application for your smart watch and other devices](https://gadgetbridge.org/)
-- [Ask HN: Books on designing disk-optimized data structures?](https://news.ycombinator.com/item?id=32965075)
-- [SafeBeat Rx &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position)
-- [Free Book: Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
