@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Get in Zoomer, We&#39;re Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
 - [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
 - [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
+- [The small town that saved its only grocery store – by buying it](https://thehustle.co/the-small-town-that-saved-its-only-grocery-store-by-buying-it/)
 - [Optimizing compilers deduplicate strings and arrays](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/)
-- [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
-- [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
