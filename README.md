@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
+- [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
+- [Optimizing compilers deduplicate strings and arrays](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/)
 - [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
 - [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
-- [At 4.4 miles, Wyoming team sets new rifle shot world record](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
-- [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
-- [&#39;Securing Open Source Software Act&#39; introduced to US Senate](https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_)
 <!-- BLOG-POST-LIST:END -->
 
 ---
