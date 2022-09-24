@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried replacing Google with TikTok, and it worked better than I thought](https://www.theverge.com/23365101/tiktok-search-google-replacement)
-- [The End of My Crypto Explorations](https://www.nicolasbustamante.com/p/the-end-of-my-crypto-explorations)
-- [Cruise driverless vehicles involved in 3 separate traffic incidents in SF](https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/)
-- [Aging programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
-- [Ask HN: How to Master Verbal Communication?](https://news.ycombinator.com/item?id=32961885)
+- [Fitbit users will have to sign into Google from 2023](https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/)
+- [Ask HN: What are you doing this weekend?](https://news.ycombinator.com/item?id=32963163)
+- [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
+- [Show HN: Jot: Rapid note management for the terminal, inspired by Obsidian](https://github.com/araekiel/jot)
+- [Artist Matches Influencer Photos with Surveillance Footage](https://www.smithsonianmag.com/smart-news/the-followers-influencer-photos-surveillance-footage-180980825/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
