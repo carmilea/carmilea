@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOS on DOPE](https://github.com/secretGeek/dod)
-- [JPEG XL: libjxl 0.7.0 released](https://github.com/libjxl/libjxl/releases/tag/v0.7.0)
-- [Google: C++20, How Hard Could It Be](https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw)
-- [On the strange joys of mainframe OSes that have survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
-- [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [You don’t understand how bad it could get in Europe this year](https://fortune.com/2022/09/24/europe-energy-crisis-winter-natural-gas-putin/)
+- [In the End, Climate Change Is the Only Story That Matters](https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/)
+- [Users reporting artifacts appearing in old images stored in Google Photos](https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [Ask HN: Do you think many posts don&#39;t get the front page attention they deserve?](https://news.ycombinator.com/item?id=32970436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
