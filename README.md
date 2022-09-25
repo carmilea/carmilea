@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Association between meatless diet and depressive episodes](https://www.sciencedirect.com/science/article/abs/pii/S0165032722010643)
+- [Analysis of Apple Watch running data](https://applewatchrunner.substack.com/p/apple-watch-running-review)
 - [In the End, Climate Change Is the Only Story That Matters](https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/)
 - [Users reporting artifacts appearing in old images stored in Google Photos](https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [Europe is in danger of rolling electricity shortages](https://threadreaderapp.com/thread/1567929340737863680.html)
+- [Self-Control Secrets of the Puritan Masters](https://wyclif.substack.com/p/self-control-secrets-of-the-puritan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
