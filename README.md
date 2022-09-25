@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to survive a lightning strike &lpar;2014&rpar;](https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/)
+- [Learning from Cows: Community Owned WiFi-Mesh](https://branch.climateaction.tech/issues/issue-4/cows/)
+- [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+- [Citing New Evidence, Families Sue Feds, Raytheon, Lockheed over 1996 TWA Crash](https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/)
 - [Pdfgrep – a commandline utility to search text in PDF files](https://pdfgrep.org/)
-- [Opinion: A slow-moving crisis is paralyzing states and cities](https://www.washingtonpost.com/opinions/2022/09/12/worker-shortage-public-sector-crisis/)
-- [Ask HN: Xcode users – how do you make it more usable?](https://news.ycombinator.com/item?id=32971599)
-- [Buckle up, America: The Fed plans to sharply boost unemployment](https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/)
-- [FDA Warning on NyQuil Chicken Alerts Many to Existence of NyQuil Chicken](https://www.nytimes.com/2022/09/21/technology/nyquil-chicken-tiktok-fda.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
