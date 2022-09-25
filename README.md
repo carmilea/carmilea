@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCP, AWS, and Azure ARM-based server performance comparison](https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/)
 - [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
-- [FBI misled judge who signed warrant for seizure of $86M in cash](https://www.latimes.com/california/story/2022-09-23/fbi-beverly-hills-safe-deposit-box-raid-forfeiture-judge)
 - [Audio Optocouplers](https://learnabout-electronics.org/Semiconductors/opto_53.php)
-- [Firezone is hiring a founding engineer to build an open-source corporate VPN](https://www.ycombinator.com/companies/firezone/jobs)
-- [Hertz is still having rental car customers wrongfully arrested, lawsuit claims](https://www.thedrive.com/news/hertz-is-still-having-rental-car-customers-wrongfully-arrested-lawsuit-claims)
+- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer to build an open-source VPN](https://www.ycombinator.com/companies/firezone/jobs)
+- [Fixed-Point HTML](https://habilis.net/fixed-point-html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
