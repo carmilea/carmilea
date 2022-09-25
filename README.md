@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Target Venus not Mars for first crewed mission to another planet, experts say](https://www.theguardian.com/science/2022/sep/25/target-venus-not-mars-for-first-crewed-mission-to-another-planet-experts-say)
+- [Germany Secures Just One Tanker of Gas During Scholz’s Gulf Tour](https://www.bloomberg.com/news/articles/2022-09-25/germany-nabs-uae-gas-deal-as-energy-squeeze-tightens)
 - [Looking for Email Service Recommendations](https://news.ycombinator.com/item?id=32973303)
 - [3x new books added to the Pirate Library Mirror &lpar;+24TB, 3.8M books&rpar;](http://annas-blog.org/blog-3x-new-books.html)
-- [How to survive a lightning strike &lpar;2014&rpar;](https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/)
-- [Learning from Cows: Community Owned WiFi-Mesh](https://branch.climateaction.tech/issues/issue-4/cows/)
-- [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+- [Algos in Plain English – Efficient Division Without Mult, Div, or Mod Operators](https://www.joeantonakakis.com/posts/divide-without-division-operator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
