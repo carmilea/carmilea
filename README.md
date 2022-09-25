@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Book of Swarm [pdf]](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
+- [Mcmaster.com is the best e-commerce site I&#39;ve ever used](https://www.bedelstein.com/post/mcmaster-carr)
+- [Ask HN: When did you stop using printers and why?](https://news.ycombinator.com/item?id=32976883)
+- [The Book of Swarm &lpar;2020&rpar; [pdf]](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
 - [The Curious Design of Skateboard Trucks](https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks)
 - [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129)
-- [Starlink now over 1M user terminals manufactured](https://twitter.com/elonmusk/status/1574112663864430593)
-- [Train Travel in the UK: A Foreigner’s Perspective](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
