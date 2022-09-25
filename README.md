@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
+- [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+- [Catalytic Process with Lignin Could Enable Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
 - [The Harry Partch Instrumentarium &lpar;2012&rpar;](https://www.youtube.com/watch?v=9UZjhTlGT0o)
 - [This page is a truly naked, brutalist HTML quine &lpar;2019&rpar;](https://secretgeek.github.io/html_wysiwyg/html.html)
-- [Ask HN: How to do the bare minimum when not valued at work?](https://news.ycombinator.com/item?id=32968577)
-- [I Fooled Millions into Thinking Chocolate Helps Weight Loss &lpar;2015&rpar;](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
