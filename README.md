@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP, AWS, and Azure ARM-based server performance comparison](https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/)
-- [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
-- [Audio Optocouplers](https://learnabout-electronics.org/Semiconductors/opto_53.php)
-- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer to build an open-source VPN](https://www.ycombinator.com/companies/firezone/jobs)
-- [Fixed-Point HTML](https://habilis.net/fixed-point-html/)
+- [Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
+- [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html)
+- [I Fooled Millions into Thinking Chocolate Helps Weight Loss](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
+- [New Insignia for Air Domain Intelligence Has a UFO](https://www.airdomainintelligence.mil/)
+- [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
