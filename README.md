@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Book of Swarm [pdf]](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
 - [The Curious Design of Skateboard Trucks](https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks)
 - [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129)
 - [Starlink now over 1M user terminals manufactured](https://twitter.com/elonmusk/status/1574112663864430593)
-- [Tradition is Smarter &lpar;2018&rpar;](https://scholars-stage.org/tradition-is-smarter-than-you-are/)
 - [Train Travel in the UK: A Foreigner’s Perspective](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
