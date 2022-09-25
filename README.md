@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129)
+- [Starlink now over 1M user terminals manufactured](https://twitter.com/elonmusk/status/1574112663864430593)
+- [Tradition is Smarter &lpar;2018&rpar;](https://scholars-stage.org/tradition-is-smarter-than-you-are/)
+- [Train Travel in the UK: A Foreigner’s Perspective](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/)
 - [Word Writer 6 Commodore 64 Source Code](https://github.com/jefflomax/word-writer-6-commodore-64)
-- [Target Venus not Mars for first crewed mission to another planet, experts say](https://www.theguardian.com/science/2022/sep/25/target-venus-not-mars-for-first-crewed-mission-to-another-planet-experts-say)
-- [3x new books added to the Pirate Library Mirror](http://annas-blog.org/blog-3x-new-books.html)
-- [Algos in Plain English – Efficient Division Without Mult, Div, or Mod Operators](https://www.joeantonakakis.com/posts/divide-without-division-operator/)
-- [How to survive a lightning strike &lpar;2014&rpar;](https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
