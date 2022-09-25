@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the strange joys of mainframe OSes and legacy tech that has survived into mo](https://liam-on-linux.dreamwidth.org/86995.html)
+- [DOS on DOPE](https://github.com/secretGeek/dod)
+- [JPEG XL: libjxl 0.7.0 released](https://github.com/libjxl/libjxl/releases/tag/v0.7.0)
+- [Google: C++20, How Hard Could It Be](https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw)
+- [On the strange joys of mainframe OSes that have survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- [The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
-- [This X Does Not Exist](https://thisxdoesnotexist.com/)
-- [Catalytic Process with Lignin Could Enable Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
