@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the strange joys of mainframe OSes and legacy tech that has survived into mo](https://liam-on-linux.dreamwidth.org/86995.html)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 - [The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+- [This X Does Not Exist](https://thisxdoesnotexist.com/)
 - [Catalytic Process with Lignin Could Enable Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
-- [The Harry Partch Instrumentarium &lpar;2012&rpar;](https://www.youtube.com/watch?v=9UZjhTlGT0o)
-- [This page is a truly naked, brutalist HTML quine &lpar;2019&rpar;](https://secretgeek.github.io/html_wysiwyg/html.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
