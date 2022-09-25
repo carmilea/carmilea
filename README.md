@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysis of Apple Watch running data](https://applewatchrunner.substack.com/p/apple-watch-running-review)
-- [In the End, Climate Change Is the Only Story That Matters](https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/)
-- [Users reporting artifacts appearing in old images stored in Google Photos](https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [Self-Control Secrets of the Puritan Masters](https://wyclif.substack.com/p/self-control-secrets-of-the-puritan)
+- [Pdfgrep – a commandline utility to search text in PDF files](https://pdfgrep.org/)
+- [Opinion: A slow-moving crisis is paralyzing states and cities](https://www.washingtonpost.com/opinions/2022/09/12/worker-shortage-public-sector-crisis/)
+- [Ask HN: Xcode users – how do you make it more usable?](https://news.ycombinator.com/item?id=32971599)
+- [Buckle up, America: The Fed plans to sharply boost unemployment](https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/)
+- [FDA Warning on NyQuil Chicken Alerts Many to Existence of NyQuil Chicken](https://www.nytimes.com/2022/09/21/technology/nyquil-chicken-tiktok-fda.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
