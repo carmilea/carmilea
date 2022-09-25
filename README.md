@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
-- [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html)
-- [I Fooled Millions into Thinking Chocolate Helps Weight Loss](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
-- [New Insignia for Air Domain Intelligence Has a UFO](https://www.airdomainintelligence.mil/)
-- [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
+- [The Harry Partch Instrumentarium &lpar;2012&rpar;](https://www.youtube.com/watch?v=9UZjhTlGT0o)
+- [This page is a truly naked, brutalist HTML quine &lpar;2019&rpar;](https://secretgeek.github.io/html_wysiwyg/html.html)
+- [Ask HN: How to do the bare minimum when not valued at work?](https://news.ycombinator.com/item?id=32968577)
+- [I Fooled Millions into Thinking Chocolate Helps Weight Loss &lpar;2015&rpar;](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
