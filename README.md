@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple will permanently disable your account in the App Store for using gift card](https://twitter.com/talydeojo/status/1574459930543001601)
-- [How long do software engineers stay at a job?](https://developerpitstop.com/how-long-do-software-engineers-stay-at-a-job/)
+- [Cross Region Unikernels at the Edge](https://nanovms.com/dev/tutorials/cross-region-unikernels-edge)
+- [Contract to Hire Discount](https://blog.andrewmcwatters.org/index.php/2022/09/26/contract-to-hire-discount/)
+- [Why we moved from AWS RDS to Postgres in Kubernetes](https://nhost.io/blog/individual-postgres-instances)
 - [How to 3D-Print One of the Strongest Stainless Steels](https://www.nist.gov/news-events/news/2022/09/researchers-uncover-how-3d-print-one-strongest-stainless-steels)
-- [Fast-stable-diffusion colabs, +25% speed increase and memory efficient](https://github.com/TheLastBen/fast-stable-diffusion)
-- [Why Browsers Are Essential to the Internet and How OS Are Holding Them Back](https://research.mozilla.org/browser-competition/)
+- [LinkedIn ran social experiments on 20M users over 5 years](https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
