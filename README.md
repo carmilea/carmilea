@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How influential can physical appearance be in professional environments?](https://news.ycombinator.com/item?id=32980987)
+- [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 - [Show HN: Open-Source Intercom with Help Center](https://github.com/chatwoot/chatwoot)
 - [Traffic cameras expose your location through parking apps](https://notmyplate.com/whitepaper/)
 - [macOS Free and Open-Source Security Tools by Objective-See](https://objective-see.org/tools.html)
-- [Adversarial collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
-- [JMAP: It’s Like IMAP but Not Really &lpar;2019&rpar;](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
