@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Traffic cameras expose your location through parking apps](https://notmyplate.com/whitepaper/)
 - [macOS Free and Open-Source Security Tools by Objective-See](https://objective-see.org/tools.html)
-- [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
-- [Sterling hits record low against the dollar, as Asia-Pac currencies also weaken](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
-- [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
+- [Adversarial collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
 - [JMAP: It’s Like IMAP but Not Really &lpar;2019&rpar;](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
+- [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
