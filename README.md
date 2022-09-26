@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Holonforth](http://holonforth.com)
+- [Does Someone Know My Name?](https://blogs.loc.gov/now-see-hear/2022/09/does-someone-know-my-name-mystery-photos/)
+- [Have I Been Sqautted – free DNS typosquatting platform](https://haveibeensquatted.com/)
 - [Launch HN: Prequel &lpar;YC W21&rpar; – Sync data to your customer’s data warehouse](https://news.ycombinator.com/item?id=32984103)
-- [Ask HN: Why do people write comments?](https://news.ycombinator.com/item?id=32983581)
-- [Zen4&#39;s AVX512 Teardown](https://www.mersenneforum.org/showthread.php?p=614191)
-- [Nvidia in the Valley](https://stratechery.com/2022/nvidia-in-the-valley/)
-- [Battery-free wireless imaging of underwater environments](https://www.nature.com/articles/s41467-022-33223-x)
+- [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
