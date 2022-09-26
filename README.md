@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mcmaster.com is the best e-commerce site I&#39;ve ever used](https://www.bedelstein.com/post/mcmaster-carr)
-- [Ask HN: When did you stop using printers and why?](https://news.ycombinator.com/item?id=32976883)
-- [The Book of Swarm &lpar;2020&rpar; [pdf]](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
-- [The Curious Design of Skateboard Trucks](https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks)
-- [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129)
+- [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
+- [People Don&#39;t Change Their Minds &lpar;Daniel Kahneman&rpar;](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
+- [The Unmagicking of Disney](https://marionteniade.substack.com/p/the-unmagicking-of-disney)
+- [JMAP: It’s Like IMAP but Not Really](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
+- [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
