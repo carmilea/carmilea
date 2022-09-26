@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biogen agrees to pay $900M to settle drug kickbacks allegations](https://www.justice.gov/usao-ma/pr/biogen-inc-agrees-pay-900-million-settle-false-claims-act-allegations-related-improper)
 - [Enhance: a web standards-based HTML framework](https://enhance.dev/docs/)
-- [The Pathologies of the Attention Economy](https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention)
+- [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
+- [Pathologies of the attention economy](https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention)
 - [Dear Chess World](https://twitter.com/MagnusCarlsen/status/1574482694406565888)
-- [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
-- [Explained from scratch: private information retrieval and homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
