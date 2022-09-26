@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast-stable-diffusion colabs, +25% speed increase and memory efficient](https://github.com/TheLastBen/fast-stable-diffusion)
 - [Holonforth](http://holonforth.com)
 - [Does Someone Know My Name?](https://blogs.loc.gov/now-see-hear/2022/09/does-someone-know-my-name-mystery-photos/)
-- [Have I Been Sqautted – free DNS typosquatting platform](https://haveibeensquatted.com/)
+- [Have I Been Squatted?](https://haveibeensquatted.com/)
 - [Launch HN: Prequel &lpar;YC W21&rpar; – Sync data to your customer’s data warehouse](https://news.ycombinator.com/item?id=32984103)
-- [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
