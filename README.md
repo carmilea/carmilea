@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-Code Contributions to Open Source](https://navendu.me/posts/non-code-contributions-to-open-source/)
+- [Ask HN: Apple dropping support for iPhone SE. What to do now?](https://news.ycombinator.com/item?id=32981245)
 - [Ask HN: How influential can physical appearance be in professional environments?](https://news.ycombinator.com/item?id=32980987)
 - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 - [Show HN: Open-Source Intercom with Help Center](https://github.com/chatwoot/chatwoot)
-- [Traffic cameras expose your location through parking apps](https://notmyplate.com/whitepaper/)
-- [macOS Free and Open-Source Security Tools by Objective-See](https://objective-see.org/tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
