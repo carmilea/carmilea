@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple will permanently disable your account in the App Store for using gift card](https://twitter.com/talydeojo/status/1574459930543001601)
+- [How long do software engineers stay at a job?](https://developerpitstop.com/how-long-do-software-engineers-stay-at-a-job/)
+- [How to 3D-Print One of the Strongest Stainless Steels](https://www.nist.gov/news-events/news/2022/09/researchers-uncover-how-3d-print-one-strongest-stainless-steels)
 - [Fast-stable-diffusion colabs, +25% speed increase and memory efficient](https://github.com/TheLastBen/fast-stable-diffusion)
-- [Holonforth](http://holonforth.com)
-- [Does Someone Know My Name?](https://blogs.loc.gov/now-see-hear/2022/09/does-someone-know-my-name-mystery-photos/)
-- [Have I Been Squatted?](https://haveibeensquatted.com/)
-- [Launch HN: Prequel &lpar;YC W21&rpar; – Sync data to your customer’s data warehouse](https://news.ycombinator.com/item?id=32984103)
+- [Why Browsers Are Essential to the Internet and How OS Are Holding Them Back](https://research.mozilla.org/browser-competition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
