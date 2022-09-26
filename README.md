@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Free and Open-Source Security Tools by Objective-See](https://objective-see.org/tools.html)
 - [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
-- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat &lpar;2016&rpar;](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
-- [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
+- [Sterling hits record low against the dollar, as Asia-Pac currencies also weaken](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
 - [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
 - [JMAP: It’s Like IMAP but Not Really &lpar;2019&rpar;](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
 <!-- BLOG-POST-LIST:END -->
