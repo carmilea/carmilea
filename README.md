@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google: Only Persistent LogIn](http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html)
+- [Raytheon, Northrop Grumman to build Air Force scramjet hypersonic missiles](https://www.militaryaerospace.com/sensors/article/14283258/hypersonic-scramjet-cruise-missiles)
+- [My VM is Lighter &lpar;and Safer&rpar; than your Container &lpar;2017&rpar;](https://dl.acm.org/doi/pdf/10.1145/3132747.3132763)
 - [Biogen agrees to pay $900M to settle drug kickbacks allegations](https://www.justice.gov/usao-ma/pr/biogen-inc-agrees-pay-900-million-settle-false-claims-act-allegations-related-improper)
-- [Enhance: a web standards-based HTML framework](https://enhance.dev/docs/)
-- [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
-- [Pathologies of the attention economy](https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention)
-- [Dear Chess World](https://twitter.com/MagnusCarlsen/status/1574482694406565888)
+- [Unheard Voice: Evaluating five years of pro-Western covert influence operations [pdf]](https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
