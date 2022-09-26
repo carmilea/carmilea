@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An End to Pornography, Sophistry, and Panty Raids: on Edge.org and Epstein](https://www.wired.com/story/an-end-to-pornography-sophistry-and-panty-raids/)
-- [Ziti: Programmable network overlay and edge components for zero-trust networking](https://github.com/openziti)
-- [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
-- [Reading Soviet Sci-Fi at the End of the World](https://themillions.com/2022/09/reading-soviet-sci-fi-at-the-end-of-the-world.html)
-- [Non-Code Contributions to Open Source](https://navendu.me/posts/non-code-contributions-to-open-source/)
+- [Loan ‘forgiveness’ means more money wasted on useless degrees](https://www.nationalreview.com/magazine/2022/10/03/student-debt-and-inflated-credentials/)
+- [Cloudflare eSIM: The First Zero Trust SIM](https://blog.cloudflare.com/the-first-zero-trust-sim/)
+- [A 20 Year Old Chipset Workaround Has Been Hurting Modern AMD Linux Systems](https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA)
+- [Learning Is Remembering](https://saveall.ai/blog/learning-is-remembering)
+- [SaaS services behind a startup](https://www.bytebase.com/blog/30saas-services-behind-startup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
