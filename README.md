@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
+- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat &lpar;2016&rpar;](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 - [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
-- [People Don&#39;t Change Their Minds &lpar;Daniel Kahneman&rpar;](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
-- [The Unmagicking of Disney](https://marionteniade.substack.com/p/the-unmagicking-of-disney)
-- [JMAP: It’s Like IMAP but Not Really](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
-- [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
+- [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
+- [JMAP: It’s Like IMAP but Not Really &lpar;2019&rpar;](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
