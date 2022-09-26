@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Loan ‘forgiveness’ means more money wasted on useless degrees](https://www.nationalreview.com/magazine/2022/10/03/student-debt-and-inflated-credentials/)
-- [Cloudflare eSIM: The First Zero Trust SIM](https://blog.cloudflare.com/the-first-zero-trust-sim/)
-- [A 20 Year Old Chipset Workaround Has Been Hurting Modern AMD Linux Systems](https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA)
-- [Learning Is Remembering](https://saveall.ai/blog/learning-is-remembering)
-- [SaaS services behind a startup](https://www.bytebase.com/blog/30saas-services-behind-startup)
+- [Launch HN: Prequel &lpar;YC W21&rpar; – Sync data to your customer’s data warehouse](https://news.ycombinator.com/item?id=32984103)
+- [Ask HN: Why do people write comments?](https://news.ycombinator.com/item?id=32983581)
+- [Zen4&#39;s AVX512 Teardown](https://www.mersenneforum.org/showthread.php?p=614191)
+- [Nvidia in the Valley](https://stratechery.com/2022/nvidia-in-the-valley/)
+- [Battery-free wireless imaging of underwater environments](https://www.nature.com/articles/s41467-022-33223-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
