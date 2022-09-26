@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An End to Pornography, Sophistry, and Panty Raids: on Edge.org and Epstein](https://www.wired.com/story/an-end-to-pornography-sophistry-and-panty-raids/)
+- [Ziti: Programmable network overlay and edge components for zero-trust networking](https://github.com/openziti)
+- [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
+- [Reading Soviet Sci-Fi at the End of the World](https://themillions.com/2022/09/reading-soviet-sci-fi-at-the-end-of-the-world.html)
 - [Non-Code Contributions to Open Source](https://navendu.me/posts/non-code-contributions-to-open-source/)
-- [Ask HN: Apple dropping support for iPhone SE. What to do now?](https://news.ycombinator.com/item?id=32981245)
-- [Ask HN: How influential can physical appearance be in professional environments?](https://news.ycombinator.com/item?id=32980987)
-- [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- [Show HN: Open-Source Intercom with Help Center](https://github.com/chatwoot/chatwoot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
