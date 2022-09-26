@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance: a web standards-based HTML framework](https://enhance.dev/docs/)
 - [The Pathologies of the Attention Economy](https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention)
+- [Dear Chess World](https://twitter.com/MagnusCarlsen/status/1574482694406565888)
 - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
 - [Explained from scratch: private information retrieval and homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
-- [CTO Should Be Technical](https://blog.southparkcommons.com/your-cto-should-actually-be-technical/)
-- [Augments Are Speech](https://noahnorman.substack.com/p/augments-are-speech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
