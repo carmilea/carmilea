@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Region Unikernels at the Edge](https://nanovms.com/dev/tutorials/cross-region-unikernels-edge)
-- [Contract to Hire Discount](https://blog.andrewmcwatters.org/index.php/2022/09/26/contract-to-hire-discount/)
-- [Why we moved from AWS RDS to Postgres in Kubernetes](https://nhost.io/blog/individual-postgres-instances)
-- [How to 3D-Print One of the Strongest Stainless Steels](https://www.nist.gov/news-events/news/2022/09/researchers-uncover-how-3d-print-one-strongest-stainless-steels)
-- [LinkedIn ran social experiments on 20M users over 5 years](https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html)
+- [The Pathologies of the Attention Economy](https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention)
+- [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
+- [Explained from scratch: private information retrieval and homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
+- [CTO Should Be Technical](https://blog.southparkcommons.com/your-cto-should-actually-be-technical/)
+- [Augments Are Speech](https://noahnorman.substack.com/p/augments-are-speech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
