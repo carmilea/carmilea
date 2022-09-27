@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Release: 0 A.D. Alpha 26: Zhuangzi &lpar;Open Source Ancient Warfare RTS&rpar;](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
+- [One of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
 - [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
 - [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
 - [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
-- [Physicists Rewrite a Quantum Rule That Clashes with Our Universe](https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/)
-- [Experimenting a New Syntax to Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
