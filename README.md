@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Nord Stream gas pipelines damaged in one day](https://www.reuters.com/business/energy/nord-stream-operator-says-three-offshore-gas-pipelines-damaged-one-day-2022-09-27/)
+- [It Hurts to Ask [pdf]](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
+- [Show HN: Get conversational practice in over 20 languages by talking to an AI](https://talk.quazel.com/chat/try)
 - [An Introduction to Binary Decision Diagrams [pdf]](https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf)
 - [Julia Back-End for LFortran &lpar;LFortran – Julia Transpilation&rpar;](https://discourse.julialang.org/t/ann-julia-back-end-for-lfortran/87859)
-- [270K subscribers and $5K/mo with an Asian history/tech YouTube channel](https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/)
-- [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
-- [Why do SaaS companies need sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
