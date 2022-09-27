@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC charges owners of New Jersey Deli with a $100M Valuation](https://www.sec.gov/news/press-release/2022-172)
+- [Edge – Closing a 30 pixel gap between native and web](https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/)
 - [Did anyone else just get signed up for “Amazon photos” out of the blue for $60?](https://news.ycombinator.com/item?id=32998673)
-- [Growing Indifference to Relationships and Sex in Japan](https://www.nippon.com/en/japan-data/h01440/)
 - [Kill-sticky, a bookmarklet to remove sticky elements and restore scrolling](https://github.com/t-mart/kill-sticky)
 - [The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
-- [Porter &lpar;YC S20&rpar; Is Hiring](https://www.workatastartup.com/companies/porter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
