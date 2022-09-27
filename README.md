@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cost of public EV charging rises by more than 42% in four months](https://www.autocar.co.uk/car-news/consumer/cost-public-ev-charging-rises-more-42-four-months)
+- [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
+- [If SaaS Products Sell Themselves, Why Do We Need Sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 - [0 A.D. Alpha 26: Zhuangzi](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
-- [One of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
-- [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
-- [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
+- [How one of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
+- [The next century of computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
