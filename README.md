@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Disappearing Art of Maintenance](https://www.noemamag.com/the-disappearing-art-of-maintenance/)
-- [Silicon Valley has mental health crisis too](https://www.thewealthadvisor.com/article/silicon-valley-has-mental-health-crisis-too)
-- [Someone was paid to pretend to be me for an interview](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)
-- [How Big Is Infinity?](https://www.quantamagazine.org/how-big-is-infinity-20220927/)
-- [What Happened to Tandy Computers](https://dfarq.homeip.net/what-happened-to-tandy-computers/)
+- [kill-sticky, a bookmarklet to remove sticky elements and restore scrolling](https://github.com/t-mart/kill-sticky)
+- [The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
+- [Porter &lpar;YC S20&rpar; Is Hiring](https://www.workatastartup.com/companies/porter)
+- [Debugging database errors with PlanetScale Insights](https://planetscale.com/blog/debugging-database-errors-with-insights)
+- [Bash 5.2](https://tiswww.case.edu/php/chet/bash/NEWS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
