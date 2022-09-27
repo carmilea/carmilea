@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why corporate culture never increment your salary?](https://news.ycombinator.com/item?id=32992420)
+- [An Introduction to Binary Decision Diagrams [pdf]](https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf)
+- [Julia Back-End for LFortran &lpar;LFortran – Julia Transpilation&rpar;](https://discourse.julialang.org/t/ann-julia-back-end-for-lfortran/87859)
+- [270K subscribers and $5K/mo with an Asian history/tech YouTube channel](https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/)
 - [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
 - [Why do SaaS companies need sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
-- [0 A.D. Alpha 26: Zhuangzi](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
-- [How one of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
