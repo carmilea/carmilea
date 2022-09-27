@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AiSupervision &lpar;YC W22&rpar; is hiring an intern &lpar;remote, start&rpar;](https://www.aisupervision.com/careers/intern)
-- [Short story: Harrison Bergeron &lpar;1961&rpar;](https://archive.org/details/HarrisonBergeron)
-- [Ask HN: Real-world anecdotes of MySQL at scale?](https://news.ycombinator.com/item?id=32994771)
-- [Cloudflare Calls](https://blog.cloudflare.com/announcing-cloudflare-calls/)
-- [Making Python fast for free – adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
+- [Room-temperature superconductivity study retracted](https://www.science.org/content/article/something-seriously-wrong-room-temperature-superconductivity-study-retracted)
+- [Apple removed all VK and Mail.ru applications from the App Store](https://mezha.media/en/2022/09/27/apple-removed-all-vk-and-mail-ru-applications-from-the-app-store/)
+- [WhatsApp Remote Code Execution in Video Call](https://nvd.nist.gov/vuln/detail/CVE-2022-36934)
+- [Apple Car: Bad Idea After All](https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9)
+- [Named element IDs can be referenced as JavaScript globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
