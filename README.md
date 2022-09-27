@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [The Rocketeer Who Never Was &lpar;2019&rpar;](http://www.astronautix.com/t/therocketeerwhoneverwas.html)
-- [Notes on Modifying Unowned Code &lpar;2021&rpar;](https://blog.bonnieeisenman.com/blog/unowned-code/)
+- [Eve Online Server Emulator](https://github.com/EvEmu-Project/evemu_Crucible)
 - [A beginners guide to Esperanto &lpar;2003&rpar;](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham)
 - [SEC charges owners of New Jersey Deli with a $100M Valuation](https://www.sec.gov/news/press-release/2022-172)
-- [Closing a 30 pixel gap between native and web](https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
