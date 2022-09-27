@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Release: 0 A.D. Alpha 26: Zhuangzi &lpar;Open Source Ancient Warfare RTS&rpar;](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
+- [Cost of public EV charging rises by more than 42% in four months](https://www.autocar.co.uk/car-news/consumer/cost-public-ev-charging-rises-more-42-four-months)
+- [0 A.D. Alpha 26: Zhuangzi](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
 - [One of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
 - [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
 - [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
-- [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
