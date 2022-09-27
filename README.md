@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rocketeer Who Never Was &lpar;2019&rpar;](http://www.astronautix.com/t/therocketeerwhoneverwas.html)
+- [Notes on Modifying Unowned Code &lpar;2021&rpar;](https://blog.bonnieeisenman.com/blog/unowned-code/)
+- [A beginners guide to Esperanto &lpar;2003&rpar;](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham)
 - [SEC charges owners of New Jersey Deli with a $100M Valuation](https://www.sec.gov/news/press-release/2022-172)
-- [Edge – Closing a 30 pixel gap between native and web](https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/)
-- [Did anyone else just get signed up for “Amazon photos” out of the blue for $60?](https://news.ycombinator.com/item?id=32998673)
-- [Kill-sticky, a bookmarklet to remove sticky elements and restore scrolling](https://github.com/t-mart/kill-sticky)
-- [The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
+- [Closing a 30 pixel gap between native and web](https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
