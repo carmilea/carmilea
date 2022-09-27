@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Blocks for Theoretical Computer Science [pdf]](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
+- [Guido was right, there should be no lambda in Python &lpar;2018&rpar;](https://pbrown.me/blog/vslambda/)
+- [Integrating with Fastmail](https://www.fastmail.com/developer/integrating-with-fastmail/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [The Rocketeer Who Never Was &lpar;2019&rpar;](http://www.astronautix.com/t/therocketeerwhoneverwas.html)
 - [Eve Online Server Emulator](https://github.com/EvEmu-Project/evemu_Crucible)
-- [A beginners guide to Esperanto &lpar;2003&rpar;](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham)
 <!-- BLOG-POST-LIST:END -->
 
 ---
