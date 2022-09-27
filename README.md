@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not as famous as they should be: Pioneers that shaped computing as I know it](https://datagubbe.se/famous/)
-- [DataBorg – Knowledge Management Simplified](https://databorg.ai/)
-- [The Ringelmann Effect](https://rnjn.in/articles/the-ringelmann-effect/)
-- [Retraction of Roomtemperature superconductivity in a carbonaceous sulfur hydride](https://www.nature.com/articles/s41586-022-05294-9)
-- [It Hurts to Ask [pdf]](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
+- [AiSupervision &lpar;YC W22&rpar; is hiring an intern &lpar;remote, start&rpar;](https://www.aisupervision.com/careers/intern)
+- [Short story: Harrison Bergeron &lpar;1961&rpar;](https://archive.org/details/HarrisonBergeron)
+- [Ask HN: Real-world anecdotes of MySQL at scale?](https://news.ycombinator.com/item?id=32994771)
+- [Cloudflare Calls](https://blog.cloudflare.com/announcing-cloudflare-calls/)
+- [Making Python fast for free – adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
