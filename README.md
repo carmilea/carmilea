@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why OCaml?](https://ocaml.org/about)
+- [Ask HN: Why corporate culture never increment your salary?](https://news.ycombinator.com/item?id=32992420)
 - [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
-- [If SaaS Products Sell Themselves, Why Do We Need Sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
+- [Why do SaaS companies need sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 - [0 A.D. Alpha 26: Zhuangzi](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
 - [How one of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
 <!-- BLOG-POST-LIST:END -->
