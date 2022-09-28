@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How New Are Yann LeCun&#39;s “New” Ideas?](https://garymarcus.substack.com/p/how-new-are-yann-lecuns-new-ideas)
 - [Show HN: Depot – fast, remote Docker container builds](https://depot.dev)
-- [Modern Serverless Job Schedulers](https://www.inngest.com/blog/modern-serverless-job-scheduler)
+- [Amazon deleted my Final Space digital purchases of season 1 and 2](https://twitter.com/PixelatedWah/status/1574924613456343041)
 - [Upcoming Restriction Period for US ads about social issues, elections, politics](https://developers.facebook.com/blog/post/2022/09/28/upcoming-restriction-period-for-us-ads/)
 - [Ask HN: What&#39;s Happening at Cloudflare?](https://news.ycombinator.com/item?id=33010744)
-- [Learn TLA+](https://learntla.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
