@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open-Source Stripe GraphQL API](https://nhost.io/blog/open-source-stripe-graphql-api)
-- [AWS us-west-2 issues](https://news.ycombinator.com/item?id=33010341)
-- [Metriport &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/2kddvih-founding-software-engineer)
-- [Newsom just signed California pay transparency bill SB 1162](https://www.protocol.com/bulletins/newsom-pay-transparency)
-- [DocuSign to cut workforce by 9% as part of restructuring plan](https://www.cnbc.com/2022/09/28/docusign-to-cut-workforce-by-9percent-as-part-of-restructuring-plan.html)
+- [Show HN: Depot – fast, remote Docker container builds](https://depot.dev)
+- [Modern Serverless Job Schedulers](https://www.inngest.com/blog/modern-serverless-job-scheduler)
+- [Upcoming Restriction Period for US ads about social issues, elections, politics](https://developers.facebook.com/blog/post/2022/09/28/upcoming-restriction-period-for-us-ads/)
+- [Ask HN: What&#39;s Happening at Cloudflare?](https://news.ycombinator.com/item?id=33010744)
+- [Learn TLA+](https://learntla.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
