@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find wreckage of ship that tried to warn Titanic of iceberg](https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html)
 - [Dextromethorphan-Bupropion in Major Depressive Disorder: Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/35582785/)
 - [Tell HN: Toptal&#39;s HTML minification API occasionally injects tracking JavaScript](https://news.ycombinator.com/item?id=33013873)
-- [Arduino IDE 2.0](https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/)
-- [Timeline of Computer History &lpar;2015&rpar;](https://www.computerhistory.org/timeline/computers/)
-- [Smarking &lpar;YC W15&rpar; is hiring a product lead to digitize the parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
+- [New &lpar;LTE&rpar; Rotary Cell Phone [video]](https://www.youtube.com/watch?v=uV1C-41tq64)
+- [Matrix: Third Room Tech Preview [video]](https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
