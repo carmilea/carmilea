@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Subsection – A tool for creating Support Docs for SaaS](https://subsection.io)
+- [We reduced our annual server costs by 80% by moving away from AWS](https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46?gi=bb7f54e84163)
 - [I argue that studying the history of philosophy is philosophically unhelpful](https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2124542)
 - [When the Push Button Was New, People Were Freaked](https://daily.jstor.org/when-the-push-button-was-new-people-were-freaked/)
 - [Turnstile: privacy-preserving alternative to CAPTCHA by Cloudflare](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
-- [Security in Plan 9](https://9p.io/sys/doc/auth.html)
-- [Apple Has Reportedly Rejected TSMC&#39;s Chip Price Hike of 6%](https://wccftech.com/apple-rejects-tsmc-chip-price-hike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
