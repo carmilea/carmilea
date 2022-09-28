@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guido was right, there should be no lambda in Python &lpar;2018&rpar;](https://pbrown.me/blog/vslambda/)
+- [Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth](https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html)
+- [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
 - [Integrating with Fastmail](https://www.fastmail.com/developer/integrating-with-fastmail/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [The Rocketeer Who Never Was &lpar;2019&rpar;](http://www.astronautix.com/t/therocketeerwhoneverwas.html)
-- [Eve Online Server Emulator](https://github.com/EvEmu-Project/evemu_Crucible)
+- [Explosive Laden Drone Found Near Nord Stream Pipeline &lpar;2015&rpar;](https://www.pipeline-journal.net/news/explosive-laden-drone-found-near-nord-stream-pipeline)
+- [Building Blocks for Theoretical Computer Science [pdf]](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
