@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarking &lpar;YC W15&rpar; Is Hiring a Product Lead to digitize $655B parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
-- [Ask HN: Seriously, steelman this please. 7,400 employees at Docusign?](https://news.ycombinator.com/item?id=33012137)
-- [I spent $3k on a Samsung Smart TV and all I got were ads and unwanted content](https://www.zdnet.com/home-and-office/home-entertainment/i-spent-3000-on-a-samsung-smart-tv-and-all-i-got-were-ads-and-unwanted-content/)
-- [Google postpones MV2 shutoff in Chrome stable to June 2023](https://developer.chrome.com/blog/more-mv2-transition/)
-- [How New Are Yann LeCun&#39;s “New” Ideas?](https://garymarcus.substack.com/p/how-new-are-yann-lecuns-new-ideas)
+- [Dextromethorphan-Bupropion in Major Depressive Disorder: Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/35582785/)
+- [Tell HN: Toptal&#39;s HTML minification API occasionally injects tracking JavaScript](https://news.ycombinator.com/item?id=33013873)
+- [Arduino IDE 2.0](https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/)
+- [Timeline of Computer History &lpar;2015&rpar;](https://www.computerhistory.org/timeline/computers/)
+- [Smarking &lpar;YC W15&rpar; is hiring a product lead to digitize the parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
