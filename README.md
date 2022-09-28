@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaming CS Interviews](https://transitivebullsh.it/gaming-cs-interviews)
+- [I&#39;ve said it all before but here we go again](http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html)
 - [Hard-Won Victories: Solving the Mystery of Some “Mystery Photos”](https://blogs.loc.gov/now-see-hear/2018/05/hard-won-victories-solving-the-mystery-of-some-mystery-photos/)
 - [Tiny robots have successfully cleared pneumonia from the lungs of mice](https://www.nature.com/articles/s41563-022-01360-9)
 - [Nord Stream: Tie-ins and hyperbaric welding](https://www.wermac.org/nordstream/nordstream_part9.html)
-- [Show HN: Refurb – A tool for refurbishing and modernizing Python codebases](https://github.com/dosisod/refurb)
-- [The Open Source PC That Fits in Your Pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
