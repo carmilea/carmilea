@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nord Stream Hyperbaric Welding](https://www.wermac.org/nordstream/nordstream_part9.html)
+- [Show HN: Refurb – A tool for refurbishing and modernizing Python codebases](https://github.com/dosisod/refurb)
+- [The Open Source PC That Fits in Your Pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
 - [Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth](https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html)
-- [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
-- [Integrating with Fastmail](https://www.fastmail.com/developer/integrating-with-fastmail/)
-- [Explosive Laden Drone Found Near Nord Stream Pipeline &lpar;2015&rpar;](https://www.pipeline-journal.net/news/explosive-laden-drone-found-near-nord-stream-pipeline)
-- [Building Blocks for Theoretical Computer Science [pdf]](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
+- [California can&#39;t save every burned town](https://www.latimes.com/california/story/2022-09-27/california-climate-change-stop-rebuilding-rural-towns-wildfire-greenville)
 <!-- BLOG-POST-LIST:END -->
 
 ---
