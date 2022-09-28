@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [62 People own the same as half the world, reveals Oxfam Davos report](https://www.oxfam.org/en/press-releases/62-people-own-same-half-world-reveals-oxfam-davos-report)
+- [The Bifurcation Created by Technology](https://wearenotsaved.com/2022/09/28/the-bifurcation-created-by-technology/)
 - [Gaming CS Interviews](https://transitivebullsh.it/gaming-cs-interviews)
 - [I&#39;ve said it all before but here we go again](http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html)
-- [Hard-Won Victories: Solving the Mystery of Some “Mystery Photos”](https://blogs.loc.gov/now-see-hear/2018/05/hard-won-victories-solving-the-mystery-of-some-mystery-photos/)
 - [Tiny robots have successfully cleared pneumonia from the lungs of mice](https://www.nature.com/articles/s41563-022-01360-9)
-- [Nord Stream: Tie-ins and hyperbaric welding](https://www.wermac.org/nordstream/nordstream_part9.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
