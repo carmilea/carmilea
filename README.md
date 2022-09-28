@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I argue that studying the history of philosophy is philosophically unhelpful](https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2124542)
+- [When the Push Button Was New, People Were Freaked](https://daily.jstor.org/when-the-push-button-was-new-people-were-freaked/)
+- [Turnstile: privacy-preserving alternative to CAPTCHA by Cloudflare](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
 - [Security in Plan 9](https://9p.io/sys/doc/auth.html)
 - [Apple Has Reportedly Rejected TSMC&#39;s Chip Price Hike of 6%](https://wccftech.com/apple-rejects-tsmc-chip-price-hike/)
-- [Why Are Sex Workers Forced to Wear a Financial Scarlet Letter?](https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/)
-- [Minimize Heap Allocations in Node.js](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
-- [D3wasm 0.4 – Doom 3 in WASM](https://wasm.continuation-labs.com/d3demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
