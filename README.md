@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Seriously, steelman this please. 7,400 employees at Docusign?](https://news.ycombinator.com/item?id=33012137)
+- [I spent $3k on a Samsung Smart TV and all I got were ads and unwanted content](https://www.zdnet.com/home-and-office/home-entertainment/i-spent-3000-on-a-samsung-smart-tv-and-all-i-got-were-ads-and-unwanted-content/)
 - [How New Are Yann LeCun&#39;s “New” Ideas?](https://garymarcus.substack.com/p/how-new-are-yann-lecuns-new-ideas)
 - [Show HN: Depot – fast, remote Docker container builds](https://depot.dev)
 - [Amazon deleted my Final Space digital purchases of season 1 and 2](https://twitter.com/PixelatedWah/status/1574924613456343041)
-- [Upcoming Restriction Period for US ads about social issues, elections, politics](https://developers.facebook.com/blog/post/2022/09/28/upcoming-restriction-period-for-us-ads/)
-- [Ask HN: What&#39;s Happening at Cloudflare?](https://news.ycombinator.com/item?id=33010744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
