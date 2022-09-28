@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nord Stream Hyperbaric Welding](https://www.wermac.org/nordstream/nordstream_part9.html)
+- [Hard-Won Victories: Solving the Mystery of Some “Mystery Photos”](https://blogs.loc.gov/now-see-hear/2018/05/hard-won-victories-solving-the-mystery-of-some-mystery-photos/)
+- [Tiny robots have successfully cleared pneumonia from the lungs of mice](https://www.nature.com/articles/s41563-022-01360-9)
+- [Nord Stream: Tie-ins and hyperbaric welding](https://www.wermac.org/nordstream/nordstream_part9.html)
 - [Show HN: Refurb – A tool for refurbishing and modernizing Python codebases](https://github.com/dosisod/refurb)
 - [The Open Source PC That Fits in Your Pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
-- [Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth](https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html)
-- [California can&#39;t save every burned town](https://www.latimes.com/california/story/2022-09-27/california-climate-change-stop-rebuilding-rural-towns-wildfire-greenville)
 <!-- BLOG-POST-LIST:END -->
 
 ---
