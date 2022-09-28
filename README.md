@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [D3wasm 0.4 – Doom 3 in WASM](https://wasm.continuation-labs.com/d3demo/)
+- [The GJK Algorithm for intersecting shapes &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=ajv46BSqcK4)
+- [How Underground Groups Use Stolen Identities and Deepfakes](https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html)
+- [Neuromorphic object localization using resistive memory, ultrasonic transducers](https://www.nature.com/articles/s41467-022-31157-y)
 - [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
-- [Cloudflare GA Week Recap](https://softwarestackinvesting.com/cloudflare-ga-week-recap/)
-- [The Bifurcation Created by Technology](https://wearenotsaved.com/2022/09/28/the-bifurcation-created-by-technology/)
-- [Gaming CS Interviews](https://transitivebullsh.it/gaming-cs-interviews)
-- [I&#39;ve said it all before but here we go again](http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
