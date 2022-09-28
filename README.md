@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [62 People own the same as half the world, reveals Oxfam Davos report](https://www.oxfam.org/en/press-releases/62-people-own-same-half-world-reveals-oxfam-davos-report)
+- [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
+- [Cloudflare GA Week Recap](https://softwarestackinvesting.com/cloudflare-ga-week-recap/)
 - [The Bifurcation Created by Technology](https://wearenotsaved.com/2022/09/28/the-bifurcation-created-by-technology/)
 - [Gaming CS Interviews](https://transitivebullsh.it/gaming-cs-interviews)
 - [I&#39;ve said it all before but here we go again](http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html)
-- [Tiny robots have successfully cleared pneumonia from the lungs of mice](https://www.nature.com/articles/s41563-022-01360-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
