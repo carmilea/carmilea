@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Has ‘No Chance in Hell’ of Making Its Own Tech Champs: ARM Founder](https://www.bloomberg.com/news/articles/2022-09-28/arm-founder-sees-no-chance-in-hell-uk-getting-tech-sovereignty)
+- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/)
+- [Ken Thompson Did Launch His “Trusting Trust” Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 - [Show HN: Subsection – A tool for creating Support Docs for SaaS](https://subsection.io)
 - [We reduced our annual server costs by 80% by moving away from AWS](https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46?gi=bb7f54e84163)
-- [I argue that studying the history of philosophy is philosophically unhelpful](https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2124542)
-- [When the Push Button Was New, People Were Freaked](https://daily.jstor.org/when-the-push-button-was-new-people-were-freaked/)
-- [Turnstile: privacy-preserving alternative to CAPTCHA by Cloudflare](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
