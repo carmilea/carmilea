@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Penpot Raises $8M Series A](https://community.penpot.app/t/penpot-our-time-has-come/1563)
-- [UK Has ‘No Chance in Hell’ of Making Its Own Tech Champs: ARM Founder](https://www.bloomberg.com/news/articles/2022-09-28/arm-founder-sees-no-chance-in-hell-uk-getting-tech-sovereignty)
-- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/)
-- [Ken Thompson really did launch his &quot;trusting trust&quot; trojan attack in real life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
-- [Show HN: Subsection – A tool for creating Support Docs for SaaS](https://subsection.io)
+- [Show HN: Open-Source Stripe GraphQL API](https://nhost.io/blog/open-source-stripe-graphql-api)
+- [AWS us-west-2 issues](https://news.ycombinator.com/item?id=33010341)
+- [Metriport &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/2kddvih-founding-software-engineer)
+- [Newsom just signed California pay transparency bill SB 1162](https://www.protocol.com/bulletins/newsom-pay-transparency)
+- [DocuSign to cut workforce by 9% as part of restructuring plan](https://www.cnbc.com/2022/09/28/docusign-to-cut-workforce-by-9percent-as-part-of-restructuring-plan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
