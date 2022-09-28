@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security in Plan 9](https://9p.io/sys/doc/auth.html)
+- [Apple Has Reportedly Rejected TSMC&#39;s Chip Price Hike of 6%](https://wccftech.com/apple-rejects-tsmc-chip-price-hike/)
+- [Why Are Sex Workers Forced to Wear a Financial Scarlet Letter?](https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/)
+- [Minimize Heap Allocations in Node.js](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
 - [D3wasm 0.4 – Doom 3 in WASM](https://wasm.continuation-labs.com/d3demo/)
-- [The GJK Algorithm for intersecting shapes &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=ajv46BSqcK4)
-- [How Underground Groups Use Stolen Identities and Deepfakes](https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html)
-- [Neuromorphic object localization using resistive memory, ultrasonic transducers](https://www.nature.com/articles/s41467-022-31157-y)
-- [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
