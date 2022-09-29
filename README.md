@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kittyhawk Air Taxi Startup Is Winding Down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
-- [Converting Coal Power Plants to Nuclear Gains Steam](https://spectrum.ieee.org/nuclear-power-plant)
-- [Badssl.com](https://badssl.com/)
-- [The Endless Doomscroller](https://endlessdoomscroller.com)
-- [ButtFish – Effortlessly transmitting Morse Code of chess moves to your butt](https://github.com/RonSijm/ButtFish)
+- [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
+- [&quot;Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
+- [Meta has banned the personal Facebook accounts for everyone on our team](https://twitter.com/TheOGapp_/status/1575265782094647296)
+- [KittyHawk air taxi startup is winding down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
+- [Converting coal power plants to nuclear gains steam](https://spectrum.ieee.org/nuclear-power-plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
