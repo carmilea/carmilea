@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make-A-Video is a state-of-the-art AI system that generates videos from text](https://makeavideo.studio/)
+- [Meta’s new text-to-video AI generator is like DALL-E for video](https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e)
+- [Cloudflare Hardware Keys &lpar;Yubico Partnership&rpar;](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/)
+- [Why You Should Not Use JWT](https://apibakery.com/blog/tech/no-jwt/)
 - [A Reflection on the Small Web](https://misc.l3m.in/txt/smollweb.txt)
-- [Business news site FastCompany.com is shut down after breach](https://www.fastcompany.com/statement.html)
-- [Working native Linux GPU driver for Apple M1 achieved](https://twitter.com/linaasahi/status/1575343067892051968)
-- [Native Linux GPU Driver for Apple M1](https://twitter.com/LinaAsahi/status/1575343067892051968)
-- [The Rise of Fully Homomorphic Encryption](https://queue.acm.org/detail.cfm?id=3561800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
