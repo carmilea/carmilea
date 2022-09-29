@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Rust by implementing a SHA-1 hash cracker](https://kerkour.com/learning-rust-sha1-hash-cracker)
-- [Launch HN: Telematica &lpar;YC W22&rpar; – Plaid for Electric Vehicles](https://www.telematica.so)
-- [Writing and automating a newsletter in Markdown on Mailcoach](https://mailcoach.app/blog/4-writing-a-newsletter-in-markdown-on-mailcoach)
-- [Airplane.dev raises $32M in Series B funding](https://www.airplane.dev/blog/series-b-thrive)
-- [Deno 1.26 Release Notes](https://deno.com/blog/v1.26)
+- [A message about Stadia and our long term streaming strategy](https://blog.google/products/stadia/message-on-stadia-streaming-strategy/)
+- [Google is shutting down Stadia](https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023)
+- [Elliptic Curves for Security](https://www.rfc-editor.org/rfc/rfc7748)
+- [Lua, a Misunderstood Language](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html)
+- [Angry Reviewer](https://www.angryreviewer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
