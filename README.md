@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC Charges 16 Wall Street Firms with Widespread Recordkeeping Failures](https://www.sec.gov/news/press-release/2022-174)
+- [On Device Network Logging for iOS](https://adamfallon.com/ios/proxy/logging/networking/2022/09/04/on-device-network-logging-for-ios.html)
+- [JWT vs. Opaque Tokens – When do you use them?](https://zitadel.com/blog/jwt-vs-opaque-tokens)
 - [Threadripper 7000 Storm Peak CPU Surfaces with 64 Zen 4 Cores](https://www.tomshardware.com/news/ryzen-threadripper-7000-storm-peak-cpu-surfaces-with-64-zen-4-cores)
 - [Ask HN: Offline resources during internet outages?](https://news.ycombinator.com/item?id=33017733)
-- [Caffeine and Exercise Performance](https://grapplinglane.substack.com/p/gl-9-caffeine-and-exercise-performance)
-- [Intel Failed Science](https://twitter.com/NicoleHemsoth/status/1575233618170982400)
-- [What Figma plans to do inside Adobe](https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field)
 <!-- BLOG-POST-LIST:END -->
 
 ---
