@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threadripper 7000 Storm Peak CPU Surfaces with 64 Zen 4 Cores](https://www.tomshardware.com/news/ryzen-threadripper-7000-storm-peak-cpu-surfaces-with-64-zen-4-cores)
+- [Caffeine and Exercise Performance](https://grapplinglane.substack.com/p/gl-9-caffeine-and-exercise-performance)
+- [What Figma plans to do inside Adobe](https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=33017362)
-- [How to Build a Personal Webpage from Scratch &lpar;In 2022&rpar;](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/)
-- [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
-- [&quot;Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
-- [Books are physically changing because of inflation](https://www.economist.com/britain/2022/09/08/books-are-physically-changing-because-of-inflation)
+- [Brian Goetz: Paving the On-Ramp &lpar;To Java&rpar;](https://openjdk.org/projects/amber/design-notes/on-ramp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
