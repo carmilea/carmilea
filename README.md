@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New photographs of Jupiter&#39;s moon, Europa](https://www.missionjuno.swri.edu/404)
+- [Many indoor air quality sensor products are a scam](https://halestrom.net/darksleep/blog/048_indoorairsensing/)
+- [Why “Go Nuts, Show Nuts” Doesn’t Work in 2022](https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusionpaper.github.io/)
 - [Meta announces hiring freeze, warns employees of restructuring](https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring)
-- [Ask HN: Has the Apple Silicon excessive disk read/write issue been fixed?](https://news.ycombinator.com/item?id=33024863)
-- [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
-- [SingleStore Hackathon 2022](https://www.singlestore.com/blog/singlestore-hackathon-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
