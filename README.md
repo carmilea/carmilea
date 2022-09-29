@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
+- [What to Do If a Nuclear Disaster Is Imminent](http://ki4u.com/guide.htm)
 - [&quot;Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
-- [Meta has banned the personal Facebook accounts for everyone on our team](https://twitter.com/TheOGapp_/status/1575265782094647296)
+- [Books are physically changing because of inflation](https://www.economist.com/britain/2022/09/08/books-are-physically-changing-because-of-inflation)
 - [KittyHawk air taxi startup is winding down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
-- [Converting coal power plants to nuclear gains steam](https://spectrum.ieee.org/nuclear-power-plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
