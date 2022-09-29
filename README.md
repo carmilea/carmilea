@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Musico: AI Generated Music](https://www.musi-co.com/listen/streams)
+- [Former NSA Employee Arrested on Espionage-Related Charges](https://www.justice.gov/opa/pr/former-nsa-employee-arrested-espionage-related-charges)
 - [Substack &lpar;YC W18&rpar; is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
+- [Fake CISO Profiles on LinkedIn Target Fortune 500s](https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/)
 - [AI converts between hundreds of programming languages](https://codelanguageconverter.com)
-- [The Banality of Surveillance](https://bostonreview.net/articles/the-banality-of-surveillance/)
-- [Every Fucking Bootstrap Website Ever](https://www.dagusa.com/)
-- [Socialist Romania Computer Chips](https://www.cpushack.com/2022/09/29/socialist-romania-computer-chips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
