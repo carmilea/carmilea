@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=33017362)
+- [How to Build a Personal Webpage from Scratch &lpar;In 2022&rpar;](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/)
 - [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
-- [What to Do If a Nuclear Disaster Is Imminent](http://ki4u.com/guide.htm)
 - [&quot;Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
 - [Books are physically changing because of inflation](https://www.economist.com/britain/2022/09/08/books-are-physically-changing-because-of-inflation)
-- [KittyHawk air taxi startup is winding down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
