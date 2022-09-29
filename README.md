@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists find wreckage of ship that tried to warn Titanic of iceberg](https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html)
-- [Dextromethorphan-Bupropion in Major Depressive Disorder: Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/35582785/)
-- [Tell HN: Toptal&#39;s HTML minification API occasionally injects tracking JavaScript](https://news.ycombinator.com/item?id=33013873)
-- [New &lpar;LTE&rpar; Rotary Cell Phone [video]](https://www.youtube.com/watch?v=uV1C-41tq64)
-- [Matrix: Third Room Tech Preview [video]](https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1/)
+- [Kittyhawk Air Taxi Startup Is Winding Down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
+- [Converting Coal Power Plants to Nuclear Gains Steam](https://spectrum.ieee.org/nuclear-power-plant)
+- [Badssl.com](https://badssl.com/)
+- [The Endless Doomscroller](https://endlessdoomscroller.com)
+- [ButtFish – Effortlessly transmitting Morse Code of chess moves to your butt](https://github.com/RonSijm/ButtFish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
