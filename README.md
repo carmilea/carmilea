@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make-A-Video is a state-of-the-art AI system that generates videos from text](https://makeavideo.studio/)
-- [Meta’s new text-to-video AI generator is like DALL-E for video](https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e)
-- [Cloudflare Hardware Keys &lpar;Yubico Partnership&rpar;](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/)
-- [Why You Should Not Use JWT](https://apibakery.com/blog/tech/no-jwt/)
-- [A Reflection on the Small Web](https://misc.l3m.in/txt/smollweb.txt)
+- [Launch HN: Telematica &lpar;YC W22&rpar; – Plaid for Electric Vehicles](https://www.telematica.so)
+- [Writing and automating a newsletter in Markdown on Mailcoach](https://mailcoach.app/blog/4-writing-a-newsletter-in-markdown-on-mailcoach)
+- [Deno 1.26](https://deno.com/blog/v1.26)
+- [Europe braces for mobile network blackouts](https://www.reuters.com/business/media-telecom/exclusive-europe-braces-mobile-network-blackouts-sources-2022-09-29/)
+- [PO-80 Record Factory – Teenage Engineering](https://teenage.engineering/products/po-80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
