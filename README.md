@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK pensions hit with £100m margin calls as gilts and sterling slide](https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide)
+- [I Visited Bucha Today](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha)
 - [Musico: AI Generated Music](https://www.musi-co.com/listen/streams)
 - [Former NSA Employee Arrested on Espionage-Related Charges](https://www.justice.gov/opa/pr/former-nsa-employee-arrested-espionage-related-charges)
 - [Substack &lpar;YC W18&rpar; is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
-- [Fake CISO Profiles on LinkedIn Target Fortune 500s](https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/)
-- [AI converts between hundreds of programming languages](https://codelanguageconverter.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
