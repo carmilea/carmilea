@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A message about Stadia and our long term streaming strategy](https://blog.google/products/stadia/message-on-stadia-streaming-strategy/)
+- [Jitx &lpar;YC S18&rpar; is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+- [Crisis pay cut: Consumers prefer firms that prioritize paying employees over CEO](https://www.cambridge.org/core/journals/behavioural-public-policy/article/whose-pay-should-be-cut-in-economic-crises-consumers-prefer-firms-that-prioritize-paying-employees-over-ceos/356319B1229A261AC46E207D5BA0E3DA)
+- [Meta ordered to pay $175M for copying Green Beret veteran’s app](https://www.militarytimes.com/news/2022/09/28/meta-ordered-to-pay-175m-after-copying-green-beret-veterans-tech/)
+- [An inorganic user engine driving ad campaigns on major websites and podcasts](https://deepsee.io/blog/rewarded-traffic-incentivized-traffic-in-a-top-hat)
 - [Google is shutting down Stadia](https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023)
-- [Elliptic Curves for Security](https://www.rfc-editor.org/rfc/rfc7748)
-- [Lua, a Misunderstood Language](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html)
-- [Angry Reviewer](https://www.angryreviewer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
