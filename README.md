@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Rust by implementing a SHA-1 hash cracker](https://kerkour.com/learning-rust-sha1-hash-cracker)
 - [Launch HN: Telematica &lpar;YC W22&rpar; – Plaid for Electric Vehicles](https://www.telematica.so)
 - [Writing and automating a newsletter in Markdown on Mailcoach](https://mailcoach.app/blog/4-writing-a-newsletter-in-markdown-on-mailcoach)
-- [Deno 1.26](https://deno.com/blog/v1.26)
-- [Europe braces for mobile network blackouts](https://www.reuters.com/business/media-telecom/exclusive-europe-braces-mobile-network-blackouts-sources-2022-09-29/)
-- [PO-80 Record Factory – Teenage Engineering](https://teenage.engineering/products/po-80)
+- [Airplane.dev raises $32M in Series B funding](https://www.airplane.dev/blog/series-b-thrive)
+- [Deno 1.26 Release Notes](https://deno.com/blog/v1.26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
