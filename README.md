@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IPv6 support for cloning Git repositories?](https://github.com/community/community/discussions/10539)
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusionpaper.github.io/)
+- [Meta announces hiring freeze, warns employees of restructuring](https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring)
+- [Ask HN: Has the Apple Silicon excessive disk read/write issue been fixed?](https://news.ycombinator.com/item?id=33024863)
+- [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
 - [SingleStore Hackathon 2022](https://www.singlestore.com/blog/singlestore-hackathon-2022)
-- [Jitx &lpar;YC S18&rpar; is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
-- [Crisis pay cut: Consumers prefer firms that prioritize paying employees over CEO](https://www.cambridge.org/core/journals/behavioural-public-policy/article/whose-pay-should-be-cut-in-economic-crises-consumers-prefer-firms-that-prioritize-paying-employees-over-ceos/356319B1229A261AC46E207D5BA0E3DA)
-- [Meta ordered to pay $175M for copying Green Beret veteran’s app](https://www.militarytimes.com/news/2022/09/28/meta-ordered-to-pay-175m-after-copying-green-beret-veterans-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
