@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lycoris Recoil: Turning Original Anime Production Chaos in Your Favor](https://blog.sakugabooru.com/2022/09/28/lycoris-recoil-and-shingo-adachi-turning-original-anime-production-chaos-in-your-favor/)
-- [The Reality of Celebratory Gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
+- [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
+- [The reality of celebratory gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
 - [Taking a Break](https://neugierig.org/software/blog/2022/09/break.html)
 - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 - [Private profiles are now generally available on GitHub](https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/)
