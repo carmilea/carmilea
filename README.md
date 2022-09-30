@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK pensions hit with £100m margin calls as gilts and sterling slide](https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide)
-- [I Visited Bucha Today](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha)
-- [Musico: AI Generated Music](https://www.musi-co.com/listen/streams)
-- [Former NSA Employee Arrested on Espionage-Related Charges](https://www.justice.gov/opa/pr/former-nsa-employee-arrested-espionage-related-charges)
-- [Substack &lpar;YC W18&rpar; is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
+- [The Reality of Celebratory Gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
+- [Taking a Break](https://neugierig.org/software/blog/2022/09/break.html)
+- [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+- [Private profiles are now generally available on GitHub](https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/)
+- [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/a56a9a4ab41ff079/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
