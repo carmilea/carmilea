@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A note and database manager with repetitive tasks and offline mode](https://fluski.com/)
+- [AirMyne &lpar;YC W22&rpar; Hiring a Chemical Engineer in Berkeley, CA](https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer)
+- [The Art of Menus](https://www.spectator.co.uk/article/the-art-of-menus)
 - [Locally Create Wasm UDFs in Rust and Use Them in SingleStoreDB](https://www.singlestore.com/blog/locally-create-wsm-udfs-rust-singlestoredb)
-- [Montreal is what North America could be](http://www.loukidelis.com/on-montreal.html)
 - [Why are nuclear power construction costs so high? Part III – the nuclear navy](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction-c3c)
 - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 <!-- BLOG-POST-LIST:END -->
