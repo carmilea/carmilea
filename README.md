@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iollo &lpar;YC S22&rpar; is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
+- [Intro to the Theory of Programming Languages: full book now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
 - [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
+- [Go Micro: a standard library for distributed systems development](https://golangexample.com/go-micro-a-standard-library-for-distributed-systems-development/)
 - [The reality of celebratory gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
-- [Taking a Break](https://neugierig.org/software/blog/2022/09/break.html)
-- [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
-- [Private profiles are now generally available on GitHub](https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
