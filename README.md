@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Government plans to develop AI that can unmask anonymous writers](https://reclaimthenet.org/us-government-plans-to-develop-ai-that-can-unmask-anonymous-writers/)
-- [USB Charger &lpar;USB Power Delivery&rpar;](https://www.usb.org/usb-charger-pd)
-- [OpenStreepMap 2012 vs. 2022](https://2012.osmz.ru/#15/40.7822/-73.9685)
-- [Red Dead Redemption 2 fan with 6k hours on Stadia begs for character transfer](https://www.gamesradar.com/red-dead-redemption-2-fan-with-nearly-6000-hours-on-stadia-begs-rockstar-for-character-transfer/)
-- [Cloudflare Radar 2.0](https://blog.cloudflare.com/radar2/)
+- [Ask HN: Just received spam to an address only used at Amazon?](https://news.ycombinator.com/item?id=33036782)
+- [Layoffs at Meta starts next week, leaked on Blind](https://www.teamblind.com/post/Massive-layoffs-at-META-starts-next-week-6bDXueAR)
+- [Ask HN: Microsoft SmartScreen is destroying our business](https://news.ycombinator.com/item?id=33036748)
+- [Facebook Freeloads Off Newspapers. This Plan Might Stop It](https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/)
+- [FCC Approves 5 Year Satellite Deorbiting Rule](https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
