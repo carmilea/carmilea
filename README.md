@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Government plans to develop AI that can unmask anonymous writers](https://reclaimthenet.org/us-government-plans-to-develop-ai-that-can-unmask-anonymous-writers/)
 - [USB Charger &lpar;USB Power Delivery&rpar;](https://www.usb.org/usb-charger-pd)
 - [OpenStreepMap 2012 vs. 2022](https://2012.osmz.ru/#15/40.7822/-73.9685)
 - [Red Dead Redemption 2 fan with 6k hours on Stadia begs for character transfer](https://www.gamesradar.com/red-dead-redemption-2-fan-with-nearly-6000-hours-on-stadia-begs-rockstar-for-character-transfer/)
-- [Steampipe – Select * from Cloud;](https://steampipe.io/)
-- [Nordstream: An Accident?](https://thelawdogfiles.com/2022/09/nordstream.html)
+- [Cloudflare Radar 2.0](https://blog.cloudflare.com/radar2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
