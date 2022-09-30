@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are so many adults acting just like children?](https://aeon.co/essays/a-history-of-kidults-from-hello-kitty-to-disney-weddings)
+- [A Step-by-Step Guide to Our Solar System’s Demise](https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/)
+- [Jack Dorsey texts Elon Musk &lpar;March 26, 2022&rpar;](https://twitter.com/techemails/status/1575588277700026368)
 - [Kubernetes Security: 10 Best Practices from the Industry and Community](https://cast.ai/blog/kubernetes-security-10-best-practices/)
-- [Iollo &lpar;YC S22&rpar; is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
-- [Introduction to the Theory of Programming Languages &lpar;1991&rpar;](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
-- [Gottlob Frege: The machine in the ghost &lpar;2017&rpar;](https://www.prospectmagazine.co.uk/philosophy/the-machine-in-the-ghost)
-- [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
+- [Unprecedented, Google has added ads on both its search page and Chrome://newtab](https://news.ycombinator.com/item?id=33032470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
