@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubisoft will let you transfer your Stadia purchases to PC](https://www.theverge.com/2022/9/30/23380703/ubisoft-google-stadia-transfer-purchases-pc-shutdown)
-- [Ask HN: Am I the only one who does *NOT* want IoT in their solar panel setup?](https://news.ycombinator.com/item?id=33038829)
-- [Hacker group Guacamaya leaks military and police emails from various countries](http://web.archive.org/web/20220930043109/https://enlacehacktivista.org/index.php?title=Fuerzas_Represivas)
-- [Overwatch 2 will require a phone number to play](https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required)
-- [Rust and Elixir libraries for end-to-end encrypted secure communication](https://github.com/build-trust/ockam)
+- [A note and database manager with repetitive tasks and offline mode](https://fluski.com/)
+- [Locally Create Wasm UDFs in Rust and Use Them in SingleStoreDB](https://www.singlestore.com/blog/locally-create-wsm-udfs-rust-singlestoredb)
+- [Montreal is what North America could be](http://www.loukidelis.com/on-montreal.html)
+- [Why are nuclear power construction costs so high? Part III – the nuclear navy](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction-c3c)
+- [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
