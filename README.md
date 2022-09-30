@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Security: 10 Best Practices from the Industry and Community](https://cast.ai/blog/kubernetes-security-10-best-practices/)
 - [Iollo &lpar;YC S22&rpar; is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
 - [Introduction to the Theory of Programming Languages &lpar;1991&rpar;](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
+- [Gottlob Frege: The machine in the ghost &lpar;2017&rpar;](https://www.prospectmagazine.co.uk/philosophy/the-machine-in-the-ghost)
 - [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
-- [The reality of celebratory gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
-- [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
