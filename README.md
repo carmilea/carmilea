@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why are so many adults acting just like children?](https://aeon.co/essays/a-history-of-kidults-from-hello-kitty-to-disney-weddings)
 - [A Step-by-Step Guide to Our Solar System’s Demise](https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/)
-- [Jack Dorsey texts Elon Musk &lpar;March 26, 2022&rpar;](https://twitter.com/techemails/status/1575588277700026368)
-- [Kubernetes Security: 10 Best Practices from the Industry and Community](https://cast.ai/blog/kubernetes-security-10-best-practices/)
+- [Jack Dorsey texts Elon Musk, March 26, 2022](https://twitter.com/techemails/status/1575588277700026368)
 - [Unprecedented, Google has added ads on both its search page and Chrome://newtab](https://news.ycombinator.com/item?id=33032470)
+- [Iollo &lpar;YC S22&rpar; is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
