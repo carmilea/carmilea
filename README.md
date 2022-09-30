@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are so many adults acting just like children?](https://aeon.co/essays/a-history-of-kidults-from-hello-kitty-to-disney-weddings)
-- [A Step-by-Step Guide to Our Solar System’s Demise](https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/)
-- [Jack Dorsey texts Elon Musk, March 26, 2022](https://twitter.com/techemails/status/1575588277700026368)
-- [Unprecedented, Google has added ads on both its search page and Chrome://newtab](https://news.ycombinator.com/item?id=33032470)
-- [Iollo &lpar;YC S22&rpar; is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
+- [We worked for 4 months to build a port for Stadia and today we finished it](https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/)
+- [A call to reconsider memory address-space isolation in Linux](https://lwn.net/SubscriberLink/909469/95386a9171af0b46/)
+- [Rust Nation – A UK Conference for Rustaceans](https://www.rustnationuk.com)
+- [Show HN: Red Goose – Convert your website to mobile app](https://news.ycombinator.com/item?id=33033129)
+- [Reducing logging cost by two orders of magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
