@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We worked for 4 months to build a port for Stadia and today we finished it](https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/)
-- [A call to reconsider memory address-space isolation in Linux](https://lwn.net/SubscriberLink/909469/95386a9171af0b46/)
-- [Rust Nation – A UK Conference for Rustaceans](https://www.rustnationuk.com)
-- [Show HN: Red Goose – Convert your website to mobile app](https://news.ycombinator.com/item?id=33033129)
-- [Reducing logging cost by two orders of magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
+- [USB Charger &lpar;USB Power Delivery&rpar;](https://www.usb.org/usb-charger-pd)
+- [OpenStreepMap 2012 vs. 2022](https://2012.osmz.ru/#15/40.7822/-73.9685)
+- [Red Dead Redemption 2 fan with 6k hours on Stadia begs for character transfer](https://www.gamesradar.com/red-dead-redemption-2-fan-with-nearly-6000-hours-on-stadia-begs-rockstar-for-character-transfer/)
+- [Steampipe – Select * from Cloud;](https://steampipe.io/)
+- [Nordstream: An Accident?](https://thelawdogfiles.com/2022/09/nordstream.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
