@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Iollo &lpar;YC S22&rpar; is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
-- [Intro to the Theory of Programming Languages: full book now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
+- [Introduction to the Theory of Programming Languages &lpar;1991&rpar;](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
 - [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
-- [Go Micro: a standard library for distributed systems development](https://golangexample.com/go-micro-a-standard-library-for-distributed-systems-development/)
 - [The reality of celebratory gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
+- [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
