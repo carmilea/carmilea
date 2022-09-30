@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft will let you transfer your Stadia purchases to PC](https://www.theverge.com/2022/9/30/23380703/ubisoft-google-stadia-transfer-purchases-pc-shutdown)
+- [Ask HN: Am I the only one who does *NOT* want IoT in their solar panel setup?](https://news.ycombinator.com/item?id=33038829)
+- [Hacker group Guacamaya leaks military and police emails from various countries](http://web.archive.org/web/20220930043109/https://enlacehacktivista.org/index.php?title=Fuerzas_Represivas)
 - [Overwatch 2 will require a phone number to play](https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required)
 - [Rust and Elixir libraries for end-to-end encrypted secure communication](https://github.com/build-trust/ockam)
-- [Robo-Ostrich Sprints to 100-Meter World Record](https://spectrum.ieee.org/bipedal-robot-world-record-speed)
-- [Google Adsense/Admob blocks you for life if you use it before you&#39;re 18](https://support.google.com/adsense/thread/178197751/adsense-account?hl=en)
-- [Number of States with High Rates of Adult Obesity More Than Doubles](https://www.cdc.gov/media/releases/2022/p0927-states-obesity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
