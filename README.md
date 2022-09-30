@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AirMyne &lpar;YC W22&rpar; Hiring a Chemical Engineer in Berkeley, CA](https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer)
-- [The Art of Menus](https://www.spectator.co.uk/article/the-art-of-menus)
-- [Locally Create Wasm UDFs in Rust and Use Them in SingleStoreDB](https://www.singlestore.com/blog/locally-create-wsm-udfs-rust-singlestoredb)
-- [Why are nuclear power construction costs so high? Part III – the nuclear navy](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction-c3c)
-- [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
+- [The Fedora Project Remains Community Driven](https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html)
+- [Lyra V2 – a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
+- [Citrix acquired and merged with Tibco for $16.5B](https://www.cloud.com/news/press-release.html)
+- [Node_modules: One character saved 50 GB of disk space](https://mainmatter.com/blog/2022/09/29/pnpm/)
+- [AirMyne &lpar;YC W22&rpar; is hiring a chemical engineer in Berkeley, CA](https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
