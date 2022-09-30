@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Just received spam to an address only used at Amazon?](https://news.ycombinator.com/item?id=33036782)
-- [Layoffs at Meta starts next week, leaked on Blind](https://www.teamblind.com/post/Massive-layoffs-at-META-starts-next-week-6bDXueAR)
-- [Ask HN: Microsoft SmartScreen is destroying our business](https://news.ycombinator.com/item?id=33036748)
-- [Facebook Freeloads Off Newspapers. This Plan Might Stop It](https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/)
-- [FCC Approves 5 Year Satellite Deorbiting Rule](https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/)
+- [Patterns &lpar;YC S21&rpar; is hiring devs to help us build the Figma for data](https://www.patterns.app/)
+- [Hurricane Ian damages in Southeast estimated at $100B to $120B](https://www.bondbuyer.com/news/hurricane-ian-damages-in-southeast-estimated-at-100b-to-120b)
+- [House Democrats debut new bill to limit US police use of facial recognition](https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/)
+- [Microsoft bakes a VPN into Edge and turns it on](https://adguard-vpn.com/en/blog/vpn-built-browser-microsoft.html)
+- [Neovim 0.8 Released](https://github.com/neovim/neovim/releases/tag/v0.8.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
