@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar; is hiring devs to help us build the Figma for data](https://www.patterns.app/)
-- [Hurricane Ian damages in Southeast estimated at $100B to $120B](https://www.bondbuyer.com/news/hurricane-ian-damages-in-southeast-estimated-at-100b-to-120b)
-- [House Democrats debut new bill to limit US police use of facial recognition](https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/)
-- [Microsoft bakes a VPN into Edge and turns it on](https://adguard-vpn.com/en/blog/vpn-built-browser-microsoft.html)
-- [Neovim 0.8 Released](https://github.com/neovim/neovim/releases/tag/v0.8.0)
+- [Overwatch 2 will require a phone number to play](https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required)
+- [Rust and Elixir libraries for end-to-end encrypted secure communication](https://github.com/build-trust/ockam)
+- [Robo-Ostrich Sprints to 100-Meter World Record](https://spectrum.ieee.org/bipedal-robot-world-record-speed)
+- [Google Adsense/Admob blocks you for life if you use it before you&#39;re 18](https://support.google.com/adsense/thread/178197751/adsense-account?hl=en)
+- [Number of States with High Rates of Adult Obesity More Than Doubles](https://www.cdc.gov/media/releases/2022/p0927-states-obesity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
