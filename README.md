@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systems Software Research is Irrelevant &lpar;2000&rpar; [pdf]](https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf)
+- [230K Chinese “persuaded to return” from abroad to establish Extraterritoriality](https://safeguarddefenders.com/en/blog/230000-policing-expands)
 - [Padlet &lpar;YC W13&rpar; Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 - [The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs &lpar;Ca. 1902&rpar;](https://publicdomainreview.org/collection/hamann-turner/)
 - [Show HN: An ultra-light-weight tool to quickly test your ping](http://ping.projects.chrisjeakle.com)
-- [TikTok tracks you across the web, even if you don’t use the app](https://www.consumerreports.org/electronics-computers/privacy/tiktok-tracks-you-across-the-web-even-if-you-dont-use-app-a4383537813/)
-- [Why are plants green? To reduce the noise in photosynthesis](https://worldsensorium.com/why-are-plants-green/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
