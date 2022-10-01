@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is your cloud strategy vis-à-vis Google Cloud?](https://news.ycombinator.com/item?id=33045495)
-- [The &#39;Egg&#39; Laptop](https://www.ikejima.org/projects/2022091-egg-laptop.html)
-- [Seer – a GUI front end to GDB for Linux](https://github.com/epasveer/seer)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Book Reviews by Danny Yee &lpar;fiction and nonfiction&rpar;](https://dannyreviews.com/)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Finance, Ops and M&amp;a Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
+- [Mle is a small, flexible, terminal-based text editor written in C](https://github.com/adsr/mle)
+- [Enhanced noise suppression in Jitsi Meet](https://jitsi.org/blog/enhanced-noise-suppression-in-jitsi-meet/)
+- [Plant-Based Meat Analogues Weaken Gastrointestinal Digestive Function &lpar;in mice&rpar;](https://doi.org/10.1021/acs.jafc.2c04246)
+- [Paris Will Become ‘100% Cyclable’](https://www.bloomberg.com/news/articles/2021-10-22/how-paris-will-become-100-cyclable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
