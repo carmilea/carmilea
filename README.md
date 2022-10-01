@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- [Padlet &lpar;YC W13&rpar; Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- [The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs &lpar;Ca. 1902&rpar;](https://publicdomainreview.org/collection/hamann-turner/)
 - [Show HN: An ultra-light-weight tool to quickly test your ping](http://ping.projects.chrisjeakle.com)
-- [TikTok Tracks You Across the Web, Even If You Don’t Use the App](https://www.consumerreports.org/electronics-computers/privacy/tiktok-tracks-you-across-the-web-even-if-you-dont-use-app-a4383537813/)
-- [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://worldsensorium.com/why-are-plants-green/)
-- [Rammstein Get Restraining Order Blocking Viagogo from Reselling Concert Tickets](https://consequence.net/2022/10/rammstein-block-resell-concert-tickets/)
+- [TikTok tracks you across the web, even if you don’t use the app](https://www.consumerreports.org/electronics-computers/privacy/tiktok-tracks-you-across-the-web-even-if-you-dont-use-app-a4383537813/)
+- [Why are plants green? To reduce the noise in photosynthesis](https://worldsensorium.com/why-are-plants-green/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
