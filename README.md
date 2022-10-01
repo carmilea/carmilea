@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
+- [Why Men Are Hard to Help](https://nationalaffairs.com/publications/detail/why-men-are-hard-to-help)
 - [Boom! Antitrust Bill Passed](https://mattstoller.substack.com/p/boom-antitrust-bill-passed)
 - [First evidence of social relationships between chimpanzees, gorillas: study](https://source.wustl.edu/2022/09/study-reports-first-evidence-of-social-relationships-between-chimpanzees-gorillas/)
 - [Amazon to Close 4 of Its 5 US Call Centers, Shifts to Work-from-Home](https://wolfstreet.com/2022/09/29/amazon-to-close-4-of-its-5-us-call-centers-shifts-to-work-from-home-after-closing-44-warehouses-halting-construction-on-8-office-towers/)
-- [The self-taught UI/UX designer roadmap &lpar;2021&rpar;](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
-- [A surprising way to lose your files on Windows](https://news.ycombinator.com/item?id=33047150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
