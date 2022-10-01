@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hutter Prize](https://en.wikipedia.org/wiki/Hutter_Prize)
+- [Around 83.4% of Fortune 500 have Azure Active Directory](https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Finance, Ops and M&amp;a Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
 - [Mle is a small, flexible, terminal-based text editor written in C](https://github.com/adsr/mle)
 - [Enhanced noise suppression in Jitsi Meet](https://jitsi.org/blog/enhanced-noise-suppression-in-jitsi-meet/)
-- [Plant-Based Meat Analogues Weaken Gastrointestinal Digestive Function &lpar;in mice&rpar;](https://doi.org/10.1021/acs.jafc.2c04246)
-- [Paris Will Become ‘100% Cyclable’](https://www.bloomberg.com/news/articles/2021-10-22/how-paris-will-become-100-cyclable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
