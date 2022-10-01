@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Science says we could “cure” ageing. But should we?](https://www.polytechnique-insights.com/en/columns/health-and-biotech/science-says-we-could-cure-ageing-but-should-we/)
 - [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
 - [YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary](https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/)
 - [GitHub&#39;s Missing Merge Option](https://tylercipriani.com/blog/2022/09/30/githubs-missing-merge-option/)
 - [H4CK1NG G00GL3](https://h4ck1ng.google)
+- [Magic Leap 2: The most immersive AR platform for enterprise](https://www.magicleap.com/en-us/magic-leap-2-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
