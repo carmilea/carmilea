@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- [Show HN: An ultra-light-weight tool to quickly test your ping](http://ping.projects.chrisjeakle.com)
+- [TikTok Tracks You Across the Web, Even If You Don’t Use the App](https://www.consumerreports.org/electronics-computers/privacy/tiktok-tracks-you-across-the-web-even-if-you-dont-use-app-a4383537813/)
+- [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://worldsensorium.com/why-are-plants-green/)
 - [Rammstein Get Restraining Order Blocking Viagogo from Reselling Concert Tickets](https://consequence.net/2022/10/rammstein-block-resell-concert-tickets/)
-- [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
-- [Show HN: SigNoz – open-source alternative to DataDog, NewRelic](https://github.com/SigNoz/signoz)
-- [Bash one-liner to produce a list of HEX color codes that read like English words](https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
