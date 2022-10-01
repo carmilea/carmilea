@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)
-- [The Limits of Rationality](https://pursuingreality.com/2020/11/25/the-limits-of-rationality/)
-- [Stadia Is a Major Driver of Vulkan Adoption](https://stadiadosage.com/stadia-driver-of-vulkan/)
-- [Around 83.4% of Fortune 500 have Azure Active Directory](https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/)
-- [Solo founder dilemma; CEO or CTO?](https://nvnt.substack.com/p/solo-founder-dilemma-ceo-or-cto)
+- [The self-taught UI/UX designer roadmap &lpar;2021&rpar;](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
+- [A surprising way to lose your files on Windows](https://news.ycombinator.com/item?id=33047150)
+- [Testing React Apps in 2022 with Cypress: An In-Depth Guide for Beginners](https://profy.dev/article/cypress-react)
+- [Japan tests explosion-powered rocket for the first time in space &lpar;2021&rpar;](https://www.autoevolution.com/news/japan-tests-explosion-powered-rocket-for-the-first-time-in-space-is-a-success-167696.html)
+- [Our ancestors ate a Paleo diet and it had carbs](https://knowablemagazine.org/article/food-environment/2022/our-ancestors-paleo-diet-had-carbs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
