@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hutter Prize](https://en.wikipedia.org/wiki/Hutter_Prize)
+- [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)
+- [The Limits of Rationality](https://pursuingreality.com/2020/11/25/the-limits-of-rationality/)
+- [Stadia Is a Major Driver of Vulkan Adoption](https://stadiadosage.com/stadia-driver-of-vulkan/)
 - [Around 83.4% of Fortune 500 have Azure Active Directory](https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Finance, Ops and M&amp;a Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
-- [Mle is a small, flexible, terminal-based text editor written in C](https://github.com/adsr/mle)
-- [Enhanced noise suppression in Jitsi Meet](https://jitsi.org/blog/enhanced-noise-suppression-in-jitsi-meet/)
+- [Solo founder dilemma; CEO or CTO?](https://nvnt.substack.com/p/solo-founder-dilemma-ceo-or-cto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
