@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seer – a GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Book Reviews by Danny Yee &lpar;fiction and nonfiction&rpar;](https://dannyreviews.com/)
-- [Bruce Willis Sells Deepfake Likeness Rights So His &#39;Twin&#39; Can Star in Movies](https://www.cbr.com/bruce-willis-sells-deepfake-likeness/)
 - [Predicting Google Closures &lpar;2013&rpar;](https://www.gwern.net/Google-shutdowns)
 - [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
 <!-- BLOG-POST-LIST:END -->
