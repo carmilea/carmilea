@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom! Antitrust Bill Passed](https://mattstoller.substack.com/p/boom-antitrust-bill-passed)
+- [First evidence of social relationships between chimpanzees, gorillas: study](https://source.wustl.edu/2022/09/study-reports-first-evidence-of-social-relationships-between-chimpanzees-gorillas/)
+- [Amazon to Close 4 of Its 5 US Call Centers, Shifts to Work-from-Home](https://wolfstreet.com/2022/09/29/amazon-to-close-4-of-its-5-us-call-centers-shifts-to-work-from-home-after-closing-44-warehouses-halting-construction-on-8-office-towers/)
 - [The self-taught UI/UX designer roadmap &lpar;2021&rpar;](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 - [A surprising way to lose your files on Windows](https://news.ycombinator.com/item?id=33047150)
-- [Testing React Apps in 2022 with Cypress: An In-Depth Guide for Beginners](https://profy.dev/article/cypress-react)
-- [Japan tests explosion-powered rocket for the first time in space &lpar;2021&rpar;](https://www.autoevolution.com/news/japan-tests-explosion-powered-rocket-for-the-first-time-in-space-is-a-success-167696.html)
-- [Our ancestors ate a Paleo diet and it had carbs](https://knowablemagazine.org/article/food-environment/2022/our-ancestors-paleo-diet-had-carbs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
