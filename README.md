@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [A study of lights at night suggests dictators lie about economic growth](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
+- [Book Reviews by Danny Yee &lpar;fiction and nonfiction&rpar;](https://dannyreviews.com/)
 - [Bruce Willis Sells Deepfake Likeness Rights So His &#39;Twin&#39; Can Star in Movies](https://www.cbr.com/bruce-willis-sells-deepfake-likeness/)
 - [Predicting Google Closures &lpar;2013&rpar;](https://www.gwern.net/Google-shutdowns)
 - [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
