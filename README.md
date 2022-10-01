@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [A study of lights at night suggests dictators lie about economic growth](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
 - [Bruce Willis Sells Deepfake Likeness Rights So His &#39;Twin&#39; Can Star in Movies](https://www.cbr.com/bruce-willis-sells-deepfake-likeness/)
 - [Predicting Google Closures &lpar;2013&rpar;](https://www.gwern.net/Google-shutdowns)
 - [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
-- [YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary](https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/)
-- [GitHub&#39;s Missing Merge Option](https://tylercipriani.com/blog/2022/09/30/githubs-missing-merge-option/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
