@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
+- [Bash one-liner to produce a list of HEX color codes that read like English words](https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [Why Men Are Hard to Help](https://nationalaffairs.com/publications/detail/why-men-are-hard-to-help)
 - [Boom! Antitrust Bill Passed](https://mattstoller.substack.com/p/boom-antitrust-bill-passed)
 - [First evidence of social relationships between chimpanzees, gorillas: study](https://source.wustl.edu/2022/09/study-reports-first-evidence-of-social-relationships-between-chimpanzees-gorillas/)
-- [Amazon to Close 4 of Its 5 US Call Centers, Shifts to Work-from-Home](https://wolfstreet.com/2022/09/29/amazon-to-close-4-of-its-5-us-call-centers-shifts-to-work-from-home-after-closing-44-warehouses-halting-construction-on-8-office-towers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
