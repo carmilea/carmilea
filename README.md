@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rammstein Get Restraining Order Blocking Viagogo from Reselling Concert Tickets](https://consequence.net/2022/10/rammstein-block-resell-concert-tickets/)
 - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
+- [Show HN: SigNoz – open-source alternative to DataDog, NewRelic](https://github.com/SigNoz/signoz)
 - [Bash one-liner to produce a list of HEX color codes that read like English words](https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [Boom! Antitrust Bill Passed](https://mattstoller.substack.com/p/boom-antitrust-bill-passed)
-- [First evidence of social relationships between chimpanzees, gorillas: study](https://source.wustl.edu/2022/09/study-reports-first-evidence-of-social-relationships-between-chimpanzees-gorillas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
