@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fedora Project Remains Community Driven](https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html)
-- [Lyra V2 – a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
-- [Citrix acquired and merged with Tibco for $16.5B](https://www.cloud.com/news/press-release.html)
-- [Node_modules: One character saved 50 GB of disk space](https://mainmatter.com/blog/2022/09/29/pnpm/)
-- [AirMyne &lpar;YC W22&rpar; is hiring a chemical engineer in Berkeley, CA](https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer)
+- [Science says we could “cure” ageing. But should we?](https://www.polytechnique-insights.com/en/columns/health-and-biotech/science-says-we-could-cure-ageing-but-should-we/)
+- [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
+- [YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary](https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/)
+- [GitHub&#39;s Missing Merge Option](https://tylercipriani.com/blog/2022/09/30/githubs-missing-merge-option/)
+- [H4CK1NG G00GL3](https://h4ck1ng.google)
 <!-- BLOG-POST-LIST:END -->
 
 ---
