@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Palantir Will Steal the NHS](https://pluralistic.net/2022/10/01/the-palantir-will-see-you-now/#public-private-partnership)
+- [Hyperlinks in Handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
+- [The First RISC: John Cocke and the IBM 801](https://thechipletter.substack.com/p/the-first-risc-john-cocke-and-the)
 - [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
 - [Debian votes for non-free firmware in the installer](https://lists.debian.org/debian-vote/2022/10/msg00000.html)
-- [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
-- [Recon and Attack Vectors from My Logs](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
-- [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
