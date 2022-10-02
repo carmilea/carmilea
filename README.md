@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bizarre Vintage Photos of Steam Engines After a Boiler Explosion](https://designyoutrust.com/2020/02/bizarre-vintage-photos-of-steam-engines-after-a-boiler-explosion-from-the-late-19th-and-early-20th-centuries/)
-- [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
-- [The Andy Warhol case that could wreck American art](https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/)
-- [Mandated diversity statement drives Jonathan Haidt to quit academic society](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
-- [Comfy Software: A software aesthetic for hackers with depression](https://catgirl.ai/log/comfy-software/)
+- [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
+- [From 7 Years of Apache HTTP Server Logs: 5528 Unique Recon and Attack Vectors](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
+- [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
+- [Capsule: the nano &lpar;WASM&rpar; functions runner](https://github.com/bots-garden/capsule)
+- [A computational perspective on the Nobel Prize](https://www.nature.com/articles/s43588-022-00325-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
