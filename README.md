@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
+- [Use Bookmarklets on Chrome on Android &lpar;2020&rpar;](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/)
 - [Ubisoft+Bungie Scrambling to Evacuate Players Games from Capsizing Google Stadia](https://www.forbes.com/sites/paultassi/2022/10/02/ubisoft-bungie-scrambling-to-evacuate-players-games-and-characters-from-a-capsizing-google-stadia/)
+- [Tesla Vehicle Production and Deliveries for 3Q 2022](https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-third-quarter)
 - [Cobra Maneuver](https://en.wikipedia.org/wiki/Cobra_maneuver)
-- [Sauna use as a lifestyle practice to extend healthspan](https://www.sciencedirect.com/science/article/pii/S0531556521002916)
-- [Bogotá&#39;s website has sign language titles](https://bogota.gov.co/en)
-- [Show HN: FocusedEdit – a classic Macintosh to web browser shared text editor](https://github.com/CamHenlin/FocusedEdit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
