@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Palantir Will Steal the NHS](https://pluralistic.net/2022/10/01/the-palantir-will-see-you-now/#public-private-partnership)
+- [Ask HN: In what ways is programming more difficult today than it was years ago?](https://news.ycombinator.com/item?id=33056052)
+- [Baker&#39;s Math](https://www.thefreshloaf.com/handbook/baker039s-math)
 - [Hyperlinks in Handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 - [The First RISC: John Cocke and the IBM 801](https://thechipletter.substack.com/p/the-first-risc-john-cocke-and-the)
 - [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
-- [Debian votes for non-free firmware in the installer](https://lists.debian.org/debian-vote/2022/10/msg00000.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
