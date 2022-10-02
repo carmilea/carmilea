@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haidt Quits Academic Society Due to Diversity Statement Mandate](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
+- [LSD-like molecules counter depession without the trip](https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip)
 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
 - [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
 - [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
-- [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
-- [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
