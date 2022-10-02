@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Just Can&#39;t Kick Lisp](https://blog.djha.skin/blog/i-just-cant-kick-lisp/)
+- [After chess, cheating rows rock poker and fishing](https://www.bbc.com/news/world-us-canada-63108879)
 - [Some take meetings from home, I do it from the matrix - console webcam feed](https://github.com/joschuck/matrix-webcam)
 - [Japan WWII poison gas agents still scarring people today](https://mainichi.jp/english/articles/20221002/p2g/00m/0na/026000c)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
