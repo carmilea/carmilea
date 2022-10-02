@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Email sent via work email &lpar;Outlook&rpar; replied to personal Gmail](https://news.ycombinator.com/item?id=33053113)
+- [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
+- [The Andy Warhol case that could wreck American art](https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/)
+- [Haidt quits academic society due to diversity statement mandate](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
+- [Comfy Software: A software aesthetic for hackers with depression](https://catgirl.ai/log/comfy-software/)
 - [Milky Way&#39;s graveyard of dead stars found](https://phys.org/news/2022-09-milky-graveyard-dead-stars.html)
-- [LSD-like molecules counter depession without the trip](https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip)
-- [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
-- [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
