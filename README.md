@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
+- [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
 - [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
-- [What proteins are we getting from the Covid vaccines?](https://joomi.substack.com/p/what-proteins-are-we-actually-getting)
-- [Stadia died because no one trusts Google • TechCrunch](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
+- [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
 - [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
-- [Remote Functions. Instead of API](https://telefunc.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
