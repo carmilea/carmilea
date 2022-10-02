@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBSing at 300 Bits per Second](https://jcs.org/2022/10/02/whisper_writer)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [First make the change easy, then make the easy change &lpar;2021&rpar;](https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change)
-- [Ask HN: Which mailing lists would you recommend to subscribe to?](https://news.ycombinator.com/item?id=33059231)
-- [After chess, cheating rows rock poker and fishing](https://www.bbc.com/news/world-us-canada-63108879)
+- [Go Auth Lib](https://github.com/go-pkgz/auth)
+- [Muon: GPU Based Electron on a Diet](https://github.com/ImVexed/muon)
+- [Photo of plutonium at Los Alamos shut down a lab for four years &lpar;2017&rpar;](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
+- [Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
+- [New asteroid strike images show impact &#39;a lot bigger than expected&#39;](https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
