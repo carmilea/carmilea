@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [First make the change easy, then make the easy change](https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change)
+- [Brazilian vote counting &lpar;real time&rpar;](https://resultados.tse.jus.br/oficial/app/index.html#/m/eleicao/resultados)
 - [After chess, cheating rows rock poker and fishing](https://www.bbc.com/news/world-us-canada-63108879)
 - [Some take meetings from home, I do it from the matrix - console webcam feed](https://github.com/joschuck/matrix-webcam)
-- [Japan WWII poison gas agents still scarring people today](https://mainichi.jp/english/articles/20221002/p2g/00m/0na/026000c)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
-- [Use Bookmarklets on Chrome on Android &lpar;2020&rpar;](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
