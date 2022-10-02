@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft+Bungie Scrambling to Evacuate Players Games from Capsizing Google Stadia](https://www.forbes.com/sites/paultassi/2022/10/02/ubisoft-bungie-scrambling-to-evacuate-players-games-and-characters-from-a-capsizing-google-stadia/)
+- [Cobra Maneuver](https://en.wikipedia.org/wiki/Cobra_maneuver)
+- [Sauna use as a lifestyle practice to extend healthspan](https://www.sciencedirect.com/science/article/pii/S0531556521002916)
+- [Bogotá&#39;s website has sign language titles](https://bogota.gov.co/en)
 - [Show HN: FocusedEdit – a classic Macintosh to web browser shared text editor](https://github.com/CamHenlin/FocusedEdit)
-- [Meet Silicon Valley’s rattled layoff ‘survivors’](https://fortune.com/2022/09/30/what-its-like-for-tech-employees-who-survive-layoffs-at-company/)
-- [“Rust is safe” is not some kind of absolute guarantee of code safety](https://lkml.org/lkml/2022/9/19/1105#1105.php)
-- [Baker&#39;s Math](https://www.thefreshloaf.com/handbook/baker039s-math)
-- [Norvig&#39;s Law](https://norvig.com/norvigs-law.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
