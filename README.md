@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BBSing at 300 Bits per Second](https://jcs.org/2022/10/02/whisper_writer)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [First make the change easy, then make the easy change](https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change)
-- [Brazilian vote counting &lpar;real time&rpar;](https://resultados.tse.jus.br/oficial/app/index.html#/m/eleicao/resultados)
+- [First make the change easy, then make the easy change &lpar;2021&rpar;](https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change)
+- [Ask HN: Which mailing lists would you recommend to subscribe to?](https://news.ycombinator.com/item?id=33059231)
 - [After chess, cheating rows rock poker and fishing](https://www.bbc.com/news/world-us-canada-63108879)
-- [Some take meetings from home, I do it from the matrix - console webcam feed](https://github.com/joschuck/matrix-webcam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
