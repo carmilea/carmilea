@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: In what ways is programming more difficult today than it was years ago?](https://news.ycombinator.com/item?id=33056052)
+- [Show HN: FocusedEdit – a classic Macintosh to web browser shared text editor](https://github.com/CamHenlin/FocusedEdit)
+- [Meet Silicon Valley’s rattled layoff ‘survivors’](https://fortune.com/2022/09/30/what-its-like-for-tech-employees-who-survive-layoffs-at-company/)
+- [“Rust is safe” is not some kind of absolute guarantee of code safety](https://lkml.org/lkml/2022/9/19/1105#1105.php)
 - [Baker&#39;s Math](https://www.thefreshloaf.com/handbook/baker039s-math)
-- [Hyperlinks in Handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
-- [The First RISC: John Cocke and the IBM 801](https://thechipletter.substack.com/p/the-first-risc-john-cocke-and-the)
-- [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
+- [Norvig&#39;s Law](https://norvig.com/norvigs-law.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
