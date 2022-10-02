@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Stop Caring &lpar;Professionally&rpar;?](https://news.ycombinator.com/item?id=33054652)
+- [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
+- [Debian votes for non-free firmware in the installer](https://lists.debian.org/debian-vote/2022/10/msg00000.html)
 - [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
-- [From 7 Years of Apache HTTP Server Logs: 5528 Unique Recon and Attack Vectors](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
+- [Recon and Attack Vectors from My Logs](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
 - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
-- [Capsule: the nano &lpar;WASM&rpar; functions runner](https://github.com/bots-garden/capsule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
