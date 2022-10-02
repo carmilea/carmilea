@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bizarre Vintage Photos of Steam Engines After a Boiler Explosion](https://designyoutrust.com/2020/02/bizarre-vintage-photos-of-steam-engines-after-a-boiler-explosion-from-the-late-19th-and-early-20th-centuries/)
 - [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
 - [The Andy Warhol case that could wreck American art](https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/)
-- [Haidt quits academic society due to diversity statement mandate](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
+- [Mandated diversity statement drives Jonathan Haidt to quit academic society](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
 - [Comfy Software: A software aesthetic for hackers with depression](https://catgirl.ai/log/comfy-software/)
-- [Milky Way&#39;s graveyard of dead stars found](https://phys.org/news/2022-09-milky-graveyard-dead-stars.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
