@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to Stop Caring &lpar;Professionally&rpar;?](https://news.ycombinator.com/item?id=33054652)
 - [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
 - [From 7 Years of Apache HTTP Server Logs: 5528 Unique Recon and Attack Vectors](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
 - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 - [Capsule: the nano &lpar;WASM&rpar; functions runner](https://github.com/bots-garden/capsule)
-- [A computational perspective on the Nobel Prize](https://www.nature.com/articles/s43588-022-00325-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
