@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I Just Can&#39;t Kick Lisp](https://blog.djha.skin/blog/i-just-cant-kick-lisp/)
+- [Some take meetings from home, I do it from the matrix - console webcam feed](https://github.com/joschuck/matrix-webcam)
 - [Japan WWII poison gas agents still scarring people today](https://mainichi.jp/english/articles/20221002/p2g/00m/0na/026000c)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
 - [Use Bookmarklets on Chrome on Android &lpar;2020&rpar;](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/)
-- [Ubisoft+Bungie Scrambling to Evacuate Players Games from Capsizing Google Stadia](https://www.forbes.com/sites/paultassi/2022/10/02/ubisoft-bungie-scrambling-to-evacuate-players-games-and-characters-from-a-capsizing-google-stadia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
