@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Systems Software Research is Irrelevant &lpar;2000&rpar; [pdf]](https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf)
-- [230K Chinese “persuaded to return” from abroad to establish Extraterritoriality](https://safeguarddefenders.com/en/blog/230000-policing-expands)
-- [Padlet &lpar;YC W13&rpar; Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- [The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs &lpar;Ca. 1902&rpar;](https://publicdomainreview.org/collection/hamann-turner/)
-- [Show HN: An ultra-light-weight tool to quickly test your ping](http://ping.projects.chrisjeakle.com)
+- [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
+- [What proteins are we getting from the Covid vaccines?](https://joomi.substack.com/p/what-proteins-are-we-actually-getting)
+- [Stadia died because no one trusts Google • TechCrunch](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
+- [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
+- [Remote Functions. Instead of API](https://telefunc.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
