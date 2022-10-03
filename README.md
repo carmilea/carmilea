@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Feel the power of the Manifest v3. The future is now!](https://github.com/gildas-lormeau/SingleFile-Lite)
+- [Feel the power of the Manifest v3](https://github.com/gildas-lormeau/SingleFile-Lite)
+- [Paseto is everything you love about JWT without any of the design deficits](https://paseto.io/)
 - [Why shaving dulls even the sharpest of razors &lpar;2020&rpar;](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
 - [Tell HN: A disabled 40-year-old person founded a startup and makes a living](https://news.ycombinator.com/item?id=33062606)
 - [PayPal’s updated acceptable use policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf)
-- [Linux Kernel 6.0](https://lwn.net/Articles/910087/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
