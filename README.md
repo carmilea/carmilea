@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Processing 40 TB of code from ~10M projects with a server and Go for $100](https://boyter.org/posts/an-informal-survey-of-10-million-github-bitbucket-gitlab-projects/#future-ideas)
+- [Over 80% of pregnancy-related deaths in the U.S. are preventable](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html)
+- [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
 - [You can&#39;t buy a Raspberry Pi](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)
 - [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
-- [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
-- [The Fundamentals of Control Theory](https://engineeringmedia.com/books)
-- [Paul McCartney&#39;s Freakish Memory](https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
