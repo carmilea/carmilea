@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ivy &lpar;YC W23&rpar; Is Hiring Software Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Why Lyft Is Eating Uber’s Dust](https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545)
-- [Wasoko and Zanzibar partner to launch an innovation hub](https://furtherafrica.com/2022/09/08/wasoko-and-zanzibar-partner-to-launch-an-innovation-hub/)
-- [Apple’s ad business set to boom on the back of its own anti-tracking crackdown](https://adguard.com/en/blog/apple-tracking-ads-business.html)
-- [You should have lots of AWS accounts](https://src-bin.com/you-should-have-lots-of-aws-accounts/)
+- [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
+- [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
+- [The Fundamentals of Control Theory](https://engineeringmedia.com/books)
+- [Paul McCartney&#39;s Freakish Memory](https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory)
+- [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
