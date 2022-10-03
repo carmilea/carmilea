@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg says Meta will freeze hiring and cut costs](https://techcrunch.com/2022/09/29/meta-hiring-freeze-zuckerberg/)
+- [Show HN: We designed and implemented graph projection feature](https://news.ycombinator.com/item?id=33065158)
+- [Japan ends distribution of AstraZeneca Covid-19 vaccine, discards 13M doses](https://mainichi.jp/english/articles/20221001/p2a/00m/0na/004000c)
 - [Feel the power of the Manifest v3](https://github.com/gildas-lormeau/SingleFile-Lite)
-- [Paseto is everything you love about JWT without any of the design deficits](https://paseto.io/)
 - [How a razor blade can be damaged as it cuts human hair &lpar;2020&rpar;](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
 - [Tell HN: A disabled 40-year-old person founded a startup and makes a living](https://news.ycombinator.com/item?id=33062606)
 <!-- BLOG-POST-LIST:END -->
