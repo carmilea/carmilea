@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The next generation of Materialize](https://materialize.com/blog/next-generation/)
-- [Meta in Free Fall: Users Leaving, Revenue Down, Stock Keeps Falling](https://petapixel.com/2022/09/30/meta-is-in-free-fall-users-are-leaving-revenue-is-down-stock-keeps-falling/)
-- [Why aren’t you using pretrained models?](https://www.lrz.me/simple-vector-search.html)
-- [Think apartment-hunting is frustrating? Try doing it with an electric car](https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/)
-- [Putin Always Chooses Escalation](https://faridaily.substack.com/p/putin-always-chooses-escalation)
+- [Ask HN: Who is hiring? &lpar;October 2022&rpar;](https://news.ycombinator.com/item?id=33068421)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;October 2022&rpar;](https://news.ycombinator.com/item?id=33068420)
+- [Ask HN: Who wants to be hired? &lpar;October 2022&rpar;](https://news.ycombinator.com/item?id=33068418)
+- [Shrinking Mississippi River Puts American Farm Trade at Risks](https://gcaptain.com/shrinking-mississippi-river-puts-american-farm-trade-at-risks/)
+- [I need structure in my life](https://janellsihay.com/i-need-structure-in-my-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
