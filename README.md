@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can&#39;t buy a Raspberry Pi](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)
 - [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
 - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 - [The Fundamentals of Control Theory](https://engineeringmedia.com/books)
 - [Paul McCartney&#39;s Freakish Memory](https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory)
-- [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
