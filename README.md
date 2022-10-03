@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal to charge users $2500 per incident of violating new speech rules #5 [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf)
+- [Linux Kernel 6.0 Released](https://lwn.net/Articles/910087/)
+- [Flexport is hiring engineers to build technology to power supply chains](https://flexport.com/careers)
+- [New Pegasus Spyware Abuses Identified in Mexico](https://citizenlab.ca/2022/10/new-pegasus-spyware-abuses-identified-in-mexico/)
 - [Go Auth Lib](https://github.com/go-pkgz/auth)
-- [Muon: GPU Based Electron on a Diet](https://github.com/ImVexed/muon)
-- [Photo of plutonium at Los Alamos shut down a lab for four years &lpar;2017&rpar;](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
-- [Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
-- [New asteroid strike images show impact &#39;a lot bigger than expected&#39;](https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
