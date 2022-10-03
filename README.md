@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy &lpar;YC W23&rpar; Is Hiring Software Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Why Lyft Is Eating Uber’s Dust](https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545)
+- [Wasoko and Zanzibar partner to launch an innovation hub](https://furtherafrica.com/2022/09/08/wasoko-and-zanzibar-partner-to-launch-an-innovation-hub/)
 - [Apple’s ad business set to boom on the back of its own anti-tracking crackdown](https://adguard.com/en/blog/apple-tracking-ads-business.html)
-- [mod_wasm: Run WebAssembly with Apache](https://wasmlabs.dev/articles/apache-mod-wasm/)
-- [“Britain should be viewed as a canary in the coal mine”](https://compactmag.com/article/the-pound-s-warning-for-europe)
-- [Ask HN: Who is hiring? &lpar;October 2022&rpar;](https://news.ycombinator.com/item?id=33068421)
-- [Shrinking Mississippi River Puts American Farm Trade at Risks](https://gcaptain.com/shrinking-mississippi-river-puts-american-farm-trade-at-risks/)
+- [You should have lots of AWS accounts](https://src-bin.com/you-should-have-lots-of-aws-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
