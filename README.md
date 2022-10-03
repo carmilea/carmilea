@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Snackable: What Makes SingleStoreDB Fast?](https://www.youtube.com/watch?v=ZKaZ89-Yijg)
 - [SingleStore | Engineering Livestream | September](https://www.youtube.com/watch?v=RCZnIHm2MiQ)
 - [SingleStore | Community Call | September](https://www.youtube.com/watch?v=AbEldMbHmZA)
 - [Big Data Journey: Unifying and Modernizing Databases With Imperva and SingleStore](https://www.youtube.com/watch?v=-9gRP5Qw5IA)
 - [SingleStore Snackables: What Makes SingleStoreDB Unique?](https://www.youtube.com/watch?v=C29owZyi6XE)
-- [Better Together: Google Cloud &amp; SingleStore](https://www.youtube.com/watch?v=vltqTBG_Vyg)
 <!-- YOUTUBE:END -->
 
 
