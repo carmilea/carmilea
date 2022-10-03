@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
 - [Hckr news – Hacker News sorted by time](https://hckrnews.com/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33073638)
 - [Processing 40 TB of code from ~10M projects with a server and Go for $100 &lpar;2019&rpar;](https://boyter.org/posts/an-informal-survey-of-10-million-github-bitbucket-gitlab-projects/#future-ideas)
-- [Over 80% of pregnancy-related deaths in the U.S. are preventable](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html)
 - [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
 <!-- BLOG-POST-LIST:END -->
 
