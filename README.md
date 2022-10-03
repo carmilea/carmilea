@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You are going to see your parents 15 more times in total](https://nitter.1d4.us/SahilBloom/status/1571137341997318147)
-- [Turkey’s inflation hits 83% as Erdogan vows to keep cutting interest rates](https://www.cnbc.com/2022/10/03/turkey-inflation-hits-83percent-erdogan-vows-to-keep-cutting-rates-.html)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [SEC Charges Kim Kardashian for Touting Crypto Asset Security](https://www.bloomberg.com/news/articles/2022-10-03/sec-charges-kim-kardashian-for-touting-crypto-asset-security-l8sp7fyr)
-- [Google Analytics is injected with Stripe.js when enabling Google Pay](https://twitter.com/jackellis/status/1576879802379751424)
+- [The next generation of Materialize](https://materialize.com/blog/next-generation/)
+- [Meta in Free Fall: Users Leaving, Revenue Down, Stock Keeps Falling](https://petapixel.com/2022/09/30/meta-is-in-free-fall-users-are-leaving-revenue-is-down-stock-keeps-falling/)
+- [Why aren’t you using pretrained models?](https://www.lrz.me/simple-vector-search.html)
+- [Think apartment-hunting is frustrating? Try doing it with an electric car](https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/)
+- [Putin Always Chooses Escalation](https://faridaily.substack.com/p/putin-always-chooses-escalation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
