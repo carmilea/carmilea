@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PayPal to charge users $2500 per incident of violating new speech rules #5 [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf)
-- [Linux Kernel 6.0 Released](https://lwn.net/Articles/910087/)
+- [Why shaving dulls even the sharpest of razors &lpar;2020&rpar;](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
+- [A disabled 40 years old person founded a startup and make a living](https://news.ycombinator.com/item?id=33062606)
+- [PayPal’s updated acceptable use policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf)
+- [Linux Kernel 6.0](https://lwn.net/Articles/910087/)
 - [Flexport is hiring engineers to build technology to power supply chains](https://flexport.com/careers)
-- [New Pegasus Spyware Abuses Identified in Mexico](https://citizenlab.ca/2022/10/new-pegasus-spyware-abuses-identified-in-mexico/)
-- [Go Auth Lib](https://github.com/go-pkgz/auth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
