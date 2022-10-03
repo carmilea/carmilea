@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hckr news – Hacker News sorted by time](https://hckrnews.com/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33073638)
-- [Publishers Lose Their Shit After Authors Push Back on Their Attack on Libraries](https://www.techdirt.com/2022/10/03/publishers-lose-their-shit-after-authors-push-back-on-their-attack-on-libraries/)
 - [Processing 40 TB of code from ~10M projects with a server and Go for $100 &lpar;2019&rpar;](https://boyter.org/posts/an-informal-survey-of-10-million-github-bitbucket-gitlab-projects/#future-ideas)
 - [Over 80% of pregnancy-related deaths in the U.S. are preventable](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html)
 - [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
