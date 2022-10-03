@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Decision Making Models](http://dtprinciples.blogspot.com/2022/10/decision-making-models.html)
-- [Failing Intro Economics. A Davidson professor bemoans state of his classroom](https://www.jamesgmartin.center/2022/10/failing-introductory-economics/)
-- [Press Release: The Nobel Prize in Physiology or Medicine 2022](https://www.nobelprize.org/prizes/medicine/2022/press-release/)
-- [Extinct Human Genomes Studies Win Nobel Prize for Medicine 2022](https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/)
-- [The PS5 Has Been Jailbroken](https://www.glitched.online/the-ps5-has-been-jailbroken-custom-packages-can-now-be-installed/)
+- [You are going to see your parents 15 more times in total](https://nitter.1d4.us/SahilBloom/status/1571137341997318147)
+- [Turkey’s inflation hits 83% as Erdogan vows to keep cutting interest rates](https://www.cnbc.com/2022/10/03/turkey-inflation-hits-83percent-erdogan-vows-to-keep-cutting-rates-.html)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [SEC Charges Kim Kardashian for Touting Crypto Asset Security](https://www.bloomberg.com/news/articles/2022-10-03/sec-charges-kim-kardashian-for-touting-crypto-asset-security-l8sp7fyr)
+- [Google Analytics is injected with Stripe.js when enabling Google Pay](https://twitter.com/jackellis/status/1576879802379751424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
