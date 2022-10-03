@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decision Making Models](http://dtprinciples.blogspot.com/2022/10/decision-making-models.html)
+- [Failing Intro Economics. A Davidson professor bemoans state of his classroom](https://www.jamesgmartin.center/2022/10/failing-introductory-economics/)
+- [Press Release: The Nobel Prize in Physiology or Medicine 2022](https://www.nobelprize.org/prizes/medicine/2022/press-release/)
 - [Extinct Human Genomes Studies Win Nobel Prize for Medicine 2022](https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/)
 - [The PS5 Has Been Jailbroken](https://www.glitched.online/the-ps5-has-been-jailbroken-custom-packages-can-now-be-installed/)
-- [Autistic children with imaginary friends have better social skills](https://www.bps.org.uk/research-digest/autistic-children-imaginary-friends-have-better-social-skills-just-neurotypical)
-- [Operation Gladio](https://en.wikipedia.org/wiki/Operation_Gladio)
-- [Show HN: We designed and implemented graph projection feature](https://news.ycombinator.com/item?id=33065158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
