@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430](https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/)
+- [Codebase as Database: Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
+- [ZFS 2.1.6 Released](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6)
 - [What Can’t the Internet Handle in 2022? Apostrophes](https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695)
 - [We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
-- [Hckr news – Hacker News sorted by time](https://hckrnews.com/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33073638)
-- [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
