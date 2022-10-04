@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger](https://www.nobelprize.org/prizes/physics/2022/summary/)
+- [The Effect of Space Weather on Human Body at the Spitsbergen Archipelago](https://www.intechopen.com/chapters/69119)
 - [UML: My Part in Its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 - [Ask HN: How to find what I am really good at?](https://news.ycombinator.com/item?id=33077489)
-- [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
-- [Potential Issues of Using a USB Powerbank as a UPS &lpar;2021&rpar;](https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/)
-- [VideoLAN has issued a legal notice to Indian Gov for banning their website](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/)
+- [Using Google Maps history to see if my boyfriend and I could have met earlier](https://chan.co.za/how-fateful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
