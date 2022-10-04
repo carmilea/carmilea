@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whitest paint is now thin enough to coat cars and planes](https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/)
+- [RISC-V Laptop now available](https://www.tomshardware.com/news/risc-v-laptop-world-first)
 - [C++20 coroutines: “The bug is in the C++ standard, not GCC.”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [Matter Is Now Official](https://staceyoniot.com/matter-is-now-official/)
-- [Matter – The Foundation for Connected Things](https://csa-iot.org/all-solutions/matter/)
-- [Lowest “Who is hiring?” Post Count in 30 Months](https://news.ycombinator.com/item?id=33083279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
