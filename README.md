@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ragnarök](https://en.wikipedia.org/wiki/Ragnar%C3%B6k)
-- [European Parliament passes legislation introducing universal charger](https://www.politico.eu/article/european-parliament-pass-legislation-introduce-common-charger/)
-- [The Deception of “Buying” Digital Movies](https://worldofmatthew.com/technology/amazon-itunes-deception/)
+- [ClickHouse Cloud is now in Public Beta](https://clickhouse.com/blog/clickhouse-cloud-public-beta)
+- [“The Onion” Files a Supreme Court Brief](https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html)
+- [Why is it so hard to write a scaffolding tool? &lpar;2019&rpar;](https://jfreeman.dev/blog/2019/05/02/why-is-it-so-hard-to-write-a-scaffolding-tool/)
+- [The deception of “buying” digital movies](https://worldofmatthew.com/technology/amazon-itunes-deception/)
 - [Working on the “Web” Browser for the MEGA65](https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html)
-- [EU Passes Law to Switch iPhone to USB-C by End of 2024](https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
