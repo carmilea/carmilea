@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
+- [Walmart, CVS face trial for sham homeopathic products next to real meds](https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/)
 - [ClickHouse Cloud is now in Public Beta](https://clickhouse.com/blog/clickhouse-cloud-public-beta)
 - [“The Onion” Files a Supreme Court Brief](https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html)
-- [Why is it so hard to write a scaffolding tool? &lpar;2019&rpar;](https://jfreeman.dev/blog/2019/05/02/why-is-it-so-hard-to-write-a-scaffolding-tool/)
-- [The deception of “buying” digital movies](https://worldofmatthew.com/technology/amazon-itunes-deception/)
-- [Working on the “Web” Browser for the MEGA65](https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html)
+- [Show HN: Generate code and diagrams from live infrastructure, AWS/Azure/GCP](https://www.grucloud.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
