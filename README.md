@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tesla removes Ultrasonic sensors in favour of Tesla Vision](https://www.tesla.com/support/transitioning-tesla-vision)
+- [How to move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html)
 - [Epic-Kitchens Dataset](https://epic-kitchens.github.io/VISOR/)
-- [Newswriting for Radio: Glossary](http://www.newscript.com/glossary.html)
 - [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
 - [Climate Change Is the Product of How Capitalism “Values” Nature](https://www.globalpolicyjournal.com/blog/19/11/2018/interview-climate-change-product-how-capitalism-values-nature)
 <!-- BLOG-POST-LIST:END -->
