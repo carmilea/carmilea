@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C++20 coroutines: “The bug is in the C++ standard, not GCC.”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23)
+- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [Matter Is Now Official](https://staceyoniot.com/matter-is-now-official/)
 - [Matter – The Foundation for Connected Things](https://csa-iot.org/all-solutions/matter/)
 - [Lowest “Who is hiring?” Post Count in 30 Months](https://news.ycombinator.com/item?id=33083279)
-- [LAPD Officer Killed During Training Exercise Was Investigating Cops About Rape](https://reason.com/2022/10/04/lapd-officer-killed-during-training-exercise-was-reportedly-investigating-cops-accused-of-gang-rape/)
-- [Introducing NVK](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
