@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ragnarök](https://en.wikipedia.org/wiki/Ragnar%C3%B6k)
+- [European Parliament passes legislation introducing universal charger](https://www.politico.eu/article/european-parliament-pass-legislation-introduce-common-charger/)
+- [The Deception of “Buying” Digital Movies](https://worldofmatthew.com/technology/amazon-itunes-deception/)
+- [Working on the “Web” Browser for the MEGA65](https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html)
 - [EU Passes Law to Switch iPhone to USB-C by End of 2024](https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/)
-- [Ask HN: Examples of Microkernels?](https://news.ycombinator.com/item?id=33078441)
-- [Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger](https://www.nobelprize.org/prizes/physics/2022/summary/)
-- [The Effect of Space Weather on Human Body at the Spitsbergen Archipelago](https://www.intechopen.com/chapters/69119)
-- [UML: My Part in Its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
