@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whitest paint is now thin enough to coat cars and planes](https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/)
-- [RISC-V Laptop now available](https://www.tomshardware.com/news/risc-v-laptop-world-first)
-- [C++20 coroutines: “The bug is in the C++ standard, not GCC.”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23)
-- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
-- [Matter Is Now Official](https://staceyoniot.com/matter-is-now-official/)
+- [Newswriting for Radio: Glossary](http://www.newscript.com/glossary.html)
+- [Inflation is at a 40 year high. What can history teach us?](https://yarn.pranshum.com/)
+- [3D Novel View Synthesis with Diffusion Models](https://3d-diffusion.github.io/)
+- [Chess Investigation Finds U.S. Grandmaster ‘Likely Cheated’ More Than 100 Times](https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524)
+- [“When are we going to use this in our everyday life?”](https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
