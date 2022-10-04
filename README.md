@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla removes Ultrasonic sensors in favour of Tesla Vision](https://www.tesla.com/support/transitioning-tesla-vision)
-- [How to move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html)
-- [Epic-Kitchens Dataset](https://epic-kitchens.github.io/VISOR/)
-- [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
-- [Climate Change Is the Product of How Capitalism “Values” Nature](https://www.globalpolicyjournal.com/blog/19/11/2018/interview-climate-change-product-how-capitalism-values-nature)
+- [The Majority of PostgreSQL Servers on the Internet Are Insecure](https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3)
+- [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
+- [Netlink Added to FreeBSD – Unmodified Linux IP&lpar;8&rpar; Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
+- [Girls in Yoga Pants Explain the Higher Education Apocalypse](https://jessicawildfire.substack.com/p/girls-in-yoga-pants-explain-the-higher)
+- [Micron picks Syracuse for computer chip plant that would bring up to 9k jobs](https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
