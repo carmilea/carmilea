@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Knuth&#39;s Art of Computer Programming, V 4B, has gone into print](https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b)
-- [Ignore 98% of dependency alerts: introducing Semgrep Supply Chain](https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/)
-- [Pg_squeeze: An extension to fix table bloat](https://www.cybertec-postgresql.com/en/products/pg_squeeze/)
-- [Spark email client goes subscription path](https://sparkmailapp.com/plans-comparison)
-- [Building a Startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
+- [Matter Is Now Official](https://staceyoniot.com/matter-is-now-official/)
+- [Matter – The Foundation for Connected Things](https://csa-iot.org/all-solutions/matter/)
+- [Lowest “Who is hiring?” Post Count in 30 Months](https://news.ycombinator.com/item?id=33083279)
+- [LAPD Officer Killed During Training Exercise Was Investigating Cops About Rape](https://reason.com/2022/10/04/lapd-officer-killed-during-training-exercise-was-reportedly-investigating-cops-accused-of-gang-rape/)
+- [Introducing NVK](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
