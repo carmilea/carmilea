@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Knuth&#39;s Art of Computer Programming, V 4B, has gone into print](https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b)
+- [Ignore 98% of dependency alerts: introducing Semgrep Supply Chain](https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/)
+- [Pg_squeeze: An extension to fix table bloat](https://www.cybertec-postgresql.com/en/products/pg_squeeze/)
+- [Spark email client goes subscription path](https://sparkmailapp.com/plans-comparison)
 - [Building a Startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
-- [Walmart, CVS face trial for sham homeopathic products next to real meds](https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/)
-- [ClickHouse Cloud is now in Public Beta](https://clickhouse.com/blog/clickhouse-cloud-public-beta)
-- [“The Onion” Files a Supreme Court Brief](https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html)
-- [Show HN: Generate code and diagrams from live infrastructure, AWS/Azure/GCP](https://www.grucloud.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
