@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UML: My Part in Its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
+- [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
 - [Potential Issues of Using a USB Powerbank as a UPS &lpar;2021&rpar;](https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/)
+- [VideoLAN has issued a legal notice to Indian Gov for banning their website](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/)
 - [Ask HN: So you moved off Heroku, where did you go?](https://news.ycombinator.com/item?id=33077118)
-- [The HTML5 Shiv &lpar;2011&rpar;](https://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
-- [Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430](https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/)
-- [Codebase as Database: Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
