@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Passes Law to Switch iPhone to USB-C by End of 2024](https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/)
+- [Ask HN: Examples of Microkernels?](https://news.ycombinator.com/item?id=33078441)
 - [Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger](https://www.nobelprize.org/prizes/physics/2022/summary/)
 - [The Effect of Space Weather on Human Body at the Spitsbergen Archipelago](https://www.intechopen.com/chapters/69119)
 - [UML: My Part in Its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
-- [Ask HN: How to find what I am really good at?](https://news.ycombinator.com/item?id=33077489)
-- [Using Google Maps history to see if my boyfriend and I could have met earlier](https://chan.co.za/how-fateful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
