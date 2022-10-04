@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla removes Ultrasonic sensors in favour of Tesla Vision](https://www.tesla.com/support/transitioning-tesla-vision)
+- [Epic-Kitchens Dataset](https://epic-kitchens.github.io/VISOR/)
 - [Newswriting for Radio: Glossary](http://www.newscript.com/glossary.html)
-- [Inflation is at a 40 year high. What can history teach us?](https://yarn.pranshum.com/)
-- [3D Novel View Synthesis with Diffusion Models](https://3d-diffusion.github.io/)
-- [Chess Investigation Finds U.S. Grandmaster ‘Likely Cheated’ More Than 100 Times](https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524)
-- [“When are we going to use this in our everyday life?”](https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is)
+- [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
+- [Climate Change Is the Product of How Capitalism “Values” Nature](https://www.globalpolicyjournal.com/blog/19/11/2018/interview-climate-change-product-how-capitalism-values-nature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
