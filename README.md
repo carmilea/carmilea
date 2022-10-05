@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram to increase ad load as Meta fights revenue decline](https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/)
+- [Watchman: Execute a command when something changes](https://github.com/crodjer/watchman)
+- [X64 Cheat Sheet &lpar;2019&rpar; [pdf]](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+- [Show HN: Kafka 0.8.0 on Cloudflare Workers](https://github.com/maxwellpeterson/kafka-worker)
 - [Cpm65: CP/M for the 6502](https://github.com/davidgiven/cpm65)
-- [MineDojo – Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
-- [I don’t believe in sprints](https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/)
-- [Google picks South Africa for its first cloud region in Africa](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/)
-- [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
