@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless](https://www.nobelprize.org/prizes/chemistry/2022/summary/)
 - [Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/)
+- [Scrolling the Vic-IV Screen](https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/)
 - [The Balto/Togo theory of scientific development](https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/)
-- [Ask HN: How do I learn to communicate effectively?](https://news.ycombinator.com/item?id=33091972)
-- [Castopod – Open-source podcast hosting platform](https://castopod.org/)
-- [AI-powered communication coach](https://www.poised.com/)
+- [Zero-Emission Vehicles Progress Dashboard [pdf]](https://assets.bbhub.io/professional/sites/24/BloombergNEF-ZEV-Dashboard-Sep-2022.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
