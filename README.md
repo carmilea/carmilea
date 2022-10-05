@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
-- [QR code images in macOS are silently executed in the background hours/days later](https://twitter.com/simonw/status/1577674380133269504)
-- [Nerfstudio: A collaboration friendly studio for NeRFs](https://docs.nerf.studio/en/latest/index.html)
-- [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
-- [Instagram to increase ad load as Meta fights revenue decline](https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/)
+- [Nix Team Creation](https://discourse.nixos.org/t/nix-team-creation/22228)
+- [FCC to Remove Companies from Robocall Database for Non-Compliance [pdf]](https://docs.fcc.gov/public/attachments/DOC-387840A1.pdf)
+- [US National Debt Tops $31T](https://www.nytimes.com/2022/10/04/business/national-debt.html)
+- [Our Journey From JSDOM and React Testing Library Toward Cypress Component Testing](https://www.singlestore.com/blog/our-journey-from-jsdom)
+- [SpaceX exploring mission to boost Hubble](https://orbitalindex.com/archive/2022-10-05-Issue-188/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
