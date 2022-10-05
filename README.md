@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered communication coach that helps you speak with confidence and clarity](https://www.poised.com/)
+- [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
 - [Internet Archive Seeks Material for Library of Amateur Radio and Communications](https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/)
-- [Should billboard advertising be banned?](https://www.bbc.com/news/business-62806697)
+- [Show HN: Async UI: A Rust UI Library Where Everything is a Future](https://wishawa.github.io/posts/async-ui-intro/)
 - [The Full Chess Cheating Report of Hans Neiman](https://www.chess.com/blog/CHESScom/hans-niemann-report)
-- [The Majority of PostgreSQL Servers on the Internet Are Insecure](https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3)
-- [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
