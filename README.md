@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The free and open-source solution to your podcasting 2.0 journey](https://castopod.org/)
+- [Ask HN: How do I learn to communicate effectively?](https://news.ycombinator.com/item?id=33091972)
+- [Castopod – Open-source podcast hosting platform](https://castopod.org/)
 - [Journalists – 2022 Midterm Elections – Legal Guide](https://www.rcfp.org/resources/election-legal-guide/)
-- [AI-powered communication coach that helps you speak with confidence and clarity](https://www.poised.com/)
+- [AI-powered communication coach](https://www.poised.com/)
 - [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
-- [Internet Archive Seeks Material for Library of Amateur Radio and Communications](https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
