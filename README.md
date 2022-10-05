@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/)
+- [The Balto/Togo theory of scientific development](https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/)
 - [Ask HN: How do I learn to communicate effectively?](https://news.ycombinator.com/item?id=33091972)
 - [Castopod – Open-source podcast hosting platform](https://castopod.org/)
-- [Journalists – 2022 Midterm Elections – Legal Guide](https://www.rcfp.org/resources/election-legal-guide/)
 - [AI-powered communication coach](https://www.poised.com/)
-- [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
