@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Firmware Conference 2022 [videos]](https://www.osfc.io/2022/schedule/)
 - [Jq Internals: Backtracking](https://github.com/stedolan/jq/wiki/Internals:-backtracking)
 - [Google officially launches Equiano subsea cable](https://www.datacenterdynamics.com/en/news/google-officially-launches-equiano-subsea-cable/)
-- [“Skimpflation” is hitting everything from food to hotels](https://www.cbsnews.com/news/skimpflation-inflation-reducing-food-service-quality/)
 - [What does the ??!??! operator do in C?](https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c)
-- [The shortest pull request ever](https://github.com/spyder-ide/spyder-docs/pull/332)
+- [JSX Mail: Ending All Your Problems When Creating Email Templates](https://jsx-mail.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
