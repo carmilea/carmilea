@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+- [QR code images in macOS are silently executed in the background hours/days later](https://twitter.com/simonw/status/1577674380133269504)
+- [Nerfstudio: A collaboration friendly studio for NeRFs](https://docs.nerf.studio/en/latest/index.html)
+- [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 - [Instagram to increase ad load as Meta fights revenue decline](https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/)
-- [Watchman: Execute a command when something changes](https://github.com/crodjer/watchman)
-- [X64 Cheat Sheet &lpar;2019&rpar; [pdf]](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
-- [Show HN: Kafka 0.8.0 on Cloudflare Workers](https://github.com/maxwellpeterson/kafka-worker)
-- [Cpm65: CP/M for the 6502](https://github.com/davidgiven/cpm65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
