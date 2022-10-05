@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jq Internals: Backtracking](https://github.com/stedolan/jq/wiki/Internals:-backtracking)
+- [Google officially launches Equiano subsea cable](https://www.datacenterdynamics.com/en/news/google-officially-launches-equiano-subsea-cable/)
+- [“Skimpflation” is hitting everything from food to hotels](https://www.cbsnews.com/news/skimpflation-inflation-reducing-food-service-quality/)
+- [What does the ??!??! operator do in C?](https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c)
 - [The shortest pull request ever](https://github.com/spyder-ide/spyder-docs/pull/332)
-- [macOS scanning and following downloaded QR codes has been retracted](https://twitter.com/hodgesmr/status/1577739222412312578)
-- [Partitioning in Postgres, 2022 Edition](https://brandur.org/fragments/postgres-partitioning-2022)
-- [Head of Election Worker Management Company Arrested for Theft of Personal Data](https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data)
-- [Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG](https://news.ycombinator.com/item?id=33099182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
