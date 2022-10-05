@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS scanning and following downloaded QR codes has been retracted](https://twitter.com/hodgesmr/status/1577739222412312578)
 - [Partitioning in Postgres, 2022 Edition](https://brandur.org/fragments/postgres-partitioning-2022)
 - [Head of Election Worker Management Company Arrested for Theft of Personal Data](https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data)
 - [Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG](https://news.ycombinator.com/item?id=33099182)
 - [Imagen Video: high definition video generation with diffusion models](https://imagen.research.google/video/)
-- [Apple asks suppliers to shift AirPods, Beats production to India](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India)
 <!-- BLOG-POST-LIST:END -->
 
 ---
