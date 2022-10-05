@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagen Video](https://imagen.research.google/video/)
+- [LibSQL is an open source, open contribution fork of SQLite](https://github.com/libsql/libsql)
+- [Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG](https://news.ycombinator.com/item?id=33099182)
+- [Show HN: Earn 9.62% on US Treasury I Bonds on Yotta](https://news.ycombinator.com/item?id=33098970)
+- [Imagen Video: high definition video generation with diffusion models](https://imagen.research.google/video/)
 - [Apple asks suppliers to shift AirPods, Beats production to India](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India)
-- [From Pythonista to Rustacean](https://github.com/rochacbruno/py2rs)
-- [Many scientists see fusion as the future of energy – and they&#39;re betting big](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big)
-- [Nix Team Creation](https://discourse.nixos.org/t/nix-team-creation/22228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
