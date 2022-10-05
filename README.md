@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cpm65: CP/M for the 6502](https://github.com/davidgiven/cpm65)
+- [MineDojo – Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
+- [I don’t believe in sprints](https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/)
+- [Google picks South Africa for its first cloud region in Africa](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/)
 - [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html)
-- [NYU Chemistry Professor Fired After Students Said His Class Was Too Hard](https://reason.com/2022/10/03/maitland-jones-jr-organic-chemistry-nyu-fired/)
-- [Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless](https://www.nobelprize.org/prizes/chemistry/2022/summary/)
-- [Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/)
-- [Scrolling the Vic-IV Screen](https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
