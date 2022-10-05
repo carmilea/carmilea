@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html)
+- [NYU Chemistry Professor Fired After Students Said His Class Was Too Hard](https://reason.com/2022/10/03/maitland-jones-jr-organic-chemistry-nyu-fired/)
 - [Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless](https://www.nobelprize.org/prizes/chemistry/2022/summary/)
 - [Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/)
 - [Scrolling the Vic-IV Screen](https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/)
-- [The Balto/Togo theory of scientific development](https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/)
-- [Zero-Emission Vehicles Progress Dashboard [pdf]](https://assets.bbhub.io/professional/sites/24/BloombergNEF-ZEV-Dashboard-Sep-2022.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
