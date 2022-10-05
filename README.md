@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LibSQL is an open source, open contribution fork of SQLite](https://github.com/libsql/libsql)
+- [Partitioning in Postgres, 2022 Edition](https://brandur.org/fragments/postgres-partitioning-2022)
+- [Head of Election Worker Management Company Arrested for Theft of Personal Data](https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data)
 - [Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG](https://news.ycombinator.com/item?id=33099182)
-- [Show HN: Earn 9.62% on US Treasury I Bonds on Yotta](https://news.ycombinator.com/item?id=33098970)
 - [Imagen Video: high definition video generation with diffusion models](https://imagen.research.google/video/)
 - [Apple asks suppliers to shift AirPods, Beats production to India](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India)
 <!-- BLOG-POST-LIST:END -->
