@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imagen Video](https://imagen.research.google/video/)
+- [Apple asks suppliers to shift AirPods, Beats production to India](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India)
+- [From Pythonista to Rustacean](https://github.com/rochacbruno/py2rs)
+- [Many scientists see fusion as the future of energy – and they&#39;re betting big](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big)
 - [Nix Team Creation](https://discourse.nixos.org/t/nix-team-creation/22228)
-- [FCC to Remove Companies from Robocall Database for Non-Compliance [pdf]](https://docs.fcc.gov/public/attachments/DOC-387840A1.pdf)
-- [US National Debt Tops $31T](https://www.nytimes.com/2022/10/04/business/national-debt.html)
-- [Our Journey From JSDOM and React Testing Library Toward Cypress Component Testing](https://www.singlestore.com/blog/our-journey-from-jsdom)
-- [SpaceX exploring mission to boost Hubble](https://orbitalindex.com/archive/2022-10-05-Issue-188/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
