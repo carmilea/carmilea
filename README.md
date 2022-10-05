@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Archive Seeks Material for Library of Amateur Radio and Communications](https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/)
+- [Should billboard advertising be banned?](https://www.bbc.com/news/business-62806697)
+- [The Full Chess Cheating Report of Hans Neiman](https://www.chess.com/blog/CHESScom/hans-niemann-report)
 - [The Majority of PostgreSQL Servers on the Internet Are Insecure](https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3)
 - [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
-- [Netlink Added to FreeBSD – Unmodified Linux IP&lpar;8&rpar; Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
-- [Girls in Yoga Pants Explain the Higher Education Apocalypse](https://jessicawildfire.substack.com/p/girls-in-yoga-pants-explain-the-higher)
-- [Micron picks Syracuse for computer chip plant that would bring up to 9k jobs](https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
