@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Announces Preliminary Third Quarter 2022 Financial Results](https://finance.yahoo.com/news/amd-announces-preliminary-third-quarter-201700374.html)
+- [BYU profs create new nuclear reactor to produce nuclear energy more safely](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy)
 - [How to Download All of Wikipedia onto a USB Flash Drive](https://planetofthepaul.com/wikipedia-download-usb-flash/)
 - [Decision Trees in Python: Predicting Diabetes – Statistically Relevant](https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=33114040)
-- [Proclamation Granting Pardon for the Offense of Simple Possession of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/06/granting-pardon-for-the-offense-of-simple-possession-of-marijuana/)
-- [The non-linear workdays changing the shape of productivity](https://www.bbc.com/worklife/article/20220928-the-non-linear-workdays-changing-the-shape-of-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
