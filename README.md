@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“How Americans edit sex out of my writing”](https://europeanreviewofbooks.com/how-americans-edit-sex-out-of-my-writing/en)
+- [New react audio player library](https://www.npmjs.com/package/react-modern-audio-player)
+- [The Future of the Web Is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 - [Release &lpar;YC W20&rpar; Is Hiring Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
-- [Man sells 3D-printed firearms to a buyback program for $21,000](https://interestingengineering.com/culture/man-makes-usd21000-by-selling-3d-printed-guns)
 - [Interactive Submarine Cable Map](https://www.submarinecablemap.com/)
-- [TikTok Parent ByteDance Sees Losses Swell in Push for Growth](https://www.wsj.com/articles/tiktok-parent-bytedance-sees-losses-swell-in-push-for-growth-11665071238)
-- [AI’s Grandmaster Status Overshadows Chess Scandal](https://spectrum.ieee.org/magnus-carlsen-chess-scandal-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
