@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Twitter suspends arrested Iranian tech blogger`s account](https://twitter.com/jadi/)
+- [Cloud desktops aren&#39;t as good as you&#39;d think](https://mjg59.dreamwidth.org/61535.html)
+- [Tell HN: Twitter suspends arrested Iranian tech blogger’s account](https://twitter.com/jadi/)
+- [Debian Votes to Include Proprietary Firmware, Amends Social Contract](https://www.tomshardware.com/news/debian-includes-proprietary-code)
 - [Kim Jung Gi has died](https://news.ycombinator.com/item?id=33105773)
 - [A Ruby program that generates itself through a 128-language quine loop](https://github.com/mame/quine-relay/blob/master/QR.rb)
-- [Facebook reportedly laying off thousands of employees](https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees)
-- [I was messing around with img2img and I created this monstrosity](https://www.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
