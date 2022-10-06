@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk&#39;s trial hasn&#39;t stopped, no matter what he told Twitter, says judge](https://www.theregister.com/2022/10/05/musktwitter_twitter_trial/)
+- [Our domain and 700 non-profit sites got blocked by Meta](https://www.simonbackx.com/blocked-by-meta/)
+- [Pimp My BBC Micro](https://github.com/dekuNukem/RGBeeb/blob/master/README.md)
 - [Cloud desktops aren&#39;t as good as you&#39;d think](https://mjg59.dreamwidth.org/61535.html)
 - [Tell HN: Twitter suspends arrested Iranian tech blogger’s account](https://twitter.com/jadi/)
-- [Debian Votes to Include Proprietary Firmware, Amends Social Contract](https://www.tomshardware.com/news/debian-includes-proprietary-code)
-- [Kim Jung Gi has died](https://news.ycombinator.com/item?id=33105773)
-- [A Ruby program that generates itself through a 128-language quine loop](https://github.com/mame/quine-relay/blob/master/QR.rb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
