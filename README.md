@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“How Americans edit sex out of my writing”](https://europeanreviewofbooks.com/how-americans-edit-sex-out-of-my-writing/en)
-- [New York University professor fired after students say his class was too hard](https://www.theguardian.com/us-news/2022/oct/06/nyu-professor-fired-maitland-jones-jr-student-petition)
-- [New react audio player library](https://www.npmjs.com/package/react-modern-audio-player)
+- [Proclamation Granting Pardon for the Offense of Simple Possession of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/06/granting-pardon-for-the-offense-of-simple-possession-of-marijuana/)
+- [Staff Engineer Archetypes](https://lethain.com/staff-engineer-archetypes/)
+- [More than half of Silicon Valley residents want to leave: The mood is darkening](https://nypost.com/2022/10/05/more-than-half-of-silicon-valley-residents-want-to-leave-the-mood-is-darkening/)
+- [React Modern Audio Player](https://www.npmjs.com/package/react-modern-audio-player)
 - [The Future of the Web Is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
-- [Release &lpar;YC W20&rpar; Is Hiring Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
