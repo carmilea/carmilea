@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
 - [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
+- [CISA: Election Security Rumor vs. Reality](https://www.cisa.gov/rumorcontrol)
 - [Splunk IP suit against Cribl](https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html)
 - [Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027](https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/)
-- [So you&#39;re using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
-- [Open Source Firmware Conference 2022 [videos]](https://www.osfc.io/2022/schedule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
