@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“How Americans edit sex out of my writing”](https://europeanreviewofbooks.com/how-americans-edit-sex-out-of-my-writing/en)
+- [New York University professor fired after students say his class was too hard](https://www.theguardian.com/us-news/2022/oct/06/nyu-professor-fired-maitland-jones-jr-student-petition)
 - [New react audio player library](https://www.npmjs.com/package/react-modern-audio-player)
 - [The Future of the Web Is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 - [Release &lpar;YC W20&rpar; Is Hiring Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
-- [Interactive Submarine Cable Map](https://www.submarinecablemap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
