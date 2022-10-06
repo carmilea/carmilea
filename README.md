@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SimulaVR Has Been Subpoenaed by Meta Platforms, Inc](https://simulavr.com/blog/subpoenaed-by-meta/)
-- [SAT score distributions in Michigan](https://infoproc.blogspot.com/2022/10/sat-score-distributions-in-michigan.html)
-- [Take Advantage of Git Rebase](https://about.gitlab.com/blog/2022/10/06/take-advantage-of-git-rebase/)
-- [Our domain and 700 non-profit sites got blocked by Meta](https://www.simonbackx.com/blocked-by-meta/)
-- [Pimp My BBC Micro](https://github.com/dekuNukem/RGBeeb/blob/master/README.md)
+- [A working implementation of text-to-3D DreamFusion, powered by Stable Diffusion](https://github.com/ashawkey/stable-dreamfusion)
+- [Celsius Execs Cashed Out $40M in Crypto Before Halting Withdrawals for Customers](https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526)
+- [Show HN: RankedVote – SurveyMonkey but focused on ranked-choice voting](https://www.rankedvote.co)
+- [Google Pixel 7 and Pixel 7 Pro](https://store.google.com/magazine/google_pixel_7?hl=en-US)
+- [Build C++ Graph Analytics Without Worrying About Memory](https://memgraph.com/blog/build-graph-analytics-without-worrying-about-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
