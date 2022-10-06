@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After cutting radar, Tesla now dropping ultrasonic sensors from its EVs](https://arstechnica.com/cars/2022/10/after-cutting-radar-tesla-now-dropping-ultrasonic-sensors-from-its-evs/)
+- [Upgrade to Linux](https://www.upgradetolinux.com/)
+- [Dormant spores decide to wake-up by counting in their sleep using electricity](https://www.science.org/doi/10.1126/science.abl7484)
 - [AMD Announces Preliminary Third Quarter 2022 Financial Results](https://finance.yahoo.com/news/amd-announces-preliminary-third-quarter-201700374.html)
 - [BYU profs create new nuclear reactor to produce nuclear energy more safely](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy)
-- [How to Download All of Wikipedia onto a USB Flash Drive](https://planetofthepaul.com/wikipedia-download-usb-flash/)
-- [Decision Trees in Python: Predicting Diabetes – Statistically Relevant](https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=33114040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
