@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Excess Death Rates for Republicans and Democrats During the Covid-19 Pandemic](https://www.nber.org/papers/w30512)
+- [Show HN: Soso.ooo – Google Search Alternative](https://soso.ooo)
 - [Facebook reportedly laying off thousands of employees](https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees)
-- [I was Messing around with img2img and I created this monstrosity](https://www.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
-- [Whatever Happened to Those Self-Service Passport Kiosks at Airports?](https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html)
+- [I was messing around with img2img and I created this monstrosity](https://www.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
-- [NVIDIA and nouveau](https://lwn.net/SubscriberLink/910343/e360e44a7a63b1b7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
