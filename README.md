@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release &lpar;YC W20&rpar; Is Hiring Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
+- [Man sells 3D-printed firearms to a buyback program for $21,000](https://interestingengineering.com/culture/man-makes-usd21000-by-selling-3d-printed-guns)
 - [Interactive Submarine Cable Map](https://www.submarinecablemap.com/)
+- [TikTok Parent ByteDance Sees Losses Swell in Push for Growth](https://www.wsj.com/articles/tiktok-parent-bytedance-sees-losses-swell-in-push-for-growth-11665071238)
 - [AI’s Grandmaster Status Overshadows Chess Scandal](https://spectrum.ieee.org/magnus-carlsen-chess-scandal-ai)
-- [UK Plans for Three-Hour Power Blackouts in Event of Gas Shortages](https://news.sky.com/story/energy-crisis-plan-for-three-hour-power-blackouts-to-prioritise-heating-in-event-of-gas-shortages-12713253)
-- [Zerocal – A Serverless Calendar App in Rust](https://endler.dev/2022/zerocal/)
-- [The life-changing effects of hallucinations](https://www.bbc.com/future/article/20221005-how-to-hallucinate-without-drugs-and-learn-about-your-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
