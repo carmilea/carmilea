@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redditor convert scene from witcher series to Ghibli style anime](https://old.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
+- [Whatever Happened to Those Self-Service Passport Kiosks at Airports?](https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
 - [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
 - [CISA: Election Security Rumor vs. Reality](https://www.cisa.gov/rumorcontrol)
-- [Splunk IP suit against Cribl](https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html)
-- [Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027](https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
