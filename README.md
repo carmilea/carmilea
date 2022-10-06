@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Excess Death Rates for Republicans and Democrats During the Covid-19 Pandemic](https://www.nber.org/papers/w30512)
-- [Show HN: Soso.ooo – Google Search Alternative](https://soso.ooo)
+- [Tell HN: Twitter suspends arrested Iranian tech blogger`s account](https://twitter.com/jadi/)
+- [Kim Jung Gi has died](https://news.ycombinator.com/item?id=33105773)
+- [A Ruby program that generates itself through a 128-language quine loop](https://github.com/mame/quine-relay/blob/master/QR.rb)
 - [Facebook reportedly laying off thousands of employees](https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees)
 - [I was messing around with img2img and I created this monstrosity](https://www.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
