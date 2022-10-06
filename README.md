@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A working implementation of text-to-3D DreamFusion, powered by Stable Diffusion](https://github.com/ashawkey/stable-dreamfusion)
-- [Celsius Execs Cashed Out $40M in Crypto Before Halting Withdrawals for Customers](https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526)
-- [Show HN: RankedVote – SurveyMonkey but focused on ranked-choice voting](https://www.rankedvote.co)
-- [Google Pixel 7 and Pixel 7 Pro](https://store.google.com/magazine/google_pixel_7?hl=en-US)
-- [Build C++ Graph Analytics Without Worrying About Memory](https://memgraph.com/blog/build-graph-analytics-without-worrying-about-memory)
+- [Interactive Submarine Cable Map](https://www.submarinecablemap.com/)
+- [AI’s Grandmaster Status Overshadows Chess Scandal](https://spectrum.ieee.org/magnus-carlsen-chess-scandal-ai)
+- [UK Plans for Three-Hour Power Blackouts in Event of Gas Shortages](https://news.sky.com/story/energy-crisis-plan-for-three-hour-power-blackouts-to-prioritise-heating-in-event-of-gas-shortages-12713253)
+- [Zerocal – A Serverless Calendar App in Rust](https://endler.dev/2022/zerocal/)
+- [The life-changing effects of hallucinations](https://www.bbc.com/future/article/20221005-how-to-hallucinate-without-drugs-and-learn-about-your-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
