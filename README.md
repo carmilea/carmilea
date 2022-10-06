@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Download All of Wikipedia onto a USB Flash Drive](https://planetofthepaul.com/wikipedia-download-usb-flash/)
+- [Decision Trees in Python: Predicting Diabetes – Statistically Relevant](https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=33114040)
 - [Proclamation Granting Pardon for the Offense of Simple Possession of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/06/granting-pardon-for-the-offense-of-simple-possession-of-marijuana/)
-- [Staff Engineer Archetypes](https://lethain.com/staff-engineer-archetypes/)
-- [More than half of Silicon Valley residents want to leave: The mood is darkening](https://nypost.com/2022/10/05/more-than-half-of-silicon-valley-residents-want-to-leave-the-mood-is-darkening/)
-- [React Modern Audio Player](https://www.npmjs.com/package/react-modern-audio-player)
-- [The Future of the Web Is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
+- [The non-linear workdays changing the shape of productivity](https://www.bbc.com/worklife/article/20220928-the-non-linear-workdays-changing-the-shape-of-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
