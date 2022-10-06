@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook reportedly laying off thousands of employees](https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees)
 - [Redditor convert scene from witcher series to Ghibli style anime](https://old.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
 - [Whatever Happened to Those Self-Service Passport Kiosks at Airports?](https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
-- [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
-- [CISA: Election Security Rumor vs. Reality](https://www.cisa.gov/rumorcontrol)
+- [NVIDIA and nouveau](https://lwn.net/SubscriberLink/910343/e360e44a7a63b1b7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
