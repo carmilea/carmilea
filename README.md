@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
+- [Splunk IP suit against Cribl](https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html)
+- [Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027](https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/)
+- [So you&#39;re using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
 - [Open Source Firmware Conference 2022 [videos]](https://www.osfc.io/2022/schedule/)
-- [Jq Internals: Backtracking](https://github.com/stedolan/jq/wiki/Internals:-backtracking)
-- [Google officially launches Equiano subsea cable](https://www.datacenterdynamics.com/en/news/google-officially-launches-equiano-subsea-cable/)
-- [What does the ??!??! operator do in C?](https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c)
-- [JSX Mail: Ending All Your Problems When Creating Email Templates](https://jsx-mail.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
