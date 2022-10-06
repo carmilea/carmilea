@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk&#39;s trial hasn&#39;t stopped, no matter what he told Twitter, says judge](https://www.theregister.com/2022/10/05/musktwitter_twitter_trial/)
+- [SimulaVR Has Been Subpoenaed by Meta Platforms, Inc](https://simulavr.com/blog/subpoenaed-by-meta/)
+- [SAT score distributions in Michigan](https://infoproc.blogspot.com/2022/10/sat-score-distributions-in-michigan.html)
+- [Take Advantage of Git Rebase](https://about.gitlab.com/blog/2022/10/06/take-advantage-of-git-rebase/)
 - [Our domain and 700 non-profit sites got blocked by Meta](https://www.simonbackx.com/blocked-by-meta/)
 - [Pimp My BBC Micro](https://github.com/dekuNukem/RGBeeb/blob/master/README.md)
-- [Cloud desktops aren&#39;t as good as you&#39;d think](https://mjg59.dreamwidth.org/61535.html)
-- [Tell HN: Twitter suspends arrested Iranian tech blogger’s account](https://twitter.com/jadi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
