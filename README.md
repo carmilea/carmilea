@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [School vs. Wikipedia](http://ratfactor.com/rss-club/school-vs-wikipedia)
-- [AWS doesn&#39;t make sense for scientific computing](https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/)
-- [Ask HN: Was it worth it for Go to add generics](https://news.ycombinator.com/item?id=33122514)
-- [Mortal Kombat+](https://mortalkombat.plus)
-- [RacketCon 2022](https://con.racket-lang.org)
+- [MIMD Interpretation on a GPU [pdf]](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
+- [UPchieve &lpar;YC W21&rpar; is hiring a tech lead and senior engineers](https://upchieve.welcomekit.co/)
+- [Vectors are over, hashes are the future](https://www.algolia.com/blog/ai/vectors-vs-hashes/)
+- [JetBrains Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
+- [How to distort Scrum until it no longer works](https://lucasfcosta.com/2022/10/04/distorting-scrum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
