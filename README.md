@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Papa John&#39;s sued for &#39;wiretap&#39; spying on website mouse clicks, keystrokes](https://www.theregister.com/2022/10/06/papa_johns_spying_lawsuit/)
-- [MIMD Interpretation on a GPU [pdf]](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
-- [UPchieve &lpar;YC W21&rpar; is hiring a tech lead and senior engineers](https://upchieve.welcomekit.co/)
-- [Vectors are over, hashes are the future](https://www.algolia.com/blog/ai/vectors-vs-hashes/)
-- [JetBrains Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
+- [Big U.S. Banks Are Stiffing Account Takeover Victims](https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/)
+- [Overzealous Destructuring](https://www.aleksandrhovhannisyan.com/blog/overzealous-destructuring/)
+- [Gcloud storage: up to 94% faster data transfers for Cloud Storage](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers)
+- [Nuclear Close Calls: Able Archer 83 &lpar;2018&rpar;](https://www.atomicheritage.org/history/nuclear-close-calls-able-archer-83)
+- [My Favourite Computer, an Old Mac](http://muezza.ca/thoughts/favourite_computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
