@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
+- [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
+- [Is the FSF Fighting the Previous War?](https://irreal.org/blog/?p=10864)
 - [Lufthansa bans AirTags in checked luggage](https://onemileatatime.com/news/lufthansa-bans-airtags/)
 - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
-- [Jewish Calendar Demystified &lpar;2007&rpar;](https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm)
-- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-238440/)
-- [Banks are not repaying victims of Zelle scams](https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
