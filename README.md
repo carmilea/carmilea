@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [10k hours rule to master anything. Could I switch career when I am 43?](https://news.ycombinator.com/item?id=33119347)
 - [The Nobel Peace Prize 2022](https://www.nobelpeaceprize.org/articles/nobel-peace-prize-for-2022)
 - [Transmission 4.0.0 beta 1](https://github.com/transmission/transmission/releases/tag/4.0.0-beta.1)
-- [Scsh: Open-source Unix shell embedded within Scheme](https://scsh.net/)
 - [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33)
 - [Longevity of Recordable CDs, DVDs and Blu-Rays](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
 <!-- BLOG-POST-LIST:END -->
