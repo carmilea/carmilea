@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transmission 4.0.0 beta 1 is out](https://github.com/transmission/transmission/releases/tag/4.0.0-beta.1)
 - [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33)
 - [Longevity of Recordable CDs, DVDs and Blu-Rays](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
 - [Stateless – Your new state of find with Elasticsearch](https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch)
 - [Evrard D&#39;Espinque’s Illuminations of De Proprietatibus Rerum &lpar;Ca. 1480&rpar;](https://publicdomainreview.org/collection/despinque-anglicus-illuminations/)
-- [Apache Pegasus – A a distributed key-value storage system](https://github.com/apache/incubator-pegasus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
