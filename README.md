@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [School vs. Wikipedia](http://ratfactor.com/rss-club/school-vs-wikipedia)
+- [AWS doesn&#39;t make sense for scientific computing](https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/)
+- [Ask HN: Was it worth it for Go to add generics](https://news.ycombinator.com/item?id=33122514)
 - [Mortal Kombat+](https://mortalkombat.plus)
 - [RacketCon 2022](https://con.racket-lang.org)
-- [Using Notion as a headless CMS for our blog](https://datanarratives.com/blog/notion-headless-cms/)
-- [Signal is secure, as proven by hackers](https://www.kaspersky.co.uk/blog/signal-hacked-but-still-secure/24864/)
-- [The Pursuit of Beauty &lpar;2015&rpar;](https://www.newyorker.com/magazine/2015/02/02/pursuit-beauty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
