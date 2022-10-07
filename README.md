@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Longevity of Recordable CDs, DVDs and Blu-Rays](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
+- [Stateless – Your new state of find with Elasticsearch](https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch)
+- [Evrard D&#39;Espinque’s Illuminations of De Proprietatibus Rerum &lpar;Ca. 1480&rpar;](https://publicdomainreview.org/collection/despinque-anglicus-illuminations/)
+- [Apache Pegasus – A a distributed key-value storage system](https://github.com/apache/incubator-pegasus)
 - [On AlphaTensor’s new matrix multiplication algorithms](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/)
-- [Startup Builds Houses by Pumping Concrete into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)
-- [Celsius exposes the names of all customers](https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs)
-- [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/)
-- [Why doesn&#39;t Bash&#39;s `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
