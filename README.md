@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail 2FA causes the homeless to permanently lose access 3 times a year](https://twitter.com/chadloder/status/1577880638044020736)
 - [Mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
 - [Fractional &lpar;YC W21&rpar; Is Hiring Product Engineers](https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer)
+- [$570M worth of Binance’s BNB token stolen](https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html)
 - [U.S. residents fight for the right to hang laundry &lpar;2009&rpar;](https://www.reuters.com/article/us-usa-laundry-idUSTRE5AH3JQ20091118)
-- [RIAA Thwarts Yout’s Attempt to Declare YouTube-Ripping Legal](https://torrentfreak.com/riaa-thwarts-youts-attempt-to-declare-youtube-ripping-legal-221002/)
-- [Self-Referential Tweet](https://twitter.com/slweeb/status/1578155161347710976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
