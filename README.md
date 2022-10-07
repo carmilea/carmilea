@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big U.S. Banks Are Stiffing Account Takeover Victims](https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/)
+- [Jewish Calendar Demystified](https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm)
+- [Ukraine officially recognized the Northern Territories as part of Japan](https://www.president.gov.ua/documents/6922022-44369)
+- [Banks are not repaying victims of Zelle scams](https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/)
 - [Overzealous Destructuring](https://www.aleksandrhovhannisyan.com/blog/overzealous-destructuring/)
 - [Gcloud storage: up to 94% faster data transfers for Cloud Storage](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers)
-- [Nuclear Close Calls: Able Archer 83 &lpar;2018&rpar;](https://www.atomicheritage.org/history/nuclear-close-calls-able-archer-83)
-- [My Favourite Computer, an Old Mac](http://muezza.ca/thoughts/favourite_computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
