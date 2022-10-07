@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Papa John&#39;s sued for &#39;wiretap&#39; spying on website mouse clicks, keystrokes](https://www.theregister.com/2022/10/06/papa_johns_spying_lawsuit/)
 - [MIMD Interpretation on a GPU [pdf]](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
 - [UPchieve &lpar;YC W21&rpar; is hiring a tech lead and senior engineers](https://upchieve.welcomekit.co/)
 - [Vectors are over, hashes are the future](https://www.algolia.com/blog/ai/vectors-vs-hashes/)
 - [JetBrains Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
-- [How to distort Scrum until it no longer works](https://lucasfcosta.com/2022/10/04/distorting-scrum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
