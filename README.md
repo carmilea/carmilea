@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On AlphaTensor’s new matrix multiplication algorithms](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/)
+- [Startup Builds Houses by Pumping Concrete into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)
+- [Celsius exposes the names of all customers](https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs)
+- [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/)
 - [Why doesn&#39;t Bash&#39;s `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105)
-- [WebVM: WASM virtual machine in browser with networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
-- [Ask HN: What content/knowledge is most important?](https://news.ycombinator.com/item?id=33116230)
-- [Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
-- [Recreating macOS’s Drift Screensaver with Rust and WASM](https://github.com/sandydoo/flux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
