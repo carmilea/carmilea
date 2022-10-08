@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grad students at Northeastern pushed back against invasive digital surveillance](https://www.solipsys.co.uk/Chartodon/109132893953225469.svg)
+- [Which language to choose? Wanna develop an IoT solution](https://news.ycombinator.com/item?id=33132323)
+- [Grad students at Northeastern pushed back against invasive digital surveillance](https://pluralistic.net/2022/10/07/sensory-deprivation/#sensorship)
+- [Calif. Law to Protect Children&#39;s Privacy Could Lead to Invasive Age Verification](https://reason.com/2022/10/06/a-california-law-designed-to-protect-childrens-digital-privacy-could-lead-to-invasive-age-verification/)
 - [The death dilemma: Are hospitals overtreating patients nearing the end?](https://thewalrus.ca/the-death-dilemma-are-hospitals-overtreating-patients-nearing-the-end/)
-- [Candidate Insists Google Blocking His Website; He Requested It Not Be Indexed](https://www.techdirt.com/2022/10/07/arizona-gop-secretary-of-state-candidate-insists-deep-state-google-is-blocking-his-website-turns-out-he-requested-it-not-be-indexed/)
-- [Show HN: Garnix, fast and easy CI for Nix](https://news.ycombinator.com/item?id=33131480)
-- [German rail operator says train disruption caused by sabotage](https://www.dw.com/en/german-rail-operator-says-massive-train-disruption-caused-by-sabotage/a-63377385)
+- [Ask HN: How to deal with markets down turn? Feeling down](https://news.ycombinator.com/item?id=33131519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
