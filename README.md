@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [USB Drives on Amazon Are a Scam](https://kurtisknodel.com/blog/1Z7fBnGTIlOklNRJ0_nDXnANHcPRYSmRyakATw6lDts)
 - [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
+- [Zed Shaw explains the dangers of fascism in open source](http://opentranscripts.org/transcript/fascism-fauxpen-source/)
 - [A Cheap 2.5GbE PoE Unmanaged Switch](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
 - [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
-- [C Programming on System 6](https://jcs.org/2022/09/29/vcfmw)
-- [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
