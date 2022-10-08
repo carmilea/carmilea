@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are EGPUs for M1/M2 MacBook&#39;s Possible?](https://news.ycombinator.com/item?id=33136422)
-- [Canonical Launches Ubuntu Pro](https://ubuntu.com/blog/ubuntu-pro-beta-release)
-- [Technical milestone reached: global earth system simulations with 1.2 km resoln](https://mpimet.mpg.de/en/communication/news/single-news/page?tx_news_pi1%5Bnews%5D=1625&cHash=adb91342d7d66372c6f521b313d7f59f)
-- [DALL·E 2 vs. $10 Fiverr Commissions](https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission)
-- [Current interop status of various QUIC client and server implementations](https://interop.seemann.io/)
+- [Basilisk II Macintosh 68K emulator ported to iPadOS](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
+- [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
+- [Ask HN: Are EGPUs for M1/M2 MacBook&#39;s on Linux Possible?](https://news.ycombinator.com/item?id=33136422)
+- [JSON Crack – Seamlessly visualize your JSON data instantly into graphs](https://github.com/AykutSarac/jsoncrack.com)
+- [Magic Leap 2](https://www.magicleap.com/magic-leap-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
