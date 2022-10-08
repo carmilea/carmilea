@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Barge traffic halted on Mississippi River by lowest water levels in a decade](https://lite.cnn.com/en/article/h_93bc2d6fc053e08af790efe1859b0935)
+- [Fastmail Down?](https://fastmail.fm/)
+- [The Bulletproof Glass Effect: Unintended Consequences of Privacy Notices](https://journals.sagepub.com/doi/abs/10.1177/00222437211069093)
 - [Leap: Neovim’s Answer to the Mouse](https://github.com/ggandor/leap.nvim)
 - [Show HN: Reflame – Deploy your React web apps in milliseconds](https://reflame.app/?source=show-hn-launch)
 - [Ask HN: Getting tired of complexity in web development](https://news.ycombinator.com/item?id=33134021)
-- [Craniometrix &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/rBiXA3r-founding-full-stack-eng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
