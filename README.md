@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bitcoin Pre-Genesis Block](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
+- [the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
 - [Ask HN: Best book to learn C in 2022?](https://news.ycombinator.com/item?id=33130533)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers to Take Ideas from Research to Implementation](https://www.ashbyhq.com/careers?utm_source=hn)
 - [Lessons learned building an ML trading system that turned $5k into $200k &lpar;2019&rpar;](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
