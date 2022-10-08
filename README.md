@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cheap 2.5GbE Poe Unmanaged Switch &lpar;2022&rpar;](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
+- [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
+- [A Cheap 2.5GbE PoE Unmanaged Switch](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
 - [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
-- [C Programming on System 6](https://jcs.org/)
+- [C Programming on System 6](https://jcs.org/2022/09/29/vcfmw)
 - [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
-- [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
