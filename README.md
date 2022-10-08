@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [With seemingly endless data storage, people are &#39;digital hoarding&#39;](https://techxplore.com/news/2022-10-seemingly-endless-storage-fingertips-digital.html)
+- [Craniometrix &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/rBiXA3r-founding-full-stack-eng)
 - [Algebraic Geometry for Computer Graphics - Jim Blinn](https://courses.cs.washington.edu/courses/cse590b/13au/)
+- [Updated PayPal Acceptable Use Policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf)
 - [Show HN: I developed an app that creates interactive product demos in minutes](https://supademo.com)
 - [You Hated Your Cable Package. Your Streaming Services Are Bringing It Back](https://www.wsj.com/articles/streaming-service-bundle-cable-11665151236)
-- [Arbitrary Lines: The way restrctive zoning costs all of us](https://www.cato.org/regulation/fall-2022/case-abolishing-zoning#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
