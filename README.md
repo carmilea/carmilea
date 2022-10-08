@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
-- [Ask HN: Best book to learn C in 2022?](https://news.ycombinator.com/item?id=33130533)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers to Take Ideas from Research to Implementation](https://www.ashbyhq.com/careers?utm_source=hn)
-- [Top USB Drives on Amazon are a Scam](https://kurtisknodel.com/blog/1Z7fBnGTIlOklNRJ0_nDXnANHcPRYSmRyakATw6lDts)
-- [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
+- [Candidate Insists Google Blocking His Website; He Requested It Not Be Indexed](https://www.techdirt.com/2022/10/07/arizona-gop-secretary-of-state-candidate-insists-deep-state-google-is-blocking-his-website-turns-out-he-requested-it-not-be-indexed/)
+- [Ask HN: How to deal with markets down turn? Feeling down](https://news.ycombinator.com/item?id=33131519)
+- [Ukraine&#39;s parliament recognizes Japan&#39;s claim to Russian-held Northern Territory](https://www3.nhk.or.jp/nhkworld/en/news/20221008_10/)
+- [Show HN: Garnix, fast and easy CI for Nix](https://news.ycombinator.com/item?id=33131480)
+- [German rail operator says train disruption caused by sabotage](https://www.dw.com/en/german-rail-operator-says-massive-train-disruption-caused-by-sabotage/a-63377385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
