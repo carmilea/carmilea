@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Barge traffic halted on Mississippi River by lowest water levels in a decade](https://lite.cnn.com/en/article/h_93bc2d6fc053e08af790efe1859b0935)
+- [Leap: Neovim’s Answer to the Mouse](https://github.com/ggandor/leap.nvim)
+- [Show HN: Reflame – Deploy your React web apps in milliseconds](https://reflame.app/?source=show-hn-launch)
+- [Ask HN: Getting tired of complexity in web development](https://news.ycombinator.com/item?id=33134021)
 - [Craniometrix &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/rBiXA3r-founding-full-stack-eng)
-- [Algebraic Geometry for Computer Graphics - Jim Blinn](https://courses.cs.washington.edu/courses/cse590b/13au/)
-- [Updated PayPal Acceptable Use Policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf)
-- [Show HN: I developed an app that creates interactive product demos in minutes](https://supademo.com)
-- [You Hated Your Cable Package. Your Streaming Services Are Bringing It Back](https://www.wsj.com/articles/streaming-service-bundle-cable-11665151236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
