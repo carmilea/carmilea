@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastmail Down?](https://fastmail.fm/)
-- [The Bulletproof Glass Effect: Unintended Consequences of Privacy Notices](https://journals.sagepub.com/doi/abs/10.1177/00222437211069093)
-- [Leap: Neovim’s Answer to the Mouse](https://github.com/ggandor/leap.nvim)
-- [Show HN: Reflame – Deploy your React web apps in milliseconds](https://reflame.app/?source=show-hn-launch)
-- [Ask HN: Getting tired of complexity in web development](https://news.ycombinator.com/item?id=33134021)
+- [Ask HN: How do developers in low-wage countries view Open Source?](https://news.ycombinator.com/item?id=33135278)
+- [DALL·E 2 vs. $10 Fiverr Commissions](https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission)
+- [Current interop status of various QUIC client and server implementations](https://interop.seemann.io/)
+- [Valve&#39;s latest Steam Deck trailer briefly plugs a Nintendo Switch emulator](https://www.gamedeveloper.com/business/valves-latest-steam-deck-trailer-briefly-plugs-a-nintendo-switch-emulator)
+- [Lufthansa has not banned AirTags](https://liveandletsfly.com/lufthansa-airtags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
