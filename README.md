@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do developers in low-wage countries view Open Source?](https://news.ycombinator.com/item?id=33135278)
+- [Canonical Launches Ubuntu Pro](https://ubuntu.com/blog/ubuntu-pro-beta-release)
+- [Technical milestone reached: global earth system simulations with 1.2 km resoln](https://mpimet.mpg.de/en/communication/news/single-news/page?tx_news_pi1%5Bnews%5D=1625&cHash=adb91342d7d66372c6f521b313d7f59f)
 - [DALL·E 2 vs. $10 Fiverr Commissions](https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission)
 - [Current interop status of various QUIC client and server implementations](https://interop.seemann.io/)
 - [Valve&#39;s latest Steam Deck trailer briefly plugs a Nintendo Switch emulator](https://www.gamedeveloper.com/business/valves-latest-steam-deck-trailer-briefly-plugs-a-nintendo-switch-emulator)
-- [Lufthansa has not banned AirTags](https://liveandletsfly.com/lufthansa-airtags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
