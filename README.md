@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Which language to choose? Wanna develop an IoT solution](https://news.ycombinator.com/item?id=33132323)
+- [Ask HN: Which web browser do you use and why?](https://news.ycombinator.com/item?id=33132378)
 - [Grad students at Northeastern pushed back against invasive digital surveillance](https://pluralistic.net/2022/10/07/sensory-deprivation/#sensorship)
 - [Calif. Law to Protect Children&#39;s Privacy Could Lead to Invasive Age Verification](https://reason.com/2022/10/06/a-california-law-designed-to-protect-childrens-digital-privacy-could-lead-to-invasive-age-verification/)
 - [The death dilemma: Are hospitals overtreating patients nearing the end?](https://thewalrus.ca/the-death-dilemma-are-hospitals-overtreating-patients-nearing-the-end/)
-- [Ask HN: How to deal with markets down turn? Feeling down](https://news.ycombinator.com/item?id=33131519)
+- [My channel is now demonetized because I cover the war [video]](https://www.youtube.com/watch?v=kt6RAZeBKAc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
