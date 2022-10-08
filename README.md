@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which web browser do you use and why?](https://news.ycombinator.com/item?id=33132378)
-- [Grad students at Northeastern pushed back against invasive digital surveillance](https://pluralistic.net/2022/10/07/sensory-deprivation/#sensorship)
-- [Calif. Law to Protect Children&#39;s Privacy Could Lead to Invasive Age Verification](https://reason.com/2022/10/06/a-california-law-designed-to-protect-childrens-digital-privacy-could-lead-to-invasive-age-verification/)
-- [The death dilemma: Are hospitals overtreating patients nearing the end?](https://thewalrus.ca/the-death-dilemma-are-hospitals-overtreating-patients-nearing-the-end/)
-- [My channel is now demonetized because I cover the war [video]](https://www.youtube.com/watch?v=kt6RAZeBKAc)
+- [With seemingly endless data storage, people are &#39;digital hoarding&#39;](https://techxplore.com/news/2022-10-seemingly-endless-storage-fingertips-digital.html)
+- [Algebraic Geometry for Computer Graphics - Jim Blinn](https://courses.cs.washington.edu/courses/cse590b/13au/)
+- [Show HN: I developed an app that creates interactive product demos in minutes](https://supademo.com)
+- [You Hated Your Cable Package. Your Streaming Services Are Bringing It Back](https://www.wsj.com/articles/streaming-service-bundle-cable-11665151236)
+- [Arbitrary Lines: The way restrctive zoning costs all of us](https://www.cato.org/regulation/fall-2022/case-abolishing-zoning#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
