@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cheap 2.5GbE Poe Unmanaged Switch &lpar;2022&rpar;](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
+- [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
+- [C Programming on System 6](https://jcs.org/)
 - [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
 - [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
-- [Is the FSF Fighting the Previous War?](https://irreal.org/blog/?p=10864)
-- [Lufthansa bans AirTags in checked luggage](https://onemileatatime.com/news/lufthansa-bans-airtags/)
-- [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
