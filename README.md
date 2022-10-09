@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave browser to start blocking annoying cookie consent banners](https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/)
+- [Declassified US nuclear targets – interactive map](https://futureoflife.org/background/us-nuclear-targets/)
+- [TypeScript is now officially 10 years old](https://coderoasis.com/typescript-10-years-old/)
+- [Call for Participation to Chaos Computer Club’s 37C3](https://content.events.ccc.de/cfp/37c3/index.en.html)
 - [Going where BeOS NetPositive hasn&#39;t gone before: NetPositive+](http://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
-- [Stop Using Utcnow and Utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html)
-- [Why Disconnecting from Your Phone Is So Good for You – and How to Do It](https://time.com/6219588/how-to-disconnect-phone/)
-- [Day.js – Fast 2kB alternative to Moment.js with the same modern API](https://day.js.org/)
-- [Scotland &#39;snow-free&#39; for fourth time in six years](https://www.bbc.com/news/uk-scotland-highlands-islands-63184780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
