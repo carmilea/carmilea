@@ -55,7 +55,7 @@
 - [Stop Using Utcnow and Utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html)
 - [Why Disconnecting from Your Phone Is So Good for You – and How to Do It](https://time.com/6219588/how-to-disconnect-phone/)
 - [Day.js – Fast 2kB alternative to Moment.js with the same modern API](https://day.js.org/)
-- [Ask HN: Is Substack the new Medium?](https://news.ycombinator.com/item?id=33137417)
+- [Scotland &#39;snow-free&#39; for fourth time in six years](https://www.bbc.com/news/uk-scotland-highlands-islands-63184780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
