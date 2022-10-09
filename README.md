@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Online Hate Speech Can Bring the Police to Your Door](https://web.archive.org/web/20220928153456/https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html)
 - [Data Structures Sketches](https://okso.app/showcase/data-structures)
 - [Running GUI Linux in a virtual machine on a Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac)
 - [Motion &lpar;YC W20&rpar; Is Hiring a Front End Architect and Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Ask HN: Why are JavaScript dependencies so messy?](https://news.ycombinator.com/item?id=33142840)
-- [DIY out-of-band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
+- [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
