@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why 23.976 and not 24 FPS?](https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454)
+- [I have come to bury the BIOS, not to open it: The need for holistic systems](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
+- [Made in America is back, leaving US factories scrambling to find workers](https://www.cnn.com/2022/10/09/economy/manufacturing-jobs/index.html)
 - [Microblog.pub – A self-hosted, single-user, ActivityPub powered microblog](https://docs.microblog.pub/)
 - [Show HN: Fractal Garden – An Exhibition of Mathematical Beauty](https://www.fractal.garden/)
-- [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com/)
-- [MythBusters Helped a Wrongly Convicted Man Prove His Innocence](https://innocenceproject.org/discovery-channel-mythbuster-john-galvan-wrongful-conviction-innocence/)
-- [Decompiling x86 Deep Neural Network Executables](https://github.com/monkbai/DNN-decompiler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
