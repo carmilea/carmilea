@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Bored working for the current company, advice?](https://news.ycombinator.com/item?id=33139446)
+- [Happy 20th birthday Jira You suck so bad](https://www.rida.dev/blog/happy-20th-birthday-jira-you-suck-so-bad-c9b9b8bf6d5a4be0bc84ecbe5a57e434)
+- [Take a Break You Idiot](https://www.robinrendle.com/notes/take-a-break-you-idiot/)
 - [Brave browser to start blocking annoying cookie consent banners](https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/)
 - [Declassified US nuclear targets – interactive map](https://futureoflife.org/background/us-nuclear-targets/)
-- [TypeScript is now officially 10 years old](https://coderoasis.com/typescript-10-years-old/)
-- [Call for Participation to Chaos Computer Club’s 37C3](https://content.events.ccc.de/cfp/37c3/index.en.html)
-- [Going where BeOS NetPositive hasn&#39;t gone before: NetPositive+](http://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
