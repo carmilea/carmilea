@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Going where BeOS NetPositive hasn&#39;t gone before: NetPositive+](http://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
+- [Stop Using Utcnow and Utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html)
+- [Why Disconnecting from Your Phone Is So Good for You – and How to Do It](https://time.com/6219588/how-to-disconnect-phone/)
 - [Day.js – Fast 2kB alternative to Moment.js with the same modern API](https://day.js.org/)
 - [Ask HN: Is Substack the new Medium?](https://news.ycombinator.com/item?id=33137417)
-- [A Few of My Favorite Things About the OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
-- [Basilisk II Macintosh 68K emulator ported to iPadOS &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
-- [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
 <!-- BLOG-POST-LIST:END -->
 
 ---
