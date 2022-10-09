@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures Sketches](https://okso.app/showcase/data-structures)
+- [Running GUI Linux in a virtual machine on a Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac)
 - [Motion &lpar;YC W20&rpar; Is Hiring a Front End Architect and Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [California to discontinue plastic grocery bags](https://www.sfgate.com/food/article/Gov-Newsom-signs-bill-that-will-end-plastic-bags-17494115.php)
 - [Ask HN: Why are JavaScript dependencies so messy?](https://news.ycombinator.com/item?id=33142840)
-- [Amazon “suicide kits” have led to teen deaths](https://arstechnica.com/tech-policy/2022/10/amazon-suicide-kits-have-led-to-teen-deaths-according-to-new-lawsuit/)
 - [DIY out-of-band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 <!-- BLOG-POST-LIST:END -->
 
