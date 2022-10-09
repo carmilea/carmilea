@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Basilisk II Macintosh 68K emulator ported to iPadOS](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
+- [Ask HN: Is Substack the New Medium?](https://news.ycombinator.com/item?id=33137417)
+- [A Few of My Favorite Things About the OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
+- [Basilisk II Macintosh 68K emulator ported to iPadOS &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
+- [Linvo-Scraper: LinkedIn Automation Bot](https://github.com/linvo-io/linvo-scraper)
 - [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
-- [Ask HN: Are EGPUs for M1/M2 MacBook&#39;s on Linux Possible?](https://news.ycombinator.com/item?id=33136422)
-- [JSON Crack – Seamlessly visualize your JSON data instantly into graphs](https://github.com/AykutSarac/jsoncrack.com)
-- [Magic Leap 2](https://www.magicleap.com/magic-leap-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
