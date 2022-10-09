@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Young woman with PTSD who survived Brussels airport terror attack &#39;euthanised&#39;](https://www.mirror.co.uk/news/world-news/young-woman-who-survived-brussels-28183968)
-- [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
+- [DIY out-of-band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 - [Top science fiction short stories published in August](https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html)
 - [The Hummingbird Clock: date videos by background mains hum](http://hummingbirdclock.info/about)
 - [New research suggests eating early and within a 10-hour window is healthier](https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html)
+- [Transwarp v0.84 – 50x fastload system on plain vanilla stock 1541 &lpar;use with C64&rpar;](https://csdb.dk/release/?id=210864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
