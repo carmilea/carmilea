@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Young woman with PTSD who survived Brussels airport terror attack &#39;euthanised&#39;](https://www.mirror.co.uk/news/world-news/young-woman-who-survived-brussels-28183968)
+- [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
+- [Top science fiction short stories published in August](https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html)
 - [The Hummingbird Clock: date videos by background mains hum](http://hummingbirdclock.info/about)
-- [Ask HN: How many programming languages are you proficient in?](https://news.ycombinator.com/item?id=33140759)
-- [Cleaning a Spoon Is Complex](https://www.jefftk.com/p/cleaning-a-spoon-is-complex)
-- [Learn Exponentially](https://saveall.ai/blog/learn-exponentially)
-- [Infosys asked HR not to hire &#39;Indian-origin candidates&#39;, &#39;women with children&#39;](https://www.timesnownews.com/business-economy/companies/infosys-asked-hr-executive-not-to-hire-indian-origin-candidates-women-with-children-complainant-to-us-court-article-94725018)
+- [New research suggests eating early and within a 10-hour window is healthier](https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
