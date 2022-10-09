@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hummingbird Clock: date videos by background mains hum](http://hummingbirdclock.info/about)
+- [Ask HN: How many programming languages are you proficient in?](https://news.ycombinator.com/item?id=33140759)
 - [Cleaning a Spoon Is Complex](https://www.jefftk.com/p/cleaning-a-spoon-is-complex)
+- [Learn Exponentially](https://saveall.ai/blog/learn-exponentially)
 - [Infosys asked HR not to hire &#39;Indian-origin candidates&#39;, &#39;women with children&#39;](https://www.timesnownews.com/business-economy/companies/infosys-asked-hr-executive-not-to-hire-indian-origin-candidates-women-with-children-complainant-to-us-court-article-94725018)
-- [Lobsters](https://lobste.rs/)
-- [Ask HN: Any legal place to buy offline TV movie downloads?](https://news.ycombinator.com/item?id=33140295)
-- [Protests in Iran: State-run live TV hacked by protesters](https://www.bbc.co.uk/news/world-middle-east-63188795)
 <!-- BLOG-POST-LIST:END -->
 
 ---
