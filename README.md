@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microblog.pub – A self-hosted, single-user, ActivityPub powered microblog](https://docs.microblog.pub/)
 - [Show HN: Fractal Garden – An Exhibition of Mathematical Beauty](https://www.fractal.garden/)
-- [Ask HN: Is a MSc in Computer Science worth the time and money?](https://news.ycombinator.com/item?id=33144436)
 - [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com/)
-- [The single market is looking wobbly, Germany is to blame](https://www.economist.com/europe/2022/10/06/a-german-aid-package-revives-calls-for-solidarity-with-poorer-eu-countries)
-- [Crimean bridge: Who – or what – caused the explosion?](https://www.bbc.com/news/world-europe-63192757)
+- [MythBusters Helped a Wrongly Convicted Man Prove His Innocence](https://innocenceproject.org/discovery-channel-mythbuster-john-galvan-wrongful-conviction-innocence/)
+- [Decompiling x86 Deep Neural Network Executables](https://github.com/monkbai/DNN-decompiler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
