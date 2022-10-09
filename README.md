@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Online Hate Speech Can Bring the Police to Your Door](https://web.archive.org/web/20220928153456/https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html)
-- [Data Structures Sketches](https://okso.app/showcase/data-structures)
-- [Running GUI Linux in a virtual machine on a Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac)
-- [Motion &lpar;YC W20&rpar; Is Hiring a Front End Architect and Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
+- [Show HN: Fractal Garden – An Exhibition of Mathematical Beauty](https://www.fractal.garden/)
+- [Ask HN: Is a MSc in Computer Science worth the time and money?](https://news.ycombinator.com/item?id=33144436)
+- [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com/)
+- [The single market is looking wobbly, Germany is to blame](https://www.economist.com/europe/2022/10/06/a-german-aid-package-revives-calls-for-solidarity-with-poorer-eu-countries)
+- [Crimean bridge: Who – or what – caused the explosion?](https://www.bbc.com/news/world-europe-63192757)
 <!-- BLOG-POST-LIST:END -->
 
 ---
