@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleaning a Spoon Is Complex](https://www.jefftk.com/p/cleaning-a-spoon-is-complex)
+- [Infosys asked HR not to hire &#39;Indian-origin candidates&#39;, &#39;women with children&#39;](https://www.timesnownews.com/business-economy/companies/infosys-asked-hr-executive-not-to-hire-indian-origin-candidates-women-with-children-complainant-to-us-court-article-94725018)
+- [Lobsters](https://lobste.rs/)
 - [Ask HN: Any legal place to buy offline TV movie downloads?](https://news.ycombinator.com/item?id=33140295)
 - [Protests in Iran: State-run live TV hacked by protesters](https://www.bbc.co.uk/news/world-middle-east-63188795)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [Dutch employee fired by U.S. firm for shutting off webcam awarded €75K in court](https://nltimes.nl/2022/10/09/dutch-employee-fired-us-firm-shutting-webcam-awarded-eu75000-court)
-- [Ask HN: Bored working for the current company, advice?](https://news.ycombinator.com/item?id=33139446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
