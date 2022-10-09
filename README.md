@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Any legal place to buy offline TV movie downloads?](https://news.ycombinator.com/item?id=33140295)
+- [Protests in Iran: State-run live TV hacked by protesters](https://www.bbc.co.uk/news/world-middle-east-63188795)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 - [Dutch employee fired by U.S. firm for shutting off webcam awarded €75K in court](https://nltimes.nl/2022/10/09/dutch-employee-fired-us-firm-shutting-webcam-awarded-eu75000-court)
 - [Ask HN: Bored working for the current company, advice?](https://news.ycombinator.com/item?id=33139446)
-- [Take a Break You Idiot](https://www.robinrendle.com/notes/take-a-break-you-idiot/)
-- [Brave browser to start blocking annoying cookie consent banners](https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/)
-- [TypeScript is now officially 10 years old](https://coderoasis.com/typescript-10-years-old/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
