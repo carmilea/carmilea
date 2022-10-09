@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s Behind Chinook and Chum Salmon Declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
+- [Six Recent Discoveries That Have Changed How We Think About Human Origins](https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/)
+- [Energy vs. Sovereign Bond Markets](https://www.lynalden.com/october-2022-newsletter/)
 - [Why 23.976 and not 24 FPS?](https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454)
 - [I have come to bury the BIOS, not to open it: The need for holistic systems](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
-- [Made in America is back, leaving US factories scrambling to find workers](https://www.cnn.com/2022/10/09/economy/manufacturing-jobs/index.html)
-- [Microblog.pub – A self-hosted, single-user, ActivityPub powered microblog](https://docs.microblog.pub/)
-- [Show HN: Fractal Garden – An Exhibition of Mathematical Beauty](https://www.fractal.garden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
