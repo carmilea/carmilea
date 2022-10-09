@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The gangs that kidnap Asians and force them to commit cyberfraud](https://www.economist.com/asia/2022/10/06/the-gangs-that-kidnap-asians-and-force-them-to-commit-cyberfraud)
 - [Ask HN: Is Substack the New Medium?](https://news.ycombinator.com/item?id=33137417)
 - [A Few of My Favorite Things About the OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
 - [Basilisk II Macintosh 68K emulator ported to iPadOS &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
-- [Linvo-Scraper: LinkedIn Automation Bot](https://github.com/linvo-io/linvo-scraper)
 - [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
 <!-- BLOG-POST-LIST:END -->
 
