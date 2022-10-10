@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Helix: A Neovim inspired editor, written in Rust](https://github.com/helix-editor/helix)
 - [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
-- [Why Is Europe More Equal Than the United States?](https://www.aeaweb.org/articles?id=10.1257/app.20200703)
 - [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
 - [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
-- [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
+- [Enzian – An open research computer built by the Systems Group at ETH Zurich](https://enzian.systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
