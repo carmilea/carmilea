@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobel Prize in Economics Awarded to Ben Bernanke, Douglas Diamond, Philip Dybvig](https://www.nobelprize.org/prizes/economic-sciences/2022/summary/)
 - [Feynman on Probability](https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Ops Exec and Product Engineers](https://www.stackerhq.com/careers#job-listing)
 - [12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff](https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms)
 - [Tremor – React library to build dashboards fast](https://github.com/tremorlabs/tremor)
-- [In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths](https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
