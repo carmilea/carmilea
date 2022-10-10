@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Firefox Responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
-- [Who Thought Putting a Casino in Everyone’s Pocket Was a Good Idea?](https://nymag.com/intelligencer/2022/10/politicans-are-getting-hooked-on-mobile-sports-betting.html)
-- [Live Captioning FAQ](https://whitecoatcaptioning.com/faq/)
-- [We Should Be Measuring Well-Being Catalysis, Not Economic Productivity](https://bengoertzel.substack.com/p/we-should-be-measuring-well-being)
-- [Quiet Quitting](https://ombuds.web.cern.ch/blog/2022/08/quiet-quitting)
+- [Show HN: Minimal, no-JS web forum software](https://github.com/Demindiro/agreper)
+- [Cyberattacks Reported at US Airports](https://digital.abcaudio.com/news/cyberattacks-reported-us-airports)
+- [Against Effective Altruism](https://fantasticanachronism.com/2022/10/10/against-effective-altruism/)
+- [The Google plasma globe affair of 2012](https://lcamtuf.coredump.cx/plasma_globe/)
+- [Website Showing How Much People Lost with Celsius Now Live](https://celsiusnetworth.com/#leaderboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
