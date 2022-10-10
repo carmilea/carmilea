@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are central banks going bankrupt?](https://www.ft.com/content/ddc5d867-59fe-4c9b-a588-4066304318b6)
+- [Show HN: Satori – Convert HTML and CSS to SVG](https://github.com/vercel/satori)
+- [Show HN: Subtitles are not the same as sign language](https://www.signlvideo.xyz/)
+- [RCE via GitHub import](https://gitlab.com/gitlab-org/gitlab/-/issues/371098)
 - [Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI](https://github.com/invoke-ai/InvokeAI)
-- [The Little Spaceplane That Couldn&#39;t &lpar;2008&rpar;](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
-- [Show HN: Linkidex – save and sort the URLs you care about](https://linkidex.com/)
-- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
-- [The return of Aztec floating farms](https://www.bbc.com/travel/article/20221009-the-return-of-aztec-floating-farms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
