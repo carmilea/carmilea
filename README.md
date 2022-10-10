@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel Prize in Economics Awarded to Ben Bernanke, Douglas Diamond, Philip Dybvig](https://www.nobelprize.org/prizes/economic-sciences/2022/summary/)
+- [Russians hit the office and R&amp;D center of Samsung in Kyiv](https://mezha.media/en/2022/10/10/russians-hit-the-office-and-r-d-center-of-samsung-in-kyiv/)
+- [Swiss Post Design System](https://swisspost-web-frontend.netlify.app/)
 - [Feynman on Probability](https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Ops Exec and Product Engineers](https://www.stackerhq.com/careers#job-listing)
 - [12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff](https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms)
-- [Tremor – React library to build dashboards fast](https://github.com/tremorlabs/tremor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
