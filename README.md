@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russians hit the office and R&amp;D center of Samsung in Kyiv](https://mezha.media/en/2022/10/10/russians-hit-the-office-and-r-d-center-of-samsung-in-kyiv/)
-- [Swiss Post Design System](https://swisspost-web-frontend.netlify.app/)
-- [Feynman on Probability](https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2)
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Ops Exec and Product Engineers](https://www.stackerhq.com/careers#job-listing)
-- [12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff](https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms)
+- [Back to Android &lpar;For the Time Being&rpar;](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
+- [Show HN: Nomad, a no fee Airbnb competitor. Any investors here?](https://nomad-pass.herokuapp.com)
+- [Archaeologists Dig Up 1,400-Year-Old Native American Canal in Alabama](https://www.smithsonianmag.com/science-nature/archaeologists-dig-up-1400-year-old-native-american-canal-in-alabama-180980742/)
+- [I made a guitar tuner app using Flutter and Rust](https://justune.eu)
+- [Should Linux set the new constant-time mode CPU flags?](https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
