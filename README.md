@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
+- [Why Is Europe More Equal Than the United States?](https://www.aeaweb.org/articles?id=10.1257/app.20200703)
 - [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
+- [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
 - [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
-- [Show HN: I built a WASI playground for running CLI binaries in the browser](https://runno.dev/wasi)
-- [Knock: Convert ACSM files to PDF/EPUBs with one command on Linux](https://github.com/BentonEdmondson/knock)
-- [What’s Behind Chinook and Chum Salmon Declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
 <!-- BLOG-POST-LIST:END -->
 
 ---
