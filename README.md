@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: GhostLabel – Start your own coffee product line](https://www.ghostlabel.io/product-directory/beverages/coffee-tea)
+- [How to catch and handle errors in bash](https://www.xmodulo.com/catch-handle-errors-bash.html)
+- [Cult Spacecraft Part One: The Little Spaceplane That Couldn&#39;t](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
 - [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
 - [Code of Ethics – IEEE Computer Society](https://www.computer.org/education/code-of-ethics)
-- [Show HN: Minimal, no-JS web forum software](https://github.com/Demindiro/agreper)
-- [Against Effective Altruism](https://fantasticanachronism.com/2022/10/10/against-effective-altruism/)
-- [The Google plasma globe affair of 2012](https://lcamtuf.coredump.cx/plasma_globe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
