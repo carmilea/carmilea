@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Android &lpar;For the Time Being&rpar;](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
-- [Show HN: Nomad, a no fee Airbnb competitor. Any investors here?](https://nomad-pass.herokuapp.com)
-- [Archaeologists Dig Up 1,400-Year-Old Native American Canal in Alabama](https://www.smithsonianmag.com/science-nature/archaeologists-dig-up-1400-year-old-native-american-canal-in-alabama-180980742/)
-- [I made a guitar tuner app using Flutter and Rust](https://justune.eu)
-- [Should Linux set the new constant-time mode CPU flags?](https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/)
+- [Show HN: We built a tool that automatically generates your API Tests](https://stepci.com/)
+- [Ray Tracing in Notepad.exe at 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
+- [Show HN: Kitchen Renovation ideas animation using Stable Diffusion](https://www.youtube.com/watch?v=P1F0-sTyvsQ)
+- [Starting a food co-op: Year 1](https://quaran.to/starting-a-food-co-op-year-1)
+- [Pentagon Puts DJI on Blacklist](https://www.aljazeera.com/economy/2022/10/7/chinas-drone-giant-dji-added-to-us-sanctions-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
