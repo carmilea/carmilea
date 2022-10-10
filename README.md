@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths](https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/)
 - [Helix: A Neovim inspired editor, written in Rust](https://github.com/helix-editor/helix)
 - [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
 - [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
-- [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
-- [Enzian – An open research computer built by the Systems Group at ETH Zurich](https://enzian.systems/)
+- [The Internet needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
