@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are central banks going bankrupt?](https://www.ft.com/content/ddc5d867-59fe-4c9b-a588-4066304318b6)
+- [Microbes that cause cavities can form superorganisms able to ‘crawl’](https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth)
+- [UBI Would Likely Increase Poverty Rather Than Reduce It &lpar;2019&rpar;](https://www.cbpp.org/research/poverty-and-opportunity/commentary-universal-basic-income-may-sound-attractive-but-if-it)
+- [How Wine Works 101](https://werat.dev/blog/how-wine-works-101/)
 - [Show HN: Satori – Convert HTML and CSS to SVG](https://github.com/vercel/satori)
-- [Show HN: Subtitles are not the same as sign language](https://www.signlvideo.xyz/)
 - [RCE via GitHub import](https://gitlab.com/gitlab-org/gitlab/-/issues/371098)
-- [Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI](https://github.com/invoke-ai/InvokeAI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
