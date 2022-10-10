@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring for Ops Exec and Product Engineers](https://www.stackerhq.com/careers#job-listing)
+- [&#39;Pro-Russian&#39; Killnet Hacktivists Effectively Amplify Russian Narratives](https://blog.eclecticiq.com/killnet-effectively-amplifies-russian-narratives-but-has-limited-ddos-capabilities)
+- [Tremor – React library to build dashboards fast](https://github.com/tremorlabs/tremor)
 - [In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths](https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/)
 - [Helix: A Neovim inspired editor, written in Rust](https://github.com/helix-editor/helix)
-- [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
-- [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
-- [The Internet needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
