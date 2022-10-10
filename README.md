@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI](https://github.com/invoke-ai/InvokeAI)
-- [Saudi Arabia sentences tribesmen to death for resisting displacement](https://www.middleeasteye.net/news/neom-saudi-arabia-sentences-tribesmen-death-resisting-displacement)
 - [The Little Spaceplane That Couldn&#39;t &lpar;2008&rpar;](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
 - [Show HN: Linkidex – save and sort the URLs you care about](https://linkidex.com/)
 - [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
+- [The return of Aztec floating farms](https://www.bbc.com/travel/article/20221009-the-return-of-aztec-floating-farms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
