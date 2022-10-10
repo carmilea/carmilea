@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
+- [Code of Ethics – IEEE Computer Society](https://www.computer.org/education/code-of-ethics)
 - [Show HN: Minimal, no-JS web forum software](https://github.com/Demindiro/agreper)
-- [Cyberattacks Reported at US Airports](https://digital.abcaudio.com/news/cyberattacks-reported-us-airports)
 - [Against Effective Altruism](https://fantasticanachronism.com/2022/10/10/against-effective-altruism/)
 - [The Google plasma globe affair of 2012](https://lcamtuf.coredump.cx/plasma_globe/)
-- [Website Showing How Much People Lost with Celsius Now Live](https://celsiusnetworth.com/#leaderboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
