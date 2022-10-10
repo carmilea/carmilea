@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
+- [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
+- [Show HN: I built a WASI playground for running CLI binaries in the browser](https://runno.dev/wasi)
+- [Knock: Convert ACSM files to PDF/EPUBs with one command on Linux](https://github.com/BentonEdmondson/knock)
 - [What’s Behind Chinook and Chum Salmon Declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
-- [Six Recent Discoveries That Have Changed How We Think About Human Origins](https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/)
-- [Energy vs. Sovereign Bond Markets](https://www.lynalden.com/october-2022-newsletter/)
-- [Why 23.976 and not 24 FPS?](https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454)
-- [I have come to bury the BIOS, not to open it: The need for holistic systems](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
