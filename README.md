@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: GhostLabel – Start your own coffee product line](https://www.ghostlabel.io/product-directory/beverages/coffee-tea)
-- [How to catch and handle errors in bash](https://www.xmodulo.com/catch-handle-errors-bash.html)
-- [Cult Spacecraft Part One: The Little Spaceplane That Couldn&#39;t](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
+- [Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI](https://github.com/invoke-ai/InvokeAI)
+- [Saudi Arabia sentences tribesmen to death for resisting displacement](https://www.middleeasteye.net/news/neom-saudi-arabia-sentences-tribesmen-death-resisting-displacement)
+- [The Little Spaceplane That Couldn&#39;t &lpar;2008&rpar;](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
+- [Show HN: Linkidex – save and sort the URLs you care about](https://linkidex.com/)
 - [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
-- [Code of Ethics – IEEE Computer Society](https://www.computer.org/education/code-of-ethics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
