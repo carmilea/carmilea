@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: We built a tool that automatically generates your API Tests](https://stepci.com/)
-- [Ray Tracing in Notepad.exe at 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
-- [Show HN: Kitchen Renovation ideas animation using Stable Diffusion](https://www.youtube.com/watch?v=P1F0-sTyvsQ)
-- [Starting a food co-op: Year 1](https://quaran.to/starting-a-food-co-op-year-1)
-- [Pentagon Puts DJI on Blacklist](https://www.aljazeera.com/economy/2022/10/7/chinas-drone-giant-dji-added-to-us-sanctions-list)
+- [Improving Firefox Responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
+- [Who Thought Putting a Casino in Everyone’s Pocket Was a Good Idea?](https://nymag.com/intelligencer/2022/10/politicans-are-getting-hooked-on-mobile-sports-betting.html)
+- [Live Captioning FAQ](https://whitecoatcaptioning.com/faq/)
+- [We Should Be Measuring Well-Being Catalysis, Not Economic Productivity](https://bengoertzel.substack.com/p/we-should-be-measuring-well-being)
+- [Quiet Quitting](https://ombuds.web.cern.ch/blog/2022/08/quiet-quitting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
