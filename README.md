@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MutableAI &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Build an AI First Dev Platform](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
+- [Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
+- [Aerc – a pretty good &lpar;terminal&rpar; email client](https://aerc-mail.org/)
+- [What diversity and inclusion means at Microsoft](https://www.cspicenter.com/p/what-diversity-and-inclusion-means)
 - [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
-- [Apple introduces Ask Apple for developers](https://www.apple.com/newsroom/2022/10/apple-introduces-ask-apple-for-developers/)
-- [The Coffee Maker That Ate My Kitchen](https://www.wsj.com/articles/coffee-maker-ate-my-kitchen-11664898094)
-- [That Snapper You’re Eating Might Be 80 Years Old](https://nautil.us/that-snapper-youre-eating-might-be-80-years-old-241392/)
-- [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
