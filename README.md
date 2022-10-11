@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Rmt an alternative to rm with trash written in Rust](https://github.com/AmineZouitine/rmt.rs)
 - [Carmack Unscripted](https://www.facebook.com/events/reality-labs-facebook-page/carmack-unscripted/1134234204162755/)
+- [If it goes somewhere, it’s a link. If it does something, it’s a button](https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/)
 - [Researchers Find ‘Significant Rates’ of Sinking Ground in Houston Suburbs](https://uh.edu/news-events/stories/2022-news-articles/october-2022/10112022-houston-subsidence.php)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Lite: A lightweight text editor written in Lua](https://github.com/rxi/lite)
-- [We built voice modulator to mask gender in tech interviews. Here’s what happened](https://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
