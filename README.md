@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance reviews don’t assess your performance](https://workweek.com/2022/09/26/performance-reviews-dont-actually-assess-your-performance/)
-- [Understanding HTML with Large Language Models](https://arxiv.org/abs/2210.03945)
-- [MutableAI &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Build an AI First Dev Platform](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
-- [Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
-- [How to read variables optimized out in GDB?](http://luajit.io:80/post/2022/gdb-black-magics/)
+- [Researchers Find ‘Significant Rates’ of Sinking Ground in Houston Suburbs](https://uh.edu/news-events/stories/2022-news-articles/october-2022/10112022-houston-subsidence.php)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Lite: A lightweight text editor written in Lua](https://github.com/rxi/lite)
+- [Performance reviews don’t assess performance](https://workweek.com/2022/09/26/performance-reviews-dont-actually-assess-your-performance/)
+- [Show HN: Komorebi – A tiling window manager for Windows 10/11 written in Rust](https://github.com/LGUG2Z/komorebi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
