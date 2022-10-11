@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Little Typer – The Beauty of Dependent Type Systems, One Step at a Time](https://thelittletyper.com/)
-- [GM created a new energy business to sell batteries and solar panels](https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility)
-- [Tell HN: Stytch Login SaaS Unicorn has common auth vulnerabilities](https://news.ycombinator.com/item?id=33162854)
-- [The new GPU world order is beginning to take shape](https://www.theregister.com/2022/10/11/gpu_intel_nvidia_amd/)
-- [Pico.js – A face-detection library in 200 lines of JavaScript &lpar;2018&rpar;](https://nenadmarkus.com/p/picojs-intro/)
+- [Ask HN: How to build a website that will last 30 years?](https://news.ycombinator.com/item?id=33164027)
+- [Why you should never pay for online dating &lpar;OkCupid&rpar; &lpar;2010&rpar;](https://web.archive.org/web/20100821041938/http://blog.okcupid.com/index.php/why-you-should-never-pay-for-online-dating/)
+- [RTX 4090 review: Spend at least $1,599 for Nvidia’s biggest bargain in years](https://arstechnica.com/gadgets/2022/10/rtx-4090-review-nvidias-biggest-gpu-is-easily-its-best/)
+- [Ask HN: Best free text-to-speech plugins for browsers?](https://news.ycombinator.com/item?id=33163751)
+- [AmigaOS 4.1: Introduction to the Software Development Kit v54.16, part 1](http://amiga-news.de/en/news/AN-2022-10-00048-EN.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
