@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflect &lpar;YC S20&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
+- [Eliminating Format from Lisp &lpar;2003&rpar;](http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html)
+- [Linux NILFS file system: automatic continuous snapshots](https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html)
+- [Joe Rogan Interviews Steve Jobs](https://podcast.ai/)
 - [Blender: Wayland Support on Linux](https://code.blender.org/2022/10/wayland-support-on-linux/)
-- [Time-restricted eating reduces visceral fat and improves metabolic syndrome](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9)
-- [Ask HN: So, where is the ARM desktop PC?](https://news.ycombinator.com/item?id=33161158)
-- [Geothermal May Beat Batteries for Energy Storage](https://spectrum.ieee.org/geothermal-energy)
-- [AI-driven thermal cameras used to obtain passwords](https://www.gla.ac.uk/news/headline_885914_en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
