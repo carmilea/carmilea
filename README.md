@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to build a website that will last 30 years?](https://news.ycombinator.com/item?id=33164027)
-- [Why you should never pay for online dating &lpar;OkCupid&rpar; &lpar;2010&rpar;](https://web.archive.org/web/20100821041938/http://blog.okcupid.com/index.php/why-you-should-never-pay-for-online-dating/)
-- [RTX 4090 review: Spend at least $1,599 for Nvidia’s biggest bargain in years](https://arstechnica.com/gadgets/2022/10/rtx-4090-review-nvidias-biggest-gpu-is-easily-its-best/)
-- [Ask HN: Best free text-to-speech plugins for browsers?](https://news.ycombinator.com/item?id=33163751)
-- [AmigaOS 4.1: Introduction to the Software Development Kit v54.16, part 1](http://amiga-news.de/en/news/AN-2022-10-00048-EN.html)
+- [/r/StableDiffusion – Mod here – My side of the story](https://old.reddit.com/r/StableDiffusion/comments/y19kdh/mod_here_my_side_of_the_story/)
+- [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
+- [Show HN: Open-Sourcing InboxSDK &lpar;YC S11&rpar; – Build Apps in Gmail](https://news.ycombinator.com/item?id=33164922)
+- [Black Holes May Hide a Mind-Bending Secret About Our Universe](https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html)
+- [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
