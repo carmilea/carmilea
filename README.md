@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflect &lpar;YC S20&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
-- [Eliminating Format from Lisp &lpar;2003&rpar;](http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html)
-- [Linux NILFS file system: automatic continuous snapshots](https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html)
-- [Joe Rogan Interviews Steve Jobs](https://podcast.ai/)
-- [Blender: Wayland Support on Linux](https://code.blender.org/2022/10/wayland-support-on-linux/)
+- [The Little Typer – The Beauty of Dependent Type Systems, One Step at a Time](https://thelittletyper.com/)
+- [GM created a new energy business to sell batteries and solar panels](https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility)
+- [Tell HN: Stytch Login SaaS Unicorn has common auth vulnerabilities](https://news.ycombinator.com/item?id=33162854)
+- [The new GPU world order is beginning to take shape](https://www.theregister.com/2022/10/11/gpu_intel_nvidia_amd/)
+- [Pico.js – A face-detection library in 200 lines of JavaScript &lpar;2018&rpar;](https://nenadmarkus.com/p/picojs-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
