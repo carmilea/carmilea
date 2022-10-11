@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“This removes a.out support globally”](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b)
+- [AI-driven thermal cameras used to obtain passwords](https://www.gla.ac.uk/news/headline_885914_en.html)
 - [Private Prisons Are Behind the Push for Homeless Criminalization](https://invisiblepeople.tv/private-prisons-for-homeless-criminalization/)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Go: Redefining For Loop Variable Semantics](https://github.com/golang/go/discussions/56010)
