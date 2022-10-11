@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SmooshGate](https://developer.chrome.com/blog/smooshgate/)
+- [Ask HN: Why Hasn&#39;t the Doomsday Clock Advanced?](https://news.ycombinator.com/item?id=33158622)
+- [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
+- [VirtualBox 7.0 Released – Full VM Encryption Support, New Direct3D Acceleration](https://www.virtualbox.org/wiki/Changelog-7.0)
+- [SmooshGate &lpar;2021&rpar;](https://developer.chrome.com/blog/smooshgate/)
 - [Wine 101: The Beginners Guide to Wine](https://bartendinglicensehelp.com/wine-101/)
-- [Microbes that cause cavities can form superorganisms able to ‘crawl’](https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth)
-- [How Wine Works 101](https://werat.dev/blog/how-wine-works-101/)
-- [Show HN: Satori – Convert HTML and CSS to SVG](https://github.com/vercel/satori)
 <!-- BLOG-POST-LIST:END -->
 
 ---
