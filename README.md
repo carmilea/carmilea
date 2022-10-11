@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [/r/StableDiffusion – Mod here – My side of the story](https://old.reddit.com/r/StableDiffusion/comments/y19kdh/mod_here_my_side_of_the_story/)
-- [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
-- [Show HN: Open-Sourcing InboxSDK &lpar;YC S11&rpar; – Build Apps in Gmail](https://news.ycombinator.com/item?id=33164922)
-- [Black Holes May Hide a Mind-Bending Secret About Our Universe](https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html)
-- [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
+- [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
+- [Apple introduces Ask Apple for developers](https://www.apple.com/newsroom/2022/10/apple-introduces-ask-apple-for-developers/)
+- [The Coffee Maker That Ate My Kitchen](https://www.wsj.com/articles/coffee-maker-ate-my-kitchen-11664898094)
+- [That Snapper You’re Eating Might Be 80 Years Old](https://nautil.us/that-snapper-youre-eating-might-be-80-years-old-241392/)
+- [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
