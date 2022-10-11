@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Time-restricted eating reduces visceral fat and improves metabolic syndrome](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9)
+- [Geothermal May Beat Batteries for Energy Storage](https://spectrum.ieee.org/geothermal-energy)
 - [AI-driven thermal cameras used to obtain passwords](https://www.gla.ac.uk/news/headline_885914_en.html)
+- [“This removes a.out support globally”](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b)
 - [Private Prisons Are Behind the Push for Homeless Criminalization](https://invisiblepeople.tv/private-prisons-for-homeless-criminalization/)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [Go: Redefining For Loop Variable Semantics](https://github.com/golang/go/discussions/56010)
-- [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
 <!-- BLOG-POST-LIST:END -->
 
 ---
