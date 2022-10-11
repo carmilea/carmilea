@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance reviews don’t assess your performance](https://workweek.com/2022/09/26/performance-reviews-dont-actually-assess-your-performance/)
+- [Understanding HTML with Large Language Models](https://arxiv.org/abs/2210.03945)
 - [MutableAI &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Build an AI First Dev Platform](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
 - [Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
-- [Aerc – a pretty good &lpar;terminal&rpar; email client](https://aerc-mail.org/)
-- [What “diversity and inclusion” means at Microsoft](https://www.cspicenter.com/p/what-diversity-and-inclusion-means)
-- [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
+- [How to read variables optimized out in GDB?](http://luajit.io:80/post/2022/gdb-black-magics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
