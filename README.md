@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
 - [Human Motion Diffusion Model](https://github.com/GuyTevet/motion-diffusion-model)
-- [Fraunhoffer and Dolby trying to collect royalties on the Opus codec](https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec)
+- [Making an ML Invisibility Cloak](https://www.cs.umd.edu/~tomg/projects/invisible/)
+- [Vectis IP Announces Call for Patents Essential to the Opus codec](https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec)
+- [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
 - [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
-- [VirtualBox 7.0 Released – Full VM Encryption Support, New Direct3D Acceleration](https://www.virtualbox.org/wiki/Changelog-7.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
