@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/)
 - [Canonical shows ads in the Ubuntu CLI](https://mastodon.social/@Longplay_Games/109151837878722871)
 - [Lessons learned since posting my salary history publicly](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/)
-- [Software and Anarchy &lpar;2021&rpar; [pdf]](https://applied-langua.ge/software-and-anarchy.pdf)
-- [Pittsburgh Airport installs an algae air purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
-- [The Genius Who Convinced Mark Cuban to Sell Drugs](https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/)
+- [Seven sins of numerical linear algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
+- [The number of comparisons needed to sort a shuffled array: qsort vs. std:sort](https://lemire.me/blog/2022/10/11/the-number-of-comparisons-needed-to-sort-a-shuffled-array-qsort-versus-stdsort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
