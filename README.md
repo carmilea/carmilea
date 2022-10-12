@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers drain $100M off Solana-based DeFi platform Mango Markets](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
+- [Software and Anarchy &lpar;2021&rpar; [pdf]](https://applied-langua.ge/software-and-anarchy.pdf)
 - [Pittsburgh Airport installs an algae air purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
 - [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
 - [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
