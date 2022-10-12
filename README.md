@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Another $100M+ Crypto Hack. When will they learn?](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
 - [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
-- [How to Prove You Know a Secret Without Giving It Away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
-- [Valve Employee Handbook [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- [GitHub Copilot exposes names in TODO comments](https://twitter.com/aeolianeth/status/1579980661464895490)
-- [Authors’ names have ‘astonishing’ influence on peer reviewers: Study](https://www.nature.com/articles/d41586-022-03256-9)
+- [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
+- [Valve Employee Handbook &lpar;2012&rpar; [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [Qwik: No hydration, auto lazy-loading, edge-optimized, and fun](https://qwik.builder.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
