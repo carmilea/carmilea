@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Rmt an alternative to rm with trash written in Rust](https://github.com/AmineZouitine/rmt.rs)
-- [Carmack Unscripted](https://www.facebook.com/events/reality-labs-facebook-page/carmack-unscripted/1134234204162755/)
-- [If it goes somewhere, it’s a link. If it does something, it’s a button](https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/)
-- [Researchers Find ‘Significant Rates’ of Sinking Ground in Houston Suburbs](https://uh.edu/news-events/stories/2022-news-articles/october-2022/10112022-houston-subsidence.php)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
+- [How to Prove You Know a Secret Without Giving It Away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
+- [Valve Employee Handbook [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [GitHub Copilot exposes names in TODO comments](https://twitter.com/aeolianeth/status/1579980661464895490)
+- [Authors’ names have ‘astonishing’ influence on peer reviewers: Study](https://www.nature.com/articles/d41586-022-03256-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
