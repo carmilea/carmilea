@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Defending parody: the most important amicus brief yet](https://www.theatlantic.com/ideas/archive/2022/10/anthony-novak-parma-ohio-onion-scotus-parody/671697/)
 - [The next time Wikipedia asks for a donation, ignore it](https://unherd.com/thepost/the-next-time-wikipedia-asks-for-a-donation-ignore-it/)
 - [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/)
 - [Canonical shows ads in the Ubuntu CLI](https://mastodon.social/@Longplay_Games/109151837878722871)
 - [Seven sins of numerical linear algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
-- [The number of comparisons needed to sort a shuffled array: qsort vs. std:sort](https://lemire.me/blog/2022/10/11/the-number-of-comparisons-needed-to-sort-a-shuffled-array-qsort-versus-stdsort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
