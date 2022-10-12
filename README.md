@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another $100M+ Crypto Hack. When will they learn?](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
+- [Hackers drain $100M off Solana-based DeFi platform Mango Markets](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
+- [Pittsburgh Airport installs an algae air purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
 - [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
 - [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
-- [Valve Employee Handbook &lpar;2012&rpar; [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- [Qwik: No hydration, auto lazy-loading, edge-optimized, and fun](https://qwik.builder.io/)
+- [Viam: Modern robotics platform](https://www.viam.com/product)
 <!-- BLOG-POST-LIST:END -->
 
 ---
