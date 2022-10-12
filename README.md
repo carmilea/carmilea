@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One trick Apple uses to make you think green bubbles are “gross”](https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed)
 - [The computer errors from outer space](https://www.bbc.com/future/article/20221011-how-space-weather-causes-computer-errors)
-- [Ask HN: Technical forums that are not dominated by insufferable pedants?](https://news.ycombinator.com/item?id=33175839)
+- [Ask HN: Technical forums that are not dominated by pedantry?](https://news.ycombinator.com/item?id=33175839)
 - [“Women are wonderful” effect](https://en.wikipedia.org/wiki/Women-are-wonderful_effect)
 - [Ribbon Health &lpar;YC S17&rpar; engineers improve the status quo of healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
-- [Meta Meets Microsoft](https://stratechery.com/2022/meta-meets-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
