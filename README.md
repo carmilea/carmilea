@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to Withhold Its Latest Employee Perks from Unionized Store](https://www.bloomberg.com/news/articles/2022-10-12/apple-to-withhold-its-latest-employee-perks-from-unionized-store)
+- [The FBHHRBNRSSSHK-Algorithm for Multiplication in 5×52 is still not the end](https://arxiv.org/abs/2210.04045)
+- [Intel will lay off 20&#39;000 employees](https://www.quicktechnics.com/en/post/intel-will-lay-off-20-000-employees)
 - [Evidence-based conclusions about ADHD](https://www.adhdevidence.org/)
 - [DevCycle &lpar;YC W14&rpar; – Feature Flags w/ a built-in Edge Database – Is Hiring Devs](https://devcycle.com/company/careers)
-- [Lesser known Apple Watch workouts](https://basicappleguy.com/basicappleblog/lesserknownapplewatchworkoutsi)
-- [A Little Smalltalk &lpar;Timothy Budd&rpar; &lpar;1987&rpar;](https://archive.org/details/ALittleSmalltalkBook)
-- [Removing SMS support from Signal Android &lpar;soon&rpar;](https://signal.org/blog/sms-removal-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
