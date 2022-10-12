@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence-based conclusions about ADHD](https://www.adhdevidence.org/)
+- [DevCycle &lpar;YC W14&rpar; – Feature Flags w/ a built-in Edge Database – Is Hiring Devs](https://devcycle.com/company/careers)
+- [Lesser known Apple Watch workouts](https://basicappleguy.com/basicappleblog/lesserknownapplewatchworkoutsi)
+- [A Little Smalltalk &lpar;Timothy Budd&rpar; &lpar;1987&rpar;](https://archive.org/details/ALittleSmalltalkBook)
 - [Removing SMS support from Signal Android &lpar;soon&rpar;](https://signal.org/blog/sms-removal-android/)
-- [Ask HN: Do I publish code that affects millions of wireless security cameras?](https://news.ycombinator.com/item?id=33178885)
-- [First-Person Mario](https://mar1d.com/)
-- [Google Rolling Out Passkey Passwordless Login Support to Android and Chrome](https://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html)
-- [Verifying Distributed Systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
