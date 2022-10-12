@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/)
 - [Canonical shows ads in the Ubuntu CLI](https://mastodon.social/@Longplay_Games/109151837878722871)
-- [Lessons learned since posting my salary history publicly](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/)
 - [Seven sins of numerical linear algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
 - [The number of comparisons needed to sort a shuffled array: qsort vs. std:sort](https://lemire.me/blog/2022/10/11/the-number-of-comparisons-needed-to-sort-a-shuffled-array-qsort-versus-stdsort/)
+- [Software and Anarchy &lpar;2021&rpar; [pdf]](https://applied-langua.ge/software-and-anarchy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
