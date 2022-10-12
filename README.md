@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://boards.greenhouse.io/pachyderm/jobs/5237764003)
+- [87% of American teens own an iPhone; 88% expect an iPhone to be their next phone](https://www.pipersandler.com/1col.aspx?id=6216)
+- [Google Project Starline expands testing through an early access program](https://blog.google/technology/research/project-starline-expands-testing/)
 - [The Cumulative Advantage of a Unionized Career for Lifetime Earnings](https://journals.sagepub.com/doi/10.1177/00197939221129261)
-- [Alex Jones to pay $965M to Sandy Hook victims](https://www.bbc.co.uk/news/world-us-canada-63237092)
-- [Students break acceleration world record](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/)
-- [Tinyphysicsengine: Minimalist 3D C99 single-header physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
-- [Pitchfork: Rack HTTP server for shared-nothing architecture](https://github.com/Shopify/pitchfork)
+- [JDK 20 will introduce float16 conversion methods](https://download.java.net/java/early_access/jdk20/docs/api/java.base/java/lang/Float.html#float16ToFloat(short))
 <!-- BLOG-POST-LIST:END -->
 
 ---
