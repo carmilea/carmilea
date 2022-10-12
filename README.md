@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Defending parody: the most important amicus brief yet](https://www.theatlantic.com/ideas/archive/2022/10/anthony-novak-parma-ohio-onion-scotus-parody/671697/)
-- [The next time Wikipedia asks for a donation, ignore it](https://unherd.com/thepost/the-next-time-wikipedia-asks-for-a-donation-ignore-it/)
-- [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/)
-- [Canonical shows ads in the Ubuntu CLI](https://mastodon.social/@Longplay_Games/109151837878722871)
-- [Seven sins of numerical linear algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
+- [The computer errors from outer space](https://www.bbc.com/future/article/20221011-how-space-weather-causes-computer-errors)
+- [Ask HN: Technical forums that are not dominated by insufferable pedants?](https://news.ycombinator.com/item?id=33175839)
+- [“Women are wonderful” effect](https://en.wikipedia.org/wiki/Women-are-wonderful_effect)
+- [Ribbon Health &lpar;YC S17&rpar; engineers improve the status quo of healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
+- [Meta Meets Microsoft](https://stratechery.com/2022/meta-meets-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
