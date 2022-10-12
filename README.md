@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One trick Apple uses to make you think green bubbles are “gross”](https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed)
-- [The computer errors from outer space](https://www.bbc.com/future/article/20221011-how-space-weather-causes-computer-errors)
-- [Ask HN: Technical forums that are not dominated by pedantry?](https://news.ycombinator.com/item?id=33175839)
-- [“Women are wonderful” effect](https://en.wikipedia.org/wiki/Women-are-wonderful_effect)
-- [Ribbon Health &lpar;YC S17&rpar; engineers improve the status quo of healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
+- [A New Doorway to the Brain](https://nautil.us/a-new-doorway-to-the-brain-242099/)
+- [Withdrawal of OpenSSL 3.0.6 and 1.1.1r](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html)
+- [iOS allows DNS request to escape the VPN tunnel](https://twitter.com/mysk_co/status/1579997801047822336)
+- [FBI Monitored Aretha Franklin for Years, File Shows](https://www.nytimes.com/2022/10/12/us/fbi-aretha-franklin-surveillance.html)
+- [What it feels like to be bullied out of a job you love](https://www.justworktogether.com/blog/this-is-what-it-feels-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
