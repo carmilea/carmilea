@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://boards.greenhouse.io/pachyderm/jobs/5237764003)
-- [87% of American teens own an iPhone; 88% expect an iPhone to be their next phone](https://www.pipersandler.com/1col.aspx?id=6216)
-- [Google Project Starline expands testing through an early access program](https://blog.google/technology/research/project-starline-expands-testing/)
+- [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
+- [DoS attack against Diffie-Hellman protocol](https://dheat-attack.com//)
+- [Pachyderm &lpar;YC W15&rpar; is hiring sales engineers and solutions architects](https://boards.greenhouse.io/pachyderm/jobs/5237764003)
+- [Project Starline expands testing through an early access program](https://blog.google/technology/research/project-starline-expands-testing/)
 - [Hosting SQLite Databases on GitHub Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
-- [The Cumulative Advantage of a Unionized Career for Lifetime Earnings](https://journals.sagepub.com/doi/10.1177/00197939221129261)
 <!-- BLOG-POST-LIST:END -->
 
 ---
