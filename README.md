@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical shows ads in the Ubuntu CLI](https://mastodon.social/@Longplay_Games/109151837878722871)
+- [Lessons learned since posting my salary history publicly](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/)
 - [Software and Anarchy &lpar;2021&rpar; [pdf]](https://applied-langua.ge/software-and-anarchy.pdf)
 - [Pittsburgh Airport installs an algae air purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
-- [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
-- [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
-- [Viam: Modern robotics platform](https://www.viam.com/product)
+- [The Genius Who Convinced Mark Cuban to Sell Drugs](https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
