@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cumulative Advantage of a Unionized Career for Lifetime Earnings](https://journals.sagepub.com/doi/10.1177/00197939221129261)
+- [Alex Jones to pay $965M to Sandy Hook victims](https://www.bbc.co.uk/news/world-us-canada-63237092)
 - [Students break acceleration world record](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/)
-- [Tinyphysicsengine: Suckless, minimalist KISS 3D C99 single-header physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
+- [Tinyphysicsengine: Minimalist 3D C99 single-header physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
 - [Pitchfork: Rack HTTP server for shared-nothing architecture](https://github.com/Shopify/pitchfork)
-- [Dutch hospital ZGT achieves digital sovereignty with Nextcloud](https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/)
-- [The Rise of Robots Increases Job Insecurity and Maladaptive Workplace Behaviors [pdf]](https://www.apa.org/pubs/journals/releases/apl-apl0001045.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
