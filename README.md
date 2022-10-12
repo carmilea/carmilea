@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to Withhold Its Latest Employee Perks from Unionized Store](https://www.bloomberg.com/news/articles/2022-10-12/apple-to-withhold-its-latest-employee-perks-from-unionized-store)
-- [The FBHHRBNRSSSHK-Algorithm for Multiplication in 5×52 is still not the end](https://arxiv.org/abs/2210.04045)
-- [Intel will lay off 20&#39;000 employees](https://www.quicktechnics.com/en/post/intel-will-lay-off-20-000-employees)
-- [Evidence-based conclusions about ADHD](https://www.adhdevidence.org/)
-- [DevCycle &lpar;YC W14&rpar; – Feature Flags w/ a built-in Edge Database – Is Hiring Devs](https://devcycle.com/company/careers)
+- [Students break acceleration world record](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/)
+- [Tinyphysicsengine: Suckless, minimalist KISS 3D C99 single-header physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
+- [Pitchfork: Rack HTTP server for shared-nothing architecture](https://github.com/Shopify/pitchfork)
+- [Dutch hospital ZGT achieves digital sovereignty with Nextcloud](https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/)
+- [The Rise of Robots Increases Job Insecurity and Maladaptive Workplace Behaviors [pdf]](https://www.apa.org/pubs/journals/releases/apl-apl0001045.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
