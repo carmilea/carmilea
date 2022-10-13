@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Degradation Drug](https://theamericanscholar.org/the-degradation-drug/)
-- [First signs of a slight decline in secondhand bookshops in Britain](http://wormwoodiana.blogspot.com/2022/06/first-signs-of-slight-decline-in.html)
-- [Algorithms predict sports teams&#39; moves with 80% accuracy [pdf]](http://lisc.mae.cornell.edu/LISCpapers/TIST_Action_Junyi22.pdf)
-- [Use NextDNS everywhere you use Tailscale](https://tailscale.com/blog/nextdns/)
-- [California man fined for selling maps of property boundaries without a license](https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps)
+- [Researchers plant trees in an experiment to lower rates of heart disease &lpar;2021&rpar;](https://www.discovermagazine.com/health/can-trees-heal-hearts)
+- [Nearly half of Covid patients haven’t fully recovered months later, study finds](https://www.nytimes.com/2022/10/12/health/long-covid.html)
+- [Taildrop](https://tailscale.com/kb/1106/taildrop/)
+- [Young adults in L.A. to get $1k a month under new guaranteed income program](https://www.latimes.com/california/story/2022-10-12/l-a-basic-income-program-to-give-young-adults-1-000-a-month)
+- [Fixing macOS Zsh Terminal History Settings](https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
