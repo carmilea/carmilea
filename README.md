@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Observable transitions to paid plan for private notebooks](https://observablehq.com/@observablehq/hello-pro)
+- [Bring your own key was a lie](https://blog.edgeless.systems/bring-your-own-key-was-a-lie-92587d7c73ec)
 - [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33188094)
 - [New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
-- [Ask HN: Firing an employee under a month before vest?](https://news.ycombinator.com/item?id=33186789)
-- [Researchers plant trees in an experiment to lower rates of heart disease &lpar;2021&rpar;](https://www.discovermagazine.com/health/can-trees-heal-hearts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
