@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Men Wanted to Be Virile &lpar;2016&rpar;](https://www.newyorker.com/culture/cultural-comment/when-men-wanted-to-be-virile)
+- [Replace the “Very” in Your Sentence](https://www.losethevery.com/)
 - [Toyota Accidently Exposed a Secret Key Publicly on GitHub for Five Years](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 - [Webinar Recap: Accelerating Real-Time IoT Analytics With IBM Cognos &amp; SingleStoreDB](https://www.singlestore.com/blog/accelerating-real-time-with-ibm-singlestore)
 - [Discovering Azure&#39;s unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
