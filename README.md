@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace the “Very” in Your Sentence](https://www.losethevery.com/)
-- [Toyota Accidently Exposed a Secret Key Publicly on GitHub for Five Years](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
+- [White House is pushing ahead research to cool Earth by reflecting back sunlight](https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html)
+- [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
+- [Heaviest element yet detected in an exoplanet atmosphere](https://www.eso.org/public/news/eso2213/)
+- [Toyota suffered a data breach by accidentally exposing a secret key on GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 - [Webinar Recap: Accelerating Real-Time IoT Analytics With IBM Cognos &amp; SingleStoreDB](https://www.singlestore.com/blog/accelerating-real-time-with-ibm-singlestore)
-- [Discovering Azure&#39;s unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
-- [The Death of Intellectual Curiosity](https://unfashionable.substack.com/p/the-death-of-intellectual-curiosity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
