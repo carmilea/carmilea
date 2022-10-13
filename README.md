@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anonymous hacker sabu and the fed who arrested him start a podcast together](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362)
+- [Webinar Recap: Accelerating Real-Time IoT Analytics With IBM Cognos &amp; SingleStoreDB](https://www.singlestore.com/blog/accelerating-real-time-with-ibm-singlestore)
 - [Discovering Azure&#39;s unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
 - [Framework Laptops Now Offering Refurbished Products](https://frame.work/blog/closing-the-loop-with-refurbished-framework-products)
-- [It is time to legalise cocaine: The costs of prohibition outweigh the benefits](https://www.economist.com/leaders/2022/10/12/joe-biden-is-too-timid-it-is-time-to-legalise-cocaine)
 - [Jitx &lpar;YC S18&rpar; is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
-- [Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
