@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Azure&#39;s unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
+- [Framework Laptops Now Offering Refurbished Products](https://frame.work/blog/closing-the-loop-with-refurbished-framework-products)
+- [It is time to legalise cocaine: The costs of prohibition outweigh the benefits](https://www.economist.com/leaders/2022/10/12/joe-biden-is-too-timid-it-is-time-to-legalise-cocaine)
 - [Jitx &lpar;YC S18&rpar; is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
-- [Kodak Is Hiring Film Technicians: ‘We Cannot Keep Up with Demand’](https://petapixel.com/2022/10/12/we-cannot-keep-up-with-demand-kodak-are-hiring-film-technicians/)
 - [Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
-- [DJI drone tracking data exposed in US](https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/)
-- [AWS Permission Boundaries for Dummies](https://www.firemon.com/aws-permission-boundaries-for-dummies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
