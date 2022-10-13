@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Firing an employee under a month before vest?](https://news.ycombinator.com/item?id=33186789)
 - [Researchers plant trees in an experiment to lower rates of heart disease &lpar;2021&rpar;](https://www.discovermagazine.com/health/can-trees-heal-hearts)
-- [Nearly half of Covid patients haven’t fully recovered months later, study finds](https://www.nytimes.com/2022/10/12/health/long-covid.html)
 - [Taildrop](https://tailscale.com/kb/1106/taildrop/)
-- [Young adults in L.A. to get $1k a month under new guaranteed income program](https://www.latimes.com/california/story/2022-10-12/l-a-basic-income-program-to-give-young-adults-1-000-a-month)
 - [Fixing macOS Zsh Terminal History Settings](https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/)
+- [The Degradation Drug](https://theamericanscholar.org/the-degradation-drug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
