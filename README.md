@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We Built a Documentation Recommendation System Using Graph Database](https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along)
 - [Observable transitions to paid plan for private notebooks](https://observablehq.com/@observablehq/hello-pro)
 - [Bring your own key was a lie](https://blog.edgeless.systems/bring-your-own-key-was-a-lie-92587d7c73ec)
+- [Show HN: Vite-plugin-ssr – Do-one-thing-do-it-well alternative to Next.js / Nuxt](https://vite-plugin-ssr.com)
 - [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33188094)
-- [New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
