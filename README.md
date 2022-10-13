@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jitx &lpar;YC S18&rpar; is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
+- [Kodak Is Hiring Film Technicians: ‘We Cannot Keep Up with Demand’](https://petapixel.com/2022/10/12/we-cannot-keep-up-with-demand-kodak-are-hiring-film-technicians/)
+- [OnlyFans lawyers accidentally reveal which Meta execs allegedly took bribes](https://arstechnica.com/tech-policy/2022/10/onlyfans-lawyers-accidentally-reveal-which-meta-execs-allegedly-took-bribes/)
 - [Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
-- [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
-- [Ask HN: What are the best general math workbooks?](https://news.ycombinator.com/item?id=33192084)
-- [Teenager Solves Stubborn Riddle About Prime Number Look-Alikes](https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/)
-- [Ask HN: GDPR in 2022 – What do I need to know as a solo founder?](https://news.ycombinator.com/item?id=33191701)
+- [DJI drone tracking data exposed in US](https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
