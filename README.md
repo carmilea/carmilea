@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anonymous hacker sabu and the fed who arrested him start a podcast together](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362)
+- [When Men Wanted to Be Virile &lpar;2016&rpar;](https://www.newyorker.com/culture/cultural-comment/when-men-wanted-to-be-virile)
+- [Toyota Accidently Exposed a Secret Key Publicly on GitHub for Five Years](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 - [Webinar Recap: Accelerating Real-Time IoT Analytics With IBM Cognos &amp; SingleStoreDB](https://www.singlestore.com/blog/accelerating-real-time-with-ibm-singlestore)
 - [Discovering Azure&#39;s unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
-- [Framework Laptops Now Offering Refurbished Products](https://frame.work/blog/closing-the-loop-with-refurbished-framework-products)
-- [Jitx &lpar;YC S18&rpar; is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
+- [The Death of Intellectual Curiosity](https://unfashionable.substack.com/p/the-death-of-intellectual-curiosity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
