@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: We Built a Documentation Recommendation System Using Graph Database](https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along)
-- [Observable transitions to paid plan for private notebooks](https://observablehq.com/@observablehq/hello-pro)
-- [Bring your own key was a lie](https://blog.edgeless.systems/bring-your-own-key-was-a-lie-92587d7c73ec)
-- [Show HN: Vite-plugin-ssr – Do-one-thing-do-it-well alternative to Next.js / Nuxt](https://vite-plugin-ssr.com)
-- [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html)
+- [California legalizes digital license plates for all vehicles](https://www.theregister.com/2022/10/11/california_digital_license_plates/)
+- [TSMC Reports Q3 Earnings [pdf]](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2022-10/a924f47cae2629ecb5f8801629cf7fb8773e5444/3Q22EarningsRelease.pdf)
+- [SecureDrop 2.5.0 – Pre-Release Announcement](https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/)
+- [Finley &lpar;YC W21&rpar; is fintech software hiring across all teams &lpar;US Remote&rpar;](https://www.finleycms.com/careers/)
+- [We are stuck with egrep and fgrep &lpar;unless you like beating people&rpar;](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 <!-- BLOG-POST-LIST:END -->
 
 ---
