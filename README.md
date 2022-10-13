@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=33191603)
-- [Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)
-- [Why doesn&#39;t Stripe use Stripe Billing?](https://www.getlago.com/blog/is-stripe-using-stripe)
-- [A Summary of My Learnings on How to Find Startup Ideas](https://liorn.substack.com/p/a-summary-of-my-learnings-on-how)
-- [How to succeed at Meta as SWE – focus on metrics, ignore everything else](https://www.teamblind.com/post/How-to-succeed-at-Meta-diLQqcTy)
+- [Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
+- [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
+- [Ask HN: What are the best general math workbooks?](https://news.ycombinator.com/item?id=33192084)
+- [Teenager Solves Stubborn Riddle About Prime Number Look-Alikes](https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/)
+- [Ask HN: GDPR in 2022 – What do I need to know as a solo founder?](https://news.ycombinator.com/item?id=33191701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
