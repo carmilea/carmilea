@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)
-- [Most PPP loans have been forgiven, despite signs of possible fraud](https://www.npr.org/2022/10/12/1128207464/ppp-loans-loan-forgiveness-small-business)
-- [TikTok is pocketing up to 70% of donations from charitable live streams](https://www.bbc.com/news/world-63213567)
-- [What influences keyboard input speed &lpar;2018&rpar;](https://next.wooting.io/post/what-influences-keyboard-speed)
-- [PostgreSQL 15](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=33191603)
+- [Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)
+- [Why doesn&#39;t Stripe use Stripe Billing?](https://www.getlago.com/blog/is-stripe-using-stripe)
+- [A Summary of My Learnings on How to Find Startup Ideas](https://liorn.substack.com/p/a-summary-of-my-learnings-on-how)
+- [How to succeed at Meta as SWE – focus on metrics, ignore everything else](https://www.teamblind.com/post/How-to-succeed-at-Meta-diLQqcTy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
