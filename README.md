@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
-- [DoS attack against Diffie-Hellman protocol](https://dheat-attack.com//)
-- [Pachyderm &lpar;YC W15&rpar; is hiring sales engineers and solutions architects](https://boards.greenhouse.io/pachyderm/jobs/5237764003)
-- [Project Starline expands testing through an early access program](https://blog.google/technology/research/project-starline-expands-testing/)
-- [Hosting SQLite Databases on GitHub Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [The Degradation Drug](https://theamericanscholar.org/the-degradation-drug/)
+- [First signs of a slight decline in secondhand bookshops in Britain](http://wormwoodiana.blogspot.com/2022/06/first-signs-of-slight-decline-in.html)
+- [Algorithms predict sports teams&#39; moves with 80% accuracy [pdf]](http://lisc.mae.cornell.edu/LISCpapers/TIST_Action_Junyi22.pdf)
+- [Use NextDNS everywhere you use Tailscale](https://tailscale.com/blog/nextdns/)
+- [California man fined for selling maps of property boundaries without a license](https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
