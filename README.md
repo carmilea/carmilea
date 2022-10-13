@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California legalizes digital license plates for all vehicles](https://www.theregister.com/2022/10/11/california_digital_license_plates/)
-- [TSMC Reports Q3 Earnings [pdf]](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2022-10/a924f47cae2629ecb5f8801629cf7fb8773e5444/3Q22EarningsRelease.pdf)
-- [SecureDrop 2.5.0 – Pre-Release Announcement](https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/)
-- [Finley &lpar;YC W21&rpar; is fintech software hiring across all teams &lpar;US Remote&rpar;](https://www.finleycms.com/careers/)
-- [We are stuck with egrep and fgrep &lpar;unless you like beating people&rpar;](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
+- [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)
+- [Most PPP loans have been forgiven, despite signs of possible fraud](https://www.npr.org/2022/10/12/1128207464/ppp-loans-loan-forgiveness-small-business)
+- [TikTok is pocketing up to 70% of donations from charitable live streams](https://www.bbc.com/news/world-63213567)
+- [What influences keyboard input speed &lpar;2018&rpar;](https://next.wooting.io/post/what-influences-keyboard-speed)
+- [PostgreSQL 15](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
