@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Psychiatry Wars: a lawsuit that put psychoanalysis on trial](https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv)
 - [What Happened to Rod McKuen?](https://slate.com/culture/2022/10/rod-mckuen-best-selling-poet-songs-what-happened.html)
 - [A Chinese American gangster transformed money laundering for drug cartels](https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering)
+- [Sweden’s incoming cabinet says new nuclear reactors will be built](https://www.bloomberg.com/news/articles/2022-10-14/sweden-s-incoming-cabinet-says-will-build-new-nuclear-reactors)
 - [WebKit Quirks.cpp](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp)
-- [Minetest for the Web](https://minetest.dustlabs.io/)
-- [Alaska snow crab season canceled after disappearance of an estimated 1B crabs](https://www.cbsnews.com/news/fishing-alaska-snow-crab-season-canceled-investigation-climate-change/#app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
