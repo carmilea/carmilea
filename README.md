@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Getting Ready for Unemployment](https://news.ycombinator.com/item?id=33199602)
+- [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
+- [Linear.app](https://linear.app/homepage)
+- [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
 - [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
-- [If AI can read, then plain text can be weaponized](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)
-- [Bun v0.2.0](https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0)
-- [Tcl Ported to Go](https://gitlab.com/cznic/tcl)
-- [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
