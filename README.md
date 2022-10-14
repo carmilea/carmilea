@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Litestream doesn&#39;t do SQLite replication anymore &lpar;LiteFS does&rpar;](https://github.com/benbjohnson/litestream/pull/411)
-- [A Minimalist Guide To Program Synthesis](https://evanthebouncy.github.io/program-synthesis-minimal/)
-- [Claims AI can boost workplace diversity are ‘spurious and dangerous’](https://www.cam.ac.uk/research/news/claims-ai-can-boost-workplace-diversity-are-spurious-and-dangerous-researchers-argue)
-- [Ex Police Officer Used Law Enforcement Tech to Hack Women’s Explicit Photos](https://www.leoweekly.com/2022/10/feds-ex-louisville-police-officer-used-law-enforcement-tech-to-help-hack-sexually-explicit-photos-from-women/)
-- [Guthib](https://guthib.com/)
+- [Unlaunching the 12GB 4080](https://www.nvidia.com/en-us/geforce/news/12gb-4080-unlaunch/)
+- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
+- [Show HN: FrankenPHP, an app server for PHP written in Go](https://frankenphp.dev)
+- [Ask HN: Teaching Greybeard IT](https://news.ycombinator.com/item?id=33204579)
+- [Litestream live replication has been moved to the LiteFS project](https://github.com/benbjohnson/litestream/pull/411)
 <!-- BLOG-POST-LIST:END -->
 
 ---
