@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Getting Ready for Unemployment](https://news.ycombinator.com/item?id=33199602)
+- [A DRAM Failure](https://www.complang.tuwien.ac.at/anton/failing-memory.html)
+- [Swiss evoting system – IsProbablePrime is incorrect for input 19](https://gitlab.com/swisspost-evoting/crypto-primitives/crypto-primitives/-/issues/13)
+- [Normalising Layoffs/Firing](https://news.ycombinator.com/item?id=33200261)
+- [How to Plan?](https://kellanem.com/notes/how-to-plan)
 - [Using an Amiga in 2021: Making an intro](https://datagubbe.se/mkdem/)
-- [Linear.app](https://linear.app/homepage)
-- [Learning dynamic 3D geometry and texture for video face swapping](https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/)
-- [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
