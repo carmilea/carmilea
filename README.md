@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A DRAM Failure](https://www.complang.tuwien.ac.at/anton/failing-memory.html)
-- [Swiss evoting system – IsProbablePrime is incorrect for input 19](https://gitlab.com/swisspost-evoting/crypto-primitives/crypto-primitives/-/issues/13)
-- [Normalising Layoffs/Firing](https://news.ycombinator.com/item?id=33200261)
 - [How to Plan?](https://kellanem.com/notes/how-to-plan)
+- [Retrowin32, a Win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
+- [Some remotely exploitable Linux kernel WiFi vulnerabilities](https://lwn.net/Articles/911062/)
 - [Using an Amiga in 2021: Making an intro](https://datagubbe.se/mkdem/)
 <!-- BLOG-POST-LIST:END -->
 
