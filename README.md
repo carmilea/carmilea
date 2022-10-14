@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House is pushing ahead research to cool Earth by reflecting back sunlight](https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html)
+- [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
+- [If AI can read, then plain text can be weaponized](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)
+- [Bun v0.2.0](https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0)
+- [Tcl Ported to Go](https://gitlab.com/cznic/tcl)
 - [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
-- [Heaviest element yet detected in an exoplanet atmosphere](https://www.eso.org/public/news/eso2213/)
-- [Toyota suffered a data breach by accidentally exposing a secret key on GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
-- [Webinar Recap: Accelerating Real-Time IoT Analytics With IBM Cognos &amp; SingleStoreDB](https://www.singlestore.com/blog/accelerating-real-time-with-ibm-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
