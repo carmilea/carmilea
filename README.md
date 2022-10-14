@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Don&#39;t Use Netscape](https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html)
+- [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
+- [Why Wasn’t the Steam Engine Invented Earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c)
 - [A DRAM Failure](https://www.complang.tuwien.ac.at/anton/failing-memory.html)
 - [How to Plan?](https://kellanem.com/notes/how-to-plan)
-- [Retrowin32, a Win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
-- [Some remotely exploitable Linux kernel WiFi vulnerabilities](https://lwn.net/Articles/911062/)
-- [Using an Amiga in 2021: Making an intro](https://datagubbe.se/mkdem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
