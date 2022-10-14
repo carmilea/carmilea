@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Find any smart contract on Cookbook](https://www.cookbook.dev/)
+- [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
+- [WiGLE: Wireless Network Mapping](https://www.wigle.net/)
 - [Psychiatry Wars: a lawsuit that put psychoanalysis on trial](https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv)
 - [What Happened to Rod McKuen?](https://slate.com/culture/2022/10/rod-mckuen-best-selling-poet-songs-what-happened.html)
-- [Telegraphs and Typewriters &lpar;2015&rpar;](https://www.qdl.qa/en/telegraphs-and-typewriters-impact-technology-bookkeeping-bushire)
 - [A Chinese American gangster transformed money laundering for drug cartels](https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering)
 <!-- BLOG-POST-LIST:END -->
 
