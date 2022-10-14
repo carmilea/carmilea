@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- [Homo Sapiens lithic technology in South Asian rainforest &lpar;C. 45k – 8k years ago&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273450)
+- [The first Gen III+ Nuclear plant begins fuel loading](https://www.georgiapower.com/company/news-center/2022-articles/vogtle-unit-3-nuclear-fuel-load.html)
 - [Unlaunching the 12GB 4080](https://www.nvidia.com/en-us/geforce/news/12gb-4080-unlaunch/)
 - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
-- [Show HN: FrankenPHP, an app server for PHP written in Go](https://frankenphp.dev)
-- [Ask HN: Teaching Greybeard IT](https://news.ycombinator.com/item?id=33204579)
-- [Litestream live replication has been moved to the LiteFS project](https://github.com/benbjohnson/litestream/pull/411)
 <!-- BLOG-POST-LIST:END -->
 
 ---
