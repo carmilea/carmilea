@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Litestream doesn&#39;t do SQLite replication anymore &lpar;LiteFS does&rpar;](https://github.com/benbjohnson/litestream/pull/411)
+- [A Minimalist Guide To Program Synthesis](https://evanthebouncy.github.io/program-synthesis-minimal/)
 - [Claims AI can boost workplace diversity are ‘spurious and dangerous’](https://www.cam.ac.uk/research/news/claims-ai-can-boost-workplace-diversity-are-spurious-and-dangerous-researchers-argue)
 - [Ex Police Officer Used Law Enforcement Tech to Hack Women’s Explicit Photos](https://www.leoweekly.com/2022/10/feds-ex-louisville-police-officer-used-law-enforcement-tech-to-help-hack-sexually-explicit-photos-from-women/)
 - [Guthib](https://guthib.com/)
-- [FDIC&#39;s Position on the Role of Vacation Policy as an Internal Safeguard &lpar;1995&rpar;](https://www.fdic.gov/news/financial-institution-letters/1995/fil9552.html)
-- [Postgres Full Text Search vs. the Rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
