@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Don&#39;t Use Netscape](https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html)
+- [An Open-Source HDMI Capture Card](https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/)
+- [Largest open dataset of apartment models ever got published](https://zenodo.org/record/7070952)
+- [5G’s Rollout Rattled Hundreds of Pilots](https://spectrum.ieee.org/faa-5g)
+- [Why I Don&#39;t Use Netscape &lpar;1999&rpar;](https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html)
 - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
-- [Why Wasn’t the Steam Engine Invented Earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c)
-- [A DRAM Failure](https://www.complang.tuwien.ac.at/anton/failing-memory.html)
-- [How to Plan?](https://kellanem.com/notes/how-to-plan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
