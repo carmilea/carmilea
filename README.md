@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Razorpay a YC company is supporting fraudulent merchants](https://news.ycombinator.com/item?id=33202678)
-- [Uniform eXchange Format &lpar;UXF&rpar; – plain text human readable typed storage format](https://github.com/mark-summerfield/uxf)
-- [You should not be using AWS. Probably.](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
-- [Apple gets $19M fine in Brazil for not selling iPhones with charger](https://www.engadget.com/apple-19-million-fine-brazil-for-not-selling-phones-with-a-charger-051025019.html)
-- [An Open-Source HDMI Capture Card](https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/)
+- [Claims AI can boost workplace diversity are ‘spurious and dangerous’](https://www.cam.ac.uk/research/news/claims-ai-can-boost-workplace-diversity-are-spurious-and-dangerous-researchers-argue)
+- [Ex Police Officer Used Law Enforcement Tech to Hack Women’s Explicit Photos](https://www.leoweekly.com/2022/10/feds-ex-louisville-police-officer-used-law-enforcement-tech-to-help-hack-sexually-explicit-photos-from-women/)
+- [Guthib](https://guthib.com/)
+- [FDIC&#39;s Position on the Role of Vacation Policy as an Internal Safeguard &lpar;1995&rpar;](https://www.fdic.gov/news/financial-institution-letters/1995/fil9552.html)
+- [Postgres Full Text Search vs. the Rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
