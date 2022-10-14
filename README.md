@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Razorpay a YC company is supporting fraudulent merchants](https://news.ycombinator.com/item?id=33202678)
+- [Uniform eXchange Format &lpar;UXF&rpar; – plain text human readable typed storage format](https://github.com/mark-summerfield/uxf)
+- [You should not be using AWS. Probably.](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
+- [Apple gets $19M fine in Brazil for not selling iPhones with charger](https://www.engadget.com/apple-19-million-fine-brazil-for-not-selling-phones-with-a-charger-051025019.html)
 - [An Open-Source HDMI Capture Card](https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/)
-- [Largest open dataset of apartment models ever got published](https://zenodo.org/record/7070952)
-- [5G’s Rollout Rattled Hundreds of Pilots](https://spectrum.ieee.org/faa-5g)
-- [Why I Don&#39;t Use Netscape &lpar;1999&rpar;](https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html)
-- [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
