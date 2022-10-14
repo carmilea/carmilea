@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tell HN: Getting Ready for Unemployment](https://news.ycombinator.com/item?id=33199602)
-- [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
+- [Using an Amiga in 2021: Making an intro](https://datagubbe.se/mkdem/)
 - [Linear.app](https://linear.app/homepage)
+- [Learning dynamic 3D geometry and texture for video face swapping](https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/)
 - [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
-- [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
