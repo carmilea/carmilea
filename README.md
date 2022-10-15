@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; enables devs to build data apps quickly and is hiring in SF](https://patterns.app/)
+- [Americans Are Too Fat to Donate Their Bodies to Science](https://www.vice.com/en/article/vvjz3d/most-americans-are-too-fat-to-donate-their-bodies-to-science)
 - [Public Relations Company for Big Pharma Now “Embedding” Employees at CDC](https://disinformationchronicle.substack.com/p/weve-unlocked-the-article-weber-shandwick)
 - [Ask HN: What&#39;s your favorite programmer niche?](https://news.ycombinator.com/item?id=33216078)
 - [Google engineers joked about how incognito mode isn&#39;t incognito](https://futurism.com/the-byte/google-engineers-joked-incognito-mode)
-- [Why We&#39;re Moving on from Firebase](https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase)
-- [The Search for a Pill That Can Help Dogs–and Humans–Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
