@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Visually Design Tutorials?](https://news.ycombinator.com/item?id=33212593)
+- [Show HN: An event-driven script language](https://melang.org/index.html)
+- [Ask HN: Where do you escape for non-clickbait thoughtful/informational content?](https://news.ycombinator.com/item?id=33212499)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Let&#39;s order strange things from NIST](https://twitter.com/tubetimeus/status/1335061382501261312)
 - [Everyone going to World Cup must have this app, experts are sounding the alarm](https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267)
-- [Nikola founder Trevor Milton found guilty of fraud](https://www.cnbc.com/2022/10/14/nikola-nkla-founder-trevor-milton-found-guilty-of-fraud-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
