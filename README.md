@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to Visually Design Tutorials?](https://news.ycombinator.com/item?id=33212593)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Let&#39;s order strange things from NIST](https://twitter.com/tubetimeus/status/1335061382501261312)
 - [Everyone going to World Cup must have this app, experts are sounding the alarm](https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267)
-- [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
-- [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
-- [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
+- [Nikola founder Trevor Milton found guilty of fraud](https://www.cnbc.com/2022/10/14/nikola-nkla-founder-trevor-milton-found-guilty-of-fraud-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
