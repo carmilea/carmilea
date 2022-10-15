@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Performance Psychology in the Workplace?](https://news.ycombinator.com/item?id=33216663)
+- [A possibly new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
 - [Patterns &lpar;YC S21&rpar; enables devs to build data apps quickly and is hiring in SF](https://patterns.app/)
 - [Americans Are Too Fat to Donate Their Bodies to Science](https://www.vice.com/en/article/vvjz3d/most-americans-are-too-fat-to-donate-their-bodies-to-science)
 - [Public Relations Company for Big Pharma Now “Embedding” Employees at CDC](https://disinformationchronicle.substack.com/p/weve-unlocked-the-article-weber-shandwick)
-- [Ask HN: What&#39;s your favorite programmer niche?](https://news.ycombinator.com/item?id=33216078)
-- [Google engineers joked about how incognito mode isn&#39;t incognito](https://futurism.com/the-byte/google-engineers-joked-incognito-mode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
