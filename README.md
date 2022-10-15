@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s AR Headset Was a Complete Disaster During a Military Test](https://futurism.com/the-byte/microsoft-headset-disaster-military-test)
+- [We&#39;re moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
+- [AT&amp;T to pay $23M fine for bribing powerful lawmaker’s ally in exchange for vote](https://arstechnica.com/tech-policy/2022/10/att-to-pay-23m-fine-for-bribing-powerful-lawmakers-ally-in-exchange-for-vote/)
+- [Pimping my Casio with Oddly Specific Objects&#39; alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 - [A 24-year-old bug in the Linux Kernel TCP stack &lpar;2021&rpar;](https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/)
-- [Ask HN: Are Whois Abuse Reports Useful?](https://news.ycombinator.com/item?id=33214281)
-- [Man plays his saxophone through 9-hour complex brain surgery to remove tumor](https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/)
-- [Zeek Is Now a Component of Microsoft Windows](https://corelight.com/company/zeek-now-component-of-microsoft-windows)
-- [Building the world’s fastest website analytics &lpar;2021&rpar;](https://usefathom.com/blog/worlds-fastest-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
