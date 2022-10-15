@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s AR Headset Was a Complete Disaster During a Military Test](https://futurism.com/the-byte/microsoft-headset-disaster-military-test)
-- [We&#39;re moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
-- [AT&amp;T to pay $23M fine for bribing powerful lawmaker’s ally in exchange for vote](https://arstechnica.com/tech-policy/2022/10/att-to-pay-23m-fine-for-bribing-powerful-lawmakers-ally-in-exchange-for-vote/)
-- [Pimping my Casio with Oddly Specific Objects&#39; alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
-- [A 24-year-old bug in the Linux Kernel TCP stack &lpar;2021&rpar;](https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/)
+- [Public Relations Company for Big Pharma Now “Embedding” Employees at CDC](https://disinformationchronicle.substack.com/p/weve-unlocked-the-article-weber-shandwick)
+- [Ask HN: What&#39;s your favorite programmer niche?](https://news.ycombinator.com/item?id=33216078)
+- [Google engineers joked about how incognito mode isn&#39;t incognito](https://futurism.com/the-byte/google-engineers-joked-incognito-mode)
+- [Why We&#39;re Moving on from Firebase](https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase)
+- [The Search for a Pill That Can Help Dogs–and Humans–Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
