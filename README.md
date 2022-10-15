@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone going to World Cup must have this app, experts are sounding the alarm](https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267)
+- [Ask HN: How to become good at Emacs/Vim?](https://news.ycombinator.com/item?id=33211369)
 - [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
 - [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
 - [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
-- [RISC-V Public review for standard extensions Zc](https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw)
-- [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
