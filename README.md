@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Everyone going to World Cup must have this app, experts are sounding the alarm](https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267)
-- [Ask HN: How to become good at Emacs/Vim?](https://news.ycombinator.com/item?id=33211369)
 - [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
 - [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
 - [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
