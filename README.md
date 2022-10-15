@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker implemented in around 100 lines of bash](https://github.com/p8952/bocker)
-- [Adults today care too much what young people think](https://www.persuasion.community/p/adults-today-care-too-much-what-young)
-- [Show HN: America – Road Trip Simulator](https://4m3ric4.com)
-- [Lung cancer rates by state, 2017](https://www.lung-cancer.com/rates-by-state)
-- [LibrePCB 0.1.7](https://librepcb.org/blog/2022-10-03_release_0.1.7/)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff ML Engineer](https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer)
+- [Logseq: Privacy-First, Joyful Platform for Knowledge Management](https://logseq.com/?)
+- [Building a database buffer pool in Zig using io_uring&#39;s new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
+- [Bocker: Docker implemented in around 100 lines of Bash &lpar;2015&rpar;](https://github.com/p8952/bocker)
+- [A Primer to Nuclear Fusion and First Light Fusion](https://startuppirate.substack.com/p/the-holy-grail-of-energy-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
