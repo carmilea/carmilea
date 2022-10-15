@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker implemented in around 100 lines of bash](https://github.com/p8952/bocker)
+- [Adults today care too much what young people think](https://www.persuasion.community/p/adults-today-care-too-much-what-young)
 - [Show HN: America – Road Trip Simulator](https://4m3ric4.com)
 - [Lung cancer rates by state, 2017](https://www.lung-cancer.com/rates-by-state)
 - [LibrePCB 0.1.7](https://librepcb.org/blog/2022-10-03_release_0.1.7/)
-- [Emacs Org Mode for Visual Studio Code](https://github.com/vscode-org-mode/vscode-org-mode)
-- [Automating screenshots for the Datasette documentation using shot-scraper](https://simonwillison.net/2022/Oct/14/automating-screenshots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
