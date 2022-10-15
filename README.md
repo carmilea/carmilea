@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the world’s fastest website analytics &lpar;2021&rpar;](https://usefathom.com/blog/worlds-fastest-analytics)
-- [Tumblr and why ‘the porn-friendly era of the internet is over’](https://www.theguardian.com/technology/2022/oct/12/techscape-tumblr-porn-ban-apple-app-store)
-- [How 3000 degree bricks will end battery storage](https://www.youtube.com/watch?v=R9XMWHFzPs8)
-- [Mud boosts your immune system](https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems)
-- [Ask HN: Where do you escape for non-clickbait thoughtful/informational content?](https://news.ycombinator.com/item?id=33212499)
+- [A 24-year-old bug in the Linux Kernel TCP stack &lpar;2021&rpar;](https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/)
+- [Ask HN: Are Whois Abuse Reports Useful?](https://news.ycombinator.com/item?id=33214281)
+- [Man plays his saxophone through 9-hour complex brain surgery to remove tumor](https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/)
+- [Zeek Is Now a Component of Microsoft Windows](https://corelight.com/company/zeek-now-component-of-microsoft-windows)
+- [Do McKinsey and other consultants do anything useful?](https://www.economist.com/leaders/2022/10/05/do-mckinsey-and-other-consultants-do-anything-useful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
