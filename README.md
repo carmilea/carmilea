@@ -55,7 +55,7 @@
 - [Ask HN: Are Whois Abuse Reports Useful?](https://news.ycombinator.com/item?id=33214281)
 - [Man plays his saxophone through 9-hour complex brain surgery to remove tumor](https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/)
 - [Zeek Is Now a Component of Microsoft Windows](https://corelight.com/company/zeek-now-component-of-microsoft-windows)
-- [Do McKinsey and other consultants do anything useful?](https://www.economist.com/leaders/2022/10/05/do-mckinsey-and-other-consultants-do-anything-useful)
+- [Building the world’s fastest website analytics &lpar;2021&rpar;](https://usefathom.com/blog/worlds-fastest-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
