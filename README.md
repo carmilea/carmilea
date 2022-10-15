@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Even After $100B, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere)
-- [Show HN: Bloomberg Terminal for Individuals](https://gorillaterminal.com?ref=HN)
+- [Building the world’s fastest website analytics &lpar;2021&rpar;](https://usefathom.com/blog/worlds-fastest-analytics)
+- [Tumblr and why ‘the porn-friendly era of the internet is over’](https://www.theguardian.com/technology/2022/oct/12/techscape-tumblr-porn-ban-apple-app-store)
+- [How 3000 degree bricks will end battery storage](https://www.youtube.com/watch?v=R9XMWHFzPs8)
+- [Mud boosts your immune system](https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems)
 - [Ask HN: Where do you escape for non-clickbait thoughtful/informational content?](https://news.ycombinator.com/item?id=33212499)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Let&#39;s order strange things from NIST](https://twitter.com/tubetimeus/status/1335061382501261312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
