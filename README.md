@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Computer Club saves the German healthcare system 400M Euros](https://www.ccc.de/de/updates/2022/konnektoren-400-millionen-geschenk)
 - [Even After $100B, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere)
+- [Show HN: Bloomberg Terminal for Individuals](https://gorillaterminal.com?ref=HN)
 - [Ask HN: Where do you escape for non-clickbait thoughtful/informational content?](https://news.ycombinator.com/item?id=33212499)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
 - [Let&#39;s order strange things from NIST](https://twitter.com/tubetimeus/status/1335061382501261312)
