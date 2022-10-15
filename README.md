@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [E-waste: Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
 - [Show HN: A social network like Myspace, built on top of Notion](https://mynotion.space)
 - [The Wonderfully Terrible World of C and C++ Text Encoding APIs &lpar;With Some Rust&rpar;](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape)
 - [Show HN: Stable Diffusion Without Filters](https://healthydiffusion.com/)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff ML Engineer](https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer)
-- [Logseq: Privacy-First, Joyful Platform for Knowledge Management](https://logseq.com/?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
