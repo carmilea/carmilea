@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Performance Psychology in the Workplace?](https://news.ycombinator.com/item?id=33216663)
-- [A possibly new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
-- [Patterns &lpar;YC S21&rpar; enables devs to build data apps quickly and is hiring in SF](https://patterns.app/)
-- [Americans Are Too Fat to Donate Their Bodies to Science](https://www.vice.com/en/article/vvjz3d/most-americans-are-too-fat-to-donate-their-bodies-to-science)
-- [Public Relations Company for Big Pharma Now “Embedding” Employees at CDC](https://disinformationchronicle.substack.com/p/weve-unlocked-the-article-weber-shandwick)
+- [Show HN: America – Road Trip Simulator](https://4m3ric4.com)
+- [Lung cancer rates by state, 2017](https://www.lung-cancer.com/rates-by-state)
+- [LibrePCB 0.1.7](https://librepcb.org/blog/2022-10-03_release_0.1.7/)
+- [Emacs Org Mode for Visual Studio Code](https://github.com/vscode-org-mode/vscode-org-mode)
+- [Automating screenshots for the Datasette documentation using shot-scraper](https://simonwillison.net/2022/Oct/14/automating-screenshots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
