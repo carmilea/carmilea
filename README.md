@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub – rvaiya/warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
+- [Trying New Programming Languages Helped Me Grow as a Software Engineer](https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer)
+- [Warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
 - [Application-as-a-Function Thinking](https://doridori.github.io/Architecture-Application-as-a-Function/)
 - [Random ScotRail Apology Generator](https://scotrail.datasette.io/scotrail/random_apology)
-- [Google search was giving errors when searching “how many emojis on iOS”](https://www.google.co.nz/search?q=how+many+emojis+on+ios)
-- [Cloak: Censorship Circumvention Tool](https://github.com/cbeuw/Cloak)
+- [The Moorish invention that tamed Spain&#39;s mountains](https://www.bbc.com/future/article/20221011-the-moorish-invention-that-tamed-spains-mountains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
