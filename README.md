@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Being Arrogantly Ignorant](https://the.scapegoat.dev/being-arrogantly-ignorant/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
 - [Protein interface – how to change aproach to building software?](https://trojanczyk.eu/are-software-engineers-protein-interface/)
 - [I *detest* the crazy industry politics that made ECC memory so “special”](https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html)
 - [Compiler Explorer](https://godbolt.org/)
-- [Cash, Canadians and CPUs: Intel&#39;s &#39;Lost&#39; Early Microprocessor](https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost)
+- [Rent Going Up? One Company’s Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
