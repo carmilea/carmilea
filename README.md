@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why allowing users to disable animations is important for accessibility](https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/)
 - [Trying New Programming Languages Helped Me Grow as a Software Engineer](https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer)
 - [Warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
 - [Application-as-a-Function Thinking](https://doridori.github.io/Architecture-Application-as-a-Function/)
 - [Random ScotRail Apology Generator](https://scotrail.datasette.io/scotrail/random_apology)
-- [The Moorish invention that tamed Spain&#39;s mountains](https://www.bbc.com/future/article/20221011-the-moorish-invention-that-tamed-spains-mountains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
