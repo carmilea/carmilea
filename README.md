@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot, with “public code” blocked, emits my copyrighted code](https://twitter.com/docsparse/status/1581461734665367554)
+- [AI better at creating fragrances than professional perfumers](https://www.visium.ch/blog/reinventing-fragrance-and-flavor-design-with-machine-learning)
 - [Microsoft’s out-of-date driver list left Windows PCs open to malware attacks](https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd)
-- [Software reverse engineering suite developed by NSA&#39;s Research Directorate](https://ghidra-sre.org)
-- [Apple Music and Mercedes-Benz bring immersive Spatial Audio to drivers](https://www.apple.com/newsroom/2022/10/apple-music-and-mercedes-benz-bring-immersive-spatial-audio-to-drivers-worldwide/)
+- [Ghidra: Software reverse engineering suite developed by NSA](https://ghidra-sre.org)
 - [ACT Test Scores Drop to Lowest Levels in More Than 30 Years](https://www.wsj.com/articles/act-test-scores-drop-to-lowest-levels-in-more-than-30-years-11665593614)
-- [A Danish Political Party Led by an AI](https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
