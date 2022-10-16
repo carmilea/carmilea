@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running a VPN server on iOS is against AppStore&#39;s Guidelines](https://developer.apple.com/forums/thread/68171)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Ask HN: Where to publish a critical work with potentially offensive content](https://news.ycombinator.com/item?id=33226944)
 - [1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration](https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/)
-- [GitHub Copilot, with “public code” blocked, emits my copyrighted code](https://twitter.com/docsparse/status/1581461734665367554)
-- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+- [Show HN: Carefulwords.com, a More Inspiring Thesaurus](https://carefulwords.com/solitude)
 <!-- BLOG-POST-LIST:END -->
 
 ---
