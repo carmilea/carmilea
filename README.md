@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why allowing users to disable animations is important for accessibility](https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/)
-- [Trying New Programming Languages Helped Me Grow as a Software Engineer](https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer)
-- [Warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
-- [Application-as-a-Function Thinking](https://doridori.github.io/Architecture-Application-as-a-Function/)
-- [Random ScotRail Apology Generator](https://scotrail.datasette.io/scotrail/random_apology)
+- [Researchers engineer SARS-CoV-2 Omicron variant with 80% mortality rate](https://www.biorxiv.org/content/10.1101/2022.10.13.512134v1)
+- [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
+- [Microwave Radar Brought Direct Phone Calls to Millions](https://spectrum.ieee.org/trans-canada-microwave-system-milestone)
+- [Show HN: Speki – Flashcards in Terminal](https://github.com/TBS1996/speki)
+- [Show HN: The Unix Pipe Card Game – teach kids basic Unix commands](https://punkx.org/unix-pipe-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
