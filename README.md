@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers engineer SARS-CoV-2 Omicron variant with 80% mortality rate](https://www.biorxiv.org/content/10.1101/2022.10.13.512134v1)
+- [Poll: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223222)
+- [Ask HN: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223124)
+- [Simon Peyton Jones interview](https://haskell.foundation/podcast/11/)
 - [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
 - [Microwave Radar Brought Direct Phone Calls to Millions](https://spectrum.ieee.org/trans-canada-microwave-system-milestone)
-- [Show HN: Speki – Flashcards in Terminal](https://github.com/TBS1996/speki)
-- [Show HN: The Unix Pipe Card Game – teach kids basic Unix commands](https://punkx.org/unix-pipe-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
