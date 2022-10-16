@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Ask HN: Where to publish a critical work with potentially offensive content](https://news.ycombinator.com/item?id=33226944)
+- [1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration](https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/)
 - [GitHub Copilot, with “public code” blocked, emits my copyrighted code](https://twitter.com/docsparse/status/1581461734665367554)
-- [AI better at creating fragrances than professional perfumers](https://www.visium.ch/blog/reinventing-fragrance-and-flavor-design-with-machine-learning)
-- [Microsoft’s out-of-date driver list left Windows PCs open to malware attacks](https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd)
-- [Ghidra: Software reverse engineering suite developed by NSA](https://ghidra-sre.org)
-- [ACT Test Scores Drop to Lowest Levels in More Than 30 Years](https://www.wsj.com/articles/act-test-scores-drop-to-lowest-levels-in-more-than-30-years-11665593614)
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
