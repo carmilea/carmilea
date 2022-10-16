@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaos theory eliminates quantum uncertainty](https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263)
+- [OneRNG – Open Hardware Random Number Generator](https://onerng.info)
 - [Poll: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223222)
 - [Ask HN: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223124)
 - [Simon Peyton Jones interview](https://haskell.foundation/podcast/11/)
-- [Tesorio &lpar;YC S15&rpar; raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
-- [Microwave Radar Brought Direct Phone Calls to Millions](https://spectrum.ieee.org/trans-canada-microwave-system-milestone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
