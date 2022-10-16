@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast file synchronization and network forwarding for remote development](https://github.com/mutagen-io/mutagen)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [Tesla fires after hurricane raises alarm for Florida officials](https://www.businesstimes.com.sg/transport/tesla-fires-after-hurricane-raises-alarm-for-florida-officials)
 - [Protein interface – how to change aproach to building software?](https://trojanczyk.eu/are-software-engineers-protein-interface/)
-- [I *detest* the crazy industry politics that made ECC memory so “special”](https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html)
 - [Compiler Explorer](https://godbolt.org/)
-- [Rent Going Up? One Company’s Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
