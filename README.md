@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google search crashes when searching “how many emojis on iOS”](https://www.google.co.nz/search?q=how+many+emojis+on+ios)
+- [Cloak: Censorship Circumvention Tool](https://github.com/cbeuw/Cloak)
 - [Efficient IO in Linux with io_uring [pdf]](https://kernel.dk/io_uring.pdf)
 - [Linux Kernel MultiPath TCP Project](https://www.multipath-tcp.org/)
 - [Apple bought out all of Newsweek&#39;s 1984 Election issue ad space for Mac](https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek)
-- [Show HN: An Express-inspired web framework for Rust](https://crates.io/crates/graphul)
 <!-- BLOG-POST-LIST:END -->
 
 ---
