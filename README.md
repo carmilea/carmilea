@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Take care of yourselves this week](https://news.ycombinator.com/item?id=33221023)
+- [Efficient IO in Linux with io_uring [pdf]](https://kernel.dk/io_uring.pdf)
+- [Linux Kernel MultiPath TCP Project](https://www.multipath-tcp.org/)
 - [Apple bought out all of Newsweek&#39;s 1984 Election issue ad space for Mac](https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek)
 - [Show HN: An Express-inspired web framework for Rust](https://crates.io/crates/graphul)
 - [OpenAPI Generator allows generation of API client libraries from OpenAPI Specs](https://github.com/OpenAPITools/openapi-generator)
-- [US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC](https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
