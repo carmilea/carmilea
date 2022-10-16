@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jessica Wade made more than 1k Wikipedia bios for unknown women scientists](https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628)
-- [OHSU scientists discover mechanism of hearing](https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing)
-- [Chaos theory eliminates quantum uncertainty](https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263)
-- [OneRNG – Open Hardware Random Number Generator](https://onerng.info)
-- [Poll: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223222)
+- [Being Arrogantly Ignorant](https://the.scapegoat.dev/being-arrogantly-ignorant/)
+- [Protein interface – how to change aproach to building software?](https://trojanczyk.eu/are-software-engineers-protein-interface/)
+- [I *detest* the crazy industry politics that made ECC memory so “special”](https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html)
+- [Compiler Explorer](https://godbolt.org/)
+- [Cash, Canadians and CPUs: Intel&#39;s &#39;Lost&#39; Early Microprocessor](https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
