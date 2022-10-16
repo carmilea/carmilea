@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jessica Wade made more than 1k Wikipedia bios for unknown women scientists](https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628)
+- [OHSU scientists discover mechanism of hearing](https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing)
 - [Chaos theory eliminates quantum uncertainty](https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263)
 - [OneRNG – Open Hardware Random Number Generator](https://onerng.info)
 - [Poll: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223222)
-- [Ask HN: Is there a negative stigma toward articles written in Medium?](https://news.ycombinator.com/item?id=33223124)
-- [Simon Peyton Jones interview](https://haskell.foundation/podcast/11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
