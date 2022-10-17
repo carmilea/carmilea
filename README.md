@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
+- [Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive](https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/)
 - [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
+- [PolyMC compromised by rogue developer having unabomber manifesto in steam bio](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
 - [Web workers are not the answer](https://dagster.io/blog/web-workers-performance-issue)
-- [Could solar-powered headphones be the next must-have?](https://www.bbc.com/news/business-63211086)
-- [Ask HN: Have you ever heard of users demonstrating against software?](https://news.ycombinator.com/item?id=33238708)
-- [In South Korea, robots are on the job. How is the service?](https://expmag.com/2022/10/in-south-korea-robots-are-on-the-job-so-how-is-the-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
