@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where do you host images for your blog or landing pages?](https://news.ycombinator.com/item?id=33232705)
-- [What the $24.6B Kroger-Albertsons Merger Could Mean for Groceries](https://www.nytimes.com/2022/10/14/business/dealbook/albertsons-kroger-merger-explained.html)
+- [Factorio: Never trust a system that seems to be working](https://twitter.com/foone/status/1581648062933389312)
+- [What We’ve Lost Playing the Lottery](https://www.newyorker.com/magazine/2022/10/24/what-weve-lost-playing-the-lottery)
+- [Live Counter of Uber&#39;s Net Losses &lpar;$27B and Counting&rpar;](https://uberlosses.com)
+- [New study suggests people with dark personalities weaponize victimhood](https://www.psypost.org/2021/02/new-study-suggests-people-with-dark-personalities-weaponize-victimhood-to-gain-advantage-over-others-59806)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- [Renowned Arecibo telescope won’t be rebuilt – and astronomers are heartbroken](https://www.nature.com/articles/d41586-022-03293-4)
-- [More U.S. companies charging employees for job training if they quit](https://www.reuters.com/world/us/more-us-companies-charging-employees-job-training-if-they-quit-2022-10-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
