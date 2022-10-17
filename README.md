@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Have you ever heard of users demostrating against software?](https://news.ycombinator.com/item?id=33238708)
+- [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
+- [Web workers are not the answer](https://dagster.io/blog/web-workers-performance-issue)
+- [Could solar-powered headphones be the next must-have?](https://www.bbc.com/news/business-63211086)
+- [Ask HN: Have you ever heard of users demonstrating against software?](https://news.ycombinator.com/item?id=33238708)
 - [In South Korea, robots are on the job. How is the service?](https://expmag.com/2022/10/in-south-korea-robots-are-on-the-job-so-how-is-the-service/)
-- [pigz: A parallel implementation of gzip for multi-core machines](https://github.com/madler/pigz)
-- [A North Paw is an anklet that tells the wearer which way is North](https://sensebridge.net/projects/northpaw/)
-- [Germany extends lifetime of all 3 remaining nuclear plants](https://www.dw.com/en/germany-extends-lifetime-of-all-3-remaining-nuclear-plants/a-63466196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
