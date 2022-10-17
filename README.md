@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oakland cops hope to arm robots with lethal shotguns](https://theintercept.com/2022/10/17/police-robot-gun-oakland/)
-- [American Airlines trying to block app that is a must-have for flight attendants](https://www.paddleyourownkanoo.com/2022/10/14/american-airlines-is-trying-to-stop-a-popular-iphone-app-thats-become-a-must-have-for-its-flight-attendants/)
-- [Boeing 787s must be rebooted every 51 days to prevent &#39;misleading data&#39; &lpar;2020&rpar;](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
-- [Never trust a system that seems to be working](https://twitter.com/Foone/status/1581643197427523584)
-- [What We’ve Lost Playing the Lottery](https://www.newyorker.com/magazine/2022/10/24/what-weve-lost-playing-the-lottery)
+- [Irmin in the Browser &lpar;OCaml/MirageOS&rpar;](https://tarides.com/blog/2022-08-02-irmin-in-the-browser/)
+- [Google Is Not a Search Engine – It&#39;s an Advertising Platform](https://www.pageonepower.com/linkarati/google-not-search-engine-advertising-platform)
+- [On Bypassing eBPF Security Monitoring](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html)
+- [WhatsApp is more secure than iMessage: Mark Zuckerberg](https://www.facebook.com/zuck/posts/whatsapp-is-far-more-private-and-secure-than-imessage-with-end-to-end-encryption/10114735238351021/)
+- [How Fly.io and Tailscale Saved Notado](https://notado.substack.com/p/how-flyio-and-tailscale-saved-notado)
 <!-- BLOG-POST-LIST:END -->
 
 ---
