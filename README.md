@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Become a Pirate Archivist](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
+- [GitHub Copi­lot inves­ti­ga­tion](https://githubcopilotinvestigation.com/)
+- [Tails 5.5](https://tails.boum.org/news/version_5.5/)
 - [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
 - [Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive](https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/)
-- [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
-- [PolyMC compromised by rogue developer having unabomber manifesto in steam bio](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
-- [Web workers are not the answer](https://dagster.io/blog/web-workers-performance-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
