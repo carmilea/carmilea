@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Factorio: Never trust a system that seems to be working](https://twitter.com/foone/status/1581648062933389312)
+- [Oakland cops hope to arm robots with lethal shotguns](https://theintercept.com/2022/10/17/police-robot-gun-oakland/)
+- [American Airlines trying to block app that is a must-have for flight attendants](https://www.paddleyourownkanoo.com/2022/10/14/american-airlines-is-trying-to-stop-a-popular-iphone-app-thats-become-a-must-have-for-its-flight-attendants/)
+- [Boeing 787s must be rebooted every 51 days to prevent &#39;misleading data&#39; &lpar;2020&rpar;](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
+- [Never trust a system that seems to be working](https://twitter.com/Foone/status/1581643197427523584)
 - [What We’ve Lost Playing the Lottery](https://www.newyorker.com/magazine/2022/10/24/what-weve-lost-playing-the-lottery)
-- [Live Counter of Uber&#39;s Net Losses &lpar;$27B and Counting&rpar;](https://uberlosses.com)
-- [New study suggests people with dark personalities weaponize victimhood](https://www.psypost.org/2021/02/new-study-suggests-people-with-dark-personalities-weaponize-victimhood-to-gain-advantage-over-others-59806)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
