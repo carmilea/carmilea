@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanye West is buying Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform)
 - [Koch Method to Learn Morse](https://stendec.io/morse/koch.html)
 - [Java Apache Commons vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-42889)
 - [How to Build Software Like an SRE](https://www.willett.io/posts/precepts/)
 - [The Amiga Workbench Simulator](https://taws.ch)
-- [Yagni Exceptions &lpar;2021&rpar;](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
