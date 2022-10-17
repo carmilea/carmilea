@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany extends lifetime of all 3 remaining nuclear plants](https://www.dw.com/en/germany-extends-lifetime-of-all-3-remaining-nuclear-plants/a-63466196)
+- [Real-Life Vampire Autopsies of the Victorian Era](https://www.atlasobscura.com/articles/victorian-vampire-autopsies)
+- [Does cashless society discriminate against the poor and elderly? &lpar;2019&rpar;](https://blogs.ischool.berkeley.edu/w231/2019/10/14/does-cashless-society-discriminate-against-the-poor-and-elderly/)
 - [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
 - [Gödel’s first incompleteness theorem – an interactive tutorial](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem)
-- [Alpine Linux Minimalist Desktop](https://github.com/git-sgmoore/AlpineLinux-DailyDriverDesktop)
-- [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
-- [Irmin in the Browser &lpar;OCaml/MirageOS&rpar;](https://tarides.com/blog/2022-08-02-irmin-in-the-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
