@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Koch Method to Learn Morse](https://stendec.io/morse/koch.html)
-- [Java Apache Commons vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-42889)
-- [How to Build Software Like an SRE](https://www.willett.io/posts/precepts/)
-- [The Amiga Workbench Simulator](https://taws.ch)
-- [Yagni Exceptions &lpar;2021&rpar;](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
+- [Ask HN: Where do you host images for your blog or landing pages?](https://news.ycombinator.com/item?id=33232705)
+- [What the $24.6B Kroger-Albertsons Merger Could Mean for Groceries](https://www.nytimes.com/2022/10/14/business/dealbook/albertsons-kroger-merger-explained.html)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- [Renowned Arecibo telescope won’t be rebuilt – and astronomers are heartbroken](https://www.nature.com/articles/d41586-022-03293-4)
+- [More U.S. companies charging employees for job training if they quit](https://www.reuters.com/world/us/more-us-companies-charging-employees-job-training-if-they-quit-2022-10-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
