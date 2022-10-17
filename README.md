@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yagni Exceptions &lpar;2021&rpar;](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 - [Privacy respecting weather app for Android](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
 - [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
 - [What it means to see a &#39;bad&#39; certificate in TLS Certificate Transparency logs](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings)
 - [Life’s Work: An Interview with Jerry Seinfeld &lpar;2017&rpar;](https://hbr.org/2017/01/lifes-work-jerry-seinfeld)
-- [If ghosts could speak, their speech would approximate this key &lpar;1778&rpar;](https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
