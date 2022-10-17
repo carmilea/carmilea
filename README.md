@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept](https://github.com/richardanaya/wasm-service)
+- [Hex Triplet Words](https://hex-triplet-words.glitch.me/)
+- [Show HN: I have built a huge library of screenplays for movies and TV shows](https://screenplays.io)
+- [Scanning phones to detect child abuse evidence is harmful, &#39;magical&#39; thinking](https://www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/)
 - [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md)
-- [A simple web hook that forwards prometheus alerts over XMPP](https://github.com/jelmer/prometheus-xmpp-alerts)
-- [The US National Archives’ preservation plans for 600 file formats](https://www.archives.gov/preservation/digital-preservation/risk)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [1956 Philips 353A Bakelite Vacuum Tube Radio Repair and Restoration](https://retrorepairsandrefurbs.com/2022/09/06/1956-philips-353a-bakelite-vacuum-tube-radio-repair-restoration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
