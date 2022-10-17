@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
 - [Gödel’s first incompleteness theorem – an interactive tutorial](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem)
-- [Show HN: I surveyed 500 startup founders about their salaries](https://pilot.com/founder-salaries-2022-edition)
+- [Alpine Linux Minimalist Desktop](https://github.com/git-sgmoore/AlpineLinux-DailyDriverDesktop)
 - [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
 - [Irmin in the Browser &lpar;OCaml/MirageOS&rpar;](https://tarides.com/blog/2022-08-02-irmin-in-the-browser/)
 <!-- BLOG-POST-LIST:END -->
