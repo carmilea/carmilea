@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
+- [Gödel’s first incompleteness theorem – an interactive tutorial](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem)
+- [Show HN: I surveyed 500 startup founders about their salaries](https://pilot.com/founder-salaries-2022-edition)
+- [The Geometry Junkyard](https://www.ics.uci.edu/~eppstein/junkyard/)
 - [Irmin in the Browser &lpar;OCaml/MirageOS&rpar;](https://tarides.com/blog/2022-08-02-irmin-in-the-browser/)
-- [Google Is Not a Search Engine – It&#39;s an Advertising Platform](https://www.pageonepower.com/linkarati/google-not-search-engine-advertising-platform)
-- [On Bypassing eBPF Security Monitoring](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html)
-- [WhatsApp is more secure than iMessage: Mark Zuckerberg](https://www.facebook.com/zuck/posts/whatsapp-is-far-more-private-and-secure-than-imessage-with-end-to-end-encryption/10114735238351021/)
-- [How Fly.io and Tailscale Saved Notado](https://notado.substack.com/p/how-flyio-and-tailscale-saved-notado)
 <!-- BLOG-POST-LIST:END -->
 
 ---
