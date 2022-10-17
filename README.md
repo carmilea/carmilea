@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept](https://github.com/richardanaya/wasm-service)
-- [Hex Triplet Words](https://hex-triplet-words.glitch.me/)
-- [Show HN: I have built a huge library of screenplays for movies and TV shows](https://screenplays.io)
-- [Scanning phones to detect child abuse evidence is harmful, &#39;magical&#39; thinking](https://www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/)
-- [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md)
+- [Privacy respecting weather app for Android](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
+- [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
+- [What it means to see a &#39;bad&#39; certificate in TLS Certificate Transparency logs](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings)
+- [Life’s Work: An Interview with Jerry Seinfeld &lpar;2017&rpar;](https://hbr.org/2017/01/lifes-work-jerry-seinfeld)
+- [If ghosts could speak, their speech would approximate this key &lpar;1778&rpar;](https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
