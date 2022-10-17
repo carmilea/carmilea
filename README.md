@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Have you ever heard of users demostrating against software?](https://news.ycombinator.com/item?id=33238708)
+- [In South Korea, robots are on the job. How is the service?](https://expmag.com/2022/10/in-south-korea-robots-are-on-the-job-so-how-is-the-service/)
+- [pigz: A parallel implementation of gzip for multi-core machines](https://github.com/madler/pigz)
+- [A North Paw is an anklet that tells the wearer which way is North](https://sensebridge.net/projects/northpaw/)
 - [Germany extends lifetime of all 3 remaining nuclear plants](https://www.dw.com/en/germany-extends-lifetime-of-all-3-remaining-nuclear-plants/a-63466196)
-- [Real-Life Vampire Autopsies of the Victorian Era](https://www.atlasobscura.com/articles/victorian-vampire-autopsies)
-- [Does cashless society discriminate against the poor and elderly? &lpar;2019&rpar;](https://blogs.ischool.berkeley.edu/w231/2019/10/14/does-cashless-society-discriminate-against-the-poor-and-elderly/)
-- [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
-- [Gödel’s first incompleteness theorem – an interactive tutorial](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
