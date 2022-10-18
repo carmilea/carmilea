@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I tried to add EV chargers to my rental property. Here&#39;s what happened](https://www.canarymedia.com/articles/ev-charging/i-tried-to-add-ev-chargers-to-my-rental-property-heres-what-happened)
+- [Stability AI Raises $101M at $1B valuation](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
+- [Dear JetBrains, Don&#39;t mess with your UI](https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/)
 - [Microsoft has started layoffs today](https://twitter.com/tomwarren/status/1582188080873689088)
 - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
-- [How to become a pirate archivist](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
-- [GitHub Copi­lot inves­ti­ga­tion](https://githubcopilotinvestigation.com/)
-- [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
