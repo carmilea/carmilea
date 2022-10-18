@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: How can I protect my H-1B and green card if I am laid off?](https://www.alcorn.law/immigration/dear-sophie-how-can-i-protect-my-h-1b-and-green-card-if-i-am-laid-off-how-can-my-startup-hire-laid-off-people-on-h-1b/)
+- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer &lpar;Elixir, Rust&rpar;](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
+- [Capturing robot data so we can debug it later](https://www.polymathrobotics.com/blog/recording-robot-data)
 - [Sound](https://ciechanow.ski/sound/)
-- [iPad 10.9](https://www.apple.com/ipad-10.9/)
-- [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752)
-- [CDE 2.5.1](https://sourceforge.net/p/cdesktopenv/code/ci/503d09172b96d1679e049b3e04d8935db7ad0c96/)
-- [New iPad Pro with M2](https://www.apple.com/ipad-pro/)
+- [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
