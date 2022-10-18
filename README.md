@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jira new pricing tier to –$765,432,091.03 per user / month](https://www.atlassian.com/software/jira/pricing)
+- [Noise cameras to be trialled in England to tackle ‘boy racers’](https://www.theguardian.com/politics/2022/oct/18/noise-cameras-boy-racers-trial-road-users-legal-limits)
+- [Intel and the $1.5trn chip industry meltdown](https://www.economist.com/business/2022/10/17/intel-and-the-15trn-chip-industry-meltdown)
+- [Quine Letters to Philosophers Now Online](https://dailynous.com/2022/10/14/large-selection-of-quines-correspondence-now-available-online/)
 - [The FreeBSD/Firecracker Platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
-- [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)
-- [Podman: Pasta User-Mode Networking](https://github.com/containers/podman/pull/16141)
-- [Stability AI Raises $101M at $1B valuation](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
-- [Dear JetBrains, Don&#39;t mess with your UI](https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
