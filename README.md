@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: How can I protect my H-1B and green card if I am laid off?](https://www.alcorn.law/immigration/dear-sophie-how-can-i-protect-my-h-1b-and-green-card-if-i-am-laid-off-how-can-my-startup-hire-laid-off-people-on-h-1b/)
+- [Retired U.S. generals, admirals take top jobs with Saudi crown prince](https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/)
 - [Firezone &lpar;YC W22&rpar; is hiring a founding engineer &lpar;Elixir, Rust&rpar;](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
-- [Capturing robot data so we can debug it later](https://www.polymathrobotics.com/blog/recording-robot-data)
 - [Sound](https://ciechanow.ski/sound/)
 - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
+- [Show HN: Linen – Open-source Slack for communities](https://github.com/Linen-dev/linen.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
