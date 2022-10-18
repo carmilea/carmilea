@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Vision of Metascience](https://scienceplusplus.org/metascience/)
+- [What&#39;s the difference between USB 3.0, 3.1 Gen 1 and 3.2 Gen 1x1? Just the name](https://www.technewstoday.com/usb-3-0-vs-3-1-vs-3-2/)
+- [Lost something? Search through 91.7M files from the 80s, 90s, and 2000s](https://arstechnica.com/gaming/2022/10/lost-something-search-through-91-7-million-files-from-the-80s-90s-and-2000s/)
+- [Aquila: A unified, low-latency fabric for datacenter networks](https://www.usenix.org/conference/nsdi22/presentation/gibson)
 - [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12)
-- [Stripe unfairly hoarding small business cashflow](https://old.reddit.com/r/smallbusiness/comments/y72dqo/dont_use_stripe_i_am_trying_to_save_you_from_my/)
-- [Bottomless Is Hiring a Lead Designer &lpar;Anywhere in the World&rpar;](https://forms.gle/PEbQ7cXAfFc7bpXs9)
-- [Photoshop for Text](https://stephanango.com/photoshop-for-text)
-- [Comprehensive list of FPGA development boards](https://www.fpgadeveloper.com/comprehensive-list-of-fpga-development-boards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
