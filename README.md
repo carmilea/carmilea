@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook owner Meta to sell Giphy after UK watchdog confirms ruling](https://www.theguardian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33245946)
-- [Microsoft Lays Off Employees After Slowdown in Earnings Growth](https://www.wsj.com/articles/microsoft-lays-off-employees-after-slowdown-in-earnings-growth-11666072959)
-- [MinTOTP – Minimal TOTP generator in 20 lines of Python](https://github.com/susam/mintotp)
-- [Alien Truth](http://paulgraham.com/alien.html)
+- [Show HN: Filesystem Watcher](https://github.com/e-dant/watcher)
+- [Apache Apisix vs. Kong: Open-Source API Gateway](https://api7.ai/blog/apisix-vs-kong-3-0)
+- [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
+- [Tell HN: Beware &#39;Ungrowth&#39; in Your Job](https://news.ycombinator.com/item?id=33246841)
+- [Firefox Private Browsing mode upgrade](https://blog.mozilla.org/en/mozilla/privacy-online-just-got-easier-with-todays-firefox-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
