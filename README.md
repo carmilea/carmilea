@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Libcamera v0.0.1](https://git.libcamera.org/libcamera/libcamera.git/tag/?h=v0.0.1)
-- [TOTP for 2FA is incredibly easy to implement. So what&#39;s your excuse?](https://drewdevault.com/2022/10/18/TOTP-is-easy.html)
-- [Intel and the $1.5T chip industry meltdown](https://www.economist.com/business/2022/10/17/intel-and-the-15trn-chip-industry-meltdown)
-- [Why Rust?](https://www.rerun.io/blog/why-rust)
-- [Quine Letters to Philosophers Now Online](https://dailynous.com/2022/10/14/large-selection-of-quines-correspondence-now-available-online/)
+- [Facebook owner Meta to sell Giphy after UK watchdog confirms ruling](https://www.theguardian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33245946)
+- [Microsoft Lays Off Employees After Slowdown in Earnings Growth](https://www.wsj.com/articles/microsoft-lays-off-employees-after-slowdown-in-earnings-growth-11666072959)
+- [MinTOTP – Minimal TOTP generator in 20 lines of Python](https://github.com/susam/mintotp)
+- [Alien Truth](http://paulgraham.com/alien.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
