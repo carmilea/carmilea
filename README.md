@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Truss Still PM?](https://is-truss-still-pm.uk/)
 - [The FreeBSD/Firecracker Platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 - [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)
 - [Podman: Pasta User-Mode Networking](https://github.com/containers/podman/pull/16141)
 - [Stability AI Raises $101M at $1B valuation](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
+- [Dear JetBrains, Don&#39;t mess with your UI](https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
