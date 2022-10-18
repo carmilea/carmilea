@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft has started layoffs today](https://twitter.com/tomwarren/status/1582188080873689088)
+- [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 - [How to become a pirate archivist](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
 - [GitHub Copi­lot inves­ti­ga­tion](https://githubcopilotinvestigation.com/)
 - [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
-- [Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive](https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/)
-- [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
 <!-- BLOG-POST-LIST:END -->
 
 ---
