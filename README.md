@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Filesystem Watcher](https://github.com/e-dant/watcher)
-- [Apache Apisix vs. Kong: Open-Source API Gateway](https://api7.ai/blog/apisix-vs-kong-3-0)
-- [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
-- [Tell HN: Beware &#39;Ungrowth&#39; in Your Job](https://news.ycombinator.com/item?id=33246841)
-- [Firefox Private Browsing mode upgrade](https://blog.mozilla.org/en/mozilla/privacy-online-just-got-easier-with-todays-firefox-release/)
+- [CDE 2.5.1](https://sourceforge.net/p/cdesktopenv/code/ci/503d09172b96d1679e049b3e04d8935db7ad0c96/)
+- [New iPad Pro with M2](https://www.apple.com/ipad-pro/)
+- [Apple unveils completely redesigned iPad in four vibrant colors](https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/)
+- [iPad Pro M2](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/)
+- [Phantom Forests: Why Ambitious Tree Planting Projects Are Failing](https://e360.yale.edu/features/phantom-forests-tree-planting-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
