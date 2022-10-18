@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12)
+- [Stripe unfairly hoarding small business cashflow](https://old.reddit.com/r/smallbusiness/comments/y72dqo/dont_use_stripe_i_am_trying_to_save_you_from_my/)
 - [Bottomless Is Hiring a Lead Designer &lpar;Anywhere in the World&rpar;](https://forms.gle/PEbQ7cXAfFc7bpXs9)
 - [Photoshop for Text](https://stephanango.com/photoshop-for-text)
-- [We rewrote a high-performance database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
-- [The AT Protocol](https://atproto.com)
-- [Gain of Function? Not So Fast](https://www.science.org/content/blog-post/gain-function-not-so-fast)
+- [Comprehensive list of FPGA development boards](https://www.fpgadeveloper.com/comprehensive-list-of-fpga-development-boards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
