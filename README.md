@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans&#39; Trust in Media Remains Near Record Low](https://news.gallup.com/poll/403166/americans-trust-media-remains-near-record-low.aspx)
 - [We rewrote a high-performance database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
+- [The AT Protocol](https://atproto.com)
 - [Gain of Function? Not So Fast](https://www.science.org/content/blog-post/gain-function-not-so-fast)
-- [Retired U.S. generals, admirals take top jobs with Saudi crown prince](https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/)
-- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer &lpar;Elixir, Rust&rpar;](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
-- [Sound](https://ciechanow.ski/sound/)
+- [2/3 of kids bike to school in Assen because it was designed that way](http://www.aviewfromthecyclepath.com/2013/09/the-school-run-in-assen.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
