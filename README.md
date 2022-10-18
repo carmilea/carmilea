@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We rewrote a high-performance database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
+- [Gain of Function? Not So Fast](https://www.science.org/content/blog-post/gain-function-not-so-fast)
 - [Retired U.S. generals, admirals take top jobs with Saudi crown prince](https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/)
 - [Firezone &lpar;YC W22&rpar; is hiring a founding engineer &lpar;Elixir, Rust&rpar;](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer)
 - [Sound](https://ciechanow.ski/sound/)
-- [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
-- [Show HN: Linen – Open-source Slack for communities](https://github.com/Linen-dev/linen.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
