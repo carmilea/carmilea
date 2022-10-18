@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans&#39; Trust in Media Remains Near Record Low](https://news.gallup.com/poll/403166/americans-trust-media-remains-near-record-low.aspx)
+- [Bottomless Is Hiring a Lead Designer &lpar;Anywhere in the World&rpar;](https://forms.gle/PEbQ7cXAfFc7bpXs9)
+- [Photoshop for Text](https://stephanango.com/photoshop-for-text)
 - [We rewrote a high-performance database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
 - [The AT Protocol](https://atproto.com)
 - [Gain of Function? Not So Fast](https://www.science.org/content/blog-post/gain-function-not-so-fast)
-- [2/3 of kids bike to school in Assen because it was designed that way](http://www.aviewfromthecyclepath.com/2013/09/the-school-run-in-assen.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
