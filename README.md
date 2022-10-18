@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sound](https://ciechanow.ski/sound/)
+- [iPad 10.9](https://www.apple.com/ipad-10.9/)
+- [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752)
 - [CDE 2.5.1](https://sourceforge.net/p/cdesktopenv/code/ci/503d09172b96d1679e049b3e04d8935db7ad0c96/)
 - [New iPad Pro with M2](https://www.apple.com/ipad-pro/)
-- [Apple unveils completely redesigned iPad in four vibrant colors](https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/)
-- [iPad Pro M2](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/)
-- [Phantom Forests: Why Ambitious Tree Planting Projects Are Failing](https://e360.yale.edu/features/phantom-forests-tree-planting-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
