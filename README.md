@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Card Skimming Disproportionally Affects Those Most in Need](https://krebsonsecurity.com/2022/10/how-card-skimming-disproportionally-affects-those-most-in-need/)
-- [With teachers in short supply, states ease job requirements](https://apnews.com/article/science-texas-alabama-race-and-ethnicity-0d83fcc256ec2efef37b0d5c24f418a5)
-- [Starlink for Aviation](https://www.starlink.com/aviation)
-- [Ask HN: Am I getting older or did typing on the iPhone become unbearable?](https://news.ycombinator.com/item?id=33256168)
-- [Just for Fun. No, really.](https://justforfunnoreally.dev)
+- [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
+- [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
+- [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
+- [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?a)
+- [Focus Is Saying No to Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
