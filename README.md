@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Text generator: an Obsidian plugin that generates text using GPT-3 &lpar;OpenAI&rpar;](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+- [Substack is hiring Data Analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
+- [My Initial Thoughts on Bluesky&#39;s AT Protocol](https://havenweb.org/2022/10/19/bluesky.html)
+- [How a med student made the best AI writing assistant and got acquired by Jasper](https://theexitgame.substack.com/p/shortly-the-ai-powered-writing-assistant)
+- [Ask HN: How did Microsoft email services became the primary source for spam?](https://news.ycombinator.com/item?id=33264467)
 - [Kill Bill – Open-Source Subscription Billing and Payments Platform](https://github.com/killbill/killbill)
-- [The Smash and Grab of Kroger-Albertsons](https://mattstoller.substack.com/p/the-smash-and-grab-of-kroger-albertsons)
-- [Replit Mobile App](https://blog.replit.com/mobile-app)
-- [It’s Time to Repeal the Jones Act](https://www.discoursemagazine.com/economics/2022/10/18/its-time-to-repeal-the-jones-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
