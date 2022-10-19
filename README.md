@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: How to contribute to open source as a junior engineer](https://news.ycombinator.com/item?id=33268414)
-- [Sebastian Thrun&#39;s PhD Genealogy](http://robots.stanford.edu/genealogy)
+- [A Geometrically Natural Uncomputable Function &lpar;2008&rpar;](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
+- [Open source is democratizing video game development](https://github.com/readme/featured/open-source-democratizing-video-games)
+- [Glamorous Toolkit: Moldable development environment](https://gtoolkit.com/)
+- [My PhD Genealogy](http://robots.stanford.edu/genealogy)
 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
-- [Wait vs. Interrupt Culture](http://benjaminrosshoffman.com/wait-vs-interrupt-culture/)
-- [How to use a watch as a compass](https://www.citizenwatch-global.com/support/exterior/direction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
