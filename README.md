@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Vision of Metascience](https://scienceplusplus.org/metascience/)
-- [What&#39;s the difference between USB 3.0, 3.1 Gen 1 and 3.2 Gen 1x1? Just the name](https://www.technewstoday.com/usb-3-0-vs-3-1-vs-3-2/)
-- [Lost something? Search through 91.7M files from the 80s, 90s, and 2000s](https://arstechnica.com/gaming/2022/10/lost-something-search-through-91-7-million-files-from-the-80s-90s-and-2000s/)
-- [Aquila: A unified, low-latency fabric for datacenter networks](https://www.usenix.org/conference/nsdi22/presentation/gibson)
-- [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12)
+- [Card Skimming Disproportionally Affects Those Most in Need](https://krebsonsecurity.com/2022/10/how-card-skimming-disproportionally-affects-those-most-in-need/)
+- [With teachers in short supply, states ease job requirements](https://apnews.com/article/science-texas-alabama-race-and-ethnicity-0d83fcc256ec2efef37b0d5c24f418a5)
+- [Starlink for Aviation](https://www.starlink.com/aviation)
+- [Ask HN: Am I getting older or did typing on the iPhone become unbearable?](https://news.ycombinator.com/item?id=33256168)
+- [Just for Fun. No, really.](https://justforfunnoreally.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
