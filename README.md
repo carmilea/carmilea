@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sebastian Thrun&#39;s PhD Genealogy](http://robots.stanford.edu/genealogy)
 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
+- [Wait vs. Interrupt Culture](http://benjaminrosshoffman.com/wait-vs-interrupt-culture/)
 - [How to use a watch as a compass](https://www.citizenwatch-global.com/support/exterior/direction.html)
 - [NASA’s Webb takes star-filled portrait of Pillars of Creation](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation/)
-- [Bespoke silicon rattles chip design ecosystem](https://semiengineering.com/bespoke-silicon-rattles-chip-design-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
