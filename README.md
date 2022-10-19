@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Speed, Scale &amp; Savings: See How SingleStoreDB Stacks Up Against the Competition](https://www.youtube.com/watch?v=APKWtIgUEUI)
+- [Transactional &amp; Analytical Workloads: A GigaOm Database Benchmark Report](https://www.youtube.com/watch?v=JnUkaTiHwO4)
 - [CNBC Asia Street Signs: SingleStore CEO Raj Verma on Series F-2 Financing](https://www.youtube.com/watch?v=_bvmsTXZ1rw)
 - [SingleStore Snackable: What Makes SingleStoreDB Fast?](https://www.youtube.com/watch?v=ZKaZ89-Yijg)
 - [SingleStore | Engineering Livestream | September](https://www.youtube.com/watch?v=RCZnIHm2MiQ)
-- [SingleStore | Community Call | September](https://www.youtube.com/watch?v=AbEldMbHmZA)
-- [Big Data Journey: Unifying and Modernizing Databases With Imperva and SingleStore](https://www.youtube.com/watch?v=-9gRP5Qw5IA)
 <!-- YOUTUBE:END -->
 
 
