@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to Repeal the Jones Act](https://www.discoursemagazine.com/economics/2022/10/18/its-time-to-repeal-the-jones-act/)
+- [The Telefunken RA 770 Analog Computer](http://www.analogmuseum.org/english/collection/telefunken/ra770/)
 - [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer)
 - [The Proton, the ‘Most Complicated Thing’ Imaginable](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Remote work may have fueled a baby boom among U.S. women](https://www.axios.com/2022/10/19/remote-work-baby-boom-america)
-- [Ask HN: Apps that are built with Git as the back end?](https://news.ycombinator.com/item?id=33261862)
-- [Brave browser now blocks cookie banners](https://brave.com/privacy-updates/21-blocking-cookie-notices/)
+- [Medical Campaign Uses GNU Health, OpenSUSE](https://news.opensuse.org/2022/10/19/med-campaign-uses-gnuhealth-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
