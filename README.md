@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bespoke Silicon Rattles Chip Design Ecosystem](https://semiengineering.com/bespoke-silicon-rattles-chip-design-ecosystem/)
-- [Why Most Published Research Findings Are False &lpar;2005&rpar;](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-- [Substack is hiring Data Analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
-- [My Initial Thoughts on Bluesky&#39;s AT Protocol](https://havenweb.org/2022/10/19/bluesky.html)
-- [The Soviet Union’s Nuclear Icebreakers](https://asianometry.substack.com/p/the-soviet-unions-nuclear-icebreakers)
+- [James Webb Telescope spies &#39;Pillars of Creation&#39;](https://www.bbc.com/news/science-environment-63319814)
+- [Pillars of Creation &lpar;NIRCam Image&rpar;](https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM)
+- [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
+- [California’s greenhouse gas reductions could be wiped out by 2020 wildfires](https://ph.ucla.edu/news/press-release/2022/oct/ucla-led-study-finds-california-s-greenhouse-gas-reductions-could-be)
+- [Opinion masquerades as legitimate news on Google News](https://misinfocon.com/opinion-masquerades-as-legitimate-news-on-google-news-3c25848dc005?gi=b44dc54025c1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
