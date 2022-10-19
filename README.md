@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China allegedly dumps bad chips on Russia](https://www.theregister.com/2022/10/18/russia_china_semiconductro_failure_rates/)
-- [Ask HN: How to deal with regret of not having kids](https://news.ycombinator.com/item?id=33259414)
-- [How Faithful Is Amazon’s Rings of Power to JRR Tolkien’s Books?](https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/)
-- [Tell HN: The regret of parenting and how to handle it](https://news.ycombinator.com/item?id=33258925)
-- [I asked Signal motivations for SMS removal](https://news.ycombinator.com/item?id=33258684)
+- [Write Better Error Messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+- [Ask HN: How to transition from education to Edtech?](https://news.ycombinator.com/item?id=33261119)
+- [Build an early-stage startup](https://learn.microsoft.com/en-us/training/paths/startups/)
+- [Ask HN: Has anyone managed to find enjoyment in their work after burnout?](https://news.ycombinator.com/item?id=33260525)
+- [Show HN: I made a simple platform to find founders and buy side-projects](https://news.ycombinator.com/item?id=33260380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
