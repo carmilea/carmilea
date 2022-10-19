@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to deal with regret of not having kids](https://news.ycombinator.com/item?id=33259414)
 - [Tell HN: The regret of parenting and how to handle it](https://news.ycombinator.com/item?id=33258925)
 - [Tell HN: I asked Signal motivations for SMS removal](https://news.ycombinator.com/item?id=33258684)
 - [Five hours&#39; sleep is tipping point for bad health](https://www.bbc.co.uk/news/health-63284305)
 - [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
-- [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
