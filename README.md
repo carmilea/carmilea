@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: How to contribute to open source as a junior engineer](https://news.ycombinator.com/item?id=33268414)
 - [Sebastian Thrun&#39;s PhD Genealogy](http://robots.stanford.edu/genealogy)
 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 - [Wait vs. Interrupt Culture](http://benjaminrosshoffman.com/wait-vs-interrupt-culture/)
 - [How to use a watch as a compass](https://www.citizenwatch-global.com/support/exterior/direction.html)
-- [NASA’s Webb takes star-filled portrait of Pillars of Creation](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
