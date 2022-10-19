@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Five hours&#39; sleep is tipping point for bad health](https://www.bbc.co.uk/news/health-63284305)
 - [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
 - [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
 - [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
 - [Focus is saying no to good ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
-- [Ask HN: What not-profit-seeking project are you tinkering with this week?](https://news.ycombinator.com/item?id=33256412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
