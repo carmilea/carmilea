@@ -54,8 +54,8 @@
 - [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
 - [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
 - [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
-- [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?a)
-- [Focus Is Saying No to Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
+- [Focus is saying no to good ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
+- [Ask HN: What not-profit-seeking project are you tinkering with this week?](https://news.ycombinator.com/item?id=33256412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
