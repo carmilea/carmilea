@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Telescope spies &#39;Pillars of Creation&#39;](https://www.bbc.com/news/science-environment-63319814)
-- [Pillars of Creation &lpar;NIRCam Image&rpar;](https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM)
+- [Sebastian Thrun&#39;s PhD Genealogy](http://robots.stanford.edu/genealogy)
 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
-- [California’s greenhouse gas reductions could be wiped out by 2020 wildfires](https://ph.ucla.edu/news/press-release/2022/oct/ucla-led-study-finds-california-s-greenhouse-gas-reductions-could-be)
-- [Opinion masquerades as legitimate news on Google News](https://misinfocon.com/opinion-masquerades-as-legitimate-news-on-google-news-3c25848dc005?gi=b44dc54025c1)
+- [How to use a watch as a compass](https://www.citizenwatch-global.com/support/exterior/direction.html)
+- [NASA’s Webb takes star-filled portrait of Pillars of Creation](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation/)
+- [Bespoke silicon rattles chip design ecosystem](https://semiengineering.com/bespoke-silicon-rattles-chip-design-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
