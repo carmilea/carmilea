@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bespoke Silicon Rattles Chip Design Ecosystem](https://semiengineering.com/bespoke-silicon-rattles-chip-design-ecosystem/)
+- [Why Most Published Research Findings Are False &lpar;2005&rpar;](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 - [Substack is hiring Data Analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
 - [My Initial Thoughts on Bluesky&#39;s AT Protocol](https://havenweb.org/2022/10/19/bluesky.html)
-- [How a med student made the best AI writing assistant and got acquired by Jasper](https://theexitgame.substack.com/p/shortly-the-ai-powered-writing-assistant)
-- [Ask HN: How did Microsoft email services became the primary source for spam?](https://news.ycombinator.com/item?id=33264467)
-- [Kill Bill – Open-Source Subscription Billing and Payments Platform](https://github.com/killbill/killbill)
+- [The Soviet Union’s Nuclear Icebreakers](https://asianometry.substack.com/p/the-soviet-unions-nuclear-icebreakers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
