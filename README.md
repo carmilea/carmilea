@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Better Error Messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
-- [Ask HN: How to transition from education to Edtech?](https://news.ycombinator.com/item?id=33261119)
-- [Build an early-stage startup](https://learn.microsoft.com/en-us/training/paths/startups/)
-- [Ask HN: Has anyone managed to find enjoyment in their work after burnout?](https://news.ycombinator.com/item?id=33260525)
-- [Show HN: I made a simple platform to find founders and buy side-projects](https://news.ycombinator.com/item?id=33260380)
+- [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer)
+- [The Proton, the ‘Most Complicated Thing’ Imaginable](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Remote work may have fueled a baby boom among U.S. women](https://www.axios.com/2022/10/19/remote-work-baby-boom-america)
+- [Ask HN: Apps that are built with Git as the back end?](https://news.ycombinator.com/item?id=33261862)
+- [Brave browser now blocks cookie banners](https://brave.com/privacy-updates/21-blocking-cookie-notices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
