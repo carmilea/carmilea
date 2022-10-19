@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Text generator: an Obsidian plugin that generates text using GPT-3 &lpar;OpenAI&rpar;](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+- [Kill Bill – Open-Source Subscription Billing and Payments Platform](https://github.com/killbill/killbill)
+- [The Smash and Grab of Kroger-Albertsons](https://mattstoller.substack.com/p/the-smash-and-grab-of-kroger-albertsons)
+- [Replit Mobile App](https://blog.replit.com/mobile-app)
 - [It’s Time to Repeal the Jones Act](https://www.discoursemagazine.com/economics/2022/10/18/its-time-to-repeal-the-jones-act/)
-- [The Telefunken RA 770 Analog Computer](http://www.analogmuseum.org/english/collection/telefunken/ra770/)
-- [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer)
-- [The Proton, the ‘Most Complicated Thing’ Imaginable](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Medical Campaign Uses GNU Health, OpenSUSE](https://news.opensuse.org/2022/10/19/med-campaign-uses-gnuhealth-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
