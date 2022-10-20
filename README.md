@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Scanning Me](https://stopscanningme.eu/en/)
+- [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
+- [Why our Smart Video Doorbell will not be able to support HomeKit Secure Video](https://get.netatmo.com/hksv-en/)
 - [Release &lpar;YC W20&rpar; Is Hiring – Senior Cloud Infrastructure Engineer](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
 - [ByteDance planned to use TikTok to surveil specific American citizens](https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/)
-- [Barcelona-style “superblocks” could make cities greener and less car-centric](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/)
-- [Stability.ai sent a take down request to Runway ML&#39;s SD v1.5 citing IP Leak](https://huggingface.co/runwayml/stable-diffusion-v1-5/discussions/1)
-- [Endonuclease fingerprint indicates a synthetic origin of SARS-CoV-2?](https://www.biorxiv.org/content/10.1101/2022.10.18.512756v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
