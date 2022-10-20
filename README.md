@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AntiX-22 Released](https://antixlinux.com/antix-22-released/)
 - [Pig War &lpar;1859&rpar;](https://en.wikipedia.org/wiki/Pig_War_(1859))
 - [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
 - [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
 - [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
-- [Pocket Casts Mobile Apps Are Now Open Source](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
