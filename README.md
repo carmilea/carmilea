@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior Cloud Infrastructure Engineer](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
+- [ByteDance planned to use TikTok to surveil specific American citizens](https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/)
 - [Barcelona-style “superblocks” could make cities greener and less car-centric](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/)
-- [It was all downhill after the Cuecat](https://pluralistic.net/2022/10/20/benevolent-dictators/#felony-contempt-of-business-model)
-- [Another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
-- [Washington Officials Traded Stocks with Exquisite Timing](https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404)
-- [Too good to be true: when overwhelming evidence fails to convince](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841483/)
+- [Stability.ai sent a take down request to Runway ML&#39;s SD v1.5 citing IP Leak](https://huggingface.co/runwayml/stable-diffusion-v1-5/discussions/1)
+- [Endonuclease fingerprint indicates a synthetic origin of SARS-CoV-2?](https://www.biorxiv.org/content/10.1101/2022.10.18.512756v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
