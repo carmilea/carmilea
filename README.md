@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot under fire as dev claims it emits &#39;large chunks of my copyrighted code&#39;](https://devclass.com/2022/10/17/github-copilot-under-fire-as-dev-claims-it-emits-large-chunks-of-my-copyrighted-code/)
+- [Most people on antidepressants don’t need them](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them)
 - [New research suggests our brains use quantum computation](https://phys.org/news/2022-10-brains-quantum.html)
 - [Traff: An open source format/service for live road traffic updates](https://gitlab.com/traffxml)
 - [Demodesk is hiring a product engineer in EU time zones](https://demodesk.com/careers)
-- [CarperAI announces plans for the first open-source “instruction-tuned” LM](https://carper.ai/instruct-gpt-announcement/)
-- [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
