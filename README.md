@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drone footage reveals The Line megacity under construction in Saudi Arabia](https://www.dezeen.com/2022/10/19/line-megacity-under-construction-saudi-arabia-drone/)
+- [Demodesk is hiring a full-stack product engineer](https://demodesk.com/careers)
+- [CarperAI announces plans for the first open-source “instruction-tuned” LM](https://carper.ai/instruct-gpt-announcement/)
 - [AntiX-22 Released](https://antixlinux.com/antix-22-released/)
-- [Pig War &lpar;1859&rpar;](https://en.wikipedia.org/wiki/Pig_War_(1859))
 - [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
 - [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
 <!-- BLOG-POST-LIST:END -->
