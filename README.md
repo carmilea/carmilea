@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CT scans of batteries, including the Tesla Model Y lithium ion cell](https://www.scanofthemonth.com/scans/batteries)
-- [India fines Google $162M for anti-competitive practices](https://techcrunch.com/2022/10/20/india-fines-google-162-million-for-anti-competitive-practices-on-android/)
-- [Canonical releases Ubuntu 22.10 Kinetic Kudu](https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu)
-- [DevOps Is Bullshit](https://blog.massdriver.cloud/devops-is-bullshit)
-- [Cloud Costs Are in a Bubble](https://www.the-investing-desk.com/cloud-costs-are-in-a-bubble/)
+- [Nabla – Isometric Color Font](https://nabla.typearture.com/)
+- [Diabetes, arthritis, and multiple sclerosis trace roots back to the Black Death](https://studyfinds.org/autoimmune-disease-black-death/)
+- [MagicDNS is Generally Available](https://tailscale.com/blog/magicdns/)
+- [DaVinci Resolve for iPad](https://www.blackmagicdesign.com/media/release/20221020-02)
+- [BSD-XFCE Installs macOS-Like XFCE Enviroment on FreeBSD](https://github.com/Wamphyre/BSD-XFCE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
