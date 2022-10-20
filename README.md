@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Liz Truss resigns as UK prime minister](https://www.bbc.co.uk/news/live/uk-politics-63309400)
-- [Senior Solidity Developer at Jasmine Energy &lpar;YC S22&rpar;](https://www.ycombinator.com/companies/jasmine/jobs/AZ807Dr-senior-solidity-developer-at-jasmine-energy-yc-s22)
-- [Your account is permanently suspended](https://twitter.com/benthompson/status/1583059222555930629)
-- [Firefox Beta for Android now supports custom add-on collections](https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/)
-- [Copilot under fire as dev claims it emits &#39;large chunks of my copyrighted code&#39;](https://devclass.com/2022/10/17/github-copilot-under-fire-as-dev-claims-it-emits-large-chunks-of-my-copyrighted-code/)
+- [San Francisco to Spend $1.7M to Build a Single Public Toilet](https://news.yahoo.com/flushing-money-san-francisco-spend-154446848.html)
+- [Open Core Companies Are Not Incentivized to Make Their Projects Good](https://www.plural.sh/blog/open-core-companies/)
+- [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
+- [OpenBSD 7.2](https://www.openbsd.org/72.html)
+- [Show HN: Record voice memo, receive transcription in email](https://whispermemos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
