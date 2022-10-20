@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New research suggests our brains use quantum computation](https://phys.org/news/2022-10-brains-quantum.html)
+- [Traff: An open source format/service for live road traffic updates](https://gitlab.com/traffxml)
 - [Demodesk is hiring a product engineer in EU time zones](https://demodesk.com/careers)
 - [CarperAI announces plans for the first open-source “instruction-tuned” LM](https://carper.ai/instruct-gpt-announcement/)
 - [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
-- [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
-- [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
