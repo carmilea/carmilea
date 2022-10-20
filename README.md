@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hans Niemann Suing Magnus Carlsen, Chess.com, and Hikaru Nakamura](https://www.courtlistener.com/docket/65592749/niemann-v-carlsen/)
 - [Yet another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
 - [Washington Officials Traded Stocks with Exquisite Timing](https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404)
 - [Too good to be true: when overwhelming evidence fails to convince](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841483/)
 - [New motorcycle lighting design could save lives](https://news.rice.edu/news/2022/new-motorcycle-lighting-design-could-save-lives)
-- [Battle with Bots Prompts Mass Purge of Amazon, Apple Employee Accounts on Linke](https://krebsonsecurity.com/2022/10/battle-with-bots-prompts-mass-purge-of-amazon-apple-employee-accounts-on-linkedin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
