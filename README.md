@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demodesk is hiring a full-stack product engineer](https://demodesk.com/careers)
+- [Demodesk is hiring a product engineer in EU time zones](https://demodesk.com/careers)
 - [CarperAI announces plans for the first open-source “instruction-tuned” LM](https://carper.ai/instruct-gpt-announcement/)
-- [AntiX-22 Released](https://antixlinux.com/antix-22-released/)
 - [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
 - [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
+- [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
