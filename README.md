@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence &lpar;YC S21&rpar; Is Hiring Engineers to Build a Web Framework for Data Teams](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
+- [What&#39;s the Deal with Zkapps?](https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/)
+- [Texas Roofer Arrested in Florida for Helping Hurricane Victims](https://reason.com/2022/10/12/texas-roofer-arrested-in-florida-for-helping-hurricane-victims/)
+- [Ask HN: How to overcome job search exhaustion?](https://news.ycombinator.com/item?id=33276963)
 - [Nabla – Isometric Color Font](https://nabla.typearture.com/)
-- [Diabetes, arthritis, and multiple sclerosis trace roots back to the Black Death](https://studyfinds.org/autoimmune-disease-black-death/)
-- [MagicDNS is Generally Available](https://tailscale.com/blog/magicdns/)
-- [DaVinci Resolve for iPad](https://www.blackmagicdesign.com/media/release/20221020-02)
-- [BSD-XFCE Installs macOS-Like XFCE Enviroment on FreeBSD](https://github.com/Wamphyre/BSD-XFCE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
