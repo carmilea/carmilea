@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence &lpar;YC S21&rpar; Is Hiring Engineers to Build a Web Framework for Data Teams](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
-- [What&#39;s the Deal with Zkapps?](https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/)
-- [Texas Roofer Arrested in Florida for Helping Hurricane Victims](https://reason.com/2022/10/12/texas-roofer-arrested-in-florida-for-helping-hurricane-victims/)
-- [Ask HN: How to overcome job search exhaustion?](https://news.ycombinator.com/item?id=33276963)
-- [Nabla – Isometric Color Font](https://nabla.typearture.com/)
+- [Yet another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
+- [Washington Officials Traded Stocks with Exquisite Timing](https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404)
+- [Too good to be true: when overwhelming evidence fails to convince](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841483/)
+- [New motorcycle lighting design could save lives](https://news.rice.edu/news/2022/new-motorcycle-lighting-design-could-save-lives)
+- [Battle with Bots Prompts Mass Purge of Amazon, Apple Employee Accounts on Linke](https://krebsonsecurity.com/2022/10/battle-with-bots-prompts-mass-purge-of-amazon-apple-employee-accounts-on-linkedin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
