@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hans Niemann Suing Magnus Carlsen, Chess.com, and Hikaru Nakamura](https://www.courtlistener.com/docket/65592749/niemann-v-carlsen/)
-- [Yet another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
+- [Barcelona-style “superblocks” could make cities greener and less car-centric](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/)
+- [It was all downhill after the Cuecat](https://pluralistic.net/2022/10/20/benevolent-dictators/#felony-contempt-of-business-model)
+- [Another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
 - [Washington Officials Traded Stocks with Exquisite Timing](https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404)
 - [Too good to be true: when overwhelming evidence fails to convince](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841483/)
-- [New motorcycle lighting design could save lives](https://news.rice.edu/news/2022/new-motorcycle-lighting-design-could-save-lives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
