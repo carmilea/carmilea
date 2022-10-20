@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Geometrically Natural Uncomputable Function &lpar;2008&rpar;](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
-- [Open source is democratizing video game development](https://github.com/readme/featured/open-source-democratizing-video-games)
-- [Glamorous Toolkit: Moldable development environment](https://gtoolkit.com/)
-- [My PhD Genealogy](http://robots.stanford.edu/genealogy)
-- [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
+- [Pocket Casts Mobile Apps Are Now Open Source](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)
+- [The Mystery of 355/113 &lpar;2010&rpar;](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
+- [Rikuo: Harley-Davidson and the Birth of the Japanese Motorcycle &lpar;1978&rpar;](https://magazine.cycleworld.com/article/1978/04/01/rikuo)
+- [PostgresML is 8-40x faster than Python HTTP microservices](https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/)
+- [NIH blocks access to genetics database if research enters “forbidden” territory](https://www.city-journal.org/nih-blocks-access-to-genetics-database)
 <!-- BLOG-POST-LIST:END -->
 
 ---
