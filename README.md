@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Liz Truss resigns as UK prime minister](https://www.bbc.co.uk/news/live/uk-politics-63309400)
+- [Senior Solidity Developer at Jasmine Energy &lpar;YC S22&rpar;](https://www.ycombinator.com/companies/jasmine/jobs/AZ807Dr-senior-solidity-developer-at-jasmine-energy-yc-s22)
+- [Your account is permanently suspended](https://twitter.com/benthompson/status/1583059222555930629)
+- [Firefox Beta for Android now supports custom add-on collections](https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/)
 - [Copilot under fire as dev claims it emits &#39;large chunks of my copyrighted code&#39;](https://devclass.com/2022/10/17/github-copilot-under-fire-as-dev-claims-it-emits-large-chunks-of-my-copyrighted-code/)
-- [Most people on antidepressants don’t need them](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them)
-- [New research suggests our brains use quantum computation](https://phys.org/news/2022-10-brains-quantum.html)
-- [Traff: An open source format/service for live road traffic updates](https://gitlab.com/traffxml)
-- [Demodesk is hiring a product engineer in EU time zones](https://demodesk.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
