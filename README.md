@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco to Spend $1.7M to Build a Single Public Toilet](https://news.yahoo.com/flushing-money-san-francisco-spend-154446848.html)
-- [Open Core Companies Are Not Incentivized to Make Their Projects Good](https://www.plural.sh/blog/open-core-companies/)
-- [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
-- [OpenBSD 7.2](https://www.openbsd.org/72.html)
-- [Show HN: Record voice memo, receive transcription in email](https://whispermemos.com/)
+- [CT scans of batteries, including the Tesla Model Y lithium ion cell](https://www.scanofthemonth.com/scans/batteries)
+- [India fines Google $162M for anti-competitive practices](https://techcrunch.com/2022/10/20/india-fines-google-162-million-for-anti-competitive-practices-on-android/)
+- [Canonical releases Ubuntu 22.10 Kinetic Kudu](https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu)
+- [DevOps Is Bullshit](https://blog.massdriver.cloud/devops-is-bullshit)
+- [Cloud Costs Are in a Bubble](https://www.the-investing-desk.com/cloud-costs-are-in-a-bubble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
