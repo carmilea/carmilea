@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Current state of AV1 codec playback support – Oct &#39;22](https://bitmovin.com/av1-playback-support/)
+- [A Bluetooth Low Energy &lpar;BLE&rpar; soil moisture sensor](https://github.com/rbaron/b-parasite)
 - [Stop Scanning Me](https://stopscanningme.eu/en/)
 - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
 - [Why our Smart Video Doorbell will not be able to support HomeKit Secure Video](https://get.netatmo.com/hksv-en/)
-- [Release &lpar;YC W20&rpar; Is Hiring – Senior Cloud Infrastructure Engineer](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
-- [ByteDance planned to use TikTok to surveil specific American citizens](https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
