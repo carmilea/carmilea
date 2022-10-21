@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
+- [Nearly Half of San Franciscans Have Been Victims of Theft, New Poll Says](https://sfstandard.com/criminal-justice/nearly-half-of-san-franciscans-have-been-victims-of-theft-new-poll-says/)
 - [Current state of AV1 codec playback support – Oct &#39;22](https://bitmovin.com/av1-playback-support/)
-- [A Bluetooth Low Energy &lpar;BLE&rpar; soil moisture sensor](https://github.com/rbaron/b-parasite)
-- [Stop Scanning Me](https://stopscanningme.eu/en/)
-- [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
-- [Why our Smart Video Doorbell will not be able to support HomeKit Secure Video](https://get.netatmo.com/hksv-en/)
+- [Amazon&#39;s Jeff Bezos in economy warning: &#39;Batten down hatches&#39;](https://www.bbc.com/news/business-63319010)
+- [Size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
