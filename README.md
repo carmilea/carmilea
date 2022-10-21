@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Wisdom for Red Hat Ansible](https://research.ibm.com/blog/ai-for-code-project-wisdom-red-hat)
+- [The Canon Cat and the Mac That Steve Jobs Killed](https://reproof.app/blog/on-designing-a-more-humane-computer)
 - [EKS Security Checklist: 10 Best Practices for a Secure Cluster](https://cast.ai/blog/eks-security-checklist-10-best-practices-for-a-secure-cluster/)
 - [Counting in the Dark](https://inference-review.com/article/counting-in-the-dark)
 - [What Did Mary Know? A thought experiment about consciousness &lpar;2013&rpar;](https://philosophynow.org/issues/99/What_Did_Mary_Know)
-- [Living Descendants of Mark Anthony](https://antigonejournal.com/2022/10/descendants-mark-antony/)
-- [Hyrum&#39;s Law](https://www.hyrumslaw.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
