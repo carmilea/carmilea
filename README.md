@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing a GitHub repo is a ton of work](https://codeofhonor.substack.com/p/securing-a-github-repo-is-a-ton-of)
+- [Hyrum&#39;s Law](https://www.hyrumslaw.com/)
 - [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
 - [Show HN: I&#39;m trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
-- [The State of AV1 Playback Support](https://bitmovin.com/av1-playback-support/)
-- [Apparent size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
