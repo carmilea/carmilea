@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where would I find out about leasing land to telcos for 5G?](https://news.ycombinator.com/item?id=33292425)
+- [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
+- [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 - [AI models that predict disease are not as accurate as reports might suggest](https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/)
 - [Thanks to the Israeli accessibility law, I have to delete my websites](https://lifemichael.com/en/the-israeli-books-end-of-life-thanks-to-israeli-accessibility-law/)
-- [The Commodordion](https://linusakesson.net/commodordion/index.php)
-- [Replit &lpar;YC W18&rpar; is hiring engineers to make programming more accessible](https://replit.com/careers)
-- [Webinar Recap: Deriving Real-Time Business Value from Your Data](https://www.singlestore.com/blog/deriving-real-time-business-value-dresner-singlestoredb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
