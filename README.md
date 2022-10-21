@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where would I find out about leasing land to telcos for 5G?](https://news.ycombinator.com/item?id=33292425)
+- [Fractional &lpar;YC W21&rpar; Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
 - [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
 - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 - [AI models that predict disease are not as accurate as reports might suggest](https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/)
