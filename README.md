@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experiments Spell Doom for Decades-Old Explanation of Quantum Weirdness](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
 - [Project Wisdom for Red Hat Ansible](https://research.ibm.com/blog/ai-for-code-project-wisdom-red-hat)
+- [Ask HN: How to avoid being a pragmatic programmer?](https://news.ycombinator.com/item?id=33285811)
 - [The Canon Cat and the Mac That Steve Jobs Killed](https://reproof.app/blog/on-designing-a-more-humane-computer)
 - [EKS Security Checklist: 10 Best Practices for a Secure Cluster](https://cast.ai/blog/eks-security-checklist-10-best-practices-for-a-secure-cluster/)
-- [Counting in the Dark](https://inference-review.com/article/counting-in-the-dark)
-- [Hyrum&#39;s Law](https://www.hyrumslaw.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
