@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Sues Google for Collecting Biometric Data Without Consent](https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html)
+- [People Staring at Computers](https://kylemcdonald.net/psac/)
 - [Starlink signals can be reverse-engineered to work like GPS](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
 - [Show HN: Restfox – Open source lightweight alternative to Postman](https://restfox.dev)
 - [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Front End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/nWWR9aU-senior-frontend-engineer-core)
-- [Experiments Spell Doom for Decades-Old Explanation of Quantum Weirdness](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
-- [NimConf 2022 – Nim Online Conference](https://nim-lang.org/blog/2022/10/21/nim-conference.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
