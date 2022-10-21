@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI models that predict disease are not as accurate as reports might suggest](https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/)
+- [Thanks to the Israeli accessibility law, I have to delete my websites](https://lifemichael.com/en/the-israeli-books-end-of-life-thanks-to-israeli-accessibility-law/)
+- [The Commodordion](https://linusakesson.net/commodordion/index.php)
 - [Replit &lpar;YC W18&rpar; is hiring engineers to make programming more accessible](https://replit.com/careers)
 - [Webinar Recap: Deriving Real-Time Business Value from Your Data](https://www.singlestore.com/blog/deriving-real-time-business-value-dresner-singlestoredb)
-- [Ask HN: How bad is hiring going to be within the next year?](https://news.ycombinator.com/item?id=33289090)
-- [Blink-182 tickets are so expensive because Ticketmaster is a monopoly](https://www.vice.com/en/article/m7gx34/blink-182-tickets-are-so-expensive-because-ticketmaster-is-a-disastrous-monopoly-and-now-everyone-pays-ticket-broker-prices)
-- [Linux M1 GPU driver passes 99% of the dEQP-GLES2 compliance tests](https://twitter.com/linaasahi/status/1583444549648543744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
