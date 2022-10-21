@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Counting in the Dark](https://inference-review.com/article/counting-in-the-dark)
+- [What Did Mary Know? A thought experiment about consciousness &lpar;2013&rpar;](https://philosophynow.org/issues/99/What_Did_Mary_Know)
+- [Living Descendants of Mark Anthony](https://antigonejournal.com/2022/10/descendants-mark-antony/)
 - [Has the CIA Done More Harm Than Good?](https://www.newyorker.com/magazine/2022/10/10/has-the-cia-done-more-harm-than-good)
 - [Hyrum&#39;s Law](https://www.hyrumslaw.com/)
-- [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
-- [Show HN: I&#39;m trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
