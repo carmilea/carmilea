@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing a GitHub repo is a ton of work](https://codeofhonor.substack.com/p/securing-a-github-repo-is-a-ton-of)
+- [Has the CIA Done More Harm Than Good?](https://www.newyorker.com/magazine/2022/10/10/has-the-cia-done-more-harm-than-good)
 - [Hyrum&#39;s Law](https://www.hyrumslaw.com/)
 - [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
 - [Show HN: I&#39;m trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
