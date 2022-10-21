@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink signals can be reverse-engineered to work like GPS](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
+- [Show HN: Restfox – Open source lightweight alternative to Postman](https://restfox.dev)
+- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Front End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/nWWR9aU-senior-frontend-engineer-core)
 - [Experiments Spell Doom for Decades-Old Explanation of Quantum Weirdness](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
-- [Project Wisdom for Red Hat Ansible](https://research.ibm.com/blog/ai-for-code-project-wisdom-red-hat)
-- [Ask HN: How to avoid being a pragmatic programmer?](https://news.ycombinator.com/item?id=33285811)
-- [The Canon Cat and the Mac That Steve Jobs Killed](https://reproof.app/blog/on-designing-a-more-humane-computer)
-- [EKS Security Checklist: 10 Best Practices for a Secure Cluster](https://cast.ai/blog/eks-security-checklist-10-best-practices-for-a-secure-cluster/)
+- [NimConf 2022 – Nim Online Conference](https://nim-lang.org/blog/2022/10/21/nim-conference.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
