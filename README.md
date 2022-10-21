@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [[r]evolution 2022: Breaking Data Barriers to Machine Learning With MindsDB](https://www.youtube.com/watch?v=AOu1ENqXUh0)
-- [Speed, Scale, Savings &amp; Simplicity: See How SingleStoreDB Stacks Up Against the Competition](https://www.youtube.com/watch?v=APKWtIgUEUI)
-- [Transactional &amp; Analytical Workloads: A GigaOm Database Benchmark Report](https://www.youtube.com/watch?v=JnUkaTiHwO4)
-- [CNBC Asia Street Signs: SingleStore CEO Raj Verma on Series F-2 Financing](https://www.youtube.com/watch?v=_bvmsTXZ1rw)
-- [SingleStore Snackable: What Makes SingleStoreDB Fast?](https://www.youtube.com/watch?v=ZKaZ89-Yijg)
+- [Arcules and Nucleus Security | Panel: IoT &amp; Cybersecurity](https://www.youtube.com/watch?v=tqCtdiK13O8)
+- [Bitwyre and Digital Asset Research &lpar;DAR&rpar; | Panel: Fintech Revolution](https://www.youtube.com/watch?v=WUjHHUhB56o)
+- [impact.com and Siemens | Panel: Powering Modern Data-Intensive Applications](https://www.youtube.com/watch?v=_4LPlKTH8sI)
+- [dbt Labs | Powering Real-Time Analytics](https://www.youtube.com/watch?v=Mzy504MoftI)
+- [IBM | IBM Data Fabric with SingleStore](https://www.youtube.com/watch?v=O2-vRAv4gTw)
 <!-- YOUTUBE:END -->
 
 
