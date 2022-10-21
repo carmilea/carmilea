@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Than 60k Rent-Stabilized Apartments Are Now Vacant](https://www.thecity.nyc/housing/2022/10/19/23411956/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing)
+- [Big Data Storage and Transfer Formats](https://berthub.eu/articles/posts/big-data-storage/)
+- [Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds](https://www.bmj.com/content/378/bmj.o1887)
 - [Fractional &lpar;YC W21&rpar; Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
-- [Elizabeth Holmes &#39;gave me gobbledygook answers&#39; back in 2014](https://finance.yahoo.com/news/ken-auletta-john-carreyrou-did-a-brilliant-job-of-exposing-elizabeth-holmes-201833760.html)
 - [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
-- [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
-- [Chromium Issue 31482: Huge amount of goats teleported](https://bugs.chromium.org/p/chromium/issues/detail?id=31482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
