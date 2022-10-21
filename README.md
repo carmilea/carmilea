@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Is Weed Sold? Circle K Gas Stations in Florida](https://www.bloomberg.com/news/articles/2022-10-19/where-is-weed-sold-circle-k-gas-stations-in-florida-in-2023)
-- [Blink-182 Tickets Are So Expensive Because Ticketmaster Is a Disastrous Monopoly](https://www.vice.com/en/article/m7gx34/blink-182-tickets-are-so-expensive-because-ticketmaster-is-a-disastrous-monopoly-and-now-everyone-pays-ticket-broker-prices)
+- [Replit &lpar;YC W18&rpar; is hiring engineers to make programming more accessible](https://replit.com/careers)
+- [Webinar Recap: Deriving Real-Time Business Value from Your Data](https://www.singlestore.com/blog/deriving-real-time-business-value-dresner-singlestoredb)
+- [Ask HN: How bad is hiring going to be within the next year?](https://news.ycombinator.com/item?id=33289090)
+- [Blink-182 tickets are so expensive because Ticketmaster is a monopoly](https://www.vice.com/en/article/m7gx34/blink-182-tickets-are-so-expensive-because-ticketmaster-is-a-disastrous-monopoly-and-now-everyone-pays-ticket-broker-prices)
 - [Linux M1 GPU driver passes 99% of the dEQP-GLES2 compliance tests](https://twitter.com/linaasahi/status/1583444549648543744)
-- [Against DNSSEC &lpar;2015&rpar;](https://sockpuppet.org/blog/2015/01/15/against-dnssec/)
-- [A global house-price slump is coming](https://www.economist.com/leaders/2022/10/20/a-global-house-price-slump-is-coming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
