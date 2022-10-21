@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EKS Security Checklist: 10 Best Practices for a Secure Cluster](https://cast.ai/blog/eks-security-checklist-10-best-practices-for-a-secure-cluster/)
 - [Counting in the Dark](https://inference-review.com/article/counting-in-the-dark)
 - [What Did Mary Know? A thought experiment about consciousness &lpar;2013&rpar;](https://philosophynow.org/issues/99/What_Did_Mary_Know)
 - [Living Descendants of Mark Anthony](https://antigonejournal.com/2022/10/descendants-mark-antony/)
-- [Has the CIA Done More Harm Than Good?](https://www.newyorker.com/magazine/2022/10/10/has-the-cia-done-more-harm-than-good)
 - [Hyrum&#39;s Law](https://www.hyrumslaw.com/)
 <!-- BLOG-POST-LIST:END -->
 
