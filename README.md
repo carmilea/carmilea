@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fractional &lpar;YC W21&rpar; Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
+- [Elizabeth Holmes &#39;gave me gobbledygook answers&#39; back in 2014](https://finance.yahoo.com/news/ken-auletta-john-carreyrou-did-a-brilliant-job-of-exposing-elizabeth-holmes-201833760.html)
 - [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
 - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
-- [AI models that predict disease are not as accurate as reports might suggest](https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/)
-- [Thanks to the Israeli accessibility law, I have to delete my websites](https://lifemichael.com/en/the-israeli-books-end-of-life-thanks-to-israeli-accessibility-law/)
+- [Chromium Issue 31482: Huge amount of goats teleported](https://bugs.chromium.org/p/chromium/issues/detail?id=31482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
