@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas Sues Google for Collecting Biometric Data Without Consent](https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html)
-- [People Staring at Computers](https://kylemcdonald.net/psac/)
-- [Starlink signals can be reverse-engineered to work like GPS](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
-- [Show HN: Restfox – Open source lightweight alternative to Postman](https://restfox.dev)
-- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Front End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/nWWR9aU-senior-frontend-engineer-core)
+- [Blink-182 Tickets Are So Expensive Because Ticketmaster Is a Disastrous Monopoly](https://www.vice.com/en/article/m7gx34/blink-182-tickets-are-so-expensive-because-ticketmaster-is-a-disastrous-monopoly-and-now-everyone-pays-ticket-broker-prices)
+- [Against DNSSEC &lpar;2015&rpar;](https://sockpuppet.org/blog/2015/01/15/against-dnssec/)
+- [Women are more critical of female toplessness than men, which may be expl &lpar;cont&rpar;](https://www.psypost.org/2022/10/women-are-more-critical-of-female-toplessness-than-men-which-may-be-explained-by-objectification-theory-64093)
+- [A global house-price slump is coming](https://www.economist.com/leaders/2022/10/20/a-global-house-price-slump-is-coming)
+- [Ask HN: Was anyone working at Apple during Steve Jobs&#39; return in 1997?](https://news.ycombinator.com/item?id=33288246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
