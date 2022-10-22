@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RISC in 2022](https://wiki.alopex.li/RiscIn2022)
+- [Comparing Floating-Point Numbers Is Tricky](https://bitbashing.io/comparing-floats.html)
 - [&#39;People were sucked into schemes&#39;: Inside Molly White’s campaign against crypto](https://www.protocol.com/fintech/molly-white-web3-crypto-skeptic)
 - [Refurb Weekend: PowerBook 1400](http://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
 - [Molasses: DIY Shazaam](https://github.com/eqy/molasses)
-- [A moonshot for coral breeding](https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/)
-- [Clojure 15th Anniversary: A Retrospective](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
