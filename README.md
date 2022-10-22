@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can&#39;t store Kanye West interview in your Gdrive for violation of hate speech](https://old.reddit.com/r/conspiracy/comments/yaam43/repost_cant_even_store_a_kanye_west_interview_on/)
 - [Single Board Computers Benchmarks](https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md)
 - [ImageSharp leaving the .NET Foundation due to licensing change](https://dotnetfoundation.org/blog/2022/10/20/imagesharpupdate)
 - [Show HN: Contact Form Delivery](https://sendfly.io)
-- [Leaving the Cloud](https://www.rework.fm/leaving-the-cloud/)
-- [Review of the Kinesis Advantage360 Professional](https://arslan.io/2022/10/22/review-of-the-kinesis-advantage360-professional/)
+- [How to Index Anything](https://www.linuxjournal.com/article/6652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
