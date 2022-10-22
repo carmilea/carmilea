@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some People Who Appear to Be in a Coma May Be Conscious](https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/)
+- [Some People Are Mosquito Magnets, and They&#39;re Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/)
 - [Tailwind CSS v3.2: revisiting my “feature creep” warning](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/)
 - [Remote work changed their lives. They’re not going back to the office](https://www.washingtonpost.com/technology/2022/10/21/permanent-remote-work-employees/)
-- [Colleges that ditched admission tests find it harder to fairly choose students](https://hechingerreport.org/proof-points-colleges-that-ditched-test-scores-for-admissions-find-its-harder-to-be-fair-in-choosing-students-researcher-says/)
 - [Incremental Parsing in Go](https://dev-nonsense.com/posts/incremental-parsing-in-go/)
-- [The Gervais Principle, or the Office According to “The Office” &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
