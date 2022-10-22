@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS v3.2: revisiting my “feature creep” warning](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/)
+- [Remote work changed their lives. They’re not going back to the office](https://www.washingtonpost.com/technology/2022/10/21/permanent-remote-work-employees/)
 - [Colleges that ditched admission tests find it harder to fairly choose students](https://hechingerreport.org/proof-points-colleges-that-ditched-test-scores-for-admissions-find-its-harder-to-be-fair-in-choosing-students-researcher-says/)
+- [Incremental Parsing in Go](https://dev-nonsense.com/posts/incremental-parsing-in-go/)
 - [The Gervais Principle, or the Office According to “The Office” &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
-- [Archery World Record: Most arrows through a keyhole](https://www.youtube.com/watch?v=67W4kONfL4Y)
-- [Getting Out of a Rut](https://news.ycombinator.com/item?id=33297934)
-- [Show HN: First open source data discovery and observability platform](https://github.com/opendatadiscovery/odd-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
