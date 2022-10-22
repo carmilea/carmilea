@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some People Who Appear to Be in a Coma May Be Conscious](https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/)
-- [Some People Are Mosquito Magnets, and They&#39;re Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/)
-- [Tailwind CSS v3.2: revisiting my “feature creep” warning](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/)
-- [Remote work changed their lives. They’re not going back to the office](https://www.washingtonpost.com/technology/2022/10/21/permanent-remote-work-employees/)
-- [Incremental Parsing in Go](https://dev-nonsense.com/posts/incremental-parsing-in-go/)
+- [Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324)
+- [Hyundai suspending two US suppliers because of child labor](https://www.reuters.com/business/autos-transportation/exclusive-korean-auto-giant-hyundai-investigating-child-labor-its-us-supply-2022-10-19/)
+- [Linux: What Can You Epoll?](https://darkcoding.net/software/linux-what-can-you-epoll/)
+- [CSS Dig](https://www.cssdig.com/)
+- [Roguelike Celebration 2022: a festival about roguelike game design and procedur](https://www.roguelike.club/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
