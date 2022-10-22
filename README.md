@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can&#39;t store Kanye West interview in your Gdrive for violation of hate speech](https://old.reddit.com/r/conspiracy/comments/yaam43/repost_cant_even_store_a_kanye_west_interview_on/)
+- [TikTok accused of covert plot to track specific US citizens&#39; every move](https://www.theregister.com/2022/10/21/tiktok_spying_allegations_bytedance/)
+- [10 Cents CH32V003 RISC-V MCU Offers 2KB SRAM, 16KB Flash](https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/)
 - [Single Board Computers Benchmarks](https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md)
 - [ImageSharp leaving the .NET Foundation due to licensing change](https://dotnetfoundation.org/blog/2022/10/20/imagesharpupdate)
 - [Show HN: Contact Form Delivery](https://sendfly.io)
-- [How to Index Anything](https://www.linuxjournal.com/article/6652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
