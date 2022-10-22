@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is it possible to have a structured work day in software dev?](https://news.ycombinator.com/item?id=33296415)
+- [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
 - [RISC in 2022](https://wiki.alopex.li/RiscIn2022)
 - [Comparing Floating-Point Numbers Is Tricky](https://bitbashing.io/comparing-floats.html)
 - [&#39;People were sucked into schemes&#39;: Inside Molly White’s campaign against crypto](https://www.protocol.com/fintech/molly-white-web3-crypto-skeptic)
-- [Refurb Weekend: PowerBook 1400](http://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
-- [Molasses: DIY Shazaam](https://github.com/eqy/molasses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
