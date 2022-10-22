@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Moonshot for Coral Breeding Was Successful](https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/)
+- [Clojure 15th Anniversary: A Retrospective](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/)
 - [A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](https://www.atlasobscura.com/articles/dog-telepathy)
 - [Smithsonian Open Access-download, share, and reuse Smithsonian’s images](https://www.si.edu/openaccess)
 - [Celebrating 5 Years of Pop _OS](https://blog.system76.com/post/celebrating-5-years-of-pop_os/)
-- [Butterfly wing patterns emerge from ancient ‘junk’ DNA](https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna)
-- [Identifying forum agitators, psyops and shills &lpar;2012&rpar;](https://edith.reisen/computers/security/forum_shills.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
