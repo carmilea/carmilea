@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok accused of covert plot to track specific US citizens&#39; every move](https://www.theregister.com/2022/10/21/tiktok_spying_allegations_bytedance/)
-- [10 Cents CH32V003 RISC-V MCU Offers 2KB SRAM, 16KB Flash](https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/)
-- [Single Board Computers Benchmarks](https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md)
-- [ImageSharp leaving the .NET Foundation due to licensing change](https://dotnetfoundation.org/blog/2022/10/20/imagesharpupdate)
-- [Show HN: Contact Form Delivery](https://sendfly.io)
+- [Pure Data as a plugin, with a new GUI](https://github.com/timothyschoen/PlugData)
+- [Add Accessibility to Your Website](https://github.com/ranbuch/accessibility)
+- [The Raspberry Pi 400 in My Bedroom](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
+- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
+- [10-cent CH32V003 RISC-V MCU offers 2KB SRAM, 16KB flash, SOP8 to QFN20 packages](https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
