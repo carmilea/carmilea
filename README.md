@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku alternatives with a free tier listed in a GitHub repo](https://github.com/Engagespot/heroku-free-alternatives)
+- [GitLab 15.5 released](https://about.gitlab.com/releases/2022/10/22/gitlab-15-5-released/)
+- [Why Is That Funny?](https://nautil.us/why-is-that-funny-243350/)
 - [Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324)
 - [Hyundai suspending two US suppliers because of child labor](https://www.reuters.com/business/autos-transportation/exclusive-korean-auto-giant-hyundai-investigating-child-labor-its-us-supply-2022-10-19/)
-- [Linux: What Can You Epoll?](https://darkcoding.net/software/linux-what-can-you-epoll/)
-- [CSS Dig](https://www.cssdig.com/)
-- [Roguelike Celebration 2022: a festival about roguelike game design and procedur](https://www.roguelike.club/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
