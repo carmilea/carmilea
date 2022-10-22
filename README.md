@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More Than 60k Rent-Stabilized Apartments Are Now Vacant](https://www.thecity.nyc/housing/2022/10/19/23411956/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing)
-- [Big Data Storage and Transfer Formats](https://berthub.eu/articles/posts/big-data-storage/)
-- [Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds](https://www.bmj.com/content/378/bmj.o1887)
-- [Fractional &lpar;YC W21&rpar; Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
-- [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
+- [A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](https://www.atlasobscura.com/articles/dog-telepathy)
+- [Smithsonian Open Access-download, share, and reuse Smithsonian’s images](https://www.si.edu/openaccess)
+- [Celebrating 5 Years of Pop _OS](https://blog.system76.com/post/celebrating-5-years-of-pop_os/)
+- [Butterfly wing patterns emerge from ancient ‘junk’ DNA](https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna)
+- [Identifying forum agitators, psyops and shills &lpar;2012&rpar;](https://edith.reisen/computers/security/forum_shills.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
