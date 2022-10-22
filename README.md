@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: HNers with MS &lpar;multiple sclerosis, not Microsoft&rpar;, can we get in touch?](https://news.ycombinator.com/item?id=33297217)
 - [Princeton lab simulates nuclear war](https://sgs.princeton.edu/the-lab/plan-a)
 - [Global Encryption Day: Demand End-to-End Encryption in DMs](https://blog.torproject.org/global-encryption-day-2022/)
 - [Ask HN: Is it possible to have a structured work day in software dev?](https://news.ycombinator.com/item?id=33296415)
 - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
-- [RISC in 2022](https://wiki.alopex.li/RiscIn2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
