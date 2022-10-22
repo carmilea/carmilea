@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Colleges that ditched admission tests find it harder to fairly choose students](https://hechingerreport.org/proof-points-colleges-that-ditched-test-scores-for-admissions-find-its-harder-to-be-fair-in-choosing-students-researcher-says/)
+- [The Gervais Principle, or the Office According to “The Office” &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+- [Archery World Record: Most arrows through a keyhole](https://www.youtube.com/watch?v=67W4kONfL4Y)
+- [Getting Out of a Rut](https://news.ycombinator.com/item?id=33297934)
 - [Show HN: First open source data discovery and observability platform](https://github.com/opendatadiscovery/odd-platform)
-- [Science, technology and innovation isn’t addressing world’s most urgent problems](https://www.universiteitleiden.nl/en/news/2022/10/science-technology-and-innovation-is-not-addressing-worlds-most-urgent-problems)
-- [Ask HN: Are there recorded instances of people being framed through hacking?](https://news.ycombinator.com/item?id=33297363)
-- [Ask HN: HNers with multiple sclerosis, can we get in touch?](https://news.ycombinator.com/item?id=33297217)
-- [qpwgraph – PipeWire Graph Qt GUI Interface](https://gitlab.freedesktop.org/rncbc/qpwgraph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
