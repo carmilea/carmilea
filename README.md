@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: First open source data discovery and observability platform](https://github.com/opendatadiscovery/odd-platform)
 - [Science, technology and innovation isn’t addressing world’s most urgent problems](https://www.universiteitleiden.nl/en/news/2022/10/science-technology-and-innovation-is-not-addressing-worlds-most-urgent-problems)
 - [Ask HN: Are there recorded instances of people being framed through hacking?](https://news.ycombinator.com/item?id=33297363)
 - [Ask HN: HNers with multiple sclerosis, can we get in touch?](https://news.ycombinator.com/item?id=33297217)
 - [qpwgraph – PipeWire Graph Qt GUI Interface](https://gitlab.freedesktop.org/rncbc/qpwgraph)
-- [Global Encryption Day: Demand End-to-End Encryption in DMs](https://blog.torproject.org/global-encryption-day-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
