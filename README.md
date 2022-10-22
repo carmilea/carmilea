@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Single Board Computers Benchmarks](https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md)
+- [ImageSharp leaving the .NET Foundation due to licensing change](https://dotnetfoundation.org/blog/2022/10/20/imagesharpupdate)
+- [Show HN: Contact Form Delivery](https://sendfly.io)
 - [Leaving the Cloud](https://www.rework.fm/leaving-the-cloud/)
-- [Heroku alternatives with a free tier listed in a GitHub repo](https://github.com/Engagespot/heroku-free-alternatives)
-- [GitLab 15.5 released](https://about.gitlab.com/releases/2022/10/22/gitlab-15-5-released/)
-- [Why Is That Funny?](https://nautil.us/why-is-that-funny-243350/)
-- [Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324)
+- [Review of the Kinesis Advantage360 Professional](https://arslan.io/2022/10/22/review-of-the-kinesis-advantage360-professional/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
