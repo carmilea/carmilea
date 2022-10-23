@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Motion &lpar;YC W20&rpar; Is Hiring Full-Stack Engineers and Data Scientists](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Write Like You Talk](http://paulgraham.com/talk.html)
+- [Write Like You Talk &lpar;2015&rpar;](http://paulgraham.com/talk.html)
 - [Ray tracing Voxels made out of Glass](https://voxelchain.app/previewer/Glass.html)
-- [Show HN: Vector Graphics with Stable Diffusion](https://vectorart.ai)
 - [The Mainframe in Your Pocket Running Minicomputer Software](https://thechipletter.substack.com/p/the-mainframe-in-your-pocket)
+- [Product Market Fit](https://www.kevinslin.com/notes/htchyy536bb169mzu47ksb6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
