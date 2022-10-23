@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curl doesn&#39;t add libproxy due to its quality issues](https://daniel.haxx.se/blog/2022/08/12/the-dream-of-auto-detecting-proxies/)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
+- [Ask HN: Is Anyone Else Tired of the Self Enforced Limits on AI Tech?](https://news.ycombinator.com/item?id=33306168)
+- [The Wire retracts its Meta stories](https://thewire.in/media/the-wire-retracts-meta-stories)
 - [Show HN: I made a CMS that uses Git to store your data](https://Outstatic.com)
-- [A chill driving game with procedurally generate scenic landscapes](https://slowroads.io/)
-- [Epoll is fundamentally broken &lpar;2017&rpar;](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
-- [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data](https://joinbase.io/blog/intro-oidbs/)
-- [A History of Palomar Observatory](https://sites.astro.caltech.edu/palomar/about/history.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
