@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you deal with the end of globalization?](https://news.ycombinator.com/item?id=33304029)
-- [On finally learning to program at the age of 40](https://github.com/Dhghomon/programming_at_40)
-- [Tell HN: I was tired of being a perfectionist so I built an app within 24 hours](https://news.ycombinator.com/item?id=33303269)
-- [Most Americans think money comes before mission at U.S. news organizations](https://knightfoundation.org/press/releases/most-americans-think-money-comes-before-mission-at-u-s-news-organizations-according-to-a-new-gallup-knight-study/)
-- [GlueSQL: A SQL database engine written as a library in Rust](https://github.com/gluesql/gluesql)
+- [A History of Palomar Observatory](https://sites.astro.caltech.edu/palomar/about/history.html)
+- [Pouring the 200 inch disk at Corning Glass Works](https://nyheritage.org/collections/pouring-200-inch-disk-corning-glass-works)
+- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+- [A new paper claims SARS-CoV-2 bears signs of genetic engineering](https://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering)
+- [On finally learning to program at the age of 40 &lpar;2020&rpar;](https://github.com/Dhghomon/programming_at_40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
