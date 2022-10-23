@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mourning Wolfgang Denk, creator of the U-Boot bootloader](https://lists.denx.de/pipermail/u-boot/2022-October/497955.html)
+- [The worst sales promotion in history](https://thehustle.co/the-worst-sales-promotion-in-history/)
+- [Interactive Vim Tutorial](https://www.openvim.com/)
 - [Curl doesn&#39;t add libproxy due to its quality issues](https://daniel.haxx.se/blog/2022/08/12/the-dream-of-auto-detecting-proxies/)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
-- [Ask HN: Is Anyone Else Tired of the Self Enforced Limits on AI Tech?](https://news.ycombinator.com/item?id=33306168)
-- [The Wire retracts its Meta stories](https://thewire.in/media/the-wire-retracts-meta-stories)
-- [Show HN: I made a CMS that uses Git to store your data](https://Outstatic.com)
+- [Caps wiki – cataloging information on repairing caps, ICs, batteries, belts](https://caps.wiki/wiki/Main_Page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
