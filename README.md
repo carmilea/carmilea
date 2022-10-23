@@ -54,8 +54,8 @@
 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data](https://joinbase.io/blog/intro-oidbs/)
 - [A History of Palomar Observatory](https://sites.astro.caltech.edu/palomar/about/history.html)
 - [Pouring the 200 inch disk at Corning Glass Works](https://nyheritage.org/collections/pouring-200-inch-disk-corning-glass-works)
+- [It&#39;s a Mad Information War](https://consilienceproject.org/its-a-mad-information-war/)
 - [Pocket Casts goes open source](https://ma.tt/2022/10/open-source-podcasting-client/)
-- [Differential mosquito attraction to humans is associated with skin acid levels](https://www.cell.com/cell/fulltext/S0092-8674(22)01253-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422012533%3Fshowall%3Dtrue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
