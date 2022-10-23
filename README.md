@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is the World Going to Shit?](https://news.ycombinator.com/item?id=33311067)
+- [Coming Home to Vim &lpar;2010&rpar;](https://stevelosh.com/blog/2010/09/coming-home-to-vim/)
 - [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
-- [Curious Case of Maintaining Sufficient Free Space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
+- [Maintaining sufficient free space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
 - [Study: Electroshock therapy more successful for depression than ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
-- [Gamification Affects Software Developers: Cautionary Evidence from GitHub](https://arxiv.org/abs/2006.02371)
-- [The Social Recession: By the Numbers](https://novum.substack.com/p/social-recession-by-the-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
