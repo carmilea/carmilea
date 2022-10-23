@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
+- [Apple&#39;s Sleeping Advertising Business](https://www.thespl.it/p/apples-sleeping-advertising-business)
 - [Can Dog Poop Be Vermicomposted?](https://www.redwormcomposting.com/reader-questions/can-dog-poop-be-vermicomposted/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Full-Stack Engineers and Data Scientists](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [Write Like You Talk &lpar;2015&rpar;](http://paulgraham.com/talk.html)
-- [Ray tracing Voxels made out of Glass](https://voxelchain.app/previewer/Glass.html)
-- [The Mainframe in Your Pocket Running Minicomputer Software](https://thechipletter.substack.com/p/the-mainframe-in-your-pocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
