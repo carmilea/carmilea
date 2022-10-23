@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
 - [Curious Case of Maintaining Sufficient Free Space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
-- [Study: Electroshock Therapy More Successful for Depression Than Ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
+- [Study: Electroshock therapy more successful for depression than ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
 - [Gamification Affects Software Developers: Cautionary Evidence from GitHub](https://arxiv.org/abs/2006.02371)
-- [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
-- [Apple&#39;s Sleeping Advertising Business](https://www.thespl.it/p/apples-sleeping-advertising-business)
+- [The Social Recession: By the Numbers](https://novum.substack.com/p/social-recession-by-the-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
