@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curious Case of Maintaining Sufficient Free Space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
+- [Study: Electroshock Therapy More Successful for Depression Than Ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
+- [Gamification Affects Software Developers: Cautionary Evidence from GitHub](https://arxiv.org/abs/2006.02371)
 - [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
 - [Apple&#39;s Sleeping Advertising Business](https://www.thespl.it/p/apples-sleeping-advertising-business)
-- [Can Dog Poop Be Vermicomposted?](https://www.redwormcomposting.com/reader-questions/can-dog-poop-be-vermicomposted/)
-- [Motion &lpar;YC W20&rpar; Is Hiring Full-Stack Engineers and Data Scientists](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Write Like You Talk &lpar;2015&rpar;](http://paulgraham.com/talk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
