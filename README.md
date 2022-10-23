@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure Data as a plugin, with a new GUI](https://github.com/timothyschoen/PlugData)
-- [Add Accessibility to Your Website](https://github.com/ranbuch/accessibility)
-- [The Raspberry Pi 400 in My Bedroom](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
-- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
-- [10-cent CH32V003 RISC-V MCU offers 2KB SRAM, 16KB flash, SOP8 to QFN20 packages](https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/)
+- [Ask HN: How do you deal with the end of globalization?](https://news.ycombinator.com/item?id=33304029)
+- [On finally learning to program at the age of 40](https://github.com/Dhghomon/programming_at_40)
+- [Tell HN: I was tired of being a perfectionist so I built an app within 24 hours](https://news.ycombinator.com/item?id=33303269)
+- [Most Americans think money comes before mission at U.S. news organizations](https://knightfoundation.org/press/releases/most-americans-think-money-comes-before-mission-at-u-s-news-organizations-according-to-a-new-gallup-knight-study/)
+- [GlueSQL: A SQL database engine written as a library in Rust](https://github.com/gluesql/gluesql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
