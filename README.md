@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mourning Wolfgang Denk, creator of the U-Boot bootloader](https://lists.denx.de/pipermail/u-boot/2022-October/497955.html)
-- [The worst sales promotion in history](https://thehustle.co/the-worst-sales-promotion-in-history/)
-- [Interactive Vim Tutorial](https://www.openvim.com/)
-- [Curl doesn&#39;t add libproxy due to its quality issues](https://daniel.haxx.se/blog/2022/08/12/the-dream-of-auto-detecting-proxies/)
-- [Caps wiki – cataloging information on repairing caps, ICs, batteries, belts](https://caps.wiki/wiki/Main_Page)
+- [FaCT: Constant Time Programming Language](https://github.com/PLSysSec/FaCT)
+- [Five origami books by Shuzo Fujimoto are now public domain](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
+- [Ask HN: Is a single source of truth not just a single point of failure?](https://news.ycombinator.com/item?id=33307421)
+- [Wolfgang Denk, creator of the U-Boot bootloader, has died](https://lists.denx.de/pipermail/u-boot/2022-October/497955.html)
+- [Textual TUI framework for Python adds CSS renderer](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
