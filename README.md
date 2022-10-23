@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Young People Working for the Most Evil Companies](https://www.vice.com/en/article/4axnbd/oil-gas-tobacco-nuclear-industry-jobs)
+- [Show HN: I made a CMS that uses Git to store your data](https://Outstatic.com)
+- [A chill driving game with procedurally generate scenic landscapes](https://slowroads.io/)
 - [Epoll is fundamentally broken &lpar;2017&rpar;](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data](https://joinbase.io/blog/intro-oidbs/)
 - [A History of Palomar Observatory](https://sites.astro.caltech.edu/palomar/about/history.html)
-- [Pouring the 200 inch disk at Corning Glass Works](https://nyheritage.org/collections/pouring-200-inch-disk-corning-glass-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
