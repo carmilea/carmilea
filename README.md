@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plastic recycling remains a &#39;myth&#39;: Greenpeace study](https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html)
+- [I help seniors with technology issues. A regular came in with a Lenovo laptop](https://twitter.com/i/status/1583169632516509697)
+- [Vladimir Putin says the world’s energy infrastructure is at risk](https://www.economist.com/international/2022/10/20/vladimir-putin-says-the-worlds-energy-infrastructure-is-at-risk)
 - [Game Boy SM83 CPU Core](https://github.com/Gekkio/gb-research/tree/main/sm83-cpu-core)
 - [27 years since the Financial Times killed one of England’s finest poets](https://twitter.com/mulberrycoates/status/1584116278150602752)
-- [The Rise of Discmaster](https://blog.archive.org/2022/10/24/the-rise-of-discmaster/)
-- [Behind TikTok&#39;s Boom: A Legion of Traumatized, $10-a-Day Content Moderators](https://www.thebureauinvestigates.com/stories/2022-10-20/behind-tiktoks-boom-a-legion-of-traumatised-10-a-day-content-moderators)
-- [Largest score declines in NAEP mathematics at grades 4 and 8](https://www.nationsreportcard.gov/highlights/mathematics/2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
