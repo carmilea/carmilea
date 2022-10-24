@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California Poised to Overtake Germany as World’s No. 4 Economy](https://www.washingtonpost.com/business/energy/california-poised-to-overtakegermany-as-worlds-no-4-economy/2022/10/24/d4df35a2-538b-11ed-ac8b-08bbfab1c5a5_story.html)
+- [Putting Kids in Debt](https://idiallo.com/blog/too-young-for-big-school-debt)
+- [Company that makes rent-setting software for landlords sued for collusion](https://www.propublica.org/article/realpage-accused-of-collusion-in-new-lawsuit)
 - [Microsoft 3D Movie Maker from 1995 Is Now Open-Source](https://www.howtogeek.com/803277/microsoft-3d-movie-maker-from-1995-is-now-open-source/)
-- [The Evolution of the Data Engineer Role](https://airbyte.com/blog/data-engineering-past-present-and-future)
-- [Are Real Numbers Real? &lpar;2017&rpar;](https://ptolemy.berkeley.edu/~eal/pnerd/blog/are-real-numbers-real.html)
-- [Launch HN: Noloco &lpar;YC S21&rpar; – Build internal tools from data without code](https://noloco.io)
-- [Tech CEO fired two engineers for having second full-time jobs](https://www.zdnet.com/article/this-tech-ceo-fired-two-engineers-for-having-second-full-time-jobs-warns-theyre-part-of-a-new-trend/)
+- [The first rule of Microsoft Excel: Don’t tell anyone you’re good at it](https://www.wsj.com/articles/the-first-rule-of-microsoft-exceldont-tell-anyone-youre-good-at-it-1538754380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
