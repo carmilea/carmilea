@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is long-term employee commitment to the same company still appreciated?](https://news.ycombinator.com/item?id=33322522)
-- [Flatpak – a security nightmare – 2 years later](http://flatkill.org/2020/)
+- [Ask HN: What do you use for encrypting your personal stuff?](https://news.ycombinator.com/item?id=33322789)
+- [A Shocking Amount of US “Recycling” Goes Straight to the Landfill](https://futurism.com/plastic-recycling-landfill-greenpeace)
+- [My thoughts on the Framework laptop &lpar;from a professional kernel developer&rpar;](https://ruscur.au/framework/)
 - [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
 - [The Enduring Genius of ‘The Craft of Dying’](https://thereader.mitpress.mit.edu/the-enduring-genius-of-the-craft-of-dying/)
-- [Only virgin type of olive oil consumption reduces the risk of mortality: study](https://www.nature.com/articles/s41430-022-01221-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
