@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is the World Going to Shit?](https://news.ycombinator.com/item?id=33311067)
+- [Typical CO2 Levels at Home Test](https://www.co2meter.com/blogs/news/co2-levels-at-home)
+- [Debugging C with Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
+- [Dotfile madness &lpar;2019&rpar;](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
 - [Coming Home to Vim &lpar;2010&rpar;](https://stevelosh.com/blog/2010/09/coming-home-to-vim/)
 - [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
-- [Maintaining sufficient free space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
-- [Study: Electroshock therapy more successful for depression than ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
