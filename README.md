@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of Windows Software](https://hardcoresoftware.learningbyshipping.com/p/103-end-of-windows-software)
 - [Plastic recycling remains a &#39;myth&#39;: Greenpeace study](https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html)
 - [I help seniors with technology issues. A regular came in with a Lenovo laptop](https://twitter.com/i/status/1583169632516509697)
-- [Vladimir Putin says the world’s energy infrastructure is at risk](https://www.economist.com/international/2022/10/20/vladimir-putin-says-the-worlds-energy-infrastructure-is-at-risk)
+- [Show HN: Share and Discover Side Projects](https://sideprojects.fazier.com/)
 - [Game Boy SM83 CPU Core](https://github.com/Gekkio/gb-research/tree/main/sm83-cpu-core)
-- [27 years since the Financial Times killed one of England’s finest poets](https://twitter.com/mulberrycoates/status/1584116278150602752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
