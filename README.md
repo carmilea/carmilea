@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When customers don&#39;t get it](https://www.erezdruk.com/post/when-customers-don-t-get-it)
+- [Game Boy SM83 CPU Core](https://github.com/Gekkio/gb-research/tree/main/sm83-cpu-core)
+- [27 years since the Financial Times killed one of England’s finest poets](https://twitter.com/mulberrycoates/status/1584116278150602752)
+- [The Rise of Discmaster](https://blog.archive.org/2022/10/24/the-rise-of-discmaster/)
+- [Behind TikTok&#39;s Boom: A Legion of Traumatized, $10-a-Day Content Moderators](https://www.thebureauinvestigates.com/stories/2022-10-20/behind-tiktoks-boom-a-legion-of-traumatised-10-a-day-content-moderators)
 - [Largest score declines in NAEP mathematics at grades 4 and 8](https://www.nationsreportcard.gov/highlights/mathematics/2022/)
-- [Fake Books](https://lcamtuf.substack.com/p/fake-books)
-- [The making of Chapter 46 of The Feynman Lectures &lpar;2021&rpar;](https://physicstoday.scitation.org/do/10.1063/pt.6.3.20211209a/full/)
-- [Buffers on the Edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
