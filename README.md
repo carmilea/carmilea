@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plastic recycling remains a &#39;myth&#39;: Greenpeace study](https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html)
-- [The Horrors of the Alpha Channel [video]](https://www.youtube.com/watch?v=XobSAXZaKJ8)
-- [I help seniors with technology issues. A regular came in with a Lenovo laptop](https://twitter.com/i/status/1583169632516509697)
-- [Show HN: Share and Discover Side Projects](https://sideprojects.fazier.com/)
-- [Game Boy SM83 CPU Core](https://github.com/Gekkio/gb-research/tree/main/sm83-cpu-core)
+- [The bosses who silently nudge out workers](https://www.bbc.com/worklife/article/20221021-the-bosses-who-silently-nudge-out-workers)
+- [Our buildings are making us sick](https://www.vox.com/the-highlight/23377638/buildings-indoor-air-quality-pollution-toxic-sick)
+- [Guy turned his eye into a flashlight](https://old.reddit.com/r/nextfuckinglevel/comments/ybisa1/this_guy_turned_his_eye_into_a_flashlight/)
+- [Record-breaking chip can transmit entire internet&#39;s traffic per second](https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/)
+- [Ask HN: How to show a not “so perfect” MVP to potential customers?](https://news.ycombinator.com/item?id=33315352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
