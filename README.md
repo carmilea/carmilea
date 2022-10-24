@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Gen X Failed](https://compactmag.com/article/why-gen-x-failed)
-- [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
+- [When customers don&#39;t get it](https://www.erezdruk.com/post/when-customers-don-t-get-it)
+- [Largest score declines in NAEP mathematics at grades 4 and 8](https://www.nationsreportcard.gov/highlights/mathematics/2022/)
+- [Fake Books](https://lcamtuf.substack.com/p/fake-books)
+- [The making of Chapter 46 of The Feynman Lectures &lpar;2021&rpar;](https://physicstoday.scitation.org/do/10.1063/pt.6.3.20211209a/full/)
 - [Buffers on the Edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
-- [Debugging C with Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
-- [Dotfile madness &lpar;2019&rpar;](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
