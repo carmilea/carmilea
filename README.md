@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typical CO2 Levels at Home Test](https://www.co2meter.com/blogs/news/co2-levels-at-home)
+- [Why Gen X Failed](https://compactmag.com/article/why-gen-x-failed)
+- [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
+- [Buffers on the Edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
 - [Debugging C with Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
 - [Dotfile madness &lpar;2019&rpar;](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
-- [Coming Home to Vim &lpar;2010&rpar;](https://stevelosh.com/blog/2010/09/coming-home-to-vim/)
-- [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
