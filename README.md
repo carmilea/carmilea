@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The bosses who silently nudge out workers](https://www.bbc.com/worklife/article/20221021-the-bosses-who-silently-nudge-out-workers)
-- [Our buildings are making us sick](https://www.vox.com/the-highlight/23377638/buildings-indoor-air-quality-pollution-toxic-sick)
-- [Guy turned his eye into a flashlight](https://old.reddit.com/r/nextfuckinglevel/comments/ybisa1/this_guy_turned_his_eye_into_a_flashlight/)
-- [Record-breaking chip can transmit entire internet&#39;s traffic per second](https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/)
-- [Ask HN: How to show a not “so perfect” MVP to potential customers?](https://news.ycombinator.com/item?id=33315352)
+- [Microsoft 3D Movie Maker from 1995 Is Now Open-Source](https://www.howtogeek.com/803277/microsoft-3d-movie-maker-from-1995-is-now-open-source/)
+- [The Evolution of the Data Engineer Role](https://airbyte.com/blog/data-engineering-past-present-and-future)
+- [Are Real Numbers Real? &lpar;2017&rpar;](https://ptolemy.berkeley.edu/~eal/pnerd/blog/are-real-numbers-real.html)
+- [Launch HN: Noloco &lpar;YC S21&rpar; – Build internal tools from data without code](https://noloco.io)
+- [Tech CEO fired two engineers for having second full-time jobs](https://www.zdnet.com/article/this-tech-ceo-fired-two-engineers-for-having-second-full-time-jobs-warns-theyre-part-of-a-new-trend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
