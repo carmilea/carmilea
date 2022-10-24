@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salary Transparency](https://xeiaso.net/salary-transparency)
+- [The Surreal Horror of PAM &lpar;2021&rpar;](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
+- [New Psychedelic Entactogens](https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/)
+- [Asdf – the language tool version manager](https://asdf-vm.com/guide/introduction.html)
 - [Ask HN: What do you use for encrypting your personal stuff?](https://news.ycombinator.com/item?id=33322789)
-- [A Shocking Amount of US “Recycling” Goes Straight to the Landfill](https://futurism.com/plastic-recycling-landfill-greenpeace)
-- [My thoughts on the Framework laptop &lpar;from a professional kernel developer&rpar;](https://ruscur.au/framework/)
-- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
-- [The Enduring Genius of ‘The Craft of Dying’](https://thereader.mitpress.mit.edu/the-enduring-genius-of-the-craft-of-dying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
