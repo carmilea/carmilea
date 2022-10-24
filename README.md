@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SimulaVR: Meta&#39;s Subpoena Has Been Dropped](https://simulavr.com/blog/simula-one-vs-quest-pro/)
-- [Not the Time to Get Greedy: House Flippers Getting Burned by US Housing Downturn](https://moneywise.com/real-estate/not-the-time-to-get-greedy-for-house-flippers)
-- [Cuckoo Filter: Practically Better Than Bloom &lpar;2014&rpar; [pdf]](https://www.eecs.harvard.edu/~michaelm/postscripts/cuckoo-conext2014.pdf)
-- [Show HN: Open-source non-blocking NIO Java HTTP Server](https://github.com/FusionAuth/java-http)
-- [Memtest86 v6.00 with UEFI support released](https://www.memtest.org/)
+- [Happy Diwali Everyone](https://en.wikipedia.org/wiki/Diwali)
+- [Accelerated forgetting of a trauma event after a single dose of hydrocortisone](https://www.nature.com/articles/s41398-022-02126-2)
+- [WebKit Features in Safari 16.1](https://webkit.org/blog/13399/webkit-features-in-safari-16-1/)
+- [Microsoft’s new $599 Mac Mini-like PC is designed to improve Windows on Arm](https://www.theverge.com/2022/10/24/23420207/microsoft-windows-dev-kit-2023-project-volterra-release-date-price)
+- [Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
