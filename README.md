@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Only virgin type of olive oil reduces the risk of mortality](https://www.nature.com/articles/s41430-022-01221-3)
+- [My next Mac might be the last](https://morrick.me/archives/9667)
+- [Only virgin type of olive oil consumption reduces the risk of mortality: study](https://www.nature.com/articles/s41430-022-01221-3)
 - [I’m Not Sure That &lpar;If?&rpar; GitHub Copilot Is a Problem](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
-- [Office Vacancy Rate in San Francisco Just Hit a New High](https://socketsite.com/archives/2022/10/enough-empty-office-space-for-over-150000-employees-in-san-francisco.html)
 - [Mesh shaders talk at XDC 2022](https://rg3.name/202210222107.html)
 - [Attacking Weak RC4-Like Ciphers the Hard Way](https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/)
 <!-- BLOG-POST-LIST:END -->
