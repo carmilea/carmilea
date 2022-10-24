@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My next Mac might be the last](https://morrick.me/archives/9667)
+- [Ask HN: Is long-term employee commitment to the same company still appreciated?](https://news.ycombinator.com/item?id=33322522)
+- [Flatpak – a security nightmare – 2 years later](http://flatkill.org/2020/)
+- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
+- [The Enduring Genius of ‘The Craft of Dying’](https://thereader.mitpress.mit.edu/the-enduring-genius-of-the-craft-of-dying/)
 - [Only virgin type of olive oil consumption reduces the risk of mortality: study](https://www.nature.com/articles/s41430-022-01221-3)
-- [I’m Not Sure That &lpar;If?&rpar; GitHub Copilot Is a Problem](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
-- [Mesh shaders talk at XDC 2022](https://rg3.name/202210222107.html)
-- [Attacking Weak RC4-Like Ciphers the Hard Way](https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
