@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Poised to Overtake Germany as World’s No. 4 Economy](https://www.washingtonpost.com/business/energy/california-poised-to-overtakegermany-as-worlds-no-4-economy/2022/10/24/d4df35a2-538b-11ed-ac8b-08bbfab1c5a5_story.html)
-- [Putting Kids in Debt](https://idiallo.com/blog/too-young-for-big-school-debt)
-- [Company that makes rent-setting software for landlords sued for collusion](https://www.propublica.org/article/realpage-accused-of-collusion-in-new-lawsuit)
-- [Microsoft 3D Movie Maker from 1995 Is Now Open-Source](https://www.howtogeek.com/803277/microsoft-3d-movie-maker-from-1995-is-now-open-source/)
-- [The first rule of Microsoft Excel: Don’t tell anyone you’re good at it](https://www.wsj.com/articles/the-first-rule-of-microsoft-exceldont-tell-anyone-youre-good-at-it-1538754380)
+- [Made $6,763.85 in 6 months with my startup](https://news.ycombinator.com/item?id=33318616)
+- [Imagorvideo – video thumbnail server using RMSE in Go and FFmpeg C bindings](https://github.com/cshum/imagorvideo)
+- [A follow-up on our analysis of the anomalous restriction map of SARS-CoV-2](https://alexwasburne.substack.com/p/open-letter-to-the-world)
+- [What’s wrong with medieval pigs in videogames](https://www.leidenmedievalistsblog.nl/articles/whats-wrong-with-medieval-pigs-in-videogames)
+- [Exposure to environmental toxins may be root of rise in neurological disorders](https://www.theguardian.com/us-news/2022/oct/23/environmental-toxins-neurological-disorders-parkinsons-alzheimers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
