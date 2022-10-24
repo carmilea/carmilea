@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Made $6,763.85 in 6 months with my startup](https://news.ycombinator.com/item?id=33318616)
-- [Imagorvideo – video thumbnail server using RMSE in Go and FFmpeg C bindings](https://github.com/cshum/imagorvideo)
-- [A follow-up on our analysis of the anomalous restriction map of SARS-CoV-2](https://alexwasburne.substack.com/p/open-letter-to-the-world)
-- [What’s wrong with medieval pigs in videogames](https://www.leidenmedievalistsblog.nl/articles/whats-wrong-with-medieval-pigs-in-videogames)
-- [Exposure to environmental toxins may be root of rise in neurological disorders](https://www.theguardian.com/us-news/2022/oct/23/environmental-toxins-neurological-disorders-parkinsons-alzheimers)
+- [SimulaVR: Meta&#39;s Subpoena Has Been Dropped](https://simulavr.com/blog/simula-one-vs-quest-pro/)
+- [Not the Time to Get Greedy: House Flippers Getting Burned by US Housing Downturn](https://moneywise.com/real-estate/not-the-time-to-get-greedy-for-house-flippers)
+- [Cuckoo Filter: Practically Better Than Bloom &lpar;2014&rpar; [pdf]](https://www.eecs.harvard.edu/~michaelm/postscripts/cuckoo-conext2014.pdf)
+- [Show HN: Open-source non-blocking NIO Java HTTP Server](https://github.com/FusionAuth/java-http)
+- [Memtest86 v6.00 with UEFI support released](https://www.memtest.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
