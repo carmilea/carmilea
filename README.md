@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
-- [A Simple Map for Innovation at Scale](https://steveblank.com/2022/10/25/a-simple-map-for-innovation-at-scale/)
-- [How to maintain engineering velocity as you scale](https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale)
-- [Learnings of a CEO: Matt Schulman, Pave, on Hiring](https://www.ycombinator.com/blog/learnings-of-a-ceo-matt-schulman-pave)
-- [Show HN: Koda Validate – Typesafe, combinable validation for Python](https://github.com/keithasaurus/koda-validate)
+- [Next.js 13](https://nextjs.org/blog/next-13)
+- [Vercel announces Turbopack, the successor to Webpack](https://vercel.com/blog/turbopack)
+- [Launch HN: Paigo &lpar;YC S22&rpar; – Measure and bill SaaS customers based on usage](https://news.ycombinator.com/item?id=33333584)
+- [Cloudflare CDN Partial Outage](https://www.cloudflarestatus.com/incidents/kdpqngcbbn25)
+- [No New Streaming Services Will Launch in 2022](https://gammawire.com/no-new-streaming-services-will-launch-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
