@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online card payments still suck](https://fynbos.app/blog/card-payments-still-suck)
-- [Emacs User Survey &lpar;2022&rpar;](https://emacssurvey.org/)
-- [Python 3.11.0 final](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291)
-- [Libre Tools from the National Cybersecurity Competence Center of Luxembourg](https://opensource.nc3.lu)
-- [Chromium based browsers leak user local IP via WebRTC foundation attribute](https://niespodd.github.io/webrtc-local-ip-leak/)
+- [From zero to 10M lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
+- [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
+- [Shutterstock will start selling AI-generated stock imagery](https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement)
+- [Ask HN: Examples of Top C# Code?](https://news.ycombinator.com/item?id=33329079)
+- [Chrome: Sunsetting support for Windows 7 / 8.1 in early 2023](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
