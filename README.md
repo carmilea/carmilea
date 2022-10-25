@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Car feature subscriptions should be illegal, New Jersey Legislators say](https://arstechnica.com/cars/2022/10/new-jersey-politicians-want-to-ban-subscriptions-for-car-hardware/)
+- [The Cult of Dd](https://eklitzke.org/the-cult-of-dd)
+- [Bumble releases open-source A.I. feature to help combat cyberflashing](https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics)
 - [Salary Transparency](https://xeiaso.net/salary-transparency)
 - [The Surreal Horror of PAM &lpar;2021&rpar;](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
-- [New Psychedelic Entactogens](https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/)
-- [Asdf – the language tool version manager](https://asdf-vm.com/guide/introduction.html)
-- [Ask HN: What do you use for encrypting your personal stuff?](https://news.ycombinator.com/item?id=33322789)
 <!-- BLOG-POST-LIST:END -->
 
 ---
