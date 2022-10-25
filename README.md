@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Markov Chain Monte Carlo Without All the Bullshit &lpar;2015&rpar;](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+- [A Simple Map for Innovation at Scale](https://steveblank.com/2022/10/25/a-simple-map-for-innovation-at-scale/)
+- [How to maintain engineering velocity as you scale](https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale)
+- [Learnings of a CEO: Matt Schulman, Pave, on Hiring](https://www.ycombinator.com/blog/learnings-of-a-ceo-matt-schulman-pave)
 - [Show HN: Koda Validate – Typesafe, combinable validation for Python](https://github.com/keithasaurus/koda-validate)
-- [Deepfakes of Celebrities Have Begun Appearing in Ads, with or Without Permission](https://www.wsj.com/articles/deepfakes-of-celebrities-have-begun-appearing-in-ads-with-or-without-their-permission-11666692003)
-- [ClockworkPi – uConsole, “fantasy console” for indie game developers](https://www.clockworkpi.com/)
-- [Marijuana Users More Prone to Infections After Knee, Shoulder Surgeries](https://consumer.healthday.com/marijuana-users-more-prone-to-infections-after-knee-shoulder-surgeries-2658453251.html)
-- [I recorded user behaviour on my competitor’s websites &lpar;2018&rpar;](https://dejanmarketing.com/competitor-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
