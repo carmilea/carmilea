@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From zero to 10M lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
-- [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
-- [Shutterstock will start selling AI-generated stock imagery](https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement)
-- [Ask HN: Examples of Top C# Code?](https://news.ycombinator.com/item?id=33329079)
-- [Chrome: Sunsetting support for Windows 7 / 8.1 in early 2023](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en)
+- [My dad&#39;s resume and skills from 1980](https://github.com/runvnc/dadsresume)
+- [Ask HN: What Happened to the Reddit IPO?](https://news.ycombinator.com/item?id=33330758)
+- [Controversy](https://www.nybooks.com/online/2022/10/25/warhol-prince-controversy/)
+- [The end of Apple’s affair with China](https://www.economist.com/business/2022/10/24/the-end-of-apples-affair-with-china)
+- [macOS 13 Ventura: The Ars Technica review](https://arstechnica.com/gadgets/2022/10/macos-13-ventura-the-ars-technica-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
