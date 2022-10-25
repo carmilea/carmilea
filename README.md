@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Broke the Rules](https://www.matuzo.at/blog/2022/twitter-ban/)
 - [Alphabet Earnings Report Q3 2022 [pdf]](https://abc.xyz/investor/static/pdf/2022Q3_alphabet_earnings_release.pdf)
 - [5.1 Magnitude Earthquake Near San Jose, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73799091/executive)
 - [Photopea: The Free Photoshop Alternative Making Millions](https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions)
 - [The American chip industry’s $1.5T meltdown](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown)
-- [Wad Commander: Play Doom I and II in the Browser](https://wadcmd.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
