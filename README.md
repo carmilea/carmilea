@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to autoscale Grafana Loki queries using KEDA](https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/)
-- [Ask HN: What&#39;s the next evolution of the GUI OS?](https://news.ycombinator.com/item?id=33326533)
-- [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
-- [What “work” looks like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
-- [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
+- [WhatsApp goes down for users globally](https://www.theguardian.com/technology/2022/oct/25/whatapp-goes-down-for-users-globally)
+- [Tell HN: WhatsApp Is Down](https://news.ycombinator.com/item?id=33327320)
+- [Stacker &lpar;YC S20&rpar; B2B No-Code Platform Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/B4A997C78C/)
+- [Tell HN: A Demo Day without the investors](https://news.ycombinator.com/item?id=33327140)
+- [Rust in Linux kernel is just a beginning](https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
