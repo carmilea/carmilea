@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
+- [Google Quietly Added HEVC Support in Chrome](https://bitmovin.com/google-adds-hevc-support-chrome/)
+- [NY State Supreme Court reinstates all fired unvaccinated employees with backpay](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod)
+- [Show HN: Encrypt and hide files inside images](https://github.com/7thSamurai/steganography)
 - [Apple calls on global supply chain to decarbonize by 2030](https://www.apple.com/newsroom/2022/10/apple-calls-on-global-supply-chain-to-decarbonize-by-2030/)
-- [NY Supreme Court reinstates all fired unvaccinated employees, orders backpay](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod&TSPD_101_R0=08533cd43fab2000edb19601c775225bb3f6399e467eba468d5199c578db439f849eb7e40f10149908fdb0d7a514480063155165f24217998870310adf4e840d6f2dc7e02b7b4af121d79ec670c4468d9bd049aca6bd09e1e6afd8e75126fd352e140d96c7de44a910dd0fd70c45a64765c0ad37a316ee13)
-- [Stable Diffusion to 3D/WebVR, in the cloud, available now](https://holovolo.tv/?type=aigen)
-- [Tell HN: Cloudflare R2 allows 300PB of egress for chump change](https://news.ycombinator.com/item?id=33336053)
-- [How the U.K. Became One of the Poorest Countries in Western Europe](https://www.theatlantic.com/newsletters/archive/2022/10/uk-economy-disaster-degrowth-brexit/671847/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
