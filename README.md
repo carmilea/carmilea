@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 13](https://nextjs.org/blog/next-13)
-- [Vercel announces Turbopack, the successor to Webpack](https://vercel.com/blog/turbopack)
-- [Launch HN: Paigo &lpar;YC S22&rpar; – Measure and bill SaaS customers based on usage](https://news.ycombinator.com/item?id=33333584)
-- [Cloudflare CDN Partial Outage](https://www.cloudflarestatus.com/incidents/kdpqngcbbn25)
-- [No New Streaming Services Will Launch in 2022](https://gammawire.com/no-new-streaming-services-will-launch-in-2022/)
+- [5.1 Magnitude Earthquake Near San Jose, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73799091/executive)
+- [The American chip industry’s $1.5T meltdown](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown)
+- [Wad Commander: Play Doom I and II in the Browser](https://wadcmd.com/)
+- [Vercel acquires Splitbee to expand first-party analytics](https://vercel.com/blog/vercel-acquires-splitbee)
+- [Anti-Patterns in Startup Engineering Hiring](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
