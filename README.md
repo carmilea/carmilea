@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My dad&#39;s resume and skills from 1980](https://github.com/runvnc/dadsresume)
-- [Ask HN: What Happened to the Reddit IPO?](https://news.ycombinator.com/item?id=33330758)
-- [Controversy](https://www.nybooks.com/online/2022/10/25/warhol-prince-controversy/)
-- [The end of Apple’s affair with China](https://www.economist.com/business/2022/10/24/the-end-of-apples-affair-with-china)
-- [macOS 13 Ventura: The Ars Technica review](https://arstechnica.com/gadgets/2022/10/macos-13-ventura-the-ars-technica-review/)
+- [Show HN: Koda Validate – Typesafe, combinable validation for Python](https://github.com/keithasaurus/koda-validate)
+- [Deepfakes of Celebrities Have Begun Appearing in Ads, with or Without Permission](https://www.wsj.com/articles/deepfakes-of-celebrities-have-begun-appearing-in-ads-with-or-without-their-permission-11666692003)
+- [ClockworkPi – uConsole, “fantasy console” for indie game developers](https://www.clockworkpi.com/)
+- [Marijuana Users More Prone to Infections After Knee, Shoulder Surgeries](https://consumer.healthday.com/marijuana-users-more-prone-to-infections-after-knee-shoulder-surgeries-2658453251.html)
+- [I recorded user behaviour on my competitor’s websites &lpar;2018&rpar;](https://dejanmarketing.com/competitor-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
