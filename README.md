@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+- [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
+- [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
+- [Ask HN: What Is the Hype with Docker?](https://news.ycombinator.com/item?id=33325474)
 - [Car feature subscriptions should be illegal, New Jersey Legislators say](https://arstechnica.com/cars/2022/10/new-jersey-politicians-want-to-ban-subscriptions-for-car-hardware/)
-- [The Cult of Dd](https://eklitzke.org/the-cult-of-dd)
-- [Bumble releases open-source A.I. feature to help combat cyberflashing](https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics)
-- [Salary Transparency](https://xeiaso.net/salary-transparency)
-- [The Surreal Horror of PAM &lpar;2021&rpar;](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
 <!-- BLOG-POST-LIST:END -->
 
 ---
