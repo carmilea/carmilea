@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.11.0 final is now available](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291)
+- [Online card payments still suck](https://fynbos.app/blog/card-payments-still-suck)
+- [Emacs User Survey &lpar;2022&rpar;](https://emacssurvey.org/)
+- [Python 3.11.0 final](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291)
 - [Libre Tools from the National Cybersecurity Competence Center of Luxembourg](https://opensource.nc3.lu)
 - [Chromium based browsers leak user local IP via WebRTC foundation attribute](https://niespodd.github.io/webrtc-local-ip-leak/)
-- [Don’t let the great ESG self-deception infect climate tech investing](https://www.maddyness.com/uk/2022/10/24/dont-let-the-great-esg-self-deception-infect-climate-tech-investing/)
-- [WhatsApp goes down for users globally](https://www.theguardian.com/technology/2022/oct/25/whatapp-goes-down-for-users-globally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
