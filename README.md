@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Broke the Rules](https://www.matuzo.at/blog/2022/twitter-ban/)
-- [Alphabet Earnings Report Q3 2022 [pdf]](https://abc.xyz/investor/static/pdf/2022Q3_alphabet_earnings_release.pdf)
-- [5.1 Magnitude Earthquake Near San Jose, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73799091/executive)
-- [Photopea: The Free Photoshop Alternative Making Millions](https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions)
-- [The American chip industry’s $1.5T meltdown](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown)
+- [Apple calls on global supply chain to decarbonize by 2030](https://www.apple.com/newsroom/2022/10/apple-calls-on-global-supply-chain-to-decarbonize-by-2030/)
+- [NY Supreme Court reinstates all fired unvaccinated employees, orders backpay](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod&TSPD_101_R0=08533cd43fab2000edb19601c775225bb3f6399e467eba468d5199c578db439f849eb7e40f10149908fdb0d7a514480063155165f24217998870310adf4e840d6f2dc7e02b7b4af121d79ec670c4468d9bd049aca6bd09e1e6afd8e75126fd352e140d96c7de44a910dd0fd70c45a64765c0ad37a316ee13)
+- [Stable Diffusion to 3D/WebVR, in the cloud, available now](https://holovolo.tv/?type=aigen)
+- [Tell HN: Cloudflare R2 allows 300PB of egress for chump change](https://news.ycombinator.com/item?id=33336053)
+- [How the U.K. Became One of the Poorest Countries in Western Europe](https://www.theatlantic.com/newsletters/archive/2022/10/uk-economy-disaster-degrowth-brexit/671847/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
