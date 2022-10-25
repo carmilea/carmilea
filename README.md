@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
-- [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
+- [How to autoscale Grafana Loki queries using KEDA](https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/)
+- [Ask HN: What&#39;s the next evolution of the GUI OS?](https://news.ycombinator.com/item?id=33326533)
+- [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
+- [What “work” looks like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 - [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
-- [Ask HN: What Is the Hype with Docker?](https://news.ycombinator.com/item?id=33325474)
-- [Car feature subscriptions should be illegal, New Jersey Legislators say](https://arstechnica.com/cars/2022/10/new-jersey-politicians-want-to-ban-subscriptions-for-car-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
