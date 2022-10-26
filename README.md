@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most People–92%–Never Finish Online Job Applications](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/most-people-never-finish-online-job-applications.aspx)
+- [Most people don’t finish online job applications](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/most-people-never-finish-online-job-applications.aspx)
 - [Ring0VBA – Getting Ring0 Using a Word Document](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
 - [The Doodson-Légé Tide Predicting Machine](https://ntslf.org/about-tides/doodson-machine)
 - [Where else in London are there pylons?](https://diamondgeezer.blogspot.com/2022/10/londons-pylons.html)
