@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Early-life low-calorie sweetener consumption disrupts memory function in rats](https://insight.jci.org/articles/view/157714)
-- [The only way of being anonymous in Sweden is illegal](https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/)
-- [Ask HN: Do people not have hobbies anymore?](https://news.ycombinator.com/item?id=33343603)
-- [Dyalog: Escrow](http://www.dyalog.com/escrow.htm)
-- [Show HN: The Typing of the RegEX](https://thetypingoftheregex.com)
+- [Welcome to InfluxDB IOx: InfluxData’s New Storage Engine](https://www.influxdata.com/blog/influxdb-engine/)
+- [Metaballs](https://varun.ca/metaballs/)
+- [Disabling the Intel Management Engine](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+- [I Fell 15,000 Feet and Lived](https://uss-la-ca135.org/60/1960Judkins-Knott.html)
+- [Rooftop wind energy innovation claims 50% more energy than solar at same cost](https://www.pv-magazine.com/2022/10/17/rooftop-wind-energy-innovation-claims-50-more-energy-than-solar-at-same-cost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
