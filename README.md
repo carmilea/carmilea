@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most People–92%–Never Finish Online Job Applications](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/most-people-never-finish-online-job-applications.aspx)
+- [Ring0VBA – Getting Ring0 Using a Word Document](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
 - [The Doodson-Légé Tide Predicting Machine](https://ntslf.org/about-tides/doodson-machine)
-- [Robot Framework: generic open source automation framework](https://robotframework.org/)
-- [Aggregated Gas Storage Inventory – Europe](https://agsi.gie.eu/)
-- [Radioactive traces in tree rings reveal Earth’s history of ‘radiation storms’](https://theconversation.com/radioactive-traces-in-tree-rings-reveal-earths-history-of-unexplained-radiation-storms-193080)
-- [Recovered: Sega Exclusives on Palm OS &lpar;2019&rpar;](https://blog.gingerbeardman.com/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/)
+- [Where else in London are there pylons?](https://diamondgeezer.blogspot.com/2022/10/londons-pylons.html)
+- [Brave New Trusted Boot World](https://0pointer.net/blog/brave-new-trusted-boot-world.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
