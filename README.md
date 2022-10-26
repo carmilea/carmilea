@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most people don’t finish online job applications](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/most-people-never-finish-online-job-applications.aspx)
-- [Ring0VBA – Getting Ring0 Using a Word Document](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
-- [The Doodson-Légé Tide Predicting Machine](https://ntslf.org/about-tides/doodson-machine)
-- [Where else in London are there pylons?](https://diamondgeezer.blogspot.com/2022/10/londons-pylons.html)
-- [Brave New Trusted Boot World](https://0pointer.net/blog/brave-new-trusted-boot-world.html)
+- [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts)
+- [Inventing the Sustainable Batteries of the Future](https://battery2030.eu/research/roadmap/)
+- [uWebSockets](https://github.com/uNetworking/uWebSockets)
+- [Everything Is an X &lpar;2020&rpar;](https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/)
+- [Time is an illusion, Unix time doubly so](https://www.netmeister.org/blog/epoch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
