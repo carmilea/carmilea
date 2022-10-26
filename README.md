@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emulator Performance: WebAssembly vs. JavaScript &lpar;2021&rpar;](http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html)
+- [Vim After 15 Years &lpar;2017&rpar;](https://blog.langworth.com/vim3)
 - [Video gaming may be associated with better cognitive performance in children](https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children)
-- [Unreal Tournament 99 running on WASM](https://icculus.org/ut99-emscripten/)
-- [How much does cocaine cost around the world?](https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world)
+- [Unreal Tournament 99 running on WASM &lpar;2017&rpar;](https://icculus.org/ut99-emscripten/)
 - [AppleScript: Control Your Mac with an Email](https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac)
-- [The United States’ Unamendable Constitution](https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
