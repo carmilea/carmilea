@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Is Discontinuing Mindstorms](https://www.brickfanatics.com/lego-discontinuing-mindstorms-end-of-2022/)
-- [Meta Earning Results Q3 2022 [pdf]](https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2022-Results-2022.pdf)
-- [Tesla faces U.S. criminal probe over self-driving claims](https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/)
-- [SiriSpy – iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
-- [Spreading deadly pathogens under the disguise of popular music](https://arxiv.org/abs/2210.03688)
+- [Video gaming may be associated with better cognitive performance in children](https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children)
+- [Unreal Tournament 99 running on WASM](https://icculus.org/ut99-emscripten/)
+- [How much does cocaine cost around the world?](https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world)
+- [AppleScript: Control Your Mac with an Email](https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac)
+- [The United States’ Unamendable Constitution](https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
