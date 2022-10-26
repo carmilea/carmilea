@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dyalog: Escrow](http://www.dyalog.com/escrow.htm)
 - [Enso &lpar;YC S21&rpar; Is Hiring a Libraries Developer](https://www.ycombinator.com/companies/enso/jobs/9jKZoEM-senior-library-developer)
 - [DontBuyDell.com](https://dontbuydell.com)
 - [Substitute certain overhyped programming terms with more accurate replacements](https://addons.mozilla.org/en-US/firefox/addon/ai-to-bs/)
 - [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts)
-- [Inventing the Sustainable Batteries of the Future](https://battery2030.eu/research/roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
