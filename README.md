@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to InfluxDB IOx: InfluxData’s New Storage Engine](https://www.influxdata.com/blog/influxdb-engine/)
-- [Metaballs](https://varun.ca/metaballs/)
-- [Disabling the Intel Management Engine](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
-- [I Fell 15,000 Feet and Lived](https://uss-la-ca135.org/60/1960Judkins-Knott.html)
-- [Rooftop wind energy innovation claims 50% more energy than solar at same cost](https://www.pv-magazine.com/2022/10/17/rooftop-wind-energy-innovation-claims-50-more-energy-than-solar-at-same-cost/)
+- [Python 3.11 is faster than 3.8](https://jott.live/markdown/py3.11_vs_3.8)
+- [Show HN: Merge to earn, the reward system for open source development](https://github.com/slice-so/merge-to-earn)
+- [Disabling the Intel Management Engine](https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+- [Documented Unix facilities &lpar;across 93 major Unix releases&rpar;](https://dspinellis.github.io/unix-history-man/)
+- [Show HN: Villagers – A group travel app](https://villagersapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
