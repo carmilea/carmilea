@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy &lpar;YC W23&rpar; are hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Google profits plummet 27 percent in Q3 2022 earnings report](https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/)
+- [Tell HN: Meta is using my 2FA to call and sell me](https://news.ycombinator.com/item?id=33346568)
 - [Launch HN: Idemeum &lpar;YC S21&rpar; – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
 - [The currency of the new economy won&#39;t be money, but attention &lpar;1997&rpar;](https://www.wired.com/1997/12/es-attention/)
-- [Writing systemd units that stop gracefully before shutdown](https://www.psdn.io/posts/systemd-shutdown-unit/)
-- [Python 3.11 is faster than 3.8](https://jott.live/markdown/py3.11_vs_3.8)
-- [Show HN: Merge to earn, the reward system for open source development](https://github.com/slice-so/merge-to-earn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
