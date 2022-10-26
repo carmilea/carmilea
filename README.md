@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Keyboard Jobs – A job board which truly understands software developers](https://keyboardjobs.com)
+- [The Doodson-Légé Tide Predicting Machine](https://ntslf.org/about-tides/doodson-machine)
+- [Robot Framework: generic open source automation framework](https://robotframework.org/)
+- [Aggregated Gas Storage Inventory – Europe](https://agsi.gie.eu/)
 - [Radioactive traces in tree rings reveal Earth’s history of ‘radiation storms’](https://theconversation.com/radioactive-traces-in-tree-rings-reveal-earths-history-of-unexplained-radiation-storms-193080)
 - [Recovered: Sega Exclusives on Palm OS &lpar;2019&rpar;](https://blog.gingerbeardman.com/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/)
-- [Making a change to SQLite source code](https://brunocalza.me/making-a-change-to-sqlite-source-code/)
-- [Partial Cloudflare outage on October 25, 2022](https://blog.cloudflare.com/partial-cloudflare-outage-on-october-25-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
