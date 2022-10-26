@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Idemeum &lpar;YC S21&rpar; – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
+- [The currency of the new economy won&#39;t be money, but attention &lpar;1997&rpar;](https://www.wired.com/1997/12/es-attention/)
+- [Writing systemd units that stop gracefully before shutdown](https://www.psdn.io/posts/systemd-shutdown-unit/)
 - [Python 3.11 is faster than 3.8](https://jott.live/markdown/py3.11_vs_3.8)
 - [Show HN: Merge to earn, the reward system for open source development](https://github.com/slice-so/merge-to-earn)
-- [Disabling the Intel Management Engine](https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
-- [Documented Unix facilities &lpar;across 93 major Unix releases&rpar;](https://dspinellis.github.io/unix-history-man/)
-- [Show HN: Villagers – A group travel app](https://villagersapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
