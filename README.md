@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why isn&#39;t Dart more popular?](https://news.ycombinator.com/item?id=33338709)
+- [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
+- [SpaceX Launches Starlink ‘Flat High-Performance’ Dish for Moving Vehicles](https://teslanorth.com/2022/10/25/spacex-launches-starlink-flat-high-performance-dish-for-internet-in-moving-vehicles/)
 - [The Hotel I Booked Online Became a Homeless Shelter and No One Told Me](https://www.nytimes.com/2022/10/25/travel/tripped-up-hotel-booking.html)
 - [How to request removal of your contact info from Google search results](https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/)
 - [Our Conscious Experience of the World Is but a Memory, Says New Theory](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/)
-- [The irrelevance of test scores is greatly exaggerated](https://dynomight.net/are-tests-irrelevant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
