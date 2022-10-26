@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recovered: Sega Exclusives on Palm OS &lpar;2019&rpar;](https://blog.gingerbeardman.com/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/)
+- [Making a change to SQLite source code](https://brunocalza.me/making-a-change-to-sqlite-source-code/)
+- [Partial Cloudflare outage on October 25, 2022](https://blog.cloudflare.com/partial-cloudflare-outage-on-october-25-2022/)
+- [Building software to last forever](https://herman.bearblog.dev/building-software-to-last-forever/)
 - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
-- [SpaceX Launches Starlink ‘Flat High-Performance’ Dish for Moving Vehicles](https://teslanorth.com/2022/10/25/spacex-launches-starlink-flat-high-performance-dish-for-internet-in-moving-vehicles/)
-- [The Hotel I Booked Online Became a Homeless Shelter and No One Told Me](https://www.nytimes.com/2022/10/25/travel/tripped-up-hotel-booking.html)
-- [How to request removal of your contact info from Google search results](https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/)
-- [Our Conscious Experience of the World Is but a Memory, Says New Theory](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
