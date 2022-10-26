@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phar Lap FrontRunner – The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
-- [Ivy &lpar;YC W23&rpar; are hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Google profits plummet 27 percent in Q3 2022 earnings report](https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/)
-- [Tell HN: Meta is using my 2FA to call and sell me](https://news.ycombinator.com/item?id=33346568)
-- [Decompilation of Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR)
+- [Lego Is Discontinuing Mindstorms](https://www.brickfanatics.com/lego-discontinuing-mindstorms-end-of-2022/)
+- [Meta Earning Results Q3 2022 [pdf]](https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2022-Results-2022.pdf)
+- [Tesla faces U.S. criminal probe over self-driving claims](https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/)
+- [SiriSpy – iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
+- [Spreading deadly pathogens under the disguise of popular music](https://arxiv.org/abs/2210.03688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
