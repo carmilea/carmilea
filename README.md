@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phar Lap FrontRunner – The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
 - [Ivy &lpar;YC W23&rpar; are hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Google profits plummet 27 percent in Q3 2022 earnings report](https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/)
 - [Tell HN: Meta is using my 2FA to call and sell me](https://news.ycombinator.com/item?id=33346568)
-- [Launch HN: Idemeum &lpar;YC S21&rpar; – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
-- [The currency of the new economy won&#39;t be money, but attention &lpar;1997&rpar;](https://www.wired.com/1997/12/es-attention/)
+- [Decompilation of Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR)
 <!-- BLOG-POST-LIST:END -->
 
 ---
