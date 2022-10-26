@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Early-life low-calorie sweetener consumption disrupts memory function in rats](https://insight.jci.org/articles/view/157714)
+- [The only way of being anonymous in Sweden is illegal](https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/)
+- [Ask HN: Do people not have hobbies anymore?](https://news.ycombinator.com/item?id=33343603)
 - [Dyalog: Escrow](http://www.dyalog.com/escrow.htm)
-- [Enso &lpar;YC S21&rpar; Is Hiring a Libraries Developer](https://www.ycombinator.com/companies/enso/jobs/9jKZoEM-senior-library-developer)
-- [DontBuyDell.com](https://dontbuydell.com)
-- [Substitute certain overhyped programming terms with more accurate replacements](https://addons.mozilla.org/en-US/firefox/addon/ai-to-bs/)
-- [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts)
+- [Show HN: The Typing of the RegEX](https://thetypingoftheregex.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
