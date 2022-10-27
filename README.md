@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal Says It Will Exit India Rather Than Compromise Its Encryption](https://www.techdirt.com/2022/10/26/signal-says-it-will-exit-india-rather-than-compromise-its-encryption/)
-- [ReMarkable 2](https://remarkable.com/)
-- [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
-- [Napa.js: A multi-threaded JavaScript runtime](https://github.com/microsoft/napajs)
-- [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199)
+- [Where did all the “reject” buttons come from?](https://noyb.eu/en/where-did-all-reject-buttons-come)
+- [Which programming paradigm had the most impact on you as an engineer and why?](https://news.ycombinator.com/item?id=33354036)
+- [Multiranges in Postgres](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
+- [Signal says it won’t compromise on encryption](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
