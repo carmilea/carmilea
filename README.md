@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Time.gif](https://hookrace.net/blog/time.gif/)
-- [Rethinking Virtualization for Backends](https://www.shuttle.rs/blog/2022/10/21/shuttle-next)
-- [Apple Says iPhones Will Switch over to USB-C Chargers to Comply with New EU Law](https://www.forbes.com/sites/siladityaray/2022/10/26/weve-no-choice-apple-says-iphones-will-switch-over-to-usb-c-chargers-to-comply-with-new-eu-law/)
-- [VHS: Your CLI home video recorder](https://github.com/charmbracelet/vhs)
-- [Exxon’s Exodus: Employees Have Finally Had Enough of Its Toxic Culture](https://www.bloomberg.com/news/features/2022-10-13/exxon-xom-jobs-exodus-brings-scrutiny-to-corporate-culture)
+- [Launch HN: MovingLake &lpar;YC S22&rpar; – Real-time data connectors for almost anything](https://app.movinglake.com)
+- [Why Is Hydroelectricity So Green, and yet Unfashionable?](https://spectrum.ieee.org/hydroelectric-power)
+- [How to backup Firebase realtime database when the payload is too large &lpar;256MB&rpar;](https://BigBalli.com/blog/how-to-backup-firebase-realtime-database)
+- [300 meters resolution SF Bay Area Forecast](https://sf.atmo.ai)
+- [The rise of biodigital surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
