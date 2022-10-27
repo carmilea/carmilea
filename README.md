@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal Says It Will Exit India Rather Than Compromise Its Encryption](https://www.techdirt.com/2022/10/26/signal-says-it-will-exit-india-rather-than-compromise-its-encryption/)
 - [ReMarkable 2](https://remarkable.com/)
+- [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 - [Napa.js: A multi-threaded JavaScript runtime](https://github.com/microsoft/napajs)
 - [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
-- [My Cloud Storage Crisis](https://tiramisu.bearblog.dev/google-photos/)
-- [Show HN: I solved my New Tab page](https://startertab.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
