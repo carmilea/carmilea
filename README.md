@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC says efforts to rebuild US semiconductor industry are doomed to fail](https://appleinsider.com/articles/22/10/24/tsmc-says-efforts-to-rebuild-us-semiconductor-industry-are-doomed-to-fail)
-- [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
-- [Shell Script Best Practices, from a decade of scripting things](https://sharats.me/posts/shell-script-best-practices/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199)
-- [Multiranges in Postgres](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
+- [QuestDB Is Hiring a Core Database Engineer &lpar;Low Latency Java and C++&rpar;](https://questdb.io/careers/core-database-engineer/)
+- [Ad blocking is under attack](https://adguard.com/en/blog/ad-blocking-is-under-attack.html)
+- [The Gnome Project is closing all its mailing lists](https://www.theregister.com/2022/10/27/the_gnome_project_is_closing/)
+- [A 155 carat diamond with 92 mm diameter &lpar;2017&rpar;](https://www.innovations-report.com/life-sciences/a-155-carat-diamond-with-92-mm-diameter/)
+- [One Store’s Decision to Leave San Francisco over Crime](https://www.theatlantic.com/ideas/archive/2022/10/cotopaxi-san-francisco-davis-smith/671858/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
