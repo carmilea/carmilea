@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
-- [Which emoji scissors close? &lpar;2020&rpar;](https://wh0.github.io/2020/01/02/scissors.html)
-- [PayPal’s Objectionable Terms Are Back, $2500 Fines for Content They Don’t Like](https://viewfromthewing.com/paypals-objectionable-terms-are-back-2500-fines-for-content-they-dont-like/)
-- [Launch HN: MovingLake &lpar;YC S22&rpar; – Real-time data connectors for almost anything](https://app.movinglake.com)
-- [Real-time dialogue between experimenters and dreamers during REM sleep &lpar;2021&rpar;](https://doi.org/10.1016/j.cub.2021.01.026)
+- [Deno v1.27](https://deno.com/blog/v1.27)
+- [Specialist – visual representations of CPython 3.11&#39;s new adaptive interpreter](https://pypi.org/project/specialist/)
+- [We became the foremost expert on Google Play Store policy violations](https://blog.pushbullet.com/2022/10/27/how-we-became-the-worlds-foremost-expert-on-google-play-store-policy-violations/)
+- [Telegram has stolen my channel&#39;s username to sell it on auction](https://news.ycombinator.com/item?id=33360994)
+- [How to write a bootloader from scratch &lpar;2019&rpar;](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
