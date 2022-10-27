@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Humans and our livestock account for 96% of all mammal biomass](https://ourworldindata.org/mammals)
-- [Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage](https://lav.io/notes/the-zooms/)
-- [Why I use Jellyfin for my home media library](https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library)
-- [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
-- [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
+- [Jitx &lpar;YC S18&rpar; is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
+- [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
+- [We’re Dropping Google Ads](https://www.groundup.org.za/article/why-were-dropping-google-ads/)
+- [Apple Q4/2022](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
+- [Apple Security Bounty. Upgraded](https://security.apple.com/blog/apple-security-bounty-upgraded/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
