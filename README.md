@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
 - [Shell Script Best Practices, from a decade of scripting things](https://sharats.me/posts/shell-script-best-practices/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199)
 - [Where did all the “reject” buttons come from?](https://noyb.eu/en/where-did-all-reject-buttons-come)
 - [Multiranges in Postgres](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
-- [Signal says it won’t compromise on encryption](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
