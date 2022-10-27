@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Nuclear Meltdown at the New York Times](https://issuesinsights.com/2022/10/27/a-nuclear-meltdown-at-the-new-york-times/)
-- [Modern PHP features explained – PHP 8.0 and 8.1](https://laravel-news.com/modern-php-features-explained)
-- [Meta stock sinks more than 23%](https://www.google.com/finance/quote/META:NASDAQ)
-- [Show HN: I 3D scanned the interior of the Great Pyramid at Giza &lpar;Khufu&rpar;](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
-- [QuestDB Is Hiring a Core Database Engineer &lpar;Low Latency Java and C++&rpar;](https://questdb.io/careers/core-database-engineer/)
+- [Time.gif](https://hookrace.net/blog/time.gif/)
+- [Rethinking Virtualization for Backends](https://www.shuttle.rs/blog/2022/10/21/shuttle-next)
+- [Apple Says iPhones Will Switch over to USB-C Chargers to Comply with New EU Law](https://www.forbes.com/sites/siladityaray/2022/10/26/weve-no-choice-apple-says-iphones-will-switch-over-to-usb-c-chargers-to-comply-with-new-eu-law/)
+- [VHS: Your CLI home video recorder](https://github.com/charmbracelet/vhs)
+- [Exxon’s Exodus: Employees Have Finally Had Enough of Its Toxic Culture](https://www.bloomberg.com/news/features/2022-10-13/exxon-xom-jobs-exodus-brings-scrutiny-to-corporate-culture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
