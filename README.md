@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
+- [Show HN: I solved my New Tab page](https://startertab.com/)
+- [MIT campus is planning on mostly remaining permanently closed to the public](https://twitter.com/jack_b_reid/status/1556735206547066880)
+- [Galactic settlement of low-mass stars as a resolution to the Fermi paradox](https://arxiv.org/abs/2210.10656)
 - [Emulator Performance: WebAssembly vs. JavaScript &lpar;2021&rpar;](http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html)
-- [Vim After 15 Years &lpar;2017&rpar;](https://blog.langworth.com/vim3)
-- [Video gaming may be associated with better cognitive performance in children](https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children)
-- [Unreal Tournament 99 running on WASM &lpar;2017&rpar;](https://icculus.org/ut99-emscripten/)
-- [AppleScript: Control Your Mac with an Email](https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
