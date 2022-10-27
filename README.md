@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You might not need JavaScript](http://youmightnotneedjs.com/)
+- [HN Comments Are [still] Underrated &lpar;2016&rpar;](http://danluu.com/hn-comments/)
+- [Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
 - [Jitx &lpar;YC S18&rpar; is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
 - [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
-- [We’re Dropping Google Ads &lpar;2017&rpar;](https://www.groundup.org.za/article/why-were-dropping-google-ads/)
-- [Apple Q4/2022](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
-- [Apple Security Bounty. Upgraded](https://security.apple.com/blog/apple-security-bounty-upgraded/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
