@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
+- [Which emoji scissors close? &lpar;2020&rpar;](https://wh0.github.io/2020/01/02/scissors.html)
+- [PayPal’s Objectionable Terms Are Back, $2500 Fines for Content They Don’t Like](https://viewfromthewing.com/paypals-objectionable-terms-are-back-2500-fines-for-content-they-dont-like/)
 - [Launch HN: MovingLake &lpar;YC S22&rpar; – Real-time data connectors for almost anything](https://app.movinglake.com)
-- [Why Is Hydroelectricity So Green, and yet Unfashionable?](https://spectrum.ieee.org/hydroelectric-power)
-- [How to backup Firebase realtime database when the payload is too large &lpar;256MB&rpar;](https://BigBalli.com/blog/how-to-backup-firebase-realtime-database)
-- [300 meters resolution SF Bay Area Forecast](https://sf.atmo.ai)
-- [The rise of biodigital surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
+- [Real-time dialogue between experimenters and dreamers during REM sleep &lpar;2021&rpar;](https://doi.org/10.1016/j.cub.2021.01.026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
