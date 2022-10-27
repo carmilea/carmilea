@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Nuclear Meltdown at the New York Times](https://issuesinsights.com/2022/10/27/a-nuclear-meltdown-at-the-new-york-times/)
+- [Modern PHP features explained – PHP 8.0 and 8.1](https://laravel-news.com/modern-php-features-explained)
+- [Meta stock sinks more than 23%](https://www.google.com/finance/quote/META:NASDAQ)
+- [Show HN: I 3D scanned the interior of the Great Pyramid at Giza &lpar;Khufu&rpar;](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
 - [QuestDB Is Hiring a Core Database Engineer &lpar;Low Latency Java and C++&rpar;](https://questdb.io/careers/core-database-engineer/)
-- [Google Timer is gone &lpar;again&rpar;](https://www.google.com/search?q=3+minute+timer)
-- [Ad blocking is under attack &lpar;2017&rpar;](https://adguard.com/en/blog/ad-blocking-is-under-attack.html)
-- [The Gnome Project is closing all its mailing lists](https://www.theregister.com/2022/10/27/the_gnome_project_is_closing/)
-- [A 155 carat diamond with 92 mm diameter &lpar;2017&rpar;](https://www.innovations-report.com/life-sciences/a-155-carat-diamond-with-92-mm-diameter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
