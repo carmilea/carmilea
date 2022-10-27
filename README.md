@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
+- [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
 - [Deno v1.27](https://deno.com/blog/v1.27)
 - [Specialist – visual representations of CPython 3.11&#39;s new adaptive interpreter](https://pypi.org/project/specialist/)
 - [We became the foremost expert on Google Play Store policy violations](https://blog.pushbullet.com/2022/10/27/how-we-became-the-worlds-foremost-expert-on-google-play-store-policy-violations/)
-- [Telegram has stolen my channel&#39;s username to sell it on auction](https://news.ycombinator.com/item?id=33360994)
-- [How to write a bootloader from scratch &lpar;2019&rpar;](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
