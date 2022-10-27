@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Switched from Python to Go](https://getstream.io/blog/switched-python-go/)
+- [Napa.js: A multi-threaded JavaScript runtime](https://github.com/microsoft/napajs)
 - [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
 - [Show HN: I solved my New Tab page](https://startertab.com/)
-- [MIT campus is planning on mostly remaining permanently closed to the public](https://twitter.com/jack_b_reid/status/1556735206547066880)
-- [Galactic settlement of low-mass stars as a resolution to the Fermi paradox](https://arxiv.org/abs/2210.10656)
-- [Emulator Performance: WebAssembly vs. JavaScript &lpar;2021&rpar;](http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html)
+- [Most buildings at MIT campus are remaining closed to the public](https://twitter.com/jack_b_reid/status/1556735206547066880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
