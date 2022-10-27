@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Switched from Python to Go](https://getstream.io/blog/switched-python-go/)
+- [ReMarkable 2](https://remarkable.com/)
 - [Napa.js: A multi-threaded JavaScript runtime](https://github.com/microsoft/napajs)
 - [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
+- [My Cloud Storage Crisis](https://tiramisu.bearblog.dev/google-photos/)
 - [Show HN: I solved my New Tab page](https://startertab.com/)
-- [Most buildings at MIT campus are remaining closed to the public](https://twitter.com/jack_b_reid/status/1556735206547066880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
