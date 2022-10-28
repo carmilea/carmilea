@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore | Engineering Livestream | September](https://www.youtube.com/watch?v=MlBEn8ENpHc)
 - [Data Intensity Calculator Discoveries](https://www.youtube.com/watch?v=V1sd_Ch6aYo)
 - [Arcules and Nucleus Security | Panel: IoT &amp; Cybersecurity](https://www.youtube.com/watch?v=tqCtdiK13O8)
 - [Bitwyre and Digital Asset Research &lpar;DAR&rpar; | Panel: Fintech Revolution](https://www.youtube.com/watch?v=WUjHHUhB56o)
 - [impact.com and Siemens | Panel: Powering Modern Data-Intensive Applications](https://www.youtube.com/watch?v=_4LPlKTH8sI)
-- [dbt Labs | Powering Real-Time Analytics](https://www.youtube.com/watch?v=Mzy504MoftI)
 <!-- YOUTUBE:END -->
 
 
