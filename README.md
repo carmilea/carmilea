@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iroh: A New Implementation of IPFS in Rust](https://iroh.computer/)
+- [The Making of Darius &lpar;1987&rpar;](https://shmuplations.com/darius/)
 - [Show HN: Checksum.sh verify every install script](https://checksum.sh/)
 - [Intel Extension for TensorFlow](https://github.com/intel/intel-extension-for-tensorflow)
-- [How we detect, remove and report child sexual abuse material](https://blog.google/technology/safety-security/how-we-detect-remove-and-report-child-sexual-abuse-material/)
-- [Brexit: Rejoining EU takes record 14-point lead in latest poll](https://www.independent.co.uk/news/uk/politics/brexit-eu-rejoin-poll-b2212730.html)
-- [Twitter will be forming a content moderation council with diverse viewpoints](https://twitter.com/elonmusk/status/1586059953311137792)
+- [Control your AI images with these must-know parameters](https://www.sagiodev.com/blog/stable_diffusion_parameters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
