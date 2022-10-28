@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Increased sedentary behavior alters metabolism and body composition &lpar;2018&rpar;](https://pubmed.ncbi.nlm.nih.gov/29671031/)
+- [Disk Prices](https://diskprices.com/?locale=us)
 - [PyTorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)
 - [Every day, I commit a new and more complicated version of some simple code](https://github.com/Yetiowner/Increasing-code-complexity)
 - [Ancient Maya city – Lidar technology unearthed tropical megapolis [at] Calakmul](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
-- [Nanowire Synapses 30,000x Faster Than Nature’s](https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse)
-- [Iroh: A New Implementation of IPFS in Rust](https://iroh.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
