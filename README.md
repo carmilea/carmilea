@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s time to admit self-driving cars aren&#39;t going to happen](https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/)
 - [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
 - [Redditor acquires decommissioned Netflix cache server with 262TB of storage](https://arstechnica.com/information-technology/2022/10/redditor-acquires-decommissioned-netflix-cache-server-with-262tb-of-storage/)
+- [Why Is Markdown Popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [My Fanless OpenBSD Desktop &lpar;2021&rpar;](https://jcs.org/2021/07/19/desktop)
-- [I tried starting a manufacturing unit in India &lpar;2020&rpar;](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
