@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)
+- [Every day, I commit a new and more complicated version of some simple code](https://github.com/Yetiowner/Increasing-code-complexity)
+- [Ancient Maya city – Lidar technology unearthed tropical megapolis [at] Calakmul](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
+- [Nanowire Synapses 30,000x Faster Than Nature’s](https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse)
 - [Iroh: A New Implementation of IPFS in Rust](https://iroh.computer/)
-- [The Making of Darius &lpar;1987&rpar;](https://shmuplations.com/darius/)
-- [Show HN: Checksum.sh verify every install script](https://checksum.sh/)
-- [Intel Extension for TensorFlow](https://github.com/intel/intel-extension-for-tensorflow)
-- [Control your AI images with these must-know parameters](https://www.sagiodev.com/blog/stable_diffusion_parameters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
