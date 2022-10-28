@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
+- [Odroid-H3](https://www.hardkernel.com/shop/odroid-h3-plus/)
 - [Tell HN: YouTube&#39;s web UI just got even worse](https://news.ycombinator.com/item?id=33371268)
 - [GraphQL RDF Bridge in TerminusDB Using Rust&#39;s Juniper Library](https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/)
 - [Transfinite game values in infinite chess](http://jdh.hamkins.org/game-values-in-infinite-chess/)
-- [The Iran Firewall: A preliminary report](https://blog.thc.org/the-iran-firewall-a-preliminary-report)
-- [My love-hate relationship with mechanical watches](https://tiramisu.bearblog.dev/watches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
