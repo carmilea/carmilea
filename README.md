@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Increased sedentary behavior alters metabolism and body composition &lpar;2018&rpar;](https://pubmed.ncbi.nlm.nih.gov/29671031/)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/index.html)
 - [Disk Prices](https://diskprices.com/?locale=us)
 - [PyTorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)
 - [Every day, I commit a new and more complicated version of some simple code](https://github.com/Yetiowner/Increasing-code-complexity)
-- [Ancient Maya city – Lidar technology unearthed tropical megapolis [at] Calakmul](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
 <!-- BLOG-POST-LIST:END -->
 
 ---
