@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s time to admit self-driving cars aren&#39;t going to happen](https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/)
-- [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
-- [Redditor acquires decommissioned Netflix cache server with 262TB of storage](https://arstechnica.com/information-technology/2022/10/redditor-acquires-decommissioned-netflix-cache-server-with-262tb-of-storage/)
-- [Why Is Markdown Popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
+- [Signal Says It Will Exit India Rather Than Compromise Its Encryption](https://www.techdirt.com/2022/10/26/signal-says-it-will-exit-india-rather-than-compromise-its-encryption/)
+- [In Europe, the bird will fly by our EU rules](https://twitter.com/thierrybreton/status/1585902196864045056)
+- [Mondrian painting has been hanging upside down for 75 years](https://www.theguardian.com/artanddesign/2022/oct/28/mondrian-painting-has-been-hanging-upside-down-for-75-years)
+- [Museum of Failure](https://museumoffailure.com/)
+- [This file has Pantone colors that have been removed and replaced with black](https://twitter.com/funwithstuff/status/1585850262656143360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
