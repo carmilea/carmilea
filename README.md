@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk owns Twitter: The story so far](https://techcrunch.com/2022/10/28/elon-musk-owns-twitter-the-story-so-far/)
-- [Jerry Lee Lewis has died](https://www.rollingstone.com/music/music-news/jerry-lee-lewis-dead-obituary-1234616945/)
-- [Nvidia’s hot 12VHPWR adapter](https://www.igorslab.de/en/adapter-of-the-gray-analyzed-nvidias-brand-hot-12vhpwr-adapter-with-built-in-breakpoint/)
-- [Wiby.me: curated search engine for content-first suckless sites](https://wiby.me/)
-- [Linux Security Hardening and Other Tweaks](https://vez.mrsk.me/linux-hardening.html)
+- [Show HN: Checksum.sh verify every install script](https://checksum.sh/)
+- [Intel Extension for TensorFlow](https://github.com/intel/intel-extension-for-tensorflow)
+- [How we detect, remove and report child sexual abuse material](https://blog.google/technology/safety-security/how-we-detect-remove-and-report-child-sexual-abuse-material/)
+- [Brexit: Rejoining EU takes record 14-point lead in latest poll](https://www.independent.co.uk/news/uk/politics/brexit-eu-rejoin-poll-b2212730.html)
+- [Twitter will be forming a content moderation council with diverse viewpoints](https://twitter.com/elonmusk/status/1586059953311137792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
