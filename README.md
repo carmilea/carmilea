@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: YouTube&#39;s web UI just got even worse](https://news.ycombinator.com/item?id=33371268)
 - [GraphQL RDF Bridge in TerminusDB Using Rust&#39;s Juniper Library](https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/)
 - [Transfinite game values in infinite chess](http://jdh.hamkins.org/game-values-in-infinite-chess/)
-- [Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter](https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/)
-- [How to communicate &lpar;more&rpar; effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
-- [Push-Based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/)
+- [The Iran Firewall: A preliminary report](https://blog.thc.org/the-iran-firewall-a-preliminary-report)
+- [My love-hate relationship with mechanical watches](https://tiramisu.bearblog.dev/watches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
