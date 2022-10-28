@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal Says It Will Exit India Rather Than Compromise Its Encryption](https://www.techdirt.com/2022/10/26/signal-says-it-will-exit-india-rather-than-compromise-its-encryption/)
-- [In Europe, the bird will fly by our EU rules](https://twitter.com/thierrybreton/status/1585902196864045056)
-- [Mondrian painting has been hanging upside down for 75 years](https://www.theguardian.com/artanddesign/2022/oct/28/mondrian-painting-has-been-hanging-upside-down-for-75-years)
-- [Museum of Failure](https://museumoffailure.com/)
-- [This file has Pantone colors that have been removed and replaced with black](https://twitter.com/funwithstuff/status/1585850262656143360)
+- [GraphQL RDF Bridge in TerminusDB Using Rust&#39;s Juniper Library](https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/)
+- [Transfinite game values in infinite chess](http://jdh.hamkins.org/game-values-in-infinite-chess/)
+- [Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter](https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/)
+- [How to communicate &lpar;more&rpar; effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
+- [Push-Based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
