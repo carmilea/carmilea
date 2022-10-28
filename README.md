@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redditor acquires decommissioned Netflix cache server with 262TB of storage](https://arstechnica.com/information-technology/2022/10/redditor-acquires-decommissioned-netflix-cache-server-with-262tb-of-storage/)
+- [Why Is Markdown Popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
-- [Stupid Security Things](https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/)
-- [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
-- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
+- [My Fanless OpenBSD Desktop &lpar;2021&rpar;](https://jcs.org/2021/07/19/desktop)
+- [I tried starting a manufacturing unit in India &lpar;2020&rpar;](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
