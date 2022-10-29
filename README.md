@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Zero Emissions&#39; from Electric Vehicles? Here&#39;s Why That Claim Has Zero Basis](https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html)
-- [Hard Drive Cost per Gigabyte &lpar;2017&rpar;](https://www.backblaze.com/blog/hard-drive-cost-per-gigabyte/)
+- [&#39;Golden parachutes&#39; for 3 fired Twitter executives worth $122M -Equilar](https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/)
+- [Om is a novel, maximally-simple concatenative language](http://www.om-language.org/)
 - [&#39;Asymptotic burnout&#39; of planet-scale civilizations may explain Fermi Paradox](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0029)
 - [Crypto exchange Binance, Musk&#39;s co-investor, to help Twitter with blockchain](https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/)
-- [Ask HN: An advice that changed your life?](https://news.ycombinator.com/item?id=33382056)
+- [BearSSL: A smaller SSL/TLS library](https://bearssl.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
