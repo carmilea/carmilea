@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is D&#39;s garbage collection slower than GO&#39;s?](https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com)
 - [That time an Israeli F-15 landed without a wing](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
 - [Urgent Upcoming OpenSSL release patches critical vulnerability](https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability)
 - [Prepare for the OpenSSL 3.x Secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
-- [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
-- [Source Code for SunOS 4.1.3 &lpar;1992&rpar;](https://github.com/Arquivotheca/SunOS-4.1.3)
+- [The Art of the Desk Setup &lpar;2021&rpar;](https://arun.is/blog/desk-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
