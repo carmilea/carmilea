@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is D&#39;s garbage collection slower than GO&#39;s?](https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com)
-- [That time an Israeli F-15 landed without a wing](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
-- [Urgent Upcoming OpenSSL release patches critical vulnerability](https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability)
-- [Prepare for the OpenSSL 3.x Secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
-- [The Art of the Desk Setup &lpar;2021&rpar;](https://arun.is/blog/desk-setup/)
+- [Katamari Hack &lpar;2011&rpar;](http://kathack.com/)
+- [Taking Lichess to the Next Level](https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level)
+- [Why is D&#39;s garbage collection slower than Go&#39;s?](https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com)
+- [An Israeli F-15 landed without a wing &lpar;2020&rpar;](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
+- [Patch OpenSSL on November 1 to avoid “critical” security vulnerability](https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
