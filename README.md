@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Soul – A SQLite RESTful Server](https://github.com/thevahidal/soul)
+- [Compilers and IRs: LLVM IR, SPIR-V, and MLIR](https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/)
+- [Freetone – Pantone-ish colour palette for Adobe products](https://culturehustle.com/products/freetone)
+- [The lazy mysticism of Alan Watts](https://www.philosophyforlife.org/blog/the-lazy-mysticism-of-alan-watts)
 - [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
-- [Update on the fake story about the river laborers paying people to whip them](https://statmodeling.stat.columbia.edu/2022/10/29/update-on-the-fake-story-about-the-river-laborers-paying-people-to-whip-them/)
-- [Clojure Cheatsheets](https://jafingerhut.github.io/)
-- [Life after Heroku: What&#39;s a dev to do?](https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/)
-- [How I make a living working on SerenityOS](https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
