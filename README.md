@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prepare for the OpenSSL 3.x Secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
+- [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
 - [Source Code for SunOS 4.1.3 &lpar;1992&rpar;](https://github.com/Arquivotheca/SunOS-4.1.3)
 - [Since becoming Meta, Facebook’s parent company has lost US$650B](https://globalnews.ca/news/9233468/meta-facebook-loses-650-billion-market-value/)
 - [Daemon – Writing and packaging system daemons](https://man7.org/linux/man-pages/man7/daemon.7.html)
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/index.html)
-- [Disk Prices](https://diskprices.com/?locale=us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
