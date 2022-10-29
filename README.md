@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soul – A SQLite RESTful Server](https://github.com/thevahidal/soul)
-- [Compilers and IRs: LLVM IR, SPIR-V, and MLIR](https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/)
-- [Freetone – Pantone-ish colour palette for Adobe products](https://culturehustle.com/products/freetone)
-- [The lazy mysticism of Alan Watts](https://www.philosophyforlife.org/blog/the-lazy-mysticism-of-alan-watts)
-- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
+- [AdGuardHome: Network-wide ads and trackers blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
+- [Somali Law](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/Book_Draft/Systems/SomaliLawChapter.html)
+- [Telegram CEO Accuses Apple of Crushing Entrepreneurs](https://www.macrumors.com/2022/10/28/telegram-ceo-apple-destroying-dreams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
