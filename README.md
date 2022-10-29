@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Netherlands may be the first country to hit the limits of growth](https://www.ft.com/content/4c56c9b2-f4ad-4956-9216-655acebd845d)
+- [Breakthrough electrolyser development: 200 times less iridium needed](https://www.tno.nl/en/newsroom/2022/10/breakthrough-electrolyser-development/)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Texas solar and wind resources saved consumers nearly $28B over 12 years](https://www.utilitydive.com/news/texas-solar-and-wind-resources-saved-consumers-nearly-28-billion-over-12-y/634893/)
 - [MGL – OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)
-- [The Garden and the Stream: A Technopastoral &lpar;2015&rpar;](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
-- [Teens Turn to TikTok in Search of a Mental Health Diagnosis](https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html)
-- [Om is a novel, maximally-simple concatenative language](http://www.om-language.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
