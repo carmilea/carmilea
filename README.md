@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 - [Katamari Hack &lpar;2011&rpar;](http://kathack.com/)
 - [Taking Lichess to the Next Level](https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level)
 - [Why is D&#39;s garbage collection slower than Go&#39;s?](https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com)
 - [An Israeli F-15 landed without a wing &lpar;2020&rpar;](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
-- [Patch OpenSSL on November 1 to avoid “critical” security vulnerability](https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
