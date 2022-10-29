@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Golden parachutes&#39; for 3 fired Twitter executives worth $122M -Equilar](https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [MGL – OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)
+- [The Garden and the Stream: A Technopastoral &lpar;2015&rpar;](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+- [Teens Turn to TikTok in Search of a Mental Health Diagnosis](https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html)
 - [Om is a novel, maximally-simple concatenative language](http://www.om-language.org/)
-- [&#39;Asymptotic burnout&#39; of planet-scale civilizations may explain Fermi Paradox](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0029)
-- [Crypto exchange Binance, Musk&#39;s co-investor, to help Twitter with blockchain](https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/)
-- [BearSSL: A smaller SSL/TLS library](https://bearssl.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
