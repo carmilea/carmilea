@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dogecoin has soared 44% in the past week as Musk&#39;s Twitter takeover lifts hopes](https://markets.businessinsider.com/news/currencies/dogecoin-price-elon-musk-twitter-crypto-doge-cryptocurrencies-2022-10ies-2022-10%3famp)
-- [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison)
-- [Dozens in cardiac arrest in Halloween crowds in South Korea](https://www.bbc.com/news/world-asia-63440849)
-- [Why does the US allow a controversial weedkiller banned across the world?](https://www.theguardian.com/us-news/2022/oct/28/paraquat-weedkiller-epa-ban)
-- [Google Ad Disguising Itself as www.gimp.org](https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/)
+- [Patterns &lpar;YC S21&rpar; is hiring to build a developer platform for data apps](https://www.patterns.app/)
+- [Ask HN: What mindset change made the biggest positive change for you?](https://news.ycombinator.com/item?id=33385750)
+- [I made a guestbook for my website using GitHub Gist and Netlify Functions](https://sunny.gg/guestbook)
+- [Saudi woman jailed for 45 years for social media posts](https://www.bbc.com/news/world-middle-east-62736118)
+- [CoWasm: An alternative to Emscripten, based on Zig &lpar;demo: Python in the browser&rpar;](https://cowasm.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
