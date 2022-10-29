@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dogecoin has soared 44% in the past week as Musk&#39;s Twitter takeover lifts hopes](https://markets.businessinsider.com/news/currencies/dogecoin-price-elon-musk-twitter-crypto-doge-cryptocurrencies-2022-10ies-2022-10%3famp)
+- [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison)
+- [Dozens in cardiac arrest in Halloween crowds in South Korea](https://www.bbc.com/news/world-asia-63440849)
+- [Why does the US allow a controversial weedkiller banned across the world?](https://www.theguardian.com/us-news/2022/oct/28/paraquat-weedkiller-epa-ban)
 - [Google Ad Disguising Itself as www.gimp.org](https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/)
-- [Kathleen Booth has died](https://www.theregister.com/2022/10/29/kathleen_booth_obit/)
-- [Incidents caused by unappreciated OSS maintainers or underfunded OSS projects](https://github.com/PayDevs/awful-oss-incidents)
-- [Amazon’s cloud business just recorded its weakest growth to date](https://www.cnbc.com/2022/10/27/aws-earnings-q3-2022.html)
-- [Google alerted Californians to an earthquake before it happened](https://www.wired.com/story/google-android-earthquake-alert-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
