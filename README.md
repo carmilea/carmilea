@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar; is hiring to build a developer platform for data apps](https://www.patterns.app/)
-- [Ask HN: What mindset change made the biggest positive change for you?](https://news.ycombinator.com/item?id=33385750)
-- [I made a guestbook for my website using GitHub Gist and Netlify Functions](https://sunny.gg/guestbook)
-- [Saudi woman jailed for 45 years for social media posts](https://www.bbc.com/news/world-middle-east-62736118)
-- [CoWasm: An alternative to Emscripten, based on Zig &lpar;demo: Python in the browser&rpar;](https://cowasm.org/)
+- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
+- [Update on the fake story about the river laborers paying people to whip them](https://statmodeling.stat.columbia.edu/2022/10/29/update-on-the-fake-story-about-the-river-laborers-paying-people-to-whip-them/)
+- [Clojure Cheatsheets](https://jafingerhut.github.io/)
+- [Life after Heroku: What&#39;s a dev to do?](https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/)
+- [How I make a living working on SerenityOS](https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
