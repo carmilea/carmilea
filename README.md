@@ -38,7 +38,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [SingleStore | Engineering Livestream | September](https://www.youtube.com/watch?v=MlBEn8ENpHc)
+- [SingleStore | Engineering Livestream | October](https://www.youtube.com/watch?v=MlBEn8ENpHc)
 - [Data Intensity Calculator Discoveries](https://www.youtube.com/watch?v=V1sd_Ch6aYo)
 - [Arcules and Nucleus Security | Panel: IoT &amp; Cybersecurity](https://www.youtube.com/watch?v=tqCtdiK13O8)
 - [Bitwyre and Digital Asset Research &lpar;DAR&rpar; | Panel: Fintech Revolution](https://www.youtube.com/watch?v=WUjHHUhB56o)
