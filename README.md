@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s cloud business just recorded its weakest growth to date](https://www.cnbc.com/2022/10/27/aws-earnings-q3-2022.html)
+- [Google alerted Californians to an earthquake before it happened](https://www.wired.com/story/google-android-earthquake-alert-california/)
 - [The Netherlands may be the first country to hit the limits of growth](https://www.ft.com/content/4c56c9b2-f4ad-4956-9216-655acebd845d)
+- [Why the Math Stack Exchange is a waste of time? &lpar;2017&rpar; [pdf]](https://www.gotohaggstrom.com/Why%20the%20Math%20Stack%20Exchange%20is%20a%20waste%20of%20time.pdf)
 - [Breakthrough electrolyser development: 200 times less iridium needed](https://www.tno.nl/en/newsroom/2022/10/breakthrough-electrolyser-development/)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Texas solar and wind resources saved consumers nearly $28B over 12 years](https://www.utilitydive.com/news/texas-solar-and-wind-resources-saved-consumers-nearly-28-billion-over-12-y/634893/)
-- [MGL – OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
