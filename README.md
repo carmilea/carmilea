@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Childhood toys: 40 years on 2-XL works just fine](https://blog.jgc.org/2022/10/childhood-toys-40-years-on-2-xl-works.html)
+- [Tesorio Is Hiring a PM, Senior FE Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
+- [PS4/PS5 exploit that is “essentially unpatchable”](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/)
 - [Chartist: Simple Responsive Charts in SVG](https://github.com/chartist-js/chartist)
 - [Lil: A Scripting Language](https://beyondloom.com/decker/lil.html)
-- [Why talking to strangers can make us smarter](https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier)
-- [Enclaves and Exclaves: A tour of the world&#39;s engulfed and orphaned places](https://storymaps.arcgis.com/stories/e927741a6a1c4157a1e3a91a2645f3f8)
-- [Charts.css: CSS data visualization framework](http://chartscss.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
