@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Anyone else receiving unsolicited Datadog marketing spam?](https://news.ycombinator.com/item?id=33394059)
+- [Show HN: AI magics meet Infinite draw board](https://github.com/carefree0910/carefree-creator)
 - [Childhood toys: 40 years on 2-XL works just fine](https://blog.jgc.org/2022/10/childhood-toys-40-years-on-2-xl-works.html)
 - [Tesorio Is Hiring a PM, Senior FE Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
 - [D-Wave Launches in AWS Marketplace](https://www.scientific-computing.com/news/d-wave-launches-aws-marketplace)
-- [PS4/PS5 exploit that is “essentially unpatchable”](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/)
-- [Chartist: Simple Responsive Charts in SVG](https://github.com/chartist-js/chartist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
