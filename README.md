@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitodon: Finding Twitter Peers on Mastodon](https://twitodon.com/)
+- [Ursula Le Guin on Star Trek: TNG &lpar;1994&rpar;](https://gentlier.tumblr.com/post/661155647772082176/ursula-le-guin-on-star-trek-tng)
 - [Andrej Karpathy: Why Tesla Removed Radar and Ultrasonic Sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io)
-- [Reversible and Irreversible Decisions](https://fs.blog/reversible-irreversible-decisions/)
+- [Reversible and irreversible decisions &lpar;2018&rpar;](https://fs.blog/reversible-irreversible-decisions/)
 - [Optimizing Images with the HTML picture Tag](https://jfhr.me/optimizing-images-with-the-html-picture-tag/)
-- [Decoding Integral](https://destevez.net/2022/10/decoding-integral/)
-- [Show HN: Open-source user onboarding and KYC flow made with Svelte &lpar;~50kb&rpar;](https://github.com/ballerine-io/ballerine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
