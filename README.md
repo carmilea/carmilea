@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tale told on IRC: Mystery of Apple II app sourcecode loss solved in eWaste find](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
-- [‘I Am Not the Doctor for You’: Physicians Attitudes About People W Disabilities](https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.00475)
+- [You are not your job, you’re not how much money you have in the bank](https://www.artofmanliness.com/career-wealth/career/you-are-kind-of-your-job/)
+- [How I Survived a Year in ‘The Hole’ Without Losing My Mind](https://www.themarshallproject.org/2022/09/30/how-i-survived-a-year-in-the-hole-without-losing-my-mind)
+- [Classic 50mm “Normal” Lens](https://www.garyvoth.com/the-forgotten-lens/)
+- [An Apple II Tale](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
 - [The coming long-run slowdown in corporate profit growth and stock returns](https://www.federalreserve.gov//econres/notes/feds-notes/the-coming-long-run-slowdown-in-corporate-profit-growth-and-stock-returns-20220906.html)
-- [High Pressure, Part 2: The First Steam Railway](https://technicshistory.com/2022/10/29/high-pressure-part-2-the-first-steam-railway/)
-- [A Message from Lunny on Gitea Ltd. and the Gitea Project](https://blog.gitea.io/2022/10/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
