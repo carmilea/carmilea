@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chartist: Simple Responsive Charts in SVG](https://github.com/chartist-js/chartist)
+- [Lil: A Scripting Language](https://beyondloom.com/decker/lil.html)
+- [Why talking to strangers can make us smarter](https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier)
+- [Enclaves and Exclaves: A tour of the world&#39;s engulfed and orphaned places](https://storymaps.arcgis.com/stories/e927741a6a1c4157a1e3a91a2645f3f8)
 - [Charts.css: CSS data visualization framework](http://chartscss.org/)
-- [The FFmpeg Tutorial](http://dranger.com/ffmpeg/)
-- [Ask HN: Is there a list of richest based on liquid assets not stock wealth?](https://news.ycombinator.com/item?id=33392246)
-- [Show HN: Hyper minimalist habit tracker for Chrome](https://chrome.google.com/webstore/detail/ihabit/ngbhaiedpgcjihgkkanmacofdekipmnd)
-- [Gigafactories are recycling old EV batteries into new ones](https://www.economist.com/science-and-technology/2022/10/26/gigafactories-are-recycling-old-ev-batteries-into-new-ones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
