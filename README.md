@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Supreme Court poised to ban affirmative action in university admissions](https://www.nature.com/articles/d41586-022-03470-5)
+- [Where the Sidewalk Ends: The Death of the Internet](https://madattheinternet.substack.com/p/where-the-sidewalk-ends-the-death)
+- [PwshPaint: A pixel art editor for the terminal in PowerShell](https://github.com/ShaunLawrie/PwshPaint)
+- [AT Protocol Overview](https://atproto.com/guides/overview)
 - [Ent: An Entity Framework for Go](https://github.com/ent/ent)
-- [Twitter features Mastodon is better for not having](https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [If one GUI&#39;s not enough for your SPARC workstation, try four](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
