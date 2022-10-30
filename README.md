@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitodon: Finding Twitter Peers on Mastodon](https://twitodon.com/)
-- [Ursula Le Guin on Star Trek: TNG &lpar;1994&rpar;](https://gentlier.tumblr.com/post/661155647772082176/ursula-le-guin-on-star-trek-tng)
-- [Andrej Karpathy: Why Tesla Removed Radar and Ultrasonic Sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io)
-- [Reversible and irreversible decisions &lpar;2018&rpar;](https://fs.blog/reversible-irreversible-decisions/)
-- [Optimizing Images with the HTML picture Tag](https://jfhr.me/optimizing-images-with-the-html-picture-tag/)
+- [Twitter features Mastodon is better for not having](https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [If one GUI&#39;s not enough for your SPARC workstation, try four](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
+- [PsychOS Linux – 32-bit distro for older computers](https://psychoslinux.gitlab.io/)
+- [Marten, a Crystal web framework that makes building web apps productive and fun](https://martenframework.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
