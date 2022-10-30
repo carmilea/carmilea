@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HN Mining or: How I Learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
-- [Strong behavioral individuality is present at the first day after birth](https://www.nature.com/articles/s41467-022-34113-y)
+- [Nobody Wants Touch-Screen Glove Box Latches on 2023 GM&#39;s Cadillac Lyriq](https://www.theautopian.com/nobody-wants-touch-screen-glove-box-latches-and-it-needs-to-stop-now/)
+- [HN mining or: How I learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
+- [Strong behavioral individuality is present at the first day after birth in fish](https://www.nature.com/articles/s41467-022-34113-y)
 - [How the New York City steam system works](https://untappedcities.com/2021/07/09/new-york-city-steam-system/)
 - [Promoted.ai &lpar;YC W21&rpar; is hiring a staff data engineer with Flink experience](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
