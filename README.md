@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You are not your job, you’re not how much money you have in the bank](https://www.artofmanliness.com/career-wealth/career/you-are-kind-of-your-job/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Data Analytics Lead](https://onesignal.com/careers/bf5f67d4-f4be-44a9-9677-2bbb5686009b)
+- [Spectrum now blocking TCP/UDP 5060 at my home](https://news.ycombinator.com/item?id=33395857)
+- [Volkswagen develops hydrogen car that can travel 2k kilometers on one tank](https://www.ruetir.com/2022/10/29/volkswagen-develops-hydrogen-car-that-can-travel-2000-kilometers-on-one-tank/)
 - [How I Survived a Year in ‘The Hole’ Without Losing My Mind](https://www.themarshallproject.org/2022/09/30/how-i-survived-a-year-in-the-hole-without-losing-my-mind)
 - [Classic 50mm “Normal” Lens](https://www.garyvoth.com/the-forgotten-lens/)
-- [An Apple II Tale](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
-- [The coming long-run slowdown in corporate profit growth and stock returns](https://www.federalreserve.gov//econres/notes/feds-notes/the-coming-long-run-slowdown-in-corporate-profit-growth-and-stock-returns-20220906.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
