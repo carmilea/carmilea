@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Integral](https://destevez.net/2022/10/decoding-integral/)
+- [Re-using the heat in bathwater in Britain](https://dynomight.net/hot-water/)
+- [New user guide: How to organize your qubes](https://www.qubes-os.org/news/2022/10/28/how-to-organize-your-qubes/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Data Analytics Lead](https://onesignal.com/careers/bf5f67d4-f4be-44a9-9677-2bbb5686009b)
-- [Spectrum now blocking TCP/UDP 5060 at my home](https://news.ycombinator.com/item?id=33395857)
-- [Volkswagen develops hydrogen car that can travel 2k kilometers on one tank](https://www.ruetir.com/2022/10/29/volkswagen-develops-hydrogen-car-that-can-travel-2000-kilometers-on-one-tank/)
-- [How I Survived a Year in ‘The Hole’ Without Losing My Mind](https://www.themarshallproject.org/2022/09/30/how-i-survived-a-year-in-the-hole-without-losing-my-mind)
-- [Classic 50mm “Normal” Lens](https://www.garyvoth.com/the-forgotten-lens/)
+- [The ancient Finnish predictor data compressor. Smallest compressor ever?](https://bugfix-66.com/5e54291e3c874c3d25ba72a8766e63d4b33e0c9674d607d4fe24d1367b90b298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
