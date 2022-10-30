@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
+- [HN Mining or: How I Learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
+- [Strong behavioral individuality is present at the first day after birth](https://www.nature.com/articles/s41467-022-34113-y)
+- [How the New York City steam system works](https://untappedcities.com/2021/07/09/new-york-city-steam-system/)
+- [Promoted.ai &lpar;YC W21&rpar; is hiring a staff data engineer with Flink experience](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
-- [AdGuardHome: Network-wide ads and trackers blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
-- [Somali Law](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/Book_Draft/Systems/SomaliLawChapter.html)
-- [Soul – A SQLite RESTful Server](https://github.com/thevahidal/soul)
 <!-- BLOG-POST-LIST:END -->
 
 ---
