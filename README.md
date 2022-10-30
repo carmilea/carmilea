@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Supreme Court poised to ban affirmative action in university admissions](https://www.nature.com/articles/d41586-022-03470-5)
+- [Ent: An Entity Framework for Go](https://github.com/ent/ent)
 - [Twitter features Mastodon is better for not having](https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [If one GUI&#39;s not enough for your SPARC workstation, try four](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
-- [PsychOS Linux – 32-bit distro for older computers](https://psychoslinux.gitlab.io/)
-- [Marten, a Crystal web framework that makes building web apps productive and fun](https://martenframework.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
