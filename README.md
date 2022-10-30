@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A sad day for Rust: actix-web is dead &lpar;2020&rpar;](https://steveklabnik.com/writing/a-sad-day-for-rust)
+- [Gigafactories are recycling old EV batteries into new ones](https://www.economist.com/science-and-technology/2022/10/26/gigafactories-are-recycling-old-ev-batteries-into-new-ones)
+- [Show HN: Mel&#39;s Hack – The Missing Bits](https://melsloop.com/docs/mels-hack-the-missing-bits)
+- [Michael Crichton’s and John Grisham’s ambition types](https://www.calnewport.com/blog/2022/10/28/on-michael-crichtons-busy-ambition/)
+- [List of Robinhood Lists](https://BigBalli.com/blog/robinhood-lists)
 - [Nobody wants touch-screen glove box latches](https://www.theautopian.com/nobody-wants-touch-screen-glove-box-latches-and-it-needs-to-stop-now/)
-- [HN mining or: How I learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
-- [Linker, can you spare a meg? &lpar;2021&rpar;](https://tailscale.com/blog/go-linker/)
-- [Strong behavioral individuality is present at the first day after birth in fish](https://www.nature.com/articles/s41467-022-34113-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
