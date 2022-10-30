@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Andrej Karpathy: Why Tesla Removed Radar and Ultrasonic Sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io)
+- [Reversible and Irreversible Decisions](https://fs.blog/reversible-irreversible-decisions/)
+- [Optimizing Images with the HTML picture Tag](https://jfhr.me/optimizing-images-with-the-html-picture-tag/)
 - [Decoding Integral](https://destevez.net/2022/10/decoding-integral/)
-- [Re-using the heat in bathwater in Britain](https://dynomight.net/hot-water/)
-- [New user guide: How to organize your qubes](https://www.qubes-os.org/news/2022/10/28/how-to-organize-your-qubes/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Data Analytics Lead](https://onesignal.com/careers/bf5f67d4-f4be-44a9-9677-2bbb5686009b)
-- [The ancient Finnish predictor data compressor. Smallest compressor ever?](https://bugfix-66.com/5e54291e3c874c3d25ba72a8766e63d4b33e0c9674d607d4fe24d1367b90b298)
+- [Show HN: Open-source user onboarding and KYC flow made with Svelte &lpar;~50kb&rpar;](https://github.com/ballerine-io/ballerine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
