@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A sad day for Rust: actix-web is dead &lpar;2020&rpar;](https://steveklabnik.com/writing/a-sad-day-for-rust)
 - [Nobody wants touch-screen glove box latches](https://www.theautopian.com/nobody-wants-touch-screen-glove-box-latches-and-it-needs-to-stop-now/)
 - [HN mining or: How I learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
 - [Linker, can you spare a meg? &lpar;2021&rpar;](https://tailscale.com/blog/go-linker/)
 - [Strong behavioral individuality is present at the first day after birth in fish](https://www.nature.com/articles/s41467-022-34113-y)
-- [How the New York City steam system works](https://untappedcities.com/2021/07/09/new-york-city-steam-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
