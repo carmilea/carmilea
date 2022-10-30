@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charts.css: CSS data visualization framework](http://chartscss.org/)
+- [The FFmpeg Tutorial](http://dranger.com/ffmpeg/)
 - [Ask HN: Is there a list of richest based on liquid assets not stock wealth?](https://news.ycombinator.com/item?id=33392246)
 - [Show HN: Hyper minimalist habit tracker for Chrome](https://chrome.google.com/webstore/detail/ihabit/ngbhaiedpgcjihgkkanmacofdekipmnd)
 - [Gigafactories are recycling old EV batteries into new ones](https://www.economist.com/science-and-technology/2022/10/26/gigafactories-are-recycling-old-ev-batteries-into-new-ones)
-- [Mel&#39;s Hack – The Missing Bits](https://melsloop.com/docs/mels-hack-the-missing-bits)
-- [Michael Crichton’s and John Grisham’s ambition types](https://www.calnewport.com/blog/2022/10/28/on-michael-crichtons-busy-ambition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
