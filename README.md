@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Anyone else receiving unsolicited Datadog marketing spam?](https://news.ycombinator.com/item?id=33394059)
-- [Show HN: AI magics meet Infinite draw board](https://github.com/carefree0910/carefree-creator)
-- [Childhood toys: 40 years on 2-XL works just fine](https://blog.jgc.org/2022/10/childhood-toys-40-years-on-2-xl-works.html)
-- [Tesorio Is Hiring a PM, Senior FE Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- [D-Wave Launches in AWS Marketplace](https://www.scientific-computing.com/news/d-wave-launches-aws-marketplace)
+- [Tale told on IRC: Mystery of Apple II app sourcecode loss solved in eWaste find](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
+- [‘I Am Not the Doctor for You’: Physicians Attitudes About People W Disabilities](https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.00475)
+- [The coming long-run slowdown in corporate profit growth and stock returns](https://www.federalreserve.gov//econres/notes/feds-notes/the-coming-long-run-slowdown-in-corporate-profit-growth-and-stock-returns-20220906.html)
+- [High Pressure, Part 2: The First Steam Railway](https://technicshistory.com/2022/10/29/high-pressure-part-2-the-first-steam-railway/)
+- [A Message from Lunny on Gitea Ltd. and the Gitea Project](https://blog.gitea.io/2022/10/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
