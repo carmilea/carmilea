@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More Than a Third of US Small Businesses Couldn’t Pay All Their Rent in October](https://www.bloomberg.com/news/articles/2022-10-31/us-small-business-rent-delinquency-rates-rise-sharply-in-october)
-- [Retargetable Compiler for the P4 Language](https://github.com/P4ELTE/t4p4s)
+- [Flexport Is Hiring Software Engineers Who Like Working with Neutrons](https://flexport.com/careers)
+- [Tell HN: Adblock rules to hide HN posts about Twitter &amp; Musk](https://news.ycombinator.com/item?id=33412932)
+- [More than a third of US small businesses couldn’t pay all their rent in October](https://www.bloomberg.com/news/articles/2022-10-31/us-small-business-rent-delinquency-rates-rise-sharply-in-october)
+- [Unravelling &#39;if&#39; statements](https://snarky.ca/unravelling-if-statements/)
 - [The McMurdo Wastewater Treatment Plant](https://brr.fyi/posts/wastewater-plant)
-- [Chime, a Go Editor for macOS – v2.0 Now Available](https://www.chimehq.com/blog/version-two)
-- [Ask HN: Have you set up a procedure to disclose you passwords in case of death?](https://news.ycombinator.com/item?id=33409891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
