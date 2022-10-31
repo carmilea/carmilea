@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
+- [Was the internet designed to survive a nuclear attack?](https://siliconfolklore.com/internet-history/)
 - [Using AI to compress audio files for quick and easy sharing](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
 - [We need a replacement for TCP in the datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
-- [Solarized](https://ethanschoonover.com/solarized/)
-- [Why is symmetry so important in particle physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
-- [WriteFreely: Open source federated microblogging platform](https://writefreely.org/)
+- [VeinViewer technology helps physicians and nurses see a patient&#39;s veins [video]](https://www.youtube.com/watch?v=-ARKVmkQWTY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
