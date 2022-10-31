@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome drops it’s experimental support for JPEG XL](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
-- [Do you have product market fit?](https://www.righttoleft.io/blog/do-you-really-have-product-market-fit)
+- [RustyHermit – A Rust-based, lightweight unikernel](https://github.com/hermitcore/rusty-hermit)
 - [NY could become first state with a ‘Right to Repair’ law for electronic devices](https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law)
 - [Wikipedians question Wikimedia fundraising ethics after “somewhat-viral” tweet](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-10-31/News_and_notes)
 - [Ripe meetings: IP addresses as spoils of war](https://techaint.com/2022/10/30/ripe-meetings-ip-addresses-as-spoils-of-war/)
+- [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
