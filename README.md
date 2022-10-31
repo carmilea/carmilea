@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“There Seem to be 10 managers for every one dev at Twitter” – Elon](https://twitter.com/elonmusk/status/1586686935518498816)
+- [Using AI to compress audio files for quick and easy sharing](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
 - [Ousterhout: It&#39;s time to replace TCP in the Datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 - [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html)
+- [Nocode: Write secure and reliable apps. Write nothing; deploy nowhere](https://github.com/kelseyhightower/nocode)
 - [Solarized](https://ethanschoonover.com/solarized/)
-- [Why Is Symmetry So Important in Particle Physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
