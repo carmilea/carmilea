@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“There Seem to be 10 managers for every one dev at Twitter” – Elon](https://twitter.com/elonmusk/status/1586686935518498816)
+- [Ousterhout: It&#39;s time to replace TCP in the Datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
+- [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html)
 - [Solarized](https://ethanschoonover.com/solarized/)
 - [Why Is Symmetry So Important in Particle Physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
-- [WriteFreely: Open source federated microblogging platform](https://writefreely.org/)
-- [Google set to deprecate JPEG XL support in Chrome 110](https://www.phoronix.com/news/Chrome-Dropping-JPEG-XL-Reasons)
-- [Star Trek &lpar;1964&rpar; [pdf]](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
