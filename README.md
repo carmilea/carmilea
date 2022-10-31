@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Retargetable Compiler for the P4 Language](https://github.com/P4ELTE/t4p4s)
+- [Chime, a Go Editor for macOS – v2.0 Now Available](https://www.chimehq.com/blog/version-two)
+- [Ask HN: Have you set up a procedure to disclose you passwords in case of death?](https://news.ycombinator.com/item?id=33409891)
 - [Revamp of MDN Web Docs Contribution Docs](https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/)
 - [NYC to Require Salary Ranges Be Included in Job Postings](https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html)
-- [Apple ExtensionKit](https://developer.apple.com/documentation/extensionkit)
-- [‘There Are Only Five Media Stories’](https://fallows.substack.com/p/there-are-only-five-media-stories)
-- [GNU Make 4.4 released](https://lwn.net/Articles/913253/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
