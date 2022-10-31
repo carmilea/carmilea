@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Hotz is leaving Comma.ai](https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html)
-- [Mailbag: Sausage Men](https://garry.blog/mailbag-sausage-men/)
-- [Nord – An Arctic, north-bluish color palette](https://www.nordtheme.com)
-- [Has Rakuten made a Rocky-er road for Red Hat?](https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/)
-- [Remix web framework aquired by Shopify](https://remix.run/blog/remixing-shopify)
+- [Meta Myths](https://stratechery.com/2022/meta-myths/)
+- [Show HN: A small, weird and unpractical programming language](https://github.com/japiirainen/fp)
+- [US Supreme Court to weigh end to race-based college admissions](https://www.bbc.com/news/world-us-canada-63394285)
+- [Electric scooter ban increased congestion by 10% in Atlanta](https://www.nature.com/articles/s41560-022-01135-1)
+- [Replit&#39;s In-Browser Coding AI](https://replit.com/site/ghostwriter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
