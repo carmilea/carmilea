@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SourceHut terms of service updates, cryptocurrency projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
+- [Chatting with Sebastian Witowski: Code Standards, Tooling, and Working in Teams](https://sourcery.ai/blog/sebastian-witowski-interview-part-1/)
 - [RustyHermit – A Rust-based, lightweight unikernel](https://github.com/hermitcore/rusty-hermit)
 - [NY could become first state with a ‘Right to Repair’ law for electronic devices](https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law)
 - [Wikipedians question Wikimedia fundraising ethics after “somewhat-viral” tweet](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-10-31/News_and_notes)
-- [Ripe meetings: IP addresses as spoils of war](https://techaint.com/2022/10/30/ripe-meetings-ip-addresses-as-spoils-of-war/)
-- [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
