@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. workers have gotten way less productive. No one is sure why](https://www.washingtonpost.com/business/2022/10/31/productivity-down-employers-worried-recession/)
+- [Nord – An Arctic, north-bluish color palette](https://www.nordtheme.com)
+- [Instagram ‘down’, suspending accounts for no apparent reason](https://www.thesun.co.uk/tech/20277321/instagram-down-outage-users-suspended/)
 - [How to intentionally throttle CPU on a M1 MacBook?](https://news.ycombinator.com/item?id=33405359)
 - [The Perl Foundation will now be known as The Perl and Raku Foundation](https://news.perlfoundation.org/post/announcements)
 - [Was Jack Welch the greatest CEO of his day, or the worst?](https://www.newyorker.com/magazine/2022/11/07/was-jack-welch-the-greatest-ceo-of-his-day-or-the-worst)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
