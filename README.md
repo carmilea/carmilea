@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Using AI to compress audio files for quick and easy sharing](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
-- [Ousterhout: It&#39;s time to replace TCP in the Datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
-- [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html)
-- [Nocode: Write secure and reliable apps. Write nothing; deploy nowhere](https://github.com/kelseyhightower/nocode)
+- [We need a replacement for TCP in the datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 - [Solarized](https://ethanschoonover.com/solarized/)
+- [Why is symmetry so important in particle physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
+- [WriteFreely: Open source federated microblogging platform](https://writefreely.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
