@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Than a Third of US Small Businesses Couldn’t Pay All Their Rent in October](https://www.bloomberg.com/news/articles/2022-10-31/us-small-business-rent-delinquency-rates-rise-sharply-in-october)
 - [Retargetable Compiler for the P4 Language](https://github.com/P4ELTE/t4p4s)
+- [The McMurdo Wastewater Treatment Plant](https://brr.fyi/posts/wastewater-plant)
 - [Chime, a Go Editor for macOS – v2.0 Now Available](https://www.chimehq.com/blog/version-two)
 - [Ask HN: Have you set up a procedure to disclose you passwords in case of death?](https://news.ycombinator.com/item?id=33409891)
-- [Revamp of MDN Web Docs Contribution Docs](https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/)
-- [NYC to Require Salary Ranges Be Included in Job Postings](https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
