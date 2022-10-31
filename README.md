@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘There Are Only Five Media Stories’](https://fallows.substack.com/p/there-are-only-five-media-stories)
+- [GNU Make 4.4 released](https://lwn.net/Articles/913253/)
+- [Sergei Diaghilev and the Ballets Russes revolutionized dance](https://lithub.com/how-sergei-diaghilev-and-the-ballets-russes-revolutionized-dance/)
+- [Why Mathematicians Study Knots](https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/)
 - [Meta Myths](https://stratechery.com/2022/meta-myths/)
-- [Show HN: A small, weird and unpractical programming language](https://github.com/japiirainen/fp)
-- [US Supreme Court to weigh end to race-based college admissions](https://www.bbc.com/news/world-us-canada-63394285)
-- [Electric scooter ban increased congestion by 10% in Atlanta](https://www.nature.com/articles/s41560-022-01135-1)
-- [Replit&#39;s In-Browser Coding AI](https://replit.com/site/ghostwriter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
