@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why one web pioneer thinks it’s time to reinvent the browser](https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher)
+- [A configuration management system for pets, not cattle](https://github.com/ema/pets)
+- [Nicheless is a micro-blogging platform for raw, unfiltered thoughts](https://nicheless.blog/)
+- [Max/MSP Objects Database](http://maxobjects.com)
 - [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
-- [Development: Time to Leave GDP Behind](https://www.nature.com/articles/505283a)
-- [Ask HN: What piece of code/codebase blew your mind when you saw it?](https://news.ycombinator.com/item?id=33413124)
-- [Flexport Is Hiring Software Engineers Who Like Working with Neutrons](https://flexport.com/careers)
-- [Removing the JPEG XL code and flag from Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
