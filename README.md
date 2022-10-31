@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where the Sidewalk Ends: The Death of the Internet](https://madattheinternet.substack.com/p/where-the-sidewalk-ends-the-death)
-- [PwshPaint: A pixel art editor for the terminal in PowerShell](https://github.com/ShaunLawrie/PwshPaint)
-- [AT Protocol Overview](https://atproto.com/guides/overview)
-- [Ent: An Entity Framework for Go](https://github.com/ent/ent)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Solarized](https://ethanschoonover.com/solarized/)
+- [Why Is Symmetry So Important in Particle Physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
+- [WriteFreely: Open source federated microblogging platform](https://writefreely.org/)
+- [Google set to deprecate JPEG XL support in Chrome 110](https://www.phoronix.com/news/Chrome-Dropping-JPEG-XL-Reasons)
+- [Star Trek &lpar;1964&rpar; [pdf]](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
