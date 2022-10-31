@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [George Hotz is leaving Comma.ai](https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html)
+- [Mailbag: Sausage Men](https://garry.blog/mailbag-sausage-men/)
 - [Nord – An Arctic, north-bluish color palette](https://www.nordtheme.com)
-- [Instagram ‘down’, suspending accounts for no apparent reason](https://www.thesun.co.uk/tech/20277321/instagram-down-outage-users-suspended/)
-- [How to intentionally throttle CPU on a M1 MacBook?](https://news.ycombinator.com/item?id=33405359)
-- [The Perl Foundation will now be known as The Perl and Raku Foundation](https://news.perlfoundation.org/post/announcements)
-- [Was Jack Welch the greatest CEO of his day, or the worst?](https://www.newyorker.com/magazine/2022/11/07/was-jack-welch-the-greatest-ceo-of-his-day-or-the-worst)
+- [Has Rakuten made a Rocky-er road for Red Hat?](https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/)
+- [Remix web framework aquired by Shopify](https://remix.run/blog/remixing-shopify)
 <!-- BLOG-POST-LIST:END -->
 
 ---
