@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
+- [Development: Time to Leave GDP Behind](https://www.nature.com/articles/505283a)
+- [Ask HN: What piece of code/codebase blew your mind when you saw it?](https://news.ycombinator.com/item?id=33413124)
 - [Flexport Is Hiring Software Engineers Who Like Working with Neutrons](https://flexport.com/careers)
-- [Tell HN: Adblock rules to hide HN posts about Twitter &amp; Musk](https://news.ycombinator.com/item?id=33412932)
-- [More than a third of US small businesses couldn’t pay all their rent in October](https://www.bloomberg.com/news/articles/2022-10-31/us-small-business-rent-delinquency-rates-rise-sharply-in-october)
-- [Unravelling &#39;if&#39; statements](https://snarky.ca/unravelling-if-statements/)
-- [The McMurdo Wastewater Treatment Plant](https://brr.fyi/posts/wastewater-plant)
+- [Removing the JPEG XL code and flag from Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
