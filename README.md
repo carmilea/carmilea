@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perl Foundation will now be known as The Perl and Raku Foundation](https://news.perlfoundation.org/post/announcements)
+- [Was Jack Welch the Greatest CEO of His Day–Or the Worst?](https://www.newyorker.com/magazine/2022/11/07/was-jack-welch-the-greatest-ceo-of-his-day-or-the-worst)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Your First IPv6 Request](https://www.arin.net/resources/guide/ipv6/first_request/)
 - [SourceHut terms of service updates, cryptocurrency projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
-- [Chatting with Sebastian Witowski: Code Standards, Tooling, and Working in Teams](https://sourcery.ai/blog/sebastian-witowski-interview-part-1/)
-- [RustyHermit – A Rust-based, lightweight unikernel](https://github.com/hermitcore/rusty-hermit)
-- [NY could become first state with a ‘Right to Repair’ law for electronic devices](https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law)
-- [Wikipedians question Wikimedia fundraising ethics after “somewhat-viral” tweet](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-10-31/News_and_notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
