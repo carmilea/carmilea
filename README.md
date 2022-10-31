@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ripe meetings: IP addresses as spoils of war](https://techaint.com/2022/10/30/ripe-meetings-ip-addresses-as-spoils-of-war/)
 - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
+- [Grabby Aliens: A Resolution to the Fermi Paradox](https://grabbyaliens.com/)
 - [Was the internet designed to survive a nuclear attack?](https://siliconfolklore.com/internet-history/)
 - [Using AI to compress audio files for quick and easy sharing](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
-- [We need a replacement for TCP in the datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
-- [VeinViewer technology helps physicians and nurses see a patient&#39;s veins [video]](https://www.youtube.com/watch?v=-ARKVmkQWTY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
