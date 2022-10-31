@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revamp of MDN Web Docs Contribution Docs](https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/)
+- [NYC to Require Salary Ranges Be Included in Job Postings](https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html)
+- [Apple ExtensionKit](https://developer.apple.com/documentation/extensionkit)
 - [‘There Are Only Five Media Stories’](https://fallows.substack.com/p/there-are-only-five-media-stories)
 - [GNU Make 4.4 released](https://lwn.net/Articles/913253/)
-- [Sergei Diaghilev and the Ballets Russes revolutionized dance](https://lithub.com/how-sergei-diaghilev-and-the-ballets-russes-revolutionized-dance/)
-- [Why Mathematicians Study Knots](https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/)
-- [Meta Myths](https://stratechery.com/2022/meta-myths/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
