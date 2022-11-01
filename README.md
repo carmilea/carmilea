@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Studio’s “Code contains easter egg” inspection &lpar;2019&rpar;](https://wh0.github.io/2019/11/16/easter-egg-inspection.html)
-- [More Instant Messaging Interoperability](https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability/)
-- [Bring Your Own Password Manager: Portable BitWarden on a Pi Zero](https://novamostra.com/2022/10/23/byopm/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33420039)
-- [Nushell: Introduction to a New Kind of Shell](https://dataswamp.org/~solene/2022-10-31-nushell.html)
+- [Falcon Heavy Launch Live](https://www.spacex.com/launches/ussf-44/index.html)
+- [Show HN: I made an offline-ready hiking trail companion app](https://github.com/jamealg/KT-companion)
+- [Backblaze Drive Stats for Q3 2022](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2022/)
+- [We handled a recent phishing incident that targeted Dropbox](https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox)
+- [Tell HN: Royal Mail Data Breach](https://news.ycombinator.com/item?id=33420583)
 <!-- BLOG-POST-LIST:END -->
 
 ---
