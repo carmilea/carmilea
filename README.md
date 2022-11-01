@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why one web pioneer thinks it’s time to reinvent the browser](https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher)
-- [A configuration management system for pets, not cattle](https://github.com/ema/pets)
-- [Nicheless is a micro-blogging platform for raw, unfiltered thoughts](https://nicheless.blog/)
-- [Max/MSP Objects Database](http://maxobjects.com)
-- [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
+- [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/)
+- [The mysterious Viking runes found in a landlocked US state](https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state)
+- [Chip Design Shifts as Fundamental Laws Run Out of Steam](https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/)
+- [Turbopack Performance Benchmarks](https://turbo.build/blog/turbopack-benchmarks)
+- [Caring for the only full kākāpō feather cloak in the world Show image caption](https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
