@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is hiring? &lpar;November 2022&rpar;](https://news.ycombinator.com/item?id=33422129)
-- [Ask HN: Who wants to be hired? &lpar;November 2022&rpar;](https://news.ycombinator.com/item?id=33422127)
-- [Twitter discontinues ad-free articles for Blue subscribers](https://www.theverge.com/2022/11/1/23434502/twitter-blue-ad-free-articles-discontinued-feature)
-- [Tell HN: The issues of Twitter are not a technical problem to solve](https://news.ycombinator.com/item?id=33421489)
-- [Falcon Heavy Launch Live](https://www.spacex.com/launches/ussf-44/index.html)
+- [Applied Category Theory in Chemistry, Computing, and Social Networks [pdf]](https://www.ams.org/journals/notices/202202/rnoti-p292.pdf)
+- [CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows](https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/)
+- [One Million Database Connections](https://planetscale.com/blog/one-million-connections)
+- [Invasive Diffusion: one unwilling illustrator found her turned into an AI model](https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/)
+- [OpenSSL 3.0.7 Published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
