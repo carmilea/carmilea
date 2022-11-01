@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
-- [Why I program in Erlang &lpar;2012&rpar;](https://www.evanmiller.org/why-i-program-in-erlang.html)
-- [Show HN: A tool to help you remember shit you are interested in](https://www.recall-app.com/)
-- [Laws barring noncompete clauses spreading](https://www.businessinsurance.com/article/20220901/NEWS06/912352002/Laws-barring-noncompete-clauses-spreading)
-- [Ask HN: “Contact Us” Pricing](https://news.ycombinator.com/item?id=33425443)
+- [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/)
+- [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
+- [NASA Finds More Than 50 Super-Emitters of Methane](https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/)
+- [Taking a Look at Mastodon](https://evertpot.com/hello-mastodon/)
+- [My First Piano: A Story of Hurt, Healing and Joy](https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
