@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laws barring noncompete clauses spreading](https://www.businessinsurance.com/article/20220901/NEWS06/912352002/Laws-barring-noncompete-clauses-spreading)
+- [Ask HN: “Contact Us” Pricing](https://news.ycombinator.com/item?id=33425443)
+- [Boeing Needs an Act of Congress or Something Worse to Get Max 7 and 10 Flying](https://crankyflier.com/2022/10/11/why-boeing-needs-an-act-of-congress-or-something-worse-to-get-the-max-7-and-10-aircraft-flying/)
+- [iPhone 14 Pro Camera Review: A Small Step, a Leap](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/)
 - [Show HN: I made a volumetric audio visualizer](https://a-sumo.github.io/hyperstep/)
-- [Twitter Having Issues](https://istheservicedown.com/problems/twitter)
-- [Twitter Blue for $8/Month](https://twitter.com/elonmusk/status/1587500060853424129)
-- [Show HN: Wrote a tiny WebAssembly &lpar;wat2wasm&rpar; compiler in Go](https://github.com/thomscoder/luna)
-- [Show HN: Docker in the browser using x86-to-WASM recompilation](http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
