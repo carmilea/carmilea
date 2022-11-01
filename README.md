@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a collection of 60+ beautiful CSS checkboxes &lpar;click to copy&rpar;](https://getcssscan.com/css-checkboxes-examples)
+- [FB and Twitter have special portals for the government to take down content](https://twitter.com/lhfang/status/1587104660355096576)
 - [9front “The Golden Age of Ballooning” Released](http://9front.org/releases/2022/10/31/0/)
 - [Mozilla blog: Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
 - [Is My Package Reproducible Yet?](https://ismypackagereproducibleyet.org/)
-- [I finally found a use case for my Raspberry Pi Model B+](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/)
-- [Stable Diffusion resources &lpar;pile of links and up-to-date news&rpar;](https://rentry.co/sdupdates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
