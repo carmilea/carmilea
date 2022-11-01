@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What social media site could replace Twitter?](https://news.ycombinator.com/item?id=33416498)
 - [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/)
 - [The mysterious Viking runes found in a landlocked US state](https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state)
 - [Chip Design Shifts as Fundamental Laws Run Out of Steam](https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/)
-- [Turbopack Performance Benchmarks](https://turbo.build/blog/turbopack-benchmarks)
-- [Caring for the only full kākāpō feather cloak in the world Show image caption](https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world)
+- [US judge blocks $2.2B Penguin Random House merger](https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
