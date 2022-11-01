@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [FCC commissioner says government should ban TikTok](https://www.axios.com/2022/11/01/interview-fcc-commissioner-says-government-should-ban-tiktok)
+- [Launch HN: SimpleHash &lpar;YC W22&rpar; – API to query digital assets](https://news.ycombinator.com/item?id=33423759)
 - [Applied Category Theory in Chemistry, Computing, and Social Networks [pdf]](https://www.ams.org/journals/notices/202202/rnoti-p292.pdf)
 - [CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows](https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/)
-- [One Million Database Connections](https://planetscale.com/blog/one-million-connections)
-- [Invasive Diffusion: one unwilling illustrator found her turned into an AI model](https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/)
-- [OpenSSL 3.0.7 Published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
