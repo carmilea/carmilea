@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Status vs. Wealth: Why the Rich Don&#39;t Act Rich](https://www.wealest.com/articles/status-vs-wealth)
+- [Show HN: HiSHtory: Your shell history in context, synced, and queryable](https://github.com/ddworken/hishtory)
 - [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/)
 - [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
+- [Tcl is faster than Python for database benchmarking](https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/)
 - [NASA finds super-emitters of methane](https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/)
-- [Facebook has a hidden tool to delete your phone number, email](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
