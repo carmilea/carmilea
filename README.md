@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
+- [Why I program in Erlang &lpar;2012&rpar;](https://www.evanmiller.org/why-i-program-in-erlang.html)
+- [Show HN: A tool to help you remember shit you are interested in](https://www.recall-app.com/)
 - [Laws barring noncompete clauses spreading](https://www.businessinsurance.com/article/20220901/NEWS06/912352002/Laws-barring-noncompete-clauses-spreading)
 - [Ask HN: “Contact Us” Pricing](https://news.ycombinator.com/item?id=33425443)
-- [Boeing Needs an Act of Congress or Something Worse to Get Max 7 and 10 Flying](https://crankyflier.com/2022/10/11/why-boeing-needs-an-act-of-congress-or-something-worse-to-get-the-max-7-and-10-aircraft-flying/)
-- [iPhone 14 Pro Camera Review: A Small Step, a Leap](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/)
-- [Show HN: I made a volumetric audio visualizer](https://a-sumo.github.io/hyperstep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
