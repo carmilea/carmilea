@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ARM to prohibit proximity of CPU w 3rd-party modules in one chip](https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html)
-- [CSS checkbox examples](https://getcssscan.com/css-checkboxes-examples)
-- [FB and Twitter have special portals for the government to take down content](https://twitter.com/lhfang/status/1587104660355096576)
-- [Housing in Tokyo Is Far Cheaper and More Spacious Than You Think](https://www.konichivalue.com/p/real-estate-housing-in-tokyo-is-far)
-- [Attempting Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
+- [Android Studio’s “Code contains easter egg” inspection &lpar;2019&rpar;](https://wh0.github.io/2019/11/16/easter-egg-inspection.html)
+- [More Instant Messaging Interoperability](https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability/)
+- [Bring Your Own Password Manager: Portable BitWarden on a Pi Zero](https://novamostra.com/2022/10/23/byopm/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33420039)
+- [Nushell: Introduction to a New Kind of Shell](https://dataswamp.org/~solene/2022-10-31-nushell.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
