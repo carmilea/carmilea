@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Status vs. Wealth: Why the Rich Don&#39;t Act Rich](https://www.wealest.com/articles/status-vs-wealth)
 - [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/)
 - [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
-- [NASA Finds More Than 50 Super-Emitters of Methane](https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/)
-- [Taking a Look at Mastodon](https://evertpot.com/hello-mastodon/)
-- [My First Piano: A Story of Hurt, Healing and Joy](https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy)
+- [NASA finds super-emitters of methane](https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/)
+- [Facebook has a hidden tool to delete your phone number, email](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
