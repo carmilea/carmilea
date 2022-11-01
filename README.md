@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who is hiring? &lpar;November 2022&rpar;](https://news.ycombinator.com/item?id=33422129)
+- [Ask HN: Who wants to be hired? &lpar;November 2022&rpar;](https://news.ycombinator.com/item?id=33422127)
+- [Twitter discontinues ad-free articles for Blue subscribers](https://www.theverge.com/2022/11/1/23434502/twitter-blue-ad-free-articles-discontinued-feature)
+- [Tell HN: The issues of Twitter are not a technical problem to solve](https://news.ycombinator.com/item?id=33421489)
 - [Falcon Heavy Launch Live](https://www.spacex.com/launches/ussf-44/index.html)
-- [Show HN: I made an offline-ready hiking trail companion app](https://github.com/jamealg/KT-companion)
-- [Backblaze Drive Stats for Q3 2022](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2022/)
-- [We handled a recent phishing incident that targeted Dropbox](https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox)
-- [Tell HN: Royal Mail Data Breach](https://news.ycombinator.com/item?id=33420583)
 <!-- BLOG-POST-LIST:END -->
 
 ---
