@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Have you stopped reading most news?](https://news.ycombinator.com/item?id=33417183)
+- [9front “The Golden Age of Ballooning” Released](http://9front.org/releases/2022/10/31/0/)
 - [Mozilla blog: Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
 - [Is My Package Reproducible Yet?](https://ismypackagereproducibleyet.org/)
 - [I finally found a use case for my Raspberry Pi Model B+](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/)
