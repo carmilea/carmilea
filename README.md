@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [FCC commissioner says government should ban TikTok](https://www.axios.com/2022/11/01/interview-fcc-commissioner-says-government-should-ban-tiktok)
-- [Launch HN: SimpleHash &lpar;YC W22&rpar; – API to query digital assets](https://news.ycombinator.com/item?id=33423759)
-- [Applied Category Theory in Chemistry, Computing, and Social Networks [pdf]](https://www.ams.org/journals/notices/202202/rnoti-p292.pdf)
-- [CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows](https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/)
+- [Show HN: I made a volumetric audio visualizer](https://a-sumo.github.io/hyperstep/)
+- [Twitter Having Issues](https://istheservicedown.com/problems/twitter)
+- [Twitter Blue for $8/Month](https://twitter.com/elonmusk/status/1587500060853424129)
+- [Show HN: Wrote a tiny WebAssembly &lpar;wat2wasm&rpar; compiler in Go](https://github.com/thomscoder/luna)
+- [Show HN: Docker in the browser using x86-to-WASM recompilation](http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
