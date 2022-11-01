@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo Coil Whine – Is it fixable? Or is it a reason to stay away from Lenovo?](https://news.ycombinator.com/item?id=33418564)
 - [Show HN: I made a collection of 60+ beautiful CSS checkboxes &lpar;click to copy&rpar;](https://getcssscan.com/css-checkboxes-examples)
 - [FB and Twitter have special portals for the government to take down content](https://twitter.com/lhfang/status/1587104660355096576)
+- [Housing in Tokyo Is Far Cheaper and More Spacious Than You Think](https://www.konichivalue.com/p/real-estate-housing-in-tokyo-is-far)
 - [9front “The Golden Age of Ballooning” Released](http://9front.org/releases/2022/10/31/0/)
-- [Mozilla blog: Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
-- [Is My Package Reproducible Yet?](https://ismypackagereproducibleyet.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
