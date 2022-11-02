@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The TypeScript compiler is now implemented internally with modules](https://github.com/microsoft/TypeScript/pull/51387)
+- [Crunchy Bridge&#39;s Ruby Back End: Sorbet, Tapioca, and Parlour](https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs)
 - [Coca-Cola increased plastic use ahead of COP27 summit it is sponsoring](https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771)
 - [Substack &lpar;YC W18&rpar; is hiring data analysts](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
-- [One in Eight U.S. Adult Deaths Involved Too Much Alcohol](https://www.medpagetoday.com/gastroenterology/generalhepatology/101519)
 - [The Problem with Go](https://vanitynotes.com/posts/20221101-the-real-problem-with-go)
-- [GitHub availability report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
