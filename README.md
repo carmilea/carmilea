@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cook shortage threatens to sink U.S. Coast Guard operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
-- [Rate Hikes Are Affecting the Economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
-- [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
+- [How rate hikes are affecting the economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
 - [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
 - [Rise of generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
+- [Show HN: HiSHtory: Your shell history in context, synced, and queryable](https://github.com/ddworken/hishtory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
