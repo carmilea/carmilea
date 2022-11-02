@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US debt: Federal interest payments could soon exceed military spending](https://www.cnn.com/2022/11/01/economy/inflation-fed-debt-military/index.html)
-- [EU Commission proposes to accelerate the rollout of instant payments in euro](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272)
-- [Ask HN: How can techies influence companies to stop implementing SMS/phone 2FA](https://news.ycombinator.com/item?id=33435682)
-- [Ask HN: How is it possible to be the CEO of 5 companies at the same time?](https://news.ycombinator.com/item?id=33435382)
-- [Urlscan.io&#39;s SOAR spot: Chatty security tools leaking private data](https://positive.security/blog/urlscan-data-leaks)
+- [An AI generated, never-ending discussion between Werner Herzog and Slavoj ŽIžek](https://infiniteconversation.com/)
+- [OpenSSL added new C parser code [...] without doing any basic security testing](https://twitter.com/hanno/status/1587775675397726209)
+- [The pool of talented C++ developers is running dry](https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers)
+- [Playstation VR2](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games)
+- [Method Chaining in Pandas: Bad Form or a Recipe for Success?](https://davidamos.dev/method-chaining-in-pandas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
