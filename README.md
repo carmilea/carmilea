@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Protonmail can delete the wrong email and nobody cares](https://github.com/ProtonMail/proton-bridge/issues/220)
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Disneyland Shanghai shuts over COVID, visitors unable to leave](https://www.bbc.com/news/world-asia-63456107)
+- [What would happen if you fell through a hole to the center of the Earth?](https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/)
 - [Cook shortage threatens to sink U.S. Coast Guard operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
-- [How rate hikes are affecting the economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
-- [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
-- [Rise of generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
