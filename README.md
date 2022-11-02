@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A medieval account of Egyptian burial practices and tomb robbers](https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead)
-- [Wine 7.2 Released](https://www.winehq.org/announce/7.20)
-- [Meta will own 13% of global submarine cables by 2024](https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership)
+- [Next C compiler is a D compiler: Introducing DMD&#39;s ImportC](https://briancallahan.net/blog/20220704.html)
+- [Vast and innumerable throngs of the ancient dead](https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead)
+- [Facebook &lpar;Meta&rpar; international cable expansion: animated map](https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership)
 - [Braess&#39;s Paradox](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf)
 - [Cree releases LEDs designed for horticulture](https://cree-led.com/news/photophyll-select/)
 <!-- BLOG-POST-LIST:END -->
