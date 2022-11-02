@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Cook shortage threatens to sink U.S. Coast Guard operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
 - [How rate hikes are affecting the economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
 - [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
 - [Rise of generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
-- [Show HN: HiSHtory: Your shell history in context, synced, and queryable](https://github.com/ddworken/hishtory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
