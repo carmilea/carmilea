@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rate Hikes Are Affecting the Economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
+- [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
+- [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
+- [Rise of Generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
 - [Show HN: HiSHtory: Your shell history in context, synced, and queryable](https://github.com/ddworken/hishtory)
-- [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/)
-- [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
-- [Tcl is faster than Python for database benchmarking](https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/)
-- [NASA finds super-emitters of methane](https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
