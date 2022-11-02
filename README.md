@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rakuten dumps Red Hat, turns to “true” open-source Linux OS](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/)
+- [TomTom announces new Maps Platform using OpenStreetMap](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/)
 - [Protonmail can delete the wrong email and nobody cares](https://github.com/ProtonMail/proton-bridge/issues/220)
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Disneyland Shanghai shuts over COVID, visitors unable to leave](https://www.bbc.com/news/world-asia-63456107)
-- [What would happen if you fell through a hole to the center of the Earth?](https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/)
-- [Cook shortage threatens to sink U.S. Coast Guard operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
+- [Shanghai Disney shuts: Visitors unable to leave without negative Covid test](https://www.bbc.com/news/world-asia-63456107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
