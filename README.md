@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US debt: Federal interest payments could soon exceed military spending](https://www.cnn.com/2022/11/01/economy/inflation-fed-debt-military/index.html)
+- [EU Commission proposes to accelerate the rollout of instant payments in euro](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272)
 - [Ask HN: How can techies influence companies to stop implementing SMS/phone 2FA](https://news.ycombinator.com/item?id=33435682)
+- [Ask HN: How is it possible to be the CEO of 5 companies at the same time?](https://news.ycombinator.com/item?id=33435382)
 - [Urlscan.io&#39;s SOAR spot: Chatty security tools leaking private data](https://positive.security/blog/urlscan-data-leaks)
-- [Ask HN: How to deal with burnout and its consequences?](https://news.ycombinator.com/item?id=33434742)
-- [Scientists Increasingly Can’t Explain How AI Works](https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works)
-- [Ask HN: Carrier “lost” my number in a port request](https://news.ycombinator.com/item?id=33434153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
