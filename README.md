@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A medieval account of Egyptian burial practices and tomb robbers](https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead)
+- [Wine 7.2 Released](https://www.winehq.org/announce/7.20)
+- [Meta will own 13% of global submarine cables by 2024](https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership)
 - [Braess&#39;s Paradox](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf)
 - [Cree releases LEDs designed for horticulture](https://cree-led.com/news/photophyll-select/)
-- [Tumblr brings mature content back, after 4 years](https://staff.tumblr.com/post/699744158019190784/this-is-not-a-drill-our-new-community-guidelines)
-- [A court just gutted years of California&#39;s housing efforts](https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php)
-- [PR that converts the TypeScript repo from namespaces to modules](https://github.com/microsoft/TypeScript/pull/51387)
 <!-- BLOG-POST-LIST:END -->
 
 ---
