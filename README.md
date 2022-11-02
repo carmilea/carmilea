@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI generated, never-ending discussion between Werner Herzog and Slavoj ŽIžek](https://infiniteconversation.com/)
-- [OpenSSL added new C parser code [...] without doing any basic security testing](https://twitter.com/hanno/status/1587775675397726209)
-- [The pool of talented C++ developers is running dry](https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers)
-- [Playstation VR2](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games)
-- [Method Chaining in Pandas: Bad Form or a Recipe for Success?](https://davidamos.dev/method-chaining-in-pandas/)
+- [First release of LemmyBB, a federated bulletin board written in Rust](https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB)
+- [NEONnoir is a hybrid point-and-click adventure/visual novel game for the Amiga](https://steamknight.itch.io/neonnoir)
+- [T-Mobile will start charging a $35 fee on all new activations and upgrades](https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html)
+- [Grafana Phlare, open source database for continuous profiling at scale](https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/)
+- [U.S. pushes Japan and other allies to join China chip curbs](https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
