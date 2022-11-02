@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Priceloop NoCode Spreadsheet platform built in Scala and on-top of Postgres](https://news.ycombinator.com/item?id=33433316)
 - [Rakuten dumps Red Hat, turns to “true” open-source Linux OS](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/)
 - [TomTom announces new Maps Platform using OpenStreetMap](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/)
+- [How to upgrade an antiquated Identity and Access Management system?](https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system)
 - [Protonmail can delete the wrong email and nobody cares](https://github.com/ProtonMail/proton-bridge/issues/220)
-- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 200GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Shanghai Disney shuts: Visitors unable to leave without negative Covid test](https://www.bbc.com/news/world-asia-63456107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
