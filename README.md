@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Priceloop NoCode Spreadsheet platform built in Scala and on-top of Postgres](https://news.ycombinator.com/item?id=33433316)
-- [Rakuten dumps Red Hat, turns to “true” open-source Linux OS](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/)
-- [TomTom announces new Maps Platform using OpenStreetMap](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/)
-- [How to upgrade an antiquated Identity and Access Management system?](https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system)
-- [Protonmail can delete the wrong email and nobody cares](https://github.com/ProtonMail/proton-bridge/issues/220)
+- [Jony Ive on Life After Apple](https://www.wsj.com/articles/jony-ive-apple-design-interview-profile-lovefrom-11666733971)
+- [Scientists Increasingly Can’t Explain How AI Works](https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works)
+- [Ask HN: Carrier “lost” my number in a port request](https://news.ycombinator.com/item?id=33434153)
+- [Pantone wants $15/month for the privilege of using its colors in Photoshop](https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/)
+- [Functional programming should be the future of software](https://spectrum.ieee.org/functional-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
