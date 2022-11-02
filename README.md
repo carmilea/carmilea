@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jony Ive on Life After Apple](https://www.wsj.com/articles/jony-ive-apple-design-interview-profile-lovefrom-11666733971)
+- [Ask HN: How can techies influence companies to stop implementing SMS/phone 2FA](https://news.ycombinator.com/item?id=33435682)
+- [Urlscan.io&#39;s SOAR spot: Chatty security tools leaking private data](https://positive.security/blog/urlscan-data-leaks)
+- [Ask HN: How to deal with burnout and its consequences?](https://news.ycombinator.com/item?id=33434742)
 - [Scientists Increasingly Can’t Explain How AI Works](https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works)
 - [Ask HN: Carrier “lost” my number in a port request](https://news.ycombinator.com/item?id=33434153)
-- [Pantone wants $15/month for the privilege of using its colors in Photoshop](https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/)
-- [Functional programming should be the future of software](https://spectrum.ieee.org/functional-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
