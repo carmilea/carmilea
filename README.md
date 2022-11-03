@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK workers have had their accents mocked, survey suggests](https://www.bbc.co.uk/news/uk-63494849)
+- [Open Source Firebase Alternative with GraphQL](https://nhost.io/)
+- [It’s electric Technique could clean up mining of valuable rare earth elements](https://www.science.org/content/article/it-s-electric-technique-could-clean-mining-valuable-rare-earth-elements)
+- [Want to live in a van down by the river? Ford has a new vehicle for that](https://www.cnbc.com/2022/11/03/ford-transit-trail-2023-targets-boom-in-rv-van-life.html)
 - [JC – JSONifies the output of many CLI tools](https://kellyjonbrazil.github.io/jc/)
 - [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting?](https://news.ycombinator.com/item?id=33447976)
-- [The dynamic incremental compiler of APL\3000 &lpar;1979&rpar; [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
-- [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
