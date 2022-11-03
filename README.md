@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sugar Substitutes Surprise](https://www.science.org/content/blog-post/sugar-substitutes-surprise)
+- [Lyft laying off 13% of staff](https://www.wsj.com/articles/lyft-plans-to-lay-off-hundreds-of-staffers-11667490092)
+- [2022 State of Haskell Survey](https://haskellweekly.news/survey/2022.html)
+- [Acreom 1.0 – a lightweight Markdown editor with tasks for developers](https://acreom.com)
 - [Testing Microsoft&#39;s Windows Dev Kit 2023](https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023)
-- [Launch HN: Akiflow &lpar;YC S20&rpar; - Bring your tasks and calendars together](https://akiflow.com/)
-- [Communities Now Available](https://blog.whatsapp.com/communities-now-available)
-- [I Posted on YouTube Consistently for 1 Month. This Is What Happened](https://www.alexhyett.com/one-month-on-youtube/)
-- [Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
