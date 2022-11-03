@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russell Napier: The world will experience a capex boom](https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606)
-- [What&#39;s the word for a large collection of fraudulent web stores?](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
+- [The dynamic incremental compiler of APL\3000 &lpar;1979&rpar; [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
+- [Twitter plans to order remaining workers back to office after layoffs](https://www.axios.com/2022/11/03/musk-twitter-layoffs-remote-back-to-office)
+- [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
+- [A large collection of fraudulent web stores](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
 - [Can I exec a new process without an executable file? &lpar;2015&rpar;](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
-- [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
-- [Today’s inflation is not a repeat of the 1970s](https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
