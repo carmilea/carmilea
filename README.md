@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [jc – JSONifies the output of many CLI tools](https://kellyjonbrazil.github.io/jc/)
 - [Why talent sorting in Germany is flawed](https://www.simongrimm.com/pub/germantalent/release/2)
 - [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting?](https://news.ycombinator.com/item?id=33447976)
 - [The dynamic incremental compiler of APL\3000 &lpar;1979&rpar; [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
-- [Moderation is different from censorship](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship)
 <!-- BLOG-POST-LIST:END -->
 
 ---
