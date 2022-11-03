@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is killing custom domain names in Outlook.com](https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/)
+- [Show HN: An Chrome extension that adds a Twitter verified badge to any profile](https://www.pixiebrix.com/marketplace/43de3cdc-f271-4bc0-a2ed-01d41edac93a/verify-twitter-account-for-free/)
 - [Release &lpar;YC W20&rpar; Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
 - [We&#39;ve filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
 - [Photography is not just about the camera](https://peter.czanik.hu/posts/photography-not-just-camera/)
-- [Study urges caution when comparing neural networks to the brain](https://news.mit.edu/2022/neural-networks-brain-function-1102)
-- [Mozilla Launches Venture Fund to Fuel Responsible Tech Companies](https://blog.mozilla.org/en/mozilla/mozilla-launches-first-of-its-kind-venture-fund-to-fuel-responsible-tech-companies-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
