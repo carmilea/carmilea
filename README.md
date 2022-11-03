@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Times made a weird editorial decision with its tech coverage](https://twitter.com/mattyglesias/status/1588190763413868553)
+- [Study urges caution when comparing neural networks to the brain](https://news.mit.edu/2022/neural-networks-brain-function-1102)
 - [Bank of England expects UK to fall into longest ever recession](https://www.bbc.com/news/business-63471725)
-- [Linux Boot Partitions](https://0pointer.net/blog/linux-boot-partitions.html)
-- [UN Votes Overwhelmingly to Condemn US Embargo of Cuba](https://www.usnews.com/news/us/articles/2022-11-03/un-votes-overwhelmingly-to-condemn-us-embargo-of-cuba)
-- [Evidence &lpar;YC S21&rpar; Is hiring engineers to build a web framework for data analysts](https://www.ycombinator.com/companies/evidence/jobs/Ppjfpfm-frontend-engineer)
-- [Number of unemployed persons per job opening](https://www.bls.gov/charts/job-openings-and-labor-turnover/unemp-per-job-opening.htm)
+- [Mozilla Launches Venture Fund to Fuel Responsible Tech Companies](https://blog.mozilla.org/en/mozilla/mozilla-launches-first-of-its-kind-venture-fund-to-fuel-responsible-tech-companies-products/)
+- [Swarm – Low cost, global satellite connectivity for IoT](https://swarm.space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
