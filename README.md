@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Microsoft&#39;s Windows Dev Kit 2023](https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023)
+- [Launch HN: Akiflow &lpar;YC S20&rpar; - Bring your tasks and calendars together](https://akiflow.com/)
+- [Communities Now Available](https://blog.whatsapp.com/communities-now-available)
+- [I Posted on YouTube Consistently for 1 Month. This Is What Happened](https://www.alexhyett.com/one-month-on-youtube/)
 - [Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
-- [Show HN: Open-source OAuth2 server Ory Hydra v2.0](https://github.com/ory/hydra/releases/tag/v2.0.0)
-- [Show HN: Sprig, open-source game console and engine, by teenagers, for teenagers](https://github.com/hackclub/sprig)
-- [Translate Between JSON and EDI](https://www.stedi.com/blog/translate-between-json-and-edi)
-- [Stripe laying off around 14% of workforce](https://stripe.com/en-au/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
