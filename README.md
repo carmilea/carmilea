@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Microsoft&#39;s CBL-Mariner Going to Become Microsoft Linux?](https://boxofcables.dev/cbl-delridge-is-dead-long-live-cbl-mariner/)
 - [Microsoft is killing custom domain names in Outlook.com](https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/)
-- [Show HN: An Chrome extension that adds a Twitter verified badge to any profile](https://www.pixiebrix.com/marketplace/43de3cdc-f271-4bc0-a2ed-01d41edac93a/verify-twitter-account-for-free/)
 - [Release &lpar;YC W20&rpar; Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
 - [We&#39;ve filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
 - [Photography is not just about the camera](https://peter.czanik.hu/posts/photography-not-just-camera/)
