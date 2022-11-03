@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The New York Times made a weird editorial decision with its tech coverage](https://twitter.com/mattyglesias/status/1588190763413868553)
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
+- [We&#39;ve filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
+- [Photography is not just about the camera](https://peter.czanik.hu/posts/photography-not-just-camera/)
 - [Study urges caution when comparing neural networks to the brain](https://news.mit.edu/2022/neural-networks-brain-function-1102)
-- [Bank of England expects UK to fall into longest ever recession](https://www.bbc.com/news/business-63471725)
 - [Mozilla Launches Venture Fund to Fuel Responsible Tech Companies](https://blog.mozilla.org/en/mozilla/mozilla-launches-first-of-its-kind-venture-fund-to-fuel-responsible-tech-companies-products/)
-- [Swarm – Low cost, global satellite connectivity for IoT](https://swarm.space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
