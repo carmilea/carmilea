@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The dynamic incremental compiler of APL\3000 &lpar;1979&rpar; [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
+- [Moderation is different from censorship](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship)
 - [A large collection of fraudulent web stores](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
 - [Can I exec a new process without an executable file? &lpar;2015&rpar;](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
-- [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
