@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bank of England expects UK to fall into longest ever recession](https://www.bbc.com/news/business-63471725)
 - [Linux Boot Partitions](https://0pointer.net/blog/linux-boot-partitions.html)
+- [UN Votes Overwhelmingly to Condemn US Embargo of Cuba](https://www.usnews.com/news/us/articles/2022-11-03/un-votes-overwhelmingly-to-condemn-us-embargo-of-cuba)
 - [Evidence &lpar;YC S21&rpar; Is hiring engineers to build a web framework for data analysts](https://www.ycombinator.com/companies/evidence/jobs/Ppjfpfm-frontend-engineer)
 - [Number of unemployed persons per job opening](https://www.bls.gov/charts/job-openings-and-labor-turnover/unemp-per-job-opening.htm)
-- [Sugar Substitutes Surprise](https://www.science.org/content/blog-post/sugar-substitutes-surprise)
-- [Lyft laying off 13% of staff](https://www.wsj.com/articles/lyft-plans-to-lay-off-hundreds-of-staffers-11667490092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
