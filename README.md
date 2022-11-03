@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why talent sorting in Germany is flawed](https://www.simongrimm.com/pub/germantalent/release/2)
+- [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting?](https://news.ycombinator.com/item?id=33447976)
 - [The dynamic incremental compiler of APL\3000 &lpar;1979&rpar; [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
 - [Moderation is different from censorship](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship)
-- [A large collection of fraudulent web stores](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
-- [Can I exec a new process without an executable file? &lpar;2015&rpar;](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
 <!-- BLOG-POST-LIST:END -->
 
 ---
