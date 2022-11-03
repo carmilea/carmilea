@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence &lpar;YC S21&rpar; Is hiring engineers to build a web framework for data analysts](https://www.ycombinator.com/companies/evidence/jobs/Ppjfpfm-frontend-engineer)
+- [Number of unemployed persons per job opening](https://www.bls.gov/charts/job-openings-and-labor-turnover/unemp-per-job-opening.htm)
 - [Sugar Substitutes Surprise](https://www.science.org/content/blog-post/sugar-substitutes-surprise)
 - [Lyft laying off 13% of staff](https://www.wsj.com/articles/lyft-plans-to-lay-off-hundreds-of-staffers-11667490092)
 - [2022 State of Haskell Survey](https://haskellweekly.news/survey/2022.html)
-- [Acreom 1.0 – a lightweight Markdown editor with tasks for developers](https://acreom.com)
-- [Testing Microsoft&#39;s Windows Dev Kit 2023](https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
