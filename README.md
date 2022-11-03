@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe Announces 14% Layoff](https://stripe.com/en-au/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees)
+- [Stripe Layoff 14% of Workforce](https://www.teamblind.com/post/Stripe-layoff-14-of-the-workforce-ORCpmMEK)
+- [I am a quite good bad programmer](https://news.ycombinator.com/item?id=33450102)
+- [Kaluma: A Tiny JavaScript Runtime for RP2040 &lpar;Raspberry Pi Pico&rpar;](https://github.com/kaluma-project/kaluma)
 - [Ex-Reddit CEO on Twitter moderation](https://twitter.com/yishan/status/1586955288061452289)
-- [Adversarial Policies Beat Professional-Level Go AIs](https://arxiv.org/abs/2211.00241)
-- [Duplicati: Free backup software to store encrypted backups online](https://www.duplicati.com/)
-- [Sile: A Modern Rewrite of TeX](https://sile-typesetter.org/)
-- [FreeBSD optimizations used by Netflix to serve video at 800Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
