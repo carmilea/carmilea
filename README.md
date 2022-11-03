@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Firebase Alternative with GraphQL](https://nhost.io/)
-- [It’s electric Technique could clean up mining of valuable rare earth elements](https://www.science.org/content/article/it-s-electric-technique-could-clean-mining-valuable-rare-earth-elements)
-- [Want to live in a van down by the river? Ford has a new vehicle for that](https://www.cnbc.com/2022/11/03/ford-transit-trail-2023-targets-boom-in-rv-van-life.html)
-- [JC – JSONifies the output of many CLI tools](https://kellyjonbrazil.github.io/jc/)
-- [Ask HN: Data Scientists, what libraries do you use for timeseries forecasting?](https://news.ycombinator.com/item?id=33447976)
+- [Ex-Reddit CEO on Twitter moderation](https://twitter.com/yishan/status/1586955288061452289)
+- [Adversarial Policies Beat Professional-Level Go AIs](https://arxiv.org/abs/2211.00241)
+- [Duplicati: Free backup software to store encrypted backups online](https://www.duplicati.com/)
+- [Sile: A Modern Rewrite of TeX](https://sile-typesetter.org/)
+- [FreeBSD optimizations used by Netflix to serve video at 800Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
