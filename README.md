@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russell Napier: The world will experience a capex boom](https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606)
+- [What&#39;s the word for a large collection of fraudulent web stores?](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
 - [Can I exec a new process without an executable file? &lpar;2015&rpar;](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
-- [Blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
+- [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
 - [Today’s inflation is not a repeat of the 1970s](https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/)
-- [An AWS account just for getting into other AWS accounts](https://src-bin.com/an-aws-account-just-for-getting-into-other-aws-accounts/)
-- [Justice Department announces takedown of catalytic converter theft ring](https://www.justice.gov/opa/pr/justice-department-announces-takedown-nationwide-catalytic-converter-theft-ring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
