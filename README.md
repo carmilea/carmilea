@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rage Against The Machine’s explosive debut album changed everything](https://www.loudersound.com/features/rage-against-the-machine-debut-album-story)
+- [Solving Common Problems with Kubernetes](https://blog.adamchalmers.com/kubernetes-problems/)
 - [Starlink Sets High-Speed Data Cap at 1TB per Month, Lowers Advertised Speeds](https://www.pcmag.com/news/starlink-sets-high-speed-data-cap-at-1tb-per-month-lowers-advertised-speeds)
 - [Full Stack Startups &lpar;2014&rpar;](https://cdixon.org/2014/03/15/full-stack-startups/)
 - [In Defense of Linked Lists](http://antirez.com/news/138)
-- [NYT reporters had a top-down directive that tech coverage should be critical](https://twitter.com/KelseyTuoc/status/1588231892792328192)
-- [Linux devs discover that Intel Arc GPU firmware updates need an Intel CPU](https://arstechnica.com/gadgets/2022/11/intel-arc-gpu-firmware-updates-appear-to-require-an-intel-cpu-at-least-for-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
