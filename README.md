@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data persistency, large-scale data analytics, visualizations-NetworkX challenges](https://memgraph.com/blog/data-persistency-large-scale-data-analytics-and-visualizations-biggest-networkx-challenges)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead API and Billing Engineer](https://boards.greenhouse.io/supabase/jobs/4652333004)
+- [User-Agent Reduction](https://www.akamai.com/blog/developers/user-agent-reduction)
 - [I fought the PayPal and I won](https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won)
 - [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
-- [The Linux scheduler: A decade of wasted cores &lpar;2016&rpar;](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
-- [Tinygrad: A simple and powerful neural network framework](https://tinygrad.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
