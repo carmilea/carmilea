@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’s mass layoffs have begun](https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/)
+- [“My chest fridge consumes about 0.1 kWh a day.”](https://www.notechmagazine.com/2022/11/low-energy-chest-fridge.html)
 - [UK to hand over Chagos back to Mauritius](https://www.theguardian.com/world/2022/nov/03/uk-agrees-to-negotiate-with-mauritius-over-handover-of-chagos-islands)
 - [Data persistency, large-scale data analytics, visualizations-NetworkX challenges](https://memgraph.com/blog/data-persistency-large-scale-data-analytics-and-visualizations-biggest-networkx-challenges)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead API and Billing Engineer](https://boards.greenhouse.io/supabase/jobs/4652333004)
-- [User-Agent Reduction](https://www.akamai.com/blog/developers/user-agent-reduction)
-- [I fought the PayPal and I won](https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won)
 <!-- BLOG-POST-LIST:END -->
 
 ---
