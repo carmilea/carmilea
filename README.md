@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Hampshire set to pilot voting machines that use software everyone can see](https://therecord.media/new-hampshire-set-to-pilot-voting-machines-that-use-software-everyone-can-see/)
+- [Ask HN: What Recession?](https://news.ycombinator.com/item?id=33465760)
+- [Sudo: Heap-based overflow with small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 - [Linode Outage in Dallas, Fremont, Atlanta, Newark, and Toronto Data Centers](https://status.linode.com/incidents/bqlkm3ttppdl)
 - [PolicyFly &lpar;YC W22&rpar; Is Hiring an Engineering Manager to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
-- [Andrée Balloon Crash &lpar;2014&rpar;](https://www.atlasobscura.com/articles/the-andree-balloon-crash-a-photographic-journey-through-to-most-surreal-of-arctic-disasters)
-- [General Mills, Audi pause Twitter ads, will evaluate site](https://apnews.com/article/elon-musk-twitter-inc-technology-business-0bafafecbcf4cbae2f484d83d483b168)
-- [Major crypto trading firm Alameda Research might be insolvent](https://dirtybubblemedia.substack.com/p/is-alameda-research-insolvent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
