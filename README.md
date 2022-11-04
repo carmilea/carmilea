@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lex Fridman Interviews Richard Feynman](https://podcast.ai/?l=r)
-- [UK Government scans all web servers hosted in the UK for vulnerabilities](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
-- [Show HN: Top 70000 educational YouTube channels in 20 languages by category](https://limnology.co/)
-- [Confirming the exact location of the invention of the web &lpar;2010&rpar;](http://davidgalbraith.org/uncategorized/the-exact-location-where-the-web-was-invented/2343/)
-- [Use RSS for privacy and efficiency &lpar;2021&rpar;](https://rsapkf.org/weblog/q2z/)
+- [New Zealand plunges into recessionary spiral](https://www.macrobusiness.com.au/2022/10/new-zealand-plunges-into-recessionary-spiral/)
+- [Lilia &lpar;egg freezing, YC W20&rpar; Is Hiring a Content/Growth Marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
+- [RStudio is now Posit, our mission continues](https://posit.co/)
+- [Thoughts about Twitter](https://nolancaudill.com/2022/11/04/thoughts-about-twitter/)
+- [Many Companies Aren’t Prepared to Replace Underperforming CEOs](https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
