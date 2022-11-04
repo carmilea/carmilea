@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Step CI – open-source lightweight alternative to Checkly](https://github.com/stepci/stepci)
-- [Twitter faces a class action lawsuit over mass employee layoffs with proper](https://techcrunch.com/2022/11/04/twitter-faces-a-class-action-lawsuit-over-mass-employee-layoffs-with-proper-legal-notice/)
-- [New Hampshire set to pilot voting machines that use software everyone can see](https://therecord.media/new-hampshire-set-to-pilot-voting-machines-that-use-software-everyone-can-see/)
-- [Ask HN: What Recession?](https://news.ycombinator.com/item?id=33465760)
-- [AstraZeneca patients data exposed for over a year due to password snafu](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/)
+- [Use RSS for privacy and efficiency](https://rsapkf.org/weblog/q2z/)
+- [San Francisco: The reckoning is here](http://www.yared.com/2022/09/san-francisco-reckoning-is-here.html)
+- [Google to remove all VPN ad blockers that don’t comply with their policy](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
+- [Launch HN: Shimmer &lpar;YC S21&rpar; – ADHD coaching for adults](https://news.ycombinator.com/item?id=33468611)
+- [Ask HN: HN-like forum for literature and cinema?](https://news.ycombinator.com/item?id=33468314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
