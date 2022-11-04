@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter employees: IMPORTANT INFO from a CA employment attorney](https://twitter.com/lisabloom/status/1588359669843513344)
+- [The Linux Scheduler: A Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
 - [Tinygrad: A simple and powerful neural network framework](https://tinygrad.org/)
+- [A Golang linter to detect functions not in alphabetical order](https://github.com/skx/alphavet)
 - [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
-- [Clojure from a Schemer&#39;s Perspective &lpar;2021&rpar;](https://www.more-magic.net/posts/thoughts-on-clojure.html)
-- [Privately-Owned Rail Cars](https://www.amtrak.com/privately-owned-rail-cars)
-- [Passage Is Joining 1Password](https://passage.id/post/passage-is-joining-1password)
 <!-- BLOG-POST-LIST:END -->
 
 ---
