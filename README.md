@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Startups &lpar;2014&rpar;](https://cdixon.org/2014/03/15/full-stack-startups/)
+- [In Defense of Linked Lists](http://antirez.com/news/138)
+- [From Google to Twitter](https://ma.nu/blog/from-google-to-twitter)
 - [Up to 30% of online reviews are fake and consumers can&#39;t tell the difference](https://cbsaustin.com/news/local/up-to-30-of-online-reviews-are-fake-and-most-consumers-cant-tell-the-difference)
 - [The Many Branches of the Fediverse](https://axbom.com/fediverse/)
-- [White House deletes tweet after Twitter adds &#39;context&#39; note](https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647)
-- [Show HN: Auto generate images from Figma using an API](https://pikmaker.com/)
-- [New Zealand plunges into recessionary spiral](https://www.macrobusiness.com.au/2022/10/new-zealand-plunges-into-recessionary-spiral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
