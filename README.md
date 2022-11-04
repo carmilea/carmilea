@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinygrad: A simple and powerful neural network framework](https://tinygrad.org/)
 - [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
 - [Clojure from a Schemer&#39;s Perspective &lpar;2021&rpar;](https://www.more-magic.net/posts/thoughts-on-clojure.html)
-- [Twitter to start layoffs -internal email](https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/)
-- [Attach your private rail car to an Amtrak train](https://www.amtrak.com/privately-owned-rail-cars)
+- [Privately-Owned Rail Cars](https://www.amtrak.com/privately-owned-rail-cars)
 - [Passage Is Joining 1Password](https://passage.id/post/passage-is-joining-1password)
 <!-- BLOG-POST-LIST:END -->
 
