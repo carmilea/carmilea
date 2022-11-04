@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use RSS for privacy and efficiency](https://rsapkf.org/weblog/q2z/)
-- [San Francisco: The reckoning is here](http://www.yared.com/2022/09/san-francisco-reckoning-is-here.html)
-- [Google to remove all VPN ad blockers that don’t comply with their policy](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
+- [UK Government scans all web servers hosted in the UK for vulnerabilities](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
+- [Musk’s Twitter Purchase Was a Leveraged Buyout](https://news.ycombinator.com/item?id=33469493)
+- [Confirming the exact location of the invention of the web &lpar;2010&rpar;](http://davidgalbraith.org/uncategorized/the-exact-location-where-the-web-was-invented/2343/)
+- [Use RSS for privacy and efficiency &lpar;2021&rpar;](https://rsapkf.org/weblog/q2z/)
 - [Launch HN: Shimmer &lpar;YC S21&rpar; – ADHD coaching for adults](https://news.ycombinator.com/item?id=33468611)
-- [Ask HN: HN-like forum for literature and cinema?](https://news.ycombinator.com/item?id=33468314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
