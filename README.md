@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lex Fridman Interviews Richard Feynman](https://podcast.ai/?l=r)
 - [UK Government scans all web servers hosted in the UK for vulnerabilities](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
-- [Musk’s Twitter Purchase Was a Leveraged Buyout](https://news.ycombinator.com/item?id=33469493)
+- [Show HN: Top 70000 educational YouTube channels in 20 languages by category](https://limnology.co/)
 - [Confirming the exact location of the invention of the web &lpar;2010&rpar;](http://davidgalbraith.org/uncategorized/the-exact-location-where-the-web-was-invented/2343/)
 - [Use RSS for privacy and efficiency &lpar;2021&rpar;](https://rsapkf.org/weblog/q2z/)
-- [Launch HN: Shimmer &lpar;YC S21&rpar; – ADHD coaching for adults](https://news.ycombinator.com/item?id=33468611)
 <!-- BLOG-POST-LIST:END -->
 
 ---
