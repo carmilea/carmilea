@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Up to 30% of online reviews are fake and consumers can&#39;t tell the difference](https://cbsaustin.com/news/local/up-to-30-of-online-reviews-are-fake-and-most-consumers-cant-tell-the-difference)
+- [The Many Branches of the Fediverse](https://axbom.com/fediverse/)
+- [White House deletes tweet after Twitter adds &#39;context&#39; note](https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647)
+- [Show HN: Auto generate images from Figma using an API](https://pikmaker.com/)
 - [New Zealand plunges into recessionary spiral](https://www.macrobusiness.com.au/2022/10/new-zealand-plunges-into-recessionary-spiral/)
-- [Lilia &lpar;egg freezing, YC W20&rpar; Is Hiring a Content/Growth Marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
-- [RStudio is now Posit, our mission continues](https://posit.co/)
-- [Thoughts about Twitter](https://nolancaudill.com/2022/11/04/thoughts-about-twitter/)
-- [Many Companies Aren’t Prepared to Replace Underperforming CEOs](https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
