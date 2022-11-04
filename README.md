@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter employees: IMPORTANT INFO from a CA employment attorney](https://twitter.com/lisabloom/status/1588359669843513344)
-- [The Linux Scheduler: A Decade of Wasted Cores](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Lead API and Billing Engineer](https://boards.greenhouse.io/supabase/jobs/4652333004)
+- [I fought the PayPal and I won](https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won)
+- [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
+- [The Linux scheduler: A decade of wasted cores &lpar;2016&rpar;](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
 - [Tinygrad: A simple and powerful neural network framework](https://tinygrad.org/)
-- [A Golang linter to detect functions not in alphabetical order](https://github.com/skx/alphavet)
-- [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
