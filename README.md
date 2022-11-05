@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Womp 3D – The New Way to 3D](https://www.womp.com/)
+- [Decker: A Multimedia Sketchpad](https://github.com/JohnEarnest/Decker)
+- [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
-- [Backlash after 500 drones light up New York City sky to celebrate Candy Crush](https://www.theguardian.com/us-news/2022/nov/04/candy-crush-drone-show-backlash)
-- [Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
-- [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
-- [Ask HN: How much does the environment you&#39;re in contribute to performance?](https://news.ycombinator.com/item?id=33475720)
+- [Show HN: Structpad: notepad-database hybrid that helps you use abstract thinking](https://structpad.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
