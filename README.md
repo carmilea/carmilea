@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter launches blue check for $7.99 monthly fee](https://apnews.com/article/elon-musk-twitter-inc-technology-entertainment-business-61cb431325991db18e4320bbd4831caf)
+- [An aesthetically pleasing pathfinding visualizer](https://pathfinding-visualizer-nu.vercel.app/)
+- [Hurricane Ian and EV Fires](https://www.edn.com/hurricane-ian-and-ev-fires/)
+- [3D OpenStreetMap](https://demo.f4map.com)
 - [Microsoft sued for open-source piracy through GitHub Copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
-- [Jack Dorsey Unveils Bluesky Social, the Decentralized Twitter](https://www.geekmetaverse.com/jack-dorsey-unveils-bluesky-social-the-decentralized-twitter/)
 - [Context to Twitter&#39;s 2023 advertisers issues](https://twitter.com/goangelo/status/1588696157794242560)
-- [Engineered ‘Superplant’ Cleans Indoor Air Like 30 Regular Plants](https://singularityhub.com/2022/11/02/this-engineered-superplant-cleans-indoor-air-like-30-regular-plants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
