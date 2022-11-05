@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Well Y Combinator, we&#39;re going public anyway](https://breckyunits.com/goingPublic.html)
+- [Portmaster 1.0 – Open-Source Network Monitor and Privacy Firewall](https://safing.io/blog/2022/10/27/portmaster-reaches-1.0/)
+- [On Second Thought, Just Throw Plastic Away](https://www.city-journal.org/greenpeace-admits-recycling-doesnt-work)
 - [Quantum Winter Is Coming](http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html)
 - [Poll: How Old Are You?](https://news.ycombinator.com/item?id=33480849)
-- [Eighty Years of the Finite Element Method: Birth, Evolution, and Future](https://link.springer.com/article/10.1007/s11831-022-09740-9)
-- [Show HN: Stable Diffusion print-on-demand apparel](https://www.1sewn.com/)
-- [Did you know there are cool bars in Antarctica?](https://drinksdigest.com/2021/10/11/there-are-cool-bars-in-antarctica/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
