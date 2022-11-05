@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is everyone on Hacker News super charismatic?](https://news.ycombinator.com/item?id=33479609)
+- [Stop requiring only one assertion per unit test: Multiple assertions are fine](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
 - [So today musl discovered a longstanding bug in Linux&#39;s ELF loader](https://threadreaderapp.com/thread/1588592850715172865.html)
+- [Astronomers Discover Closest Black Hole to Earth](https://noirlab.edu/public/news/noirlab2227/)
 - [Pieca: A Raspberry Pi Camera System for Leica M Mount Lenses](https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/)
-- [Ask HN: How to deal with my team speaking a different language?](https://news.ycombinator.com/item?id=33478911)
-- [Birdwatch, Twitter&#39;s new collaborative fact checking system](https://twitter.github.io/birdwatch/#)
-- [IRC Server as Tor Hidden Service on OpenBSD](https://xn--gckvb8fzb.com/irc-server-as-tor-hidden-service-on-openbsd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
