@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmers Should Plan for Lower Pay](https://www.jefftk.com/p/programmers-should-plan-for-lower-pay)
-- [Soul, SQLite REST server is realtime now. WebSockets added](https://github.com/thevahidal/soul/blob/main/docs/ws-examples.md)
+- [Programmers should plan for lower pay &lpar;2019&rpar;](https://www.jefftk.com/p/programmers-should-plan-for-lower-pay)
+- [Jack Dorsey: “I grew the company size too quickly”](https://www.bbc.com/news/technology-63527893)
 - [Tell HN: A hacker&#39;s life is in danger, your awareness may be life saving](https://news.ycombinator.com/item?id=33484185)
+- [Context to Twitter&#39;s 2023 advertisers issues](https://twitter.com/goangelo/status/1588696157794242560)
 - [Engineered ‘Superplant’ Cleans Indoor Air Like 30 Regular Plants](https://singularityhub.com/2022/11/02/this-engineered-superplant-cleans-indoor-air-like-30-regular-plants/)
-- [Physical Warp Drives &lpar;2021&rpar;](https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
