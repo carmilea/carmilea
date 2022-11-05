@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk: “thermonuclear name &amp; shame” against advertisers pulling out](https://twitter.com/elonmusk/status/1588676939463946241)
+- [Backlash after 500 drones light up New York City sky to celebrate Candy Crush](https://www.theguardian.com/us-news/2022/nov/04/candy-crush-drone-show-backlash)
+- [60% of home compostable plastic doesn’t fully break down, ending up in our soil](https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/)
 - [Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
 - [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
 - [Ask HN: How much does the environment you&#39;re in contribute to performance?](https://news.ycombinator.com/item?id=33475720)
-- [Lawsuit Against Meta Invokes Modern Portfolio Theory to Protect Shareholders](https://corpgov.law.harvard.edu/2022/11/04/lawsuit-against-meta-invokes-modern-portfolio-theory-to-protect-diversified-shareholders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
