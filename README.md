@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla devs at Twitter misunderstand Slack privacy; leak fire lists based on LOC](https://twitter.com/gergelyorosz/status/1588906808395333633)
+- [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/)
+- [Searchable List of Mastodon Servers](https://instances.social/)
 - [Twitter UK staff get deadline over cuts consultation](https://www.bbc.co.uk/news/technology-63527336)
 - [Ask HN: Working in a VR Headset](https://news.ycombinator.com/item?id=33482215)
-- [Yellowstone to Yukon Conservation Initiative](https://y2y.net/)
-- [Ben Eater is back with a new video &lpar;after almost a year&rpar;!](https://www.youtube.com/watch?v=AHYNxpqKqwo)
-- [The Onion files Supreme Court amicus brief defending the right to parody](https://www.washingtonpost.com/media/2022/10/04/onion-amicus-brief-supreme-court-anthony-novak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
