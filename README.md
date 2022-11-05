@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: A hacker&#39;s life is in danger, your awareness may be life saving](https://news.ycombinator.com/item?id=33484185)
 - [Engineered ‘Superplant’ Cleans Indoor Air Like 30 Regular Plants](https://singularityhub.com/2022/11/02/this-engineered-superplant-cleans-indoor-air-like-30-regular-plants/)
 - [Physical Warp Drives &lpar;2021&rpar;](https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e)
 - [Negative 2000 Lines of Code &lpar;1982&rpar;](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/)
-- [Searchable List of Mastodon Servers](https://instances.social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
