@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rage Against The Machine’s explosive debut album changed everything](https://www.loudersound.com/features/rage-against-the-machine-debut-album-story)
-- [Solving Common Problems with Kubernetes](https://blog.adamchalmers.com/kubernetes-problems/)
-- [Starlink Sets High-Speed Data Cap at 1TB per Month, Lowers Advertised Speeds](https://www.pcmag.com/news/starlink-sets-high-speed-data-cap-at-1tb-per-month-lowers-advertised-speeds)
-- [Full Stack Startups &lpar;2014&rpar;](https://cdixon.org/2014/03/15/full-stack-startups/)
-- [In Defense of Linked Lists](http://antirez.com/news/138)
+- [Elon Musk: “thermonuclear name &amp; shame” against advertisers pulling out](https://twitter.com/elonmusk/status/1588676939463946241)
+- [Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
+- [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
+- [Ask HN: How much does the environment you&#39;re in contribute to performance?](https://news.ycombinator.com/item?id=33475720)
+- [Lawsuit Against Meta Invokes Modern Portfolio Theory to Protect Shareholders](https://corpgov.law.harvard.edu/2022/11/04/lawsuit-against-meta-invokes-modern-portfolio-theory-to-protect-diversified-shareholders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
