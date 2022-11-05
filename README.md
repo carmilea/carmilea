@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Winter Is Coming](http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html)
 - [Poll: How Old Are You?](https://news.ycombinator.com/item?id=33480849)
 - [Eighty Years of the Finite Element Method: Birth, Evolution, and Future](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+- [Show HN: Stable Diffusion print-on-demand apparel](https://www.1sewn.com/)
 - [Did you know there are cool bars in Antarctica?](https://drinksdigest.com/2021/10/11/there-are-cool-bars-in-antarctica/)
-- [Telescope Rule &lpar;2008&rpar;](https://wiki.c2.com/?TelescopeRule)
-- [The type system is a programmer&#39;s best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
