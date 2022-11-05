@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Well Y Combinator, we&#39;re going public anyway](https://breckyunits.com/goingPublic.html)
-- [Portmaster 1.0 – Open-Source Network Monitor and Privacy Firewall](https://safing.io/blog/2022/10/27/portmaster-reaches-1.0/)
-- [On Second Thought, Just Throw Plastic Away](https://www.city-journal.org/greenpeace-admits-recycling-doesnt-work)
-- [Quantum Winter Is Coming](http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html)
-- [Poll: How Old Are You?](https://news.ycombinator.com/item?id=33480849)
+- [Twitter UK staff get deadline over cuts consultation](https://www.bbc.co.uk/news/technology-63527336)
+- [Ask HN: Working in a VR Headset](https://news.ycombinator.com/item?id=33482215)
+- [Yellowstone to Yukon Conservation Initiative](https://y2y.net/)
+- [Ben Eater is back with a new video &lpar;after almost a year&rpar;!](https://www.youtube.com/watch?v=AHYNxpqKqwo)
+- [The Onion files Supreme Court amicus brief defending the right to parody](https://www.washingtonpost.com/media/2022/10/04/onion-amicus-brief-supreme-court-anthony-novak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
