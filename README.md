@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmers should plan for lower pay &lpar;2019&rpar;](https://www.jefftk.com/p/programmers-should-plan-for-lower-pay)
-- [Jack Dorsey: “I grew the company size too quickly”](https://www.bbc.com/news/technology-63527893)
-- [Tell HN: A hacker&#39;s life is in danger, your awareness may be life saving](https://news.ycombinator.com/item?id=33484185)
+- [Twitter launches blue check for $7.99 monthly fee](https://apnews.com/article/elon-musk-twitter-inc-technology-entertainment-business-61cb431325991db18e4320bbd4831caf)
+- [Microsoft sued for open-source piracy through GitHub Copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
+- [Jack Dorsey Unveils Bluesky Social, the Decentralized Twitter](https://www.geekmetaverse.com/jack-dorsey-unveils-bluesky-social-the-decentralized-twitter/)
 - [Context to Twitter&#39;s 2023 advertisers issues](https://twitter.com/goangelo/status/1588696157794242560)
 - [Engineered ‘Superplant’ Cleans Indoor Air Like 30 Regular Plants](https://singularityhub.com/2022/11/02/this-engineered-superplant-cleans-indoor-air-like-30-regular-plants/)
 <!-- BLOG-POST-LIST:END -->
