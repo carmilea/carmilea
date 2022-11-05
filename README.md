@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Twitter outlast this lettuce?](https://lettuce.wtf/)
+- [Indian Air Force inducts natively developed light combat helicopter ‘Prachanda’](https://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?163)
 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
+- [It looks like I’m moving to Mastodon](https://simonwillison.net/2022/Nov/5/mastodon/)
 - [Womp 3D – The New Way to 3D](https://www.womp.com/)
-- [Decker: A Multimedia Sketchpad](https://github.com/JohnEarnest/Decker)
-- [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
-- [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
