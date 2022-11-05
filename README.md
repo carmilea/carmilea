@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Brain Isn’t into the Future](https://nautil.us/why-your-brain-isnt-into-the-future-245128/)
-- [Stop requiring only one assertion per unit test: Multiple assertions are fine](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
-- [Climate geoengineering via stratospheric aerosol injection](https://www.deeplearning.ai/the-batch/issue-169/)
-- [So today musl discovered a longstanding bug in Linux&#39;s ELF loader](https://twitter.com/RichFelker/status/1588592850715172865)
-- [Astronomers Discover Closest Black Hole to Earth](https://noirlab.edu/public/news/noirlab2227/)
+- [Poll: How Old Are You?](https://news.ycombinator.com/item?id=33480849)
+- [Eighty Years of the Finite Element Method: Birth, Evolution, and Future](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+- [Did you know there are cool bars in Antarctica?](https://drinksdigest.com/2021/10/11/there-are-cool-bars-in-antarctica/)
+- [Telescope Rule &lpar;2008&rpar;](https://wiki.c2.com/?TelescopeRule)
+- [The type system is a programmer&#39;s best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
