@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Twitter outlast this lettuce?](https://lettuce.wtf/)
-- [Indian Air Force inducts natively developed light combat helicopter ‘Prachanda’](https://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?163)
-- [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
-- [It looks like I’m moving to Mastodon](https://simonwillison.net/2022/Nov/5/mastodon/)
-- [Womp 3D – The New Way to 3D](https://www.womp.com/)
+- [So today musl discovered a longstanding bug in Linux&#39;s ELF loader](https://threadreaderapp.com/thread/1588592850715172865.html)
+- [Pieca: A Raspberry Pi Camera System for Leica M Mount Lenses](https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/)
+- [Ask HN: How to deal with my team speaking a different language?](https://news.ycombinator.com/item?id=33478911)
+- [Birdwatch, Twitter&#39;s new collaborative fact checking system](https://twitter.github.io/birdwatch/#)
+- [IRC Server as Tor Hidden Service on OpenBSD](https://xn--gckvb8fzb.com/irc-server-as-tor-hidden-service-on-openbsd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
