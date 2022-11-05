@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
 - [Womp 3D – The New Way to 3D](https://www.womp.com/)
 - [Decker: A Multimedia Sketchpad](https://github.com/JohnEarnest/Decker)
 - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
-- [Show HN: Structpad: notepad-database hybrid that helps you use abstract thinking](https://structpad.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
