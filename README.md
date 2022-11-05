@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is everyone on Hacker News super charismatic?](https://news.ycombinator.com/item?id=33479609)
 - [Stop requiring only one assertion per unit test: Multiple assertions are fine](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
-- [So today musl discovered a longstanding bug in Linux&#39;s ELF loader](https://threadreaderapp.com/thread/1588592850715172865.html)
+- [Climate geoengineering via stratospheric aerosol injection](https://www.deeplearning.ai/the-batch/issue-169/)
+- [So today musl discovered a longstanding bug in Linux&#39;s ELF loader](https://twitter.com/RichFelker/status/1588592850715172865)
 - [Astronomers Discover Closest Black Hole to Earth](https://noirlab.edu/public/news/noirlab2227/)
 - [Pieca: A Raspberry Pi Camera System for Leica M Mount Lenses](https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/)
 <!-- BLOG-POST-LIST:END -->
