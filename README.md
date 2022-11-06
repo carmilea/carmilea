@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If bumblebees can play, does it mean they have feelings?](https://www.npr.org/2022/11/05/1134355887/bumblebees-can-play-does-it-mean-they-have-feelings-study-says-yes)
-- [Show HN: Clubhopr – My first indie project: 30 seconds for soccer/football fans](https://clubhopr.app/)
-- [EU electricity production by country and source](https://transparency.entsoe.eu/)
-- [Electrons turn piece of wire into laser-like light source](https://www.nature.com/articles/d41586-022-03455-4)
-- [The ugly story of how corporate America convinced us to spend so much on water](https://www.vox.com/the-goods/23433132/best-bottled-water-is-tap-environment-health)
+- [Home Truths about macOS](https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [Ask HN: ActivityPub or Mastodon?](https://news.ycombinator.com/item?id=33491684)
+- [Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)
+- [Ask HN: Open-Source GitHub Copilot?](https://news.ycombinator.com/item?id=33491446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
