@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you navigate Seasonal Affective Disorder?](https://news.ycombinator.com/item?id=33492114)
+- [‘I want to protect my family’: Polish civilians flock to army training](https://www.ft.com/content/bbce0959-f65e-44a4-87c1-438bddcfbd10)
 - [Home Truths about macOS](https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 - [Ask HN: ActivityPub or Mastodon?](https://news.ycombinator.com/item?id=33491684)
-- [Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)
-- [Ask HN: Open-Source GitHub Copilot?](https://news.ycombinator.com/item?id=33491446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
