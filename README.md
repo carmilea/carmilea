@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Galois field instructions on 2021 CPUs](http://www.corsix.org/content/galois-field-instructions-2021-cpus)
+- [Was everyone stupid back then?](https://www.smbc-comics.com/comic/internet-5)
+- [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 - [Alcohol death toll is growing, US Government reports say](https://apnews.com/article/alcohol-death-toll-rising-pandemic-c25878b044f46b1cd275a8e2738148a5)
-- [Neanderthals: A carnivore diet may have led to their demise](https://theconversation.com/neanderthals-how-a-carnivore-diet-may-have-led-to-their-demise-193764)
 - [Wells are running dry in Southwest as foreign-owned farms feed cattle overseas](https://lite.cnn.com/en/article/h_a1fc0bf7958049a62752160ff8ac5878)
-- [Nearly all binary searches and mergesorts are broken &lpar;2006&rpar;](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
-- [Ask HN: How do you navigate Seasonal Affective Disorder?](https://news.ycombinator.com/item?id=33492114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
