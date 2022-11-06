@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you believe there&#39;s *really* an alternative to Twitter?](https://news.ycombinator.com/item?id=33490217)
+- [At Xamarin I left every day at 5pm](https://twitter.com/migueldeicaza/status/1589071354967756802)
+- [Ask HN: How do you discover features in unknown code bases?](https://news.ycombinator.com/item?id=33489253)
 - [Bike: Innovative Rich Text Editing](https://www.hogbaysoftware.com/posts/bike-rich-text/)
 - [Git as a janky Twitter replacement](https://github.com/diracdeltas/tweets)
-- [Mastodon v4.0.0 Release Candidate](https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1)
-- [Ask HN: Comment here about whatever you&#39;re passionate about at the moment](https://news.ycombinator.com/item?id=33488891)
-- [Tool that lists all Fediverse instances including Mastodon, Pleroma, Rebased](http://demo.fedilist.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
