@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
+- [Full Text and Vector Search for Firestore with Weaviate](https://samos-it.com/posts/full-text-search-for-firestore-with-weaviate.html)
+- [Helix: Post-Modern Text Editor](https://helix-editor.com/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Show HN: Feep! search, an independent search engine for programmers](https://search.feep.dev)
-- [Substitute Web Fonts with StopTheMadness](https://underpassapp.com/news/2022-11-3.html)
-- [Mastodon&#39;s founder has a vision to democratize social media](https://time.com/6229230/mastodon-eugen-rochko-interview/)
-- [I Don&#39;t Understand Why We Throw Away Perfectly Working Things](http://muezza.ca/thoughts/working_trash/)
+- [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
