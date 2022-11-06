@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
+- [“I worked at Facebook when we [were] 200. [Twitter’s] layoffs are appropriate”](https://twitter.com/rsg/status/1588969950668283905)
+- [Twitter sources say company reached out to fired people asking them to come back](https://twitter.com/caseynewton/status/1589075543420325888)
+- [Level responds to lock picker opening its $330 Apple Store lock in seconds](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think)
 - [Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
-- [NASA Puts Jet Propulsion Lab on Blast over Psyche Mission Failures](https://futurism.com/the-byte/nasa-jpl-psyche-independent-review)
-- [Bashing new myths about digital nomads](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html)
-- [Thoughts on the “Guard” Proposal for Go&#39;s Error Handling](https://wagslane.dev/posts/guard-keyword-error-handling-golang/)
-- [TCP in under 200 LOC as parser-expression-grammar for RFC ASCII diagrams &lpar;2008&rpar;](http://www.moserware.com/2008/04/towards-moores-law-software-part-3-of-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
