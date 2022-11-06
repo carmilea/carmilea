@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Galois field instructions on 2021 CPUs](http://www.corsix.org/content/galois-field-instructions-2021-cpus)
-- [Was everyone stupid back then?](https://www.smbc-comics.com/comic/internet-5)
-- [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
-- [Alcohol death toll is growing, US Government reports say](https://apnews.com/article/alcohol-death-toll-rising-pandemic-c25878b044f46b1cd275a8e2738148a5)
-- [Wells are running dry in Southwest as foreign-owned farms feed cattle overseas](https://lite.cnn.com/en/article/h_a1fc0bf7958049a62752160ff8ac5878)
+- [The Preppers Were Right All Along](https://www.bloomberg.com/opinion/articles/2022-11-06/climate-change-is-launching-a-new-generation-of-preppers)
+- [Michael Burry’s warning for the index fund bubble](https://www.newtraderu.com/2022/11/06/michael-burrys-warning-for-the-index-fund-bubble/)
+- [Substitute Web Fonts with StopTheMadness](https://underpassapp.com/news/2022-11-3.html)
+- [Mastodon&#39;s founder has a vision to democratize social media](https://time.com/6229230/mastodon-eugen-rochko-interview/)
+- [Ancient water system uncovered at Roman Stabiae](https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135)
 <!-- BLOG-POST-LIST:END -->
 
 ---
