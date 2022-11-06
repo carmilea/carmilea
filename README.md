@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794)
-- [A Big List of Mastodon Resources](https://researchbuzz.me/2022/11/05/a-big-list-of-mastodon-resources/)
+- [2 years of fiddling with Rust – critical thoughts](https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years)
+- [Barilla Passive Cooker](https://www.barilla.com/en-gb/passive-cooking)
+- [Veloren is a multiplayer voxel RPG written in Rust](https://veloren.net/)
 - [proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
-- [Twitter’s Entire A11y Experience Team Let Go](https://twitter.com/gerardkcohen/status/1588584459779321857)
-- [BBC: Twitter users jump to Mastodon – but what is it?](https://www.bbc.com/news/technology-63534240)
+- [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
