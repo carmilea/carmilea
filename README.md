@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An aesthetically pleasing pathfinding visualizer](https://pathfinding-visualizer-nu.vercel.app/)
-- [Hurricane Ian and EV Fires](https://www.edn.com/hurricane-ian-and-ev-fires/)
-- [3D OpenStreetMap](https://demo.f4map.com)
-- [Microsoft sued for open-source piracy through GitHub Copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
-- [Context to Twitter&#39;s 2023 advertisers issues](https://twitter.com/goangelo/status/1588696157794242560)
+- [Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
+- [NASA Puts Jet Propulsion Lab on Blast over Psyche Mission Failures](https://futurism.com/the-byte/nasa-jpl-psyche-independent-review)
+- [Bashing new myths about digital nomads](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html)
+- [Thoughts on the “Guard” Proposal for Go&#39;s Error Handling](https://wagslane.dev/posts/guard-keyword-error-handling-golang/)
+- [TCP in under 200 LOC as parser-expression-grammar for RFC ASCII diagrams &lpar;2008&rpar;](http://www.moserware.com/2008/04/towards-moores-law-software-part-3-of-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
