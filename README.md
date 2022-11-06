@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do you believe there&#39;s *really* an alternative to Twitter?](https://news.ycombinator.com/item?id=33490217)
+- [The ugly story of how corporate America convinced us to spend so much on water](https://www.vox.com/the-goods/23433132/best-bottled-water-is-tap-environment-health)
+- [Make your DOM look like an eye that can focus on anything](https://github.com/jj811208/watching-you)
+- [Oskar Barnack: The Father of 35mm Photography](https://petapixel.com/oskar-barnack-father-of-35mm-photography/)
+- [Dwarf Fortress Dec. 6 Release Date Announced](https://www.youtube.com/watch?v=2K7T5LXQPJI)
 - [At Xamarin I left every day at 5pm](https://twitter.com/migueldeicaza/status/1589071354967756802)
-- [Ask HN: How do you discover features in unknown code bases?](https://news.ycombinator.com/item?id=33489253)
-- [Bike: Innovative Rich Text Editing](https://www.hogbaysoftware.com/posts/bike-rich-text/)
-- [Git as a janky Twitter replacement](https://github.com/diracdeltas/tweets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
