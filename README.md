@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bloated College Administration Is Making Education Unaffordable](https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/)
+- [Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794)
+- [A Big List of Mastodon Resources](https://researchbuzz.me/2022/11/05/a-big-list-of-mastodon-resources/)
 - [proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
+- [Twitter’s Entire A11y Experience Team Let Go](https://twitter.com/gerardkcohen/status/1588584459779321857)
 - [BBC: Twitter users jump to Mastodon – but what is it?](https://www.bbc.com/news/technology-63534240)
-- [Explore some of the finest open-source software out there](https://tchncs.de/)
-- [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
