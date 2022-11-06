@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alcohol death toll is growing, US Government reports say](https://apnews.com/article/alcohol-death-toll-rising-pandemic-c25878b044f46b1cd275a8e2738148a5)
+- [Neanderthals: A carnivore diet may have led to their demise](https://theconversation.com/neanderthals-how-a-carnivore-diet-may-have-led-to-their-demise-193764)
+- [Wells are running dry in Southwest as foreign-owned farms feed cattle overseas](https://lite.cnn.com/en/article/h_a1fc0bf7958049a62752160ff8ac5878)
+- [Nearly all binary searches and mergesorts are broken &lpar;2006&rpar;](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
 - [Ask HN: How do you navigate Seasonal Affective Disorder?](https://news.ycombinator.com/item?id=33492114)
-- [‘I want to protect my family’: Polish civilians flock to army training](https://www.ft.com/content/bbce0959-f65e-44a4-87c1-438bddcfbd10)
-- [Home Truths about macOS](https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [Ask HN: ActivityPub or Mastodon?](https://news.ycombinator.com/item?id=33491684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
