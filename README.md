@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2 years of fiddling with Rust – critical thoughts](https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years)
-- [Barilla Passive Cooker](https://www.barilla.com/en-gb/passive-cooking)
-- [Veloren is a multiplayer voxel RPG written in Rust](https://veloren.net/)
-- [proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
-- [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
+- [Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max](https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/)
+- [My wishlist for hot reloading &lpar;2018&rpar;](https://overreacted.io/my-wishlist-for-hot-reloading/)
+- [Ask HN: Why is coil whine in electronics so prevalent?](https://news.ycombinator.com/item?id=33497424)
+- [Two years of fiddling with Rust](https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years)
+- [Barilla passive cooker](https://www.barilla.com/en-gb/passive-cooking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
