@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Innovative Rich Text Editing: Typing Affinity](https://www.hogbaysoftware.com/posts/bike-rich-text/)
-- [Git as a janky twitter replacement](https://github.com/diracdeltas/tweets)
+- [Bike: Innovative Rich Text Editing](https://www.hogbaysoftware.com/posts/bike-rich-text/)
+- [Git as a janky Twitter replacement](https://github.com/diracdeltas/tweets)
 - [Mastodon v4.0.0 Release Candidate](https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1)
-- [Hello](https://news.ycombinator.com/item?id=33488891)
+- [Ask HN: Comment here about whatever you&#39;re passionate about at the moment](https://news.ycombinator.com/item?id=33488891)
 - [Tool that lists all Fediverse instances including Mastodon, Pleroma, Rebased](http://demo.fedilist.com/)
 <!-- BLOG-POST-LIST:END -->
 
