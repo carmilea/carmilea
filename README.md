@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Mastodon v4.0.0 Release Candidate](https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1)
 - [Twitter, when the wall came down](http://dtrace.org/blogs/bmc/2022/11/05/twitter-when-the-wall-came-down/)
-- [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
-- [Level responds to lock picker opening its $330 Apple Store lock in seconds](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think)
-- [Pleroma, LitePub, ActivityPub and JSON-LD &lpar;2018&rpar;](https://ariadne.space/2018/11/12/pleroma-litepub-activitypub-and-json-ld/)
+- [Hello](https://news.ycombinator.com/item?id=33488891)
+- [Tool that lists all Fediverse instances including Mastodon, Pleroma, Rebased](http://demo.fedilist.com/)
+- [10 years of FTL: The making of an enduring spaceship simulator](https://arstechnica.com/gaming/2022/11/ten-years-of-ftl-the-making-of-an-enduring-spaceship-simulator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
