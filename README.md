@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If bumblebees can play, does it mean they have feelings?](https://www.npr.org/2022/11/05/1134355887/bumblebees-can-play-does-it-mean-they-have-feelings-study-says-yes)
+- [Show HN: Clubhopr – My first indie project: 30 seconds for soccer/football fans](https://clubhopr.app/)
 - [EU electricity production by country and source](https://transparency.entsoe.eu/)
+- [Electrons turn piece of wire into laser-like light source](https://www.nature.com/articles/d41586-022-03455-4)
 - [The ugly story of how corporate America convinced us to spend so much on water](https://www.vox.com/the-goods/23433132/best-bottled-water-is-tap-environment-health)
-- [Make your DOM look like an eye that can focus on anything](https://github.com/jj811208/watching-you)
-- [Oskar Barnack: The Father of 35mm Photography](https://petapixel.com/oskar-barnack-father-of-35mm-photography/)
-- [Dwarf Fortress Dec. 6 Release Date Announced](https://www.youtube.com/watch?v=2K7T5LXQPJI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
