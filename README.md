@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Preppers Were Right All Along](https://www.bloomberg.com/opinion/articles/2022-11-06/climate-change-is-launching-a-new-generation-of-preppers)
-- [Michael Burry’s warning for the index fund bubble](https://www.newtraderu.com/2022/11/06/michael-burrys-warning-for-the-index-fund-bubble/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [Show HN: Feep! search, an independent search engine for programmers](https://search.feep.dev)
 - [Substitute Web Fonts with StopTheMadness](https://underpassapp.com/news/2022-11-3.html)
 - [Mastodon&#39;s founder has a vision to democratize social media](https://time.com/6229230/mastodon-eugen-rochko-interview/)
-- [Ancient water system uncovered at Roman Stabiae](https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135)
+- [I Don&#39;t Understand Why We Throw Away Perfectly Working Things](http://muezza.ca/thoughts/working_trash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
