@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon v4.0.0 Release Candidate](https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1)
+- [Twitter, when the wall came down](http://dtrace.org/blogs/bmc/2022/11/05/twitter-when-the-wall-came-down/)
 - [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
-- [“I worked at Facebook when we [were] 200. [Twitter’s] layoffs are appropriate”](https://twitter.com/rsg/status/1588969950668283905)
-- [Twitter sources say company reached out to fired people asking them to come back](https://twitter.com/caseynewton/status/1589075543420325888)
 - [Level responds to lock picker opening its $330 Apple Store lock in seconds](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think)
-- [Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
+- [Pleroma, LitePub, ActivityPub and JSON-LD &lpar;2018&rpar;](https://ariadne.space/2018/11/12/pleroma-litepub-activitypub-and-json-ld/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
