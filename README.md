@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [#proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
+- [Bloated College Administration Is Making Education Unaffordable](https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/)
+- [proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
 - [BBC: Twitter users jump to Mastodon – but what is it?](https://www.bbc.com/news/technology-63534240)
 - [Explore some of the finest open-source software out there](https://tchncs.de/)
 - [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
-- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
