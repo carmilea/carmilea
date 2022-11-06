@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [#proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
+- [BBC: Twitter users jump to Mastodon – but what is it?](https://www.bbc.com/news/technology-63534240)
+- [Explore some of the finest open-source software out there](https://tchncs.de/)
 - [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
-- [Full Text and Vector Search for Firestore with Weaviate](https://samos-it.com/posts/full-text-search-for-firestore-with-weaviate.html)
-- [Helix: Post-Modern Text Editor](https://helix-editor.com/)
-- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
+- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
