@@ -55,7 +55,7 @@
 - [What Happens When Everything Becomes TikTok?](https://www.theatlantic.com/technology/archive/2022/11/tiktok-instagram-video-feeds-ai-algorithm/672002/)
 - [Delaware judge discovers hidden entity recruiting people to be patent trolls](https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/)
 - [Finley &lpar;YC W21&rpar; is a B2B fintech hiring across all teams &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
-- [Rust: “Explain GATs Like I&#39;m 5 Years Old”](https://old.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5/)
+- [Why Would Anyone Need JavaScript Generator Functions?](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
