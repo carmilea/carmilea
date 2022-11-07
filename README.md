@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Hey, so, we&#39;ve hit 1,028,362 monthly active users”](https://mastodon.social/@Gargron/109300967725833789)
+- [&#39;It&#39;s so liberating&#39;: The people quitting social media](https://www.bbc.com/news/business-63482162)
+- [Mastodon Is Awesome](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
+- [Manifesto for Minimalist Software Engineers](http://minifesto.org/)
+- [We&#39;ve hit 1M monthly active users](https://mastodon.social/@Gargron/109300967725833789)
 - [Being Ridiculed for My Open Source Project &lpar;2013&rpar;](https://harthur.wordpress.com/2013/01/24/771/)
-- [Twitter now asks some fired workers to please come back](https://www.moneycontrol.com/news/world/twitter-now-asks-some-fired-workers-to-please-come-back-9461011.html)
-- [AI Art Tools and Resources in One Place](https://www.aiartapps.com/)
-- [Mild autumn weather has sent European gas prices plummeting](https://www.economist.com/graphic-detail/2022/11/03/mild-autumn-weather-has-sent-european-gas-prices-plummeting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
