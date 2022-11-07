@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter asks some laid off workers to come back](https://www.reuters.com/article/twitter-layoffs-idCAKBN2RW0F9)
+- [Delaware judge discovers hidden entity recruiting people to be patent trolls](https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/)
+- [Finley &lpar;YC W21&rpar; is a B2B fintech hiring across all teams &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
+- [Rust: “Explain GATs Like I&#39;m 5 Years Old”](https://old.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5/)
+- [Linux Kernel Has Been Forcing Different Behavior for Processes Starting with “X”](https://www.phoronix.com/news/Linux-DRM-Process-Start-With-X)
 - [Show HN: Game of Life on non-square topologies with 2^32 update rules](https://github.com/Jeadie/Go-L)
-- [Manifesto for Minimalist Software Engineers &lpar;2013&rpar;](http://minifesto.org/)
-- [We&#39;ve hit 1M monthly active users](https://mastodon.social/@Gargron/109300967725833789)
-- [Being Ridiculed for My Open Source Project &lpar;2013&rpar;](https://harthur.wordpress.com/2013/01/24/771/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
