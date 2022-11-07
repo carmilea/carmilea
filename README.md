@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RISC-Vlim, a RISC-V Framework for Logic-in-Memory Architectures](https://www.mdpi.com/2079-9292/11/19/2990/htm)
 - [If you die in the game, you die in real life](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
-- [Apple Execs on iMessage for Android &lpar;2013&rpar;](https://twitter.com/techemails/status/1589450766506692609)
-- [Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse](https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html)
-- [The Interactive Fiction Competition](https://ifcomp.org/)
-- [How to rip audio CDs 2022 – with drive accuracy listing](https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/)
+- [Conserving Beirut&#39;s Shattered Glass](https://www.britishmuseum.org/blog/conserving-beiruts-shattered-glass)
+- [Migrate from Linux to FreeBSD](https://klarasystems.com/articles/easily-migrate-from-linux-to-freebsd/)
+- [Keep ’em coming: Why your first ideas aren’t always the best](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
 <!-- BLOG-POST-LIST:END -->
 
 ---
