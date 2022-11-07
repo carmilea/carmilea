@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ribbon Health &lpar;YC S17&rpar; engineers impact the status quo of healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
-- [Monumental advance in number theory posted to the ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
-- [Ladybird, the from-scratch SerenityOS browser, can now display Google Docs](https://nitter.1d4.us/awesomekling/status/1589711499672502274#m)
-- [Framework Laptops are now Thunderbolt 4 certified](https://frame.work/gb/en/blog/framework-laptops-are-now-thunderbolt-4-certified)
+- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to change healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
+- [Monumental &lpar;if correct&rpar; advance in number theory posted to ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
+- [LiteDB: A .NET embedded NoSQL database](https://www.litedb.org/)
+- [Early stages of Google Docs support in the Ladybird browser](https://twitter.com/awesomekling/status/1589711499672502274)
 - [The most unethical thing I was asked to build while working at Twitter in 2015](https://twitter.com/stevekrenzel/status/1589700721121058817)
 <!-- BLOG-POST-LIST:END -->
 
