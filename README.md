@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manara &lpar;YC W21&rpar; Is Hiring &lpar;Software Engineer&rpar;](https://manara.breezy.hr/p/4722c0eb2911-tech-team-senior-backend-engineer?state=published)
-- [Backdoor in OpenSea allows to take anybody&#39;s tokens](https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html)
-- [Is There Too Much CSS Now?](https://css-tricks.com/is-there-too-much-css-now/)
-- [Our brains &#39;time-stamp&#39; sounds to process the words we hear](https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html)
-- [‘Putin’s chef’ admits to interfering in U.S. elections](https://apnews.com/article/2022-midterm-elections-business-social-media-7fefa7ab0491b653f6094a4d090155fe)
+- [Your Organization should run its own Mastodon server](https://martinfowler.com/articles/your-org-run-mastodon.html)
+- [F.lux, but for Your House](https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/)
+- [Purchasing Power Parity: fair pricing for your SaaS product](https://scastiel.dev/implement-ppp-fair-pricing-for-your-product)
+- [C Isn&#39;t a Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
+- [India lifted 415M out of poverty in 15 years, says UN](https://economictimes.indiatimes.com/news/india/india-lifted-415-million-out-of-poverty-in-15-years-says-un/articleshow/94926338.cms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
