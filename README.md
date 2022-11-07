@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Suspends Kathy Griffin After She Changed Her Handle to ‘Elon Musk’](https://www.yahoo.com/entertainment/twitter-suspends-kathy-griffin-she-005014345.html)
 - [Lab-grown blood given to people in world-first clinical trial](https://www.bbc.com/news/health-63513330)
 - [RISC-Vlim, a RISC-V Framework for Logic-in-Memory Architectures](https://www.mdpi.com/2079-9292/11/19/2990/htm)
+- [Self hosted Docker registry with auto image push on push to main](https://blog.aawadia.dev/2022/11/02/docker-registry-ci/)
 - [Conserving Beirut&#39;s Shattered Glass](https://www.britishmuseum.org/blog/conserving-beiruts-shattered-glass)
-- [Migrate from Linux to FreeBSD](https://klarasystems.com/articles/easily-migrate-from-linux-to-freebsd/)
-- [Keep ’em coming: Why your first ideas aren’t always the best](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
 <!-- BLOG-POST-LIST:END -->
 
 ---
