@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ribbon Health &lpar;YC S17&rpar; engineers impact the status quo of healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
+- [Monumental advance in number theory posted to the ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
+- [Ladybird, the from-scratch SerenityOS browser, can now display Google Docs](https://nitter.1d4.us/awesomekling/status/1589711499672502274#m)
 - [Framework Laptops are now Thunderbolt 4 certified](https://frame.work/gb/en/blog/framework-laptops-are-now-thunderbolt-4-certified)
 - [The most unethical thing I was asked to build while working at Twitter in 2015](https://twitter.com/stevekrenzel/status/1589700721121058817)
-- [Typography for Lawyers](https://typographyforlawyers.com/)
-- [Malicious Python Packages Replace Crypto Addresses in Developer Clipboards](https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard)
-- [Some Thoughts on Social Networking and Usenet](https://jfm.carcosa.net/blog/computing/usenet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
