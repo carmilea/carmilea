@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you die in the game, you die in real life](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
+- [Apple Execs on iMessage for Android &lpar;2013&rpar;](https://twitter.com/techemails/status/1589450766506692609)
+- [Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse](https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html)
+- [The Interactive Fiction Competition](https://ifcomp.org/)
 - [How to rip audio CDs 2022 – with drive accuracy listing](https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/)
-- [Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
-- [The New Hydrogen Car That Travels 2k Km with a Single Tank](https://hydrogen-central.com/new-hydrogen-car-travels-2000-kilometers-single-tank/)
-- [Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max](https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/)
-- [Honda electric moped coming, intended to fit “50cc” category](https://www.cycleworld.com/story/motorcycle-news/honda-electric-moped-coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
