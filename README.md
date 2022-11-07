@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Suspends Kathy Griffin After She Changed Her Handle to ‘Elon Musk’](https://www.yahoo.com/entertainment/twitter-suspends-kathy-griffin-she-005014345.html)
-- [Lab-grown blood given to people in world-first clinical trial](https://www.bbc.com/news/health-63513330)
-- [RISC-Vlim, a RISC-V Framework for Logic-in-Memory Architectures](https://www.mdpi.com/2079-9292/11/19/2990/htm)
-- [Self hosted Docker registry with auto image push on push to main](https://blog.aawadia.dev/2022/11/02/docker-registry-ci/)
-- [Conserving Beirut&#39;s Shattered Glass](https://www.britishmuseum.org/blog/conserving-beiruts-shattered-glass)
+- [“Hey, so, we&#39;ve hit 1,028,362 monthly active users”](https://mastodon.social/@Gargron/109300967725833789)
+- [Being Ridiculed for My Open Source Project &lpar;2013&rpar;](https://harthur.wordpress.com/2013/01/24/771/)
+- [Twitter now asks some fired workers to please come back](https://www.moneycontrol.com/news/world/twitter-now-asks-some-fired-workers-to-please-come-back-9461011.html)
+- [AI Art Tools and Resources in One Place](https://www.aiartapps.com/)
+- [Mild autumn weather has sent European gas prices plummeting](https://www.economist.com/graphic-detail/2022/11/03/mild-autumn-weather-has-sent-european-gas-prices-plummeting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
