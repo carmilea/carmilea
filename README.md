@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Esperanto is not my favourite Artificial Language &lpar;2002&rpar;](https://web.archive.org/web/20021210061212/http://www.cix.co.uk/~morven/lang/esp.html)
+- [ActivityPub](https://www.w3.org/TR/activitypub/)
+- [The Incidence of Myocarditis and Pericarditis in Unvaccinated Covid Patients](https://pubmed.ncbi.nlm.nih.gov/35456309/)
 - [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to change healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
 - [Monumental &lpar;if correct&rpar; advance in number theory posted to ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
-- [LiteDB: A .NET embedded NoSQL database](https://www.litedb.org/)
-- [Early stages of Google Docs support in the Ladybird browser](https://twitter.com/awesomekling/status/1589711499672502274)
-- [The most unethical thing I was asked to build while working at Twitter in 2015](https://twitter.com/stevekrenzel/status/1589700721121058817)
 <!-- BLOG-POST-LIST:END -->
 
 ---
