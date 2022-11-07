@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Democratizing social media, with the freedom of moving around platforms freely](https://www.soul-network.com/)
-- [What Happens When Everything Becomes TikTok?](https://www.theatlantic.com/technology/archive/2022/11/tiktok-instagram-video-feeds-ai-algorithm/672002/)
-- [Delaware judge discovers hidden entity recruiting people to be patent trolls](https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/)
-- [Finley &lpar;YC W21&rpar; is a B2B fintech hiring across all teams &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
-- [Why Would Anyone Need JavaScript Generator Functions?](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
+- [Modernizing my 1980s sound system](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system)
+- [Bankruptcy court gave blanket immunity to executives in 9 out of 10 major cases](https://www.reuters.com/investigates/special-report/bankruptcy-tactics-releases/)
+- [Microsoft is phoning home the content of your PowerPoint slides](https://rogermexico.bearblog.dev/microsoft-is-phoning-home-the-content-of-your-powerpoint-slides/)
+- [The HakCat WiFi Nugget is a beginner’s guide to wireless mischief](https://www.theverge.com/23438967/hakcat-wifi-nugget-hacking-open-source-hak5)
+- [Toxic smog has turned India’s capital into a ‘gas chamber’](https://globalnews.ca/news/9252830/india-smog-new-delhi-gas-chamber-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
