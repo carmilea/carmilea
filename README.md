@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manara &lpar;YC W21&rpar; Is Hiring &lpar;Software Engineer&rpar;](https://manara.breezy.hr/p/4722c0eb2911-tech-team-senior-backend-engineer?state=published)
+- [Backdoor in OpenSea allows to take anybody&#39;s tokens](https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html)
 - [Is There Too Much CSS Now?](https://css-tricks.com/is-there-too-much-css-now/)
-- [The First Female Crash Dummy Has Arrived](https://www.smithsonianmag.com/smart-news/the-first-female-crash-dummy-has-arrived-180981072/)
-- [Swedish amateur archivist “Rosa Mannen” shutdown from YouTube, again](https://www.gp.se/kultur/kultur/youtubekanalen-rosa-mannen-nedstängd-igen-1.84848419)
-- [Ask HN: Is it better to be a consultant in a time of layoffs?](https://news.ycombinator.com/item?id=33506818)
-- [Modernizing my 1980s sound system](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system)
+- [Our brains &#39;time-stamp&#39; sounds to process the words we hear](https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html)
+- [‘Putin’s chef’ admits to interfering in U.S. elections](https://apnews.com/article/2022-midterm-elections-business-social-media-7fefa7ab0491b653f6094a4d090155fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
