@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is There Too Much CSS Now?](https://css-tricks.com/is-there-too-much-css-now/)
+- [The First Female Crash Dummy Has Arrived](https://www.smithsonianmag.com/smart-news/the-first-female-crash-dummy-has-arrived-180981072/)
+- [Swedish amateur archivist “Rosa Mannen” shutdown from YouTube, again](https://www.gp.se/kultur/kultur/youtubekanalen-rosa-mannen-nedstängd-igen-1.84848419)
+- [Ask HN: Is it better to be a consultant in a time of layoffs?](https://news.ycombinator.com/item?id=33506818)
 - [Modernizing my 1980s sound system](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system)
-- [Bankruptcy court gave blanket immunity to executives in 9 out of 10 major cases](https://www.reuters.com/investigates/special-report/bankruptcy-tactics-releases/)
-- [Microsoft is phoning home the content of your PowerPoint slides](https://rogermexico.bearblog.dev/microsoft-is-phoning-home-the-content-of-your-powerpoint-slides/)
-- [The HakCat WiFi Nugget is a beginner’s guide to wireless mischief](https://www.theverge.com/23438967/hakcat-wifi-nugget-hacking-open-source-hak5)
-- [Toxic smog has turned India’s capital into a ‘gas chamber’](https://globalnews.ca/news/9252830/india-smog-new-delhi-gas-chamber-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
