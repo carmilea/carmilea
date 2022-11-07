@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framework Laptops are now Thunderbolt 4 certified](https://frame.work/gb/en/blog/framework-laptops-are-now-thunderbolt-4-certified)
+- [The most unethical thing I was asked to build while working at Twitter in 2015](https://twitter.com/stevekrenzel/status/1589700721121058817)
+- [Typography for Lawyers](https://typographyforlawyers.com/)
+- [Malicious Python Packages Replace Crypto Addresses in Developer Clipboards](https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard)
 - [Some Thoughts on Social Networking and Usenet](https://jfm.carcosa.net/blog/computing/usenet/)
-- [You Might Also Like](https://basicappleguy.com/basicappleblog/you-might-also-like)
-- [Signal Introduces Stories](https://www.signal.org/blog/introducing-stories/)
-- [F.lux, but for Your House](https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/)
-- [Purchasing Power Parity: fair pricing for your SaaS product](https://scastiel.dev/implement-ppp-fair-pricing-for-your-product)
 <!-- BLOG-POST-LIST:END -->
 
 ---
