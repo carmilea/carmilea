@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Differential Datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
+- [Launch HN: Medplum &lpar;YC S22&rpar; – Open-Source Firebase for Healthcare](https://news.ycombinator.com/item?id=33521560)
 - [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
 - [The Lie That Facebook Sold You](https://havenweb.org/2022/11/02/facebook-lie.html)
 - [Theranos Founder Elizabeth Holmes Is Denied a Bid for New Trial](https://www.wsj.com/articles/theranos-founder-elizabeth-holmes-is-denied-a-bid-for-new-trial-11667888845)
-- [Ask HN: Skeptical about my company going “full serverless”. What am I missing?](https://news.ycombinator.com/item?id=33520733)
-- [Binance Acquires FTX](https://twitter.com/cz_binance/status/1590013613586411520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
