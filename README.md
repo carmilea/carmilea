@@ -55,7 +55,7 @@
 - [FreeBSD will replace Sendmail by The Dragonfly Mail Agent &lpar;dma&rpar;](https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f)
 - [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
 - [Sonic Pi – The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
-- [Found around 250 hilarious CS quotes while browsing Notepad++&#39;s code &lpar;Line 7102&rpar;](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
+- [CS quotes found while browsing Notepad++&#39;s code](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
