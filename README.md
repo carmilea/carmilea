@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Found around 250 hilarious CS quotes while browsing Notepad++&#39;s code &lpar;Line 7102&rpar;](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
 - [An Existential Threat to Doing Good Science](https://www.commonsense.news/p/an-existential-threat-to-doing-good)
 - [The default effect: why we renounce our ability to choose](https://nesslabs.com/default-effect)
+- [Ouroboros: Packet networking rebuilt from the ground up](https://ouroboros.rocks/)
 - [Graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
-- [LGP-30 found in basement, the same model of drum computer programmed by “Mel”](https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/)
-- [Industrialization of Biotech vs. the Biologization of Industry](https://centuryofbio.substack.com/p/atoms-are-local)
 <!-- BLOG-POST-LIST:END -->
 
 ---
