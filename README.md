@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm vs. Arm: The bizarro quotient just went off the scale](https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/)
+- [FreeBSD will replace Sendmail by The Dragonfly Mail Agent &lpar;dma&rpar;](https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f)
 - [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
 - [Sonic Pi – The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
 - [Found around 250 hilarious CS quotes while browsing Notepad++&#39;s code &lpar;Line 7102&rpar;](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
-- [The default effect: why we renounce our ability to choose](https://nesslabs.com/default-effect)
-- [Ouroboros: Packet networking rebuilt from the ground up](https://ouroboros.rocks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
