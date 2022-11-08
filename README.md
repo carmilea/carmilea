@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Quality DOSBox Video Capture](https://susam.net/blog/good-quality-dosbox-video-capture.html)
+- [Ntfy.sh – Send push notifications to your phone via PUT/POST](https://ntfy.sh/)
+- [Good Quality DOSBox Video Capture &lpar;2020&rpar;](https://susam.net/blog/good-quality-dosbox-video-capture.html)
+- [Useful Engines](https://lenright.substack.com/p/really-useful-engines)
 - [Does Apple maintain APFS in older macOS?](https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/)
 - [Qualcomm vs. Arm: The bizarro quotient just went off the scale](https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/)
-- [FreeBSD will replace Sendmail by The Dragonfly Mail Agent &lpar;dma&rpar;](https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f)
-- [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
