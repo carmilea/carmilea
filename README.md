@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK grocery price inflation hits record 14.7%](https://www.kantar.com/uki/contact/wpuk-news-contact)
-- [Sony to begin plastic packaging phase-out next year](https://techxplore.com/news/2022-11-sony-plastic-packaging-phase-out-year.html)
-- [Just Dont](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont)
-- [Scaling PostgresML to 1M Requests per Second](https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/)
-- [A Sun-like star orbiting a black hole](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac3140/6794289)
+- [Undetectable very-low frequency sound increases dancing at a live concert](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4)
+- [Nvidia PhysX 5.0 is now open source](https://github.com/NVIDIA-Omniverse/PhysX)
+- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html)
+- [Dragon’s Teeth – Stopping Tanks in Their Tracks](https://tankhistoria.com/cold-war/dragons-teeth/)
+- [FTX Appears to Have Stopped Processing Withdrawals, On-Chain Data Show](https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
