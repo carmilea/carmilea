@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ntfy.sh – Send push notifications to your phone via PUT/POST](https://ntfy.sh/)
-- [Good Quality DOSBox Video Capture &lpar;2020&rpar;](https://susam.net/blog/good-quality-dosbox-video-capture.html)
-- [Useful Engines](https://lenright.substack.com/p/really-useful-engines)
-- [Does Apple maintain APFS in older macOS?](https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/)
-- [Qualcomm vs. Arm: The bizarro quotient just went off the scale](https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/)
+- [UK grocery price inflation hits record 14.7%](https://www.kantar.com/uki/contact/wpuk-news-contact)
+- [Just Dont](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont)
+- [Scaling PostgresML to 1M Requests per Second](https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/)
+- [A Sun-like star orbiting a black hole](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac3140/6794289)
+- [Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
