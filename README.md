@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Undetectable very-low frequency sound increases dancing at a live concert](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4)
-- [Nvidia PhysX 5.0 is now open source](https://github.com/NVIDIA-Omniverse/PhysX)
-- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html)
-- [Dragon’s Teeth – Stopping Tanks in Their Tracks](https://tankhistoria.com/cold-war/dragons-teeth/)
-- [FTX Appears to Have Stopped Processing Withdrawals, On-Chain Data Show](https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show)
+- [Ask HN: Skeptical about my company going “full serverless”. What am I missing?](https://news.ycombinator.com/item?id=33520733)
+- [Binance Acquires FTX](https://twitter.com/cz_binance/status/1590013613586411520)
+- [Binance to Acquire FTX](https://slashdot.org/story/22/11/08/1612256/binance-to-acquire-ftx)
+- [FTX Agreement with Binance](https://twitter.com/sbf_ftx/status/1590012124864348160)
+- [Leaked docs: Ugandan gov expects Ebola will escape control, 500 deaths by May](https://blog.ebola-cases.com/leaked-ebola-projections-uganda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
