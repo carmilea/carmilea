@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
+- [Sonic Pi – The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
 - [Found around 250 hilarious CS quotes while browsing Notepad++&#39;s code &lpar;Line 7102&rpar;](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
 - [The default effect: why we renounce our ability to choose](https://nesslabs.com/default-effect)
 - [Ouroboros: Packet networking rebuilt from the ground up](https://ouroboros.rocks/)
-- [Graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
-- [LGP-30 found in basement, the same model of drum computer programmed by “Mel”](https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
