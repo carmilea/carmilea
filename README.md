@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Esperanto is not my favourite Artificial Language &lpar;2002&rpar;](https://web.archive.org/web/20021210061212/http://www.cix.co.uk/~morven/lang/esp.html)
-- [ActivityPub](https://www.w3.org/TR/activitypub/)
-- [The Incidence of Myocarditis and Pericarditis in Unvaccinated Covid Patients](https://pubmed.ncbi.nlm.nih.gov/35456309/)
-- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to change healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
-- [Monumental &lpar;if correct&rpar; advance in number theory posted to ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
+- [‘I don’t want this kind of life’: graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
+- [LGP-30 found in basement, the same model of drum computer programmed by “Mel”](https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/)
+- [Industrialization of Biotech vs. the Biologization of Industry](https://centuryofbio.substack.com/p/atoms-are-local)
+- [So I lost my OpenBSD FDE password &lpar;2016&rpar;](https://words.filippo.io/so-i-lost-my-openbsd-fde-password/)
+- [Esperanto is not my favourite artificial language &lpar;2002&rpar;](http://miresperanto.com/konkurentoj/not_my_favourite.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
