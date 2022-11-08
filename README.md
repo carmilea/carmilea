@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Quality DOSBox Video Capture](https://susam.net/blog/good-quality-dosbox-video-capture.html)
+- [Does Apple maintain APFS in older macOS?](https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/)
 - [Qualcomm vs. Arm: The bizarro quotient just went off the scale](https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/)
 - [FreeBSD will replace Sendmail by The Dragonfly Mail Agent &lpar;dma&rpar;](https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f)
 - [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
-- [Sonic Pi – The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
-- [CS quotes found while browsing Notepad++&#39;s code](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
