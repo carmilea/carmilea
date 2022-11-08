@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
 - [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech people](https://withcompound.com/company/about)
-- [Salesforce cut hundreds of employees Monday](https://www.cnbc.com/2022/11/08/salesforce-cut-hundreds-of-employees-on-monday.html)
 - [Leaderless Teams](https://www.brettmacfarlane.com/blog/2022/leadersless-teams)
-- [Unix as a tool forge &lpar;and how Emacs fits in Unix philosophy&rpar;](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
+- [Unix as a tool forge and how Emacs fits in Unix philosophy](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
 - [NightWare helps disrupt nightmares for those with PTSD](https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/)
 <!-- BLOG-POST-LIST:END -->
 
