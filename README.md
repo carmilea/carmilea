@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTX Token, FTT down by more than 80% in less than 24 hours](https://ftx.com/trade/FTT/USD)
 - [Unix as a tool forge &lpar;and how Emacs fits in Unix philosophy&rpar;](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
 - [Veterans find relief from nightmares with NightWare and Apple Watch](https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/)
 - [“It would be career limiting “](https://doomedprojects.com/post/it-would-be-career-limiting)
 - [Differential Datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
-- [Launch HN: Medplum &lpar;YC S22&rpar; – Open-Source Firebase for Healthcare](https://news.ycombinator.com/item?id=33521560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
