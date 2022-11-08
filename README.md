@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
+- [The Lie That Facebook Sold You](https://havenweb.org/2022/11/02/facebook-lie.html)
+- [Theranos Founder Elizabeth Holmes Is Denied a Bid for New Trial](https://www.wsj.com/articles/theranos-founder-elizabeth-holmes-is-denied-a-bid-for-new-trial-11667888845)
 - [Ask HN: Skeptical about my company going “full serverless”. What am I missing?](https://news.ycombinator.com/item?id=33520733)
 - [Binance Acquires FTX](https://twitter.com/cz_binance/status/1590013613586411520)
-- [Binance to Acquire FTX](https://slashdot.org/story/22/11/08/1612256/binance-to-acquire-ftx)
-- [FTX Agreement with Binance](https://twitter.com/sbf_ftx/status/1590012124864348160)
-- [Leaked docs: Ugandan gov expects Ebola will escape control, 500 deaths by May](https://blog.ebola-cases.com/leaked-ebola-projections-uganda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
