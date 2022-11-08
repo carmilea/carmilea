@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘I don’t want this kind of life’: graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
+- [Graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
 - [LGP-30 found in basement, the same model of drum computer programmed by “Mel”](https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/)
 - [Industrialization of Biotech vs. the Biologization of Industry](https://centuryofbio.substack.com/p/atoms-are-local)
+- [Towns are testing new ballot counting machines that use open source software](https://www.nhpr.org/politics/2022-11-07/three-n-h-towns-are-testing-out-new-ballot-counting-machines-that-use-open-source-software)
 - [So I lost my OpenBSD FDE password &lpar;2016&rpar;](https://words.filippo.io/so-i-lost-my-openbsd-fde-password/)
-- [Esperanto is not my favourite artificial language &lpar;2002&rpar;](http://miresperanto.com/konkurentoj/not_my_favourite.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
