@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fossil species found living off southern California; notes on the genus Cymatioa](https://zookeys.pensoft.net/article/95139/)
-- [We will not pursue the potential acquisition of FTX](https://twitter.com/binance/status/1590449161069268992)
-- [Web Automation: Don&#39;t Use Selenium, Use Playwright](https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/)
-- [GitHub Blocks](https://blocks.githubnext.com/)
-- [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
+- [Thoughts on Arc Browser](https://chrishannah.me/arc-browser/)
+- [Stretch iPhone to Its Limit: 2GiB Stable Diffusion Model Runs Locally on Device](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
+- [iOS 16.1.1 includes fixes for two libxml vulnerabilities](https://support.apple.com/en-us/HT213505)
+- [Solar Car Just Toured the US, and Will Start Production Next Year](https://singularityhub.com/2022/11/09/this-solar-car-just-toured-the-us-and-will-start-production-next-year/)
+- [Bitcoin falls under $16,000](https://www.cnbc.com/2022/11/09/cryptocurrencies-pressured-as-investors-digest-ftx-fallout-solana-loses-another-20percent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
