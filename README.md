@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC jail complex to be restored into citywide green energy hub](https://movemnt.net/nyc-jail-complex-to-be-restored-into-citywide-green-energy-hub/)
-- [France legislated that parking lots for 80 cars must be covered by solar panels](https://twitter.com/assaadrazzouk/status/1590255454088593408)
-- [Redfin cuts 13% of staff, shuts down home-flipping business](https://www.bloomberg.com/news/articles/2022-11-09/redfin-lays-off-13-of-staff-shuts-down-home-flipping-business)
-- [Idiot Proof Git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html)
-- [So long and thanks for all the bits](https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits)
+- [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+- [Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover](https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/)
+- [World population to reach 8B on 15 November 2022](https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022)
+- [The Sad Saga of the 500 MHz Power Mac G4](https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/)
+- [Ask HN: Is React impacted by Meta layoff?](https://news.ycombinator.com/item?id=33532465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
