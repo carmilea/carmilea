@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Antitrust Lawsuit Says Apple and Amazon Colluded to Raise iPhone, iPad Prices](https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices)
-- [FTX’s financial black hole leaves Binance balking at rescue plan](https://www.bloomberg.com/news/articles/2022-11-09/binance-seen-likely-to-balk-at-ftx-deal-after-spotting-deep-hole)
-- [Launch HN: Metlo &lpar;YC S21&rpar; – Open-source software for securing your APIs](https://news.ycombinator.com/item?id=33534856)
-- [Thunderbird Supernova Preview: The New Calendar Design](https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/)
-- [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- [Archaeologists Find First Whole Sentence Written in Canaanite. On a Lice Comb](https://www.haaretz.com/archaeology/2022-11-09/ty-article/israeli-archaeologists-find-first-whole-sentence-written-in-canaanite-on-a-lice-comb/00000184-56c1-dc83-a7fd-fef3777f0000)
+- [Imperative configs are out; Declarative configs are in](https://www.prodvana.io/blog/declarative-configs)
+- [Webinar Recap: Real-Time Retail With IBM and SingleStoreDB](https://www.singlestore.com/blog/real-time-retail-ibm-singlestore)
+- [GitHub announcing a $10M open-source fund](https://twitter.com/github/status/1590404832116211712)
+- [Antitrust lawsuit says Apple and Amazon colluded to raise iPhone, iPad prices](https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
