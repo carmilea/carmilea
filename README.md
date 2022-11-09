@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn HTML + CSS with a text adventure course](https://www.frobocode.com/)
+- [Google Fonts Illegal in EU](https://www.usecue.com/blog/google-fonts-illegal-in-eu/)
+- [In 2021, FTX had a funding round of $420.69M](https://www.coindesk.com/business/2021/10/21/ftx-raises-420690000/)
 - [Affinity 2](https://affinity.serif.com/en-gb/)
 - [Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names](https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/)
 - [Meta lays off 11,000 people](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)
-- [Tell HN: Emmet, the HTML editing plugin, gets $100k/yr in donations from casinos](https://news.ycombinator.com/item?id=33529742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
