@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Containers are chroot with a marketing budget](https://earthly.dev/blog/chroot/)
+- [Apple is tracking you even when its own privacy settings say not, research says](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
+- [TikTok’s greatest asset isn’t its algorithm, it’s your phone](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
+- [Tell HN: Duty of care](https://news.ycombinator.com/item?id=33526922)
+- [Let’s build a container runtime using only the chroot system call](https://earthly.dev/blog/chroot/)
 - [I plan to leave tech to pursue art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
-- [Why are glasses so expensive? The industry prefers to keep that blurry &lpar;2019&rpar;](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
-- [In the 1990s a piece of Germany’s air traffic control software ran on Emacs](https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/)
-- [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
