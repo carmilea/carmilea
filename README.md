@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is tracking you even when its own privacy settings say not, research says](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
+- [Stop using low DNS TTLs &lpar;2019&rpar;](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
+- [My DIY ergonomic travel workstation with aluminum and magnets](https://thume.ca/2022/11/06/diy-travel-work-setup/)
+- [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/)
+- [AI and the Future of Pixel Art](https://pixelparmesan.com/ai-and-the-future-of-pixel-art/)
 - [TikTok’s greatest asset isn’t its algorithm, it’s your phone](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
-- [Tell HN: Duty of care](https://news.ycombinator.com/item?id=33526922)
-- [Let’s build a container runtime using only the chroot system call](https://earthly.dev/blog/chroot/)
-- [I plan to leave tech to pursue art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
 <!-- BLOG-POST-LIST:END -->
 
 ---
