@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Fonts Illegal in EU](https://www.usecue.com/blog/google-fonts-illegal-in-eu/)
+- [Ask HN: Why is there no way to lower amber alert volume on headphones?](https://news.ycombinator.com/item?id=33531711)
 - [In 2021, FTX had a funding round of $420.69M](https://www.coindesk.com/business/2021/10/21/ftx-raises-420690000/)
 - [Affinity 2](https://affinity.serif.com/en-gb/)
 - [Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names](https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/)
-- [Meta lays off 11,000 people](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)
+- [Show HN: XFrame – Create your own multisearch page](https://chrome.google.com/webstore/detail/xframe-custom-dashboard-a/cmoabgciakeiebppmmdajlninlienddn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
