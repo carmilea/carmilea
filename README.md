@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn HTML + CSS with a text adventure course](https://www.frobocode.com/)
+- [Affinity 2](https://affinity.serif.com/en-gb/)
+- [Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names](https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/)
 - [Meta lays off 11,000 people](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)
-- [Ask HN: Work Instead of Tech?](https://news.ycombinator.com/item?id=33529465)
-- [A guide to error handling in Rust](https://nrc.github.io/error-docs/)
-- [Is Web3 Bullshit? &lpar;Transcript&rpar;](https://blog.mollywhite.net/is-web3-bullshit/)
-- [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
+- [Tell HN: Emmet, the HTML editing plugin, gets $100k/yr in donations from casinos](https://news.ycombinator.com/item?id=33529742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
