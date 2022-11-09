@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Containers are chroot with a marketing budget](https://earthly.dev/blog/chroot/)
+- [I plan to leave tech to pursue art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
+- [Why are glasses so expensive? The industry prefers to keep that blurry &lpar;2019&rpar;](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
+- [In the 1990s a piece of Germany’s air traffic control software ran on Emacs](https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/)
 - [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
-- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech people](https://withcompound.com/company/about)
-- [Gannett prints fake newspapers at Des Moines Register plant](https://www.bleedingheartland.com/2022/11/05/gannett-prints-fake-newspapers-at-des-moines-register-plant/)
-- [Leaderless Teams](https://www.brettmacfarlane.com/blog/2022/leadersless-teams)
-- [Unix as a tool forge and how Emacs fits in Unix philosophy](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
