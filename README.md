@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is there no way to lower amber alert volume on headphones?](https://news.ycombinator.com/item?id=33531711)
-- [In 2021, FTX had a funding round of $420.69M](https://www.coindesk.com/business/2021/10/21/ftx-raises-420690000/)
-- [Affinity 2](https://affinity.serif.com/en-gb/)
-- [Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names](https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/)
-- [Show HN: XFrame – Create your own multisearch page](https://chrome.google.com/webstore/detail/xframe-custom-dashboard-a/cmoabgciakeiebppmmdajlninlienddn)
+- [NYC jail complex to be restored into citywide green energy hub](https://movemnt.net/nyc-jail-complex-to-be-restored-into-citywide-green-energy-hub/)
+- [France legislated that parking lots for 80 cars must be covered by solar panels](https://twitter.com/assaadrazzouk/status/1590255454088593408)
+- [Redfin cuts 13% of staff, shuts down home-flipping business](https://www.bloomberg.com/news/articles/2022-11-09/redfin-lays-off-13-of-staff-shuts-down-home-flipping-business)
+- [Idiot Proof Git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html)
+- [So long and thanks for all the bits](https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
