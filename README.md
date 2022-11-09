@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neurosymbolic Programming for Science](https://arxiv.org/abs/2210.05050)
+- [The AI community expresses sympathy on Hacker News](https://twitter.com/adeptailabs/status/1590396065072951296)
 - [Archaeologists Find First Whole Sentence Written in Canaanite. On a Lice Comb](https://www.haaretz.com/archaeology/2022-11-09/ty-article/israeli-archaeologists-find-first-whole-sentence-written-in-canaanite-on-a-lice-comb/00000184-56c1-dc83-a7fd-fef3777f0000)
 - [Imperative configs are out; Declarative configs are in](https://www.prodvana.io/blog/declarative-configs)
 - [Webinar Recap: Real-Time Retail With IBM and SingleStoreDB](https://www.singlestore.com/blog/real-time-retail-ibm-singlestore)
-- [GitHub announcing a $10M open-source fund](https://twitter.com/github/status/1590404832116211712)
-- [Antitrust lawsuit says Apple and Amazon colluded to raise iPhone, iPad prices](https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
