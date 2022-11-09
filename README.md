@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Stop using low DNS TTLs &lpar;2019&rpar;](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
 - [My DIY ergonomic travel workstation with aluminum and magnets](https://thume.ca/2022/11/06/diy-travel-work-setup/)
+- [Mark Zuckerberg confirms broad layoffs to begin at Meta](https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg)
 - [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/)
 - [AI and the Future of Pixel Art](https://pixelparmesan.com/ai-and-the-future-of-pixel-art/)
-- [TikTok’s greatest asset isn’t its algorithm, it’s your phone](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
