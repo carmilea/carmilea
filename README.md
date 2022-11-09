@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Stay fit as a time-poor remote worker](https://news.ycombinator.com/item?id=33528976)
+- [Ask HN: Is programming a “young man&#39;s game”?](https://news.ycombinator.com/item?id=33528924)
 - [Stop using low DNS TTLs &lpar;2019&rpar;](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
 - [My DIY ergonomic travel workstation with aluminum and magnets](https://thume.ca/2022/11/06/diy-travel-work-setup/)
 - [Mark Zuckerberg confirms broad layoffs to begin at Meta](https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg)
-- [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/)
-- [AI and the Future of Pixel Art](https://pixelparmesan.com/ai-and-the-future-of-pixel-art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
