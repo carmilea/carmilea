@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurosymbolic Programming for Science](https://arxiv.org/abs/2210.05050)
-- [The AI community expresses sympathy on Hacker News](https://twitter.com/adeptailabs/status/1590396065072951296)
-- [Archaeologists Find First Whole Sentence Written in Canaanite. On a Lice Comb](https://www.haaretz.com/archaeology/2022-11-09/ty-article/israeli-archaeologists-find-first-whole-sentence-written-in-canaanite-on-a-lice-comb/00000184-56c1-dc83-a7fd-fef3777f0000)
-- [Imperative configs are out; Declarative configs are in](https://www.prodvana.io/blog/declarative-configs)
-- [Webinar Recap: Real-Time Retail With IBM and SingleStoreDB](https://www.singlestore.com/blog/real-time-retail-ibm-singlestore)
+- [Binance no longer acquiring FTX](https://twitter.com/binance/status/1590449161069268992)
+- [GitHub code search](https://github.com/features/code-search)
+- [Crypto.com Halts Solana USDC and USDT Withdrawals](https://www.coindesk.com/business/2022/11/09/cryptocom-halts-solana-usdc-and-usdt-deposits-withdrawals/)
+- [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
+- [Find your way through the x86 firmware maze &lpar;2013&rpar; [pdf]](https://www.linux-kvm.org/images/f/fa/Kvm-forum-2013-firmware.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
