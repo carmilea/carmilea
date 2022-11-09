@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta lays off 11,000 people](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)
 - [Ask HN: Work Instead of Tech?](https://news.ycombinator.com/item?id=33529465)
+- [A guide to error handling in Rust](https://nrc.github.io/error-docs/)
 - [Is Web3 Bullshit? &lpar;Transcript&rpar;](https://blog.mollywhite.net/is-web3-bullshit/)
 - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
-- [Ask HN: Is programming a “young man&#39;s game”?](https://news.ycombinator.com/item?id=33528924)
-- [Stop using low DNS TTLs &lpar;2019&rpar;](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
