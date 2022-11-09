@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia to Withdraw Troops from Kherson](https://www.bbc.com/news/world-europe-63573387)
+- [Antitrust Lawsuit Says Apple and Amazon Colluded to Raise iPhone, iPad Prices](https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices)
+- [FTX’s financial black hole leaves Binance balking at rescue plan](https://www.bloomberg.com/news/articles/2022-11-09/binance-seen-likely-to-balk-at-ftx-deal-after-spotting-deep-hole)
+- [Launch HN: Metlo &lpar;YC S21&rpar; – Open-source software for securing your APIs](https://news.ycombinator.com/item?id=33534856)
+- [Thunderbird Supernova Preview: The New Calendar Design](https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/)
 - [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
-- [Erlang and Telecoms Market](https://news.ycombinator.com/item?id=33534235)
-- [Show HN: HN Follow – email alerts from your friends on Hacker News](https://www.hnfollow.com/)
-- [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
