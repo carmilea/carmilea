@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia to Withdraw Troops from Kherson](https://www.bbc.com/news/world-europe-63573387)
+- [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- [Erlang and Telecoms Market](https://news.ycombinator.com/item?id=33534235)
+- [Show HN: HN Follow – email alerts from your friends on Hacker News](https://www.hnfollow.com/)
 - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
-- [Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover](https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/)
-- [World population to reach 8B on 15 November 2022](https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022)
-- [The Sad Saga of the 500 MHz Power Mac G4](https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/)
-- [Ask HN: Is React impacted by Meta layoff?](https://news.ycombinator.com/item?id=33532465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
