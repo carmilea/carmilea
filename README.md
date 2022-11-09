@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance no longer acquiring FTX](https://twitter.com/binance/status/1590449161069268992)
-- [GitHub code search](https://github.com/features/code-search)
-- [Crypto.com Halts Solana USDC and USDT Withdrawals](https://www.coindesk.com/business/2022/11/09/cryptocom-halts-solana-usdc-and-usdt-deposits-withdrawals/)
-- [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
-- [Find your way through the x86 firmware maze &lpar;2013&rpar; [pdf]](https://www.linux-kvm.org/images/f/fa/Kvm-forum-2013-firmware.pdf)
+- [Fossil species found living off southern California; notes on the genus Cymatioa](https://zookeys.pensoft.net/article/95139/)
+- [We will not pursue the potential acquisition of FTX](https://twitter.com/binance/status/1590449161069268992)
+- [Web Automation: Don&#39;t Use Selenium, Use Playwright](https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/)
+- [GitHub Blocks](https://blocks.githubnext.com/)
+- [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
