@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTalk: Open-Source Video Conferencing](https://sqwera.com/opentalk-open-source-video-conferencing/)
+- [NSA Releases Guidance on How to Protect Against Software Memory Safety Issues](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/)
 - [Block web scanners with ipset and iptables](https://nbailey.ca/post/block-scanners/)
-- [How Do You Slay a Dragon – A Manual for Startup Revolutionaries](https://dragonbook.khodorkovsky.com/en/)
 - [FTC restores rigorous enforcement of law banning unfair methods of competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
 - [Metaphor Systems: A search engine based on generative AI](https://metaphor.systems)
+- [Show HN: An API for CO₂ Removal](https://docs.cdrplatform.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
