@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC Restores Rigorous Enforcement of Law Banning Unfair Methods of Competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
 - [Metaphor Systems: A search engine based on generative AI](https://metaphor.systems)
-- [Show HN: An API for CO₂ Removal](https://docs.cdrplatform.com)
 - [Following the Unix philosophy without getting left-pad &lpar;2021&rpar;](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
 - [Wrist-mounted camera captures entire body in 3D](https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d)
-- [Engineers are exploring radical new designs for commercial planes](https://www.wsj.com/articles/the-weird-looking-fuel-efficient-planes-you-could-be-flying-in-one-day-11667397440)
+- [French court: refusing to disclose mobile passcode to law enforcement is a crime](https://www.fairtrials.org/articles/news/french-court-rules-that-refusing-to-disclose-a-mobile-passcode-to-law-enforcement-is-a-criminal-offence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
