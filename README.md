@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring AI Policy and Safety Researchers](https://news.ycombinator.com/item?id=33543205)
+- [Zoho&#39;s annual revenues surpassed $1B in 2021](https://www.businessinsider.in/business/corporates/news/zoho-becomes-a-1-billion-company-in-revenues/articleshow/95382381.cms)
+- [An open source lawyer’s view on the copilot class action lawsuit](https://katedowninglaw.com/2022/11/10/open-source-lawyers-view-on-the-copilot-class-action-lawsuit/)
 - [Gundam and anime replace rampant politics in Japanese Twitter Trends](https://nichegamer.com/gundam-anime-twitter-trends/)
 - [Concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
-- [GitHub stars won&#39;t pay your rent &lpar;2020&rpar;](https://kitze.io/posts/github-stars-wont-pay-your-rent)
-- [I strive to be a 0.1x Engineer &lpar;2016&rpar;](https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
-- [Kurt Vonnegut at 100](https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
