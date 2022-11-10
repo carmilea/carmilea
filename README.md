@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad Professor: The Rise and Fall of John Donovan](https://www.townandcountrymag.com/society/money-and-power/a41625115/john-donovan-mit-professor-crimes/)
-- [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio/)
-- [The Sam Bankman-Fried empire crumbled. What happened? &lpar;part one&rpar;](https://newsletter.mollywhite.net/p/ftx-explainer)
-- [Oxford University Press’s new logo is unfathomably bad](https://joukovsky.substack.com/p/oxford-university-presss-new-logo)
-- [Look out: Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
+- [Why Is Tipping Everywhere You Checkout?](https://www.maxinomics.com/blog/why-is-tipping-everywhere-you-checkout)
+- [Octopuses caught on camera throwing things at each other](https://www.nature.com/articles/d41586-022-03592-w)
+- [We Should Have Markdown Rendered Websites](https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html)
+- [Vocaloid 6](https://www.vocaloid.com/en/)
+- [How the Apple Archive Ended Up at Stanford](https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
