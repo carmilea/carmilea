@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
+- [The IESG has approved QUIC Version 2 for publication as an RFC](https://datatracker.ietf.org/doc/draft-ietf-quic-v2/)
+- [Dagger Python SDK: Develop Your CI/CD Pipelines as Code](https://dagger.io/blog/python-sdk)
+- [Pachyderm &lpar;YC W15&rpar; is hiring sales engineers and solutions architects](https://www.pachyderm.com/careers/#positions)
 - [Show HN: Postcard – Easiest way to make a personal website](https://postcard.page/)
 - [Sam Bankman-Fried Has a Savior Complex &lpar;September 2022&rpar;](https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
-- [How did NPR’s pre-election poll get things so so so wrong?](https://statmodeling.stat.columbia.edu/2022/11/10/how-did-nprs-poll-get-things-so-so-so-wrong-the-friends-family-coworkers-question/)
-- [Octopuses caught on camera throwing things at each other](https://www.nature.com/articles/d41586-022-03592-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
