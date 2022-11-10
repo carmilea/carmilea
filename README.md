@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The IESG has approved QUIC Version 2 for publication as an RFC](https://datatracker.ietf.org/doc/draft-ietf-quic-v2/)
-- [Dagger Python SDK: Develop Your CI/CD Pipelines as Code](https://dagger.io/blog/python-sdk)
-- [Pachyderm &lpar;YC W15&rpar; is hiring sales engineers and solutions architects](https://www.pachyderm.com/careers/#positions)
-- [Show HN: Postcard – Easiest way to make a personal website](https://postcard.page/)
-- [Sam Bankman-Fried Has a Savior Complex &lpar;September 2022&rpar;](https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+- [Metaphor Systems: A search engine based on generative AI](https://metaphor.systems)
+- [Show HN: An API for CO₂ Removal](https://docs.cdrplatform.com)
+- [Following the Unix philosophy without getting left-pad &lpar;2021&rpar;](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
+- [Wrist-mounted camera captures entire body in 3D](https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d)
+- [Engineers are exploring radical new designs for commercial planes](https://www.wsj.com/articles/the-weird-looking-fuel-efficient-planes-you-could-be-flying-in-one-day-11667397440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
