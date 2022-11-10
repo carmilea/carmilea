@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ftx.com Has Probably Collapsed](https://forum.effectivealtruism.org/posts/tdLRvYHpfYjimwhyL/ftx-com-has-probably-collapsed)
+- [$118 16TB SSD on Amazon, 4 star reviews mention cuff links and coffee cups](https://www.amazon.com/Portable-External-16TB-USB-Aluminum-Chromebook/dp/B0BJ77NXZF)
 - [Mozilla security policy: concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
-- [Sequoia has marked its investment in FTX down to $0](https://twitter.com/sequoia/status/1590522718650499073)
 - [GitHub stars won&#39;t pay your rent &lpar;2020&rpar;](https://kitze.io/posts/github-stars-wont-pay-your-rent)
 - [I strive to be a 0.1x Engineer &lpar;2016&rpar;](https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
 <!-- BLOG-POST-LIST:END -->
