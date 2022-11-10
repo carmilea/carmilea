@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US annual inflation declines to 7.7% in October vs. 7.9% expected](https://www.bls.gov/news.release/archives/cpi_11102022.htm)
+- [A new curl option was born: --url-query](https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/)
+- [I’m the nurse who called 911 for help with staffing](https://nurse.org/articles/nurse-who-called-911-real-story/)
+- [The Golden Rule of Personal Finance](https://bestinterest.blog/golden-rule/)
 - [Try TeXmacs in your Browser via WebAssembly &lpar;Mogan Fork of TeXmacs&rpar;](https://yufeng-shen.github.io)
-- [Ask HN: Where to Start with Android Custom ROM or AOSP Development?](https://news.ycombinator.com/item?id=33545345)
-- [Tether USDT is depegging from dollar](https://pro.coinbase.com/trade/USDT-USD)
-- [Kamion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/kamion/jobs/pHwM0r2-software-engineer-frontend)
-- [Why are clinical trials so expensive? Tales from the beast’s belly](https://milkyeggs.com/?p=136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
