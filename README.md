@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Tipping Everywhere You Checkout?](https://www.maxinomics.com/blog/why-is-tipping-everywhere-you-checkout)
+- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
+- [Show HN: Postcard – Easiest way to make a personal website](https://postcard.page/)
+- [Sam Bankman-Fried Has a Savior Complex &lpar;September 2022&rpar;](https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+- [How did NPR’s pre-election poll get things so so so wrong?](https://statmodeling.stat.columbia.edu/2022/11/10/how-did-nprs-poll-get-things-so-so-so-wrong-the-friends-family-coworkers-question/)
 - [Octopuses caught on camera throwing things at each other](https://www.nature.com/articles/d41586-022-03592-w)
-- [We Should Have Markdown Rendered Websites](https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html)
-- [Vocaloid 6](https://www.vocaloid.com/en/)
-- [How the Apple Archive Ended Up at Stanford](https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
