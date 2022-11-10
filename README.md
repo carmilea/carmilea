@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian ISPs: We already give govt full access to web traffic](https://entrackr.com/2022/11/exclusive-indian-isps-we-already-give-govt-full-access-to-web-traffic/)
-- [GitHub is planning Voice to Code](https://githubnext.com/projects/hey-github/)
-- [Mastodon’s Eternal September Begins](https://www.hughrundle.net/home-invasion/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring AI Policy and Safety Researchers](https://news.ycombinator.com/item?id=33543205)
-- [Zoho&#39;s annual revenues surpassed $1B in 2021](https://www.businessinsider.in/business/corporates/news/zoho-becomes-a-1-billion-company-in-revenues/articleshow/95382381.cms)
+- [Try TeXmacs in your Browser via WebAssembly &lpar;Mogan Fork of TeXmacs&rpar;](https://yufeng-shen.github.io)
+- [Ask HN: Where to Start with Android Custom ROM or AOSP Development?](https://news.ycombinator.com/item?id=33545345)
+- [Tether USDT is depegging from dollar](https://pro.coinbase.com/trade/USDT-USD)
+- [Kamion &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/kamion/jobs/pHwM0r2-software-engineer-frontend)
+- [Why are clinical trials so expensive? Tales from the beast’s belly](https://milkyeggs.com/?p=136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
