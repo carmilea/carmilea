@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC Restores Rigorous Enforcement of Law Banning Unfair Methods of Competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
+- [OpenTalk: Open-Source Video Conferencing](https://sqwera.com/opentalk-open-source-video-conferencing/)
+- [Block web scanners with ipset and iptables](https://nbailey.ca/post/block-scanners/)
+- [How Do You Slay a Dragon – A Manual for Startup Revolutionaries](https://dragonbook.khodorkovsky.com/en/)
+- [FTC restores rigorous enforcement of law banning unfair methods of competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
 - [Metaphor Systems: A search engine based on generative AI](https://metaphor.systems)
-- [Following the Unix philosophy without getting left-pad &lpar;2021&rpar;](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
-- [Wrist-mounted camera captures entire body in 3D](https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d)
-- [French court: refusing to disclose mobile passcode to law enforcement is a crime](https://www.fairtrials.org/articles/news/french-court-rules-that-refusing-to-disclose-a-mobile-passcode-to-law-enforcement-is-a-criminal-offence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
