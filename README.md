@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ftx.com Has Probably Collapsed](https://forum.effectivealtruism.org/posts/tdLRvYHpfYjimwhyL/ftx-com-has-probably-collapsed)
+- [Mozilla security policy: concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
 - [Sequoia has marked its investment in FTX down to $0](https://twitter.com/sequoia/status/1590522718650499073)
 - [GitHub stars won&#39;t pay your rent &lpar;2020&rpar;](https://kitze.io/posts/github-stars-wont-pay-your-rent)
 - [I strive to be a 0.1x Engineer &lpar;2016&rpar;](https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
-- [Kurt Vonnegut at 100](https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/)
-- [Warren Calls Out Wells Fargo and Zelle for “Evasive” Responses about Fraud](https://www.warren.senate.gov/oversight/letters/warren-calls-out-wells-fargo-and-zelle-for-evasive-inaccurate-and-misleading-responses-about-fraud-and-scams-on-zelle-calls-for-companies-to-publicly-release-all-data-on-zelle-fraud-and-scams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
