@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ftx.com Has Probably Collapsed](https://forum.effectivealtruism.org/posts/tdLRvYHpfYjimwhyL/ftx-com-has-probably-collapsed)
-- [$118 16TB SSD on Amazon, 4 star reviews mention cuff links and coffee cups](https://www.amazon.com/Portable-External-16TB-USB-Aluminum-Chromebook/dp/B0BJ77NXZF)
-- [Mozilla security policy: concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
+- [Gundam and anime replace rampant politics in Japanese Twitter Trends](https://nichegamer.com/gundam-anime-twitter-trends/)
+- [Concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
 - [GitHub stars won&#39;t pay your rent &lpar;2020&rpar;](https://kitze.io/posts/github-stars-wont-pay-your-rent)
 - [I strive to be a 0.1x Engineer &lpar;2016&rpar;](https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
+- [Kurt Vonnegut at 100](https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
