@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian ISPs: We already give govt full access to web traffic](https://entrackr.com/2022/11/exclusive-indian-isps-we-already-give-govt-full-access-to-web-traffic/)
 - [GitHub is planning Voice to Code](https://githubnext.com/projects/hey-github/)
 - [Mastodon’s Eternal September Begins](https://www.hughrundle.net/home-invasion/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring AI Policy and Safety Researchers](https://news.ycombinator.com/item?id=33543205)
 - [Zoho&#39;s annual revenues surpassed $1B in 2021](https://www.businessinsider.in/business/corporates/news/zoho-becomes-a-1-billion-company-in-revenues/articleshow/95382381.cms)
-- [An open source lawyer’s view on the copilot class action lawsuit](https://katedowninglaw.com/2022/11/10/open-source-lawyers-view-on-the-copilot-class-action-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
