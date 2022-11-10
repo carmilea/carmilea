@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Young, male and aimless’: Why are men in India delaying marriage?](https://news.cornell.edu/stories/2022/11/young-male-and-aimless-why-are-men-india-delaying-marriage)
+- [Look out: Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
+- [The ethics of reclining airplane seats](https://www.lesswrong.com/posts/fo4LYBHCpcoYptBfN/the-ethics-of-reclining-airplane-seats)
 - [US annual inflation declines to 7.7% in October vs. 7.9% expected](https://www.bls.gov/news.release/archives/cpi_11102022.htm)
-- [A new curl option was born: --url-query](https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/)
-- [I’m the nurse who called 911 for help with staffing](https://nurse.org/articles/nurse-who-called-911-real-story/)
-- [The Golden Rule of Personal Finance](https://bestinterest.blog/golden-rule/)
-- [Try TeXmacs in your Browser via WebAssembly &lpar;Mogan Fork of TeXmacs&rpar;](https://yufeng-shen.github.io)
+- [Append data to the url query](https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
