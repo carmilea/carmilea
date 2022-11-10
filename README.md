@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Young, male and aimless’: Why are men in India delaying marriage?](https://news.cornell.edu/stories/2022/11/young-male-and-aimless-why-are-men-india-delaying-marriage)
+- [Bad Professor: The Rise and Fall of John Donovan](https://www.townandcountrymag.com/society/money-and-power/a41625115/john-donovan-mit-professor-crimes/)
+- [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio/)
+- [The Sam Bankman-Fried empire crumbled. What happened? &lpar;part one&rpar;](https://newsletter.mollywhite.net/p/ftx-explainer)
+- [Oxford University Press’s new logo is unfathomably bad](https://joukovsky.substack.com/p/oxford-university-presss-new-logo)
 - [Look out: Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
-- [The ethics of reclining airplane seats](https://www.lesswrong.com/posts/fo4LYBHCpcoYptBfN/the-ethics-of-reclining-airplane-seats)
-- [US annual inflation declines to 7.7% in October vs. 7.9% expected](https://www.bls.gov/news.release/archives/cpi_11102022.htm)
-- [Append data to the url query](https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
