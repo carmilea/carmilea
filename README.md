@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [what.cd: A Cypherpunk&#39;s Manifesto](https://what.cd/)
+- [Zendo: The Game of Inductive Logic](https://www.looneylabs.com/games/zendo)
+- [Show HN: GitHub Org Audit Tool](https://github.com/EISMGard/github-audit-tool)
+- [A Cypherpunk’s Manifesto &lpar;1993&rpar;](https://what.cd/)
+- [I make $8k/year sending cheap flight alert emails](https://phillyflightlist.com/cheap-flight-newsletter-makes-money/)
 - [CRISPR cancer trial success paves the way for personalized treatments](https://www.nature.com/articles/d41586-022-03676-7)
-- [Block web scanners with ipset and iptables](https://nbailey.ca/post/block-scanners/)
-- [Property-Based Testing in Rust with Arbitrary](https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/)
-- [FTC restores rigorous enforcement of law banning unfair methods of competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
