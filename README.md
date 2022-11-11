@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [The Sad, Sad Story of Laika, the Space Dog, and Her One-Way Trip into Orbit](https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/)
-- [Zuo: A Tiny Racket for Scripting](https://docs.racket-lang.org/zuo/index.html)
-- [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
-- [NSA urges orgs to use memory-safe programming languages](https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/)
+- [Key staff driving Apple search engine leave to rejoin Google](https://appleinsider.com/articles/22/11/11/key-staff-driving-apple-search-engine-leave-to-rejoin-google)
+- [How Stdbuf Works](https://hmarr.com/blog/how-stdbuf-works/)
+- [FTX to file for U.S. bankruptcy, CEO resigns](https://www.reuters.com/technology/ftx-says-will-file-us-bankruptcy-latest-blow-crypto-2022-11-11/)
+- [Show HN: A little side project, a watercolor art generator](https://brushify.art/?couponCode=HACKER-NEWS)
+- [Shopify Is Illegal in Germany](https://lsww.de/shopify-illegal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
