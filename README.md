@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it time to start eating algae?](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae)
+- [Chrome Responds &quot;No&quot; to JPEG XL](https://groups.google.com/a/chromium.org/g/blink-dev/c/WjCKcBw219k/m/0XA-0G6hBgAJ)
+- [We upgraded an old, 3PB large, Elasticsearch cluster without downtime](https://underthehood.meltwater.com/blog/2022/11/11/how-we-upgraded-an-old-3pb-large-elasticsearch-cluster-without-downtime-part-1-introduction/)
 - [Mapping Out the HPC Dependency Chaos](https://arxiv.org/abs/2211.05118)
 - [The World Is Run by People No Smarter Than You](https://www.swyx.io/no-smarter)
-- [Hackers behind Medibank breach are now advertising access to Deutsche Bank](https://news.ycombinator.com/item?id=33562197)
 - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 <!-- BLOG-POST-LIST:END -->
 
