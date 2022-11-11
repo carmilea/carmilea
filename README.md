@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WeWork exits 40 U.S. locations after tepid forecast](https://www.reuters.com/business/wework-exit-40-locations-us-cut-costs-2022-11-10/)
-- [4% will quit if revealed co-workers earn more money](https://www.resumebuilder.com/1-in-20-workers-will-quit-if-transparency-laws-reveal-they-are-paid-less-than-co-workers/)
-- [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
-- [Economic growth no longer requires rising emissions](https://www.economist.com/leaders/2022/11/10/economic-growth-no-longer-requires-rising-emissions)
-- [‘Whisper list’ contains 40 politicians never to accept a drink from, MP claims](https://www.theguardian.com/uk-news/2022/nov/10/whisper-list-contains-40-politicians-never-to-accept-a-drink-from-mp-claims)
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Zuo: A Tiny Racket for Scripting](https://docs.racket-lang.org/zuo/index.html)
+- [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
+- [NSA urges orgs to use memory-safe programming languages](https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/)
+- [Books recommended by profitable founders](https://microsaashq.com/insights/founder-insights-books-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
