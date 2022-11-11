@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI In No-Knock Raid on Area 51 Website Operator](https://twitter.com/g_knapp/status/1590893322322968577)
+- [FTX Yikes](https://rekt.news/ftx-yikes/)
+- [The Queen&#39;s Coup](https://declassifiedaus.org/2022/11/11/the-queens-coup/)
 - [Overfitting and the strong version of Goodhart’s law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
 - [Map of the Internet](https://ipv4.dev.sarl/)
-- [Zendo: The Game of Inductive Logic](https://www.looneylabs.com/games/zendo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
