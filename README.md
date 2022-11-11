@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are U.S. transit projects so costly? This group is on the case](https://www.governing.com/finance/why-are-u-s-transit-projects-so-costly-this-group-is-on-the-case)
-- [Sublime Text 4 Build 4142](https://www.sublimetext.com/blog/articles/sublime-text-4142)
-- [Opening the North American charging standard](https://www.tesla.com/blog/opening-north-american-charging-standard)
-- [Paperspace &lpar;YC W15&rpar; is hiring to build a better ML model deployment service](https://www.paperspace.com/careers)
-- [Demystifying financial leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
+- [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
+- [An unconfirmed tweet about Freeport LNG is upending gas markets](https://www.bloomberg.com/news/articles/2022-11-11/an-unconfirmed-tweet-about-freeport-lng-is-upending-gas-markets)
+- [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/2i9IARi-ui-ux-designer)
+- [Ken Thompson&#39;s NFA regex patent](https://patents.google.com/patent/US3568156A/en)
+- [Internet Archive launches Mastodon server at archive.org](https://mastodon.archive.org/about/more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
