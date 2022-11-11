@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Key staff driving Apple search engine leave to rejoin Google](https://appleinsider.com/articles/22/11/11/key-staff-driving-apple-search-engine-leave-to-rejoin-google)
-- [How Stdbuf Works](https://hmarr.com/blog/how-stdbuf-works/)
-- [FTX to file for U.S. bankruptcy, CEO resigns](https://www.reuters.com/technology/ftx-says-will-file-us-bankruptcy-latest-blow-crypto-2022-11-11/)
-- [Show HN: A little side project, a watercolor art generator](https://brushify.art/?couponCode=HACKER-NEWS)
-- [Shopify Is Illegal in Germany](https://lsww.de/shopify-illegal/)
+- [Is it time to start eating algae?](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae)
+- [Mapping Out the HPC Dependency Chaos](https://arxiv.org/abs/2211.05118)
+- [The World Is Run by People No Smarter Than You](https://www.swyx.io/no-smarter)
+- [Hackers behind Medibank breach are now advertising access to Deutsche Bank](https://news.ycombinator.com/item?id=33562197)
+- [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
