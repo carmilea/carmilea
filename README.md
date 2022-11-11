@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WeWork exits 40 U.S. locations after tepid forecast](https://www.reuters.com/business/wework-exit-40-locations-us-cut-costs-2022-11-10/)
+- [4% will quit if revealed co-workers earn more money](https://www.resumebuilder.com/1-in-20-workers-will-quit-if-transparency-laws-reveal-they-are-paid-less-than-co-workers/)
 - [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
 - [Economic growth no longer requires rising emissions](https://www.economist.com/leaders/2022/11/10/economic-growth-no-longer-requires-rising-emissions)
-- [Ask HN: What do you do for online privacy?](https://news.ycombinator.com/item?id=33558737)
 - [‘Whisper list’ contains 40 politicians never to accept a drink from, MP claims](https://www.theguardian.com/uk-news/2022/nov/10/whisper-list-contains-40-politicians-never-to-accept-a-drink-from-mp-claims)
-- [YouTube confirms that it has removed the “sort by oldest/newest” option](https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
