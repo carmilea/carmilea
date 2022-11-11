@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [The Sad, Sad Story of Laika, the Space Dog, and Her One-Way Trip into Orbit](https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/)
 - [Zuo: A Tiny Racket for Scripting](https://docs.racket-lang.org/zuo/index.html)
 - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 - [NSA urges orgs to use memory-safe programming languages](https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/)
-- [Books recommended by profitable founders](https://microsaashq.com/insights/founder-insights-books-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
