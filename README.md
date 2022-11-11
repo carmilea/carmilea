@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you focus on work for long periods of time?](https://news.ycombinator.com/item?id=33557338)
+- [FBI In No-Knock Raid on Area 51 Website Operator](https://twitter.com/g_knapp/status/1590893322322968577)
 - [Overfitting and the strong version of Goodhart’s law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
 - [Map of the Internet](https://ipv4.dev.sarl/)
-- [Zendo: The Game of Inductive Logic](https://www.looneylabs.com/games/zendo)
-- [Show HN: GitHub Org Audit Tool](https://github.com/EISMGard/github-audit-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
