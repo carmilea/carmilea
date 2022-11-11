@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+- [HCL is the fastest growing language according to the GitHub Octoverse 2022](https://octoverse.github.com/2022/top-programming-languages)
+- [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
+- [Map of the Internet](https://ipv4.dev.sarl/)
 - [Zendo: The Game of Inductive Logic](https://www.looneylabs.com/games/zendo)
-- [Show HN: GitHub Org Audit Tool](https://github.com/EISMGard/github-audit-tool)
-- [A Cypherpunk’s Manifesto &lpar;1993&rpar;](https://what.cd/)
-- [I make $8k/year sending cheap flight alert emails](https://phillyflightlist.com/cheap-flight-newsletter-makes-money/)
-- [CRISPR cancer trial success paves the way for personalized treatments](https://www.nature.com/articles/d41586-022-03676-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
