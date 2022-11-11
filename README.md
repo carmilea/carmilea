@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Whisper list’ contains 40 politicians never to accept a drink from, MP claims](https://www.theguardian.com/uk-news/2022/nov/10/whisper-list-contains-40-politicians-never-to-accept-a-drink-from-mp-claims)
+- [YouTube confirms that it has removed the “sort by oldest/newest” option](https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/)
+- [Databases: 2021 in Review and Predictions for 2022](https://www.bytebase.com/blog/database-review-2021)
 - [My professor says I would not graduate my PhD, but I fulfilled all requirements](https://academia.stackexchange.com/questions/190464/my-professor-says-i-would-not-graduate-my-phd-although-i-fulfilled-all-the-requ)
 - [FTX Yikes](https://rekt.news/ftx-yikes/)
-- [The Queen&#39;s Coup](https://declassifiedaus.org/2022/11/11/the-queens-coup/)
-- [Overfitting and the strong version of Goodhart’s law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-- [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
