@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard)
-- [Harvard Study: CBD May Significantly Reduce Anxiety with Minimal Side Effects](https://themarijuanaherald.com/2022/11/harvard-study-cbd-may-significantly-reduce-anxiety-with-minimal-side-effects/)
+- [Why are U.S. transit projects so costly? This group is on the case](https://www.governing.com/finance/why-are-u-s-transit-projects-so-costly-this-group-is-on-the-case)
+- [Sublime Text 4 Build 4142](https://www.sublimetext.com/blog/articles/sublime-text-4142)
+- [Opening the North American charging standard](https://www.tesla.com/blog/opening-north-american-charging-standard)
 - [Paperspace &lpar;YC W15&rpar; is hiring to build a better ML model deployment service](https://www.paperspace.com/careers)
-- [Demystifying Financial Leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
-- [Show HN: ShowMeYourHotKeys – A macOS app to show applications menu shortcuts](https://showmeyourhotkeys.moxadventu.com/)
+- [Demystifying financial leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
