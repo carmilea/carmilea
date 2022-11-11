@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard)
+- [Harvard Study: CBD May Significantly Reduce Anxiety with Minimal Side Effects](https://themarijuanaherald.com/2022/11/harvard-study-cbd-may-significantly-reduce-anxiety-with-minimal-side-effects/)
 - [Paperspace &lpar;YC W15&rpar; is hiring to build a better ML model deployment service](https://www.paperspace.com/careers)
 - [Demystifying Financial Leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
-- [Is it time to start eating algae?](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae)
-- [We upgraded an old, 3PB large, Elasticsearch cluster without downtime](https://underthehood.meltwater.com/blog/2022/11/11/how-we-upgraded-an-old-3pb-large-elasticsearch-cluster-without-downtime-part-1-introduction/)
-- [Mapping Out the HPC Dependency Chaos](https://arxiv.org/abs/2211.05118)
+- [Show HN: ShowMeYourHotKeys – A macOS app to show applications menu shortcuts](https://showmeyourhotkeys.moxadventu.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
