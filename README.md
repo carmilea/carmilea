@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney to Begin Layoffs, Targeted Hiring Freeze and Limiting Travel](https://variety.com/2022/film/news/disney-layoffs-hiring-freeze-bob-chapek-1235430840/)
 - [Bubbles](https://oimo.io/works/bubbles/)
 - [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
 - [Chaos Bernie: Delete Azure resources by playing Doom](https://github.com/secureworks/chaosbernie)
-- [An unconfirmed tweet about Freeport LNG is upending gas markets](https://www.bloomberg.com/news/articles/2022-11-11/an-unconfirmed-tweet-about-freeport-lng-is-upending-gas-markets)
 - [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/2i9IARi-ui-ux-designer)
 <!-- BLOG-POST-LIST:END -->
 
