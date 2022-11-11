@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My professor says I would not graduate my PhD, but I fulfilled all requirements](https://academia.stackexchange.com/questions/190464/my-professor-says-i-would-not-graduate-my-phd-although-i-fulfilled-all-the-requ)
 - [FTX Yikes](https://rekt.news/ftx-yikes/)
 - [The Queen&#39;s Coup](https://declassifiedaus.org/2022/11/11/the-queens-coup/)
 - [Overfitting and the strong version of Goodhart’s law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
-- [Map of the Internet](https://ipv4.dev.sarl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
