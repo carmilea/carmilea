@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
-- [The Next Hot Job: Pretending to Be a Robot](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
+- [The Next Hot Job: Pretending to Be a Robot &lpar;2019&rpar;](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
 - [Notmuch – Just an email system](https://notmuchmail.org/)
 - [.bestbuy](http://nic.bestbuy/)
 - [Type-Signature.com](https://type-signature.com/)
