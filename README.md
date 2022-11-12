@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney to Begin Layoffs, Targeted Hiring Freeze and Limiting Travel](https://variety.com/2022/film/news/disney-layoffs-hiring-freeze-bob-chapek-1235430840/)
-- [Bubbles](https://oimo.io/works/bubbles/)
-- [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
-- [Chaos Bernie: Delete Azure resources by playing Doom](https://github.com/secureworks/chaosbernie)
-- [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/2i9IARi-ui-ux-designer)
+- [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
+- [The Next Hot Job: Pretending to Be a Robot](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
+- [Notmuch – Just an email system](https://notmuchmail.org/)
+- [.bestbuy](http://nic.bestbuy/)
+- [Type-Signature.com](https://type-signature.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
