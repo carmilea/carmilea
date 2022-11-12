@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where can one learn about boring web development?](https://news.ycombinator.com/item?id=33570740)
 - [Ghostly is a simple, lightweight, and fast full-stack framework for Golang](https://github.com/Dominic-Wassef/ghostly)
 - [Taler Systems SA is looking for investors for development of GNU Taler](https://taler.net/en/news/2022-11.html)
 - [FTX faces potential hack, sees mysterious outflows totaling more than $600M](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
 - [Symbian Source Code Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
+- [On CAD](https://1299651405.com/cad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
