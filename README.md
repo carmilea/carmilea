@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Domain fronting to be blocked on Azure](https://news.ycombinator.com/item?id=33572390)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [The German School of Lisp &lpar;2011&rpar;](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
 - [In Praise of Plan 9](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
 - [FTX investor Sequoia removed its glowing profile of Sam Bankman-Fried](https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11)
-- [ZFSBootMenu – A boot loader to manage ZFS boot environments for Linux](https://zfsbootmenu.org/)
-- [The NetHack Learning Environment](https://github.com/facebookresearch/nle)
-- [Gzip exceptions, but only on hot or rainy days](https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
