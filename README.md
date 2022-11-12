@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LeanQt – GUI is here, Widgets are near](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
+- [The Digital Sensorium &lpar;2021&rpar;](https://aaronzlewis.com/blog/2021/01/17/inside-the-digital-sensorium/)
 - [You Can Forget About Crypto Now](https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/)
 - [Tell HN: Domain fronting to be blocked on Azure](https://news.ycombinator.com/item?id=33572390)
 - [97.7% of tokens launched on Uniswap were scams and rug pulls](https://arxiv.org/abs/2201.07220)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [The Ethical Principles of Public Health](https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
