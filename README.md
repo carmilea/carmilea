@@ -55,7 +55,7 @@
 - [FTX hacker identity discovered by Kraken Exchange team](https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/)
 - [Bevy 0.9: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-9/)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [Using GSE and DVB-S2 for IP Traffic](https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/)
+- [It amazes me how many people are blissfully unaware of the rampant tether fraud](https://news.ycombinator.com/item?id=33577003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
