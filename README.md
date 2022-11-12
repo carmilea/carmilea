@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
+- [RSV Antibody from Sanofi and AstraZeneca Approved in Europe](https://cen.acs.org/business/RSV-antibody-Sanofi-AstraZeneca-approved/100/i40)
+- [Mathematician who solved prime-number riddle claims new breakthrough](https://www.nature.com/articles/d41586-022-03689-2)
+- [Show HN: Wa-tunnel – HTTP Tunneling through Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
+- [Spanner: Google’s Globally-Distributed Database Wins Sigops Hall of Fame Award](https://www.sigops.org/2022/hof-2022/)
 - [The Next Hot Job: Pretending to Be a Robot &lpar;2019&rpar;](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
-- [Notmuch – Just an email system](https://notmuchmail.org/)
-- [.bestbuy](http://nic.bestbuy/)
-- [Type-Signature.com](https://type-signature.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
