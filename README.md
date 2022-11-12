@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over $400M worth of tokens drained from FTX accounts](https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts)
+- [FTX faces potential hack, sees mysterious outflows totaling more than $600M](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
 - [‘Dark ships’ emerge from the shadows of the Nord Stream mystery](https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/)
-- [Tunnel IPv4 data through a DNS server](https://github.com/yarrick/iodine)
+- [On CAD: OnShape is to FreeCAD as FreeCAD is to SolveSpace](https://1299651405.com/cad/)
 - [Mathematician who solved prime-number riddle claims new breakthrough](https://www.nature.com/articles/d41586-022-03689-2)
 - [Show HN: Wa-tunnel – HTTP Tunneling through Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
 <!-- BLOG-POST-LIST:END -->
