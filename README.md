@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghostly is a simple, lightweight, and fast full-stack framework for Golang](https://github.com/Dominic-Wassef/ghostly)
 - [FTX faces potential hack, sees mysterious outflows totaling more than $600M](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
+- [Symbian Source Code Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
 - [‘Dark ships’ emerge from the shadows of the Nord Stream mystery](https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/)
-- [On CAD: OnShape is to FreeCAD as FreeCAD is to SolveSpace](https://1299651405.com/cad/)
-- [Mathematician who solved prime-number riddle claims new breakthrough](https://www.nature.com/articles/d41586-022-03689-2)
-- [Show HN: Wa-tunnel – HTTP Tunneling through Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
+- [On CAD](https://1299651405.com/cad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
