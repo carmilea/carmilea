@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RSV Antibody from Sanofi and AstraZeneca Approved in Europe](https://cen.acs.org/business/RSV-antibody-Sanofi-AstraZeneca-approved/100/i40)
+- [Over $400M worth of tokens drained from FTX accounts](https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts)
+- [‘Dark ships’ emerge from the shadows of the Nord Stream mystery](https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/)
+- [Tunnel IPv4 data through a DNS server](https://github.com/yarrick/iodine)
 - [Mathematician who solved prime-number riddle claims new breakthrough](https://www.nature.com/articles/d41586-022-03689-2)
 - [Show HN: Wa-tunnel – HTTP Tunneling through Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
-- [Spanner: Google’s Globally-Distributed Database Wins Sigops Hall of Fame Award](https://www.sigops.org/2022/hof-2022/)
-- [The Next Hot Job: Pretending to Be a Robot &lpar;2019&rpar;](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
