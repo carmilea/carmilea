@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can Forget About Crypto Now](https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/)
 - [Tell HN: Domain fronting to be blocked on Azure](https://news.ycombinator.com/item?id=33572390)
+- [97.7% of tokens launched on Uniswap were scams and rug pulls](https://arxiv.org/abs/2201.07220)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [The German School of Lisp &lpar;2011&rpar;](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
-- [In Praise of Plan 9](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
-- [FTX investor Sequoia removed its glowing profile of Sam Bankman-Fried](https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11)
+- [The Ethical Principles of Public Health](https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
