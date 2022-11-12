@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghostly is a simple, lightweight, and fast full-stack framework for Golang](https://github.com/Dominic-Wassef/ghostly)
-- [Taler Systems SA is looking for investors for development of GNU Taler](https://taler.net/en/news/2022-11.html)
-- [FTX faces potential hack, sees mysterious outflows totaling more than $600M](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
-- [Symbian Source Code Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
-- [On CAD](https://1299651405.com/cad/)
+- [In Praise of Plan 9](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
+- [FTX investor Sequoia removed its glowing profile of Sam Bankman-Fried](https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11)
+- [ZFSBootMenu – A boot loader to manage ZFS boot environments for Linux](https://zfsbootmenu.org/)
+- [The NetHack Learning Environment](https://github.com/facebookresearch/nle)
+- [Gzip exceptions, but only on hot or rainy days](https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
