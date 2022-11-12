@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing BeOS on a TAM](https://www.youtube.com/watch?v=UVzrVLRhDrA)
-- [Ask HN: Programming Without a Build System?](https://news.ycombinator.com/item?id=33574154)
-- [The Quiet Invasion of &#39;Big Information&#39;](https://www.wired.com/story/big-information-relx-privacy-surveillance-data/)
-- [Ur](https://en.wikipedia.org/wiki/Ur)
-- [What if regular exercise is the best cognitive exercise?](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html)
+- [Court Case Could Make It a Crime to Be a Journalist in Texas](https://reason.com/2022/11/04/this-court-case-could-make-it-a-crime-to-be-a-journalist-in-texas/)
+- [FTX held less than $1B in liquid assets against $9B in liabilities](https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558)
+- [U.S. seeks 15 years for Elizabeth Holmes over Theranos fraud](https://www.reuters.com/world/us/us-seeks-15-years-elizabeth-holmes-over-theranos-fraud-2022-11-12/)
+- [Australia gives world-first approval for fecal transplants to restore gut health](https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health)
+- [A Brief Interview with Common Lisp Creator Dr. Scott Fahlman](https://pldb.com/posts/scottFalhmanInterview.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
