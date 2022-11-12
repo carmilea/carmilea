@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing BeOS on a TAM](https://www.youtube.com/watch?v=UVzrVLRhDrA)
+- [Ask HN: Programming Without a Build System?](https://news.ycombinator.com/item?id=33574154)
+- [The Quiet Invasion of &#39;Big Information&#39;](https://www.wired.com/story/big-information-relx-privacy-surveillance-data/)
 - [Ur](https://en.wikipedia.org/wiki/Ur)
-- [Homeland Security Reaches the Anus &lpar;2007&rpar;](https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext)
 - [What if regular exercise is the best cognitive exercise?](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html)
-- [Show HN: Xq – command-line XML and HTML beautifier and content extractor](https://github.com/sibprogrammer/xq)
-- [LeanQt – GUI is here, Widgets are near](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
