@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There are now 8B of us – but soon we&#39;ll hit a decline we&#39;ll never reverse](https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854)
+- [FTX hacker identity discovered by Kraken Exchange team](https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/)
+- [Bevy 0.9: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-9/)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [GitHub is replacing Rails front end rendering with React](https://twitter.com/rauchg/status/1591464351990697984)
-- [B-17 bomber collides with smaller plane at Dallas airshow](https://twitter.com/remarks/status/1591525604947824641)
-- [Ask HN: Anyone else struggling to get a software dev job?](https://news.ycombinator.com/item?id=33576607)
-- [Starfish and Coffee](https://www.starfishandcoffeeofficial.com/pages/the-story)
+- [Using GSE and DVB-S2 for IP Traffic](https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
