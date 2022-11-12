@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
+- [GitHub is replacing Rails front end rendering with React](https://twitter.com/rauchg/status/1591464351990697984)
+- [B-17 bomber collides with smaller plane at Dallas airshow](https://twitter.com/remarks/status/1591525604947824641)
+- [Ask HN: Anyone else struggling to get a software dev job?](https://news.ycombinator.com/item?id=33576607)
 - [Starfish and Coffee](https://www.starfishandcoffeeofficial.com/pages/the-story)
-- [California operates the largest, most efficient welfare program in the US](https://philo.substack.com/p/whats-wrong-with-california)
-- [Surface Pro 9 teardown reveals modular parts, Microsoft’s 2023 repair plans](https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/)
-- [Show HN: A GitHub business card generator](https://github-business-card.vercel.app/)
-- [WorldWideWeb: Proposal for a HyperText Project &lpar;1990&rpar;](https://www.w3.org/Proposal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
