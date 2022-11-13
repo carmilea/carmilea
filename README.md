@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case for Abolishing Elections](https://www.bostonreview.net/articles/the-case-for-abolishing-elections/)
+- [Layoff spree in Silicon Valley spells end of an era for Big Tech](https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/)
+- [Chibicc – A Small C Compiler](https://github.com/rui314/chibicc)
+- [Where has the passive radar code gone?](https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98)
 - [Sam Bankman-Fried and the geometry of conscience](https://scottaaronson.blog/?p=6797)
-- [Tell HN: Siri provides Apple Music link when sharing current song on Spotify](https://news.ycombinator.com/item?id=33581371)
-- [Zeal OS is a modernized fork of the Temple Operating System](https://github.com/Zeal-Operating-System/ZealOS)
-- [The global housing market is heading for a brutal downturn](https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3)
-- [Pulse Browser – An experimental Firefox fork](https://pulsebrowser.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
