@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Bankman-Fried and the geometry of conscience](https://scottaaronson.blog/?p=6797)
+- [Tell HN: Siri provides Apple Music link when sharing current song on Spotify](https://news.ycombinator.com/item?id=33581371)
+- [Zeal OS is a modernized fork of the Temple Operating System](https://github.com/Zeal-Operating-System/ZealOS)
 - [The global housing market is heading for a brutal downturn](https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3)
 - [Pulse Browser – An experimental Firefox fork](https://pulsebrowser.app/)
-- [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html)
-- [Euclidean rhythms](https://observablehq.com/@toja/euclidean-rhythms)
-- [Why does calloc exist? &lpar;2016&rpar;](https://vorpus.org/blog/why-does-calloc-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
