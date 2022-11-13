@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are your “scratch own itch” projects?](https://news.ycombinator.com/item?id=33582687)
+- [Why are male testosterone levels falling?](http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Product Manager and Senior Front End Engineer](https://www.tesorio.com/careers#job-openings)
-- [Tell HN: You can get into YC without a product](https://news.ycombinator.com/item?id=33582002)
-- [Software Dark Matter Is the Enemy of Software Transparency](https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency)
-- [The Case for Abolishing Elections](https://www.bostonreview.net/articles/the-case-for-abolishing-elections/)
-- [Build Your Own Text Editor &lpar;2017&rpar;](https://viewsourcecode.org/snaptoken/kilo/)
+- [Show HN: I built my own PM tool after trying Trello, Asana, ClickUp, etc.](https://upbase.io/)
+- [Software dark matter is the enemy of software transparency](https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
