@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social isolation and the brain in the pandemic era](https://www.nature.com/articles/s41562-022-01453-0)
+- [Mighty is shutting down after 3.5 years](https://twitter.com/suhail/status/1591813110230568963)
+- [Area 5150, a Reflection](https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/)
 - [Building a simple shell in C – Part 3](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3)
-- [People Have Been Having Less Sex–Whether They’re Teenagers or 40-Somethings](https://www.scientificamerican.com/article/people-have-been-having-less-sex-whether-theyre-teenagers-or-40-somethings/)
-- [The Kopp-Etchells Effect &lpar;2012&rpar;](https://sciencebasedlife.wordpress.com/2012/11/01/the-kopp-etchells-effect/)
-- [A gut-derived hormone suppresses sugar appetite/regulates food choice Drosophila](https://www.nature.com/articles/s42255-022-00672-z)
-- [Why are male testosterone levels falling?](http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html)
+- [A Replacement for Strong Parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
