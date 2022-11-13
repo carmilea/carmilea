@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [London&#39;s forgotten river and the barrister who saved it](https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it)
 - [Ask HN: In mid 40s. What non-tech job can I do?](https://news.ycombinator.com/item?id=33585522)
 - [Source code is not enough](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
 - [AT&amp;T Syntax versus Intel Syntax](https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm)
 - [Build the Modular Monolith First](https://www.fearofoblivion.com/build-a-modular-monolith-first)
-- [Less is exponentially more &lpar;2012&rpar;](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
