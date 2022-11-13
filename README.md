@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar;, the platform for building next generation AI apps, is hiring](http://patterns.app/)
+- [Mold may switch to non-commercial-only license](https://github.com/rui314/mold/releases/tag/v1.7.0)
+- [Sam Bankman-Fried vs. the Match King](https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/)
 - [Social isolation and the brain in the pandemic era](https://www.nature.com/articles/s41562-022-01453-0)
 - [Mighty is shutting down after 3.5 years](https://twitter.com/suhail/status/1591813110230568963)
-- [Area 5150, a Reflection](https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/)
-- [Building a simple shell in C – Part 3](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3)
-- [A Replacement for Strong Parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
