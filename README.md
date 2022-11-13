@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrutiny – A WebUI for smartd S.M.A.R.T monitoring &lpar;written in Go&rpar;](https://github.com/AnalogJ/scrutiny)
+- [Michael Lewis&#39; next book is about Sam Bankman-Fried](https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
-- [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
+- [Box breathing techniques and benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
 - [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes)
-- [A simple, clean and cross-platform music player](https://github.com/martpie/museeks)
-- [London&#39;s forgotten river and the barrister who saved it](https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
