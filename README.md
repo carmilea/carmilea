@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html)
+- [Euclidean Rhythms](https://observablehq.com/@toja/euclidean-rhythms)
 - [Why Does Calloc Exist?](https://vorpus.org/blog/why-does-calloc-exist/)
-- [An Inside Look at MS-DOS – The design decisions behind the popular OS](https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm)
-- [Iranian who made Paris airport home for 18 years dies](https://www.bbc.com/news/world-europe-63612017)
-- [Sequoia on SBF: A Future Trillionaire](https://twitter.com/philbak1/status/1591409852957732864)
-- [DeviantArt upsets artists with its new AI art generator, DreamUp](https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/)
+- [a16z Crypto](https://a16zcrypto.com)
+- [A collection of tips to help you improve your CSS skills](https://github.com/garu2/Skills-CSS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
