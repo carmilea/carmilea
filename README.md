@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: WebApp/Site Builder with IDE and Visual Editor](https://getlivewebsite.com)
+- [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
+- [A simple, clean and cross-platform music player](https://github.com/martpie/museeks)
 - [London&#39;s forgotten river and the barrister who saved it](https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it)
-- [Ask HN: In mid 40s. What non-tech job can I do?](https://news.ycombinator.com/item?id=33585522)
-- [Source code is not enough](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
-- [AT&amp;T Syntax versus Intel Syntax](https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm)
-- [Build the Modular Monolith First](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+- [Language models are nearly AGIs but we don&#39;t notice](https://philosophybear.substack.com/p/language-models-are-nearly-agis-but)
 <!-- BLOG-POST-LIST:END -->
 
 ---
