@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Product Manager and Senior Front End Engineer](https://www.tesorio.com/careers#job-openings)
+- [Tell HN: You can get into YC without a product](https://news.ycombinator.com/item?id=33582002)
+- [Software Dark Matter Is the Enemy of Software Transparency](https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency)
 - [The Case for Abolishing Elections](https://www.bostonreview.net/articles/the-case-for-abolishing-elections/)
-- [Layoff spree in Silicon Valley spells end of an era for Big Tech](https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/)
-- [Chibicc – A Small C Compiler](https://github.com/rui314/chibicc)
-- [Where has the passive radar code gone?](https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98)
-- [Sam Bankman-Fried and the geometry of conscience](https://scottaaronson.blog/?p=6797)
+- [Build Your Own Text Editor &lpar;2017&rpar;](https://viewsourcecode.org/snaptoken/kilo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
