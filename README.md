@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar;, the platform for building next generation AI apps, is hiring](http://patterns.app/)
-- [Mold may switch to non-commercial-only license](https://github.com/rui314/mold/releases/tag/v1.7.0)
-- [Sam Bankman-Fried vs. the Match King](https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/)
-- [Social isolation and the brain in the pandemic era](https://www.nature.com/articles/s41562-022-01453-0)
-- [Mighty is shutting down after 3.5 years](https://twitter.com/suhail/status/1591813110230568963)
+- [Ask HN: In mid 40s. What non-tech job can I do?](https://news.ycombinator.com/item?id=33585522)
+- [Source code is not enough](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
+- [AT&amp;T Syntax versus Intel Syntax](https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm)
+- [Build the Modular Monolith First](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+- [Less is exponentially more &lpar;2012&rpar;](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
