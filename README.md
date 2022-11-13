@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Does Calloc Exist?](https://vorpus.org/blog/why-does-calloc-exist/)
+- [An Inside Look at MS-DOS – The design decisions behind the popular OS](https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm)
 - [Iranian who made Paris airport home for 18 years dies](https://www.bbc.com/news/world-europe-63612017)
 - [Sequoia on SBF: A Future Trillionaire](https://twitter.com/philbak1/status/1591409852957732864)
 - [DeviantArt upsets artists with its new AI art generator, DreamUp](https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/)
-- [From Plex to Jellyfin Media Server](https://www.ctrl.blog/entry/jellyfin-vs-plex.html)
-- [VNA6000 6GHz Portable Vector Network Analyzer](https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
