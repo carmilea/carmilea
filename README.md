@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulse Browser – A better Firefox fork](https://pulsebrowser.app/)
-- [How to hack the simulation?](https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation)
+- [Pulse Browser – An experimental Firefox fork](https://pulsebrowser.app/)
 - [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html)
 - [Euclidean rhythms](https://observablehq.com/@toja/euclidean-rhythms)
 - [Why does calloc exist? &lpar;2016&rpar;](https://vorpus.org/blog/why-does-calloc-exist/)
+- [An Inside Look at MS-DOS – The design decisions behind the popular OS &lpar;1983&rpar;](https://patersontech.com/Dos/Byte/InsideDos.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
