@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTX CEO Sam Bankman-Fried under supervision in Bahamas, looking to flee to Dubai](https://cointelegraph.com/news/sam-bankman-fried-is-under-supervision-in-bahamas-looking-to-flee-to-dubai)
-- [Living in Svalbard](https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf)
-- [Programming Games for Atari 2600](https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/)
-- [Achieving 100Gbps intrusion prevention on a single server](https://blog.acolyer.org/2020/11/16/pigasus/)
-- [Hard Reset Or, How Not to Drive Your Company Off a Cliff](https://sarahguo.com/blog/hardreset)
+- [Iranian who made Paris airport home for 18 years dies](https://www.bbc.com/news/world-europe-63612017)
+- [Sequoia on SBF: A Future Trillionaire](https://twitter.com/philbak1/status/1591409852957732864)
+- [DeviantArt upsets artists with its new AI art generator, DreamUp](https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/)
+- [From Plex to Jellyfin Media Server](https://www.ctrl.blog/entry/jellyfin-vs-plex.html)
+- [VNA6000 6GHz Portable Vector Network Analyzer](https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
