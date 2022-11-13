@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The global housing market is heading for a brutal downturn](https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3)
 - [Pulse Browser – An experimental Firefox fork](https://pulsebrowser.app/)
 - [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html)
 - [Euclidean rhythms](https://observablehq.com/@toja/euclidean-rhythms)
 - [Why does calloc exist? &lpar;2016&rpar;](https://vorpus.org/blog/why-does-calloc-exist/)
-- [An Inside Look at MS-DOS – The design decisions behind the popular OS &lpar;1983&rpar;](https://patersontech.com/Dos/Byte/InsideDos.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
