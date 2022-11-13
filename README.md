@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A gut-derived hormone suppresses sugar appetite/regulates food choice Drosophila](https://www.nature.com/articles/s42255-022-00672-z)
 - [Ask HN: What are your “scratch own itch” projects?](https://news.ycombinator.com/item?id=33582687)
 - [Why are male testosterone levels falling?](http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Product Manager and Senior Front End Engineer](https://www.tesorio.com/careers#job-openings)
 - [Show HN: I built my own PM tool after trying Trello, Asana, ClickUp, etc.](https://upbase.io/)
-- [Software dark matter is the enemy of software transparency](https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
