@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There are now 8B of us – but soon we&#39;ll hit a decline we&#39;ll never reverse](https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854)
-- [FTX hacker identity discovered by Kraken Exchange team](https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/)
-- [Bevy 0.9: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-9/)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff Data Engineer &lpar;Flink&rpar;](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [It amazes me how many people are blissfully unaware of the rampant tether fraud](https://news.ycombinator.com/item?id=33577003)
+- [FTX CEO Sam Bankman-Fried under supervision in Bahamas, looking to flee to Dubai](https://cointelegraph.com/news/sam-bankman-fried-is-under-supervision-in-bahamas-looking-to-flee-to-dubai)
+- [Living in Svalbard](https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf)
+- [Programming Games for Atari 2600](https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/)
+- [Achieving 100Gbps intrusion prevention on a single server](https://blog.acolyer.org/2020/11/16/pigasus/)
+- [Hard Reset Or, How Not to Drive Your Company Off a Cliff](https://sarahguo.com/blog/hardreset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
