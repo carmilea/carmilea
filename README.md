@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to hack the simulation?](https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation)
 - [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html)
-- [Euclidean Rhythms](https://observablehq.com/@toja/euclidean-rhythms)
-- [Why Does Calloc Exist?](https://vorpus.org/blog/why-does-calloc-exist/)
-- [a16z Crypto](https://a16zcrypto.com)
-- [A collection of tips to help you improve your CSS skills](https://github.com/garu2/Skills-CSS)
+- [Euclidean rhythms](https://observablehq.com/@toja/euclidean-rhythms)
+- [Terms of Service; Didn&#39;t Read](https://tosdr.org/en/frontpage)
+- [Why does calloc exist? &lpar;2016&rpar;](https://vorpus.org/blog/why-does-calloc-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
