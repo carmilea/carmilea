@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bob CD](https://bob-cd.github.io/)
-- [Stacker &lpar;YC S20&rpar; – Hiring Product Engineers and Senior Product Designer](https://www.stackerhq.com/careers#job-listing)
-- [Meta fires a software engineer two days after he relocated from India to Canada](https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11)
-- [“When we all have pocket telephones”](https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html)
-- [Get me off Your Fucking Mailing List &lpar;2014&rpar; [pdf]](https://www.scs.stanford.edu/~dm/home/papers/remove.pdf)
+- [FTX collapse, Tether operations have linked to online-poker cheating scandals](https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/)
+- [One of the UK’s Largest Pig Farms Closes Down Following Animal Welfare Breaches](https://www.nxtaltfoods.com/news/articles/plant-based/one-of-the-uks-largest-pig-farms-closes-down-following-animal-welfare-breaches/)
+- [Show HN: Open-Source Alternative to Retool](https://github.com/openblocks-dev/openblocks)
+- [Ask HN: Where to buy cheap but good quality glasses in Europe?](https://news.ycombinator.com/item?id=33592860)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
