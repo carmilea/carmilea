@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon reportedly plans to lay off about 10k employees starting this week](https://www.cnbc.com/2022/11/14/amazon-reportedly-plans-to-lay-off-about-10000-employees-starting-this-week.html)
-- [Amazon Is Said to Plan to Lay Off Thousands of Employees](https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html)
-- [Ask HN: Is there a cloud music library that doesn&#39;t keep deleting my music?](https://news.ycombinator.com/item?id=33595879)
-- [Ask HN: How can I report a financial fraud ring?](https://news.ycombinator.com/item?id=33595763)
-- [Kanaye Nagasawa: The samurai who forever changed California](https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california)
+- [Sled &lpar;YC S21&rpar; Is Hiring a Founding UX/UI Engineer to Help Teams on Snowflake](https://snowsoft.notion.site/Founding-Engineer-UI-UX-remote-36927d874eae4bb48e7b03df7c2632f4)
+- [The plague of emoji insertion in French docs](https://bibelo.info/en/the-plague-of-emoji-in-docs/)
+- [Picolibc: C library designed for embedded 32- and 64- bit systems](https://github.com/picolibc/picolibc)
+- [Tell HN: Employers are not desperate to hire developers](https://news.ycombinator.com/item?id=33596779)
+- [Optimizations Can Have Unexpectedly Large Effects When Combined with Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
