@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new website backed by Al Gore tracks big polluters by name](https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change)
+- [Deno 1.28: Featuring 1.3M New Modules](https://deno.com/blog/v1.28)
 - [Crypto Exchange AAX Suspends Withdrawals](https://trends.aax.com/important-update-forward-through-adversity)
 - [Ask HN: Do you recall any book or course that made a topic finally click?](https://news.ycombinator.com/item?id=33593631)
 - [Launch HN: Unthread &lpar;YC S22&rpar; – Customer Support, Within Slack](https://news.ycombinator.com/item?id=33593456)
-- [What You &lpar;Want to&rpar;* Want](http://paulgraham.com/want.html)
-- [The collapse of FTX and Sam Bankman-Fraud is looking quite spicy for journalism](https://twitter.com/hautepop/status/1591477455210283010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
