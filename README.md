@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: DivestOS, long term support for end-of-life Android devices](https://divestos.org)
 - [Man ends 20-year Llandegley airport sign joke that cost £25k](https://www.bbc.com/news/uk-wales-63600184)
-- [Show HN: Science fiction inspired by an HN thread &lpar;5 min read&rpar;](https://davidlaprade.github.io/your-dietbet-destroyed-the-world)
 - [FTX’s balance sheet was bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad)
 - [Which one of these will be the biggest “unicorn” failure ever?](https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/)
 - [Movie Maker mode in Godot 4.0](https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4)
