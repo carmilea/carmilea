@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTX collapse, Tether operations have linked to online-poker cheating scandals](https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/)
-- [One of the UK’s Largest Pig Farms Closes Down Following Animal Welfare Breaches](https://www.nxtaltfoods.com/news/articles/plant-based/one-of-the-uks-largest-pig-farms-closes-down-following-animal-welfare-breaches/)
-- [Show HN: Open-Source Alternative to Retool](https://github.com/openblocks-dev/openblocks)
-- [Ask HN: Where to buy cheap but good quality glasses in Europe?](https://news.ycombinator.com/item?id=33592860)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Crypto Exchange AAX Suspends Withdrawals](https://trends.aax.com/important-update-forward-through-adversity)
+- [Ask HN: Do you recall any book or course that made a topic finally click?](https://news.ycombinator.com/item?id=33593631)
+- [Launch HN: Unthread &lpar;YC S22&rpar; – Customer Support, Within Slack](https://news.ycombinator.com/item?id=33593456)
+- [What You &lpar;Want to&rpar;* Want](http://paulgraham.com/want.html)
+- [The collapse of FTX and Sam Bankman-Fraud is looking quite spicy for journalism](https://twitter.com/hautepop/status/1591477455210283010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
