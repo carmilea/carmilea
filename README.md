@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“There will never be more children alive on the Earth than there is today.”](https://www.rnz.co.nz/news/world/478735/world-s-population-8-billion-and-counting)
+- [Bob CD](https://bob-cd.github.io/)
 - [Stacker &lpar;YC S20&rpar; – Hiring Product Engineers and Senior Product Designer](https://www.stackerhq.com/careers#job-listing)
 - [Meta fires a software engineer two days after he relocated from India to Canada](https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11)
 - [“When we all have pocket telephones”](https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html)
