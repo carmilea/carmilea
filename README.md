@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: DivestOS, long term support for end-of-life Android devices](https://divestos.org)
+- [Ivy &lpar;YC W23&rpar; Is Hiring ML Engineers to Help Unify AI](https://www.ycombinator.com/companies/ivy/jobs)
+- [Lisp-Stick on a Python](https://docs.hylang.org/en/stable/tutorial.html)
+- [Speed traps have no long-term effect on speeding: study](https://www.strongtowns.org/journal/2022/11/14/mdf2022-speed-traps-have-no-long-term-effect-on-speeding)
+- [Show HN: DivestOS – Long-term support for end-of-life Android devices](https://divestos.org)
 - [Man ends 20-year Llandegley airport sign joke that cost £25k](https://www.bbc.com/news/uk-wales-63600184)
-- [FTX’s balance sheet was bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad)
-- [Which one of these will be the biggest “unicorn” failure ever?](https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/)
-- [Movie Maker mode in Godot 4.0](https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
