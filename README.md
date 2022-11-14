@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Education as Civilization-Building](https://fchollet.substack.com/p/education-as-civilization-building)
 - [Mass of Transactions Leaving Crypto.com Wallets](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
 - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
 - [Spy agency uses &#39;computer network exploitation&#39; to take digital information](https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information)
 - [Designing Audio Power Amplifiers](http://www.cordellaudio.com/book/)
-- [Optimizing Restaurant Kitchen Workflow &lpar;2019&rpar;](https://fesmag.com/topics/trends/16960-go-with-the-flow-secrets-to-optimizing-kitchen-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
