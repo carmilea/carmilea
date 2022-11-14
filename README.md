@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New security requirements for open source in the EU](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
+- [There was a stretch where phone design went bananas](https://twitter.com/gerrymcbride/status/1591907714208518145)
+- [Crypto Exchange AAX Halts Withdrawals, Says FTX Put Immense Pressure on Industry](https://www.bloomberg.com/news/articles/2022-11-14/crypto-exchange-aax-halts-withdrawals-says-normal-operations-7-10-days-away)
+- [FTX Fiasco Sparks Billions of Dollars of Outflows from Exchanges](https://www.bloomberg.com/news/articles/2022-11-14/ftx-fiasco-sparks-billions-of-dollars-of-outflows-from-exchanges)
 - [A new website backed by Al Gore tracks big polluters by name](https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change)
-- [Deno 1.28: Featuring 1.3M New Modules](https://deno.com/blog/v1.28)
-- [Crypto Exchange AAX Suspends Withdrawals](https://trends.aax.com/important-update-forward-through-adversity)
-- [Ask HN: Do you recall any book or course that made a topic finally click?](https://news.ycombinator.com/item?id=33593631)
-- [Launch HN: Unthread &lpar;YC S22&rpar; – Customer Support, Within Slack](https://news.ycombinator.com/item?id=33593456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
