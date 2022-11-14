@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Education as Civilization-Building](https://fchollet.substack.com/p/education-as-civilization-building)
+- [Get me off Your Fucking Mailing List &lpar;2014&rpar; [pdf]](https://www.scs.stanford.edu/~dm/home/papers/remove.pdf)
+- [Education as civilization-building](https://fchollet.substack.com/p/education-as-civilization-building)
+- [Next-Generation Nonsurgical Neurotechnology](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology)
 - [Mass of Transactions Leaving Crypto.com Wallets](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
 - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
-- [Spy agency uses &#39;computer network exploitation&#39; to take digital information](https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information)
-- [Designing Audio Power Amplifiers](http://www.cordellaudio.com/book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
