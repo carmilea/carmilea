@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
+- [Money Creation in the Modern Economy – Its a Wonderful Lie](https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/)
+- [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
+- [The Motorola PowerStack](https://www.wolfeden.org/unix-museum/motorola/powerstack.html)
 - [Scrutiny – A WebUI for smartd S.M.A.R.T monitoring &lpar;written in Go&rpar;](https://github.com/AnalogJ/scrutiny)
-- [Michael Lewis&#39; next book is about Sam Bankman-Fried](https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
-- [Box breathing techniques and benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
-- [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
