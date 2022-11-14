@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Community Corrosive Effects of CLAs](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
+- [In Memory of Betty Burke &lpar;Founding Exec Director of Nanog&rpar;](https://www.nanog.org/stories/in-memory-of-betty-burke/)
+- [You could own a 555-XXXX phone number but Verizon charged you $2,500 to use it](https://lookify.io/blog/555-phone-number)
 - [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
-- [Money Creation in the Modern Economy – Its a Wonderful Lie](https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/)
 - [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
-- [The Motorola PowerStack](https://www.wolfeden.org/unix-museum/motorola/powerstack.html)
-- [Scrutiny – A WebUI for smartd S.M.A.R.T monitoring &lpar;written in Go&rpar;](https://github.com/AnalogJ/scrutiny)
 <!-- BLOG-POST-LIST:END -->
 
 ---
