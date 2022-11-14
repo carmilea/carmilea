@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTX’s Balance Sheet Was Bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad)
+- [Movie Maker mode arrives in Godot 4.0](https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4)
+- [Typing “old” &lpar;space&rpar; into iOS Safari crashes the app](https://twitter.com/matthew_d_green/status/1592209243331268608)
+- [Draft RFC: Cryptographic Hyperlinks](https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07)
 - [Sled &lpar;YC S21&rpar; Is Hiring a Founding UX/UI Engineer to Help Teams on Snowflake](https://snowsoft.notion.site/Founding-Engineer-UI-UX-remote-36927d874eae4bb48e7b03df7c2632f4)
-- [The plague of emoji insertion in French docs](https://bibelo.info/en/the-plague-of-emoji-in-docs/)
-- [Picolibc: C library designed for embedded 32- and 64- bit systems](https://github.com/picolibc/picolibc)
-- [Tell HN: Employers are not desperate to hire developers](https://news.ycombinator.com/item?id=33596779)
-- [Optimizations Can Have Unexpectedly Large Effects When Combined with Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
