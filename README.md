@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Community Corrosive Effects of CLAs](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
-- [In Memory of Betty Burke &lpar;Founding Exec Director of Nanog&rpar;](https://www.nanog.org/stories/in-memory-of-betty-burke/)
+- [In Memory of Betty Burke &lpar;Founding Exec Director of NANOG&rpar;](https://www.nanog.org/stories/in-memory-of-betty-burke/)
 - [You could own a 555-XXXX phone number but Verizon charged you $2,500 to use it](https://lookify.io/blog/555-phone-number)
 - [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
 - [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
