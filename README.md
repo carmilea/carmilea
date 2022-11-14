@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do I start feeling secure financially as a tech worker?](https://news.ycombinator.com/item?id=33591224)
 - [Get me off Your Fucking Mailing List &lpar;2014&rpar; [pdf]](https://www.scs.stanford.edu/~dm/home/papers/remove.pdf)
-- [Education as civilization-building](https://fchollet.substack.com/p/education-as-civilization-building)
 - [Next-Generation Nonsurgical Neurotechnology](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology)
-- [Mass of Transactions Leaving Crypto.com Wallets](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
+- [Mass of transactions leaving crypto.com wallets](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
 - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
 <!-- BLOG-POST-LIST:END -->
 
