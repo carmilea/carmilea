@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Community Corrosive Effects of CLAs](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
-- [In Memory of Betty Burke &lpar;Founding Exec Director of NANOG&rpar;](https://www.nanog.org/stories/in-memory-of-betty-burke/)
-- [You could own a 555-XXXX phone number but Verizon charged you $2,500 to use it](https://lookify.io/blog/555-phone-number)
-- [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
-- [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
+- [Mass of Transactions Leaving Crypto.com Wallets](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
+- [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
+- [Spy agency uses &#39;computer network exploitation&#39; to take digital information](https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information)
+- [Designing Audio Power Amplifiers](http://www.cordellaudio.com/book/)
+- [Optimizing Restaurant Kitchen Workflow &lpar;2019&rpar;](https://fesmag.com/topics/trends/16960-go-with-the-flow-secrets-to-optimizing-kitchen-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
