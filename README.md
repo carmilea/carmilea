@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New security requirements for open source in the EU](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
-- [There was a stretch where phone design went bananas](https://twitter.com/gerrymcbride/status/1591907714208518145)
-- [Crypto Exchange AAX Halts Withdrawals, Says FTX Put Immense Pressure on Industry](https://www.bloomberg.com/news/articles/2022-11-14/crypto-exchange-aax-halts-withdrawals-says-normal-operations-7-10-days-away)
-- [FTX Fiasco Sparks Billions of Dollars of Outflows from Exchanges](https://www.bloomberg.com/news/articles/2022-11-14/ftx-fiasco-sparks-billions-of-dollars-of-outflows-from-exchanges)
-- [A new website backed by Al Gore tracks big polluters by name](https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change)
+- [Amazon reportedly plans to lay off about 10k employees starting this week](https://www.cnbc.com/2022/11/14/amazon-reportedly-plans-to-lay-off-about-10000-employees-starting-this-week.html)
+- [Amazon Is Said to Plan to Lay Off Thousands of Employees](https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html)
+- [Ask HN: Is there a cloud music library that doesn&#39;t keep deleting my music?](https://news.ycombinator.com/item?id=33595879)
+- [Ask HN: How can I report a financial fraud ring?](https://news.ycombinator.com/item?id=33595763)
+- [Kanaye Nagasawa: The samurai who forever changed California](https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
