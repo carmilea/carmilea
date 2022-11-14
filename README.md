@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chess, but neither player moves first](https://chess2.fun)
 - [Logistics of biking 9833 miles in 409 days](https://www.peterispedaling.com/blog/wrap-up-trip-logistics)
 - [Topology, a Categorical Approach](https://topology.mitpress.mit.edu/)
 - [Show HN: Use Slack Emoji on GitHub](https://single-emoji.vercel.app)
 - [IBM LinuxONE Emperor 4 servers can reduce energy consumption by 75%](https://www.ibm.com/uk-en/products/linuxone-emperor-4)
-- [Ivy &lpar;YC W23&rpar; Is Hiring ML Engineers to Help Unify AI](https://www.ycombinator.com/companies/ivy/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
