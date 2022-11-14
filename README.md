@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Logistics of biking 9833 miles in 409 days](https://www.peterispedaling.com/blog/wrap-up-trip-logistics)
+- [Topology, a Categorical Approach](https://topology.mitpress.mit.edu/)
+- [Show HN: Use Slack Emoji on GitHub](https://single-emoji.vercel.app)
+- [IBM LinuxONE Emperor 4 servers can reduce energy consumption by 75%](https://www.ibm.com/uk-en/products/linuxone-emperor-4)
 - [Ivy &lpar;YC W23&rpar; Is Hiring ML Engineers to Help Unify AI](https://www.ycombinator.com/companies/ivy/jobs)
-- [Lisp-Stick on a Python](https://docs.hylang.org/en/stable/tutorial.html)
-- [Speed traps have no long-term effect on speeding: study](https://www.strongtowns.org/journal/2022/11/14/mdf2022-speed-traps-have-no-long-term-effect-on-speeding)
-- [Show HN: DivestOS – Long-term support for end-of-life Android devices](https://divestos.org)
-- [Man ends 20-year Llandegley airport sign joke that cost £25k](https://www.bbc.com/news/uk-wales-63600184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
