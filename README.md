@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Przewodów village in Poland hit by two Russian missiles, two dead](https://wiadomosci.radiozet.pl/Polska/rakiety-spadly-na-polske-sa-ofiary-smiertelne)
 - [Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
+- [Sapling SCM: new source control system with Git compatible client](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/)
 - [FTX Owes Money to More Than a Million People, Court Filing Suggests](https://www.vice.com/en/article/jgpnvg/ftx-owes-money-to-more-than-a-million-people-court-filing-suggests)
-- [Tinycpm – CP/M ON A TINY 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
-- [Universe &lpar;YC W18&rpar; Is Hiring a Site Reliability Engineer](https://jobs.lever.co/onuniverse/9a6e8128-47a5-4b10-9f2a-ac033dac9615)
 <!-- BLOG-POST-LIST:END -->
 
 ---
