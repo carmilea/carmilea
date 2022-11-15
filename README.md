@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SBF is posting 1 letter tweets to evade delete detection bots](https://twitter.com/ercwl/status/1592334689335144448)
-- [Stable Diffusion 1.4 fine-tuning on real photos for making realistic avatars](https://portret.ai/)
+- [What is the Difference between px, rem and em?](https://carlmultimedia.com/px-vs-rem-vs-em/)
+- [SBF posting 1 letter tweets to evade delete detection bots?](https://twitter.com/ercwl/status/1592334689335144448)
 - [Show HN: A Simple Online Step Sequencer](https://muted.io/sequencer/)
 - [The Positive Effect of Walking on Creative Thinking [pdf]](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf)
-- [.io Domains Considered Harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
+- [FTX Implodes, and a Top VC Backer Falls on Its Face](https://www.bloomberg.com/news/newsletters/2022-11-14/sequoia-ftx-profile-of-sam-bankman-fried-sbf-was-a-face-plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
