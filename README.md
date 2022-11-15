@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant satellite outshines stars, sparking fresh concerns for astronomers](https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers)
+- [Newton&#39;s Philosophy](https://plato.stanford.edu/entries/newton-philosophy/)
+- [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
+- [On Bullshit &lpar;1986&rpar; [pdf]](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)
 - [What is the Difference between px, rem and em?](https://carlmultimedia.com/px-vs-rem-vs-em/)
-- [SBF posting 1 letter tweets to evade delete detection bots?](https://twitter.com/ercwl/status/1592334689335144448)
-- [Show HN: A Simple Online Step Sequencer](https://muted.io/sequencer/)
-- [The Positive Effect of Walking on Creative Thinking [pdf]](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf)
-- [FTX Implodes, and a Top VC Backer Falls on Its Face](https://www.bloomberg.com/news/newsletters/2022-11-14/sequoia-ftx-profile-of-sam-bankman-fried-sbf-was-a-face-plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
