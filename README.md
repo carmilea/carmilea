@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
+- [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/)
+- [FTX Owes Money to More Than a Million People, Court Filing Suggests](https://www.vice.com/en/article/jgpnvg/ftx-owes-money-to-more-than-a-million-people-court-filing-suggests)
+- [Tinycpm – CP/M ON A TINY 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
 - [Universe &lpar;YC W18&rpar; Is Hiring a Site Reliability Engineer](https://jobs.lever.co/onuniverse/9a6e8128-47a5-4b10-9f2a-ac033dac9615)
-- [Revolutionary technique to generate hydrogen more efficiently from water](https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html)
-- [Apple’s Satellite Emergency SOS Tested: Deep-Dive Explainer](https://www.dcrainmaker.com/2022/11/apple-iphone-satellite-sos-emergency-explainer.html)
-- [Lucid announces new lower priced sedans](https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-touring-and-air-pure-now-ready-road-market-leading/)
-- [Disney+ demands users’ age and gender so it can “deliver targeted advertising”](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
