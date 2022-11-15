@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gut Microbiome Helps Social Skills Develop in the Brain](https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/)
-- [Studies find automatic braking can cut crashes over 40%](https://apnews.com/article/technology-business-3a3816bd26418cc612d5b9b56d86f3a8)
-- [Show HN: Measure CO2 emissions of your APIs](https://docs.stepci.com/guides/co2-testing.html)
-- [Wikipedians are rebelling against “unethical” Wikipedia fundraising banners](https://twitter.com/wikiland/status/1592477366739415040)
-- [Show HN: Campus FM, live stream college and independent radio stations for free](https://www.campus-fm.com/)
+- [PlanetScale Boost](https://planetscale.com/blog/introducing-planetscale-boost)
+- [Launch HN: Activeloop &lpar;YC S18&rpar; – Data lake for deep learning](https://news.ycombinator.com/item?id=33610834)
+- [Berkshire Hathaway bought a $4.1B stake in Apple chipmaker TSMC](https://9to5mac.com/2022/11/15/berkshire-hathaway-bought/)
+- [Vast Majority of People Who Invest in Bitcoin Inevitably Lose Money, Study Shows](https://gizmodo.com/bitcoin-crypto-bank-of-international-settlements-1849784466)
+- [Ask HN: Hourly billers, do you bill for only focused work?](https://news.ycombinator.com/item?id=33610147)
 <!-- BLOG-POST-LIST:END -->
 
 ---
