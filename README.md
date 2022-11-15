@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Ethernet Cyberattack Crunches Critical Systems](https://spectrum.ieee.org/cyberattacks)
 - [Why the Bucks Can’t Wear Cream Uniforms Anymore](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
+- [NYPD Arrests Cyclist for Uncovering Obscured License Plate, Lets Driver Go](https://jalopnik.com/nypd-arrests-cyclist-lets-driver-go-ghost-car-1849785539)
 - [BugMeNot Is Gone](https://bugmenot.com)
 - [Lemmy: A Federated Reddit Alternative](https://lemmy.ml/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [TerminusDB Internals: Mutation in a Graph Database](https://terminusdb.com/blog/terminusdb-internals-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
