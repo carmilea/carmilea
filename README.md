@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berkeley Mono v1.008 Released](https://berkeleygraphics.com/public-affairs/bulletins/BT-001/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [TerminusDB Internals: Mutation in a Graph Database](https://terminusdb.com/blog/terminusdb-internals-2/)
 - [4 Ways to Interact with SingleStore at AWS re: Invent 2022](https://www.singlestore.com/blog/4-ways-to-interact-with-singlestore-at-aws-re-invent-2022)
 - [Good Old Fashioned AI is dead, long live New-Fangled AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
-- [Activision Blizzard Is Trying to Stop a Union Vote at Its Albany Office](https://www.vice.com/en/article/pkgv48/activision-blizzard-is-trying-to-stop-a-union-vote-at-its-albany-office)
-- [Show HN: The German Job Market Is Crashing](https://jobmarketanalytics.com/#months=%2212%22&technology=%5B%22Java%22%2C%22Python%22%2C%22SQL%22%5D)
+- [What to do if a nuclear disaster is imminent [pdf]](http://www.ki4u.com/guide.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
