@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PlanetScale Boost](https://planetscale.com/blog/introducing-planetscale-boost)
-- [Launch HN: Activeloop &lpar;YC S18&rpar; – Data lake for deep learning](https://news.ycombinator.com/item?id=33610834)
-- [Berkshire Hathaway bought a $4.1B stake in Apple chipmaker TSMC](https://9to5mac.com/2022/11/15/berkshire-hathaway-bought/)
-- [Vast Majority of People Who Invest in Bitcoin Inevitably Lose Money, Study Shows](https://gizmodo.com/bitcoin-crypto-bank-of-international-settlements-1849784466)
-- [Ask HN: Hourly billers, do you bill for only focused work?](https://news.ycombinator.com/item?id=33610147)
+- [Universe &lpar;YC W18&rpar; Is Hiring a Site Reliability Engineer](https://jobs.lever.co/onuniverse/9a6e8128-47a5-4b10-9f2a-ac033dac9615)
+- [Revolutionary technique to generate hydrogen more efficiently from water](https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html)
+- [Apple’s Satellite Emergency SOS Tested: Deep-Dive Explainer](https://www.dcrainmaker.com/2022/11/apple-iphone-satellite-sos-emergency-explainer.html)
+- [Lucid announces new lower priced sedans](https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-touring-and-air-pure-now-ready-road-market-leading/)
+- [Disney+ demands users’ age and gender so it can “deliver targeted advertising”](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
