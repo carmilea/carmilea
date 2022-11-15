@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The sinister attempts to ‘decolonise’ mathematics](https://www.spectator.co.uk/article/the-sinister-attempts-to-decolonise-mathematics/)
+- [The history of the domestic cat in Central Europe](https://www.cambridge.org/core/journals/antiquity/article/history-of-the-domestic-cat-in-central-europe/310159D75603E48DE19A357A65894AA0)
 - [What Happened at Alameda Research](https://milkyeggs.com/?p=175)
 - [My project is now an easter egg in Microsoft Flight Simulator](https://github.com/s-macke/FSHistory)
-- [There exists a book dedicated to explaining how to use a single React function](https://twitter.com/tomaka17/status/1377302768713629704)
-- [Giant satellite outshines stars, sparking fresh concerns for astronomers](https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers)
-- [Newton&#39;s Philosophy](https://plato.stanford.edu/entries/newton-philosophy/)
+- [Crsql – Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
