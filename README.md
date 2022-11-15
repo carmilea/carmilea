@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People living on Earth – All on this page, one by one](https://www.worldometers.info/watch/world-population/)
 - [Giant satellite outshines stars, sparking fresh concerns for astronomers](https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers)
 - [Newton&#39;s Philosophy](https://plato.stanford.edu/entries/newton-philosophy/)
 - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 - [On Bullshit &lpar;1986&rpar; [pdf]](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)
-- [What is the Difference between px, rem and em?](https://carlmultimedia.com/px-vs-rem-vs-em/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
