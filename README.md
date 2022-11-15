@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Four Years of Sourcehut](https://sourcehut.org/blog/2022-11-15-four-years/)
 - [The sinister attempts to ‘decolonise’ mathematics](https://www.spectator.co.uk/article/the-sinister-attempts-to-decolonise-mathematics/)
 - [The history of the domestic cat in Central Europe](https://www.cambridge.org/core/journals/antiquity/article/history-of-the-domestic-cat-in-central-europe/310159D75603E48DE19A357A65894AA0)
 - [What Happened at Alameda Research](https://milkyeggs.com/?p=175)
 - [My project is now an easter egg in Microsoft Flight Simulator](https://github.com/s-macke/FSHistory)
-- [Crsql – Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
