@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is the future of Swift on the server-side?](https://news.ycombinator.com/item?id=33608804)
-- [Show HN: Rethinking Tabs in Firefox](https://madprops.github.io/grasshopper/)
-- [Apple: Emergency SOS via satellite available today &lpar;US and Canada&rpar;](https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-available-today-on-iphone-14-lineup/)
-- [Ask HN: What Is a COO?](https://news.ycombinator.com/item?id=33608546)
-- [Show HN: I record myself on audio 24x7 and use an AI to process the information](https://roberdam.com/en/wisper.html)
+- [Wikipedians are rebelling against “unethical” Wikipedia fundraising banners](https://twitter.com/wikiland/status/1592477366739415040)
+- [For many disabled patients, the doctor is often not in](https://undark.org/2022/11/07/for-many-disabled-patients-the-doctor-is-often-not-in/)
+- [Show HN: Campus FM, live stream college and independent radio stations for free](https://www.campus-fm.com/)
+- [Why do we call it “boilerplate code?”](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
+- [Rimac Nevera Hits 412kph to Become World’s Fastest Production Electric Car](https://www.rimac-automobili.com/media/press-releases/record-breaking-rimac-nevera-hits-412kph-to-become-worlds-fastest-production-electric-car/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
