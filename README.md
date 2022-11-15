@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My project is now an Easter Egg in Microsoft Flight Simulator](https://github.com/s-macke/FSHistory)
+- [What Happened at Alameda Research](https://milkyeggs.com/?p=175)
+- [My project is now an easter egg in Microsoft Flight Simulator](https://github.com/s-macke/FSHistory)
 - [There exists a book dedicated to explaining how to use a single React function](https://twitter.com/tomaka17/status/1377302768713629704)
 - [Giant satellite outshines stars, sparking fresh concerns for astronomers](https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers)
 - [Newton&#39;s Philosophy](https://plato.stanford.edu/entries/newton-philosophy/)
-- [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
