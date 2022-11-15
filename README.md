@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Przewodów village in Poland hit by two Russian missiles, two dead](https://wiadomosci.radiozet.pl/Polska/rakiety-spadly-na-polske-sa-ofiary-smiertelne)
-- [Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
-- [Sapling SCM: new source control system with Git compatible client](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
-- [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/)
-- [FTX Owes Money to More Than a Million People, Court Filing Suggests](https://www.vice.com/en/article/jgpnvg/ftx-owes-money-to-more-than-a-million-people-court-filing-suggests)
+- [Berkeley Mono v1.008 Released](https://berkeleygraphics.com/public-affairs/bulletins/BT-001/)
+- [4 Ways to Interact with SingleStore at AWS re: Invent 2022](https://www.singlestore.com/blog/4-ways-to-interact-with-singlestore-at-aws-re-invent-2022)
+- [Good Old Fashioned AI is dead, long live New-Fangled AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
+- [Activision Blizzard Is Trying to Stop a Union Vote at Its Albany Office](https://www.vice.com/en/article/pkgv48/activision-blizzard-is-trying-to-stop-a-union-vote-at-its-albany-office)
+- [Show HN: The German Job Market Is Crashing](https://jobmarketanalytics.com/#months=%2212%22&technology=%5B%22Java%22%2C%22Python%22%2C%22SQL%22%5D)
 <!-- BLOG-POST-LIST:END -->
 
 ---
