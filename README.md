@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Positive Effect of Walking on Creative Thinking [pdf]](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf)
+- [.io Domains Considered Harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
+- [&#39;Be&#39; is nice, end of story](https://www.abortretry.fail/p/be-is-nice-end-of-story)
 - [Flexport Is Hiring Software Engineers to Digitize Global Trade](https://flexport.com/careers)
 - [Fencer Matthias Behr takes in relatives of the opponent he stabbed &lpar;2022&rpar;](https://www.archysport.com/2022/05/fencer-matthias-behr-takes-in-relatives-of-the-opponent-he-stabbed/)
-- [Сhecking for leaked data without storing any](https://medispank.com/blog.html)
-- [How the War Was Won](https://cepr.org/voxeu/columns/how-war-was-won)
-- [Chess, but moves are simultaneous](https://chess2.fun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
