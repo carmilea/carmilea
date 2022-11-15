@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do you read news daily?](https://news.ycombinator.com/item?id=33608158)
-- [Fly.io &lpar;YC W20&rpar; Is Hiring Ops Engineers](https://fly.io/jobs/infrastructure-ops-engineering/)
-- [Ask HN: How ready for daily driving is Asahi Linux?](https://news.ycombinator.com/item?id=33607994)
-- [Four Years of Sourcehut](https://sourcehut.org/blog/2022-11-15-four-years/)
-- [The history of the domestic cat in Central Europe](https://www.cambridge.org/core/journals/antiquity/article/history-of-the-domestic-cat-in-central-europe/310159D75603E48DE19A357A65894AA0)
+- [Ask HN: What is the future of Swift on the server-side?](https://news.ycombinator.com/item?id=33608804)
+- [Show HN: Rethinking Tabs in Firefox](https://madprops.github.io/grasshopper/)
+- [Apple: Emergency SOS via satellite available today &lpar;US and Canada&rpar;](https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-available-today-on-iphone-14-lineup/)
+- [Ask HN: What Is a COO?](https://news.ycombinator.com/item?id=33608546)
+- [Show HN: I record myself on audio 24x7 and use an AI to process the information](https://roberdam.com/en/wisper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
