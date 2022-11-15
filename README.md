@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Bucks Can’t Wear Cream Uniforms Anymore](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
+- [BugMeNot Is Gone](https://bugmenot.com)
+- [Lemmy: A Federated Reddit Alternative](https://lemmy.ml/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [TerminusDB Internals: Mutation in a Graph Database](https://terminusdb.com/blog/terminusdb-internals-2/)
-- [4 Ways to Interact with SingleStore at AWS re: Invent 2022](https://www.singlestore.com/blog/4-ways-to-interact-with-singlestore-at-aws-re-invent-2022)
-- [Good Old Fashioned AI is dead, long live New-Fangled AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
-- [What to do if a nuclear disaster is imminent [pdf]](http://www.ki4u.com/guide.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
