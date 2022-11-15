@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Gut Microbiome Helps Social Skills Develop in the Brain](https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/)
+- [Studies find automatic braking can cut crashes over 40%](https://apnews.com/article/technology-business-3a3816bd26418cc612d5b9b56d86f3a8)
+- [Show HN: Measure CO2 emissions of your APIs](https://docs.stepci.com/guides/co2-testing.html)
 - [Wikipedians are rebelling against “unethical” Wikipedia fundraising banners](https://twitter.com/wikiland/status/1592477366739415040)
-- [For many disabled patients, the doctor is often not in](https://undark.org/2022/11/07/for-many-disabled-patients-the-doctor-is-often-not-in/)
 - [Show HN: Campus FM, live stream college and independent radio stations for free](https://www.campus-fm.com/)
-- [Why do we call it “boilerplate code?”](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
-- [Rimac Nevera Hits 412kph to Become World’s Fastest Production Electric Car](https://www.rimac-automobili.com/media/press-releases/record-breaking-rimac-nevera-hits-412kph-to-become-worlds-fastest-production-electric-car/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
