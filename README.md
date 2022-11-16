@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans to Provide Biometrics and Pay Fee Traveling to the U.K. From 2023](https://www.traveloffpath.com/americans-will-have-to-provide-biometrics-and-pay-fee-traveling-to-the-u-k-from-2023/)
-- [My Laptop Is Faster Than Your Cloud: Announcing MotherDuck](https://tomtunguz.com/motherduck-seed-a/)
+- [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
 - [Digital books wear out faster than physical books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 - [The Bucks can’t wear cream uniforms because they interfere with digital ads](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
+- [The Terayacht Project](https://www.pangeosyacht.com/projects)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
