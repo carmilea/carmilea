@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
+- [All the Science Hitching a Ride on Artemis-1](https://spectrum.ieee.org/nasa-artemis-science)
+- [Amazon confirms corporate staff cuts that could hit 10k employees](https://www.wsj.com/articles/amazon-to-cut-10-000-employees-from-corporate-ranks-11668617313)
 - [Mom handcuffed, jailed for 8-year-old son walking half a mile](https://reason.com/2022/11/16/suburban-mom-jailed-handcuffed-cps-son-walk-home/)
-- [Economist Calls Binance CEO a “Walking Time Bomb”](https://www.cnbc.com/2022/11/16/crypto-an-ecosystem-that-is-totally-corrupt-says-nouriel-roubini-.html)
 - [Firezone &lpar;YC W22&rpar; is hiring engineers to build open-source secure access](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
-- [Ask HN: How I get a job that uses C?](https://news.ycombinator.com/item?id=33626049)
-- [Why Evernote failed to realize its potential](https://nira.com/evernote-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
