@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mom handcuffed, jailed for 8-year-old son walking half a mile](https://reason.com/2022/11/16/suburban-mom-jailed-handcuffed-cps-son-walk-home/)
+- [Economist Calls Binance CEO a “Walking Time Bomb”](https://www.cnbc.com/2022/11/16/crypto-an-ecosystem-that-is-totally-corrupt-says-nouriel-roubini-.html)
 - [Firezone &lpar;YC W22&rpar; is hiring engineers to build open-source secure access](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
-- [What makes Git so hard to use?](https://www.highflux.io/blog/what-makes-git-hard-to-use)
 - [Ask HN: How I get a job that uses C?](https://news.ycombinator.com/item?id=33626049)
-- [Why Evernote Failed to Realize Its Potential](https://nira.com/evernote-history/)
-- [RISC-V: The Last ISA?](https://thechipletter.substack.com/p/risc-v-the-last-isa)
+- [Why Evernote failed to realize its potential](https://nira.com/evernote-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
