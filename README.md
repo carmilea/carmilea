@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA – Artemis I Liftoff](https://blogs.nasa.gov/artemis/2022/11/16/artemis-i-liftoff/)
+- [Ask HN: Alternative ways to make money with coding and system skills?](https://news.ycombinator.com/item?id=33619650)
 - [Deliveroo is leaving Australia](https://www.abc.net.au/news/2022-11-16/deliveroo-enters-voluntary-administration/101661932)
 - [Topology Without Tears](https://www.topologywithouttears.net/)
 - [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
-- [Pakistan&#39;s lost city of 40k people](https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
