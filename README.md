@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Pomodoro Timer with Friends](https://pomochat.com)
-- [Infosys leaked FullAdminAccess AWS keys on PyPI for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
-- [SQLite Release 3.40.0](https://www.sqlite.org/releaselog/3_40_0.html)
-- [A small fleet of CubeStats joins three mannequins, fungus, algae on Artemis-1](https://spectrum.ieee.org/nasa-artemis-science)
-- [Laying myself off from Amazon](https://daniel.do/article/laying-myself-off-from-amazon/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33630503)
+- [CPSC calls for full recall of all Onewheel self-balancing electric skateboards](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported)
+- [Sam Bankman-Fried tries to explain himself](https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy)
+- [Liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)
+- [Tell HN: Facebook Messenger is testing in-call video ads](https://news.ycombinator.com/item?id=33629900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
