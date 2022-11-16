@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies ran an experiment: Pay workers their full salary to work fewer days](https://www.npr.org/sections/money/2022/11/15/1136039542/these-companies-ran-an-experiment-pay-workers-their-full-salary-to-work-fewer-da)
-- [Ask HN: Why are today&#39;s consumers not discerning what is ad and what is not?](https://news.ycombinator.com/item?id=33622966)
-- [Hand of Irulegi: ancient artefact could help trace origins of Basque language](https://www.theguardian.com/world/2022/nov/15/hand-of-irulegi-ancient-spanish-artefact-rewrites-history-of-basque-language)
-- [Is a Meat Recession Coming?](https://www.foxbusiness.com/lifestyle/meat-recession-coming)
-- [EVs are the least reliable vehicle type: Consumer Reports](https://finance.yahoo.com/video/evs-least-reliable-vehicle-type-214225842.html)
+- [Mortgage Rates Could Tank Home Prices by 20%, Fed Study Finds](https://www.bloomberg.com/news/articles/2022-11-15/mortgage-rates-could-tank-house-prices-by-20-fed-study-shows)
+- [Psychological and Psychiatric Terms to Avoid](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full)
+- [Peacetime CEO / Wartime CEO](https://future.com/peacetime-ceo-wartime-ceo/)
+- [Show HN: I built a tool to get instant test results &lpar;250ms&rpar;](https://github.com/nabaz-io/nabaz)
+- [Learning Latent Part-Whole Hierarchies for Point Clouds](https://arxiv.org/abs/2211.07082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
