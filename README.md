@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA – Artemis I Liftoff](https://blogs.nasa.gov/artemis/2022/11/16/artemis-i-liftoff/)
-- [NASA Ground Systems – All elements polled are GO to proceed with terminal count](https://twitter.com/nasagroundsys/status/1592768617661493249)
-- [We Are Leaving Australia](https://riders.deliveroo.com.au/en/news/20221116)
-- [Fastmail is down](https://www.fastmailstatus.com/)
-- [DoorDash now lets couriers drop and block rude customers without penalty](https://www.theverge.com/2022/11/15/23460247/doordash-delivery-worker-safety-rights-notifications-block)
+- [Deliveroo is leaving Australia](https://www.abc.net.au/news/2022-11-16/deliveroo-enters-voluntary-administration/101661932)
+- [Topology Without Tears](https://www.topologywithouttears.net/)
+- [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
+- [Pakistan&#39;s lost city of 40k people](https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
