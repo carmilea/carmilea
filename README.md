@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33630503)
+- [Nvidia Earning Results Q3 2023](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2023)
+- [Meticulous &lpar;YC S21&rpar; is hiring engineer #3 in London](https://news.ycombinator.com/item?id=33630503)
 - [CPSC calls for full recall of all Onewheel self-balancing electric skateboards](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported)
+- [Robot treats 500k plants per hour with 95% less chemicals [video]](https://www.youtube.com/watch?v=sV0cR_Nhac0)
 - [Sam Bankman-Fried tries to explain himself](https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy)
-- [Liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)
-- [Tell HN: Facebook Messenger is testing in-call video ads](https://news.ycombinator.com/item?id=33629900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
