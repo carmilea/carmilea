@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [But, aren&#39;t you folks web2?](https://nadh.in/blog/web2-web3/)
+- [GPS does not account for leap seconds &lpar;by design&rpar;](http://leapsecond.com/java/gpsclock.htm)
 - [Python 3.12.0 is to remove long-deprecated items](https://discuss.python.org/t/python-3-12-0-alpha-2-released/21087)
 - [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/)
 - [KDE beats macOS hands down](https://old.reddit.com/r/kde/comments/yvxz2l/kde_beats_macos_hands_down/)
-- [NASA – Artemis I Liftoff](https://blogs.nasa.gov/artemis/2022/11/16/artemis-i-liftoff/)
-- [Ask HN: Alternative ways to make money with coding and system skills?](https://news.ycombinator.com/item?id=33619650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
