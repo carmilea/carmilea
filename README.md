@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk Today](https://elonmusk.today/)
-- [Ask HN: Anyone go through Montessori education until age 12 &lpar;end of gr 6&rpar;?](https://news.ycombinator.com/item?id=33622295)
-- [Airbnb 2022 Winter Release](https://twitter.com/bchesky/status/1592855795074359296)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring senior engineers to support schools](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Overhyping hydrogen as a fuel risks endangering net-zero goals](https://www.nature.com/articles/d41586-022-03693-6)
+- [Companies ran an experiment: Pay workers their full salary to work fewer days](https://www.npr.org/sections/money/2022/11/15/1136039542/these-companies-ran-an-experiment-pay-workers-their-full-salary-to-work-fewer-da)
+- [Ask HN: Why are today&#39;s consumers not discerning what is ad and what is not?](https://news.ycombinator.com/item?id=33622966)
+- [Hand of Irulegi: ancient artefact could help trace origins of Basque language](https://www.theguardian.com/world/2022/nov/15/hand-of-irulegi-ancient-spanish-artefact-rewrites-history-of-basque-language)
+- [Is a Meat Recession Coming?](https://www.foxbusiness.com/lifestyle/meat-recession-coming)
+- [EVs are the least reliable vehicle type: Consumer Reports](https://finance.yahoo.com/video/evs-least-reliable-vehicle-type-214225842.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
