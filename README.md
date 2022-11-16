@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Are Leaving Australia](https://riders.deliveroo.com.au/en/news/20221116)
+- [Fastmail is down](https://www.fastmailstatus.com/)
 - [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
 - [Pakistan&#39;s lost city of 40k people](https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people)
 - [Digital books wear out faster than physical books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
-- [The Bucks can’t wear cream uniforms because they interfere with digital ads](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
-- [The Terayacht Project](https://www.pangeosyacht.com/projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
