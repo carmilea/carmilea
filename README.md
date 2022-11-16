@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk Today](https://elonmusk.today/)
+- [Ask HN: Anyone go through Montessori education until age 12 &lpar;end of gr 6&rpar;?](https://news.ycombinator.com/item?id=33622295)
 - [Airbnb 2022 Winter Release](https://twitter.com/bchesky/status/1592855795074359296)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring senior engineers to support schools](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Overhyping hydrogen as a fuel risks endangering net-zero goals](https://www.nature.com/articles/d41586-022-03693-6)
-- [Building a Private Lora Network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html)
-- [Tesla has used space characters in internal emails to identify leaks](https://twitter.com/pnikosis/status/1592823543498436611)
 <!-- BLOG-POST-LIST:END -->
 
 ---
