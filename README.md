@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mortgage Rates Could Tank Home Prices by 20%, Fed Study Finds](https://www.bloomberg.com/news/articles/2022-11-15/mortgage-rates-could-tank-house-prices-by-20-fed-study-shows)
+- [82% of Open-Source Projects Suffer from Tool Rot](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
+- [Sinclair ZX Spectrum &lpar;bundled&rpar; basic programming book [pdf]](http://zxnext.narod.ru/manuals/Basic_Programming.pdf)
 - [Psychological and Psychiatric Terms to Avoid](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full)
-- [Peacetime CEO / Wartime CEO](https://future.com/peacetime-ceo-wartime-ceo/)
-- [Show HN: I built a tool to get instant test results &lpar;250ms&rpar;](https://github.com/nabaz-io/nabaz)
-- [Learning Latent Part-Whole Hierarchies for Point Clouds](https://arxiv.org/abs/2211.07082)
+- [Who needs MLflow when you have SQLite?](https://ploomber.io/blog/experiment-tracking/)
+- [Peacetime CEO / Wartime CEO &lpar;2011&rpar;](https://future.com/peacetime-ceo-wartime-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
