@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [But, aren&#39;t you folks web2?](https://nadh.in/blog/web2-web3/)
-- [GPS does not account for leap seconds &lpar;by design&rpar;](http://leapsecond.com/java/gpsclock.htm)
-- [Python 3.12.0 is to remove long-deprecated items](https://discuss.python.org/t/python-3-12-0-alpha-2-released/21087)
-- [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/)
-- [KDE beats macOS hands down](https://old.reddit.com/r/kde/comments/yvxz2l/kde_beats_macos_hands_down/)
+- [Airbnb 2022 Winter Release](https://twitter.com/bchesky/status/1592855795074359296)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring senior engineers to support schools](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Overhyping hydrogen as a fuel risks endangering net-zero goals](https://www.nature.com/articles/d41586-022-03693-6)
+- [Building a Private Lora Network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html)
+- [Tesla has used space characters in internal emails to identify leaks](https://twitter.com/pnikosis/status/1592823543498436611)
 <!-- BLOG-POST-LIST:END -->
 
 ---
