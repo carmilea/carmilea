@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
-- [All the Science Hitching a Ride on Artemis-1](https://spectrum.ieee.org/nasa-artemis-science)
-- [Amazon confirms corporate staff cuts that could hit 10k employees](https://www.wsj.com/articles/amazon-to-cut-10-000-employees-from-corporate-ranks-11668617313)
-- [Mom handcuffed, jailed for 8-year-old son walking half a mile](https://reason.com/2022/11/16/suburban-mom-jailed-handcuffed-cps-son-walk-home/)
-- [Firezone &lpar;YC W22&rpar; is hiring engineers to build open-source secure access](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
+- [Show HN: Pomodoro Timer with Friends](https://pomochat.com)
+- [Infosys leaked FullAdminAccess AWS keys on PyPI for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
+- [SQLite Release 3.40.0](https://www.sqlite.org/releaselog/3_40_0.html)
+- [A small fleet of CubeStats joins three mannequins, fungus, algae on Artemis-1](https://spectrum.ieee.org/nasa-artemis-science)
+- [Laying myself off from Amazon](https://daniel.do/article/laying-myself-off-from-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
