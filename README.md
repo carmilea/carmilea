@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [82% of Open-Source Projects Suffer from Tool Rot](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
-- [Sinclair ZX Spectrum &lpar;bundled&rpar; basic programming book [pdf]](http://zxnext.narod.ru/manuals/Basic_Programming.pdf)
-- [Psychological and Psychiatric Terms to Avoid](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full)
-- [Who needs MLflow when you have SQLite?](https://ploomber.io/blog/experiment-tracking/)
-- [Peacetime CEO / Wartime CEO &lpar;2011&rpar;](https://future.com/peacetime-ceo-wartime-ceo/)
+- [Firezone &lpar;YC W22&rpar; is hiring engineers to build open-source secure access](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
+- [What makes Git so hard to use?](https://www.highflux.io/blog/what-makes-git-hard-to-use)
+- [Ask HN: How I get a job that uses C?](https://news.ycombinator.com/item?id=33626049)
+- [Why Evernote Failed to Realize Its Potential](https://nira.com/evernote-history/)
+- [RISC-V: The Last ISA?](https://thechipletter.substack.com/p/risc-v-the-last-isa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
