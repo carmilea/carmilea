@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Habits Are Not Needs](https://seths.blog/2022/11/habits-are-not-needs/)
-- [Sparse Array Destructuring in JavaScript](https://codepipet.com/javascript-array-destructuring/)
-- [The Near Future of AI is Action-Driven and it will look a lot like AGI](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven)
-- [My ADHD founder toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
-- [How did Cole factor 2^67−1 in 1903?](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
+- [ADHD as It Is](https://gekk.info/articles/adhd.html)
+- [Ask HN: Good resource on writing web app with plain JavaScript/HTML/CSS](https://news.ycombinator.com/item?id=33635218)
+- [Habits are not needs](https://seths.blog/2022/11/habits-are-not-needs/)
+- [Rising steel prices, interest rates could push NuScale Utah project to $100/MWh](https://www.utilitydive.com/news/nuscale-nuclear-reactor-smr-uamps-rising-steel-prices-interest-rates/636619/)
+- [The near future of AI is action-driven](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven)
 <!-- BLOG-POST-LIST:END -->
 
 ---
