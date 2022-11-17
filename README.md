@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is it so hard to disrupt Ticketmaster?](https://news.ycombinator.com/item?id=33639860)
+- [Show HN: Tweek perfect tool for daily task management](https://tweek.so)
+- [What not to say to someone who has just been laid off](https://sifted.eu/articles/what-not-to-say-layoff/)
+- [Automating the detection of geographic and temporal features](https://github.com/jataware/cartwright)
+- [Aerobic Activity Can Reduce Risk of Metastatic Cancer by 72%](https://english.tau.ac.il/exercise_defeats_cancer_2022)
 - [Air Force, FBI raid homes in probe of Area 51 website](https://www.reviewjournal.com/news/military/air-force-fbi-raid-homes-in-probe-of-area-51-website-2677764/)
-- [Awesome Node-Based UIs](https://github.com/wbkd/awesome-node-based-uis)
-- [Crypto dominoes fall in the wake of FTX&#39;s collapse](https://www.axios.com/2022/11/17/crypto-dominoes-ftx-collapse-winklevoss-gemini-blockfi)
-- [Autonomous robots to help modernize grape, wine industry](https://news.cornell.edu/stories/2022/11/autonomous-robots-help-modernize-grape-wine-industry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
