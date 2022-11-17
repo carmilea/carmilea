@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel deploys remote-controlled robotic guns](https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154)
+- [The FTX First Day Declaration](https://twitter.com/kadhim/status/1593222595390107649)
+- [Binance Says Deposits of USDC &lpar;Sol&rpar;+USDT &lpar;Sol&rpar; Have Been Temporarily Suspended](https://twitter.com/deitaone/status/1593223502160875523)
 - [APL deserves its Renaissance too](https://wordsandbuttons.online/apl_deserves_its_renaissance_too.html)
 - [Ubuntu&#39;s settings won&#39;t open after setting CPU to &#39;performance&#39;](https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance)
-- [Discord fined €800k for failing to comply with several obligations of the GDPR](https://www.cnil.fr/en/discord-inc-fined-800-000-euros)
-- [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
-- [Bethesda issues statement to Mick Gordon](https://twitter.com/bethesda/status/1592971214817222656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
