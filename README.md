@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LibreOffice blogs about Blockchain, locks comments after negative user feedback](https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/)
-- [Demystifying Fourier Analysis](https://dsego.github.io/demystifying-fourier/)
-- [ASX drops plan to replace CHESS with blockchain, writes off $250M AUD](https://insideadviser.com.au/asx-drops-plan-to-replace-chess-with-blockchain-writes-off-250m/)
-- [Z-library founders arrested in Argentina](https://www.justice.gov/usao-edny/pr/two-russian-nationals-charged-running-massive-e-book-piracy-website)
-- [Estonia: Become an E-Resident](https://www.e-resident.gov.ee/become-an-e-resident/)
+- [Ubuntu&#39;s settings won&#39;t open after setting CPU to &#39;performance&#39;](https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance)
+- [Peter Thiel Turned a Retirement Account into a $5B Tax-Free Piggy Bank](https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank)
+- [Bethesda issues statement to Mick Gordon](https://twitter.com/bethesda/status/1592971214817222656)
+- [Ask HN: We are sorry, but you do not have access to Gmail](https://news.ycombinator.com/item?id=33637519)
+- [Restoring my Rockwell 8R calculator with a 3D printer](https://blog.jgc.org/2022/11/restoring-my-rockwell-8r-calculator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
