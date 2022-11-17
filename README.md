@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Habits Are Not Needs](https://seths.blog/2022/11/habits-are-not-needs/)
+- [Sparse Array Destructuring in JavaScript](https://codepipet.com/javascript-array-destructuring/)
+- [The Near Future of AI is Action-Driven and it will look a lot like AGI](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven)
 - [My ADHD founder toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
 - [How did Cole factor 2^67−1 in 1903?](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
-- [AI found a bug in my code](https://joel.tools/codegen/)
-- [Two weeks of dealing with Google as a developer](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
-- [Reconstructing images a person sees via non-invasive brain scans](https://mind-vis.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
