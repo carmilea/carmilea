@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [TikTok and the First Amendment](https://www.csis.org/analysis/tiktok-and-first-amendment)
+- [Launch HN: Dots &lpar;YC S21&rpar; – Bot Builder for Discord](https://news.ycombinator.com/item?id=33641655)
+- [Is This the End of Crypto?](https://www.economist.com/leaders/2022/11/17/is-this-the-end-of-crypto)
 - [Show HN: Tweek perfect tool for daily task management](https://tweek.so)
-- [What not to say to someone who has just been laid off](https://sifted.eu/articles/what-not-to-say-layoff/)
-- [Automating the detection of geographic and temporal features](https://github.com/jataware/cartwright)
-- [Aerobic Activity Can Reduce Risk of Metastatic Cancer by 72%](https://english.tau.ac.il/exercise_defeats_cancer_2022)
-- [Air Force, FBI raid homes in probe of Area 51 website](https://www.reviewjournal.com/news/military/air-force-fbi-raid-homes-in-probe-of-area-51-website-2677764/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
