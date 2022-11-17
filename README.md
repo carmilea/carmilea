@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Fourier Analysis](https://dsego.github.io/demystifying-fourier/)
+- [ASX drops plan to replace CHESS with blockchain, writes off $250M AUD](https://insideadviser.com.au/asx-drops-plan-to-replace-chess-with-blockchain-writes-off-250m/)
+- [Z-library founders arrested in Argentina](https://www.justice.gov/usao-edny/pr/two-russian-nationals-charged-running-massive-e-book-piracy-website)
 - [A Secret Apple Silicon Extension to Accommodate an Intel 8080 Artifact](https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/)
 - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
-- [Ask HN: Good resource on writing web app with plain JavaScript/HTML/CSS](https://news.ycombinator.com/item?id=33635218)
-- [The near future of AI is action-driven](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven)
-- [Effective Altruism and Its Future](https://eigenrobot.substack.com/p/effective-altruism-and-its-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
