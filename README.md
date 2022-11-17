@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My ADHD Founder Toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
+- [My ADHD founder toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
 - [How did Cole factor 2^67−1 in 1903?](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
 - [AI found a bug in my code](https://joel.tools/codegen/)
 - [Two weeks of dealing with Google as a developer](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
