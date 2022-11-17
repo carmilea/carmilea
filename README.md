@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Secret Apple Silicon Extension to Accommodate an Intel 8080 Artifact](https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/)
 - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 - [Ask HN: Good resource on writing web app with plain JavaScript/HTML/CSS](https://news.ycombinator.com/item?id=33635218)
-- [Habits are not needs](https://seths.blog/2022/11/habits-are-not-needs/)
 - [Rising steel prices, interest rates could push NuScale Utah project to $100/MWh](https://www.utilitydive.com/news/nuscale-nuclear-reactor-smr-uamps-rising-steel-prices-interest-rates/636619/)
 - [The near future of AI is action-driven](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven)
 <!-- BLOG-POST-LIST:END -->
