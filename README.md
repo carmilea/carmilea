@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
+- [Show HN: I finished my site for daily dogbunny puzzles, as I promised on HN](https://dogbunnypuzzle.com/)
+- [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
+- [Swinging Back to Open Standards](https://puri.sm/posts/swinging-back-to-open-standards/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [TikTok and the First Amendment](https://www.csis.org/analysis/tiktok-and-first-amendment)
-- [Launch HN: Dots &lpar;YC S21&rpar; – Bot Builder for Discord](https://news.ycombinator.com/item?id=33641655)
-- [Is This the End of Crypto?](https://www.economist.com/leaders/2022/11/17/is-this-the-end-of-crypto)
-- [Show HN: Tweek perfect tool for daily task management](https://tweek.so)
 <!-- BLOG-POST-LIST:END -->
 
 ---
