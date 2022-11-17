@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What&#39;s a good business model for selling standalone software](https://news.ycombinator.com/item?id=33645489)
+- [You Don&#39;t Need HTML](https://no-ht.ml/)
+- [Mighty Retrospective](http://blog.chaselambda.com/2022/10/28/mighty-shutting-down.html)
+- [Is 40 hours a week too much?](https://www.okta.com/au/identity-101/40-hour-work-week/)
 - [How to Get Your Backup to Half of Its Size – ZSTD Support in XtraBackup](https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/)
-- [Punctuation and Other Ways Negotiators Have Resolved Climate Change Issues](https://repository.law.umich.edu/mjeal/vol6/iss1/2/)
-- [Ask HN: Does GDPR and CCPA Apply to Hacker News?](https://news.ycombinator.com/item?id=33644336)
-- [99Wh Battery Linux Laptop](https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen7.tuxedo)
-- [Show HN: SingleFile is finally available on Safari &lpar;macOS/iOS&rpar;](https://apps.apple.com/us/app/singlefile-for-safari/id6444322545)
 <!-- BLOG-POST-LIST:END -->
 
 ---
