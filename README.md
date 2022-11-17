@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling form states without JavaScript](https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js)
-- [TurboWarp Desktop](https://desktop.turbowarp.org/)
-- [Show HN: I&#39;m building the Costco for apparel](https://www.blnkfabrics.com)
-- [Plants use their epigenetic memories to adapt to climate change](https://www.sciencedaily.com/releases/2022/11/221117135539.htm)
-- [Ask HN: What&#39;s a good business model for selling standalone software?](https://news.ycombinator.com/item?id=33645489)
+- [Kodable &lpar;YC IK12&rpar; Is Hiring a Full Stack Engineer to help us teach kids to code](https://www.indeed.com/job/full-stack-engineer-c4948f7319bbd2f4?_ga=2.104740672.1378721118.1668634777-1229181858.1666896160)
+- [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
+- [Amazon CEO Andy Jassy says layoffs will continue into next year](https://www.cnbc.com/2022/11/17/amazon-ceo-andy-jassy-says-layoffs-will-continue-into-next-year.html)
+- [Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
+- [No More Eternal Septembers &lpar;2020&rpar;](https://tedium.co/2020/10/13/eternal-september-modern-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
