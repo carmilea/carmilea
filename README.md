@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Largest EU economy can reach 100% ‘clean energy’ by 2035](https://rethinkdisruption.com/europe-germany-can-reach-100-clean-energy-by-2035/)
+- [Show HN: SingleFile is finally available on Safari &lpar;macOS/iOS&rpar;](https://apps.apple.com/us/app/singlefile-for-safari/id6444322545)
+- [GitHub Copilot Isn&#39;t Worth the Risk](https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk)
 - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
 - [Show HN: I finished my site for daily dogbunny puzzles, as I promised on HN](https://dogbunnypuzzle.com/)
-- [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
-- [Swinging Back to Open Standards](https://puri.sm/posts/swinging-back-to-open-standards/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
