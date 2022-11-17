@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s a good business model for selling standalone software](https://news.ycombinator.com/item?id=33645489)
-- [You Don&#39;t Need HTML](https://no-ht.ml/)
-- [Mighty Retrospective](http://blog.chaselambda.com/2022/10/28/mighty-shutting-down.html)
-- [Is 40 hours a week too much?](https://www.okta.com/au/identity-101/40-hour-work-week/)
-- [How to Get Your Backup to Half of Its Size – ZSTD Support in XtraBackup](https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/)
+- [Styling form states without JavaScript](https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js)
+- [TurboWarp Desktop](https://desktop.turbowarp.org/)
+- [Show HN: I&#39;m building the Costco for apparel](https://www.blnkfabrics.com)
+- [Plants use their epigenetic memories to adapt to climate change](https://www.sciencedaily.com/releases/2022/11/221117135539.htm)
+- [Ask HN: What&#39;s a good business model for selling standalone software?](https://news.ycombinator.com/item?id=33645489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
