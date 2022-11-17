@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [APL deserves its Renaissance too](https://wordsandbuttons.online/apl_deserves_its_renaissance_too.html)
 - [Ubuntu&#39;s settings won&#39;t open after setting CPU to &#39;performance&#39;](https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance)
-- [Peter Thiel Turned a Retirement Account into a $5B Tax-Free Piggy Bank](https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank)
+- [Discord fined €800k for failing to comply with several obligations of the GDPR](https://www.cnil.fr/en/discord-inc-fined-800-000-euros)
+- [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
 - [Bethesda issues statement to Mick Gordon](https://twitter.com/bethesda/status/1592971214817222656)
-- [Ask HN: We are sorry, but you do not have access to Gmail](https://news.ycombinator.com/item?id=33637519)
-- [Restoring my Rockwell 8R calculator with a 3D printer](https://blog.jgc.org/2022/11/restoring-my-rockwell-8r-calculator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
