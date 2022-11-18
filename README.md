@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why some people do not communicate clearly?](https://news.ycombinator.com/item?id=33656909)
-- [Exec who cleaned up Enron calls FTX mess &#39;unprecedented&#39;](https://apnews.com/article/ftx-trading-former-ceo-d2c2b881dc0eb0ec37b454674f446b52)
-- [Show HN: Posterity Automations – Get things done from the afterlife](https://posterity.life/automations/)
-- [Earth now weighs six ronnagrams: New metric prefixes voted in](https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html)
-- [Map of the Universe](https://mapoftheuniverse.net/)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Success Engineers &lpar;US Timezone&rpar;](https://boards.greenhouse.io/supabase/jobs/4711141004)
+- [Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing](https://www.bbc.com/news/world-us-canada-63671947)
+- [Webb Telescope Image Gallery](https://webbtelescope.org/resource-gallery/images)
+- [Ask HN: Why do some people not communicate clearly?](https://news.ycombinator.com/item?id=33656909)
+- [The floating solar panels that track the Sun](https://www.bbc.com/future/article/20221116-the-floating-solar-panels-that-track-the-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
