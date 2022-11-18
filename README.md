@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lilia &lpar;Egg Freezing, YC W20&rpar; Is Hiring Content/Growth Marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
-- [Things I&#39;ve noticed while visiting the ICU](https://trevorklee.substack.com/p/things-ive-noticed-while-visiting)
-- [Mozilla revenue 2021 increases 20%](https://www.mozilla.org/en-US/foundation/annualreport/2021/)
-- [The decentralized web and the future of Section 230](https://www.thecgo.org/research/the-decentralized-web-and-the-future-of-section-230/)
-- [Snowdon to be known by it&#39;s Welsh name Yr Wyddfa](https://www.bbc.co.uk/news/uk-wales-63649930)
+- [Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://www.axios.com/2022/11/18/elizabeth-holmes-fraud-trial-prison-sentence)
+- [The stick shift might survive the electric revolution](https://robbreport.com/motors/cars/manual-transmission-electric-vehicles-future-1234774864/)
+- [Fast Typesetting with Incremental Compilation [pdf]](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf)
+- [US can reach 100% clean power by 2035, DOE finds](https://www.utilitydive.com/news/us-can-reach-100-clean-power-by-2035-doe-finds-but-tough-reliability-and/635874/)
+- [Lilia &lpar;egg freezing, YC W20&rpar; is hiring a content/growth marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
