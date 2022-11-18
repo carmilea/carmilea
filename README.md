@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you &lpar;still&rpar; work at Twitter and you can code, head to the HQ now](https://www.theverge.com/2022/11/18/23466220/if-you-still-work-at-twitter-and-you-can-code-head-to-the-hq-now)
+- [Carvana to Cut 1,500 Jobs as Online Auto Dealer’s Troubles Mount](https://www.bloomberg.com/news/articles/2022-11-18/carvana-says-it-will-cut-1-500-jobs-as-company-s-troubles-mount)
+- [What Happened to Archive.is?](https://news.ycombinator.com/item?id=33658652)
+- [The leap second’s time is up: world votes to stop pausing clocks](https://www.nature.com/articles/d41586-022-03783-5)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Success Engineers &lpar;US Timezone&rpar;](https://boards.greenhouse.io/supabase/jobs/4711141004)
-- [Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing](https://www.bbc.com/news/world-us-canada-63671947)
-- [Webb Telescope Image Gallery](https://webbtelescope.org/resource-gallery/images)
-- [Ask HN: Why do some people not communicate clearly?](https://news.ycombinator.com/item?id=33656909)
-- [The floating solar panels that track the Sun](https://www.bbc.com/future/article/20221116-the-floating-solar-panels-that-track-the-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
