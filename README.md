@@ -54,8 +54,8 @@
 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
 - [Fred Brooks has died](https://twitter.com/stevebellovin/status/1593414068634734592)
 - [Researchers quietly cracked Zeppelin ransomware keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
-- [I drink before I interview](https://news.ycombinator.com/item?id=33649167)
 - [How safe is ayahuasca? Large-scale study explores](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665)
+- [The death of the key change](https://tedium.co/2022/11/09/the-death-of-the-key-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
