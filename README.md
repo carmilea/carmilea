@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
+- [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
 - [Fred Brooks has died](https://twitter.com/stevebellovin/status/1593414068634734592)
 - [Researchers quietly cracked Zeppelin ransomware keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
-- [How safe is ayahuasca? Large-scale study explores](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665)
-- [The death of the key change](https://tedium.co/2022/11/09/the-death-of-the-key-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
