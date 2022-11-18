@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India follows EU&#39;s example in requiring USB-C charging for smart devices](https://www.theregister.com/2022/11/18/india_usb_c_requirements/)
+- [Google’s Go Style Guide](https://google.github.io/styleguide/go/)
 - [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
-- [Dissecting a Dummy Promo MiniDisc](https://www.pagetable.com/?p=1693)
 - [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
-- [Fred Brooks has died](https://twitter.com/stevebellovin/status/1593414068634734592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
