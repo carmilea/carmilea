@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why some people do not communicate clearly?](https://news.ycombinator.com/item?id=33656909)
+- [Exec who cleaned up Enron calls FTX mess &#39;unprecedented&#39;](https://apnews.com/article/ftx-trading-former-ceo-d2c2b881dc0eb0ec37b454674f446b52)
+- [Show HN: Posterity Automations – Get things done from the afterlife](https://posterity.life/automations/)
 - [Earth now weighs six ronnagrams: New metric prefixes voted in](https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html)
 - [Map of the Universe](https://mapoftheuniverse.net/)
-- [Red meat is not a health risk. New study slams years of shoddy research](https://bigthink.com/health/red-meat-cancer-not-health-risk/)
-- [Judas Goats: Drug-Addicted Masters of Deceit Once Ruled the Killing Floor](https://www.agweb.com/news/livestock/beef/judas-goats-agricultures-bizarre-drug-addicted-masters-deceit-once-ruled)
-- [Waze Founder Noam Bardin is starting up a Twitter alternative](https://post.news/?r=Bo9HV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
