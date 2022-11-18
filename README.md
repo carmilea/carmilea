@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Will Google Ever Launch a Successful New Product Again?](https://news.ycombinator.com/item?id=33659737)
+- [Negative/hate tweets will be max deboosted and demonetized](https://twitter.com/elonmusk/status/1593673339826212864)
+- [Subreply](https://subreply.com/trending)
 - [If you &lpar;still&rpar; work at Twitter and you can code, head to the HQ now](https://www.theverge.com/2022/11/18/23466220/if-you-still-work-at-twitter-and-you-can-code-head-to-the-hq-now)
 - [Carvana to Cut 1,500 Jobs as Online Auto Dealer’s Troubles Mount](https://www.bloomberg.com/news/articles/2022-11-18/carvana-says-it-will-cut-1-500-jobs-as-company-s-troubles-mount)
-- [What Happened to Archive.is?](https://news.ycombinator.com/item?id=33658652)
-- [The leap second’s time is up: world votes to stop pausing clocks](https://www.nature.com/articles/d41586-022-03783-5)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Success Engineers &lpar;US Timezone&rpar;](https://boards.greenhouse.io/supabase/jobs/4711141004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
