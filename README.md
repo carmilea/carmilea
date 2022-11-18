@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Association between Vitamin D supplementation and Covid infection and mortality](https://www.nature.com/articles/s41598-022-24053-4)
-- [Neocities: A platform that lets you create your own website/follow other&#39;s sites](https://neocities.org/)
-- [Tailscale Funnel](https://tailscale.com/blog/introducing-tailscale-funnel/)
-- [ASML looking to finally get ahead of Moore’s Law](https://bits-chips.nl/artikel/asml-looking-to-finally-get-ahead-of-moores-law/)
-- [Twitter alerted employees all office buildings closed and badge access suspended](https://twitter.com/zoeschiffer/status/1593391604785504257)
+- [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
+- [Fred P. Brooks has passed away](https://twitter.com/stevebellovin/status/1593414068634734592)
+- [Researchers Quietly Cracked Zeppelin Ransomware Keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
+- [I drink before I interview](https://news.ycombinator.com/item?id=33649167)
+- [How safe is ayahuasca? Large-scale study explores](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
