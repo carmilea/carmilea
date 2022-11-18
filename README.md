@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Decentralized Web and the Future of Section 230](https://www.thecgo.org/research/the-decentralized-web-and-the-future-of-section-230/#technology-design-and-user-sovereignty)
+- [Lilia &lpar;Egg Freezing, YC W20&rpar; Is Hiring Content/Growth Marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
+- [Things I&#39;ve noticed while visiting the ICU](https://trevorklee.substack.com/p/things-ive-noticed-while-visiting)
+- [Mozilla revenue 2021 increases 20%](https://www.mozilla.org/en-US/foundation/annualreport/2021/)
+- [The decentralized web and the future of Section 230](https://www.thecgo.org/research/the-decentralized-web-and-the-future-of-section-230/)
 - [Snowdon to be known by it&#39;s Welsh name Yr Wyddfa](https://www.bbc.co.uk/news/uk-wales-63649930)
-- [Faceless clock makes you think twice about how it works](https://hackaday.com/2022/11/18/faceless-clock-makes-your-think-twice-about-how-it-works/)
-- [Carvana to cut 1,500 jobs as online auto dealer’s troubles mount](https://www.bloomberg.com/news/articles/2022-11-18/carvana-says-it-will-cut-1-500-jobs-as-company-s-troubles-mount)
-- [The leap second’s time is up: world votes to stop pausing clocks](https://www.nature.com/articles/d41586-022-03783-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
