@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodable &lpar;YC IK12&rpar; Is Hiring a Full Stack Engineer to help us teach kids to code](https://www.indeed.com/job/full-stack-engineer-c4948f7319bbd2f4?_ga=2.104740672.1378721118.1668634777-1229181858.1666896160)
-- [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
-- [Amazon CEO Andy Jassy says layoffs will continue into next year](https://www.cnbc.com/2022/11/17/amazon-ceo-andy-jassy-says-layoffs-will-continue-into-next-year.html)
-- [Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
-- [No More Eternal Septembers &lpar;2020&rpar;](https://tedium.co/2020/10/13/eternal-september-modern-impact/)
+- [Association between Vitamin D supplementation and Covid infection and mortality](https://www.nature.com/articles/s41598-022-24053-4)
+- [Neocities: A platform that lets you create your own website/follow other&#39;s sites](https://neocities.org/)
+- [Tailscale Funnel](https://tailscale.com/blog/introducing-tailscale-funnel/)
+- [ASML looking to finally get ahead of Moore’s Law](https://bits-chips.nl/artikel/asml-looking-to-finally-get-ahead-of-moores-law/)
+- [Twitter alerted employees all office buildings closed and badge access suspended](https://twitter.com/zoeschiffer/status/1593391604785504257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
