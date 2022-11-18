@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elizabeth Holmes Faces Years in Prison for Her Crimes in Theranos Collapse](https://www.bloomberg.com/news/articles/2022-11-18/holmes-sentence-over-theranos-may-set-silicon-valley-example)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
-- [Warren Buffet and Charlie Munger on crypto in 2018. nailed it](https://twitter.com/stephen_geiger/status/1591502421129416706)
-- [India follows EU&#39;s example in requiring USB-C charging for smart devices](https://www.theregister.com/2022/11/18/india_usb_c_requirements/)
-- [Qatar Bans Beer Sales at World Cup Stadiums](https://www.nytimes.com/2022/11/18/sports/soccer/world-cup-beer-qatar.html)
+- [Japan&#39;s inflation hits 40-year high as weak yen fans import costs](https://asia.nikkei.com/Economy/Inflation/Japan-s-inflation-hits-40-year-high-as-weak-yen-fans-import-costs)
+- [Cologne-based translation startup DeepL is worth a billion dollars &lpar;German&rpar;](https://www.spiegel.de/netzwelt/web/deepl-koelner-uebersetzungs-start-up-ist-eine-milliarde-dollar-wert-einhorn-status-a-6c4a6e52-6fb0-4cfb-b8c3-c4058ab2f5ca)
+- [Qatar to ban beer at World Cup stadiums two days before tournament starts](https://www.cnbc.com/2022/11/18/qatar-to-reportedly-ban-beer-at-world-cup-in-dramatic-reversal.html)
+- [Find Verified Journalists on Mastodon](https://www.presscheck.org/)
+- [The FBI alleges TikTok poses national security concerns](https://www.npr.org/2022/11/17/1137155540/fbi-tiktok-national-security-concerns-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
