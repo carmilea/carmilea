@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dice Baseball – A Tabletop Tradition](https://baseballgames.dreamhosters.com/BbDiceHome.htm)
+- [Ask HN: What habits did you achieve this year?](https://news.ycombinator.com/item?id=33654331)
 - [Japan&#39;s inflation hits 40-year high as weak yen fans import costs](https://asia.nikkei.com/Economy/Inflation/Japan-s-inflation-hits-40-year-high-as-weak-yen-fans-import-costs)
-- [Cologne-based translation startup DeepL is worth a billion dollars &lpar;German&rpar;](https://www.spiegel.de/netzwelt/web/deepl-koelner-uebersetzungs-start-up-ist-eine-milliarde-dollar-wert-einhorn-status-a-6c4a6e52-6fb0-4cfb-b8c3-c4058ab2f5ca)
-- [Qatar to ban beer at World Cup stadiums two days before tournament starts](https://www.cnbc.com/2022/11/18/qatar-to-reportedly-ban-beer-at-world-cup-in-dramatic-reversal.html)
 - [Find Verified Journalists on Mastodon](https://www.presscheck.org/)
 - [The FBI alleges TikTok poses national security concerns](https://www.npr.org/2022/11/17/1137155540/fbi-tiktok-national-security-concerns-china)
 <!-- BLOG-POST-LIST:END -->
