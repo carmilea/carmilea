@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dice Baseball – A Tabletop Tradition](https://baseballgames.dreamhosters.com/BbDiceHome.htm)
-- [Ask HN: What habits did you achieve this year?](https://news.ycombinator.com/item?id=33654331)
-- [Japan&#39;s inflation hits 40-year high as weak yen fans import costs](https://asia.nikkei.com/Economy/Inflation/Japan-s-inflation-hits-40-year-high-as-weak-yen-fans-import-costs)
-- [Find Verified Journalists on Mastodon](https://www.presscheck.org/)
-- [The FBI alleges TikTok poses national security concerns](https://www.npr.org/2022/11/17/1137155540/fbi-tiktok-national-security-concerns-china)
+- [Earth now weighs six ronnagrams: New metric prefixes voted in](https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html)
+- [Map of the Universe](https://mapoftheuniverse.net/)
+- [Red meat is not a health risk. New study slams years of shoddy research](https://bigthink.com/health/red-meat-cancer-not-health-risk/)
+- [Judas Goats: Drug-Addicted Masters of Deceit Once Ruled the Killing Floor](https://www.agweb.com/news/livestock/beef/judas-goats-agricultures-bizarre-drug-addicted-masters-deceit-once-ruled)
+- [Waze Founder Noam Bardin is starting up a Twitter alternative](https://post.news/?r=Bo9HV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
