@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Ross Ulbricht](https://freeross.org)
 - [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
+- [Twitter locks staff out of offices until next week](https://www.bbc.com/news/business-63672307)
 - [Dissecting a Dummy Promo MiniDisc](https://www.pagetable.com/?p=1693)
 - [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
