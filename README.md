@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Ross Ulbricht](https://freeross.org)
 - [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
+- [Dissecting a Dummy Promo MiniDisc](https://www.pagetable.com/?p=1693)
 - [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
-- [Fred Brooks has died](https://twitter.com/stevebellovin/status/1593414068634734592)
-- [Researchers quietly cracked Zeppelin ransomware keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
