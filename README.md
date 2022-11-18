@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elizabeth Holmes Faces Years in Prison for Her Crimes in Theranos Collapse](https://www.bloomberg.com/news/articles/2022-11-18/holmes-sentence-over-theranos-may-set-silicon-valley-example)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
+- [Warren Buffet and Charlie Munger on crypto in 2018. nailed it](https://twitter.com/stephen_geiger/status/1591502421129416706)
 - [India follows EU&#39;s example in requiring USB-C charging for smart devices](https://www.theregister.com/2022/11/18/india_usb_c_requirements/)
-- [Google’s Go Style Guide](https://google.github.io/styleguide/go/)
-- [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
-- [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
-- [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
+- [Qatar Bans Beer Sales at World Cup Stadiums](https://www.nytimes.com/2022/11/18/sports/soccer/world-cup-beer-qatar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
