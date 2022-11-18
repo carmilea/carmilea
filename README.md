@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://www.axios.com/2022/11/18/elizabeth-holmes-fraud-trial-prison-sentence)
+- [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
+- [I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
+- [Elizabeth Holmes is sentenced to more than 11 years for fraud](https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html)
 - [The stick shift might survive the electric revolution](https://robbreport.com/motors/cars/manual-transmission-electric-vehicles-future-1234774864/)
 - [Fast Typesetting with Incremental Compilation [pdf]](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf)
-- [US can reach 100% clean power by 2035, DOE finds](https://www.utilitydive.com/news/us-can-reach-100-clean-power-by-2035-doe-finds-but-tough-reliability-and/635874/)
-- [Lilia &lpar;egg freezing, YC W20&rpar; is hiring a content/growth marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
