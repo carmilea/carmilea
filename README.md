@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Swiss Study:Covid Shots Increase Risk of Myocarditis by X800 in Young Adults](https://beckernews.com/new-swiss-study-covid-shots-increase-risk-of-myocarditis-by-800-times-in-young-adults-47674/)
 - [Capsule &lpar;YC S22&rpar; is hiring a computer vision AI / machine learning intern](https://www.workatastartup.com/jobs/56676)
 - [The Mystery Blips](https://mosquitocapital.substack.com/p/the-mystery-blips)
-- [The truffle industry is a big scam, not just truffle oil, everything](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
+- [The truffle industry is a scam](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
 - [Show HN: Firefox Addon to Filter NSFW Content](https://addons.mozilla.org/en-US/firefox/addon/wingman-jr-filter/)
-- [Tree views in CSS](https://iamkate.com/code/tree-views/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
