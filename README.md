@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tumblr Gets the Last Laugh](https://www.theatlantic.com/technology/archive/2022/11/elon-musk-twitter-tumblr-blue-check-marks/672165/)
+- [Koch-funded group sues US state agency for installing spyware on 1M Androids](https://www.theregister.com/2022/11/17/kochfunded_group_sues_us_state/)
+- [US Supreme Court asked if cops can plant spy cams around homes](https://www.theregister.com/2022/11/18/supreme_court_cameras_police/)
 - [Decision Fatigue](https://www.antipope.org/charlie/blog-static/2022/11/decision-fatigue.html)
-- [Nord Stream leaks confirmed as sabotage, Sweden says](https://www.reuters.com/world/europe/traces-explosives-found-nord-stream-pipelines-sweden-says-2022-11-18/)
-- [Software engineers: consider working on genomics](https://claymcleod.dev/blog/2022-11-19-consider-working-on-genomics.html)
-- [A Twitter Off Ramp: A Tutorial for Getting on Mastodon](https://patricia.no/2022/11/18/twitter_off_ramp.html)
-- [TinyBIOS – A minimalist open-source BIOS project for fun](https://github.com/pwk4m1/TinyBIOS)
+- [Wickr shutting down December 31, 2023](https://wickr.com/our-focus-on-end-to-end-encrypted-enterprise-communications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
