@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategy 101: An Introduction to Power](https://tasshin.com/blog/strategy-101/)
+- [An Interview with Mickey Petersen, Author of Mastering Emacs](https://syntopikon.substack.com/p/an-interview-with-mickey-petersen)
+- [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too](https://web.archive.org/web/20221110031633/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 - [Tumblr Gets the Last Laugh](https://www.theatlantic.com/technology/archive/2022/11/elon-musk-twitter-tumblr-blue-check-marks/672165/)
 - [Koch-funded group sues US state agency for installing spyware on 1M Androids](https://www.theregister.com/2022/11/17/kochfunded_group_sues_us_state/)
-- [US Supreme Court asked if cops can plant spy cams around homes](https://www.theregister.com/2022/11/18/supreme_court_cameras_police/)
-- [Decision Fatigue](https://www.antipope.org/charlie/blog-static/2022/11/decision-fatigue.html)
-- [Wickr shutting down December 31, 2023](https://wickr.com/our-focus-on-end-to-end-encrypted-enterprise-communications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
