@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Putting 5,998,794 books on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
+- [What the “superforecasters” predict for major events in 2023](https://www.economist.com/the-world-ahead/2022/11/18/what-the-superforecasters-predict-for-major-events-in-2023)
 - [The erasure of women from online pregnancy literature](https://quillette.com/2022/11/18/the-erasure-of-women-from-online-pregnancy-literature/)
+- [Let&#39;s Kill the Universe](https://quimzy.github.io/random/thoughts/2022/11/16/lets-kill-the-universe.html)
 - [Content moderation is broken &lpar;2019&rpar;](https://www.eff.org/deeplinks/2019/04/content-moderation-broken-let-us-count-ways)
-- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
-- [Strategy 101: An introduction to power](https://tasshin.com/blog/strategy-101/)
-- [Go 1.21 may have a clear&lpar;x&rpar; builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
