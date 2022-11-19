@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Costing Peanuts for the US to Defeat Russia](https://cepa.org/article/its-costing-peanuts-for-the-us-to-defeat-russia/)
+- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 - [Strategy 101: An Introduction to Power](https://tasshin.com/blog/strategy-101/)
+- [Go 1.21 may have a clear&lpar;x&rpar; builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
 - [An Interview with Mickey Petersen, Author of Mastering Emacs](https://syntopikon.substack.com/p/an-interview-with-mickey-petersen)
-- [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too](https://web.archive.org/web/20221110031633/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
-- [Tumblr Gets the Last Laugh](https://www.theatlantic.com/technology/archive/2022/11/elon-musk-twitter-tumblr-blue-check-marks/672165/)
-- [Koch-funded group sues US state agency for installing spyware on 1M Androids](https://www.theregister.com/2022/11/17/kochfunded_group_sues_us_state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
