@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software engineers: consider working on genomics](https://claymcleod.dev/blog/2022-11-19-consider-working-on-genomics.html)
+- [TinyBIOS – A minimalist open-source BIOS project for fun](https://github.com/pwk4m1/TinyBIOS)
 - [Latam Airlines Airbus A320neo hits fire engine on runway during take-off](https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/)
+- [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
 - [Show HN: A Browser-Based First Programming Language – Easier Than Python](https://easylang.online/ide/#tut=1)
-- [Trust in Musk or go federated with Nextcloud Social](https://nextcloud.com/blog/no-need-to-trust-musk-we-go-federated-with-nextcloud-social/)
-- [HelenOS a microkernel-based, multiserver OS from scratch](https://github.com/HelenOS/helenos)
-- [Ask HN: Are there any books that changed your life during college or school?](https://news.ycombinator.com/item?id=33670126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
