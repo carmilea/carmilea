@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The truffle industry is a big scam. Not just truffle oil, everything](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
 - [Show HN: Firefox Addon to Filter NSFW Content](https://addons.mozilla.org/en-US/firefox/addon/wingman-jr-filter/)
+- [Tree views in CSS](https://iamkate.com/code/tree-views/)
 - [Tell HN: Cloudflare Is Blocking Piped](https://news.ycombinator.com/item?id=33667236)
 - [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
-- [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml)
-- [ChessBase and Stockfish end their legal dispute](https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
