@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decision Fatigue](https://www.antipope.org/charlie/blog-static/2022/11/decision-fatigue.html)
+- [Nord Stream leaks confirmed as sabotage, Sweden says](https://www.reuters.com/world/europe/traces-explosives-found-nord-stream-pipelines-sweden-says-2022-11-18/)
 - [Software engineers: consider working on genomics](https://claymcleod.dev/blog/2022-11-19-consider-working-on-genomics.html)
+- [A Twitter Off Ramp: A Tutorial for Getting on Mastodon](https://patricia.no/2022/11/18/twitter_off_ramp.html)
 - [TinyBIOS – A minimalist open-source BIOS project for fun](https://github.com/pwk4m1/TinyBIOS)
-- [Latam Airlines Airbus A320neo hits fire engine on runway during take-off](https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/)
-- [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
-- [Show HN: A Browser-Based First Programming Language – Easier Than Python](https://easylang.online/ide/#tut=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
