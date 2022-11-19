@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Windows decide whether your computer has limited or full Internet access](https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399)
+- [es4x, a server framework on top of GraalJS and Vert.x](https://reactiverse.io/es4x/)
 - [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
-- [I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
-- [Elizabeth Holmes is sentenced to more than 11 years for fraud](https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html)
-- [The stick shift might survive the electric revolution](https://robbreport.com/motors/cars/manual-transmission-electric-vehicles-future-1234774864/)
-- [Fast Typesetting with Incremental Compilation [pdf]](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf)
+- [Use this kernel parameter in your kiosk](https://cedwards.xyz/use-this-kernel-parameter-in-your-kiosk/)
+- [Show HN: I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
