@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The truffle industry is a big scam. Not just truffle oil, everything](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
+- [Capsule &lpar;YC S22&rpar; is hiring a computer vision AI / machine learning intern](https://www.workatastartup.com/jobs/56676)
+- [The Mystery Blips](https://mosquitocapital.substack.com/p/the-mystery-blips)
+- [The truffle industry is a big scam, not just truffle oil, everything](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
 - [Show HN: Firefox Addon to Filter NSFW Content](https://addons.mozilla.org/en-US/firefox/addon/wingman-jr-filter/)
 - [Tree views in CSS](https://iamkate.com/code/tree-views/)
-- [Tell HN: Cloudflare Is Blocking Piped](https://news.ycombinator.com/item?id=33667236)
-- [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
