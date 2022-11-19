@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The “Great Reset” is too stupid to be a conspiracy](https://blackshaw.substack.com/p/the-great-reset-is-too-stupid-to)
-- [First Tasting of Plant-Based Oysters in Berkeley, CA](https://vegconomist.com/food-and-beverage/meat-and-fish-alternatives/pearlita-first-tasting-oysters/)
-- [&#39;It&#39;s like living in an igloo&#39; People are turning off their heat as prices surge](https://lite.cnn.com/en/article/h_dc398e603fbba88aa26d05059742c857)
-- [Ask HN: Any pain points worth building an MVP for?](https://news.ycombinator.com/item?id=33669597)
-- [Capsule &lpar;YC S22&rpar; is hiring a computer vision AI / machine learning intern](https://www.workatastartup.com/jobs/56676)
+- [Latam Airlines Airbus A320neo hits fire engine on runway during take-off](https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/)
+- [Show HN: A Browser-Based First Programming Language – Easier Than Python](https://easylang.online/ide/#tut=1)
+- [Trust in Musk or go federated with Nextcloud Social](https://nextcloud.com/blog/no-need-to-trust-musk-we-go-federated-with-nextcloud-social/)
+- [HelenOS a microkernel-based, multiserver OS from scratch](https://github.com/HelenOS/helenos)
+- [Ask HN: Are there any books that changed your life during college or school?](https://news.ycombinator.com/item?id=33670126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
