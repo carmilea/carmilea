@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Mimicry](https://www.hillelwayne.com/post/software-mimicry/)
+- [How to Sell Tickets Fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
+- [Solving Puzzles with Hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
+- [$477M FTX ‘hack’ was a Bahamian government asset seizure](https://www.marketwatch.com/story/supposed-477-million-ftx-hack-was-actually-a-bahamian-government-asset-seizure-11668782216)
 - [How Windows decide whether your computer has limited or full Internet access](https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399)
-- [es4x, a server framework on top of GraalJS and Vert.x](https://reactiverse.io/es4x/)
-- [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
-- [Use this kernel parameter in your kiosk](https://cedwards.xyz/use-this-kernel-parameter-in-your-kiosk/)
-- [Show HN: I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
