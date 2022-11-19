@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Cloudflare Is Blocking Piped](https://news.ycombinator.com/item?id=33667236)
 - [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
-- [Binance has no proof of reserves for ETH/XRP, inadequate reserves for rest](https://old.reddit.com/r/CryptoCurrency/comments/yxxugl/binance_is_not_holding_verifiable_proof_of/)
-- [Stanford Law School will not participate in US News law school ranking](https://law.stanford.edu/press/stanford-law-school-will-not-participate-in-us-news-law-school-ranking/)
 - [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml)
-- [How to Sell Tickets Fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
+- [How to sell tickets fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
+- [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
