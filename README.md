@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intermittent fasting protects against Alzheimer’s disease in mice](https://www.nature.com/articles/s43587-022-00311-y)
+- [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
+- [Binance has no proof of reserves for ETH/XRP, inadequate reserves for rest](https://old.reddit.com/r/CryptoCurrency/comments/yxxugl/binance_is_not_holding_verifiable_proof_of/)
+- [Stanford Law School will not participate in US News law school ranking](https://law.stanford.edu/press/stanford-law-school-will-not-participate-in-us-news-law-school-ranking/)
 - [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml)
 - [How to Sell Tickets Fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
-- [Solving Puzzles with Hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
-- [$477M FTX ‘hack’ was a Bahamian government asset seizure](https://www.marketwatch.com/story/supposed-477-million-ftx-hack-was-actually-a-bahamian-government-asset-seizure-11668782216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
