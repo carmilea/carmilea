@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnham, Elon, and the Revenge of Entrepreneurial Capitalism](https://eriktorenberg.substack.com/p/burnham-elon-and-the-revenge-of-entrepreneurial)
+- [Show HN: Firefox Addon to Filter NSFW Content](https://addons.mozilla.org/en-US/firefox/addon/wingman-jr-filter/)
 - [Tell HN: Cloudflare Is Blocking Piped](https://news.ycombinator.com/item?id=33667236)
 - [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
 - [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml)
