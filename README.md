@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TIC-80 Fantasy Computer](https://tic80.com/)
+- [Collapse of Carvana, the &#39;Amazon of Used Cars&#39;, Continues](https://www.thestreet.com/technology/the-collapse-of-carvana-the-amazon-of-used-cars-continues)
+- [Show HN: ILLA is an Open-source alternative to Retool](https://github.com/illacloud/illa-builder)
 - [Nvidia and Microsoft team up to build AI cloud computer](https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/)
 - [Planes are still decades away from displacing most bird jobs](https://guzey.com/ai/planes-vs-birds/)
-- [Ask HN: Has there been more conspiracy comments on HN lately?](https://news.ycombinator.com/item?id=33677903)
-- [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
-- [Closures and Objects Are Equivalent &lpar;2013&rpar;](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
