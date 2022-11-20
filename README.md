@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBC ignores World Cup opening ceremony in favour of Qatar criticism](https://www.theguardian.com/football/2022/nov/20/bbc-ignores-world-cup-opening-ceremony-in-favour-of-qatar-criticism)
-- [Let Crypto Burn](https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3)
-- [Computer Latency: 1977-2017](https://danluu.com/input-lag/)
-- [Disassembling an Amazon Blink Mini Camera](https://astrid.tech/2022/07/07/0/blink-mini-disassembly/)
-- [While Crypto Bro Scammed Clients, Reporters Scammed Readers – Fair](https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/)
+- [We need more water than rain can provide: refilling rivers with desalination](https://caseyhandmer.wordpress.com/2022/11/20/we-need-more-water-than-rain-can-provide-refilling-rivers-with-desalination/)
+- [Upgrading Multi-GPU Interconnectivity with the Third-Generation Nvidia NVSwitch](https://developer.nvidia.com/blog/upgrading-multi-gpu-interconnectivity-with-the-third-generation-nvidia-nvswitch/)
+- [Just putting it out there](https://www.cjchilvers.com/blog/just-putting-it-out-there/)
+- [Stop lying to yourself – you “fix it later”](https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/)
+- [South Africa&#39;s national electricity crisis to worsen](https://www.news24.com/fin24/economy/extreme-load-shedding-ahead-as-eskom-diesel-budget-runs-dry-20221120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
