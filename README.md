@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Just a bunch of idiots having fun”–a photo history of the LAN party](https://arstechnica.com/gaming/2022/11/just-a-bunch-of-idiots-having-fun-a-photo-history-of-the-lan-party/)
-- [Hacker News Parody Thread](http://bradconte.com/files/misc/HackerNewsParodyThread/)
-- [Ask HN: Publish old projects even though the source code embarrasses you by now?](https://news.ycombinator.com/item?id=33680469)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
-- [Mildly Interesting Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
+- [Help HN: Starlink Signup Indistinguishable from a Scam](https://news.ycombinator.com/item?id=33681263)
+- [Sam Bankman-Fried, FTX Team Among Top Political Donors Before Bankruptcy](https://www.wsj.com/articles/sam-bankman-fried-ftx-team-among-top-political-donors-before-bankruptcy-11668949205)
+- [Amazon Is Gutting Its Voice-Assistant Alexa](https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11)
+- [Kernel &lpar;OS Kernel Book&rpar;](https://539kernel.com/)
+- [10 KB Club: Curated list of websites whose home pages do not exceed 10 KB size](https://10kbclub.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
