@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Help HN: Starlink Signup Indistinguishable from a Scam](https://news.ycombinator.com/item?id=33681263)
-- [Sam Bankman-Fried, FTX Team Among Top Political Donors Before Bankruptcy](https://www.wsj.com/articles/sam-bankman-fried-ftx-team-among-top-political-donors-before-bankruptcy-11668949205)
-- [Amazon Is Gutting Its Voice-Assistant Alexa](https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11)
-- [Kernel &lpar;OS Kernel Book&rpar;](https://539kernel.com/)
-- [10 KB Club: Curated list of websites whose home pages do not exceed 10 KB size](https://10kbclub.com/)
+- [IQ is a dismal measure of intelligence &lpar;2019&rpar;](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)
+- [Eye contact marks the rise and fall of shared attention in conversation](https://www.pnas.org/doi/10.1073/pnas.2106645118)
+- [UK food price inflation hit 16.2% in October – cost of food basics surging](https://www.bbc.co.uk/news/business-63641414)
+- [Help HN: Starlink Signup failed, no recourse](https://news.ycombinator.com/item?id=33681263)
+- [Tea: A new package manager from the creator of brew](https://github.com/teaxyz/cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
