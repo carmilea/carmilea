@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Ask HN: What is example of good documentation in your opinion?](https://news.ycombinator.com/item?id=33682599)
-- [Acquisition of Chess Knowledge in AlphaZero](https://www.pnas.org/doi/10.1073/pnas.2206625119)
-- [Airbus and Climate Change](https://qchenevier.github.io/huma/airbus-and-climate-change)
-- [Eye contact marks the rise and fall of shared attention in conversation](https://www.pnas.org/doi/10.1073/pnas.2106645118)
+- [Let Crypto Burn](https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3)
+- [Computer Latency: 1977-2017](https://danluu.com/input-lag/)
+- [Disassembling an Amazon Blink Mini Camera](https://astrid.tech/2022/07/07/0/blink-mini-disassembly/)
+- [While Crypto Bro Scammed Clients, Reporters Scammed Readers – Fair](https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/)
+- [How the First Transistor Worked](https://spectrum.ieee.org/transistor-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
