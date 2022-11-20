@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Struggles Among Nice People](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
-- [271 years before Pantone, every color imaginable in an 800-page book](https://www.thisiscolossal.com/2014/05/color-book/)
+- [Tell HN: DuckDuckGo is blocked by Indian govt](https://news.ycombinator.com/item?id=33677964)
+- [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
+- [Closures and Objects Are Equivalent &lpar;2013&rpar;](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
+- [Brilliant jerks, crazy hotties, and other artifacts of range restriction &lpar;2019&rpar;](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
 - [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
-- [Show HN: Rssnix – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
-- [Putting Z-Library on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
