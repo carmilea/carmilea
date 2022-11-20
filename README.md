@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hate Living in My Tiny House](https://www.fastcompany.com/90407740/why-i-hate-living-in-my-tiny-house)
-- [What Is DOS/4GW?](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
-- [Kite is saying farewell, and is open-sourcing all of its code.](https://www.kite.com/blog/product/kite-is-saying-farewell/)
-- [How I fixed Mopac and why it had it coming – The importance of bug reports](https://omajoshi.com/blog/14/)
-- [Show HN: A native macOS client for Apache Kafka](https://defn.io/2022/11/20/ann-franz/)
+- [Briar: Peer-to-Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
+- [Liquid and immersion is the new cool at Supercomputing &#39;22](https://www.theregister.com/2022/11/19/liquid_cooling_sc22/)
+- [I hate living in my tiny house](https://www.fastcompany.com/90407740/why-i-hate-living-in-my-tiny-house)
+- [DOS/4GW and Protected Mode &lpar;2021&rpar;](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
+- [Kite is saying farewell and open-sourcing its code](https://www.kite.com/blog/product/kite-is-saying-farewell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
