@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [TIC-80 Fantasy Computer](https://tic80.com/)
 - [Collapse of Carvana, the &#39;Amazon of Used Cars&#39;, Continues](https://www.thestreet.com/technology/the-collapse-of-carvana-the-amazon-of-used-cars-continues)
+- [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten)
 - [Show HN: ILLA is an Open-source alternative to Retool](https://github.com/illacloud/illa-builder)
-- [Nvidia and Microsoft team up to build AI cloud computer](https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/)
 - [Planes are still decades away from displacing most bird jobs](https://guzey.com/ai/planes-vs-birds/)
 <!-- BLOG-POST-LIST:END -->
 
