@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: DuckDuckGo is blocked by Indian govt](https://news.ycombinator.com/item?id=33677964)
+- [The Radiation Printer &lpar;2000&rpar;](https://www.computer-history.info/Page4.dir/pages/Radiation.Printer.dir/index.html)
 - [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
 - [Closures and Objects Are Equivalent &lpar;2013&rpar;](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
 - [Brilliant jerks, crazy hotties, and other artifacts of range restriction &lpar;2019&rpar;](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
