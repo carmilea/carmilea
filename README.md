@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IQ is a dismal measure of intelligence &lpar;2019&rpar;](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)
+- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Ask HN: What is example of good documentation in your opinion?](https://news.ycombinator.com/item?id=33682599)
+- [Acquisition of Chess Knowledge in AlphaZero](https://www.pnas.org/doi/10.1073/pnas.2206625119)
+- [Airbus and Climate Change](https://qchenevier.github.io/huma/airbus-and-climate-change)
 - [Eye contact marks the rise and fall of shared attention in conversation](https://www.pnas.org/doi/10.1073/pnas.2106645118)
-- [UK food price inflation hit 16.2% in October – cost of food basics surging](https://www.bbc.co.uk/news/business-63641414)
-- [Help HN: Starlink Signup failed, no recourse](https://news.ycombinator.com/item?id=33681263)
-- [Tea: A new package manager from the creator of brew](https://github.com/teaxyz/cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
