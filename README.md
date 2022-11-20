@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Radiation Printer &lpar;2000&rpar;](https://www.computer-history.info/Page4.dir/pages/Radiation.Printer.dir/index.html)
+- [Nvidia and Microsoft team up to build AI cloud computer](https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/)
+- [Planes are still decades away from displacing most bird jobs](https://guzey.com/ai/planes-vs-birds/)
+- [Ask HN: Has there been more conspiracy comments on HN lately?](https://news.ycombinator.com/item?id=33677903)
 - [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
 - [Closures and Objects Are Equivalent &lpar;2013&rpar;](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
-- [Brilliant jerks, crazy hotties, and other artifacts of range restriction &lpar;2019&rpar;](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
-- [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
