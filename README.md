@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BBC ignores World Cup opening ceremony in favour of Qatar criticism](https://www.theguardian.com/football/2022/nov/20/bbc-ignores-world-cup-opening-ceremony-in-favour-of-qatar-criticism)
 - [Let Crypto Burn](https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3)
 - [Computer Latency: 1977-2017](https://danluu.com/input-lag/)
 - [Disassembling an Amazon Blink Mini Camera](https://astrid.tech/2022/07/07/0/blink-mini-disassembly/)
 - [While Crypto Bro Scammed Clients, Reporters Scammed Readers – Fair](https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/)
-- [How the First Transistor Worked](https://spectrum.ieee.org/transistor-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
