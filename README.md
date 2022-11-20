@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
 - [Running Arm64.aarch64 FreeBSD on QEMU/UTM.app on Apple Silicon](https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/)
 - [Reader Macros in Common Lisp &lpar;2014&rpar;](https://lisper.in/reader-macros)
 - [Greg Bear has died](https://file770.com/greg-bear-1951-2022/)
-- [‘Why am I talking to 10 guys?’ The rise and fall of dating apps](https://www.theguardian.com/lifeandstyle/2022/nov/20/the-rise-and-fall-of-dating-apps)
 - [Thinking Forth](https://thinking-forth.sourceforge.net/)
 <!-- BLOG-POST-LIST:END -->
 
