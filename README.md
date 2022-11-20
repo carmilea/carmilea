@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We need more water than rain can provide: refilling rivers with desalination](https://caseyhandmer.wordpress.com/2022/11/20/we-need-more-water-than-rain-can-provide-refilling-rivers-with-desalination/)
-- [Upgrading Multi-GPU Interconnectivity with the Third-Generation Nvidia NVSwitch](https://developer.nvidia.com/blog/upgrading-multi-gpu-interconnectivity-with-the-third-generation-nvidia-nvswitch/)
-- [Just putting it out there](https://www.cjchilvers.com/blog/just-putting-it-out-there/)
-- [Stop lying to yourself – you “fix it later”](https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/)
-- [South Africa&#39;s national electricity crisis to worsen](https://www.news24.com/fin24/economy/extreme-load-shedding-ahead-as-eskom-diesel-budget-runs-dry-20221120)
+- [Kite is saying farewell, and is open-sourcing all of its code.](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+- [A new wave of electric vehicles](https://www.whichcar.com.au/news/tesla-killers-next-wave-electric-vehicles)
+- [GitHub Access Token Exposure](https://hackerone.com/reports/1087489)
+- [The failure of FTX and Sam Bankman-Fried will leave deep scars](https://www.economist.com/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars)
+- [Show HN: A native macOS client for Apache Kafka](https://defn.io/2022/11/20/ann-franz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
