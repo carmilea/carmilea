@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter was special. But it&#39;s time to leave](https://www.pwnallthethings.com/p/twitter-was-special-but-its-time)
 - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
 - [TIC-80 tiny computer](https://tic80.com/)
 - [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten)
 - [Show HN: Illa – An open-source alternative to Retool](https://github.com/illacloud/illa-builder)
+- [Planes are still decades away from displacing most bird jobs](https://guzey.com/ai/planes-vs-birds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
