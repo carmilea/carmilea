@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Why am I talking to 10 guys?’ The rise and fall of dating apps](https://www.theguardian.com/lifeandstyle/2022/nov/20/the-rise-and-fall-of-dating-apps)
+- [Thinking Forth](https://thinking-forth.sourceforge.net/)
 - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
 - [TIC-80 tiny computer](https://tic80.com/)
 - [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten)
-- [Show HN: Illa – An open-source alternative to Retool](https://github.com/illacloud/illa-builder)
-- [Planes are still decades away from displacing most bird jobs](https://guzey.com/ai/planes-vs-birds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
