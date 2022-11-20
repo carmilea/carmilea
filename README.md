@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greg Bear to be taken off life support this week end](https://old.reddit.com/r/HaloStory/comments/yzmorp/sad_news_greg_bear_author_of_the_forerunner_saga/)
+- [Power Struggles Among Nice People](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
 - [271 years before Pantone, every color imaginable in an 800-page book](https://www.thisiscolossal.com/2014/05/color-book/)
+- [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
 - [Show HN: Rssnix – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
 - [Putting Z-Library on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
-- [Ask HN: What is the thing you&#39;ve build you regret the most?](https://news.ycombinator.com/item?id=33675112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
