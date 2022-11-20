@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“Just a bunch of idiots having fun”–a photo history of the LAN party](https://arstechnica.com/gaming/2022/11/just-a-bunch-of-idiots-having-fun-a-photo-history-of-the-lan-party/)
+- [Hacker News Parody Thread](http://bradconte.com/files/misc/HackerNewsParodyThread/)
+- [Ask HN: Publish old projects even though the source code embarrasses you by now?](https://news.ycombinator.com/item?id=33680469)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
 - [Mildly Interesting Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
-- [I don&#39;t want to go back to social media](https://lapcatsoftware.com/articles/socialmedia.html)
-- [Running Arm64.aarch64 FreeBSD on QEMU/UTM.app on Apple Silicon](https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
