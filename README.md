@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Hate Living in My Tiny House](https://www.fastcompany.com/90407740/why-i-hate-living-in-my-tiny-house)
+- [What Is DOS/4GW?](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
 - [Kite is saying farewell, and is open-sourcing all of its code.](https://www.kite.com/blog/product/kite-is-saying-farewell/)
-- [A new wave of electric vehicles](https://www.whichcar.com.au/news/tesla-killers-next-wave-electric-vehicles)
-- [GitHub Access Token Exposure](https://hackerone.com/reports/1087489)
-- [The failure of FTX and Sam Bankman-Fried will leave deep scars](https://www.economist.com/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars)
+- [How I fixed Mopac and why it had it coming – The importance of bug reports](https://omajoshi.com/blog/14/)
 - [Show HN: A native macOS client for Apache Kafka](https://defn.io/2022/11/20/ann-franz/)
 <!-- BLOG-POST-LIST:END -->
 
