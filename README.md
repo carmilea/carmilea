@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Just a bunch of idiots having fun”–a photo history of the LAN party](https://arstechnica.com/gaming/2022/11/just-a-bunch-of-idiots-having-fun-a-photo-history-of-the-lan-party/)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
+- [Mildly Interesting Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
+- [I don&#39;t want to go back to social media](https://lapcatsoftware.com/articles/socialmedia.html)
 - [Running Arm64.aarch64 FreeBSD on QEMU/UTM.app on Apple Silicon](https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/)
-- [Reader Macros in Common Lisp &lpar;2014&rpar;](https://lisper.in/reader-macros)
-- [Greg Bear has died](https://file770.com/greg-bear-1951-2022/)
-- [Thinking Forth](https://thinking-forth.sourceforge.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
