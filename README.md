@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you ever feel like you&#39;ve had enough of working in the IT industry?](https://news.ycombinator.com/item?id=33697872)
 - [There’s No Algorithms](https://photomatt.tumblr.com/post/701509650060886017/dear-mr-gaiman-i-am-but-a-humble-refugee-from)
-- [SQLite 3.40.0 with WASM Support](https://sqlite.org/releaselog/3_40_0.html)
+- [Anti-Woke Bank GloriFi to Shut Down](https://www.wsj.com/articles/anti-woke-bank-glorifi-to-shut-down-11669051554)
 - [Launch HN: Kalshi &lpar;YC W19&rpar; – A regulated exchange for trading on events](https://news.ycombinator.com/item?id=33696486)
 - [What story from the PDP-8 era would make a good script?](https://news.ycombinator.com/item?id=33696270)
-- [Ask HN: What weird technical scene are you fond/part of?](https://news.ycombinator.com/item?id=33696216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
