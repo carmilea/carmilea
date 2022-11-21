@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re in a Cult](https://labskausleben.bearblog.dev/youre-in-a-cult/)
+- [Stripe account suffered a card test](https://news.ycombinator.com/item?id=33688298)
 - [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
 - [Bob Iger back as Disney CEO](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
 - [JR East mulls seats for dogs on some special Shinkansen rides](https://www.asahi.com/ajw/articles/14759577)
-- [Criticizing Computers](https://annasofia.xyz/2022/11/05/criticizing-computers.html)
-- [OpenZFS on OS X](https://github.com/openzfsonosx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
