@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
+- [The Simple Geometry Behind Brownie Bake Offs and Equal Areas](https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/)
+- [NASA’s Orion spacecraft reaches the moon, flying 81 miles above the surface](https://www.washingtonpost.com/technology/2022/11/21/orion-moon-orbit-arrives/)
 - [Show HN: A color picker for named web colors only](https://arantius.github.io/web-color-wheel/)
-- [The Genius of Binary Space Partitioning in Doom](https://twobithistory.org/2019/11/06/doom-bsp.html)
-- [Betting on Things That Never Change](https://collabfund.com/blog/betting-on-things-that-never-change/)
-- [Semantic Search with SQLite](https://neuml.github.io/txtai/embeddings/query/)
-- [Why some feces float and others sink](https://phys.org/news/2022-11-feces.html)
+- [Show HN: Open-source text-to-geolocation models](https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
