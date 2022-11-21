@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scala 3 is not production ready](https://gvolpe.com/blog/scala3-is-not-prod-ready/)
+- [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
+- [Disney Shocker Bob Iger Back as CEO, Bob Chapek Out](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
+- [JR East mulls seats for dogs on some special Shinkansen rides](https://www.asahi.com/ajw/articles/14759577)
+- [AWS and Blockchain](https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain)
 - [Criticizing Computers](https://annasofia.xyz/2022/11/05/criticizing-computers.html)
-- [OpenZFS on OS X](https://github.com/openzfsonosx)
-- [Minecraft Running on Asahi Linux with Open Source GPU Drivers](https://social.treehouse.systems/@alyssa/109378606742926582)
-- [France bans Office 365 and Google Docs from schools and public administration](https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
