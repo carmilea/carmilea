@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2022-41924 – tailscaled can be used to remotely execute code](https://tailscale.com/security-bulletins/#ts-2022-004)
-- [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
-- [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
-- [DVD Sales Surpass Blu-ray in 2021: Physical Format Market](https://itigic.com/dvd-sales-surpass-blu-ray-in-2021-physical-format-market/)
-- [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
+- [What story from the PDP-8 era would make a good script?](https://news.ycombinator.com/item?id=33696270)
+- [Ask HN: What weird technical scene are you fond/part of?](https://news.ycombinator.com/item?id=33696216)
+- [Apple Says iPhone Usage Data Is Anonymous. New Tests Say: Not True](https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619)
+- [CVE-2022-41924 – tailscaled can be used to remotely execute code on Windows](https://emily.id.au/tailscale)
+- [Ask HN: Why is my two day old submit on HN frontpage shown as 1 hour old?](https://news.ycombinator.com/item?id=33695320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
