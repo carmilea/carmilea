@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
+- [Microsoft is turning Windows 11&#39;s Start Menu into an ad delivery system](https://www.ghacks.net/2022/11/21/microsoft-is-turning-windows-11s-start-menu-into-an-advertisement-delivery-system/)
 - [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
+- [DVD Sales Surpass Blu-ray in 2021: Physical Format Market](https://itigic.com/dvd-sales-surpass-blu-ray-in-2021-physical-format-market/)
 - [The Simple Geometry Behind Brownie Bake Offs and Equal Areas](https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/)
-- [NASA’s Orion spacecraft reaches the moon, flying 81 miles above the surface](https://www.washingtonpost.com/technology/2022/11/21/orion-moon-orbit-arrives/)
-- [Show HN: A color picker for named web colors only](https://arantius.github.io/web-color-wheel/)
-- [Show HN: Open-source text-to-geolocation models](https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
