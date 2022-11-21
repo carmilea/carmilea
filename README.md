@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Termux on Android 5 or 6](https://github.com/termux/termux-app/wiki/Termux-on-android-5-or-6)
-- [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
-- [Show HN: Buzz, strongly typed scripting language written in Zig](https://github.com/buzz-language/buzz)
-- [Kubernetes Cordon: How It Works and When to Use It](https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/)
-- [Spiral’s Homomorphic Encryption – Is This the Future of Privacy?](https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/)
+- [Show HN: A color picker for named web colors only](https://arantius.github.io/web-color-wheel/)
+- [The Genius of Binary Space Partitioning in Doom](https://twobithistory.org/2019/11/06/doom-bsp.html)
+- [Betting on Things That Never Change](https://collabfund.com/blog/betting-on-things-that-never-change/)
+- [Semantic Search with SQLite](https://neuml.github.io/txtai/embeddings/query/)
+- [Why some feces float and others sink](https://phys.org/news/2022-11-feces.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
