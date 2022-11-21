@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
+- [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
 - [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
 - [Is wine fake?](https://asteriskmag.com/issues/1/is-wine-fake)
 - [Eye of the Beholder: C64 Port](https://bitbucket.org/JackAsser/eye-of-the-beholder-c64/src/master/)
-- [The Last Ridge Racer](https://arcadeblogger.com/2022/11/20/the-last-ridge-racer/)
-- [FizzBuzz in Haskell [pdf]](https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
