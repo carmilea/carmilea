@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proof of solvency and beyond](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
+- [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [We are sorry to inform you that you are in a cult](https://labskausleben.bearblog.dev/youre-in-a-cult/)
 - [Can&#39;t Unsee](https://cantunsee.space/)
 - [Stripe account suffered a card test](https://news.ycombinator.com/item?id=33688298)
-- [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
-- [Bob Iger back as Disney CEO](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
