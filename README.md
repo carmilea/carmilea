@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2022-41924 – tailscaled can be used to remotely execute code](https://tailscale.com/security-bulletins/#ts-2022-004)
 - [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
-- [Microsoft is turning Windows 11&#39;s Start Menu into an ad delivery system](https://www.ghacks.net/2022/11/21/microsoft-is-turning-windows-11s-start-menu-into-an-advertisement-delivery-system/)
 - [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 - [DVD Sales Surpass Blu-ray in 2021: Physical Format Market](https://itigic.com/dvd-sales-surpass-blu-ray-in-2021-physical-format-market/)
-- [The Simple Geometry Behind Brownie Bake Offs and Equal Areas](https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/)
+- [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
