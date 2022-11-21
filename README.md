@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Termux on Android 5 or 6](https://github.com/termux/termux-app/wiki/Termux-on-android-5-or-6)
+- [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 - [Kubernetes Cordon: How It Works and When to Use It](https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/)
 - [Spiral’s Homomorphic Encryption – Is This the Future of Privacy?](https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/)
 - [Berty: Privacy-first messaging app](https://berty.tech/)
-- [Proof of solvency and beyond](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
-- [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
