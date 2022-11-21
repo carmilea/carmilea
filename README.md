@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
-- [Disney Shocker Bob Iger Back as CEO, Bob Chapek Out](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
+- [Bob Iger back as Disney CEO](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
 - [JR East mulls seats for dogs on some special Shinkansen rides](https://www.asahi.com/ajw/articles/14759577)
-- [AWS and Blockchain](https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain)
 - [Criticizing Computers](https://annasofia.xyz/2022/11/05/criticizing-computers.html)
+- [OpenZFS on OS X](https://github.com/openzfsonosx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
