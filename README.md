@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Berty: The privacy-first messaging app](https://berty.tech/)
 - [Proof of solvency and beyond](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [We are sorry to inform you that you are in a cult](https://labskausleben.bearblog.dev/youre-in-a-cult/)
 - [Can&#39;t Unsee](https://cantunsee.space/)
-- [Stripe account suffered a card test](https://news.ycombinator.com/item?id=33688298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
