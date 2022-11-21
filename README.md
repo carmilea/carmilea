@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Briar: Peer-to-Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
-- [Liquid and immersion is the new cool at Supercomputing &#39;22](https://www.theregister.com/2022/11/19/liquid_cooling_sc22/)
-- [I hate living in my tiny house](https://www.fastcompany.com/90407740/why-i-hate-living-in-my-tiny-house)
-- [DOS/4GW and Protected Mode &lpar;2021&rpar;](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
-- [Kite is saying farewell and open-sourcing its code](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+- [Scala 3 is not production ready](https://gvolpe.com/blog/scala3-is-not-prod-ready/)
+- [Criticizing Computers](https://annasofia.xyz/2022/11/05/criticizing-computers.html)
+- [OpenZFS on OS X](https://github.com/openzfsonosx)
+- [Minecraft Running on Asahi Linux with Open Source GPU Drivers](https://social.treehouse.systems/@alyssa/109378606742926582)
+- [France bans Office 365 and Google Docs from schools and public administration](https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
