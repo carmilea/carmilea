@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brotli-G: A GPU compression/decompression standard for digital assets](https://gpuopen.com/brotli-g-sdk-announce/)
+- [Cobalt – a stripped down Chromium for apps, Linux and embedded systems](https://cobalt.dev/overview.html)
+- [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
+- [Rhasspy – Offline private voice assistant for many human languages](https://github.com/rhasspy/rhasspy)
 - [Tax websites sending user information to Facebook](https://www.theverge.com/2022/11/22/23471842/facebook-hr-block-taxact-taxslayer-info-sharing)
-- [Dimming the Sun to Cool the Planet](https://www.newyorker.com/news/daily-comment/dimming-the-sun-to-cool-the-planet-is-a-desperate-idea-yet-were-inching-toward-it)
-- [Hanami 2.0](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)
-- [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
-- [Show HN: JXL.js – JPEG XL Decoder in JavaScript Using WebAssembly in Web Worker](https://github.com/niutech/jxl.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
