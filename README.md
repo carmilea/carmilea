@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TinyLLama – A Tiny x86 Retrocomputer](https://github.com/eivindbohler/tinyllama)
 - [Oh, the Places Your Apple ID Will Go](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
+- [Win for Open-Source Legally: Settlement Reached in Stockfish vs. ChessBase](https://lichess.org/blog/Y3u1mRAAACIApBVn/settlement-reached-in-stockfish-v-chessbase)
+- [An autistic man was surfing the internet on his dad’s sofa, then the FBI arrived](https://www.economist.com/1843/2022/11/21/an-autistic-man-was-surfing-the-internet-on-his-dads-sofa-then-the-fbi-turned-up)
 - [Telling It Like It Is in Plain English &lpar;Calling SBF a Fraud in March&rpar;](https://jeffreycarter.substack.com/p/telling-it-like-it-is)
-- [Perlisms – “Epigrams in Programming”](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
-- [TinyGL 0.4.1](https://bellard.org/TinyGL/)
-- [Why Twitter didn’t go down: From a real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
