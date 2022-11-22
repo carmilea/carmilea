@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UPchieve &lpar;YC W21 EdTech Nonprofit&rpar; Is Hiring Engineers and a Head of Engineering](https://upchieve.welcomekit.co/)
+- [Frog: OCR Tool for Linux](https://tenderowl.com/work/frog/)
 - [Turing Machine in Prolog &lpar;2017&rpar;](https://www.metalevel.at/prolog/showcases/turing.pl)
 - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
-- [TinyLLama – A Tiny x86 Retrocomputer](https://github.com/eivindbohler/tinyllama)
-- [Oh, the Places Your Apple ID Will Go](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
-- [Win for Open-Source Legally: Settlement Reached in Stockfish vs. ChessBase](https://lichess.org/blog/Y3u1mRAAACIApBVn/settlement-reached-in-stockfish-v-chessbase)
+- [D2 is now open source – a modern language that turns text to diagrams](https://github.com/terrastruct/d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
