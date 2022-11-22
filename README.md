@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tax websites sending user information to Facebook](https://www.theverge.com/2022/11/22/23471842/facebook-hr-block-taxact-taxslayer-info-sharing)
+- [Dimming the Sun to Cool the Planet](https://www.newyorker.com/news/daily-comment/dimming-the-sun-to-cool-the-planet-is-a-desperate-idea-yet-were-inching-toward-it)
+- [Hanami 2.0](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)
+- [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
 - [Show HN: JXL.js – JPEG XL Decoder in JavaScript Using WebAssembly in Web Worker](https://github.com/niutech/jxl.js)
-- [UPchieve &lpar;YC W21 EdTech Nonprofit&rpar; Is Hiring Engineers and a Head of Engineering](https://upchieve.welcomekit.co/)
-- [Self Hosting a Google Maps Alternative with OpenStreetMap](https://wcedmisten.fyi/post/self-hosting-osm/)
-- [Frog: OCR Tool for Linux](https://tenderowl.com/work/frog/)
-- [Turing Machine in Prolog &lpar;2017&rpar;](https://www.metalevel.at/prolog/showcases/turing.pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
