@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto and Other New Faiths](https://arnoldkling.substack.com/p/crypto-and-other-new-faiths)
+- [LPD: Libertarian Police Department &lpar;2014&rpar;](https://www.newyorker.com/humor/daily-shouts/l-p-d-libertarian-police-department)
 - [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
+- [Visualising real-time Sydney bus congestion with Marey charts](https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/)
 - [Why Gratitude Is the Secret Weapon for Attracting More Opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
 - [Decades of Air Pollution Undermine the Immune System](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
-- [RimWorld: A sci fi colony SIM driven by an intelligent AI storyteller](https://rimworldgame.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
