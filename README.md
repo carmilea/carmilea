@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Concrete Barriers](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers)
+- [Why Twitter didn’t go down: From a real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
+- [Deus Ex: Human Revolution in &lpar;up to&rpar; gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
+- [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
+- [Basics of Concrete Barriers &lpar;2000&rpar;](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers)
 - [Show HN: Wiretap – Transparent WireGuard proxy server without root](https://github.com/sandialabs/wiretap)
-- [Justice Dept. urges Supreme Court to deny certiorari in WhatsApp vs. NSO Group [pdf]](https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf)
-- [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
-- [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
