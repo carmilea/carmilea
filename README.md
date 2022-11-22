@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Hoku – The app that makes group travel simple](https://hoku.travel/)
+- [VSCode-Neovim: Use embedded Neovim in VSCode without emulation](https://github.com/vscode-neovim/vscode-neovim)
 - [Deterministic Linux for controlled testing and software bug-finding](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/)
-- [Effective Altruism Is about Getting Rich with a Clean Conscience](https://www.nileshonly.com/effective-altruism-is-about-getting-rich-with-a-clean-conscience)
+- [Matthias Wandel woodworks his way to 1.72M subscribers](https://www.cbc.ca/news/canada/new-brunswick/matthias-wandel-fredericton-woodworker-1.6659038)
 - [Barclays using TeamViewer font to warn customers](https://old.reddit.com/r/UKPersonalFinance/comments/z1uvo8/this_felt_like_a_scam_how_did_my_bank_know_what/)
-- [Finley &lpar;YC W21&rpar; is hiring across all teams to build capital markets software](https://news.ycombinator.com/item?id=33707952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
