@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Recommendation Algorithms No Recommendation Engine Is Whole Without](https://memgraph.com/blog/five-recommendation-algorithms-no-recommendation-engine-is-whole-without)
 - [TinyLLama – A Tiny x86 Retrocomputer](https://github.com/eivindbohler/tinyllama)
 - [Oh, the Places Your Apple ID Will Go](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
 - [Win for Open-Source Legally: Settlement Reached in Stockfish vs. ChessBase](https://lichess.org/blog/Y3u1mRAAACIApBVn/settlement-reached-in-stockfish-v-chessbase)
-- [An autistic man was surfing the internet on his dad’s sofa, then the FBI arrived](https://www.economist.com/1843/2022/11/21/an-autistic-man-was-surfing-the-internet-on-his-dads-sofa-then-the-fbi-turned-up)
+- [Telling It Like It Is in Plain English &lpar;Calling SBF a Fraud in March&rpar;](https://jeffreycarter.substack.com/p/telling-it-like-it-is)
+- [Perlisms – “Epigrams in Programming”](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
