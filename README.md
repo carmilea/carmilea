@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of the Non-Working Class](https://www.iwf.org/2022/09/14/nicholas-eberstadt-on-the-rising-non-working-class/)
+- [Effective Altruism Is about Getting Rich with a Clean Conscience](https://www.nileshonly.com/effective-altruism-is-about-getting-rich-with-a-clean-conscience)
+- [Barclays using TeamViewer font to warn customers](https://old.reddit.com/r/UKPersonalFinance/comments/z1uvo8/this_felt_like_a_scam_how_did_my_bank_know_what/)
 - [Finley &lpar;YC W21&rpar; is hiring across all teams to build capital markets software](https://news.ycombinator.com/item?id=33707952)
 - [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage?](https://news.ycombinator.com/item?id=33707889)
-- [Mark Zuckerberg is set to resign next year – “will not affect metaverse”](https://theleak.co/2022/11/22/mark-zuckerberg-is-set-to-resign-next-year/)
-- [November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
-- [The Perks of a High-Documentation, Low-Meeting Work Culture](https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
