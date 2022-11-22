@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avenue &lpar;YC W21&rpar; Is Hiring Software Engineers in NYC &lpar;React/TypeScript/TRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
-- [Dwarf Fortress – randomly generated, persistent fantasy world](http://www.bay12games.com/dwarves/features.html)
-- [Show HN: Hoku – The app that makes group travel simple](https://hoku.travel/)
-- [VSCode-Neovim: Use embedded Neovim in VSCode without emulation](https://github.com/vscode-neovim/vscode-neovim)
-- [Deterministic Linux for controlled testing and software bug-finding](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/)
+- [Crypto and Other New Faiths](https://arnoldkling.substack.com/p/crypto-and-other-new-faiths)
+- [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
+- [Why Gratitude Is the Secret Weapon for Attracting More Opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
+- [Decades of Air Pollution Undermine the Immune System](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
+- [RimWorld: A sci fi colony SIM driven by an intelligent AI storyteller](https://rimworldgame.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
