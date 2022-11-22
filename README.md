@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: JXL.js – JPEG XL Decoder in JavaScript Using WebAssembly in Web Worker](https://github.com/niutech/jxl.js)
 - [UPchieve &lpar;YC W21 EdTech Nonprofit&rpar; Is Hiring Engineers and a Head of Engineering](https://upchieve.welcomekit.co/)
+- [Self Hosting a Google Maps Alternative with OpenStreetMap](https://wcedmisten.fyi/post/self-hosting-osm/)
 - [Frog: OCR Tool for Linux](https://tenderowl.com/work/frog/)
 - [Turing Machine in Prolog &lpar;2017&rpar;](https://www.metalevel.at/prolog/showcases/turing.pl)
-- [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
-- [D2 is now open source – a modern language that turns text to diagrams](https://github.com/terrastruct/d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
