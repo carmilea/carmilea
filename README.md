@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Concrete Barriers](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers)
+- [Show HN: Wiretap – Transparent WireGuard proxy server without root](https://github.com/sandialabs/wiretap)
+- [Justice Dept. urges Supreme Court to deny certiorari in WhatsApp vs. NSO Group [pdf]](https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf)
 - [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
-- [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
 - [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
-- [Is wine fake?](https://asteriskmag.com/issues/1/is-wine-fake)
-- [Eye of the Beholder: C64 Port](https://bitbucket.org/JackAsser/eye-of-the-beholder-c64/src/master/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
