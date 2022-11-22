@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My hustle culture friend just died of a heart attack at age 32](https://old.reddit.com/r/antiwork/comments/z0yp0z/my_hustle_culture_friend_just_died_of_a_heart/)
+- [Finley &lpar;YC W21&rpar; is hiring across all teams to build capital markets software](https://news.ycombinator.com/item?id=33707952)
+- [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage?](https://news.ycombinator.com/item?id=33707889)
+- [Mark Zuckerberg is set to resign next year – “will not affect metaverse”](https://theleak.co/2022/11/22/mark-zuckerberg-is-set-to-resign-next-year/)
 - [November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
-- [Human-level play in the game of Diplomacy by combining language models](https://www.science.org/doi/10.1126/science.ade9097)
-- [Quickadd: A Python library for extracting date and time from natural language](https://github.com/Acreom/quickadd)
-- [Human-Level Play in Diplomacy Combining Language Models with Strategic Reasoning](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+- [The Perks of a High-Documentation, Low-Meeting Work Culture](https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
