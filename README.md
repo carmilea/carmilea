@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brotli-G: A GPU compression/decompression standard for digital assets](https://gpuopen.com/brotli-g-sdk-announce/)
-- [Cobalt – a stripped down Chromium for apps, Linux and embedded systems](https://cobalt.dev/overview.html)
-- [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
-- [Rhasspy – Offline private voice assistant for many human languages](https://github.com/rhasspy/rhasspy)
-- [Tax websites sending user information to Facebook](https://www.theverge.com/2022/11/22/23471842/facebook-hr-block-taxact-taxslayer-info-sharing)
+- [My hustle culture friend just died of a heart attack at age 32](https://old.reddit.com/r/antiwork/comments/z0yp0z/my_hustle_culture_friend_just_died_of_a_heart/)
+- [November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
+- [Human-level play in the game of Diplomacy by combining language models](https://www.science.org/doi/10.1126/science.ade9097)
+- [Quickadd: A Python library for extracting date and time from natural language](https://github.com/Acreom/quickadd)
+- [Human-Level Play in Diplomacy Combining Language Models with Strategic Reasoning](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
