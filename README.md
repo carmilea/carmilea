@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TinyGL 0.4.1](https://bellard.org/TinyGL/)
 - [Why Twitter didn’t go down: From a real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
+- [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
 - [Deus Ex: Human Revolution in &lpar;up to&rpar; gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
 - [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
-- [Basics of Concrete Barriers &lpar;2000&rpar;](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers)
-- [Show HN: Wiretap – Transparent WireGuard proxy server without root](https://github.com/sandialabs/wiretap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
