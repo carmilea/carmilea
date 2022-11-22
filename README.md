@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of the Non-Working Class](https://www.iwf.org/2022/09/14/nicholas-eberstadt-on-the-rising-non-working-class/)
+- [Show HN: Hoku – The app that makes group travel simple](https://hoku.travel/)
+- [Deterministic Linux for controlled testing and software bug-finding](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/)
 - [Effective Altruism Is about Getting Rich with a Clean Conscience](https://www.nileshonly.com/effective-altruism-is-about-getting-rich-with-a-clean-conscience)
 - [Barclays using TeamViewer font to warn customers](https://old.reddit.com/r/UKPersonalFinance/comments/z1uvo8/this_felt_like_a_scam_how_did_my_bank_know_what/)
 - [Finley &lpar;YC W21&rpar; is hiring across all teams to build capital markets software](https://news.ycombinator.com/item?id=33707952)
-- [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage?](https://news.ycombinator.com/item?id=33707889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
