@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perlisms – “Epigrams in Programming”](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [TinyGL 0.4.1](https://bellard.org/TinyGL/)
 - [Why Twitter didn’t go down: From a real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
-- [Deus Ex: Human Revolution in &lpar;up to&rpar; gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
-- [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
+- [Panoramas of Deus Ex Human Revolution](https://joumxyzptlk.de/deusex_panorama.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
