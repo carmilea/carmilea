@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What If We Replace Guns and Bullets with Bows and Arrows?](https://www.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows.html)
+- [Why Isn’t the Whole World Rich?](https://asteriskmag.com/issues/1/why-isn-t-the-whole-world-rich)
 - [Migrating from Warp to Axum](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2)
-- [Release 18 of Rust based MQTT broker and client](https://github.com/bytebeamio/rumqtt/releases/tag/R18)
 - [Valid Reasons to Hate on Art](https://lrios.bearblog.dev/valid-reasons-to-hate-on-art/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [Show HN: I made a pretty relaxing puzzle game](https://rotaboxes.com)
+- [Show HN: Noctie – A chess AI that predicts your rating](https://noctie.ai/rate-me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
