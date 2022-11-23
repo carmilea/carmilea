@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from Warp to Axum](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2)
+- [Release 18 of Rust based MQTT broker and client](https://github.com/bytebeamio/rumqtt/releases/tag/R18)
+- [Valid Reasons to Hate on Art](https://lrios.bearblog.dev/valid-reasons-to-hate-on-art/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [Show HN: I made a pretty relaxing puzzle game](https://rotaboxes.com)
-- [Common Lisp Object System &lpar;CLOS&rpar;](https://hescaide.me/clos/)
-- [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
-- [Strange Attractors](https://syntopia.github.io/StrangeAttractors/)
-- [Startup to exit: lessons from a YC founder](https://www.lennysnewsletter.com/p/startup-to-exit-lessons-from-a-first)
 <!-- BLOG-POST-LIST:END -->
 
 ---
