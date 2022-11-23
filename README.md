@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if we talked about over-60s’ screen time as we talk about young people’s?](https://webdevlaw.uk/2022/08/18/a-thought-experiment-what-if-we-talked-about-the-over-60s-screen-time-the-way-we-talk-about-young-peoples-screen-time/)
-- [Enlightenment and lighting controls](https://computer.rip/2022-11-23-enlightenment-and-lighting-controls.html)
-- [Building the PiDP-11 Dec PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
-- [Last.fm turns 20](https://www.theverge.com/2022/11/22/23473358/lastfm-discord-bot-neil-young-spotify)
-- [Show HN: I built an app that scans every social media network for your username](https://www.handlefinder.com/)
+- [Earth might be experiencing 7th mass extinction, not 6th](https://news.ucr.edu/articles/2022/11/22/earth-might-be-experiencing-7th-mass-extinction-not-6th)
+- [Socrates on the Forgetfulness That Comes with Writing](https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing)
+- [First active chemistry on an exoplanet revealed by Webb telescope](https://www.nature.com/articles/d41586-022-03820-3)
+- [Westinghouse sees a tech disrupter in its eVinci microreactor](https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/)
+- [Ruby concurrency is hard: how I became a Ruby on Rails contributor](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
