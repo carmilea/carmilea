@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
-- [Cross-platform I/O built on io_uring and kqueue &lpar;in TigerBeetle&rpar;](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
-- [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
-- [Fosstodon Hub – More Upgrades](https://hub.fosstodon.org/more-upgrades-twitter-storm/)
-- [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
+- [I built an app that scans every social media network for your username](https://www.handlefinder.com/)
+- [SingleStore Hackathon 2022: Here Are the Big Winners](https://www.singlestore.com/blog/singlestore-hackathon-2022-big-winners)
+- [Never Use a Warning When You Mean Undo](https://alistapart.com/article/neveruseawarning/)
+- [AI Reveals New Possibilities in Matrix Multiplication](https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/)
+- [Show HN: Benthos Studio – A modern take on Yahoo Pipes](https://studio.benthos.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
