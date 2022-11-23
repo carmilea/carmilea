@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Longtermism, or How to Get-Out-of-Caring While Feeling Moral and Smart](https://www.pestemag.com/books-before-you-die-or-after/longtermism-or-how-to-get-out-of-caring-while-feeling-moral-and-smart-s52gf-6tzmf)
 - [How Long Would Society Last During a Total Grid Collapse?](https://practical.engineering/blog/2022/11/22/how-long-would-society-last-during-a-total-grid-collapse)
 - [Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River](https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/)
-- [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
+- [Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
 - [Safely writing code that isn&#39;t thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
+- [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
