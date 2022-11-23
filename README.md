@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel on Demand](https://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html)
+- [Strange Attractors](https://syntopia.github.io/StrangeAttractors/)
+- [Startup to exit: lessons from a YC founder](https://www.lennysnewsletter.com/p/startup-to-exit-lessons-from-a-first)
 - [Heterogeneous-Memory Storage Engine](https://hse-project.github.io/3.x)
 - [Someone has to say it: Voice assistants are not doing it for big tech](https://www.theregister.com/2022/11/23/voice_assistants_fail/)
-- [2D Rubik&#39;s Cube easier to understand](https://twitter.com/jagarikin/status/1593771091738374144)
-- [The miracle of Smalltalk’s become: &lpar;2009&rpar;](https://gbracha.blogspot.com/2009/07/miracle-of-become.html)
-- [Unix time is bad and needs replacement, not UTC](https://z.vandillen.dev/2022/11/21/unix-time-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
