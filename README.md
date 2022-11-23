@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enlightenment and lighting controls](https://computer.rip/2022-11-23-enlightenment-and-lighting-controls.html)
 - [Building the PiDP-11 Dec PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
+- [Last.fm turns 20](https://www.theverge.com/2022/11/22/23473358/lastfm-discord-bot-neil-young-spotify)
 - [Show HN: I built an app that scans every social media network for your username](https://www.handlefinder.com/)
 - [SingleStore Hackathon 2022: Here Are the Big Winners](https://www.singlestore.com/blog/singlestore-hackathon-2022-big-winners)
-- [Only positive reinforcement for researchers in some fields](https://statmodeling.stat.columbia.edu/2022/11/21/only-positive-reinforcement-for-researchers-in-some-fields/)
-- [Never use a warning when you mean undo &lpar;2007&rpar;](https://alistapart.com/article/neveruseawarning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
