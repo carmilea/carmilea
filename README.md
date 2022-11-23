@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heterogeneous-Memory Storage Engine](https://hse-project.github.io/3.x)
+- [Someone has to say it: Voice assistants are not doing it for big tech](https://www.theregister.com/2022/11/23/voice_assistants_fail/)
+- [2D Rubik&#39;s Cube easier to understand](https://twitter.com/jagarikin/status/1593771091738374144)
 - [The miracle of Smalltalk’s become: &lpar;2009&rpar;](https://gbracha.blogspot.com/2009/07/miracle-of-become.html)
 - [Unix time is bad and needs replacement, not UTC](https://z.vandillen.dev/2022/11/21/unix-time-bad/)
-- [Who ranks better? Memgraph vs. NetworkX PageRank](https://memgraph.com/blog/who-ranks-better-memgraph-vs-networkx-pagerank)
-- [WikiLeaks is struggling to stay online as millions of documents disappear](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
-- [Ashby &lpar;YC W19&rpar; is hiring engineers who also write product specs](https://www.ashbyhq.com/careers?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
