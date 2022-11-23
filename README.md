@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What If We Replace Guns and Bullets with Bows and Arrows?](https://www.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows.html)
-- [Why Isn’t the Whole World Rich?](https://asteriskmag.com/issues/1/why-isn-t-the-whole-world-rich)
-- [Migrating from Warp to Axum](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2)
-- [Valid Reasons to Hate on Art](https://lrios.bearblog.dev/valid-reasons-to-hate-on-art/)
-- [Show HN: Noctie – A chess AI that predicts your rating](https://noctie.ai/rate-me)
+- [Ooh.directory](https://ooh.directory)
+- [Chief scientist of major corporation can’t handle criticism of the work he hypes](https://statmodeling.stat.columbia.edu/2022/11/23/bigshot-chief-scientist-of-major-corporation-cant-handle-criticism-of-the-work-he-hypes/)
+- [Mercedes locks faster acceleration behind a $1,200 annual paywall](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
+- [Alertness associated with last night’s sleep, physical activity and food intake](https://www.nature.com/articles/s41467-022-34503-2)
+- [How not to think about cells](https://www.subanima.org/veritasium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
