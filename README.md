@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LPD: Libertarian Police Department &lpar;2014&rpar;](https://www.newyorker.com/humor/daily-shouts/l-p-d-libertarian-police-department)
-- [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
-- [Visualising real-time Sydney bus congestion with Marey charts](https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/)
-- [Why Gratitude Is the Secret Weapon for Attracting More Opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
-- [Decades of Air Pollution Undermine the Immune System](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
+- [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
+- [Safely writing code that isn&#39;t thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
+- [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
+- [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/)
+- [AP fired reporter after dangerous blunder – Slack chats reveal chaotic process](https://www.semafor.com/article/11/22/2022/ap-fired-a-reporter-after-a-dangerous-blunder-slack-messages-reveal-a-chaotic-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
