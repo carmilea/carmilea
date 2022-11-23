@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The miracle of Smalltalk’s become: &lpar;2009&rpar;](https://gbracha.blogspot.com/2009/07/miracle-of-become.html)
+- [Unix time is bad and needs replacement, not UTC](https://z.vandillen.dev/2022/11/21/unix-time-bad/)
+- [Who ranks better? Memgraph vs. NetworkX PageRank](https://memgraph.com/blog/who-ranks-better-memgraph-vs-networkx-pagerank)
 - [WikiLeaks is struggling to stay online as millions of documents disappear](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
 - [Ashby &lpar;YC W19&rpar; is hiring engineers who also write product specs](https://www.ashbyhq.com/careers?utm_source=hn)
-- [The Shrinking Future of College](https://www.vox.com/the-highlight/23428166/college-enrollment-population-education-crash)
-- [UV Devices Could Keep Indoor Air Free of Viruses](https://www.nature.com/articles/d41586-022-03360-w)
-- [GitBook bypassing Cloudflare DNS to route traffic to their domain](https://community.cloudflare.com/t/dns-updates-issues-with-cloudflare-partners-like-gitbook/341449)
 <!-- BLOG-POST-LIST:END -->
 
 ---
