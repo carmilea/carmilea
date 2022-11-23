@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Long Would Society Last During a Total Grid Collapse?](https://practical.engineering/blog/2022/11/22/how-long-would-society-last-during-a-total-grid-collapse)
-- [Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River](https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/)
-- [Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
-- [Safely writing code that isn&#39;t thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
-- [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
+- [UV Devices Could Keep Indoor Air Free of Viruses](https://www.nature.com/articles/d41586-022-03360-w)
+- [GitBook bypassing Cloudflare DNS to route traffic to their domain](https://community.cloudflare.com/t/dns-updates-issues-with-cloudflare-partners-like-gitbook/341449)
+- [The Ancient Japanese Technique That Produces Lumber Without Cutting Trees](https://dsfantiquejewelry.com/blogs/interesting-facts/the-ancient-japanese-technique-that-produces-lumber-without-cutting-trees)
+- [How to explain the KGB&#39;s success identifying CIA agents in the field](https://www.salon.com/2015/09/26/how_to_explain_the_kgbs_amazing_success_identifying_cia_agents_in_the_field/)
+- [How long would society last during a total grid collapse?](https://practical.engineering/blog/2022/11/22/how-long-would-society-last-during-a-total-grid-collapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
