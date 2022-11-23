@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iFixit Put Up Right to Repair Billboard Along New York Governor&#39;s Drive to Work](https://pirg.org/updates/update-new-billboard-reminds-new-york-gov-hochul-to-sign-right-to-repair-law/)
 - [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
 - [Safely writing code that isn&#39;t thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
 - [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
 - [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/)
-- [AP fired reporter after dangerous blunder – Slack chats reveal chaotic process](https://www.semafor.com/article/11/22/2022/ap-fired-a-reporter-after-a-dangerous-blunder-slack-messages-reveal-a-chaotic-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
