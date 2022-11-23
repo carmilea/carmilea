@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an app that scans every social media network for your username](https://www.handlefinder.com/)
+- [Building the PiDP-11 Dec PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
+- [Show HN: I built an app that scans every social media network for your username](https://www.handlefinder.com/)
 - [SingleStore Hackathon 2022: Here Are the Big Winners](https://www.singlestore.com/blog/singlestore-hackathon-2022-big-winners)
-- [Never Use a Warning When You Mean Undo](https://alistapart.com/article/neveruseawarning/)
-- [AI Reveals New Possibilities in Matrix Multiplication](https://www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/)
-- [Show HN: Benthos Studio – A modern take on Yahoo Pipes](https://studio.benthos.dev/)
+- [Only positive reinforcement for researchers in some fields](https://statmodeling.stat.columbia.edu/2022/11/21/only-positive-reinforcement-for-researchers-in-some-fields/)
+- [Never use a warning when you mean undo &lpar;2007&rpar;](https://alistapart.com/article/neveruseawarning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
