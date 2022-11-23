@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
+- [Cross-platform I/O built on io_uring and kqueue &lpar;in TigerBeetle&rpar;](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
 - [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
 - [Fosstodon Hub – More Upgrades](https://hub.fosstodon.org/more-upgrades-twitter-storm/)
 - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
-- [Ooh.directory](https://ooh.directory)
-- [Chief scientist of major corporation can’t handle criticism of the work he hypes](https://statmodeling.stat.columbia.edu/2022/11/23/bigshot-chief-scientist-of-major-corporation-cant-handle-criticism-of-the-work-he-hypes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
