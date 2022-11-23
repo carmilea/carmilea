@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
+- [Fosstodon Hub – More Upgrades](https://hub.fosstodon.org/more-upgrades-twitter-storm/)
+- [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 - [Ooh.directory](https://ooh.directory)
 - [Chief scientist of major corporation can’t handle criticism of the work he hypes](https://statmodeling.stat.columbia.edu/2022/11/23/bigshot-chief-scientist-of-major-corporation-cant-handle-criticism-of-the-work-he-hypes/)
-- [Mercedes locks faster acceleration behind a $1,200 annual paywall](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
-- [Alertness associated with last night’s sleep, physical activity and food intake](https://www.nature.com/articles/s41467-022-34503-2)
-- [How not to think about cells](https://www.subanima.org/veritasium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
