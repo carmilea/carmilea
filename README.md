@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Also Write Product Specs](https://www.ashbyhq.com/careers?utm_source=hn)
+- [WikiLeaks is struggling to stay online as millions of documents disappear](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
+- [Ashby &lpar;YC W19&rpar; is hiring engineers who also write product specs](https://www.ashbyhq.com/careers?utm_source=hn)
 - [The Shrinking Future of College](https://www.vox.com/the-highlight/23428166/college-enrollment-population-education-crash)
 - [UV Devices Could Keep Indoor Air Free of Viruses](https://www.nature.com/articles/d41586-022-03360-w)
 - [GitBook bypassing Cloudflare DNS to route traffic to their domain](https://community.cloudflare.com/t/dns-updates-issues-with-cloudflare-partners-like-gitbook/341449)
-- [The Ancient Japanese Technique That Produces Lumber Without Cutting Trees](https://dsfantiquejewelry.com/blogs/interesting-facts/the-ancient-japanese-technique-that-produces-lumber-without-cutting-trees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
