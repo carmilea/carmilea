@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel on Demand](https://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html)
+- [Show HN: I made a pretty relaxing puzzle game](https://rotaboxes.com)
+- [Common Lisp Object System &lpar;CLOS&rpar;](https://hescaide.me/clos/)
+- [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 - [Strange Attractors](https://syntopia.github.io/StrangeAttractors/)
 - [Startup to exit: lessons from a YC founder](https://www.lennysnewsletter.com/p/startup-to-exit-lessons-from-a-first)
-- [Heterogeneous-Memory Storage Engine](https://hse-project.github.io/3.x)
-- [Someone has to say it: Voice assistants are not doing it for big tech](https://www.theregister.com/2022/11/23/voice_assistants_fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
