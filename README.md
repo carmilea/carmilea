@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/MichaelMure/git-bug)
-- [Tesla Full Self-Driving Beta is now available to anyone in North America](https://twitter.com/elonmusk/status/1595682322707267584)
 - [Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library](https://github.com/brycedrennan/imaginAIry)
 - [Investigating a backdoored PyPI package targeting FastAPI applications](https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/)
 - [Arch Linux turns 20: Small, simple, great documentation](https://www.theregister.com/2022/03/15/arch_linux_20/)
+- [Ask HN: What are 100K dollar ideas but not million dollar ideas?](https://news.ycombinator.com/item?id=33729424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
