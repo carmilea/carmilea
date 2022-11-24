@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you fight unjust bans from online platforms?](https://news.ycombinator.com/item?id=33728246)
+- [Videolan: Google refuses to take down or unlist domains with tons of malware](https://twitter.com/videolan/status/1595524698351230981)
 - [FTX and How to Lose Money](https://www.readmargins.com/p/ftx-and-how-to-lose-money)
-- [The tragic birth of FM radio &lpar;2006&rpar;](https://www.damninteresting.com/the-tragic-birth-of-fm-radio/)
-- [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- [Stable Diffusion 2.0](https://stability.ai/blog/stable-diffusion-v2-release)
+- [Microsoft&#39;s ex-UI chief is shocked about the Windows 11 start menu](https://borncity.com/win/2022/08/31/microsofts-ex-ui-chef-ist-schockiert-ber-das-windows-11-startmen/)
+- [AI Music Generator](https://soundraw.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
