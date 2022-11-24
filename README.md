@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigating a backdoored PyPI package targeting FastAPI applications](https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/)
 - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
+- [Meta claims US military online propaganda campaign had “little to no engagement”](https://www.bbc.co.uk/news/technology-63731751)
 - [Have we been getting children’s playthings all wrong?](https://www.theguardian.com/lifeandstyle/2022/nov/24/have-toys-got-too-brainy-how-playthings-became-teaching-aids-young-children)
 - [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33728529)
-- [AI Music Generator](https://soundraw.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
