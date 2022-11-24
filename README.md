@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33728529)
 - [Ask HN: How do you fight unjust bans from online platforms?](https://news.ycombinator.com/item?id=33728246)
 - [Videolan: Google refuses to take down or unlist domains with tons of malware](https://twitter.com/videolan/status/1595524698351230981)
-- [FTX and How to Lose Money](https://www.readmargins.com/p/ftx-and-how-to-lose-money)
 - [Microsoft&#39;s ex-UI chief is shocked about the Windows 11 start menu](https://borncity.com/win/2022/08/31/microsofts-ex-ui-chef-ist-schockiert-ber-das-windows-11-startmen/)
 - [AI Music Generator](https://soundraw.io/)
 <!-- BLOG-POST-LIST:END -->
