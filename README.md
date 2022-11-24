@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/MichaelMure/git-bug)
-- [Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library](https://github.com/brycedrennan/imaginAIry)
-- [Investigating a backdoored PyPI package targeting FastAPI applications](https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/)
-- [Arch Linux turns 20: Small, simple, great documentation](https://www.theregister.com/2022/03/15/arch_linux_20/)
-- [Ask HN: What are 100K dollar ideas but not million dollar ideas?](https://news.ycombinator.com/item?id=33729424)
+- [Show HN: I made a tool using AI to convert articles to audio](https://article.audio)
+- [Freecomputerbooks.com](https://freecomputerbooks.com/)
+- [Twitter fired more software engineers.. because their “code is not satisfactory”](https://twitter.com/gergelyorosz/status/1595684664228052992)
+- [Show HN: Speed up your site by running JavaScript when the browser is idle](https://www.npmjs.com/package/idle-task)
+- [The Mystery of the Blue Whale Songs](https://nautil.us/the-mystery-of-the-blue-whale-songs-248099/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
