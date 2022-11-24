@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
+- [Have we been getting children’s playthings all wrong?](https://www.theguardian.com/lifeandstyle/2022/nov/24/have-toys-got-too-brainy-how-playthings-became-teaching-aids-young-children)
+- [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33728529)
 - [AI Music Generator](https://soundraw.io/)
-- [The tragic birth of FM radio &lpar;2006&rpar;](https://www.damninteresting.com/the-tragic-birth-of-fm-radio/)
-- [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
