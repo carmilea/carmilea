@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“After 8 months of Blueprint I reduced my epigenetic age by 5.1 yrs in 7 months”](https://blueprint.bryanjohnson.co/)
+- [A 3D-printed ethernet RJ45 clip to secure/repair/fix broken tab](https://www.thingiverse.com/thing:4687836)
 - [Crypto Firm FTX’s Ownership of a U.S. Bank Raises Questions](https://www.nytimes.com/2022/11/23/business/ftx-cryptocurrency-bank.html)
+- [The numbers that explain Intel’s decline](https://techmonitor.ai/technology/silicon/numbers-behind-intel-decline)
 - [Tell HN: Happy ThanksGiving](https://news.ycombinator.com/item?id=33732913)
-- [Show HN: Pokemon Emerald Randomizer](https://github.com/Cloudef/pokeemerald-randomizer)
-- [Amazon’s already greenlit an FTX miniseries](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
-- [Inverting a binary tree using x64 assembly](https://sanket.tech/posts/invert_binary_tree_assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
