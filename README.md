@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Renaming 1985 – 1988](https://www.livinginternet.info/u/ui_modern_renamingfaq.htm)
+- [BBC documentary used face-swapping AI to hide protesters&#39; identities](https://www.newscientist.com/article/2348197-bbc-documentary-used-face-swapping-ai-to-hide-protesters-identities/)
+- [Linux from Scratch](https://www.linuxfromscratch.org/)
+- [The Great Renaming 1985 – 1988 &lpar;2000&rpar;](https://www.livinginternet.info/u/ui_modern_renamingfaq.htm)
 - [Ask HN: Why aren&#39;t there DSLs for Operating Systems? &lpar;Or are there?&rpar;](https://news.ycombinator.com/item?id=33734299)
-- [Rclone is 10 years old today](https://forum.rclone.org/t/rclone-is-10-years-old-today/34185)
-- [CEO pay skyrocketed 1,460% since 1978: CEOs paid 399 times as much vs. worker](https://www.epi.org/publication/ceo-pay-in-2021/)
-- [A 3D-printed ethernet RJ45 clip to secure/repair/fix broken tab](https://www.thingiverse.com/thing:4687836)
+- [Ask HN: Books about full text search?](https://news.ycombinator.com/item?id=33734259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
