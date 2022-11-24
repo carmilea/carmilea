@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tragic Birth of FM Radio](https://www.damninteresting.com/the-tragic-birth-of-fm-radio/)
+- [Show HN: Could you be a web designer?](https://www.kapwing.com/could-you-be-a-web-designer)
+- [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
 - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
 - [Earth might be experiencing 7th mass extinction, not 6th](https://news.ucr.edu/articles/2022/11/22/earth-might-be-experiencing-7th-mass-extinction-not-6th)
-- [Socrates on the forgetfulness that comes with writing](https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing)
-- [First active chemistry on an exoplanet revealed by Webb telescope](https://www.nature.com/articles/d41586-022-03820-3)
-- [Westinghouse sees a tech disrupter in its eVinci microreactor](https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
