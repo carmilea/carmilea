@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AI generated puzzles from Wikipedia articles](https://doodleai.darraghoriordan.com/)
 - [Show HN: Have fun betting virtual &lpar;not real&rpar; money on predictions from HN users](https://kudotap.com)
-- [Why it’s hard to buy deodorant in Manhattan](https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan)
 - [StackStorm: Event-driven automation](https://github.com/StackStorm/st2)
 - [Movetodon: Find your Twitter friends on Mastodon](https://movetodon.org/)
 - [Show HN: Stable Diffusion v2 web interface](https://getimg.ai/text-to-image)
