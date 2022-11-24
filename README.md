@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is becoming an ad company despite privacy claims](https://proton.me/blog/apple-ad-company)
+- [Ask HN: Is it just me?](https://news.ycombinator.com/item?id=33736133)
+- [Show HN: Stable Diffusion v2 web interface](https://getimg.ai/text-to-image)
 - [Hiring tech lead to help solve major historical puzzle](https://nat.org/puzzle)
 - [Cancer vaccines: the next immunotherapy frontier](https://www.nature.com/articles/s43018-022-00418-6)
-- [Underrated Reasons to Be Thankful](https://dynomight.substack.com/p/thanks-2)
-- [Go-Fed: ActivityPub in Go](https://go-fed.org/)
-- [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
