@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof of work is temporarily illegal in New York](https://mastodon.social/@thefirstred/109397286530098299)
-- [OpenBSD for Linux Users](https://www.openbsdhandbook.com/openbsd_for_linux_users/)
-- [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
-- [Compiler Errors for Humans &lpar;2015&rpar;](https://elm-lang.org/news/compiler-errors-for-humans)
-- [On the Usefulness of Photography](https://simonsarris.substack.com/p/on-the-usefulness-of-photography)
+- [Crypto Firm FTX’s Ownership of a U.S. Bank Raises Questions](https://www.nytimes.com/2022/11/23/business/ftx-cryptocurrency-bank.html)
+- [Tell HN: Happy ThanksGiving](https://news.ycombinator.com/item?id=33732913)
+- [Show HN: Pokemon Emerald Randomizer](https://github.com/Cloudef/pokeemerald-randomizer)
+- [Amazon’s already greenlit an FTX miniseries](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
+- [Inverting a binary tree using x64 assembly](https://sanket.tech/posts/invert_binary_tree_assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
