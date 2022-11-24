@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/MichaelMure/git-bug)
+- [Tesla Full Self-Driving Beta is now available to anyone in North America](https://twitter.com/elonmusk/status/1595682322707267584)
+- [Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library](https://github.com/brycedrennan/imaginAIry)
 - [Investigating a backdoored PyPI package targeting FastAPI applications](https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/)
-- [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
-- [Meta claims US military online propaganda campaign had “little to no engagement”](https://www.bbc.co.uk/news/technology-63731751)
-- [Have we been getting children’s playthings all wrong?](https://www.theguardian.com/lifeandstyle/2022/nov/24/have-toys-got-too-brainy-how-playthings-became-teaching-aids-young-children)
-- [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
+- [Arch Linux turns 20: Small, simple, great documentation](https://www.theregister.com/2022/03/15/arch_linux_20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
