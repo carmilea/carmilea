@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBC documentary used face-swapping AI to hide protesters&#39; identities](https://www.newscientist.com/article/2348197-bbc-documentary-used-face-swapping-ai-to-hide-protesters-identities/)
-- [Linux from Scratch](https://www.linuxfromscratch.org/)
-- [The Great Renaming 1985 – 1988 &lpar;2000&rpar;](https://www.livinginternet.info/u/ui_modern_renamingfaq.htm)
-- [Ask HN: Why aren&#39;t there DSLs for Operating Systems? &lpar;Or are there?&rpar;](https://news.ycombinator.com/item?id=33734299)
-- [Ask HN: Books about full text search?](https://news.ycombinator.com/item?id=33734259)
+- [Hiring tech lead to help solve major historical puzzle](https://nat.org/puzzle)
+- [Cancer vaccines: the next immunotherapy frontier](https://www.nature.com/articles/s43018-022-00418-6)
+- [Underrated Reasons to Be Thankful](https://dynomight.substack.com/p/thanks-2)
+- [Go-Fed: ActivityPub in Go](https://go-fed.org/)
+- [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
