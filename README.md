@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is becoming an ad company despite privacy claims](https://proton.me/blog/apple-ad-company)
-- [Ask HN: Is it just me?](https://news.ycombinator.com/item?id=33736133)
+- [Show HN: Have fun betting virtual &lpar;not real&rpar; money on predictions from HN users](https://kudotap.com)
+- [Why it’s hard to buy deodorant in Manhattan](https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan)
+- [StackStorm: Event-driven automation](https://github.com/StackStorm/st2)
+- [Movetodon: Find your Twitter friends on Mastodon](https://movetodon.org/)
 - [Show HN: Stable Diffusion v2 web interface](https://getimg.ai/text-to-image)
-- [Hiring tech lead to help solve major historical puzzle](https://nat.org/puzzle)
-- [Cancer vaccines: the next immunotherapy frontier](https://www.nature.com/articles/s43018-022-00418-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
