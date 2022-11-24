@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a tool using AI to convert articles to audio](https://article.audio)
-- [Freecomputerbooks.com](https://freecomputerbooks.com/)
-- [Twitter fired more software engineers.. because their “code is not satisfactory”](https://twitter.com/gergelyorosz/status/1595684664228052992)
-- [Show HN: Speed up your site by running JavaScript when the browser is idle](https://www.npmjs.com/package/idle-task)
-- [The Mystery of the Blue Whale Songs](https://nautil.us/the-mystery-of-the-blue-whale-songs-248099/)
+- [Proof of work is temporarily illegal in New York](https://mastodon.social/@thefirstred/109397286530098299)
+- [OpenBSD for Linux Users](https://www.openbsdhandbook.com/openbsd_for_linux_users/)
+- [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
+- [Compiler Errors for Humans &lpar;2015&rpar;](https://elm-lang.org/news/compiler-errors-for-humans)
+- [On the Usefulness of Photography](https://simonsarris.substack.com/p/on-the-usefulness-of-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
