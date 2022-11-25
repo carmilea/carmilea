@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why the Linux Kernel doesn&#39;t have unit tests?](https://news.ycombinator.com/item?id=33742130)
-- [Wayland Protocol Finally Ready for Fractional Scaling](https://www.phoronix.com/news/Wayland-Fractional-Scale-Ready)
-- [Factorio runs on Apple Silicon](https://factorio.com/blog/post/fff-371)
-- [Volkswagen Originalteil](https://www.atlasobscura.com/foods/volkswagen-originalteil-sausages)
-- [Jqjq: Jq Implementation of Jq](https://github.com/wader/jqjq)
+- [Ask HN: Any good black Friday deals?](https://news.ycombinator.com/item?id=33742899)
+- [89 Operating Systems](https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/)
+- [Cloudflare servers don&#39;t own IPs now, so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
+- [Greg Kroah Hartman on the Linux Kernel and How It Is Tested &lpar;2008&rpar; [video]](https://www.youtube.com/watch?v=L2SED6sewRw)
+- [Playstation 6 Release Leaked](https://hypebeast.com/2022/11/sony-playstation-6-ps6-release-date-leak-news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
