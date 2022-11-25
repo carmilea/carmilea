@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Congressmembers Tried to Stop the SEC’s Inquiry into FTX](https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/)
+- [Show HN: A decentralized semantic web built atop Activity Pub](https://github.com/chatternet/chatternet-client-http)
+- [Show HN: FIFA Interactive Bracket &lpar;World Cup&rpar;](https://worldcup.cole.ws/)
 - [Show HN: AI generated puzzles from Wikipedia articles](https://doodleai.darraghoriordan.com/)
 - [Show HN: Have fun betting virtual &lpar;not real&rpar; money on predictions from HN users](https://kudotap.com)
-- [StackStorm: Event-driven automation](https://github.com/StackStorm/st2)
-- [Movetodon: Find your Twitter friends on Mastodon](https://movetodon.org/)
-- [Show HN: Stable Diffusion v2 web interface](https://getimg.ai/text-to-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
