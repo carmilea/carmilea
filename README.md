@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Korea in demographic crisis as many stop having babies](https://www.asahi.com/ajw/articles/14776207)
+- [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
 - [Nostr is a stupid simple P2P protocol that works, built by builders](https://news.ycombinator.com/item?id=33746360)
 - [Tesla.com/.gitignore](https://www.tesla.com/.gitignore)
 - [Finch: An open-source client for container development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)
