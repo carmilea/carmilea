@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to lay off 10k “poor performers”](https://www.independent.co.uk/tech/google-layoffs-poor-performing-employees-b2231056.html)
+- [KDE runs on the Apple M2 with full GPU acceleration](https://vt.social/@lina/109405566112910885)
+- [Show HN: Amazon-like product recommendation engine to power open-source eComm](https://search.rye.com/)
 - [DOJ will examine whether RealPage helped landlords coordinate rent increases](https://www.propublica.org/article/yieldstar-realpage-rent-doj-investigation-antitrust)
-- [Hurl, run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
-- [Coding Curves](https://www.bit-101.com/blog/2022/11/coding-curves/)
-- [FTX Collapse takes toll on the Bahamas](https://www.wsj.com/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455)
-- [Stripe is wrongly suspending accounts](https://news.ycombinator.com/item?id=33743750)
+- [Hurl, run and test HTTP requests with plain text https://hurl.dev/](https://github.com/Orange-OpenSource/hurl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
