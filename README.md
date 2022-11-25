@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
+- [Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS](https://remix-page-blocks.vercel.app)
+- [Meet your new two-factor authenticator: your Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
+- [A Dad Took Photos of His Kid for the Doctor. Google Flagged Him as a Criminal](https://web.archive.org/web/20220821112541/https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
 - [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
-- [Nostr is a stupid simple P2P protocol that works, built by builders](https://news.ycombinator.com/item?id=33746360)
-- [Tesla.com/.gitignore](https://www.tesla.com/.gitignore)
-- [Finch: An open-source client for container development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)
-- [Hippotat: IP over HTTP](https://diziet.dreamwidth.org/12934.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
