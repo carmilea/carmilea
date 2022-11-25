@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe is wrongly suspending accounts](https://news.ycombinator.com/item?id=33743750)
+- [Azure has run out of compute. Anyone else affected?](https://news.ycombinator.com/item?id=33743567)
+- [Europe accuses US of profiting from war](https://www.politico.eu/article/vladimir-putin-war-europe-ukraine-gas-inflation-reduction-act-ira-joe-biden-rift-west-eu-accuses-us-of-profiting-from-war/)
 - [Ask HN: Any good black Friday deals?](https://news.ycombinator.com/item?id=33742899)
 - [89 Operating Systems](https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/)
-- [Cloudflare servers don&#39;t own IPs now, so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
-- [Greg Kroah Hartman on the Linux Kernel and How It Is Tested &lpar;2008&rpar; [video]](https://www.youtube.com/watch?v=L2SED6sewRw)
-- [Playstation 6 Release Leaked](https://hypebeast.com/2022/11/sony-playstation-6-ps6-release-date-leak-news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
