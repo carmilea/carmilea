@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Miami-Dade County, stuck in a 19-year contract with FTX, seeks to rename arena](https://www.npr.org/2022/11/24/1139164190/ftx-bankruptcy-miami-heat-arena-naming-rights)
+- [A meta-analysis of the effects of trigger warnings and content notes](https://osf.io/qav9m/)
+- [How is Japanese web design different?](https://sabrinas.space)
+- [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
 - [Google to lay off 10k “poor performers”](https://www.independent.co.uk/tech/google-layoffs-poor-performing-employees-b2231056.html)
-- [KDE runs on the Apple M2 with full GPU acceleration](https://vt.social/@lina/109405566112910885)
-- [Show HN: Amazon-like product recommendation engine to power open-source eComm](https://search.rye.com/)
-- [DOJ will examine whether RealPage helped landlords coordinate rent increases](https://www.propublica.org/article/yieldstar-realpage-rent-doj-investigation-antitrust)
-- [Hurl, run and test HTTP requests with plain text https://hurl.dev/](https://github.com/Orange-OpenSource/hurl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
