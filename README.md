@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humans.txt](https://humanstxt.org/)
+- [Blame Coca-Cola for whales dying from consuming plastic](https://adetokunbo.substack.com/p/whales-dying-from-consuming-plastics)
+- [University offers investigation into Oracle finance disaster](https://www.theregister.com/2022/11/23/edinburgh_university_oracle_investigation/)
 - [My Overemployment Story](https://overemployee.blog/my-overemployment-story/)
 - [Craft](https://paulstamatiou.com/craft/)
-- [“You don&#39;t have a voltmeter. Do you have a potato?”](https://diy.stackexchange.com/a/252050)
-- [Jean-Marie Straub has died](https://www.newyorker.com/culture/postscript/the-stubborn-enduring-vision-of-jean-marie-straub)
-- [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
