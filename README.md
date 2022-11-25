@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea in demographic crisis as many stop having babies](https://www.asahi.com/ajw/articles/14776207)
+- [Nostr is a stupid simple P2P protocol that works, built by builders](https://news.ycombinator.com/item?id=33746360)
 - [Tesla.com/.gitignore](https://www.tesla.com/.gitignore)
 - [Finch: An open-source client for container development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)
 - [Hippotat: IP over HTTP](https://diziet.dreamwidth.org/12934.html)
-- [AutoGraff: Computational understanding of graffiti writing and related art forms [pdf]](https://www.enist.org/autograff_thesis.pdf)
-- [Thoughts on compile-time function evaluation and type systems &lpar;2018&rpar;](https://www.ralfj.de/blog/2018/07/19/const.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
