@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Miami-Dade County, stuck in a 19-year contract with FTX, seeks to rename arena](https://www.npr.org/2022/11/24/1139164190/ftx-bankruptcy-miami-heat-arena-naming-rights)
-- [A meta-analysis of the effects of trigger warnings and content notes](https://osf.io/qav9m/)
-- [How is Japanese web design different?](https://sabrinas.space)
-- [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
-- [Google to lay off 10k “poor performers”](https://www.independent.co.uk/tech/google-layoffs-poor-performing-employees-b2231056.html)
+- [Tesla.com/.gitignore](https://www.tesla.com/.gitignore)
+- [Finch: An open-source client for container development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)
+- [Hippotat: IP over HTTP](https://diziet.dreamwidth.org/12934.html)
+- [AutoGraff: Computational understanding of graffiti writing and related art forms [pdf]](https://www.enist.org/autograff_thesis.pdf)
+- [Thoughts on compile-time function evaluation and type systems &lpar;2018&rpar;](https://www.ralfj.de/blog/2018/07/19/const.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
