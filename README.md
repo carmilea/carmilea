@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australia: How &#39;bin chickens&#39; learnt to wash poisonous cane toads](https://www.bbc.com/news/world-australia-63699884)
+- [My Overemployment Story](https://overemployee.blog/my-overemployment-story/)
 - [Craft](https://paulstamatiou.com/craft/)
 - [“You don&#39;t have a voltmeter. Do you have a potato?”](https://diy.stackexchange.com/a/252050)
 - [Jean-Marie Straub has died](https://www.newyorker.com/culture/postscript/the-stubborn-enduring-vision-of-jean-marie-straub)
