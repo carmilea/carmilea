@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why the Linux Kernel doesn&#39;t have unit tests?](https://news.ycombinator.com/item?id=33742130)
 - [Wayland Protocol Finally Ready for Fractional Scaling](https://www.phoronix.com/news/Wayland-Fractional-Scale-Ready)
+- [Factorio runs on Apple Silicon](https://factorio.com/blog/post/fff-371)
 - [Volkswagen Originalteil](https://www.atlasobscura.com/foods/volkswagen-originalteil-sausages)
 - [Jqjq: Jq Implementation of Jq](https://github.com/wader/jqjq)
-- [Germany Forces a Microsoft 365 Ban Due to Privacy Concerns](https://techgenix.com/microsoft-365-ban-in-germany/)
-- [Take better photos with a Raspberry Pi Pico light meter](https://www.raspberrypi.com/news/take-better-photos-with-a-raspberry-pi-pico-light-meter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
