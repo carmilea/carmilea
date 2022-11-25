@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ will examine whether RealPage helped landlords coordinate rent increases](https://www.propublica.org/article/yieldstar-realpage-rent-doj-investigation-antitrust)
+- [Hurl, run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
+- [Coding Curves](https://www.bit-101.com/blog/2022/11/coding-curves/)
+- [FTX Collapse takes toll on the Bahamas](https://www.wsj.com/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455)
 - [Stripe is wrongly suspending accounts](https://news.ycombinator.com/item?id=33743750)
-- [Azure has run out of compute. Anyone else affected?](https://news.ycombinator.com/item?id=33743567)
-- [Europe accuses US of profiting from war](https://www.politico.eu/article/vladimir-putin-war-europe-ukraine-gas-inflation-reduction-act-ira-joe-biden-rift-west-eu-accuses-us-of-profiting-from-war/)
-- [Ask HN: Any good black Friday deals?](https://news.ycombinator.com/item?id=33742899)
-- [89 Operating Systems](https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
