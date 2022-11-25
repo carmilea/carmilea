@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland Protocol Finally Ready for Fractional Scaling](https://www.phoronix.com/news/Wayland-Fractional-Scale-Ready)
+- [Volkswagen Originalteil](https://www.atlasobscura.com/foods/volkswagen-originalteil-sausages)
+- [Jqjq: Jq Implementation of Jq](https://github.com/wader/jqjq)
+- [Germany Forces a Microsoft 365 Ban Due to Privacy Concerns](https://techgenix.com/microsoft-365-ban-in-germany/)
 - [Take better photos with a Raspberry Pi Pico light meter](https://www.raspberrypi.com/news/take-better-photos-with-a-raspberry-pi-pico-light-meter/)
-- [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
-- [UK government ban for Chinese Hikvision CCTV cameras](https://techmonitor.ai/government-computing/hikvision-ban-uk-government-oliver-dowden)
-- [Brazil seizes iPhones from stores due to free charger requirement](https://9to5mac.com/2022/11/24/brazil-seizes-iphones-retail-stores-charger-requirement/)
-- [Parasite gives wolves what it takes to be pack leaders](https://www.nature.com/articles/d41586-022-03836-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
