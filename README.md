@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Take better photos with a Raspberry Pi Pico light meter](https://www.raspberrypi.com/news/take-better-photos-with-a-raspberry-pi-pico-light-meter/)
+- [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
+- [UK government ban for Chinese Hikvision CCTV cameras](https://techmonitor.ai/government-computing/hikvision-ban-uk-government-oliver-dowden)
+- [Brazil seizes iPhones from stores due to free charger requirement](https://9to5mac.com/2022/11/24/brazil-seizes-iphones-retail-stores-charger-requirement/)
 - [Parasite gives wolves what it takes to be pack leaders](https://www.nature.com/articles/d41586-022-03836-9)
-- [Humans.txt](https://humanstxt.org/)
-- [Spreading Deadly Pathogens Under the Disguise of Popular Music](https://dl.acm.org/doi/10.1145/3548606.3560643)
-- [Blame Coca-Cola for whales dying from consuming plastic](https://adetokunbo.substack.com/p/whales-dying-from-consuming-plastics)
-- [University offers investigation into Oracle finance disaster](https://www.theregister.com/2022/11/23/edinburgh_university_oracle_investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
