@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parasite gives wolves what it takes to be pack leaders](https://www.nature.com/articles/d41586-022-03836-9)
 - [Humans.txt](https://humanstxt.org/)
 - [Spreading Deadly Pathogens Under the Disguise of Popular Music](https://dl.acm.org/doi/10.1145/3548606.3560643)
 - [Blame Coca-Cola for whales dying from consuming plastic](https://adetokunbo.substack.com/p/whales-dying-from-consuming-plastics)
 - [University offers investigation into Oracle finance disaster](https://www.theregister.com/2022/11/23/edinburgh_university_oracle_investigation/)
-- [&amp;#x27;Very scary&amp;#x27; issue dialing 911 on Google Pixel 6 cell phones](https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
