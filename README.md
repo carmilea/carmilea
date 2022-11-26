@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to Reaffirm Our First Amendment Right to Boycott](https://www.aclu.org/news/free-speech/its-time-to-reaffirm-our-first-amendment-right-to-boycott)
+- [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 - [Court Orders U.S. Navy to Pay $154,400 in Software Piracy Damages](https://torrentfreak.com/court-orders-u-s-navy-to-pay-154400-in-software-piracy-damages-221125/)
 - [Converting a WW2-Era Engine Cowl Flaps Indicator into a USB Peripheral](https://bikerglen.com/blog/ww2-engine-cowl-flaps-indicator/)
 - [Habits of Highly Overrated People &lpar;2014&rpar;](https://daedtech.com/the-7-habits-of-highly-overrated-people/)
-- [LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch](https://github.com/luajit-remake/luajit-remake)
-- [Interview with Keith Blount, Creator of Scrivener](https://syntopikon.substack.com/p/an-interview-with-keith-blount)
 <!-- BLOG-POST-LIST:END -->
 
 ---
