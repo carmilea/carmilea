@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 - [Forgejo – Launching a Fork of Gitea](https://codeberg.org/forgejo/forgejo)
 - [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
 - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 - [Show HN: Open Source Bot That Summarizes Top Hacker News Stories Using GPT-3](https://github.com/jiggy-ai/hn_summary)
-- [AI Art Panic](https://opguides.info/posts/aiartpanic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
