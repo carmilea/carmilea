@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo Switch natively runs on Apple M1 without translation](https://blog.ryujinx.org/the-impossible-port-macos/)
+- [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
+- [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 - [RFC 1855: Netiquette Guidelines &lpar;1995&rpar;](https://www.rfc-editor.org/rfc/rfc1855)
 - [AI Art Panic](https://opguides.info/posts/aiartpanic/)
 - [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
-- [Gifaanisqatsi: A Random Koyaanisqatsi Generator](https://www.monkeon.co.uk/gifaanisqatsi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
