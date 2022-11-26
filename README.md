@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Forgejo – Launching a Fork of Gitea](https://codeberg.org/forgejo/forgejo)
-- [Crypto’s Collapse May Have Done the Economy a Favor](https://www.wsj.com/articles/how-cryptos-collapse-may-have-done-the-economy-a-favor-11669215926)
 - [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
 - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
+- [Show HN: Open Source Bot That Summarizes Top Hacker News Stories Using GPT-3](https://github.com/jiggy-ai/hn_summary)
 - [AI Art Panic](https://opguides.info/posts/aiartpanic/)
 <!-- BLOG-POST-LIST:END -->
 
