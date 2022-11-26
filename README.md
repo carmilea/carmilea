@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo Switch natively runs on Apple M1 without translation](https://blog.ryujinx.org/the-impossible-port-macos/)
+- [RFC 1855: Netiquette Guidelines &lpar;1995&rpar;](https://www.rfc-editor.org/rfc/rfc1855)
+- [AI Art Panic](https://opguides.info/posts/aiartpanic/)
 - [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
-- [Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS](https://remix-page-blocks.vercel.app)
-- [Meet your new two-factor authenticator: your Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
-- [A Dad Took Photos of His Kid for the Doctor. Google Flagged Him as a Criminal](https://web.archive.org/web/20220821112541/https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
-- [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
+- [Gifaanisqatsi: A Random Koyaanisqatsi Generator](https://www.monkeon.co.uk/gifaanisqatsi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
