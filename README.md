@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clojure at the REPL: Data Visualization](https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations)
+- [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 - [Why is the state of mathematics education so abstract and uninspiring?](https://news.ycombinator.com/item?id=33751099)
 - [Notes on Saudi Arabia](https://mattlakeman.org/2022/11/22/notes-on-saudi-arabia/)
 - [The Need to Read](http://paulgraham.com/read.html)
-- [The Origins of Python – Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
-- [Act: Run your GitHub Actions locally](https://github.com/nektos/act)
 <!-- BLOG-POST-LIST:END -->
 
 ---
