@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Voyage of Life](https://en.wikipedia.org/wiki/The_Voyage_of_Life)
+- [Art Made with Artificial Intelligence Wins at State Fair](https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/)
 - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
+- [Investor Home Purchases Drop 30%](https://www.wsj.com/articles/investor-home-purchases-drop-30-as-rising-rates-high-prices-cool-housing-market-11669067972)
 - [Forgejo – Launching a Fork of Gitea](https://codeberg.org/forgejo/forgejo)
-- [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
-- [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
-- [Show HN: Open Source Bot That Summarizes Top Hacker News Stories Using GPT-3](https://github.com/jiggy-ai/hn_summary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
