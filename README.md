@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project One &lpar;San Francisco&rpar;](https://en.wikipedia.org/wiki/Project_One_(San_Francisco))
-- [FCC Bans Authorizations for Devices That Pose National Security Threat](https://www.fcc.gov/document/fcc-bans-authorizations-devices-pose-national-security-threat)
-- [Ask HN: How&#39;s the job hunt going? &lpar;For those laid off&rpar;](https://news.ycombinator.com/item?id=33755531)
-- [Americans are choosing to be alone, but we should reverse that](https://www.washingtonpost.com/opinions/2022/11/23/americans-alone-thanksgiving-friends/)
-- [Cyber Guidance for Small Businesses](https://www.cisa.gov/small-business)
+- [Court Orders U.S. Navy to Pay $154,400 in Software Piracy Damages](https://torrentfreak.com/court-orders-u-s-navy-to-pay-154400-in-software-piracy-damages-221125/)
+- [Converting a WW2-Era Engine Cowl Flaps Indicator into a USB Peripheral](https://bikerglen.com/blog/ww2-engine-cowl-flaps-indicator/)
+- [Habits of Highly Overrated People &lpar;2014&rpar;](https://daedtech.com/the-7-habits-of-highly-overrated-people/)
+- [LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch](https://github.com/luajit-remake/luajit-remake)
+- [Interview with Keith Blount, Creator of Scrivener](https://syntopikon.substack.com/p/an-interview-with-keith-blount)
 <!-- BLOG-POST-LIST:END -->
 
 ---
