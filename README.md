@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp data leak: 500M user records for sale](https://cybernews.com/news/whatsapp-data-leak/)
+- [FTX owned an $11.5M stake in a tiny rural bank in Washington state](https://www.businessinsider.com/ftx-owned-stake-in-tiny-rural-bank-bankruptcy-hearing-shows-2022-11)
+- [A Compiler Writing Playground](https://www.i-programmer.info/news/90-tools/15901-a-compiler-writing-playground.html)
+- [Ask HN: Why are slides used in talks instead of document scrolling?](https://news.ycombinator.com/item?id=33752199)
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Paredit 25 released &lpar;after 8 years&rpar;](http://paredit.org/)
-- [German privacy watchdogs conclude that Microsoft 365 is incompatible with GDPR](https://twitter.com/wolfiechristl/status/1596277060435345411)
-- [Clojure at the REPL: Data Visualization](https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations)
-- [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
