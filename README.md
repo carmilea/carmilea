@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Public Land. But the Public Can’t Reach It](https://www.nytimes.com/2022/11/26/business/hunting-wyoming-elk-mountain-access.html)
+- [Screw Black Friday](https://blog.zsa.io/2211-black-friday/)
+- [A navigation app that illuminates public land within privately held property](https://www.nytimes.com/2022/11/26/business/hunting-wyoming-elk-mountain-access.html)
 - [MycelioTronics: Fungal mycelium skin for sustainable electronics](https://www.science.org/doi/10.1126/sciadv.add7118)
 - [The $205.4B Gulag](https://gouldasks.substack.com/p/the-2054-billion-gulag)
-- [U.S. Bans Equipment from Huawei and ZTE, Citing National Security Concerns](https://www.barrons.com/articles/u-s-bans-equipment-from-huawei-and-zte-citing-national-security-concerns-51669413820)
-- [The Citroen Ami – tiny electric car with no boot, 28mph top speed, 46 mile range](https://www.thisismoney.co.uk/money/electriccars/article-11443201/Can-really-live-Citroen-Ami-dinky-EV-test.html)
+- [U.S. bans equipment from Huawei and ZTE, citing national security concerns](https://www.barrons.com/articles/u-s-bans-equipment-from-huawei-and-zte-citing-national-security-concerns-51669413820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
