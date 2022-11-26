@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jodorowsky&#39;s Tron](https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell/https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell)
 - [WhatsApp data leak: 500M user records for sale](https://cybernews.com/news/whatsapp-data-leak/)
 - [FTX owned an $11.5M stake in a tiny rural bank in Washington state](https://www.businessinsider.com/ftx-owned-stake-in-tiny-rural-bank-bankruptcy-hearing-shows-2022-11)
-- [A Compiler Writing Playground](https://www.i-programmer.info/news/90-tools/15901-a-compiler-writing-playground.html)
-- [Ask HN: Why are slides used in talks instead of document scrolling?](https://news.ycombinator.com/item?id=33752199)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Double telescope study of zone where Wow! signal originated comes up empty](https://phys.org/news/2022-11-telescope-zone-wow.html)
+- [Erfurt Latrine Disaster](https://en.wikipedia.org/wiki/Erfurt_latrine_disaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
