@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-War Speech Sent Eugene vs. Debs to Prison, 1918](https://www.fifthestate.org/archive/360-spring-2003/a-1918-anti-war-speech-sent-eugene-v-debs-to-prison/)
-- [The economy is the biggest bubble in world history, says Robert Kiyosaki](https://www.marketwatch.com/story/i-believe-the-economy-is-the-biggest-bubble-in-world-history-says-rich-dad-poor-dads-robert-kiyosaki-god-have-mercy-on-us-all-11669410423)
-- [We Built a Meta Pixel Inspector](https://themarkup.org/show-your-work/2022/04/28/how-we-built-a-meta-pixel-inspector)
-- [A navigation app that illuminates public land within privately held property](https://www.nytimes.com/2022/11/26/business/hunting-wyoming-elk-mountain-access.html)
-- [MycelioTronics: Fungal mycelium skin for sustainable electronics](https://www.science.org/doi/10.1126/sciadv.add7118)
+- [Ask HN: How&#39;s the job hunt going? &lpar;For those laid off&rpar;](https://news.ycombinator.com/item?id=33755531)
+- [Americans are choosing to be alone, but we should reverse that](https://www.washingtonpost.com/opinions/2022/11/23/americans-alone-thanksgiving-friends/)
+- [Cyber Guidance for Small Businesses](https://www.cisa.gov/small-business)
+- [Show HN: Using stylometry to find HN users with alternate accounts](https://stylometry.net/)
+- [Anti-War Speech Sent Eugene V. Debs to Prison, 1918](https://www.fifthestate.org/archive/360-spring-2003/a-1918-anti-war-speech-sent-eugene-v-debs-to-prison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
