@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Paredit 25 released &lpar;after 8 years&rpar;](http://paredit.org/)
 - [German privacy watchdogs conclude that Microsoft 365 is incompatible with GDPR](https://twitter.com/wolfiechristl/status/1596277060435345411)
 - [Clojure at the REPL: Data Visualization](https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations)
 - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
-- [Why is the state of mathematics education so abstract and uninspiring?](https://news.ycombinator.com/item?id=33751099)
 <!-- BLOG-POST-LIST:END -->
 
 ---
