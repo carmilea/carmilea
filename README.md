@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jodorowsky&#39;s Tron](https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell/https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell)
-- [WhatsApp data leak: 500M user records for sale](https://cybernews.com/news/whatsapp-data-leak/)
-- [FTX owned an $11.5M stake in a tiny rural bank in Washington state](https://www.businessinsider.com/ftx-owned-stake-in-tiny-rural-bank-bankruptcy-hearing-shows-2022-11)
-- [Double telescope study of zone where Wow! signal originated comes up empty](https://phys.org/news/2022-11-telescope-zone-wow.html)
-- [Erfurt Latrine Disaster](https://en.wikipedia.org/wiki/Erfurt_latrine_disaster)
+- [It’s Public Land. But the Public Can’t Reach It](https://www.nytimes.com/2022/11/26/business/hunting-wyoming-elk-mountain-access.html)
+- [MycelioTronics: Fungal mycelium skin for sustainable electronics](https://www.science.org/doi/10.1126/sciadv.add7118)
+- [The $205.4B Gulag](https://gouldasks.substack.com/p/the-2054-billion-gulag)
+- [U.S. Bans Equipment from Huawei and ZTE, Citing National Security Concerns](https://www.barrons.com/articles/u-s-bans-equipment-from-huawei-and-zte-citing-national-security-concerns-51669413820)
+- [The Citroen Ami – tiny electric car with no boot, 28mph top speed, 46 mile range](https://www.thisismoney.co.uk/money/electriccars/article-11443201/Can-really-live-Citroen-Ami-dinky-EV-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
