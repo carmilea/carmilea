@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SSHGuard](https://www.sshguard.net/)
+- [A bug fix in the 8086 microprocessor, revealed in the die&#39;s silicon](https://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
+- [On the Psychology of “Tech Money”](https://chelseatroy.com/2022/11/25/on-the-psychology-of-tech-money/)
+- [Ask HN: What do you like/dislike about Golang?](https://news.ycombinator.com/item?id=33757306)
 - [It’s Time to Reaffirm Our First Amendment Right to Boycott](https://www.aclu.org/news/free-speech/its-time-to-reaffirm-our-first-amendment-right-to-boycott)
-- [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
-- [Court Orders U.S. Navy to Pay $154,400 in Software Piracy Damages](https://torrentfreak.com/court-orders-u-s-navy-to-pay-154400-in-software-piracy-damages-221125/)
-- [Converting a WW2-Era Engine Cowl Flaps Indicator into a USB Peripheral](https://bikerglen.com/blog/ww2-engine-cowl-flaps-indicator/)
-- [Habits of Highly Overrated People &lpar;2014&rpar;](https://daedtech.com/the-7-habits-of-highly-overrated-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
