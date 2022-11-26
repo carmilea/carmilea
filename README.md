@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is the state of mathematics education so abstract and uninspiring?](https://news.ycombinator.com/item?id=33751099)
+- [The Need to Read](http://paulgraham.com/read.html)
+- [The Origins of Python – Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
+- [Act: Run your GitHub Actions locally](https://github.com/nektos/act)
 - [Cryptboard.io – Anonymous encrypted web clipboard and chat](https://github.com/MihanEntalpo/cryptboard.io)
-- [The Voyage of Life](https://en.wikipedia.org/wiki/The_Voyage_of_Life)
-- [Art Made with Artificial Intelligence Wins at State Fair](https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/)
-- [Redox OS 0.8](https://www.redox-os.org/news/release-0.8.0/)
-- [Investor home purchases drop 30%](https://www.wsj.com/articles/investor-home-purchases-drop-30-as-rising-rates-high-prices-cool-housing-market-11669067972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
