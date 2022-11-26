@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why is the state of mathematics education so abstract and uninspiring?](https://news.ycombinator.com/item?id=33751099)
+- [Notes on Saudi Arabia](https://mattlakeman.org/2022/11/22/notes-on-saudi-arabia/)
 - [The Need to Read](http://paulgraham.com/read.html)
 - [The Origins of Python – Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
 - [Act: Run your GitHub Actions locally](https://github.com/nektos/act)
-- [Cryptboard.io – Anonymous encrypted web clipboard and chat](https://github.com/MihanEntalpo/cryptboard.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
