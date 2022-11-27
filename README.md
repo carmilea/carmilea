@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord fined $830K for GDPR lapses – Article – Compliance Week](https://www.complianceweek.com/regulatory-enforcement/discord-fined-830k-for-gdpr-lapses/32372.article)
+- [Young Australians just won a human rights case against an enormous coal mine](https://theconversation.com/this-case-has-made-legal-history-young-australians-just-won-a-human-rights-case-against-an-enormous-coal-mine-195350)
+- [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
+- [Bitcoin worth $1.5B withdrawn from Coinbase in 48 hours](https://cryptoslate.com/bitcoin-worth-1-5b-withdrawn-from-coinbase-in-48-hours/)
 - [SSHGuard](https://www.sshguard.net/)
-- [A bug fix in the 8086 microprocessor, revealed in the die&#39;s silicon](https://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
-- [On the Psychology of “Tech Money”](https://chelseatroy.com/2022/11/25/on-the-psychology-of-tech-money/)
-- [Ask HN: What do you like/dislike about Golang?](https://news.ycombinator.com/item?id=33757306)
-- [It’s Time to Reaffirm Our First Amendment Right to Boycott](https://www.aclu.org/news/free-speech/its-time-to-reaffirm-our-first-amendment-right-to-boycott)
 <!-- BLOG-POST-LIST:END -->
 
 ---
