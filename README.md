@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Narcissistic Collapse](https://www.choosingtherapy.com/narcissistic-collapse/)
+- [AI Will Completely Dominate the Animation Industry in Less Than 5 Years](https://nicksaraev.com/ai-animation-is-coming/)
 - [Show HN: Yet Another Node.js Framework](https://news.ycombinator.com/item?id=33763132)
 - [A hundred UK companies sign up for four-day week with no loss of pay](https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay)
 - [Fujifilm Warns Its 35mm Films in Short Supply ‘For the Time Being’](https://petapixel.com/2022/11/25/fujifilm-warns-its-35mm-films-in-short-supply-for-the-time-being/)
-- [Show HN: MyNixOS – Create and share Nix and NixOS configurations](https://mynixos.com)
-- [LXD containers on macOS at near-native speeds](https://beringresearch.github.io/macpine/lxd_macpine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
