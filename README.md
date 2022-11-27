@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can we delete our accounts?](https://news.ycombinator.com/item?id=33765437)
-- [Man wins the legal right to not be &#39;fun&#39; at work](https://www.businessinsider.com/man-won-legal-right-not-be-fun-at-work-alcoholism-2022-11)
-- [Mastodon: Servers, Good and Bad](https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html)
-- [Sticky Notes for the Internet](https://lawrencehook.com/ws/)
-- [Thriving on China&#39;s Belt and Road, Laos border town ditches kip for yuan](https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan)
+- [The entire crypto ecosystem is a ponzi](https://www.coppolacomment.com/2022/11/the-entire-crypto-ecosystem-is-ponzi.html)
+- [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
+- [Emacs Lisp shorthands as namespacing system](https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system/)
+- [Index Merges vs. Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
+- [Mach: A Pluggable Metrics Storage Engine for the Age of Observability [pdf]](https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
