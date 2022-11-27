@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scholar identifies alarming trends among US men](https://www.cnn.com/videos/us/2022/11/26/richard-reeves-us-men-trends-smerc-vpx-contd.cnn)
+- [“I Was a Starter Wife”: Inside America&#39;s Messiest Divorce](https://www.marieclaire.com/sex-love/a5380/millionaire-starter-wife/)
+- [No Cure for Loneliness](https://compactmag.com/article/no-cure-for-loneliness)
 - [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
 - [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
 - [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
-- [Dataphor Federated Database Management System](https://github.com/DBCG/Dataphor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
