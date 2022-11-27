@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ᚣ the Rune Programming Language](https://github.com/google/rune)
+- [We ran a Unix-like OS &lpar;Xv6&rpar; on our home-built CPU with our home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+- [The Rune Programming Language](https://github.com/google/rune)
 - [HECnet: The Hobbyist DECnet Network](http://mim.stupi.net/hecnet)
-- [No cure for loneliness](https://compactmag.com/article/no-cure-for-loneliness)
 - [When splines were physical objects &lpar;2016&rpar;](https://www.core77.com/posts/55368/When-Splines-Were-Physical-Objects)
 - [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
 <!-- BLOG-POST-LIST:END -->
