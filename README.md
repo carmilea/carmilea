@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla is in the business of selling emission credits, not just cars](https://twitter.com/stealthygeek/status/1596518142423232513)
-- [It Ruined Everything’: Buy Now, Pay Later Drives Gen Z into Debt](https://www.bloomberg.com/news/articles/2022-10-28/buy-now-pay-later-loans-drive-gen-z-into-debt-hurting-credit-scores)
+- [Scholar identifies alarming trends among US men](https://www.cnn.com/videos/us/2022/11/26/richard-reeves-us-men-trends-smerc-vpx-contd.cnn)
 - [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
 - [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
-- [What&#39;s a good Linux terminal emulator that doesn&#39;t try to reinvent TMUX?](https://news.ycombinator.com/item?id=33759023)
+- [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
+- [Dataphor Federated Database Management System](https://github.com/DBCG/Dataphor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
