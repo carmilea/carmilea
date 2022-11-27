@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
-- [Global Risk of Deadly Heat](https://www.nature.com/articles/nclimate3322)
 - [Git Notes: Git&#39;s Coolest, Most Unloved­ Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 - [Stack Computers: the new wave &lpar;1989&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
+- [FreeTube – The Private YouTube Client](https://freetubeapp.io/)
 - [Temporal Programming, a new name for an old paradigm](https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md)
 <!-- BLOG-POST-LIST:END -->
 
