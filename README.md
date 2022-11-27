@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujifilm Warns Its 35mm Films in Short Supply ‘For the Time Being’](https://petapixel.com/2022/11/25/fujifilm-warns-its-35mm-films-in-short-supply-for-the-time-being/)
+- [LXD containers on macOS at near-native speeds](https://beringresearch.github.io/macpine/lxd_macpine/)
 - [North Korean ICBM launch detected using GPS](https://twitter.com/armscontrolwonk/status/1593452159365918722)
+- [Rusty Ownership and the Lifecycle’s Stone](https://blogs.harvard.edu/kapolos/rusty-ownership-and-the-lifecycles-stone/)
 - [A curated and opinionated list of resources for Chief Technology Officers](https://github.com/kuchin/awesome-cto)
-- [Soursop and Ponies in Kona: A C++ Committee Trip Report](https://cor3ntin.github.io/posts/kona22/)
-- [Olric: Distributed, embeddable data structures in Go](https://github.com/buraksezer/olric)
-- [Why Unreal Engine 5.1 is a Deal](https://www.youtube.com/watch?v=FUGqzE6Je5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
