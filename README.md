@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I hang Christmas lights without a ladder](https://imgur.com/a/fVySUB2)
-- [Why People Think PHP Sucks &lpar;2014&rpar;](https://www.audero.it/blog/2014/02/05/why-people-think-php-sucks/)
-- [AI will dominate the animation industry in less than 5 years](https://nicksaraev.com/ai-animation-is-coming/)
-- [Show HN: Yet Another Node.js Framework](https://news.ycombinator.com/item?id=33763132)
-- [A hundred UK companies sign up for four-day week with no loss of pay](https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay)
+- [Sticky Notes for the Internet](https://lawrencehook.com/ws/)
+- [Thriving on China&#39;s Belt and Road, Laos border town ditches kip for yuan](https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan)
+- [Reusing Yesterday’s Coffee Grounds for Another Cup of Coffee](https://wokelark.com/reusing-coffee-grounds-another-cup-of-coffee-caffeine-cold-brew/)
+- [South Asian people undergo type 2 diabetes remission with low calorie diets](https://medicalxpress.com/news/2022-11-south-asian-people-diabetes-remission.html)
+- [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
