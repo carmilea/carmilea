@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord fined $830K for GDPR lapses – Article – Compliance Week](https://www.complianceweek.com/regulatory-enforcement/discord-fined-830k-for-gdpr-lapses/32372.article)
+- [Too fast, too furious: Dangerous street takeovers stymie police, anger neighbors](https://cronkitenews.azpbs.org/2022/09/08/street-racing-reckless-driving-los-angeles-phoenix/)
+- [Most Ordinary Americans in 2016 Are Richer Than Was John D. Rockefeller in 1916](https://cafehayek.com/2016/02/40405.html)
+- [What&#39;s a good Linux terminal emulator that doesn&#39;t try to reinvent TMUX?](https://news.ycombinator.com/item?id=33759023)
 - [Young Australians just won a human rights case against an enormous coal mine](https://theconversation.com/this-case-has-made-legal-history-young-australians-just-won-a-human-rights-case-against-an-enormous-coal-mine-195350)
 - [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
-- [Bitcoin worth $1.5B withdrawn from Coinbase in 48 hours](https://cryptoslate.com/bitcoin-worth-1-5b-withdrawn-from-coinbase-in-48-hours/)
-- [SSHGuard](https://www.sshguard.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
