@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Too fast, too furious: Dangerous street takeovers stymie police, anger neighbors](https://cronkitenews.azpbs.org/2022/09/08/street-racing-reckless-driving-los-angeles-phoenix/)
-- [Most Ordinary Americans in 2016 Are Richer Than Was John D. Rockefeller in 1916](https://cafehayek.com/2016/02/40405.html)
+- [Tesla is in the business of selling emission credits, not just cars](https://twitter.com/stealthygeek/status/1596518142423232513)
+- [It Ruined Everything’: Buy Now, Pay Later Drives Gen Z into Debt](https://www.bloomberg.com/news/articles/2022-10-28/buy-now-pay-later-loans-drive-gen-z-into-debt-hurting-credit-scores)
+- [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
+- [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
 - [What&#39;s a good Linux terminal emulator that doesn&#39;t try to reinvent TMUX?](https://news.ycombinator.com/item?id=33759023)
-- [Young Australians just won a human rights case against an enormous coal mine](https://theconversation.com/this-case-has-made-legal-history-young-australians-just-won-a-human-rights-case-against-an-enormous-coal-mine-195350)
-- [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
