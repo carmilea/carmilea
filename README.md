@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We ran a Unix-like OS &lpar;Xv6&rpar; on our home-built CPU with our home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+- [We ran a Unix-like OS &lpar;Xv6&rpar; on our home-built CPU with our home-built C compiler &lpar;2020&rpar;](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+- [Web Archive appears to be down](https://web.archive.org)
 - [The Rune Programming Language](https://github.com/google/rune)
 - [HECnet: The Hobbyist DECnet Network](http://mim.stupi.net/hecnet)
 - [When splines were physical objects &lpar;2016&rpar;](https://www.core77.com/posts/55368/When-Splines-Were-Physical-Objects)
-- [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
