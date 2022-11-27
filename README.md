@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The entire crypto ecosystem is a ponzi](https://www.coppolacomment.com/2022/11/the-entire-crypto-ecosystem-is-ponzi.html)
-- [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
-- [Emacs Lisp shorthands as namespacing system](https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system/)
-- [Index Merges vs. Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
-- [Mach: A Pluggable Metrics Storage Engine for the Age of Observability [pdf]](https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
+- [Global Risk of Deadly Heat](https://www.nature.com/articles/nclimate3322)
+- [Git Notes: Git&#39;s Coolest, Most Unloved­ Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [Stack Computers: the new wave &lpar;1989&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
+- [Temporal Programming, a new name for an old paradigm](https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
