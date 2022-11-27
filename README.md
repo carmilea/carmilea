@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can we delete our accounts?](https://news.ycombinator.com/item?id=33765437)
+- [Man wins the legal right to not be &#39;fun&#39; at work](https://www.businessinsider.com/man-won-legal-right-not-be-fun-at-work-alcoholism-2022-11)
+- [Mastodon: Servers, Good and Bad](https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html)
 - [Sticky Notes for the Internet](https://lawrencehook.com/ws/)
 - [Thriving on China&#39;s Belt and Road, Laos border town ditches kip for yuan](https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan)
-- [Reusing Yesterday’s Coffee Grounds for Another Cup of Coffee](https://wokelark.com/reusing-coffee-grounds-another-cup-of-coffee-caffeine-cold-brew/)
-- [South Asian people undergo type 2 diabetes remission with low calorie diets](https://medicalxpress.com/news/2022-11-south-asian-people-diabetes-remission.html)
-- [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
