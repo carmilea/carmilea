@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The factory that only builds white Toyota Land Cruisers](https://www.topgear.com/car-news/big-reads/inside-factory-only-builds-white-toyotas)
-- [Racketfest 2023](https://racketfest.com)
-- [Ask HN: Why is there so little info on the web about IBM mainframe programming?](https://news.ycombinator.com/item?id=33774085)
-- [HN Who is hiring job posts over time](https://news.ycombinator.com/item?id=33773972)
-- [Ask HN: Indoor air quality sensors and other IoT that&#39;s local-first and not DIY?](https://news.ycombinator.com/item?id=33773786)
+- [AVX 512 will be the future](https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596)
+- [The ATtiny 2-Series](http://www.technoblogy.com/show?3UKF)
+- [Open-source tabletop board game simulator](https://github.com/drwhut/tabletop-club)
+- [Crypto firm BlockFi files for bankruptcy as FTX fallout spreads](https://www.cnbc.com/2022/11/28/blockfi-files-for-bankruptcy-as-ftx-fallout-spreads.html)
+- [Apple Introduces Oceanic+](https://www.apple.com/newsroom/2022/11/reach-new-depths-with-the-oceanic-plus-app-and-apple-watch-ultra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
