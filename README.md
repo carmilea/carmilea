@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical ignoring as a core competence for digital citizens](https://www.mpg.de/19554217/new-digital-competencies-critical-ignoring)
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
-- [SwiftUI Is Convenient, but Slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
-- [Sequoia: Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)
-- [Mauna Loa eruption underway; lava currently contained to summit](https://www.hawaiinewsnow.com/2022/11/28/mauna-loa-eruption-underway-lava-currently-contained-summit/)
+- [The factory that only builds white Toyota Land Cruisers](https://www.topgear.com/car-news/big-reads/inside-factory-only-builds-white-toyotas)
+- [Racketfest 2023](https://racketfest.com)
+- [Ask HN: Why is there so little info on the web about IBM mainframe programming?](https://news.ycombinator.com/item?id=33774085)
+- [HN Who is hiring job posts over time](https://news.ycombinator.com/item?id=33773972)
+- [Ask HN: Indoor air quality sensors and other IoT that&#39;s local-first and not DIY?](https://news.ycombinator.com/item?id=33773786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
