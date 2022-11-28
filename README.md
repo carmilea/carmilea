@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China state CCTV avoids crowd close ups at the World Cup](https://threadreaderapp.com/thread/1596935475725406208.html)
+- [Open Source and Saying “No”](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
+- [Ask HN: How is your company training you to become a better developer/engineer?](https://news.ycombinator.com/item?id=33771732)
 - [The Ultimate Guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
 - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
-- [Wordle for Poker](https://poklegame.com/)
-- [Unix History](https://www.levenez.com/unix/)
-- [Refurb Weekend: The Sega Dreamcast](http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
