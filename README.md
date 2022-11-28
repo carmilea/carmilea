@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
-- [The AI War and How to Win It](https://alexw.substack.com/p/war)
+- [California greenlights jaywalking. It’s a step in the right direction](https://www.washingtonpost.com/opinions/2022/11/21/california-jaywalking-legalized/)
+- [The AI war and how to win it](https://alexw.substack.com/p/war)
 - [Clang is better than GCC](https://yurichev.org/clang/)
 - [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
-- [Meta’s Adversarial Threat Report, Third Quarter 2022](https://about.fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
