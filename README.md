@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Which jobs will survive and which will disappear in 50 years?](https://news.ycombinator.com/item?id=33771216)
 - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 - [Wordle for Poker](https://poklegame.com/)
 - [Unix History](https://www.levenez.com/unix/)
 - [Refurb Weekend: The Sega Dreamcast](http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
-- [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
