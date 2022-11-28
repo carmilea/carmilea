@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical ignoring as a core competence for digital citizens](https://www.mpg.de/19554217/new-digital-competencies-critical-ignoring)
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+- [SwiftUI Is Convenient, but Slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
+- [Mauna Loa eruption underway; lava currently contained to summit](https://www.hawaiinewsnow.com/2022/11/28/mauna-loa-eruption-underway-lava-currently-contained-summit/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Przybylski&#39;s Star](https://en.wikipedia.org/wiki/Przybylski%27s_Star)
-- [Why young women earn more than men in some US cities](https://www.bbc.com/worklife/article/20220415-why-young-women-earn-more-than-men-in-some-us-cities)
-- [China state CCTV avoids crowd close ups at the World Cup](https://twitter.com/billbirtles/status/1596935475725406208)
-- [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
