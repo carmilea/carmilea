@@ -54,8 +54,8 @@
 - [Critical ignoring as a core competence for digital citizens](https://www.mpg.de/19554217/new-digital-competencies-critical-ignoring)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - [SwiftUI Is Convenient, but Slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
+- [Sequoia: Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)
 - [Mauna Loa eruption underway; lava currently contained to summit](https://www.hawaiinewsnow.com/2022/11/28/mauna-loa-eruption-underway-lava-currently-contained-summit/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
