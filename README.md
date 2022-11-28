@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Are companies becoming increasingly pushy? If so why?](https://news.ycombinator.com/item?id=33778840)
 - [Apple&#39;s reaction to protests: AirDrop is now limited to 10 minutes](https://twitter.com/tibor/status/1597296268275240960)
 - [Protect me from what I want](https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms)
 - [Show HN: Widget.json and Widget Construction Set](https://wd.gt)
 - [How thick is a three-sided coin?](https://jasmcole.com/2022/09/25/flipping-out/)
-- [Building a High Performance Data Integration Framework in Go](https://www.cloudquery.io/blog/building-cloudquery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
