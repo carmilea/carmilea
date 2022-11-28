@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI War and How to Win It](https://alexw.substack.com/p/war)
 - [Clang is better than GCC](https://yurichev.org/clang/)
 - [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
+- [Meta’s Adversarial Threat Report, Third Quarter 2022](https://about.fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022/)
 - [NopeCHA: Captcha Solver](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
-- [Git Notes](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
