@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
 - [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Friends Have More Friends Than You](https://scribe.citizen4.eu/your-friends-have-more-friends-than-you-e005796841bb)
 - [Fred Wilson: The Buy and Hold Mindset](https://avc.com/2022/11/the-buy-and-hold-mindset/)
 - [AI WordPress code snippet generator](https://codewp.ai/)
-- [Enabling the Future of GitHub&#39;s REST API with API Versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
