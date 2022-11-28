@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
 - [The AI War and How to Win It](https://alexw.substack.com/p/war)
 - [Clang is better than GCC](https://yurichev.org/clang/)
 - [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
 - [Meta’s Adversarial Threat Report, Third Quarter 2022](https://about.fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022/)
-- [NopeCHA: Captcha Solver](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
