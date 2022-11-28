@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s reaction to protests: AirDrop is now limited to 10 minutes](https://twitter.com/tibor/status/1597296268275240960)
 - [Protect me from what I want](https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms)
+- [Show HN: Widget.json and Widget Construction Set](https://wd.gt)
 - [How thick is a three-sided coin?](https://jasmcole.com/2022/09/25/flipping-out/)
-- [Lab-Grown Meat Is Safe to Eat, FDA Says](https://www.smithsonianmag.com/smart-news/lab-grown-meat-is-safe-to-eat-fda-says-180981160/)
-- [How Hospice Became a for Profit Hustle](https://www.newyorker.com/magazine/2022/12/05/how-hospice-became-a-for-profit-hustle)
-- [Why curation and decentralization is better than millions of apps](https://f-droid.org/2022/11/23/why-curation-and-decentralization-is-better-than-millions-of-apps.html)
+- [Building a High Performance Data Integration Framework in Go](https://www.cloudquery.io/blog/building-cloudquery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
