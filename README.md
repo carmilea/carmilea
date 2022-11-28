@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
+- [Wordle for Poker](https://poklegame.com/)
+- [Unix History](https://www.levenez.com/unix/)
 - [Refurb Weekend: The Sega Dreamcast](http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 - [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
-- [Can’t Hear What Actors Are Saying on TV? It’s Not You](https://www.wsj.com/articles/cant-hear-what-actors-are-saying-on-tv-its-not-you-probably-11669400315)
-- [The AI war and how to win it](https://alexw.substack.com/p/war)
-- [Clang is better than GCC](https://yurichev.org/clang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
