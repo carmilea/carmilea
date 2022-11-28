@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Refurb Weekend: The Sega Dreamcast](http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 - [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
-- [California greenlights jaywalking. It’s a step in the right direction](https://www.washingtonpost.com/opinions/2022/11/21/california-jaywalking-legalized/)
+- [Can’t Hear What Actors Are Saying on TV? It’s Not You](https://www.wsj.com/articles/cant-hear-what-actors-are-saying-on-tv-its-not-you-probably-11669400315)
 - [The AI war and how to win it](https://alexw.substack.com/p/war)
 - [Clang is better than GCC](https://yurichev.org/clang/)
-- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
