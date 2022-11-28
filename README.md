@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which jobs will survive and which will disappear in 50 years?](https://news.ycombinator.com/item?id=33771216)
+- [The Ultimate Guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
 - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 - [Wordle for Poker](https://poklegame.com/)
 - [Unix History](https://www.levenez.com/unix/)
