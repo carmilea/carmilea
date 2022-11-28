@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China state CCTV avoids crowd close ups at the World Cup](https://threadreaderapp.com/thread/1596935475725406208.html)
-- [Open Source and Saying “No”](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
-- [Ask HN: How is your company training you to become a better developer/engineer?](https://news.ycombinator.com/item?id=33771732)
-- [The Ultimate Guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
-- [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Przybylski&#39;s Star](https://en.wikipedia.org/wiki/Przybylski%27s_Star)
+- [Why young women earn more than men in some US cities](https://www.bbc.com/worklife/article/20220415-why-young-women-earn-more-than-men-in-some-us-cities)
+- [China state CCTV avoids crowd close ups at the World Cup](https://twitter.com/billbirtles/status/1596935475725406208)
+- [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
