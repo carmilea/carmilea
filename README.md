@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clang is better than GCC](https://yurichev.org/clang/)
+- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
+- [NopeCHA: Captcha Solver](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
-- [Git Notes: Git&#39;s Coolest, Most Unloved­ Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-- [Stack Computers: the new wave &lpar;1989&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
-- [FreeTube – The Private YouTube Client](https://freetubeapp.io/)
-- [Temporal Programming, a new name for an old paradigm](https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md)
+- [Git Notes](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
