@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hospice Became a for Profit Hustle](https://www.newyorker.com/magazine/2022/12/05/how-hospice-became-a-for-profit-hustle)
+- [Why curation and decentralization is better than millions of apps](https://f-droid.org/2022/11/23/why-curation-and-decentralization-is-better-than-millions-of-apps.html)
 - [AVX 512 will be the future](https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596)
+- [Monotype Teases New Research on How Typography Effects Human Emotions](https://www.printmag.com/typography/monotype-emotional-impact-of-type-second-report/)
 - [The ATtiny 2-Series](http://www.technoblogy.com/show?3UKF)
-- [Open-source tabletop board game simulator](https://github.com/drwhut/tabletop-club)
-- [Crypto firm BlockFi files for bankruptcy as FTX fallout spreads](https://www.cnbc.com/2022/11/28/blockfi-files-for-bankruptcy-as-ftx-fallout-spreads.html)
-- [Apple Introduces Oceanic+](https://www.apple.com/newsroom/2022/11/reach-new-depths-with-the-oceanic-plus-app-and-apple-watch-ultra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
