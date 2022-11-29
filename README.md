@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dwarf-Based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
+- [The X500 Plus computer case &lpar;2013&rpar;](https://blog.linitx.com/x500-computer-case/)
+- [Charles V of Spain Secret Code Cracked](https://www.schneier.com/blog/archives/2022/11/charles-v-of-spain-secret-code-cracked.html)
 - [Cornell, Oxford to lead grants aimed at boosting iron nutrition](https://news.cornell.edu/stories/2022/11/cornell-oxford-lead-grants-aimed-boosting-iron-nutrition)
 - [Emacs 29](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
-- [PCjs Machines](https://www.pcjs.org/)
-- [The EV Transition Explained: Can the Grid Cope?](https://spectrum.ieee.org/the-ev-transition-explained-2658463709)
-- [The Balenciaga Controversy](https://www.glossy.co/fashion/the-balenciaga-controversy-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
