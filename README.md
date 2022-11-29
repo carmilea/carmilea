@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Roots of SingleStore - Live from AWS Re:Invent](https://www.youtube.com/watch?v=cY6FLaBR_fs)
 - [SingleStore 2022 Hackathon Awards](https://www.youtube.com/watch?v=Q7-mLGkiEZU)
 - [Webinar Highlights: Real-Time Retail With IBM and SingleStore](https://www.youtube.com/watch?v=IUW68enSjAk)
 - [SingleStore | Engineering Livestream | October](https://www.youtube.com/watch?v=MlBEn8ENpHc)
 - [Data Intensity Calculator Discoveries](https://www.youtube.com/watch?v=V1sd_Ch6aYo)
-- [Arcules and Nucleus Security | Panel: IoT &amp; Cybersecurity](https://www.youtube.com/watch?v=tqCtdiK13O8)
 <!-- YOUTUBE:END -->
 
 
