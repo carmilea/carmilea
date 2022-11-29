@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
-- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/)
-- [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
-- [Ask HN: How innovative is the hydrogen industry?](https://news.ycombinator.com/item?id=33789397)
-- [Dwarf-Based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
+- [Let&#39;s Encrypt has a neat annual report [pdf]](https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf)
+- [Dropbox Acquires Boxcryptor’s Assets, to provide client-side encryption](https://www.boxcryptor.com/en/blog/post/new-chapter-with-dropbox/)
+- [Mastodon Isn’t Just a Replacement for Twitter](https://www.noemamag.com/mastodon-isnt-just-a-replacement-for-twitter/)
+- [Dynamic types have the potential to be more than &quot;no static types&quot;](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
+- [WebTorrent](https://webtorrent.io/faq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
