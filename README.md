@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada geese beat humans in longstanding territory battle: study](https://aces.illinois.edu/news/study-canada-geese-beat-humans-longstanding-territory-battle)
+- [WasmEdge](https://wasmedge.org/)
+- [Rereading: The Soul of a New Machine by Tracy Kidder](https://auxiliarymemory.com/2017/01/06/rereading-the-soul-of-a-new-machine-by-tracy-kidder/)
 - [Google, Epic ink deal to migrate hospital EHRs to the cloud to ramp up use of AI](https://www.fiercehealthcare.com/health-tech/google-epic-ink-deal-migrate-hospital-ehrs-cloud-ramp-use-ai-analytics)
-- [“It will no longer be possible for public to learn who owns a European company”](https://twitter.com/pevchikh/status/1597588206874157058)
-- [Let&#39;s Encrypt has a neat annual report [pdf]](https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf)
-- [Dropbox Acquires Boxcryptor’s Assets, to provide client-side encryption](https://www.boxcryptor.com/en/blog/post/new-chapter-with-dropbox/)
-- [New York City Will Hospitalize More Mentally Ill People Involuntarily](https://www.nytimes.com/2022/11/29/nyregion/nyc-mentally-ill-involuntary-custody.html)
+- [European countries begin taking down public company registers after ruling](https://www.ft.com/content/e4b31a4e-a79d-40f7-8a19-c1e451a95c4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
