@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
-- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Friends Have More Friends Than You](https://scribe.citizen4.eu/your-friends-have-more-friends-than-you-e005796841bb)
-- [Fred Wilson: The Buy and Hold Mindset](https://avc.com/2022/11/the-buy-and-hold-mindset/)
-- [AI WordPress code snippet generator](https://codewp.ai/)
+- [ADHD Medication Not Associated with Cardiovascular Risk at Any Age](https://www.additudemag.com/adhd-medication-no-cardiovascular-risk-hypertension-heart-failure/)
+- [Nitter.it: Unavailable for Legal Reasons](https://nitter.it)
+- [EU Regulator: Proposal to force websites to pay telcos puts Internet at risk](https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet)
+- [JupyterLite is a JupyterLab distribution that runs in the browser](https://github.com/jupyterlite/jupyterlite)
+- [Musk’s Boring Company Ghosts Cities Across America](https://www.wsj.com/articles/elon-musk-boring-company-tunnel-traffic-11669658396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
