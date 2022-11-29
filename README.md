@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
+- [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/)
+- [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
+- [Ask HN: How innovative is the hydrogen industry?](https://news.ycombinator.com/item?id=33789397)
 - [Dwarf-Based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
-- [The X500 Plus computer case &lpar;2013&rpar;](https://blog.linitx.com/x500-computer-case/)
-- [Charles V of Spain Secret Code Cracked](https://www.schneier.com/blog/archives/2022/11/charles-v-of-spain-secret-code-cracked.html)
-- [Cornell, Oxford to lead grants aimed at boosting iron nutrition](https://news.cornell.edu/stories/2022/11/cornell-oxford-lead-grants-aimed-boosting-iron-nutrition)
-- [Emacs 29](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
