@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind Is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
+- [Goodbye, Data Science](https://ryxcommar.com/2022/11/27/goodbye-data-science/)
+- [Ask HN: Hobby coding that doesn’t feel like work](https://news.ycombinator.com/item?id=33787239)
+- [Tailwind is a leaky abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 - [Vision Transformers &lpar;ViT&rpar; Explained](https://www.pinecone.io/learn/vision-transformers/)
-- [Ask HN: Is there a problem with HN Algolia search?](https://news.ycombinator.com/item?id=33786502)
-- [Go Framework: No Framework?](https://threedots.tech/post/best-go-framework/)
-- [How do transistors work, anyway?](https://lcamtuf.substack.com/p/how-do-transistors-work-anyway)
+- [The best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
