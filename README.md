@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Low Latency Optimization: Understanding Pages &lpar;Part 1&rpar;](https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/)
-- [Jsonhero.io: Enhanced JSON structure visualization](https://jsonhero.io/)
+- [JSON Hero: Enhanced JSON structure visualization](https://jsonhero.io/)
 - [Shenzhou-15 manned mission ready for launch after final rehearsal](https://news.cgtn.com/news/2022-11-27/Shenzhou-15-mission-finishes-pre-launch-tests-1fiFExJ8AiA/index.html)
 - [A Poor Man&#39;s API](https://blog.frankel.ch/poor-man-api/)
 - [Motorola 68030 wire wrap prototype](https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387)
