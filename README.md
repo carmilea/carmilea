@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Poor Man&#39;s API](https://blog.frankel.ch/poor-man-api/)
 - [Motorola 68030 wire wrap prototype](https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387)
 - [EU Regulator: Proposal to force websites to pay telcos puts Internet at risk](https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet)
 - [JupyterLite: a JupyterLab distribution that runs in the browser](https://github.com/jupyterlite/jupyterlite)
 - [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
-- [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
