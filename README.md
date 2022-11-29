@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incident report: Some GOV.UK URLs blocked by deceptive site warning](https://insidegovuk.blog.gov.uk/2022/11/24/incident-report-some-gov-uk-urls-blocked-by-deceptive-site-warning/)
 - [Obsolete Sounds: collection of disappearing sounds and extinct sounds](https://citiesandmemory.com/obsolete-sounds/)
 - [Tesla blogs propagate fake news of chip joint venture, but why?](https://electrek.co/2022/11/28/tesla-blogs-propagate-fake-news-chip-joint-venture/)
 - [After Delhi High Court ruling, Telegram discloses personal details of users](https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311)
 - [Show HN: Python library for embedding large graphs &lpar;Written in Rust&rpar;](https://github.com/H4kor/graph-force)
-- [Gaslighting is Word of the Year 2022](https://www.merriam-webster.com/words-at-play/word-of-the-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
