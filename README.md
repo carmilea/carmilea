@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind Is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
+- [Vision Transformers &lpar;ViT&rpar; Explained](https://www.pinecone.io/learn/vision-transformers/)
+- [Ask HN: Is there a problem with HN Algolia search?](https://news.ycombinator.com/item?id=33786502)
 - [Go Framework: No Framework?](https://threedots.tech/post/best-go-framework/)
-- [Harvard mandates the bivalent Omicron-specific Covid-19 booster](https://www.harvard.edu/coronavirus/covid-19-vaccine-information/)
 - [How do transistors work, anyway?](https://lcamtuf.substack.com/p/how-do-transistors-work-anyway)
-- [Jeffrey Epstein documents to be unsealed, potentially revealing acquaintances](https://www.foxnews.com/world/jeffrey-epstein-documents-unsealed-jugde-orders)
-- [Japanese Researchers Faked Data in ISS Simulation](https://gizmodo.com/japanese-researchers-faked-data-iss-simulation-1849827303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
