@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google, Epic ink deal to migrate hospital EHRs to the cloud to ramp up use of AI](https://www.fiercehealthcare.com/health-tech/google-epic-ink-deal-migrate-hospital-ehrs-cloud-ramp-use-ai-analytics)
+- [“It will no longer be possible for public to learn who owns a European company”](https://twitter.com/pevchikh/status/1597588206874157058)
 - [Let&#39;s Encrypt has a neat annual report [pdf]](https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf)
 - [Dropbox Acquires Boxcryptor’s Assets, to provide client-side encryption](https://www.boxcryptor.com/en/blog/post/new-chapter-with-dropbox/)
-- [Mastodon Isn’t Just a Replacement for Twitter](https://www.noemamag.com/mastodon-isnt-just-a-replacement-for-twitter/)
-- [Dynamic types have the potential to be more than &quot;no static types&quot;](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
-- [WebTorrent](https://webtorrent.io/faq)
+- [New York City Will Hospitalize More Mentally Ill People Involuntarily](https://www.nytimes.com/2022/11/29/nyregion/nyc-mentally-ill-involuntary-custody.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
