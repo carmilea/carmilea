@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Incident report: Some GOV.UK URLs blocked by deceptive site warning](https://insidegovuk.blog.gov.uk/2022/11/24/incident-report-some-gov-uk-urls-blocked-by-deceptive-site-warning/)
+- [Japanese Researchers Faked Data in ISS Simulation](https://gizmodo.com/japanese-researchers-faked-data-iss-simulation-1849827303)
+- [Ask HN: Can I own an IP address and take it with me across providers?](https://news.ycombinator.com/item?id=33785512)
+- [Three common misconceptions about the nature and nurture of research](https://www.nature.com/articles/s42254-022-00533-4)
+- [Some Gov.uk URLs blocked by deceptive site warning](https://insidegovuk.blog.gov.uk/2022/11/24/incident-report-some-gov-uk-urls-blocked-by-deceptive-site-warning/)
 - [Obsolete Sounds: collection of disappearing sounds and extinct sounds](https://citiesandmemory.com/obsolete-sounds/)
-- [Tesla blogs propagate fake news of chip joint venture, but why?](https://electrek.co/2022/11/28/tesla-blogs-propagate-fake-news-chip-joint-venture/)
-- [After Delhi High Court ruling, Telegram discloses personal details of users](https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311)
-- [Show HN: Python library for embedding large graphs &lpar;Written in Rust&rpar;](https://github.com/H4kor/graph-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
