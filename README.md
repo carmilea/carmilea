@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Obsolete Sounds: collection of disappearing sounds and extinct sounds](https://citiesandmemory.com/obsolete-sounds/)
+- [Tesla blogs propagate fake news of chip joint venture, but why?](https://electrek.co/2022/11/28/tesla-blogs-propagate-fake-news-chip-joint-venture/)
 - [After Delhi High Court ruling, Telegram discloses personal details of users](https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311)
 - [Show HN: Python library for embedding large graphs &lpar;Written in Rust&rpar;](https://github.com/H4kor/graph-force)
-- [Low Latency Optimization: Understanding Pages &lpar;Part 1&rpar;](https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/)
-- [JSON Hero: Enhanced JSON structure visualization](https://jsonhero.io/)
-- [Shenzhou-15 manned mission ready for launch after final rehearsal](https://news.cgtn.com/news/2022-11-27/Shenzhou-15-mission-finishes-pre-launch-tests-1fiFExJ8AiA/index.html)
+- [Gaslighting is Word of the Year 2022](https://www.merriam-webster.com/words-at-play/word-of-the-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
