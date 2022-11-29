@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye, Data Science](https://ryxcommar.com/2022/11/27/goodbye-data-science/)
-- [Ask HN: Hobby coding that doesn’t feel like work](https://news.ycombinator.com/item?id=33787239)
-- [Tailwind is a leaky abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
-- [Vision Transformers &lpar;ViT&rpar; Explained](https://www.pinecone.io/learn/vision-transformers/)
-- [The best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
+- [Cornell, Oxford to lead grants aimed at boosting iron nutrition](https://news.cornell.edu/stories/2022/11/cornell-oxford-lead-grants-aimed-boosting-iron-nutrition)
+- [Emacs 29](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
+- [PCjs Machines](https://www.pcjs.org/)
+- [The EV Transition Explained: Can the Grid Cope?](https://spectrum.ieee.org/the-ev-transition-explained-2658463709)
+- [The Balenciaga Controversy](https://www.glossy.co/fashion/the-balenciaga-controversy-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
