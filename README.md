@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK ditches ban on &#39;legal but harmful&#39; online content in favour of free speech](https://www.reuters.com/world/uk/uk-ditches-ban-legal-harmful-online-content-favour-free-speech-2022-11-28/)
+- [Go Framework: No Framework?](https://threedots.tech/post/best-go-framework/)
+- [Harvard mandates the bivalent Omicron-specific Covid-19 booster](https://www.harvard.edu/coronavirus/covid-19-vaccine-information/)
+- [How do transistors work, anyway?](https://lcamtuf.substack.com/p/how-do-transistors-work-anyway)
+- [Jeffrey Epstein documents to be unsealed, potentially revealing acquaintances](https://www.foxnews.com/world/jeffrey-epstein-documents-unsealed-jugde-orders)
 - [Japanese Researchers Faked Data in ISS Simulation](https://gizmodo.com/japanese-researchers-faked-data-iss-simulation-1849827303)
-- [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
-- [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
-- [Three common misconceptions about the nature and nurture of research](https://www.nature.com/articles/s42254-022-00533-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
