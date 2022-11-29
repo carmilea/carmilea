@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada geese beat humans in longstanding territory battle: study](https://aces.illinois.edu/news/study-canada-geese-beat-humans-longstanding-territory-battle)
-- [WasmEdge](https://wasmedge.org/)
-- [Rereading: The Soul of a New Machine by Tracy Kidder](https://auxiliarymemory.com/2017/01/06/rereading-the-soul-of-a-new-machine-by-tracy-kidder/)
-- [Google, Epic ink deal to migrate hospital EHRs to the cloud to ramp up use of AI](https://www.fiercehealthcare.com/health-tech/google-epic-ink-deal-migrate-hospital-ehrs-cloud-ramp-use-ai-analytics)
-- [European countries begin taking down public company registers after ruling](https://www.ft.com/content/e4b31a4e-a79d-40f7-8a19-c1e451a95c4b)
+- [Godot Engine Release Management: 4.0 and beyond](https://godotengine.org/article/release-management-4-0-and-beyond)
+- [A Collection of 88x31 pixel web buttons from the 1990s and 2000s](https://anlucas.neocities.org/88x31Buttons.html)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [A tiny C header-only RISC-V emulator](https://github.com/cnlohr/mini-rv32ima)
+- [Interview SBF: FTX User Funds on Alameda, $8B Hole, CZ, Run on the Bank, Remorse](https://www.youtube.com/watch?v=xP54LZB3WRw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
