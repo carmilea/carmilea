@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gimp Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
-- [Switching to AWS Graviton slashed our infrastructure bill by 35%](https://squeaky.ai/blog/development/how-switching-to-aws-graviton-slashed-our-infrastructure-bill-by-35-percent)
-- [Mapping Out the Tribes of Climate](https://nadia.xyz/climate-tribes)
-- [Leaving Spotify for Freer Pastures](https://d00k.net/journal/leaving-spotify/)
-- [Google Details Tools of Commercial Spyware Vendor Variston](https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows)
+- [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
+- [Still Entombed: The continuing twists and turns of a maze game [pdf]](https://intarch.ac.uk/journal/issue59/3/ia.59.3.pdf)
+- [Switching to AWS Graviton slashed our infrastructure bill](https://squeaky.ai/blog/development/how-switching-to-aws-graviton-slashed-our-infrastructure-bill-by-35-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
