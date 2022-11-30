@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter 2.0](https://blog.twitter.com/en_us/topics/company/2022/twitter-2-0-our-continued-commitment-to-the-public-conversation)
+- [Switching to AWS Graviton slashed our infrastructure bill by 35%](https://squeaky.ai/blog/development/how-switching-to-aws-graviton-slashed-our-infrastructure-bill-by-35-percent)
+- [Physicists Create a Wormhole Using a Quantum Computer](https://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/)
+- [Google Details Tools of Commercial Spyware Vendor Variston](https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows)
 - [pup: Parsing HTML at the Command Line](https://github.com/ericchiang/pup)
-- [Image Generation with Electrostatics](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/)
-- [OpenAI ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
-- [CT scan shows there&#39;s still lots of toner left in an “empty” cartridge](https://www.lumafield.com/article/is-this-toner-half-empty-or-half-full)
+- [How much does Rust&#39;s bounds checking cost?](https://blog.readyset.io/bounds-checks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
