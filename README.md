@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gimp Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
+- [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
+- [FTX’s collapse was a crime, not an accident](https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/)
+- [This Week&#39;s Hype](https://www.math.columbia.edu/~woit/wordpress/?p=13181)
 - [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
-- [Still Entombed: The continuing twists and turns of a maze game [pdf]](https://intarch.ac.uk/journal/issue59/3/ia.59.3.pdf)
-- [Switching to AWS Graviton slashed our infrastructure bill](https://squeaky.ai/blog/development/how-switching-to-aws-graviton-slashed-our-infrastructure-bill-by-35-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
