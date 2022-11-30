@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s App Store Has Become an Ad-Plagued Version of Its Former Self](https://www.businessinsider.com/apples-app-store-has-become-an-ad-plagued-version-of-its-former-self-2022-11)
 - [Using rats to clear land mines in Cambodia](https://www.sapiens.org/culture/land-mine-detection-rats/)
-- [Neuromancer: Miles Teller Eyed for New Apple+ Sci-Fi Series](https://www.theilluminerdi.com/2022/11/29/neuromancer-eyes-miles-teller/)
 - [Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens](https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
 - [$50SAT – Eagle2 &lpar;2015&rpar;](http://www.50dollarsat.info/)
 - [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
