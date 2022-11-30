@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter 2.0](https://blog.twitter.com/en_us/topics/company/2022/twitter-2-0-our-continued-commitment-to-the-public-conversation)
+- [pup: Parsing HTML at the Command Line](https://github.com/ericchiang/pup)
+- [Image Generation with Electrostatics](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/)
 - [OpenAI ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
-- [A long expected update &lpar;probablistic programming langauge team laid off&rpar;](https://ericlippert.com/2022/11/30/a-long-expected-update/)
-- [Scientists discover secret to waking up alert and refreshed](https://news.berkeley.edu/2022/11/29/scientists-discover-secret-to-waking-up-alert-and-refreshed/)
-- [Estonia saved its citizens 820 years by moving public services online](https://www.karlsnotes.com/estonia-saved-its-citizens-820-years-by-moving-public-services-online/)
-- [Programmable Ink](https://www.inkandswitch.com/inkbase/)
+- [CT scan shows there&#39;s still lots of toner left in an “empty” cartridge](https://www.lumafield.com/article/is-this-toner-half-empty-or-half-full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
