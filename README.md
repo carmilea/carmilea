@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK high street banks are quarantining from crypto](https://techmonitor.ai/policy/digital-economy/uk-high-street-banks-quarantining-crypto)
+- [Windows is the strangest, or hardest, operating system to keep curl support for](https://mastodon.social/@bagder/109432034039353503)
 - [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
 - [In Game of Life any buildable pattern can be constructed by colliding 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
+- [Being fatter than Homer Simpson](https://nicky.bearblog.dev/fatter-than-homer/)
 - [Using rats to clear land mines in Cambodia](https://www.sapiens.org/culture/land-mine-detection-rats/)
-- [Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens](https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
