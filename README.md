@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Gitlab Dedicated, our new single-tenant SaaS offering](https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/)
+- [Lago &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/lago/jobs/LuTb5d5-founding-sales-manager)
+- [Just Say No](https://www.jeffgeerling.com/blog/2022/just-say-no)
+- [RTS devlog #7: Optimizing performance for 1000 units](https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-optimizing-1604)
 - [Ask HN: Do you look angry while you work?](https://news.ycombinator.com/item?id=33800340)
-- [Lunatic is an Erlang-inspired runtime for WebAssembly](https://lunatic.solutions/)
-- [Ask HN: Is Google becoming useless as a search engine, or is it just me?](https://news.ycombinator.com/item?id=33799767)
-- [Author warns about &#39;epidemic of self-censorship&#39;](https://www.bbc.co.uk/news/entertainment-arts-63797087)
-- [Convert SimCity 2000 cities into Minecraft worlds](https://github.com/jgosar/mine-city-2000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
