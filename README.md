@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Windows is the strangest, or hardest, operating system to keep curl support for](https://mastodon.social/@bagder/109432034039353503)
 - [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
+- [Ask HN: Which books have made you a better thinker and problem solver?](https://news.ycombinator.com/item?id=33797862)
 - [In Game of Life any buildable pattern can be constructed by colliding 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 - [Being fatter than Homer Simpson](https://nicky.bearblog.dev/fatter-than-homer/)
-- [Using rats to clear land mines in Cambodia](https://www.sapiens.org/culture/land-mine-detection-rats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
