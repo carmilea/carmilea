@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. government to backstop mortgages above $1M](https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331)
+- [Land Mine Detecting Rats Are Overturning Decades of Military Norms](https://www.sapiens.org/culture/land-mine-detection-rats/)
+- [Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens](https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
 - [Public Beneficial Ownership Registers Advance Anti-Corruption](https://www.transparency.org/en/news/how-public-beneficial-ownership-registers-advance-anti-corruption)
 - [$50SAT – Eagle2 &lpar;2015&rpar;](http://www.50dollarsat.info/)
 - [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
-- [Artist feeds childhood diary into GPT-3 to have a chat with herself](https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
