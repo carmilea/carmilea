@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you look angry while you work?](https://news.ycombinator.com/item?id=33800340)
+- [Lunatic is an Erlang-inspired runtime for WebAssembly](https://lunatic.solutions/)
+- [Ask HN: Is Google becoming useless as a search engine, or is it just me?](https://news.ycombinator.com/item?id=33799767)
 - [Author warns about &#39;epidemic of self-censorship&#39;](https://www.bbc.co.uk/news/entertainment-arts-63797087)
 - [Convert SimCity 2000 cities into Minecraft worlds](https://github.com/jgosar/mine-city-2000)
-- [Ask HN: Alternatives to The Economist Magazine?](https://news.ycombinator.com/item?id=33799353)
-- [Windows is the strangest, or hardest, operating system to keep curl support for](https://mastodon.social/@bagder/109432034039353503)
-- [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
