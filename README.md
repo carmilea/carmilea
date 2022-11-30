@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
 - [Switching to AWS Graviton slashed our infrastructure bill by 35%](https://squeaky.ai/blog/development/how-switching-to-aws-graviton-slashed-our-infrastructure-bill-by-35-percent)
-- [Physicists Create a Wormhole Using a Quantum Computer](https://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/)
+- [Mapping Out the Tribes of Climate](https://nadia.xyz/climate-tribes)
+- [Leaving Spotify for Freer Pastures](https://d00k.net/journal/leaving-spotify/)
 - [Google Details Tools of Commercial Spyware Vendor Variston](https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows)
-- [pup: Parsing HTML at the Command Line](https://github.com/ericchiang/pup)
-- [How much does Rust&#39;s bounds checking cost?](https://blog.readyset.io/bounds-checks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
