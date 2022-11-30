@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Gitlab Dedicated, our new single-tenant SaaS offering](https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/)
-- [Lago &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/lago/jobs/LuTb5d5-founding-sales-manager)
-- [Just Say No](https://www.jeffgeerling.com/blog/2022/just-say-no)
-- [RTS devlog #7: Optimizing performance for 1000 units](https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-optimizing-1604)
-- [Ask HN: Do you look angry while you work?](https://news.ycombinator.com/item?id=33800340)
+- [Women visited by police after raising concerns over sewage to local MP](https://lyme-online.co.uk/news/lyme-regis-news/west-dorset-women-visited-by-police-after-raising-concerns-over-sewage-pollution-with-local-mp/)
+- [I Asked What It Would Take to Get Gen Z Back to the Office: Private Offices?](https://wolfstreet.com/2022/11/24/i-asked-what-it-would-take-to-get-gen-z-back-to-the-office-downtown-private-offices-man-microsoft-gives-them-to-everybody/)
+- [Maersk/IBM to discontinue TradeLens, a blockchain-enabled global trade platform](https://www.maersk.com/news/articles/2022/11/29/maersk-and-ibm-to-discontinue-tradelens)
+- [Launch HN: Patterns &lpar;YC S21&rpar; – A much faster way to build and deploy data apps](https://news.ycombinator.com/item?id=33801314)
+- [Persistent and pervasive impact of being bullied in childhood and adolescence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542665/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
