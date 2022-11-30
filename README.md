@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Controls the Internet? Authoritative NS Records in gTLDs](https://netmeister.org/blog/nsauth-diversity.html)
-- [ffmpeg.wasm – a pure WebAssembly / JavaScript port of FFmpeg](https://ffmpegwasm.netlify.app)
-- [How Stuff Gets eXposed](https://sgx.fail/)
-- [Pele&#39;s Hair](https://www.nps.gov/havo/learn/nature/peles-hair.htm)
-- [Speeding up the JavaScript ecosystem, one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
+- [$50SAT](http://www.50dollarsat.info/)
+- [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
+- [Artist feeds childhood diary into GPT-3 to have a moving chat with herself](https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html)
+- [No Privacy in the Electronics Repair Industry](https://arxiv.org/abs/2211.05824)
+- [Show HN: A userscript that adds archive URLs below the paywalled HN submissions](https://github.com/MostlyEmre/hn-anti-paywall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
