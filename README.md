@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roboflow &lpar;YC S20&rpar; is hiring engineers to democratize computer vision](https://roboflow.com/careers?ref=ychiring)
-- [DoorDash Lays of 1250 Employees](https://doordash.news/company/teamupdate/)
-- [Kraken lays off 30% of staff](https://blog.kraken.com/post/16442/business-update/)
-- [Ask HN: How do you upskill your teams technical writing?](https://news.ycombinator.com/item?id=33802991)
-- [Program-repair: Community for discovery, access and systematization of data](https://program-repair.org/)
+- [OpenAI ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
+- [A long expected update &lpar;probablistic programming langauge team laid off&rpar;](https://ericlippert.com/2022/11/30/a-long-expected-update/)
+- [Scientists discover secret to waking up alert and refreshed](https://news.berkeley.edu/2022/11/29/scientists-discover-secret-to-waking-up-alert-and-refreshed/)
+- [Estonia saved its citizens 820 years by moving public services online](https://www.karlsnotes.com/estonia-saved-its-citizens-820-years-by-moving-public-services-online/)
+- [Programmable Ink](https://www.inkandswitch.com/inkbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
