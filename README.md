@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Women visited by police after raising concerns over sewage to local MP](https://lyme-online.co.uk/news/lyme-regis-news/west-dorset-women-visited-by-police-after-raising-concerns-over-sewage-pollution-with-local-mp/)
-- [I Asked What It Would Take to Get Gen Z Back to the Office: Private Offices?](https://wolfstreet.com/2022/11/24/i-asked-what-it-would-take-to-get-gen-z-back-to-the-office-downtown-private-offices-man-microsoft-gives-them-to-everybody/)
-- [Maersk/IBM to discontinue TradeLens, a blockchain-enabled global trade platform](https://www.maersk.com/news/articles/2022/11/29/maersk-and-ibm-to-discontinue-tradelens)
-- [Launch HN: Patterns &lpar;YC S21&rpar; – A much faster way to build and deploy data apps](https://news.ycombinator.com/item?id=33801314)
-- [Persistent and pervasive impact of being bullied in childhood and adolescence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542665/)
+- [Why I am learning category theory](https://the.scapegoat.dev/why-i-am-learning-category-theory-1/)
+- [Using a date-modified header to detect unique visitors without using cookies](https://notes.normally.com/cookieless-unique-visitor-counts/)
+- [French baguette gets Unesco heritage status](https://www.bbc.com/news/world-europe-63800674)
+- [Bringing Codecov into the Sentry Family: Where Code Coverage Meets Am](https://blog.sentry.io/2022/11/30/bringing-codecov-into-the-sentry-family-where-code-coverage-meets-application-monitoring/)
+- [How an early oil industry study became key in climate lawsuits](https://e360.yale.edu/features/climate-lawsuits-oil-industry-research)
 <!-- BLOG-POST-LIST:END -->
 
 ---
