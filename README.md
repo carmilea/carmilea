@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I am learning category theory](https://the.scapegoat.dev/why-i-am-learning-category-theory-1/)
-- [Using a date-modified header to detect unique visitors without using cookies](https://notes.normally.com/cookieless-unique-visitor-counts/)
-- [French baguette gets Unesco heritage status](https://www.bbc.com/news/world-europe-63800674)
-- [Bringing Codecov into the Sentry Family: Where Code Coverage Meets Am](https://blog.sentry.io/2022/11/30/bringing-codecov-into-the-sentry-family-where-code-coverage-meets-application-monitoring/)
-- [How an early oil industry study became key in climate lawsuits](https://e360.yale.edu/features/climate-lawsuits-oil-industry-research)
+- [Roboflow &lpar;YC S20&rpar; is hiring engineers to democratize computer vision](https://roboflow.com/careers?ref=ychiring)
+- [DoorDash Lays of 1250 Employees](https://doordash.news/company/teamupdate/)
+- [Kraken lays off 30% of staff](https://blog.kraken.com/post/16442/business-update/)
+- [Ask HN: How do you upskill your teams technical writing?](https://news.ycombinator.com/item?id=33802991)
+- [Program-repair: Community for discovery, access and systematization of data](https://program-repair.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
