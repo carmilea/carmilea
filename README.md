@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Author warns about &#39;epidemic of self-censorship&#39;](https://www.bbc.co.uk/news/entertainment-arts-63797087)
+- [Convert SimCity 2000 cities into Minecraft worlds](https://github.com/jgosar/mine-city-2000)
+- [Ask HN: Alternatives to The Economist Magazine?](https://news.ycombinator.com/item?id=33799353)
 - [Windows is the strangest, or hardest, operating system to keep curl support for](https://mastodon.social/@bagder/109432034039353503)
 - [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
-- [Ask HN: Which books have made you a better thinker and problem solver?](https://news.ycombinator.com/item?id=33797862)
-- [In Game of Life any buildable pattern can be constructed by colliding 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
-- [Being fatter than Homer Simpson](https://nicky.bearblog.dev/fatter-than-homer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
