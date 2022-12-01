@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google admits to violating federal law and plans to keep doing it](https://news.ycombinator.com/item?id=33820000)
+- [Discord’s Creator Portal](https://discord.com/creators)
+- [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
+- [Apple Blocks Coinbase wallet, for not giving them a 30% cut of exchange fees](https://twitter.com/coinbasewallet/status/1598354819735031809)
+- [Ask HN: Was I pwned?](https://news.ycombinator.com/item?id=33820330)
 - [3 of SingleStore’s Key Takeaways From The Forrester Wave™ Translytical Data Platforms Report](https://www.singlestore.com/blog/3-key-takeaways-forrester-translytical-data-platforms)
-- [Memory Safe Languages in Android 13 Reduce Vulnerabilities](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
-- [Stripe launches a fiat-to-crypto onramp](https://stripe.com/blog/crypto-onramp)
-- [New York City hiring top rat killer](https://a002-oom03.nyc.gov/IRM/Handlers/Campaign/Attachments.ashx?attachmentId=78646d83-e510-4769-945c-4d557c9080bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
