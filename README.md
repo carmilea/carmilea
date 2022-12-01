@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- [Platform certificates used to sign malware](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
+- [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
 - [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
-- [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
-- [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.jacionline.org/article/S0091-6749(22)01477-4/fulltext)
-- [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
-- [John Carmack trying to get a bunch of GPUs on Google Cloud](https://twitter.com/id_aa_carmack/status/1598391619673358342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
