@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [83% of Developers Suffer from Burnout, Haystack Analytics Study Finds](https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds)
+- [Extism: Make all software programmable with WebAssembly](https://extism.org/blog/announcing-extism/)
+- [Hijacking infrared to make a dumb device smart](https://kennedn.com/blog/posts/snowdon/)
 - [Firezone &lpar;YC W22&rpar; is hiring engineers to work on open-source network security](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
-- [Show HN: Natural Language Processing Demystified &lpar;full release/no sign-up req&#39;d&rpar;](https://news.ycombinator.com/item?id=33815146)
-- [NixOS 22.11 “Raccoon” Released](https://nixos.org/blog/announcements)
-- [Estimated cumulative excess deaths during Covid, World](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity)
+- [Show HN: Natural Language Processing Demystified](https://news.ycombinator.com/item?id=33815146)
+- [NixOS 22.11 “Raccoon”](https://nixos.org/blog/announcements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
