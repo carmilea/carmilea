@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Shark Tank’ Startup Is Making Vegan Bacon Out of Seaweed](https://singularityhub.com/2022/11/30/this-shark-tank-funded-startup-is-making-vegan-bacon-out-of-seaweed/)
+- [Don&#39;t End the Week with Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+- [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
+- [Bugout: Browser-to-browser networking built on WebTorrent](https://github.com/chr15m/bugout)
 - [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
-- [FTX’s collapse was a crime, not an accident](https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/)
-- [This Week&#39;s Hype](https://www.math.columbia.edu/~woit/wordpress/?p=13181)
-- [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
