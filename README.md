@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“I&#39;ve asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog”](https://tilde.zone/@ftrain/109436259129597431)
+- [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
+- [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
+- [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
+- [I&#39;ve asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog](https://tilde.zone/@ftrain/109436259129597431)
 - [CRDTs make multiplayer text editing part of Zed&#39;s DNA](https://zed.dev/blog/crdts)
-- [Discord’s Creator Portal](https://discord.com/creators)
-- [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
-- [Apple Blocks Coinbase wallet, for not giving them a 30% cut of exchange fees](https://twitter.com/coinbasewallet/status/1598354819735031809)
 <!-- BLOG-POST-LIST:END -->
 
 ---
