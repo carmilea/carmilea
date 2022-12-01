@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Browser Dynamic Viewport Units](https://web.dev/viewport-units/)
 - [Advent of Code 2022 is nigh](https://adventofcode.com/2022)
+- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+- [Show HN: I am building a Safari Web Extension to switch tabs efficiently](https://taptab.manibatra.xyz/)
 - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
-- [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
-- [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
-- [We found critical vulnerabilities in Hive Social](https://zerforschung.org/posts/hive-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
