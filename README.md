@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
 - [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
+- [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.jacionline.org/article/S0091-6749(22)01477-4/fulltext)
 - [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
-- [I&#39;ve asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog](https://tilde.zone/@ftrain/109436259129597431)
-- [CRDTs make multiplayer text editing part of Zed&#39;s DNA](https://zed.dev/blog/crdts)
+- [John Carmack trying to get a bunch of GPUs on Google Cloud](https://twitter.com/id_aa_carmack/status/1598391619673358342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
