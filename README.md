@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norway: Landlines will no longer be supported](https://www.nrk.no/vestland/nye-mobilmaster-gjer-livet-lettare-i-solund-1.16201115)
 - [Surely you&#39;re publishing, Mr. Feynman](https://praveshkoirala.com/2022/11/03/surely-you-are-publishing-mr-feynman/)
+- [Ask HN: Are there things that Flash did that we still can’t do with today’s web?](https://news.ycombinator.com/item?id=33812826)
 - [New Browser Dynamic Viewport Units](https://web.dev/viewport-units/)
+- [What Are Executive Off-Sites Good For?](https://tomcritchlow.com/2022/10/06/exec-offsites/)
 - [Advent of Code 2022 is nigh](https://adventofcode.com/2022)
-- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
