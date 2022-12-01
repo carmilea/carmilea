@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC to make 4nm chips in Arizona for Apple, AMD, Nvidia](https://techmonitor.ai/technology/silicon/tsmcs-arizona-apple-amd-nvidia)
-- [Show HN: We have built a benchmark platform for graph databases](https://memgraph.com/benchgraph/)
-- [Mozilla moves to distrust the TrustCor CA](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/yLohoVqtCgAJ)
-- [GeoDesk is a spatial database engine for OpenStreetMap features](https://www.geodesk.com/)
-- [Surely you&#39;re publishing, Mr. Feynman](https://praveshkoirala.com/2022/11/03/surely-you-are-publishing-mr-feynman/)
+- [83% of Developers Suffer from Burnout, Haystack Analytics Study Finds](https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds)
+- [Firezone &lpar;YC W22&rpar; is hiring engineers to work on open-source network security](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
+- [NixOS 22.11 “Raccoon” Released](https://nixos.org/blog/announcements)
+- [Estimated cumulative excess deaths during Covid, World](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity)
+- [Human Chess is a chess variant where playing the top engine move is forbidden](https://humanchess.abcd.party)
 <!-- BLOG-POST-LIST:END -->
 
 ---
