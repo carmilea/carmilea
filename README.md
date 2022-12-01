@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Shark Tank’ Startup Is Making Vegan Bacon Out of Seaweed](https://singularityhub.com/2022/11/30/this-shark-tank-funded-startup-is-making-vegan-bacon-out-of-seaweed/)
-- [Don&#39;t End the Week with Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+- [Is React Going Anywhere](https://www.infoxicator.com/blog)
+- [Show HN: I am building a Safari Web Extension to switch tabs efficiently](https://taptab.manibatra.xyz/)
+- [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
 - [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
-- [Bugout: Browser-to-browser networking built on WebTorrent](https://github.com/chr15m/bugout)
 - [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
