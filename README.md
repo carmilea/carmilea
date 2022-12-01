@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sperm counts worldwide are plummeting faster than we thought](https://www.nationalgeographic.com/magazine/article/sperm-counts-worldwide-plummeting-fast-infertility-lifestyle)
-- [Hi, Hello, I’m Back at It](https://kottke.org/22/11/hi-hello-im-back-at-it)
-- [Back of the Envelope Calculations at Twitter 2.0](https://www.cohesive.so/blog/back-of-the-envelope-calculations-at-twitter-2-0)
-- [Extism: Make all software programmable with WebAssembly](https://extism.org/blog/announcing-extism/)
-- [Recoll – Full-text search for your desktop](https://www.lesbonscomptes.com/recoll/pages/index-recoll.html)
+- [Launch HN: JumpWire &lpar;YC W22&rpar; – Easily encrypt customer data in your databases](https://news.ycombinator.com/item?id=33818183)
+- [Ask HN: Who is hiring? &lpar;December 2022&rpar;](https://news.ycombinator.com/item?id=33818037)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;December 2022&rpar;](https://news.ycombinator.com/item?id=33818036)
+- [Mozilla Have Acquired Pulse](https://blog.mozilla.org/en/mozilla/pulse-joins-the-mozilla-family/)
+- [Google Is Done](https://twitter.com/jdjkelly/status/1598021488795586561)
 <!-- BLOG-POST-LIST:END -->
 
 ---
