@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: JumpWire &lpar;YC W22&rpar; – Easily encrypt customer data in your databases](https://news.ycombinator.com/item?id=33818183)
-- [Ask HN: Who is hiring? &lpar;December 2022&rpar;](https://news.ycombinator.com/item?id=33818037)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;December 2022&rpar;](https://news.ycombinator.com/item?id=33818036)
-- [Mozilla Have Acquired Pulse](https://blog.mozilla.org/en/mozilla/pulse-joins-the-mozilla-family/)
-- [Google Is Done](https://twitter.com/jdjkelly/status/1598021488795586561)
+- [Hive &lpar;YC S14&rpar; is hiring engineers #3, 4 and 5 &lpar;100% Remote in Canada&rpar;](https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer)
+- [Tell HN: I asked ChatGPT to build a login form in React and it gave me the code](https://news.ycombinator.com/item?id=33818987)
+- [Experiment with Penrose Tilings and other patterns](https://aatishb.com/patterncollider/)
+- [You now need to do 15% better in technical interviews than at the start of 2022](https://blog.interviewing.io/you-now-need-to-do-15-better-in-technical-interviews-than-you-did-at-the-start-of-2022-and-the-bar-will-keep-rising/)
+- [Statistical vs. Deep Learning forecasting methods](https://github.com/Nixtla/statsforecast/tree/main/experiments/m3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
