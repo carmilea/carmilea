@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [83% of Developers Suffer from Burnout, Haystack Analytics Study Finds](https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds)
 - [Firezone &lpar;YC W22&rpar; is hiring engineers to work on open-source network security](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
+- [Show HN: Natural Language Processing Demystified &lpar;full release/no sign-up req&#39;d&rpar;](https://news.ycombinator.com/item?id=33815146)
 - [NixOS 22.11 “Raccoon” Released](https://nixos.org/blog/announcements)
 - [Estimated cumulative excess deaths during Covid, World](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity)
-- [Human Chess is a chess variant where playing the top engine move is forbidden](https://humanchess.abcd.party)
 <!-- BLOG-POST-LIST:END -->
 
 ---
