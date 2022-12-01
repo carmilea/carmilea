@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“I&#39;ve asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog”](https://tilde.zone/@ftrain/109436259129597431)
+- [CRDTs make multiplayer text editing part of Zed&#39;s DNA](https://zed.dev/blog/crdts)
 - [Discord’s Creator Portal](https://discord.com/creators)
 - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
 - [Apple Blocks Coinbase wallet, for not giving them a 30% cut of exchange fees](https://twitter.com/coinbasewallet/status/1598354819735031809)
-- [Ask HN: Was I pwned?](https://news.ycombinator.com/item?id=33820330)
-- [3 of SingleStore’s Key Takeaways From The Forrester Wave™ Translytical Data Platforms Report](https://www.singlestore.com/blog/3-key-takeaways-forrester-translytical-data-platforms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
