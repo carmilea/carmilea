@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sperm counts worldwide are plummeting faster than we thought](https://www.nationalgeographic.com/magazine/article/sperm-counts-worldwide-plummeting-fast-infertility-lifestyle)
+- [Hi, Hello, I’m Back at It](https://kottke.org/22/11/hi-hello-im-back-at-it)
+- [Back of the Envelope Calculations at Twitter 2.0](https://www.cohesive.so/blog/back-of-the-envelope-calculations-at-twitter-2-0)
 - [Extism: Make all software programmable with WebAssembly](https://extism.org/blog/announcing-extism/)
-- [Hijacking infrared to make a dumb device smart](https://kennedn.com/blog/posts/snowdon/)
-- [Firezone &lpar;YC W22&rpar; is hiring engineers to work on open-source network security](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
-- [Show HN: Natural Language Processing Demystified](https://news.ycombinator.com/item?id=33815146)
-- [NixOS 22.11 “Raccoon”](https://nixos.org/blog/announcements)
+- [Recoll – Full-text search for your desktop](https://www.lesbonscomptes.com/recoll/pages/index-recoll.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
