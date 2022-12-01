@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hive &lpar;YC S14&rpar; is hiring engineers #3, 4 and 5 &lpar;100% Remote in Canada&rpar;](https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer)
-- [Tell HN: I asked ChatGPT to build a login form in React and it gave me the code](https://news.ycombinator.com/item?id=33818987)
-- [Experiment with Penrose Tilings and other patterns](https://aatishb.com/patterncollider/)
-- [You now need to do 15% better in technical interviews than at the start of 2022](https://blog.interviewing.io/you-now-need-to-do-15-better-in-technical-interviews-than-you-did-at-the-start-of-2022-and-the-bar-will-keep-rising/)
-- [Statistical vs. Deep Learning forecasting methods](https://github.com/Nixtla/statsforecast/tree/main/experiments/m3)
+- [Google admits to violating federal law and plans to keep doing it](https://news.ycombinator.com/item?id=33820000)
+- [3 of SingleStore’s Key Takeaways From The Forrester Wave™ Translytical Data Platforms Report](https://www.singlestore.com/blog/3-key-takeaways-forrester-translytical-data-platforms)
+- [Memory Safe Languages in Android 13 Reduce Vulnerabilities](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
+- [Stripe launches a fiat-to-crypto onramp](https://stripe.com/blog/crypto-onramp)
+- [New York City hiring top rat killer](https://a002-oom03.nyc.gov/IRM/Handlers/Campaign/Attachments.ashx?attachmentId=78646d83-e510-4769-945c-4d557c9080bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
