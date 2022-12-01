@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TSMC to make 4nm chips in Arizona for Apple, AMD, Nvidia](https://techmonitor.ai/technology/silicon/tsmcs-arizona-apple-amd-nvidia)
+- [Show HN: We have built a benchmark platform for graph databases](https://memgraph.com/benchgraph/)
 - [Mozilla moves to distrust the TrustCor CA](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/yLohoVqtCgAJ)
 - [GeoDesk is a spatial database engine for OpenStreetMap features](https://www.geodesk.com/)
 - [Surely you&#39;re publishing, Mr. Feynman](https://praveshkoirala.com/2022/11/03/surely-you-are-publishing-mr-feynman/)
-- [Ask HN: Are there things that Flash did that we still can’t do with today’s web?](https://news.ycombinator.com/item?id=33812826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
