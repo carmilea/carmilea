@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carmack on Starfields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
 - [South Dakota first to ban TikTok on state-owned devices](https://www.malwarebytes.com/blog/news/2022/12/south-dakota-is-first-state-to-ban-tiktok)
+- [Upcoming pricing changes &lpar;increases&rpar; for Cloud Storage](https://cloud.google.com/storage/pricing-announce-apr23)
+- [Drag and Drop from Terminal](https://blog.meain.io/2022/terminal-drag-and-drop/)
 - [Backyard Ballistics](http://www.backyard-ballistics.com/)
-- [Starlink speeds in US dropped from 105Mbps to 53Mbps in the past year](https://arstechnica.com/tech-policy/2022/12/starlink-speeds-in-us-dropped-from-105mbps-to-53mbps-in-the-past-year/)
-- [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://mattstoller.substack.com/p/why-is-booz-allen-renting-us-back)
-- [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
