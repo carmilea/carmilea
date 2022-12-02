@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Rockstar Senior Mobile Engineer](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
+- [Why America’s Railroads Refuse to Give Their Workers Paid Leave](https://nymag.com/intelligencer/2022/11/rail-strike-why-the-railroads-wont-give-in-on-paid-leave-psr-precision-scheduled-railroading.html)
 - [After violent robberies, some photographers opt to stay away from San Francisco](https://abc7news.com/san-francisco-photography-robbery-photographers-not-visiting-photographer-assaulted-palace-of-fine-arts-attack/12453913/)
-- [Date Masamune: the samurai who inspired Darth Vader](https://nipponrama.com/date-masamune-samurai-darth-vader/)
-- [The Death of Quanta Magazine](https://mateusaraujo.info/2022/12/01/the-death-of-quanta-magazine/)
-- [If PHP Were British &lpar;2011&rpar;](https://aloneonahill.com/blog/if-php-were-british/)
+- [Smartphones wiped out 97% of the compact camera market](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
+- [Date Masamune: the samurai who inspired Darth Vader &lpar;2016&rpar;](https://nipponrama.com/date-masamune-samurai-darth-vader/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
