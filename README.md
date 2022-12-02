@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
-- [The Turbo Encabulator&#39;s long, weird and funny history](https://www.cnet.com/roadshow/news/turbo-encabulator-history-engineers-joke/)
-- [Show HN: Google Fonts Checker](https://fontsplugin.com/google-fonts-checker/)
-- [Andreessen Horowitz Tech Site Future.com Shuts Down, Staff Leave](https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11)
-- [Debunking CISC vs. RISC code density](https://www.bitsnbites.eu/cisc-vs-risc-code-density/)
+- [People tricking ChatGPT “like watching an Asimov novel come to life”](https://twitter.com/carnage4life/status/1598332648723976193)
+- [Alameda took 1B hit in mobileCoin trade to prop up FTX](https://www.ft.com/content/5e9dc424-aef4-4981-a4d7-e3c40e1e6085)
+- [Remotely unlock/start/locate/flash/honk any remotely connected Honda/Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
+- [Ticketmaster&#39;s tech problem isn&#39;t a tech problem](https://mattstoller.substack.com/p/dont-make-taylor-swift-fans-angry)
+- [The Audacity of Piping Curl to Bash](https://yotam.net/posts/the-audacity-of-piping-curl-to-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
