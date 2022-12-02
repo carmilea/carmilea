@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America’s School Districts Are Too Big](https://www.wsj.com/articles/americas-school-districts-are-too-big-deconsolidation-democratic-local-control-community-efficiency-tuition-unions-11669818901)
 - [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
 - [Accelerando &lpar;2005&rpar;](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
 - [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
 - [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
+- [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
