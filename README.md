@@ -54,8 +54,8 @@
 - [Migrating from Vue 2 to Svelte](https://escape.tech/blog/from-vue2-to-svelte/)
 - [NANDputer Lives &lpar;2013&rpar;](http://blog.kevtris.org/?p=62)
 - [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
-- [Accelerando &lpar;2005&rpar;](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
 - [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
+- [No Ghosts](https://blog.sunfishcode.online/no-ghosts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
