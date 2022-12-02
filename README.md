@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Rockstar Senior Mobile Engineer](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
+- [After violent robberies, some photographers opt to stay away from San Francisco](https://abc7news.com/san-francisco-photography-robbery-photographers-not-visiting-photographer-assaulted-palace-of-fine-arts-attack/12453913/)
 - [Date Masamune: the samurai who inspired Darth Vader](https://nipponrama.com/date-masamune-samurai-darth-vader/)
 - [The Death of Quanta Magazine](https://mateusaraujo.info/2022/12/01/the-death-of-quanta-magazine/)
 - [If PHP Were British &lpar;2011&rpar;](https://aloneonahill.com/blog/if-php-were-british/)
-- [Migrating from Vue 2 to Svelte](https://escape.tech/blog/from-vue2-to-svelte/)
-- [NANDputer Lives &lpar;2013&rpar;](http://blog.kevtris.org/?p=62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
