@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Hiring Software Engineers](https://www.reuters.com/business/logistics-startup-flexport-plans-hiring-spree-double-engineers-2023-2022-11-02/)
+- [Why Roman Egypt Was Such a Strange Province](https://acoup.blog/2022/12/02/collections-why-roman-egypt-was-such-a-strange-province/)
+- [PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/)
+- [Ask HN: Do you feel bad when devices aren&#39;t utilized to the extreme?](https://news.ycombinator.com/item?id=33832448)
 - [People tricking ChatGPT “like watching an Asimov novel come to life”](https://twitter.com/carnage4life/status/1598332648723976193)
-- [Alameda took 1B hit in mobileCoin trade to prop up FTX](https://www.ft.com/content/5e9dc424-aef4-4981-a4d7-e3c40e1e6085)
-- [Remotely unlock/start/locate/flash/honk any remotely connected Honda/Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
-- [Ticketmaster&#39;s tech problem isn&#39;t a tech problem](https://mattstoller.substack.com/p/dont-make-taylor-swift-fans-angry)
-- [The Audacity of Piping Curl to Bash](https://yotam.net/posts/the-audacity-of-piping-curl-to-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
