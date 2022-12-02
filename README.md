@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu&#39;s Snap performs application updates without user consent](https://smaller.fish/posts/snap_updates)
-- [Tesla Semi’s Enormous Battery Might Weigh 11,000 Pounds on Its Own](https://www.thedrive.com/news/tesla-semis-enormous-battery-might-weigh-11000-pounds-on-its-own)
-- [Cancer Weakness Discovered: New Method Pushes Cancer Cells into Remission](https://scitechdaily.com/cancer-weakness-discovered-new-method-pushes-cancer-cells-into-remission/)
-- [Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
-- [Twitter engineer: I thought I’d been hacked. It turned out I’d been fired](https://www.economist.com/1843/2022/12/02/i-thought-id-been-hacked-it-turned-out-id-been-fired-tales-of-a-twitter-engineer)
+- [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://mattstoller.substack.com/p/why-is-booz-allen-renting-us-back)
+- [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html)
+- [Snap updates happen without user consent](https://smaller.fish/posts/snap_updates)
+- [Clara.io Shutting Down](https://news.ycombinator.com/item?id=33834828)
+- [FCC Partially Grants SpaceX Gen2 Broadband Satellite Application](https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application)
 <!-- BLOG-POST-LIST:END -->
 
 ---
