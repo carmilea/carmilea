@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from Vue 2 to Svelte](https://escape.tech/blog/from-vue2-to-svelte/)
 - [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
 - [Accelerando &lpar;2005&rpar;](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
-- [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- [Platform certificates used to sign malware](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
 - [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
-- [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
