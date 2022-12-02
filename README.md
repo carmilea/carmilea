@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
+- [The Turbo Encabulator&#39;s long, weird and funny history](https://www.cnet.com/roadshow/news/turbo-encabulator-history-engineers-joke/)
 - [Show HN: Google Fonts Checker](https://fontsplugin.com/google-fonts-checker/)
 - [Andreessen Horowitz Tech Site Future.com Shuts Down, Staff Leave](https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11)
-- [Individuals prefer to harm their own group rather than help an opposing group](https://www.pnas.org/doi/10.1073/pnas.2215633119)
-- [Nintendo apologizes for Pokémon performance problems, promises “improvements”](https://arstechnica.com/gaming/2022/12/nintendo-is-working-on-improvements-to-latest-pokemon-games-after-buggy-launch/)
-- [The Book of CP-System [pdf]](https://fabiensanglard.net/b/cpsb.pdf)
+- [Debunking CISC vs. RISC code density](https://www.bitsnbites.eu/cisc-vs-risc-code-density/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
