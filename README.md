@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is your memory as bad as mine?](https://news.ycombinator.com/item?id=33834258)
+- [Ubuntu&#39;s Snap performs application updates without user consent](https://smaller.fish/posts/snap_updates)
+- [Tesla Semi’s Enormous Battery Might Weigh 11,000 Pounds on Its Own](https://www.thedrive.com/news/tesla-semis-enormous-battery-might-weigh-11000-pounds-on-its-own)
+- [Cancer Weakness Discovered: New Method Pushes Cancer Cells into Remission](https://scitechdaily.com/cancer-weakness-discovered-new-method-pushes-cancer-cells-into-remission/)
+- [Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
 - [Twitter engineer: I thought I’d been hacked. It turned out I’d been fired](https://www.economist.com/1843/2022/12/02/i-thought-id-been-hacked-it-turned-out-id-been-fired-tales-of-a-twitter-engineer)
-- [Show HN: I wrote a free eBook about many lesser-known/secret database tricks](https://sqlfordevs.com/ebook)
-- [Wasmer takes WebAssembly libraries mainstream with WAI](https://wasmer.io/posts/wasmer-takes-webassembly-libraries-manistream-with-wai)
-- [Flexport &lpar;YC W14&rpar; Is Hiring Software Engineers](https://www.reuters.com/business/logistics-startup-flexport-plans-hiring-spree-double-engineers-2023-2022-11-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
