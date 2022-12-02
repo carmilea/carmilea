@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Dakota first to ban TikTok on state-owned devices](https://www.malwarebytes.com/blog/news/2022/12/south-dakota-is-first-state-to-ban-tiktok)
+- [Backyard Ballistics](http://www.backyard-ballistics.com/)
+- [Starlink speeds in US dropped from 105Mbps to 53Mbps in the past year](https://arstechnica.com/tech-policy/2022/12/starlink-speeds-in-us-dropped-from-105mbps-to-53mbps-in-the-past-year/)
 - [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://mattstoller.substack.com/p/why-is-booz-allen-renting-us-back)
 - [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html)
-- [Snap updates happen without user consent](https://smaller.fish/posts/snap_updates)
-- [Clara.io Shutting Down](https://news.ycombinator.com/item?id=33834828)
-- [FCC Partially Grants SpaceX Gen2 Broadband Satellite Application](https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application)
 <!-- BLOG-POST-LIST:END -->
 
 ---
