@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Date Masamune: the samurai who inspired Darth Vader](https://nipponrama.com/date-masamune-samurai-darth-vader/)
+- [The Death of Quanta Magazine](https://mateusaraujo.info/2022/12/01/the-death-of-quanta-magazine/)
 - [If PHP Were British &lpar;2011&rpar;](https://aloneonahill.com/blog/if-php-were-british/)
 - [Migrating from Vue 2 to Svelte](https://escape.tech/blog/from-vue2-to-svelte/)
 - [NANDputer Lives &lpar;2013&rpar;](http://blog.kevtris.org/?p=62)
-- [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
-- [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
