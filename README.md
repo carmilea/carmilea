@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Carmack on Starfields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
-- [South Dakota first to ban TikTok on state-owned devices](https://www.malwarebytes.com/blog/news/2022/12/south-dakota-is-first-state-to-ban-tiktok)
-- [Upcoming pricing changes &lpar;increases&rpar; for Cloud Storage](https://cloud.google.com/storage/pricing-announce-apr23)
+- [The clever reason scammers can’t spell](https://itservices.wp.st-andrews.ac.uk/2019/06/06/the-clever-reason-scammers-cant-spell/)
+- [Speech by Chair Powell on inflation and the labor market](https://www.federalreserve.gov/newsevents/speech/powell20221130a.htm)
+- [Carmack on star fields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
+- [South Dakota first to ban TikTok on state-owned devices](https://gizmodo.com/tiktok-china-south-dakota-ban-bytedance-1849836201)
 - [Drag and Drop from Terminal](https://blog.meain.io/2022/terminal-drag-and-drop/)
-- [Backyard Ballistics](http://www.backyard-ballistics.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
