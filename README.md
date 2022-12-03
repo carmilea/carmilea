@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ofcom letter on restrictions on internet services for “designated persons” [pdf]](https://www.ofcom.org.uk/__data/assets/pdf_file/0023/237218/open-letter-russia-sanctions.pdf)
+- [The Impotence of Being Clever](https://hedgehogreview.com/issues/hope-itself/articles/the-impotence-of-being-clever)
 - [Show HN: Explore Wikipedia edits made by institutions, companies and governments](http://wikiwho.ailef.tech)
-- [LibGen Is Down](https://libgen.is)
 - [Twitter is limiting Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/)
-- [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
-- [Ask HN: Getting into AI?](https://news.ycombinator.com/item?id=33840860)
+- [Complete working transistor-scale replica of the classic MOS6502 microprocessor](https://monster6502.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
