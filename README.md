@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The German Experiment That Placed Foster Children with Pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
-- [Blockbench – A low-poly 3D model editor](https://www.blockbench.net/)
-- [macOS Monterey still vulnerable to CVE-2022-40303](https://lapcatsoftware.com/articles/MontereyCVE.html)
-- [An Elixir/LiveView game written entirely by ChatGPT](https://thetinycto.com/gpt-game)
-- [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
+- [The Dawn of Mediocre Computing](https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing)
+- [Show HN: This Hacker News Does Not Exist](https://coxomb.github.io/This-Hacker-News-Does-Not-Exist/)
+- [How the 8086 processor&#39;s microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
+- [RISC-V Bytes](https://danielmangum.com/categories/risc-v-bytes/)
+- [Ask HN: What type of lawyer can review consultant agreements?](https://news.ycombinator.com/item?id=33845715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
