@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge finds no rights violations in FBI seizure Beverly Hills safe-deposit boxes](https://www.latimes.com/california/story/2022-09-30/judge-backs-fbi-beverly-hills-safe-deposit-box-raid)
 - [MSN Replaced Journalists with AI Publishing Fake News About Mermaids and Bigfoot](https://futurism.com/msn-is-publishing-more-fake-news)
 - [France prepares for possibility of electricity blackouts during winter months](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
+- [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 - [MagSpoof: Wireless Magstrip Spoofer](https://github.com/samyk/magspoof)
-- [The Truth Matters and Secular Humanists Should Defend It](https://secularhumanism.org/2022/12/the-truth-matters-and-secular-humanists-should-defend-it/)
-- [The Dawn of Mediocre Computing](https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
