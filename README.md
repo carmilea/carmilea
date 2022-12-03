@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MSN Replaced Journalists with AI Publishing Fake News About Mermaids and Bigfoot](https://futurism.com/msn-is-publishing-more-fake-news)
+- [France prepares for possibility of electricity blackouts during winter months](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
+- [MagSpoof: Wireless Magstrip Spoofer](https://github.com/samyk/magspoof)
+- [The Truth Matters and Secular Humanists Should Defend It](https://secularhumanism.org/2022/12/the-truth-matters-and-secular-humanists-should-defend-it/)
 - [The Dawn of Mediocre Computing](https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing)
-- [Show HN: This Hacker News Does Not Exist](https://coxomb.github.io/This-Hacker-News-Does-Not-Exist/)
-- [How the 8086 processor&#39;s microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
-- [RISC-V Bytes](https://danielmangum.com/categories/risc-v-bytes/)
-- [Ask HN: What type of lawyer can review consultant agreements?](https://news.ycombinator.com/item?id=33845715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
