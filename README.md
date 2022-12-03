@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
+- [Ask HN: Getting into AI?](https://news.ycombinator.com/item?id=33840860)
 - [An Extended Model of Software Configuration](https://arxiv.org/abs/2212.00505)
 - [New Zealand admits it has access to Facebook takedown portal to censor content](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
 - [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html)
-- [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
