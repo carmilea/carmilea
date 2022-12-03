@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Getting into AI?](https://news.ycombinator.com/item?id=33840860)
 - [New Zealand admits it has access to Facebook takedown portal to censor content](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
 - [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html)
 - [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
 - [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
-- [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
