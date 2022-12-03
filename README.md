@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rackspace Exchange hosting down ~18 hours; “solution” is to start over on O365](https://twitter.com/rackspace/status/1598854426105548801)
+- [New Zealand admits it has access to Facebook takedown portal to censor content](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
 - [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
 - [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
 - [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
-- [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
-- [Puter](https://puter.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
