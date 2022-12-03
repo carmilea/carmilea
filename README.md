@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 - [Building a Virtual Machine Inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 - [Anker’s Eufy lied to us about the security of its security cameras](https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage)
 - [Judge finds no rights violations in FBI seizure Beverly Hills safe-deposit boxes](https://www.latimes.com/california/story/2022-09-30/judge-backs-fbi-beverly-hills-safe-deposit-box-raid)
 - [MSN replaced journalists with AI publishing fake news about mermaids and Bigfoot](https://futurism.com/msn-is-publishing-more-fake-news)
-- [France prepares for possibility of electricity blackouts during winter months](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
