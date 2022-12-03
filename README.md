@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m thrilled to announce that nothing is going on with me](https://www.newyorker.com/humor/daily-shouts/im-thrilled-to-announce-that-nothing-is-going-on-with-me)
+- [Steve Jobs Said the Best Managers Never Want to Be Managers](https://www.inc.com/jeff-haden/37-years-ago-steve-jobs-said-best-managers-never-want-to-be-a-manager-science-says-he-was-right.html)
+- [Bettercap – Swiss Army Knife for 802.11, BLE, IPv4 and IPv6 Networks](https://github.com/bettercap/bettercap)
 - [Call of Duty players flock to buy “all-black” DLC skin, hide in dark corners](https://arstechnica.com/gaming/2022/12/call-of-duty-players-flock-to-buy-all-black-dlc-skin-hide-in-dark-corners/)
-- [Show HN: A nice C string API](https://github.com/mickjc750/str)
-- [AI solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
-- [Britain is sleepwalking into censorship and we’re running out of time to stop it](https://www.telegraph.co.uk/news/2022/12/01/britain-sleepwalking-censorship-running-time-stop/)
-- [Ofcom letter on restrictions on internet services for “designated persons” [pdf]](https://www.ofcom.org.uk/__data/assets/pdf_file/0023/237218/open-letter-russia-sanctions.pdf)
+- [Silver Bullet: Markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
