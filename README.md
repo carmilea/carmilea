@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I only use plain black wallpapers](https://tiramisu.bearblog.dev/your-desktop-is-not-a-destination/)
 - [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
 - [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
 - [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
 - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
+- [Puter](https://puter.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
