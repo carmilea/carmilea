@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EmacsConf 2022](https://emacsconf.org/2022/)
-- [The First Geely Was a Fake Mercedes-Benz E-Class Based on a Real Audi 100](https://chinacarhistory.com/2018/02/07/the-first-geely-was-a-mercedes-benz-e-class-based-on-an-audi-100/)
-- [I’m thrilled to announce that nothing is going on with me](https://www.newyorker.com/humor/daily-shouts/im-thrilled-to-announce-that-nothing-is-going-on-with-me)
-- [Darknet markets generate millions in revenue selling stolen personal data](https://theconversation.com/darknet-markets-generate-millions-in-revenue-selling-stolen-personal-data-supply-chain-study-finds-193506)
-- [Amazon’s Quest for the ‘Holy Grail’ of Robotics](https://www.wsj.com/articles/amazon-robots-workers-11670022563)
+- [An Elixir/LiveView game written entirely by ChatGPT](https://thetinycto.com/gpt-game)
+- [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
+- [The Effects of Uber and Lyft in U.S. Cities](https://www.cmu.edu/news/stories/archives/2022/november/ride-hailing-brief.html)
+- [Mistaken Beliefs About How Much to Talk in Conversations](https://journals.sagepub.com/doi/10.1177/01461672221104927)
+- [Using Rust at a startup: A cautionary tale](https://scribe.rip/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
