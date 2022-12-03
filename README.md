@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is limiting Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/)
 - [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
+- [Pre-Auth RCE with CodeQL in Under 20 Minutes](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
 - [Ask HN: Getting into AI?](https://news.ycombinator.com/item?id=33840860)
-- [An Extended Model of Software Configuration](https://arxiv.org/abs/2212.00505)
-- [New Zealand admits it has access to Facebook takedown portal to censor content](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
-- [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html)
+- [Video tutorials for modern ideas and open source tools](https://calmcode.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
