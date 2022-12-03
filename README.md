@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Slow Goodbye to Twitter](https://www.indiependent.land/p/the-slow-goodbye-to-twitter)
 - [An Elixir/LiveView game written entirely by ChatGPT](https://thetinycto.com/gpt-game)
 - [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
+- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 - [The Effects of Uber and Lyft in U.S. Cities](https://www.cmu.edu/news/stories/archives/2022/november/ride-hailing-brief.html)
-- [Mistaken Beliefs About How Much to Talk in Conversations](https://journals.sagepub.com/doi/10.1177/01461672221104927)
-- [Using Rust at a startup: A cautionary tale](https://scribe.rip/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
