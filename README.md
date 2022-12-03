@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EmacsConf 2022](https://emacsconf.org/2022/)
+- [The First Geely Was a Fake Mercedes-Benz E-Class Based on a Real Audi 100](https://chinacarhistory.com/2018/02/07/the-first-geely-was-a-mercedes-benz-e-class-based-on-an-audi-100/)
 - [I’m thrilled to announce that nothing is going on with me](https://www.newyorker.com/humor/daily-shouts/im-thrilled-to-announce-that-nothing-is-going-on-with-me)
-- [Steve Jobs Said the Best Managers Never Want to Be Managers](https://www.inc.com/jeff-haden/37-years-ago-steve-jobs-said-best-managers-never-want-to-be-a-manager-science-says-he-was-right.html)
-- [Bettercap – Swiss Army Knife for 802.11, BLE, IPv4 and IPv6 Networks](https://github.com/bettercap/bettercap)
-- [Call of Duty players flock to buy “all-black” DLC skin, hide in dark corners](https://arstechnica.com/gaming/2022/12/call-of-duty-players-flock-to-buy-all-black-dlc-skin-hide-in-dark-corners/)
-- [Silver Bullet: Markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
+- [Darknet markets generate millions in revenue selling stolen personal data](https://theconversation.com/darknet-markets-generate-millions-in-revenue-selling-stolen-personal-data-supply-chain-study-finds-193506)
+- [Amazon’s Quest for the ‘Holy Grail’ of Robotics](https://www.wsj.com/articles/amazon-robots-workers-11670022563)
 <!-- BLOG-POST-LIST:END -->
 
 ---
