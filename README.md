@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Slow Goodbye to Twitter](https://www.indiependent.land/p/the-slow-goodbye-to-twitter)
+- [The German Experiment That Placed Foster Children with Pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
+- [Blockbench – A low-poly 3D model editor](https://www.blockbench.net/)
+- [macOS Monterey still vulnerable to CVE-2022-40303](https://lapcatsoftware.com/articles/MontereyCVE.html)
 - [An Elixir/LiveView game written entirely by ChatGPT](https://thetinycto.com/gpt-game)
 - [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
-- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
-- [The Effects of Uber and Lyft in U.S. Cities](https://www.cmu.edu/news/stories/archives/2022/november/ride-hailing-brief.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
