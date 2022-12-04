@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
+- [Paralympian claims Canada offered to euthanise her when she asked for stairlift](https://www.independent.co.uk/news/world/americas/christine-gauthier-paralympian-euthanasia-canada-b2238319.html)
+- [Recommendations for Japan Travel](https://www.kalzumeus.com/japan-recommendations/)
 - [Iran abolishes controversial morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
-- [Rackspace Cloud Office suffers security breach](https://doublepulsar.com/rackspace-cloud-office-suffers-security-breach-958e6c755d7f)
-- [Building an interpreter for my programming language with ChatGPT](https://6502.is-a.dev/posts/aoc-2022/)
-- [Apple to move 40-45% iPhone production to India](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
+- [France bans short haul domestic flights in favour of train travel](https://www.euronews.com/green/2022/12/02/is-france-banning-private-jets-everything-we-know-from-a-week-of-green-transport-proposals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
