@@ -55,7 +55,7 @@
 - [Ask HN: How would you build a ChatGPT detector?](https://news.ycombinator.com/item?id=33857356)
 - [E-ink art frames are a scam &lpar;2021&rpar;](https://kurotimedesign.blogspot.com/2021/04/e-ink-art-frames-are-scam.html)
 - [Porting Doom to the 3D0 Console](https://corecursive.com/doomed-to-fail-with-burger-becky/)
-- [Ask HN: How to work with people who push back forcefully?](https://news.ycombinator.com/item?id=33856788)
+- [Administrators Have Seized the Ivory Tower](https://www.jamesgmartin.center/2022/11/administrators-have-seized-the-ivory-tower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
