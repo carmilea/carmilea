@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interactive text game of surgery in early 1800s](https://oldoperatingtheatre.com/step-into-the-role-of-a-surgeon-in-our-interactive-game/)
 - [PFC bans are going to change the face of all waterproof garments](https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/)
+- [Invisible Characters](https://invisible-characters.com/)
+- [Man Stranded in Alaska Rescued After Using iPhone Emergency SOS Satelite Feature](https://www.pcmag.com/news/man-stranded-in-alaska-rescued-after-using-iphones-emergency-sos-satellite)
 - [Cory Doctorow Wants You to Know What Computers Can and Can’t Do](https://www.newyorker.com/culture/the-new-yorker-interview/cory-doctorow-wants-you-to-know-what-computers-can-and-cant-do)
-- [Stack Overflow questions are being flooded with answers from ChatGPT](https://news.ycombinator.com/item?id=33855416)
-- [Exoskeletons qualify for direct disability compensation in Germany](https://www.therobotreport.com/exoskeletons-qualify-for-direct-disability-compensation-in-germany/)
-- [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE](https://jobs.ashbyhq.com/motion/dfe19251-9d97-4e6b-b9ac-04422a697f57?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
