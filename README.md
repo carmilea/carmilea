@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PFC bans are going to change the face of all waterproof garments](https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/)
+- [Cory Doctorow Wants You to Know What Computers Can and Can’t Do](https://www.newyorker.com/culture/the-new-yorker-interview/cory-doctorow-wants-you-to-know-what-computers-can-and-cant-do)
+- [Stack Overflow questions are being flooded with answers from ChatGPT](https://news.ycombinator.com/item?id=33855416)
 - [Exoskeletons qualify for direct disability compensation in Germany](https://www.therobotreport.com/exoskeletons-qualify-for-direct-disability-compensation-in-germany/)
 - [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE](https://jobs.ashbyhq.com/motion/dfe19251-9d97-4e6b-b9ac-04422a697f57?utm_source=hn)
-- [Post Mortem on Mastodon Outage with 30k users](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
-- [Theseus and the Zipper](https://en.wikibooks.org/wiki/Haskell/Zippers)
-- [Florida state tax website bug exposed filers’ data](https://techcrunch.com/2022/12/02/florida-tax-bug-data-exposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
