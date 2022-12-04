@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archaeologists Ask Netflix to Reclassify Graham Hancock’s Docuseries as Fiction](https://news.artnet.com/art-world/archaeologists-graham-hancocks-ancient-apocalypse-fiction-2222060)
+- [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
+- [Weather CLI Tool](https://github.com/eoin-barr/weatherme)
 - [Software horror show: SAP Concur](https://blog.plover.com/2022/12/04/#crap-warning-signs-2)
 - [Ask HN: How would you build a ChatGPT detector?](https://news.ycombinator.com/item?id=33857356)
-- [E-ink art frames are a scam &lpar;2021&rpar;](https://kurotimedesign.blogspot.com/2021/04/e-ink-art-frames-are-scam.html)
-- [Porting Doom to the 3D0 Console](https://corecursive.com/doomed-to-fail-with-burger-becky/)
-- [Administrators Have Seized the Ivory Tower](https://www.jamesgmartin.center/2022/11/administrators-have-seized-the-ivory-tower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
