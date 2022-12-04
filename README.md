@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon layoffs now expected to mount to 20k, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html)
 - [Show HN: Using Vim as an input method editor &lpar;IME&rpar; for X11 apps](https://github.com/algon-320/vime)
-- [Gridbox Is Shutting Down](https://www.gridbox.io)
+- [Convert saved HTML transcripts from ChatGPT to Markdown](https://gist.github.com/thomasantony/c2d866d1cb3fec3c532b13ce695c9438)
+- [Tech CEOs are quietly asking employees to step it up or risk getting fired](https://www.businessinsider.com/tech-ceos-elon-musk-twitter-hardcore-2022-12)
 - [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
-- [FTX Founder Sam Bankman-Fried Says He Can’t Account for Billions Sent to Alameda](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659)
-- [Convincing ChatGPT to Eradicate Humanity with Python Code](https://zacdenham.com/blog/narrative-manipulation-convincing-gpt-chat-to-write-a-python-program-to-eradicate-humanity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
