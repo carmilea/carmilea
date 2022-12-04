@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to work with people who pushback forcefully on team/company standards?](https://news.ycombinator.com/item?id=33856788)
+- [Tell HN: The ThinkPad X1 Carbon is an excellent MacBook replacement](https://news.ycombinator.com/item?id=33856544)
 - [Interactive text game of surgery in early 1800s](https://oldoperatingtheatre.com/step-into-the-role-of-a-surgeon-in-our-interactive-game/)
-- [PFC bans are going to change the face of all waterproof garments](https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/)
+- [PFC bans are going to change waterproof garments](https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/)
 - [Invisible Characters](https://invisible-characters.com/)
-- [Man Stranded in Alaska Rescued After Using iPhone Emergency SOS Satelite Feature](https://www.pcmag.com/news/man-stranded-in-alaska-rescued-after-using-iphones-emergency-sos-satellite)
-- [Cory Doctorow Wants You to Know What Computers Can and Can’t Do](https://www.newyorker.com/culture/the-new-yorker-interview/cory-doctorow-wants-you-to-know-what-computers-can-and-cant-do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
