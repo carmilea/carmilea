@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Using Vim as an input method editor &lpar;IME&rpar; for X11 apps](https://github.com/algon-320/vime)
 - [Gridbox Is Shutting Down](https://www.gridbox.io)
 - [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
 - [FTX Founder Sam Bankman-Fried Says He Can’t Account for Billions Sent to Alameda](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659)
-- [Ask HN: Best books read in 2022](https://news.ycombinator.com/item?id=33849267)
-- [Fosshost Is Shutting Down](https://fosshost.org/)
+- [Convincing ChatGPT to Eradicate Humanity with Python Code](https://zacdenham.com/blog/narrative-manipulation-convincing-gpt-chat-to-write-a-python-program-to-eradicate-humanity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
