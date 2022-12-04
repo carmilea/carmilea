@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to move 40-45% iPhone production to India](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
+- [Ask HN: How do you fix the “no longer feel” anything in tech?](https://news.ycombinator.com/item?id=33851334)
+- [Show HN: GPT-3 powered service thats helps you send more humane emails](https://remarkai.in)
 - [PhilTel is looking to install free payphones in Philadelphia](https://philtel.org/)
 - [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt)
-- [Amazon layoffs now expected to mount to 20k, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html)
-- [Show HN: Using Vim as an input method editor &lpar;IME&rpar; for X11 apps](https://github.com/algon-320/vime)
-- [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
