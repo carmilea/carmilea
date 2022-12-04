@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/)
+- [Iran abolishes controversial morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
 - [Rackspace Cloud Office suffers security breach](https://doublepulsar.com/rackspace-cloud-office-suffers-security-breach-958e6c755d7f)
 - [Building an interpreter for my programming language with ChatGPT](https://6502.is-a.dev/posts/aoc-2022/)
 - [Apple to move 40-45% iPhone production to India](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
-- [PhilTel is looking to install free payphones in Philadelphia](https://philtel.org/)
-- [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
