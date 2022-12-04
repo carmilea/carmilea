@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
-- [Paralympian claims Canada offered to euthanise her when she asked for stairlift](https://www.independent.co.uk/news/world/americas/christine-gauthier-paralympian-euthanasia-canada-b2238319.html)
 - [Recommendations for Japan Travel](https://www.kalzumeus.com/japan-recommendations/)
-- [Iran abolishes controversial morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
+- [Iran abolishes morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
 - [France bans short haul domestic flights in favour of train travel](https://www.euronews.com/green/2022/12/02/is-france-banning-private-jets-everything-we-know-from-a-week-of-green-transport-proposals)
 <!-- BLOG-POST-LIST:END -->
 
