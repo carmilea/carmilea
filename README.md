@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An open-source distributed object storage service](https://garagehq.deuxfleurs.fr)
+- [Ask HN: Hunting for a Framework](https://news.ycombinator.com/item?id=33853492)
 - [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
 - [Recommendations for Japan Travel](https://www.kalzumeus.com/japan-recommendations/)
-- [Iran abolishes morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
-- [France bans short haul domestic flights in favour of train travel](https://www.euronews.com/green/2022/12/02/is-france-banning-private-jets-everything-we-know-from-a-week-of-green-transport-proposals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
