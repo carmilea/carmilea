@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Undocumented 8086 Opcodes part 1](http://www.os2museum.com/wp/undocumented-8086-opcodes-part-i/)
-- [Show HN: Whole Git repo was made with ChatGPT](https://github.com/vrescobar/chatGPT-python-elm)
-- [Streetlights Are Turning Purple](https://www.businessinsider.com/led-city-streetlights-turning-purple-broken-tech-danger-2022-11)
-- [A new AI game: Give me ideas for crimes to do](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
-- [The War on General Purpose Computing](https://csclub.uwaterloo.ca/resources/tech-talks/cory-doctorow-the-war-on-general-purpose-computing/)
+- [Exoskeletons qualify for direct disability compensation in Germany](https://www.therobotreport.com/exoskeletons-qualify-for-direct-disability-compensation-in-germany/)
+- [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE](https://jobs.ashbyhq.com/motion/dfe19251-9d97-4e6b-b9ac-04422a697f57?utm_source=hn)
+- [Post Mortem on Mastodon Outage with 30k users](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
+- [Theseus and the Zipper](https://en.wikibooks.org/wiki/Haskell/Zippers)
+- [Florida state tax website bug exposed filers’ data](https://techcrunch.com/2022/12/02/florida-tax-bug-data-exposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
