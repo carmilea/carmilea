@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhilTel is looking to install free payphones in Philadelphia](https://philtel.org/)
+- [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt)
 - [Amazon layoffs now expected to mount to 20k, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html)
 - [Show HN: Using Vim as an input method editor &lpar;IME&rpar; for X11 apps](https://github.com/algon-320/vime)
-- [Convert saved HTML transcripts from ChatGPT to Markdown](https://gist.github.com/thomasantony/c2d866d1cb3fec3c532b13ce695c9438)
-- [Tech CEOs are quietly asking employees to step it up or risk getting fired](https://www.businessinsider.com/tech-ceos-elon-musk-twitter-hardcore-2022-12)
 - [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
 <!-- BLOG-POST-LIST:END -->
 
