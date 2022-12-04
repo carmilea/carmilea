@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to work with people who pushback forcefully on team/company standards?](https://news.ycombinator.com/item?id=33856788)
-- [Tell HN: The ThinkPad X1 Carbon is an excellent MacBook replacement](https://news.ycombinator.com/item?id=33856544)
-- [Interactive text game of surgery in early 1800s](https://oldoperatingtheatre.com/step-into-the-role-of-a-surgeon-in-our-interactive-game/)
-- [PFC bans are going to change waterproof garments](https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/)
-- [Invisible Characters](https://invisible-characters.com/)
+- [Software horror show: SAP Concur](https://blog.plover.com/2022/12/04/#crap-warning-signs-2)
+- [Ask HN: How would you build a ChatGPT detector?](https://news.ycombinator.com/item?id=33857356)
+- [E-ink art frames are a scam &lpar;2021&rpar;](https://kurotimedesign.blogspot.com/2021/04/e-ink-art-frames-are-scam.html)
+- [Porting Doom to the 3D0 Console](https://corecursive.com/doomed-to-fail-with-burger-becky/)
+- [Ask HN: How to work with people who push back forcefully?](https://news.ycombinator.com/item?id=33856788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
