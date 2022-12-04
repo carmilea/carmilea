@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gridbox Is Shutting Down](https://www.gridbox.io)
 - [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
+- [FTX Founder Sam Bankman-Fried Says He Can’t Account for Billions Sent to Alameda](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659)
 - [Ask HN: Best books read in 2022](https://news.ycombinator.com/item?id=33849267)
 - [Fosshost Is Shutting Down](https://fosshost.org/)
-- [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
-- [Building a Virtual Machine Inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
