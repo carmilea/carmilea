@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Browser extension to display ChatGPT response besides Google Search](https://github.com/wong2/chat-gpt-google-extension)
-- [An open-source distributed object storage service](https://garagehq.deuxfleurs.fr)
-- [Ask HN: Hunting for a Framework](https://news.ycombinator.com/item?id=33853492)
-- [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
+- [Undocumented 8086 Opcodes part 1](http://www.os2museum.com/wp/undocumented-8086-opcodes-part-i/)
+- [Show HN: Whole Git repo was made with ChatGPT](https://github.com/vrescobar/chatGPT-python-elm)
+- [Streetlights Are Turning Purple](https://www.businessinsider.com/led-city-streetlights-turning-purple-broken-tech-danger-2022-11)
+- [A new AI game: Give me ideas for crimes to do](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
+- [The War on General Purpose Computing](https://csclub.uwaterloo.ca/resources/tech-talks/cory-doctorow-the-war-on-general-purpose-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
