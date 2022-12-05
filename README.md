@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Activision’s Faulty Anti-Cheat Software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
+- [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
+- [Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
+- [“corner crossing”, legally gray method of traversing checkerboard of public land](https://www.themeateater.com/conservation/public-lands-and-waters/inside-the-wyoming-corner-crossing-case-everyone-is-watching)
+- [Activision’s faulty anti-cheat software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
 - [Egui commit: Implement accessibility APIs via AccessKit](https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161)
-- [Google has a company strategy, not a product strategy](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
-- [Emergency declared and curfew imposed following North Carolina power grid attack](https://www.thepilot.com/news/emergency-declared-and-curfew-ordered-following-moore-power-grid-attack/article_b3b19780-7370-11ed-865d-c78d0de5d921.html)
-- [Memory leaks detection paper co-authored by Netflix CEO Reed Hastings in 1992 [pdf]](https://web.stanford.edu/class/cs343/resources/purify.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
