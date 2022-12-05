@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to estimate an SSD’s working life](https://eclecticlight.co/2022/12/05/how-to-estimate-an-ssds-working-life/)
-- [Show HN: A Database of Marketing Strategies and Stories from Indie Creators](https://marktstash.com/)
-- [Elephants born without tusks in ‘evolutionary response’ to poachers &lpar;2021&rpar;](https://www.telegraph.co.uk/global-health/climate-and-people/mozambique-elephants-born-without-tusks-evolutionary-response/)
-- [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
-- [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
+- [Mandatory Helmet Laws Make Cyclists Less Safe](https://www.bicycling.com/culture/a29802208/helmet-laws-safety/)
+- [FreeBSD on the Raspberry Pi](https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html)
+- [Company ‘Hijacks’ Blender’s CC By-Licensed Film, YouTube Strikes User](https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/)
+- [France says non to Office 365 and Google Workspace in school](https://www.theregister.com/2022/11/22/france_no_windows_google/)
+- [The Great Pi Zero Showdown](https://bret.dk/pi-zero-showdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
