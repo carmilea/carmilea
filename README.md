@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to estimate an SSD’s working life](https://eclecticlight.co/2022/12/05/how-to-estimate-an-ssds-working-life/)
+- [Show HN: A Database of Marketing Strategies and Stories from Indie Creators](https://marktstash.com/)
 - [Elephants born without tusks in ‘evolutionary response’ to poachers &lpar;2021&rpar;](https://www.telegraph.co.uk/global-health/climate-and-people/mozambique-elephants-born-without-tusks-evolutionary-response/)
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
 - [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
-- [Tesla Semi, a Deep Dive](https://www.evuniverse.io/newsletter/semi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
