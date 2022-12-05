@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Image attribution and stable diffusion](https://news.ycombinator.com/item?id=33866466)
-- [Ask HN: Event Driven Design/Discovery?](https://news.ycombinator.com/item?id=33866463)
-- [Can Lego City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
-- [Cops Can Extract Data from 10k Different Car Models’ Infotainment Systems](https://www.forbes.com/sites/thomasbrewster/2022/12/01/10000-cars-can-be-data-raided-by-police-ice-cbp-love-it/)
-- [Lichess on Scala3 – Help needed](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
+- [BIS warns of $80T in hidden off-balance sheet debt held by pension funds](https://news.ycombinator.com/item?id=33867565)
+- [CVS Sued over ‘Fraudulent’ Donations to American Diabetes Association](https://lawstreetmedia.com/news/health/cvs-sued-over-fraudulent-donations-to-american-diabetes-association/)
+- [AI Homework](https://stratechery.com/2022/ai-homework/)
+- [Chess.com Says Hans Niemann’s $100M Lawsuit Is a ‘Public Relations Stunt’](https://www.vice.com/en/article/k7b9en/chesscom-says-hans-niemanns-dollar100m-lawsuit-is-a-public-relations-stunt-in-motion-to-dismiss)
+- [AI Homework](https://stratechery.com/2022/ai-homework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
