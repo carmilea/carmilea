@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac OS 9](https://macos9.app/)
-- [Hertz to Pay $168M to Customers Arrested Due to Hertz’s False Police Reports](https://viewfromthewing.com/hertz-to-pay-168-million-to-customers-arrested-due-to-their-false-police-reports/)
-- [One does not simply destroy a nuclear weapon](https://educatedguesswork.org/posts/nuclear-weapon-disposal/)
-- [BIS warns of $80T in hidden off-balance sheet debt held by pension funds](https://news.ycombinator.com/item?id=33867565)
-- [CVS Sued over ‘Fraudulent’ Donations to American Diabetes Association](https://lawstreetmedia.com/news/health/cvs-sued-over-fraudulent-donations-to-american-diabetes-association/)
+- [DHS Announces Extension of Real ID Full Enforcement Deadline](https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline)
+- [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
+- [Show HN: Chrome extension to summarize blogs and articles using ChatGPT](https://github.com/clmnin/summarize.site)
+- [Decolonization of the curriculum is the revenge of administrators](https://thomasprosser.substack.com/p/decolonization-of-the-curriculum)
+- [Federal Judge Orders Amazon to Cease and Desist from Anti-Union Retaliation](https://labor411.org/411-blog/federal-judge-orders-amazon-to-cease-and-desist-from-anti-union-retaliation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
