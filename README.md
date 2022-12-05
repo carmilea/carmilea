@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS connectivity issues, but health dashboard says everything fine](https://news.ycombinator.com/item?id=33871204)
+- [In an interview, SBF admits involvement in Alameda&#39;s largest uses of funds](https://www.ft.com/content/a1df1d73-9932-4d1b-b63a-c0c82241a236)
+- [Show HN: Help, I let ChatGPT control my computer](https://github.com/greshake/Alice)
 - [Bugpilot: Fix bugs without asking questions](https://www.bugpilot.io/)
 - [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
-- [Play Windows Pinball &lpar;Space Cadet&rpar; on the Web](https://alula.github.io/SpaceCadetPinball/)
-- [When McKinsey comes to town](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
+- [We’re making Firefox accessible and delightful for everyone](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-accessibility-text-recognition-screen-readers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
