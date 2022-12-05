@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DHS Announces Extension of Real ID Full Enforcement Deadline](https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline)
+- [Windows 11 still not winning the OS popularity contest](https://www.theregister.com/2022/12/05/windows_11_adoption_november_statcounter/)
+- [When McKinsey Comes to Town](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
+- [Turing Machines Are Recurrent Neural Networks &lpar;1996&rpar;](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
 - [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 - [Show HN: Chrome extension to summarize blogs and articles using ChatGPT](https://github.com/clmnin/summarize.site)
-- [Decolonization of the curriculum is the revenge of administrators](https://thomasprosser.substack.com/p/decolonization-of-the-curriculum)
-- [Federal Judge Orders Amazon to Cease and Desist from Anti-Union Retaliation](https://labor411.org/411-blog/federal-judge-orders-amazon-to-cease-and-desist-from-anti-union-retaliation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
