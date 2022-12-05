@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 still not winning the OS popularity contest](https://www.theregister.com/2022/12/05/windows_11_adoption_november_statcounter/)
-- [When McKinsey Comes to Town](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
-- [Turing Machines Are Recurrent Neural Networks &lpar;1996&rpar;](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
-- [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
-- [Show HN: Chrome extension to summarize blogs and articles using ChatGPT](https://github.com/clmnin/summarize.site)
+- [AWS connectivity issues, but health dashboard says everything fine](https://news.ycombinator.com/item?id=33871204)
+- [Bugpilot: Fix bugs without asking questions](https://www.bugpilot.io/)
+- [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
+- [Play Windows Pinball &lpar;Space Cadet&rpar; on the Web](https://alula.github.io/SpaceCadetPinball/)
+- [When McKinsey comes to town](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
