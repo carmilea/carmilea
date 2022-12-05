@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac OS 9](https://macos9.app/)
+- [Hertz to Pay $168M to Customers Arrested Due to Hertz’s False Police Reports](https://viewfromthewing.com/hertz-to-pay-168-million-to-customers-arrested-due-to-their-false-police-reports/)
+- [One does not simply destroy a nuclear weapon](https://educatedguesswork.org/posts/nuclear-weapon-disposal/)
 - [BIS warns of $80T in hidden off-balance sheet debt held by pension funds](https://news.ycombinator.com/item?id=33867565)
 - [CVS Sued over ‘Fraudulent’ Donations to American Diabetes Association](https://lawstreetmedia.com/news/health/cvs-sued-over-fraudulent-donations-to-american-diabetes-association/)
-- [AI Homework](https://stratechery.com/2022/ai-homework/)
-- [Chess.com Says Hans Niemann’s $100M Lawsuit Is a ‘Public Relations Stunt’](https://www.vice.com/en/article/k7b9en/chesscom-says-hans-niemanns-dollar100m-lawsuit-is-a-public-relations-stunt-in-motion-to-dismiss)
-- [AI Homework](https://stratechery.com/2022/ai-homework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
