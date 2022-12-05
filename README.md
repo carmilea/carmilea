@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to estimate an SSD’s working life](https://eclecticlight.co/2022/12/05/how-to-estimate-an-ssds-working-life/)
+- [Elephants born without tusks in ‘evolutionary response’ to poachers &lpar;2021&rpar;](https://www.telegraph.co.uk/global-health/climate-and-people/mozambique-elephants-born-without-tusks-evolutionary-response/)
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
-- [Be Less Scared of Overconfidence](https://www.benkuhn.net/overconfidence/)
 - [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
 - [Tesla Semi, a Deep Dive](https://www.evuniverse.io/newsletter/semi)
-- [Autonomous trucking upstart Embark has gone from $5B+ to basically worthless](https://news.crunchbase.com/transportation/autonomous-driving-spac-embk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
