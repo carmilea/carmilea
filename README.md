@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
 - [Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
-- [“corner crossing”, legally gray method of traversing checkerboard of public land](https://www.themeateater.com/conservation/public-lands-and-waters/inside-the-wyoming-corner-crossing-case-everyone-is-watching)
+- [The Wyoming corner crossing case](https://www.themeateater.com/conservation/public-lands-and-waters/inside-the-wyoming-corner-crossing-case-everyone-is-watching)
 - [Activision’s faulty anti-cheat software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
 - [Egui commit: Implement accessibility APIs via AccessKit](https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161)
 <!-- BLOG-POST-LIST:END -->
