@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Archaeologists Ask Netflix to Reclassify Graham Hancock’s Docuseries as Fiction](https://news.artnet.com/art-world/archaeologists-graham-hancocks-ancient-apocalypse-fiction-2222060)
-- [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
-- [Weather CLI Tool](https://github.com/eoin-barr/weatherme)
-- [Software horror show: SAP Concur](https://blog.plover.com/2022/12/04/#crap-warning-signs-2)
-- [Ask HN: How would you build a ChatGPT detector?](https://news.ycombinator.com/item?id=33857356)
+- [Activision’s Faulty Anti-Cheat Software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
+- [Egui commit: Implement accessibility APIs via AccessKit](https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161)
+- [Google has a company strategy, not a product strategy](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
+- [Emergency declared and curfew imposed following North Carolina power grid attack](https://www.thepilot.com/news/emergency-declared-and-curfew-ordered-following-moore-power-grid-attack/article_b3b19780-7370-11ed-865d-c78d0de5d921.html)
+- [Memory leaks detection paper co-authored by Netflix CEO Reed Hastings in 1992 [pdf]](https://web.stanford.edu/class/cs343/resources/purify.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
