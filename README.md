@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If you unscrew your belly button, your bottom will fall off](https://mrjamesbell.com/if-you-unscrew-your-belly-button-your-bottom-will-fall-off-and-other-things-my-dad-taught-me/)
-- [Hetzner continues its growth in the US with a new location](https://www.hetzner.com/news/12-22-cloud-usa/)
-- [Using ChatGPT as a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
-- [FreeBSD on the Raspberry Pi](https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html)
-- [Company ‘Hijacks’ Blender’s CC By-Licensed Film, YouTube Strikes User](https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/)
+- [Filtering webhook events based on the payload structure](https://getconvoy.io/blog/introducing-subscriptions-filtering/)
+- [Nobody’s using CBDCs. India’s piloting one anyway](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
+- [Drowning in AI Generated Garbage: the silent war we are fighting](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
+- [One Man&#39;s Crusade Against Machismo in Latin America](https://www.spiegel.de/international/world/the-stain-of-toxic-masculinity-one-man-s-crusade-against-machismo-in-latin-america-a-2cf78882-9ea6-4a9c-825e-6f276fba18c7)
+- [Ask HN: Do you measure and/or mitigate CO2 in your living space?](https://news.ycombinator.com/item?id=33864195)
 <!-- BLOG-POST-LIST:END -->
 
 ---
