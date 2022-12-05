@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is AI-Assisted Coding the Start of the Death of Software Development?](https://news.ycombinator.com/item?id=33864844)
+- [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
+- [Causal Explanations Considered Harmful](https://superbowl.substack.com/p/causal-explanations-considered-harmful)
+- [MIRC ended its lifetime license agreement with all who purchased it 10 years out](https://www.pocnetwork.net/internet-news/mirc-ended-its-lifetime-license-agreement-with-all-who-purchased-its-software-10-years-out/)
 - [Drowning in AI Generated Garbage: the silent war we are fighting](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
 - [One Man&#39;s Crusade Against Machismo in Latin America](https://www.spiegel.de/international/world/the-stain-of-toxic-masculinity-one-man-s-crusade-against-machismo-in-latin-america-a-2cf78882-9ea6-4a9c-825e-6f276fba18c7)
-- [Amazon shipped fake product, refuses refund until &#39;correct&#39; item returned](https://www.cbc.ca/news/business/amazon-returns-1.6669601)
-- [If you unscrew your belly button, your bottom will fall off](https://mrjamesbell.com/if-you-unscrew-your-belly-button-your-bottom-will-fall-off-and-other-things-my-dad-taught-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
