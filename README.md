@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Encrypt posts letter from executive director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
+- [New Process Allows 3-D Printing of Microscale Metallic Parts – Www.caltech.edu](https://www.caltech.edu/about/news/new-process-allows-3-d-printing-of-microscale-metallic-parts)
+- [Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/)
 - [In an interview, SBF admits involvement in Alameda&#39;s largest uses of funds](https://www.ft.com/content/a1df1d73-9932-4d1b-b63a-c0c82241a236)
 - [Show HN: Help, I let ChatGPT control my computer](https://github.com/greshake/Alice)
-- [Bugpilot: Fix bugs without asking questions](https://www.bugpilot.io/)
-- [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
-- [We’re making Firefox accessible and delightful for everyone](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-accessibility-text-recognition-screen-readers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
