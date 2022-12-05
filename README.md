@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Tenebra game PC port of popular Commodore 64 game](https://h4plo.itch.io/tenebra-pc)
-- [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
-- [Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
-- [The Wyoming corner crossing case](https://www.themeateater.com/conservation/public-lands-and-waters/inside-the-wyoming-corner-crossing-case-everyone-is-watching)
-- [Activision’s faulty anti-cheat software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
+- [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
+- [Be Less Scared of Overconfidence](https://www.benkuhn.net/overconfidence/)
+- [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
+- [Tesla Semi, a Deep Dive](https://www.evuniverse.io/newsletter/semi)
+- [Autonomous trucking upstart Embark has gone from $5B+ to basically worthless](https://news.crunchbase.com/transportation/autonomous-driving-spac-embk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
