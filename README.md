@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mandatory Helmet Laws Make Cyclists Less Safe](https://www.bicycling.com/culture/a29802208/helmet-laws-safety/)
+- [If you unscrew your belly button, your bottom will fall off](https://mrjamesbell.com/if-you-unscrew-your-belly-button-your-bottom-will-fall-off-and-other-things-my-dad-taught-me/)
+- [Hetzner continues its growth in the US with a new location](https://www.hetzner.com/news/12-22-cloud-usa/)
+- [Using ChatGPT as a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
 - [FreeBSD on the Raspberry Pi](https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html)
 - [Company ‘Hijacks’ Blender’s CC By-Licensed Film, YouTube Strikes User](https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/)
-- [France says non to Office 365 and Google Workspace in school](https://www.theregister.com/2022/11/22/france_no_windows_google/)
-- [The Great Pi Zero Showdown](https://bret.dk/pi-zero-showdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
