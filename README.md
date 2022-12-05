@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
-- [Causal Explanations Considered Harmful](https://superbowl.substack.com/p/causal-explanations-considered-harmful)
-- [MIRC ended its lifetime license agreement with all who purchased it 10 years out](https://www.pocnetwork.net/internet-news/mirc-ended-its-lifetime-license-agreement-with-all-who-purchased-its-software-10-years-out/)
-- [Drowning in AI Generated Garbage: the silent war we are fighting](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
-- [One Man&#39;s Crusade Against Machismo in Latin America](https://www.spiegel.de/international/world/the-stain-of-toxic-masculinity-one-man-s-crusade-against-machismo-in-latin-america-a-2cf78882-9ea6-4a9c-825e-6f276fba18c7)
+- [Ask HN: Image attribution and stable diffusion](https://news.ycombinator.com/item?id=33866466)
+- [Ask HN: Event Driven Design/Discovery?](https://news.ycombinator.com/item?id=33866463)
+- [Can Lego City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
+- [Cops Can Extract Data from 10k Different Car Models’ Infotainment Systems](https://www.forbes.com/sites/thomasbrewster/2022/12/01/10000-cars-can-be-data-raided-by-police-ice-cbp-love-it/)
+- [Lichess on Scala3 – Help needed](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
