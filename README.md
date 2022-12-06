@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No one wants to have kids anymore](https://torturechambersmalltalk.substack.com/p/safe-sex-the-consequences)
-- [Want Your Country to Thrive? Give Geniuses a Universal Basic Income](https://www.bloomberg.com/opinion/articles/2022-12-06/your-country-s-geniuses-deserve-a-universal-basic-income)
-- [Neuralink faces federal inquiry after killing 1,500 animals in testing](https://www.theguardian.com/technology/2022/dec/05/neuralink-animal-testing-elon-musk-investigation)
-- [What in the Ethereum application ecosystem excites me](https://vitalik.ca/general/2022/12/05/excited.html)
-- [Ask HN: How is the job search coming along for people who got laid off?](https://news.ycombinator.com/item?id=33878209)
+- [Does watching pornography cause erectile dysfunction?](https://stuartritchie.substack.com/p/erectile)
+- [Automation enables founders to grow companies with fewer and fewer employees](https://twitter.com/paulg/status/1600119268858744832)
+- [TSMC ups Arizona investment from $12B to $40B with second semi fab](https://www.cnbc.com/2022/12/06/tsmc-to-up-arizona-investment-to-40-billion-with-second-semiconductor-chip-plant.html)
+- [Remote Work Is Gutting Downtowns, Will Cost Cities $453B](https://www.businessinsider.com/remote-work-gutted-city-downtowns-office-real-estate-apocalypse-2022-12)
+- [Dwarf Fortress’ graphical upgrade provides a new way into a wildly wonky game](https://arstechnica.com/gaming/2022/12/dwarf-fortresss-graphical-upgrade-provides-a-new-way-into-a-wildly-wonky-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
