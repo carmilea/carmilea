@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Carvana going out of business? The &#39;Amazon&#39; of cars tumbles](https://www.themanual.com/auto/is-carvana-going-out-of-business/)
 - [NYC Bill to Ban Reuse of Lithium Ion Batteries, Right-to-Repair Advocates Warn](https://www.vice.com/en/article/dy7eka/new-york-city-bill-to-ban-reuse-of-lithium-ion-batteries-is-absolutely-crazy-right-to-repair-advocates-warn)
 - [My building has replaced our keys with an app](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
 - [The Roof Always Caves In: Why there is nothing wrong with being doomed](https://comment.org/the-roof-always-caves-in/)
 - [Framer&#39;s Magic Motion](https://www.nan.fyi/magic-motion)
-- [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
