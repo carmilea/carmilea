@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD 12.4 Released](https://www.freebsd.org/releases/12.4R/announce/)
 - [Linux Certificate Authority root stores have a too simple view of &#39;trust&#39;](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 - [A Reader Asks How to Avoid Working for Evil](https://rachelbythebay.com/w/2022/12/04/downfall/)
 - [Ask HN: How to overcome stage fear / social anxiety](https://news.ycombinator.com/item?id=33876690)
-- [Is Carvana going out of business? The &#39;Amazon&#39; of cars tumbles](https://www.themanual.com/auto/is-carvana-going-out-of-business/)
 - [My building has replaced our keys with an app](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
 <!-- BLOG-POST-LIST:END -->
 
