@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RadTrike Electric Tricycle](https://www.radpowerbikes.com/products/radtrike-electric-tricycle)
 - [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
 - [Apple announces upgrade to App Store pricing](https://www.apple.com/newsroom/2022/12/apple-announces-biggest-upgrade-to-app-store-pricing-adding-700-new-price-points/)
 - [Ledger Stax – Hardware wallet with eInk display for digital assets](https://shop.ledger.com/pages/ledger-stax)
 - [Patterns &lpar;YC S21&rpar;, a platform to build next-gen data apps, is hiring devs](http://patterns.app/)
-- [Optimizing compilers reload vector constants needlessly](https://lemire.me/blog/2022/12/06/optimizing-compilers-reload-vector-constants-needlessly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
