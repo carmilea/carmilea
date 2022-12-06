@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; – a platform to build next-gen data apps, is hiring devs](http://patterns.app/)
+- [Mastodon Instance with 6 Files](https://www.justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
+- [Open Source Hospital Price Transparency](https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/)
+- [Show HN: Domain Name Search with AI](https://news.ycombinator.com/item?id=33882497)
 - [Why Is No One Asking SFB What Happened to the $3.3B He Borrowed?](https://www.nakedcapitalism.com/2022/12/earth-to-reporters-why-is-no-one-asking-sfb-what-happened-to-the-3-3-billion-he-borrowed.html)
-- [NASA Awards $57M Contract to Build Roads on the Moon](https://www.nextgov.com/emerging-tech/2022/11/nasa-awards-57m-contract-build-roads-moon/380291/)
-- [Apple Self Service Repair now offers 200 parts, tools, repair manuals, across EU](https://www.apple.com/newsroom/2022/12/apple-launches-self-service-repair-in-europe/)
-- [Apple Introduces Apple Music Sing](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/)
-- [Apple sued by two women over AirTag stalking](https://www.phonearena.com/news/apple-sued-by-women-after-exes-use-airtags-to-stalk-them_id144110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
