@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No one wants to have kids anymore](https://torturechambersmalltalk.substack.com/p/safe-sex-the-consequences)
+- [Want Your Country to Thrive? Give Geniuses a Universal Basic Income](https://www.bloomberg.com/opinion/articles/2022-12-06/your-country-s-geniuses-deserve-a-universal-basic-income)
+- [Neuralink faces federal inquiry after killing 1,500 animals in testing](https://www.theguardian.com/technology/2022/dec/05/neuralink-animal-testing-elon-musk-investigation)
 - [What in the Ethereum application ecosystem excites me](https://vitalik.ca/general/2022/12/05/excited.html)
 - [Ask HN: How is the job search coming along for people who got laid off?](https://news.ycombinator.com/item?id=33878209)
-- [Stop that It’s not Tourette’s but a new type of mass sociogenic illness](https://academic.oup.com/brain/article/145/2/476/6356504)
-- [Ask HN: Can anyone share cases study of successful SaaS getting into the market?](https://news.ycombinator.com/item?id=33877933)
-- [I gave ChatGPT the 117 question, eight dimensional PolitiScales test](https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
