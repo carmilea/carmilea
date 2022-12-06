@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
+- [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
 - [Anomaly 6: Private spying firm targets global population with illegal spyware](https://thegrayzone.com/2022/12/06/files-anomaly-6-firm-spyware/)
 - [Odiggo &lpar;YC S21&rpar;, a hardware startup, is looking for a tech co-founder](https://news.ycombinator.com/item?id=33886973)
-- [Faceting large result sets in PostgreSQL](https://www.cybertec-postgresql.com/en/faceting-large-result-sets/)
-- [Quantum steampunk is a real, retrofuturistic field of physics](https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/)
-- [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
+- [RadTrike Electric Tricycle](https://www.radpowerbikes.com/products/radtrike-electric-tricycle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
