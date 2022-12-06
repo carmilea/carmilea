@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is offering users $2 a month for letting it track phone data](https://www.businessinsider.com/amazon-offering-users-2-dollars-month-for-track-phone-data-2022-12)
+- [Framer&#39;s Magic Motion](https://www.nan.fyi/magic-motion)
 - [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
-- [SPACs collapse as $11B of deals are called off within an hour](https://www.bloomberg.com/news/articles/2022-12-05/spacs-collapse-as-11-billion-of-deals-are-called-off-within-an-hour)
-- [Inkscape 1.2.2](https://inkscape.org/release/inkscape-1.2.2/)
-- [Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/)
-- [A Year-End Letter from our Executive Director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
+- [Asymmetry detected in the distribution of galaxies](https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/)
+- [ChatGPT vs. a Cryptic Crossword](https://jameswillia.ms/posts/chatgpt-cryptics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
