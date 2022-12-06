@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does watching pornography cause erectile dysfunction?](https://stuartritchie.substack.com/p/erectile)
+- [Apple Introduces Apple Music Sing](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/)
+- [A homework question in someone’s 11th grade statistics class](https://statmodeling.stat.columbia.edu/2022/12/06/a-homework-question-in-someones-11th-grade-statistics-class/)
+- [GE buys out entire NYT print paper in historic first](https://www.axios.com/2022/12/06/ge-new-york-times-advertising-entire-paper-edition)
+- [Tell HN: Tired of Hearing about ChatGPT](https://news.ycombinator.com/item?id=33880024)
 - [Automation enables founders to grow companies with fewer and fewer employees](https://twitter.com/paulg/status/1600119268858744832)
-- [TSMC ups Arizona investment from $12B to $40B with second semi fab](https://www.cnbc.com/2022/12/06/tsmc-to-up-arizona-investment-to-40-billion-with-second-semiconductor-chip-plant.html)
-- [Remote Work Is Gutting Downtowns, Will Cost Cities $453B](https://www.businessinsider.com/remote-work-gutted-city-downtowns-office-real-estate-apocalypse-2022-12)
-- [Dwarf Fortress’ graphical upgrade provides a new way into a wildly wonky game](https://arstechnica.com/gaming/2022/12/dwarf-fortresss-graphical-upgrade-provides-a-new-way-into-a-wildly-wonky-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
