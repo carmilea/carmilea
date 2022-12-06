@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What in the Ethereum application ecosystem excites me](https://vitalik.ca/general/2022/12/05/excited.html)
+- [Ask HN: How is the job search coming along for people who got laid off?](https://news.ycombinator.com/item?id=33878209)
+- [Stop that It’s not Tourette’s but a new type of mass sociogenic illness](https://academic.oup.com/brain/article/145/2/476/6356504)
+- [Ask HN: Can anyone share cases study of successful SaaS getting into the market?](https://news.ycombinator.com/item?id=33877933)
 - [I gave ChatGPT the 117 question, eight dimensional PolitiScales test](https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/)
-- [Apple’s Anti-Union Tactics in Atlanta Were Illegal, US Officials Say](https://www.bloomberg.com/news/articles/2022-12-05/apple-s-anti-union-tactics-in-atlanta-were-illegal-us-officials-say)
-- [What things did you purchase that enhanced the quality of your life in 2022?](https://news.ycombinator.com/item?id=33877774)
-- [FTX Contagion](https://www.mollywhite.net/etc/ftx-contagion)
-- [Haskell Lens Tutorial by Exercises](https://williamyaoh.com/posts/2019-04-25-lens-exercises.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
