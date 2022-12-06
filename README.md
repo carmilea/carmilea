@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I gave ChatGPT the 117 question, eight dimensional PolitiScales test](https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/)
+- [Apple’s Anti-Union Tactics in Atlanta Were Illegal, US Officials Say](https://www.bloomberg.com/news/articles/2022-12-05/apple-s-anti-union-tactics-in-atlanta-were-illegal-us-officials-say)
+- [What things did you purchase that enhanced the quality of your life in 2022?](https://news.ycombinator.com/item?id=33877774)
 - [FTX Contagion](https://www.mollywhite.net/etc/ftx-contagion)
-- [PhotoRoom Is Hiring a React Architect &lpar;WebAssembly, WebGL and Next&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
-- [Faster Base64 in Curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
-- [FreeBSD 12.4](https://www.freebsd.org/releases/12.4R/announce/)
-- [Linux Certificate Authority root stores have a too simple view of &#39;trust&#39;](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
+- [Haskell Lens Tutorial by Exercises](https://williamyaoh.com/posts/2019-04-25-lens-exercises.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
