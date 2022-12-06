@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: You can apparently get GPT-3 to cough up its own source code](https://news.ycombinator.com/item?id=33875231)
+- [HellaSwag: 36% of this popular large language model benchmark contains errors](https://www.surgehq.ai//blog/hellaswag-or-hellabad-36-of-this-popular-llm-benchmark-contains-errors)
 - [Amazon is offering users $2 a month for letting it track phone data](https://www.businessinsider.com/amazon-offering-users-2-dollars-month-for-track-phone-data-2022-12)
 - [Framer&#39;s Magic Motion](https://www.nan.fyi/magic-motion)
 - [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
-- [Asymmetry detected in the distribution of galaxies](https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/)
-- [ChatGPT vs. a Cryptic Crossword](https://jameswillia.ms/posts/chatgpt-cryptics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
