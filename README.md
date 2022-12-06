@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Building Has Replaced Our Keys with an App. Is That Legal?](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
-- [HellaSwag: 36% of this popular large language model benchmark contains errors](https://www.surgehq.ai//blog/hellaswag-or-hellabad-36-of-this-popular-llm-benchmark-contains-errors)
+- [NYC Bill to Ban Reuse of Lithium Ion Batteries, Right-to-Repair Advocates Warn](https://www.vice.com/en/article/dy7eka/new-york-city-bill-to-ban-reuse-of-lithium-ion-batteries-is-absolutely-crazy-right-to-repair-advocates-warn)
+- [My building has replaced our keys with an app](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
+- [The Roof Always Caves In: Why there is nothing wrong with being doomed](https://comment.org/the-roof-always-caves-in/)
 - [Framer&#39;s Magic Motion](https://www.nan.fyi/magic-motion)
 - [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
-- [Asymmetry detected in the distribution of galaxies](https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
