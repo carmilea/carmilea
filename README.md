@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD 12.4 Released](https://www.freebsd.org/releases/12.4R/announce/)
+- [FTX Contagion](https://www.mollywhite.net/etc/ftx-contagion)
+- [PhotoRoom Is Hiring a React Architect &lpar;WebAssembly, WebGL and Next&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
+- [Faster Base64 in Curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
+- [FreeBSD 12.4](https://www.freebsd.org/releases/12.4R/announce/)
 - [Linux Certificate Authority root stores have a too simple view of &#39;trust&#39;](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
-- [A Reader Asks How to Avoid Working for Evil](https://rachelbythebay.com/w/2022/12/04/downfall/)
-- [Ask HN: How to overcome stage fear / social anxiety](https://news.ycombinator.com/item?id=33876690)
-- [My building has replaced our keys with an app](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
