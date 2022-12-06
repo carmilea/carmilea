@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is No One Asking SFB What Happened to the $3.3B He Borrowed?](https://www.nakedcapitalism.com/2022/12/earth-to-reporters-why-is-no-one-asking-sfb-what-happened-to-the-3-3-billion-he-borrowed.html)
+- [NASA Awards $57M Contract to Build Roads on the Moon](https://www.nextgov.com/emerging-tech/2022/11/nasa-awards-57m-contract-build-roads-moon/380291/)
+- [Apple Self Service Repair now offers 200 parts, tools, repair manuals, across EU](https://www.apple.com/newsroom/2022/12/apple-launches-self-service-repair-in-europe/)
 - [Apple Introduces Apple Music Sing](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/)
-- [A homework question in someone’s 11th grade statistics class](https://statmodeling.stat.columbia.edu/2022/12/06/a-homework-question-in-someones-11th-grade-statistics-class/)
-- [GE buys out entire NYT print paper in historic first](https://www.axios.com/2022/12/06/ge-new-york-times-advertising-entire-paper-edition)
-- [Tell HN: Tired of Hearing about ChatGPT](https://news.ycombinator.com/item?id=33880024)
-- [Automation enables founders to grow companies with fewer and fewer employees](https://twitter.com/paulg/status/1600119268858744832)
+- [Apple sued by two women over AirTag stalking](https://www.phonearena.com/news/apple-sued-by-women-after-exes-use-airtags-to-stalk-them_id144110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
