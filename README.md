@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Encrypt posts letter from executive director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
-- [New Process Allows 3-D Printing of Microscale Metallic Parts – Www.caltech.edu](https://www.caltech.edu/about/news/new-process-allows-3-d-printing-of-microscale-metallic-parts)
-- [Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/)
-- [In an interview, SBF admits involvement in Alameda&#39;s largest uses of funds](https://www.ft.com/content/a1df1d73-9932-4d1b-b63a-c0c82241a236)
-- [Show HN: Help, I let ChatGPT control my computer](https://github.com/greshake/Alice)
+- [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
+- [SPACs collapse as $11B of deals are called off within an hour](https://www.bloomberg.com/news/articles/2022-12-05/spacs-collapse-as-11-billion-of-deals-are-called-off-within-an-hour)
+- [Inkscape 1.2.2](https://inkscape.org/release/inkscape-1.2.2/)
+- [Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/)
+- [A Year-End Letter from our Executive Director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
