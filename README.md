@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple announces upgrade to App Store pricing](https://www.apple.com/newsroom/2022/12/apple-announces-biggest-upgrade-to-app-store-pricing-adding-700-new-price-points/)
 - [Patterns &lpar;YC S21&rpar; – a platform to build next-gen data apps, is hiring devs](http://patterns.app/)
-- [Mastodon Instance with 6 Files](https://www.justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
+- [Optimizing compilers reload vector constants needlessly](https://lemire.me/blog/2022/12/06/optimizing-compilers-reload-vector-constants-needlessly/)
+- [PR for startups: is it only for the rich and famous? &lpar;2020&rpar;](https://anhtho.substack.com/p/pr-for-startups-is-it-only-for-the)
 - [Open Source Hospital Price Transparency](https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/)
-- [Show HN: Domain Name Search with AI](https://news.ycombinator.com/item?id=33882497)
-- [Why Is No One Asking SFB What Happened to the $3.3B He Borrowed?](https://www.nakedcapitalism.com/2022/12/earth-to-reporters-why-is-no-one-asking-sfb-what-happened-to-the-3-3-billion-he-borrowed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
