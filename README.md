@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple advances user security with powerful new data protections](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/)
+- [How a dangerous stew of air pollution is choking the United States](https://www.nature.com/articles/d41586-022-04333-9)
+- [Tor Browser 12.0](https://blog.torproject.org/new-release-tor-browser-120/)
 - [Slai &lpar;YC W22&rpar; is hiring an SRE to solve low-level GPU scaling challenges](https://serverlessai.notion.site/SRE-DevOps-Engineer-e5bc6e06b72f4c16bba61ad3fe369528)
 - [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)
-- [Ask HN: Why doesn&#39;t archive.today get shut down?](https://news.ycombinator.com/item?id=33896284)
-- [Plaid Layoffs](https://plaid.com/team-update/)
-- [What Is a Real-Time Analytics Database?](https://www.singlestore.com/blog/what-is-a-real-time-analytics-database)
 <!-- BLOG-POST-LIST:END -->
 
 ---
