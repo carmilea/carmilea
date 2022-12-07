@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Caterpillar offers phone with built-in FLIR camera](https://www.catphones.com/en-us/cat-s62-pro-smartphone/)
-- [Beware of the Perfect Gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
+- [Beware of the perfect gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
 - [What I&#39;d like to see in Emacs](https://emacsconf.org/2022/talks/rms/)
 - [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
 - [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
