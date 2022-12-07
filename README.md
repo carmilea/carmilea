@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. lawmakers decline to add Boeing 737 Max exemption in defense bill](https://www.reuters.com/business/aerospace-defense/us-lawmakers-decline-add-boeing-737-max-exemption-defense-bill-2022-12-07/)
 - [The Interrotron](https://telepromptermirror.com/errol-morris-interrotron/)
 - [VSCode remote code execution advisory](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
+- [Boeing’s last 747 is rolling out of the factory](https://www.cnbc.com/2022/12/06/boeing-747-production-is-ending-with-shift-to-twin-engine-jets.html)
 - [Caterpillar offers phone with built-in FLIR camera](https://www.catphones.com/en-us/cat-s62-pro-smartphone/)
-- [Beware of the perfect gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
-- [What I&#39;d like to see in Emacs](https://emacsconf.org/2022/talks/rms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
