@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Toy-code: G-code inspired protocol for sex toys](https://stpihkal.docs.buttplug.io/protocols/tcode.html)
-- [The Economist’s best books of 2022: from financial scandals to cell theory](https://www.economist.com/culture/2022/12/06/these-are-the-economists-best-books-of-2022)
 - [Tell HN: Copying and pasting from ChatGPT unsolicited sucks](https://news.ycombinator.com/item?id=33891538)
 - [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
 - [In Solidarity with Library Genesis and Sci-Hub &lpar;2015&rpar;](https://custodians.online)
+- [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
