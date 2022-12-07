@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
+- [Theranos exec Sunny Balwani sentenced to 13 years in prison](https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/)
+- [Two new books explore the upside of big data and AI](https://www.economist.com/culture/2022/11/30/two-new-books-explore-the-upside-of-big-data-and-ai)
 - [CircleCI Layoffs](https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/)
 - [Avenue &lpar;YC W21&rpar; is hiring software engineers in NYC &lpar;React/TypeScript/tRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
-- [Ask HN: What is your go to idiot-filter question in interviews?](https://news.ycombinator.com/item?id=33899948)
-- [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
-- [Publicity Stunt Fallout](https://scottaaronson.blog/?p=6871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
