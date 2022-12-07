@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Women Select for Intelligence?](https://ideassleepfuriously.substack.com/p/do-women-really-select-for-intelligence)
+- [Fast midpoint between two integers without overflow](https://lemire.me/blog/2022/12/06/fast-midpoint-between-two-integers-without-overflow/)
 - [Why Do We Hack?](http://curious.galthub.com/blog/2022-12-04/)
 - [Toy-code: G-code inspired protocol for sex toys](https://stpihkal.docs.buttplug.io/protocols/tcode.html)
+- [Telegram enable sign up without a SIM card](https://telegram.org/blog/ultimate-privacy-topics-2-0/fr?setln=en)
 - [Tell HN: Copying and pasting from ChatGPT unsolicited sucks](https://news.ycombinator.com/item?id=33891538)
-- [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
