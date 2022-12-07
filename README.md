@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
+- [Publicity Stunt Fallout](https://www.math.columbia.edu/~woit/wordpress/?p=13229)
 - [The Instagram ads Facebook won&#39;t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
 - [100 Gbps achieved from Space to Earth, fastest laser link record set by MIT/NASA](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130)
-- [Apple advances user security with powerful new data protections](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/)
-- [Time travel in Postgres. Bisect to the last valid transaction](https://neon.tech/blog/time-travel-with-postgres/)
-- [How a dangerous stew of air pollution is choking the United States](https://www.nature.com/articles/d41586-022-04333-9)
+- [Apple introduces end-to-end encryption for backups](https://support.apple.com/en-us/HT202303#advanced)
 <!-- BLOG-POST-LIST:END -->
 
 ---
