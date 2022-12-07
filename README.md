@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alpha. Bravo. Cyrillic](https://daily.jstor.org/alpha-bravo-cyrillic/)
-- [Ncdu – NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
-- [The “Oscar Movie” Is Dying](https://www.worldofreel.com/blog/2022/11/2mqsu7z0y7ht4ut7nymgl25svxmyoi)
-- [PiinPoint &lpar;YC W14&rpar; Is Hiring Developers &lpar;Remote in Canada&rpar;](https://angel.co/l/2hhhmR)
-- [Vivaldi integrates Mastodon in its desktop browser](https://vivaldi.com/blog/vivaldi-5-6-on-desktop/)
+- [Abstraction Is Expensive](https://specbranch.com/posts/expensive-abstraction/)
+- [Blender 3.4](https://wiki.blender.org/wiki/Reference/Release_Notes/3.4)
+- [Elixir – HUGE Release Coming Soon](https://genserver.social/notice/AQIfjB7SQcuEwPGEAC)
+- [Why Is Everything So Ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/)
+- [Memories: First Exposure to Computers](https://lawrencecpaulson.github.io//2022/12/07/Memories_first_exposure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
