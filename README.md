@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avenue &lpar;YC W21&rpar; Is Hiring Software Engineers in NYC &lpar;React/TypeScript/TRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
+- [Iran set to freeze bank accounts of women who refuse to wear a hijab](https://cointelegraph.com/news/iran-set-to-freeze-bank-accounts-of-women-who-refuse-to-wear-a-hijab)
 - [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
 - [Publicity Stunt Fallout](https://www.math.columbia.edu/~woit/wordpress/?p=13229)
-- [The Instagram ads Facebook won&#39;t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
-- [100 Gbps achieved from Space to Earth, fastest laser link record set by MIT/NASA](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130)
-- [Apple introduces end-to-end encryption for backups](https://support.apple.com/en-us/HT202303#advanced)
+- [Instagram ads Facebook won&#39;t show you &lpar;2021&rpar;](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
