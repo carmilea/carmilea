@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast midpoint between two integers without overflow](https://lemire.me/blog/2022/12/06/fast-midpoint-between-two-integers-without-overflow/)
-- [Why Do We Hack?](http://curious.galthub.com/blog/2022-12-04/)
-- [Toy-code: G-code inspired protocol for sex toys](https://stpihkal.docs.buttplug.io/protocols/tcode.html)
-- [Telegram enable sign up without a SIM card](https://telegram.org/blog/ultimate-privacy-topics-2-0/fr?setln=en)
-- [Tell HN: Copying and pasting from ChatGPT unsolicited sucks](https://news.ycombinator.com/item?id=33891538)
+- [PiinPoint &lpar;YC W14&rpar; Is Hiring Developers &lpar;Remote in Canada&rpar;](https://angel.co/l/2hhhmR)
+- [The Argument for Invisible Aliens](https://now.northropgrumman.com/hiding-in-plain-sight-the-argument-for-invisible-aliens/)
+- [Meta’s behavioral ads will finally face GDPR privacy reckoning in January](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions/)
+- [Chris Seaton passed away on Dec 3rd](https://twitter.com/flavorjones/status/1600436490885947393)
+- [Tea.xyz, a unified package manager from the creators of Homebrew](https://tea.xyz/?repost=true)
 <!-- BLOG-POST-LIST:END -->
 
 ---
