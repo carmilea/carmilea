@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Women Select for Intelligence?](https://ideassleepfuriously.substack.com/p/do-women-really-select-for-intelligence)
+- [Why Do We Hack?](http://curious.galthub.com/blog/2022-12-04/)
 - [Toy-code: G-code inspired protocol for sex toys](https://stpihkal.docs.buttplug.io/protocols/tcode.html)
 - [Tell HN: Copying and pasting from ChatGPT unsolicited sucks](https://news.ycombinator.com/item?id=33891538)
 - [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
-- [In Solidarity with Library Genesis and Sci-Hub &lpar;2015&rpar;](https://custodians.online)
-- [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
