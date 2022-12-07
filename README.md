@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plaid Layoffs](https://plaid.com/team-update/)
+- [Configuring Your Outbound Webhook Requests with Static IPs](https://getconvoy.io/blog/configuring-your-outbound-webhook-requests-with-static-ips/)
+- [Dora: A open-source Rust DHCP Server](https://github.com/bluecatengineering/dora)
 - [Abstraction Is Expensive](https://specbranch.com/posts/expensive-abstraction/)
-- [Blender 3.4](https://wiki.blender.org/wiki/Reference/Release_Notes/3.4)
-- [Elixir – HUGE Release Coming Soon](https://genserver.social/notice/AQIfjB7SQcuEwPGEAC)
-- [Why Is Everything So Ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/)
-- [Memories: First Exposure to Computers](https://lawrencecpaulson.github.io//2022/12/07/Memories_first_exposure.html)
+- [Go and SQLite in the Cloud](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
