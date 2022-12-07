@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Instagram ads Facebook won&#39;t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
+- [100 Gbps achieved from Space to Earth, fastest laser link record set by MIT/NASA](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130)
 - [Apple advances user security with powerful new data protections](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/)
+- [Time travel in Postgres. Bisect to the last valid transaction](https://neon.tech/blog/time-travel-with-postgres/)
 - [How a dangerous stew of air pollution is choking the United States](https://www.nature.com/articles/d41586-022-04333-9)
-- [Tor Browser 12.0](https://blog.torproject.org/new-release-tor-browser-120/)
-- [Slai &lpar;YC W22&rpar; is hiring an SRE to solve low-level GPU scaling challenges](https://serverlessai.notion.site/SRE-DevOps-Engineer-e5bc6e06b72f4c16bba61ad3fe369528)
-- [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
