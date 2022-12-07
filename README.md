@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avenue &lpar;YC W21&rpar; Is Hiring Software Engineers in NYC &lpar;React/TypeScript/TRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
-- [Iran set to freeze bank accounts of women who refuse to wear a hijab](https://cointelegraph.com/news/iran-set-to-freeze-bank-accounts-of-women-who-refuse-to-wear-a-hijab)
+- [CircleCI Layoffs](https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/)
+- [Avenue &lpar;YC W21&rpar; is hiring software engineers in NYC &lpar;React/TypeScript/tRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
+- [Ask HN: What is your go to idiot-filter question in interviews?](https://news.ycombinator.com/item?id=33899948)
 - [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
-- [Publicity Stunt Fallout](https://www.math.columbia.edu/~woit/wordpress/?p=13229)
-- [Instagram ads Facebook won&#39;t show you &lpar;2021&rpar;](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
+- [Publicity Stunt Fallout](https://scottaaronson.blog/?p=6871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
