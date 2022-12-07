@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
+- [I connected Chat GPT like AI with search engine](https://www.accintia.com)
+- [In Solidarity with Library Genesis and Sci-Hub](https://custodians.online)
+- [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
 - [CS 007: Personal Finance for Engineers](https://cs007.blog/)
-- [Quanta Magazine](https://www.quantamagazine.org/infinite-patterns-appear-in-numbers-described-as-moving-systems-20221205/)
-- [Helix 22.12](https://helix-editor.com/news/release-22-12-highlights/)
-- [Nigeria bans ATM cash withdrawals over $225 a week to force use of CBDC](https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc)
-- [Driving Amazon’s electric delivery vehicle: Rivian EDV [video]](https://www.youtube.com/watch?v=3TFz1xqp3us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
