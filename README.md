@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A bookmarklet to remove submissions and comments about ChatGPT from HN](https://news.ycombinator.com/item?id=33890678)
+- [CS 007: Personal Finance for Engineers](https://cs007.blog/)
+- [Quanta Magazine](https://www.quantamagazine.org/infinite-patterns-appear-in-numbers-described-as-moving-systems-20221205/)
+- [Helix 22.12](https://helix-editor.com/news/release-22-12-highlights/)
+- [Nigeria bans ATM cash withdrawals over $225 a week to force use of CBDC](https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc)
 - [Driving Amazon’s electric delivery vehicle: Rivian EDV [video]](https://www.youtube.com/watch?v=3TFz1xqp3us)
-- [The Interrotron](https://telepromptermirror.com/errol-morris-interrotron/)
-- [VSCode remote code execution advisory](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
-- [Boeing’s last 747 is rolling out of the factory](https://www.cnbc.com/2022/12/06/boeing-747-production-is-ending-with-shift-to-twin-engine-jets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
