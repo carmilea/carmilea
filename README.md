@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Interrotron](https://telepromptermirror.com/errol-morris-interrotron/)
+- [VSCode remote code execution advisory](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
 - [Caterpillar offers phone with built-in FLIR camera](https://www.catphones.com/en-us/cat-s62-pro-smartphone/)
 - [Beware of the perfect gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
 - [What I&#39;d like to see in Emacs](https://emacsconf.org/2022/talks/rms/)
-- [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
-- [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
