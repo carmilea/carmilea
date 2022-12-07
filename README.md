@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slai &lpar;YC W22&rpar; is hiring an SRE to solve low-level GPU scaling challenges](https://serverlessai.notion.site/SRE-DevOps-Engineer-e5bc6e06b72f4c16bba61ad3fe369528)
+- [Ian Fleming Explains How to Write a Thriller](https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/)
+- [Ask HN: Why doesn&#39;t archive.today get shut down?](https://news.ycombinator.com/item?id=33896284)
 - [Plaid Layoffs](https://plaid.com/team-update/)
-- [Configuring Your Outbound Webhook Requests with Static IPs](https://getconvoy.io/blog/configuring-your-outbound-webhook-requests-with-static-ips/)
-- [Dora: A open-source Rust DHCP Server](https://github.com/bluecatengineering/dora)
-- [Abstraction Is Expensive](https://specbranch.com/posts/expensive-abstraction/)
-- [Go and SQLite in the Cloud](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud)
+- [What Is a Real-Time Analytics Database?](https://www.singlestore.com/blog/what-is-a-real-time-analytics-database)
 <!-- BLOG-POST-LIST:END -->
 
 ---
