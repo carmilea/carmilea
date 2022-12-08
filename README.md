@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AlphaCode by DeepMind](https://alphacode.deepmind.com/)
-- [Asbestos Cigarette Filters](https://www.asbestos.com/products/cigarette-filters/)
+- [Why I&#39;m less than infinitely hostile to cryptocurrency](https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile)
+- [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
+- [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
+- [Asbestos Cigarette Filters &lpar;2018&rpar;](https://www.asbestos.com/products/cigarette-filters/)
 - [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring senior software engineers](https://news.ycombinator.com/item?id=33913332)
-- [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
