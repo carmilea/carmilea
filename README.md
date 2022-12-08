@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking on a plane: Leaking data of millions and taking over any account](https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html)
+- [Not a Monad Tutorial](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html)
+- [There aren&#39;t enough remote jobs to go around](https://www.chartr.co/stories/2022-11-30-1-demand-and-supply-for-remote-jobs)
 - [Show HN: Wasp – DSL/framework for building full-stack web apps – now in beta](https://news.ycombinator.com/item?id=33910997)
-- [Xiaomi’s Humanoid Drummer Beats Expectations](https://spectrum.ieee.org/xiaomi-robot-drummer)
-- [A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142)
-- [Show HN: Hnpdf.com – Quick Access to PDFs Shared on Hacker News](https://hnpdf.com/latest)
-- [Banner &lpar;YC S19&rpar; Is Hiring a Senior PM](https://www.ycombinator.com/companies/banner/jobs/MeC2JUn-senior-product-manager)
+- [Telemetry is now optional in Warp &lpar;the Rust-based terminal&rpar;](https://www.warp.dev/blog/telemetry-now-optional-in-warp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
