@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33913332)
+- [AlphaCode by DeepMind](https://alphacode.deepmind.com/)
+- [Asbestos Cigarette Filters](https://www.asbestos.com/products/cigarette-filters/)
+- [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring senior software engineers](https://news.ycombinator.com/item?id=33913332)
 - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
-- [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
-- [BlackRock 2023 Outlook [pdf]](https://www.blackrock.com/corporate)
-- [How PostScript kickstarted desktop publishing](https://spectrum.ieee.org/adobe-postscript-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
