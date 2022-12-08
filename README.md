@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8.2 Released](https://www.php.net/releases/8.2/en.php)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Director of FP&amp;A](https://www.themuse.com/jobs/themuse/sr-director-of-financial-planning-analysis)
+- [Tell HN: Travis CI is seemingly compromised &lpar;once again&rpar;](https://news.ycombinator.com/item?id=33906591)
 - [Show HN: Ezy – open-source gRPC client, alternative to Postman and Insomnia](https://github.com/getezy/ezy/releases/tag/v1.0.0-beta.13.2)
 - [What comes up when you flush](https://www.colorado.edu/today/2022/12/08/cu-scientists-shine-light-what-comes-when-you-flush)
-- [Ask HN: What are your goals for 2023?](https://news.ycombinator.com/item?id=33906133)
-- [Artificial intelligence is permeating business at last](https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last)
-- [Fermilab/CERN recommendation for Linux distribution](https://news.fnal.gov/2022/12/fermilab-cern-recommendation-for-linux-distribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
