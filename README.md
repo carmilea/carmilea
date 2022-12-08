@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Wasp – DSL/framework for building full-stack web apps – now in beta](https://news.ycombinator.com/item?id=33910997)
+- [Xiaomi’s Humanoid Drummer Beats Expectations](https://spectrum.ieee.org/xiaomi-robot-drummer)
+- [A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142)
+- [Show HN: Hnpdf.com – Quick Access to PDFs Shared on Hacker News](https://hnpdf.com/latest)
 - [Banner &lpar;YC S19&rpar; Is Hiring a Senior PM](https://www.ycombinator.com/companies/banner/jobs/MeC2JUn-senior-product-manager)
-- [Edge-compatible Serverless Driver for Postgres](https://neon.tech/blog/serverless-driver-for-postgres/)
-- [Show HN: 0xFast – 10x Faster Web3 APIs](https://www.0xfast.com)
-- [Adventures in Creating a Minimal Alpine Linux Installer](https://bt.ht/alpine/)
-- [Everything SBF is doing is in singular pursuit of not going to jail](https://newsletter.mollywhite.net/p/everything-sam-bankman-fried-is-doing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
