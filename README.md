@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Significant overload’ caused Norway’s timber bridge collapse](https://www.newcivilengineer.com/latest/significant-overload-caused-norways-timber-bridge-collapse-05-12-2022/)
+- [Ideas That Changed My Life](https://collabfund.com/blog/ideas-that-changed-my-life/)
+- [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
+- [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [PHP 8.2 Released](https://www.php.net/releases/8.2/en.php)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Director of FP&amp;A](https://www.themuse.com/jobs/themuse/sr-director-of-financial-planning-analysis)
-- [Tell HN: Travis CI is seemingly compromised &lpar;once again&rpar;](https://news.ycombinator.com/item?id=33906591)
-- [Show HN: Ezy – open-source gRPC client, alternative to Postman and Insomnia](https://github.com/getezy/ezy/releases/tag/v1.0.0-beta.13.2)
-- [What comes up when you flush](https://www.colorado.edu/today/2022/12/08/cu-scientists-shine-light-what-comes-when-you-flush)
 <!-- BLOG-POST-LIST:END -->
 
 ---
