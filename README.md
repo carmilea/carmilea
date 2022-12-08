@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: macOS Ventura broke the entire Raspberry Pi Pico ecosystem](https://news.ycombinator.com/item?id=33903147)
-- [Soil in Midwestern US is Eroding 10 to 1k Times Faster than it Forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
+- [Effectivealtruism.org purchased a £15M estate for its headquarters in 2021](https://twitter.com/paulmainwood/status/1600433194691502081)
+- [5000x Faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
+- [Soil in Midwestern US is eroding 10 to 1k times faster than it forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
 - [Boris, a tradeoff-oriented goal-setting process](https://vaughntan.org/unpacking-boris)
 - [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
-- [TSMC founder Morris Chang says globalization &#39;almost dead&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
