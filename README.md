@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Codon: A high-performance Python compiler using LLVM](https://github.com/exaloop/codon)
+- [The Sad Story of Heisenberg&#39;s Doctoral Oral Exam &lpar;1998&rpar;](https://www.aps.org/publications/apsnews/199801/heisenberg.cfm)
+- [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
+- [Ending support for Gitpod Self Hosted and moving our source to AGPL](https://github.com/gitpod-io/website/blob/main/src/routes/blog/introducing-gitpod-dedicated.md)
 - [Ask HN: Are things getting more convenient but less satisfying?](https://news.ycombinator.com/item?id=33907357)
-- [‘Significant overload’ caused Norway’s timber bridge collapse](https://www.newcivilengineer.com/latest/significant-overload-caused-norways-timber-bridge-collapse-05-12-2022/)
-- [Ideas that changed my life](https://collabfund.com/blog/ideas-that-changed-my-life/)
-- [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
-- [Mars helicopter Ingenuity soars higher than ever on 35th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-altitude-record-35th-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
