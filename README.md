@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
+- [TSMC founder Morris Chang says globalization &#39;almost dead&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
+- [Precise atom manipulation through deep reinforcement learning](https://www.nature.com/articles/s41467-022-35149-w)
 - [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
-- [Theranos exec Sunny Balwani sentenced to 13 years in prison](https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/)
-- [Two new books explore the upside of big data and AI](https://www.economist.com/culture/2022/11/30/two-new-books-explore-the-upside-of-big-data-and-ai)
-- [CircleCI Layoffs](https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/)
-- [Avenue &lpar;YC W21&rpar; is hiring software engineers in NYC &lpar;React/TypeScript/tRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
+- [Tabs and Makefile &lpar;2015&rpar;](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
