@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Are things getting more convenient but less satisfying?](https://news.ycombinator.com/item?id=33907357)
 - [‘Significant overload’ caused Norway’s timber bridge collapse](https://www.newcivilengineer.com/latest/significant-overload-caused-norways-timber-bridge-collapse-05-12-2022/)
-- [Ideas That Changed My Life](https://collabfund.com/blog/ideas-that-changed-my-life/)
+- [Ideas that changed my life](https://collabfund.com/blog/ideas-that-changed-my-life/)
 - [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
-- [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
-- [PHP 8.2 Released](https://www.php.net/releases/8.2/en.php)
+- [Mars helicopter Ingenuity soars higher than ever on 35th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-altitude-record-35th-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
