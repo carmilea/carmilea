@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ezy – open-source gRPC client, alternative to Postman and Insomnia](https://github.com/getezy/ezy/releases/tag/v1.0.0-beta.13.2)
+- [What comes up when you flush](https://www.colorado.edu/today/2022/12/08/cu-scientists-shine-light-what-comes-when-you-flush)
+- [Ask HN: What are your goals for 2023?](https://news.ycombinator.com/item?id=33906133)
 - [Artificial intelligence is permeating business at last](https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last)
 - [Fermilab/CERN recommendation for Linux distribution](https://news.fnal.gov/2022/12/fermilab-cern-recommendation-for-linux-distribution/)
-- [Organ donations, transplants increase on days of largest motorcycle rallies](https://hms.harvard.edu/news/organ-donations-transplants-increase-days-largest-motorcycle-rallies)
-- [I liberate the ending to Minecraft from Microsoft and give it to you](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
-- [Pulling MikroTik into the Limelight Demystifying and Jailbreaking RouterS](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
