@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adventures in Teletext Recovery](https://www.andrewnile.co.uk/blog/adventures-in-teletext-recovery/)
-- [FTC seeks to block Microsoft&#39;s acquisition of Activision Blizzard](https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc)
-- [Systemd.timer, an Alternative to Cron](https://andrewpillar.com/programming/2022/12/08/systemd-timer-an-alternative-to-cron/)
-- [Airtable, last valued at $11B for its no-code software, lays off over 250](https://techcrunch.com/2022/12/08/airtable-layoffs/)
-- [Hacking on a plane: Leaking data of millions and taking over any account](https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33913332)
+- [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
+- [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
+- [BlackRock 2023 Outlook [pdf]](https://www.blackrock.com/corporate)
+- [How PostScript kickstarted desktop publishing](https://spectrum.ieee.org/adobe-postscript-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
