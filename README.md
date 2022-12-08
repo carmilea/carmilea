@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Soil in Midwestern US is Eroding 10 to 1k Times Faster than it Forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
 - [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
 - [TSMC founder Morris Chang says globalization &#39;almost dead&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
 - [Precise atom manipulation through deep reinforcement learning](https://www.nature.com/articles/s41467-022-35149-w)
 - [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
-- [Tabs and Makefile &lpar;2015&rpar;](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
