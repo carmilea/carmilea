@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adventures in Teletext Recovery](https://www.andrewnile.co.uk/blog/adventures-in-teletext-recovery/)
+- [FTC seeks to block Microsoft&#39;s acquisition of Activision Blizzard](https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc)
+- [Systemd.timer, an Alternative to Cron](https://andrewpillar.com/programming/2022/12/08/systemd-timer-an-alternative-to-cron/)
+- [Airtable, last valued at $11B for its no-code software, lays off over 250](https://techcrunch.com/2022/12/08/airtable-layoffs/)
 - [Hacking on a plane: Leaking data of millions and taking over any account](https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html)
-- [Not a Monad Tutorial](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html)
-- [There aren&#39;t enough remote jobs to go around](https://www.chartr.co/stories/2022-11-30-1-demand-and-supply-for-remote-jobs)
-- [Show HN: Wasp – DSL/framework for building full-stack web apps – now in beta](https://news.ycombinator.com/item?id=33910997)
-- [Telemetry is now optional in Warp &lpar;the Rust-based terminal&rpar;](https://www.warp.dev/blog/telemetry-now-optional-in-warp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
