@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: 0xFast – 10x Faster Web3 APIs](https://www.0xfast.com)
+- [Adventures in Creating a Minimal Alpine Linux Installer](https://bt.ht/alpine/)
+- [Everything SBF is doing is in singular pursuit of not going to jail](https://newsletter.mollywhite.net/p/everything-sam-bankman-fried-is-doing)
 - [Codon: A high-performance Python compiler using LLVM](https://github.com/exaloop/codon)
 - [The Sad Story of Heisenberg&#39;s Doctoral Oral Exam &lpar;1998&rpar;](https://www.aps.org/publications/apsnews/199801/heisenberg.cfm)
-- [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
-- [Ending support for Gitpod Self Hosted and moving our source to AGPL](https://github.com/gitpod-io/website/blob/main/src/routes/blog/introducing-gitpod-dedicated.md)
-- [Ask HN: Are things getting more convenient but less satisfying?](https://news.ycombinator.com/item?id=33907357)
 <!-- BLOG-POST-LIST:END -->
 
 ---
