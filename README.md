@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artificial intelligence is permeating business at last](https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last)
 - [Fermilab/CERN recommendation for Linux distribution](https://news.fnal.gov/2022/12/fermilab-cern-recommendation-for-linux-distribution/)
 - [Organ donations, transplants increase on days of largest motorcycle rallies](https://hms.harvard.edu/news/organ-donations-transplants-increase-days-largest-motorcycle-rallies)
 - [I liberate the ending to Minecraft from Microsoft and give it to you](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
 - [Pulling MikroTik into the Limelight Demystifying and Jailbreaking RouterS](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
-- [You don&#39;t need live chat on your website](https://timharek.no/blog/you-dont-need-chat-on-your-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
