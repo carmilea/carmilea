@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fermilab/CERN recommendation for Linux distribution](https://news.fnal.gov/2022/12/fermilab-cern-recommendation-for-linux-distribution/)
 - [Effectivealtruism.org purchased a £15M estate for its headquarters in 2021](https://twitter.com/paulmainwood/status/1600433194691502081)
-- [5000x Faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
+- [5000x faster CRDTs: An adventure in optimization &lpar;2021&rpar;](https://josephg.com/blog/crdts-go-brrr/)
+- [Intel is using DXVK for their Windows Arc GPU DX9 drivers](https://www.gamingonlinux.com/2022/12/intel-using-dxvk-part-of-steam-proton-for-their-windows-arc-gpu-dx-9-drivers/)
 - [Soil in Midwestern US is eroding 10 to 1k times faster than it forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
-- [Boris, a tradeoff-oriented goal-setting process](https://vaughntan.org/unpacking-boris)
-- [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
