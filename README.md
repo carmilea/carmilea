@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
 - [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
 - [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
-- [SWR 2.0](https://swr.vercel.app/blog/swr-v2)
-- [The case for speed limits [on German autobahn]](https://blog.datawrapper.de/the-case-for-speed-limits/)
-- [Uxn is a virtual machine with 32 instructions](https://wiki.xxiivv.com/site/uxn.html)
+- [SWR 2.0 – React Hooks for Data Fetching](https://swr.vercel.app/blog/swr-v2)
+- [Debunking common myths about the Autobahn](https://blog.datawrapper.de/the-case-for-speed-limits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
