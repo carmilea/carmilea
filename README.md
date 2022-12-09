@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Versatile Metallic Finish for CSS](https://www.metallicss.com)
 - [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=33920330)
 - [Is America Stealing TSMC?](https://www.youtube.com/watch?v=rzZC6aFsk3M)
 - [PipeWire 0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
 - [Stripe’s Pricing Breakdown](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer)
-- [All in with Nuitka](https://nuitka.net/posts/all-in-with-nuitka.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
