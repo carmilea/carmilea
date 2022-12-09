@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=33920330)
+- [Is America Stealing TSMC?](https://www.youtube.com/watch?v=rzZC6aFsk3M)
+- [PipeWire 0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
+- [Stripe’s Pricing Breakdown](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer)
 - [All in with Nuitka](https://nuitka.net/posts/all-in-with-nuitka.html)
-- [Internet Archive Scholar](https://scholar.archive.org/)
-- [Ask HN: Can ChatGPT generate fully functional code?](https://news.ycombinator.com/item?id=33919451)
-- [Experiment: The costs of slow build times](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
-- [Delimiter-First Code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
