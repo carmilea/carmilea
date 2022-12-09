@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
+- [A 17-line C program freezes the Mac kernel &lpar;2018&rpar;](https://jvns.ca/blog/2018/01/28/mac-freeze/)
+- [Show HN: LearnGPT – Browse and share ChatGPT examples](https://www.learngpt.com/)
 - [Vite 4.0](https://vitejs.dev/blog/announcing-vite4.html)
 - [Ask HN: What is the best income stream you have created till date?](https://news.ycombinator.com/item?id=33923137)
-- [Japan’s Jimi ‘Mundane’ Halloween Costumes of 2022](https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/)
-- [Show HN: Pynecone – Web Apps in Pure Python](https://github.com/pynecone-io/pynecone)
-- [DeepMind Dramatron: a new tool for writers to co-write theatre and film scripts](https://deepmind.github.io/dramatron/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
