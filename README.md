@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas bill would ban social media for children under 18](https://www.fox4news.com/news/texas-bill-would-ban-social-media-for-children-under-18)
+- [Glow: Render Markdown on the CLI](https://github.com/charmbracelet/glow)
 - [Fireship – Learn to Code Faster](https://fireship.io/)
 - [Show HN: I fine-tuned Flan-T5. Can it cook?](https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook)
 - [The Internet during world war](https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war)
