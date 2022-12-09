@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI for OAuth 2.0](https://github.com/cloudentity/oauth2c)
 - [Show HN: Versatile Metallic Finish for CSS](https://www.metallicss.com)
 - [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=33920330)
-- [Is America Stealing TSMC?](https://www.youtube.com/watch?v=rzZC6aFsk3M)
+- [Iranian Officials Asking Venezuela for Asylum in Case of Regime Change](https://www.iranintl.com/en/202212077198)
 - [PipeWire 0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
-- [Stripe’s Pricing Breakdown](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
