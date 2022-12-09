@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome, 10 Years Later](https://neugierig.org/software/blog/2022/12/chrome.html)
+- [Love and Death in the Cape Fear Serpentarium](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
+- [Introducing passkeys in Chrome](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
 - [Ask HN: What Is Going on with Neo4j?](https://news.ycombinator.com/item?id=33916240)
 - [We have to build differently with concrete](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
-- [Incident affecting Google Ad Manager](https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB)
-- [Dallas midair tragedy: New videos show startling change in flight path of p-63](https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/)
-- [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
