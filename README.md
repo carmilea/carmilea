@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Going on with Neo4j?](https://news.ycombinator.com/item?id=33916240)
+- [Concrete Built the Modern World. Now It’s Destroying It](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
+- [Ads are down across the internet – Google Ad Manager Outage](https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB)
 - [Dallas midair tragedy: New videos show startling change in flight path of p-63](https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/)
 - [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
-- [Taking a Walk Across the Internet](https://www.moma.org/magazine/articles/677)
-- [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
-- [Asbestos Cigarette Filters &lpar;2018&rpar;](https://www.asbestos.com/products/cigarette-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
