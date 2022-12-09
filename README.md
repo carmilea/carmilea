@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Developer abused “sign in with GitHub” and users are being punished](https://news.ycombinator.com/item?id=33917962)
 - [Chrome, 10 Years Later](https://neugierig.org/software/blog/2022/12/chrome.html)
-- [Love and Death in the Cape Fear Serpentarium](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
+- [Love and Death in the Cape Fear Serpentarium &lpar;2017&rpar;](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
 - [Introducing passkeys in Chrome](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
 - [Ask HN: What Is Going on with Neo4j?](https://news.ycombinator.com/item?id=33916240)
-- [We have to build differently with concrete](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
