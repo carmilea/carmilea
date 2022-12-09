@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Japan’s Jimi ‘Mundane’ Halloween Costumes of 2022](https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/)
+- [Show HN: Pynecone – Web Apps in Pure Python](https://github.com/pynecone-io/pynecone)
 - [Volatile pay for gig workers linked to health problems](https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems)
-- [Electric car sales drive toward cleaner air, less mortality](https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality)
 - [The various scripts I use to back up my home computers using SSH and rsync](https://github.com/eamonnsullivan/backup-scripts)
 - [Facebook tracking is illegal in Europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
 <!-- BLOG-POST-LIST:END -->
