@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m less than infinitely hostile to cryptocurrency](https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile)
+- [Dallas midair tragedy: New videos show startling change in flight path of p-63](https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/)
 - [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
+- [Taking a Walk Across the Internet](https://www.moma.org/magazine/articles/677)
 - [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
 - [Asbestos Cigarette Filters &lpar;2018&rpar;](https://www.asbestos.com/products/cigarette-filters/)
-- [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
