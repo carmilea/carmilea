@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are your technology trends predictions for 2023?](https://news.ycombinator.com/item?id=33919535)
+- [All in with Nuitka](https://nuitka.net/posts/all-in-with-nuitka.html)
+- [Internet Archive Scholar](https://scholar.archive.org/)
 - [Ask HN: Can ChatGPT generate fully functional code?](https://news.ycombinator.com/item?id=33919451)
 - [Experiment: The costs of slow build times](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
 - [Delimiter-First Code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
-- [Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
