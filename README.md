@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI for OAuth 2.0](https://github.com/cloudentity/oauth2c)
-- [Show HN: Versatile Metallic Finish for CSS](https://www.metallicss.com)
-- [KaiPod Learning &lpar;YC S21&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=33920330)
-- [Iranian Officials Asking Venezuela for Asylum in Case of Regime Change](https://www.iranintl.com/en/202212077198)
-- [PipeWire 0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
+- [Win for privacy: Facebook tracking is illegal in Europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
+- [GB National Grid Status](http://www.gridwatch.templar.co.uk/)
+- [Neovim Conf 2022](https://www.neovimconf.live/)
+- [Russia’s apparent resilience is being kept up by policy tricks and cash](https://archive.vn/6EXTd)
+- [A Practical Guide to CSS Media Queries](https://stackdiary.com/css-media-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
