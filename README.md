@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
-- [A 17-line C program freezes the Mac kernel &lpar;2018&rpar;](https://jvns.ca/blog/2018/01/28/mac-freeze/)
-- [Show HN: LearnGPT – Browse and share ChatGPT examples](https://www.learngpt.com/)
-- [Vite 4.0](https://vitejs.dev/blog/announcing-vite4.html)
-- [Ask HN: What is the best income stream you have created till date?](https://news.ycombinator.com/item?id=33923137)
+- [Texas bill would ban social media for children under 18](https://www.fox4news.com/news/texas-bill-would-ban-social-media-for-children-under-18)
+- [Fireship – Learn to Code Faster](https://fireship.io/)
+- [Show HN: I fine-tuned Flan-T5. Can it cook?](https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook)
+- [The Internet during world war](https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war)
+- [How I got involved in the Rust community](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
