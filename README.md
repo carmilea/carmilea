@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Glow: Render Markdown on the CLI](https://github.com/charmbracelet/glow)
-- [Fireship – Learn to Code Faster](https://fireship.io/)
-- [Show HN: I fine-tuned Flan-T5. Can it cook?](https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook)
-- [The Internet during world war](https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war)
-- [How I got involved in the Rust community](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/)
+- [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
+- [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
+- [SWR 2.0](https://swr.vercel.app/blog/swr-v2)
+- [The case for speed limits [on German autobahn]](https://blog.datawrapper.de/the-case-for-speed-limits/)
+- [Uxn is a virtual machine with 32 instructions](https://wiki.xxiivv.com/site/uxn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
