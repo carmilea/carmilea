@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Win for privacy: Facebook tracking is illegal in Europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
-- [GB National Grid Status](http://www.gridwatch.templar.co.uk/)
-- [Neovim Conf 2022](https://www.neovimconf.live/)
-- [Russia’s apparent resilience is being kept up by policy tricks and cash](https://archive.vn/6EXTd)
-- [A Practical Guide to CSS Media Queries](https://stackdiary.com/css-media-queries/)
+- [Japan’s Jimi ‘Mundane’ Halloween Costumes of 2022](https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/)
+- [Volatile pay for gig workers linked to health problems](https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems)
+- [Electric car sales drive toward cleaner air, less mortality](https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality)
+- [The various scripts I use to back up my home computers using SSH and rsync](https://github.com/eamonnsullivan/backup-scripts)
+- [Facebook tracking is illegal in Europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
