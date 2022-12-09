@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NHS waiting lists in England hitting new high of 7.2M people](https://www.itv.com/news/2022-12-08/number-of-people-in-england-waiting-to-start-hospital-treatment-hits-record-high)
+- [Experiment: The costs of slow build times](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
+- [Delimiter-First Code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 - [Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices/)
 - [Ask HN: Developer abused “sign in with GitHub” and users are being punished](https://news.ycombinator.com/item?id=33917962)
-- [Chrome, 10 Years Later](https://neugierig.org/software/blog/2022/12/chrome.html)
-- [Love and Death in the Cape Fear Serpentarium &lpar;2017&rpar;](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
-- [We have to build differently with concrete](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
