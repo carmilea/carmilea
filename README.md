@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
 - [Tell HN: HP printers force you into agreement](https://news.ycombinator.com/item?id=33936862)
 - [Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity &lpar;1994&rpar; [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
 - [The Making of Toy Story &lpar;1996&rpar; [pdf]](http://people.uncw.edu/ricanekk/teaching/spring09/csc100/lectures/pattersone/TheMakingOfToyStory.pdf)
 - [Simulated wormholes for my real friends, real wormholes for my simulated friends](https://4gravitons.com/2022/12/09/simulated-wormholes-for-my-real-friends-real-wormholes-for-my-simulated-friends/)
-- [Sign in with Google has been removed for your privacy](https://slimvoice.co/login)
 <!-- BLOG-POST-LIST:END -->
 
 ---
