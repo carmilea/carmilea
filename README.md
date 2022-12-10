@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthesizing optimal 8051 code with an SMT solver &lpar;2020&rpar;](https://lab.whitequark.org/notes/2020-04-06/synthesizing-optimal-8051-code/)
-- [We&#39;re breaking up with JavaScript front ends](http://triskweline.de/unpoly-rugb/#/)
-- [What Causes Alzheimer&#39;s? Scientists Are Rethinking the Answer](https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/)
-- [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
-- [Exclusive satellite images show Saudi Arabia&#39;s sci-fi megacity is well underway](https://www.technologyreview.com/2022/12/09/1064544/satellite-images-line-megacity-google/)
+- [Yale’s 367-year-old water bond still pays interest](https://news.yale.edu/2015/09/22/living-artifact-dutch-golden-age-yale-s-367-year-old-water-bond-still-pays-interest)
+- [Fuel Out of Thin Air: CO2 Capture from Air and Conversion to Methanol](https://research.american.edu/carbonremoval/2020/09/29/fuel-out-of-thin-air-co2-capture-from-air-and-conversion-to-methanol/)
+- [Miracast](https://github.com/albfan/miraclecast)
+- [What Happens When Jobs Are Guaranteed?](https://www.newyorker.com/news/annals-of-inquiry/what-happens-when-jobs-are-guaranteed)
+- [Louis Rossmann explains why he left New York](https://www.youtube.com/watch?v=nSlGTVInDOI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
