@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 - [Tesla calls self-driving technology &#39;failure,&#39; not fraud](https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud)
 - [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
-- [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+- [Bags of cash found at the home of the European Parliament vice-president](https://www.ekathimerini.com/news/1199951/cash-found-in-mep-kailis-brussels-home-reports/)
 - [JPEG XL support has officially been removed from Chromium](https://chromium-review.googlesource.com/c/chromium/src/+/4081749)
-- [Ask HN: How to get back into AI?](https://news.ycombinator.com/item?id=33932594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
