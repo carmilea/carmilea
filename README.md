@@ -55,7 +55,7 @@
 - [mimmutable&lpar;&rpar; for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
 - [A fake job offer gone wrong](https://indeedjobscam.pages.dev/)
 - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
-- [Scrum has failed the developers](https://ageling.substack.com/p/scrum-has-failed-the-developers-547dfe09cc53)
+- [The price of ‘sugar free’: are sweeteners as harmless as we thought?](https://www.theguardian.com/lifeandstyle/2022/dec/08/artificial-sweeteners-price-of-sugar-free-are-they-as-harmless-as-we-thought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
