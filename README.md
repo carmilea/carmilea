@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Practically-Exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 - [This to That](https://www.thistothat.com/)
 - [Concrete Arrows and the U.S. Airmail Beacon System &lpar;2013&rpar;](https://sometimes-interesting.com/concrete-arrows-and-the-u-s-airmail-beacon-system/)
 - [mimmutable&lpar;&rpar; for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
 - [A fake job offer gone wrong](https://indeedjobscam.pages.dev/)
-- [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
