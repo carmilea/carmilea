@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthesizing optimal 8051 code with an SMT solver &lpar;2020&rpar;](https://lab.whitequark.org/notes/2020-04-06/synthesizing-optimal-8051-code/)
+- [We&#39;re breaking up with JavaScript front ends](http://triskweline.de/unpoly-rugb/#/)
+- [What Causes Alzheimer&#39;s? Scientists Are Rethinking the Answer](https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/)
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
-- [Tesla calls self-driving technology &#39;failure,&#39; not fraud](https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud)
-- [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
-- [Bags of cash found at the home of the European Parliament vice-president](https://www.ekathimerini.com/news/1199951/cash-found-in-mep-kailis-brussels-home-reports/)
-- [JPEG XL support has officially been removed from Chromium](https://chromium-review.googlesource.com/c/chromium/src/+/4081749)
+- [Exclusive satellite images show Saudi Arabia&#39;s sci-fi megacity is well underway](https://www.technologyreview.com/2022/12/09/1064544/satellite-images-line-megacity-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
