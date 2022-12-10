@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grant Wahl last article “They just don’t care.”](https://grantwahl.substack.com/p/world-cup-daily-day-25)
-- [Practically-Exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
-- [This to That](https://www.thistothat.com/)
-- [Concrete Arrows and the U.S. Airmail Beacon System &lpar;2013&rpar;](https://sometimes-interesting.com/concrete-arrows-and-the-u-s-airmail-beacon-system/)
-- [mimmutable&lpar;&rpar; for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
+- [Show HN: Pg_CRDT – an experimental CRDT extension for Postgres](https://supabase.com/blog/postgres-crdt)
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [New Chrome features to save battery and make browsing smoother](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/)
+- [Twitter Office Supply Auction](https://www.bidspotter.com/en-us/auction-catalogues/heritage-global-partners/catalogue-id-herita10194)
+- [Show HN: Interactive exercises for Linux CLI text processing commands](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
