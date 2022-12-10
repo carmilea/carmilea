@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grant Wahl last article “They just don’t care.”](https://grantwahl.substack.com/p/world-cup-daily-day-25)
 - [Practically-Exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 - [This to That](https://www.thistothat.com/)
 - [Concrete Arrows and the U.S. Airmail Beacon System &lpar;2013&rpar;](https://sometimes-interesting.com/concrete-arrows-and-the-u-s-airmail-beacon-system/)
 - [mimmutable&lpar;&rpar; for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
-- [A fake job offer gone wrong](https://indeedjobscam.pages.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
