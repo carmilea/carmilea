@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla calls self-driving technology &#39;failure,&#39; not fraud](https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud)
+- [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
+- [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 - [JPEG XL support has officially been removed from Chromium](https://chromium-review.googlesource.com/c/chromium/src/+/4081749)
 - [Ask HN: How to get back into AI?](https://news.ycombinator.com/item?id=33932594)
-- [European parliament VP taken into custody](https://www.dw.com/en/european-parliament-vp-taken-into-custody/a-64047127)
-- [The Plan-9 Effect or why you should not fix it if it ain&#39;t broken &lpar;2016&rpar;](http://groups.di.unipi.it/~nids/docs/the_plan-9_effect.html)
-- [Show HN: Pg_CRDT – an experimental CRDT extension for Postgres](https://supabase.com/blog/postgres-crdt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
