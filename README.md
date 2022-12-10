@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An alarming number of US homebuyers are underwater](https://www.cbsnews.com/news/home-prices-underwater-mortgage/)
+- [How pencil tire pressure gauges work](https://blog.oppedahl.com/?p=8599)
 - [Renewal of .dev domain with Google costs $850](https://twitter.com/emirkarsiyakali/status/1601373440979525632)
 - [AT&amp;T Long Lines – A Forgotten System &lpar;2018&rpar;](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
 - [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
-- [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
-- [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
