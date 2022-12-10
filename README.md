@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European parliament VP taken into custody](https://www.dw.com/en/european-parliament-vp-taken-into-custody/a-64047127)
+- [The Plan-9 Effect or why you should not fix it if it ain&#39;t broken](http://groups.di.unipi.it/~nids/docs/the_plan-9_effect.html)
 - [Show HN: Pg_CRDT – an experimental CRDT extension for Postgres](https://supabase.com/blog/postgres-crdt)
 - [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
 - [New Chrome features to save battery and make browsing smoother](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/)
-- [Twitter Office Supply Auction](https://www.bidspotter.com/en-us/auction-catalogues/heritage-global-partners/catalogue-id-herita10194)
-- [Show HN: Interactive exercises for Linux CLI text processing commands](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
