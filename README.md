@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An alarming number of US homebuyers are underwater](https://www.cbsnews.com/news/home-prices-underwater-mortgage/)
+- [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
+- [Scrum Has Failed the Developers](https://ageling.substack.com/p/scrum-has-failed-the-developers-547dfe09cc53)
+- [The price of ‘sugar free’: are sweeteners as harmless as we thought?](https://www.theguardian.com/lifeandstyle/2022/dec/08/artificial-sweeteners-price-of-sugar-free-are-they-as-harmless-as-we-thought)
+- [Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [How pencil tire pressure gauges work](https://blog.oppedahl.com/?p=8599)
-- [Renewal of .dev domain with Google costs $850](https://twitter.com/emirkarsiyakali/status/1601373440979525632)
-- [AT&amp;T Long Lines – A Forgotten System &lpar;2018&rpar;](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
-- [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
