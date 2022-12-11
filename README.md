@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IPv6 Internet Is Broken: He vs. Cogent](https://adminhacks.com/broken-IPv6.html)
 - [Systematic, Ontological, Undiscovered Fact Finding Logic Engine](https://souffle-lang.github.io/)
 - [U.S. battery storage capacity to increase significantly](https://www.eia.gov/todayinenergy/detail.php?id=54939)
 - [Asia’s advanced economies now have lower birth rates than Japan](https://www.economist.com/asia/2022/05/19/asias-advanced-economies-now-have-lower-birth-rates-than-japan)
-- [CNC Gothic Stone Carving by the Carmelite Monks](https://carmelitegothic.com/cnc-stone-carving/)
-- [Building a walking routine](https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build)
+- [Jet Automatic Hypodermic Injection Apparatus – Vaccine Gun &lpar;2021&rpar;](https://americanhistory.si.edu/collections/search/object/nmah_1411247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
