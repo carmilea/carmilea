@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Highway EV charging will need a ton of power – sooner than you think](https://www.canarymedia.com/articles/ev-charging/highway-ev-charging-will-need-a-ton-of-power-sooner-than-you-think)
+- [Getting Started with Tmux](https://ittavern.com/getting-started-with-tmux/)
 - [What happens to a smartphone when it gets stolen?](https://hachyderm.io/@em0/109494729273725207)
 - [Be wary of imitating high-status people who can afford to countersignal](https://robkhenderson.substack.com/p/the-perils-of-imitating-high-status)
 - [The GPT Architecture, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
-- [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
-- [Ask HN: Those with money-making side projects,how did you come up with the idea?](https://news.ycombinator.com/item?id=33942558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
