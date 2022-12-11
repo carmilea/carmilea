@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Dark Mode Good for Your Eyes? &lpar;2020&rpar;](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
+- [‘Diablo IV’ developers work long hours, bracing for impending release](https://www.washingtonpost.com/video-games/2022/12/08/diablo-iv-release-date-crunch/)
 - [Creating aerial imagery with a bike helmet camera &lpar;GoPro&rpar; and OpenDroneMap](https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Product Engineer](https://onesignal.com/careers/4004540006)
 - [Using GPT3 to Interpret Dreams](https://www.nightcap.guru/)
-- [GPT based tool that writes the commit message for you](https://github.com/KanHarI/gpt-commit-summarizer)
-- [Beyond Functional Programming: The Verse Programming Language [pdf]](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
