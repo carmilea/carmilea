@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Those with money-making side projects,how did you come up with the idea?](https://news.ycombinator.com/item?id=33942558)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
+- [Ask HN: Will AI put programmers our of work?](https://news.ycombinator.com/item?id=33941868)
+- [Webmention](https://www.w3.org/TR/webmention/)
 - [IPv6 Internet Is Broken: He vs. Cogent](https://adminhacks.com/broken-IPv6.html)
-- [USDD/Tron near collapse: USDD stablecoin below $0.97, reserve collateral drained](https://old.reddit.com/r/Buttcoin/comments/zijx5o/usddtron_are_about_to_collapse_usdd_justin_suns/)
-- [Unix&#39;s special way of marking login shells goes back to V2 Unix &lpar;at least&rpar;](https://utcc.utoronto.ca/~cks/space/blog/unix/LoginShellMarkerHistory)
-- [The Secret History of “Eeny Meeny Miny Mo”](https://www.theparisreview.org/blog/2015/04/16/losing-count/)
-- [Systematic, Ontological, Undiscovered Fact Finding Logic Engine](https://souffle-lang.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
