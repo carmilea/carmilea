@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NCC Group security audit for Google&#39;s One VPN service](https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/)
-- [The Tech Is Finally Good Enough for an Airship Revival](https://spectrum.ieee.org/airship)
-- [Biodiversity: Ocean &#39;dead zones&#39; are proliferating due to global warming](https://www.france24.com/en/environment/20221208-biodiversity-ocean-dead-zones-are-proliferating)
-- [The Reason Washington Is Silent on the FTX Fiasco - Bipartisan Donations](https://www.politico.com/news/magazine/2022/12/09/crypto-scandal-sam-bankman-fried-ftx-00073178)
-- [Richard Hipp Speaks Out on SQLite &lpar;2019&rpar; [pdf]](https://sigmodrecord.org/publications/sigmodRecord/1906/pdfs/06_Profiles_Hipp.pdf)
+- [Should HN ban ChatGPT/generated responses?](https://news.ycombinator.com/item?id=33945628)
+- [Orion has splashed down off the coast of Baja, California](https://twitter.com/nasa_orion/status/1601995706642071552)
+- [I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
+- [VPN by Google One security assessment](https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/)
+- [LTA Research’s Pathfinder 1](https://spectrum.ieee.org/airship)
 <!-- BLOG-POST-LIST:END -->
 
 ---
