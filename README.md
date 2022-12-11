@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Copyright denied as pose lacks originality](https://twitter.com/zemotion/status/1600529480099196928)
+- [Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/)
+- [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
+- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.bbc.com/news/health-63859184)
+- [Taming Names in Software Development](https://www.simplethread.com/taming-names-in-software-development/)
 - [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
-- [Fuzzing ping&lpar;8&rpar; and finding a 24 year old bug](https://tlakh.xyz/fuzzing-ping.html)
-- [Disputing a Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
-- [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
