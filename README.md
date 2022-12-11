@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European Parliament VP in Prison](https://en.protothema.gr/eva-kaili-in-prison-she-is-among-the-4-arrested-according-to-lecho-le-soir/)
+- [Not-so-great features coming soon to Windows 11](https://www.neowin.net/news/here-are-5-not-so-great-features-coming-soon-to-windows-11/)
+- [What are some of the best podcasts for developers?](https://news.ycombinator.com/item?id=33943707)
 - [Highway EV charging will need a ton of power – sooner than you think](https://www.canarymedia.com/articles/ev-charging/highway-ev-charging-will-need-a-ton-of-power-sooner-than-you-think)
 - [Getting Started with Tmux](https://ittavern.com/getting-started-with-tmux/)
-- [What happens to a smartphone when it gets stolen?](https://hachyderm.io/@em0/109494729273725207)
-- [Be wary of imitating high-status people who can afford to countersignal](https://robkhenderson.substack.com/p/the-perils-of-imitating-high-status)
-- [The GPT Architecture, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
