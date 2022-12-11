@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Toughest Material on Earth](https://phys.org/news/2022-12-toughest-material-earth.html)
-- [What&#39;s wrong with science and how to fix it: reflections after 2578 papers](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
-- [Ask HN: How do you protect your eyes while coding for long hours?](https://news.ycombinator.com/item?id=33945390)
-- [Orion has splashed down off the coast of Baja, California](https://twitter.com/nasa_orion/status/1601995706642071552)
-- [I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
+- [Video games made in the USSR](https://www.rbth.com/lifestyle/332384-video-games-soviet-russian-tetris)
+- [VR robots are building railways in Japan](https://virtualuncle.com/2022/04/26/giant-vr-robots-are-building-railways-in-japan/)
+- [Show HN: Mult.dev – zero-config alternative to Google Earth studio](https://mult.dev)
+- [A data-centric introduction to computing](https://dcic-world.org/2022-08-28/index.html)
+- [What&#39;s wrong with social science and how to fix it &lpar;2020&rpar;](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
