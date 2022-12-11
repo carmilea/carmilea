@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asia’s advanced economies now have lower birth rates than Japan](https://www.economist.com/asia/2022/05/19/asias-advanced-economies-now-have-lower-birth-rates-than-japan)
+- [CNC Gothic Stone Carving by the Carmelite Monks](https://carmelitegothic.com/cnc-stone-carving/)
 - [The Single Greatest Habit You Can Build](https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build)
 - [Ask HN: How does ChatGPT work?](https://news.ycombinator.com/item?id=33939805)
 - [Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/)
-- [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
-- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.bbc.com/news/health-63859184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
