@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should HN ban ChatGPT/generated responses?](https://news.ycombinator.com/item?id=33945628)
+- [The Toughest Material on Earth](https://phys.org/news/2022-12-toughest-material-earth.html)
+- [What&#39;s wrong with science and how to fix it: reflections after 2578 papers](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
+- [Ask HN: How do you protect your eyes while coding for long hours?](https://news.ycombinator.com/item?id=33945390)
 - [Orion has splashed down off the coast of Baja, California](https://twitter.com/nasa_orion/status/1601995706642071552)
 - [I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
-- [VPN by Google One security assessment](https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/)
-- [LTA Research’s Pathfinder 1](https://spectrum.ieee.org/airship)
 <!-- BLOG-POST-LIST:END -->
 
 ---
