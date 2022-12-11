@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens to a smartphone when it gets stolen?](https://hachyderm.io/@em0/109494729273725207)
+- [Be Wary of Imitating High-Status People Who Can Afford to Countersignal](https://robkhenderson.substack.com/p/the-perils-of-imitating-high-status)
+- [The GPT Architecture, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
+- [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 - [Ask HN: Those with money-making side projects,how did you come up with the idea?](https://news.ycombinator.com/item?id=33942558)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
-- [Ask HN: Will AI put programmers our of work?](https://news.ycombinator.com/item?id=33941868)
-- [Webmention](https://www.w3.org/TR/webmention/)
-- [IPv6 Internet Is Broken: He vs. Cogent](https://adminhacks.com/broken-IPv6.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
