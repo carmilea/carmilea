@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Copyright denied as pose lacks originality](https://twitter.com/zemotion/status/1600529480099196928)
-- [Airlines lobbying FAA to have only one pilot in the cockpit](https://www.cbsnews.com/news/one-pilot-in-cockpit-staffing-shortage-faa-part-121/)
+- [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
+- [Fuzzing ping&lpar;8&rpar; and finding a 24 year old bug](https://tlakh.xyz/fuzzing-ping.html)
 - [Disputing a Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 - [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
-- [Tell HN: HP printers force you into agreement](https://news.ycombinator.com/item?id=33936862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
