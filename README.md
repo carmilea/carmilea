@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [European Parliament VP in Prison](https://en.protothema.gr/eva-kaili-in-prison-she-is-among-the-4-arrested-according-to-lecho-le-soir/)
-- [Not-so-great features coming soon to Windows 11](https://www.neowin.net/news/here-are-5-not-so-great-features-coming-soon-to-windows-11/)
-- [What are some of the best podcasts for developers?](https://news.ycombinator.com/item?id=33943707)
-- [Highway EV charging will need a ton of power – sooner than you think](https://www.canarymedia.com/articles/ev-charging/highway-ev-charging-will-need-a-ton-of-power-sooner-than-you-think)
-- [Getting Started with Tmux](https://ittavern.com/getting-started-with-tmux/)
+- [NCC Group security audit for Google&#39;s One VPN service](https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/)
+- [The Tech Is Finally Good Enough for an Airship Revival](https://spectrum.ieee.org/airship)
+- [Biodiversity: Ocean &#39;dead zones&#39; are proliferating due to global warming](https://www.france24.com/en/environment/20221208-biodiversity-ocean-dead-zones-are-proliferating)
+- [The Reason Washington Is Silent on the FTX Fiasco - Bipartisan Donations](https://www.politico.com/news/magazine/2022/12/09/crypto-scandal-sam-bankman-fried-ftx-00073178)
+- [Richard Hipp Speaks Out on SQLite &lpar;2019&rpar; [pdf]](https://sigmodrecord.org/publications/sigmodRecord/1906/pdfs/06_Profiles_Hipp.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
