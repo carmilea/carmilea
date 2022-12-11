@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How does ChatGPT work?](https://news.ycombinator.com/item?id=33939805)
 - [Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/)
 - [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
 - [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.bbc.com/news/health-63859184)
 - [Taming Names in Software Development](https://www.simplethread.com/taming-names-in-software-development/)
-- [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
