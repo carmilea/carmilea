@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Video games made in the USSR](https://www.rbth.com/lifestyle/332384-video-games-soviet-russian-tetris)
-- [VR robots are building railways in Japan](https://virtualuncle.com/2022/04/26/giant-vr-robots-are-building-railways-in-japan/)
-- [Show HN: Mult.dev – zero-config alternative to Google Earth studio](https://mult.dev)
-- [A data-centric introduction to computing](https://dcic-world.org/2022-08-28/index.html)
-- [What&#39;s wrong with social science and how to fix it &lpar;2020&rpar;](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Product Engineer](https://onesignal.com/careers/4004540006)
+- [Using GPT3 to Interpret Dreams](https://www.nightcap.guru/)
+- [GPT based tool that writes the commit message for you](https://github.com/KanHarI/gpt-commit-summarizer)
+- [Beyond Functional Programming: The Verse Programming Language [pdf]](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf)
+- [Getting a Psion 5 palmtop from 1997 online via PPP &lpar;and a Raspberry Pi&rpar;](https://www.kianryan.co.uk/2022-11-28-psion-sidecar-ppp-modem-and-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
