@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. battery storage capacity will increase significantly by 2025](https://www.eia.gov/todayinenergy/detail.php?id=54939)
 - [Asia’s advanced economies now have lower birth rates than Japan](https://www.economist.com/asia/2022/05/19/asias-advanced-economies-now-have-lower-birth-rates-than-japan)
 - [CNC Gothic Stone Carving by the Carmelite Monks](https://carmelitegothic.com/cnc-stone-carving/)
 - [The Single Greatest Habit You Can Build](https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build)
-- [Ask HN: How does ChatGPT work?](https://news.ycombinator.com/item?id=33939805)
-- [Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/)
+- [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
