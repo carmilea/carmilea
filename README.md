@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [IPv6 Internet Is Broken: He vs. Cogent](https://adminhacks.com/broken-IPv6.html)
+- [USDD/Tron near collapse: USDD stablecoin below $0.97, reserve collateral drained](https://old.reddit.com/r/Buttcoin/comments/zijx5o/usddtron_are_about_to_collapse_usdd_justin_suns/)
+- [Unix&#39;s special way of marking login shells goes back to V2 Unix &lpar;at least&rpar;](https://utcc.utoronto.ca/~cks/space/blog/unix/LoginShellMarkerHistory)
 - [Systematic, Ontological, Undiscovered Fact Finding Logic Engine](https://souffle-lang.github.io/)
-- [U.S. battery storage capacity to increase significantly](https://www.eia.gov/todayinenergy/detail.php?id=54939)
-- [Asia’s advanced economies now have lower birth rates than Japan](https://www.economist.com/asia/2022/05/19/asias-advanced-economies-now-have-lower-birth-rates-than-japan)
 - [Jet Automatic Hypodermic Injection Apparatus – Vaccine Gun &lpar;2021&rpar;](https://americanhistory.si.edu/collections/search/object/nmah_1411247)
 <!-- BLOG-POST-LIST:END -->
 
