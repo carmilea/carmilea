@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating aerial imagery with a bike helmet camera &lpar;GoPro&rpar; and OpenDroneMap](https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Product Engineer](https://onesignal.com/careers/4004540006)
 - [Using GPT3 to Interpret Dreams](https://www.nightcap.guru/)
 - [GPT based tool that writes the commit message for you](https://github.com/KanHarI/gpt-commit-summarizer)
 - [Beyond Functional Programming: The Verse Programming Language [pdf]](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf)
-- [Getting a Psion 5 palmtop from 1997 online via PPP &lpar;and a Raspberry Pi&rpar;](https://www.kianryan.co.uk/2022-11-28-psion-sidecar-ppp-modem-and-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
