@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pluralsight lays off 400 Employees – 20% Workforce](https://layoffstracker.com/pluralsight-lays-off-400-employees-20-workforce/)
+- [Perhaps It Is a Bad Thing That the Leading AI Companies Cannot Control Their AIs](https://astralcodexten.substack.com/p/perhaps-it-is-a-bad-thing-that-the)
+- [Btrfs in Linux 6.2 brings Performance Improvements, better RAID 5/6 Reliability](https://www.phoronix.com/news/Linux-6.2-Btrfs-EXT4)
 - [Ivy &lpar;YC W23&rpar; Is Hiring Software Engineers to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [‘Gas Station Heroin’ Is Causing Intense Withdrawals. It’s Legal in Most States](https://www.vice.com/en/article/88q3va/tianeptine-gas-station-heroin-legal-in-most-states)
 - [More phony copyright claims for YouTube creators](https://larryjordan.com/articles/for-youtube-ads-matter-more-than-video-quality-or-communication/)
-- [Unovis: Data visualization for React, Angular, Svelte, TypeScript, JavaScript](https://unovis.dev/)
-- [1955 Union Pacific EMD E9 – The Last of the Classic Diesel Streamliners &lpar;2012&rpar;](https://www.curbsideclassic.com/trackside-classic/trackside-classic-1955-union-pacific-emd-e9-the-last-of-the-classic-diesel-streamliners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
