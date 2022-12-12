@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Invented the Thumb Drive?](https://spectrum.ieee.org/thumb-drive)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [A list of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062)
 - [Ask HN: Someone is proxy-mirroring my website, can I do anything?](https://news.ycombinator.com/item?id=33952114)
 - [Retro-Printer Module](https://www.retroprinter.com/)
-- [Linux Desktop Environments System Usage](https://itvision.altervista.org/linux-desktop-environments-system-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
