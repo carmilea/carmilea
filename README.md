@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
-- [U.S. to announce fusion energy ‘breakthrough’](https://www.washingtonpost.com/business/2022/12/11/fusion-nuclear-energy-breakthrough/)
+- [Discovering latent knowledge in language models without supervision](https://arxiv.org/abs/2212.03827)
+- [Splashdown NASA’s Orion Returns to Earth After Historic Moon Mission](https://www.nasa.gov/press-release/splashdown-nasa-s-orion-returns-to-earth-after-historic-moon-mission/)
 - [Sharrow MX-1: Tipless propeller &lpar;2020&rpar;](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
 - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
 - [No one reads the terms of service. Lawmakers want to fix that with &#39;TLDR&#39; bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
