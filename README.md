@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SBF scheduled to testify tomorrow at US House hearing on FTX collapse](https://techcrunch.com/2022/12/12/sbf-scheduled-to-testify-tomorrow-at-us-house-hearing-on-ftx-collapse/)
+- [The school that grants your PhD thinks it’s too good to hire you](https://bigthink.com/thinking/school-phd-too-good-for-you-academic-arrogance/)
 - [Substack is now powered by Ghost](https://twitter.com/johnonolan/status/1602330377812643850)
-- [Database Drivers: Naughty or Nice?](https://www.prequel.co/blog/database-drivers-naughty-or-nice)
-- [Goodbye Spotify](https://om.co/2022/12/01/goodbye-spotify/)
-- [THC and CBD improve wound healing, may be valuable as skin rejuvenators, study](https://www.mdpi.com/2073-4409/11/23/3939)
-- [The next step in ecommerce? Replatform with APIs and micro front ends](https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/)
+- [Globalization Is Dead and No One Is Listening](https://interconnected.blog/globalization-is-dead-and-no-one-is-listening/)
+- [Database drivers: Naughty or nice?](https://www.prequel.co/blog/database-drivers-naughty-or-nice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
