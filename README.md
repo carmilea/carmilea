@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Teases &#39;Major&#39; Science News Amid Fusion Energy Reports](https://www.voanews.com/a/us-teases-major-science-news-amid-fusion-energy-reports/6872244.html)
+- [A list of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062)
 - [Retro-Printer Module](https://www.retroprinter.com/)
 - [Linux Desktop Environments System Usage &lpar;Gnome, KDE, XFCE, LXQT, Cinnamon, Mate&rpar;](https://itvision.altervista.org/linux-desktop-environments-system-usage.html)
 - [Discovering latent knowledge in language models without supervision](https://arxiv.org/abs/2212.03827)
