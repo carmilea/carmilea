@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Substack is now powered by Ghost](https://twitter.com/johnonolan/status/1602330377812643850)
 - [Database Drivers: Naughty or Nice?](https://www.prequel.co/blog/database-drivers-naughty-or-nice)
+- [Goodbye Spotify](https://om.co/2022/12/01/goodbye-spotify/)
+- [THC and CBD improve wound healing, may be valuable as skin rejuvenators, study](https://www.mdpi.com/2073-4409/11/23/3939)
 - [The next step in ecommerce? Replatform with APIs and micro front ends](https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/)
-- [Writing at Work](https://lcamtuf.substack.com/p/writing-at-work)
-- [DARPA: Neural Evidence Aggregation Tool](https://www.darpa.mil/news-events/2022-03-02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
