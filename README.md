@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
+- [U.S. to announce major breakthrough in zero-carbon nuclear fusion energy](https://www.cbsnews.com/news/nuclear-fusion-energy-breakthrough-us-expected-announcement-zero-carbon-power/)
+- [Medieval ship found in Norway&#39;s biggest lake](https://lite.cnn.com/en/article/h_f7e68a3a7d704b1a13bcdea82f4454ad)
+- [Show HN: Embed a snow effect on your website](https://embed.im/snow/)
 - [Forward-Forward Algorithm, an Alternative to Backpropagation for Neural Networks](https://syncedreview.com/2022/12/08/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks/)
-- [Stanford doctor among those ‘blacklisted’ on Twitter](https://www.newsnationnow.com/on-balance-with-leland-vittert/stanford-doctor-among-those-blacklisted-on-twitter/)
-- [U.S. Justice Department is split over charging Binance as crypto world falters](https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/)
-- [Who Invented the Thumb Drive?](https://spectrum.ieee.org/thumb-drive)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
