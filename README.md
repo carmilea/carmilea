@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Research Links Aspartame to Anxiety](https://news.fsu.edu/news/university-news/2022/12/08/fsu-research-links-common-sweetener-with-anxiety/)
-- [A Recession Looms over the Posh World of Influencers](https://www.wired.com/story/recession-influencer-backlash/)
-- [The Terminal for the 21st Century](https://www.warp.dev)
-- [Links mentioning Mastodon flagged as sensitive on Twitter](https://mastodon.online/@joshuatopolsky/109501217476449536)
+- [Ivy &lpar;YC W23&rpar; Is Hiring Software Engineers to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [‘Gas Station Heroin’ Is Causing Intense Withdrawals. It’s Legal in Most States](https://www.vice.com/en/article/88q3va/tianeptine-gas-station-heroin-legal-in-most-states)
 - [More phony copyright claims for YouTube creators](https://larryjordan.com/articles/for-youtube-ads-matter-more-than-video-quality-or-communication/)
+- [Unovis: Data visualization for React, Angular, Svelte, TypeScript, JavaScript](https://unovis.dev/)
+- [1955 Union Pacific EMD E9 – The Last of the Classic Diesel Streamliners &lpar;2012&rpar;](https://www.curbsideclassic.com/trackside-classic/trackside-classic-1955-union-pacific-emd-e9-the-last-of-the-classic-diesel-streamliners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
