@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forward-Forward Algorithm, an Alternative to Backpropagation for Neural Networks](https://syncedreview.com/2022/12/08/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks/)
+- [Stanford doctor among those ‘blacklisted’ on Twitter](https://www.newsnationnow.com/on-balance-with-leland-vittert/stanford-doctor-among-those-blacklisted-on-twitter/)
+- [U.S. Justice Department is split over charging Binance as crypto world falters](https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/)
 - [Who Invented the Thumb Drive?](https://spectrum.ieee.org/thumb-drive)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [A list of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062)
-- [Ask HN: Someone is proxy-mirroring my website, can I do anything?](https://news.ycombinator.com/item?id=33952114)
-- [Retro-Printer Module](https://www.retroprinter.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
