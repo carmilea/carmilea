@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharrow MX-1: Tipless propeller &lpar;2020&rpar;](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
 - [No one reads the terms of service. Lawmakers want to fix that with &#39;TLDR&#39; bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
 - [The 6.1 kernel is out](https://lwn.net/Articles/917504/)
-- [Are you a nice to have or a must have?](https://www.yannickoswald.com/post/are-you-a-nice-to-have-or-must-have)
 - [Astronomers Just Confirmed the Most Ancient Galaxies Ever Observed](https://singularityhub.com/2022/12/11/astronomers-just-confirmed-the-most-ancient-galaxies-ever-observed/)
-- [Carvana sees 98% of its market value evaporate](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
+- [As Carvana crashes, used car dealers, not buyers, stand to win big](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
