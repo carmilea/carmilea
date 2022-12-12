@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
-- [U.S. to announce major breakthrough in zero-carbon nuclear fusion energy](https://www.cbsnews.com/news/nuclear-fusion-energy-breakthrough-us-expected-announcement-zero-carbon-power/)
-- [Medieval ship found in Norway&#39;s biggest lake](https://lite.cnn.com/en/article/h_f7e68a3a7d704b1a13bcdea82f4454ad)
-- [Show HN: Embed a snow effect on your website](https://embed.im/snow/)
-- [Forward-Forward Algorithm, an Alternative to Backpropagation for Neural Networks](https://syncedreview.com/2022/12/08/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks/)
+- [Substack is now powered by Ghost](https://twitter.com/johnonolan/status/1602330377812643850)
+- [Database Drivers: Naughty or Nice?](https://www.prequel.co/blog/database-drivers-naughty-or-nice)
+- [The next step in ecommerce? Replatform with APIs and micro front ends](https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/)
+- [Writing at Work](https://lcamtuf.substack.com/p/writing-at-work)
+- [DARPA: Neural Evidence Aggregation Tool](https://www.darpa.mil/news-events/2022-03-02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
