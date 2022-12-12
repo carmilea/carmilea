@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Teases &#39;Major&#39; Science News Amid Fusion Energy Reports](https://www.voanews.com/a/us-teases-major-science-news-amid-fusion-energy-reports/6872244.html)
 - [Retro-Printer Module](https://www.retroprinter.com/)
 - [Linux Desktop Environments System Usage &lpar;Gnome, KDE, XFCE, LXQT, Cinnamon, Mate&rpar;](https://itvision.altervista.org/linux-desktop-environments-system-usage.html)
 - [Discovering latent knowledge in language models without supervision](https://arxiv.org/abs/2212.03827)
 - [Splashdown NASA’s Orion Returns to Earth After Historic Moon Mission](https://www.nasa.gov/press-release/splashdown-nasa-s-orion-returns-to-earth-after-historic-moon-mission/)
-- [Sharrow MX-1: Tipless propeller &lpar;2020&rpar;](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
