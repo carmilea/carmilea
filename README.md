@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Dark Mode Good for Your Eyes? &lpar;2020&rpar;](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
-- [‘Diablo IV’ developers work long hours, bracing for impending release](https://www.washingtonpost.com/video-games/2022/12/08/diablo-iv-release-date-crunch/)
-- [Creating aerial imagery with a bike helmet camera &lpar;GoPro&rpar; and OpenDroneMap](https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Product Engineer](https://onesignal.com/careers/4004540006)
-- [Using GPT3 to Interpret Dreams](https://www.nightcap.guru/)
+- [No one reads the terms of service. Lawmakers want to fix that with &#39;TLDR&#39; bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
+- [The 6.1 kernel is out](https://lwn.net/Articles/917504/)
+- [Are you a nice to have or a must have?](https://www.yannickoswald.com/post/are-you-a-nice-to-have-or-must-have)
+- [Astronomers Just Confirmed the Most Ancient Galaxies Ever Observed](https://singularityhub.com/2022/12/11/astronomers-just-confirmed-the-most-ancient-galaxies-ever-observed/)
+- [Carvana sees 98% of its market value evaporate](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
