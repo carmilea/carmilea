@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla ordered to upgrade self-driving computer for free due to false advertising](https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/)
+- [Angelo Badalamenti dies aged 85](https://www.theguardian.com/music/2022/dec/13/angelo-badalamenti-david-lynchs-composer-on-twin-peaks-blue-velvet-and-more-dies-aged-85)
 - [UC Berkeley launches SkyPilot to help navigate soaring cloud costs](https://www.datanami.com/2022/12/12/uc-berkeley-launches-skypilot-to-help-navigate-soaring-cloud-costs/)
+- [Offline Voice Assistant on a Microcontroller with 192KB RAM](https://picovoice.ai/blog/offline-voice-assistant-on-an-stm32-microcontroller/)
 - [Picol, a Tcl interpreter in 550 lines of C code](http://oldblog.antirez.com/page/picol.html)
 - [What I learned at Gitlab that I don&#39;t want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
-- [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
