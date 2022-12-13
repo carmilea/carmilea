@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Angelo Badalamenti has died](https://www.theguardian.com/music/2022/dec/13/angelo-badalamenti-david-lynchs-composer-on-twin-peaks-blue-velvet-and-more-dies-aged-85)
-- [UC Berkeley launches SkyPilot to help navigate soaring cloud costs](https://www.datanami.com/2022/12/12/uc-berkeley-launches-skypilot-to-help-navigate-soaring-cloud-costs/)
-- [Offline Voice Assistant on a Microcontroller with 192KB RAM](https://picovoice.ai/blog/offline-voice-assistant-on-an-stm32-microcontroller/)
-- [Picol, a Tcl interpreter in 550 lines of C code](http://oldblog.antirez.com/page/picol.html)
-- [What I learned at Gitlab that I don&#39;t want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+- [Binance “temporarily” suspends USDC withdrawals](https://twitter.com/cz_binance/status/1602579499903852544)
+- [AMD Radeon RX 7900 XTX and RX 7900 XT Linux Support and Performance Review](https://www.phoronix.com/review/rx7900xt-rx7900xtx-linux)
+- [Human_fallback](https://www.nplusonemag.com/issue-44/essays/human_fallback/)
+- [Farewell, Building in Public](https://www.coryzue.com/writing/building-in-private/)
+- [Read This Post ‘Unless’ You’re Not a Ruby Developer](https://jesseduffield.com/Unless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
