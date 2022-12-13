@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Death of Rackspace’s ‘Fanatical Support’](https://sanantonioreport.org/the-death-of-rackspaces-fanatical-support/)
+- [EFF about EU: EIDAS 2.0 Sets a Dangerous Precedent for Web Security](https://www.eff.org/deeplinks/2022/12/eidas-20-sets-dangerous-precedent-web-security)
 - [Binance “temporarily” suspends USDC withdrawals](https://twitter.com/cz_binance/status/1602579499903852544)
 - [AMD Radeon RX 7900 XTX and RX 7900 XT Linux Support and Performance Review](https://www.phoronix.com/review/rx7900xt-rx7900xtx-linux)
 - [Human_fallback](https://www.nplusonemag.com/issue-44/essays/human_fallback/)
-- [Farewell, Building in Public](https://www.coryzue.com/writing/building-in-private/)
-- [Read This Post ‘Unless’ You’re Not a Ruby Developer](https://jesseduffield.com/Unless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
