@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Are You Doing?](https://pudding.cool/2022/12/emotion-wheel/)
-- [Ask HN: Is Vim still worth learning?](https://news.ycombinator.com/item?id=33966788)
+- [Rutter &lpar;YC S19&rpar; Is Hiring a Senior Software Engineer in NYC](https://jobs.ashbyhq.com/rutter/7b222f5f-cd46-4592-9cf8-6cd1f5e09931)
+- [Yerba Mate – A Long but Current History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/)
+- [Upcoming Bugzilla releases and more fun stuff](https://www.bugzilla.org/blog/2022/12/13/upcoming-releases-and-more-fun-stuff/)
+- [How are you doing?](https://pudding.cool/2022/12/emotion-wheel/)
 - [The Death of Rackspace’s ‘Fanatical Support’](https://sanantonioreport.org/the-death-of-rackspaces-fanatical-support/)
-- [EFF about EU: EIDAS 2.0 Sets a Dangerous Precedent for Web Security](https://www.eff.org/deeplinks/2022/12/eidas-20-sets-dangerous-precedent-web-security)
-- [Binance “temporarily” suspends USDC withdrawals](https://twitter.com/cz_binance/status/1602579499903852544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
