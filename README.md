@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing](https://mifi.no/losslesscut/)
-- [Shutting down our unencrypted public DNS service](https://mullvad.net/en/blog/2022/12/13/shutting-down-our-unencrypted-public-dns-service/)
-- [The best things and stuff of 2022](http://blog.fogus.me/2022/12/13/the-best-things-and-stuff-of-2022/)
-- [Supabase Storage v2: Image Resizing and Smart CDN](https://supabase.com/blog/storage-image-resizing-smart-cdn)
-- [Secretary Granholm to announce major scientific breakthrough by DOE [video]](https://www.energy.gov/livestream)
+- [Pony Programming Language](https://github.com/ponylang/ponyc)
+- [Binance freezes withdrawals of stablecoin USDC as investors pull $2B](https://markets.businessinsider.com/news/currencies/crypto-binance-freeze-usdc-withdrawals-changpeng-zhao-cz-ftx-collapse-2022-12)
+- [Ask HN: Why are YC companies breaking hiring laws?](https://news.ycombinator.com/item?id=33970189)
+- [Show HN: We scaled Git to support 1 TB repos](https://xethub.com/user/login)
+- [The United States of America vs. Samuel Bankman-Fried Indictment Unsealed [pdf]](https://www.docdroid.net/kxfZltq/unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases-pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
