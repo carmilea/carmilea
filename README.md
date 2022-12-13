@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When worse-is-better – housing construction](https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better)
+- [Show HN: NixOS Web Hosting for Everyone](https://shipnix.io/)
+- [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe)
+- [Hydra – the fastest Postgres for analytics [benchmarks]](https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics)
 - [SQLite-loadable-rs: A framework for building SQLite Extensions in Rust](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs)
-- [Israeli tech aims to block hatching of billions of male chicks fated for culling](https://www.huminnpoultry.com/news/israeli-tech-aims-to-block-hatching-of-billions-of-male-chicks-fated-for-culling/)
-- [Data2vec 2.0: Highly efficient self-supervised learning for vision, speech, text](https://ai.facebook.com/blog/ai-self-supervised-learning-data2vec/)
-- [South Korea: the corruption that built its economy &lpar;2017&rpar;](https://www.iias.asia/the-newsletter/article/south-korea-corruption-built-its-economy)
-- [Mars Now](https://mars.nasa.gov/explore/mars-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
