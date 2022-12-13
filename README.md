@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite-loadable-rs: A framework for building SQLite Extensions in Rust](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs)
+- [Israeli tech aims to block hatching of billions of male chicks fated for culling](https://www.huminnpoultry.com/news/israeli-tech-aims-to-block-hatching-of-billions-of-male-chicks-fated-for-culling/)
+- [Data2vec 2.0: Highly efficient self-supervised learning for vision, speech, text](https://ai.facebook.com/blog/ai-self-supervised-learning-data2vec/)
 - [South Korea: the corruption that built its economy &lpar;2017&rpar;](https://www.iias.asia/the-newsletter/article/south-korea-corruption-built-its-economy)
 - [Mars Now](https://mars.nasa.gov/explore/mars-now/)
-- [Show HN: An Excel Wordle Solver](https://github.com/cgranier/wordlexcel)
-- [Userspace isn&#39;t slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
-- [Nuclear-fusion lab achieves ‘ignition’: what does it mean?](https://www.nature.com/articles/d41586-022-04440-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
