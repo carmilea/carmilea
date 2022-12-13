@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pony Programming Language](https://github.com/ponylang/ponyc)
-- [Binance freezes withdrawals of stablecoin USDC as investors pull $2B](https://markets.businessinsider.com/news/currencies/crypto-binance-freeze-usdc-withdrawals-changpeng-zhao-cz-ftx-collapse-2022-12)
-- [Ask HN: Why are YC companies breaking hiring laws?](https://news.ycombinator.com/item?id=33970189)
-- [Show HN: We scaled Git to support 1 TB repos](https://xethub.com/user/login)
-- [The United States of America vs. Samuel Bankman-Fried Indictment Unsealed [pdf]](https://www.docdroid.net/kxfZltq/unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases-pdf)
+- [Oven &lpar;YC S19&rpar; is hiring C/C++ or Zig engineers to build Bun](https://bun.sh/careers)
+- [Is Europe Just Not Good at Innovating?](https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/)
+- [Bipartisan Legislation to Ban TikTok](https://www.rubio.senate.gov/public/index.cfm/2022/12/rubio-gallagher-introduce-bipartisan-legislation-to-ban-tiktok)
+- [Julia Evans: Tips for Analyzing Logs](https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/)
+- [US Department of Energy: Fusion Ignition Achieved](https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
