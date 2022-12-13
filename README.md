@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned at Gitlab that I don&#39;t want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+- [Statement from Fosshost&#39;s Founder](https://fosshost.org/founder.html)
 - [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
 - [Ask HN: If I get locked out of everything, please try to help me](https://news.ycombinator.com/item?id=33963269)
 - [On Twitch, You Can Never Log Off](https://every.to/cybernaut/on-twitch-you-can-never-log-off)
-- [Data behind high-functioning engineering organizations [pdf]](https://www.datocms-assets.com/65181/1667327773-iconiq-analytics-insights-engineering-in-a-hybrid-world.pdf)
-- [Clojure is a trinity of language, REPL, and structural editor](https://blog.jakubholy.net/2022/trinity-of-clojure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
