@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oven &lpar;YC S19&rpar; is hiring C/C++ or Zig engineers to build Bun](https://bun.sh/careers)
-- [Is Europe Just Not Good at Innovating?](https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/)
-- [Bipartisan Legislation to Ban TikTok](https://www.rubio.senate.gov/public/index.cfm/2022/12/rubio-gallagher-introduce-bipartisan-legislation-to-ban-tiktok)
-- [Julia Evans: Tips for Analyzing Logs](https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/)
-- [US Department of Energy: Fusion Ignition Achieved](https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition)
+- [South Korea: the corruption that built its economy &lpar;2017&rpar;](https://www.iias.asia/the-newsletter/article/south-korea-corruption-built-its-economy)
+- [Mars Now](https://mars.nasa.gov/explore/mars-now/)
+- [Show HN: An Excel Wordle Solver](https://github.com/cgranier/wordlexcel)
+- [Userspace isn&#39;t slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
+- [Nuclear-fusion lab achieves ‘ignition’: what does it mean?](https://www.nature.com/articles/d41586-022-04440-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
