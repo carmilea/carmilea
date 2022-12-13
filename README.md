@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior PM](https://jobs.lever.co/mindsdb/5ef21d35-8386-4b1c-941d-77aed16b2c18)
+- [Security Content of iOS 16.2](https://support.apple.com/en-gb/HT213530)
+- [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://archive.vn/JavS8#selection-4097.0-4104.0)
+- [Al Seckel on Richard Feynman](http://www.fotuva.org/online/frameload.htm?/online/seckel.htm)
 - [When worse-is-better – housing construction](https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better)
-- [Show HN: NixOS Web Hosting for Everyone](https://shipnix.io/)
-- [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe)
-- [Hydra – the fastest Postgres for analytics [benchmarks]](https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics)
-- [SQLite-loadable-rs: A framework for building SQLite Extensions in Rust](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
