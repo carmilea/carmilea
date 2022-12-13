@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What Are You Doing?](https://news.ycombinator.com/item?id=33968814)
+- [LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing](https://mifi.no/losslesscut/)
+- [Shutting down our unencrypted public DNS service](https://mullvad.net/en/blog/2022/12/13/shutting-down-our-unencrypted-public-dns-service/)
+- [The best things and stuff of 2022](http://blog.fogus.me/2022/12/13/the-best-things-and-stuff-of-2022/)
+- [Supabase Storage v2: Image Resizing and Smart CDN](https://supabase.com/blog/storage-image-resizing-smart-cdn)
 - [Secretary Granholm to announce major scientific breakthrough by DOE [video]](https://www.energy.gov/livestream)
-- [Startups are building with the Julia Programming Language](https://juliazoid.com/heres-why-startups-are-building-with-the-julia-programming-language-5addadac3bdc)
-- [Washington faltered as fentanyl gripped America](https://www.washingtonpost.com/investigations/interactive/2022/dea-fentanyl-failure/)
-- [Rutter &lpar;YC S19&rpar; Is Hiring a Senior Software Engineer in NYC](https://jobs.ashbyhq.com/rutter/7b222f5f-cd46-4592-9cf8-6cd1f5e09931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
