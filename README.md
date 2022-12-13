@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior PM](https://jobs.lever.co/mindsdb/5ef21d35-8386-4b1c-941d-77aed16b2c18)
-- [Security Content of iOS 16.2](https://support.apple.com/en-gb/HT213530)
-- [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://archive.vn/JavS8#selection-4097.0-4104.0)
-- [Al Seckel on Richard Feynman](http://www.fotuva.org/online/frameload.htm?/online/seckel.htm)
-- [When worse-is-better – housing construction](https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better)
+- [Danske Bank Pleads Guilty to Fraud on U.S. Banks in Multi-Billion Dollar Scheme](https://www.justice.gov/opa/pr/danske-bank-pleads-guilty-fraud-us-banks-multi-billion-dollar-scheme-access-us-financial)
+- [After 20 years the Dwarf Fortress devs have to get used to being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/)
+- [No, Google did not hike the price of a .dev domain from $12 to $850](https://www.agwa.name/blog/post/domain_pricing_is_very_confusing)
+- [Paul Le Roux is Satoshi?](https://martinshkreli.substack.com/p/paul-le-roux-is-satoshi)
+- [The Flickr Foundation](https://www.flickr.org/announcing-the-flickr-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
