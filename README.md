@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Are You Doing?](https://news.ycombinator.com/item?id=33968814)
+- [Secretary Granholm to announce major scientific breakthrough by DOE [video]](https://www.energy.gov/livestream)
 - [Startups are building with the Julia Programming Language](https://juliazoid.com/heres-why-startups-are-building-with-the-julia-programming-language-5addadac3bdc)
-- [Fentanyl is now the leading cause of death for Americans ages 18 to 49](https://www.washingtonpost.com/investigations/interactive/2022/dea-fentanyl-failure/)
+- [Washington faltered as fentanyl gripped America](https://www.washingtonpost.com/investigations/interactive/2022/dea-fentanyl-failure/)
 - [Rutter &lpar;YC S19&rpar; Is Hiring a Senior Software Engineer in NYC](https://jobs.ashbyhq.com/rutter/7b222f5f-cd46-4592-9cf8-6cd1f5e09931)
-- [SEC Charges SBF with Defrauding Investors in Crypto Asset Trading Platform FTX](https://www.sec.gov/news/press-release/2022-219)
-- [Yerba Mate – A Long but Current History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
