@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pluralsight lays off 400 Employees – 20% Workforce](https://layoffstracker.com/pluralsight-lays-off-400-employees-20-workforce/)
-- [Perhaps It Is a Bad Thing That the Leading AI Companies Cannot Control Their AIs](https://astralcodexten.substack.com/p/perhaps-it-is-a-bad-thing-that-the)
-- [Btrfs in Linux 6.2 brings Performance Improvements, better RAID 5/6 Reliability](https://www.phoronix.com/news/Linux-6.2-Btrfs-EXT4)
-- [Ivy &lpar;YC W23&rpar; Is Hiring Software Engineers to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [More phony copyright claims for YouTube creators](https://larryjordan.com/articles/for-youtube-ads-matter-more-than-video-quality-or-communication/)
+- [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
+- [Ask HN: If I get locked out of everything, please try to help me](https://news.ycombinator.com/item?id=33963269)
+- [On Twitch, You Can Never Log Off](https://every.to/cybernaut/on-twitch-you-can-never-log-off)
+- [Data behind high-functioning engineering organizations [pdf]](https://www.datocms-assets.com/65181/1667327773-iconiq-analytics-insights-engineering-in-a-hybrid-world.pdf)
+- [Clojure is a trinity of language, REPL, and structural editor](https://blog.jakubholy.net/2022/trinity-of-clojure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
