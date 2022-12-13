@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UC Berkeley launches SkyPilot to help navigate soaring cloud costs](https://www.datanami.com/2022/12/12/uc-berkeley-launches-skypilot-to-help-navigate-soaring-cloud-costs/)
 - [Offline Voice Assistant on a Microcontroller with 192KB RAM](https://picovoice.ai/blog/offline-voice-assistant-on-an-stm32-microcontroller/)
 - [What I learned at Gitlab that I don&#39;t want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
 - [Statement from Fosshost&#39;s Founder](https://fosshost.org/founder.html)
 - [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
-- [Ask HN: If I get locked out of everything, please try to help me](https://news.ycombinator.com/item?id=33963269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
