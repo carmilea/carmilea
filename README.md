@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flightcontrol &lpar;YC W22&rpar; is hiring first Developer Advocate](https://jobs.flightcontrol.dev/developer-advocate)
 - [ThreeUK blocks access to encrypted provider Tutanota due to &#39;age restriction&#39;](https://twitter.com/tutanotateam/status/1602968787766345728)
 - [Rust front-end merged in GCC trunk](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
-- [Fungible sold to Microsoft for $190M, say multiple sources](https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/)
 - [Fputc semantics for conforming C implementations](https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding)
 - [Rust: State of GUI, December 2022 – KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
 <!-- BLOG-POST-LIST:END -->
