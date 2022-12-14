@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter&#39;s rules and policies now forbid live location information sharing](https://web.archive.org/web/diff/20221213101556/20221214221401/https://help.twitter.com/en/rules-and-policies/personal-information)
+- [Rail Workers Oust Union President Who Backed Labor Deal](https://perfectunion.us/rail-workers-oust-union-president-who-backed-labor-deal/)
 - [A circuit simulator that doesn&#39;t look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
 - [Ask HN: Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)
 - [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
-- [How does GPT obtain its ability? Tracing emergent abilities of language models](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
-- [MuseScore 4](https://musescore.org/en/4.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
