@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Considering Dropping Requirement for iPhone Web Browsers to Use WebKit](https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/)
+- [Version Story &lpar;YC W21&rpar;, building Git for documents, hiring first engineer](https://news.ycombinator.com/item?id=33986331)
 - [Are we in the Anthropocene? Geologists could define new epoch for Earth](https://www.nature.com/articles/d41586-022-04428-3)
 - [Tesla Full Self-Driving data looks awful](https://electrek.co/2022/12/14/tesla-full-self-driving-data-awful-challenge-elon-musk-prove-otherwise/)
 - [The History and rationale of the Python 3 Unicode model for the operating system](https://vstinner.github.io/python30-listdir-undecodable-filenames.html)
-- [Facebook owner Meta sued for inciting hatred in Ethiopia](https://www.dw.com/en/facebook-owner-meta-sued-for-inciting-hatred-in-ethiopia/a-64085804)
-- [What I Do When I Feel Like Giving Up](https://jamesclear.com/giving-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
