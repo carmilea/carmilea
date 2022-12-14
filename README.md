@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailscale/golink: A private shortlink service for tailnets](https://github.com/tailscale/golink)
+- [Recursive Game of Life](https://oimo.io/works/life/)
+- [On-skin telehaptic device allows users to transmit touch remotely](https://www.allaboutcircuits.com/news/on-skin-telehaptic-device-allows-users-transmit-touch-remotely/)
+- [Golink: A private shortlink service for tailnets](https://github.com/tailscale/golink)
 - [Re:wind AWS re:Invent 2022](https://www.singlestore.com/blog/rewind-aws-reinvent-2022)
 - [A native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
-- [Reddit&#39;s photo albums broke due to Integer overflow of Signed Int32](https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/)
-- [After 20 years the Dwarf Fortress devs have to get used to being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
