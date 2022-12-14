@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gen Z workers are not tech-savvy in the workplace – and it’s a growing problem](https://www.worklife.news/technology/myth-buster-young-workers-are-not-tech-savvy-in-the-workplace-and-its-a-growing-problem/)
-- [Ask HN: Why is news about fusion ignition not a bigger deal in popular media?](https://news.ycombinator.com/item?id=33984421)
+- [Are we in the Anthropocene? Geologists could define new epoch for Earth](https://www.nature.com/articles/d41586-022-04428-3)
+- [Tesla Full Self-Driving data looks awful](https://electrek.co/2022/12/14/tesla-full-self-driving-data-awful-challenge-elon-musk-prove-otherwise/)
 - [The History and rationale of the Python 3 Unicode model for the operating system](https://vstinner.github.io/python30-listdir-undecodable-filenames.html)
+- [Facebook owner Meta sued for inciting hatred in Ethiopia](https://www.dw.com/en/facebook-owner-meta-sued-for-inciting-hatred-in-ethiopia/a-64085804)
 - [What I Do When I Feel Like Giving Up](https://jamesclear.com/giving-up)
-- [Building Go Programs with Nix Flakes](https://xeiaso.net/blog/nix-flakes-go-programs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
