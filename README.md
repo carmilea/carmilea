@@ -54,8 +54,8 @@
 - [Chinese company that stole IP from ASML raises $140M](https://bits-chips.nl/artikel/chinese-company-that-stole-ip-from-asml-raises-140m/)
 - [Fungible sold to Microsoft for $190M, say multiple sources](https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/)
 - [Rust: State of GUI, December 2022 – KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
+- [@gorhill/ubo-core – npm](https://www.npmjs.com/package/@gorhill/ubo-core)
 - [Recursive Game of Life](https://oimo.io/works/life/)
-- [On-skin telehaptic device allows users to transmit touch remotely](https://www.allaboutcircuits.com/news/on-skin-telehaptic-device-allows-users-transmit-touch-remotely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
