@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn the Radio Volume Down for Adverts and DJs Talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Solar furnace to melt steel at 2000°C for Swiss recycler](https://www.solarpaces.org/solar-furnace-to-melt-steel-at-2000c-for-swiss-recycler-panatere/)
-- [Six charged in mass takedown of DDoS-for-hire sites](https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/)
-- [The Metals Company subsidiary lifts over 3000T of nodules to sea surface](https://investors.metals.co/news-releases/news-release-details/nori-and-allseas-lift-over-3000-tonnes-polymetallic-nodules/)
+- [A circuit simulator that doesn&#39;t look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
+- [Ask HN: Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)
+- [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
+- [How does GPT obtain its ability? Tracing emergent abilities of language models](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [MuseScore 4](https://musescore.org/en/4.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
