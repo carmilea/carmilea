@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo&#39;s Collision Avoidance Testing](https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html)
+- [My Bike Was Stolen](https://schollz.com/blog/bike/)
+- [SvelteKit 1.0](https://svelte.dev/blog/announcing-sveltekit-1.0)
+- [Tailscale Talent Lock](https://tailscale.com/blog/tailnet-lock/)
 - [Apple Considering Dropping Requirement for iPhone Web Browsers to Use WebKit](https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/)
-- [Version Story &lpar;YC W21&rpar;, building Git for documents, hiring first engineer](https://news.ycombinator.com/item?id=33986331)
-- [Are we in the Anthropocene? Geologists could define new epoch for Earth](https://www.nature.com/articles/d41586-022-04428-3)
-- [Tesla Full Self-Driving data looks awful](https://electrek.co/2022/12/14/tesla-full-self-driving-data-awful-challenge-elon-musk-prove-otherwise/)
-- [The History and rationale of the Python 3 Unicode model for the operating system](https://vstinner.github.io/python30-listdir-undecodable-filenames.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
