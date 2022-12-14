@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Charged in Mass Takedown of DDoS-for-Hire Sites](https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/)
+- [The Metals Company subsidiary lifts over 3000T of nodules to sea surface](https://investors.metals.co/news-releases/news-release-details/nori-and-allseas-lift-over-3000-tonnes-polymetallic-nodules/)
+- [JxckSweeney suspended &lpar;ElonJet guy&#39;s personal account&rpar;](https://twitter.com/jxcksweeney)
 - [Federal Reserve to increase interest rates by 50 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm)
-- [Htmx](https://htmx.org/docs/)
-- [jQuery 3.6.2](https://blog.jquery.com/2022/12/13/jquery-3-6-2-released/)
-- [Steam is now available on Tesla Model S and X](https://twitter.com/elonmusk/status/1602881020180586496)
-- [Waymo&#39;s collision avoidance testing](https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html)
+- [Scan of the Month: Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
