@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo&#39;s Collision Avoidance Testing](https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html)
-- [My Bike Was Stolen](https://schollz.com/blog/bike/)
-- [SvelteKit 1.0](https://svelte.dev/blog/announcing-sveltekit-1.0)
-- [Tailscale Talent Lock](https://tailscale.com/blog/tailnet-lock/)
-- [Apple Considering Dropping Requirement for iPhone Web Browsers to Use WebKit](https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/)
+- [Federal Reserve to increase interest rates by 50 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm)
+- [Htmx](https://htmx.org/docs/)
+- [jQuery 3.6.2](https://blog.jquery.com/2022/12/13/jquery-3-6-2-released/)
+- [Steam is now available on Tesla Model S and X](https://twitter.com/elonmusk/status/1602881020180586496)
+- [Waymo&#39;s collision avoidance testing](https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
