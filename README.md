@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Min: A fast, minimal browser that protects your privacy](https://minbrowser.org/)
-- [The secret lives of MI6’s top female spies](https://www.ft.com/content/741772c0-ee76-4d3d-bfcd-4fabc1fb405d)
-- [Helsinki hospitals severely overcrowded, emergency rooms full to capacity](https://yle.fi/a/74-20008564)
-- [All the ways to get around ChatGPT&#39;s safeguards](https://twitter.com/davisblalock/status/1602600453555961856)
-- [Pluralistic: Web apps could de-monopolize mobile devices &lpar;13 Dec 2022&rpar;](https://pluralistic.net/2022/12/13/kitbashed/#app-store-tax)
+- [Gen Z workers are not tech-savvy in the workplace – and it’s a growing problem](https://www.worklife.news/technology/myth-buster-young-workers-are-not-tech-savvy-in-the-workplace-and-its-a-growing-problem/)
+- [Ask HN: Why is news about fusion ignition not a bigger deal in popular media?](https://news.ycombinator.com/item?id=33984421)
+- [The History and rationale of the Python 3 Unicode model for the operating system](https://vstinner.github.io/python30-listdir-undecodable-filenames.html)
+- [What I Do When I Feel Like Giving Up](https://jamesclear.com/giving-up)
+- [Building Go Programs with Nix Flakes](https://xeiaso.net/blog/nix-flakes-go-programs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
