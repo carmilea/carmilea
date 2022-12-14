@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT: Can&#39;t calculate even basic math. Is it getting dumber?](https://news.ycombinator.com/item?id=33982910)
+- [Min: A fast, minimal browser that protects your privacy](https://minbrowser.org/)
+- [The secret lives of MI6’s top female spies](https://www.ft.com/content/741772c0-ee76-4d3d-bfcd-4fabc1fb405d)
+- [Helsinki hospitals severely overcrowded, emergency rooms full to capacity](https://yle.fi/a/74-20008564)
 - [All the ways to get around ChatGPT&#39;s safeguards](https://twitter.com/davisblalock/status/1602600453555961856)
 - [Pluralistic: Web apps could de-monopolize mobile devices &lpar;13 Dec 2022&rpar;](https://pluralistic.net/2022/12/13/kitbashed/#app-store-tax)
-- [Flightcontrol &lpar;YC W22&rpar; is hiring first Developer Advocate](https://jobs.flightcontrol.dev/developer-advocate)
-- [ThreeUK blocks access to encrypted provider Tutanota due to &#39;age restriction&#39;](https://twitter.com/tutanotateam/status/1602968787766345728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
