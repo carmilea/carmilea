@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Charged in Mass Takedown of DDoS-for-Hire Sites](https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/)
+- [Turn the Radio Volume Down for Adverts and DJs Talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Solar furnace to melt steel at 2000°C for Swiss recycler](https://www.solarpaces.org/solar-furnace-to-melt-steel-at-2000c-for-swiss-recycler-panatere/)
+- [Six charged in mass takedown of DDoS-for-hire sites](https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/)
 - [The Metals Company subsidiary lifts over 3000T of nodules to sea surface](https://investors.metals.co/news-releases/news-release-details/nori-and-allseas-lift-over-3000-tonnes-polymetallic-nodules/)
-- [JxckSweeney suspended &lpar;ElonJet guy&#39;s personal account&rpar;](https://twitter.com/jxcksweeney)
-- [Federal Reserve to increase interest rates by 50 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm)
-- [Scan of the Month: Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
