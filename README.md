@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Re:wind AWS re:Invent 2022](https://www.singlestore.com/blog/rewind-aws-reinvent-2022)
+- [A native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
 - [Reddit&#39;s photo albums broke due to Integer overflow of Signed Int32](https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/)
 - [After 20 years the Dwarf Fortress devs have to get used to being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/)
 - [No, Google did not hike the price of a .dev domain from $12 to $850](https://www.agwa.name/blog/post/domain_pricing_is_very_confusing)
-- [A software change allowed FTX to use client money](https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/)
-- [The Flickr Foundation](https://www.flickr.org/announcing-the-flickr-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
