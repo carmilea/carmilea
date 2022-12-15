@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What prevents a company from hiring remote employees internationally?](https://news.ycombinator.com/item?id=33996871)
+- [MIPS announces its first RISC-V chip designs are now available for licensing](https://liliputing.com/mips-announces-its-first-risc-v-chip-designs-are-now-available-for-licensing/)
+- [Python 3.11 Delivers](https://twitter.com/pypi/status/1603089763287826432)
+- [Our Trip to Prime Number Theorem &lpar;2021&rpar;](https://susam.net/club/trip-to-prime-number-theorem.html)
 - [Documentation/Process: Add Linux Kernel Contribution Maturity Model](https://lwn.net/ml/linux-doc/20221214185714.868374-1-tytso@mit.edu/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33996230)
-- [Libreboot 20221214](https://libreboot.org/news/libreboot20221214.html)
-- [Handwritten complaint to the court by alleged CIA Vault 7 leaker](https://twitter.com/vickio96064997/status/1603051469040762881)
+- [The Gates of Argonath from the LotR in VR @ 50 FPS on Unreal Engine](https://old.reddit.com/r/unrealengine/comments/zlytkq/hi_guys_i_made_the_argonath_from_the_lord_of_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
