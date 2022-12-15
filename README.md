@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IDN Is Crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
+- [People&#39;s Republic of China Citizen Arrested for Stalking](https://www.justice.gov/usao-ma/pr/peoples-republic-china-citizen-arrested-stalking)
+- [Report of Alleged Wrongdoing in Poker Hand and Audit of Security Live Stream](https://hustlercasinolive.com/j4report/)
 - [Soyuz module on International Space Station is leaking something](https://twitter.com/nasaspaceflight/status/1603213585307541506)
 - [Flock is Building a New AI-Driven Mass-Surveillance System [pdf]](https://www.aclu.org/sites/default/files/field_document/flock_1.pdf)
-- [Two temperate Earth-mass planets orbiting the nearby star GJ1002](https://arxiv.org/abs/2212.07332)
-- [Fusion “Breakthrough” Won’t Lead to Practical Fusion Energy](https://spectrum.ieee.org/national-ignition-facility-impractical)
-- [Maryland couple fights home owners assoc. and wins ushering in new state law](https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
