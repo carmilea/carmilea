@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTX&#39;s Bahamas Liquidators Seek to Exclude Luxury Properties from Liquidation](https://www.coindesk.com/policy/2022/12/13/ftxs-bahamas-liquidators-seek-to-exclude-over-200m-worth-of-luxury-properties-from-liquidation/)
+- [Fusion “Breakthrough” Won’t Lead to Practical Fusion Energy](https://spectrum.ieee.org/national-ignition-facility-impractical)
 - [Maryland couple fights home owners assoc. and wins ushering in new state law](https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html)
-- [Twitter restored ElonJet account](https://twitter.com/elonjet/status/1603166460746104833)
-- [“We’ve updated our policy to prohibit sharing someone else’s live location.”](https://twitter.com/twittersafety/status/1603165959669354496)
+- [Twitter has re-suspended ElonJet account](https://twitter.com/elonjet/)
 - [A circuit simulator that doesn&#39;t look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
+- [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
