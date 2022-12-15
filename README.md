@@ -55,7 +55,7 @@
 - [What did Unix fans learn from the end of Unix workstations?](https://www.theregister.com/2022/12/13/unix_workstations_lessons/)
 - [Na-S Battery: Low-cost with four times the capacity of lithium](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html)
 - [Who knew the first AI battles would be fought by artists?](https://vmst.io/@selzero/109512557990367884)
-- [Ask HN: How do you use upvote on HN?](https://news.ycombinator.com/item?id=33997986)
+- [PhD student solves 2,500-year-old Sanskrit problem](https://www.bbc.co.uk/news/articles/cg3gw9v7jnvo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
