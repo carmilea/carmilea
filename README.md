@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding WebRTC support to OBS using Rust](https://github.com/obsproject/obs-studio/pull/7926)
-- [DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans](https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/)
-- [22 Discoveries of 2022](https://www.nationalgeographic.com/science/article/most-amazing-discoveries-2022)
-- [Ask HN: How to do that you need to do but not motivated at all?](https://news.ycombinator.com/item?id=34000076)
-- [Z-Wave Alliance Announces Z-Wave Source Code Project Now Open and Available](https://z-wavealliance.org/news_p/z-wave-alliance-announces-z-wave-source-code-project-is-complete-now-open-and-widely-available-to-members/)
+- [Apple Is Now Bigger Than Google, Amazon, Tesla, and Walmart Combined](https://finance.yahoo.com/news/apple-now-bigger-google-amazon-152738198.html)
+- [Supabase Wrappers: A Framework for Building Postgres Foreign Data Wrappers](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)
+- [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
+- [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
+- [Why Should You [Still] Choose Ruby on Rails to Develop Your Product in 2023](https://mobidev.biz/blog/ruby-on-rails-not-dead-still-good-for-your-product-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
