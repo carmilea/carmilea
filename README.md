@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wetland emission and atmospheric sink changes explain methane growth in 2020](https://www.nature.com/articles/s41586-022-05447-w)
-- [Ask HN: How might HN build a social network together?](https://news.ycombinator.com/item?id=33999296)
-- [Ask HN: Why aim for reducing climate change?](https://news.ycombinator.com/item?id=33999229)
-- [Maintain a clean architecture in Python with dependency rules](https://sourcery.ai/blog/dependency-rules/)
-- [Meta, Microsoft, AWS and TomTom launch Overture Foundation for open map data](https://techcrunch.com/2022/12/15/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/)
+- [Adding WebRTC support to OBS using Rust](https://github.com/obsproject/obs-studio/pull/7926)
+- [DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans](https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/)
+- [22 Discoveries of 2022](https://www.nationalgeographic.com/science/article/most-amazing-discoveries-2022)
+- [Ask HN: How to do that you need to do but not motivated at all?](https://news.ycombinator.com/item?id=34000076)
+- [Z-Wave Alliance Announces Z-Wave Source Code Project Now Open and Available](https://z-wavealliance.org/news_p/z-wave-alliance-announces-z-wave-source-code-project-is-complete-now-open-and-widely-available-to-members/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
