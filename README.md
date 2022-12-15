@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What can I do about my declining typing ability as I age?](https://news.ycombinator.com/item?id=33995750)
+- [The World’s Biggest Cultured Meat Factory Is Under Construction in the US](https://singularityhub.com/2022/12/14/the-worlds-biggest-cultured-meat-factory-is-now-under-construction-in-the-us/)
 - [IDN Is Crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
-- [People&#39;s Republic of China Citizen Arrested for Stalking](https://www.justice.gov/usao-ma/pr/peoples-republic-china-citizen-arrested-stalking)
+- [Physicists Teleport Bullshit Through Wormhole](https://www.johnhorgan.org/blog/posts/41998)
 - [Report of Alleged Wrongdoing in Poker Hand and Audit of Security Live Stream](https://hustlercasinolive.com/j4report/)
-- [Soyuz module on International Space Station is leaking something](https://twitter.com/nasaspaceflight/status/1603213585307541506)
-- [Flock is Building a New AI-Driven Mass-Surveillance System [pdf]](https://www.aclu.org/sites/default/files/field_document/flock_1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
