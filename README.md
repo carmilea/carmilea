@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
 - [Bitter Lesson by Richard Sutton](http://incompleteideas.net/IncIdeas/BitterLesson.html)
 - [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read)
-- [Common Lisp](https://groups.google.com/g/net.lang.lisp/c/P7W_1ISJ-sU/m/GAo6w-0B7oQJ)
+- [Common Lisp &lpar;1986&rpar;](https://groups.google.com/g/net.lang.lisp/c/P7W_1ISJ-sU/m/GAo6w-0B7oQJ)
 - [Apollo Layoffs](https://www.apollographql.com/blog/announcement/ceo-geoff-schmidts-message-to-apollo-employees/)
-- [Implementing a Toy Optimizer](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
