@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hive &lpar;YC S14&rpar; is building the best engineering team in Canada](https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer)
 - [Vintage-Style Map of the Mandelbrot Set](https://kottke.org/22/12/vintage-map-mandelbrot-set)
+- [What Is a Query Planner?](https://planetscale.com/blog/what-is-a-query-planner)
 - [New and Improved Embedding Model for OpenAI](https://openai.com/blog/new-and-improved-embedding-model/)
 - [DBT Cloud increase Team plan price by 100% and limit features at the same time](https://www.getdbt.com/blog/dbt-cloud-package-update/)
-- [Lichess gets a big upgrade. It doesn&#39;t go as planned](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
-- [Request for Startups: Climate Tech](https://www.ycombinator.com/blog/rfs-climatetech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
