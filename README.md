@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hive &lpar;YC S14&rpar; is building the best engineering team in Canada](https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer)
-- [Vintage-Style Map of the Mandelbrot Set](https://kottke.org/22/12/vintage-map-mandelbrot-set)
-- [What Is a Query Planner?](https://planetscale.com/blog/what-is-a-query-planner)
-- [New and Improved Embedding Model for OpenAI](https://openai.com/blog/new-and-improved-embedding-model/)
-- [DBT Cloud increase Team plan price by 100% and limit features at the same time](https://www.getdbt.com/blog/dbt-cloud-package-update/)
+- [Bitter Lesson by Richard Sutton](http://incompleteideas.net/IncIdeas/BitterLesson.html)
+- [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read)
+- [Common Lisp](https://groups.google.com/g/net.lang.lisp/c/P7W_1ISJ-sU/m/GAo6w-0B7oQJ)
+- [Apollo Layoffs](https://www.apollographql.com/blog/announcement/ceo-geoff-schmidts-message-to-apollo-employees/)
+- [Implementing a Toy Optimizer](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
