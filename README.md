@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What can I do about my declining typing ability as I age?](https://news.ycombinator.com/item?id=33995750)
-- [The World’s Biggest Cultured Meat Factory Is Under Construction in the US](https://singularityhub.com/2022/12/14/the-worlds-biggest-cultured-meat-factory-is-now-under-construction-in-the-us/)
-- [IDN Is Crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
-- [Physicists Teleport Bullshit Through Wormhole](https://www.johnhorgan.org/blog/posts/41998)
-- [Report of Alleged Wrongdoing in Poker Hand and Audit of Security Live Stream](https://hustlercasinolive.com/j4report/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33996230)
+- [Libreboot 20221214 Released](https://libreboot.org/news/libreboot20221214.html)
+- [US Government Torture of CIA Vault 7 Leaker](https://twitter.com/vickio96064997/status/1603051469040762881)
+- [The world’s biggest cultured meat factory is under construction in the U.S.](https://singularityhub.com/2022/12/14/the-worlds-biggest-cultured-meat-factory-is-now-under-construction-in-the-us/)
+- [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
