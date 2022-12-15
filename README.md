@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic is turning off online services and servers for some older games](https://www.epicgames.com/site/en-US/news/epic-is-turning-off-online-services-and-servers-for-some-older-games)
-- [MIPS announces its first RISC-V chip designs are now available for licensing](https://liliputing.com/mips-announces-its-first-risc-v-chip-designs-are-now-available-for-licensing/)
-- [Python 3.11 Delivers](https://twitter.com/pypi/status/1603089763287826432)
-- [Istanbul mayor jailed for &#39;insulting&#39; officials ahead of 2023 election](https://www.euronews.com/2022/12/14/istanbul-mayor-jailed-for-insulting-officials-ahead-of-2023-election)
-- [Our Trip to Prime Number Theorem &lpar;2021&rpar;](https://susam.net/club/trip-to-prime-number-theorem.html)
+- [Medium Bans User, Deletes Content over Chrome Extension](https://twitter.com/henrylim96/status/1603281698287935488)
+- [What did Unix fans learn from the end of Unix workstations?](https://www.theregister.com/2022/12/13/unix_workstations_lessons/)
+- [Na-S Battery: Low-cost with four times the capacity of lithium](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html)
+- [Who knew the first AI battles would be fought by artists?](https://vmst.io/@selzero/109512557990367884)
+- [Ask HN: How do you use upvote on HN?](https://news.ycombinator.com/item?id=33997986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
