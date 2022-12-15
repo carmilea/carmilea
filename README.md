@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Medium Bans User, Deletes Content over Chrome Extension](https://twitter.com/henrylim96/status/1603281698287935488)
-- [What did Unix fans learn from the end of Unix workstations?](https://www.theregister.com/2022/12/13/unix_workstations_lessons/)
-- [Na-S Battery: Low-cost with four times the capacity of lithium](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html)
-- [Who knew the first AI battles would be fought by artists?](https://vmst.io/@selzero/109512557990367884)
-- [PhD student solves 2,500-year-old Sanskrit problem](https://www.bbc.co.uk/news/articles/cg3gw9v7jnvo)
+- [Wetland emission and atmospheric sink changes explain methane growth in 2020](https://www.nature.com/articles/s41586-022-05447-w)
+- [Ask HN: How might HN build a social network together?](https://news.ycombinator.com/item?id=33999296)
+- [Ask HN: Why aim for reducing climate change?](https://news.ycombinator.com/item?id=33999229)
+- [Maintain a clean architecture in Python with dependency rules](https://sourcery.ai/blog/dependency-rules/)
+- [Meta, Microsoft, AWS and TomTom launch Overture Foundation for open map data](https://techcrunch.com/2022/12/15/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
