@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is a Query Planner?](https://planetscale.com/blog/what-is-a-query-planner)
 - [DBT Cloud increase Team plan price by 100% and limit features at the same time](https://www.getdbt.com/blog/dbt-cloud-package-update/)
+- [Lichess gets a big upgrade. It doesn&#39;t go as planned](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 - [Request for Startups: Climate Tech](https://www.ycombinator.com/blog/rfs-climatetech)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Doors of McMurdo](https://brr.fyi/posts/doors-of-mcmurdo)
-- [Supabase Wrappers: A Framework for Building Postgres Foreign Data Wrappers](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
