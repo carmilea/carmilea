@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DBT Cloud increase Team plan price by 100% and limit features at the same time](https://www.getdbt.com/blog/dbt-cloud-package-update/)
+- [Request for Startups: Climate Tech](https://www.ycombinator.com/blog/rfs-climatetech)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Doors of McMurdo](https://brr.fyi/posts/doors-of-mcmurdo)
 - [Supabase Wrappers: A Framework for Building Postgres Foreign Data Wrappers](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)
-- [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
-- [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
