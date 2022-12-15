@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic is turning off online services and servers for some older games](https://www.epicgames.com/site/en-US/news/epic-is-turning-off-online-services-and-servers-for-some-older-games)
 - [MIPS announces its first RISC-V chip designs are now available for licensing](https://liliputing.com/mips-announces-its-first-risc-v-chip-designs-are-now-available-for-licensing/)
 - [Python 3.11 Delivers](https://twitter.com/pypi/status/1603089763287826432)
+- [Istanbul mayor jailed for &#39;insulting&#39; officials ahead of 2023 election](https://www.euronews.com/2022/12/14/istanbul-mayor-jailed-for-insulting-officials-ahead-of-2023-election)
 - [Our Trip to Prime Number Theorem &lpar;2021&rpar;](https://susam.net/club/trip-to-prime-number-theorem.html)
-- [Documentation/Process: Add Linux Kernel Contribution Maturity Model](https://lwn.net/ml/linux-doc/20221214185714.868374-1-tytso@mit.edu/)
-- [The Gates of Argonath from the LotR in VR @ 50 FPS on Unreal Engine](https://old.reddit.com/r/unrealengine/comments/zlytkq/hi_guys_i_made_the_argonath_from_the_lord_of_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
