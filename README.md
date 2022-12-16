@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JFK Assassination Records – 2022 Additional Documents Release](https://www.archives.gov/research/jfk/release2022)
-- [Geodesic Domes Made Simple](https://buildwithhubs.co.uk/)
-- [Ask HN: What are good self hosted time tracking software for consultants?](https://news.ycombinator.com/item?id=34013754)
-- [HiOperator &lpar;YC S16&rpar; Is Hiring VP of Engineering](https://hioperator.breezy.hr/p/4cb3dcb4e6e5-vp-of-engineering)
-- [ZX81 Goes Nuclear – Controlling a Nuclear Power Plant](https://www.youtube.com/watch?v=tB6CC8UbJLU)
+- [Supabase Vault is now in Beta](https://supabase.com/blog/vault-now-in-beta)
+- [Honey consumption improves blood sugar and cholesterol levels, study suggests](https://www.sci.news/medicine/honey-cardiometabolic-risks-11401.html)
+- [BundesMessenger is a milestone in Germany’s ground-breaking vision](https://element.io/blog/bundesmessenger-is-a-milestone-in-germanys-ground-breaking-vision/)
+- [Research reveals ways lead and cadmium in chocolate may be reduced](https://candyusa.com/news/research-reveals-ways-lead-and-cadmium-in-chocolate-may-be-reduced/)
+- [Disk encryption in AWS is close to useless and potentially harmful](https://tmp.bearblog.dev/disk-encryption-aws-is-close-to-useless-and-potentially-harmful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
