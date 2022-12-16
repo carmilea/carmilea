@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU adopts global minimum 15% tax on big business](https://www.bbc.com/news/business-64004673)
+- [Apple TV+ to adapt William Gibson’s cyberpunk novel Neuromancer](https://www.cinemaexpress.com/english/news/2022/dec/02/apple-tv-to-adapt-william-gibsons-cyberpunk-novel-neuromancer-37299.html)
 - [Graph showing level of Covid, flu and RSV in US wastewater systems, by city](http://publichealth.verily.com/)
-- [Trump&#39;s Trading Card Grift Is Worse Than You Think](https://threats.substack.com/p/trumps-trading-card-grift-is-worse)
 - [WeWork’s Once Robust Cash Reserves Have Dwindled, Raising Chances of Default](https://www.wsj.com/articles/weworks-once-robust-cash-reserves-have-dwindled-raising-chances-of-default-11670905533)
 - [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
-- [Tell HN: Doing a chargeback against Google will get your account banned](https://old.reddit.com/r/tifu/comments/zndbku/tifu_by_accidentally_buying_two_google_pixels_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
