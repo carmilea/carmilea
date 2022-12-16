@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress testing official SQLite Support](https://github.com/WordPress/performance/pull/547)
-- [I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
-- [Peter Norvig critically reviews AlphaCode&#39;s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb)
-- [Legacy Update: Fix Windows Update on Windows XP, Vista, Server 2008, 2003, 2000](https://legacyupdate.net)
-- [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews)
+- [Schizophrenia: The new etiological synthesis](https://www.sciencedirect.com/science/article/pii/S0149763422003839)
+- [Aristocrat Inc](https://www.thebeliever.net/aristocrat-inc/)
+- [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
+- [90s Web &quot;Humor&quot; Button](https://www.monkeon.co.uk/90s-web-humor-button/)
+- [Thomas Pynchon, famously private, sells his archive](https://www.nytimes.com/2022/12/14/arts/thomas-pynchon-huntington-archive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
