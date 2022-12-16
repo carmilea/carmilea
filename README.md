@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [Tell HN: Doing a chargeback against Google will get your account banned](https://old.reddit.com/r/tifu/comments/zndbku/tifu_by_accidentally_buying_two_google_pixels_and/)
+- [Show HN: forma: An efficient vector-graphics renderer](https://github.com/google/forma)
+- [Ford again hikes the starting price of the F150 Lighting now up 40% since launch](https://www.cnbc.com/2022/12/16/ford-f-150-lightning-electric-pickup-gets-another-price-hike.html)
 - [Supabase Vault is now in Beta](https://supabase.com/blog/vault-now-in-beta)
-- [Honey consumption improves blood sugar and cholesterol levels, study suggests](https://www.sci.news/medicine/honey-cardiometabolic-risks-11401.html)
-- [BundesMessenger is a milestone in Germany’s ground-breaking vision](https://element.io/blog/bundesmessenger-is-a-milestone-in-germanys-ground-breaking-vision/)
-- [Research reveals ways lead and cadmium in chocolate may be reduced](https://candyusa.com/news/research-reveals-ways-lead-and-cadmium-in-chocolate-may-be-reduced/)
-- [Geodesic Domes Made Simple](https://buildwithhubs.co.uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
