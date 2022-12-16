@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Worst Opening Sentences of 2022](https://www.bulwer-lytton.com/2019)
+- [Kilo Lisp: A Kilo Byte-Sized Lisp System](http://t3x.org/klisp/index.html)
+- [IBM creates 24-core Power chip so customers can exploit Oracle database license](https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/)
 - [What happened when the San Francisco Bay Area rejected growth](https://www.bloomberg.com/opinion/articles/2022-12-15/what-happened-when-the-san-francisco-bay-area-rejected-growth)
 - [Tiny Code Christmas](https://tcc.lovebyte.party/)
-- [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
-- [SqueakNOS: Smalltalk as a Standalone OS &lpar;2011&rpar;](https://wiki.squeak.org/squeak/1762)
-- [The Pepsi Cola Addict &lpar;1982&rpar;](https://mitpress.mit.edu/9781913689711/the-pepsi-cola-addict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
