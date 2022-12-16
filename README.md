@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter has banned Mastodon links in name and bio for being “malware”](https://mastodon.social/@danluu/109521316258129814)
+- [Atom was archived today](https://github.com/atom/atom)
 - [The Coming Game Engine Inflection Point](https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/)
 - [Twitter applies 7-day suspension to prominent journalists](https://twitter.com/elonmusk/status/1603593201683599360?s=46&t=9UpCrTmScsHkp0vCCATebw)
 - [Ancient grammatical puzzle solved after 2,500 years](https://phys.org/news/2022-12-ancient-grammatical-puzzle-years.html)
-- [Vintage Apple Advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/)
-- [Secret scanning is now available for free on public repositories](https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
