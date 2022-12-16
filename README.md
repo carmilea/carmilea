@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vintage Apple Advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/)
+- [Secret scanning is now available for free on public repositories](https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/)
+- [IvorySQL: Open-source Oracle-compatible PostgreSQL](https://github.com/IvorySQL/IvorySQL)
 - [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
-- [Bitter Lesson by Richard Sutton](http://incompleteideas.net/IncIdeas/BitterLesson.html)
-- [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read)
-- [Common Lisp &lpar;1986&rpar;](https://groups.google.com/g/net.lang.lisp/c/P7W_1ISJ-sU/m/GAo6w-0B7oQJ)
-- [Apollo Layoffs](https://www.apollographql.com/blog/announcement/ceo-geoff-schmidts-message-to-apollo-employees/)
+- [Things I want from Devs as SRE/DevOps](https://oschvr.com/posts/what-id-like-as-sre/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
