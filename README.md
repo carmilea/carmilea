@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are good self hosted time tracking software for consultants?](https://news.ycombinator.com/item?id=34013754)
+- [HiOperator &lpar;YC S16&rpar; Is Hiring VP of Engineering](https://hioperator.breezy.hr/p/4cb3dcb4e6e5-vp-of-engineering)
+- [A Linux Evening](https://fabiensanglard.net/a_linux_evening/index.html)
 - [Huge cylindrical aquarium housing 1,500 exotic fish bursts in Berlin](https://www.theguardian.com/world/2022/dec/16/huge-cylindrical-aquarium-housing-1500-exotic-fish-bursts-in-berlin)
 - [Science Images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
-- [Forgejo](https://forgejo.org/2022-12-15-hello-forgejo/)
-- [The Studio as Compositional Tool &lpar;1983&rpar;](https://beatpatrol.wordpress.com/2010/02/10/brian-eno-the-studio-as-compositional-tool-1983/)
-- [Worst Opening Sentences of 2022](https://www.bulwer-lytton.com/2019)
 <!-- BLOG-POST-LIST:END -->
 
 ---
