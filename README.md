@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
+- [WordPress testing official SQLite Support](https://github.com/WordPress/performance/pull/547)
+- [I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 - [Peter Norvig critically reviews AlphaCode&#39;s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb)
-- [Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000](https://legacyupdate.net)
+- [Legacy Update: Fix Windows Update on Windows XP, Vista, Server 2008, 2003, 2000](https://legacyupdate.net)
 - [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews)
-- [Ask HN: How do you protect your children from internet addiction?](https://news.ycombinator.com/item?id=34019486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
