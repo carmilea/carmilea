@@ -55,7 +55,7 @@
 - [Honey consumption improves blood sugar and cholesterol levels, study suggests](https://www.sci.news/medicine/honey-cardiometabolic-risks-11401.html)
 - [BundesMessenger is a milestone in Germany’s ground-breaking vision](https://element.io/blog/bundesmessenger-is-a-milestone-in-germanys-ground-breaking-vision/)
 - [Research reveals ways lead and cadmium in chocolate may be reduced](https://candyusa.com/news/research-reveals-ways-lead-and-cadmium-in-chocolate-may-be-reduced/)
-- [Disk encryption in AWS is close to useless and potentially harmful](https://tmp.bearblog.dev/disk-encryption-aws-is-close-to-useless-and-potentially-harmful/)
+- [Geodesic Domes Made Simple](https://buildwithhubs.co.uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
