@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter just banned a wave of prominent journalists with no explanation](https://techcrunch.com/2022/12/15/twitter-just-banned-a-wave-of-prominent-journalists-with-no-explanation/)
+- [Ancient grammatical puzzle solved after 2,500 years](https://phys.org/news/2022-12-ancient-grammatical-puzzle-years.html)
 - [Vintage Apple Advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/)
 - [Secret scanning is now available for free on public repositories](https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/)
 - [IvorySQL: Open-source Oracle-compatible PostgreSQL](https://github.com/IvorySQL/IvorySQL)
-- [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
-- [Things I want from Devs as SRE/DevOps](https://oschvr.com/posts/what-id-like-as-sre/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
