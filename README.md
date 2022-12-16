@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What are good self hosted time tracking software for consultants?](https://news.ycombinator.com/item?id=34013754)
 - [HiOperator &lpar;YC S16&rpar; Is Hiring VP of Engineering](https://hioperator.breezy.hr/p/4cb3dcb4e6e5-vp-of-engineering)
+- [ZX81 Goes Nuclear – Controlling a Nuclear Power Plant](https://www.youtube.com/watch?v=tB6CC8UbJLU)
 - [A Linux Evening](https://fabiensanglard.net/a_linux_evening/index.html)
 - [Huge cylindrical aquarium housing 1,500 exotic fish bursts in Berlin](https://www.theguardian.com/world/2022/dec/16/huge-cylindrical-aquarium-housing-1500-exotic-fish-bursts-in-berlin)
-- [Science Images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
