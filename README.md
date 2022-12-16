@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: The easiest way to run a brainstorm, supercharged with A.I](https://mimosa.so/)
-- [EU adopts global minimum 15% tax on big business](https://www.bbc.com/news/business-64004673)
-- [Apple TV+ to adapt William Gibson’s cyberpunk novel Neuromancer](https://www.cinemaexpress.com/english/news/2022/dec/02/apple-tv-to-adapt-william-gibsons-cyberpunk-novel-neuromancer-37299.html)
-- [Graph showing level of Covid, flu and RSV in US wastewater systems, by city](http://publichealth.verily.com/)
-- [WeWork’s Once Robust Cash Reserves Have Dwindled, Raising Chances of Default](https://www.wsj.com/articles/weworks-once-robust-cash-reserves-have-dwindled-raising-chances-of-default-11670905533)
+- [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
+- [Peter Norvig critically reviews AlphaCode&#39;s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb)
+- [Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000](https://legacyupdate.net)
+- [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews)
+- [Ask HN: How do you protect your children from internet addiction?](https://news.ycombinator.com/item?id=34019486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
