@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge cylindrical aquarium housing 1,500 exotic fish bursts in Berlin](https://www.theguardian.com/world/2022/dec/16/huge-cylindrical-aquarium-housing-1500-exotic-fish-bursts-in-berlin)
+- [Science Images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
 - [Forgejo](https://forgejo.org/2022-12-15-hello-forgejo/)
 - [The Studio as Compositional Tool &lpar;1983&rpar;](https://beatpatrol.wordpress.com/2010/02/10/brian-eno-the-studio-as-compositional-tool-1983/)
 - [Worst Opening Sentences of 2022](https://www.bulwer-lytton.com/2019)
-- [Kilo Lisp: A Kilo Byte-Sized Lisp System](http://t3x.org/klisp/index.html)
-- [Codeberg launches Forgejo – Gitea fork](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
