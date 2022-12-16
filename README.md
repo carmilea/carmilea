@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forgejo](https://forgejo.org/2022-12-15-hello-forgejo/)
 - [The Studio as Compositional Tool &lpar;1983&rpar;](https://beatpatrol.wordpress.com/2010/02/10/brian-eno-the-studio-as-compositional-tool-1983/)
 - [Worst Opening Sentences of 2022](https://www.bulwer-lytton.com/2019)
 - [Kilo Lisp: A Kilo Byte-Sized Lisp System](http://t3x.org/klisp/index.html)
-- [IBM creates 24-core Power chip so customers can exploit Oracle database license](https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/)
-- [What happened when the San Francisco Bay Area rejected growth](https://www.bloomberg.com/opinion/articles/2022-12-15/what-happened-when-the-san-francisco-bay-area-rejected-growth)
+- [Codeberg launches Forgejo – Gitea fork](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
