@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened when the San Francisco Bay Area rejected growth](https://www.bloomberg.com/opinion/articles/2022-12-15/what-happened-when-the-san-francisco-bay-area-rejected-growth)
 - [Tiny Code Christmas](https://tcc.lovebyte.party/)
 - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
-- [Atom was archived today](https://github.com/atom/atom)
-- [The Coming Game Engine Inflection Point](https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/)
-- [Twitter applies 7-day suspension to half a dozen journalists](https://www.washingtonpost.com/media/2022/12/15/twitter-journalists-suspended-musk/)
+- [SqueakNOS: Smalltalk as a Standalone OS &lpar;2011&rpar;](https://wiki.squeak.org/squeak/1762)
+- [The Pepsi Cola Addict &lpar;1982&rpar;](https://mitpress.mit.edu/9781913689711/the-pepsi-cola-addict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
