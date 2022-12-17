@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blender 3.4 available](https://www.blender.org/download/releases/3-4/)
+- [I Asked ChatGPT to Explain Some Jokes to Me](https://susam.net/maze/chatgpt-explains-jokes.html)
 - [GTK File Chooser Dialog gets a thumbnail view after 18 years](https://thisweek.gnome.org/posts/2022/12/twig-74/)
 - [French accounting firm Mazars is pausing all its work with crypto firms](https://finance.yahoo.com/news/accounting-firm-mazars-drops-all-crypto-clients-including-binance-and-cryptocom-153807881.html)
 - [When Paper Beats the Screen](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
