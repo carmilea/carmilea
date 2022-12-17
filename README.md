@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Post, the latest Twitter alternative, is betting big on micropayments for news](https://www.niemanlab.org/2022/11/post-the-latest-twitter-alternative-is-betting-big-on-micropayments-for-news/)
-- [As unions decline, inequality rises](https://www.epi.org/publication/unions-decline-inequality-rises/)
-- [Linux, Amazon, Meta, and Microsoft Want to Break the Google Maps Monopoly](https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/)
-- [As winter approaches, here&#39;s a story about why hardware is hard](https://twitter.com/tessalau/status/1604018884662951938)
-- [Drupal 10.0](https://www.drupal.org/blog/drupal-10-0-0)
+- [Binance outflows hit $6B as Mazars halts ‘proof of reserves’ work](https://www.ft.com/content/bb50a204-5239-4db0-9964-c3bf9339c594)
+- [Valve Is Paying Open-Source Developers to Work on Proton, Mesa, and More](https://old.reddit.com/r/linux/comments/znxb9y/valve_is_paying_100_opensource_developers_to_work/)
+- [Apk.sh is a Bash script that makes reverse engineering Android apps easier](https://github.com/ax/apk.sh)
+- [Google introduces end-to-end encryption for Gmail on the web](https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/)
+- [The Empty List](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
