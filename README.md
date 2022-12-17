@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg Has Never Done Anything Original and I Can Prove It](https://notes.ghed.in/posts/2022/zuckerberg-original/)
-- [Software workers labor union sues Klarna over layoffs of 7000](https://www.tellerreport.com/news/2022-12-14-the-union-is-suing-klarna-in-the-labor-court.r1b40rP_i.html)
+- [W3C’s transfer from MIT to non-profit going poorly](https://twitter.com/robinberjon/status/1603834995830816769)
+- [Milgram experiment &lpar;1963&rpar; [video]](https://www.youtube.com/watch?v=Kzd6Ew3TraA)
+- [Atari Cosmos: A portable holographic video game machine &lpar;scroll a bit&rpar; &lpar;2013&rpar;](https://www.ataricompendium.com/archives/interviews/roger_hector/interview_roger_hector.html)
 - [Apple changed how reading books works in iOS 16](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
-- [Ask HN: What is the best advice you received in 2022?](https://news.ycombinator.com/item?id=34029801)
 - [Corviale, a one-kilometer residential complex in Rome](https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome)
 <!-- BLOG-POST-LIST:END -->
 
