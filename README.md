@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked ChatGPT to Explain Some Jokes to Me](https://susam.net/maze/chatgpt-explains-jokes.html)
-- [GTK File Chooser Dialog gets a thumbnail view after 18 years](https://thisweek.gnome.org/posts/2022/12/twig-74/)
-- [French accounting firm Mazars is pausing all its work with crypto firms](https://finance.yahoo.com/news/accounting-firm-mazars-drops-all-crypto-clients-including-binance-and-cryptocom-153807881.html)
-- [When Paper Beats the Screen](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
-- [WebAssembly and Its Platform Targets](https://snarky.ca/webassembly-and-its-platform-targets/)
+- [Post, the latest Twitter alternative, is betting big on micropayments for news](https://www.niemanlab.org/2022/11/post-the-latest-twitter-alternative-is-betting-big-on-micropayments-for-news/)
+- [As unions decline, inequality rises](https://www.epi.org/publication/unions-decline-inequality-rises/)
+- [Linux, Amazon, Meta, and Microsoft Want to Break the Google Maps Monopoly](https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/)
+- [As winter approaches, here&#39;s a story about why hardware is hard](https://twitter.com/tessalau/status/1604018884662951938)
+- [Drupal 10.0](https://www.drupal.org/blog/drupal-10-0-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
