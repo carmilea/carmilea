@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jack Ma flees tech crackdown to Tokyo in twilight of neoliberalism](https://asia.nikkei.com/Spotlight/Comment/Jack-Ma-flees-tech-crackdown-to-Tokyo-in-twilight-of-neoliberalism)
+- [Jack Ma apparently has been living in Tokyo](https://asia.nikkei.com/Spotlight/Comment/Jack-Ma-flees-tech-crackdown-to-Tokyo-in-twilight-of-neoliberalism)
 - [Songtell](https://www.songtell.com/)
 - [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102)
 - [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
