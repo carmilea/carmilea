@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple changed how reading books works in iOS 16, and I may never be happy again](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
+- [Mark Zuckerberg Has Never Done Anything Original and I Can Prove It](https://notes.ghed.in/posts/2022/zuckerberg-original/)
+- [Software workers labor union sues Klarna over layoffs of 7000](https://www.tellerreport.com/news/2022-12-14-the-union-is-suing-klarna-in-the-labor-court.r1b40rP_i.html)
+- [Apple changed how reading books works in iOS 16](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
 - [Ask HN: What is the best advice you received in 2022?](https://news.ycombinator.com/item?id=34029801)
-- [Corviale, a One-Kilometer Residential Complex in Rome](https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome)
-- [AVR-GCC Compiler Makes Questionable Code](https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/)
-- [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
+- [Corviale, a one-kilometer residential complex in Rome](https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
