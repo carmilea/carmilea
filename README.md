@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Ma flees tech crackdown to Tokyo in twilight of neoliberalism](https://asia.nikkei.com/Spotlight/Comment/Jack-Ma-flees-tech-crackdown-to-Tokyo-in-twilight-of-neoliberalism)
 - [Songtell](https://www.songtell.com/)
 - [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102)
 - [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
-- [John Carmack Leaves Meta](https://www.businessinsider.com/john-carmack-meta-consulting-cto-virtual-reality-leaving-2022-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
