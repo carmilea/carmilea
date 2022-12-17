@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
+- [John Carmack Leaves Meta](https://www.businessinsider.com/john-carmack-meta-consulting-cto-virtual-reality-leaving-2022-12)
 - [Schizophrenia: The new etiological synthesis](https://www.sciencedirect.com/science/article/pii/S0149763422003839)
-- [Aristocrat Inc](https://www.thebeliever.net/aristocrat-inc/)
 - [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
 - [90s Web &quot;Humor&quot; Button](https://www.monkeon.co.uk/90s-web-humor-button/)
-- [Thomas Pynchon, famously private, sells his archive](https://www.nytimes.com/2022/12/14/arts/thomas-pynchon-huntington-archive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
