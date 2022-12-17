@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender 3.4 available](https://www.blender.org/download/releases/3-4/)
 - [GTK File Chooser Dialog gets a thumbnail view after 18 years](https://thisweek.gnome.org/posts/2022/12/twig-74/)
+- [French accounting firm Mazars is pausing all its work with crypto firms](https://finance.yahoo.com/news/accounting-firm-mazars-drops-all-crypto-clients-including-binance-and-cryptocom-153807881.html)
 - [When Paper Beats the Screen](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
-- [A ticking time bomb: healthcare under threat across western Europe](https://www.theguardian.com/society/2022/dec/14/a-ticking-time-bomb-healthcare-under-threat-across-western-europe)
 - [WebAssembly and Its Platform Targets](https://snarky.ca/webassembly-and-its-platform-targets/)
-- [Atari Hotels](https://atarihotels.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
