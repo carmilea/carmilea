@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Acrylic Aquariums Fail](https://www.plasticstoday.com/materials/when-acrylic-aquariums-fail)
+- [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102)
+- [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
 - [John Carmack Leaves Meta](https://www.businessinsider.com/john-carmack-meta-consulting-cto-virtual-reality-leaving-2022-12)
 - [Oppenheimer Cleared [pdf]](https://www.energy.gov/sites/default/files/2022-12/S1%20Oppenheimer%20Order%2012.12.22%20signed%20by%20S1%2012-16-2022.pdf)
-- [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
