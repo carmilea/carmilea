@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GTK File Chooser Dialog gets a thumbnail view after 18 years](https://thisweek.gnome.org/posts/2022/12/twig-74/)
 - [When Paper Beats the Screen](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
-- [Carp – a statically typed, non-GC Lisp language](https://github.com/carp-lang/Carp/blob/master/README.md)
-- [Songtell](https://www.songtell.com/)
-- [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102)
-- [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- [A ticking time bomb: healthcare under threat across western Europe](https://www.theguardian.com/society/2022/dec/14/a-ticking-time-bomb-healthcare-under-threat-across-western-europe)
+- [WebAssembly and Its Platform Targets](https://snarky.ca/webassembly-and-its-platform-targets/)
+- [Atari Hotels](https://atarihotels.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
