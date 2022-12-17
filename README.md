@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Golden Age of Basic &lpar;2014&rpar;](https://spectrum.ieee.org/the-golden-age-of-basic)
+- [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o)
 - [Show HN: A self-updating list of the most current useragents](https://www.useragents.me)
+- [Tell HN: Google is correlating location data to your IP](https://news.ycombinator.com/item?id=34032484)
 - [Get root on macOS 13.0.1 the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
-- [Capture the flag using OSINT techniques &lpar;2019&rpar;](https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/)
-- [Unredacter: Never use pixelation as a redaction technique](https://github.com/BishopFox/unredacter)
-- [W3C’s transfer from MIT to non-profit going poorly](https://twitter.com/robinberjon/status/1603834995830816769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
