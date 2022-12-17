@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [British empire killed 165M Indians in 40 years: How colonialism inspired fascism](https://mronline.org/2022/12/14/british-empire-killed-165-million-indians-in-40-years/)
+- [Show HN: A self-updating list of the most current useragents](https://www.useragents.me)
+- [Get root on macOS 13.0.1 the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
+- [Capture the flag using OSINT techniques &lpar;2019&rpar;](https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/)
 - [Unredacter: Never use pixelation as a redaction technique](https://github.com/BishopFox/unredacter)
 - [W3C’s transfer from MIT to non-profit going poorly](https://twitter.com/robinberjon/status/1603834995830816769)
-- [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
-- [Milgram experiment &lpar;1963&rpar; [video]](https://www.youtube.com/watch?v=Kzd6Ew3TraA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
