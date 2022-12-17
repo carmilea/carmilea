@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British empire killed 165M Indians in 40 years: How colonialism inspired fascism](https://mronline.org/2022/12/14/british-empire-killed-165-million-indians-in-40-years/)
+- [Unredacter: Never use pixelation as a redaction technique](https://github.com/BishopFox/unredacter)
 - [W3C’s transfer from MIT to non-profit going poorly](https://twitter.com/robinberjon/status/1603834995830816769)
+- [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
 - [Milgram experiment &lpar;1963&rpar; [video]](https://www.youtube.com/watch?v=Kzd6Ew3TraA)
-- [Atari Cosmos: A portable holographic video game machine &lpar;scroll a bit&rpar; &lpar;2013&rpar;](https://www.ataricompendium.com/archives/interviews/roger_hector/interview_roger_hector.html)
-- [Apple changed how reading books works in iOS 16](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
-- [Corviale, a one-kilometer residential complex in Rome](https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
