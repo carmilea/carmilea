@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strg.snek](https://toulou.itch.io/strgsnek)
+- [Show HN: Write an email to Santa Claus &lpar;ok, ok GTP-3&rpar;](https://hohoho.click/)
 - [Binance outflows hit $6B as Mazars halts ‘proof of reserves’ work](https://www.ft.com/content/bb50a204-5239-4db0-9964-c3bf9339c594)
+- [Show HN: Textual Markdown – a Markdown “browser” in the terminal](https://github.com/willmcgugan/textual-markdown)
 - [Valve Is Paying Open-Source Developers to Work on Proton, Mesa, and More](https://old.reddit.com/r/linux/comments/znxb9y/valve_is_paying_100_opensource_developers_to_work/)
-- [Apk.sh is a Bash script that makes reverse engineering Android apps easier](https://github.com/ax/apk.sh)
-- [Google introduces end-to-end encryption for Gmail on the web](https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/)
-- [The Empty List](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
