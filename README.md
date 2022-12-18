@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wheels up for Waymo as we expand our 24/7 rider-only territories](https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html)
-- [A newspaper vanished from the internet. Did someone pay to kill it?](https://www.washingtonpost.com/media/2022/12/14/hook-charlottesville-vanished-archive/)
-- [Tell HN: Musk&#39;s aircraft are not using PIA transponder codes](https://news.ycombinator.com/item?id=34037780)
-- [Ask HN: Resources for Building a Webserver in C?](https://news.ycombinator.com/item?id=34037547)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [How Logan Paul Scammed People Out of Millions](https://www.youtube.com/watch?v=386p68_lDHA)
+- [Launch HN: Slauth.io &lpar;YC S22&rpar; – IAM Policy Auto-Generation](https://news.ycombinator.com/item?id=34038663)
+- [I’ve been battling cancer last 2 years only have a few days left](https://twitter.com/stokesneuro/status/1604369158883491841)
+- [Winter &amp; Cold Weather EV Range Loss in 7,000 Cars](https://www.recurrentauto.com/research/winter-ev-range-loss)
+- [Ask HN: How do people find your blog?](https://news.ycombinator.com/item?id=34038542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
