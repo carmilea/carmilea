@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does It Inline?](https://bolinlang.com/does-it-inline)
+- [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
+- [The record-breaking -108.00 diopter myopia lenses &lpar;2016&rpar;](https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d)
 - [The Golden Age of Basic &lpar;2014&rpar;](https://spectrum.ieee.org/the-golden-age-of-basic)
-- [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o)
-- [Show HN: A self-updating list of the most current useragents](https://www.useragents.me)
-- [Tell HN: Google is correlating location data to your IP](https://news.ycombinator.com/item?id=34032484)
-- [Get root on macOS 13.0.1 the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
+- [Steve Jobs Insult Response &lpar;1997&rpar; [video]](https://www.youtube.com/watch?v=oeqPrUmVz-o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
