@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
+- [A minor memorial for Leo Laporte on terrestrial AM radio](http://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
+- [Browser extension that let&#39;s you follow accounts on foreign Mastodon instances](https://github.com/Lartsch/FediAct)
 - [Paul Graham is leaving Twitter](https://twitter.com/paulg/status/1604556563338887168)
 - [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962)
-- [Ubuntu Snap update spoiled my World Cup Final](https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/)
-- [Mostly-dead influential programming languages &lpar;2020&rpar;](https://www.hillelwayne.com/post/influential-dead-languages/)
-- [Doing “No” Better](https://www.andycleff.com/2022/12/doing-no-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
