@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [R/ElonJetTracker](https://old.reddit.com/r/ElonJetTracker/)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [Emacs User Survey – 2022 Results](https://emacssurvey.org/results/3425413930)
 - [Twitter&#39;s anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
 - [Next, Nest, Nuxt Nust?](https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby)
 - [EsPiFF: An ESP32 in the Raspberry Pi form factor](https://github.com/MDCservice/EsPiFF)
-- [Show HN: I made an Ethernet transceiver from logic gates](https://imihajlov.tk/blog/posts/eth-to-spi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
