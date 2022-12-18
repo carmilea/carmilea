@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
 - [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
 - [Does it inline?](https://bolinlang.com/does-it-inline)
 - [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
 - [The record-breaking -108.00 diopter myopia lenses &lpar;2016&rpar;](https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d)
-- [The Golden Age of Basic &lpar;2014&rpar;](https://spectrum.ieee.org/the-golden-age-of-basic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
