@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is HN having issues?](https://news.ycombinator.com/item?id=34044097)
-- [Twitter Suspends PG&#39;s Account](https://twitter.com/paulg/)
-- [The World’s Money Problem](https://www.lynalden.com/december-2022-newsletter/)
-- [IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
+- [Introducing The Flickr Foundation](https://thisweekinphoto.com/introducing-the-flickr-foundation/)
+- [Twitter suspends pg&#39;s account](https://twitter.com/paulg/)
+- [IRS accidentally releases taxpayers’ private data again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
 - [A minor memorial for Leo Laporte on terrestrial AM radio](http://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
+- [Browser extension that let&#39;s you follow accounts on foreign Mastodon instances](https://github.com/Lartsch/FediAct)
 <!-- BLOG-POST-LIST:END -->
 
 ---
