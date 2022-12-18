@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [R/ElonJetTracker](https://old.reddit.com/r/ElonJetTracker/)
 - [Twitter&#39;s anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
 - [Next, Nest, Nuxt Nust?](https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby)
 - [EsPiFF: An ESP32 in the Raspberry Pi form factor](https://github.com/MDCservice/EsPiFF)
 - [Show HN: I made an Ethernet transceiver from logic gates](https://imihajlov.tk/blog/posts/eth-to-spi/)
-- [Programming with Unicon [pdf]](http://unicon.org/book/ub-nightly.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
