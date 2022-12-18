@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: I made an Ethernet transceiver from logic gates](https://imihajlov.tk/blog/posts/eth-to-spi/)
-- [Alabama women, 85 and 61, sentenced after feeding stray cats](https://www.theguardian.com/us-news/2022/dec/17/alabama-women-stray-cats-arrest-food-trap)
-- [Don&#39;t Use StripE](https://news.ycombinator.com/item?id=34035581)
 - [Programming with Unicon [pdf]](http://unicon.org/book/ub-nightly.pdf)
 - [America’s social and political turmoil during the 1910s and 20s](https://quillette.com/2022/12/17/americas-forgotten-crisis/)
+- [Let&#39;s Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
+- [Quite OK Image is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
