@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [GNU/Linux shell related internals](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/)
+- [Windows 11 update added &#39;Search&#39; label to taskbar search button – how to remove?](https://superuser.com/questions/1752403/windows-11-update-22h2-added-search-label-to-taskbar-search-button-how-to-re)
 - [Emacs User Survey – 2022 Results](https://emacssurvey.org/results/3425413930)
 - [Twitter&#39;s anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
-- [Next, Nest, Nuxt Nust?](https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby)
-- [EsPiFF: An ESP32 in the Raspberry Pi form factor](https://github.com/MDCservice/EsPiFF)
 <!-- BLOG-POST-LIST:END -->
 
 ---
