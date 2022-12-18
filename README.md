@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Argentina Wins the Football World Cup](https://www.theguardian.com/football/live/2022/dec/18/argentina-france-world-cup-2022-final-live)
+- [Promotion of alternative social platforms policy](https://help.twitter.com/en/rules-and-policies/social-platforms-policy)
+- [Stanford&#39;s “Elimination of Harmful Language” Initiative](https://itcommunity.stanford.edu/ehli)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [We’re Drowning in Old Books. But Getting Rid of Them Is Heartbreaking](https://www.washingtonpost.com/lifestyle/2022/12/19/used-books-stores-donation-fran-lebowitz/)
-- [TV Has Always Disappeared. This Feels Different](https://www.vulture.com/article/hbo-max-warner-cancelations-disappearing-tv-streaming-future.html)
-- [Why fusion will never happen &lpar;2012&rpar;](https://matter2energy.wordpress.com/2012/10/26/why-fusion-will-never-happen/)
-- [How Logan Paul Scammed People Out of Millions](https://www.youtube.com/watch?v=386p68_lDHA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
