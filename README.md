@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter&#39;s anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
+- [Next, Nest, Nuxt Nust?](https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby)
+- [EsPiFF: An ESP32 in the Raspberry Pi form factor](https://github.com/MDCservice/EsPiFF)
 - [Show HN: I made an Ethernet transceiver from logic gates](https://imihajlov.tk/blog/posts/eth-to-spi/)
 - [Programming with Unicon [pdf]](http://unicon.org/book/ub-nightly.pdf)
-- [America’s social and political turmoil during the 1910s and 20s](https://quillette.com/2022/12/17/americas-forgotten-crisis/)
-- [Let&#39;s Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
-- [Quite OK Image is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
