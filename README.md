@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [We’re Drowning in Old Books. But Getting Rid of Them Is Heartbreaking](https://www.washingtonpost.com/lifestyle/2022/12/19/used-books-stores-donation-fran-lebowitz/)
+- [TV Has Always Disappeared. This Feels Different](https://www.vulture.com/article/hbo-max-warner-cancelations-disappearing-tv-streaming-future.html)
+- [Why fusion will never happen &lpar;2012&rpar;](https://matter2energy.wordpress.com/2012/10/26/why-fusion-will-never-happen/)
 - [How Logan Paul Scammed People Out of Millions](https://www.youtube.com/watch?v=386p68_lDHA)
-- [Launch HN: Slauth.io &lpar;YC S22&rpar; – IAM Policy Auto-Generation](https://news.ycombinator.com/item?id=34038663)
-- [I’ve been battling cancer last 2 years only have a few days left](https://twitter.com/stokesneuro/status/1604369158883491841)
-- [Winter &amp; Cold Weather EV Range Loss in 7,000 Cars](https://www.recurrentauto.com/research/winter-ev-range-loss)
-- [Ask HN: How do people find your blog?](https://news.ycombinator.com/item?id=34038542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
