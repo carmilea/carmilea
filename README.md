@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Copyright Office Rules A.I. Art Can’t Be Copyrighted](https://www.smithsonianmag.com/smart-news/us-copyright-office-rules-ai-art-cant-be-copyrighted-180979808/)
+- [“The more reliant we are on others, the less resilient we are as a nation”](https://committees.parliament.uk/committee/78/foreign-affairs-committee/news/175140/the-more-reliant-we-are-on-others-the-less-resilient-we-are-as-a-nation/)
+- [Ask HN: Resources for Building a Webserver in C?](https://news.ycombinator.com/item?id=34037547)
+- [“This Tweet Is Unavailable” – Musk Escalates Shadowbanning](https://husseini.substack.com/p/this-tweet-is-unavailable-musk-escalates)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [GNU/Linux shell related internals](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/)
-- [Windows 11 update added &#39;Search&#39; label to taskbar search button – how to remove?](https://superuser.com/questions/1752403/windows-11-update-22h2-added-search-label-to-taskbar-search-button-how-to-re)
-- [Emacs User Survey – 2022 Results](https://emacssurvey.org/results/3425413930)
-- [Twitter&#39;s anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
 <!-- BLOG-POST-LIST:END -->
 
 ---
