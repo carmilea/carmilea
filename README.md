@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
+- [Quite OK Image is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 - [Philosophy Bro](https://www.philosophybro.com)
 - [Show HN: A highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
 - [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
-- [Does it inline?](https://bolinlang.com/does-it-inline)
-- [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
