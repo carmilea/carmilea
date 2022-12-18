@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mostly-dead influential programming languages &lpar;2020&rpar;](https://www.hillelwayne.com/post/influential-dead-languages/)
+- [Doing “No” Better](https://www.andycleff.com/2022/12/doing-no-better/)
+- [Apple &#39;created decoy labor group&#39; to derail unionization](https://www.theregister.com/2022/12/16/apple_decoy_labor_group/)
 - [Argentina Wins the Football World Cup](https://www.theguardian.com/football/live/2022/dec/18/argentina-france-world-cup-2022-final-live)
 - [Promotion of alternative social platforms policy](https://help.twitter.com/en/rules-and-policies/social-platforms-policy)
-- [Stanford&#39;s “Elimination of Harmful Language” Initiative](https://itcommunity.stanford.edu/ehli)
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [We’re Drowning in Old Books. But Getting Rid of Them Is Heartbreaking](https://www.washingtonpost.com/lifestyle/2022/12/19/used-books-stores-donation-fran-lebowitz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
