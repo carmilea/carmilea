@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does It Inline?](https://bolinlang.com/does-it-inline)
+- [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
+- [Does it inline?](https://bolinlang.com/does-it-inline)
 - [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
 - [The record-breaking -108.00 diopter myopia lenses &lpar;2016&rpar;](https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d)
 - [The Golden Age of Basic &lpar;2014&rpar;](https://spectrum.ieee.org/the-golden-age-of-basic)
-- [Steve Jobs Insult Response &lpar;1997&rpar; [video]](https://www.youtube.com/watch?v=oeqPrUmVz-o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
