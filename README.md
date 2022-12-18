@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Graham is leaving Twitter](https://twitter.com/paulg/status/1604556563338887168)
+- [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962)
+- [Ubuntu Snap update spoiled my World Cup Final](https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/)
 - [Mostly-dead influential programming languages &lpar;2020&rpar;](https://www.hillelwayne.com/post/influential-dead-languages/)
 - [Doing “No” Better](https://www.andycleff.com/2022/12/doing-no-better/)
-- [Apple &#39;created decoy labor group&#39; to derail unionization](https://www.theregister.com/2022/12/16/apple_decoy_labor_group/)
-- [Argentina Wins the Football World Cup](https://www.theguardian.com/football/live/2022/dec/18/argentina-france-world-cup-2022-final-live)
-- [Promotion of alternative social platforms policy](https://help.twitter.com/en/rules-and-policies/social-platforms-policy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
