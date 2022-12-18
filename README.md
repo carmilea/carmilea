@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Copyright Office Rules A.I. Art Can’t Be Copyrighted](https://www.smithsonianmag.com/smart-news/us-copyright-office-rules-ai-art-cant-be-copyrighted-180979808/)
-- [“The more reliant we are on others, the less resilient we are as a nation”](https://committees.parliament.uk/committee/78/foreign-affairs-committee/news/175140/the-more-reliant-we-are-on-others-the-less-resilient-we-are-as-a-nation/)
+- [Wheels up for Waymo as we expand our 24/7 rider-only territories](https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html)
+- [A newspaper vanished from the internet. Did someone pay to kill it?](https://www.washingtonpost.com/media/2022/12/14/hook-charlottesville-vanished-archive/)
+- [Tell HN: Musk&#39;s aircraft are not using PIA transponder codes](https://news.ycombinator.com/item?id=34037780)
 - [Ask HN: Resources for Building a Webserver in C?](https://news.ycombinator.com/item?id=34037547)
-- [“This Tweet Is Unavailable” – Musk Escalates Shadowbanning](https://husseini.substack.com/p/this-tweet-is-unavailable-musk-escalates)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
