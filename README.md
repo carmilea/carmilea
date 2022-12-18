@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America’s social and political turmoil during the 1910s and 20s](https://quillette.com/2022/12/17/americas-forgotten-crisis/)
 - [Let&#39;s Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
 - [Quite OK Image is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 - [Philosophy Bro](https://www.philosophybro.com)
 - [Show HN: A highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
-- [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
