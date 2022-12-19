@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [J one-page interpreter fragment &lpar;1992&rpar;](https://code.jsoftware.com/wiki/Essays/Incunabulum)
+- [GCC 13 to support Modula-2: Follow-up to Pascal lives on in FOSS form](https://www.theregister.com/2022/12/16/gcc_13_will_support_modula2/)
 - [Twitter policy page forbidding links to other social media removed](https://news.ycombinator.com/item?id=34050283)
-- [An electric Kia that’s faster than a Lamborghini? The 2023 EV6 GT, driven](https://arstechnica.com/cars/2022/12/an-electric-kia-thats-faster-than-a-lamborghini-the-2023-ev6-gt-driven/)
 - [Special Relativity and Middle-Earth](https://terrytao.wordpress.com/2022/12/18/special-relativity-and-middle-earth/)
-- [Anthropology in Ruins](https://www.mindingthecampus.org/2022/12/13/anthropology-in-ruins/)
 - [How Many Computers Are in Your Computer? &lpar;2021&rpar;](https://www.gwern.net/Computers)
 <!-- BLOG-POST-LIST:END -->
 
