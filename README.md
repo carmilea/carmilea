@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Discrete Logic IC CPU](https://imihajlov.tk/blog/posts/ccpu/)
-- [The Risk of Orbital Debris and One &lpar;Cheap&rpar; Way to Mitigate It](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
+- [The risk of orbital debris and one cheap way to mitigate it](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
 - [Enhance Speech from Adobe – Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
 - [Ryujinx &lpar;Switch Emulator&rpar; Update](https://blog.ryujinx.org/progress-report-november-2022/)
 - [Explicit Ontologies in a World Without](https://davidbieber.com/snippets/2022-12-16-note-taking-ontologies/)
