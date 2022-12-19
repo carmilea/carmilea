@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Anthropology in Ruins](https://www.mindingthecampus.org/2022/12/13/anthropology-in-ruins/)
+- [How Many Computers Are in Your Computer? &lpar;2021&rpar;](https://www.gwern.net/Computers)
 - [Ask HN: Can you recommend an “instant-switch” Monitor? Does one exist?](https://news.ycombinator.com/item?id=34048573)
 - [Discrete Logic IC CPU](https://imihajlov.tk/blog/posts/ccpu/)
 - [The risk of orbital debris and one cheap way to mitigate it](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
-- [Enhance Speech from Adobe – Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
