@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Power company money flows to news sites that attack their critics](https://www.npr.org/2022/12/19/1143753129/power-companies-florida-alabama-media-investigation-consulting-firm)
-- [GCC now includes Modula-2 and Rust. Do they work on OpenBSD?](https://briancallahan.net/blog/20221219.html)
-- [Show HN: Infisical – open-source secrets manager](https://github.com/Infisical/infisical)
-- [Ask HN: What is the best thing you read in 2022?](https://news.ycombinator.com/item?id=34055123)
-- [Binance&#39;s books are a black box, filings show, as it tries to rally confidence](https://www.reuters.com/technology/binances-books-are-black-box-filings-show-crypto-giant-tries-rally-confidence-2022-12-19/)
+- [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812)
+- [Twitter archiver: Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
+- [Hydrogel interfaces for merging humans and machines](https://www.nature.com/articles/s41578-022-00483-4)
+- [Spotifyd](https://github.com/Spotifyd/spotifyd)
+- [World record back at HZB: Tandem solar cell achieves 32.5 percent efficiency](https://www.helmholtz-berlin.de/pubbin/news_seite?nid=24348&sprache=en&seitenid=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
