@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic Games, Maker of ‘Fortnite,’ to Pay $520M to Resolve FTC Allegations](https://www.wsj.com/articles/epic-games-maker-of-fortnite-to-pay-520-million-to-resolve-ftc-allegations-11671456744)
-- [Tell HN: Uber has blocked my account for years, won&#39;t tell me why](https://news.ycombinator.com/item?id=34051876)
-- [Discovery identifies Australia as birthplace of all modern mammals](https://www.australiangeographic.com.au/news/2022/12/discovery-identifies-australia-as-birthplace-of-all-modern-mammals/)
-- [Ice not recommended for soft tissue injury treatment &lpar;2019&rpar;](https://blogs.bmj.com/bjsm/2019/04/26/soft-tissue-injuries-simply-need-peace-love/)
-- [We lock atmospheric carbon into stone for good](https://carbontostone.com/)
+- [Tell HN: Google Maps location data is used for GeoIP updates](https://news.ycombinator.com/item?id=34052786)
+- [A few new things in Emacs 29](https://mbork.pl/2022-12-19_A_few_new_things_in_Emacs_29)
+- [Code Design Decision – Always throw custom exceptions](https://github.com/getparthenon/parthenon/wiki/Design-Decision:-Throw-Custom-Exceptions)
+- [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
+- [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
