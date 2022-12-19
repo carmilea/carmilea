@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter policy page forbidding links to other social media removed](https://news.ycombinator.com/item?id=34050283)
+- [An electric Kia that’s faster than a Lamborghini? The 2023 EV6 GT, driven](https://arstechnica.com/cars/2022/12/an-electric-kia-thats-faster-than-a-lamborghini-the-2023-ev6-gt-driven/)
+- [Special Relativity and Middle-Earth](https://terrytao.wordpress.com/2022/12/18/special-relativity-and-middle-earth/)
 - [Anthropology in Ruins](https://www.mindingthecampus.org/2022/12/13/anthropology-in-ruins/)
 - [How Many Computers Are in Your Computer? &lpar;2021&rpar;](https://www.gwern.net/Computers)
-- [Ask HN: Can you recommend an “instant-switch” Monitor? Does one exist?](https://news.ycombinator.com/item?id=34048573)
-- [Discrete Logic IC CPU](https://imihajlov.tk/blog/posts/ccpu/)
-- [The risk of orbital debris and one cheap way to mitigate it](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
