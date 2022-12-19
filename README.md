@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best tips for reducing eyestrain while coding with astigmatism?](https://news.ycombinator.com/item?id=34051427)
+- [1/4 of companies that IPO&#39;d in 2020-2021 trades below $2, risking delisting](https://www.wsj.com/articles/oatly-other-deflated-ipo-stocks-haunt-new-issue-market-11671417781)
+- [Wing: A cloud-oriented programming language](https://www.winglang.io/)
+- [Characterizing Emergent Phenomena in Large Language Models](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
 - [Post YC Post Mortem](https://github.com/getlago/lago/wiki/Post-mortem-of-our-1st-YC-startup:-a-Reverse-ETL)
-- [Fungal toxins are widespread in European wheat](https://theconversation.com/fungal-toxins-are-widespread-in-european-wheat-threatening-human-health-and-the-economy-196531)
-- [Converting my PhD thesis into HTML &lpar;2021&rpar;](https://desfontain.es/privacy/latex-to-html.html)
-- [The golden age of streaming TV is over](https://www.businessinsider.com/why-streaming-tv-got-boring-netflix-hulu-hbo-max-cable-2022-12)
-- [J one-page interpreter fragment &lpar;1992&rpar;](https://code.jsoftware.com/wiki/Essays/Incunabulum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
