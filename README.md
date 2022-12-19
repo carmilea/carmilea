@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing ‘Strlen’ Using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
+- [zstd](https://github.com/facebook/zstd)
+- [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
+- [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 - [American EVs reduced gasoline consumption by just 0.54% in 2021](https://arstechnica.com/cars/2022/11/american-evs-reduced-gasoline-consumption-by-just-0-54-in-2021/)
-- [How did Roomba-recorded photos end up on Facebook?](https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/)
-- [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812)
-- [Twitter archiver: Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
-- [Hydrogel interfaces for merging humans and machines](https://www.nature.com/articles/s41578-022-00483-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
