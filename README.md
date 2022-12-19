@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radio 101: Why AM stations reduce power at night](https://relevantradio.com/2020/01/radio-101-why-am-stations-reduce-power-at-night/)
+- [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
+- [Apple Music deletes your original songs and replaces them with DRM&#39;d versions](https://old.reddit.com/r/YouShouldKnow/comments/zl8ko3/ysk_apple_music_deletes_your_original_songs_and/)
+- [Was Rocket Lake Power Efficient?](https://chipsandcheese.com/2022/12/17/was-rocket-lake-power-efficient/)
 - [Tell HN: Google Maps location data is used for GeoIP updates](https://news.ycombinator.com/item?id=34052786)
-- [A few new things in Emacs 29](https://mbork.pl/2022-12-19_A_few_new_things_in_Emacs_29)
-- [Code Design Decision – Always throw custom exceptions](https://github.com/getparthenon/parthenon/wiki/Design-Decision:-Throw-Custom-Exceptions)
-- [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
-- [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
