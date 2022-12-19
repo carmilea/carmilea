@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Best tips for reducing eyestrain while coding with astigmatism?](https://news.ycombinator.com/item?id=34051427)
-- [1/4 of companies that IPO&#39;d in 2020-2021 trades below $2, risking delisting](https://www.wsj.com/articles/oatly-other-deflated-ipo-stocks-haunt-new-issue-market-11671417781)
-- [Wing: A cloud-oriented programming language](https://www.winglang.io/)
-- [Characterizing Emergent Phenomena in Large Language Models](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
-- [Post YC Post Mortem](https://github.com/getlago/lago/wiki/Post-mortem-of-our-1st-YC-startup:-a-Reverse-ETL)
+- [Epic Games, Maker of ‘Fortnite,’ to Pay $520M to Resolve FTC Allegations](https://www.wsj.com/articles/epic-games-maker-of-fortnite-to-pay-520-million-to-resolve-ftc-allegations-11671456744)
+- [Tell HN: Uber has blocked my account for years, won&#39;t tell me why](https://news.ycombinator.com/item?id=34051876)
+- [Discovery identifies Australia as birthplace of all modern mammals](https://www.australiangeographic.com.au/news/2022/12/discovery-identifies-australia-as-birthplace-of-all-modern-mammals/)
+- [Ice not recommended for soft tissue injury treatment &lpar;2019&rpar;](https://blogs.bmj.com/bjsm/2019/04/26/soft-tissue-injuries-simply-need-peace-love/)
+- [We lock atmospheric carbon into stone for good](https://carbontostone.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
