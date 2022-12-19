@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Power company money flows to news sites that attack their critics](https://www.npr.org/2022/12/19/1143753129/power-companies-florida-alabama-media-investigation-consulting-firm)
+- [GCC now includes Modula-2 and Rust. Do they work on OpenBSD?](https://briancallahan.net/blog/20221219.html)
 - [Show HN: Infisical – open-source secrets manager](https://github.com/Infisical/infisical)
 - [Ask HN: What is the best thing you read in 2022?](https://news.ycombinator.com/item?id=34055123)
-- [Sugru parent company bought by Tesa](http://www.diyweek.net/sugru-parent-company-bought-by-tesa)
-- [Cook whole grains like popcorn](https://www.treehugger.com/how-cook-any-whole-grain-popcorn-4858738)
-- [Commodore Pet 2001 Repair](https://biosrhythm.com/?p=2224)
+- [Binance&#39;s books are a black box, filings show, as it tries to rally confidence](https://www.reuters.com/technology/binances-books-are-black-box-filings-show-crypto-giant-tries-rally-confidence-2022-12-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
