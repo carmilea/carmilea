@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discrete Logic IC CPU](https://imihajlov.tk/blog/posts/ccpu/)
+- [The Risk of Orbital Debris and One &lpar;Cheap&rpar; Way to Mitigate It](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
+- [Enhance Speech from Adobe – Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
 - [Ryujinx &lpar;Switch Emulator&rpar; Update](https://blog.ryujinx.org/progress-report-november-2022/)
-- [A math problem generator](https://github.com/lukew3/mathgenerator)
-- [Pollution cleanup method destroys toxic “forever chemicals”](https://news.ucr.edu/articles/2022/12/12/pollution-cleanup-method-destroys-toxic-forever-chemicals)
-- [NumPy 1.24 Release Notes](https://github.com/numpy/numpy/releases/tag/v1.24.0)
-- [Marion Smith, the world’s most prolific cave explorer, dies at 80](https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html)
+- [Explicit Ontologies in a World Without](https://davidbieber.com/snippets/2022-12-16-note-taking-ontologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
