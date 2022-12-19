@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radio 101: Why AM stations reduce power at night](https://relevantradio.com/2020/01/radio-101-why-am-stations-reduce-power-at-night/)
+- [RFC2217 implementation written in Rust](https://github.com/esp-rs/rfc2217-rs)
+- [Did Insurance Fire Brigades let uninsured buildings burn?](https://www.tomscott.com/corrections/firemarks/)
 - [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
 - [Apple Music deletes your original songs and replaces them with DRM&#39;d versions](https://old.reddit.com/r/YouShouldKnow/comments/zl8ko3/ysk_apple_music_deletes_your_original_songs_and/)
 - [Was Rocket Lake Power Efficient?](https://chipsandcheese.com/2022/12/17/was-rocket-lake-power-efficient/)
-- [Tell HN: Google Maps location data is used for GeoIP updates](https://news.ycombinator.com/item?id=34052786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
