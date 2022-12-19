@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812)
 - [Twitter archiver: Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
 - [Hydrogel interfaces for merging humans and machines](https://www.nature.com/articles/s41578-022-00483-4)
+- [Seattle woman can’t build housing without paying city $77k. Now she’s suing](https://www.marketwatch.com/story/a-seattle-woman-cant-build-affordable-housing-on-her-property-without-first-paying-the-local-government-77-000-so-now-shes-suing-the-city-11671130706)
 - [Spotifyd](https://github.com/Spotifyd/spotifyd)
 - [World record back at HZB: Tandem solar cell achieves 32.5 percent efficiency](https://www.helmholtz-berlin.de/pubbin/news_seite?nid=24348&sprache=en&seitenid=1)
 <!-- BLOG-POST-LIST:END -->
