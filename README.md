@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Math Problem Generator](https://github.com/lukew3/mathgenerator)
 - [35% of Japanese people say they’ll ‘never travel’ again](https://www.cnbc.com/2022/12/19/dont-want-to-travel-many-in-japan-say-theyll-never-travel-again.html)
 - [NumPy 1.24 Release Notes](https://github.com/numpy/numpy/releases/tag/v1.24.0)
-- [Toyota chief says ‘silent majority’ has doubts about pursuing only EVs](https://www.wsj.com/articles/toyota-president-says-silent-majority-has-doubts-about-pursuing-only-evs-11671372223)
 - [Marion Smith, the world’s most prolific cave explorer, dies at 80](https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html)
 - [Should I step down as head of Twitter? I will abide by the results of this poll](https://twitter.com/elonmusk/status/1604617643973124097)
 <!-- BLOG-POST-LIST:END -->
