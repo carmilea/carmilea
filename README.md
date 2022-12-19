@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RFC2217 implementation written in Rust](https://github.com/esp-rs/rfc2217-rs)
-- [Did Insurance Fire Brigades let uninsured buildings burn?](https://www.tomscott.com/corrections/firemarks/)
-- [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
-- [Apple Music deletes your original songs and replaces them with DRM&#39;d versions](https://old.reddit.com/r/YouShouldKnow/comments/zl8ko3/ysk_apple_music_deletes_your_original_songs_and/)
-- [Was Rocket Lake Power Efficient?](https://chipsandcheese.com/2022/12/17/was-rocket-lake-power-efficient/)
+- [Show HN: Infisical – open-source secrets manager](https://github.com/Infisical/infisical)
+- [Ask HN: What is the best thing you read in 2022?](https://news.ycombinator.com/item?id=34055123)
+- [Sugru parent company bought by Tesa](http://www.diyweek.net/sugru-parent-company-bought-by-tesa)
+- [Cook whole grains like popcorn](https://www.treehugger.com/how-cook-any-whole-grain-popcorn-4858738)
+- [Commodore Pet 2001 Repair](https://biosrhythm.com/?p=2224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
