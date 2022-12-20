@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waydroid: A container-based approach to boot a full Android system on GNU/Linux](https://waydro.id/)
+- [“Laws” of software estimation for complex work &lpar;2021&rpar;](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
+- [Ask HN: One of our Azure accounts was hacked – how to negotiate the bill?](https://news.ycombinator.com/item?id=34061174)
 - [Content Moderation Survivor Bias](https://cyber.fsi.stanford.edu/io/news/content-moderation-survivor-bias)
-- [Hacked Ring Cams Used to Record Swatting Victims](https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/)
 - [The Windows Subsystem for Android now runs Android 13 in beta](https://github.com/microsoft/WSA/discussions/167)
-- [FILM: Frame Interpolation for Large Motion](https://github.com/google-research/frame-interpolation)
-- [Amazon Ring cameras used in nationwide ‘swatting’ spree, US Justice Dept. says](https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
