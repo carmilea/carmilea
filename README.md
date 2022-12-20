@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ribbon&#39;s &lpar;YC S17&rpar; new VPE is hiring engineers who want to simplify healthcare](https://www.ribbonhealth.com/blog/arik-gaisler-ribbons-new-vp-of-engineering-knows-what-makes-a-successful-tech-team)
+- [WordPress to support SQLite back end](https://make.wordpress.org/core/2022/12/20/help-us-test-the-sqlite-implementation/)
+- [OneCoin co-founder pleads guilty to $4B fraud](https://www.theregister.com/2022/12/20/crypto_ponzi_scheme_cofounder_pleads/)
 - [Ask HN: Given AI advancements, is a Master’s degree in CS worthless?](https://news.ycombinator.com/item?id=34067707)
-- [12 Days of PostgreSQL Tools and Projects](https://www.timescale.com/blog/12-days-of-postgresql-tools-and-projects/)
-- [NY Governor stalls right-to-repair bill; has until Dec 28 to avoid “pocket veto”](https://arstechnica.com/tech-policy/2022/12/right-to-repair-bill-passed-in-june-still-awaits-ny-governors-signature/)
-- [Show HN: Create a Paid Link to Anything](https://paidlink.to)
-- [Facial Recognition Tech Gets Woman Booted from Rockettes Show Due to Employer](https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/)
+- [The future our grandchildren deserve](https://www.gatesnotes.com/About-Bill-Gates/The-Year-Ahead-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
