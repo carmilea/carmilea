@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ribbon&#39;s &lpar;YC S17&rpar; new VPE is hiring engineers who want to simplify healthcare](https://www.ribbonhealth.com/blog/arik-gaisler-ribbons-new-vp-of-engineering-knows-what-makes-a-successful-tech-team)
-- [WordPress to support SQLite back end](https://make.wordpress.org/core/2022/12/20/help-us-test-the-sqlite-implementation/)
-- [OneCoin co-founder pleads guilty to $4B fraud](https://www.theregister.com/2022/12/20/crypto_ponzi_scheme_cofounder_pleads/)
-- [Ask HN: Given AI advancements, is a Master’s degree in CS worthless?](https://news.ycombinator.com/item?id=34067707)
-- [The future our grandchildren deserve](https://www.gatesnotes.com/About-Bill-Gates/The-Year-Ahead-2023)
+- [Wells Fargo to pay $3.7B settling charges it wrongfully seized homes and cars](https://text.npr.org/1144331954)
+- [Ask HN: Is there a site for quality short-term contract programming work?](https://news.ycombinator.com/item?id=34069496)
+- [Cops Cast Doubt on Musk’s Claim That ‘Crazy Stalker’ Followed His Son](https://www.thedailybeast.com/south-pasadena-cops-cast-doubt-on-elon-musks-claim-of-stalker-following-his-son)
+- [Skilled tech workers snapped up despite downturn](https://www.bbc.com/news/business-63871090)
+- [Wild mammals are making a comeback in Europe](https://ourworldindata.org/europe-mammal-comeback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
