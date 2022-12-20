@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Porch pirates’ stole an estimated 260M packages in 2021](https://www.cnbc.com/2022/12/18/porch-pirates-stole-an-estimated-260-million-packages-in-2021.html)
+- [See how many classic books you can read in 2023 with just 20 minutes a day](https://www.serialreader.org/schedule-builder/2023/)
+- [Potassco: The Answer Set Solving Collection](https://potassco.org/)
+- [Is forced treatment for the mentally ill ever humane?](https://www.economist.com/united-states/2022/12/19/is-forced-treatment-for-the-mentally-ill-ever-humane)
+- [MariaDB plunges nearly 40% in NYSE debut after SPAC merger](https://www.bizjournals.com/sanjose/news/2022/12/19/mariadb-goes-public-in-spac-merger.html)
 - [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
-- [A collection of Soviet control rooms](http://blog.presentandcorrect.com/27986-2)
-- [Skilled tech workers snapped up despite downturn](https://www.bbc.com/news/business-63871090)
-- [Wild mammals are making a comeback in Europe](https://ourworldindata.org/europe-mammal-comeback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
