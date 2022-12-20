@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Against Homeownership](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
 - [Ask HN: Host a website from a living room in 2022?](https://news.ycombinator.com/item?id=34065234)
-- [Early retirement and ageing population are causing labour shortages,Lords report](https://committees.parliament.uk/committee/175/economic-affairs-committee/news/175197/early-retirement-and-our-ageing-population-are-causing-labour-shortages-says-lords-report/)
 - [The Topologist’s World Map &lpar;2020&rpar;](https://tafc.space/qna/the-topologists-world-map/)
 - [Extensional AI &lpar;YC W23&rpar; Is Hiring: Front End and ML](https://www.ycombinator.com/companies/extensional-ai/jobs/)
 - [Retrieve a scheduled report of your Grafana dashboards via mail](https://giuliomagnifico.blog/tips/2022/12/19/grafana-reporting.html)
