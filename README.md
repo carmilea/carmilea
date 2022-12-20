@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bach’s Accidental Masterpiece](https://www.newstatesman.com/culture/music/2022/11/well-tempered-clavier-bach-300-years-accidental-masterpiece)
+- [Ruby Delights Built into the Language: No Gems Required](https://technology.doximity.com/articles/ruby-delights-built-into-the-language)
+- [Two Men Arrested for Hacking the Taxi Dispatch System at JFK Airport](https://www.justice.gov/usao-sdny/pr/two-men-arrested-conspiring-russian-nationals-hack-taxi-dispatch-system-jfk-airport)
 - [See how many classic books you can read in 2023 with just 20 minutes a day](https://www.serialreader.org/schedule-builder/2023/)
 - [Potassco: The Answer Set Solving Collection](https://potassco.org/)
-- [Is forced treatment for the mentally ill ever humane?](https://www.economist.com/united-states/2022/12/19/is-forced-treatment-for-the-mentally-ill-ever-humane)
-- [MariaDB plunges nearly 40% in NYSE debut after SPAC merger](https://www.bizjournals.com/sanjose/news/2022/12/19/mariadb-goes-public-in-spac-merger.html)
-- [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
