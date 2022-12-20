@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing ‘Strlen’ Using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
-- [zstd](https://github.com/facebook/zstd)
-- [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
-- [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
-- [American EVs reduced gasoline consumption by just 0.54% in 2021](https://arstechnica.com/cars/2022/11/american-evs-reduced-gasoline-consumption-by-just-0-54-in-2021/)
+- [The Windows Subsystem for Android now runs Android 13 in beta](https://github.com/microsoft/WSA/discussions/167)
+- [FILM: Frame Interpolation for Large Motion](https://github.com/google-research/frame-interpolation)
+- [Amazon Ring cameras used in nationwide ‘swatting’ spree, US Justice Dept. says](https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree)
+- [The Force Engine v1.0 Released](https://theforceengine.github.io/)
+- [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
