@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK bank fined £49M over IT system meltdown](https://www.bbc.com/news/business-64036529)
-- [Elon Musk’s $44B education on free speech](https://www.economist.com/leaders/2022/12/19/elon-musks-44bn-education-on-free-speech)
-- [Winter 2022 Release: Announcing Real-Time and Historical Monitoring in SingleStoreDB Cloud](https://www.singlestore.com/blog/real-time-historical-monitoring-singlestoredb-cloud)
-- [Ask HN: Preferred word to describe “Unnecessarily complainsome grumpy person”?](https://news.ycombinator.com/item?id=34063753)
-- [Amiga Forever](https://www.amigaforever.com)
+- [Automobiles are the most egalitarian form of transportation since walking](https://ti.org/antiplanner/?p=20468)
+- [The Topologist’s World Map](https://tafc.space/qna/the-topologists-world-map/)
+- [Extensional AI &lpar;YC W23&rpar; Is Hiring: Front End and ML](https://www.ycombinator.com/companies/extensional-ai/jobs/)
+- [Retrieve a scheduled report of your Grafana dashboards via mail](https://giuliomagnifico.blog/tips/2022/12/19/grafana-reporting.html)
+- [The Wavefunction Collapse Algorithm explained clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
