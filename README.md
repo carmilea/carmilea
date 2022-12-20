@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bach’s Accidental Masterpiece](https://www.newstatesman.com/culture/music/2022/11/well-tempered-clavier-bach-300-years-accidental-masterpiece)
-- [Ruby Delights Built into the Language: No Gems Required](https://technology.doximity.com/articles/ruby-delights-built-into-the-language)
-- [Two Men Arrested for Hacking the Taxi Dispatch System at JFK Airport](https://www.justice.gov/usao-sdny/pr/two-men-arrested-conspiring-russian-nationals-hack-taxi-dispatch-system-jfk-airport)
-- [See how many classic books you can read in 2023 with just 20 minutes a day](https://www.serialreader.org/schedule-builder/2023/)
-- [Potassco: The Answer Set Solving Collection](https://potassco.org/)
+- [Ruby delights built into the language](https://technology.doximity.com/articles/ruby-delights-built-into-the-language)
+- [January 1, 2023 is Public Domain Day: Works from 1927 are open to all](https://web.law.duke.edu/cspd/publicdomainday/2023/)
+- [Deep work. Essentialism in asynchronous culture](https://jorzel.github.io/deep-work-essentialism-in-asynchronous-culture/)
+- [Serial Reader: Reading Schedule Builder](https://www.serialreader.org/schedule-builder/2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
