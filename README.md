@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview Of Upcoming Rails 7.1 Features Part 1](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-i/)
-- [The Fermi Paradox Revisited: Technosignatures and the Contact Era](https://arxiv.org/abs/2211.16505)
-- [Color-Blindness Isn’t Racist](https://www.thefp.com/p/actually-color-blindness-isnt-racist)
-- [Blue subscribers should be the only ones that can vote in policy related polls](https://twitter.com/elonmusk/status/1604985324505030658)
-- [The Topologist’s World Map &lpar;2020&rpar;](https://tafc.space/qna/the-topologists-world-map/)
+- [Ask HN: Given AI advancements, is a Master’s degree in CS worthless?](https://news.ycombinator.com/item?id=34067707)
+- [12 Days of PostgreSQL Tools and Projects](https://www.timescale.com/blog/12-days-of-postgresql-tools-and-projects/)
+- [NY Governor stalls right-to-repair bill; has until Dec 28 to avoid “pocket veto”](https://arstechnica.com/tech-policy/2022/12/right-to-repair-bill-passed-in-june-still-awaits-ny-governors-signature/)
+- [Show HN: Create a Paid Link to Anything](https://paidlink.to)
+- [Facial Recognition Tech Gets Woman Booted from Rockettes Show Due to Employer](https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
