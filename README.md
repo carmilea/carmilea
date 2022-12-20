@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amiga Forever](https://www.amigaforever.com)
+- [Apple Is Struggling to Build Mac Pro Based on Its Own Silicon](https://www.tomshardware.com/news/apple-struggles-to-build-mac-pro-based-on-own-cpus)
 - [The Knights Templar started London&#39;s first bank &lpar;2017&rpar;](https://www.bbc.com/news/business-38499883)
 - [Ask HN: What Happened to Pinboard &lpar;Dec &#39;22 edition&rpar;?](https://news.ycombinator.com/item?id=34062802)
 - [On Nexuses: An underrecognised utility in computing](https://www.devever.net/~hl/nexuses#)
-- [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
-- [Boring Python: Code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
