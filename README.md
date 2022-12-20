@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Knights Templar started London&#39;s first bank &lpar;2017&rpar;](https://www.bbc.com/news/business-38499883)
 - [Ask HN: What Happened to Pinboard &lpar;Dec &#39;22 edition&rpar;?](https://news.ycombinator.com/item?id=34062802)
+- [On Nexuses: An underrecognised utility in computing](https://www.devever.net/~hl/nexuses#)
 - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 - [Boring Python: Code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
-- [“Laws” of software estimation for complex work &lpar;2021&rpar;](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
-- [Ask HN: One of our Azure accounts was hacked – how to negotiate the bill?](https://news.ycombinator.com/item?id=34061174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
