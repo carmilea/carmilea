@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Against Homeownership](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
-- [Ask HN: Host a website from a living room in 2022?](https://news.ycombinator.com/item?id=34065234)
+- [Overview Of Upcoming Rails 7.1 Features Part 1](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-i/)
+- [The Fermi Paradox Revisited: Technosignatures and the Contact Era](https://arxiv.org/abs/2211.16505)
+- [Color-Blindness Isn’t Racist](https://www.thefp.com/p/actually-color-blindness-isnt-racist)
+- [Blue subscribers should be the only ones that can vote in policy related polls](https://twitter.com/elonmusk/status/1604985324505030658)
 - [The Topologist’s World Map &lpar;2020&rpar;](https://tafc.space/qna/the-topologists-world-map/)
-- [Extensional AI &lpar;YC W23&rpar; Is Hiring: Front End and ML](https://www.ycombinator.com/companies/extensional-ai/jobs/)
-- [Retrieve a scheduled report of your Grafana dashboards via mail](https://giuliomagnifico.blog/tips/2022/12/19/grafana-reporting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
