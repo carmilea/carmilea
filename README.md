@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT is capable of breaking out of its computer system](https://sharechatgpt.com/share/84a93d0f6896b69c0e3aef44e8f836ef)
 - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 - [Boring Python: Code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 - [“Laws” of software estimation for complex work &lpar;2021&rpar;](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
 - [Ask HN: One of our Azure accounts was hacked – how to negotiate the bill?](https://news.ycombinator.com/item?id=34061174)
+- [Valve is paying open source developers to keep Steam Deck playable](https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
