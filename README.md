@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Content Moderation Survivor Bias](https://cyber.fsi.stanford.edu/io/news/content-moderation-survivor-bias)
+- [Hacked Ring Cams Used to Record Swatting Victims](https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/)
 - [The Windows Subsystem for Android now runs Android 13 in beta](https://github.com/microsoft/WSA/discussions/167)
 - [FILM: Frame Interpolation for Large Motion](https://github.com/google-research/frame-interpolation)
 - [Amazon Ring cameras used in nationwide ‘swatting’ spree, US Justice Dept. says](https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree)
-- [The Force Engine v1.0 Released](https://theforceengine.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
