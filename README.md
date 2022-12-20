@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK bank fined £49M over IT system meltdown](https://www.bbc.com/news/business-64036529)
+- [Elon Musk’s $44B education on free speech](https://www.economist.com/leaders/2022/12/19/elon-musks-44bn-education-on-free-speech)
+- [Winter 2022 Release: Announcing Real-Time and Historical Monitoring in SingleStoreDB Cloud](https://www.singlestore.com/blog/real-time-historical-monitoring-singlestoredb-cloud)
+- [Ask HN: Preferred word to describe “Unnecessarily complainsome grumpy person”?](https://news.ycombinator.com/item?id=34063753)
 - [Amiga Forever](https://www.amigaforever.com)
-- [Apple Is Struggling to Build Mac Pro Based on Its Own Silicon](https://www.tomshardware.com/news/apple-struggles-to-build-mac-pro-based-on-own-cpus)
-- [The Knights Templar started London&#39;s first bank &lpar;2017&rpar;](https://www.bbc.com/news/business-38499883)
-- [Ask HN: What Happened to Pinboard &lpar;Dec &#39;22 edition&rpar;?](https://news.ycombinator.com/item?id=34062802)
-- [On Nexuses: An underrecognised utility in computing](https://www.devever.net/~hl/nexuses#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
