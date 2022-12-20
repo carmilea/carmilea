@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wells Fargo to pay $3.7B settling charges it wrongfully seized homes and cars](https://text.npr.org/1144331954)
-- [Ask HN: Is there a site for quality short-term contract programming work?](https://news.ycombinator.com/item?id=34069496)
-- [Cops Cast Doubt on Musk’s Claim That ‘Crazy Stalker’ Followed His Son](https://www.thedailybeast.com/south-pasadena-cops-cast-doubt-on-elon-musks-claim-of-stalker-following-his-son)
+- [‘Porch pirates’ stole an estimated 260M packages in 2021](https://www.cnbc.com/2022/12/18/porch-pirates-stole-an-estimated-260-million-packages-in-2021.html)
+- [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
+- [A collection of Soviet control rooms](http://blog.presentandcorrect.com/27986-2)
 - [Skilled tech workers snapped up despite downturn](https://www.bbc.com/news/business-63871090)
 - [Wild mammals are making a comeback in Europe](https://ourworldindata.org/europe-mammal-comeback)
 <!-- BLOG-POST-LIST:END -->
