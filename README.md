@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Being Poor: Why It Costs So Much to Be Poor in America](https://finmasters.com/cost-of-being-poor/)
+- [3M to end &#39;forever chemicals&#39; output](https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/)
+- [Number Stations and Enigma Stations](https://www.sigidwiki.com/wiki/Category:Numbers_Stations)
+- [The cost of being poor: Why it costs so much to be poor in America](https://finmasters.com/cost-of-being-poor/)
 - [Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse](https://twitter.com/justlv/status/1605276764598665217)
-- [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
-- [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
 - [Being Glue &lpar;2019&rpar;](https://noidea.dog/glue)
 <!-- BLOG-POST-LIST:END -->
 
