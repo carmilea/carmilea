@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cost of Being Poor: Why It Costs So Much to Be Poor in America](https://finmasters.com/cost-of-being-poor/)
+- [Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse](https://twitter.com/justlv/status/1605276764598665217)
 - [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
 - [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
 - [Being Glue &lpar;2019&rpar;](https://noidea.dog/glue)
-- [Devbox 0.2.0: Automatic Nix installer, plugins, and background services](https://www.jetpack.io/blog/devbox-0-2-0/)
-- [Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
