@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swing Ratio](https://nld-intern.ds.mpg.de/swingratio/)
 - [OpenJDK Proposes Project Galahad to Merge GraalVM Native Compilation](https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/)
-- [Ask HN: How to build F-You Skills](https://news.ycombinator.com/item?id=34084782)
 - [Checked C](https://github.com/microsoft/checkedc)
-- [Substack Outage](https://substack.com/)
+- [Stay Hungry, Stay Foolish on Highway 101: How SingleStore “Sleighs” the Streets With Real-Time Creativity &amp; Innovation](https://www.singlestore.com/blog/stay-hungry-stay-foolish-with-real-time)
 - [Show HN: Portable Secret – How I store my secrets and communicate privately](https://mprimi.github.io/portable-secret/)
 <!-- BLOG-POST-LIST:END -->
 
