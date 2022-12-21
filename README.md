@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chronic exposure to synthetic food colorant Red 40 promotes colitis in mice](https://www.nature.com/articles/s41467-022-35309-y)
+- [Pixelmator Pro gets a magical, AI‑powered Deband feature](https://www.pixelmator.com/blog/2022/12/21/pixelmator-pro-gets-a-magical-ai-powered-deband-feature/)
+- [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 - [All American Five radio receivers](https://en.wikipedia.org/wiki/All_American_Five)
 - [How “See a Satellite Tonight” Works](https://james.darpinian.com/blog/how-see-a-satellite-tonight-works)
-- [Swing Ratio](https://nld-intern.ds.mpg.de/swingratio/)
-- [Show HN: Write 500 Words a Day](https://www.fivehundredwordsaday.com/beta)
-- [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
