@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Older iPhones Bricked for Being Too Outdated – Locking Users from Their Data](https://www.youtube.com/watch?v=UxaCUugPoRY)
-- [Wells Fargo Penalties Since 2000: $22,081,458,643](https://violationtracker.goodjobsfirst.org/?parent=wells-fargo&order=penalty&sort=desc)
-- [Dolphin Progress September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
-- [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
-- [WebAssembly: Docker Without Containers](https://wasmlabs.dev/articles/docker-without-containers/)
+- [TensorFlow Datasets &lpar;TFDS&rpar;: a collection of ready-to-use datasets](https://github.com/tensorflow/datasets)
+- [I still use Flash in 2022](https://foon.uk/how-flash-2022/)
+- [Regulating Crypto: How we move forward as an industry from here](https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here)
+- [The Physics of baking good Pizza &lpar;2018&rpar;](https://arxiv.org/abs/1806.08790)
+- [I failed 3 job applications, here&#39;s what I learned](https://alexewerlof.substack.com/p/3-job-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
