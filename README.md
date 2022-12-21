@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Non-Constructive Proof of the Four Colour Theorem](https://arxiv.org/abs/2212.09835)
-- [Philadelphia Phreakers installing free payphone](https://www.nbcphiladelphia.com/news/tech/pay-phone-philadelphia/3452775/)
-- [Repairing Your Car in Your Own Garage Is Considered Illegal in Sacramento, CA](https://www.thedrive.com/news/29205/repairing-your-car-in-your-own-garage-is-considered-illegal-in-sacramento-california)
-- [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/)
-- [The Tangle of Science](https://global.oup.com/academic/product/the-tangle-of-science-9780198866343?cc=us&lang=en&#)
+- [Ciro &lpar;YC S22&rpar; hiring a founding back end engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- [The Decline of the City Grid](https://www.economist.com/interactive/christmas-specials/2022/12/20/the-decline-of-the-city-grid)
+- [Manual scavenging: A stinking legacy of suffocation and stigma](https://www.downtoearth.org.in/news/waste/manual-scavenging-a-stinking-legacy-of-suffocation-and-stigma-61586)
+- [Jami: Share, Message, Call freely and privately](https://jami.net/)
+- [Raytheon completes engine run of hybrid-electric flight demonstrator](https://www.timesaerospace.aero:443/news/general-aviation/raytheon-completes-engine-run-of-hybrid-electric-flight-demonstrator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
