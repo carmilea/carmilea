@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK Proposes Project Galahad to Merge GraalVM Native Compilation](https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/)
+- [Ask HN: How to build F-You Skills](https://news.ycombinator.com/item?id=34084782)
 - [Checked C](https://github.com/microsoft/checkedc)
-- [Acceptance of evolution by high school students: Is religion the key factor?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273929)
 - [Substack Outage](https://substack.com/)
-- [Show HN: I store my critical secrets and document, and communicate privately](https://mprimi.github.io/portable-secret/)
-- [Ciro &lpar;YC S22&rpar; hiring a founding back end engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- [Show HN: Portable Secret – How I store my secrets and communicate privately](https://mprimi.github.io/portable-secret/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
