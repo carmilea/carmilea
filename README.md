@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ThreeUK Is Blocking Tutanota](https://tutanota.com/blog/posts/threeuk-blocks-tutanota)
 - [Okta says its GitHub account hacked, source code stolen](https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/)
 - [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
+- [This Year in LLVM &lpar;2022&rpar;](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 - [Mastodon server maintenance: The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
-- [3M to end &#39;forever chemicals&#39; output](https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/)
-- [Number Stations and Enigma Stations](https://www.sigidwiki.com/wiki/Category:Numbers_Stations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
