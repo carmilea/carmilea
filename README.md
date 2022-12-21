@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Checked C](https://github.com/microsoft/checkedc)
+- [Acceptance of evolution by high school students: Is religion the key factor?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273929)
+- [Substack Outage](https://substack.com/)
 - [Show HN: I store my critical secrets and document, and communicate privately](https://mprimi.github.io/portable-secret/)
 - [Ciro &lpar;YC S22&rpar; hiring a founding back end engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
-- [The Decline of the City Grid](https://www.economist.com/interactive/christmas-specials/2022/12/20/the-decline-of-the-city-grid)
-- [Manual scavenging: A stinking legacy of suffocation and stigma](https://www.downtoearth.org.in/news/waste/manual-scavenging-a-stinking-legacy-of-suffocation-and-stigma-61586)
-- [Jami: Share, Message, Call freely and privately](https://jami.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
