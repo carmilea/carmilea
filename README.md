@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
 - [3M to end &#39;forever chemicals&#39; output](https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/)
 - [Number Stations and Enigma Stations](https://www.sigidwiki.com/wiki/Category:Numbers_Stations)
 - [The cost of being poor: Why it costs so much to be poor in America](https://finmasters.com/cost-of-being-poor/)
 - [Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse](https://twitter.com/justlv/status/1605276764598665217)
-- [Being Glue &lpar;2019&rpar;](https://noidea.dog/glue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
