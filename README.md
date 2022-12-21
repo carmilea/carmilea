@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Non-Constructive Proof of the Four Colour Theorem](https://arxiv.org/abs/2212.09835)
+- [Philadelphia Phreakers installing free payphone](https://www.nbcphiladelphia.com/news/tech/pay-phone-philadelphia/3452775/)
 - [Repairing Your Car in Your Own Garage Is Considered Illegal in Sacramento, CA](https://www.thedrive.com/news/29205/repairing-your-car-in-your-own-garage-is-considered-illegal-in-sacramento-california)
 - [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/)
 - [The Tangle of Science](https://global.oup.com/academic/product/the-tangle-of-science-9780198866343?cc=us&lang=en&#)
-- [Pfizer Penalties Since 2000: $10B](https://violationtracker.goodjobsfirst.org/parent/pfizer)
-- [Scientists created male and female cells from a single person](https://www.scientificamerican.com/article/scientists-created-male-and-female-cells-from-a-single-person/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
