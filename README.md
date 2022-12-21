@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
+- [C64 OS v1.0 Release](https://www.c64os.com/post/c64osv1release)
 - [ThreeUK Is Blocking Tutanota](https://tutanota.com/blog/posts/threeuk-blocks-tutanota)
-- [Okta says its GitHub account hacked, source code stolen](https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/)
-- [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
-- [This Year in LLVM &lpar;2022&rpar;](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
-- [Mastodon server maintenance: The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
+- [Gitlab Web IDE Beta, Powered by Visual Studio Code](https://docs.gitlab.com/ee/user/project/web_ide_beta/)
+- [Stable Diffusion on AMD RDNA3](https://nod.ai/sd-on-rdna3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
