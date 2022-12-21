@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer Penalties Since 2000: $10B](https://violationtracker.goodjobsfirst.org/parent/pfizer)
 - [Ink – inkle&#39;s narrative scripting language](https://www.inklestudios.com/ink/)
 - [‘My power’s low’: NASA’s Insight Mars lander prepares to sign off](https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet)
 - [TensorFlow Datasets &lpar;TFDS&rpar;: a collection of ready-to-use datasets](https://github.com/tensorflow/datasets)
 - [Systemd-coredump: CVE-2022-4415: local information leak](https://www.openwall.com/lists/oss-security/2022/12/21/3)
-- [Binance caught commingling funds between US and international exchanges](https://dirtybubblemedia.substack.com/p/is-binanceus-a-fake-exchange)
 <!-- BLOG-POST-LIST:END -->
 
 ---
