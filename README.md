@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repairing Your Car in Your Own Garage Is Considered Illegal in Sacramento, CA](https://www.thedrive.com/news/29205/repairing-your-car-in-your-own-garage-is-considered-illegal-in-sacramento-california)
+- [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/)
+- [The Tangle of Science](https://global.oup.com/academic/product/the-tangle-of-science-9780198866343?cc=us&lang=en&#)
 - [Pfizer Penalties Since 2000: $10B](https://violationtracker.goodjobsfirst.org/parent/pfizer)
-- [Ink – inkle&#39;s narrative scripting language](https://www.inklestudios.com/ink/)
-- [‘My power’s low’: NASA’s Insight Mars lander prepares to sign off](https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet)
-- [TensorFlow Datasets &lpar;TFDS&rpar;: a collection of ready-to-use datasets](https://github.com/tensorflow/datasets)
-- [Systemd-coredump: CVE-2022-4415: local information leak](https://www.openwall.com/lists/oss-security/2022/12/21/3)
+- [Scientists created male and female cells from a single person](https://www.scientificamerican.com/article/scientists-created-male-and-female-cells-from-a-single-person/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
