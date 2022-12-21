@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
 - [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
 - [Being Glue &lpar;2019&rpar;](https://noidea.dog/glue)
 - [Devbox 0.2.0: Automatic Nix installer, plugins, and background services](https://www.jetpack.io/blog/devbox-0-2-0/)
 - [Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
-- [AI&#39;s Jurassic Park Moment](https://cacm.acm.org/blogs/blog-cacm/267674-ais-jurassic-park-moment/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
