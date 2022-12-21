@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All American Five radio receivers](https://en.wikipedia.org/wiki/All_American_Five)
+- [How “See a Satellite Tonight” Works](https://james.darpinian.com/blog/how-see-a-satellite-tonight-works)
 - [Swing Ratio](https://nld-intern.ds.mpg.de/swingratio/)
-- [OpenJDK Proposes Project Galahad to Merge GraalVM Native Compilation](https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/)
-- [Checked C](https://github.com/microsoft/checkedc)
-- [Stay Hungry, Stay Foolish on Highway 101: How SingleStore “Sleighs” the Streets With Real-Time Creativity &amp; Innovation](https://www.singlestore.com/blog/stay-hungry-stay-foolish-with-real-time)
-- [Show HN: Portable Secret – How I store my secrets and communicate privately](https://mprimi.github.io/portable-secret/)
+- [Show HN: Write 500 Words a Day](https://www.fivehundredwordsaday.com/beta)
+- [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
