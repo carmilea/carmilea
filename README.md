@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Kernel Ksmbd Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1690/)
 - [Patterns &lpar;YC S21&rpar;, a platform to build next-gen AI systems, is hiring devs](https://www.patterns.app/)
+- [Docker on Mac is slow. Here&#39;s the fix](https://www.paolomainardi.com/posts/docker-performance-macos/)
 - [Don&#39;t force users to register before they can buy &lpar;2015&rpar;](https://www.nngroup.com/articles/optional-registration/)
 - [ByteDance confirmed it used TikTok to monitor journalists’ physical location](https://www.forbes.com/sites/emilybaker-white/2022/12/22/tiktok-tracks-forbes-journalists-bytedance/)
-- [Pico8 Music Synthesizer](https://johanpeitz.itch.io/picosynth)
-- [Common Lisp – Myths and Legends &lpar;2002&rpar;](http://www.lispworks.com/products/myths_and_legends.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
