@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ocean geoengineering scheme aces its first field test](https://www.science.org/content/article/ocean-geoengineering-scheme-aces-its-first-field-test)
+- [Ask HN: In depth sites for various industry&#39;s news?](https://news.ycombinator.com/item?id=34093597)
+- [Paper-Thin Solar Makes Any Surface Photovoltaic](https://spectrum.ieee.org/thin-film-solar-panels)
 - [The hand-cranked Curta mechanical calculator &lpar;2021&rpar;](https://arstechnica.com/science/2021/12/the-remarkable-history-of-the-hand-cranked-curta-mechanical-calculator/)
 - [Diodes Hate It – Clipping with DSPs](https://straighttoground.com/2022/12/22/diodes-hate-it-clipping-with-dsps/)
-- [A Year of Building for the Terminal](https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/)
-- [Against Method](https://en.wikipedia.org/wiki/Against_Method)
-- [Japan to invest on nuclear energy in major policy shift](https://eandt.theiet.org/content/articles/2022/12/japan-to-invest-on-nuclear-energy-in-major-policy-shift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
