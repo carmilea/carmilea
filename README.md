@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ocean geoengineering scheme aces its first field test](https://www.science.org/content/article/ocean-geoengineering-scheme-aces-its-first-field-test)
-- [Ask HN: In depth sites for various industry&#39;s news?](https://news.ycombinator.com/item?id=34093597)
-- [Paper-Thin Solar Makes Any Surface Photovoltaic](https://spectrum.ieee.org/thin-film-solar-panels)
-- [The hand-cranked Curta mechanical calculator &lpar;2021&rpar;](https://arstechnica.com/science/2021/12/the-remarkable-history-of-the-hand-cranked-curta-mechanical-calculator/)
-- [Diodes Hate It – Clipping with DSPs](https://straighttoground.com/2022/12/22/diodes-hate-it-clipping-with-dsps/)
+- [UnifiedPush: A decentralized, open-source push notification protocol](https://f-droid.org/2022/12/18/unifiedpush.html)
+- [Grad student unions strike controversial deal with University of California](https://www.science.org/content/article/grad-student-unions-strike-controversial-deal-university-california)
+- [A personal history of visual programming environments &lpar;2021&rpar;](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/)
+- [Winter 2022 Release: Tools for Developers in SingleStoreDB](https://www.singlestore.com/blog/tools-for-developers-80)
+- [State of OpenID Connect Providers](https://blog.m5e.de/post/state-of-openid-connect-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
