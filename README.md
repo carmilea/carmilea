@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
 - [How Apple names things](https://nicolas.kruchten.com/content/2022/12/apple_tm/)
 - [Tattoos and clothing in sixteenth-century Roanoke](https://www.laphamsquarterly.org/roundtable/body-talk)
 - [Caroline Ellison and Gary Wang are cooperating in the criminal case against SBF](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
-- [Hotels turn to robots and room cleanings to ease staffing shortages](https://www.npr.org/2022/12/21/1143475374/hotels-labor-worker-shortage-robots-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
