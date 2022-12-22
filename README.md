@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UnifiedPush: A decentralized, open-source push notification protocol](https://f-droid.org/2022/12/18/unifiedpush.html)
-- [Grad student unions strike controversial deal with University of California](https://www.science.org/content/article/grad-student-unions-strike-controversial-deal-university-california)
-- [A personal history of visual programming environments &lpar;2021&rpar;](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/)
-- [Winter 2022 Release: Tools for Developers in SingleStoreDB](https://www.singlestore.com/blog/tools-for-developers-80)
-- [State of OpenID Connect Providers](https://blog.m5e.de/post/state-of-openid-connect-providers/)
+- [France fines Microsoft €60M for imposing advertising cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)
+- [Even the FBI says you should use an ad blocker](https://techcrunch.com/2022/12/22/fbi-ad-blocker/)
+- [Hypercard on the Archive](https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/)
+- [Elements of Dance Etiquette &lpar;2005&rpar;](https://personal.utdallas.edu/~aria/dance/etiquette.html)
+- [Comcast agents mistakenly reject some poor people who qualify for free Internet](https://arstechnica.com/tech-policy/2022/12/comcast-agents-mistakenly-reject-some-poor-people-who-qualify-for-free-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
