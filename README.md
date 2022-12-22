@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU &lpar;Part I&rpar;](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
+- [Don&#39;t Call Yourself a Programmer, and Other Career Advice &lpar;2011&rpar;](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - [France fines Microsoft €60M for imposing advertising cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)
-- [Even the FBI says you should use an ad blocker](https://techcrunch.com/2022/12/22/fbi-ad-blocker/)
-- [Hypercard on the Archive](https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/)
-- [Elements of Dance Etiquette &lpar;2005&rpar;](https://personal.utdallas.edu/~aria/dance/etiquette.html)
-- [Comcast agents mistakenly reject some poor people who qualify for free Internet](https://arstechnica.com/tech-policy/2022/12/comcast-agents-mistakenly-reject-some-poor-people-who-qualify-for-free-internet/)
+- [24-core CPU and I can’t move my mouse &lpar;2017&rpar;](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
+- [Hypercard on the Archive &lpar;2017&rpar;](https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
