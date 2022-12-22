@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Lisp – Myths and Legends](http://www.lispworks.com/products/myths_and_legends.html)
-- [SantaCoder: A new 1.1B code model for generation and infilling](https://huggingface.co/spaces/bigcode/santacoder-demo)
-- [Aging is associated with a systemic length-associated transcriptome imbalance](https://www.nature.com/articles/s43587-022-00317-6)
-- [Milk and dairy products: good or bad for human health?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122229/)
-- [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/)
+- [Patterns &lpar;YC S21&rpar;, a platform to build next-gen AI systems, is hiring devs](https://www.patterns.app/)
+- [Don&#39;t force users to register before they can buy &lpar;2015&rpar;](https://www.nngroup.com/articles/optional-registration/)
+- [ByteDance confirmed it used TikTok to monitor journalists’ physical location](https://www.forbes.com/sites/emilybaker-white/2022/12/22/tiktok-tracks-forbes-journalists-bytedance/)
+- [Pico8 Music Synthesizer](https://johanpeitz.itch.io/picosynth)
+- [Common Lisp – Myths and Legends &lpar;2002&rpar;](http://www.lispworks.com/products/myths_and_legends.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
