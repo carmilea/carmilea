@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotels turn to robots and room cleanings every 4 days to ease staffing shortages](https://www.npr.org/2022/12/21/1143475374/hotels-labor-worker-shortage-robots-automation)
+- [The War on Merit Takes a Bizarre Turn](https://www.city-journal.org/war-on-merit-takes-bizarre-turn)
+- [Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
 - [The Pocket Guide to Debugging](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/)
 - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
 - [Enzymes That Could Make It Cheaper to Recycle Than Make Them from Petroleum](https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html)
-- [Netflix: 30% bitrate saving using Film Grain Synthesis](https://waveletbeam.com/index.php/news/48-netflix-film-grain-synthesis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
