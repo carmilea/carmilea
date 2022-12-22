@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Xbrowsersync – open-source Bookmark Synching](https://www.xbrowsersync.org/)
 - [Are super-rich people just better at making money?](https://pudding.cool/2022/12/yard-sale/)
 - [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
-- [America needs more than innovation; it needs wisdom](https://www.theatlantic.com/family/archive/2022/03/older-workers-silicon-valley-business/623880/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
