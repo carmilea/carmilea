@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [O Holy Crap](https://www.thefp.com/p/an-elegy-to-all-my-crap)
-- [Generating Audio with Literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
-- [LL&lpar;1&rpar; Parser Visualization](https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1/)
-- [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
-- [Xbrowsersync – open-source Bookmark Synching](https://www.xbrowsersync.org/)
+- [The hand-cranked Curta mechanical calculator &lpar;2021&rpar;](https://arstechnica.com/science/2021/12/the-remarkable-history-of-the-hand-cranked-curta-mechanical-calculator/)
+- [Diodes Hate It – Clipping with DSPs](https://straighttoground.com/2022/12/22/diodes-hate-it-clipping-with-dsps/)
+- [A Year of Building for the Terminal](https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/)
+- [Against Method](https://en.wikipedia.org/wiki/Against_Method)
+- [Japan to invest on nuclear energy in major policy shift](https://eandt.theiet.org/content/articles/2022/12/japan-to-invest-on-nuclear-energy-in-major-policy-shift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
