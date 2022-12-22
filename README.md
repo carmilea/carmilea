@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
+- [How Apple names things](https://nicolas.kruchten.com/content/2022/12/apple_tm/)
+- [Tattoos and clothing in sixteenth-century Roanoke](https://www.laphamsquarterly.org/roundtable/body-talk)
 - [Caroline Ellison and Gary Wang are cooperating in the criminal case against SBF](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
 - [Hotels turn to robots and room cleanings to ease staffing shortages](https://www.npr.org/2022/12/21/1143475374/hotels-labor-worker-shortage-robots-automation)
-- [The pocket guide to debugging](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/)
-- [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
-- [Enzymes that could make it cheaper to recycle than make them from petroleum](https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
