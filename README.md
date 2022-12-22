@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Xbrowsersync – open-source Bookmark Synching](https://www.xbrowsersync.org/)
-- [Are super-rich people just better at making money?](https://pudding.cool/2022/12/yard-sale/)
 - [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
+- [John Ford and the Citizen Kane assumption &lpar;2012&rpar;](http://www.davidbordwell.net/blog/2012/03/06/john-ford-and-the-citizen-kane-assumption/)
 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
 <!-- BLOG-POST-LIST:END -->
 
