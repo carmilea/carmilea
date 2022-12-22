@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [O Holy Crap](https://www.thefp.com/p/an-elegy-to-all-my-crap)
 - [Generating Audio with Literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 - [LL&lpar;1&rpar; Parser Visualization](https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1/)
 - [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Xbrowsersync – open-source Bookmark Synching](https://www.xbrowsersync.org/)
-- [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
 <!-- BLOG-POST-LIST:END -->
 
 ---
