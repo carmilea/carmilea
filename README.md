@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Simpler Machine Learning Models Exist and How Can We Find Them?](https://statmodeling.stat.columbia.edu/2022/12/22/do-simpler-machine-learning-models-exist-and-how-can-we-find-them/)
-- [Tell HN: Two YC companies in a row hired and then didn&#39;t take me on](https://news.ycombinator.com/item?id=34096010)
-- [“Pitfall” for the Atari describes its whole world in a single byte](https://evoniuk.github.io/posts/pitfall.html)
-- [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU &lpar;Part I&rpar;](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
-- [Don&#39;t Call Yourself a Programmer, and Other Career Advice &lpar;2011&rpar;](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- [Common Lisp – Myths and Legends](http://www.lispworks.com/products/myths_and_legends.html)
+- [SantaCoder: A new 1.1B code model for generation and infilling](https://huggingface.co/spaces/bigcode/santacoder-demo)
+- [Aging is associated with a systemic length-associated transcriptome imbalance](https://www.nature.com/articles/s43587-022-00317-6)
+- [Milk and dairy products: good or bad for human health?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122229/)
+- [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
