@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Simpler Machine Learning Models Exist and How Can We Find Them?](https://statmodeling.stat.columbia.edu/2022/12/22/do-simpler-machine-learning-models-exist-and-how-can-we-find-them/)
+- [Tell HN: Two YC companies in a row hired and then didn&#39;t take me on](https://news.ycombinator.com/item?id=34096010)
+- [“Pitfall” for the Atari describes its whole world in a single byte](https://evoniuk.github.io/posts/pitfall.html)
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU &lpar;Part I&rpar;](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
 - [Don&#39;t Call Yourself a Programmer, and Other Career Advice &lpar;2011&rpar;](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-- [France fines Microsoft €60M for imposing advertising cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)
-- [24-core CPU and I can’t move my mouse &lpar;2017&rpar;](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
-- [Hypercard on the Archive &lpar;2017&rpar;](https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
