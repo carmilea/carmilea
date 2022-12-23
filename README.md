@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I am done. I give up](https://news.ycombinator.com/item?id=34103896)
 - [WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
 - [Python Malware Starting to Employ Anti-Debug Techniques](https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/)
 - [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
 - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
-- [Tesla shares tank after U.S. discounts doubled on key models](https://www.reuters.com/business/autos-transportation/tesla-offers-discount-some-car-models-us-canada-2022-12-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
