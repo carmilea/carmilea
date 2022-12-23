@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of User-Hostile Software [2021]](https://den.dev/blog/user-hostile-software/)
+- [The Mathematical Hacker](https://www.evanmiller.org/mathematical-hacker.html)
+- [Bankman-Fried&#39;s Shrinking ‘$250M Bond’](https://www.coindesk.com/consensus-magazine/2022/12/23/bankman-frieds-incredible-shrinking-250-million-bond/)
 - [Free, P2P, disposable group video calling app for the web](https://github.com/vasanthv/talk)
 - [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
-- [RISC-V Decoupled Vector Processing Unit &lpar;VPU&rpar; for HPC](https://semiengineering.com/24217870-2/)
-- [“I drove for Lyft for a week and learned its business model is broken”](https://www.fullstackeconomics.com/p/i-drove-for-lyft-for-a-week-and-learned)
-- [User Interface Design: Rules of Thumb](https://mannhowie.com/ui-design-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
