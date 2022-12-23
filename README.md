@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Talking to Each Other and Start Buying Things](https://catvalente.substack.com/p/stop-talking-to-each-other-and-start)
+- [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
 - [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
+- [The simplest app that makes money](https://billprin.com/2022/12/07/simpest-app-that-makes-money.html)
 - [Hyperpaper Planner: fully interlinked dayplanner for e-ink tablets](https://hyperpaper.me)
-- [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
