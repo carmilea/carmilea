@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanks Dang, Happy Holidays!](https://news.ycombinator.com/threads?id=dang#hn-moderator)
+- [Ask HN: Why is Tesla stock dropping? Meta?](https://news.ycombinator.com/item?id=34104680)
+- [A simple guide on words to avoid in government](https://civilservice.blog.gov.uk/2022/08/16/a-simple-guide-on-words-to-avoid-in-government/)
 - [Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies](https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html)
-- [I am done. I give up](https://news.ycombinator.com/item?id=34103896)
-- [WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
-- [Python Malware Starting to Employ Anti-Debug Techniques](https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/)
-- [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
+- [TikTok admits tracking FT journalist in leaks investigation](https://www.ft.com/content/e873b98a-9623-45b3-b97c-444a2fde5874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
