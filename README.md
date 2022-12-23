@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This is the year of the RSS reader](https://www.niemanlab.org/2022/12/this-is-the-year-of-the-rss-reader-really/)
+- [It&#39;s Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
 - [Thanks Dang, Happy Holidays!](https://news.ycombinator.com/threads?id=dang#hn-moderator)
 - [A simple guide on words to avoid in government](https://civilservice.blog.gov.uk/2022/08/16/a-simple-guide-on-words-to-avoid-in-government/)
 - [Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies](https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html)
-- [TikTok admits tracking FT journalist in leaks investigation](https://www.ft.com/content/e873b98a-9623-45b3-b97c-444a2fde5874)
-- [DOS demo/game development template](https://github.com/badlogic/dos-dev-template)
 <!-- BLOG-POST-LIST:END -->
 
 ---
