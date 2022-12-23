@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UI Web Design 5 Rules of Thumb](https://mannhowie.com/ui-design-web)
+- [WLED Project](https://kno.wled.ge/)
+- [Ask HN: Learn C in 2023?](https://news.ycombinator.com/item?id=34105770)
 - [This is the year of the RSS reader](https://www.niemanlab.org/2022/12/this-is-the-year-of-the-rss-reader-really/)
 - [It&#39;s Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
-- [Thanks Dang, Happy Holidays!](https://news.ycombinator.com/threads?id=dang#hn-moderator)
-- [A simple guide on words to avoid in government](https://civilservice.blog.gov.uk/2022/08/16/a-simple-guide-on-words-to-avoid-in-government/)
-- [Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies](https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
