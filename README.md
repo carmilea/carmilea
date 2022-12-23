@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk’s desire to own the Libs is alienating the buyers of Teslas](https://ritholtz.com/2022/12/owning-the-libs/)
-- [Ask HN: Why is the Wikipedia Foundation&#39;s begging tolerated?](https://news.ycombinator.com/item?id=34106982)
+- [Free, P2P, disposable group video calling app for the web](https://github.com/vasanthv/talk)
 - [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
-- [Are Progressives in Denial About Progress? Yes, but So Is Almost Everyone Else](https://www.dropbox.com/s/iuodjgbly7xd3an/2022%20Mitchell%20%20Tetlock%20in%20press%20Progress%20Denial.pdf?dl=0)
+- [RISC-V Decoupled Vector Processing Unit &lpar;VPU&rpar; for HPC](https://semiengineering.com/24217870-2/)
+- [“I drove for Lyft for a week and learned its business model is broken”](https://www.fullstackeconomics.com/p/i-drove-for-lyft-for-a-week-and-learned)
 - [User Interface Design: Rules of Thumb](https://mannhowie.com/ui-design-web)
 <!-- BLOG-POST-LIST:END -->
 
