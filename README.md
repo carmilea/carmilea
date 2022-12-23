@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
+- [Washington Needs a Crypto Rethink](https://www.newyorker.com/news/our-columnists/washington-needs-a-crypto-rethink)
+- [L.A. students have high grades but low test scores](https://www.latimes.com/california/story/2022-12-22/la-student-reports-card-grades-are-high-test-scores-are-low-why-the-big-disconnect)
 - [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
-- [The simplest app that makes money](https://billprin.com/2022/12/07/simpest-app-that-makes-money.html)
-- [Hyperpaper Planner: fully interlinked dayplanner for e-ink tablets](https://hyperpaper.me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
