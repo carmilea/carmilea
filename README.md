@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Video Transcription inspired by Cyberpunk 2077](https://github.com/elanmart/cbp-translate)
-- [Show HN: Metriport – Open-source universal API for health data](https://github.com/metriport/metriport)
-- [40 Years of PCMag: An Illustrated Guide](https://www.pcmag.com/news/40-years-of-pcmag-an-illustrated-guide)
-- [Inauguration of mainland Europe&#39;s first satellite launch complex](https://sscspace.com/inauguration-of-mainland-europes-first-satellite-launch-complex/)
-- [Linux Kernel Ksmbd Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1690/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
+- [On why I gave up drinking in my early twenties](https://oscargws.substack.com/p/why-i-gave-up-drinking-in-my-twenties)
+- [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
+- [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
+- [Show HN: My bookmarks of HN and who I&#39;m following](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
