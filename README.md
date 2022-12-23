@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
+- [Jukebox Sample Explorer](https://jukebox.openai.com/)
 - [Caroline Ellison, CEO of Alameda Research, pleads guilty to seven offences](https://www.theguardian.com/business/2022/dec/23/chief-executive-of-ftx-sister-company-pleads-guilty-to-seven-offences)
+- [A new chat feature has been released by You Search](https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat)
 - [Show HN: Search HN Favorites or Export to CSV/HTML](https://github.com/gabrielsroka/gabrielsroka.github.io/blob/master/getHNFavorites.js)
-- [GitHub Statistics](https://ossinsight.io/)
-- [Hacker News Insight](https://hackernews-insight.vercel.app/user-analysis)
-- [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
