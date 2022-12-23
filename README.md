@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker News Insight](https://hackernews-insight.vercel.app/user-analysis)
+- [Caroline Ellison, CEO of Alameda Research, pleads guilty to seven offences](https://www.theguardian.com/business/2022/dec/23/chief-executive-of-ftx-sister-company-pleads-guilty-to-seven-offences)
+- [Show HN: Search HN Favorites or Export to CSV/HTML](https://github.com/gabrielsroka/gabrielsroka.github.io/blob/master/getHNFavorites.js)
+- [GitHub Statistics](https://ossinsight.io/)
+- [Hacker News Insight](https://hackernews-insight.vercel.app/user-analysis)
 - [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
-- [I Found a Secret US Government Surveillance Program](https://docs.google.com/presentation/d/1sowJrQQfgxnLCErb-CvUV8VGXdtca6SWYWWLRPZgaHI/mobilepresent?slide=id.ga3a076b34_0_12)
-- [Haiku R1/beta4](https://www.haiku-os.org/get-haiku/r1beta4/release-notes/)
-- [Meson 1.0 Build System](https://mesonbuild.com/Release-notes-for-1-0-0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
