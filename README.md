@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UI Web Design 5 Rules of Thumb](https://mannhowie.com/ui-design-web)
-- [WLED Project](https://kno.wled.ge/)
-- [Ask HN: Learn C in 2023?](https://news.ycombinator.com/item?id=34105770)
-- [This is the year of the RSS reader](https://www.niemanlab.org/2022/12/this-is-the-year-of-the-rss-reader-really/)
-- [It&#39;s Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
+- [Musk’s desire to own the Libs is alienating the buyers of Teslas](https://ritholtz.com/2022/12/owning-the-libs/)
+- [Ask HN: Why is the Wikipedia Foundation&#39;s begging tolerated?](https://news.ycombinator.com/item?id=34106982)
+- [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
+- [Are Progressives in Denial About Progress? Yes, but So Is Almost Everyone Else](https://www.dropbox.com/s/iuodjgbly7xd3an/2022%20Mitchell%20%20Tetlock%20in%20press%20Progress%20Denial.pdf?dl=0)
+- [User Interface Design: Rules of Thumb](https://mannhowie.com/ui-design-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
