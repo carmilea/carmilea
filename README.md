@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 - [The Rise of User-Hostile Software [2021]](https://den.dev/blog/user-hostile-software/)
 - [The Mathematical Hacker](https://www.evanmiller.org/mathematical-hacker.html)
-- [Bankman-Fried&#39;s Shrinking ‘$250M Bond’](https://www.coindesk.com/consensus-magazine/2022/12/23/bankman-frieds-incredible-shrinking-250-million-bond/)
 - [Free, P2P, disposable group video calling app for the web](https://github.com/vasanthv/talk)
 - [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
 <!-- BLOG-POST-LIST:END -->
