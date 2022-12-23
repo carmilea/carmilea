@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Talking to Each Other and Start Buying Things](https://catvalente.substack.com/p/stop-talking-to-each-other-and-start)
 - [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
 - [Hyperpaper Planner: fully interlinked dayplanner for e-ink tablets](https://hyperpaper.me)
 - [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
-- [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
