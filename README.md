@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
-- [On why I gave up drinking in my early twenties](https://oscargws.substack.com/p/why-i-gave-up-drinking-in-my-twenties)
+- [Hyperpaper Planner: fully interlinked dayplanner for e-ink tablets](https://hyperpaper.me)
 - [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
 - [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
 <!-- BLOG-POST-LIST:END -->
