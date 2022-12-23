@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
 - [On why I gave up drinking in my early twenties](https://oscargws.substack.com/p/why-i-gave-up-drinking-in-my-twenties)
 - [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
 - [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
-- [Show HN: My bookmarks of HN and who I&#39;m following](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
