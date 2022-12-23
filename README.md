@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
+- [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
+- [Tesla shares tank after U.S. discounts doubled on key models](https://www.reuters.com/business/autos-transportation/tesla-offers-discount-some-car-models-us-canada-2022-12-22/)
 - [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
 - [Washington Needs a Crypto Rethink](https://www.newyorker.com/news/our-columnists/washington-needs-a-crypto-rethink)
-- [L.A. students have high grades but low test scores](https://www.latimes.com/california/story/2022-12-22/la-student-reports-card-grades-are-high-test-scores-are-low-why-the-big-disconnect)
-- [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
