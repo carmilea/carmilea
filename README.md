@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
-- [The Rise of User-Hostile Software [2021]](https://den.dev/blog/user-hostile-software/)
-- [The Mathematical Hacker](https://www.evanmiller.org/mathematical-hacker.html)
-- [Free, P2P, disposable group video calling app for the web](https://github.com/vasanthv/talk)
-- [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
+- [I Found a Secret US Government Surveillance Program](https://docs.google.com/presentation/d/1sowJrQQfgxnLCErb-CvUV8VGXdtca6SWYWWLRPZgaHI/mobilepresent?slide=id.ga3a076b34_0_12)
+- [Haiku R1/beta4](https://www.haiku-os.org/get-haiku/r1beta4/release-notes/)
+- [Meson 1.0 Build System](https://mesonbuild.com/Release-notes-for-1-0-0.html)
+- [The Rise of User-Hostile Software &lpar;2021&rpar;](https://den.dev/blog/user-hostile-software/)
+- [France starts a debate on legalising assisted dying](https://www.economist.com/europe/2022/12/20/france-starts-a-debate-on-legalising-assisted-dying)
 <!-- BLOG-POST-LIST:END -->
 
 ---
