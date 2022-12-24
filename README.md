@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [News Is What Somebody Does Not Want You to Print. All the Rest Is Advertising](https://quoteinvestigator.com/2013/01/20/news-suppress/)
-- [Cannabis is legal in most America but federal laws block businesses from banks](https://www.usatoday.com/story/opinion/2022/12/20/cannabis-banking-helps-marijuana-businesses-grow/10896278002/)
-- [Ask HN: Do You Host Your Own Email?](https://news.ycombinator.com/item?id=34117386)
-- [Developer successfully emulates first version of iPhone OS on computer with QEMU](https://9to5mac.com/2022/12/23/developer-emulates-iphone-os-qemu/)
-- [Bill Introduced to Replace HF Symbol Rate Limit with Bandwidth Limit](http://www.arrl.org/news/view/rep-lesko-introduces-bill-to-replace-symbol-rate-limit-with-bandwidth-limit)
+- [Evolution of the Ethereum Proof-of-Stake Consensus Protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md)
+- [Becoming financially independent as solo quant](https://old.reddit.com/r/quant/comments/zt0i0a/on_turning_30k_into_103k_in_under_one_month_in/)
+- [A Museum Tried to Hide This 3D Scan of an Iconic Egyptian Artifact. &lpar;2019&rpar;](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/)
+- [340k people moved out of CA in 2022, most of any state](https://www.sacbee.com/news/politics-government/capitol-alert/article270354472.html)
+- [Second Life on GitHub](https://community.secondlife.com/blogs/entry/12081-second-life-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
