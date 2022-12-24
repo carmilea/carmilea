@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
 - [Merry Christmas, HN](https://news.ycombinator.com/item?id=34121082)
 - [Stanford Hates Fun](https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html)
 - [The cold hard truth about electric vehicles in winter](https://www.axios.com/2022/03/04/the-cold-hard-truth-about-electric-vehicles-in-winter)
 - [Maxi Jazz has died](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
-- [Setting up my new laptop: Nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
