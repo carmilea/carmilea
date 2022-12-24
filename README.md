@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tough time building components of a site using vanilla CSS. What to do?](https://news.ycombinator.com/item?id=34116679)
+- [Lamina1: Neal Stephenson’s Anti-Commercial Metaverse](https://www.redbrick.me/lamina1-neal-stephensons-anti-commercial-metaverse/)
+- [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
 - [Help Locked out of 10 years Gmail account](https://news.ycombinator.com/item?id=34116361)
 - [New federal food label law has unintended effect: Sesame now in more foods](https://www.fox9.com/news/new-us-food-label-law-unintended-effect-sesame-more-foods)
-- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [How NYU’s Emergency Room Favors the Rich](https://www.nytimes.com/2022/12/22/health/nyu-langone-emergency-room-vip.html)
-- [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
