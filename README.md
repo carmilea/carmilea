@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer successfully emulates first version of iPhone OS on computer with QEMU](https://9to5mac.com/2022/12/23/developer-emulates-iphone-os-qemu/)
 - [Tough time building components of a site using vanilla CSS. What to do?](https://news.ycombinator.com/item?id=34116679)
 - [Lamina1: Neal Stephenson’s Anti-Commercial Metaverse](https://www.redbrick.me/lamina1-neal-stephensons-anti-commercial-metaverse/)
+- [Philip Pullman: ‘I had to grow up before I could cope with Middlemarch’](https://www.theguardian.com/books/2022/dec/23/philip-pullman-i-had-to-grow-up-before-i-could-cope-with-middlemarch)
 - [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
-- [Help Locked out of 10 years Gmail account](https://news.ycombinator.com/item?id=34116361)
-- [New federal food label law has unintended effect: Sesame now in more foods](https://www.fox9.com/news/new-us-food-label-law-unintended-effect-sesame-more-foods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
