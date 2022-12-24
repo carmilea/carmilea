@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Volodymyr “Fresh” Yezhov, S.T.A.L.K.E.R. dev and the face of &#39;Loki&#39;, has died](https://twitter.com/app4soft/status/1606784614793633794)
+- [Idaho professor sues TikToker over allegations in the killing of 4 students](https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149)
+- [How to Write Unmantainable Code](https://github.com/Droogans/unmaintainable-code)
+- [I&#39;m sure LastPass setting the delete account to display: none was coincidental](https://infosec.exchange/@chiesennegs/109570145849933257)
 - [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
-- [Merry Christmas, HN](https://news.ycombinator.com/item?id=34121082)
-- [Stanford Hates Fun](https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html)
-- [The cold hard truth about electric vehicles in winter](https://www.axios.com/2022/03/04/the-cold-hard-truth-about-electric-vehicles-in-winter)
-- [Maxi Jazz has died](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
