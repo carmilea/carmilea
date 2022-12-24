@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Concave Mirror Using 15th Century Technology &lpar;2018&rpar;](https://wp.optics.arizona.edu/falco/art-optics/historical-questions/making-a-concave-mirror/)
 - [Tell HN: Merry Christmas and Happy New Year](https://news.ycombinator.com/item?id=34114940)
 - [Eastern US power grid orders cuts, issues system wide emergency](https://www.bloomberg.com/news/articles/2022-12-24/eastern-us-power-grid-orders-cuts-issues-system-wide-emergency)
 - [Turn Your Best Programmers into Managers](https://levelup-edu.com/turn-your-best-programmers-into-managers/)
 - [An unexpected ass kicking &lpar;2012&rpar;](https://impossiblehq.com/an-unexpected-ass-kicking/)
-- [How Did Sam Bankman-Fried Get Bail?](https://www.serioustrouble.show/p/how-did-sam-bankman-fried-get-bail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
