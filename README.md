@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cannabis is legal in most America but federal laws block businesses from banks](https://www.usatoday.com/story/opinion/2022/12/20/cannabis-banking-helps-marijuana-businesses-grow/10896278002/)
+- [Ask HN: Do You Host Your Own Email?](https://news.ycombinator.com/item?id=34117386)
 - [Developer successfully emulates first version of iPhone OS on computer with QEMU](https://9to5mac.com/2022/12/23/developer-emulates-iphone-os-qemu/)
-- [Tough time building components of a site using vanilla CSS. What to do?](https://news.ycombinator.com/item?id=34116679)
-- [Lamina1: Neal Stephenson’s Anti-Commercial Metaverse](https://www.redbrick.me/lamina1-neal-stephensons-anti-commercial-metaverse/)
 - [Philip Pullman: ‘I had to grow up before I could cope with Middlemarch’](https://www.theguardian.com/books/2022/dec/23/philip-pullman-i-had-to-grow-up-before-i-could-cope-with-middlemarch)
 - [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
 <!-- BLOG-POST-LIST:END -->
