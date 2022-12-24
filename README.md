@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The situation at LastPass may be worse than they are letting on](https://twitter.com/cryptopathic/status/1606416137771782151)
 - [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
-- [Jukebox Sample Explorer](https://jukebox.openai.com/)
+- [Dating of a large tool assemblage at the Cooper’s Ferry site &lpar;Idaho, USA&rpar;](https://www.science.org/doi/10.1126/sciadv.ade1248)
 - [Caroline Ellison, CEO of Alameda Research, pleads guilty to seven offences](https://www.theguardian.com/business/2022/dec/23/chief-executive-of-ftx-sister-company-pleads-guilty-to-seven-offences)
 - [A new chat feature has been released by You Search](https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat)
-- [Show HN: Search HN Favorites or Export to CSV/HTML](https://github.com/gabrielsroka/gabrielsroka.github.io/blob/master/getHNFavorites.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
