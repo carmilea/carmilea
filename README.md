@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Did Sam Bankman-Fried Get Bail?](https://www.serioustrouble.show/p/how-did-sam-bankman-fried-get-bail)
 - [TikTok banned on government devices under spending bill passed by Congress](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
 - [How we slowed the subway down](https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/)
 - [The situation at LastPass may be worse than they are letting on](https://twitter.com/cryptopathic/status/1606416137771782151)
 - [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
-- [Dating of a large tool assemblage at the Cooper’s Ferry site &lpar;Idaho, USA&rpar;](https://www.science.org/doi/10.1126/sciadv.ade1248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
