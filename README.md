@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faithless singer Maxi Jazz dies, aged 65](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
+- [Maxi Jazz has died](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
+- [A woman turned to a natural enemy of bacteria to save husband’s life](https://www.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html)
 - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
-- [Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/)
-- [Inflation Is Falling Much Faster Than Most People Know](https://cepr.net/wild-inflation-not-anymore-a-closer-look-shows-were-already-approaching-normal/)
 - [Evolution of the Ethereum Proof-of-Stake Consensus Protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md)
+- [A Museum Tried to Hide This 3D Scan of an Iconic Egyptian Artifact. &lpar;2019&rpar;](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
