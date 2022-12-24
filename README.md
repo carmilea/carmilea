@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What to do with a coffee plantation with about 8000 trees?](https://news.ycombinator.com/item?id=34115447)
-- [Making a Concave Mirror Using 15th Century Technology &lpar;2018&rpar;](https://wp.optics.arizona.edu/falco/art-optics/historical-questions/making-a-concave-mirror/)
-- [AWS releases Finch: An open source client for container development](https://github.com/runfinch/finch)
-- [Tell HN: Merry Christmas and Happy New Year](https://news.ycombinator.com/item?id=34114940)
-- [Turn Your Best Programmers into Managers](https://levelup-edu.com/turn-your-best-programmers-into-managers/)
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [How NYU’s Emergency Room Favors the Rich](https://www.nytimes.com/2022/12/22/health/nyu-langone-emergency-room-vip.html)
+- [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
+- [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/)
+- [Ask HN: Anyone free to meetup in Tokyo on Xmas?](https://news.ycombinator.com/item?id=34115488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
