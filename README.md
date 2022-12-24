@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [News Is What Somebody Does Not Want You to Print. All the Rest Is Advertising](https://quoteinvestigator.com/2013/01/20/news-suppress/)
 - [Cannabis is legal in most America but federal laws block businesses from banks](https://www.usatoday.com/story/opinion/2022/12/20/cannabis-banking-helps-marijuana-businesses-grow/10896278002/)
 - [Ask HN: Do You Host Your Own Email?](https://news.ycombinator.com/item?id=34117386)
 - [Developer successfully emulates first version of iPhone OS on computer with QEMU](https://9to5mac.com/2022/12/23/developer-emulates-iphone-os-qemu/)
-- [Philip Pullman: ‘I had to grow up before I could cope with Middlemarch’](https://www.theguardian.com/books/2022/dec/23/philip-pullman-i-had-to-grow-up-before-i-could-cope-with-middlemarch)
-- [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
+- [Bill Introduced to Replace HF Symbol Rate Limit with Bandwidth Limit](http://www.arrl.org/news/view/rep-lesko-introduces-bill-to-replace-symbol-rate-limit-with-bandwidth-limit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
