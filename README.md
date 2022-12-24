@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas, HN](https://news.ycombinator.com/item?id=34121082)
+- [Stanford Hates Fun](https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html)
+- [The cold hard truth about electric vehicles in winter](https://www.axios.com/2022/03/04/the-cold-hard-truth-about-electric-vehicles-in-winter)
 - [Maxi Jazz has died](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
-- [A woman turned to a natural enemy of bacteria to save husband’s life](https://www.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html)
-- [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
-- [Evolution of the Ethereum Proof-of-Stake Consensus Protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md)
-- [A Museum Tried to Hide This 3D Scan of an Iconic Egyptian Artifact. &lpar;2019&rpar;](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/)
+- [Setting up my new laptop: Nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
