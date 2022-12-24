@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eastern US power grid orders cuts, issues system wide emergency](https://www.bloomberg.com/news/articles/2022-12-24/eastern-us-power-grid-orders-cuts-issues-system-wide-emergency)
 - [How Did Sam Bankman-Fried Get Bail?](https://www.serioustrouble.show/p/how-did-sam-bankman-fried-get-bail)
 - [TikTok banned on government devices under spending bill passed by Congress](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
 - [How we slowed the subway down](https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/)
 - [The situation at LastPass may be worse than they are letting on](https://twitter.com/cryptopathic/status/1606416137771782151)
-- [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
