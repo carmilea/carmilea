@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Subpoenaed fossil fuel documents reveal an industry stuck in the past](https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/)
+- [Couples who meet on dating apps are more likely to divorce &lpar;2021&rpar;](https://www.today.com/tmrw/couples-who-meet-dating-apps-are-more-likely-divorce-early-t236940)
+- [The FBI was the primary link between the intelligence community and Twitter](https://threadreaderapp.com/thread/1606701397109796866.html)
+- [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
 - [HelloSilicon – An introduction to assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 - [Donald Knuth’s Christmas Lecture &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=zg6YRqT4Duo)
-- [Atari 800 Winter Solstice Celebration Demo 2022](https://8bitworkshop.com/docs/posts/2022/happy-holidays-2022.html)
-- [APITable: open-source Airtable alternative](https://github.com/apitable/apitable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
