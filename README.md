@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Christmas Tautology &lpar;2020&rpar;](https://nickdrozd.github.io/2020/12/12/christmas-tautology.html)
+- [Literature Clock](https://literature-clock.jenevoldsen.com/)
 - [Life Is Short &lpar;2016&rpar;](http://paulgraham.com/vb.html)
 - [How much I’ve spent so far running my own Mastodon server on AWS](https://www.micahwalter.com/how-much-ive-spent-so-far-running-my-own-mastodon-server-on-aws/)
 - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
-- [“Nobody cares about your blog”](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
