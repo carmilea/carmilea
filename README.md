@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Even the LastPass will be stolen, deal with it &lpar;2015&rpar; [pdf]](https://www.blackhat.com/docs/eu-15/materials/eu-15-Vigo-Even-The-Lastpass-Will-Be-Stolen-deal-with-it.pdf)
-- [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU &lpar;Part II&rpar;](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/)
-- [Non-ECC memory corrupted my hard drive image [video]](https://www.youtube.com/watch?v=0itrM7t4l34)
-- [Reverse engineering yet another eBook format](https://mijailovic.net/2022/12/25/hkpropel/)
-- [I worked at LastPass as an engineer. My 2 cents on the situation](https://twitter.com/ejcx_/status/1606428769731878913)
+- [Ask HN: How to Get Better at Writing?](https://news.ycombinator.com/item?id=34127742)
+- [DuckDuckGo now blocks Google sign-in pop-ups on all sites](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/)
+- [Ask HN: Disappearing Comments?](https://news.ycombinator.com/item?id=34127256)
+- [On Old Age &lpar;2020&rpar;](https://newsletter.butwhatfor.com/p/takeaway-tuesday-on-old-age)
+- [The Overlords Finally Showed Up](https://danielbmarkham.com/the-overlords-finally-showed-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
