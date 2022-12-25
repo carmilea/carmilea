@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU &lpar;Part II&rpar;](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/)
+- [Non-ECC Memory Corrupted My Hard Drive Image – Why ECC Memory Is So Important](https://www.youtube.com/watch?v=0itrM7t4l34)
 - [Reverse engineering yet another eBook format](https://mijailovic.net/2022/12/25/hkpropel/)
 - [Twitter API hacked, user database being sold online](https://breached.vc/Thread-Selling-Twitter-Data-Breach-400-million-users)
-- [Ask HN: What are you predictions for 2023?](https://news.ycombinator.com/item?id=34125628)
-- [Cracking Encrypted LastPass Vaults](https://markuta.com/cracking-lastpass-vaults/)
-- [Ruby 3.2.0](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
+- [I worked at LastPass as an engineer. My 2 cents on the situation](https://twitter.com/ejcx_/status/1606428769731878913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
