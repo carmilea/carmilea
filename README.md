@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon rescinding the offer while I am on the notice period](https://news.ycombinator.com/item?id=34128698)
-- [Oligopoly Everywhere](https://experimentalhistory.substack.com/p/oligopoly-everywhere)
-- [China stages &#39;strike drills&#39; around Taiwan, citing provocation](https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/China-stages-strike-drills-around-Taiwan-citing-provocation)
-- [How to Polish CSS?](https://news.ycombinator.com/item?id=34128451)
-- [Benefits of Monty Python&#39;s Silly Walks](https://www.bmj.com/content/379/bmj-2022-072833)
+- [Subpoenaed fossil fuel documents reveal an industry stuck in the past](https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/)
+- [HelloSilicon – An introduction to assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
+- [Donald Knuth’s Christmas Lecture &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=zg6YRqT4Duo)
+- [Atari 800 Winter Solstice Celebration Demo 2022](https://8bitworkshop.com/docs/posts/2022/happy-holidays-2022.html)
+- [APITable: open-source Airtable alternative](https://github.com/apitable/apitable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
