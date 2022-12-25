@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Couples who meet on dating apps are more likely to divorce &lpar;2021&rpar;](https://www.today.com/tmrw/couples-who-meet-dating-apps-are-more-likely-divorce-early-t236940)
+- [Warming up your car before driving in cold weather can damage the engine &lpar;2016&rpar;](https://www.businessinsider.com/heres-what-idling-your-car-in-the-morning-is-doing-to-your-engine-and-its-not-good-2016-1)
 - [The FBI was the primary link between the intelligence community and Twitter](https://threadreaderapp.com/thread/1606701397109796866.html)
+- [ChatGPT: An attempt to build URL into cross-platform Desktop APP using Tauri](https://github.com/lencx/ChatGPT)
+- [Non-replaceable battery? Not if this proposed EU law passes](https://hackaday.com/2022/12/24/non-replaceable-battery-not-if-this-proposed-eu-law-passes/)
 - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
-- [HelloSilicon – An introduction to assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
-- [Donald Knuth’s Christmas Lecture &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=zg6YRqT4Duo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
