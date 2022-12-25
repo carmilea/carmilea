@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life Is Short &lpar;2016&rpar;](http://paulgraham.com/vb.html)
+- [How much I’ve spent so far running my own Mastodon server on AWS](https://www.micahwalter.com/how-much-ive-spent-so-far-running-my-own-mastodon-server-on-aws/)
 - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
-- [Taxpayers paying billions for the renovations and construction of NFL stadiums](https://www.cnbc.com/2022/12/22/taxpayers-are-paying-billions-for-nfl-stadiums-heres-how.html)
 - [“Nobody cares about your blog”](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
-- [Official Norad Tracks Santa](https://www.noradsanta.org/en/index.html)
-- [What does Overture Map mean for the future of OpenStreetMap](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/)
+- [Official NORAD Tracks Santa](https://www.noradsanta.org/en/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
