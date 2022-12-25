@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taxpayers paying billions for the renovations and construction of NFL stadiums](https://www.cnbc.com/2022/12/22/taxpayers-are-paying-billions-for-nfl-stadiums-heres-how.html)
 - [Nobody Cares About Your Blog](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
+- [Official Norad Tracks Santa](https://www.noradsanta.org/en/index.html)
 - [What does Overture Map mean for the future of OpenStreetMap](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/)
 - [Ask HN: Who else is working/on call over Christmas?](https://news.ycombinator.com/item?id=34122578)
-- [Tell HN: Everyone should have a holiday dinner this year](https://news.ycombinator.com/item?id=34122118)
-- [How to write unmantainable code &lpar;2015&rpar;](https://github.com/Droogans/unmaintainable-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
