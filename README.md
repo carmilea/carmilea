@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking Encrypted LastPass Vaults](https://markuta.com/cracking-lastpass-vaults/)
 - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
+- [The UKHO intends to withdraw from paper chart production by 2026](https://www.admiralty.co.uk/sunsetting-paper-charts)
+- [The X11 Conservancy Project](https://x11cp.org/)
 - [A Christmas Tautology &lpar;2020&rpar;](https://nickdrozd.github.io/2020/12/12/christmas-tautology.html)
-- [Literature Clock](https://literature-clock.jenevoldsen.com/)
-- [Life Is Short &lpar;2016&rpar;](http://paulgraham.com/vb.html)
-- [How much I’ve spent so far running my own Mastodon server on AWS](https://www.micahwalter.com/how-much-ive-spent-so-far-running-my-own-mastodon-server-on-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
