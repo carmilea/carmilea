@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Caroline Ellison’s MIT prof dad’s most cited work is on the prisoner’s dilemma](https://twitter.com/genevievemp/status/1606400499317673984)
+- [Atari 800 Winter Solstice Celebration Demo 2022](https://8bitworkshop.com/docs/posts/2022/happy-holidays-2022.html)
 - [Ask HN: How to Get Better at Writing?](https://news.ycombinator.com/item?id=34127742)
-- [DuckDuckGo now blocks Google sign-in pop-ups on all sites](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/)
-- [Ask HN: Disappearing Comments?](https://news.ycombinator.com/item?id=34127256)
-- [On Old Age &lpar;2020&rpar;](https://newsletter.butwhatfor.com/p/takeaway-tuesday-on-old-age)
-- [The Overlords Finally Showed Up](https://danielbmarkham.com/the-overlords-finally-showed-up/)
+- [Kickstarter shuts down campaign for Unstable Diffusion amid changing guidelines](https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/)
+- [Blank page with an embedded tweet. How bad can it be?](https://twitter.com/mhevery/status/1606438382561026049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
