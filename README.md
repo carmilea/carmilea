@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Warming up your car before driving in cold weather can damage the engine &lpar;2016&rpar;](https://www.businessinsider.com/heres-what-idling-your-car-in-the-morning-is-doing-to-your-engine-and-its-not-good-2016-1)
-- [The FBI was the primary link between the intelligence community and Twitter](https://threadreaderapp.com/thread/1606701397109796866.html)
-- [ChatGPT: An attempt to build URL into cross-platform Desktop APP using Tauri](https://github.com/lencx/ChatGPT)
-- [Non-replaceable battery? Not if this proposed EU law passes](https://hackaday.com/2022/12/24/non-replaceable-battery-not-if-this-proposed-eu-law-passes/)
-- [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/4004532006)
+- [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
+- [Microsoft accidentally revealed a UI design prototype for the next Windows](https://www.windowscentral.com/software-apps/windows-11/microsoft-accidentally-revealed-a-ui-design-prototype-for-the-next-version-of-windows-at-ignite-2022)
+- [This week in KDE: Wayland fractional scaling](https://pointieststick.com/2022/12/16/this-week-in-kde-wayland-fractional-scaling-oh-and-we-also-fixed-multi-screen/)
+- [Ask HN: What is your favorite front end state management solution?](https://news.ycombinator.com/item?id=34130767)
 <!-- BLOG-POST-LIST:END -->
 
 ---
