@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse engineering yet another eBook format](https://mijailovic.net/2022/12/25/hkpropel/)
+- [Twitter API hacked, user database being sold online](https://breached.vc/Thread-Selling-Twitter-Data-Breach-400-million-users)
+- [Ask HN: What are you predictions for 2023?](https://news.ycombinator.com/item?id=34125628)
 - [Cracking Encrypted LastPass Vaults](https://markuta.com/cracking-lastpass-vaults/)
-- [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
-- [The UKHO intends to withdraw from paper chart production by 2026](https://www.admiralty.co.uk/sunsetting-paper-charts)
-- [The X11 Conservancy Project](https://x11cp.org/)
-- [A Christmas Tautology &lpar;2020&rpar;](https://nickdrozd.github.io/2020/12/12/christmas-tautology.html)
+- [Ruby 3.2.0](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
