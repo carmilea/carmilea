@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volodymyr “Fresh” Yezhov, S.T.A.L.K.E.R. dev and the face of &#39;Loki&#39;, has died](https://twitter.com/app4soft/status/1606784614793633794)
-- [Idaho professor sues TikToker over allegations in the killing of 4 students](https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149)
-- [How to Write Unmantainable Code](https://github.com/Droogans/unmaintainable-code)
-- [I&#39;m sure LastPass setting the delete account to display: none was coincidental](https://infosec.exchange/@chiesennegs/109570145849933257)
+- [Ask HN: Who else is working/on call over Christmas?](https://news.ycombinator.com/item?id=34122578)
+- [Tell HN: Everyone should have a holiday dinner this year](https://news.ycombinator.com/item?id=34122118)
+- [How to write unmantainable code &lpar;2015&rpar;](https://github.com/Droogans/unmaintainable-code)
+- [What ChatGPT can&#39;t do](https://auerstack.substack.com/p/what-chatgpt-cant-do)
 - [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
 <!-- BLOG-POST-LIST:END -->
 
