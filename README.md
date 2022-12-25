@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia Goes All-In on Green Hydrogen](https://spectrum.ieee.org/green-hydrogen)
+- [MIT Faculty Votes for Statement on Freedom of Expression and Academic Freedom](https://twitter.com/thefireorg/status/1606010943309336576)
 - [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
 - [AI chatbots are not a replacement for search engines](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
 - [Ask HN: Has anyone successfully recovered photos from a broken Android phone?](https://news.ycombinator.com/item?id=34131436)
-- [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/4004532006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
