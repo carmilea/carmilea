@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
+- [AI chatbots are not a replacement for search engines](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
+- [Ask HN: Has anyone successfully recovered photos from a broken Android phone?](https://news.ycombinator.com/item?id=34131436)
+- [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/4004532006)
-- [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
-- [Microsoft accidentally revealed a UI design prototype for the next Windows](https://www.windowscentral.com/software-apps/windows-11/microsoft-accidentally-revealed-a-ui-design-prototype-for-the-next-version-of-windows-at-ignite-2022)
-- [This week in KDE: Wayland fractional scaling](https://pointieststick.com/2022/12/16/this-week-in-kde-wayland-fractional-scaling-oh-and-we-also-fixed-multi-screen/)
-- [Ask HN: What is your favorite front end state management solution?](https://news.ycombinator.com/item?id=34130767)
 <!-- BLOG-POST-LIST:END -->
 
 ---
