@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Even the LastPass will be stolen, deal with it &lpar;2015&rpar; [pdf]](https://www.blackhat.com/docs/eu-15/materials/eu-15-Vigo-Even-The-Lastpass-Will-Be-Stolen-deal-with-it.pdf)
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU &lpar;Part II&rpar;](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/)
-- [Non-ECC Memory Corrupted My Hard Drive Image – Why ECC Memory Is So Important](https://www.youtube.com/watch?v=0itrM7t4l34)
+- [Non-ECC memory corrupted my hard drive image [video]](https://www.youtube.com/watch?v=0itrM7t4l34)
 - [Reverse engineering yet another eBook format](https://mijailovic.net/2022/12/25/hkpropel/)
-- [Twitter API hacked, user database being sold online](https://breached.vc/Thread-Selling-Twitter-Data-Breach-400-million-users)
 - [I worked at LastPass as an engineer. My 2 cents on the situation](https://twitter.com/ejcx_/status/1606428769731878913)
 <!-- BLOG-POST-LIST:END -->
 
