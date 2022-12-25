@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Caroline Ellison’s MIT prof dad’s most cited work is on the prisoner’s dilemma](https://twitter.com/genevievemp/status/1606400499317673984)
-- [Atari 800 Winter Solstice Celebration Demo 2022](https://8bitworkshop.com/docs/posts/2022/happy-holidays-2022.html)
-- [Ask HN: How to Get Better at Writing?](https://news.ycombinator.com/item?id=34127742)
-- [Kickstarter shuts down campaign for Unstable Diffusion amid changing guidelines](https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/)
-- [Blank page with an embedded tweet. How bad can it be?](https://twitter.com/mhevery/status/1606438382561026049)
+- [Amazon rescinding the offer while I am on the notice period](https://news.ycombinator.com/item?id=34128698)
+- [Oligopoly Everywhere](https://experimentalhistory.substack.com/p/oligopoly-everywhere)
+- [China stages &#39;strike drills&#39; around Taiwan, citing provocation](https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/China-stages-strike-drills-around-Taiwan-citing-provocation)
+- [How to Polish CSS?](https://news.ycombinator.com/item?id=34128451)
+- [Benefits of Monty Python&#39;s Silly Walks](https://www.bmj.com/content/379/bmj-2022-072833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
