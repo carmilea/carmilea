@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TablEdit – Music Tablature Editor](https://tabledit.com/index.shtml)
+- [Qwantify](https://github.com/wanjohiryan/qwantify)
+- [How to Befriend Crows](https://fediscience.org/@ct_bergstrom/109571409346371116)
 - [The worst-selling Microsoft software product of all time: OS/2 for the Mach 20](https://devblogs.microsoft.com/oldnewthing/20221226-00/?p=107615)
-- [Firefox Android Added Save as PDF](https://support.mozilla.org/en-US/kb/save-web-pages-pdf-firefox-android)
-- [Windows 95 went the extra mile to ensure compatibility of SimCity, other games](https://arstechnica.com/gadgets/2022/10/windows-95-went-the-extra-mile-to-ensure-compatibility-of-simcity-other-games/)
-- [Study finds AI assistants help developers produce code likely to be buggy](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
-- [Thousands trapped on Pine Ridge burn clothes for warmth in wake of storm](https://www.argusleader.com/story/news/nation/2022/12/23/thousands-trapped-on-pine-ridge-burn-clothes-for-warmth-in-wake-of-storm/69752694007/)
+- [Firefox for Android Added Save as PDF](https://support.mozilla.org/en-US/kb/save-web-pages-pdf-firefox-android)
 <!-- BLOG-POST-LIST:END -->
 
 ---
