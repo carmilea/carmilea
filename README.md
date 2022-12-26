@@ -54,8 +54,8 @@
 - [In the World of Astrophysics, One Failed Cancel Campaign Led to Another](https://quillette.com/2022/12/25/character-assassination-social-justice-physics/)
 - [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
 - [All I Want for Christmas Is These Seven TypeScript Improvements](https://effectivetypescript.com/2022/12/25/christmas/)
+- [PG: MIT freedom statement feels like a turning point](https://twitter.com/paulg/status/1607139735675322371)
 - [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
-- [MIT statement on freedom of expression and academic freedom](https://twitter.com/thefireorg/status/1606010943309336576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
