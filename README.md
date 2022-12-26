@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Gardening in Obsidian](https://bytes.zone/posts/digital-gardening-in-obsidian/)
+- [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 - [Lichee Pi 4A](https://sipeed.com/licheepi4a)
 - [Writing a Mini-CDN to Learn Nginx/Prometheus/Grafana/Lua](https://github.com/leandromoreira/cdn-up-and-running)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Tarai Function Music &lpar;2013&rpar;](http://aikelab.net/tarai/)
-- [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
