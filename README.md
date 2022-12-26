@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta employee buys 12-year lease on cruise ship to see the world while working](https://www.moneycontrol.com/news/trends/meta-employee-buys-12-year-lease-on-cruise-ship-to-see-the-world-while-working-remotely-9759371.html)
+- [Why I&#39;m Glad I Lack Passion to Be a Programmer](https://blog.miris.design/not-a-programmer)
 - [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
 - [PelotonCal](https://pelotoncal.com/)
 - [Tell HN: Thank You](https://news.ycombinator.com/item?id=34140096)
-- [DDR Type 2 – Short-wave spy transmitter](https://www.cryptomuseum.com/spy/ddr2/index.htm)
-- [An Event Apart – Farewell](https://www.aneventapart.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
