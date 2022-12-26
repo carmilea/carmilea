@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moderna Covid vaccine no longer available in Australia](https://covid-vaccine.healthdirect.gov.au/booking/)
 - [The Customer Service Reps for Disney and Airbnb Who Have to Pay to Talk to You](https://www.propublica.org/article/meet-the-customer-service-reps-for-disney-and-airbnb-who-have-to-pay-to-talk-to-you)
 - [The 5GHz “Problem” for Wi-Fi Networks: DFS &lpar;2018&rpar;](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
-- [Gattaca &lpar;1997&rpar; by Andrew M. Niccol. Draft script](https://sfy.ru/?script=gattaca)
-- [Hypermedia Systems](https://hypermedia.systems)
-- [Unary Computer for Matrix Multiplication [pdf]](https://jsm.ece.wisc.edu/docs/wu-isca2020.pdf)
+- [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
+- [Gattaca draft script &lpar;1997&rpar;](https://sfy.ru/?script=gattaca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
