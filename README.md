@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
 - [PelotonCal](https://pelotoncal.com/)
+- [Tell HN: Thank You](https://news.ycombinator.com/item?id=34140096)
 - [DDR Type 2 – Short-wave spy transmitter](https://www.cryptomuseum.com/spy/ddr2/index.htm)
 - [An Event Apart – Farewell](https://www.aneventapart.com/)
-- [Power substations vandalized in Washington state](https://lite.cnn.com/en/article/h_83938cfff92036cf0e1b55ced9febc77)
-- [Bitcoin hashrate drops nearly 40% as deadly U.S. storm unplugs miners](https://finance.yahoo.com/news/bitcoin-hashrate-drops-nearly-40-034118180.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
