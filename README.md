@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Gardening in Obsidian](https://bytes.zone/posts/digital-gardening-in-obsidian/)
-- [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
-- [Lichee Pi 4A](https://sipeed.com/licheepi4a)
-- [Writing a Mini-CDN to Learn Nginx/Prometheus/Grafana/Lua](https://github.com/leandromoreira/cdn-up-and-running)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Windows 95 went the extra mile to ensure compatibility of SimCity, other games](https://arstechnica.com/gadgets/2022/10/windows-95-went-the-extra-mile-to-ensure-compatibility-of-simcity-other-games/)
+- [Study finds AI assistants help developers produce code likely to be buggy](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
+- [Thousands trapped on Pine Ridge burn clothes for warmth in wake of storm](https://www.argusleader.com/story/news/nation/2022/12/23/thousands-trapped-on-pine-ridge-burn-clothes-for-warmth-in-wake-of-storm/69752694007/)
+- [Soaring fertilizer prices could see millions more undernourished](https://phys.org/news/2022-12-soaring-fertilizer-prices-millions-undernourished.html)
+- [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
