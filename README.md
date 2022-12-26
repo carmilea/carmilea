@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In the World of Astrophysics, One Failed Cancel Campaign Led to Another](https://quillette.com/2022/12/25/character-assassination-social-justice-physics/)
+- [NixOS on M1](https://github.com/tpwrules/nixos-m1)
+- [Japan to begin extracting rare earth metals from seabed in 2024](https://archive.vn/cmEkC)
+- [Google’s water use is soaring, consume more than 25% of water used in The Dalles](https://www.oregonlive.com/silicon-forest/2022/12/googles-water-use-is-soaring-in-the-dalles-records-show-with-two-more-data-centers-to-come.html)
+- [The Canon Cat: the little computer that could have changed the world](https://adventofcomputing.libsyn.com/episode-98-the-canon-cat?tdest_id=1264190)
 - [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
-- [All I Want for Christmas Is These Seven TypeScript Improvements](https://effectivetypescript.com/2022/12/25/christmas/)
-- [PG: MIT freedom statement feels like a turning point](https://twitter.com/paulg/status/1607139735675322371)
-- [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
