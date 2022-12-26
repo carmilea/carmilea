@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Letter regarding proposed free expression statement from MIT](https://news.mit.edu/2022/proposed-free-expression-statement-0901)
 - [NixOS on M1](https://github.com/tpwrules/nixos-m1)
-- [Japan to begin extracting rare earth metals from seabed in 2024](https://archive.vn/cmEkC)
-- [Google’s water use is soaring, consume more than 25% of water used in The Dalles](https://www.oregonlive.com/silicon-forest/2022/12/googles-water-use-is-soaring-in-the-dalles-records-show-with-two-more-data-centers-to-come.html)
+- [Japan to begin extracting rare earth metals from seabed in 2024](https://asia.nikkei.com/Business/Markets/Commodities/Japan-to-begin-extracting-rare-earth-metals-from-seabed-in-2024)
 - [The Canon Cat: the little computer that could have changed the world](https://adventofcomputing.libsyn.com/episode-98-the-canon-cat?tdest_id=1264190)
 - [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
 <!-- BLOG-POST-LIST:END -->
