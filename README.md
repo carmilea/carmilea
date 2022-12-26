@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 5GHz “Problem” for Wi-Fi Networks: DFS &lpar;2018&rpar;](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
 - [Letter regarding proposed free expression statement from MIT](https://news.mit.edu/2022/proposed-free-expression-statement-0901)
+- [Hypermedia Systems](https://hypermedia.systems)
+- [Unary Computer for Matrix Multiplication [pdf]](https://jsm.ece.wisc.edu/docs/wu-isca2020.pdf)
 - [NixOS on M1](https://github.com/tpwrules/nixos-m1)
-- [Japan to begin extracting rare earth metals from seabed in 2024](https://asia.nikkei.com/Business/Markets/Commodities/Japan-to-begin-extracting-rare-earth-metals-from-seabed-in-2024)
-- [The Canon Cat: the little computer that could have changed the world](https://adventofcomputing.libsyn.com/episode-98-the-canon-cat?tdest_id=1264190)
-- [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
