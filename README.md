@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Visual Guide to UseEffect](https://alexsidorenko.com/blog/useeffect/)
+- [Mold linker: targeting macOS/iOS now requires a commercial license](https://github.com/rui314/mold/releases/tag/v1.8.0)
 - [eBay, Etsy and Other Markets Now Have to Disclose Seller Details with Inform Act](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
 - [Google removed my Yubikeys from a Google account &#39;just to be safe&#39;](https://lunnova.dev/articles/google-just-to-be-safe/)
 - [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
-- [PelotonCal](https://pelotoncal.com/)
-- [Tell HN: Thank You](https://news.ycombinator.com/item?id=34140096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
