@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TablEdit – Music Tablature Editor](https://tabledit.com/index.shtml)
-- [Qwantify](https://github.com/wanjohiryan/qwantify)
-- [How to Befriend Crows](https://fediscience.org/@ct_bergstrom/109571409346371116)
-- [The worst-selling Microsoft software product of all time: OS/2 for the Mach 20](https://devblogs.microsoft.com/oldnewthing/20221226-00/?p=107615)
-- [Firefox for Android Added Save as PDF](https://support.mozilla.org/en-US/kb/save-web-pages-pdf-firefox-android)
+- [PelotonCal](https://pelotoncal.com/)
+- [DDR Type 2 – Short-wave spy transmitter](https://www.cryptomuseum.com/spy/ddr2/index.htm)
+- [An Event Apart – Farewell](https://www.aneventapart.com/)
+- [Power substations vandalized in Washington state](https://lite.cnn.com/en/article/h_83938cfff92036cf0e1b55ced9febc77)
+- [Bitcoin hashrate drops nearly 40% as deadly U.S. storm unplugs miners](https://finance.yahoo.com/news/bitcoin-hashrate-drops-nearly-40-034118180.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
