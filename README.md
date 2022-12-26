@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta employee buys 12-year lease on cruise ship to see the world while working](https://www.moneycontrol.com/news/trends/meta-employee-buys-12-year-lease-on-cruise-ship-to-see-the-world-while-working-remotely-9759371.html)
-- [Why I&#39;m Glad I Lack Passion to Be a Programmer](https://blog.miris.design/not-a-programmer)
+- [eBay, Etsy and Other Markets Now Have to Disclose Seller Details with Inform Act](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
+- [Google removed my Yubikeys from a Google account &#39;just to be safe&#39;](https://lunnova.dev/articles/google-just-to-be-safe/)
 - [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
 - [PelotonCal](https://pelotoncal.com/)
 - [Tell HN: Thank You](https://news.ycombinator.com/item?id=34140096)
