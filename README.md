@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Customer Service Reps for Disney and Airbnb Who Have to Pay to Talk to You](https://www.propublica.org/article/meet-the-customer-service-reps-for-disney-and-airbnb-who-have-to-pay-to-talk-to-you)
 - [The 5GHz “Problem” for Wi-Fi Networks: DFS &lpar;2018&rpar;](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
-- [Letter regarding proposed free expression statement from MIT](https://news.mit.edu/2022/proposed-free-expression-statement-0901)
+- [Gattaca &lpar;1997&rpar; by Andrew M. Niccol. Draft script](https://sfy.ru/?script=gattaca)
 - [Hypermedia Systems](https://hypermedia.systems)
 - [Unary Computer for Matrix Multiplication [pdf]](https://jsm.ece.wisc.edu/docs/wu-isca2020.pdf)
-- [NixOS on M1](https://github.com/tpwrules/nixos-m1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
