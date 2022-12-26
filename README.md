@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Visual Guide to UseEffect](https://alexsidorenko.com/blog/useeffect/)
+- [Binary Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
+- [A Visual Guide to React&#39;s useEffect](https://alexsidorenko.com/blog/useeffect/)
+- [The Tipping Point: How France Changed the Tides of the American Revolution](https://www.battlefields.org/learn/articles/how-france-helped-win-american-revolution)
 - [Mold linker: targeting macOS/iOS now requires a commercial license](https://github.com/rui314/mold/releases/tag/v1.8.0)
-- [eBay, Etsy and Other Markets Now Have to Disclose Seller Details with Inform Act](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
-- [Google removed my Yubikeys from a Google account &#39;just to be safe&#39;](https://lunnova.dev/articles/google-just-to-be-safe/)
-- [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
+- [eBay, Etsy and other marketplaces on brink of having to disclose seller details](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
