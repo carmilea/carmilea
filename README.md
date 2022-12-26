@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lichee Pi 4A](https://sipeed.com/licheepi4a)
+- [Writing a Mini-CDN to Learn Nginx/Prometheus/Grafana/Lua](https://github.com/leandromoreira/cdn-up-and-running)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Tarai Function Music &lpar;2013&rpar;](http://aikelab.net/tarai/)
-- [Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
-- [Customer service reps for Disney and Airbnb who have to pay to take calls &lpar;2020&rpar;](https://www.propublica.org/article/meet-the-customer-service-reps-for-disney-and-airbnb-who-have-to-pay-to-talk-to-you)
-- [The 5GHz “Problem” for Wi-Fi Networks: DFS &lpar;2018&rpar;](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
+- [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
