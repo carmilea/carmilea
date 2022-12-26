@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In the World of Astrophysics, One Failed Cancel Campaign Led to Another](https://quillette.com/2022/12/25/character-assassination-social-justice-physics/)
 - [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
+- [All I Want for Christmas Is These Seven TypeScript Improvements](https://effectivetypescript.com/2022/12/25/christmas/)
 - [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
-- [Green hydrogen is the centerpiece of Australia’s clean-economy growth plan](https://spectrum.ieee.org/green-hydrogen)
-- [MIT Faculty Votes for Statement on Freedom of Expression and Academic Freedom](https://twitter.com/thefireorg/status/1606010943309336576)
-- [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
+- [MIT statement on freedom of expression and academic freedom](https://twitter.com/thefireorg/status/1606010943309336576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
