@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A no-code tool that generates code](https://www.compoze.org/)
+- [Ask HN: Upskilling as a Data Engineer](https://news.ycombinator.com/item?id=34147090)
 - [Data of 30M Indian Railways users is up for sale on a dark forum](https://techlomedia.in/2022/12/data-of-30-million-indian-railways-users-is-up-for-sale-on-a-dark-forum-96589/)
 - [CCC captures U.S. military biometrics database](https://www.ccc.de/en/updates/2022/afghanistan-biometrie)
 - [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586)
-- [Detecting the use of “curl | bash” server side &lpar;2016&rpar;](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
