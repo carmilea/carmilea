@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Clipboard: Cut, copy, and paste anything, anywhere, all from the terminal](https://github.com/Slackadays/Clipboard)
+- [The KCL Programming Language for DevOps](https://github.com/KusionStack/KCLVM)
 - [How many QMS advertising panels in Sydney are near a Telstra public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
 - [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
 - [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
-- [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
