@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EmailTriager](https://www.emailtriager.com/)
 - [Tesla stock falls again, toward longest losing streak in more than 4 years](https://www.marketwatch.com/story/tesla-stock-falls-again-toward-longest-losing-streak-in-more-than-4-years-01672140610)
+- [Using eBPF and predefined inspections to minimize “observability tax”](https://coroot.com/blog/minimizing-observability-tax)
 - [Scheduled to Die: The Rise of Canada’s Assisted Suicide Program](https://www.thefp.com/p/scheduled-to-die-the-rise-of-canadas)
 - [Unmasking Meta&#39;s Bad News Strategy](https://memo.co/blog/unmasking-metas-bad-news-strategy/)
-- [Social Security denies disability benefits based on list with jobs from 1977](https://www.washingtonpost.com/politics/2022/12/27/social-security-job-titles-disabled-applicants-obsolete/)
-- [Americans lost $10B; caused by illegal Indian call centres in 2022](https://www.deccanherald.com/national/americans-duped-into-losing-10-billion-by-illegal-indian-call-centres-in-2022-report-1175156.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
