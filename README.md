@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data of 30M Indian Railways users is up for sale on a dark forum](https://techlomedia.in/2022/12/data-of-30-million-indian-railways-users-is-up-for-sale-on-a-dark-forum-96589/)
 - [CCC captures U.S. military biometrics database](https://www.ccc.de/en/updates/2022/afghanistan-biometrie)
-- [I&#39;m done with Google](https://deijin.bearblog.dev/im-done-with-google/)
 - [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586)
 - [Detecting the use of “curl | bash” server side &lpar;2016&rpar;](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- [Women like working with people, men like working with things, all over the world](https://www.psypost.org/2022/12/women-like-working-with-people-men-like-working-with-things-all-across-the-world-64485)
+- [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
