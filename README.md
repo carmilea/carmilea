@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: How many advertising panels in Sydney are near a public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
+- [How many QMS advertising panels in Sydney are near a Telstra public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
 - [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
 - [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
 - [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
