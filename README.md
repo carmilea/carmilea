@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Weird things about SpaceX&#39;s Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-10-weird-things)
-- [Brooklyn Bar Menu Generator](https://www.brooklynbarmenus.com)
-- [Tell HN: Thanks and hats off to all the non software engineers](https://news.ycombinator.com/item?id=34153548)
-- [BrianKrebs: Experian Vulnerability Shows Any Report with just SSN, DOB, ADR](https://infosec.exchange/@briankrebs/109587022002246891)
-- [BorgBackup: Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
+- [Added 49 volumes of Arkansas, Mississippi, and Tennessee law](https://official.resource.org/@carlmalamud/109582097911957160)
+- [Beaker Browser is now archived](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md)
+- [Tesla Drops Out of the 10 Biggest U.S. Public Companies](https://www.barrons.com/articles/tesla-stock-price-market-cap-tsla-51672162042)
+- [Vandals destroy 30k-year-old indigenous cave drawings in Australia](https://www.smithsonianmag.com/smart-news/30000-year-old-indigenous-cave-drawings-in-australia-have-been-destroyed-180981363/)
+- [‘Too much’ nitrite-cured meat brings clear risk of cancer, say scientists](https://www.theguardian.com/society/2022/dec/27/too-much-nitrite-cured-meat-brings-clear-risk-of-cancer-say-scientists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
