@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Government demands direct police access to European biometric data [pdf]](https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf)
+- [Amazon Packages Burn in India, Final Stop in Broken Recycling System](https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/)
+- [Mickey’s Copyright Adventure: Early Disney Toon Is Set to Be Public Property](https://www.nytimes.com/2022/12/27/business/mickey-mouse-disney-public-domain.html)
 - [EmailTriager](https://www.emailtriager.com/)
-- [Tesla stock falls again, toward longest losing streak in more than 4 years](https://www.marketwatch.com/story/tesla-stock-falls-again-toward-longest-losing-streak-in-more-than-4-years-01672140610)
 - [Using eBPF and predefined inspections to minimize “observability tax”](https://coroot.com/blog/minimizing-observability-tax)
-- [Scheduled to Die: The Rise of Canada’s Assisted Suicide Program](https://www.thefp.com/p/scheduled-to-die-the-rise-of-canadas)
-- [Unmasking Meta&#39;s Bad News Strategy](https://memo.co/blog/unmasking-metas-bad-news-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
