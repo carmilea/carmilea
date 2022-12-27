@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Binary Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
-- [A Visual Guide to React&#39;s useEffect](https://alexsidorenko.com/blog/useeffect/)
-- [The Tipping Point: How France Changed the Tides of the American Revolution](https://www.battlefields.org/learn/articles/how-france-helped-win-american-revolution)
-- [Mold linker: targeting macOS/iOS now requires a commercial license](https://github.com/rui314/mold/releases/tag/v1.8.0)
-- [eBay, Etsy and other marketplaces on brink of having to disclose seller details](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
+- [6M Acres of Public Land in the US West Are Corner-Locked](https://www.onxmaps.com/onx-access-initiatives/corner-crossing-report)
+- [Show HN: How many advertising panels in Sydney are near a public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
+- [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
+- [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
+- [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
