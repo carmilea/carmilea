@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anki SRS Algorithm : Spaced repetition explained with code](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html)
+- [Hydrochloric Acid is more complicated than you think](https://www.science.org/content/blog-post/acid-personalities)
 - [US Government demands direct police access to European biometric data [pdf]](https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf)
 - [Amazon Packages Burn in India, Final Stop in Broken Recycling System](https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/)
-- [Mickey’s Copyright Adventure: Early Disney Toon Is Set to Be Public Property](https://www.nytimes.com/2022/12/27/business/mickey-mouse-disney-public-domain.html)
-- [EmailTriager](https://www.emailtriager.com/)
-- [Using eBPF and predefined inspections to minimize “observability tax”](https://coroot.com/blog/minimizing-observability-tax)
+- [What a $1M Retirement Looks Like in America](https://www.wsj.com/articles/heres-what-a-1-million-retirement-looks-like-in-america-11671890735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
