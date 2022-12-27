@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting the use of “curl | bash” server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- [The Introvert&#39;s Guide to Building a Strong Professional Network](https://www.progressandpurpose.com/the-introverts-guide-to-building-a-strong-professional-network/)
+- [I&#39;m Done with Google](https://deijin.bearblog.dev/im-done-with-google/)
+- [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586)
+- [Detecting the use of “curl | bash” server side &lpar;2016&rpar;](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - [Women like working with people, men like working with things, all over the world](https://www.psypost.org/2022/12/women-like-working-with-people-men-like-working-with-things-all-across-the-world-64485)
 - [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html)
-- [I have reached Vim nirvana](https://www.maxwellrules.com/misc/nvim_jupyter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
