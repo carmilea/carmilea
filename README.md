@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iranian women compete at chess tournament without hijab: media reports](https://www.newarab.com/news/iranian-women-compete-chess-tournament-without-hijab)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Tech Leader / EM 中国远程 热爱技术](https://v2ex.com/t/904724#reply0)
+- [Show HN: Self-hosted CMS on Server-less Cloudflare for podcast/blog/img/videos](https://github.com/microfeed/microfeed)
 - [Class switch towards non-inflammatory IgG4 antibodies after vaccination](https://www.science.org/doi/10.1126/sciimmunol.ade2798)
 - [Show HN: Dog API](https://dogapi.dog)
-- [A no-code tool that generates code](https://www.compoze.org/)
-- [Ask HN: Upskilling as a Data Engineer](https://news.ycombinator.com/item?id=34147090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
