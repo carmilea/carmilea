@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry &lpar;YC S17&rpar; Is Hiring Tech Leader / EM 中国远程 热爱技术](https://v2ex.com/t/904724#reply0)
+- [Class switch towards non-inflammatory IgG4 antibodies after vaccination](https://www.science.org/doi/10.1126/sciimmunol.ade2798)
+- [Show HN: Dog API](https://dogapi.dog)
 - [A no-code tool that generates code](https://www.compoze.org/)
 - [Ask HN: Upskilling as a Data Engineer](https://news.ycombinator.com/item?id=34147090)
-- [Data of 30M Indian Railways users is up for sale on a dark forum](https://techlomedia.in/2022/12/data-of-30-million-indian-railways-users-is-up-for-sale-on-a-dark-forum-96589/)
-- [CCC captures U.S. military biometrics database](https://www.ccc.de/en/updates/2022/afghanistan-biometrie)
-- [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
