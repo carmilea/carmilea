@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft fined $64M by France over cookies used in Bing searches](https://www.scmagazine.com/analysis/compliance/microsoft-fined-64-million-by-france-over-cookies-used-in-bing-searches)
+- [Numba: A High Performance Python Compiler](https://numba.pydata.org/)
+- [Ask HN: What happened to Magic, the text-message concierge?](https://news.ycombinator.com/item?id=34148402)
 - [Three things for the next 100 years of Computer Science](https://but-her-flies.bearblog.dev/3-things-for-the-next-100-years-of-computer-science/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Tech Leader / EM 中国远程 热爱技术](https://v2ex.com/t/904724#reply0)
-- [Show HN: Self-hosted CMS on Server-less Cloudflare for podcast/blog/img/videos](https://github.com/microfeed/microfeed)
-- [Show HN: Dog API](https://dogapi.dog)
-- [Ask HN: Upskilling as a Data Engineer](https://news.ycombinator.com/item?id=34147090)
+- [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
