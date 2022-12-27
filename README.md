@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla stopped reporting its Autopilot safety numbers online. Why?](https://www.latimes.com/business/story/2022-12-27/tesla-stopped-reporting-autopilot-safety-statistics-online)
+- [GoDaddy buying domains when they expire to extort their own users](https://twitter.com/kchironis/status/1607496457942335489)
+- [KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server](https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README)
+- [BrianKrebs: Experian Vulnerability Shows Any Report with just SSN, DOB, ADR](https://infosec.exchange/@briankrebs/109587022002246891)
 - [The Grinch Stealing the Future of Gen Y and Z](https://www.ineteconomics.org/perspectives/blog/meet-the-grinch-stealing-the-future-of-gen-y-and-z)
-- [BorgBackup, Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
-- [A lightweight, simple, fast, feature-filled, text editor written in C, and Lua](https://lite-xl.com/)
-- [Anki SRS Algorithm : Spaced repetition explained with code](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html)
+- [BorgBackup: Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
