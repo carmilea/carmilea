@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoDaddy buying domains when they expire to extort their own users](https://twitter.com/kchironis/status/1607496457942335489)
-- [KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server](https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README)
+- [Weird things about SpaceX&#39;s Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-10-weird-things)
+- [Brooklyn Bar Menu Generator](https://www.brooklynbarmenus.com)
+- [Tell HN: Thanks and hats off to all the non software engineers](https://news.ycombinator.com/item?id=34153548)
 - [BrianKrebs: Experian Vulnerability Shows Any Report with just SSN, DOB, ADR](https://infosec.exchange/@briankrebs/109587022002246891)
-- [The Grinch Stealing the Future of Gen Y and Z](https://www.ineteconomics.org/perspectives/blog/meet-the-grinch-stealing-the-future-of-gen-y-and-z)
 - [BorgBackup: Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
 <!-- BLOG-POST-LIST:END -->
 
