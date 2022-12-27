@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Introvert&#39;s Guide to Building a Strong Professional Network](https://www.progressandpurpose.com/the-introverts-guide-to-building-a-strong-professional-network/)
+- [Women like working with people, men like working with things, all over the world](https://www.psypost.org/2022/12/women-like-working-with-people-men-like-working-with-things-all-across-the-world-64485)
+- [Southwest Airlines cancels 70% of their flights](https://www.cnn.com/travel/article/flight-cancellations-christmas-2022-winter-storm/index.html)
+- [Safari&#39;s date-picker is the cause of 1/3 of our customer support issues](https://gist.github.com/RobertAKARobin/850a408e04d5414e67d308a2b5847378)
 - [Clipboard: Cut, copy, and paste anything, anywhere, all from the terminal](https://github.com/Slackadays/Clipboard)
-- [The KCL Programming Language for DevOps](https://github.com/KusionStack/KCLVM)
-- [How many QMS advertising panels in Sydney are near a Telstra public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
-- [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
-- [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
