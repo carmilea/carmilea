@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla stopped reporting its Autopilot safety numbers online. Why?](https://www.latimes.com/business/story/2022-12-27/tesla-stopped-reporting-autopilot-safety-statistics-online)
+- [The Grinch Stealing the Future of Gen Y and Z](https://www.ineteconomics.org/perspectives/blog/meet-the-grinch-stealing-the-future-of-gen-y-and-z)
+- [BorgBackup, Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
+- [A lightweight, simple, fast, feature-filled, text editor written in C, and Lua](https://lite-xl.com/)
 - [Anki SRS Algorithm : Spaced repetition explained with code](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html)
-- [Hydrochloric Acid is more complicated than you think](https://www.science.org/content/blog-post/acid-personalities)
-- [US Government demands direct police access to European biometric data [pdf]](https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf)
-- [Amazon Packages Burn in India, Final Stop in Broken Recycling System](https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/)
-- [What a $1M Retirement Looks Like in America](https://www.wsj.com/articles/heres-what-a-1-million-retirement-looks-like-in-america-11671890735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
