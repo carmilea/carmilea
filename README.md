@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fourteen Discoveries Made About Human Evolution in 2022](https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/)
+- [How Southwest Airlines melted down](https://www.wsj.com/articles/southwest-airlines-melting-down-flights-cancelled-11672257523)
+- [Reverse-engineering the source prompts of Notion AI](https://lspace.swyx.io/p/reverse-prompt-eng)
+- [Learning Modern 3D Graphics Programming &lpar;2012&rpar;](https://paroj.github.io/gltut/)
+- [Discoveries made about human evolution in 2022](https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/)
 - [Sherlock Holmes will finally escape copyright this weekend](https://www.theverge.com/2022/12/28/23528003/sherlock-holmes-metropolis-to-the-lighthouse-public-domain-day-2023)
-- [Alameda wallets become active days after SBF bail, community mulls foul play](https://cointelegraph.com/news/alameda-wallets-become-active-days-after-sbf-bail-community-mulls-foul-play)
-- [More developers use Linux than Mac, according to 2022 StackOverflow survey](https://www.omglinux.com/devs-prefer-linux-to-mac-stackoverflow-survey/)
-- [You might as well timestamp it &lpar;2021&rpar;](https://changelog.com/posts/you-might-as-well-timestamp-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
