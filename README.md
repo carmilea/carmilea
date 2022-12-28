@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatBCG: Generative AI For Slides](https://www.chatbcg.com/)
 - [Show HN: Built your front end in React, then let ChatGPT be your Redux reducer](https://spindas.dreamwidth.org/4207.html)
-- [What can we learn from Barnes and Noble&#39;s surprising turnaround?](https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and)
+- [Barnes and Noble&#39;s surprising turnaround](https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and)
 - [Why Solana was decimated by Bankman-Fried’s downfall](https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall/)
 - [Ask HN: What to do with old computer books?](https://news.ycombinator.com/item?id=34165838)
-- [The 68k Wars: The Age of Multimedia &lpar;2017&rpar;](https://www.filfre.net/2017/10/the-68000-wars-part-5-the-age-of-multimedia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
