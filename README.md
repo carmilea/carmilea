@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emergency dispatch centers fielding dozens of automated 911 calls from iPhones](https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/)
-- [Ask HN: Tricks to enjoy your job more?](https://news.ycombinator.com/item?id=34157056)
+- [Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
+- [Colorado ski town fielding dozens of automated 911 calls from iPhones](https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/)
 - [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)
 - [I&#39;ve just started mixing shaders with Pygame and got some great results](https://dafluffypotato.itch.io/hue-flowing)
 - [Run Stable Diffusion natively on your Mac](https://sindresorhus.com/amazing-ai)
