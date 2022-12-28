@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Southwest Airlines melted down](https://www.wsj.com/articles/southwest-airlines-melting-down-flights-cancelled-11672257523)
-- [Reverse-engineering the source prompts of Notion AI](https://lspace.swyx.io/p/reverse-prompt-eng)
-- [Learning Modern 3D Graphics Programming &lpar;2012&rpar;](https://paroj.github.io/gltut/)
-- [Discoveries made about human evolution in 2022](https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/)
-- [Sherlock Holmes will finally escape copyright this weekend](https://www.theverge.com/2022/12/28/23528003/sherlock-holmes-metropolis-to-the-lighthouse-public-domain-day-2023)
+- [Show HN: Built your front end in React, then let ChatGPT be your Redux reducer](https://spindas.dreamwidth.org/4207.html)
+- [What can we learn from Barnes and Noble&#39;s surprising turnaround?](https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and)
+- [Why Solana was decimated by Bankman-Fried’s downfall](https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall/)
+- [Ask HN: What to do with old computer books?](https://news.ycombinator.com/item?id=34165838)
+- [The 68k Wars: The Age of Multimedia &lpar;2017&rpar;](https://www.filfre.net/2017/10/the-68000-wars-part-5-the-age-of-multimedia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
