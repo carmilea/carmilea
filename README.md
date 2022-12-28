@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook addiction increases depression severity among already depressed people](https://www.psypost.org/2022/12/facebook-addiction-increases-depression-severity-among-people-who-are-already-depressed-64586)
+- [Ask HN: Books you read in 2022 and recommend for 2023](https://news.ycombinator.com/item?id=34160611)
+- [Little Free Library](https://littlefreelibrary.org/)
 - [Something is happening to Norway &lpar;2019&rpar;](https://www.nrk.no/chasing-climate-change-1.14859595)
 - [Project Ritos](https://www.mewho.com/ritos/)
-- [Active Ball Joint Mechanism With 3-DoF Based on Spherical Gear Meshings &lpar;2021&rpar;](https://ieeexplore.ieee.org/document/9415699)
-- [Ask HN: Help recall AI-powered personal assitant showcased recently on HN](https://news.ycombinator.com/item?id=34160267)
-- [Free Pascal Guide](https://www.getlazarus.org/guides/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
