@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Lightning](https://nyansatan.github.io/lightning/)
+- [Apple Lightning &lpar;2020&rpar;](https://nyansatan.github.io/lightning/)
+- [Tesla to run reduced output in Shanghai in January](https://www.reuters.com/business/autos-transportation/tesla-run-reduced-output-shanghai-january-plan-shows-2022-12-27/)
 - [Rogue geoengineering startup attempts to affect atmosphere despite warnings](https://www.jpost.com/environment-and-climate-change/article-725984)
 - [What Is a Wildcard Person?](https://wildcardpeople.com/what-is-a-wildcard-person)
-- [Tesla’s 2022 Collapse Hits 69% After Deepest Selloff Since April](https://finance.yahoo.com/news/tesla-deepening-rout-obliterates-half-143652547.html)
-- [Supernormal Stimuli: How the Internet, Junk Food, and Porn Hijacked Our Brains](https://www.sparringmind.com/supernormal-stimuli/)
+- [Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
