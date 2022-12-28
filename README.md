@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GNU nano is my editor of choice &lpar;2021&rpar;](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
 - [Why hundreds of thousands of kids in the US dread their 21st birthdays](https://www.cnn.com/2021/11/27/us/documented-dreamers/index.html)
 - [Schooling improves intelligence, socioeconomic/genetic differences not affected](https://www.nature.com/articles/s41539-022-00148-5)
 - [Taking Sex Differences in Personality Seriously &lpar;2019&rpar;](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
 - [Apple Lightning &lpar;2020&rpar;](https://nyansatan.github.io/lightning/)
-- [Tesla to run reduced output in Shanghai in January](https://www.reuters.com/business/autos-transportation/tesla-run-reduced-output-shanghai-january-plan-shows-2022-12-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
