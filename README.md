@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fourteen Discoveries Made About Human Evolution in 2022](https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/)
+- [Sherlock Holmes will finally escape copyright this weekend](https://www.theverge.com/2022/12/28/23528003/sherlock-holmes-metropolis-to-the-lighthouse-public-domain-day-2023)
+- [Alameda wallets become active days after SBF bail, community mulls foul play](https://cointelegraph.com/news/alameda-wallets-become-active-days-after-sbf-bail-community-mulls-foul-play)
 - [More developers use Linux than Mac, according to 2022 StackOverflow survey](https://www.omglinux.com/devs-prefer-linux-to-mac-stackoverflow-survey/)
 - [You might as well timestamp it &lpar;2021&rpar;](https://changelog.com/posts/you-might-as-well-timestamp-it)
-- [The top 1% was the only group to see real wage gains from 2020 to 2021](https://www.morningstar.com/news/marketwatch/20221225223/the-top-1-was-the-only-group-to-see-real-wage-gains-from-2020-to-2021)
-- [Ask HN: Whats a Build vs. Buy decision that you got wrong?](https://news.ycombinator.com/item?id=34163624)
-- [Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated with 19KB of JavaScript](https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
