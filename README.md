@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Abenics: Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Mesh](https://ieeexplore.ieee.org/document/9415699)
-- [A Guided Introduction to the Free Pascal Language](https://www.getlazarus.org/guides/intro/)
-- [SQL and M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
-- [Pa – a simple password manager based on age](https://github.com/biox/pa)
-- [GNU nano is my editor of choice &lpar;2021&rpar;](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
+- [Something is happening to Norway &lpar;2019&rpar;](https://www.nrk.no/chasing-climate-change-1.14859595)
+- [Project Ritos](https://www.mewho.com/ritos/)
+- [Active Ball Joint Mechanism With 3-DoF Based on Spherical Gear Meshings &lpar;2021&rpar;](https://ieeexplore.ieee.org/document/9415699)
+- [Ask HN: Help recall AI-powered personal assitant showcased recently on HN](https://news.ycombinator.com/item?id=34160267)
+- [Free Pascal Guide](https://www.getlazarus.org/guides/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
