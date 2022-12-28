@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The benefits of ‘Dry January’ last longer than a month, studies show](https://www.washingtonpost.com/wellness/2022/12/27/dry-january-health-benefits/)
+- [Emergency dispatch centers fielding dozens of automated 911 calls from iPhones](https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/)
+- [Ask HN: Tricks to enjoy your job more?](https://news.ycombinator.com/item?id=34157056)
+- [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)
+- [I&#39;ve just started mixing shaders with Pygame and got some great results](https://dafluffypotato.itch.io/hue-flowing)
 - [Run Stable Diffusion natively on your Mac](https://sindresorhus.com/amazing-ai)
-- [Ventura Issues](https://mjtsai.com/blog/2022/12/27/ventura-issues/)
-- [Existing smartphones will connect with new satellite constellations in 2023](https://spectrum.ieee.org/satellite-cellphone)
-- [Added 49 volumes of Arkansas, Mississippi, and Tennessee law](https://official.resource.org/@carlmalamud/109582097911957160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
