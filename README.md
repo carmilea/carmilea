@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Directory Opus – King of the Dual Panes](https://www.datagubbe.se/dopus/)
+- [Actually using Ed](https://blog.sanctum.geek.nz/actually-using-ed/)
+- [Ask HN: Risk of unsafe software in automobiles?](https://news.ycombinator.com/item?id=34162118)
 - [SQLite&#39;s Automatic Indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
 - [Hard truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off)
-- [Laid off tech workers quickly find new jobs](https://www.wsj.com/articles/laid-off-tech-workers-quickly-find-new-jobs-11672097730)
-- [26 Programming Languages in 25 Days](https://matt.might.net/articles/26-languages-part1/)
-- [macOS virtualisation refactored and sandboxed in Viable updates](https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
