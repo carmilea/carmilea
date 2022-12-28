@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is a Wildcard Person?](https://wildcardpeople.com/what-is-a-wildcard-person)
+- [Tesla’s 2022 Collapse Hits 69% After Deepest Selloff Since April](https://finance.yahoo.com/news/tesla-deepening-rout-obliterates-half-143652547.html)
 - [Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
 - [Colorado ski town fielding dozens of automated 911 calls from iPhones](https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/)
 - [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)
-- [I&#39;ve just started mixing shaders with Pygame and got some great results](https://dafluffypotato.itch.io/hue-flowing)
-- [Run Stable Diffusion natively on your Mac](https://sindresorhus.com/amazing-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
