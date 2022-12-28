@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Schooling improves intelligence, socioeconomic/genetic differences not affected](https://www.nature.com/articles/s41539-022-00148-5)
+- [Taking Sex Differences in Personality Seriously &lpar;2019&rpar;](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
 - [Apple Lightning &lpar;2020&rpar;](https://nyansatan.github.io/lightning/)
 - [Tesla to run reduced output in Shanghai in January](https://www.reuters.com/business/autos-transportation/tesla-run-reduced-output-shanghai-january-plan-shows-2022-12-27/)
 - [Rogue geoengineering startup attempts to affect atmosphere despite warnings](https://www.jpost.com/environment-and-climate-change/article-725984)
-- [What Is a Wildcard Person?](https://wildcardpeople.com/what-is-a-wildcard-person)
-- [Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
