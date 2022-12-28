@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laid off tech workers quickly find new jobs](https://www.wsj.com/articles/laid-off-tech-workers-quickly-find-new-jobs-11672097730)
+- [Police, prosecutors used junk science to decide 911 callers were liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
+- [1491: New revelations of the Americas before Columbus &lpar;2005&rpar;](https://www.kirkusreviews.com/book-reviews/charles-c-mann/1491/)
+- [How the Steam Deck breathes life into underrated old games](https://www.techradar.com/features/how-the-steam-deck-breathes-life-into-underrated-old-games)
 - [Facebook addiction increases depression severity among already depressed people](https://www.psypost.org/2022/12/facebook-addiction-increases-depression-severity-among-people-who-are-already-depressed-64586)
-- [Ask HN: Books you read in 2022 and recommend for 2023](https://news.ycombinator.com/item?id=34160611)
-- [Little Free Library](https://littlefreelibrary.org/)
-- [Something is happening to Norway &lpar;2019&rpar;](https://www.nrk.no/chasing-climate-change-1.14859595)
-- [Project Ritos](https://www.mewho.com/ritos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
