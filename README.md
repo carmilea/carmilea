@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Abenics: Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Mesh](https://ieeexplore.ieee.org/document/9415699)
+- [A Guided Introduction to the Free Pascal Language](https://www.getlazarus.org/guides/intro/)
+- [SQL and M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
+- [Pa – a simple password manager based on age](https://github.com/biox/pa)
 - [GNU nano is my editor of choice &lpar;2021&rpar;](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
-- [Why hundreds of thousands of kids in the US dread their 21st birthdays](https://www.cnn.com/2021/11/27/us/documented-dreamers/index.html)
-- [Schooling improves intelligence, socioeconomic/genetic differences not affected](https://www.nature.com/articles/s41539-022-00148-5)
-- [Taking Sex Differences in Personality Seriously &lpar;2019&rpar;](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
-- [Apple Lightning &lpar;2020&rpar;](https://nyansatan.github.io/lightning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
