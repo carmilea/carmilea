@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite&#39;s Automatic Indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
+- [Hard truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off)
 - [Laid off tech workers quickly find new jobs](https://www.wsj.com/articles/laid-off-tech-workers-quickly-find-new-jobs-11672097730)
-- [Police, prosecutors used junk science to decide 911 callers were liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
-- [1491: New revelations of the Americas before Columbus &lpar;2005&rpar;](https://www.kirkusreviews.com/book-reviews/charles-c-mann/1491/)
-- [How the Steam Deck breathes life into underrated old games](https://www.techradar.com/features/how-the-steam-deck-breathes-life-into-underrated-old-games)
-- [Facebook addiction increases depression severity among already depressed people](https://www.psypost.org/2022/12/facebook-addiction-increases-depression-severity-among-people-who-are-already-depressed-64586)
+- [26 Programming Languages in 25 Days](https://matt.might.net/articles/26-languages-part1/)
+- [macOS virtualisation refactored and sandboxed in Viable updates](https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
