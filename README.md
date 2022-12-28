@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The top 1% was the only group to see real wage gains from 2020 to 2021](https://www.morningstar.com/news/marketwatch/20221225223/the-top-1-was-the-only-group-to-see-real-wage-gains-from-2020-to-2021)
+- [Ask HN: Whats a Build vs. Buy decision that you got wrong?](https://news.ycombinator.com/item?id=34163624)
 - [Directory Opus – King of the Dual Panes](https://www.datagubbe.se/dopus/)
-- [Actually using Ed](https://blog.sanctum.geek.nz/actually-using-ed/)
-- [Ask HN: Risk of unsafe software in automobiles?](https://news.ycombinator.com/item?id=34162118)
+- [Actually using Ed &lpar;2012&rpar;](https://blog.sanctum.geek.nz/actually-using-ed/)
 - [SQLite&#39;s Automatic Indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
-- [Hard truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
