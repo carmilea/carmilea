@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Japan hit with $98M in back taxes for missing duty-free abuses](https://asia.nikkei.com/Business/Retail/Apple-Japan-hit-with-98m-in-back-taxes-for-missing-duty-free-abuses)
+- [The benefits of ‘Dry January’ last longer than a month, studies show](https://www.washingtonpost.com/wellness/2022/12/27/dry-january-health-benefits/)
 - [Ventura Issues](https://mjtsai.com/blog/2022/12/27/ventura-issues/)
-- [Your Cellphone Will Be a Satphone](https://spectrum.ieee.org/satellite-cellphone)
-- [Tesla stock marks lowest close in years as investors worry about Musk’s focus](https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk)
+- [Existing smartphones will connect with new satellite constellations in 2023](https://spectrum.ieee.org/satellite-cellphone)
 - [Added 49 volumes of Arkansas, Mississippi, and Tennessee law](https://official.resource.org/@carlmalamud/109582097911957160)
+- [Beaker Browser is now archived](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
