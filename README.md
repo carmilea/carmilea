@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pele Has Died](https://www.bbc.co.uk/sport/football/42751517)
-- [Tesla driver falls asleep – Autopilot ignores police and continues driving](https://www.sueddeutsche.de/bayern/tesla-bamberg-polizei-autopilot-autobahn-strafe-1.5723593)
-- [Whistleblower Rebekah Jones wins dismissal](https://www.mynwfl.com/post/rebekahjonescasedismissed)
-- [Pelé, the Global Face of Soccer, Dies at 82](https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html)
-- [Permacomputer](https://www.robinsloan.com/lab/slab/)
+- [Hive &lpar;YC S14&rpar; is hiring devs #3-10 in 2023 &lpar;Canada remote&rpar;](https://angel.co/l/2xRy8y)
+- [Breaking up with Python](https://cedwards.xyz/breaking-up-with-python/)
+- [Airport runway names shift with magnetic field](https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field)
+- [Pelé has died](https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html)
+- [The slab and the permacomputer &lpar;2021&rpar;](https://www.robinsloan.com/lab/slab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
