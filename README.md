@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How much does it cost to run Hacker News?](https://news.ycombinator.com/item?id=34171236)
-- [Videos of rivers taken from space could revolutionise flood management](https://www.ceh.ac.uk/news-and-media/blogs/videos-rivers-taken-space-could-revolutionise-flood-management)
-- [Vietnam GDP grows 8.02% in 2022; fastest expansion in 25 years](https://asia.nikkei.com/Economy/Vietnam-GDP-grows-8.02-in-2022-fastest-expansion-in-25-years)
-- [A day in the life of almost every vending machine](https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34170257)
+- [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
+- [Maids trafficked and sold to wealthy Saudis on black market](https://www.thetimes.co.uk/article/maids-trafficked-and-sold-to-wealthy-saudis-on-black-market-dkl80kzgd)
+- [I didn’t realise how badly it affected me until I was off it [Social Media]](https://www.theguardian.com/media/2022/dec/15/i-didnt-realise-how-badly-it-affected-me-until-i-was-off-it-should-more-of-us-try-a-social-media-detox)
+- [WireGuard for the ESP32](https://github.com/ciniml/WireGuard-ESP32-Arduino)
+- [Self-hosted home network monitoring with ntopng, a Fritz Box and an home server](https://davquar.it/post/self-hosting/ntopng-fritzbox-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
