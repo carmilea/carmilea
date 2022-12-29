@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How much does it cost to run Hacker News?](https://news.ycombinator.com/item?id=34171236)
+- [Videos of rivers taken from space could revolutionise flood management](https://www.ceh.ac.uk/news-and-media/blogs/videos-rivers-taken-space-could-revolutionise-flood-management)
 - [Vietnam GDP grows 8.02% in 2022; fastest expansion in 25 years](https://asia.nikkei.com/Economy/Vietnam-GDP-grows-8.02-in-2022-fastest-expansion-in-25-years)
 - [A day in the life of almost every vending machine](https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34170257)
-- [The insanity of being a Scrabble enthusiast](https://lithub.com/on-the-insanity-of-being-a-scrabble-enthusiast/)
-- [72-year-old Congressman pursues a Master&#39;s in AI](https://www.washingtonpost.com/dc-md-va/2022/12/28/beyer-student-artificial-intelligence-degree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
