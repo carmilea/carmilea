@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: The ISP has a competing product so has decided to block my domain](https://news.ycombinator.com/item?id=34175811)
-- [MIT researchers are discovering which parts of the brain are engaged when coding](https://news.mit.edu/2022/your-brain-your-brain-code-1221)
-- [I Lost All Faith in LastPass](https://infosec.exchange/@epixoip/109585049354200263)
-- [Kodi “Matrix” 19.5 Release, Last Before &quot;Nexus&quot; 20.0](https://kodi.tv/article/kodi-matrix-19-5-release/)
-- [TSMC starts volume production of 3nm chips](https://focustaiwan.tw/business/202212290013)
+- [Pele Has Died](https://www.bbc.co.uk/sport/football/42751517)
+- [Tesla driver falls asleep – Autopilot ignores police and continues driving](https://www.sueddeutsche.de/bayern/tesla-bamberg-polizei-autopilot-autobahn-strafe-1.5723593)
+- [Whistleblower Rebekah Jones wins dismissal](https://www.mynwfl.com/post/rebekahjonescasedismissed)
+- [Pelé, the Global Face of Soccer, Dies at 82](https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html)
+- [Permacomputer](https://www.robinsloan.com/lab/slab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
