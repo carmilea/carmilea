@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Lost All Faith in LastPass](https://infosec.exchange/@epixoip/109585049354200263)
+- [Kodi “Matrix” 19.5 Release, Last Before &quot;Nexus&quot; 20.0](https://kodi.tv/article/kodi-matrix-19-5-release/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Ask HN: What was the best software that you used during 2022?](https://news.ycombinator.com/item?id=34174593)
-- [Remote Work Is Poised to Devastate America’s Cities](https://nymag.com/intelligencer/2022/12/remote-work-is-poised-to-devastate-americas-cities.html)
-- [Tesla used car price bubble pops, weighs on new car demand](https://www.reuters.com/business/autos-transportation/tesla-used-car-price-bubble-pops-weighs-new-car-demand-2022-12-27/)
-- [Show HN: GUI for Making Animated Webcomics](https://elonman.com/page/how/)
+- [Hydroxychloroquine lowers Alzheimer&#39;s disease and related dementias risk](https://pubmed.ncbi.nlm.nih.gov/36577843/)
+- [Hafting an Axe: DIY](https://www.filson.com/blog/how-to/hafting-an-axe-diy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
