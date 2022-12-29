@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Tutorials Written with Heavy Dependencies](https://news.ycombinator.com/item?id=34178349)
-- [Privacy Is OK](https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK)
-- [Hive &lpar;YC S14&rpar; is hiring devs #3-10 in 2023 &lpar;Canada remote&rpar;](https://angel.co/l/2xRy8y)
-- [Exit MiG, Enter LiteDRAM](https://epsilon537.github.io/boxlambda/exit-mig-enter-litedram/)
-- [Airport runway names shift with magnetic field](https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field)
+- [Software Illustrated: I&#39;m just trying to change this lightbulb](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
+- [The IE 11 user-agent forced Mozilla to freeze part of its user-agent string](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
+- [Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy](https://twitter.com/tivadardanka/status/1608419325706391554)
+- [Vivienne Westwood has died](https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81)
+- [Ask HN: Tutorials written with heavy dependencies](https://news.ycombinator.com/item?id=34178349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
