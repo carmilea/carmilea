@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more](https://github.com/Kav-K/GPT3Discord)
 - [Hiding in Plain Sight](https://www.laphamsquarterly.org/democracy/hiding-plain-sight)
-- [The new tech worldview](https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview)
 - [ChatBCG: Generative AI For Slides](https://www.chatbcg.com/)
 - [Build your front end in React, then let ChatGPT be your Redux reducer](https://spindas.dreamwidth.org/4207.html)
 - [Barnes and Noble&#39;s surprising turnaround](https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and)
