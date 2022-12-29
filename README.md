@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram is threatening legal action against Pixelfed](https://mastodon.social/@pixelfed/109597030315262972)
+- [Tell HN: It&#39;s easier and faster to pirate an e-book, than it is to buy it](https://news.ycombinator.com/item?id=34172506)
+- [Ask HN: Wanting to grow – what questions should you ask yourself?](https://news.ycombinator.com/item?id=34172101)
 - [Luck based medicine: my resentful story of becoming a medical miracle](https://www.lesswrong.com/posts/fFY2HeC9i2Tx8FEnK/luck-based-medicine-my-resentful-story-of-becoming-a-medical)
 - [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
-- [Revealed: Group shaping US nutrition receives millions from big food industry](https://www.theguardian.com/science/2022/dec/09/academy-nutrition-financial-ties-processed-food-companies-contributions)
-- [Maids trafficked and sold to wealthy Saudis on black market](https://www.thetimes.co.uk/article/maids-trafficked-and-sold-to-wealthy-saudis-on-black-market-dkl80kzgd)
-- [I didn’t realise how badly it affected me until I was off it [Social Media]](https://www.theguardian.com/media/2022/dec/15/i-didnt-realise-how-badly-it-affected-me-until-i-was-off-it-should-more-of-us-try-a-social-media-detox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
