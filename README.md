@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Luck based medicine: my resentful story of becoming a medical miracle](https://www.lesswrong.com/posts/fFY2HeC9i2Tx8FEnK/luck-based-medicine-my-resentful-story-of-becoming-a-medical)
 - [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
+- [Revealed: Group shaping US nutrition receives millions from big food industry](https://www.theguardian.com/science/2022/dec/09/academy-nutrition-financial-ties-processed-food-companies-contributions)
 - [Maids trafficked and sold to wealthy Saudis on black market](https://www.thetimes.co.uk/article/maids-trafficked-and-sold-to-wealthy-saudis-on-black-market-dkl80kzgd)
 - [I didn’t realise how badly it affected me until I was off it [Social Media]](https://www.theguardian.com/media/2022/dec/15/i-didnt-realise-how-badly-it-affected-me-until-i-was-off-it-should-more-of-us-try-a-social-media-detox)
-- [WireGuard for the ESP32](https://github.com/ciniml/WireGuard-ESP32-Arduino)
-- [Self-hosted home network monitoring with ntopng, a Fritz Box and an home server](https://davquar.it/post/self-hosting/ntopng-fritzbox-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
