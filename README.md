@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: The ISP has a competing product so has decided to block my domain](https://news.ycombinator.com/item?id=34175811)
+- [MIT researchers are discovering which parts of the brain are engaged when coding](https://news.mit.edu/2022/your-brain-your-brain-code-1221)
 - [I Lost All Faith in LastPass](https://infosec.exchange/@epixoip/109585049354200263)
 - [Kodi “Matrix” 19.5 Release, Last Before &quot;Nexus&quot; 20.0](https://kodi.tv/article/kodi-matrix-19-5-release/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Hydroxychloroquine lowers Alzheimer&#39;s disease and related dementias risk](https://pubmed.ncbi.nlm.nih.gov/36577843/)
-- [Hafting an Axe: DIY](https://www.filson.com/blog/how-to/hafting-an-axe-diy/)
+- [TSMC starts volume production of 3nm chips](https://focustaiwan.tw/business/202212290013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
