@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Animal Fat Good for You? The Science on Why It’s the Optimal Food for Humans](https://www.doctorkiltz.com/is-animal-fat-good-for-you/)
-- [Apple Sued Alleging Racial Bias Against Minorities on Watch&#39;s Blood Oximeter](https://dockets.justia.com/docket/new-york/nysdce/1:2022cv10872/591590)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Ask HN: What was the best software that you used during 2022?](https://news.ycombinator.com/item?id=34174593)
+- [Remote Work Is Poised to Devastate America’s Cities](https://nymag.com/intelligencer/2022/12/remote-work-is-poised-to-devastate-americas-cities.html)
+- [Tesla used car price bubble pops, weighs on new car demand](https://www.reuters.com/business/autos-transportation/tesla-used-car-price-bubble-pops-weighs-new-car-demand-2022-12-27/)
 - [Show HN: GUI for Making Animated Webcomics](https://elonman.com/page/how/)
-- [Ask HN: Can I download GPT / ChatGPT to my desktop?](https://news.ycombinator.com/item?id=34173757)
-- [Silicon Valley offices less empty than other regions](https://www.paloaltoonline.com/news/2022/12/27/silicon-valley-offices-less-empty-than-other-regions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
