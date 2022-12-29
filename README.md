@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto is the first question on IRS Form 1040 in 2022 [pdf]](https://www.irs.gov/pub/irs-pdf/f1040.pdf)
 - [GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more](https://github.com/Kav-K/GPT3Discord)
 - [Hiding in Plain Sight](https://www.laphamsquarterly.org/democracy/hiding-plain-sight)
 - [ChatBCG: Generative AI For Slides](https://www.chatbcg.com/)
 - [Build your front end in React, then let ChatGPT be your Redux reducer](https://spindas.dreamwidth.org/4207.html)
-- [Barnes and Noble&#39;s surprising turnaround](https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
