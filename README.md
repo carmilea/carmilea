@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving Up on Privacy](https://www.jefftk.com/p/giving-up-on-privacy)
-- [What happens when babies are left to cry it out?](https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies)
-- [Instagram is threatening legal action against Pixelfed](https://mastodon.social/@pixelfed/109597030315262972)
-- [It&#39;s easier and faster to pirate an e-book, than it is to buy it](https://news.ycombinator.com/item?id=34172506)
-- [Show HN: Pressn&#39;t, a site where you can only have a single post](https://app.pressnt.net/post/4/)
+- [Is Animal Fat Good for You? The Science on Why It’s the Optimal Food for Humans](https://www.doctorkiltz.com/is-animal-fat-good-for-you/)
+- [Apple Sued Alleging Racial Bias Against Minorities on Watch&#39;s Blood Oximeter](https://dockets.justia.com/docket/new-york/nysdce/1:2022cv10872/591590)
+- [Show HN: GUI for Making Animated Webcomics](https://elonman.com/page/how/)
+- [Ask HN: Can I download GPT / ChatGPT to my desktop?](https://news.ycombinator.com/item?id=34173757)
+- [Silicon Valley offices less empty than other regions](https://www.paloaltoonline.com/news/2022/12/27/silicon-valley-offices-less-empty-than-other-regions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
