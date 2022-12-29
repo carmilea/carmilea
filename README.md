@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giving Up on Privacy](https://www.jefftk.com/p/giving-up-on-privacy)
+- [What happens when babies are left to cry it out?](https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies)
 - [Instagram is threatening legal action against Pixelfed](https://mastodon.social/@pixelfed/109597030315262972)
-- [Tell HN: It&#39;s easier and faster to pirate an e-book, than it is to buy it](https://news.ycombinator.com/item?id=34172506)
-- [Ask HN: Wanting to grow – what questions should you ask yourself?](https://news.ycombinator.com/item?id=34172101)
-- [Luck based medicine: my resentful story of becoming a medical miracle](https://www.lesswrong.com/posts/fFY2HeC9i2Tx8FEnK/luck-based-medicine-my-resentful-story-of-becoming-a-medical)
-- [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
+- [It&#39;s easier and faster to pirate an e-book, than it is to buy it](https://news.ycombinator.com/item?id=34172506)
+- [Show HN: Pressn&#39;t, a site where you can only have a single post](https://app.pressnt.net/post/4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
