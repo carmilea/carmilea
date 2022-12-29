@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Tutorials Written with Heavy Dependencies](https://news.ycombinator.com/item?id=34178349)
+- [Privacy Is OK](https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK)
 - [Hive &lpar;YC S14&rpar; is hiring devs #3-10 in 2023 &lpar;Canada remote&rpar;](https://angel.co/l/2xRy8y)
-- [Breaking up with Python](https://cedwards.xyz/breaking-up-with-python/)
+- [Exit MiG, Enter LiteDRAM](https://epsilon537.github.io/boxlambda/exit-mig-enter-litedram/)
 - [Airport runway names shift with magnetic field](https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field)
-- [Pelé has died](https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html)
-- [The slab and the permacomputer &lpar;2021&rpar;](https://www.robinsloan.com/lab/slab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
