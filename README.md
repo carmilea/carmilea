@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Time to redefine normal body temperature?](https://www.health.harvard.edu/blog/time-to-redefine-normal-body-temperature-2020031319173)
 - [AI: Markets for Lemons, and the Great Logging Off](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)
+- [Crypto Wash Trading](https://www.nber.org/papers/w30783)
 - [GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more](https://github.com/Kav-K/GPT3Discord)
 - [Hiding in Plain Sight](https://www.laphamsquarterly.org/democracy/hiding-plain-sight)
-- [ChatBCG: Generative AI For Slides](https://www.chatbcg.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
