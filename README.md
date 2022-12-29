@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34170257)
+- [On ‘Plant-Based’](https://www.aliciakennedy.news/p/on-plant-based)
 - [The insanity of being a Scrabble enthusiast](https://lithub.com/on-the-insanity-of-being-a-scrabble-enthusiast/)
 - [72-year-old Congressman pursues a Master&#39;s in AI](https://www.washingtonpost.com/dc-md-va/2022/12/28/beyer-student-artificial-intelligence-degree/)
 - [Time to redefine normal body temperature? &lpar;2020&rpar;](https://www.health.harvard.edu/blog/time-to-redefine-normal-body-temperature-2020031319173)
-- [AI: Markets for Lemons, and the Great Logging Off](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)
-- [Crypto Wash Trading](https://www.nber.org/papers/w30783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
