@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon admits no basis for damages in $1M asset seizure by DOJ](https://twitter.com/amy_k_nelson/status/1608447389538418689)
-- [Ask HN: Did TeXmacs&#39; doubly misleading name hold it back for 20 years?](https://news.ycombinator.com/item?id=34184410)
-- [Flu vaccine lowers risk of stroke](https://ucalgary.ca/news/flu-vaccine-lowers-risk-stroke)
-- [Ask HN: What is your system for dirty dishes?](https://news.ycombinator.com/item?id=34184262)
-- [A portable, modern regular expression language](https://pomsky-lang.org/)
+- [Write a Wayland Compositor [video]](https://streaming.media.ccc.de/jev22/relive/49255)
+- [I rewrote in Crystal my tool to quickly create Kubernetes clusters in Hetzner](https://news.ycombinator.com/item?id=34185209)
+- [US prepares to drop the survey foot measurement](https://oceanservice.noaa.gov/geodesy/international-foot.html)
+- [Quickly checking that a string belongs to a small set](https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/)
+- [SpaceX caps 2022 with record-setting 61st Falcon 9 launch](https://www.cbsnews.com/news/spacex-closes-out-22-with-record-setting-61st-falcon-9-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
