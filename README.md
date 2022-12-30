@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetish Tabooness vs. Popularity](https://aella.substack.com/p/fetish-tabooness-vs-popularity)
 - [The Moratorium on US Medical School Enrollment from 1980 to 2005 &lpar;2008&rpar;](https://www.amjmed.com/article/S0002-9343(07)01095-9/fulltext)
+- [The Blind Spot](https://thegauntlet.substack.com/p/the-blind-spot)
 - [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
-- [Boston Housing Price Dataset was Removed from scikit-learn 1.2](https://github.com/scikit-learn/scikit-learn/blob/2cce02414d4a7161f0d105450c196d94b1182220/sklearn/datasets/__init__.py)
-- [Macros in Nim – Tutorial](https://macros-in-nim-tutorial.readthedocs.io/en/latest/README.html)
 - [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 <!-- BLOG-POST-LIST:END -->
 
