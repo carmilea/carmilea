@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb?1)
+- [Tamagui 1.0 – Cross-platform React apps in ½ the time with 2x performance](https://tamagui.dev/blog/version-one)
+- [Summary: “No: The Only Negotiating System You Need for Work and Home” – Jim Camp](https://www.chestergrant.com/summary-no-the-only-negotiating-system-you-need-for-work-and-home-by-jim-camp)
+- [Tech Execs Who Raise Their Kids Tech-Free or Limit Their Screen Time](https://www.businessinsider.com/tech-execs-screen-time-children-bill-gates-steve-jobs-2019-9)
 - [Ownership of AI-Generated Code Hotly Disputed](https://spectrum.ieee.org/ai-code-generation-ownership)
-- [What would a decentralised Uber look like?](https://shkspr.mobi/blog/2022/12/what-would-a-decentralised-uber-look-like/)
-- [Write a Wayland Compositor [video]](https://streaming.media.ccc.de/jev22/relive/49255)
-- [AMD, Intel, and Nvidia Reportedly Slash Orders with TSMC](https://www.tomshardware.com/news/amd-intel-nvidia-slash-orders-to-tsmc)
-- [I rewrote in Crystal my tool to quickly create Kubernetes clusters in Hetzner](https://news.ycombinator.com/item?id=34185209)
 <!-- BLOG-POST-LIST:END -->
 
 ---
