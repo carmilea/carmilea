@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon admits no basis for damages in $1M asset seizure by DOJ](https://twitter.com/amy_k_nelson/status/1608447389538418689)
 - [Ask HN: Did TeXmacs&#39; doubly misleading name hold it back for 20 years?](https://news.ycombinator.com/item?id=34184410)
 - [Flu vaccine lowers risk of stroke](https://ucalgary.ca/news/flu-vaccine-lowers-risk-stroke)
+- [Ask HN: What is your system for dirty dishes?](https://news.ycombinator.com/item?id=34184262)
 - [A portable, modern regular expression language](https://pomsky-lang.org/)
-- [Relive: 50 years of C, the good, the bad and the ugly](https://streaming.media.ccc.de/jev22/relive/49151)
-- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
