@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
+- [Kagi – Paid Search Engine](https://kagi.com:443/)
+- [How to Identify a Scientific Fact](https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/)
+- [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 - [Software Illustrated: I&#39;m just trying to change this lightbulb](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
-- [The IE 11 user-agent forced Mozilla to freeze part of its user-agent string](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
-- [Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy](https://twitter.com/tivadardanka/status/1608419325706391554)
-- [Vivienne Westwood has died](https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81)
-- [Ask HN: Tutorials written with heavy dependencies](https://news.ycombinator.com/item?id=34178349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
