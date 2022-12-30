@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An M1 for Curl](https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/)
+- [Prolonged oral breathing could significantly induce impaired cognitive function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228257/)
+- [SGCL: Real-time garbage collector for C++](https://github.com/pebal/sgcl)
 - [Where does ChatGPT fall on the political compass?](https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/)
 - [PRQL: a simple, powerful, pipelined SQL replacement](https://prql-lang.org/)
-- [Herb Kelleher: Manage in Good Times So You&#39;ll Do Well in the Bad Times &lpar;2006&rpar;](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
-- [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
