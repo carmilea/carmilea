@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Did TeXmacs&#39; doubly misleading name hold it back for 20 years?](https://news.ycombinator.com/item?id=34184410)
+- [Flu vaccine lowers risk of stroke](https://ucalgary.ca/news/flu-vaccine-lowers-risk-stroke)
 - [A portable, modern regular expression language](https://pomsky-lang.org/)
+- [Relive: 50 years of C, the good, the bad and the ugly](https://streaming.media.ccc.de/jev22/relive/49151)
 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
-- [In 2023, Let’s Rediscover Wrongness](https://jessesingal.substack.com/p/in-2023-lets-rediscover-wrongness)
-- [An M1 for Curl](https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/)
-- [Prolonged oral breathing could significantly induce impaired cognitive function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228257/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
