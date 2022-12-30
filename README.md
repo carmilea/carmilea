@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure Python Distributed SQL Engine](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
+- [Macros in Nim – Tutorial](https://macros-in-nim-tutorial.readthedocs.io/en/latest/README.html)
+- [Why I wrote a SQL engine in &lpar;only&rpar; Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 - [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30)
 - [Show HN: RSS Brain](https://www.rssbrain.com/)
 - [9 Forecasts for the Near Future, with Implications](https://scottbelsky.substack.com/p/edition1)
-- [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
