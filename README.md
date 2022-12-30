@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ownership of AI-Generated Code Hotly Disputed](https://spectrum.ieee.org/ai-code-generation-ownership)
+- [What would a decentralised Uber look like?](https://shkspr.mobi/blog/2022/12/what-would-a-decentralised-uber-look-like/)
 - [Write a Wayland Compositor [video]](https://streaming.media.ccc.de/jev22/relive/49255)
+- [AMD, Intel, and Nvidia Reportedly Slash Orders with TSMC](https://www.tomshardware.com/news/amd-intel-nvidia-slash-orders-to-tsmc)
 - [I rewrote in Crystal my tool to quickly create Kubernetes clusters in Hetzner](https://news.ycombinator.com/item?id=34185209)
-- [US prepares to drop the survey foot measurement](https://oceanservice.noaa.gov/geodesy/international-foot.html)
-- [Quickly checking that a string belongs to a small set](https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/)
-- [SpaceX caps 2022 with record-setting 61st Falcon 9 launch](https://www.cbsnews.com/news/spacex-closes-out-22-with-record-setting-61st-falcon-9-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
