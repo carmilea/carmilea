@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is there an easier way to add “send mail as” addresses to Gmail?](https://news.ycombinator.com/item?id=34187321)
+- [Their Flights Were Cancelled Nashville Airport Police Threatened Arrest](https://www.nytimes.com/2022/12/29/us/southwest-traveler-records-airport-police-nashville.html)
+- [How we got grifted by a multi-billion dollar grocery distributor](https://www.modest.coffee/2022/12/how-we-got-grifted/)
 - [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb?1)
 - [Tamagui 1.0 – Cross-platform React apps in ½ the time with 2x performance](https://tamagui.dev/blog/version-one)
-- [Summary: “No: The Only Negotiating System You Need for Work and Home” – Jim Camp](https://www.chestergrant.com/summary-no-the-only-negotiating-system-you-need-for-work-and-home-by-jim-camp)
-- [Tech Execs Who Raise Their Kids Tech-Free or Limit Their Screen Time](https://www.businessinsider.com/tech-execs-screen-time-children-bill-gates-steve-jobs-2019-9)
-- [Ownership of AI-Generated Code Hotly Disputed](https://spectrum.ieee.org/ai-code-generation-ownership)
 <!-- BLOG-POST-LIST:END -->
 
 ---
