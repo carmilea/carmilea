@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Moratorium on US Medical School Enrollment from 1980 to 2005 &lpar;2008&rpar;](https://www.amjmed.com/article/S0002-9343(07)01095-9/fulltext)
+- [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
+- [Boston Housing Price Dataset was Removed from scikit-learn 1.2](https://github.com/scikit-learn/scikit-learn/blob/2cce02414d4a7161f0d105450c196d94b1182220/sklearn/datasets/__init__.py)
 - [Macros in Nim – Tutorial](https://macros-in-nim-tutorial.readthedocs.io/en/latest/README.html)
-- [Why I wrote a SQL engine in &lpar;only&rpar; Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
-- [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30)
-- [Show HN: RSS Brain](https://www.rssbrain.com/)
-- [9 Forecasts for the Near Future, with Implications](https://scottbelsky.substack.com/p/edition1)
+- [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
