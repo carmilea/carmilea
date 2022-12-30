@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Twitter Down Yet?](http://istwitterdownyet.com/)
+- [A portable, modern regular expression language](https://pomsky-lang.org/)
+- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 - [In 2023, Let’s Rediscover Wrongness](https://jessesingal.substack.com/p/in-2023-lets-rediscover-wrongness)
 - [An M1 for Curl](https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/)
 - [Prolonged oral breathing could significantly induce impaired cognitive function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228257/)
-- [Where does ChatGPT fall on the political compass?](https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
