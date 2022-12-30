@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Haiti Has One of the Lowest Covid-19 Death Rates and Low Vaccination &lpar;2021&rpar;](https://atlantablackstar.com/2021/05/11/experts-puzzled-by-why-haiti-has-one-of-the-lowest-covid-19-death-rates-in-the-world-despite-administering-zero-vaccine-doses-we-dont-know/)
+- [SGCL: Real-time garbage collector for C++](https://github.com/pebal/sgcl)
 - [PRQL a simple, powerful, pipelined SQL replacement](https://prql-lang.org/)
 - [Herb Kelleher: Manage in Good Times So You&#39;ll Do Well in the Bad Times](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
 - [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
-- [Kagi – Paid Search Engine](https://kagi.com:443/)
+- [Golang disables Nagle&#39;s Algorithm by default](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
