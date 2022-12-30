@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is there an easier way to add “send mail as” addresses to Gmail?](https://news.ycombinator.com/item?id=34187321)
-- [Their Flights Were Cancelled Nashville Airport Police Threatened Arrest](https://www.nytimes.com/2022/12/29/us/southwest-traveler-records-airport-police-nashville.html)
+- [Transformer Stockpiles–and Grids–Come Under Threat](https://spectrum.ieee.org/transformer-stockpiles)
+- [The button on Canon’s image-stabilized binoculars unlocked superhuman sight](https://www.theverge.com/23523047/canon-image-stabilized-binoculars-button-of-the-month)
+- [2022 Letter](https://zhengdongwang.com/2022/12/28/2022-letter.html)
 - [How we got grifted by a multi-billion dollar grocery distributor](https://www.modest.coffee/2022/12/how-we-got-grifted/)
 - [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb?1)
-- [Tamagui 1.0 – Cross-platform React apps in ½ the time with 2x performance](https://tamagui.dev/blog/version-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
