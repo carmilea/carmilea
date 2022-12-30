@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SGCL: Real-time garbage collector for C++](https://github.com/pebal/sgcl)
-- [PRQL a simple, powerful, pipelined SQL replacement](https://prql-lang.org/)
-- [Herb Kelleher: Manage in Good Times So You&#39;ll Do Well in the Bad Times](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
+- [Where does ChatGPT fall on the political compass?](https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/)
+- [PRQL: a simple, powerful, pipelined SQL replacement](https://prql-lang.org/)
+- [Herb Kelleher: Manage in Good Times So You&#39;ll Do Well in the Bad Times &lpar;2006&rpar;](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
 - [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
-- [Golang disables Nagle&#39;s Algorithm by default](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
