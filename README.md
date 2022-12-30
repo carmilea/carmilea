@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformer Stockpiles–and Grids–Come Under Threat](https://spectrum.ieee.org/transformer-stockpiles)
-- [The button on Canon’s image-stabilized binoculars unlocked superhuman sight](https://www.theverge.com/23523047/canon-image-stabilized-binoculars-button-of-the-month)
-- [2022 Letter](https://zhengdongwang.com/2022/12/28/2022-letter.html)
-- [How we got grifted by a multi-billion dollar grocery distributor](https://www.modest.coffee/2022/12/how-we-got-grifted/)
-- [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb?1)
+- [Pure Python Distributed SQL Engine](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
+- [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30)
+- [Show HN: RSS Brain](https://www.rssbrain.com/)
+- [9 Forecasts for the Near Future, with Implications](https://scottbelsky.substack.com/p/edition1)
+- [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
