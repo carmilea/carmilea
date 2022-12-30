@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where does ChatGPT fall on the political compass?](https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/)
 - [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
-- [ChatGPT Political Compass](https://www.gptoverflow.link/question/1519492600837443584/chatgpt-political-compass)
 - [Kagi – Paid Search Engine](https://kagi.com:443/)
-- [This adventure starts with git-lfs](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
-- [I&#39;m just trying to change this lightbulb &lpar;2014&rpar;](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
+- [Golang disables Nagle&#39;s Algorithm by default](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [Can a Tarot card reading be defamatory?](https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
