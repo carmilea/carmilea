@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Would a tech recession vindicate calls for tech unionization?](https://news.ycombinator.com/item?id=34199176)
+- [Filmora uses DCMA to attack YouTuber complaining about license changes](https://www.youtube.com/watch?v=OMIIwQZMFLE)
 - [U.S. universities, rich in data, struggle to capture its value, study finds](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
 - [Gripes with RSS after one week](https://blog.jez.io/rss-after-one-week/)
 - [Our First Closeup Image of Mars Was a Paint-by-Numbers Pastel Drawing](https://kottke.org/22/12/our-first-closeup-image-of-mars-was-a-paint-by-numbers-pastel-drawing)
-- [‘Office Space’ movie gave Zulily engineer a blueprint for financial fraud](https://www.geekwire.com/2022/office-space-movie-plot-gave-zulily-engineer-a-blueprint-for-financial-fraud-prosecutors-allege/)
-- [For Humpbacks, Bubbles Can Be Tools](https://hakaimagazine.com/videos-visuals/for-humpbacks-bubbles-can-be-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
