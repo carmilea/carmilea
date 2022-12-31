@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Croatia to switch to euro, enter passport-free Schengen zone](https://www.aljazeera.com/news/2022/12/31/croatia-to-switch-to-euro-enter-passport-free-schengen-zone)
-- [Powering the lunar base, version 2](https://caseyhandmer.wordpress.com/2022/07/03/powering-the-lunar-base-version-2/)
-- [8,760 Hours: How to get the most out of next year &lpar;2016&rpar;](https://alexvermeer.com/8760hours/)
-- [Mac OS Ventura Issues](https://morrick.me/archives/9696)
-- [Filmora uses DMCA to attack YouTuber complaining about license changes](https://www.youtube.com/watch?v=OMIIwQZMFLE)
+- [CPU branch prediction evolution over years](https://danluu.com/branch-prediction/)
+- [Benedict XVI in Memoriam](https://www.laciviltacattolica.com/benedict-xvi-in-memoriam/)
+- [New industries come from crazy people &lpar;2021&rpar;](https://www.palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/)
+- [Episteme and Techne](https://plato.stanford.edu/entries/episteme-techne/)
+- [Lawfare Podcast: Content Moderation and the First Amendment for Dummies &lpar;2021&rpar;](https://shows.acast.com/lawfare/episodes/lawfare-archive-content-moderation-and-the-first-amendment-f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
