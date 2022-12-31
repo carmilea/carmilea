@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic beans, Bahamian penthouses, old-fashioned fraud and other important SBF-in](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
 - [Cached Chrome Top Million Websites](https://github.com/zakird/crux-top-lists)
-- [A once respected biology journal indicts evolutionary biology for ableism](https://whyevolutionistrue.com/2022/12/29/a-once-respected-biology-journal-indicts-evolutionary-biology-for-ableism/)
+- [Show HN: Pole Clock, a single 24h clock with multiple timezones](https://poleclock.com)
 - [Should Small Rust Structs be Passed by-copy or by-borrow?](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 - [Ask HN: What are your predictions for the world in 2023?](https://news.ycombinator.com/item?id=34196161)
-- [LineageOS 20](https://lineageos.org/Changelog-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
