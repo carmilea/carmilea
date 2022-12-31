@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [sd: your script directory](https://github.com/ianthehenry/sd)
 - [Surviving Disillusionment in Software Development](https://www.spakhm.com/p/surviving-disillusionment)
 - [Blob Opera &lpar;2020&rpar;](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
 - [Why does my SSH private key still work after changing some bytes? &lpar;2016&rpar;](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)
 - [Why “OpenBSD Mastery: Filesystems” Is Not in Amazon’s Kindle Store](https://mwl.io/archives/22466)
-- [Alameda County admits tallying error in ranked choice voting](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
