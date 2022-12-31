@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Am Not a Supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
+- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=34201366)
 - [Seven Stowaways and a Hijacked Oil Tanker](https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda)
+- [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 - [Large-scale vehicle classification](https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/)
-- [CPU branch prediction evolution over years](https://danluu.com/branch-prediction/)
-- [New industries come from crazy people &lpar;2021&rpar;](https://www.palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/)
-- [Lawfare Podcast: Content Moderation and the First Amendment for Dummies &lpar;2021&rpar;](https://shows.acast.com/lawfare/episodes/lawfare-archive-content-moderation-and-the-first-amendment-f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
