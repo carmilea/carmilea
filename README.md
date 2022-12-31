@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New study shows rude behavior is on the rise](https://www.fox5dc.com/video/1158030)
+- [Dinner for One: The Little-Known British Comedy Famous in Germany](https://www.historyhit.com/culture/dinner-for-one/)
+- [Deceiving Windows Defender: The Big Stack Bypass](https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass)
+- [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
 - [VanillaOS: Immutable Ubuntu-Based Linux](https://vanillaos.org/)
 - [sd: your script directory](https://github.com/ianthehenry/sd)
-- [Surviving Disillusionment in Software Development](https://www.spakhm.com/p/surviving-disillusionment)
-- [Tell HN: Freenom &lpar;the operator of .tk, .ml, .ga, .cf, .gq TLDs&rpar; is falling apart](https://news.ycombinator.com/item?id=34194555)
 <!-- BLOG-POST-LIST:END -->
 
 ---
