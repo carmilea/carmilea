@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dinner for one: The little-known British comedy famous in Germany](https://www.historyhit.com/culture/dinner-for-one/)
-- [Deceiving Windows Defender: The Big Stack Bypass](https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass)
-- [JPMorgan to spend $1B on rental homes in the US to become a megalandlord](https://www.businessinsider.com/jp-morgan-to-acquire-1-billion-of-single-family-rentals-2022-11)
-- [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
-- [VanillaOS: Immutable Ubuntu-Based Linux](https://vanillaos.org/)
+- [Cached Chrome Top Million Websites](https://github.com/zakird/crux-top-lists)
+- [A once respected biology journal indicts evolutionary biology for ableism](https://whyevolutionistrue.com/2022/12/29/a-once-respected-biology-journal-indicts-evolutionary-biology-for-ableism/)
+- [Should Small Rust Structs be Passed by-copy or by-borrow?](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
+- [Ask HN: What are your predictions for the world in 2023?](https://news.ycombinator.com/item?id=34196161)
+- [LineageOS 20](https://lineageos.org/Changelog-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
