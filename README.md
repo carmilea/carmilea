@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New study shows rude behavior is on the rise](https://www.fox5dc.com/video/1158030)
+- [VanillaOS: Immutable Ubuntu-Based Linux](https://vanillaos.org/)
 - [sd: your script directory](https://github.com/ianthehenry/sd)
 - [Surviving Disillusionment in Software Development](https://www.spakhm.com/p/surviving-disillusionment)
-- [Blob Opera &lpar;2020&rpar;](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
-- [Why does my SSH private key still work after changing some bytes? &lpar;2016&rpar;](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)
-- [Why “OpenBSD Mastery: Filesystems” Is Not in Amazon’s Kindle Store](https://mwl.io/archives/22466)
+- [Tell HN: Freenom &lpar;the operator of .tk, .ml, .ga, .cf, .gq TLDs&rpar; is falling apart](https://news.ycombinator.com/item?id=34194555)
 <!-- BLOG-POST-LIST:END -->
 
 ---
