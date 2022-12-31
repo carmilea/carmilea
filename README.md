@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blob Opera &lpar;2020&rpar;](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
+- [Why does my SSH private key still work after changing some bytes? &lpar;2016&rpar;](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)
+- [Zeiss 20x60s Review &lpar;2021&rpar;](http://scopeviews.co.uk/Zeiss20x60.htm)
 - [Alameda County admits tallying error in ranked choice voting](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
 - [Lila: A Unified Benchmark for Mathematical Reasoning](https://arxiv.org/abs/2210.17517)
-- [Tell HN: Google Cloud lets anyone add you to a project without your permission](https://news.ycombinator.com/item?id=34193047)
-- [Louis Rossmann discusses NY&#39;s butchering of right to repair [video]](https://www.youtube.com/watch?v=k9kXnm9uW5k)
-- [Ask HN: What is your new year&#39;s resolution?](https://news.ycombinator.com/item?id=34192647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
