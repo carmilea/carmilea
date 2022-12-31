@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lila: A Unified Benchmark for Mathematical Reasoning](https://arxiv.org/abs/2210.17517)
+- [Tell HN: Google Cloud lets anyone add you to a project without your permission](https://news.ycombinator.com/item?id=34193047)
 - [Louis Rossmann discusses NY&#39;s butchering of right to repair [video]](https://www.youtube.com/watch?v=k9kXnm9uW5k)
 - [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
 - [I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
-- [Young adults and mental health: Is more childhood independence the answer?](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
-- [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
