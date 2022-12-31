@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetish Tabooness vs. Popularity](https://aella.substack.com/p/fetish-tabooness-vs-popularity)
-- [The Moratorium on US Medical School Enrollment from 1980 to 2005 &lpar;2008&rpar;](https://www.amjmed.com/article/S0002-9343(07)01095-9/fulltext)
-- [The Blind Spot](https://thegauntlet.substack.com/p/the-blind-spot)
+- [This Year I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
+- [SouthwestAirlines&#39; Meltdown Shows How Corporations Pit Consumers Against Workers](https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown)
+- [RGCosm – Reverse Geocode for OpenStreetmap](https://github.com/punnerud/rgcosm)
+- [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
 - [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
-- [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
