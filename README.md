@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dinner for One: The Little-Known British Comedy Famous in Germany](https://www.historyhit.com/culture/dinner-for-one/)
+- [Dinner for one: The little-known British comedy famous in Germany](https://www.historyhit.com/culture/dinner-for-one/)
 - [Deceiving Windows Defender: The Big Stack Bypass](https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass)
+- [JPMorgan to spend $1B on rental homes in the US to become a megalandlord](https://www.businessinsider.com/jp-morgan-to-acquire-1-billion-of-single-family-rentals-2022-11)
 - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
 - [VanillaOS: Immutable Ubuntu-Based Linux](https://vanillaos.org/)
-- [sd: your script directory](https://github.com/ianthehenry/sd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
