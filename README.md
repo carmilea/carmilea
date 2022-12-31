@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Would a tech recession vindicate calls for tech unionization?](https://news.ycombinator.com/item?id=34199176)
-- [Filmora uses DCMA to attack YouTuber complaining about license changes](https://www.youtube.com/watch?v=OMIIwQZMFLE)
-- [U.S. universities, rich in data, struggle to capture its value, study finds](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
-- [Gripes with RSS after one week](https://blog.jez.io/rss-after-one-week/)
-- [Our First Closeup Image of Mars Was a Paint-by-Numbers Pastel Drawing](https://kottke.org/22/12/our-first-closeup-image-of-mars-was-a-paint-by-numbers-pastel-drawing)
+- [Croatia to switch to euro, enter passport-free Schengen zone](https://www.aljazeera.com/news/2022/12/31/croatia-to-switch-to-euro-enter-passport-free-schengen-zone)
+- [Powering the lunar base, version 2](https://caseyhandmer.wordpress.com/2022/07/03/powering-the-lunar-base-version-2/)
+- [8,760 Hours: How to get the most out of next year &lpar;2016&rpar;](https://alexvermeer.com/8760hours/)
+- [Mac OS Ventura Issues](https://morrick.me/archives/9696)
+- [Filmora uses DMCA to attack YouTuber complaining about license changes](https://www.youtube.com/watch?v=OMIIwQZMFLE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
