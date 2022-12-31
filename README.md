@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Blob Opera &lpar;2020&rpar;](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
 - [Why does my SSH private key still work after changing some bytes? &lpar;2016&rpar;](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)
-- [Zeiss 20x60s Review &lpar;2021&rpar;](http://scopeviews.co.uk/Zeiss20x60.htm)
+- [Why “OpenBSD Mastery: Filesystems” Is Not in Amazon’s Kindle Store](https://mwl.io/archives/22466)
 - [Alameda County admits tallying error in ranked choice voting](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
-- [Lila: A Unified Benchmark for Mathematical Reasoning](https://arxiv.org/abs/2210.17517)
+- [Whatever happened to SHA-256 support in Git](https://lwn.net/Articles/898522/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
