@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GrapheneOS Lead on Linux &lpar;In&rpar;Security](https://old.reddit.com/r/GrapheneOS/comments/bddq5u/os_security_ios_vs_grapheneos_vs_stock_android/)
 - [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
 - [Complementary foundations for mathematics: when do we choose? [pdf]](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf)
 - [2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
-- [South Korea&#39;s middle aged men are dying &#39;lonely deaths&#39;](https://lite.cnn.com/en/article/h_80a652c828dba44d567472356998ce21)
-- [Magic beans, Bahamian penthouses, old-fashioned fraud and other important SBF-in](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
+- [US navy released worst rust photo to date](https://gcaptain.com/us-navy-released-worst-rust-photo-to-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
