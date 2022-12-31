@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GrapheneOS Lead on Linux &lpar;In&rpar;Security](https://old.reddit.com/r/GrapheneOS/comments/bddq5u/os_security_ios_vs_grapheneos_vs_stock_android/)
-- [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
-- [Complementary foundations for mathematics: when do we choose? [pdf]](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf)
-- [2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
-- [US navy released worst rust photo to date](https://gcaptain.com/us-navy-released-worst-rust-photo-to-date/)
+- [U.S. universities, rich in data, struggle to capture its value, study finds](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
+- [Gripes with RSS after one week](https://blog.jez.io/rss-after-one-week/)
+- [Our First Closeup Image of Mars Was a Paint-by-Numbers Pastel Drawing](https://kottke.org/22/12/our-first-closeup-image-of-mars-was-a-paint-by-numbers-pastel-drawing)
+- [‘Office Space’ movie gave Zulily engineer a blueprint for financial fraud](https://www.geekwire.com/2022/office-space-movie-plot-gave-zulily-engineer-a-blueprint-for-financial-fraud-prosecutors-allege/)
+- [For Humpbacks, Bubbles Can Be Tools](https://hakaimagazine.com/videos-visuals/for-humpbacks-bubbles-can-be-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
