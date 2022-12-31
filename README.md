@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Seattle tech worker charged for theft inspired by the movie &#39;Office Space&#39;](https://komonews.com/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space)
+- [Louis Rossmann discusses NY&#39;s butchering of right to repair [video]](https://www.youtube.com/watch?v=k9kXnm9uW5k)
 - [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
-- [This Year I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
-- [SouthwestAirlines&#39; Meltdown Shows How Corporations Pit Consumers Against Workers](https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown)
-- [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
+- [I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
+- [Young adults and mental health: Is more childhood independence the answer?](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
+- [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
