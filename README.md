@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alameda County admits tallying error in ranked choice voting, flips one result](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
+- [Alameda County admits tallying error in ranked choice voting](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
 - [Lila: A Unified Benchmark for Mathematical Reasoning](https://arxiv.org/abs/2210.17517)
 - [Tell HN: Google Cloud lets anyone add you to a project without your permission](https://news.ycombinator.com/item?id=34193047)
 - [Louis Rossmann discusses NY&#39;s butchering of right to repair [video]](https://www.youtube.com/watch?v=k9kXnm9uW5k)
-- [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
+- [Ask HN: What is your new year&#39;s resolution?](https://news.ycombinator.com/item?id=34192647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
