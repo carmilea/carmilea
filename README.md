@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+- [Complementary foundations for mathematics: when do we choose? [pdf]](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf)
+- [2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
+- [South Korea&#39;s middle aged men are dying &#39;lonely deaths&#39;](https://lite.cnn.com/en/article/h_80a652c828dba44d567472356998ce21)
 - [Magic beans, Bahamian penthouses, old-fashioned fraud and other important SBF-in](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
-- [Cached Chrome Top Million Websites](https://github.com/zakird/crux-top-lists)
-- [Show HN: Pole Clock, a single 24h clock with multiple timezones](https://poleclock.com)
-- [Should Small Rust Structs be Passed by-copy or by-borrow?](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
-- [Ask HN: What are your predictions for the world in 2023?](https://news.ycombinator.com/item?id=34196161)
 <!-- BLOG-POST-LIST:END -->
 
 ---
