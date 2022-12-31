@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seattle tech worker charged for theft inspired by the movie &#39;Office Space&#39;](https://komonews.com/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space)
+- [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
 - [This Year I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
 - [SouthwestAirlines&#39; Meltdown Shows How Corporations Pit Consumers Against Workers](https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown)
-- [RGCosm – Reverse Geocode for OpenStreetmap](https://github.com/punnerud/rgcosm)
 - [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
-- [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
