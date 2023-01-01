@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Sued for Nonpayment of Rent on San Francisco Office](https://www.bloomberg.com/news/articles/2022-12-31/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
-- [Map, Filter, Reduce in Fortran &lpar;2019&rpar;](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
-- [Ask HN: How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559)
-- [Get Running with Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/)
-- [Rant: Year of Linux on the Desktop](https://blog.liw.fi/posts/2022/goalposts/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [Blood test can detect &#39;toxic&#39; protein years before Alzheimer&#39;s symptoms emerge](https://www.sciencedaily.com/releases/2022/12/221205153722.htm)
+- [“Internet in Space” Will Transform the Satellite Imagery Industry](https://joemorrison.substack.com/p/how-internet-in-space-will-transform)
+- [Bring Back Personal Blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)
+- [Ask HN: Is Programming Culture Immature?](https://news.ycombinator.com/item?id=34207699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
