@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The internet wants to be fragmented](https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented)
 - [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 - [Ripes: Visual computer architecture simulator, assembly code editor for RISC-V](https://github.com/mortbopet/Ripes)
 - [Ask HN: What are the best open source TypeScript projects I can learn from?](https://news.ycombinator.com/item?id=34205294)
-- [Competitive programming in Haskell: better binary search](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/)
-- [AI Voice Generator: Text to Speech Software](https://murf.ai)
+- [Matrix Community Year in Review 2022](https://blog.neko.dev/posts/matrix-year-in-review-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
