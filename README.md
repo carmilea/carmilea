@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smalltalk-80 on Raspberry Pi: A Bare Metal Implementation](https://github.com/michaelengel/crosstalk)
+- [Ask HN: What&#39;s a good program for calisthenics for beginners that YOU have tried](https://news.ycombinator.com/item?id=34208729)
+- [Tell HN: The Indian government has blocked githubusercontent.com](https://news.ycombinator.com/item?id=34208293)
+- [Today is Charlie Munger&#39;s 99th birthday](https://jasonzweig.com/on-charlie-munger/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Blood test can detect &#39;toxic&#39; protein years before Alzheimer&#39;s symptoms emerge](https://www.sciencedaily.com/releases/2022/12/221205153722.htm)
-- [“Internet in Space” Will Transform the Satellite Imagery Industry](https://joemorrison.substack.com/p/how-internet-in-space-will-transform)
-- [Bring Back Personal Blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)
-- [Ask HN: Is Programming Culture Immature?](https://news.ycombinator.com/item?id=34207699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
