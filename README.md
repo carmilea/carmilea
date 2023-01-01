@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite 2022 Recap](https://sqlite.org/forum/forumpost/df285a4182688791)
-- [Smalltalk-80 on Raspberry Pi: A Bare Metal Implementation](https://github.com/michaelengel/crosstalk)
-- [Ask HN: What&#39;s a good program for calisthenics for beginners that YOU have tried](https://news.ycombinator.com/item?id=34208729)
-- [Today is Charlie Munger&#39;s 99th birthday](https://jasonzweig.com/on-charlie-munger/)
-- [Motion &lpar;YC W20&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [FatFs – Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html)
+- [Casio-F-91W die-shot](https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch)
+- [San Francisco just had its second-rainiest day since 1849](https://www.sfgate.com/weather/article/San-Francisco-just-had-its-second-rainiest-day-17688646.php)
+- [Why 536 was &#39;the worst year to be alive&#39; &lpar;2018&rpar;](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+- [Mini brains grown from stem cells developed eye-like features &lpar;2021&rpar;](https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
