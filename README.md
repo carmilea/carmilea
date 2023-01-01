@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Competitive programming in Haskell: better binary search](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/)
 - [AI Voice Generator: Text to Speech Software](https://murf.ai)
 - [Dirty USB-C Tricks: One Port for the Price of Two](https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/)
 - [Report on an Unidentified Space Station](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
 - [To be productive, be prepared](https://martinrue.com/to-be-productive-be-prepared/)
-- [Posters of the IPv4 and IPv6 internet as of Jan 1, 2023](https://vad.solutions/ipmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
