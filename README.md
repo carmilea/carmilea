@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rant: Year of Linux on the Desktop &lpar;2022&rpar;](https://blog.liw.fi/posts/2022/goalposts/)
+- [Pop2Piano: Pop Audio-Based Piano Cover Generation](https://sweetcocoa.github.io/pop2piano_samples/)
 - [The internet wants to be fragmented](https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [Ripes: Visual computer architecture simulator, assembly code editor for RISC-V](https://github.com/mortbopet/Ripes)
-- [Ask HN: What are the best open source TypeScript projects I can learn from?](https://news.ycombinator.com/item?id=34205294)
-- [Matrix Community Year in Review 2022](https://blog.neko.dev/posts/matrix-year-in-review-2022.html)
+- [2023 HackerRank Developer Skills Report](https://www.hackerrank.com/research/developer-skills/2023)
+- [Java Is in Decline, and There&#39;s Data to Prove It](https://devm.io/java/java-decline-kotlin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
