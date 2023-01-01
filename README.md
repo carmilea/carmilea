@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding “invariant” clauses to C++ via GCC plugin to enable Design-by-Contract](https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract)
+- [Google to pay $29M settling location tracking with DC, IN; –$392M to 40 states](https://events.in.gov/event/attorney_general_todd_rokita_secures_20_million_settlement_with_google_under_same_indiana_law_being_used_against_tiktok)
+- [Tesla broke labor laws by telling workers not to discuss pay, NLRB claims](https://www.theverge.com/2022/12/31/23533743/tesla-florida-workers-pay-working-conditions-nlrb)
 - [Modeling my Grandpa with 3D Photogrammetry &lpar;2021&rpar;](https://www.jeffgeerling.com/blog/2021/modeling-my-grandpa-3d-photogrammetry)
-- [My PGP key is compromised, and at least many of my bitcoins stolen](https://twitter.com/LukeDashjr/status/1609613748364509184)
-- [Don’t Rely on Credibility Stamps](https://nav.al/credibility)
-- [FatFs – Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html)
-- [Casio-F-91W die-shot](https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch)
+- [“My PGP key is compromised, and at least many of my bitcoins stolen”](https://twitter.com/LukeDashjr/status/1609613748364509184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
