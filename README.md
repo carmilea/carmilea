@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modeling my Grandpa with 3D Photogrammetry &lpar;2021&rpar;](https://www.jeffgeerling.com/blog/2021/modeling-my-grandpa-3d-photogrammetry)
+- [My PGP key is compromised, and at least many of my bitcoins stolen](https://twitter.com/LukeDashjr/status/1609613748364509184)
+- [Don’t Rely on Credibility Stamps](https://nav.al/credibility)
 - [FatFs – Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html)
 - [Casio-F-91W die-shot](https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch)
-- [San Francisco just had its second-rainiest day since 1849](https://www.sfgate.com/weather/article/San-Francisco-just-had-its-second-rainiest-day-17688646.php)
-- [Why 536 was &#39;the worst year to be alive&#39; &lpar;2018&rpar;](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
-- [Mini brains grown from stem cells developed eye-like features &lpar;2021&rpar;](https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
