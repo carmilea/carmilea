@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [I did Advent of Code on a Playstation](https://bvisness.me/advent-of-dreams/)
 - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=34201366)
-- [Oxytocin, trust, and reciprocity &lpar;2007&rpar;](https://www.hugthemonkey.com/2007/03/paul_zak_oxytoc.html)
-- [Seven stowaways and a hijacked oil tanker](https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda)
-- [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
