@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Women Are Overinvesting in Education for the Monetary Returns](https://www.journals.uchicago.edu/doi/abs/10.1086/665536)
 - [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
 - [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [Xfinity Stream on Linux &lpar;A Tale of Widevine, ChromeOS, and a Patched Glibc&rpar;](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
 - [I did Advent of Code on a Playstation](https://bvisness.me/advent-of-dreams/)
-- [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
-- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=34201366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
