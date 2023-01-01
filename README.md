@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [Ripes: Visual computer architecture simulator, assembly code editor for RISC-V](https://github.com/mortbopet/Ripes)
 - [Ask HN: What are the best open source TypeScript projects I can learn from?](https://news.ycombinator.com/item?id=34205294)
 - [Competitive programming in Haskell: better binary search](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/)
 - [AI Voice Generator: Text to Speech Software](https://murf.ai)
-- [Report on an Unidentified Space Station](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
-- [To be productive, be prepared](https://martinrue.com/to-be-productive-be-prepared/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
