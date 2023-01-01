@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Women overinvesting in education? Evidence from the medical profession &lpar;2012&rpar;](https://www.journals.uchicago.edu/doi/abs/10.1086/665536)
+- [To Be Productive, Be Prepared](https://martinrue.com/to-be-productive-be-prepared/)
+- [Epstein&#39;s sex trafficking was aided by JPMorgan, US Virgin Islands lawsuit says](https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit)
 - [“Scale” by Greg Egan](https://www.gregegan.net/SCALE/SCALE.html)
-- [Coworkers are less ambitious; bosses adjust to the new order](https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067)
 - [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
 - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 <!-- BLOG-POST-LIST:END -->
