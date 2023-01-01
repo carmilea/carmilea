@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dirty USB-C Tricks: One Port for the Price of Two](https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/)
 - [To Be Productive, Be Prepared](https://martinrue.com/to-be-productive-be-prepared/)
 - [Epstein&#39;s sex trafficking was aided by JPMorgan, US Virgin Islands lawsuit says](https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit)
-- [“Scale” by Greg Egan](https://www.gregegan.net/SCALE/SCALE.html)
-- [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
-- [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
+- [Posters of the IPv4 and IPv6 internet as of Jan 1, 2023](https://vad.solutions/ipmap/)
+- [Coworkers are less ambitious; bosses adjust to the new order](https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067)
 <!-- BLOG-POST-LIST:END -->
 
 ---
