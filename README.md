@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Sued for Nonpayment of Rent on San Francisco Office](https://www.bloomberg.com/news/articles/2022-12-31/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
+- [Map, Filter, Reduce in Fortran &lpar;2019&rpar;](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 - [Ask HN: How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559)
-- [Ask HN: Concepts that clicked only years after you first encountered them?](https://news.ycombinator.com/item?id=34206219)
+- [Get Running with Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/)
 - [Rant: Year of Linux on the Desktop](https://blog.liw.fi/posts/2022/goalposts/)
-- [The Fable of the Dragon-Tyrant](https://nickbostrom.com/fable/dragon)
-- [Pop2Piano: Pop Audio-Based Piano Cover Generation](https://sweetcocoa.github.io/pop2piano_samples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
