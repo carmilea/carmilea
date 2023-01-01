@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite 2022 Recap](https://sqlite.org/forum/forumpost/df285a4182688791)
 - [Smalltalk-80 on Raspberry Pi: A Bare Metal Implementation](https://github.com/michaelengel/crosstalk)
 - [Ask HN: What&#39;s a good program for calisthenics for beginners that YOU have tried](https://news.ycombinator.com/item?id=34208729)
-- [Tell HN: The Indian government has blocked githubusercontent.com](https://news.ycombinator.com/item?id=34208293)
 - [Today is Charlie Munger&#39;s 99th birthday](https://jasonzweig.com/on-charlie-munger/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
