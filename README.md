@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rant: Year of Linux on the Desktop &lpar;2022&rpar;](https://blog.liw.fi/posts/2022/goalposts/)
+- [Ask HN: How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559)
+- [Ask HN: Concepts that clicked only years after you first encountered them?](https://news.ycombinator.com/item?id=34206219)
+- [Rant: Year of Linux on the Desktop](https://blog.liw.fi/posts/2022/goalposts/)
+- [The Fable of the Dragon-Tyrant](https://nickbostrom.com/fable/dragon)
 - [Pop2Piano: Pop Audio-Based Piano Cover Generation](https://sweetcocoa.github.io/pop2piano_samples/)
-- [The internet wants to be fragmented](https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented)
-- [2023 HackerRank Developer Skills Report](https://www.hackerrank.com/research/developer-skills/2023)
-- [Java Is in Decline, and There&#39;s Data to Prove It](https://devm.io/java/java-decline-kotlin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
