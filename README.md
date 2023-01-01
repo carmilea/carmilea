@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Women Are Overinvesting in Education for the Monetary Returns](https://www.journals.uchicago.edu/doi/abs/10.1086/665536)
-- [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [Women overinvesting in education? Evidence from the medical profession &lpar;2012&rpar;](https://www.journals.uchicago.edu/doi/abs/10.1086/665536)
+- [“Scale” by Greg Egan](https://www.gregegan.net/SCALE/SCALE.html)
+- [Coworkers are less ambitious; bosses adjust to the new order](https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067)
 - [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
-- [Xfinity Stream on Linux &lpar;A Tale of Widevine, ChromeOS, and a Patched Glibc&rpar;](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
-- [I did Advent of Code on a Playstation](https://bvisness.me/advent-of-dreams/)
+- [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
