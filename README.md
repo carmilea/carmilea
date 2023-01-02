@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grade inflation: What goes up must come down](https://www.thecrimson.com/article/2022/10/3/barton-grade-inflation/)
+- [In-person schooling and youth suicide: Evidence from calendars, school closures](https://www.nber.org/papers/w30795)
 - [Functional Programming – How and Why](https://onsclom.bearblog.dev/functional-programming-how-and-why/)
-- [Mortal Kombat 2 source code leak reveals unused animations and sprites](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak/)
+- [Mortal Kombat 2 source code leak reveals unused animations and sprites](https://twitter.com/annoyingdog322/status/1607701520044425219)
 - [Why Not Mars](https://idlewords.com/2023/1/why_not_mars.htm)
-- [C++ at the End of 2022](https://www.cppstories.com/2022/cpp-status-2022/)
-- [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
