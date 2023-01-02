@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The quest for a family-friendly password manager](https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html)
 - [Airbnb removed my negative review](https://news.ycombinator.com/item?id=34219422)
 - [Ask HN: Who is hiring? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219335)
 - [Ask HN: Freelancer? Seeking freelancer? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219334)
 - [Ask HN: Who wants to be hired? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219332)
-- [Show HN: Pixletters – Word guessing puzzle game where used pixels give you clues](https://pixletters.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
