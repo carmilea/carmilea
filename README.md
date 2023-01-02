@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9)
+- [The Strangest Computer Manual Ever Written](https://ironicsans.substack.com/p/the-strangest-computer-manual-ever)
 - [Tallow in plastics – why?](https://www.impact-solutions.co.uk/tallow-in-plastics/)
 - [Rust for Professionals](https://overexact.com/rust-for-professionals/)
-- [Ask HN: Pros and cons of thinking in public vs. in private?](https://news.ycombinator.com/item?id=34223288)
-- [Pyright: Static Type Checker for Python](https://github.com/microsoft/pyright)
-- [English as She Is Spoke &lpar;1884&rpar; [pdf]](https://www.exclassics.com/espoke/espkpdf.pdf)
+- [HypChain, the first completely hypothetical blockchain](https://www.hypchain.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
