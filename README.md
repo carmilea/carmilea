@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tallow in plastics – why?](https://www.impact-solutions.co.uk/tallow-in-plastics/)
+- [Rust for Professionals](https://overexact.com/rust-for-professionals/)
 - [Ask HN: Pros and cons of thinking in public vs. in private?](https://news.ycombinator.com/item?id=34223288)
-- [Comparison of exercise and pharmacologic treatment of depression &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430071/)
 - [Pyright: Static Type Checker for Python](https://github.com/microsoft/pyright)
 - [English as She Is Spoke &lpar;1884&rpar; [pdf]](https://www.exclassics.com/espoke/espkpdf.pdf)
-- [Higher-order organization of multivariate time series](https://arxiv.org/abs/2203.10702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
