@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should we care about people who need never exist?](https://www.economist.com/christmas-specials/2022/12/20/should-we-care-about-people-who-need-never-exist)
+- [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
 - [The quest for a family-friendly password manager](https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html)
 - [Airbnb removed my negative review](https://news.ycombinator.com/item?id=34219422)
 - [Ask HN: Who is hiring? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219335)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219334)
-- [Ask HN: Who wants to be hired? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
