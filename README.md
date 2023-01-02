@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin core developer claims to have lost 200 BTC in hack](https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack)
+- [Unearthing long ignored African writing system, researcher finds African history](https://www.bu.edu/articles/2022/fallou-ngom-discovers-ajami-african-writing-system/)
+- [Start a Fucking Blog](https://startafuckingblog.com/)
 - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
-- [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)
 - [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/)
-- [Welcoming 1927 to the Public Domain](https://blog.archive.org/2023/01/01/welcoming-1927-to-the-public-domain/)
-- [Petals: Run 100B+ language models at home bit-torrent style](https://github.com/bigscience-workshop/petals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
