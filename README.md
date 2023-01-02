@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/)
+- [Welcoming 1927 to the Public Domain](https://blog.archive.org/2023/01/01/welcoming-1927-to-the-public-domain/)
 - [Petals: Run 100B+ language models at home bit-torrent style](https://github.com/bigscience-workshop/petals)
 - [Trying Out Flipper Zero](https://twitter.com/antirez/status/1609137698404700161)
 - [Lessons Learned from the Book “Effective Remote Work” &lpar;2022&rpar;](https://phauer.com/2022/book-remote-work-lessons-learned/)
-- [Grade inflation: What goes up must come down](https://www.thecrimson.com/article/2022/10/3/barton-grade-inflation/)
-- [Functional Programming – How and Why](https://onsclom.bearblog.dev/functional-programming-how-and-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
