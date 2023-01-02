@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Santos story broke by local newspaper months ago](https://www.longisland.com/news/12-30-22/george-santos-story-broke-by-local-li-newspaper-months-ago.html)
-- [Adding “invariant” clauses to C++ via GCC plugin to enable Design-by-Contract](https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract)
-- [Ask HN: Are there any good open source Text-to-Speech tools?](https://news.ycombinator.com/item?id=34211457)
-- [Google to pay $29M settling location tracking with DC, IN; –$392M to 40 states](https://events.in.gov/event/attorney_general_todd_rokita_secures_20_million_settlement_with_google_under_same_indiana_law_being_used_against_tiktok)
-- [Tesla broke labor laws by telling workers not to discuss pay, NLRB claims](https://www.theverge.com/2022/12/31/23533743/tesla-florida-workers-pay-working-conditions-nlrb)
+- [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
+- [Blog series on building an air sensor with Arduino](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1)
+- [Should this paper in Psychological Science be retracted?](https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/)
+- [Orrery &lpar;Earth, Moon, and Sun&rpar;](https://www.instructables.com/Orrery-Earth-Moon-and-Sun/)
+- [Remaking old computer graphics with AI image generation](https://jalammar.github.io/ai-image-generation-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
