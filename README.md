@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pyright: Static Type Checker for Python](https://github.com/microsoft/pyright)
 - [English as She Is Spoke](https://en.wikipedia.org/wiki/English_as_She_Is_Spoke)
 - [Higher-order organization of multivariate time series](https://www.nature.com/articles/s41567-022-01852-0)
 - [Debloating Windows 10 with one command and no internet scripts](https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/)
 - [Nintendo GBA and DS ROM hacking guide &lpar;2016&rpar;](https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/download)
-- [Musicians Wage War Against Evil Robots](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
