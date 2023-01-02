@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Not Mars](https://idlewords.com/2023/1/why_not_mars.htm)
 - [For U.S. Companies, the Race for the New EV Battery Is On](https://e360.yale.edu/features/alternate-ev-battery-technology)
 - [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
 - [Blog series on building an air sensor with Arduino](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1)
 - [Should this paper in Psychological Science be retracted?](https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/)
-- [Orrery &lpar;Earth, Moon, and Sun&rpar;](https://www.instructables.com/Orrery-Earth-Moon-and-Sun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
