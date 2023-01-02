@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
+- [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)
 - [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/)
 - [Welcoming 1927 to the Public Domain](https://blog.archive.org/2023/01/01/welcoming-1927-to-the-public-domain/)
 - [Petals: Run 100B+ language models at home bit-torrent style](https://github.com/bigscience-workshop/petals)
-- [Trying Out Flipper Zero](https://twitter.com/antirez/status/1609137698404700161)
-- [Lessons Learned from the Book “Effective Remote Work” &lpar;2022&rpar;](https://phauer.com/2022/book-remote-work-lessons-learned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
