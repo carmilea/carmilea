@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mazda has tested a synthetic fuel in an unmodified MX5 on a 1000-mile road trip](https://wkk.usa.mybluehost.me/mazda-just-proved-that-synthetic-fuels-could-be-the-future/)
+- [My Experience with Check Fraud – and What You Can Learn from It](https://obliviousinvestor.com/check-fraud/)
 - [Bitcoin core developer claims to have lost 200 BTC in hack](https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack)
 - [Unearthing long ignored African writing system, researcher finds African history](https://www.bu.edu/articles/2022/fallou-ngom-discovers-ajami-african-writing-system/)
-- [Start a Fucking Blog](https://startafuckingblog.com/)
-- [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
-- [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/)
+- [Code Smell of the Day: Type Keys &lpar;2021&rpar;](https://jesseduffield.com/Type-Keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
