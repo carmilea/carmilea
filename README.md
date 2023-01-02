@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Functional Programming – How and Why](https://onsclom.bearblog.dev/functional-programming-how-and-why/)
+- [Mortal Kombat 2 source code leak reveals unused animations and sprites](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak/)
 - [Why Not Mars](https://idlewords.com/2023/1/why_not_mars.htm)
 - [C++ at the End of 2022](https://www.cppstories.com/2022/cpp-status-2022/)
-- [For U.S. companies, the race for the new EV battery is on](https://e360.yale.edu/features/alternate-ev-battery-technology)
 - [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
 <!-- BLOG-POST-LIST:END -->
 
