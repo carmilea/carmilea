@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should we care about people who need never exist?](https://www.economist.com/christmas-specials/2022/12/20/should-we-care-about-people-who-need-never-exist)
-- [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
-- [The quest for a family-friendly password manager](https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html)
-- [Airbnb removed my negative review](https://news.ycombinator.com/item?id=34219422)
-- [Ask HN: Who is hiring? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219335)
+- [English as She Is Spoke](https://en.wikipedia.org/wiki/English_as_She_Is_Spoke)
+- [Higher-order organization of multivariate time series](https://www.nature.com/articles/s41567-022-01852-0)
+- [Debloating Windows 10 with one command and no internet scripts](https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/)
+- [Nintendo GBA and DS ROM hacking guide &lpar;2016&rpar;](https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/download)
+- [Musicians Wage War Against Evil Robots](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
