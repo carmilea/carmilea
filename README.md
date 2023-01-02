@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Filmora and Adobe decide to use “Kdenlive” as a keyword in their online ads](https://old.reddit.com/r/kdenlive/comments/101cvw3/how_you_know_you_had_a_good_year_both_filmora_and/)
-- [Ask HN: How do you work on your mental health?](https://news.ycombinator.com/item?id=34218240)
-- [Ask HN: Why did Frontend development explode in complexity?](https://news.ycombinator.com/item?id=34218003)
-- [Mazda has tested a synthetic fuel in an unmodified MX5 on a 1000-mile road trip](https://wkk.usa.mybluehost.me/mazda-just-proved-that-synthetic-fuels-could-be-the-future/)
-- [My Experience with Check Fraud – and What You Can Learn from It](https://obliviousinvestor.com/check-fraud/)
+- [Airbnb removed my negative review](https://news.ycombinator.com/item?id=34219422)
+- [Ask HN: Who is hiring? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219335)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219334)
+- [Ask HN: Who wants to be hired? &lpar;January 2023&rpar;](https://news.ycombinator.com/item?id=34219332)
+- [Show HN: Pixletters – Word guessing puzzle game where used pixels give you clues](https://pixletters.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
