@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Incoming Potentially Catastrophic Storm for SF Area](https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1)
+- [Incoming potentially catastrophic storm for SF area](https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1)
 - [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html)
 - [My YouTube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
 - [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9)
