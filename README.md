@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html)
+- [My YouTube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
 - [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9)
-- [The Strangest Computer Manual Ever Written](https://ironicsans.substack.com/p/the-strangest-computer-manual-ever)
-- [Tallow in plastics – why?](https://www.impact-solutions.co.uk/tallow-in-plastics/)
-- [Rust for Professionals](https://overexact.com/rust-for-professionals/)
-- [HypChain, the first completely hypothetical blockchain](https://www.hypchain.com/)
+- [The strangest computer manual ever written](https://ironicsans.substack.com/p/the-strangest-computer-manual-ever)
+- [Tallow in plastics – why? &lpar;2016&rpar;](https://www.impact-solutions.co.uk/tallow-in-plastics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
