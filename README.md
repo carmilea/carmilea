@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why didn&#39;t you buy a Tesla?](https://news.ycombinator.com/item?id=34233934)
-- [x86 is Turing-complete with no registers](http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
-- [Some Remarks on Large Language Models](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
-- [Update: Stripe is holding over $400k of mine with no explanation [resolved]](https://news.ycombinator.com/item?id=34233011)
-- [Detangle: tl;dr your legal docs with AI](https://detangle.ai)
+- [Ok, Cloudflare I am leaving](https://www.lexx.gr/blog/post/ok-cloudflare-i-am-leaving)
+- [The Cost of Cheap TVs](https://www.theatlantic.com/technology/archive/2023/01/smart-tvs-sony-lg-cheap/672614/)
+- [Ketamine disrupts late sensory information transfer in corticothalamic network](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15845)
+- [Apartment vacancies are piling up](https://www.wsj.com/articles/apartment-rent-increases-slow-a-relief-to-tenants-after-two-years-of-steep-rises-11672701414)
+- [Microsoft.Recognizers.Text for JavaScript](https://github.com/microsoft/Recognizers-Text/tree/master/JavaScript/packages/recognizers-text-suite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
