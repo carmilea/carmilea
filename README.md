@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+- [First LNG tanker arrives at Germany&#39;s new floating terminal](https://www.dw.com/en/first-lng-tanker-arrives-at-germanys-new-floating-terminal/a-64272015)
 - [Bach to the Future – Humanising Music with Neural Nets](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
 - [LearnCPP: Website devoted to teaching you how to program in C++](https://www.learncpp.com/)
 - [Ask HN: Alternatives to Scratch for a blind child?](https://news.ycombinator.com/item?id=34229502)
-- [PDP-11/Hack &lpar;2014&rpar;](http://madrona.ca/e/pdp11hack/index.html)
-- [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
