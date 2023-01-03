@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bach to the Future – Humanising Music with Neural Nets](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
 - [LearnCPP: Website devoted to teaching you how to program in C++](https://www.learncpp.com/)
 - [Ask HN: Alternatives to Scratch for a blind child?](https://news.ycombinator.com/item?id=34229502)
 - [PDP-11/Hack &lpar;2014&rpar;](http://madrona.ca/e/pdp11hack/index.html)
 - [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
-- [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
