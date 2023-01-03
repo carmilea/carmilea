@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$25K grant for side projects from South Park Commons](https://blog.southparkcommons.com/announcing-the-spc-community-grant/)
-- [Ketamine disrupts late sensory information transfer in corticothalamic network](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15845)
-- [Microsoft.Recognizers.Text for JavaScript](https://github.com/microsoft/Recognizers-Text/tree/master/JavaScript/packages/recognizers-text-suite)
-- [Solar panels reduced my electric bill in 2022](https://mattbruenig.com/2023/01/01/solar-panels-reduced-my-electric-bill-by-2677-in-2022/)
-- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
+- [How ^NOT to Forge a Search Warrant](https://dirtyprosecutor.org)
+- [AT&amp;T&#39;s predictions of the future &lpar;1993&rpar;](https://www.youtube.com/watch?v=Xm9jr0cSqZo)
+- [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/)
+- [Long out of math, an AI programmer cracks a pure math problem](https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/)
+- [Hnefatafl](https://en.wikipedia.org/wiki/Tafl_games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
