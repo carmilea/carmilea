@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla plunges 250 feet off a California cliff, all 4 occupants survive](https://www.cnn.com/2023/01/03/us/tesla-crash-cliff-california-cec/index.html)
 - [Equium: Acoustic Heat Pumps](https://www.equium.fr/en/home)
+- [To build truly intelligent machines, teach them cause and effect &lpar;2018&rpar;](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515)
 - [Next-generation Qi2 wireless charging standard embraces Apple&#39;s MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
 - [AT&amp;T&#39;s predictions of the future &lpar;1993&rpar;](https://www.youtube.com/watch?v=Xm9jr0cSqZo)
 - [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/)
