@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
+- [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 - [Bflat – a single ahead-of-time crosscompiler and runtime for C#](https://flattened.net/)
 - [Python 2 removed from Debian](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108)
-- [Sergey Brin: Irate Call from Steve Jobs](https://www.techemails.com/p/sergey-brin-irate-call-from-steve-jobs)
-- [Was salary reduction a “constructive termination” or did employee resign? &lpar;2013&rpar;](https://fkks.com/news/was-70000-salary-reduction-a-constructive-termination-or-did-employee-resig)
+- [The Diary of Samuel Pepys](https://www.pepysdiary.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
