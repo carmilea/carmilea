@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ok, Cloudflare I am leaving](https://www.lexx.gr/blog/post/ok-cloudflare-i-am-leaving)
-- [The Cost of Cheap TVs](https://www.theatlantic.com/technology/archive/2023/01/smart-tvs-sony-lg-cheap/672614/)
+- [$25K grant for side projects from South Park Commons](https://blog.southparkcommons.com/announcing-the-spc-community-grant/)
 - [Ketamine disrupts late sensory information transfer in corticothalamic network](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15845)
-- [Apartment vacancies are piling up](https://www.wsj.com/articles/apartment-rent-increases-slow-a-relief-to-tenants-after-two-years-of-steep-rises-11672701414)
 - [Microsoft.Recognizers.Text for JavaScript](https://github.com/microsoft/Recognizers-Text/tree/master/JavaScript/packages/recognizers-text-suite)
+- [Solar panels reduced my electric bill in 2022](https://mattbruenig.com/2023/01/01/solar-panels-reduced-my-electric-bill-by-2677-in-2022/)
+- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
