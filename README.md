@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update: Stripe is holding over $400k of mine with no explanation](https://news.ycombinator.com/item?id=34233011)
+- [Detangle: tl;dr your legal docs with AI](https://detangle.ai)
+- [Bertrand Meyer et al.: The concept of class invariant in OO programming](https://arxiv.org/abs/2109.06557)
 - [Men Without Work: America&#39;s Invisible Crisis &lpar;Book&rpar;](https://en.wikipedia.org/wiki/Men_Without_Work_(book))
-- [10x Editor](https://10xeditor.com/)
-- [Legal Use of Hallucinogenic Mushrooms Begins in Oregon](https://www.nytimes.com/2023/01/03/health/psychedelic-drugs-mushrooms-oregon.html)
-- [USD 4.27B stolen in 2022 in Web3/crypto hacks and scams](https://newsletter.mollywhite.net/p/in-2022-web3-went-just-great)
-- [Tell HN: GitHub is partially blocked in India](https://news.ycombinator.com/item?id=34231553)
+- [10x C++ Editor](https://10xeditor.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
