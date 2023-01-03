@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Start a Fucking Blog](https://startafuckingblog.com/)
+- [Snow shortage threatens Alps with wet winter season](https://www.bbc.com/news/world-europe-64151166)
+- [Ask HN: Do you think Meta could compete with AWS?](https://news.ycombinator.com/item?id=34231019)
 - [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 - [First LNG tanker arrives at Germany&#39;s new floating terminal](https://www.dw.com/en/first-lng-tanker-arrives-at-germanys-new-floating-terminal/a-64272015)
-- [Bach to the Future – Humanising Music with Neural Nets](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
-- [LearnCPP: Website devoted to teaching you how to program in C++](https://www.learncpp.com/)
-- [Ask HN: Alternatives to Scratch for a blind child?](https://news.ycombinator.com/item?id=34229502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
