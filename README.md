@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sergey Brin: “Irate Call from Steve Jobs”](https://www.techemails.com/p/sergey-brin-irate-call-from-steve-jobs)
+- [Bflat – a single ahead-of-time crosscompiler and runtime for C#](https://flattened.net/)
+- [Python 2 Removed from Debian](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108)
+- [Sergey Brin: Irate Call from Steve Jobs](https://www.techemails.com/p/sergey-brin-irate-call-from-steve-jobs)
+- [Was salary reduction a “constructive termination” or did employee resign? &lpar;2013&rpar;](https://fkks.com/news/was-70000-salary-reduction-a-constructive-termination-or-did-employee-resig)
 - [Idaho murders: Suspect was identified through DNA using genealogy databases](https://abcnews.go.com/US/idaho-murders-suspect-identified-dna-genealogy-databases-police/story?id=96088596)
-- [Incoming potentially catastrophic storm for SF area](https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1)
-- [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html)
-- [My Youtube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
