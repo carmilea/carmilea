@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Update: Stripe is holding over $400k of mine with no explanation](https://news.ycombinator.com/item?id=34233011)
+- [Why didn&#39;t you buy a Tesla?](https://news.ycombinator.com/item?id=34233934)
+- [x86 is Turing-complete with no registers](http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
+- [Some Remarks on Large Language Models](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
+- [Update: Stripe is holding over $400k of mine with no explanation [resolved]](https://news.ycombinator.com/item?id=34233011)
 - [Detangle: tl;dr your legal docs with AI](https://detangle.ai)
-- [Bertrand Meyer et al.: The concept of class invariant in OO programming](https://arxiv.org/abs/2109.06557)
-- [Men Without Work: America&#39;s Invisible Crisis &lpar;Book&rpar;](https://en.wikipedia.org/wiki/Men_Without_Work_(book))
-- [10x C++ Editor](https://10xeditor.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
