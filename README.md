@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PDP-11/Hack](http://madrona.ca/e/pdp11hack/index.html)
 - [Ashby &lpar;YC W19&rpar; is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
 - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 - [Bflat – a single ahead-of-time crosscompiler and runtime for C#](https://flattened.net/)
 - [Python 2 removed from Debian](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108)
-- [The Diary of Samuel Pepys](https://www.pepysdiary.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
