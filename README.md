@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How ^NOT to Forge a Search Warrant](https://dirtyprosecutor.org)
+- [Dell’s new UltraSharp monitor is a 6K powerhouse for pros](https://arstechnica.com/gadgets/2023/01/dells-new-ultrasharp-monitor-is-a-6k-powerhouse-for-pros/)
+- [Next-generation Qi2 wireless charging standard embraces Apple&#39;s MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
 - [AT&amp;T&#39;s predictions of the future &lpar;1993&rpar;](https://www.youtube.com/watch?v=Xm9jr0cSqZo)
 - [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/)
-- [Long out of math, an AI programmer cracks a pure math problem](https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/)
-- [Hnefatafl](https://en.wikipedia.org/wiki/Tafl_games)
+- [Google researcher, long out of math, cracks devilish problem about sets](https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
