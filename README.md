@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Start a Fucking Blog](https://startafuckingblog.com/)
-- [Snow shortage threatens Alps with wet winter season](https://www.bbc.com/news/world-europe-64151166)
-- [Ask HN: Do you think Meta could compete with AWS?](https://news.ycombinator.com/item?id=34231019)
-- [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
-- [First LNG tanker arrives at Germany&#39;s new floating terminal](https://www.dw.com/en/first-lng-tanker-arrives-at-germanys-new-floating-terminal/a-64272015)
+- [Men Without Work: America&#39;s Invisible Crisis &lpar;Book&rpar;](https://en.wikipedia.org/wiki/Men_Without_Work_(book))
+- [10x Editor](https://10xeditor.com/)
+- [Legal Use of Hallucinogenic Mushrooms Begins in Oregon](https://www.nytimes.com/2023/01/03/health/psychedelic-drugs-mushrooms-oregon.html)
+- [USD 4.27B stolen in 2022 in Web3/crypto hacks and scams](https://newsletter.mollywhite.net/p/in-2022-web3-went-just-great)
+- [Tell HN: GitHub is partially blocked in India](https://news.ycombinator.com/item?id=34231553)
 <!-- BLOG-POST-LIST:END -->
 
 ---
