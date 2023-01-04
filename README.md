@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks to DALL-E, the Race to Make Artificial Protein Drugs Is On](https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/)
-- [The faker&#39;s guide to reading &lpar;x86&rpar; assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
-- [Names that decreased in popularity from 2020 to 2021](https://www.ssa.gov/oact/babynames/popularity_decrease.html)
-- [Even More Bay Area House Party](https://astralcodexten.substack.com/p/even-more-bay-area-house-party)
-- [Announcement: AI generated answers are officially banned here](https://english.meta.stackexchange.com/questions/15500/announcement-ai-generated-answers-are-officially-banned-here)
+- [A brief rant on converging compliance regimes](https://lethain.com/compliance-regime-convergance/)
+- [Show HN: Ov – feature rich terminal pager](https://github.com/noborus/ov)
+- [Microsoft is preparing to add ChatGPT to Bing](https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter)
+- [Thanks to DALL-E, the race to make artificial protein drugs is on](https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/)
+- [The faker&#39;s guide to reading x86 assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
