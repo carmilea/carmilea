@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re using function keys wrong](https://mxgrn.com/blog/function-keys-productivity-trick)
+- [Salesforce will lay off 10% of staff as part of restructuring](https://www.marketwatch.com/story/salesforce-will-lay-off-10-of-staff-as-part-of-restructuring-11672832799)
+- [Why Would Prisons Ban My Book? Absurdities Rule the System &lpar;2022&rpar;](https://www.themarshallproject.org/2022/12/21/prison-banned-books-new-york-florida-censorship)
 - [Intelligence – A good collection of great OSINT Resources](https://github.com/ARPSyndicate/awesome-intelligence)
 - [MacBook owners have two months to claim up to $395 over butterfly keyboard woes](https://www.theverge.com/2023/1/4/23538548/macbook-class-action-lawsuit-claims-faulty-butterfly-keyboard)
-- [Global Spyware Scandal: Exposing Pegasus](https://www.pbs.org/wgbh/frontline/documentary/global-spyware-scandal-exposing-pegasus/)
-- [Microsoft workers to form company’s first union in the U.S.](https://www.wsj.com/articles/microsoft-workers-to-form-companys-first-union-in-the-u-s-11672779470)
-- [MSVC: The Devourer of Const](https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
