@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Equium: Acoustic Heat Pumps](https://www.equium.fr/en/home)
-- [To build truly intelligent machines, teach them cause and effect &lpar;2018&rpar;](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515)
-- [Next-generation Qi2 wireless charging standard embraces Apple&#39;s MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
-- [AT&amp;T&#39;s predictions of the future &lpar;1993&rpar;](https://www.youtube.com/watch?v=Xm9jr0cSqZo)
-- [Underappreciated challenges with Python packaging](https://pypackaging-native.github.io/)
+- [BusyBox 1.36.0](https://busybox.net/)
+- [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
+- [Meta Quest Pro – Bad AR Passthrough](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
+- [Google wants RISC-V to be a “tier-1” Android architecture](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/)
+- [Migrating from AWS to Fly.io](https://terrateam.io/blog/flying-away-from-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ---
