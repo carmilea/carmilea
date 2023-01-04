@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
+- [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
 - [How do you know when macOS detects and remediates malware?](https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/)
-- [What HHS Has to Say About Tracking Technologies in Latest HIPAA Guidance](https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies)
+- [What HHS has to say about tracking technologies in latest HIPAA guidance](https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies)
 - [AutoHotKey V2 &lpar;Breaking Upgrade&rpar;](https://www.autohotkey.com/v2/)
-- [On-demand learning is ruining the tech industry](https://www.jernesto.com/articles/learning.html)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
