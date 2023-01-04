@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BusyBox 1.36.0](https://busybox.net/)
+- [The MOS 6502 is &lpar;mostly&rpar; Turing-complete without registers](http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
+- [Hitman 3 to become ‘World of Assassination’](https://www.ioi.dk/hitman-3-to-world-of-assassination/)
 - [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
 - [Meta Quest Pro – Bad AR Passthrough](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
 - [Google wants RISC-V to be a “tier-1” Android architecture](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/)
-- [Migrating from AWS to Fly.io](https://terrateam.io/blog/flying-away-from-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ---
