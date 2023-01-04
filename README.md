@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re using function keys wrong](https://mxgrn.com/blog/function-keys-productivity-trick)
-- [Salesforce will lay off 10% of staff as part of restructuring](https://www.marketwatch.com/story/salesforce-will-lay-off-10-of-staff-as-part-of-restructuring-11672832799)
-- [Why Would Prisons Ban My Book? Absurdities Rule the System &lpar;2022&rpar;](https://www.themarshallproject.org/2022/12/21/prison-banned-books-new-york-florida-censorship)
-- [Intelligence – A good collection of great OSINT Resources](https://github.com/ARPSyndicate/awesome-intelligence)
-- [MacBook owners have two months to claim up to $395 over butterfly keyboard woes](https://www.theverge.com/2023/1/4/23538548/macbook-class-action-lawsuit-claims-faulty-butterfly-keyboard)
+- [A Man Who Made Spain the Magic Capital of the World](https://www.nytimes.com/2023/01/02/magazine/juan-tamariz-magic.html)
+- [WordPress Sites Under Attack from Newly Found Linux Trojan](https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware)
+- [Irreconcilable differences between local and distributed computing &lpar;1994&rpar;](https://scholar.harvard.edu/waldo/publications/note-distributed-computing)
+- [Urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
+- [What is railway oriented programming](https://blog.logrocket.com/what-is-railway-oriented-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
