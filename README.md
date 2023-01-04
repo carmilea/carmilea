@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Google and Apple act the way they do, working to snuff out the mobile web](https://toot.cafe/@slightlyoff/109632248664696707)
 - [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
-- [Why is the JavaScript ecosystem like this?](http://meta.ath0.com/2022/12/ghost-of-a-chance/)
-- [Apple headset leak reveals new details and confirms earlier rumors](https://mixed-news.com/en/massive-apple-headset-leak-reveals-new-details-and-confirms-earlier-rumors/)
-- [Kids and music lessons: why do many promising players quit early?](https://thewalrus.ca/why-do-kids-hate-music-lessons/)
 - [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
+- [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
+- [Fault-Tolerant SFTP Scripting](https://www.linuxjournal.com/content/fault-tolerant-sftp-scripting-retry-failed-transfers-automatically)
 <!-- BLOG-POST-LIST:END -->
 
 ---
