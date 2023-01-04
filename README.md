@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanks to DALL-E, the Race to Make Artificial Protein Drugs Is On](https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/)
+- [The faker&#39;s guide to reading &lpar;x86&rpar; assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 - [Names that decreased in popularity from 2020 to 2021](https://www.ssa.gov/oact/babynames/popularity_decrease.html)
+- [Even More Bay Area House Party](https://astralcodexten.substack.com/p/even-more-bay-area-house-party)
 - [Announcement: AI generated answers are officially banned here](https://english.meta.stackexchange.com/questions/15500/announcement-ai-generated-answers-are-officially-banned-here)
-- [The MOS 6502 is &lpar;mostly&rpar; Turing-complete without registers](http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
-- [BusyBox 1.36.0](https://busybox.net/)
-- [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
