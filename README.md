@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I still have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2023/01/03/ssl/)
 - [Why Google and Apple act the way they do, working to snuff out the mobile web](https://toot.cafe/@slightlyoff/109632248664696707)
 - [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
 - [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
 - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
-- [Fault-Tolerant SFTP Scripting](https://www.linuxjournal.com/content/fault-tolerant-sftp-scripting-retry-failed-transfers-automatically)
 <!-- BLOG-POST-LIST:END -->
 
 ---
