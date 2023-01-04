@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; is hiring engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+- [Faster MySQL with HTTP/3](https://planetscale.com/blog/faster-mysql-with-http3)
+- [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
 - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 - [All About USB-C: Resistors and Emarkers](https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/)
-- [Going Full Time on My SaaS After 13 Years](https://mattmazur.com/2023/01/04/going-full-time-on-my-saas-after-13-years/)
-- [Chunking strings in Elixir: how difficult can it be?](https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/)
-- [Meta prohibited from using personal data for advertisement](https://noyb.eu/en/breaking-meta-prohibited-use-personal-data-advertisment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
