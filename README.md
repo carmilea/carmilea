@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you know when macOS detects and remediates malware?](https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/)
 - [What HHS Has to Say About Tracking Technologies in Latest HIPAA Guidance](https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies)
+- [AutoHotKey V2 &lpar;Breaking Upgrade&rpar;](https://www.autohotkey.com/v2/)
+- [On-demand learning is ruining the tech industry](https://www.jernesto.com/articles/learning.html)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
-- [Faster MySQL with HTTP/3](https://planetscale.com/blog/faster-mysql-with-http3)
-- [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
-- [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
