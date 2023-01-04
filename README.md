@@ -54,8 +54,8 @@
 - [MSVC: The Devourer of Const](https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/)
 - [CLib: Header-only C library that implements the most important classes from GLib](https://github.com/aheck/clib)
 - [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
+- [Get Started with Rust: Generics](https://serokell.io/blog/rust-generics)
 - [QBittorrent v4.5.0: The Hitchhiker&#39;s Guide to Legible Text](https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/)
-- [Fun, danger, and 70s airplane toys](https://whyisthisinteresting.substack.com/p/the-worlds-most-dangerous-toy-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
