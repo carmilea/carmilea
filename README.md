@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Spyware Scandal: Exposing Pegasus](https://www.pbs.org/wgbh/frontline/documentary/global-spyware-scandal-exposing-pegasus/)
+- [Microsoft Workers to Form Company’s First Union in the U.S.](https://www.wsj.com/articles/microsoft-workers-to-form-companys-first-union-in-the-u-s-11672779470)
 - [MSVC: The Devourer of Const](https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/)
 - [CLib: Header-only C library that implements the most important classes from GLib](https://github.com/aheck/clib)
 - [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
-- [Get Started with Rust: Generics](https://serokell.io/blog/rust-generics)
-- [QBittorrent v4.5.0: The Hitchhiker&#39;s Guide to Legible Text](https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
