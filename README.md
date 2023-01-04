@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [Why is the JavaScript ecosystem like this?](http://meta.ath0.com/2022/12/ghost-of-a-chance/)
+- [Apple headset leak reveals new details and confirms earlier rumors](https://mixed-news.com/en/massive-apple-headset-leak-reveals-new-details-and-confirms-earlier-rumors/)
+- [Kids and music lessons: why do many promising players quit early?](https://thewalrus.ca/why-do-kids-hate-music-lessons/)
 - [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
-- [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
-- [How do you know when macOS detects and remediates malware?](https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/)
-- [What HHS has to say about tracking technologies in latest HIPAA guidance](https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies)
-- [AutoHotKey V2 &lpar;Breaking Upgrade&rpar;](https://www.autohotkey.com/v2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
