@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Man Who Made Spain the Magic Capital of the World](https://www.nytimes.com/2023/01/02/magazine/juan-tamariz-magic.html)
-- [WordPress Sites Under Attack from Newly Found Linux Trojan](https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware)
-- [Irreconcilable differences between local and distributed computing &lpar;1994&rpar;](https://scholar.harvard.edu/waldo/publications/note-distributed-computing)
-- [Urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
-- [What is railway oriented programming](https://blog.logrocket.com/what-is-railway-oriented-programming/)
+- [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
+- [All About USB-C: Resistors and Emarkers](https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/)
+- [Going Full Time on My SaaS After 13 Years](https://mattmazur.com/2023/01/04/going-full-time-on-my-saas-after-13-years/)
+- [Chunking strings in Elixir: how difficult can it be?](https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/)
+- [Meta prohibited from using personal data for advertisement](https://noyb.eu/en/breaking-meta-prohibited-use-personal-data-advertisment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
