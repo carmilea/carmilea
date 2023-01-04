@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fun, danger, and 70s airplane toys](https://whyisthisinteresting.substack.com/p/the-worlds-most-dangerous-toy-edition)
 - [A brief rant on converging compliance regimes](https://lethain.com/compliance-regime-convergance/)
 - [Show HN: Ov – feature rich terminal pager](https://github.com/noborus/ov)
 - [Microsoft is preparing to add ChatGPT to Bing](https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter)
 - [Thanks to DALL-E, the race to make artificial protein drugs is on](https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/)
-- [The faker&#39;s guide to reading x86 assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
