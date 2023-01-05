@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The YC Founder Directory](https://www.ycombinator.com/blog/the-yc-founder-directory)
-- [‘Disruptive’ science has declined](https://www.nature.com/articles/d41586-022-04577-5)
-- [U.S. trade deficit shrinks 21% to 26-month low as imports tumble](https://www.marketwatch.com/story/u-s-trade-deficit-sinks-21-to-26-month-low-as-imports-tumble-11672926549)
-- [FTC Proposes Banning Noncompete Clauses for Workers](https://www.wsj.com/articles/ftc-proposes-banning-noncompete-clauses-for-workers-11672900586)
-- [U.S. Moves to Bar Noncompete Agreements in Labor Contracts](https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html)
+- [Show HN: GPTDuck – Ask questions about any GitHub repo](https://www.gptduck.com/)
+- [The genetic history of Scandinavia from the Roman Iron Age to the present](https://www.cell.com/cell/fulltext/S0092-8674(22)01468-4)
+- [America needs carpenters and plumbers. Try telling that to Gen Z](https://text.npr.org/1142817339)
+- [Automatic1111 is back on GitHub after removing Embedding Links](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)
+- [U.S. moves to seize $460M Robinhood stake linked to Sam Bankman-Fried](https://www.cnn.com/2023/01/05/investing/doj-seizes-robinhood-shares/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
