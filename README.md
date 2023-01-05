@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google obtains thousands of medical records from the Dept of Defense](https://gcaptain.com/us-navy-opens-medical-vault-for-google/)
+- [I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS](https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs)
 - [Libcpucycles is a public-domain microlibrary for counting CPU cycles](https://cpucycles.cr.yp.to/)
 - [Database of 200k cell images yields new mathematical framework](https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells)
 - [The physics principle of diffusion inspired modern AI art](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
-- [Why are antennas popping up over the Salt Lake City foothills?](https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/)
-- [Microfeatures I&#39;d like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
