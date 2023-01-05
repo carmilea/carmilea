@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Investors conclude that Tesla is a carmaker, not a tech firm](https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm)
-- [AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache](https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost)
-- [Pornhub users in Louisiana now have to submit government ID to access the site](https://mashable.com/article/pornhub-louisiana-id)
-- [We’ve made the difficult decision to shut down Revue](http://help.getrevue.co/en/articles/6819675-we-ve-made-the-difficult-decision-to-shut-down-revue)
-- [Iranian attack drone found to contain parts from more than a dozen US companies](https://www.cnn.com/2023/01/04/politics/iranian-drone-parts-13-us-companies-ukraine-russia/index.html)
+- [The YC Founder Directory](https://www.ycombinator.com/blog/the-yc-founder-directory)
+- [‘Disruptive’ science has declined](https://www.nature.com/articles/d41586-022-04577-5)
+- [U.S. trade deficit shrinks 21% to 26-month low as imports tumble](https://www.marketwatch.com/story/u-s-trade-deficit-sinks-21-to-26-month-low-as-imports-tumble-11672926549)
+- [FTC Proposes Banning Noncompete Clauses for Workers](https://www.wsj.com/articles/ftc-proposes-banning-noncompete-clauses-for-workers-11672900586)
+- [U.S. Moves to Bar Noncompete Agreements in Labor Contracts](https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
