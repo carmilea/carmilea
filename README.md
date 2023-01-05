@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iranian attack drone found to contain parts from more than a dozen US companies](https://www.cnn.com/2023/01/04/politics/iranian-drone-parts-13-us-companies-ukraine-russia/index.html)
+- [Ask HN: How many of you are open to Piracy again?](https://news.ycombinator.com/item?id=34259279)
+- [Does the world have enough lithium to move to electric vehicles?](https://hannahritchie.substack.com/p/lithium-electric-vehicles)
+- [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 - [Amazon has raised the number of jobs it plans to cut 18,000](https://www.ft.com/content/0371225d-3131-4937-8af2-03582ca5e44d)
-- [The &lpar;Almost&rpar; Definitive 486DX/50 Article](http://brassicgamer.blogspot.com/2023/01/the-almost-definitive-486dx50-article.html)
-- [How do I draw a pair of buttocks? &lpar;2014&rpar;](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks)
-- [AUTOMATIC1111&#39;s GitHub Account Suspended For &quot;TOS Violations&quot;](https://github.com/AUTOMATIC1111)
-- [Slack&#39;s private GitHub code repositories stolen over holidays](https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
