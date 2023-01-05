@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors conclude that Tesla is a carmaker, not a tech firm](https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm)
+- [AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache](https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost)
+- [Pornhub users in Louisiana now have to submit government ID to access the site](https://mashable.com/article/pornhub-louisiana-id)
+- [We’ve made the difficult decision to shut down Revue](http://help.getrevue.co/en/articles/6819675-we-ve-made-the-difficult-decision-to-shut-down-revue)
 - [Iranian attack drone found to contain parts from more than a dozen US companies](https://www.cnn.com/2023/01/04/politics/iranian-drone-parts-13-us-companies-ukraine-russia/index.html)
-- [Ask HN: How many of you are open to Piracy again?](https://news.ycombinator.com/item?id=34259279)
-- [Does the world have enough lithium to move to electric vehicles?](https://hannahritchie.substack.com/p/lithium-electric-vehicles)
-- [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
-- [Amazon has raised the number of jobs it plans to cut 18,000](https://www.ft.com/content/0371225d-3131-4937-8af2-03582ca5e44d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
