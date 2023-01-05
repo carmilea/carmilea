@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hummingbird Clock](http://www.hummingbirdclock.info/about)
 - [I was laid off 2 months agoand I’ve never even seen a severance letter](https://twitter.com/sbstryker/status/1610760987996749824)
 - [Rotate any secrets stored in CircleCI](https://circleci.com/blog/january-4-2023-security-alert/)
 - [Founder of Creative Technology, Sim Wong Hoo, has Died](https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies)
-- [Tell HN: Crypto/web3 grifters are Now AI/ML grifters](https://news.ycombinator.com/item?id=34254377)
 - [FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
 <!-- BLOG-POST-LIST:END -->
 
