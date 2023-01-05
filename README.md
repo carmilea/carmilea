@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I draw a pair of buttocks?](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks)
+- [How do I draw a pair of buttocks? &lpar;2014&rpar;](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks)
+- [AUTOMATIC1111&#39;s GitHub Account Suspended For &quot;TOS Violations&quot;](https://github.com/AUTOMATIC1111)
 - [Slack&#39;s private GitHub code repositories stolen over holidays](https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/)
+- [Adobe Lightroom uses photos for AI training by default](https://toot.cafe/@baldur/109630505660962387)
 - [Londoner solves 20k-year Ice Age drawings mystery](https://www.bbc.co.uk/news/uk-england-london-64162799)
-- [AMD’s Zen 4, Part 3: System Level Stuff, and iGPU](https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/)
-- [Apple introduces Digital narration for books](https://authors.apple.com/support/4519-digital-narration-audiobooks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
