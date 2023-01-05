@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hummingbird Clock](http://www.hummingbirdclock.info/about)
-- [I was laid off 2 months agoand I’ve never even seen a severance letter](https://twitter.com/sbstryker/status/1610760987996749824)
-- [Rotate any secrets stored in CircleCI](https://circleci.com/blog/january-4-2023-security-alert/)
-- [Founder of Creative Technology, Sim Wong Hoo, has Died](https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies)
-- [FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
+- [How to Optimize a CUDA Matmul Kernel for CuBLAS-Like Performance: A Worklog](https://siboehm.com/articles/22/CUDA-MMM)
+- [Bill Gates: I&#39;m literally losing sleep over Java &lpar;1996&rpar;](https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java)
+- [Sim Wong Hoo has died](https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies)
+- [FTC cracks down on companies that impose harmful noncompete restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
+- [RIP sf/f author Suzy McKee Charnas &lpar;1939-2023&rpar;](https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
