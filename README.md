@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Demo: SingleStore MongoDB API](https://www.youtube.com/watch?v=ug0N2Otxdf4)
 - [Demo: Recognizing Faces Using a SQL Database](https://www.youtube.com/watch?v=3UCC-YH6tJQ)
 - [What’s New in the Winter Release and What’s in the Roadmap?](https://www.youtube.com/watch?v=d5ME2VTYia8)
 - [Interview: SingleStore at Dell Technologies World](https://www.youtube.com/watch?v=pnkyLTZ7ZEQ)
 - [Demo: Up to 400x Faster Seeks for JSON Data on Universal Storage](https://www.youtube.com/watch?v=nwFaAM6ZVEM)
+- [Demo: Real-Time and Historical Monitoring of Database Resource Utilization &amp; Performance](https://www.youtube.com/watch?v=q05pZQRqkz8)
 <!-- YOUTUBE:END -->
 
 
