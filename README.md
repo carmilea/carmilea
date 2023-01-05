@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Founder of Creative Technology, Sim Wong Hoo, has Died](https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies)
 - [Tell HN: Crypto/web3 grifters are Now AI/ML grifters](https://news.ycombinator.com/item?id=34254377)
 - [FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
 - [RIP SF/f author Suzy McKee Charnas &lpar;1939-2023&rpar;](https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/)
 - [Amazon to Lay Off over 17,000 Workers, More Than First Planned](https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304)
-- [DragonFly BSD 6.4](https://www.dragonflybsd.org/release64/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
