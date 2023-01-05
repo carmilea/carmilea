@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: GPTDuck – Ask questions about any GitHub repo](https://www.gptduck.com/)
-- [The genetic history of Scandinavia from the Roman Iron Age to the present](https://www.cell.com/cell/fulltext/S0092-8674(22)01468-4)
-- [America needs carpenters and plumbers. Try telling that to Gen Z](https://text.npr.org/1142817339)
-- [Automatic1111 is back on GitHub after removing Embedding Links](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)
-- [U.S. moves to seize $460M Robinhood stake linked to Sam Bankman-Fried](https://www.cnn.com/2023/01/05/investing/doj-seizes-robinhood-shares/index.html)
+- [Spreadsheet with compute-like functions: GET&lpar;&rpar;, POST&lpar;&rpar;, PARSE&lpar;&rpar;, ASK_OpenAI&lpar;&rpar;](https://rows.com/templates/ask-openai)
+- [Caltech to Launch Space Solar Power Technology Demo into Orbit](https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january)
+- [Writing a Tiny RISC-V Emulator [video]](https://www.youtube.com/watch?v=YT5vB3UqU_E)
+- [Superposition, Memorization, and Double Descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html)
+- [Having friends in HR is fine, but HR is not your friend](https://cdoyle.me/2023/01/05/having-friends-in-hr-is-fine-but-hr-is-not-your-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
