@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried Paragon&#39;s ntfs3 and it didn&#39;t go well](https://randthoughts.github.io/i-tried-paragons-ntfs3-and-it-didnt-go-well/)
-- [Advanced and easy YouTube archiver now stable](https://github.com/Owez/yark)
-- [How to slow down scientific progress, according to Leo Szilard](https://rootsofprogress.org/szilard-on-slowing-science)
-- [Moonwalkers: The World&#39;s Fastest Shoes](https://shiftrobotics.io/)
-- [Spreadsheet with compute-like functions: GET&lpar;&rpar;, POST&lpar;&rpar;, PARSE&lpar;&rpar;, ASK_OpenAI&lpar;&rpar;](https://rows.com/templates/ask-openai)
+- [Embed Neovim in Chrome, Firefox and Others](https://github.com/glacambre/firenvim)
+- [Kerbal Space Program Free on Epic](https://store.epicgames.com/en-US/)
+- [Is it possible for a lunar eclipse to occur before sunset?](https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset)
+- [LiteSync – Easy synchronization of SQLite databases](https://litesync.io/en/index.html)
+- [Show HN: ClickHouse-local – a small tool for serverless data analytics](https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local)
 <!-- BLOG-POST-LIST:END -->
 
 ---
