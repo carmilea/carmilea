@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I tried Paragon&#39;s ntfs3 and it didn&#39;t go well](https://randthoughts.github.io/i-tried-paragons-ntfs3-and-it-didnt-go-well/)
+- [Advanced and easy YouTube archiver now stable](https://github.com/Owez/yark)
+- [How to slow down scientific progress, according to Leo Szilard](https://rootsofprogress.org/szilard-on-slowing-science)
+- [Moonwalkers: The World&#39;s Fastest Shoes](https://shiftrobotics.io/)
 - [Spreadsheet with compute-like functions: GET&lpar;&rpar;, POST&lpar;&rpar;, PARSE&lpar;&rpar;, ASK_OpenAI&lpar;&rpar;](https://rows.com/templates/ask-openai)
-- [Caltech to Launch Space Solar Power Technology Demo into Orbit](https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january)
-- [Writing a Tiny RISC-V Emulator [video]](https://www.youtube.com/watch?v=YT5vB3UqU_E)
-- [Superposition, Memorization, and Double Descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html)
-- [Having friends in HR is fine, but HR is not your friend](https://cdoyle.me/2023/01/05/having-friends-in-hr-is-fine-but-hr-is-not-your-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
