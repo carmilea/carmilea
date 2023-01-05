@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I still have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2023/01/03/ssl/)
-- [Why Google and Apple act the way they do, working to snuff out the mobile web](https://toot.cafe/@slightlyoff/109632248664696707)
-- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
-- [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
-- [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
+- [FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
+- [JPSO used facial recognition technology to arrest a man. The tech was wrong](https://www.nola.com/news/crime_police/jpso-used-facial-recognition-to-arrest-a-man-it-was-wrong/article_0818361a-8886-11ed-8119-93b98ecccc8d.html)
+- [RIP SF/f author Suzy McKee Charnas &lpar;1939-2023&rpar;](https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/)
+- [Amazon to Lay Off over 17,000 Workers, More Than First Planned](https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304)
+- [DragonFly BSD 6.4](https://www.dragonflybsd.org/release64/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
