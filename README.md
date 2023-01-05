@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon has raised the number of jobs it plans to cut 18,000](https://www.ft.com/content/0371225d-3131-4937-8af2-03582ca5e44d)
+- [The &lpar;Almost&rpar; Definitive 486DX/50 Article](http://brassicgamer.blogspot.com/2023/01/the-almost-definitive-486dx50-article.html)
 - [How do I draw a pair of buttocks? &lpar;2014&rpar;](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks)
 - [AUTOMATIC1111&#39;s GitHub Account Suspended For &quot;TOS Violations&quot;](https://github.com/AUTOMATIC1111)
 - [Slack&#39;s private GitHub code repositories stolen over holidays](https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/)
-- [Adobe Lightroom uses photos for AI training by default](https://toot.cafe/@baldur/109630505660962387)
-- [Londoner solves 20k-year Ice Age drawings mystery](https://www.bbc.co.uk/news/uk-england-london-64162799)
 <!-- BLOG-POST-LIST:END -->
 
 ---
