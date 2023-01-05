@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evernote Acquired by Bending Spoons](https://evernote.com/blog/new-phase-in-evernote-history/)
+- [Londoner solves 20k-year Ice Age drawings mystery](https://www.bbc.co.uk/news/uk-england-london-64162799)
 - [AMD’s Zen 4, Part 3: System Level Stuff, and iGPU](https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/)
 - [How to Optimize a CUDA Matmul Kernel for CuBLAS-Like Performance: A Worklog](https://siboehm.com/articles/22/CUDA-MMM)
+- [Scientific papers and patents are becoming less disruptive over time](https://www.nature.com/articles/s41586-022-05543-x)
 - [Bill Gates: I&#39;m literally losing sleep over Java &lpar;1996&rpar;](https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java)
-- [Sim Wong Hoo has died](https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
