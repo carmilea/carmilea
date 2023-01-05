@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed Neovim in Chrome, Firefox and Others](https://github.com/glacambre/firenvim)
-- [Kerbal Space Program Free on Epic](https://store.epicgames.com/en-US/)
+- [The physics principle of diffusion inspired modern AI art](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
+- [Why are antennas popping up over the Salt Lake City foothills?](https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/)
+- [Microfeatures I&#39;d like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
+- [OpenAI is in talks for tender offer that would value it at $29B](https://www.wsj.com/articles/chatgpt-creator-openai-is-in-talks-for-tender-offer-that-would-value-it-at-29-billion-11672949279)
 - [Is it possible for a lunar eclipse to occur before sunset?](https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset)
-- [LiteSync – Easy synchronization of SQLite databases](https://litesync.io/en/index.html)
-- [Show HN: ClickHouse-local – a small tool for serverless data analytics](https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local)
 <!-- BLOG-POST-LIST:END -->
 
 ---
