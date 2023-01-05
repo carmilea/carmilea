@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I draw a pair of buttocks?](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks)
+- [Slack&#39;s private GitHub code repositories stolen over holidays](https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/)
 - [Londoner solves 20k-year Ice Age drawings mystery](https://www.bbc.co.uk/news/uk-england-london-64162799)
 - [AMD’s Zen 4, Part 3: System Level Stuff, and iGPU](https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/)
 - [Apple introduces Digital narration for books](https://authors.apple.com/support/4519-digital-narration-audiobooks)
-- [How to Optimize a CUDA Matmul Kernel for CuBLAS-Like Performance: A Worklog](https://siboehm.com/articles/22/CUDA-MMM)
-- [Papers and patents are becoming less disruptive over time](https://www.nature.com/articles/s41586-022-05543-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
