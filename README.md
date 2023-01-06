@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla finally breaks and offers round steering wheel on Model S/X](https://electrek.co/2023/01/05/tesla-offers-round-steering-wheel-model-s-x/)
+- [Neural Codec Language Models Are Zero-Shot Text to Speech Synthesizers](https://valle-demo.github.io/)
 - [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
 - [Roland&#39;s 50th Anniversary Concept Piano makes use of drone speakers](https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/)
-- [Google’s quest to digitize troops’ tissue samples](https://www.propublica.org/article/google-human-tissue-jpc-military)
-- [Transcoding Unicode with AVX-512: AMD Zen 4 vs. Intel Ice Lake](https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
