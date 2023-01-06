@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The intersection of shadow stacks and CRIU](https://lwn.net/Articles/915728/)
 - [Tesla finally breaks and offers round steering wheel on Model S/X](https://electrek.co/2023/01/05/tesla-offers-round-steering-wheel-model-s-x/)
 - [Neural Codec Language Models Are Zero-Shot Text to Speech Synthesizers](https://valle-demo.github.io/)
 - [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
-- [Roland&#39;s 50th Anniversary Concept Piano makes use of drone speakers](https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/)
+- [Zelda: Link&#39;s Awakening Game Engine Documentation](https://github.com/zladx/LADX-Disassembly/wiki/Game-engine-documentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
