@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swallow Calendar](http://riowang.blogspot.com/2022/11/swallow-calendar.html)
+- [A practical comparison of build and test speed between C++ and Rust](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 - [The intersection of shadow stacks and CRIU](https://lwn.net/Articles/915728/)
-- [Tesla finally breaks and offers round steering wheel on Model S/X](https://electrek.co/2023/01/05/tesla-offers-round-steering-wheel-model-s-x/)
-- [Neural Codec Language Models Are Zero-Shot Text to Speech Synthesizers](https://valle-demo.github.io/)
-- [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
-- [Zelda: Link&#39;s Awakening Game Engine Documentation](https://github.com/zladx/LADX-Disassembly/wiki/Game-engine-documentation)
+- [VALL-E: Neural codec language models are zero-shot text to speech synthesizers](https://valle-demo.github.io/)
+- [Omg.lol – A lovable web page and email address](https://home.omg.lol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
