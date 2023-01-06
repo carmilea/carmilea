@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ULID – Sortable Unique Identifier](https://yadukrishnan.live/ulid-sortable-unique-identifier)
 - [Show HN: List of Stripe Alternatives](https://news.ycombinator.com/item?id=34281730)
 - [Why didn’t we get the four-hour workday?](https://rootsofprogress.org/the-four-hour-workday-prediction)
 - [Perfect Circle](https://neal.fun/perfect-circle/)
 - [Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
-- [Coaching engineering managers to take on organizational problems](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
