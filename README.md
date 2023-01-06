@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lago: *Open-Source Usage Based Billing* Is Hiring Sr Ruby Engineers](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
-- [Ask HN: Why do people still use Stripe?](https://news.ycombinator.com/item?id=34273460)
-- [FBI Looking for Hashflare Victims](https://www.fbi.gov/how-we-can-help-you/victim-services/seeking-victim-information/seeking-victims-in-the-hashflare-investigation)
-- [My bad habit of hoarding information](https://andreisurugiu.com/blog/bad-habit/)
-- [Carl Hewitt has died [pdf]](http://ee380.stanford.edu/Carl-Hewitt.pdf)
+- [Thousands of scientists publish a paper every five days](https://www.nature.com/articles/d41586-018-06185-8)
+- [Switzerland: snow flown in by helicopter in attempt to keep ski slopes open](https://switzerlandtimes.ch/local/gstaad-be-flies-in-snow-by-helicopter/)
+- [Device used to resuscitate canaries in coal mines](https://museumcrush.org/this-device-was-used-to-resuscitate-canaries-in-coal-mines/)
+- [Students in Iran are risking everything to rise up against the government](https://www.washingtonpost.com/world/2023/01/05/iran-protests-students-mahsa-amini/)
+- [GitHub Is Sued, and We May Learn Something About Creative Commons Licensing](https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
