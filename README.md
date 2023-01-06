@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe is about to refund €147k worth of payments to my all of my customers](https://news.ycombinator.com/item?id=34271815)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Director Product Growth in Vienna](https://bitmovin.com/careers/director-product-growth-6555620002/)
 - [Wizards of the Coast Trying to Retroactively Cancel OGL 1.0a](https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/)
 - [Swallow Calendar](http://riowang.blogspot.com/2022/11/swallow-calendar.html)
 - [A practical comparison of build and test speed between C++ and Rust](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
+- [S p a m m y s y s C a l l s in strace dumps](http://rachelbythebay.com/w/2023/01/05/syscall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
