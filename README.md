@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia admin jailed for 32 years after alleged Saudi spy infiltration](https://arstechnica.com/tech-policy/2023/01/wikipedia-admin-jailed-for-32-years-after-alleged-saudi-spy-infiltration/)
+- [Saudi Arabia jails Wikipedia admin for 32 years; alleged govt infiltration of WP](https://arstechnica.com/tech-policy/2023/01/wikipedia-admin-jailed-for-32-years-after-alleged-saudi-spy-infiltration/)
+- [Rising rent, not poverty, is the real driver of homelessness](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/house-speaker-rain-homeless-film-reviews/housing)
 - [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
-- [Politics and the English Language by George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
+- [Politics and the English Language &lpar;1946&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 - [Ask HN: Is there some academic research on software fragility?](https://news.ycombinator.com/item?id=34277033)
-- [U.S. stock market returns – a history from the 1870s to 2022](https://themeasureofaplan.com/us-stock-market-returns-1870s-to-present/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
