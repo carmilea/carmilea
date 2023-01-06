@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is there some academic research on software fragility?](https://news.ycombinator.com/item?id=34277033)
+- [Amazon S3 will now encrypt all new data with AES-256 by default](https://www.bleepingcomputer.com/news/security/amazon-s3-will-now-encrypt-all-new-data-with-aes-256-by-default/)
+- [U.S. stock market returns – a history from the 1870s to 2022](https://themeasureofaplan.com/us-stock-market-returns-1870s-to-present/)
 - [Emergency measures needed to rescue Great Salt Lake from ongoing collapse](https://pws.byu.edu/great-salt-lake)
-- [The size of an empire cannot be larger than 1 month of travel from capital](https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires)
-- [Artist banned, told to “find a different style”- AI-made art](https://www.thetechdeviant.com/2023/01/06/artist-banned-told-to-find-a-different-style-since-his-style-is-too-similar-to-ai-made-art/)
-- [Human gene linked to bigger brains was born from seemingly useless DNA](https://www.science.org/content/article/human-gene-linked-bigger-brains-was-born-seemingly-useless-dna)
-- [Dwarf Fortress has sold half a million copies](http://www.bay12forums.com/smf/index.php?topic=181050.0)
+- [The Tyranny of Nicespeak &lpar;2001&rpar;](https://web.archive.org/web/20011106205530/http://www.consider.net/forum_new.php3?newTemplate=OpenObject&newTop=200111050017&newDisplayURN=200111050017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
