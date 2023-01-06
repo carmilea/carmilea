@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emergency measures needed to rescue Great Salt Lake from ongoing collapse](https://pws.byu.edu/great-salt-lake)
+- [The size of an empire cannot be larger than 1 month of travel from capital](https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires)
+- [Artist banned, told to “find a different style”- AI-made art](https://www.thetechdeviant.com/2023/01/06/artist-banned-told-to-find-a-different-style-since-his-style-is-too-similar-to-ai-made-art/)
 - [Human gene linked to bigger brains was born from seemingly useless DNA](https://www.science.org/content/article/human-gene-linked-bigger-brains-was-born-seemingly-useless-dna)
-- [Public Schools Lost More Than One Million Students During Pandemic](https://www.wsj.com/articles/public-schools-lost-more-than-one-million-students-during-pandemic-11672881798)
-- [ChatGPT banned from New York City public schools’ devices and networks](https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna64446)
-- [Ask HN: Contingency plans for a lead dev no longer avail?](https://news.ycombinator.com/item?id=34274609)
-- [Thousands of scientists publish a paper every five days](https://www.nature.com/articles/d41586-018-06185-8)
+- [Dwarf Fortress has sold half a million copies](http://www.bay12forums.com/smf/index.php?topic=181050.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
