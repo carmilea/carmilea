@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human gene linked to bigger brains was born from seemingly useless DNA](https://www.science.org/content/article/human-gene-linked-bigger-brains-was-born-seemingly-useless-dna)
+- [Public Schools Lost More Than One Million Students During Pandemic](https://www.wsj.com/articles/public-schools-lost-more-than-one-million-students-during-pandemic-11672881798)
+- [ChatGPT banned from New York City public schools’ devices and networks](https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna64446)
+- [Ask HN: Contingency plans for a lead dev no longer avail?](https://news.ycombinator.com/item?id=34274609)
 - [Thousands of scientists publish a paper every five days](https://www.nature.com/articles/d41586-018-06185-8)
-- [Switzerland: snow flown in by helicopter in attempt to keep ski slopes open](https://switzerlandtimes.ch/local/gstaad-be-flies-in-snow-by-helicopter/)
-- [Device used to resuscitate canaries in coal mines](https://museumcrush.org/this-device-was-used-to-resuscitate-canaries-in-coal-mines/)
-- [Students in Iran are risking everything to rise up against the government](https://www.washingtonpost.com/world/2023/01/05/iran-protests-students-mahsa-amini/)
-- [GitHub Is Sued, and We May Learn Something About Creative Commons Licensing](https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
