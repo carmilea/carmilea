@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Bad Habit of Hoarding Information](https://andreisurugiu.com/blog/bad-habit/)
+- [Lago: *Open-Source Usage Based Billing* Is Hiring Sr Ruby Engineers](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
+- [FBI Looking for Hashflare Victims](https://www.fbi.gov/how-we-can-help-you/victim-services/seeking-victim-information/seeking-victims-in-the-hashflare-investigation)
+- [My bad habit of hoarding information](https://andreisurugiu.com/blog/bad-habit/)
 - [Carl Hewitt has died [pdf]](http://ee380.stanford.edu/Carl-Hewitt.pdf)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Director Product Growth in Vienna](https://bitmovin.com/careers/director-product-growth-6555620002/)
 - [Wizards of the Coast Trying to Retroactively Cancel OGL 1.0a](https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/)
-- [Swallow Calendar](http://riowang.blogspot.com/2022/11/swallow-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
