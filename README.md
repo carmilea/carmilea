@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfect Circle](https://neal.fun/perfect-circle/)
+- [Learn to Process Text in Linux Using Grep, Sed, and Awk](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)
+- [Riddle solved: Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
+- [A Person Paper on Purity in Language](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html)
 - [Coaching engineering managers to take on organizational problems](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems/)
-- [Netscape&#39;s Constellation &lpar;1997&rpar;](https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html)
-- [MT-Propeller 11 blade propeller delivers 15% increase in static thrust](https://www.mt-propeller.com/en/entw/about_firsts.htm#11)
-- [Fourth membrane is discovered in the brain](https://www.science.org/doi/10.1126/science.adc8810)
-- [Ask HN: How to restore cognition after years of trauma? I feel slow and dumb](https://news.ycombinator.com/item?id=34279527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
