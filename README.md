@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia admin jailed for 32 years after alleged Saudi spy infiltration](https://arstechnica.com/tech-policy/2023/01/wikipedia-admin-jailed-for-32-years-after-alleged-saudi-spy-infiltration/)
+- [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
+- [Politics and the English Language by George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 - [Ask HN: Is there some academic research on software fragility?](https://news.ycombinator.com/item?id=34277033)
-- [Amazon S3 will now encrypt all new data with AES-256 by default](https://www.bleepingcomputer.com/news/security/amazon-s3-will-now-encrypt-all-new-data-with-aes-256-by-default/)
 - [U.S. stock market returns – a history from the 1870s to 2022](https://themeasureofaplan.com/us-stock-market-returns-1870s-to-present/)
-- [Emergency measures needed to rescue Great Salt Lake from ongoing collapse](https://pws.byu.edu/great-salt-lake)
-- [The Tyranny of Nicespeak &lpar;2001&rpar;](https://web.archive.org/web/20011106205530/http://www.consider.net/forum_new.php3?newTemplate=OpenObject&newTop=200111050017&newDisplayURN=200111050017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
