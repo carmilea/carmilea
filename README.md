@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Saudi Arabia jails Wikipedia admin for 32 years; alleged govt infiltration of WP](https://arstechnica.com/tech-policy/2023/01/wikipedia-admin-jailed-for-32-years-after-alleged-saudi-spy-infiltration/)
-- [Rising rent, not poverty, is the real driver of homelessness](https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/house-speaker-rain-homeless-film-reviews/housing)
-- [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
-- [Politics and the English Language &lpar;1946&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
-- [Ask HN: Is there some academic research on software fragility?](https://news.ycombinator.com/item?id=34277033)
+- [Coaching engineering managers to take on organizational problems](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems/)
+- [Netscape&#39;s Constellation &lpar;1997&rpar;](https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html)
+- [MT-Propeller 11 blade propeller delivers 15% increase in static thrust](https://www.mt-propeller.com/en/entw/about_firsts.htm#11)
+- [Fourth membrane is discovered in the brain](https://www.science.org/doi/10.1126/science.adc8810)
+- [Ask HN: How to restore cognition after years of trauma? I feel slow and dumb](https://news.ycombinator.com/item?id=34279527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
