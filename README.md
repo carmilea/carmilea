@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: List of Stripe Alternatives](https://news.ycombinator.com/item?id=34281730)
+- [Why didn’t we get the four-hour workday?](https://rootsofprogress.org/the-four-hour-workday-prediction)
 - [Perfect Circle](https://neal.fun/perfect-circle/)
-- [Learn to Process Text in Linux Using Grep, Sed, and Awk](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)
-- [Riddle solved: Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
-- [A Person Paper on Purity in Language](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html)
+- [Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
 - [Coaching engineering managers to take on organizational problems](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems/)
 <!-- BLOG-POST-LIST:END -->
 
