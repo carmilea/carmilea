@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google obtains thousands of medical records from the Dept of Defense](https://gcaptain.com/us-navy-opens-medical-vault-for-google/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
+- [Roland&#39;s 50th Anniversary Concept Piano makes use of drone speakers](https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/)
+- [Google’s quest to digitize troops’ tissue samples](https://www.propublica.org/article/google-human-tissue-jpc-military)
+- [Transcoding Unicode with AVX-512: AMD Zen 4 vs. Intel Ice Lake](https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/)
 - [I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS](https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs)
-- [Libcpucycles is a public-domain microlibrary for counting CPU cycles](https://cpucycles.cr.yp.to/)
-- [Database of 200k cell images yields new mathematical framework](https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells)
-- [The physics principle of diffusion inspired modern AI art](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
