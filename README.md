@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Director Product Growth in Vienna](https://bitmovin.com/careers/director-product-growth-6555620002/)
+- [Wizards of the Coast Trying to Retroactively Cancel OGL 1.0a](https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/)
 - [Swallow Calendar](http://riowang.blogspot.com/2022/11/swallow-calendar.html)
 - [A practical comparison of build and test speed between C++ and Rust](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
-- [The intersection of shadow stacks and CRIU](https://lwn.net/Articles/915728/)
-- [VALL-E: Neural codec language models are zero-shot text to speech synthesizers](https://valle-demo.github.io/)
-- [Omg.lol – A lovable web page and email address](https://home.omg.lol)
+- [Ask HN: What&#39;s on your home server?](https://news.ycombinator.com/item?id=34271167)
 <!-- BLOG-POST-LIST:END -->
 
 ---
