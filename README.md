@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch out for DoS when using Rust’s popular Hyper package](https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/)
+- [The beauty of CGI and simple design](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
+- [Watch out for DoS when using Rust’s Hyper package](https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/)
+- [Cybiko](https://en.wikipedia.org/wiki/Cybiko)
 - [Software horror show: SAP Concur](https://blog.plover.com/prog/crap-warning-signs-2.html)
 - [Axiom.ai &lpar;YC W21&rpar; Is Hiring Customer Success Engineers](https://www.ycombinator.com/companies/axiom-ai/jobs/c57IYuA-customer-success-engineer)
-- [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
-- [Devirtualizing nike.com&#39;s bot protection](https://www.nullpt.rs/devirtualizing-nike-vm-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
