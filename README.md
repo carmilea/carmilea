@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A 100% free and interactive Python course for coding beginners](https://futurecoder.io/)
+- [The Safari bug that never was &lpar;2022&rpar;](https://obyford.com/posts/the-safari-bug-that-never-was/)
 - [The science of why you have great ideas in the shower](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower)
+- [Universal flu vaccine against all known subtypes takes promising first steps](https://www.science.org/doi/10.1126/science.abm0271)
 - [Low nutritional quality in vegetarian meat](https://www.chalmers.se/en/departments/bio/news/Pages/Low-nutritional-quality-in-vegetarian-meat-.aspx)
-- [Guitar Effects Guidebook, Vol. 20 [pdf]](https://static.roland.com/assets/media/pdf/guitar_effects_guidebook_vol_20.pdf)
-- [I&#39;ve realized I&#39;m a bad software developer](https://gaylelaakmann.substack.com/p/ive-realized-im-a-bad-software-developer)
-- [Rsync.net warrant canary](https://www.rsync.net/resources/notices/canary.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
