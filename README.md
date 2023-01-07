@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Someone removing your MIT LICENSE in their fork?](https://news.ycombinator.com/item?id=34291038)
-- [Can We Please Never Talk About Dedicated Biomass Again](https://climateer.substack.com/p/biomass)
+- [ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
+- [Aral Sea Disaster: Why One of the Biggest Inland Seas Dried Up?](https://www.marineinsight.com/environment/aral-sea-disaster-why-one-of-the-biggest-inland-seas-dried-up/)
+- [Seattle Public Schools sues TikTok, YouTube, Instagram over youth mental health](https://www.geekwire.com/2023/seattle-public-schools-sues-tiktok-youtube-instagram-and-others-seeking-compensation-for-youth-mental-health-crisis/)
+- [Lessons learned from three container-management systems over a decade &lpar;2016&rpar;](https://queue.acm.org/detail.cfm?id=2898444)
 - [Post-processing is ruining iPhone photos](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/)
-- [Show HN: I Made a Logo Marketplace](https://logocreatorai.com/marketplace)
-- [EnterpriseReady](https://www.enterpriseready.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
