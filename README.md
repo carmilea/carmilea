@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ULID – Sortable Unique Identifier](https://yadukrishnan.live/ulid-sortable-unique-identifier)
-- [Show HN: List of Stripe Alternatives](https://news.ycombinator.com/item?id=34281730)
-- [Why didn’t we get the four-hour workday?](https://rootsofprogress.org/the-four-hour-workday-prediction)
-- [Perfect Circle](https://neal.fun/perfect-circle/)
-- [Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
+- [Death by vegetable oil: What the studies say &lpar;2020&rpar;](https://www.jeffnobbs.com/posts/death-by-vegetable-oil-what-the-studies-say)
+- [Artsy Engineering Handbook](https://github.com/artsy/README)
+- [Less gym time, same results: Why ‘lowering’ weights is all you need to do](https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do)
+- [Tell HN: Oculus will delete purchases if you don’t switch to a meta account](https://news.ycombinator.com/item?id=34282623)
+- [That paper with the ‘T’ error bars was just retracted](https://retractionwatch.com/2022/12/22/that-paper-with-the-t-error-bars-was-just-retracted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
