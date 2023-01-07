@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The science of why you have great ideas in the shower](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower)
+- [Low nutritional quality in vegetarian meat](https://www.chalmers.se/en/departments/bio/news/Pages/Low-nutritional-quality-in-vegetarian-meat-.aspx)
 - [Guitar Effects Guidebook, Vol. 20 [pdf]](https://static.roland.com/assets/media/pdf/guitar_effects_guidebook_vol_20.pdf)
-- [I&#39;ve realized I&#39;m a bad software Developer](https://gaylelaakmann.substack.com/p/ive-realized-im-a-bad-software-developer)
-- [Rsync.net Warrant Canary](https://www.rsync.net/resources/notices/canary.txt)
-- [The Rise of Steel – Part I](https://constructionphysics.substack.com/p/the-rise-of-steel-part-i)
-- [Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens](https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens)
+- [I&#39;ve realized I&#39;m a bad software developer](https://gaylelaakmann.substack.com/p/ive-realized-im-a-bad-software-developer)
+- [Rsync.net warrant canary](https://www.rsync.net/resources/notices/canary.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
