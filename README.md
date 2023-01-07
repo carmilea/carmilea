@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Only the richest ancient Athenians paid taxes](https://theconversation.com/only-the-richest-ancient-athenians-paid-taxes-and-they-bragged-about-it-147249)
+- [Monkey stone tools shed doubts on the human origin of archeological sites](https://journals.sagepub.com/doi/10.1177/09596836221131707)
 - [Death by vegetable oil: What the studies say &lpar;2020&rpar;](https://www.jeffnobbs.com/posts/death-by-vegetable-oil-what-the-studies-say)
 - [Artsy Engineering Handbook](https://github.com/artsy/README)
 - [Less gym time, same results: Why ‘lowering’ weights is all you need to do](https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do)
-- [Tell HN: Oculus will delete purchases if you don’t switch to a meta account](https://news.ycombinator.com/item?id=34282623)
-- [That paper with the ‘T’ error bars was just retracted](https://retractionwatch.com/2022/12/22/that-paper-with-the-t-error-bars-was-just-retracted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
