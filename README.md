@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rsync.net Warrant Canary](https://www.rsync.net/resources/notices/canary.txt)
+- [Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens](https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens)
+- [Ask HN: Main things to consider when building an app for business/enterprise](https://news.ycombinator.com/item?id=34287685)
 - [Not-Such-Better-Living Through Chemistry](https://www.science.org/content/blog-post/not-such-better-living-through-chemistry)
 - [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
-- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [GoDaddy Rant:&lpar;](https://news.ycombinator.com/item?id=34287199)
-- [The beauty of CGI and simple design](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
