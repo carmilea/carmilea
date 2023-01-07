@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Not-Such-Better-Living Through Chemistry](https://www.science.org/content/blog-post/not-such-better-living-through-chemistry)
+- [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
 - [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [Demanding polished work is a power play designed to take options away from you](https://minimal.app/qo16ayjm)
 - [GoDaddy Rant:&lpar;](https://news.ycombinator.com/item?id=34287199)
-- [Asking ChatGPT to write my security-sensitive code for me](https://mjg59.dreamwidth.org/64090.html)
 - [The beauty of CGI and simple design](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 <!-- BLOG-POST-LIST:END -->
 
