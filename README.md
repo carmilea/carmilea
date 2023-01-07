@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Someone removing your MIT LICENSE in their fork?](https://news.ycombinator.com/item?id=34291038)
 - [Can We Please Never Talk About Dedicated Biomass Again](https://climateer.substack.com/p/biomass)
 - [Post-processing is ruining iPhone photos](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/)
 - [Show HN: I Made a Logo Marketplace](https://logocreatorai.com/marketplace)
 - [EnterpriseReady](https://www.enterpriseready.io/)
-- [How microplastics are infiltrating the food you eat](https://www.bbc.com/future/article/20230103-how-plastic-is-getting-into-our-food)
 <!-- BLOG-POST-LIST:END -->
 
 ---
