@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [College that fired prof for showing image of Muhammad could lose accreditation](https://reason.com/2023/01/05/a-college-fired-a-professor-for-showing-a-painting-of-muhammad-now-it-could-lose-its-accreditation/)
 - [The i3-gaps project has been merged with i3](https://github.com/Airblader/i3)
-- [Schmidt Futures 2022 – end of year letter](https://www.schmidtfutures.com/schmidt-futures-2022/)
+- [Jailbroken iOS can&#39;t run macOS apps – I spent a week to find out why &lpar;2021&rpar;](https://worthdoingbadly.com/macappsios/)
 - [Why does private equity get to play make-believe with prices?](https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices)
 - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
-- [Using Qt 6 under LGPLv3](https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
