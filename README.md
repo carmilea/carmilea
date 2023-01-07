@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom.ai &lpar;YC W21&rpar; Is Hiring Customer Success Engineers](https://www.ycombinator.com/companies/axiom-ai/jobs/c57IYuA-customer-success-engineer)
+- [Devirtualizing Nike.com&#39;s Bot Protection &lpar;Part 1&rpar;](https://www.nullpt.rs/devirtualizing-nike-vm-1)
 - [The all in one web editor for M68K](https://asm-editor.specy.app/)
 - [Epochalypse](https://www.epochalypse.today/)
 - [Jazz Is Freedom](https://thebaffler.com/salvos/jazz-is-freedom-grimstad)
-- [In the Stacks](https://brandnewbox.com/inthestacks/?ref=the-browser)
-- [Monkey stone tools shed doubts on the human origin of archeological sites](https://journals.sagepub.com/doi/10.1177/09596836221131707)
 <!-- BLOG-POST-LIST:END -->
 
 ---
