@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The time I yoga-balled an Apple store employee](https://jasoneckert.github.io/myblog/the-time-i-yoga-balled-an-apple-store-employee/)
+- [Why Does Private Equity Get to Play Make-Believe with Prices?](https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices)
+- [Using Qt 6 under LGPLv3](https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/)
 - [ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
 - [Aral Sea Disaster: Why One of the Biggest Inland Seas Dried Up?](https://www.marineinsight.com/environment/aral-sea-disaster-why-one-of-the-biggest-inland-seas-dried-up/)
-- [Seattle Public Schools sues TikTok, YouTube, Instagram over youth mental health](https://www.geekwire.com/2023/seattle-public-schools-sues-tiktok-youtube-instagram-and-others-seeking-compensation-for-youth-mental-health-crisis/)
-- [Lessons learned from three container-management systems over a decade &lpar;2016&rpar;](https://queue.acm.org/detail.cfm?id=2898444)
-- [Post-processing is ruining iPhone photos](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
