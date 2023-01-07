@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The time I yoga-balled an Apple store employee](https://jasoneckert.github.io/myblog/the-time-i-yoga-balled-an-apple-store-employee/)
-- [Why Does Private Equity Get to Play Make-Believe with Prices?](https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices)
+- [The i3-gaps project has been merged with i3](https://github.com/Airblader/i3)
+- [Schmidt Futures 2022 – end of year letter](https://www.schmidtfutures.com/schmidt-futures-2022/)
+- [Why does private equity get to play make-believe with prices?](https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices)
+- [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 - [Using Qt 6 under LGPLv3](https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/)
-- [ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
-- [Aral Sea Disaster: Why One of the Biggest Inland Seas Dried Up?](https://www.marineinsight.com/environment/aral-sea-disaster-why-one-of-the-biggest-inland-seas-dried-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
