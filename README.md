@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [Demanding polished work is a power play designed to take options away from you](https://minimal.app/qo16ayjm)
+- [GoDaddy Rant:&lpar;](https://news.ycombinator.com/item?id=34287199)
+- [Asking ChatGPT to write my security-sensitive code for me](https://mjg59.dreamwidth.org/64090.html)
 - [The beauty of CGI and simple design](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
-- [Watch out for DoS when using Rust’s Hyper package](https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/)
-- [Cybiko](https://en.wikipedia.org/wiki/Cybiko)
-- [Software horror show: SAP Concur](https://blog.plover.com/prog/crap-warning-signs-2.html)
-- [Axiom.ai &lpar;YC W21&rpar; Is Hiring Customer Success Engineers](https://www.ycombinator.com/companies/axiom-ai/jobs/c57IYuA-customer-success-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
