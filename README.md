@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Devbase – Find products to make your next fantastic project](https://devbase.fyi/)
+- [I Feel for the NetBSD Community](https://rubenerd.com/i-feel-for-the-netbsd-community/)
 - [Epochalypse](https://www.epochalypse.today/)
 - [Jazz Is Freedom](https://thebaffler.com/salvos/jazz-is-freedom-grimstad)
-- [In the Stacks](https://brandnewbox.com/inthestacks/?ref=the-browser)
 - [Monkey stone tools shed doubts on the human origin of archeological sites](https://journals.sagepub.com/doi/10.1177/09596836221131707)
-- [Death by vegetable oil: What the studies say &lpar;2020&rpar;](https://www.jeffnobbs.com/posts/death-by-vegetable-oil-what-the-studies-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
