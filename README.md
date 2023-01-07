@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software horror show: SAP Concur](https://blog.plover.com/prog/crap-warning-signs-2.html)
 - [Axiom.ai &lpar;YC W21&rpar; Is Hiring Customer Success Engineers](https://www.ycombinator.com/companies/axiom-ai/jobs/c57IYuA-customer-success-engineer)
-- [Devirtualizing Nike.com&#39;s Bot Protection &lpar;Part 1&rpar;](https://www.nullpt.rs/devirtualizing-nike-vm-1)
+- [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
+- [Devirtualizing nike.com&#39;s bot protection](https://www.nullpt.rs/devirtualizing-nike-vm-1)
 - [The all in one web editor for M68K](https://asm-editor.specy.app/)
-- [Epochalypse](https://www.epochalypse.today/)
-- [Jazz Is Freedom](https://thebaffler.com/salvos/jazz-is-freedom-grimstad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
