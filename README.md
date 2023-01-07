@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A 100% free and interactive Python course for coding beginners](https://futurecoder.io/)
-- [The Safari bug that never was &lpar;2022&rpar;](https://obyford.com/posts/the-safari-bug-that-never-was/)
-- [The science of why you have great ideas in the shower](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower)
-- [Universal flu vaccine against all known subtypes takes promising first steps](https://www.science.org/doi/10.1126/science.abm0271)
-- [Low nutritional quality in vegetarian meat](https://www.chalmers.se/en/departments/bio/news/Pages/Low-nutritional-quality-in-vegetarian-meat-.aspx)
+- [Can We Please Never Talk About Dedicated Biomass Again](https://climateer.substack.com/p/biomass)
+- [Post-processing is ruining iPhone photos](https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/)
+- [Show HN: I Made a Logo Marketplace](https://logocreatorai.com/marketplace)
+- [EnterpriseReady](https://www.enterpriseready.io/)
+- [How microplastics are infiltrating the food you eat](https://www.bbc.com/future/article/20230103-how-plastic-is-getting-into-our-food)
 <!-- BLOG-POST-LIST:END -->
 
 ---
