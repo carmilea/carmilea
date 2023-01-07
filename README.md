@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Only the richest ancient Athenians paid taxes](https://theconversation.com/only-the-richest-ancient-athenians-paid-taxes-and-they-bragged-about-it-147249)
+- [Epochalypse](https://www.epochalypse.today/)
+- [Jazz Is Freedom](https://thebaffler.com/salvos/jazz-is-freedom-grimstad)
+- [In the Stacks](https://brandnewbox.com/inthestacks/?ref=the-browser)
 - [Monkey stone tools shed doubts on the human origin of archeological sites](https://journals.sagepub.com/doi/10.1177/09596836221131707)
 - [Death by vegetable oil: What the studies say &lpar;2020&rpar;](https://www.jeffnobbs.com/posts/death-by-vegetable-oil-what-the-studies-say)
-- [Artsy Engineering Handbook](https://github.com/artsy/README)
-- [Less gym time, same results: Why ‘lowering’ weights is all you need to do](https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
