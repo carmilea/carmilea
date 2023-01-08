@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/4004540006)
-- [Ask HN: Sites with the quality of Hacker News, but for more general topics?](https://news.ycombinator.com/item?id=34302827)
-- [Defying gravity, 2022 Climate Tech VC funding totals $70.1B, up 89% on 2021](https://www.holoniq.com/notes/2022-climate-tech-vc-funding-totals-70-1b-up-89-from-37-0b-in-2021)
-- [The four things I wish I knew before founding my mental health startup](https://medium.ikuznetsov.com/the-four-things-i-wish-i-knew-before-founding-my-mental-health-startup-2a7e1faa99e5)
-- [Detailed list of USB WiFi adapters that work well with Linux](https://github.com/morrownr/USB-WiFi)
+- [Finding Fulfillment](https://longform.asmartbear.com/docs/fulfillment/)
+- [2022 Climate Tech VC funding totals $70.1B, up 89% on 2021](https://www.holoniq.com/notes/2022-climate-tech-vc-funding-totals-70-1b-up-89-from-37-0b-in-2021)
+- [Things I wish I knew before founding my mental health startup](https://medium.ikuznetsov.com/the-four-things-i-wish-i-knew-before-founding-my-mental-health-startup-2a7e1faa99e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
