@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PhotoRoom Is Hiring a Fullstack API Developer &lpar;OpenAPI, Python, React&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
-- [Former Fed Chairman: Crypto Is &quot;Too Dependent on the Greater Fool Theory&quot; [pdf]](https://acmwealth.com/wp-content/uploads/2023/01/ACM_AG_Article_JAN_-2023.pdf)
+- [Delphi VCL and FMX Libraries for Python](https://www.embarcadero.com/delphi-libraries-for-python)
+- [Ask HN: Plans for Weathering the Tech Recession?](https://news.ycombinator.com/item?id=34296393)
 - [Cheap, sustainable hydrogen through solar power](https://news.umich.edu/cheap-sustainable-hydrogen-through-solar-power/)
 - [Ask HN: How to move from traditional tech into game dev?](https://news.ycombinator.com/item?id=34295863)
-- [If you like startups you should love anti-trust](https://alexwrites.substack.com/p/if-you-like-startups-you-should-love)
 <!-- BLOG-POST-LIST:END -->
 
 ---
