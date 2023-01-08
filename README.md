@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/4004540006)
+- [Ask HN: Sites with the quality of Hacker News, but for more general topics?](https://news.ycombinator.com/item?id=34302827)
+- [Defying gravity, 2022 Climate Tech VC funding totals $70.1B, up 89% on 2021](https://www.holoniq.com/notes/2022-climate-tech-vc-funding-totals-70-1b-up-89-from-37-0b-in-2021)
+- [The four things I wish I knew before founding my mental health startup](https://medium.ikuznetsov.com/the-four-things-i-wish-i-knew-before-founding-my-mental-health-startup-2a7e1faa99e5)
 - [Detailed list of USB WiFi adapters that work well with Linux](https://github.com/morrownr/USB-WiFi)
-- [Introduction to micro-optimization](https://specbranch.com/posts/intro-to-micro-optimization/)
-- [Could an electrical pandemic destroy shipping?](https://gcaptain.com/could-an-electrical-pandemic-destroy-shipping/)
-- [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
-- [Rails authentication from scratch](https://stevepolito.design/blog/rails-authentication-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
