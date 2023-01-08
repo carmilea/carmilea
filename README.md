@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT wrote the following poem for me about Kubernetes](https://news.ycombinator.com/item?id=34296505)
+- [Former Fed Chairman: Crypto Is &quot;Too Dependent on the Greater Fool Theory&quot; [pdf]](https://acmwealth.com/wp-content/uploads/2023/01/ACM_AG_Article_JAN_-2023.pdf)
+- [Cheap, sustainable hydrogen through solar power](https://news.umich.edu/cheap-sustainable-hydrogen-through-solar-power/)
+- [Ask HN: How to move from traditional tech into game dev?](https://news.ycombinator.com/item?id=34295863)
 - [If you like startups you should love anti-trust](https://alexwrites.substack.com/p/if-you-like-startups-you-should-love)
-- [U.S. gov&#39;t announces intent to slash citizenship renunciation fee by four-fifths](https://www.americanexpatfinance.com/news/item/1089-us-govt-announces-intent-to-slash-citizenship-renunciation-fee)
-- [Tilck – A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
-- [Challenges with capturing and storing rainwater for drought in California](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
-- [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
 <!-- BLOG-POST-LIST:END -->
 
 ---
