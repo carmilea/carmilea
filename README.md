@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian demonstrators break through the blockade and invade Congress](https://www.cnnbrasil.com.br/politica/manifestantes-furam-bloqueio-e-entram-na-esplanada-em-brasilia/)
+- [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
+- [Rails Authentication from Scratch](https://stevepolito.design/blog/rails-authentication-from-scratch/)
 - [Teaching Notes, Slides, &amp; Handouts using org-mode and LaTeX](https://www.colinmclear.net/posts/teaching-notes/)
 - [Linux Touchpad like MacBook Update: 2022 progress and new poll](https://www.gitclear.com/blog/linux_touchpad_update_january_2023)
-- [Ask HN: How to learn business being a software engineer](https://news.ycombinator.com/item?id=34300896)
-- [Owl: A toolkit for writing command-line user interfaces in Elixir](https://hexdocs.pm/owl/readme.html)
-- [My Encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
