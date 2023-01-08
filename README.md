@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazilian demonstrators break through the blockade and invade Congress](https://www.cnnbrasil.com.br/politica/manifestantes-furam-bloqueio-e-entram-na-esplanada-em-brasilia/)
+- [Detailed list of USB WiFi adapters that work well with Linux](https://github.com/morrownr/USB-WiFi)
+- [Introduction to micro-optimization](https://specbranch.com/posts/intro-to-micro-optimization/)
+- [Could an electrical pandemic destroy shipping?](https://gcaptain.com/could-an-electrical-pandemic-destroy-shipping/)
 - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
-- [Rails Authentication from Scratch](https://stevepolito.design/blog/rails-authentication-from-scratch/)
-- [Teaching Notes, Slides, &amp; Handouts using org-mode and LaTeX](https://www.colinmclear.net/posts/teaching-notes/)
-- [Linux Touchpad like MacBook Update: 2022 progress and new poll](https://www.gitclear.com/blog/linux_touchpad_update_january_2023)
+- [Rails authentication from scratch](https://stevepolito.design/blog/rails-authentication-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
