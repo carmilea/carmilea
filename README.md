@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
+- [SJ police recover stolen cars using license-plate recognition and helicopter](https://www.kron4.com/news/bay-area/san-jose-police-recover-three-stolen-cars-using-license-plate-recognition-and-helicopter/)
+- [Step by step guide to becoming a modern back end developer in 2023](https://roadmap.sh/backend/)
 - [Universe 25, 1968–1973](https://www.the-scientist.com/foundations/universe-25-1968-1973-69941)
 - [Shorting Tether for Fun and Profit](https://fakemoneynews.substack.com/p/shorting-tether-for-fun-and-profit)
-- [It&#39;s Plausible, but Is It True?](https://www.atomic14.com/2023/01/08/prioritising-plausability-over-truthfullness.html)
-- [The Art of LaTeX: Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
-- [Cupcake Land – Requiem for the Midwest in the Key of Vanilla &lpar;1987&rpar; [pdf]](http://plaza.ufl.edu/atalbot/2007/enc1101/_Media/cupcakeland.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
