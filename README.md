@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: DarkSky Alternatives?](https://news.ycombinator.com/item?id=34295443)
 - [Tilck – A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
-- [California is getting drenched. So why can&#39;t it save water for the drought?](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
-- [Oxygene Pt. 4 by Jean-Michel Jarre, Performed by 19KB of JavaScript Code](https://dittytoy.net/ditty/24373308b4)
+- [Challenges with capturing and storing rainwater for drought in California](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
 - [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
+- [Will You Help Me Repair My Door [video]](https://www.youtube.com/watch?v=oponIfu5L3Y)
+- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
