@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California is getting drenched. So why can&#39;t it save water for the drought?](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
+- [Oxygene Pt. 4 by Jean-Michel Jarre, Performed by 19KB of JavaScript Code](https://dittytoy.net/ditty/24373308b4)
 - [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
 - [Afroman – Will You Help Me Repair My Door &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=oponIfu5L3Y)
 - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
-- [The i3-gaps project has been merged with i3](https://github.com/Airblader/i3)
-- [Jailbroken iOS can&#39;t run macOS apps – I spent a week to find out why &lpar;2021&rpar;](https://worthdoingbadly.com/macappsios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
