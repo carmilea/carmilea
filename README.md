@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job](https://www.nytimes.com/2023/01/08/us/hamline-university-islam-prophet-muhammad.html)
 - [Tax System in the Faroe Islands: what America and the world can learn from it](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/)
+- [Plover](https://www.openstenoproject.org/plover/)
 - [How Organisms Come to Know the World: Fundamental Limits on AGI](https://www.frontiersin.org/articles/10.3389/fevo.2021.806283/full)
 - [Gimel Studio: Non-destructive, 2D image editor](https://gimelstudio.github.io/)
-- [The DIY Scientist, the Olympian, and the Mutated Gene &lpar;2016&rpar;](https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
