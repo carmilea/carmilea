@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Ads Be GDPR Compliant?](https://www.jefftk.com/p/can-ads-be-gdpr-compliant)
-- [Twitter Layoffs Continue into 2023](https://www.timesnownews.com/business-economy/companies/twitter-layoffs-continue-into-2023-content-moderation-teams-in-singapore-dublin-see-job-cuts-article-96829367)
-- [Tax System in the Faroe Islands: what America and the world can learn from it](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/)
-- [Plover](https://www.openstenoproject.org/plover/)
-- [How Organisms Come to Know the World: Fundamental Limits on AGI](https://www.frontiersin.org/articles/10.3389/fevo.2021.806283/full)
+- [It&#39;s Plausible, but Is It True?](https://www.atomic14.com/2023/01/08/prioritising-plausability-over-truthfullness.html)
+- [The Art of LaTeX: Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
+- [Game prototype using AI assisted graphics](https://www.traffickinggame.com/ai-assisted-graphics/)
+- [Can ads be GDPR compliant?](https://www.jefftk.com/p/can-ads-be-gdpr-compliant)
+- [Tax System in the Faroe Islands: What America and the world can learn from it](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
