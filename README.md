@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you like startups you should love anti-trust](https://alexwrites.substack.com/p/if-you-like-startups-you-should-love)
+- [U.S. gov&#39;t announces intent to slash citizenship renunciation fee by four-fifths](https://www.americanexpatfinance.com/news/item/1089-us-govt-announces-intent-to-slash-citizenship-renunciation-fee)
 - [Tilck – A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
 - [Challenges with capturing and storing rainwater for drought in California](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
 - [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
-- [Will You Help Me Repair My Door [video]](https://www.youtube.com/watch?v=oponIfu5L3Y)
-- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
