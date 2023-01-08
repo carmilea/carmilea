@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teaching Notes, Slides, &amp; Handouts using org-mode and LaTeX](https://www.colinmclear.net/posts/teaching-notes/)
+- [Linux Touchpad like MacBook Update: 2022 progress and new poll](https://www.gitclear.com/blog/linux_touchpad_update_january_2023)
+- [Ask HN: How to learn business being a software engineer](https://news.ycombinator.com/item?id=34300896)
+- [Owl: A toolkit for writing command-line user interfaces in Elixir](https://hexdocs.pm/owl/readme.html)
 - [My Encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
-- [SJ police recover stolen cars using license-plate recognition and helicopter](https://www.kron4.com/news/bay-area/san-jose-police-recover-three-stolen-cars-using-license-plate-recognition-and-helicopter/)
-- [Step by step guide to becoming a modern back end developer in 2023](https://roadmap.sh/backend/)
-- [Universe 25, 1968–1973](https://www.the-scientist.com/foundations/universe-25-1968-1973-69941)
-- [Shorting Tether for Fun and Profit](https://fakemoneynews.substack.com/p/shorting-tether-for-fun-and-profit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
