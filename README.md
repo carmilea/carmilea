@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping the World’s River Basins by Continent](https://www.visualcapitalist.com/cp/mapping-the-worlds-river-basins-by-continent/)
+- [A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job](https://www.nytimes.com/2023/01/08/us/hamline-university-islam-prophet-muhammad.html)
+- [Tax System in the Faroe Islands: what America and the world can learn from it](https://prospect.org/world/best-tax-system-on-earth-faroe-islands/)
+- [How Organisms Come to Know the World: Fundamental Limits on AGI](https://www.frontiersin.org/articles/10.3389/fevo.2021.806283/full)
+- [Gimel Studio: Non-destructive, 2D image editor](https://gimelstudio.github.io/)
 - [The DIY Scientist, the Olympian, and the Mutated Gene &lpar;2016&rpar;](https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation)
-- [Disruptive effects on the lips of horn players seated too close to the timpani](https://newt.phys.unsw.edu.au/jw/timpani-horn/timpani-horn.html)
-- [OOP in C](http://staff.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html)
-- [PhotoRoom Is Hiring a Fullstack API Developer &lpar;OpenAPI, Python, React&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
