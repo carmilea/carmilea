@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Since when is everything a scam?](https://news.ycombinator.com/item?id=34297364)
-- [The DIY Scientist, the Olympian, and the Mutated Gene](https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation)
+- [Mapping the World’s River Basins by Continent](https://www.visualcapitalist.com/cp/mapping-the-worlds-river-basins-by-continent/)
+- [The DIY Scientist, the Olympian, and the Mutated Gene &lpar;2016&rpar;](https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation)
 - [Disruptive effects on the lips of horn players seated too close to the timpani](https://newt.phys.unsw.edu.au/jw/timpani-horn/timpani-horn.html)
-- [ChatGPT: How many letters has the string “djsjcnnrjfkalcr”?](https://news.ycombinator.com/item?id=34296983)
 - [OOP in C](http://staff.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html)
+- [PhotoRoom Is Hiring a Fullstack API Developer &lpar;OpenAPI, Python, React&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
