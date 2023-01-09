@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Native Diary #4 – Java, OpenTelemetry, Carvel](https://www.thomasvitale.com/cloud-native-diary-4/)
-- [Fake it until you automate it](https://understandlegacycode.com/blog/fake-it-until-you-automate-it/)
-- [Logging Practices I Follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
-- [Mind Your Own Business Act of 2021](https://www.congress.gov/bill/117th-congress/senate-bill/1444)
-- [Raiders of the Lost Ark turns 40, and is still an unqualified masterpiece &lpar;2021&rpar;](https://arstechnica.com/gaming/2021/06/raiders-of-the-lost-ark-turns-40-and-its-still-an-unqualified-masterpiece/)
+- [Kable &lpar;YC W22&rpar; Is Hiring Lead Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/kable/jobs)
+- [How to store your app&#39;s entire state in the url](https://www.scottantipa.com/store-app-state-in-urls)
+- [R3 RADIO BLACKOUT 7:57 P.M. EDT January 5, 2023](https://www.swpc.noaa.gov/news/r3-radio-blackout-757-pm-edt-january-5-2023)
+- [Japan, US to step up cooperation in developing next-generation nuclear reactors](https://asianews.network/japan-us-to-step-up-cooperation-in-developing-next-generation-nuclear-reactors/)
+- [Show HN: HyperLogLog in Zig](https://github.com/axiomhq/zig-hyperloglog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
