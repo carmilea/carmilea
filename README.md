@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- [Microsoft’s new text-to-speech model can duplicate anyone&#39;s voice in 3 seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/)
+- [“The current climate in AI has so many parallels to 2021 Web3”](https://twitter.com/fchollet/status/1612142423425138688)
 - [Cooking on gas could be behind kids&#39; asthma symptoms](https://nltimes.nl/2023/01/09/cooking-gas-behind-70000-kids-asthma-symptoms)
 - [Vim: ZZ and zz: Do you know the difference?](https://www.programmerhat.com/vim-zz/)
-- [Raspberry Pi Camera Module 3 released](https://www.raspberrypi.com/news/new-autofocus-camera-modules/)
-- [GPT Takes the Bar Exam](https://github.com/mjbommar/gpt-takes-the-bar-exam)
-- [Gail.com FAQ](https://gail.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
