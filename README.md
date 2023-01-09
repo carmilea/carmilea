@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What good sources of information on ovarian cancer treatments?](https://news.ycombinator.com/item?id=34305805)
+- [And Just Like That, America Becomes More Rural](https://www.wsj.com/articles/and-just-like-that-america-becomes-more-rural-11672963347)
 - [Reintroducing bison on tallgrass prairie doubles plant diversity](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
 - [Furby source code &lpar;1998&rpar;](https://archive.org/details/furby-source)
 - [Safari is released to the world &lpar;2013&rpar;](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
-- [Unbricking a Bios-Bricked Motherboard](https://davidesnotes.com/shorts/1/)
-- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
