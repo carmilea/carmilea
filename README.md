@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing layout – problems with Haskell&#39;s syntax](https://abby.how/posts/parsing-layout.html)
+- [Raspberry Pi Camera Module 3 released](https://www.raspberrypi.com/news/new-autofocus-camera-modules/)
+- [GPT Takes the Bar Exam](https://github.com/mjbommar/gpt-takes-the-bar-exam)
+- [Gail.com FAQ](https://gail.com/)
+- [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
 - [Reverse Engineering TikTok&#39;s VM Obfuscation &lpar;Part 2&rpar;](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
-- [My mom left behind some number code](https://puzzling.stackexchange.com/questions/119277/my-dead-mom-left-behind-some-number-code)
-- [Social Quitting](https://locusmag.com/2023/01/commentary-cory-doctorow-social-quitting/)
-- [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
