@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tetris Is Capable of Universal Computation](https://meatfighter.com/tetromino-computer/)
+- [I don&#39;t read web articles anymore, but I read books](https://news.ycombinator.com/item?id=34309671)
+- [James Webb Telescope reveals Milky Way–like galaxies in young universe](https://phys.org/news/2023-01-james-webb-telescope-reveals-milky.html)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
 - [Microsoft’s new text-to-speech model can duplicate anyone&#39;s voice in 3 seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/)
-- [“The current climate in AI has so many parallels to 2021 Web3”](https://twitter.com/fchollet/status/1612142423425138688)
-- [Cooking on gas could be behind kids&#39; asthma symptoms](https://nltimes.nl/2023/01/09/cooking-gas-behind-70000-kids-asthma-symptoms)
-- [Vim: ZZ and zz: Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
