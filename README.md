@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data pipelines are not workflows](https://dagster.io/blog/declarative-scheduling)
 - [We&#39;re wasting money by only supporting gzip for raw DNA files](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/)
 - [Dilution of expertise in the rise and fall of collective innovation](https://www.nature.com/articles/s41599-022-01380-5)
-- [Ask HN: Did HN just start using Google recaptcha for logins?](https://news.ycombinator.com/item?id=34312937)
 - [Values and Objects in Programming Languages &lpar;1982&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/988164.988172)
 - [Kable &lpar;YC W22&rpar; Is Hiring Lead Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/kable/jobs)
 <!-- BLOG-POST-LIST:END -->
