@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The first time I&#39;m aware that Meta is taking back signed, FTE offers](https://twitter.com/gergelyorosz/status/1612565777407938560)
-- [“I measured the pollution from my gas stove. It was bad.”](https://www.distilled.earth/p/i-measured-the-pollution-from-my)
-- [An Analysis of Deaths in U.S. National Parks](https://www.psbr.law/nevada/deaths-in-us-national-parks/)
-- [Conservative group targets migrant cell phone data, raising privacy concerns](https://www.tpr.org/border-immigration/2023-01-06/conservative-group-targets-migrant-cell-phone-data-at-ngos-raising-privacy-concerns)
-- [Texas Records All Inmates Last Words Before Execution And Puts Them All Online](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
+- [I measured the pollution from my gas stove](https://www.distilled.earth/p/i-measured-the-pollution-from-my)
+- [Just: A Command Runner](https://github.com/casey/just)
+- [Tomu – A tiny ARM microprocessor which fits in your USB port](https://tomu.im/)
+- [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
