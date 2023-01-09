@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll: Has Musk Influenced Your Decision on Buying a Tesla?](https://news.ycombinator.com/item?id=34306263)
+- [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
+- [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
 - [Ask HN: What good sources of information on ovarian cancer treatments?](https://news.ycombinator.com/item?id=34305805)
-- [And Just Like That, America Becomes More Rural](https://www.wsj.com/articles/and-just-like-that-america-becomes-more-rural-11672963347)
-- [Reintroducing bison on tallgrass prairie doubles plant diversity](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
-- [Furby source code &lpar;1998&rpar;](https://archive.org/details/furby-source)
-- [Safari is released to the world &lpar;2013&rpar;](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
+- [Reintroducing bison on tallgrass prairie doubles plant diversity: research](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
