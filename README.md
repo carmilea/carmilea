@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Native Diary #4 – Java, OpenTelemetry, Carvel](https://www.thomasvitale.com/cloud-native-diary-4/)
+- [Fake it until you automate it](https://understandlegacycode.com/blog/fake-it-until-you-automate-it/)
+- [Logging Practices I Follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
 - [Mind Your Own Business Act of 2021](https://www.congress.gov/bill/117th-congress/senate-bill/1444)
-- [Sourcehut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
-- [&#39;Terminator&#39; 1 and 2 Save Their Reveals for the Right Time](https://textualvariations.substack.com/p/terminator-thoughts)
-- [Use OpenZiti to secure your monitoring](https://blog.openziti.io/zero-trust-monitoring-with-openziti)
-- [Identity Thieves Bypassed Experian Security to View Credit Reports](https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/)
+- [Raiders of the Lost Ark turns 40, and is still an unqualified masterpiece &lpar;2021&rpar;](https://arstechnica.com/gaming/2021/06/raiders-of-the-lost-ark-turns-40-and-its-still-an-unqualified-masterpiece/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
