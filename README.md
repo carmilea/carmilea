@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris Is Capable of Universal Computation](https://meatfighter.com/tetromino-computer/)
+- [U.S. safety agency to consider ban on gas stoves amid health fears](https://www.bloomberg.com/news/articles/2023-01-09/us-safety-agency-to-consider-ban-on-gas-stoves-amid-health-fears)
+- [‘That Girl Is Going to Get Herself Killed’](https://longreads.com/2022/11/15/death-in-national-parks/)
+- [Tetris is capable of universal computation](https://meatfighter.com/tetromino-computer/)
 - [I don&#39;t read web articles anymore, but I read books](https://news.ycombinator.com/item?id=34309671)
 - [James Webb Telescope reveals Milky Way–like galaxies in young universe](https://phys.org/news/2023-01-james-webb-telescope-reveals-milky.html)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- [Microsoft’s new text-to-speech model can duplicate anyone&#39;s voice in 3 seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
