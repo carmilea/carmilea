@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim: ZZ and zz: Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 - [Raspberry Pi Camera Module 3 released](https://www.raspberrypi.com/news/new-autofocus-camera-modules/)
 - [GPT Takes the Bar Exam](https://github.com/mjbommar/gpt-takes-the-bar-exam)
 - [Gail.com FAQ](https://gail.com/)
 - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
-- [Reverse Engineering TikTok&#39;s VM Obfuscation &lpar;Part 2&rpar;](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
