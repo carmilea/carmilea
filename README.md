@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering TikTok&#39;s VM Obfuscation &lpar;Part 2&rpar;](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
+- [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
 - [McMaster-Carr: A refreshingly fast, thoughtful, and well-organized website](https://www.mcmaster.com/)
 - [My mom left behind some number code](https://puzzling.stackexchange.com/questions/119277/my-dead-mom-left-behind-some-number-code)
 - [Doctorow: Social Quitting](https://locusmag.com/2023/01/commentary-cory-doctorow-social-quitting/)
-- [Branchless Workflow for Git](https://github.com/arxanas/git-branchless)
-- [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
