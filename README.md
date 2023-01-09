@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data pipelines are not workflows](https://dagster.io/blog/declarative-scheduling)
-- [We&#39;re wasting money by only supporting gzip for raw DNA files](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/)
-- [Dilution of expertise in the rise and fall of collective innovation](https://www.nature.com/articles/s41599-022-01380-5)
-- [Values and Objects in Programming Languages &lpar;1982&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/988164.988172)
-- [Kable &lpar;YC W22&rpar; Is Hiring Lead Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/kable/jobs)
+- [Show HN: Product analytics on your data warehouse](https://github.com/fabra-io/fabra-analytics)
+- [England just made gigabit internet a legal requirement for new homes](https://www.theverge.com/2023/1/9/23546401/gigabit-internet-broadband-england-new-homes-policy)
+- [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
+- [An Open Letter on the Open Gaming License, to Wizards of the Coast](https://www.opendnd.games)
+- [Raspberry Pi&#39;s Camera Module 3 adds autofocus and new Sony sensor](https://www.jeffgeerling.com/blog/2023/raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
