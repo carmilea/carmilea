@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McMaster-Carr: A refreshingly fast, thoughtful, and well-organized website](https://www.mcmaster.com/)
+- [My mom left behind some number code](https://puzzling.stackexchange.com/questions/119277/my-dead-mom-left-behind-some-number-code)
+- [Doctorow: Social Quitting](https://locusmag.com/2023/01/commentary-cory-doctorow-social-quitting/)
+- [Branchless Workflow for Git](https://github.com/arxanas/git-branchless)
 - [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
-- [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
-- [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
-- [Deere to allow farmers to repair their own equipment](https://www.wsj.com/articles/deere-to-allow-farmers-to-repair-their-own-equipment-11673228580)
-- [Reintroducing bison on tallgrass prairie doubles plant diversity: research](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
