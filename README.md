@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Product analytics on your data warehouse](https://github.com/fabra-io/fabra-analytics)
+- [Texas Records All Inmates Last Words Before Execution And Puts Them All Online](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
+- [Tomu – A family of devices which fit inside your USB port](https://tomu.im/)
+- [Show HN: How to create a 3D space using CSS](https://garden.bradwoods.io/notes/css/3d)
 - [England just made gigabit internet a legal requirement for new homes](https://www.theverge.com/2023/1/9/23546401/gigabit-internet-broadband-england-new-homes-policy)
 - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
-- [An Open Letter on the Open Gaming License, to Wizards of the Coast](https://www.opendnd.games)
-- [Raspberry Pi&#39;s Camera Module 3 adds autofocus and new Sony sensor](https://www.jeffgeerling.com/blog/2023/raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
