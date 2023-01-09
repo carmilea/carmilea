@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The first time I&#39;m aware that Meta is taking back signed, FTE offers](https://twitter.com/gergelyorosz/status/1612565777407938560)
+- [“I measured the pollution from my gas stove. It was bad.”](https://www.distilled.earth/p/i-measured-the-pollution-from-my)
+- [An Analysis of Deaths in U.S. National Parks](https://www.psbr.law/nevada/deaths-in-us-national-parks/)
+- [Conservative group targets migrant cell phone data, raising privacy concerns](https://www.tpr.org/border-immigration/2023-01-06/conservative-group-targets-migrant-cell-phone-data-at-ngos-raising-privacy-concerns)
 - [Texas Records All Inmates Last Words Before Execution And Puts Them All Online](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
-- [Tomu – A family of devices which fit inside your USB port](https://tomu.im/)
-- [Show HN: How to create a 3D space using CSS](https://garden.bradwoods.io/notes/css/3d)
-- [England just made gigabit internet a legal requirement for new homes](https://www.theverge.com/2023/1/9/23546401/gigabit-internet-broadband-england-new-homes-policy)
-- [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
