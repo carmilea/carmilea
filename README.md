@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cooking on gas could be behind kids&#39; asthma symptoms](https://nltimes.nl/2023/01/09/cooking-gas-behind-70000-kids-asthma-symptoms)
 - [Vim: ZZ and zz: Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 - [Raspberry Pi Camera Module 3 released](https://www.raspberrypi.com/news/new-autofocus-camera-modules/)
 - [GPT Takes the Bar Exam](https://github.com/mjbommar/gpt-takes-the-bar-exam)
 - [Gail.com FAQ](https://gail.com/)
-- [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
