@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. safety agency to consider ban on gas stoves amid health fears](https://www.bloomberg.com/news/articles/2023-01-09/us-safety-agency-to-consider-ban-on-gas-stoves-amid-health-fears)
-- [‘That Girl Is Going to Get Herself Killed’](https://longreads.com/2022/11/15/death-in-national-parks/)
-- [Tetris is capable of universal computation](https://meatfighter.com/tetromino-computer/)
-- [I don&#39;t read web articles anymore, but I read books](https://news.ycombinator.com/item?id=34309671)
-- [James Webb Telescope reveals Milky Way–like galaxies in young universe](https://phys.org/news/2023-01-james-webb-telescope-reveals-milky.html)
+- [Mind Your Own Business Act of 2021](https://www.congress.gov/bill/117th-congress/senate-bill/1444)
+- [Sourcehut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
+- [&#39;Terminator&#39; 1 and 2 Save Their Reveals for the Right Time](https://textualvariations.substack.com/p/terminator-thoughts)
+- [Use OpenZiti to secure your monitoring](https://blog.openziti.io/zero-trust-monitoring-with-openziti)
+- [Identity Thieves Bypassed Experian Security to View Credit Reports](https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
