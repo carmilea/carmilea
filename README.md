@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: Has Musk Influenced Your Decision on Buying a Tesla?](https://news.ycombinator.com/item?id=34306263)
 - [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
+- [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
 - [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
-- [Ask HN: What good sources of information on ovarian cancer treatments?](https://news.ycombinator.com/item?id=34305805)
+- [Deere to allow farmers to repair their own equipment](https://www.wsj.com/articles/deere-to-allow-farmers-to-repair-their-own-equipment-11673228580)
 - [Reintroducing bison on tallgrass prairie doubles plant diversity: research](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
 <!-- BLOG-POST-LIST:END -->
 
