@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re wasting money by only supporting gzip for raw DNA files](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/)
+- [Dilution of expertise in the rise and fall of collective innovation](https://www.nature.com/articles/s41599-022-01380-5)
+- [Ask HN: Did HN just start using Google recaptcha for logins?](https://news.ycombinator.com/item?id=34312937)
+- [Values and Objects in Programming Languages &lpar;1982&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/988164.988172)
 - [Kable &lpar;YC W22&rpar; Is Hiring Lead Engineer &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/kable/jobs)
-- [How to store your app&#39;s entire state in the url](https://www.scottantipa.com/store-app-state-in-urls)
-- [R3 RADIO BLACKOUT 7:57 P.M. EDT January 5, 2023](https://www.swpc.noaa.gov/news/r3-radio-blackout-757-pm-edt-january-5-2023)
-- [Japan, US to step up cooperation in developing next-generation nuclear reactors](https://asianews.network/japan-us-to-step-up-cooperation-in-developing-next-generation-nuclear-reactors/)
-- [Show HN: HyperLogLog in Zig](https://github.com/axiomhq/zig-hyperloglog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
