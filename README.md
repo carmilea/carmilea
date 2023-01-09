@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portugal’s digital nomad bubble poised to pop](https://www.politico.eu/article/portugal-digital-nomads-bubble-gentrification/)
-- [Ask HN: How do you install not the latest iOS version?](https://news.ycombinator.com/item?id=34303543)
+- [Reintroducing bison on tallgrass prairie doubles plant diversity](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
+- [Furby source code &lpar;1998&rpar;](https://archive.org/details/furby-source)
+- [Safari is released to the world &lpar;2013&rpar;](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
+- [Unbricking a Bios-Bricked Motherboard](https://davidesnotes.com/shorts/1/)
 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/4004540006)
-- [Finding Fulfillment](https://longform.asmartbear.com/docs/fulfillment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
