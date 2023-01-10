@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Other Devs, How Do You Deal with Socials, Blogging, etc.](https://news.ycombinator.com/item?id=34322610)
-- [Health Services as Credence Goods: a Field Experiment &lpar;2020&rpar;](https://academic.oup.com/ej/article-abstract/130/629/1346/5766223?redirectedFrom=fulltext)
-- [We asked ChatGPT to write a Sherlock Holmes mystery](https://www.vixus.co/articles/we-asked-chatgpt-to-write-a-sherlock-holmes-story)
-- [The AMD Ryzen 9 7900, Ryzen 7 7700, and Ryzen 5 5 7600 Review: Zen 4 at 65 Watts](https://www.anandtech.com/show/18693/the-amd-ryzen-9-7900-ryzen-7-7700-and-ryzen-5-5-7600-review-ryzen-7000-at-65-w-zen-4-efficiency)
-- [Could robots do the work of master marble sculptors? This one is “99%” there](https://www.cbsnews.com/news/robots-marble-sculpture-carrara-italy-robotics-art/)
+- [PolicyFly &lpar;YC W22&rpar; Is Hiring an EM to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
+- [UK: Excess deaths in 2022 among worst in 50 years](https://www.bbc.co.uk/news/health-64209221)
+- [Coinbase cuts staff by a further 20%](https://www.coinbase.com/blog/a-message-from-ceo-and-co-founder-brian-armstrong-to-coinbase-employees)
+- [Faster PostgresSQL to BigQuery Transfers](https://tech.marksblogg.com/postgresql-to-bigquery.html)
+- [Show HN: Python framework is faster than Golang Fiber](https://github.com/cirospaciari/socketify.py)
 <!-- BLOG-POST-LIST:END -->
 
 ---
