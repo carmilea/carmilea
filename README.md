@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intermittent Fasting Completely Reverses Type 2 Diabetes in Study](https://scitechdaily.com/intermittent-fasting-completely-reverses-type-2-diabetes-in-study/)
+- [Years in Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/)
 - [Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring](https://galmon.eu/)
 - [Elastic Cloud password complexity has an “OR” condition](https://www.dropbox.com/s/mk4e0m73lqjayp1/password_or_condition.png?dl=0)
+- [The mistake that killed Japan’s software industry](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
 - [Names should be cute, not descriptive](https://ntietz.com/blog/name-your-projects-cutesy-things/)
-- [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
