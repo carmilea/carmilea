@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Work life balance is impossible](https://blog.nateliason.com/p/work-life-balance)
-- [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
-- [Untraceable 3D-printed guns on the rise in Canada](https://www.cbc.ca/news/canada/3d-printed-guns-canada-increase-1.6708049)
-- [Email Validation Logic is Wrong &lpar;2021&rpar;](https://www.netmeister.org/blog/email.html)
-- [Ribbon &lpar;YC S17&rpar; is hiring values-driven engineers to help patients find care](https://www.keyvalues.com/ribbon-health)
+- [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
+- [Ask HN: At 45, I can&#39;t seem to read as well anymore](https://news.ycombinator.com/item?id=34329349)
+- [SingleStore Named Select Launch Partner for Intel Sapphire Rapids](https://www.singlestore.com/blog/singlestore-launch-partner-intel-sapphire-rapids)
+- [8086 Processor&#39;s microcode pipeline from die analysis](https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
+- [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
