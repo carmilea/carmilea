@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can GPT Pass the Bar Exam?](https://matthewminer.name/blog/can-ai-pass-the-bar-exam)
+- [Binance Is Bleeding Assets, $12B Gone in Less Than 60 Days](https://www.forbes.com/sites/javierpaz/2023/01/09/binance-is-bleeding-assets-12-billion-gone-in-less-than-60-days/)
+- [Can GPT pass the bar exam?](https://matthewminer.name/blog/can-ai-pass-the-bar-exam)
 - [Microsoft eyes $10B bet on ChatGPT](https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt)
 - [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
-- [Interactive California Reservoir Levels Dashboard](https://engaging-data.com/ca-reservoir-dashboard/)
-- [Old man yells at cloud](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
+- [Handling 100K Consumers with One Pulsar Topic](https://streamnative.io/blog/case/2023-01-10-handling-100k-consumers-with-one-pulsar-topic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
