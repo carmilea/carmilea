@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I&#39;m 40 and feel my mental ability declining. Programming seems harder](https://news.ycombinator.com/item?id=34324567)
-- [Tell HN: We Need Robots.txt but for AI](https://news.ycombinator.com/item?id=34324208)
-- [It’s not just what you eat, but the time of day you eat it](https://www.washingtonpost.com/wellness/2023/01/10/meal-timing-big-meals/)
-- [Rackspace founder says it’s ‘on trajectory of death.’](https://www.expressnews.com/business/article/Rackspace-Yoo-ransomware-attack-17703197.php)
-- [PolicyFly &lpar;YC W22&rpar; Is Hiring an EM to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
+- [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
+- [Ask HN: Where to get help with a hardware idea?](https://news.ycombinator.com/item?id=34325633)
+- [Microsoft in talks to acquire a 49% stake in ChatGPT owner OpenAI](https://watcher.guru/news/microsoft-plans-to-acquire-a-49-stake-in-chatgpt-owner-openai)
+- [AMD Alveo V70 AI inference accelerator card](https://www.xilinx.com/applications/data-center/v70.html)
+- [Ask HN: I&#39;m 40 and feel my mental ability declining. Programming seems harder.](https://news.ycombinator.com/item?id=34324567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
