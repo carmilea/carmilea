@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A patient without cavities visits 180 dentists](https://academic.oup.com/ej/article-abstract/130/629/1346/5766223?redirectedFrom=fulltext)
-- [Sherlock Holmes is now in public domain.We asked ChatGPT to write a new mystery](https://www.vixus.co/articles/we-asked-chatgpt-to-write-a-sherlock-holmes-story)
+- [Ask HN: Other Devs, How Do You Deal with Socials, Blogging, etc.](https://news.ycombinator.com/item?id=34322610)
+- [Health Services as Credence Goods: a Field Experiment &lpar;2020&rpar;](https://academic.oup.com/ej/article-abstract/130/629/1346/5766223?redirectedFrom=fulltext)
+- [We asked ChatGPT to write a Sherlock Holmes mystery](https://www.vixus.co/articles/we-asked-chatgpt-to-write-a-sherlock-holmes-story)
 - [The AMD Ryzen 9 7900, Ryzen 7 7700, and Ryzen 5 5 7600 Review: Zen 4 at 65 Watts](https://www.anandtech.com/show/18693/the-amd-ryzen-9-7900-ryzen-7-7700-and-ryzen-5-5-7600-review-ryzen-7000-at-65-w-zen-4-efficiency)
 - [Could robots do the work of master marble sculptors? This one is “99%” there](https://www.cbsnews.com/news/robots-marble-sculpture-carrara-italy-robotics-art/)
-- [Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
