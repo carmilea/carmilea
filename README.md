@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
+- [Interactive California Reservoir Levels Dashboard](https://engaging-data.com/ca-reservoir-dashboard/)
 - [Old man yells at cloud](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
 - [UPS and the Package Wars](https://www.newyorker.com/magazine/2023/01/16/can-ups-still-deliver-a-middle-class-life)
 - [Extending the Android SDK](https://android-developers.googleblog.com/2023/01/extending-android-sdk.html)
-- [Fyrox Game Engine 0.29](https://fyrox.rs/blog/post/feature-highlights-0-29/)
-- [Visualizing the Inside of Cells at Previously Impossible Resolutions Provides Vi](https://singularityhub.com/2023/01/09/visualizing-the-inside-of-cells-at-previously-impossible-resolutions-provides-vivid-insights-into-how-they-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
