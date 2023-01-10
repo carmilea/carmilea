@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pirate Weather: A Free, Open, and Documented Forecast API](https://pirateweather.net/)
 - [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
 - [Ask HN: At 45, I can&#39;t seem to read as well anymore](https://news.ycombinator.com/item?id=34329349)
 - [SingleStore Named Select Launch Partner for Intel Sapphire Rapids](https://www.singlestore.com/blog/singlestore-launch-partner-intel-sapphire-rapids)
 - [8086 Processor&#39;s microcode pipeline from die analysis](https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
-- [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
