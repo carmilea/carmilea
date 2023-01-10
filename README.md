@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance Is Bleeding Assets, $12B Gone in Less Than 60 Days](https://www.forbes.com/sites/javierpaz/2023/01/09/binance-is-bleeding-assets-12-billion-gone-in-less-than-60-days/)
-- [Can GPT pass the bar exam?](https://matthewminer.name/blog/can-ai-pass-the-bar-exam)
-- [Microsoft eyes $10B bet on ChatGPT](https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt)
+- [Intermittent Fasting Completely Reverses Type 2 Diabetes in Study](https://scitechdaily.com/intermittent-fasting-completely-reverses-type-2-diabetes-in-study/)
+- [Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring](https://galmon.eu/)
+- [Elastic Cloud password complexity has an “OR” condition](https://www.dropbox.com/s/mk4e0m73lqjayp1/password_or_condition.png?dl=0)
+- [Names should be cute, not descriptive](https://ntietz.com/blog/name-your-projects-cutesy-things/)
 - [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
-- [Handling 100K Consumers with One Pulsar Topic](https://streamnative.io/blog/case/2023-01-10-handling-100k-consumers-with-one-pulsar-topic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
