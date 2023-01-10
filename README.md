@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I&#39;m 40 and feel my mental ability declining. Programming seems harder](https://news.ycombinator.com/item?id=34324567)
 - [Tell HN: We Need Robots.txt but for AI](https://news.ycombinator.com/item?id=34324208)
 - [It’s not just what you eat, but the time of day you eat it](https://www.washingtonpost.com/wellness/2023/01/10/meal-timing-big-meals/)
-- [A UK Minister Photoshopped the ex-PM from a rocket mission](https://twitter.com/youngvulgarian/status/1612772963224358912)
+- [Rackspace founder says it’s ‘on trajectory of death.’](https://www.expressnews.com/business/article/Rackspace-Yoo-ransomware-attack-17703197.php)
 - [PolicyFly &lpar;YC W22&rpar; Is Hiring an EM to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
-- [Coinbase cuts staff by a further 20%](https://www.coinbase.com/blog/a-message-from-ceo-and-co-founder-brian-armstrong-to-coinbase-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
