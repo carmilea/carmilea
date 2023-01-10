@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The first time I&#39;m aware that Meta is taking back signed, FTE offers](https://twitter.com/gergelyorosz/status/1612565777407938560)
-- [I measured the pollution from my gas stove](https://www.distilled.earth/p/i-measured-the-pollution-from-my)
-- [Just: A Command Runner](https://github.com/casey/just)
-- [Tomu – A tiny ARM microprocessor which fits in your USB port](https://tomu.im/)
-- [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
+- [Canada buys 88 F-35 fighter jets for $14.2B](https://www.aljazeera.com/news/2023/1/9/canada-finalises-deal-to-buy-dozens-of-f-35-fighter-jets-from-us)
+- [UPS and the Package Wars](https://www.newyorker.com/magazine/2023/01/16/can-ups-still-deliver-a-middle-class-life)
+- [Banks Are Fleeing Crypto. Bitcoin Investors Should Be Worried](https://www.barrons.com/articles/banks-fleeing-crypto-bitcoin-worried-51673278376)
+- [Fyrox Game Engine 0.29](https://fyrox.rs/blog/post/feature-highlights-0-29/)
+- [Visualizing the Inside of Cells at Previously Impossible Resolutions Provides Vi](https://singularityhub.com/2023/01/09/visualizing-the-inside-of-cells-at-previously-impossible-resolutions-provides-vivid-insights-into-how-they-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
