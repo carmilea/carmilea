@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Lisp the Hard Way](https://llthw.common-lisp.dev/)
+- [Fewer than 40% of New Yorkers earn a living wage](https://news.cornell.edu/stories/2023/01/fewer-40-new-yorkers-earn-living-wage)
+- [‘Films are vulnerable’: the battle to preserve Eastern Europe’s analogue movies](https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films)
+- [Tech Companies Are Irrational Pop Cultures](https://softwarecrisis.dev/letters/tech-is-a-pop-culture/)
 - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
-- [Ask HN: Where to get help with a hardware idea?](https://news.ycombinator.com/item?id=34325633)
-- [Microsoft in talks to acquire a 49% stake in ChatGPT owner OpenAI](https://watcher.guru/news/microsoft-plans-to-acquire-a-49-stake-in-chatgpt-owner-openai)
-- [AMD Alveo V70 AI inference accelerator card](https://www.xilinx.com/applications/data-center/v70.html)
-- [Ask HN: I&#39;m 40 and feel my mental ability declining. Programming seems harder.](https://news.ycombinator.com/item?id=34324567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
