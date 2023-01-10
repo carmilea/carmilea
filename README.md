@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sherlock Holmes is now in public domain.We asked ChatGPT to write a new mystery](https://www.vixus.co/articles/we-asked-chatgpt-to-write-a-sherlock-holmes-story)
 - [Could robots do the work of master marble sculptors? This one is “99%” there](https://www.cbsnews.com/news/robots-marble-sculpture-carrara-italy-robotics-art/)
-- [Years in Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/)
+- [Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/)
 - [Telemetry settings in Kibana](https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html)
 - [Show HN: Ecode – A minimalist and fast open-source code editor](https://github.com/SpartanJ/ecode)
-- [Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring](https://galmon.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
