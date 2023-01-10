@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The protein that helps skin cancer spread throughout the body](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
+- [Zoom app dock: Congratulations, your app has apps in it now](https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/)
+- [NeevaAI](https://neeva.com/blog/introducing-neevaai)
+- [Researchers identify protein that helps skin cancer spread](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
 - [Jerry &lpar;YC S17&rpar; Is Hiring VP / Director of Engineering](https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a)
 - [Anthropic&#39;s Claude is said to improve on ChatGPT, but still has limitations](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/)
-- [Bringing MathML back to Chromium](https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html)
-- [Be where your business is](https://steveblank.com/2023/01/10/be-where-your-business-is/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
