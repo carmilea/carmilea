@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could robots do the work of master marble sculptors? This one is “99%” there](https://www.cbsnews.com/news/robots-marble-sculpture-carrara-italy-robotics-art/)
 - [Years in Common Lisp: 2022 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/)
+- [Telemetry settings in Kibana](https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html)
+- [Show HN: Ecode – A minimalist and fast open-source code editor](https://github.com/SpartanJ/ecode)
 - [Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring](https://galmon.eu/)
-- [Elastic Cloud password complexity has an “OR” condition](https://www.dropbox.com/s/mk4e0m73lqjayp1/password_or_condition.png?dl=0)
-- [The mistake that killed Japan’s software industry](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
-- [Names should be cute, not descriptive](https://ntietz.com/blog/name-your-projects-cutesy-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
