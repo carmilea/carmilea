@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Lisp the Hard Way](https://llthw.common-lisp.dev/)
-- [Fewer than 40% of New Yorkers earn a living wage](https://news.cornell.edu/stories/2023/01/fewer-40-new-yorkers-earn-living-wage)
-- [‘Films are vulnerable’: the battle to preserve Eastern Europe’s analogue movies](https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films)
-- [Tech Companies Are Irrational Pop Cultures](https://softwarecrisis.dev/letters/tech-is-a-pop-culture/)
-- [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
+- [Untraceable 3D-printed &#39;ghost guns&#39; on the rise in Canada](https://www.cbc.ca/news/canada/3d-printed-guns-canada-increase-1.6708049)
+- [Ribbon &lpar;YC S17&rpar; is hiring values-driven Engineers to help patients find care](https://www.keyvalues.com/ribbon-health)
+- [Ask HN: HN&#39;s login page and password manager autofill issue](https://news.ycombinator.com/item?id=34327584)
+- [The Tyranny of “The Plan” or how The Empire State was built in 8 months](https://chrisgagne.com/1255/mary-poppendiecks-the-tyranny-of-the-plan/)
+- [Animal Sedative Mixed with Fentanyl Brings Fresh Horror to US Drug Zones](https://www.nytimes.com/2023/01/07/health/fentanyl-xylazine-drug.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
