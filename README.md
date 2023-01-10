@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pirate Weather: A Free, Open, and Documented Forecast API](https://pirateweather.net/)
-- [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
-- [Ask HN: At 45, I can&#39;t seem to read as well anymore](https://news.ycombinator.com/item?id=34329349)
-- [SingleStore Named Select Launch Partner for Intel Sapphire Rapids](https://www.singlestore.com/blog/singlestore-launch-partner-intel-sapphire-rapids)
-- [8086 Processor&#39;s microcode pipeline from die analysis](https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
+- [Jerry &lpar;YC S17&rpar; Is Hiring VP / Director of Engineering](https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a)
+- [Anthropic&#39;s Claude is said to improve on ChatGPT, but still has limitations](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/)
+- [Bringing MathML back to Chromium](https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html)
+- [Be where your business is](https://steveblank.com/2023/01/10/be-where-your-business-is/)
+- [The source code for Duelyst, a digital collectible card game](https://github.com/open-duelyst/duelyst)
 <!-- BLOG-POST-LIST:END -->
 
 ---
