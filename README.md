@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Untraceable 3D-printed &#39;ghost guns&#39; on the rise in Canada](https://www.cbc.ca/news/canada/3d-printed-guns-canada-increase-1.6708049)
-- [Ribbon &lpar;YC S17&rpar; is hiring values-driven Engineers to help patients find care](https://www.keyvalues.com/ribbon-health)
-- [Ask HN: HN&#39;s login page and password manager autofill issue](https://news.ycombinator.com/item?id=34327584)
-- [The Tyranny of “The Plan” or how The Empire State was built in 8 months](https://chrisgagne.com/1255/mary-poppendiecks-the-tyranny-of-the-plan/)
-- [Animal Sedative Mixed with Fentanyl Brings Fresh Horror to US Drug Zones](https://www.nytimes.com/2023/01/07/health/fentanyl-xylazine-drug.html)
+- [Work life balance is impossible](https://blog.nateliason.com/p/work-life-balance)
+- [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
+- [Untraceable 3D-printed guns on the rise in Canada](https://www.cbc.ca/news/canada/3d-printed-guns-canada-increase-1.6708049)
+- [Email Validation Logic is Wrong &lpar;2021&rpar;](https://www.netmeister.org/blog/email.html)
+- [Ribbon &lpar;YC S17&rpar; is hiring values-driven engineers to help patients find care](https://www.keyvalues.com/ribbon-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
