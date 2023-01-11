@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Alien Grave of Aurora, Texas](https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/)
+- [Docker Support in Codesandbox](https://codesandbox.io/post/introducing-docker-support-in-codesandbox)
+- [The Style Guide for America’s Highways](https://www.beautifulpublicdata.com/the-style-guide-for-americas-highways-mutcd/)
 - [RISC-V SBC VisionFive 2 Officially Shipped](https://www.starfivetech.com/en/site/new_details/976)
 - [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
-- [We need a lot more electricians if we’re going to electrify everything](https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything)
-- [Open Source in Environmental Sustainability](https://report.opensustain.tech/chapters/index.html)
-- [Guerrilla guide to CNC machining, mold making, and resin casting &lpar;2015&rpar;](https://lcamtuf.coredump.cx/gcnc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
