@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Etleap &lpar;YC W13&rpar; Is Hiring – Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [How many AMD RX 7900 XTX&#39;s are defective?](https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective)
 - [Marshall McLuhan Explain[s] the Future of Ads and the Internet in 1966](https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet)
 - [Conc: Better Structured Concurrency for Go](https://github.com/sourcegraph/conc)
 - [Heat exchanger header with fractal geometry](https://patents.google.com/patent/US20200284532A1/en)
-- [An online IDE for visual programming in Prolog](https://github.com/toblotron/praxis-ide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
