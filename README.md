@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Actiondesk &lpar;YC S19&rpar; Is Hiring a Product Designer &lpar;4-6 months contract&rpar;](https://www.ycombinator.com/companies/actiondesk/jobs/LggjAvL-product-designer-4-6-months-contract)
 - [Secondments at Zapier](https://zapier.com/blog/secondments-at-zapier/)
-- [Mercedes Is the First Automaker to Offer Level 3 Self-Driving in the US](https://insideevs.com/news/630075/mercedes-first-to-offer-level-3-self-driving-in-the-us/)
+- [What’s better than maps or stamps? Maps on stamps](https://bigthink.com/strange-maps/maps-on-stamps/)
+- [Mercedes is the first automaker to offer Level 3 self-driving in the US](https://insideevs.com/news/630075/mercedes-first-to-offer-level-3-self-driving-in-the-us/)
 - [Yuzu Progress Report December 2022](https://yuzu-emu.org/entry/yuzu-progress-report-dec-2022/)
-- [What happens when a CPU starts](https://lateblt.tripod.com/bit68.txt)
-- [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
