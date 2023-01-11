@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Conc: Better Structured Concurrency for Go](https://github.com/sourcegraph/conc)
+- [Heat exchanger header with fractal geometry](https://patents.google.com/patent/US20200284532A1/en)
+- [An online IDE for visual programming in Prolog](https://github.com/toblotron/praxis-ide)
+- [Cantable Diffuguesion: Bach chorale generation and harmonization](https://replicate.com/andreasjansson/cantable-diffuguesion)
 - [Flexport slashes 20% of global workforce over weak 2023 volume forecast](https://theloadstar.com/flexport-slashes-20-of-global-workforce-over-weak-2023-volume-forecast/)
-- [The Spaceballs Argument for Unconditional Basic Income](https://www.scottsantens.com/the-spaceballs-argument-for-unconditional-universal-basic-income-ubi/)
-- [CNCF accepts Kubescape as its first security and compliance scanner project](https://www.sdxcentral.com/articles/interview/cncf-accepts-kubescape-as-inaugural-open-source-security-scanner/2023/01/)
-- [Show HN: Val Town – A Cloud Scripting Site](https://www.val.town/)
-- [Why Use Make &lpar;2013&rpar;](https://bost.ocks.org/mike/make/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
