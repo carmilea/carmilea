@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the lack of progress reports from the Mill project](https://millcomputing.com/topic/on-the-lack-of-progress-reports-from-the-mill-project/)
 - [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
 - [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
 - [Crypto.com will delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
 - [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
-- [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
