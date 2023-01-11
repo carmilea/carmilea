@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Use Make](https://bost.ocks.org/mike/make/)
+- [NYC Slice](https://elkue.com/nyc-slice/)
+- [Android malware from Amazon straight to your door](https://github.com/DesktopECHO/T95-H616-Malware)
+- [Apache Hudi vs. Delta Lake vs. Apache Iceberg Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
 - [The Alien Grave of Aurora, Texas](https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/)
-- [Docker Support in Codesandbox](https://codesandbox.io/post/introducing-docker-support-in-codesandbox)
-- [The Style Guide for America’s Highways](https://www.beautifulpublicdata.com/the-style-guide-for-americas-highways-mutcd/)
-- [RISC-V SBC VisionFive 2 Officially Shipped](https://www.starfivetech.com/en/site/new_details/976)
-- [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
