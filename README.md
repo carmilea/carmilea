@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Antidepressants are over-prescribed, but genuinely help some patients](https://www.economist.com/graphic-detail/2023/01/10/antidepressants-are-over-prescribed-but-genuinely-help-some-patients)
+- [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
+- [FAA NOTAM System Outage Affecting All North America Flights](https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23)
 - [Don&#39;t use Tailwind for your Design System &lpar;March  2021&rpar;](https://sancho.dev/blog/tailwind-and-design-systems)
 - [Naming Elixir Phoenix context functions](https://www.stephenlewis.me/blog/naming-phoenix-context-functions)
-- [NanoGPT](https://github.com/karpathy/nanoGPT)
-- [The Unexpected Heaviosity of Ferris Bueller’s Day Off &lpar;2006&rpar;](https://www.vqronline.org/essay/john-hughes-goes-deep-unexpected-heaviosity-ferris-bueller%E2%80%99s-day)
-- [Actiondesk &lpar;YC S19&rpar; Is Hiring a Product Designer &lpar;4-6 months contract&rpar;](https://www.ycombinator.com/companies/actiondesk/jobs/LggjAvL-product-designer-4-6-months-contract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
