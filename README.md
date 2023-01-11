@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Official: SingleStore Is Named Among Best Places to Work 2023 by Glassdoor](https://www.singlestore.com/blog/singlestore-is-a-best-place-to-work-2023/)
-- [On leading underscores and names reserved by the C and C++ languages](https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685)
-- [US Halts Flights Nationwide After Key FAA System Goes Down](https://www.bloomberg.com/news/articles/2023-01-11/us-flights-disrupted-after-outage-of-faa-pilot-advisory-system)
-- [“A Handbook of Integer Sequences” Fifty Years Later](https://arxiv.org/abs/2301.03149)
-- [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide)
+- [The CPSC is on a mission that has nothing to do with safety](https://cremieux.substack.com/p/lying-for-climate-crusading)
+- [Launch HN: IcePanel &lpar;YC W23&rpar; – Onboard engineers with explorable system designs](https://news.ycombinator.com/item?id=34338995)
+- [Mastering diverse domains through world models](https://arxiv.org/abs/2301.04104)
+- [Show HN: Kandria, an action RPG made in Common Lisp, is now out](https://store.steampowered.com/app/1261430/Kandria/)
+- [Memories: Artificial Intelligence at Stanford in the 70s](https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
