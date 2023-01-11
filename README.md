@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring – Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [Marshall McLuhan Explain[s] the Future of Ads and the Internet in 1966](https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet)
 - [Conc: Better Structured Concurrency for Go](https://github.com/sourcegraph/conc)
 - [Heat exchanger header with fractal geometry](https://patents.google.com/patent/US20200284532A1/en)
 - [An online IDE for visual programming in Prolog](https://github.com/toblotron/praxis-ide)
-- [Cantable Diffuguesion: Bach chorale generation and harmonization](https://replicate.com/andreasjansson/cantable-diffuguesion)
-- [Flexport slashes 20% of global workforce over weak 2023 volume forecast](https://theloadstar.com/flexport-slashes-20-of-global-workforce-over-weak-2023-volume-forecast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
