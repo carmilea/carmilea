@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom app dock: Congratulations, your app has apps in it now](https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/)
-- [NeevaAI](https://neeva.com/blog/introducing-neevaai)
-- [Researchers identify protein that helps skin cancer spread](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
-- [Jerry &lpar;YC S17&rpar; Is Hiring VP / Director of Engineering](https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a)
-- [Anthropic&#39;s Claude is said to improve on ChatGPT, but still has limitations](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/)
+- [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
+- [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
+- [Crypto.com Will Delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
+- [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
+- [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
