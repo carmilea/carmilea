@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the lack of progress reports from the Mill project](https://millcomputing.com/topic/on-the-lack-of-progress-reports-from-the-mill-project/)
-- [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
+- [Mercedes Is the First Automaker to Offer Level 3 Self-Driving in the US](https://insideevs.com/news/630075/mercedes-first-to-offer-level-3-self-driving-in-the-us/)
+- [Yuzu Progress Report December 2022](https://yuzu-emu.org/entry/yuzu-progress-report-dec-2022/)
+- [State of JavaScript 2022](https://2022.stateofjs.com/en-us/)
+- [What happens when a CPU starts](https://lateblt.tripod.com/bit68.txt)
 - [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
-- [Crypto.com will delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
-- [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
