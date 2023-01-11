@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Official: SingleStore Is Named Among Best Places to Work 2023 by Glassdoor](https://www.singlestore.com/blog/singlestore-is-a-best-place-to-work-2023/)
 - [On leading underscores and names reserved by the C and C++ languages](https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685)
+- [US Halts Flights Nationwide After Key FAA System Goes Down](https://www.bloomberg.com/news/articles/2023-01-11/us-flights-disrupted-after-outage-of-faa-pilot-advisory-system)
 - [“A Handbook of Integer Sequences” Fifty Years Later](https://arxiv.org/abs/2301.03149)
 - [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide)
-- [Windows OS Security](https://github.com/jmau111-org/windows_security)
-- [Antidepressants are over-prescribed, but genuinely help some patients](https://www.economist.com/graphic-detail/2023/01/10/antidepressants-are-over-prescribed-but-genuinely-help-some-patients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
