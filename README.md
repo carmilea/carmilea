@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Secondments at Zapier](https://zapier.com/blog/secondments-at-zapier/)
 - [Mercedes Is the First Automaker to Offer Level 3 Self-Driving in the US](https://insideevs.com/news/630075/mercedes-first-to-offer-level-3-self-driving-in-the-us/)
 - [Yuzu Progress Report December 2022](https://yuzu-emu.org/entry/yuzu-progress-report-dec-2022/)
-- [State of JavaScript 2022](https://2022.stateofjs.com/en-us/)
 - [What happens when a CPU starts](https://lateblt.tripod.com/bit68.txt)
 - [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
