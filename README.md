@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future Dominance of Solar and Wind Energy](https://industrydecarbonization.com/news/the-future-dominance-of-solar-and-wind-energy.html)
+- [The Unexpected Heaviosity of Ferris Bueller’s Day Off &lpar;2006&rpar;](https://www.vqronline.org/essay/john-hughes-goes-deep-unexpected-heaviosity-ferris-bueller%E2%80%99s-day)
 - [Actiondesk &lpar;YC S19&rpar; Is Hiring a Product Designer &lpar;4-6 months contract&rpar;](https://www.ycombinator.com/companies/actiondesk/jobs/LggjAvL-product-designer-4-6-months-contract)
 - [Secondments at Zapier](https://zapier.com/blog/secondments-at-zapier/)
 - [What’s better than maps or stamps? Maps on stamps](https://bigthink.com/strange-maps/maps-on-stamps/)
-- [Mercedes is the first automaker to offer Level 3 self-driving in the US](https://insideevs.com/news/630075/mercedes-first-to-offer-level-3-self-driving-in-the-us/)
-- [Yuzu Progress Report December 2022](https://yuzu-emu.org/entry/yuzu-progress-report-dec-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
