@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Make](https://bost.ocks.org/mike/make/)
-- [NYC Slice](https://elkue.com/nyc-slice/)
-- [Android malware from Amazon straight to your door](https://github.com/DesktopECHO/T95-H616-Malware)
-- [Apache Hudi vs. Delta Lake vs. Apache Iceberg Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
-- [The Alien Grave of Aurora, Texas](https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/)
+- [Flexport slashes 20% of global workforce over weak 2023 volume forecast](https://theloadstar.com/flexport-slashes-20-of-global-workforce-over-weak-2023-volume-forecast/)
+- [The Spaceballs Argument for Unconditional Basic Income](https://www.scottsantens.com/the-spaceballs-argument-for-unconditional-universal-basic-income-ubi/)
+- [CNCF accepts Kubescape as its first security and compliance scanner project](https://www.sdxcentral.com/articles/interview/cncf-accepts-kubescape-as-inaugural-open-source-security-scanner/2023/01/)
+- [Show HN: Val Town – A Cloud Scripting Site](https://www.val.town/)
+- [Why Use Make &lpar;2013&rpar;](https://bost.ocks.org/mike/make/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
