@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t use Tailwind for your Design System](https://sancho.dev/blog/tailwind-and-design-systems)
 - [Naming Elixir Phoenix context functions](https://www.stephenlewis.me/blog/naming-phoenix-context-functions)
+- [NanoGPT](https://github.com/karpathy/nanoGPT)
 - [The Unexpected Heaviosity of Ferris Bueller’s Day Off &lpar;2006&rpar;](https://www.vqronline.org/essay/john-hughes-goes-deep-unexpected-heaviosity-ferris-bueller%E2%80%99s-day)
 - [Actiondesk &lpar;YC S19&rpar; Is Hiring a Product Designer &lpar;4-6 months contract&rpar;](https://www.ycombinator.com/companies/actiondesk/jobs/LggjAvL-product-designer-4-6-months-contract)
-- [Secondments at Zapier](https://zapier.com/blog/secondments-at-zapier/)
-- [What’s better than maps or stamps? Maps on stamps](https://bigthink.com/strange-maps/maps-on-stamps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
