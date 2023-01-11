@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CPSC is on a mission that has nothing to do with safety](https://cremieux.substack.com/p/lying-for-climate-crusading)
-- [Launch HN: IcePanel &lpar;YC W23&rpar; – Onboard engineers with explorable system designs](https://news.ycombinator.com/item?id=34338995)
-- [Mastering diverse domains through world models](https://arxiv.org/abs/2301.04104)
-- [Show HN: Kandria, an action RPG made in Common Lisp, is now out](https://store.steampowered.com/app/1261430/Kandria/)
-- [Memories: Artificial Intelligence at Stanford in the 70s](https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html)
+- [RISC-V SBC VisionFive 2 Officially Shipped](https://www.starfivetech.com/en/site/new_details/976)
+- [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
+- [We need a lot more electricians if we’re going to electrify everything](https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything)
+- [Open Source in Environmental Sustainability](https://report.opensustain.tech/chapters/index.html)
+- [Guerrilla guide to CNC machining, mold making, and resin casting &lpar;2015&rpar;](https://lcamtuf.coredump.cx/gcnc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
