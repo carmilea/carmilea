@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Extreme &#39;Rogue Wave&#39; in the North Pacific Confirmed as Most Extreme on Record](https://www.sciencealert.com/extreme-rogue-wave-in-the-north-pacific-confirmed-as-most-extreme-on-record)
-- [World’s only sleeping bank website](https://applyonline.hdfcbank.com/maintenance.html)
-- [Part II: The failure points from $5M to $100M in ARR](https://tracy.posthaven.com/part-ii-the-failure-points-from-$5m-to-$100m-in-arr)
-- [Zen &lpar;YC S21&rpar; Is Hiring a Growth Engineer](https://boards.greenhouse.io/zen/jobs/4026065006)
-- [Writing a TLA⁺ tree-sitter grammar: my foray into free software](https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/)
+- [Own Your Data](https://yourdigitalrights.org)
+- [Reverse-engineering an airspeed/Mach indicator from 1977](https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
+- [The Misunderstood Roman Empress Who Willed Her Way to the Top](https://www.smithsonianmag.com/history/misunderstood-roman-empress-willed-way-to-top-180981294/)
+- [U.S. Cancer Death Rate Has Dropped by a Third Since 1991](https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327)
+- [Clozure Common Lisp Wiki](https://github.com/Clozure/ccl/wiki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
