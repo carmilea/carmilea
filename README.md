@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who’s using Ruby for web development, without Ruby on Rails?](https://news.ycombinator.com/item?id=34354129)
+- [Ask HN: How can I find a German family by their crest?](https://news.ycombinator.com/item?id=34353919)
 - [Mexico’s subway drivers depend on WhatsApp to keep the trains running](https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains/)
-- [U.S. inflation cools again, giving Fed room to downshift on rates](https://www.bloomberg.com/news/articles/2023-01-12/us-inflation-cools-again-giving-fed-room-to-downshift-on-rates)
+- [Intel Launches $699 Core I9-13900KS, the First 6 GHz CPU: Available Now](https://www.tomshardware.com/news/intel-launches-dollar699-core-i9-13900ks-the-worlds-first-6-ghz-cpu-available-now)
 - [Ask HN: Can you crowdfund the compute for GPT?](https://news.ycombinator.com/item?id=34353049)
-- [Svante Pääbo: ‘It’s maybe time to rethink our idea of Neanderthals’](https://www.theguardian.com/science/2023/jan/12/svante-paabo-interview-nobel-prize)
-- [Startup is fining employees for contacting colleagues on vacation](https://fortune.com/2023/01/11/writing-colleague-on-vacation-fine-dream-sports-india-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
