@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The curious Soviet mini-sub of South Alabama](https://laststandonzombieisland.com/2018/11/24/the-curious-soviet-mini-sub-of-south-alabama/)
+- [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 - [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
+- [Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm](https://www.infoq.com/news/2023/01/hinton-forward-algorithm/)
 - [Ask HN: Strategies for working with engineers that are too smart?](https://news.ycombinator.com/item?id=34350446)
-- [Kristall – a browser without support for CSS/JS/WASM or graphical websites](https://kristall.random-projects.net/)
-- [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34350149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
