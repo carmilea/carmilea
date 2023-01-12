@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$8B startup is fining employees for contacting colleagues on vacation](https://fortune.com/2023/01/11/writing-colleague-on-vacation-fine-dream-sports-india-startup/)
-- [Do heat pumps work in cold climates?](https://carbonswitch.com/do-heat-pumps-work-in-cold-weather/)
+- [Ask HN: Top life hack which, quite surprisingly, no one else does?](https://news.ycombinator.com/item?id=34352982)
+- [Svante Pääbo: ‘It’s maybe time to rethink our idea of Neanderthals’](https://www.theguardian.com/science/2023/jan/12/svante-paabo-interview-nobel-prize)
+- [Startup is fining employees for contacting colleagues on vacation](https://fortune.com/2023/01/11/writing-colleague-on-vacation-fine-dream-sports-india-startup/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring B2B Account Executives](https://greatquestion.co/jobs/account-executive)
-- [2023 Global Passport Ranking](https://www.henleyglobal.com/passport-index/ranking)
-- [Europe&#39;s largest deposit of rare earth metals discovered in Sweden](https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152)
+- [Bulgarian law enforcement raids offices of cryptocurrency firm Nexo](https://sofiaglobe.com/2023/01/12/bulgarian-law-enforcement-raids-offices-of-cryptocurrency-firm-nexo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
