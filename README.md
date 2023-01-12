@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who’s using Ruby for web development, without Ruby on Rails?](https://news.ycombinator.com/item?id=34354129)
-- [Ask HN: How can I find a German family by their crest?](https://news.ycombinator.com/item?id=34353919)
-- [Mexico’s subway drivers depend on WhatsApp to keep the trains running](https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains/)
-- [Intel Launches $699 Core I9-13900KS, the First 6 GHz CPU: Available Now](https://www.tomshardware.com/news/intel-launches-dollar699-core-i9-13900ks-the-worlds-first-6-ghz-cpu-available-now)
-- [Ask HN: Can you crowdfund the compute for GPT?](https://news.ycombinator.com/item?id=34353049)
+- [Crime App &#39;Citizen&#39; Lays Off Dozens of Employees](https://www.vice.com/en/article/7k8yxb/citizen-app-lays-off-dozens-of-employees)
+- [Ask HN: What would you do if you didn&#39;t have to work?](https://news.ycombinator.com/item?id=34355892)
+- [Monitoring Space Weather from the Ground](https://spectrum.ieee.org/space-weather)
+- [Fuckup Nights – Series of events where stories of failure are shared](https://en.fuckupnights.com/)
+- [The destructive new logic that threatens globalisation](https://www.economist.com/leaders/2023/01/12/the-destructive-new-logic-that-threatens-globalisation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
