@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Etleap &lpar;YC W13&rpar; Is Hiring – Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [How many AMD RX 7900 XTX&#39;s are defective?](https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective)
-- [Marshall McLuhan Explain[s] the Future of Ads and the Internet in 1966](https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet)
-- [Conc: Better Structured Concurrency for Go](https://github.com/sourcegraph/conc)
-- [Heat exchanger header with fractal geometry](https://patents.google.com/patent/US20200284532A1/en)
+- [New Video of Tesla Crash Demonstrates the Problem of Semi-Automated Driving](https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/)
+- [The energy crisis and Europe’s astonishing luck](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck)
+- [Alphabet unit Verily to trim more than 200 jobs](https://www.wsj.com/articles/alphabet-unit-verily-to-trim-more-than-200-jobs-11673466950)
+- [CTEs as Lookup Tables](https://misfra.me/2023/ctes-as-lookup-tables/)
+- [Setting the TZ environment variable avoids thousands of system calls &lpar;2017&rpar;](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
