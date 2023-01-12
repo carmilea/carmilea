@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zen &lpar;YC S21&rpar; Is Hiring a Growth Engineer](https://boards.greenhouse.io/zen/jobs/4026065006)
+- [Tell HN: LinkedIn is giving out my phone number without consent &lpar;?&rpar;](https://news.ycombinator.com/item?id=34356677)
+- [Vulkan Tutorial &lpar;Rust&rpar;](https://kylemayes.github.io/vulkanalia/)
 - [Crime App &#39;Citizen&#39; Lays Off Dozens of Employees](https://www.vice.com/en/article/7k8yxb/citizen-app-lays-off-dozens-of-employees)
-- [Ask HN: What would you do if you didn&#39;t have to work?](https://news.ycombinator.com/item?id=34355892)
-- [Monitoring Space Weather from the Ground](https://spectrum.ieee.org/space-weather)
-- [Fuckup Nights – Series of events where stories of failure are shared](https://en.fuckupnights.com/)
-- [The destructive new logic that threatens globalisation](https://www.economist.com/leaders/2023/01/12/the-destructive-new-logic-that-threatens-globalisation)
+- [CEO Jack Altman’s email to lattice employees](https://lattice.com/blog/ceo-jack-altmans-email-to-lattice-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
