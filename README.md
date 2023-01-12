@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Github degraded Copilot for students with no warning](https://github.com/orgs/community/discussions/43673)
-- [The Collapse of U.S. Healthcare – The Perspective of a Primary Care Physician](https://news.ycombinator.com/item?id=34347962)
+- [GitHub Copilot free plan stopped working – rate limit exceeded](https://github.com/orgs/community/discussions/43673)
 - [New Video of Tesla Crash Demonstrates the Problem of Semi-Automated Driving](https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/)
 - [The energy crisis and Europe’s astonishing luck](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck)
-- [CTEs as Lookup Tables](https://misfra.me/2023/ctes-as-lookup-tables/)
+- [CTEs as lookup tables](https://misfra.me/2023/ctes-as-lookup-tables/)
+- [Setting the TZ environment variable avoids thousands of system calls &lpar;2017&rpar;](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
