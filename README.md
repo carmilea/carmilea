@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Own Your Data](https://yourdigitalrights.org)
-- [Reverse-engineering an airspeed/Mach indicator from 1977](https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
-- [The Misunderstood Roman Empress Who Willed Her Way to the Top](https://www.smithsonianmag.com/history/misunderstood-roman-empress-willed-way-to-top-180981294/)
-- [U.S. Cancer Death Rate Has Dropped by a Third Since 1991](https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327)
-- [Clozure Common Lisp Wiki](https://github.com/Clozure/ccl/wiki)
+- [What Is a Data Mesh Architecture?](https://www.singlestore.com/blog/what-is-a-data-mesh-architecture/)
+- [Circl: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
+- [Researchers cannot always differentiate AI-generated and original abstracts](https://www.nature.com/articles/d41586-023-00056-7)
+- [What Every Competent Graph DBMS Should Do](https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html)
+- [Lid – Lo-fi image dithering](https://rawtext.club/~sloum/lid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
