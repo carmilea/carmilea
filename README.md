@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon loses bid to overturn historic union win on Staten Island warehouse](https://www.npr.org/2023/01/11/1125205641/amazon-warehouse-union-staten-island)
 - [The Systematic Valley](https://philosophyinhell.substack.com/p/the-systematic-valley)
-- [A corrupt file led to the FAA ground stoppage. It was also found in the backup](https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html)
-- [Ask HN: Are headlights getting brighter or am I getting old?](https://news.ycombinator.com/item?id=34347886)
+- [A corrupt file led to the FAA ground stoppage – also found in backup system](https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html)
 - [New video of Tesla crash demonstrates the problem of semi-automated driving](https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/)
-- [The energy crisis and Europe’s astonishing luck](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck)
+- [CTEs as lookup tables](https://misfra.me/2023/ctes-as-lookup-tables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
