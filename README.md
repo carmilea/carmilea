@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The curious Soviet mini-sub of South Alabama](https://laststandonzombieisland.com/2018/11/24/the-curious-soviet-mini-sub-of-south-alabama/)
-- [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
-- [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
-- [Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm](https://www.infoq.com/news/2023/01/hinton-forward-algorithm/)
-- [Ask HN: Strategies for working with engineers that are too smart?](https://news.ycombinator.com/item?id=34350446)
+- [$8B startup is fining employees for contacting colleagues on vacation](https://fortune.com/2023/01/11/writing-colleague-on-vacation-fine-dream-sports-india-startup/)
+- [Do heat pumps work in cold climates?](https://carbonswitch.com/do-heat-pumps-work-in-cold-weather/)
+- [Great Question &lpar;YC W21&rpar; Is Hiring B2B Account Executives](https://greatquestion.co/jobs/account-executive)
+- [2023 Global Passport Ranking](https://www.henleyglobal.com/passport-index/ranking)
+- [Europe&#39;s largest deposit of rare earth metals discovered in Sweden](https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
