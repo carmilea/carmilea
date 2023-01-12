@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Strategies for working with engineers that are too smart?](https://news.ycombinator.com/item?id=34350446)
 - [Kristall – a browser without support for CSS/JS/WASM or graphical websites](https://kristall.random-projects.net/)
 - [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34350149)
 - [El Salvador’s Historic Digital Asset Securities Law Passes](https://blog.bitfinex.com/announcements/el-salvadors-historic-digital-asset-securities-law-passes/)
-- [The disappearance of the hit-driven business model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business/?mc_cid=33668ce545&mc_eid=c386d902c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
