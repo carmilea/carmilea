@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Data Mesh Architecture?](https://www.singlestore.com/blog/what-is-a-data-mesh-architecture/)
-- [Circl: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
-- [Researchers cannot always differentiate AI-generated and original abstracts](https://www.nature.com/articles/d41586-023-00056-7)
-- [What Every Competent Graph DBMS Should Do](https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html)
-- [Lid – Lo-fi image dithering](https://rawtext.club/~sloum/lid.html)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [The James Webb Space Telescope Is Finding Too Many Early Galaxies](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/)
+- [Webb confirms its first exoplanet](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_confirms_its_first_exoplanet)
+- [Banning Gas Stoves Is a Terrible Idea](https://www.unprepared.life/p/banning-gas-stoves-is-a-terrible)
+- [Nintendo 64 Java](https://www.mikekohn.net/micro/nintendo64_java.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
