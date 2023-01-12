@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business/?mc_cid=33668ce545&mc_eid=c386d902c2)
 - [Amazon loses bid to overturn historic union win on Staten Island warehouse](https://www.npr.org/2023/01/11/1125205641/amazon-warehouse-union-staten-island)
-- [The Systematic Valley](https://philosophyinhell.substack.com/p/the-systematic-valley)
+- [The Systematic Valley &lpar;2021&rpar;](https://philosophyinhell.substack.com/p/the-systematic-valley)
 - [A corrupt file led to the FAA ground stoppage – also found in backup system](https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html)
 - [New video of Tesla crash demonstrates the problem of semi-automated driving](https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/)
-- [CTEs as lookup tables](https://misfra.me/2023/ctes-as-lookup-tables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
