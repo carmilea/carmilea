@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme &#39;Rogue Wave&#39; in the North Pacific Confirmed as Most Extreme on Record](https://www.sciencealert.com/extreme-rogue-wave-in-the-north-pacific-confirmed-as-most-extreme-on-record)
+- [World’s only sleeping bank website](https://applyonline.hdfcbank.com/maintenance.html)
+- [Part II: The failure points from $5M to $100M in ARR](https://tracy.posthaven.com/part-ii-the-failure-points-from-$5m-to-$100m-in-arr)
 - [Zen &lpar;YC S21&rpar; Is Hiring a Growth Engineer](https://boards.greenhouse.io/zen/jobs/4026065006)
-- [Tell HN: LinkedIn is giving out my phone number without consent &lpar;?&rpar;](https://news.ycombinator.com/item?id=34356677)
-- [Vulkan Tutorial &lpar;Rust&rpar;](https://kylemayes.github.io/vulkanalia/)
-- [Crime App &#39;Citizen&#39; Lays Off Dozens of Employees](https://www.vice.com/en/article/7k8yxb/citizen-app-lays-off-dozens-of-employees)
-- [CEO Jack Altman’s email to lattice employees](https://lattice.com/blog/ceo-jack-altmans-email-to-lattice-employees)
+- [Writing a TLA⁺ tree-sitter grammar: my foray into free software](https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
