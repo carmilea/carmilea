@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Buy Now, Pay Later&#39; Bubble Is About to Burst](https://www.theatlantic.com/culture/archive/2023/01/buy-now-pay-later-affirm-afterpay-credit-card-debt/672686/)
+- [Study: Exxon Mobil Accurately Predicted Warming Since 1970s](https://www.voanews.com/a/study-exxon-mobil-accurately-predicted-warming-since-1970s-/6916612.html)
+- [New study puts a number on what &#39;Exxon knew&#39; decades ago about climate science](https://phys.org/news/2023-01-exxon-knew-decades-climate-science.html)
+- [Apple’s Tim Cook to take 50% pay hit after shareholder feedback](https://www.theguardian.com/technology/2023/jan/13/apple-tim-cook-to-take-pay-hit-after-shareholder-feedback)
+- [Liu Cixin&#39;s Technologies of the Future](https://vincelwt.com/darkforest)
 - [Alpine.js](https://alpinejs.dev/)
-- [Map of the Week: What Does the Land Under Antarctica’s Ice Sheet Look Like?](https://ubique.americangeo.org/map-of-the-week/map-of-the-week-what-does-the-land-under-antarcticas-ice-sheet-look-like/)
-- [A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
-- [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
 <!-- BLOG-POST-LIST:END -->
 
 ---
