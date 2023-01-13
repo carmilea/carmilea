@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cuba and the Geopolitics of Submarine Cables](https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/)
+- [Shapecatcher: Draw the Unicode character you want](https://shapecatcher.com/)
+- [ExifTool – Read, Write and Edit Meta Information](https://exiftool.org/)
+- [Woman ordered to repay $2k after her employer used software to track her time](https://www.npr.org/2023/01/13/1148985075/time-tracking-software-canadian-woman-reach-cpa-court)
 - [What the hell is Forth? &lpar;2019&rpar;](https://blog.information-superhighway.net/what-the-hell-is-forth)
-- [Strava Raises Prices but Can’t Tell You How Much It Costs Anymore](https://www.dcrainmaker.com/2023/01/strava-raises-prices-doubling.html)
-- [CoinDesk, Inc. Files Motion to Unseal Names of SBF&#39;s Additional Bail Sureties [pdf]](https://ia801508.us.archive.org/25/items/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.43.0.pdf)
-- [Sam Bankman-Fried&#39;s secret &#39;backdoor&#39; discovered, FTX lawyer says](https://www.businessinsider.com/sam-bankman-fried-secret-backdoor-worth-65-billion-court-hears-2023-1)
-- [Docker 2.0 went from $11M to $135M in 2 years](https://sacra.com/p/docker-plg-pivot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
