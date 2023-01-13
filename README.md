@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla cuts prices by up to a fifth in US and Europe as EV price war starts](https://www.theguardian.com/technology/2023/jan/13/tesla-prices-us-europe-slowing-demand-elon-musk)
-- [Launch HN: MagnaPlay &lpar;YC W23&rpar; – Indie gaming subscription service for PC](https://news.ycombinator.com/item?id=34369562)
-- [History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm)
-- [ChatGPT Can&#39;t Kill Anything Worth Preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
-- [Working for a Dating Website &lpar;2015&rpar;](https://caseysoftware.com/blog/working-for-a-dating-website)
+- [Setting the Bozo Bit on Apple](https://blog.metaobject.com/2023/01/setting-bozo-bit-on-apple.html)
+- [Learning eBPF Exploitation](https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html)
+- [Precedent – Building Blocks for Next.js](https://precedent.vercel.app/)
+- [Analog Chess](https://github.com/ehulinsky/AnalogChess/blob/main/README.md)
+- [An Update on the Open Game License &lpar;OGL&rpar;](https://www.dndbeyond.com/posts/1423-an-update-on-the-open-game-license-ogl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
