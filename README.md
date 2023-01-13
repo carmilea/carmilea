@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perform What-If Analysis of Your Network Without Compromising Data Integrity](https://memgraph.com/blog/perform-what-if-analysis-of-your-network-directly-in-storage-without-compromising-data-integrity)
+- [Alpine.js](https://alpinejs.dev/)
 - [A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
 - [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
 - [How to Write English Prose](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/)
