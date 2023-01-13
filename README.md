@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: We found a cracked version of our software on the web, now what?](https://news.ycombinator.com/item?id=34368237)
+- [Launch HN: MagnaPlay &lpar;YC W23&rpar; – Indie gaming subscription service for PC](https://news.ycombinator.com/item?id=34369562)
+- [ChatGPT Can&#39;t Kill Anything Worth Preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
+- [Working for a Dating Website &lpar;2015&rpar;](https://caseysoftware.com/blog/working-for-a-dating-website)
+- [Examples of Floating Point Problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [How CUE Wins &lpar;2021&rpar;](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
-- [Despite Everything You Think You Know, America Is on the Right Track](https://www.theatlantic.com/ideas/archive/2023/01/american-optimism-productivity-innovation-rise/672714/)
-- [Endemic pathogens are causing psychiatric illnesses and shortening lifespans](https://return.life/2022/05/endemic-pathogens/)
-- [OpenAI starts testing ChatGPT premium](https://www.businesstoday.in/technology/story/openai-tests-the-premium-version-of-chatgpt-heres-how-you-can-get-it-359958-2023-01-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
