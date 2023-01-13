@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Loss of Epigenetic Information Can Drive Aging, Restoration Can Reverse It](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
+- [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
 - [This Voice Doesn&#39;t Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
 - [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
-- [Servo’s New Home](https://servo.org/blog/2020/11/17/servo-home/)
 - [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
+- [Null Call: Advice for the vestigial shamans among us &lpar;2021&rpar;](https://arcove.substack.com/p/null-call)
 <!-- BLOG-POST-LIST:END -->
 
 ---
