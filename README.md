@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Loss of Epigenetic Information Can Drive Aging, Restoration Can Reverse It](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
+- [This Voice Doesn&#39;t Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
+- [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
+- [Servo’s New Home](https://servo.org/blog/2020/11/17/servo-home/)
 - [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
-- [Null Call: Advice for the vestigial shamans among us](https://arcove.substack.com/p/null-call)
-- [U.S. judge rules Apple Watch infringed Masimo&#39;s pulse oximeter patent](https://www.reuters.com/legal/us-judge-rules-apple-watches-infringed-masimo-patent-medical-device-maker-2023-01-11/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Supporting the Use of Rust in the Chromium Project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
