@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Endemic Pathogens Are Making You Crazy and Then Killing You](https://return.life/2022/05/endemic-pathogens/)
-- [Parsing JSON Is a Minefield &lpar;2018&rpar;](https://seriot.ch/projects/parsing_json.html)
-- [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
-- [I deleted all my social media 3 yrs ago and I hardcore regret it everyday](https://old.reddit.com/r/nosurf/comments/107osuu/i_deleted_all_my_social_media_about_3_years_ago/)
-- [Study: Exxon Mobil Accurately Predicted Warming Since 1970s](https://www.voanews.com/a/study-exxon-mobil-accurately-predicted-warming-since-1970s-/6916612.html)
+- [Ask HN: We found a cracked version of our software on the web, now what?](https://news.ycombinator.com/item?id=34368237)
+- [How CUE Wins &lpar;2021&rpar;](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
+- [Despite Everything You Think You Know, America Is on the Right Track](https://www.theatlantic.com/ideas/archive/2023/01/american-optimism-productivity-innovation-rise/672714/)
+- [Endemic pathogens are causing psychiatric illnesses and shortening lifespans](https://return.life/2022/05/endemic-pathogens/)
+- [OpenAI starts testing ChatGPT premium](https://www.businesstoday.in/technology/story/openai-tests-the-premium-version-of-chatgpt-heres-how-you-can-get-it-359958-2023-01-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
