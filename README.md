@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My PhD qualifying exam was a nightmare – But I&#39;m not letting it define me](https://www.science.org/content/article/my-ph-d-qualifying-exam-was-nightmare-i-m-not-letting-it-define-me)
 - [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
 - [This Voice Doesn&#39;t Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
-- [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
-- [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
 - [Null Call: Advice for the vestigial shamans among us &lpar;2021&rpar;](https://arcove.substack.com/p/null-call)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
