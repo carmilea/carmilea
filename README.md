@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
 - [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
 - [How to Write English Prose](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/)
 - [Twitter&#39;s API is down?](https://news.ycombinator.com/item?id=34363743)
 - [Write admin tools from day one &lpar;2022&rpar;](http://milwaukeemaven.blogspot.com/2022/08/write-admin-tools-from-day-one.html)
-- [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
