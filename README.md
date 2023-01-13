@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sickcodes/Docker-OS X: Run macOS VM in a Docker](https://github.com/sickcodes/Docker-OSX)
 - [Cuba and the Geopolitics of Submarine Cables](https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/)
 - [Shapecatcher: Draw the Unicode character you want](https://shapecatcher.com/)
 - [ExifTool – Read, Write and Edit Meta Information](https://exiftool.org/)
 - [Woman ordered to repay $2k after her employer used software to track her time](https://www.npr.org/2023/01/13/1148985075/time-tracking-software-canadian-woman-reach-cpa-court)
-- [What the hell is Forth? &lpar;2019&rpar;](https://blog.information-superhighway.net/what-the-hell-is-forth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
