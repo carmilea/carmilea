@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Bankman-Fried&#39;s secret &#39;backdoor&#39; discovered, FTX lawyer says](https://www.businessinsider.com/sam-bankman-fried-secret-backdoor-worth-65-billion-court-hears-2023-1)
 - [Docker 2.0 went from $11M to $135M in 2 years](https://sacra.com/p/docker-plg-pivot/)
-- [Setting the Bozo Bit on Apple](https://blog.metaobject.com/2023/01/setting-bozo-bit-on-apple.html)
-- [You Don’t Know How Bad the Pizza Box Is](https://www.theatlantic.com/technology/archive/2023/01/pizza-delivery-box-design-soggy/672712/)
+- [How bad the pizza box is](https://www.theatlantic.com/technology/archive/2023/01/pizza-delivery-box-design-soggy/672712/)
 - [Learning eBPF Exploitation](https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html)
 - [Alpine Linux in the Browser](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192)
 <!-- BLOG-POST-LIST:END -->
