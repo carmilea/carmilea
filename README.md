@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker 2.0 went from $11M to $135M in 2 years](https://sacra.com/p/docker-plg-pivot/)
 - [Setting the Bozo Bit on Apple](https://blog.metaobject.com/2023/01/setting-bozo-bit-on-apple.html)
+- [You Don’t Know How Bad the Pizza Box Is](https://www.theatlantic.com/technology/archive/2023/01/pizza-delivery-box-design-soggy/672712/)
 - [Learning eBPF Exploitation](https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html)
-- [Precedent – Building Blocks for Next.js](https://precedent.vercel.app/)
-- [Analog Chess](https://github.com/ehulinsky/AnalogChess/blob/main/README.md)
-- [An Update on the Open Game License &lpar;OGL&rpar;](https://www.dndbeyond.com/posts/1423-an-update-on-the-open-game-license-ogl)
+- [Alpine Linux in the Browser](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
