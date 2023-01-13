@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Buy Now, Pay Later&#39; Bubble Is About to Burst](https://www.theatlantic.com/culture/archive/2023/01/buy-now-pay-later-affirm-afterpay-credit-card-debt/672686/)
 - [Alpine.js](https://alpinejs.dev/)
+- [Map of the Week: What Does the Land Under Antarctica’s Ice Sheet Look Like?](https://ubique.americangeo.org/map-of-the-week/map-of-the-week-what-does-the-land-under-antarcticas-ice-sheet-look-like/)
 - [A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
 - [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
-- [How to Write English Prose](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/)
-- [Twitter&#39;s API is down?](https://news.ycombinator.com/item?id=34363743)
 <!-- BLOG-POST-LIST:END -->
 
 ---
