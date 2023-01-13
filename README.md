@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Gas Industry Is Paying Instagram Influencers to Gush over Gas Stoves](https://www.motherjones.com/environment/2020/06/gas-industry-influencers-stoves/)
+- [I deleted all my social media 3 yrs ago and I hardcore regret it everyday](https://old.reddit.com/r/nosurf/comments/107osuu/i_deleted_all_my_social_media_about_3_years_ago/)
 - [Study: Exxon Mobil Accurately Predicted Warming Since 1970s](https://www.voanews.com/a/study-exxon-mobil-accurately-predicted-warming-since-1970s-/6916612.html)
 - [New study puts a number on what &#39;Exxon knew&#39; decades ago about climate science](https://phys.org/news/2023-01-exxon-knew-decades-climate-science.html)
 - [Apple’s Tim Cook to take 50% pay hit after shareholder feedback](https://www.theguardian.com/technology/2023/jan/13/apple-tim-cook-to-take-pay-hit-after-shareholder-feedback)
-- [Liu Cixin&#39;s Technologies of the Future](https://vincelwt.com/darkforest)
-- [Alpine.js](https://alpinejs.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
