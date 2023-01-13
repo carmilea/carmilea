@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla cuts prices by up to a fifth in US and Europe as EV price war starts](https://www.theguardian.com/technology/2023/jan/13/tesla-prices-us-europe-slowing-demand-elon-musk)
 - [Launch HN: MagnaPlay &lpar;YC W23&rpar; – Indie gaming subscription service for PC](https://news.ycombinator.com/item?id=34369562)
+- [History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm)
 - [ChatGPT Can&#39;t Kill Anything Worth Preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
 - [Working for a Dating Website &lpar;2015&rpar;](https://caseysoftware.com/blog/working-for-a-dating-website)
-- [Examples of Floating Point Problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
-- [How CUE Wins &lpar;2021&rpar;](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
