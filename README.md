@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sickcodes/Docker-OS X: Run macOS VM in a Docker](https://github.com/sickcodes/Docker-OSX)
-- [Cuba and the Geopolitics of Submarine Cables](https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/)
-- [Shapecatcher: Draw the Unicode character you want](https://shapecatcher.com/)
-- [ExifTool – Read, Write and Edit Meta Information](https://exiftool.org/)
-- [Woman ordered to repay $2k after her employer used software to track her time](https://www.npr.org/2023/01/13/1148985075/time-tracking-software-canadian-woman-reach-cpa-court)
+- [Sergey Brin’s $100B Private Fiefdom](https://puck.news/sergey-brins-100b-private-fiefdom/)
+- [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
+- [Long Covid: major findings, mechanisms and recommendations](https://www.nature.com/articles/s41579-022-00846-2)
+- [EPA Proposes to Strengthen Air Quality Standards](https://www.epa.gov/newsreleases/epa-proposes-strengthen-air-quality-standards-protect-public-harmful-effects-soot)
+- [How will the remaining uplift affect the Scandinavian landscape?](https://geoforskning.no/hvordan-vil-gjenstaende-landheving-pavirke-landskapet-eng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
