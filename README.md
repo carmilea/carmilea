@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
-- [Impact of breakfast skipping compared with dinner skipping](https://pubmed.ncbi.nlm.nih.gov/28490511/)
+- [Ask HN: How do you give back?](https://news.ycombinator.com/item?id=34383350)
+- [Ask HN: Role-model companies with the best dev culture in 2023](https://news.ycombinator.com/item?id=34383010)
+- [I don&#39;t understand terminals, shells and SSH](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/)
+- [On the dangers of stochastic parrots: Can language models be too big? &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - [Counting the transistors in the 8086 processor: it&#39;s harder than you might think](http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html)
-- [Show HN: Kody Tools – I developed 300 tools in 6 months](https://www.kodytools.com/)
-- [Internal document explains why Google has become slow and bureaucratic](https://www.businessinsider.com/google-document-bureaucracy-slime-mold-staff-frustration-2023-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
