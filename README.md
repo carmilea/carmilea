@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sergey Brin’s $100B Private Fiefdom](https://puck.news/sergey-brins-100b-private-fiefdom/)
+- [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
 - [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
 - [Long Covid: major findings, mechanisms and recommendations](https://www.nature.com/articles/s41579-022-00846-2)
 - [EPA Proposes to Strengthen Air Quality Standards](https://www.epa.gov/newsreleases/epa-proposes-strengthen-air-quality-standards-protect-public-harmful-effects-soot)
