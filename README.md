@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Job interviews are a nightmare – and only getting worse](https://www.vox.com/the-goods/2023/1/12/23546379/job-interviewing-applying-exhausting-tests-employment)
+- [Conversations &lpar;XMPP Client&rpar; is now a UnifiedPush distributor](https://unifiedpush.org/users/distributors/conversations/)
+- [NTSB: Cloud shot up vertically in front of plane before turbulence](https://apnews.com/article/phoenix-honolulu-business-820eb47d03bd6744419e75d50be43266)
 - [FAA says computer failure was caused by 2 contractors who introduced data errors](https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/)
-- [A breakdown of Colorado&#39;s &#39;weather modification&#39; program](https://www.outtherecolorado.com/news/a-quick-breakdown-of-colorados-weather-modification-program/article_d01b73ea-906d-11ed-8b71-9b0fe103f14e.html)
-- [Whipper: Accurate Audio CD Ripping](https://github.com/whipper-team/whipper)
-- [The 1986 Paris-Dakar rally &lpar;2021&rpar;](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
-- [A Dynamic Forth Compiler for WebAssembly &lpar;2018&rpar;](https://el-tramo.be/blog/waforth/)
+- [Mainstream economists have completely blown the issue of working time &lpar;2001&rpar;](https://web.archive.org/web/20030605162351/http://www.straightgoods.com/item439.asp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
