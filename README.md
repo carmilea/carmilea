@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remembering the triumph and tragedy of the 1986 Paris-Dakar rally](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
+- [Blender for Symbian OS](https://github.com/Dante-Leoncini/Blendersito)
+- [The Special Armored Money Train That Ran from 1951 to 2006 in NYC](https://untappedcities.com/2023/01/05/mta-armored-money-train-nyc/)
 - [How Police Exploited the Capitol Riot’s Digital Records](https://spectrum.ieee.org/capitol-riot)
 - [Show HN: Hacker News Without News](https://hn.build-your-own.org/)
-- [YC&#39;s Startup School is growing and we need a product engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
-- [British Motorway Database](https://www.roads.org.uk/motorway)
-- [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)
 <!-- BLOG-POST-LIST:END -->
 
 ---
