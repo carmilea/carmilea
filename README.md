@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Double Asteroid Redirection Test Is a Smashing Success](https://eos.org/articles/nasas-double-asteroid-redirection-test-is-a-smashing-success)
-- [Always Be Knolling &lpar;2018&rpar;](https://www.wellappointeddesk.com/2018/11/always-be-knolling/)
-- [mold - The &lpar;really&rpar; fast linker](https://github.com/rui314/mold)
-- [On the dangers of stochastic parrots: Can language models be too big? &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3442188.3445922)
-- [Homelab Analog Telephone Exchange](https://skagmo.com/page.php?p=projects/42_pbx)
+- [Grain Farming Goes Indoors](https://modernfarmer.com/2023/01/grain-farming-goes-indoors/)
+- [The Inner Beauty of Basic Electronics](https://spectrum.ieee.org/open-circuits)
+- [9 Things I Learned from My 2 Year Old Baby Girl](https://madeincosmos.substack.com/p/9-things-i-learned-from-my-2-year)
+- [Use.GPU Goes Trad](https://acko.net/blog/use-gpu-goes-trad/)
+- [Ask HN: Do You Test in Production?](https://news.ycombinator.com/item?id=34384656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
