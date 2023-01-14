@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What ChatGPT Reveals about the Collapse of Support for Higher Education](https://crookedtimber.org/2023/01/05/what-chatgpt-reveals-about-the-collapse-of-political-corporate-support-for-humanities-higher-education/)
-- [Apple is no longer part of Glassdoor’s 100 Best Places to Work ranking](https://9to5mac.com/2023/01/13/apple-no-longer-part-glassdoor-ranking/)
+- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- [Impact of breakfast skipping compared with dinner skipping](https://pubmed.ncbi.nlm.nih.gov/28490511/)
+- [Counting the transistors in the 8086 processor: it&#39;s harder than you might think](http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html)
 - [Show HN: Kody Tools – I developed 300 tools in 6 months](https://www.kodytools.com/)
-- [Conversations &lpar;XMPP Client&rpar; is now a UnifiedPush distributor](https://unifiedpush.org/users/distributors/conversations/)
-- [NTSB: Cloud shot up vertically in front of plane before turbulence](https://apnews.com/article/phoenix-honolulu-business-820eb47d03bd6744419e75d50be43266)
+- [Internal document explains why Google has become slow and bureaucratic](https://www.businessinsider.com/google-document-bureaucracy-slime-mold-staff-frustration-2023-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
