@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C&#39;Dent is a new Acmeist programming language for writing portable modules &lpar;2010&rpar;](http://cdent.org/)
 - [Recent improvements to Safari](https://www.magiclasso.co/insights/triumph-of-safari/)
 - [TinyEMU – x86 and RISC-V emulator, small and simple while being complete](https://bellard.org/tinyemu/)
 - [The iPhone Keyboard – Make It or Break It &lpar;2022&rpar;](https://commoncog.com/case/iphone-keyboard/)
 - [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
-- [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
