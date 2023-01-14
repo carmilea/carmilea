@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Job interviews are a nightmare – and only getting worse](https://www.vox.com/the-goods/2023/1/12/23546379/job-interviewing-applying-exhausting-tests-employment)
+- [What ChatGPT Reveals about the Collapse of Support for Higher Education](https://crookedtimber.org/2023/01/05/what-chatgpt-reveals-about-the-collapse-of-political-corporate-support-for-humanities-higher-education/)
+- [Apple is no longer part of Glassdoor’s 100 Best Places to Work ranking](https://9to5mac.com/2023/01/13/apple-no-longer-part-glassdoor-ranking/)
+- [Show HN: Kody Tools – I developed 300 tools in 6 months](https://www.kodytools.com/)
 - [Conversations &lpar;XMPP Client&rpar; is now a UnifiedPush distributor](https://unifiedpush.org/users/distributors/conversations/)
 - [NTSB: Cloud shot up vertically in front of plane before turbulence](https://apnews.com/article/phoenix-honolulu-business-820eb47d03bd6744419e75d50be43266)
-- [FAA says computer failure was caused by 2 contractors who introduced data errors](https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/)
-- [Mainstream economists have completely blown the issue of working time &lpar;2001&rpar;](https://web.archive.org/web/20030605162351/http://www.straightgoods.com/item439.asp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
