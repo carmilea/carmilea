@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remembering the triumph and tragedy of the 1986 Paris-Dakar rally](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
+- [Whipper: Accurate Audio CD Ripping](https://github.com/whipper-team/whipper)
+- [Remembering the triumph and tragedy of the 1986 Paris-Dakar rally &lpar;2021&rpar;](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
+- [A Dynamic Forth Compiler for WebAssembly &lpar;2018&rpar;](https://el-tramo.be/blog/waforth/)
+- [Anarchist Cookbook &lpar;1971&rpar; [pdf]](https://ia600700.us.archive.org/17/items/anarchist-cookbook-william-powell_201810/anarchist-cookbook-william-powell.pdf)
 - [Blender for Symbian OS](https://github.com/Dante-Leoncini/Blendersito)
-- [The Special Armored Money Train That Ran from 1951 to 2006 in NYC](https://untappedcities.com/2023/01/05/mta-armored-money-train-nyc/)
-- [How Police Exploited the Capitol Riot’s Digital Records](https://spectrum.ieee.org/capitol-riot)
-- [Show HN: Hacker News Without News](https://hn.build-your-own.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
