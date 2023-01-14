@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 now automatically encrypts all new objects](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/)
+- [Theodore Ts&#39;o on ext2/3 being worse-is-better than FFS and XFS &lpar;2017&rpar;](https://web.archive.org/web/20170515160229/https://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html)
+- [Routine vaccinations drop among U.S. kindergartners for the third year in a row](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners/)
+- [Ask HN: Why arent developers interested in secure coding?](https://news.ycombinator.com/item?id=34378767)
+- [Always Look *Down* in London: Pavement Oddities](https://londonist.com/london/secret/look-down)
 - [There Was Nothing “Wasted” About My Youth Spent Clubbing on Ecstasy](https://filtermag.org/youth-clubbing-mdma-ecstasy/)
-- [C&#39;Dent is a new Acmeist programming language for writing portable modules &lpar;2010&rpar;](http://cdent.org/)
-- [On Trucking](https://snowingpine.com/2023/01/05/on-trucking)
-- [Recent improvements to Safari](https://www.magiclasso.co/insights/triumph-of-safari/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
