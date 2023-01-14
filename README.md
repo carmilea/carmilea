@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawsuit challenging Stable Diffusion filed against DeviantArt &amp; others](https://stablediffusionlitigation.com/)
 - [C&#39;Dent is a new Acmeist programming language for writing portable modules &lpar;2010&rpar;](http://cdent.org/)
+- [On Trucking](https://snowingpine.com/2023/01/05/on-trucking)
 - [Recent improvements to Safari](https://www.magiclasso.co/insights/triumph-of-safari/)
 - [TinyEMU – x86 and RISC-V emulator, small and simple while being complete](https://bellard.org/tinyemu/)
-- [The iPhone Keyboard – Make It or Break It &lpar;2022&rpar;](https://commoncog.com/case/iphone-keyboard/)
-- [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
