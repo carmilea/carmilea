@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA says computer failure was caused by 2 contractors who introduced data errors](https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/)
+- [A breakdown of Colorado&#39;s &#39;weather modification&#39; program](https://www.outtherecolorado.com/news/a-quick-breakdown-of-colorados-weather-modification-program/article_d01b73ea-906d-11ed-8b71-9b0fe103f14e.html)
 - [Whipper: Accurate Audio CD Ripping](https://github.com/whipper-team/whipper)
-- [Remembering the triumph and tragedy of the 1986 Paris-Dakar rally &lpar;2021&rpar;](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
+- [The 1986 Paris-Dakar rally &lpar;2021&rpar;](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
 - [A Dynamic Forth Compiler for WebAssembly &lpar;2018&rpar;](https://el-tramo.be/blog/waforth/)
-- [Anarchist Cookbook &lpar;1971&rpar; [pdf]](https://ia600700.us.archive.org/17/items/anarchist-cookbook-william-powell_201810/anarchist-cookbook-william-powell.pdf)
-- [Blender for Symbian OS](https://github.com/Dante-Leoncini/Blendersito)
 <!-- BLOG-POST-LIST:END -->
 
 ---
