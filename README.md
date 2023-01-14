@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon S3 now automatically encrypts all new objects](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/)
+- [There Was Nothing “Wasted” About My Youth Spent Clubbing on Ecstasy](https://filtermag.org/youth-clubbing-mdma-ecstasy/)
 - [C&#39;Dent is a new Acmeist programming language for writing portable modules &lpar;2010&rpar;](http://cdent.org/)
 - [On Trucking](https://snowingpine.com/2023/01/05/on-trucking)
 - [Recent improvements to Safari](https://www.magiclasso.co/insights/triumph-of-safari/)
-- [TinyEMU – x86 and RISC-V emulator, small and simple while being complete](https://bellard.org/tinyemu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
