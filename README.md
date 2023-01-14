@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you give back?](https://news.ycombinator.com/item?id=34383350)
-- [Ask HN: Role-model companies with the best dev culture in 2023](https://news.ycombinator.com/item?id=34383010)
-- [I don&#39;t understand terminals, shells and SSH](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/)
+- [Stripe crushed my startup at the first whiff of success](https://news.ycombinator.com/item?id=34383720)
+- [NASA’s Double Asteroid Redirection Test Is a Smashing Success](https://eos.org/articles/nasas-double-asteroid-redirection-test-is-a-smashing-success)
+- [Always Be Knolling &lpar;2018&rpar;](https://www.wellappointeddesk.com/2018/11/always-be-knolling/)
+- [mold - The &lpar;really&rpar; fast linker](https://github.com/rui314/mold)
 - [On the dangers of stochastic parrots: Can language models be too big? &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3442188.3445922)
-- [Counting the transistors in the 8086 processor: it&#39;s harder than you might think](http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
