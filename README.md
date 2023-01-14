@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TinyEMU – x86 and RISC-V emulator, small and simple while being complete](https://bellard.org/tinyemu/)
+- [The iPhone Keyboard – Make It or Break It &lpar;2022&rpar;](https://commoncog.com/case/iphone-keyboard/)
 - [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
 - [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
 - [Long Covid: major findings, mechanisms and recommendations](https://www.nature.com/articles/s41579-022-00846-2)
-- [EPA Proposes to Strengthen Air Quality Standards](https://www.epa.gov/newsreleases/epa-proposes-strengthen-air-quality-standards-protect-public-harmful-effects-soot)
-- [How will the remaining uplift affect the Scandinavian landscape?](https://geoforskning.no/hvordan-vil-gjenstaende-landheving-pavirke-landskapet-eng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
