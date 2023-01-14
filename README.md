@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe crushed my startup at the first whiff of success](https://news.ycombinator.com/item?id=34383720)
 - [NASA’s Double Asteroid Redirection Test Is a Smashing Success](https://eos.org/articles/nasas-double-asteroid-redirection-test-is-a-smashing-success)
 - [Always Be Knolling &lpar;2018&rpar;](https://www.wellappointeddesk.com/2018/11/always-be-knolling/)
 - [mold - The &lpar;really&rpar; fast linker](https://github.com/rui314/mold)
 - [On the dangers of stochastic parrots: Can language models be too big? &lpar;2021&rpar;](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- [Homelab Analog Telephone Exchange](https://skagmo.com/page.php?p=projects/42_pbx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
