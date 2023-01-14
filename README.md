@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Police Exploited the Capitol Riot’s Digital Records](https://spectrum.ieee.org/capitol-riot)
+- [Show HN: Hacker News Without News](https://hn.build-your-own.org/)
 - [YC&#39;s Startup School is growing and we need a product engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
 - [British Motorway Database](https://www.roads.org.uk/motorway)
 - [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)
-- [Theodore Ts&#39;o on ext2/3 being worse-is-better than FFS and XFS &lpar;2017&rpar;](https://web.archive.org/web/20170515160229/https://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html)
-- [Routine vaccinations drop among U.S. kindergartners for the third year in a row](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
