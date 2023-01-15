@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Realistic daily range of an electric vehicle: 50% of EPA range](https://blog.forret.com/2023/01/15/realistic-daily-range-ev/)
+- [Amazon is no longer allowing downloading Kindle Unlimited titles via USB](https://goodereader.com/blog/kindle/amazon-is-no-longer-allowing-downloading-kindle-unlimited-titles-via-usb)
+- [To Explain or to Predict? &lpar;2010&rpar; [pdf]](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
+- [NYPD can use more than 15,000 cameras to track people using facial recognition](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
 - [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
-- [Remastering Colin McRae Rally 3 with SilentPatch](https://cookieplmonster.github.io/2023/01/15/remastering-colin-mcrae-rally-3-silentpatch/)
-- [Netflix to open $900M facility at former Fort Monmouth Army base in New Jersey](https://www.foxbusiness.com/economy/netflix-open-900m-facility-former-fort-monmouth-army-base-new-jersey)
-- [Wyoming wants to phase out sales of EVs by 2035](https://www.teslarati.com/wyoming-phase-out-evs-2035/)
-- [Stripe clawed back pension contributions after staff cuts](https://www.businesspost.ie/news/stripe-clawed-back-pension-contributions-after-staff-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
