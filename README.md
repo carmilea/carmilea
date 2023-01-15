@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A formula for the n’th digit of 𝜋 and 𝜋^n](https://arxiv.org/abs/2201.12601)
+- [More Than 150 Organizations Call to Close Guantánamo on 21st Anniversary](https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/)
 - [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
 - [Porth, It&#39;s Like Forth but in Python](https://gitlab.com/tsoding/porth)
 - [I&#39;m Shadow Banned by DuckDuckGo &lpar;and Bing&rpar;](https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/)
-- [Ask HN: How do you trust that your personal machine is not compromised?](https://news.ycombinator.com/item?id=34388866)
-- [Single-file scripts that download their dependencies](https://dbohdan.com/scripts-with-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
