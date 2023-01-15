@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe clawed back pension contributions after staff cuts](https://www.businesspost.ie/news/stripe-clawed-back-pension-contributions-after-staff-cuts/)
 - [Show HN: AI-powered code correction that teaches you along the way](https://useadrenaline.com)
 - [How I Ruined My SEO](https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo)
-- [Max Verstappen got blank screen while leading virtual Le Man 24 hr, retires](https://thesportsrush.com/f1-news-last-time-im-participating-max-verstappen-fumes-as-he-forcibly-retires-from-virtual-24-hours-of-le-mans/)
 - [A formula for the n’th digit of 𝜋 and 𝜋^n](https://arxiv.org/abs/2201.12601)
 - [More Than 150 Organizations Call to Close Guantánamo on 21st Anniversary](https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/)
 <!-- BLOG-POST-LIST:END -->
