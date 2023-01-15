@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flightcontrol &lpar;YC W22&rpar; is hiring Developer Advocate &lpar;remote/fulltime&rpar;](https://jobs.flightcontrol.dev/developer-advocate)
-- [Constrain – Interactive figures using declarative constraint solving](https://github.com/andrewcmyers/constrain)
-- [SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup](https://github.com/Enerccio/SLT)
-- [Go FOSS: Information is power](https://gofoss.net/)
-- [Twitter API Page](https://developer.twitter.com/apitools)
+- [The Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html)
+- [Porth, It&#39;s Like Forth but in Python](https://gitlab.com/tsoding/porth)
+- [I&#39;m Shadow Banned by DuckDuckGo &lpar;and Bing&rpar;](https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/)
+- [Ask HN: How do you trust that your personal machine is not compromised?](https://news.ycombinator.com/item?id=34388866)
+- [Single-file scripts that download their dependencies](https://dbohdan.com/scripts-with-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
