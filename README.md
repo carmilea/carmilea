@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Money Creation in the Modern Economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
+- [ChatGPT scores 80% on SAT reading/writing with collective chain of thought](https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/)
+- [Server BMCs can need to be rebooted every so often](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting)
 - [Running KDE Plasma on RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
-- [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://github.com/williamyang1991/VToonify)
-- [CircleCI says hackers stole encryption keys and customers’ source code](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
-- [A Letter from _why &lpar;2005&rpar;](https://aberant.tumblr.com/post/167375099/a-letter-from-why)
-- [Death of Korea&#39;s &#39;apartment king&#39; leaves 100s in property purgatory](https://koreajoongangdaily.joins.com/2022/12/15/business/economy/korea-apartment-property/20221215162841416.html)
+- [Show HN: Ailice – This model does not exist](https://www.thismodeldoesnotexist.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
