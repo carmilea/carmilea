@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Money Creation in the Modern Economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
+- [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
+- [Remembering Intel’s Andrew Grove, who sounded alarm against offshoring &lpar;2016&rpar;](https://www.americanmanufacturing.org/blog/opinion-remembering-intels-andrew-grove-who-sounded-the-alarm-against-offshoring/)
+- [The Bibites: Artificial Life Simulation](https://leocaussan.itch.io/the-bibites)
 - [ChatGPT scores 80% on SAT reading/writing with collective chain of thought](https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/)
 - [Server BMCs can need to be rebooted every so often](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting)
-- [Running KDE Plasma on RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
-- [Show HN: Ailice – This model does not exist](https://www.thismodeldoesnotexist.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
