@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite: 35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
+- [Twitter API Page](https://developer.twitter.com/apitools)
+- [Ubuntu 22.04 LTS servers and phased apt updates](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates)
+- [Faster than the filesystem](https://www.sqlite.org/fasterthanfs.html)
+- [The joy of sets](https://www.prospectmagazine.co.uk/arts-and-books/the-joy-of-sets)
 - [Money creation in the modern economy &lpar;2014&rpar;](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
-- [The Bibites: Artificial Life Simulation](https://leocaussan.itch.io/the-bibites)
-- [ChatGPT scores 80% on SAT reading/writing with collective chain of thought](https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/)
-- [Server BMCs can need to be rebooted every so often](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
