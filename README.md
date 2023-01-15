@@ -54,8 +54,8 @@
 - [Twitter API Page](https://developer.twitter.com/apitools)
 - [Ubuntu 22.04 LTS servers and phased apt updates](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates)
 - [Faster than the filesystem](https://www.sqlite.org/fasterthanfs.html)
+- [Bayesian statistics and machine learning: How do they differ?](https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/)
 - [The joy of sets](https://www.prospectmagazine.co.uk/arts-and-books/the-joy-of-sets)
-- [Money creation in the modern economy &lpar;2014&rpar;](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
