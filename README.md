@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you or someone you know give money to your parents?](https://news.ycombinator.com/item?id=34392425)
+- [Gimp 2.10.32 on Apple Silicon &lpar;2022&rpar;](https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/)
+- [NSA asks Congress to let it get on with that warrantless data harvesting, again](https://www.theregister.com/2023/01/14/in_brief_security/)
+- [In a Moment, Mathematicians Merge Probability and Number Theory](https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/)
 - [Google announces update to unlock Stadia controllers to work with other devices](https://community.stadia.com/t5/Stadia-General/A-Gift-from-the-Stadia-Team-amp-Bluetooth-Controller/m-p/85936#M34875)
-- [DIY Raspberry / Orange Pi NAS That Looks Like a NAS – 2023 Edition](https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/)
-- [Realistic daily range of an electric vehicle: 50% of EPA range](https://blog.forret.com/2023/01/15/realistic-daily-range-ev/)
-- [Amazon is no longer allowing downloading Kindle Unlimited titles via USB](https://goodereader.com/blog/kindle/amazon-is-no-longer-allowing-downloading-kindle-unlimited-titles-via-usb)
-- [To Explain or to Predict? &lpar;2010&rpar; [pdf]](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
