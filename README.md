@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grain Farming Goes Indoors](https://modernfarmer.com/2023/01/grain-farming-goes-indoors/)
-- [The Inner Beauty of Basic Electronics](https://spectrum.ieee.org/open-circuits)
-- [9 Things I Learned from My 2 Year Old Baby Girl](https://madeincosmos.substack.com/p/9-things-i-learned-from-my-2-year)
-- [Use.GPU Goes Trad](https://acko.net/blog/use-gpu-goes-trad/)
-- [Ask HN: Do You Test in Production?](https://news.ycombinator.com/item?id=34384656)
+- [Two research teams reverse signs of aging in mice](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice)
+- [Four Thousand Weeks](https://leebyron.com/4000/)
+- [‘Excuuuuse me, Princess ’: An oral history of The Legend of Zelda cartoon](https://www.polygon.com/zelda/23540526/legend-of-zelda-cartoon-oral-history-zeldathon)
+- [Finding Nice MD5s Using Rust](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/)
+- [Ionocaloric refrigeration cycle](https://www.science.org/doi/10.1126/science.ade1696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
