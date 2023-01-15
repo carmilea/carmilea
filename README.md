@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running KDE Plasma on RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
 - [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://github.com/williamyang1991/VToonify)
 - [CircleCI says hackers stole encryption keys and customers’ source code](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
-- [A Letter from _why](https://aberant.tumblr.com/post/167375099/a-letter-from-why)
+- [A Letter from _why &lpar;2005&rpar;](https://aberant.tumblr.com/post/167375099/a-letter-from-why)
 - [Death of Korea&#39;s &#39;apartment king&#39; leaves 100s in property purgatory](https://koreajoongangdaily.joins.com/2022/12/15/business/economy/korea-apartment-property/20221215162841416.html)
-- [Two research teams reverse signs of aging in mice](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
