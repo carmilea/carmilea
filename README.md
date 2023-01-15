@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flightcontrol &lpar;YC W22&rpar; is hiring Developer Advocate &lpar;remote/fulltime&rpar;](https://jobs.flightcontrol.dev/developer-advocate)
+- [Constrain – Interactive figures using declarative constraint solving](https://github.com/andrewcmyers/constrain)
 - [SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup](https://github.com/Enerccio/SLT)
 - [Go FOSS: Information is power](https://gofoss.net/)
-- [German riot police clear protesters for coal mine expansion](https://www.cnn.com/2023/01/14/europe/lutzerath-germany-coal-protests-climate-intl/index.html)
 - [Twitter API Page](https://developer.twitter.com/apitools)
-- [Ubuntu 22.04 LTS servers and phased apt updates](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
