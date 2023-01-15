@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
+- [Money creation in the modern economy &lpar;2014&rpar;](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
 - [Remembering Intel’s Andrew Grove, who sounded alarm against offshoring &lpar;2016&rpar;](https://www.americanmanufacturing.org/blog/opinion-remembering-intels-andrew-grove-who-sounded-the-alarm-against-offshoring/)
 - [The Bibites: Artificial Life Simulation](https://leocaussan.itch.io/the-bibites)
 - [ChatGPT scores 80% on SAT reading/writing with collective chain of thought](https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/)
