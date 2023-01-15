@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toes regrow with the help of cells at the base of the nail](https://www.nature.com/articles/d41586-022-04497-4)
 - [The Shit Show](https://furbo.org/2023/01/15/the-shit-show/)
-- [Your Windows 10 might have tricked you into using a online account](https://news.ycombinator.com/item?id=34393273)
-- [Trace your Python process line by line with minimal overhead!](https://github.com/furkanonder/beetrace)
+- [Trace your Python process line by line with minimal overhead](https://github.com/furkanonder/beetrace)
 - [Awk: Power and Promise of a 40 yr old language &lpar;2021&rpar;](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
+- [What we know now about Friday night’s near-disaster at JFK airport](https://viewfromthewing.com/what-we-know-now-about-friday-nights-near-disaster-at-jfk-airport/)
+- [Making Lenses Practical in Java](https://chriskiehl.com/article/practical-lenses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
