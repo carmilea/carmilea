@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do you or someone you know give money to your parents?](https://news.ycombinator.com/item?id=34392425)
-- [Gimp 2.10.32 on Apple Silicon &lpar;2022&rpar;](https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/)
-- [NSA asks Congress to let it get on with that warrantless data harvesting, again](https://www.theregister.com/2023/01/14/in_brief_security/)
-- [In a Moment, Mathematicians Merge Probability and Number Theory](https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/)
-- [Google announces update to unlock Stadia controllers to work with other devices](https://community.stadia.com/t5/Stadia-General/A-Gift-from-the-Stadia-Team-amp-Bluetooth-Controller/m-p/85936#M34875)
+- [Awk: Power and Promise of a 40 yr old language &lpar;2021&rpar;](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
+- [Making Lenses Practical in Java](https://chriskiehl.com/article/practical-lenses)
+- [Tell HN: Best Use for old iPads &lpar;that I found&rpar;](https://news.ycombinator.com/item?id=34392783)
+- [Canadians are now stealing overpriced food from grocery stores with zero remorse](https://www.blogto.com/eat_drink/2023/01/canadians-stealing-food-grocery-stores/)
+- [Awk equivalents to SQL query data manipulation](https://subhadip.ca/unixlinux/awk-commands-equivalent-to-sql-query-data-manipulation/4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
