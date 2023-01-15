@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup](https://github.com/Enerccio/SLT)
+- [Go FOSS: Information is power](https://gofoss.net/)
+- [German riot police clear protesters for coal mine expansion](https://www.cnn.com/2023/01/14/europe/lutzerath-germany-coal-protests-climate-intl/index.html)
 - [Twitter API Page](https://developer.twitter.com/apitools)
 - [Ubuntu 22.04 LTS servers and phased apt updates](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates)
-- [Faster than the filesystem](https://www.sqlite.org/fasterthanfs.html)
-- [Bayesian statistics and machine learning: How do they differ?](https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/)
-- [The joy of sets](https://www.prospectmagazine.co.uk/arts-and-books/the-joy-of-sets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
