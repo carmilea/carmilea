@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toes regrow with the help of cells at the base of the nail](https://www.nature.com/articles/d41586-022-04497-4)
+- [The Shit Show](https://furbo.org/2023/01/15/the-shit-show/)
+- [Your Windows 10 might have tricked you into using a online account](https://news.ycombinator.com/item?id=34393273)
+- [Trace your Python process line by line with minimal overhead!](https://github.com/furkanonder/beetrace)
 - [Awk: Power and Promise of a 40 yr old language &lpar;2021&rpar;](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
-- [Making Lenses Practical in Java](https://chriskiehl.com/article/practical-lenses)
-- [Tell HN: Best Use for old iPads &lpar;that I found&rpar;](https://news.ycombinator.com/item?id=34392783)
-- [Canadians are now stealing overpriced food from grocery stores with zero remorse](https://www.blogto.com/eat_drink/2023/01/canadians-stealing-food-grocery-stores/)
-- [Awk equivalents to SQL query data manipulation](https://subhadip.ca/unixlinux/awk-commands-equivalent-to-sql-query-data-manipulation/4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
