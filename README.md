@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://github.com/williamyang1991/VToonify)
+- [CircleCI says hackers stole encryption keys and customers’ source code](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
+- [A Letter from _why](https://aberant.tumblr.com/post/167375099/a-letter-from-why)
+- [Death of Korea&#39;s &#39;apartment king&#39; leaves 100s in property purgatory](https://koreajoongangdaily.joins.com/2022/12/15/business/economy/korea-apartment-property/20221215162841416.html)
 - [Two research teams reverse signs of aging in mice](https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice)
-- [Four Thousand Weeks](https://leebyron.com/4000/)
-- [‘Excuuuuse me, Princess ’: An oral history of The Legend of Zelda cartoon](https://www.polygon.com/zelda/23540526/legend-of-zelda-cartoon-oral-history-zeldathon)
-- [Finding Nice MD5s Using Rust](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/)
-- [Ionocaloric refrigeration cycle](https://www.science.org/doi/10.1126/science.ade1696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
