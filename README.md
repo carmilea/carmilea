@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Amazon S3 server side encryption &lpar;SSE-S3&rpar; is misleading](https://www.secwale.com/p/encryption)
+- [Trusting Fatshark with Warhammer 40k: Darktide &lpar;2020&rpar;](https://www.fatshark.se/news/2021/4/19/trusting-fatshark-with-warhammer-40000-darktide-1)
+- [Why Alexa won&#39;t wake up when she hears her name in ads &lpar;2019&rpar;](https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad)
+- [GPU Caching Compared Among AMD, Intel UHD, Apple M1](https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/)
 - [Late Hokusai: Thought, Technique, Society](https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society)
-- [Tesla Price Drop Angers Current Owners](https://www.bloomberg.com/news/articles/2023-01-13/tesla-price-drop-angers-current-owners-as-much-as-it-hits-profit-margins)
-- [Speeding up the JavaScript ecosystem part 2 – Module Resolution](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/)
-- [America’s trustbusters plan to curtail the use of non-compete clauses. Good](https://www.economist.com/leaders/2023/01/12/americas-trustbusters-plan-to-curtail-the-use-of-non-compete-clauses-good)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
