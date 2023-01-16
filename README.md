@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DataFixerUpper: Incremental building and merging of data transformations](https://github.com/Mojang/DataFixerUpper)
+- [All API keys for TweetBot are disabled by Twitter, per developer](https://tapbots.social/@paul/109695822047176004)
+- [Authentication with Django and Single Page Apps &lpar;2020&rpar;](https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas)
+- [Review: “Did you miss my comments or what?” Toxicity in Open Source Discussions](https://tylercipriani.com/blog/2023/01/15/entitlement-burnout-and-toxicity/)
 - [Misskey: An Interplanetary Microblogging Platform](https://github.com/misskey-dev/misskey)
-- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
-- [Improving Async Networking in Python](https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent)
-- [SAIC Galaxy 1100: a pre-CDE VUE of the PA-RISC with a security clearance](http://oldvcr.blogspot.com/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)
+- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond &lpar;2001&rpar; &lpar;2001&rpar;](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 ---
