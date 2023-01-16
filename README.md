@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [German defence minister Christine Lambrecht quits after series of blunders](https://www.theguardian.com/world/2023/jan/16/german-defence-minister-christine-lambrecht-quits)
-- [Apple Silicon Mac’s have 2-3 times longer battery than PC laptops](https://www.youtube.com/watch?v=P0h8q6D0s74)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [YouTube Doesn&#39;t “Get It”](https://news.ycombinator.com/item?id=34402292)
+- [Heat pumps of the 1800s are becoming the technology of the future](https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future)
+- [Godot for AA/AAA game development – What&#39;s missing?](https://godotengine.org/article/whats-missing-in-godot-for-aaa/)
 - [Lawyers Barred by Madison Square Garden Found a Way Back In](https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html)
-- [Show HN: Sketch – AI code-writing assistant that understands data content](https://github.com/approximatelabs/sketch)
-- [Ask HN: When to make the jump to freelance/consultant?](https://news.ycombinator.com/item?id=34400435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
