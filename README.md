@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [German defense minister announces resignation](https://www.dw.com/en/german-defense-minister-announces-resignation/a-64401401)
+- [The IAB loves tracking users. But it hates users tracking them](https://shkspr.mobi/blog/2023/01/the-iab-loves-tracking-users-but-it-hates-users-tracking-them/)
+- [Wobbly Clock!](https://wobble-clock.glitch.me/)
+- [Customer returned $800 in books after using them to stage a home for holidays](https://www.insider.com/customer-returned-books-after-using-them-stage-home-bookstore-owner-2023-1)
+- [There’s No Planet B](https://aeon.co/essays/we-will-never-be-able-to-live-on-another-planet-heres-why)
 - [ASCII table and history – Or, why does Ctrl+I insert a Tab in my terminal?](https://bestasciitable.com)
-- [Reverse engineering a neural network&#39;s clever solution to binary addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
-- [Granian – a Rust HTTP server for Python applications](https://github.com/emmett-framework/granian)
-- [Show HN: Meet developers 1-on-1 every week](https://github.com/DevClad-Inc/devclad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
