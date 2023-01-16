@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Got Attacked by Yanluowang Ransomware Gang](https://beaglesecurity.com/blog/article/cisco-attack-by-yanluowang-ransomware-gang.html)
+- [Bjarne Stroustrup: Think seriously about “safety”... [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
 - [selfie – A tiny RISC-V C compiler, emulator and hypervisor](http://selfie.cs.uni-salzburg.at/)
 - [Bill Gates tries to install Movie Maker](https://twitter.com/techemails/status/1614682414634373120)
 - [IBM shifts remaining US-based AIX dev jobs to India – source](https://www.theregister.com/2023/01/12/ibm_aix_developer_jobs/)
-- [Supporting half-precision floats is really annoying &lpar;2021&rpar;](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
-- [Tweetbot is back down again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
