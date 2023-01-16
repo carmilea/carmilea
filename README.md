@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [selfie – A tiny RISC-V C compiler, emulator and hypervisor](http://selfie.cs.uni-salzburg.at/)
+- [In case you thought IBM&#39;s AIX had a future](https://www.talospace.com/2023/01/in-case-you-thought-aix-had-future.html)
 - [Objection to ORM Hatred &lpar;2019&rpar;](https://www.jakso.me/blog/objection-to-orm-hatred)
 - [Supporting half-precision floats is really annoying &lpar;2021&rpar;](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
 - [Tweetbot is back down again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage)
-- [Blogging and Microblogging](https://mjg59.dreamwidth.org/64660.html)
-- [Authentication with Django and Single Page Apps &lpar;2020&rpar;](https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
