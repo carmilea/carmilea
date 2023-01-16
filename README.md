@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China leads the quest for small modular nuclear reactors–will the world follow?](https://spectrum.ieee.org/small-modular-reactors)
+- [DataFixerUpper: Incremental building and merging of data transformations](https://github.com/Mojang/DataFixerUpper)
+- [Misskey: An Interplanetary Microblogging Platform](https://github.com/misskey-dev/misskey)
 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 - [Improving Async Networking in Python](https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent)
 - [SAIC Galaxy 1100: a pre-CDE VUE of the PA-RISC with a security clearance](http://oldvcr.blogspot.com/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)
-- [Common Hall-effect sensor myths](https://e2e.ti.com/blogs_/b/analogwire/posts/5-common-hall-effect-sensor-myths)
 <!-- BLOG-POST-LIST:END -->
 
 ---
