@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Late Hokusai: Thought, Technique, Society](https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society)
+- [Tesla Price Drop Angers Current Owners](https://www.bloomberg.com/news/articles/2023-01-13/tesla-price-drop-angers-current-owners-as-much-as-it-hits-profit-margins)
+- [Speeding up the JavaScript ecosystem part 2 – Module Resolution](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/)
+- [America’s trustbusters plan to curtail the use of non-compete clauses. Good](https://www.economist.com/leaders/2023/01/12/americas-trustbusters-plan-to-curtail-the-use-of-non-compete-clauses-good)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [YouTube Doesn&#39;t “Get It”](https://news.ycombinator.com/item?id=34402292)
-- [Heat pumps of the 1800s are becoming the technology of the future](https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future)
-- [Godot for AA/AAA game development – What&#39;s missing?](https://godotengine.org/article/whats-missing-in-godot-for-aaa/)
-- [Lawyers Barred by Madison Square Garden Found a Way Back In](https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
