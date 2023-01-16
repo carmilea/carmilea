@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All API keys for TweetBot are disabled by Twitter, per developer](https://tapbots.social/@paul/109695822047176004)
+- [Objection to ORM Hatred &lpar;2019&rpar;](https://www.jakso.me/blog/objection-to-orm-hatred)
+- [Supporting half-precision floats is really annoying &lpar;2021&rpar;](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
+- [Tweetbot is back down again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage)
+- [Blogging and Microblogging](https://mjg59.dreamwidth.org/64660.html)
 - [Authentication with Django and Single Page Apps &lpar;2020&rpar;](https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas)
-- [Autotone – A vocal pitch correction web application, like Autotune](https://github.com/alexcrist/autotone)
-- [DataFixerUpper: Incremental building and merging of data transformations](https://github.com/Mojang/DataFixerUpper)
-- [Misskey: An Interplanetary Microblogging Platform](https://github.com/misskey-dev/misskey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
