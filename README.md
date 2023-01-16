@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawyers Barred by Madison Square Garden Found a Way Back In](https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html)
+- [Show HN: Sketch – AI code-writing assistant that understands data content](https://github.com/approximatelabs/sketch)
+- [Ask HN: When to make the jump to freelance/consultant?](https://news.ycombinator.com/item?id=34400435)
+- [Servo to Advance in 2023](https://servo.org/blog/2023/01/16/servo-2023/)
 - [The IAB loves tracking users. But it hates users tracking them](https://shkspr.mobi/blog/2023/01/the-iab-loves-tracking-users-but-it-hates-users-tracking-them/)
-- [Wobbly Clock!](https://wobble-clock.glitch.me/)
-- [Customer returned $800 in books after using them to stage a home for holidays](https://www.insider.com/customer-returned-books-after-using-them-stage-home-bookstore-owner-2023-1)
-- [There’s No Planet B](https://aeon.co/essays/we-will-never-be-able-to-live-on-another-planet-heres-why)
-- [ASCII table and history – Or, why does Ctrl+I insert a Tab in my terminal?](https://bestasciitable.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
