@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Nvidia’s CUDA Monopoly in Machine Learning Is Breaking](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)
+- [Is there a license to protect my code and art from AI?](https://news.ycombinator.com/item?id=34398656)
 - [Cisco Got Attacked by Yanluowang Ransomware Gang](https://beaglesecurity.com/blog/article/cisco-attack-by-yanluowang-ransomware-gang.html)
 - [Bjarne Stroustrup: Think seriously about “safety”... [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
 - [selfie – A tiny RISC-V C compiler, emulator and hypervisor](http://selfie.cs.uni-salzburg.at/)
-- [Bill Gates tries to install Movie Maker](https://twitter.com/techemails/status/1614682414634373120)
-- [IBM shifts remaining US-based AIX dev jobs to India – source](https://www.theregister.com/2023/01/12/ibm_aix_developer_jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
