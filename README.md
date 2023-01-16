@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering a Neural Network&#39;s Clever Solution to Binary Addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
+- [German defense minister announces resignation](https://www.dw.com/en/german-defense-minister-announces-resignation/a-64401401)
+- [ASCII table and history – Or, why does Ctrl+I insert a Tab in my terminal?](https://bestasciitable.com)
+- [Reverse engineering a neural network&#39;s clever solution to binary addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
+- [Granian – a Rust HTTP server for Python applications](https://github.com/emmett-framework/granian)
 - [Show HN: Meet developers 1-on-1 every week](https://github.com/DevClad-Inc/devclad)
-- [How Nvidia’s CUDA Monopoly in Machine Learning Is Breaking](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)
-- [Gasoline Is Made of Carbon Sucked from the Air &lpar;2018&rpar;](https://www.nationalgeographic.com/science/article/carbon-engineering-liquid-fuel-carbon-capture-neutral-science)
-- [Cisco Got Attacked by Yanluowang Ransomware Gang](https://beaglesecurity.com/blog/article/cisco-attack-by-yanluowang-ransomware-gang.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
