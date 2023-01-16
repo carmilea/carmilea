@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Live Queries with live directive](https://grafbase.com/blog/simplify-building-realtime-applications-with-graphql-live-queries)
+- [Crows of Karachi](https://orionmagazine.org/article/crows-of-karachi-pakistan/)
+- [A Supermarket Visit Brought Down the Soviet Union](http://beelineblogger.blogspot.com/2016/01/how-supermarket-visit-brought-down.html)
+- [Brad Feld: I Don&#39;t Hate Crypto](https://feld.com/archives/2023/01/i-dont-hate-crypto/)
+- [Show HN: Cross-Platform GitHub Action](https://github.com/marketplace/actions/cross-platform-action)
 - [The Cloud Conundrum: S3 Encryption](https://www.secwale.com/p/encryption)
-- [Trusting Fatshark with Warhammer 40k: Darktide &lpar;2020&rpar;](https://www.fatshark.se/news/2021/4/19/trusting-fatshark-with-warhammer-40000-darktide-1)
-- [Conditional CSS](https://ishadeed.com/article/conditional-css/)
-- [Why Alexa won&#39;t wake up when hearing &quot;Alexa&quot; in Amazon&#39;s Super Bowl ad &lpar;2019&rpar;](https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
