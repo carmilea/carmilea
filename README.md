@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple won’t let you use an Apple TV unless you have another Apple device](https://twitter.com/hugelgupf/status/1614794516309118977)
+- [How to Make Yourself into a Learning Machine](https://every.to/superorganizers/how-to-build-a-learning-machine-299655)
 - [The hardest part of being a junior developer](https://rachsmith.com/the-hardest-part-of-being-a-jnr/)
 - [Netflix Has Created a Self-Fulfilling Cancelation Loop with Its New Shows](https://www.forbes.com/sites/paultassi/2023/01/16/netflix-has-created-a-self-fulfilling-cancelation-loop-with-its-new-shows/)
 - [Crows of Karachi](https://orionmagazine.org/article/crows-of-karachi-pakistan/)
-- [A Supermarket Visit Brought Down the Soviet Union](http://beelineblogger.blogspot.com/2016/01/how-supermarket-visit-brought-down.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
