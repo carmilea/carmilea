@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Amazon S3 server side encryption &lpar;SSE-S3&rpar; is misleading](https://www.secwale.com/p/encryption)
+- [GraphQL Live Queries with live directive](https://grafbase.com/blog/simplify-building-realtime-applications-with-graphql-live-queries)
+- [The Cloud Conundrum: S3 Encryption](https://www.secwale.com/p/encryption)
 - [Trusting Fatshark with Warhammer 40k: Darktide &lpar;2020&rpar;](https://www.fatshark.se/news/2021/4/19/trusting-fatshark-with-warhammer-40000-darktide-1)
-- [Why Alexa won&#39;t wake up when she hears her name in ads &lpar;2019&rpar;](https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad)
-- [GPU Caching Compared Among AMD, Intel UHD, Apple M1](https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/)
-- [Late Hokusai: Thought, Technique, Society](https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society)
+- [Conditional CSS](https://ishadeed.com/article/conditional-css/)
+- [Why Alexa won&#39;t wake up when hearing &quot;Alexa&quot; in Amazon&#39;s Super Bowl ad &lpar;2019&rpar;](https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
