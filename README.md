@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legit Startups – AI Generated Startup Websites](https://legit-startups.com/)
 - [Pretty Good House](https://www.prettygoodhouse.org)
 - [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
 - [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 - [Quitting the rat race](https://seanbarry.dev/posts/quitting-the-rat-race/)
-- [Programmer salaries in the age of LLMs](https://milkyeggs.com/?p=303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
