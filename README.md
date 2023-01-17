@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Amazon selling fake 16TB portable SSD drives?](https://www.reviewgeek.com/142496/why-the-heck-is-amazon-selling-these-fake-16-terabyte-portable-hard-drives/)
+- [Memory Safety Approaches Speed Up and Slow Down Development Velocity](https://verdagon.dev/blog/when-to-use-memory-safe-part-2)
+- [Using jlink to cross-compile minimal JREs](https://jakewharton.com/using-jlink-to-cross-compile-minimal-jres/)
 - [The November 2020 landslide, tsunami, and outburst flood at Elliot Creek](https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/)
 - [Hubble finds black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
 - [The Pretty Good House](https://www.prettygoodhouse.org)
-- [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
