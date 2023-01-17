@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP in 2023](https://stitcher.io/blog/php-in-2023)
+- [Dijkstra Maps Visualized](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
+- [We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
 - [Twitter kicking off a developer API campaign on January 16, 2023](https://carhenge.club/@mattdsteele/109700383808551139)
 - [Olympic medalists in art competitions](https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_art_competitions)
-- [Memory Safety Approaches Speed Up and Slow Down Development Velocity](https://verdagon.dev/blog/when-to-use-memory-safe-part-2)
-- [Using jlink to cross-compile minimal JREs](https://jakewharton.com/using-jlink-to-cross-compile-minimal-jres/)
-- [The November 2020 landslide, tsunami, and outburst flood at Elliot Creek](https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
