@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Found ChatGPT’s Humans in the Loop](https://mindmatters.ai/2023/01/found-chatgpts-humans-in-the-loop/)
+- [Apple offers $970 in trade-in value for $52,199 Mac Pro](https://twitter.com/durvidimel/status/1615371726195687424)
+- [What’s Going on in the World of Extensions](https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/)
+- [EV batteries alone could satisfy short-term grid storage demand as early as 2030](https://www.nature.com/articles/s41467-022-35393-0)
+- [Pegasus: A Spy in Your Pocket Threatens the End of Privacy](https://www.tatteredcover.com/book/9781250858696)
 - [Microsoft to lay off 11,000 employees](https://www.reuters.com/technology/microsoft-cut-thousands-jobs-sky-news-2023-01-17/)
-- [Republicans to pass bill in House to end telework for federal employees](https://www.wusa9.com/article/news/local/dc/show-up-act-federal-workers-telework-bill/65-11d0e826-21c4-4a2e-96ba-1741637411d2)
-- [Losing Taiwan Means Losing Japan](https://scholars-stage.org/losing-taiwan-means-losing-japan/)
-- [A new CT scan to detect and cure the commonest cause of high blood pressure](https://www.qmul.ac.uk/media/news/2023/smd/ten-minute-scan-enables-detection-and-cure-of-the-commonest-cause-of-high-blood-pressure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
