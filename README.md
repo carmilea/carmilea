@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Chief of Staff and Product Managers in Atlanta](https://sirum.org/careers/)
+- [Show HN: Cosh – concatenative command-line shell](https://github.com/tomhrr/cosh)
 - [PHP in 2023](https://stitcher.io/blog/php-in-2023)
 - [Dijkstra Maps Visualized](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
 - [We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
-- [Twitter kicking off a developer API campaign on January 16, 2023](https://carhenge.club/@mattdsteele/109700383808551139)
 <!-- BLOG-POST-LIST:END -->
 
 ---
