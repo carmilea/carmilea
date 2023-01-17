@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby 3.2’s YJIT is Production-Ready](https://shopify.engineering/ruby-yjit-is-production-ready)
-- [New Mac Mini](https://www.apple.com/mac-mini/)
-- [Apple Unveils MacBook Pro Featuring M2 Pro and M2 Max](https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/)
-- [The FBI Identified a Tor User](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
-- [Ask HN: Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
+- [Britishvolt: UK battery startup collapses into administration](https://www.bbc.co.uk/news/business-64303149)
+- [Ask HN: What interesting people are you following on Mastodon?](https://news.ycombinator.com/item?id=34413641)
+- [Afraid of high-tech food? Get over it](https://www.canarymedia.com/articles/food-and-farms/afraid-of-high-tech-food-get-over-it)
+- [GNU make 4.4 adds --shuffle to help find parallel build issues](https://trofi.github.io/posts/238-new-make-shuffle-mode.html)
+- [Laser desorption mass spectrometry – Alien detector that fits in your hand](https://www.nature.com/articles/s41550-022-01866-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
