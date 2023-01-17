@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Amazon Selling These Fake 16TB Portable SSD Drives?](https://www.reviewgeek.com/142496/why-the-heck-is-amazon-selling-these-fake-16-terabyte-portable-hard-drives/)
 - [The November 2020 landslide, tsunami, and outburst flood at Elliot Creek](https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/)
 - [Hubble finds black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
 - [The Pretty Good House](https://www.prettygoodhouse.org)
 - [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
-- [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
