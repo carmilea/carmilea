@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Autopilot software boss says Tesla staged 2016 self-driving video](https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/)
-- [Apple offers $970 in trade-in value for $52,199 Mac Pro](https://twitter.com/durvidimel/status/1615371726195687424)
+- [The Art of Knowing When to Quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
+- [Hyundai Head Unit Hacking](https://xakcop.com/post/hyundai-hack-2/)
+- [Tailscale bug allowed a person to share nodes from other tailnets without auth](https://tailscale.com/security-bulletins/#ts-2023-001/)
+- [The Metapict Blog – TikZ like figures using Racket](https://soegaard.github.io/blog/metapict/)
 - [What’s going on in the world of extensions](https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/)
-- [EV batteries alone could satisfy short-term grid storage demand as early as 2030](https://www.nature.com/articles/s41467-022-35393-0)
-- [Pegasus: A Spy in Your Pocket Threatens the End of Privacy](https://www.tatteredcover.com/book/9781250858696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
