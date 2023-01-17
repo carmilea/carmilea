@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone quality standards require 1,200 workers per production line](https://9to5mac.com/2023/01/17/iphone-quality-standards/)
+- [Ruby 3.2’s YJIT is Production-Ready](https://shopify.engineering/ruby-yjit-is-production-ready)
+- [New Mac Mini](https://www.apple.com/mac-mini/)
+- [Apple Unveils MacBook Pro Featuring M2 Pro and M2 Max](https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/)
 - [The FBI Identified a Tor User](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
 - [Ask HN: Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
-- [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Chief of Staff and Product Managers in Atlanta](https://sirum.org/careers/)
-- [Show HN: Cosh – concatenative command-line shell](https://github.com/tomhrr/cosh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
