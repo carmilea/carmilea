@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Common Lisp and Music Composition](https://ldbeth.sdf.org/articles/cm.html)
+- [Ask HN: What happened to flatbuffers? Are they being used?](https://news.ycombinator.com/item?id=34415858)
+- [Tesla video promoting self-driving was staged, engineer testifies](https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/)
+- [It&#39;s time to put cancer warning labels on alcohol, experts say](https://www.cbc.ca/news/health/alcohol-cancer-risk-warning-1.6715769)
 - [Patterns, the fastest way to build, scale cloud apps, is hiring](https://www.patterns.app/)
-- [Ask HN: Has anyone worked at the US National Labs before?](https://news.ycombinator.com/item?id=34414527)
-- [Conservatives Are Panicking About AI Bias, Think ChatGPT Has Gone &#39;Woke&#39;](https://www.vice.com/en/article/93a4qe/conservatives-panicking-about-ai-bias-years-too-late-think-chatgpt-has-gone-woke)
-- [UK lawmakers vote to jail tech execs who fail to protect kids online](https://arstechnica.com/tech-policy/2023/01/uk-lawmakers-vote-to-jail-tech-execs-who-fail-to-protect-kids-online/)
-- [Britishvolt: UK battery startup collapses into administration](https://www.bbc.co.uk/news/business-64303149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
