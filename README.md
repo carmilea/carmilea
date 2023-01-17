@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone quality standards require 1,200 workers per production line](https://9to5mac.com/2023/01/17/iphone-quality-standards/)
+- [The FBI Identified a Tor User](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
+- [Ask HN: Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
 - [Sirum &lpar;YC Nonprofit&rpar; Is Hiring Chief of Staff and Product Managers in Atlanta](https://sirum.org/careers/)
 - [Show HN: Cosh – concatenative command-line shell](https://github.com/tomhrr/cosh)
-- [PHP in 2023](https://stitcher.io/blog/php-in-2023)
-- [Dijkstra Maps Visualized](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
-- [We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
