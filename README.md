@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a customer persona for your product](https://sidsaladi.substack.com/p/week-21-how-to-create-a-customer)
-- [Hubble finds hungry black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
-- [Legit Startups – AI Generated Startup Websites](https://legit-startups.com/)
-- [Pretty Good House](https://www.prettygoodhouse.org)
+- [The November 2020 landslide, tsunami, and outburst flood at Elliot Creek](https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/)
+- [Hubble finds black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
+- [Show HN: acp – P2P file transfer with edge-function-based TCP hole-punching](https://github.com/Contextualist/acp)
+- [The Pretty Good House](https://www.prettygoodhouse.org)
 - [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
 <!-- BLOG-POST-LIST:END -->
 
