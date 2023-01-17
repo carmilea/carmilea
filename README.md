@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stable Horde receives stability.ai processing power](https://dbzer0.com/blog/stable-horde-receives-stability-ai-processing-power/)
+- [Pretty Good House](https://www.prettygoodhouse.org)
+- [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
 - [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 - [Quitting the rat race](https://seanbarry.dev/posts/quitting-the-rat-race/)
-- [How my brother&#39;s iCloud account was stolen](https://7c0h.com/blog/new/stolen_iphone.html)
-- [Programmer Salaries in the Age of LLMs](https://milkyeggs.com/?p=303)
+- [Programmer salaries in the age of LLMs](https://milkyeggs.com/?p=303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
