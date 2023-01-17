@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Security Vulnerabilities Announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
+- [Ask HN: How do I get into Art?](https://news.ycombinator.com/item?id=34416748)
+- [Show HN: Product Hunt Launch Dashboard](https://plusdocs.notion.site/Public-Beta-Launch-Dashboard-c5a62f9a22c245b888ee6e71061fdce2)
+- [Show HN: Plus – Self Updating Screenshots](https://www.plusdocs.com/)
 - [Common Lisp and Music Composition](https://ldbeth.sdf.org/articles/cm.html)
-- [Ask HN: What happened to flatbuffers? Are they being used?](https://news.ycombinator.com/item?id=34415858)
-- [Tesla video promoting self-driving was staged, engineer testifies](https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/)
-- [It&#39;s time to put cancer warning labels on alcohol, experts say](https://www.cbc.ca/news/health/alcohol-cancer-risk-warning-1.6715769)
-- [Patterns, the fastest way to build, scale cloud apps, is hiring](https://www.patterns.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
