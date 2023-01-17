@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a customer persona for your product](https://sidsaladi.substack.com/p/week-21-how-to-create-a-customer)
+- [Hubble finds hungry black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
 - [Legit Startups – AI Generated Startup Websites](https://legit-startups.com/)
 - [Pretty Good House](https://www.prettygoodhouse.org)
 - [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
-- [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
-- [Quitting the rat race](https://seanbarry.dev/posts/quitting-the-rat-race/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
