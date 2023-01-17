@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns, the fastest way to build, scale cloud apps, is hiring](https://www.patterns.app/)
+- [Ask HN: Has anyone worked at the US National Labs before?](https://news.ycombinator.com/item?id=34414527)
+- [Conservatives Are Panicking About AI Bias, Think ChatGPT Has Gone &#39;Woke&#39;](https://www.vice.com/en/article/93a4qe/conservatives-panicking-about-ai-bias-years-too-late-think-chatgpt-has-gone-woke)
+- [UK lawmakers vote to jail tech execs who fail to protect kids online](https://arstechnica.com/tech-policy/2023/01/uk-lawmakers-vote-to-jail-tech-execs-who-fail-to-protect-kids-online/)
 - [Britishvolt: UK battery startup collapses into administration](https://www.bbc.co.uk/news/business-64303149)
-- [Ask HN: What interesting people are you following on Mastodon?](https://news.ycombinator.com/item?id=34413641)
-- [Afraid of high-tech food? Get over it](https://www.canarymedia.com/articles/food-and-farms/afraid-of-high-tech-food-get-over-it)
-- [GNU make 4.4 adds --shuffle to help find parallel build issues](https://trofi.github.io/posts/238-new-make-shuffle-mode.html)
-- [Laser desorption mass spectrometry – Alien detector that fits in your hand](https://www.nature.com/articles/s41550-022-01866-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
