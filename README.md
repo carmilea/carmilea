@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Security Vulnerabilities Announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
-- [Ask HN: How do I get into Art?](https://news.ycombinator.com/item?id=34416748)
-- [Show HN: Product Hunt Launch Dashboard](https://plusdocs.notion.site/Public-Beta-Launch-Dashboard-c5a62f9a22c245b888ee6e71061fdce2)
-- [Show HN: Plus – Self Updating Screenshots](https://www.plusdocs.com/)
-- [Common Lisp and Music Composition](https://ldbeth.sdf.org/articles/cm.html)
+- [Found ChatGPT’s Humans in the Loop](https://mindmatters.ai/2023/01/found-chatgpts-humans-in-the-loop/)
+- [Microsoft to lay off 11,000 employees](https://www.reuters.com/technology/microsoft-cut-thousands-jobs-sky-news-2023-01-17/)
+- [Republicans to pass bill in House to end telework for federal employees](https://www.wusa9.com/article/news/local/dc/show-up-act-federal-workers-telework-bill/65-11d0e826-21c4-4a2e-96ba-1741637411d2)
+- [Losing Taiwan Means Losing Japan](https://scholars-stage.org/losing-taiwan-means-losing-japan/)
+- [A new CT scan to detect and cure the commonest cause of high blood pressure](https://www.qmul.ac.uk/media/news/2023/smd/ten-minute-scan-enables-detection-and-cure-of-the-commonest-cause-of-high-blood-pressure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
