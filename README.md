@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple won’t let you use an Apple TV unless you have another Apple device](https://twitter.com/hugelgupf/status/1614794516309118977)
-- [How to Make Yourself into a Learning Machine](https://every.to/superorganizers/how-to-build-a-learning-machine-299655)
-- [The hardest part of being a junior developer](https://rachsmith.com/the-hardest-part-of-being-a-jnr/)
-- [Netflix Has Created a Self-Fulfilling Cancelation Loop with Its New Shows](https://www.forbes.com/sites/paultassi/2023/01/16/netflix-has-created-a-self-fulfilling-cancelation-loop-with-its-new-shows/)
-- [Crows of Karachi](https://orionmagazine.org/article/crows-of-karachi-pakistan/)
+- [Stable Horde receives stability.ai processing power](https://dbzer0.com/blog/stable-horde-receives-stability-ai-processing-power/)
+- [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
+- [Quitting the rat race](https://seanbarry.dev/posts/quitting-the-rat-race/)
+- [How my brother&#39;s iCloud account was stolen](https://7c0h.com/blog/new/stolen_iphone.html)
+- [Programmer Salaries in the Age of LLMs](https://milkyeggs.com/?p=303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
