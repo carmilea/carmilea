@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter kicking off a developer API campaign on January 16, 2023](https://carhenge.club/@mattdsteele/109700383808551139)
+- [Olympic medalists in art competitions](https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_art_competitions)
 - [Memory Safety Approaches Speed Up and Slow Down Development Velocity](https://verdagon.dev/blog/when-to-use-memory-safe-part-2)
 - [Using jlink to cross-compile minimal JREs](https://jakewharton.com/using-jlink-to-cross-compile-minimal-jres/)
 - [The November 2020 landslide, tsunami, and outburst flood at Elliot Creek](https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/)
-- [Hubble finds black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
-- [The Pretty Good House](https://www.prettygoodhouse.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
