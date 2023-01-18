@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A stack of feed-forward layers does surprisingly well on ImageNet](https://arxiv.org/abs/2105.02723)
-- [Show HN: Summate.it – Quickly summarize web articles with OpenAI](https://summate.it/?v2)
-- [Cultivating depth and stillness in research](https://andymatuschak.org/stillness/)
-- [The art of knowing when to quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
-- [A flurry of new studies identifies causes of the Industrial Revolution](https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution)
+- [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
+- [Printable Puzzle Project](https://www.puzzlehub.org/)
+- [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
+- [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
+- [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
