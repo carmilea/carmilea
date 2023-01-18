@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Unblob – extraction suite for 30+ file formats](https://github.com/onekey-sec/unblob)
+- [Hctree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
+- [An aggressive, stealthy web spider operating from Microsoft IP space](https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider)
 - [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
 - [Loneliness is a measure of self-understanding](http://stan.bar/loneliness/)
-- [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
-- [My 8 Best Techniques for Evaluating Character](https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating)
-- [Show HN: Codeium: Free Copilot Alternative for Vim / Neovim](https://github.com/Exafunction/codeium.vim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
