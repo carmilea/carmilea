@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
+- [Loneliness is a measure of self-understanding](http://stan.bar/loneliness/)
 - [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
-- [Burn-out, daunting work, overstretched, and it&#39;s just too much](https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html)
-- [Unexpected ways generative AI will change how you work forever](https://maestroai.substack.com/p/generative-ai-and-the-future-of-work)
-- [Gitlab Personas](https://about.gitlab.com/handbook/product/personas/)
-- [Salesforce, but for Dating](https://dateforce.app/)
+- [My 8 Best Techniques for Evaluating Character](https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating)
+- [Show HN: Codeium: Free Copilot Alternative for Vim / Neovim](https://github.com/Exafunction/codeium.vim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
