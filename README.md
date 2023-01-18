@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: With recent layoffs, how would you advise new grads entering the market?](https://news.ycombinator.com/item?id=34428033)
+- [Stop Building on Corporate-Controlled Languages](https://blog.deckc.hair/2023-01-18-stop-building-on-corporate-controlled-languages.html)
+- [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
 - [Bitwarden Acquires Passwordless.dev](https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/)
 - [Times New Roman is being phased out at the State Department, replaced by Calibri](https://twitter.com/john_hudson/status/1615486867712999426)
-- [Amazon set to begin new round of layoffs affecting over 18,000 people](https://www.cnbc.com/2023/01/18/amazon-set-to-begin-new-round-of-layoffs-affecting-over-18000-people.html)
-- [Ask HN: What have you built more than twice and wish someone had built for you?](https://news.ycombinator.com/item?id=34427143)
-- [Tar.pl – A tar creator and extractor in approx. 100 lines of Prolog](https://github.com/SuperDisk/tar.pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
