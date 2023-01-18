@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why to Start a Startup in a Bad Economy &lpar;2008&rpar;](http://paulgraham.com/badeconomy.html)
+- [QuestPDF: Modern .NET library for PDF document generation](https://github.com/QuestPDF/QuestPDF)
+- [Current and future role of Haber–Bosch ammonia in a carbon-free energy env&lpar;2020&rpar;](https://pubs.rsc.org/en/content/articlehtml/2020/ee/c9ee02873k)
+- [U.S. military-run slot machines earn $100M a year from service members](https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases)
 - [Rthm &lpar;YC W22&rpar; Is Hiring a CTO to scale digital health solution](https://www.ycombinator.com/companies/rthm/jobs/ky46MD3-cto-with-experience-scaling-digital-health-technologies)
-- [Argdown: A simple syntax for complex argumentation](https://github.com/christianvoigt/argdown)
-- [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
-- [Ask HN: With recent layoffs, how would you advise new grads entering the market?](https://news.ycombinator.com/item?id=34428033)
-- [Stop Building on Corporate-Controlled Languages](https://blog.deckc.hair/2023-01-18-stop-building-on-corporate-controlled-languages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
