@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet “Claude”: Anthropic’s Rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)
-- [Thinking of Hiring or Running a Booter Service? Think Again](https://krebsonsecurity.com/2023/01/thinking-of-hiring-or-running-a-booter-service-think-again/)
-- [Fast.ai starts a corporate partnership program](https://www.fast.ai/partners.html)
+- [Meet “Claude”: Anthropic’s rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)
+- [Typst: A Programmable Markup Language for Typesetting [pdf]](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
 - [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
 - [DensePose from WiFi](https://arxiv.org/abs/2301.00250)
+- [Japanese manhole mass production process [video]](https://www.youtube.com/watch?v=9OYPWgzDBxE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
