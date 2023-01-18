@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Source code for Dutch DigiD app released under Dutch Open Government Act](https://github.com/MinBZK/woo-besluit-broncode-digid-app)
-- [How to Create Luck](https://www.swyx.io/create-luck/)
+- [Create optimal conditions for lucky things to happen to you &lpar;2020&rpar;](https://www.swyx.io/create-luck/)
 - [US startup&#39;s bladeless VTOL can reach up to 0.8 Mach](https://interestingengineering.com/transportation/us-startups-bladeless-vtol-can-reach-up-to-08-mach)
 - [Formalizing the H-Principle and Sphere Eversion](https://dl.acm.org/doi/abs/10.1145/3573105.3575688)
 - [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
