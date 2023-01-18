@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce, but for Dating](https://dateforce.app/)
 - [GPUs for Deep Learning in 2023 – An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/)
 - [Bun v0.5](https://bun.sh/blog/bun-v0.5.0)
 - [New Norwegian land could emerge from The Atlantic Ocean](https://sciencenorway.no/geology-seabed-volcanoes/new-norwegian-land-could-emerge-from-the-atlantic-ocean/2139271)
-- [Why to Start a Startup in a Bad Economy &lpar;2008&rpar;](http://paulgraham.com/badeconomy.html)
-- [QuestPDF: Modern .NET library for PDF document generation](https://github.com/QuestPDF/QuestPDF)
+- [Why to start a startup in a bad economy &lpar;2008&rpar;](http://paulgraham.com/badeconomy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
