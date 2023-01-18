@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rthm &lpar;YC W22&rpar; Is Hiring a CTO to scale digital health solution](https://www.ycombinator.com/companies/rthm/jobs/ky46MD3-cto-with-experience-scaling-digital-health-technologies)
+- [Argdown: A simple syntax for complex argumentation](https://github.com/christianvoigt/argdown)
+- [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
 - [Ask HN: With recent layoffs, how would you advise new grads entering the market?](https://news.ycombinator.com/item?id=34428033)
 - [Stop Building on Corporate-Controlled Languages](https://blog.deckc.hair/2023-01-18-stop-building-on-corporate-controlled-languages.html)
-- [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
-- [Bitwarden Acquires Passwordless.dev](https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/)
-- [Times New Roman is being phased out at the State Department, replaced by Calibri](https://twitter.com/john_hudson/status/1615486867712999426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
