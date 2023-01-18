@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
+- [DensePose from WiFi](https://arxiv.org/abs/2301.00250)
 - [Japanese manhole mass production process [video]](https://www.youtube.com/watch?v=9OYPWgzDBxE)
-- [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
-- [Printable Puzzle Project](https://www.puzzlehub.org/)
-- [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
-- [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
+- [Fast DataFrames for Ruby](https://github.com/ankane/polars-ruby)
+- [The terminal escape sequences ocean is deep and dark](https://www.ethanheilman.com/x/28/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
