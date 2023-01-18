@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+- [Burn-out, daunting work, overstretched, and it&#39;s just too much](https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html)
+- [Unexpected ways generative AI will change how you work forever](https://maestroai.substack.com/p/generative-ai-and-the-future-of-work)
+- [Gitlab Personas](https://about.gitlab.com/handbook/product/personas/)
 - [Salesforce, but for Dating](https://dateforce.app/)
-- [GPUs for Deep Learning in 2023 – An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/)
-- [Bun v0.5](https://bun.sh/blog/bun-v0.5.0)
-- [New Norwegian land could emerge from The Atlantic Ocean](https://sciencenorway.no/geology-seabed-volcanoes/new-norwegian-land-could-emerge-from-the-atlantic-ocean/2139271)
-- [Why to start a startup in a bad economy &lpar;2008&rpar;](http://paulgraham.com/badeconomy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
