@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla’s tech stack is a testimony to the need for Open Source](https://medusajs.com/blog/tesla-open-source/)
-- [u-config: a new, lean pkg-config clone](https://nullprogram.com/blog/2023/01/18/)
-- [OpenAI Used Kenyan Workers on Less Than $2 per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
-- [ReactOS](https://reactos.org/)
-- [Source code for Dutch DigiD app released under Dutch Open Government Act](https://github.com/MinBZK/woo-besluit-broncode-digid-app)
+- [Bitwarden Acquires Passwordless.dev](https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/)
+- [Times New Roman is being phased out at the State Department, replaced by Calibri](https://twitter.com/john_hudson/status/1615486867712999426)
+- [Amazon set to begin new round of layoffs affecting over 18,000 people](https://www.cnbc.com/2023/01/18/amazon-set-to-begin-new-round-of-layoffs-affecting-over-18000-people.html)
+- [Ask HN: What have you built more than twice and wish someone had built for you?](https://news.ycombinator.com/item?id=34427143)
+- [Tar.pl – A tar creator and extractor in approx. 100 lines of Prolog](https://github.com/SuperDisk/tar.pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
