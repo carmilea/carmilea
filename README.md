@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Knowing When to Quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
-- [Hyundai Head Unit Hacking](https://xakcop.com/post/hyundai-hack-2/)
-- [Tailscale bug allowed a person to share nodes from other tailnets without auth](https://tailscale.com/security-bulletins/#ts-2023-001/)
-- [The Metapict Blog – TikZ like figures using Racket](https://soegaard.github.io/blog/metapict/)
-- [What’s going on in the world of extensions](https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/)
+- [A stack of feed-forward layers does surprisingly well on ImageNet](https://arxiv.org/abs/2105.02723)
+- [Show HN: Summate.it – Quickly summarize web articles with OpenAI](https://summate.it/?v2)
+- [Cultivating depth and stillness in research](https://andymatuschak.org/stillness/)
+- [The art of knowing when to quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
+- [A flurry of new studies identifies causes of the Industrial Revolution](https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
