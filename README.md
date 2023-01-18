@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Formalizing the H-Principle and Sphere Eversion](https://dl.acm.org/doi/abs/10.1145/3573105.3575688)
+- [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 - [Thonny – Python IDE for new to programming](https://thonny.org)
 - [Screenshots as the Universal API](https://matt-rickard.com/screenshots-as-the-universal-api)
 - [Meet “Claude”: Anthropic’s rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)
-- [Typst: A Programmable Markup Language for Typesetting [pdf]](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
-- [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
