@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s tech stack is a testimony to the need for Open Source](https://medusajs.com/blog/tesla-open-source/)
+- [u-config: a new, lean pkg-config clone](https://nullprogram.com/blog/2023/01/18/)
+- [OpenAI Used Kenyan Workers on Less Than $2 per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
+- [ReactOS](https://reactos.org/)
 - [Source code for Dutch DigiD app released under Dutch Open Government Act](https://github.com/MinBZK/woo-besluit-broncode-digid-app)
-- [Create optimal conditions for lucky things to happen to you &lpar;2020&rpar;](https://www.swyx.io/create-luck/)
-- [US startup&#39;s bladeless VTOL can reach up to 0.8 Mach](https://interestingengineering.com/transportation/us-startups-bladeless-vtol-can-reach-up-to-08-mach)
-- [Formalizing the H-Principle and Sphere Eversion](https://dl.acm.org/doi/abs/10.1145/3573105.3575688)
-- [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
