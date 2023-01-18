@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese manhole mass production process [video]](https://www.youtube.com/watch?v=9OYPWgzDBxE)
 - [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
 - [Printable Puzzle Project](https://www.puzzlehub.org/)
 - [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
 - [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
-- [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
