@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jabber.org, the original XMPP IM service has migrated to Prosody IM](https://www.jabber.org/notices.html)
+- [Gorgeous Photos Capture Life Inside a Drop of Seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/)
+- [Batch Box Rocket Stove: Ergonomic, Efficient Wood Combustion](https://batchrocket.eu/en/)
+- [Show HN: A version control system based on rsync](https://jamsync.dev/about)
 - [Mux &lpar;YC W16&rpar; Is Hiring a Senior Platform Engineer](https://mux.com/jobs)
-- [AcousticBrainz: Making a hard decision to end the project &lpar;2022&rpar;](https://blog.metabrainz.org/2022/02/16/acousticbrainz-making-a-hard-decision-to-end-the-project/)
-- [What happens if you plug two USB-C laptops into each other using a USB-C cable](https://twitter.com/d_feldman/status/1615871748708388864)
-- [The State of the Awk &lpar;2020&rpar;](https://lwn.net/Articles/820829/)
-- [Pwned or Bot](https://www.troyhunt.com/pwned-or-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
