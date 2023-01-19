@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Retool Mobile](https://retool.com/products/mobile)
-- [Nationwide FAA weather reporting outage](https://www.nco.ncep.noaa.gov/status/messages/)
-- [Telling your inner critic to chill](https://www.radiatedaily.com/telling-your-inner-critic-to-chill/)
-- [Folders with high file counts](https://bombich.com/blog/2023/01/18/folders-high-file-counts)
-- [Ask HN: Math books that made you significantly better at math?](https://news.ycombinator.com/item?id=34439828)
+- [Amazon ends charity donation program AmazonSmile](https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior DevOps in Latam. Join Our 100% Distributed Team](https://jobs.lever.co/tesorio/50fed114-0b83-4a2a-91ec-c5a9cda58cbd)
+- [Launch HN: Odigos &lpar;YC W23&rpar; – Instant distributed tracing for Kubernetes clusters](https://news.ycombinator.com/item?id=34442603)
+- [WhatsApp fined 5.5M euro by lead EU privacy regulator](https://www.reuters.com/technology/metas-whatsapp-fined-55-mln-euro-by-lead-eu-privacy-regulator-2023-01-19/)
+- [Online pharmacies selling abortion pills send fingerprints to Google Analytics](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
 <!-- BLOG-POST-LIST:END -->
 
 ---
