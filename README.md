@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon ends charity donation program AmazonSmile](https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior DevOps in Latam. Join Our 100% Distributed Team](https://jobs.lever.co/tesorio/50fed114-0b83-4a2a-91ec-c5a9cda58cbd)
-- [Launch HN: Odigos &lpar;YC W23&rpar; – Instant distributed tracing for Kubernetes clusters](https://news.ycombinator.com/item?id=34442603)
-- [WhatsApp fined 5.5M euro by lead EU privacy regulator](https://www.reuters.com/technology/metas-whatsapp-fined-55-mln-euro-by-lead-eu-privacy-regulator-2023-01-19/)
-- [Online pharmacies selling abortion pills send fingerprints to Google Analytics](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
+- [An Introduction to Clascal &lpar;1984&rpar; [pdf]](http://www.bitsavers.org/pdf/apple/lisa/toolkit_3.0/Package_2_Examples/02_An_Introduction_To_Clascal_Jul84.pdf)
+- [Exploiting null-dereferences in the Linux kernel](https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html)
+- [Tell HN: Coinbase is a joke &lpar;product and support&rpar;](https://news.ycombinator.com/item?id=34443629)
+- [Stock Market Charts You Never Saw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3050736)
+- [Wolf Incident Postmortem](https://www.jefftk.com/p/wolf-incident-postmortem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
