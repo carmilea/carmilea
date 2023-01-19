@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Short, friendly base32 slugs from timestamps](https://brandur.org/fragments/base32-slugs)
-- [Driver of Tesla killed after slamming into semi-truck in Victorville](https://www.vvng.com/driver-of-tesla-killed-after-slamming-into-back-of-semi-truck-in-victorville/)
-- [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says)
 - [Scamp – a self-contained Forth computer](https://udamonic.com/what-is-a-scamp.html)
-- [ChatGPT listed as author on research papers: many scientists disapprove](https://www.nature.com/articles/d41586-023-00107-z)
+- [Fun with Magnets](https://kottke.org/23/01/fun-with-magnets)
+- [Facebook Container Extension](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+- [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
