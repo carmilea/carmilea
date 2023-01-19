@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandoc [a universal document converter] 3.0](https://pandoc.org/releases.html)
+- [Pwned or Bot](https://www.troyhunt.com/pwned-or-bot/)
+- [Sorry, What&#39;s Going on Here?](https://news.ycombinator.com/item?id=34438175)
+- [Pandoc 3.0](https://pandoc.org/releases.html)
 - [What not to write on your security clearance form &lpar;1988&rpar;](http://milk.com/wall-o-shame/security_clearance.html)
 - [Formalising a new proof that the square root of two is irrational](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
-- [People to follow to learn the art of teaching dev](https://fromdevtodev.com/people-to-follow-to-learn-art-of-teaching-dev)
-- [Ashby &lpar;YC W19&rpar; is hiring product engineers and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
