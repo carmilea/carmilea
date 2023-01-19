@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to destroy a certificate authority in one month](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
+- [how to completely own an airline in 3 easy steps](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
+- [Nuclear explosion impact on humans indoors](https://aip.scitation.org/doi/10.1063/5.0132565)
 - [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
 - [Noam Bardin: So Why a News Feed on Post?](https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz)
-- [ChatRWKV, like ChatGPT but powered by the RWKV &lpar;RNN-based, open&rpar; language model](https://github.com/BlinkDL/ChatRWKV)
-- [Twitterrific Has Been Discontinued](https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/)
-- [CVE-2023-22809: Sudoedit can edit arbitrary files](https://seclists.org/oss-sec/2023/q1/42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
