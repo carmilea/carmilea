@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; Hiring Product Engineers and Design Engineers](https://www.ashbyhq.com/careers?utm_source=hn)
+- [ChatGPT for Search Engines](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/)
+- [Coinbase Halts Operations in Japan](https://www.coinbase.com/blog/halting-operations-in-japan)
+- [Amazon discontinues AmazonSmile charity donation program amid cost cuts](https://www.cnbc.com/2023/01/18/amazon-discontinues-amazonsmile-charity-donation-program-amid-cost-cuts.html)
 - [Short, friendly base32 slugs from timestamps](https://brandur.org/fragments/base32-slugs)
-- [Scamp – a self-contained Forth computer](https://udamonic.com/what-is-a-scamp.html)
-- [Fun with Magnets](https://kottke.org/23/01/fun-with-magnets)
-- [Facebook Container Extension](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
-- [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
