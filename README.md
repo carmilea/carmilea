@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
-- [Ultibo – Bare-Metal Pascal for Raspberry Pi](https://ultibo.org/make/)
-- [ZeroSSL: XSS to session hijacking, stealing a private key &lpar;and password hash&rpar;](https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc)
-- [Peter Thiel’s fund wound down 8-year Bitcoin bet before market crash](https://worldnewsera.com/news/finance/stock-market/peter-thiels-fund-wound-down-8-year-bitcoin-bet-before-market-crash/)
-- [Simulation Intelligence: Towards a New Generation of Scientific Methods &lpar;2022&rpar;](https://arxiv.org/abs/2112.03235)
+- [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
+- [Noam Bardin: So Why a News Feed on Post?](https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz)
+- [ChatRWKV, like ChatGPT but powered by the RWKV &lpar;RNN-based, open&rpar; language model](https://github.com/BlinkDL/ChatRWKV)
+- [Twitterrific Has Been Discontinued](https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/)
+- [CVE-2023-22809: Sudoedit can edit arbitrary files](https://seclists.org/oss-sec/2023/q1/42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
