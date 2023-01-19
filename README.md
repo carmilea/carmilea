@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of the Awk &lpar;2020&rpar;](https://lwn.net/Articles/820829/)
 - [Pwned or Bot](https://www.troyhunt.com/pwned-or-bot/)
-- [Sorry, What&#39;s Going on Here?](https://news.ycombinator.com/item?id=34438175)
 - [Pandoc 3.0](https://pandoc.org/releases.html)
 - [What not to write on your security clearance form &lpar;1988&rpar;](http://milk.com/wall-o-shame/security_clearance.html)
 - [Formalising a new proof that the square root of two is irrational](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
