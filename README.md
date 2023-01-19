@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jabber.org, the original XMPP IM service has migrated to Prosody IM](https://www.jabber.org/notices.html)
-- [Gorgeous Photos Capture Life Inside a Drop of Seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/)
-- [Batch Box Rocket Stove: Ergonomic, Efficient Wood Combustion](https://batchrocket.eu/en/)
-- [Show HN: A version control system based on rsync](https://jamsync.dev/about)
-- [Mux &lpar;YC W16&rpar; Is Hiring a Senior Platform Engineer](https://mux.com/jobs)
+- [Nationwide FAA weather reporting outage](https://www.nco.ncep.noaa.gov/status/messages/)
+- [Apple reportedly shelved its plans to release AR glasses any time soon](https://www.theverge.com/2023/1/17/23560097/apple-ar-vr-glasses-headset-rumor-mixed-reality)
+- [Folders with high file counts](https://bombich.com/blog/2023/01/18/folders-high-file-counts)
+- [Jabber.org has migrated to Prosody IM](https://www.jabber.org/notices.html)
+- [Plastic to Oil – Produces 80% Oil](https://blest.co.jp/eng/service/be-h/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
