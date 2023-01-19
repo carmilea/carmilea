@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Hiring Product Engineers and Design Engineers](https://www.ashbyhq.com/careers?utm_source=hn)
+- [Formalising a new proof that the square root of two is irrational](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
+- [Ashby &lpar;YC W19&rpar; is hiring product engineers and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
 - [ChatGPT for Search Engines](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/)
-- [Coinbase Halts Operations in Japan](https://www.coinbase.com/blog/halting-operations-in-japan)
-- [Amazon discontinues AmazonSmile charity donation program amid cost cuts](https://www.cnbc.com/2023/01/18/amazon-discontinues-amazonsmile-charity-donation-program-amid-cost-cuts.html)
+- [Coinbase halts operations in Japan](https://www.coinbase.com/blog/halting-operations-in-japan)
 - [Short, friendly base32 slugs from timestamps](https://brandur.org/fragments/base32-slugs)
 <!-- BLOG-POST-LIST:END -->
 
