@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux &lpar;YC W16&rpar; Is Hiring a Senior Platform Engineer](https://mux.com/jobs)
+- [AcousticBrainz: Making a hard decision to end the project &lpar;2022&rpar;](https://blog.metabrainz.org/2022/02/16/acousticbrainz-making-a-hard-decision-to-end-the-project/)
+- [What happens if you plug two USB-C laptops into each other using a USB-C cable](https://twitter.com/d_feldman/status/1615871748708388864)
 - [The State of the Awk &lpar;2020&rpar;](https://lwn.net/Articles/820829/)
 - [Pwned or Bot](https://www.troyhunt.com/pwned-or-bot/)
-- [Pandoc 3.0](https://pandoc.org/releases.html)
-- [What not to write on your security clearance form &lpar;1988&rpar;](http://milk.com/wall-o-shame/security_clearance.html)
-- [Formalising a new proof that the square root of two is irrational](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
