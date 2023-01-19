@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulation Intelligence: Towards a New Generation of Scientific Methods &lpar;2022&rpar;](https://arxiv.org/abs/2112.03235)
+- [The Current Secrets Rotation Process Is Broken](https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken)
+- [Show HN: DALL-E for Playlists](https://www.naturallanguageplaylist.com/)
 - [An Introduction to Clascal &lpar;1984&rpar; [pdf]](http://www.bitsavers.org/pdf/apple/lisa/toolkit_3.0/Package_2_Examples/02_An_Introduction_To_Clascal_Jul84.pdf)
-- [Exploiting null-dereferences in the Linux kernel](https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html)
-- [Tell HN: Coinbase is a joke &lpar;product and support&rpar;](https://news.ycombinator.com/item?id=34443629)
-- [Stock Market Charts You Never Saw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3050736)
-- [Wolf Incident Postmortem](https://www.jefftk.com/p/wolf-incident-postmortem)
+- [Introducing Rust Support in CodeSandbox, start a Rust VM in one click](https://codesandbox.io/blog/announcing-rust-support-in-codesandbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
