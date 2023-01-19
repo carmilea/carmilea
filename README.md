@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [Ultibo – Bare-Metal Pascal for Raspberry Pi](https://ultibo.org/make/)
+- [ZeroSSL: XSS to session hijacking, stealing a private key &lpar;and password hash&rpar;](https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc)
+- [Peter Thiel’s fund wound down 8-year Bitcoin bet before market crash](https://worldnewsera.com/news/finance/stock-market/peter-thiels-fund-wound-down-8-year-bitcoin-bet-before-market-crash/)
 - [Simulation Intelligence: Towards a New Generation of Scientific Methods &lpar;2022&rpar;](https://arxiv.org/abs/2112.03235)
-- [The Current Secrets Rotation Process Is Broken](https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken)
-- [Show HN: DALL-E for Playlists](https://www.naturallanguageplaylist.com/)
-- [An Introduction to Clascal &lpar;1984&rpar; [pdf]](http://www.bitsavers.org/pdf/apple/lisa/toolkit_3.0/Package_2_Examples/02_An_Introduction_To_Clascal_Jul84.pdf)
-- [Introducing Rust Support in CodeSandbox, start a Rust VM in one click](https://codesandbox.io/blog/announcing-rust-support-in-codesandbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
