@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
+- [Things I’ve learned in my years as a software engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [Show HN: Unblob – extraction suite for 30+ file formats](https://github.com/onekey-sec/unblob)
-- [Hctree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
-- [An aggressive, stealthy web spider operating from Microsoft IP space](https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider)
-- [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
-- [Loneliness is a measure of self-understanding](http://stan.bar/loneliness/)
+- [Boston Dynamics’ bipedal robot Atlas can now grab and toss](https://www.theverge.com/23560592/boston-dynamics-atlas-robot-bipedal-work-video-construction-site)
+- [HC-tree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
