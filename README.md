@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why aren&#39;t there any cars in Nineteen Eighty-Four?](https://news.ycombinator.com/item?id=34446839)
+- [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
 - [How to own an airline in 3 easy steps and grab the TSA nofly list along the way](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
 - [Nuclear explosion impact on humans indoors &lpar;2022&rpar;](https://aip.scitation.org/doi/10.1063/5.0132565)
+- [Apple releases Lisa source code](https://computerhistory.org/press-releases/chm-makes-apple-lisa-source-code-available-to-the-public-as-a-part-of-its-art-of-code-series/)
 - [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
-- [Noam Bardin: So Why a News Feed on Post?](https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
