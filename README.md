@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Steel Part II](https://constructionphysics.substack.com/p/the-rise-of-steel-part-ii)
+- [Amazon to Lay of 18k Workers](https://www.cnbc.com/2023/01/18/amazon-job-cuts-read-the-memos.html)
+- [Ask HN: Is 8gb RAM enough for a Linux dev laptop?](https://news.ycombinator.com/item?id=34452455)
 - [How Restaurant Workers Help Pay for Lobbying to Keep Their Wages Low](https://www.nytimes.com/2023/01/17/us/politics/restaurant-workers-wages-lobbying.html)
 - [Parser as Prototype: why choice-based games are more interesting &lpar;2013&rpar;](https://threeedgedsword.wordpress.com/2013/12/05/parser-as-prototype-why-choice-based-games-are-more-interesting/)
-- [Lago &lpar;YC S21&rpar;, open source usage based billing, is hiring a cloud engineer](https://www.ycombinator.com/companies/lago/jobs/kDbtSIO-cloud-engineer)
-- [Not worried about AI that passes Turing test, but AI that fails it on purpose](https://old.reddit.com/r/C_S_T/comments/ae288t/im_not_worried_about_the_ai_that_can_pass_the/)
-- [The Myth of the Myth of the 10x Programmer &lpar;2020&rpar;](https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
