@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Adobe, we need a special price in Egypt](https://egyptianchronicles.blogspot.com/2023/01/dear-adobe-we-need-special-price-in.html)
-- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Tell HN: Sometimes you don&#39;t realise how bad something is until you leave](https://news.ycombinator.com/item?id=34455934)
-- [Ask HN: Google spam filter getting worse?](https://news.ycombinator.com/item?id=34455854)
-- [The Exploited Labor Behind Artificial Intelligence &lpar;2022&rpar;](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
+- [NRC Certifies First U.S. Small Modular Reactor Design](https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design)
+- [Tweetbot. April 2011 – January 2023](https://tapbots.com/tweetbot/)
+- [Script Kit: cross-platform, scriptable, automatic shortcuts to everything](https://www.scriptkit.com/)
+- [Gonorrhea is becoming unstoppable; highly resistant cases found in US](https://arstechnica.com/science/2023/01/gonorrhea-is-becoming-unstoppable-highly-resistant-cases-found-in-us/)
+- [Towards a Reproducible F-Droid](https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
