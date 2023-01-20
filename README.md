@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NRC Certifies First U.S. Small Modular Reactor Design](https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design)
-- [Tweetbot. April 2011 – January 2023](https://tapbots.com/tweetbot/)
-- [Script Kit: cross-platform, scriptable, automatic shortcuts to everything](https://www.scriptkit.com/)
-- [Gonorrhea is becoming unstoppable; highly resistant cases found in US](https://arstechnica.com/science/2023/01/gonorrhea-is-becoming-unstoppable-highly-resistant-cases-found-in-us/)
-- [Towards a Reproducible F-Droid](https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html)
+- [Why Tipping Is Impossible to Get Rid of in America](https://kottke.org/23/01/why-tipping-is-impossible-to-get-rid-of-in-america)
+- [From Zero to main&lpar;&rpar;: Bare metal C](https://interrupt.memfault.com/blog/zero-to-main-1)
+- [A Gentle Tutorial for Lattice-Based Cryptanalysis [pdf]](https://eprint.iacr.org/2023/032.pdf)
+- [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
+- [Citizen scientists report global rapid reductions in the visibility of stars](https://www.science.org/doi/10.1126/science.abq7781)
 <!-- BLOG-POST-LIST:END -->
 
 ---
