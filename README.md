@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Solutions Engineer US](https://bitmovin.com/careers/solutions-engineer-6539040002/)
 - [Elizabeth Holmes bought one-way ticket to Mexico after convicted of fraud](https://www.nbcnews.com/business/business-news/elizabeth-holmes-bought-one-way-ticket-mexico-theranos-fraud-rcna66765)
+- [Of course the attention economy is threatened by the Fediverse](https://blog.jonudell.net/2023/01/19/of-course-the-attention-economy-is-threatened-by-the-fediverse/)
 - [From Zero to main&lpar;&rpar;: Bare metal C](https://interrupt.memfault.com/blog/zero-to-main-1)
-- [There was PayPal mafia. Meet the Berkeley mafia](https://www.forbes.com/sites/kenrickcai/2021/05/26/accidental-billionaires-databricks-ceo-ali-ghodsi-seven-berkeley-academics/)
-- [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
+- [Databricks cofounders weren’t interested in starting a business](https://www.forbes.com/sites/kenrickcai/2021/05/26/accidental-billionaires-databricks-ceo-ali-ghodsi-seven-berkeley-academics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
