@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Solutions Engineer US](https://bitmovin.com/careers/solutions-engineer-6539040002/)
-- [Elizabeth Holmes bought one-way ticket to Mexico after convicted of fraud](https://www.nbcnews.com/business/business-news/elizabeth-holmes-bought-one-way-ticket-mexico-theranos-fraud-rcna66765)
-- [Of course the attention economy is threatened by the Fediverse](https://blog.jonudell.net/2023/01/19/of-course-the-attention-economy-is-threatened-by-the-fediverse/)
-- [From Zero to main&lpar;&rpar;: Bare metal C](https://interrupt.memfault.com/blog/zero-to-main-1)
-- [Databricks cofounders weren’t interested in starting a business](https://www.forbes.com/sites/kenrickcai/2021/05/26/accidental-billionaires-databricks-ceo-ali-ghodsi-seven-berkeley-academics/)
+- [Can you trust your quantum simulator?](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
+- [Ain&#39;t it funny how the knight moves?](https://www.funnyhowtheknightmoves.com/)
+- [New York got it wrong on cybersecurity and the right to repair](https://www.timesunion.com/opinion/article/Commentary-New-York-got-it-wrong-on-17707551.php)
+- [WEF speaker touts tech that allows your boss to monitor your brain activity](https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/)
+- [U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
