@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipe Operator &lpar;|&gt;&rpar; For JavaScript](https://github.com/tc39/proposal-pipeline-operator)
-- [Idris: A language for type-driven development](https://www.idris-lang.org/)
-- [Uses and abuses of military history](https://newcriterion.com/issues/2023/1/uses-abuses-of-military-history)
-- [The enduring mystery of an aggressive FBI raid near Area 51](https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879)
-- [Mercedes-Benz workforce to receive record profit-sharing bonus](https://group-media.mercedes-benz.com/marsMediaSite/en/instance/ko/Mercedes-Benz-strategy-pays-off-workforce-to-receive-record-profit-sharing-bonus.xhtml?oid=55064985)
+- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [Tell HN: Sometimes you don&#39;t realise how bad something is until you leave](https://news.ycombinator.com/item?id=34455934)
+- [The Exploited Labor Behind Artificial Intelligence &lpar;2022&rpar;](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
+- [Ask HN: Has anyone successfully started their career over in their 30s?](https://news.ycombinator.com/item?id=34455518)
+- [Game that promised no paid DLC ever, getting paid DLC &#39;to fund the development&#39;](https://www.pcgamer.com/game-that-promised-no-paid-dlc-ever-is-getting-paid-dlc-we-need-a-way-to-continue-to-fund-the-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
