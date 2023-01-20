@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to destroy a certificate authority in one month](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
-- [how to completely own an airline in 3 easy steps](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
-- [Nuclear explosion impact on humans indoors](https://aip.scitation.org/doi/10.1063/5.0132565)
+- [Ask HN: Why aren&#39;t there any cars in Nineteen Eighty-Four?](https://news.ycombinator.com/item?id=34446839)
+- [How to own an airline in 3 easy steps and grab the TSA nofly list along the way](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
+- [Nuclear explosion impact on humans indoors &lpar;2022&rpar;](https://aip.scitation.org/doi/10.1063/5.0132565)
 - [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
 - [Noam Bardin: So Why a News Feed on Post?](https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz)
 <!-- BLOG-POST-LIST:END -->
