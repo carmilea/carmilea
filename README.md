@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Adobe, we need a special price in Egypt](https://egyptianchronicles.blogspot.com/2023/01/dear-adobe-we-need-special-price-in.html)
 - [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [Tell HN: Sometimes you don&#39;t realise how bad something is until you leave](https://news.ycombinator.com/item?id=34455934)
+- [Ask HN: Google spam filter getting worse?](https://news.ycombinator.com/item?id=34455854)
 - [The Exploited Labor Behind Artificial Intelligence &lpar;2022&rpar;](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
-- [Ask HN: Has anyone successfully started their career over in their 30s?](https://news.ycombinator.com/item?id=34455518)
-- [Game that promised no paid DLC ever, getting paid DLC &#39;to fund the development&#39;](https://www.pcgamer.com/game-that-promised-no-paid-dlc-ever-is-getting-paid-dlc-we-need-a-way-to-continue-to-fund-the-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
