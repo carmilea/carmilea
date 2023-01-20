@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revisiting Apple’s ill-fated Lisa computer, 40 years on](https://arstechnica.com/gadgets/2023/01/revisiting-apples-ill-fated-lisa-computer-40-years-on/)
+- [Google to reduce workforce by 12k](https://blog.google/inside-google/message-ceo/january-update/)
+- [Ask HN: What is your favorite Tech Podcasts these days?](https://news.ycombinator.com/item?id=34450924)
 - [Getting Started with Property-Based Testing in Python with Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 - [Lights have been on at this school for a year because no one can turn them off](https://www.nbcnews.com/news/us-news/lights-massachusetts-school-year-no-one-can-turn-rcna65611)
-- [Genesis Filed for Bankruptcy](https://twitter.com/cameron/status/1616298056097624064)
-- [Ask HN: Where Are All the Parties?](https://news.ycombinator.com/item?id=34450096)
-- [SSHD: Random boot time relinking, OpenBSD](https://undeadly.org/cgi?action=article;sid=20230119075627)
 <!-- BLOG-POST-LIST:END -->
 
 ---
