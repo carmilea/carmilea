@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Tipping Is Impossible to Get Rid of in America](https://kottke.org/23/01/why-tipping-is-impossible-to-get-rid-of-in-america)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Solutions Engineer US](https://bitmovin.com/careers/solutions-engineer-6539040002/)
+- [Elizabeth Holmes bought one-way ticket to Mexico after convicted of fraud](https://www.nbcnews.com/business/business-news/elizabeth-holmes-bought-one-way-ticket-mexico-theranos-fraud-rcna66765)
 - [From Zero to main&lpar;&rpar;: Bare metal C](https://interrupt.memfault.com/blog/zero-to-main-1)
-- [A Gentle Tutorial for Lattice-Based Cryptanalysis [pdf]](https://eprint.iacr.org/2023/032.pdf)
+- [There was PayPal mafia. Meet the Berkeley mafia](https://www.forbes.com/sites/kenrickcai/2021/05/26/accidental-billionaires-databricks-ceo-ali-ghodsi-seven-berkeley-academics/)
 - [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
-- [Citizen scientists report global rapid reductions in the visibility of stars](https://www.science.org/doi/10.1126/science.abq7781)
 <!-- BLOG-POST-LIST:END -->
 
 ---
