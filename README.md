@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Enduring Mystery of an Aggressive FBI Raid Near Area 51](https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879)
-- [PyTorch Vulkan Back End User Workflow](https://pytorch.org/tutorials/prototype/vulkan_workflow.html)
-- [Stay Ahead of Cyber Threats with Graph Databases](https://memgraph.com/blog/stay-ahead-of-cyber-threats-with-graph-databases)
-- [Today Marks the End of an Era](https://twitter.com/twitterrific/status/1616183984098283520)
-- [Wayfair Is Laying Off 1,750 Workers](https://www.wsj.com/articles/wayfair-is-preparing-to-lay-off-more-than-1-000-workers-11674161122)
+- [Pipe Operator &lpar;|&gt;&rpar; For JavaScript](https://github.com/tc39/proposal-pipeline-operator)
+- [Idris: A language for type-driven development](https://www.idris-lang.org/)
+- [Uses and abuses of military history](https://newcriterion.com/issues/2023/1/uses-abuses-of-military-history)
+- [The enduring mystery of an aggressive FBI raid near Area 51](https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879)
+- [Mercedes-Benz workforce to receive record profit-sharing bonus](https://group-media.mercedes-benz.com/marsMediaSite/en/instance/ko/Mercedes-Benz-strategy-pays-off-workforce-to-receive-record-profit-sharing-bonus.xhtml?oid=55064985)
 <!-- BLOG-POST-LIST:END -->
 
 ---
