@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneUptime is an open-source Datadog alternative](https://github.com/OneUptime/oneuptime)
 - [Compilable Markdown for Linear Algebra](https://iheartla.github.io/)
 - [Ask HN: Why doesn&#39;t Apple bring continuity to the Music app?](https://news.ycombinator.com/item?id=34448621)
 - [CarSized: A way to visualise car dimensions](https://www.carsized.com/en/)
 - [Show HN: Music Audio Search Engine Using OpenAI&#39;s Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
+- [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
