@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting Apple’s ill-fated Lisa computer, 40 years on](https://arstechnica.com/gadgets/2023/01/revisiting-apples-ill-fated-lisa-computer-40-years-on/)
-- [Google to reduce workforce by 12k](https://blog.google/inside-google/message-ceo/january-update/)
-- [Ask HN: What is your favorite Tech Podcasts these days?](https://news.ycombinator.com/item?id=34450924)
-- [Getting Started with Property-Based Testing in Python with Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
-- [Lights have been on at this school for a year because no one can turn them off](https://www.nbcnews.com/news/us-news/lights-massachusetts-school-year-no-one-can-turn-rcna65611)
+- [Lago &lpar;YC S21&rpar;, open source usage based billing, is hiring a cloud engineer](https://www.ycombinator.com/companies/lago/jobs/kDbtSIO-cloud-engineer)
+- [Not worried about AI that passes Turing test, but AI that fails it on purpose](https://old.reddit.com/r/C_S_T/comments/ae288t/im_not_worried_about_the_ai_that_can_pass_the/)
+- [The Myth of the Myth of the 10x Programmer &lpar;2020&rpar;](https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/)
+- [A different approach to building C++ projects](https://rachelbythebay.com/bb/)
+- [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 <!-- BLOG-POST-LIST:END -->
 
 ---
