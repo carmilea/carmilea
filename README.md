@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compilable Markdown for Linear Algebra](https://iheartla.github.io/)
+- [Ask HN: Why doesn&#39;t Apple bring continuity to the Music app?](https://news.ycombinator.com/item?id=34448621)
+- [CarSized: A way to visualise car dimensions](https://www.carsized.com/en/)
 - [Show HN: Music Audio Search Engine Using OpenAI&#39;s Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
 - [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
-- [T-Mobile says investigating data breach involving 37M accounts](https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/)
-- [How to own an airline in 3 easy steps and grab the TSA nofly list along the way](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
-- [Nuclear explosion impact on humans indoors &lpar;2022&rpar;](https://aip.scitation.org/doi/10.1063/5.0132565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
