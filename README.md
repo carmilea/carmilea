@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Property-Based Testing in Python with Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 - [Lights have been on at this school for a year because no one can turn them off](https://www.nbcnews.com/news/us-news/lights-massachusetts-school-year-no-one-can-turn-rcna65611)
 - [Genesis Filed for Bankruptcy](https://twitter.com/cameron/status/1616298056097624064)
 - [Ask HN: Where Are All the Parties?](https://news.ycombinator.com/item?id=34450096)
 - [SSHD: Random boot time relinking, OpenBSD](https://undeadly.org/cgi?action=article;sid=20230119075627)
-- [Interesting Facts about Bell Labs and 2001: A Space Odyssey &lpar;2001&rpar;](https://sites.psu.edu/comm150honors/2016/05/03/interesting-facts-about-bell-labs-and-the-odyssey-from-an-archivist-at-bell-labs-my-dad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
