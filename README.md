@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compilable Markdown for Linear Algebra](https://iheartla.github.io/)
-- [Ask HN: Why doesn&#39;t Apple bring continuity to the Music app?](https://news.ycombinator.com/item?id=34448621)
+- [I&#39;ve procrastinated working on my thesis for more than a year](https://thoughtsbyaashiq.bearblog.dev/ive-procrastinated-working-on-my-thesis-for-over-a-year/)
+- [A History of the Eprom in the Soviet Union](https://www.cpushack.com/2023/01/19/a-history-of-the-eprom-in-the-soviet-union/)
+- [How true is &#39;Speed Enforced by Aircraft&#39; Sign? &lpar;2016&rpar;](https://www.kqed.org/news/10953748/how-much-truth-is-there-to-those-speed-enforced-by-aircraft-signs)
+- [Compilable Lightweight Markup Language for Mathematics](https://iheartla.github.io/)
 - [CarSized: A way to visualise car dimensions](https://www.carsized.com/en/)
-- [Show HN: Music Audio Search Engine Using OpenAI&#39;s Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
-- [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
