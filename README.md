@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Steel Part II](https://constructionphysics.substack.com/p/the-rise-of-steel-part-ii)
-- [Amazon to Lay of 18k Workers](https://www.cnbc.com/2023/01/18/amazon-job-cuts-read-the-memos.html)
-- [Ask HN: Is 8gb RAM enough for a Linux dev laptop?](https://news.ycombinator.com/item?id=34452455)
-- [How Restaurant Workers Help Pay for Lobbying to Keep Their Wages Low](https://www.nytimes.com/2023/01/17/us/politics/restaurant-workers-wages-lobbying.html)
-- [Parser as Prototype: why choice-based games are more interesting &lpar;2013&rpar;](https://threeedgedsword.wordpress.com/2013/12/05/parser-as-prototype-why-choice-based-games-are-more-interesting/)
+- [The Enduring Mystery of an Aggressive FBI Raid Near Area 51](https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879)
+- [PyTorch Vulkan Back End User Workflow](https://pytorch.org/tutorials/prototype/vulkan_workflow.html)
+- [Stay Ahead of Cyber Threats with Graph Databases](https://memgraph.com/blog/stay-ahead-of-cyber-threats-with-graph-databases)
+- [Today Marks the End of an Era](https://twitter.com/twitterrific/status/1616183984098283520)
+- [Wayfair Is Laying Off 1,750 Workers](https://www.wsj.com/articles/wayfair-is-preparing-to-lay-off-more-than-1-000-workers-11674161122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
