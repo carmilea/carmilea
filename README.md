@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They Rule](https://theyrule.net/)
+- [Is Copyright Eating AI?](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/)
+- [Is Apple checking images we view in the Finder?](https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/)
+- [Ask HN: Great text based games to play?](https://news.ycombinator.com/item?id=34469154)
 - [Vikunja – The open-source, self-hostable to-do app](https://vikunja.io/)
-- [Filecoin Announces First Mission to Deploy Decentralized File System in Space](https://fil.org/blog/ff-x-lockheed-martin-mission-announcement/)
-- [The McMurdo Webcams](https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm)
-- [Buy Hi-Resolution Satellite Images of Any Place on Earth](https://www.skyfi.com/pricing)
-- [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
