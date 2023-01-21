@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Believe](https://sive.rs/mb)
+- [Microsoft is checking everyone&#39;s bags for unsupported Office installs](https://www.theregister.com/2023/01/21/microsoft_office_count_update/)
 - [Hydra &lpar;YC W22&rpar; Is Hiring Database Engineers &lpar;Postgres&rpar;](https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc)
 - [Make Up a Guy](https://www.antipope.org/charlie/blog-static/2023/01/make-up-a-guy.html)
 - [The Page with No Code](https://danq.me/2023/01/11/nocode/)
-- [Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio](https://susam.net/invaders.html)
-- [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
