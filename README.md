@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hamster Invaders](https://vole.wtf/hampster-invaders/)
+- [Hampster Invaders](https://vole.wtf/hampster-invaders/)
 - [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
 - [Self-Soldering Circuits [video]](https://www.youtube.com/watch?v=r0csHZveVvY)
 - [An instruction oddity in the ppc64 &lpar;PowerPC 64-bit&rpar; architecture](https://utcc.utoronto.ca/~cks/space/blog/tech/PowerPCInstructionOddity)
