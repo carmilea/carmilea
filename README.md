@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercedes-Benz is first to get approval for Level 3 autonomous driving in US](https://www.arenaev.com/mercedesbenz_is_first_to_get_approval_for_level_3_autonomous_driving_in_us-news-1267.php)
+- [It&#39;s legal to hit children in school in 19 American states](https://www.economist.com/united-states/2023/01/19/it-is-still-legal-to-hit-children-in-school-in-19-american-states)
+- [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
+- [Official Warning: Bryan Kirk &lpar;Zero3K&rpar;](https://reactos.org/forum/viewtopic.php?t=21714)
+- [Inherit environment variables from PID 1 by reading /proc/1/environ](https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9)
 - [Show HN: Names](https://joostjansen.me/index)
-- [Government investigation finds Tesla FSD engaged during the Bay Bridge pileup](https://www.notebookcheck.net/Government-investigation-finds-Tesla-FSD-was-indeed-engaged-during-the-Bay-Bridge-pileup.682641.0.html)
-- [Is Apple checking images we view in the Finder?](https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/)
-- [Ask HN: Great text based games to play?](https://news.ycombinator.com/item?id=34469154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
