@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
+- [Japan was the future but it&#39;s stuck in the past](https://www.bbc.co.uk/news/world-asia-63830490)
+- [Self-Soldering Circuits [video]](https://www.youtube.com/watch?v=r0csHZveVvY)
 - [An instruction oddity in the ppc64 &lpar;PowerPC 64-bit&rpar; architecture](https://utcc.utoronto.ca/~cks/space/blog/tech/PowerPCInstructionOddity)
 - [iPhones and iPads Now Require a Passcode on Every Backup/Sync](https://tidbits.com/2023/01/11/iphones-and-ipads-now-require-a-passcode-on-every-backup-sync/)
-- [GPT-3: Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
-- [You don&#39;t have to engage with people on the Internet](https://xeiaso.net/blog/lesson-online-feedback)
-- [Viral illnesses may increase chances of developing neurodegenerative diseases](http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
