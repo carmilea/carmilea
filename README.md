@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you trust your quantum simulator?](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
-- [Ain&#39;t it funny how the knight moves?](https://www.funnyhowtheknightmoves.com/)
-- [New York got it wrong on cybersecurity and the right to repair](https://www.timesunion.com/opinion/article/Commentary-New-York-got-it-wrong-on-17707551.php)
-- [WEF speaker touts tech that allows your boss to monitor your brain activity](https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/)
-- [U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
+- [So Good They Can&#39;t Lay You Off](https://yafetn.github.io/2023/01/20/so-good-they-cant-lay-you-off.html)
+- [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+- [Building Reliable Distributed Systems in Node.js](https://temporal.io/blog/building-reliable-distributed-systems-in-node)
+- [Summer Afternoon – A WebGL Experiment](https://summer-afternoon.vlucendo.com/)
+- [Fighting murder convictions that rest on shoddy stats](https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
