@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What Happened to iOS Widgets?](https://news.ycombinator.com/item?id=34467116)
+- [Tech Layoffs Shock Young Workers. The Older People? Not So Much](https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html)
+- [An Unexpected Benefit of Unit Tests](https://matthewc.dev/musings/unit-tests/)
+- [My Husband Was Right About DVDs All Along](https://slate.com/technology/2023/01/streaming-libraries-dvds-blu-rays.html)
 - [Direct Memory Access computing machine RP2040](https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html)
 - [US Pilot Shot Down Four Soviet MiGs in 30 minutes – A secret for 50 years](https://www.cnn.com/2023/01/20/asia/korean-war-fighter-pilot-soviet-shootdown-intl-hnk-ml/index.html)
-- [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
-- [FTX’s Venture Capital Backers Face ‘Serious Questions,’ CFTC Official Says](https://www.bloomberg.com/news/articles/2023-01-21/ftx-s-venture-capital-backers-face-serious-questions-cftc-official-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
