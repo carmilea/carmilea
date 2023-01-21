@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hamster Invaders](https://vole.wtf/hampster-invaders/)
 - [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
-- [Japan was the future but it&#39;s stuck in the past](https://www.bbc.co.uk/news/world-asia-63830490)
 - [Self-Soldering Circuits [video]](https://www.youtube.com/watch?v=r0csHZveVvY)
 - [An instruction oddity in the ppc64 &lpar;PowerPC 64-bit&rpar; architecture](https://utcc.utoronto.ca/~cks/space/blog/tech/PowerPCInstructionOddity)
 - [iPhones and iPads Now Require a Passcode on Every Backup/Sync](https://tidbits.com/2023/01/11/iphones-and-ipads-now-require-a-passcode-on-every-backup-sync/)
