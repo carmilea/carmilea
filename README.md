@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Layoffs Shock Young Workers. The Older People? Not So Much](https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html)
-- [An Unexpected Benefit of Unit Tests](https://matthewc.dev/musings/unit-tests/)
-- [My Husband Was Right About DVDs All Along](https://slate.com/technology/2023/01/streaming-libraries-dvds-blu-rays.html)
-- [Direct Memory Access computing machine RP2040](https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html)
-- [US Pilot Shot Down Four Soviet MiGs in 30 minutes – A secret for 50 years](https://www.cnn.com/2023/01/20/asia/korean-war-fighter-pilot-soviet-shootdown-intl-hnk-ml/index.html)
+- [The McMurdo Webcams](https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm)
+- [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
+- [Quiet, ultrathin AirJet solid state active cooling chips could replace fans](https://www.cnx-software.com/2023/01/20/quiet-ultrathin-airjet-solid-state-active-cooling-could-replace-fans/)
+- [What to do when you &#39;ve ruined your life](https://www.bigfeels.club/public-articles/what-to-do-when-youve-ruined-your-life)
+- [Capital One axes 1k tech roles](https://www.theregister.com/2023/01/20/capital_one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
