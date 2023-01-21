@@ -54,8 +54,8 @@
 - [Make Up a Guy](https://www.antipope.org/charlie/blog-static/2023/01/make-up-a-guy.html)
 - [The Page with No Code](https://danq.me/2023/01/11/nocode/)
 - [Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio](https://susam.net/invaders.html)
-- [Hampster Invaders](https://vole.wtf/hampster-invaders/)
 - [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
+- [Information about a recent security incident at Mailchimp](https://mailchimp.com/january-2023-security-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
