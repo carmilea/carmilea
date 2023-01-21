@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They Rule](https://theyrule.net/)
-- [Is Copyright Eating AI?](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/)
+- [Mercedes-Benz is first to get approval for Level 3 autonomous driving in US](https://www.arenaev.com/mercedesbenz_is_first_to_get_approval_for_level_3_autonomous_driving_in_us-news-1267.php)
+- [Show HN: Names](https://joostjansen.me/index)
+- [Government investigation finds Tesla FSD engaged during the Bay Bridge pileup](https://www.notebookcheck.net/Government-investigation-finds-Tesla-FSD-was-indeed-engaged-during-the-Bay-Bridge-pileup.682641.0.html)
 - [Is Apple checking images we view in the Finder?](https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/)
 - [Ask HN: Great text based games to play?](https://news.ycombinator.com/item?id=34469154)
-- [Vikunja – The open-source, self-hostable to-do app](https://vikunja.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
