@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vikunja – The open-source, self-hostable to-do app](https://vikunja.io/)
+- [Filecoin Announces First Mission to Deploy Decentralized File System in Space](https://fil.org/blog/ff-x-lockheed-martin-mission-announcement/)
 - [The McMurdo Webcams](https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm)
+- [Buy Hi-Resolution Satellite Images of Any Place on Earth](https://www.skyfi.com/pricing)
 - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
-- [Quiet, ultrathin AirJet solid state active cooling chips could replace fans](https://www.cnx-software.com/2023/01/20/quiet-ultrathin-airjet-solid-state-active-cooling-could-replace-fans/)
-- [What to do when you &#39;ve ruined your life](https://www.bigfeels.club/public-articles/what-to-do-when-youve-ruined-your-life)
-- [Capital One axes 1k tech roles](https://www.theregister.com/2023/01/20/capital_one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
