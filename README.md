@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Up a Guy](https://www.antipope.org/charlie/blog-static/2023/01/make-up-a-guy.html)
+- [The Page with No Code](https://danq.me/2023/01/11/nocode/)
+- [Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio](https://susam.net/invaders.html)
 - [Hampster Invaders](https://vole.wtf/hampster-invaders/)
 - [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
-- [Self-Soldering Circuits [video]](https://www.youtube.com/watch?v=r0csHZveVvY)
-- [An instruction oddity in the ppc64 &lpar;PowerPC 64-bit&rpar; architecture](https://utcc.utoronto.ca/~cks/space/blog/tech/PowerPCInstructionOddity)
-- [iPhones and iPads Now Require a Passcode on Every Backup/Sync](https://tidbits.com/2023/01/11/iphones-and-ipads-now-require-a-passcode-on-every-backup-sync/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
