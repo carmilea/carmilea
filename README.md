@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Swift 1.0](https://forums.swift.org/t/vscode-swift-v1-0-0/62668)
-- [Make believe](https://sive.rs/mb)
-- [Microsoft is checking everyone&#39;s bags for unsupported Office installs](https://www.theregister.com/2023/01/21/microsoft_office_count_update/)
-- [Hydra &lpar;YC W22&rpar; Is Hiring Database Engineers &lpar;Postgres&rpar;](https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc)
-- [Make up a guy](https://www.antipope.org/charlie/blog-static/2023/01/make-up-a-guy.html)
+- [Ask HN: What Happened to iOS Widgets?](https://news.ycombinator.com/item?id=34467116)
+- [Direct Memory Access computing machine RP2040](https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html)
+- [US Pilot Shot Down Four Soviet MiGs in 30 minutes – A secret for 50 years](https://www.cnn.com/2023/01/20/asia/korean-war-fighter-pilot-soviet-shootdown-intl-hnk-ml/index.html)
+- [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+- [FTX’s Venture Capital Backers Face ‘Serious Questions,’ CFTC Official Says](https://www.bloomberg.com/news/articles/2023-01-21/ftx-s-venture-capital-backers-face-serious-questions-cftc-official-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
