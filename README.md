@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s legal to hit children in school in 19 American states](https://www.economist.com/united-states/2023/01/19/it-is-still-legal-to-hit-children-in-school-in-19-american-states)
+- [How did Sam Altman fail upward so well?](https://news.ycombinator.com/item?id=34471720)
+- [Tech Companies Are Quietly Defunding Diversity Pledges](https://www.essence.com/news/money-career/tech-companies-quietly-defunding-diversity-pledges/)
+- [Swift payments network to cut access to crypto exchanges](https://www.asiamarkets.com/swift-network-cuts-access-to-cryptocurrency/)
+- [Speak softly, and carry a big chip](https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation)
 - [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
-- [Official Warning: Bryan Kirk &lpar;Zero3K&rpar;](https://reactos.org/forum/viewtopic.php?t=21714)
-- [Inherit environment variables from PID 1 by reading /proc/1/environ](https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9)
-- [Show HN: Names](https://joostjansen.me/index)
 <!-- BLOG-POST-LIST:END -->
 
 ---
