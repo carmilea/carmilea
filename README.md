@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So Good They Can&#39;t Lay You Off](https://yafetn.github.io/2023/01/20/so-good-they-cant-lay-you-off.html)
+- [GPT-3: Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
+- [You don&#39;t have to engage with people on the Internet](https://xeiaso.net/blog/lesson-online-feedback)
+- [Viral illnesses may increase chances of developing neurodegenerative diseases](http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/)
 - [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
 - [Building Reliable Distributed Systems in Node.js](https://temporal.io/blog/building-reliable-distributed-systems-in-node)
-- [Summer Afternoon – A WebGL Experiment](https://summer-afternoon.vlucendo.com/)
-- [Fighting murder convictions that rest on shoddy stats](https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
