@@ -55,7 +55,7 @@
 - [You don&#39;t have to engage with people on the Internet](https://xeiaso.net/blog/lesson-online-feedback)
 - [Viral illnesses may increase chances of developing neurodegenerative diseases](http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/)
 - [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
-- [Building Reliable Distributed Systems in Node.js](https://temporal.io/blog/building-reliable-distributed-systems-in-node)
+- [Summer Afternoon – A WebGL Experiment](https://summer-afternoon.vlucendo.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
