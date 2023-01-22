@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git-SIM: Visually simulate Git operations in your own repos with a single termi](https://initialcommit.com/blog/git-sim)
+- [The contagious visual blandness of Netflix](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness)
 - [Rodney Brooks Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)
 - [The Appalachian Apple Hunter Who Rescued 1k ‘Lost’ Varieties](https://www.atlasobscura.com/articles/heritage-appalachian-apples)
-- [Fortran H and PL.8: Papers about Great Optimizing Compilers [pdf]](https://www.clear.rice.edu/comp512/Lectures/06GreatCompilers.pdf)
-- [Prisma laying off 28% staff](https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j)
-- [Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html)
+- [Detect breaches with Canary credit cards](https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
