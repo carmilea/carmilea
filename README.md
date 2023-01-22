@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Translating the Bible is a vexed task](https://www.economist.com/culture/2023/01/19/translating-the-bible-is-a-vexed-task-as-a-new-book-shows)
+- [Google is freaking out about ChatGPT](https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt)
 - [The Mystery of Richard Posner](https://lawliberty.org/features/the-mystery-of-richard-posner/)
 - [Looking for the best Chess960 starting position](https://www.amolas.dev/blog/chess-960-initial-position/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer &lpar;Generative AI API&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
-- [Ask HN: Best Layman&#39;s Book on Electricity](https://news.ycombinator.com/item?id=34474403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
