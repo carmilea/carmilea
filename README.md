@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Those making $500+/month on side projects in 2023 – Show and tell](https://news.ycombinator.com/item?id=34482433)
+- [The Body in the Buddha &lpar;2017&rpar;](https://www.economist.com/1843/2017/05/04/the-body-in-the-buddha)
+- [The Point of the Banach-Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [How do we experience the pain of other people?](https://neurosciencenews.com/insula-empathy-pain-21818/)
-- [WiFi Routers Used to Produce 3D Images of Humans](https://vpnoverview.com/news/wifi-routers-used-to-produce-3d-images-of-humans/)
-- [I, Libertine](https://en.wikipedia.org/wiki/I,_Libertine)
-- [The Dawn of Everything challenges a mainstream telling of prehistory](https://www.middleeasteye.net/opinion/david-graeber-vs-yuval-harari-forgotten-cities-myths-how-civilisation-began)
+- [JEP draft: No longer require super&lpar;&rpar; and this&lpar;&rpar; to appear first in a constructor](https://openjdk.org/jeps/8300786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
