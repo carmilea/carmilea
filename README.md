@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Crypto Dead?](https://tokenterminal.com/crypto-research/is-crypto-dead)
+- [Negative-Weight Single-Source Shortest Paths in Near-Linear Time](https://arxiv.org/abs/2203.03456)
+- [DeepMind CEO Demis Hassabis Helped Take AI Mainstream. Now He’s Urging Caution](https://time.com/6246119/demis-hassabis-deepmind-interview/)
 - [Ideas for finding ET are getting more inventive](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive)
 - [Ask HN: ChatGPT et al. and NPCs](https://news.ycombinator.com/item?id=34478503)
 - [Pomodoro Timer](https://pomofocus.io/)
-- [Supreme Court allows Reddit mods to anonymously defend Section 230](https://arstechnica.com/tech-policy/2023/01/supreme-court-allows-reddit-mods-to-anonymously-defend-section-230/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
