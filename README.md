@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How did Sam Altman fail upward so well?](https://news.ycombinator.com/item?id=34471720)
-- [Tech Companies Are Quietly Defunding Diversity Pledges](https://www.essence.com/news/money-career/tech-companies-quietly-defunding-diversity-pledges/)
-- [Swift payments network to cut access to crypto exchanges](https://www.asiamarkets.com/swift-network-cuts-access-to-cryptocurrency/)
-- [Speak softly, and carry a big chip](https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation)
-- [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
+- [Rumors of GTA online exploits allowing remote code execution on gamer PCs](https://old.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/)
+- [Vice, a Beleaguered Avatar of New Media, Hangs a ‘For Sale’ Sign](https://www.nytimes.com/2023/01/20/business/media/vice-puts-itself-up-for-sale.html)
+- [Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens](https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens)
+- [Binance says banking partner will stop processing SWIFT transfers under $100K](https://twitter.com/mikeburgersburg/status/1616901701927059457)
+- [What Happened with the Substation Attack in North Carolina?](https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina)
 <!-- BLOG-POST-LIST:END -->
 
 ---
