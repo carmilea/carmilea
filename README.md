@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Scans of the Great Pyramid Confirm Major Discovery Inside &lpar;2021&rpar;](https://www.thearchaeologist.org/blog/new-scans-of-the-great-pyramid-confirm-major-discovery-inside)
+- [How do we experience the pain of other people?](https://neurosciencenews.com/insula-empathy-pain-21818/)
+- [WiFi Routers Used to Produce 3D Images of Humans](https://vpnoverview.com/news/wifi-routers-used-to-produce-3d-images-of-humans/)
 - [I, Libertine](https://en.wikipedia.org/wiki/I,_Libertine)
-- [Microsoft Hosted Sting Performance in Davos on Night Before Announcing Layoffs](https://www.wsj.com/livecoverage/davos2023/card/microsoft-hosted-sting-performance-in-davos-on-night-before-it-announced-layoffs-cRHO4k295pSWarvtfQRJ)
-- [“Copycat” layoffs won’t help tech companies or their employees](https://www.gsb.stanford.edu/insights/why-copycat-layoffs-wont-help-tech-companies-or-their-employees)
-- [Decoding Lunar Flashlight](https://destevez.net/2023/01/decoding-lunar-flashlight/)
-- [Cyclic sighing most effective at improving mood and reducing respiratory rate](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8)
+- [The Dawn of Everything challenges a mainstream telling of prehistory](https://www.middleeasteye.net/opinion/david-graeber-vs-yuval-harari-forgotten-cities-myths-how-civilisation-began)
 <!-- BLOG-POST-LIST:END -->
 
 ---
