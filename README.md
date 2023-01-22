@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “Copycat” Layoffs Won’t Help Tech Companies – Or Their Employees](https://www.gsb.stanford.edu/insights/why-copycat-layoffs-wont-help-tech-companies-or-their-employees)
+- [I, Libertine](https://en.wikipedia.org/wiki/I,_Libertine)
+- [Microsoft Hosted Sting Performance in Davos on Night Before Announcing Layoffs](https://www.wsj.com/livecoverage/davos2023/card/microsoft-hosted-sting-performance-in-davos-on-night-before-it-announced-layoffs-cRHO4k295pSWarvtfQRJ)
+- [“Copycat” layoffs won’t help tech companies or their employees](https://www.gsb.stanford.edu/insights/why-copycat-layoffs-wont-help-tech-companies-or-their-employees)
+- [Decoding Lunar Flashlight](https://destevez.net/2023/01/decoding-lunar-flashlight/)
 - [Cyclic sighing most effective at improving mood and reducing respiratory rate](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8)
-- [What the spread of universal basic-income schemes says about Americas safety net](https://www.economist.com/united-states/2023/01/19/what-the-spread-of-universal-basic-income-schemes-says-about-americas-safety-net)
-- [Ask HN: Anyone doing some absurd stuff after getting laid off?](https://news.ycombinator.com/item?id=34479806)
-- [Bypassing Gmail&#39;s spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
