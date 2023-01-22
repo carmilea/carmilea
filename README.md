@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirJet – The world’s first solid-state chip for active device cooling](https://www.froresystems.com/)
+- [Ruby on Jets: Like Rails but Serverless](https://github.com/boltops-tools/jets)
+- [What ChatGPT and AI-Based Program Generation Mean for Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext)
+- [Things I want to see in JavaScript and Front end development in 2023](https://paularmstrong.dev/blog/2023/01/20/javascript-and-frontend-things-to-see-in-2023/)
 - [Google Fuchsia OS team affected by layoffs](https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/)
-- [The Schwarzschild Defence](https://www.nature.com/articles/d41586-022-04550-2)
-- [Rumors of GTA online exploits allowing remote code execution on gamer PCs](https://old.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/)
-- [Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens](https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens)
-- [Binance says banking partner will stop processing SWIFT transfers under $100K](https://twitter.com/mikeburgersburg/status/1616901701927059457)
 <!-- BLOG-POST-LIST:END -->
 
 ---
