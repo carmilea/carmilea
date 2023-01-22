@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Billionaire Activist Investor calling for more layoffs [pdf]](https://www.tcifund.com/files/corporateengageement/alphabet/20th%20January%202023.pdf)
+- [Rodney Brooks Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)
 - [The Appalachian Apple Hunter Who Rescued 1k ‘Lost’ Varieties](https://www.atlasobscura.com/articles/heritage-appalachian-apples)
+- [Fortran H and PL.8: Papers about Great Optimizing Compilers [pdf]](https://www.clear.rice.edu/comp512/Lectures/06GreatCompilers.pdf)
 - [Prisma laying off 28% staff](https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j)
-- [Japan was the future but it&#39;s stuck in the past](https://www.bbc.com/news/world-asia-63830490)
-- [Google is freaking out about ChatGPT](https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt)
+- [Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
