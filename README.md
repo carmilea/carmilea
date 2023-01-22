@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Security Research Device &lpar;2022&rpar;](https://support.apple.com/en-ca/guide/security/seca7ff718d2/web)
-- [Google Play Store forced to house other app stores as India upholds ruling](https://9to5google.com/2023/01/20/google-play-stroe-third-party-india/)
-- [New AI edits images based on text instructions &lpar;instructPix2Pix/imaginAIry&rpar;](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
-- [AirJet – The world’s first solid-state chip for active device cooling](https://www.froresystems.com/)
-- [Ruby on Jets: Like Rails but Serverless](https://github.com/boltops-tools/jets)
+- [Ask HN: Best Layman&#39;s Book on Electricity](https://news.ycombinator.com/item?id=34474403)
+- [New AI edits images based on text instructions](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
+- [AirJet – Solid-state chip for active device cooling](https://www.froresystems.com/)
+- [Ruby on Jets: Like Rails but serverless](https://github.com/boltops-tools/jets)
+- [Do Large Language Models learn world models or just surface statistics?](https://thegradient.pub/othello/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
