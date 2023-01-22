@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Negative-Weight Single-Source Shortest Paths in Near-Linear Time](https://arxiv.org/abs/2203.03456)
-- [DeepMind CEO Demis Hassabis Helped Take AI Mainstream. Now He’s Urging Caution](https://time.com/6246119/demis-hassabis-deepmind-interview/)
-- [Ideas for finding ET are getting more inventive](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive)
-- [Ask HN: ChatGPT et al. and NPCs](https://news.ycombinator.com/item?id=34478503)
-- [Pomodoro Timer](https://pomofocus.io/)
+- [Why “Copycat” Layoffs Won’t Help Tech Companies – Or Their Employees](https://www.gsb.stanford.edu/insights/why-copycat-layoffs-wont-help-tech-companies-or-their-employees)
+- [Cyclic sighing most effective at improving mood and reducing respiratory rate](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8)
+- [What the spread of universal basic-income schemes says about Americas safety net](https://www.economist.com/united-states/2023/01/19/what-the-spread-of-universal-basic-income-schemes-says-about-americas-safety-net)
+- [Ask HN: Anyone doing some absurd stuff after getting laid off?](https://news.ycombinator.com/item?id=34479806)
+- [Bypassing Gmail&#39;s spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
