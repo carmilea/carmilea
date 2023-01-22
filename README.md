@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for the best Chess960 starting position](https://www.amolas.dev/blog/chess-960-initial-position/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer &lpar;Generative AI API&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
 - [Ask HN: Best Layman&#39;s Book on Electricity](https://news.ycombinator.com/item?id=34474403)
 - [New AI edits images based on text instructions](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
 - [AirJet – Solid-state chip for active device cooling](https://www.froresystems.com/)
-- [Ruby on Jets: Like Rails but serverless](https://github.com/boltops-tools/jets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
