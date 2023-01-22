@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Schwarzschild Defence](https://www.nature.com/articles/d41586-022-04550-2)
 - [Rumors of GTA online exploits allowing remote code execution on gamer PCs](https://old.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/)
-- [Vice, a Beleaguered Avatar of New Media, Hangs a ‘For Sale’ Sign](https://www.nytimes.com/2023/01/20/business/media/vice-puts-itself-up-for-sale.html)
 - [Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens](https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens)
 - [Binance says banking partner will stop processing SWIFT transfers under $100K](https://twitter.com/mikeburgersburg/status/1616901701927059457)
 - [What Happened with the Substation Attack in North Carolina?](https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina)
