@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Security Research Device &lpar;2022&rpar;](https://support.apple.com/en-ca/guide/security/seca7ff718d2/web)
+- [Google Play Store forced to house other app stores as India upholds ruling](https://9to5google.com/2023/01/20/google-play-stroe-third-party-india/)
+- [New AI edits images based on text instructions &lpar;instructPix2Pix/imaginAIry&rpar;](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
 - [AirJet – The world’s first solid-state chip for active device cooling](https://www.froresystems.com/)
 - [Ruby on Jets: Like Rails but Serverless](https://github.com/boltops-tools/jets)
-- [What ChatGPT and AI-Based Program Generation Mean for Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext)
-- [Things I want to see in JavaScript and Front end development in 2023](https://paularmstrong.dev/blog/2023/01/20/javascript-and-frontend-things-to-see-in-2023/)
-- [Google Fuchsia OS team affected by layoffs](https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
