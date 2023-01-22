@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Has Passed the United States Medical Licensing Examination &lpar;Usmle&rpar;](https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2)
+- [The Guide to Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
 - [Ask HN: Those making $500+/month on side projects in 2023 – Show and tell](https://news.ycombinator.com/item?id=34482433)
 - [The Body in the Buddha &lpar;2017&rpar;](https://www.economist.com/1843/2017/05/04/the-body-in-the-buddha)
 - [The Point of the Banach-Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [JEP draft: No longer require super&lpar;&rpar; and this&lpar;&rpar; to appear first in a constructor](https://openjdk.org/jeps/8300786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
