@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git-SIM: Visually simulate Git operations in your own repos with a single termi](https://initialcommit.com/blog/git-sim)
-- [The contagious visual blandness of Netflix](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness)
-- [Rodney Brooks Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)
-- [The Appalachian Apple Hunter Who Rescued 1k ‘Lost’ Varieties](https://www.atlasobscura.com/articles/heritage-appalachian-apples)
-- [Detect breaches with Canary credit cards](https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html)
+- [Is Crypto Dead?](https://tokenterminal.com/crypto-research/is-crypto-dead)
+- [Ideas for finding ET are getting more inventive](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive)
+- [Ask HN: ChatGPT et al. and NPCs](https://news.ycombinator.com/item?id=34478503)
+- [Pomodoro Timer](https://pomofocus.io/)
+- [Supreme Court allows Reddit mods to anonymously defend Section 230](https://arstechnica.com/tech-policy/2023/01/supreme-court-allows-reddit-mods-to-anonymously-defend-section-230/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
