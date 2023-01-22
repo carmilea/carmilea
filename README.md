@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Scans of the Great Pyramid Confirm Major Discovery Inside &lpar;2021&rpar;](https://www.thearchaeologist.org/blog/new-scans-of-the-great-pyramid-confirm-major-discovery-inside)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
 - [How do we experience the pain of other people?](https://neurosciencenews.com/insula-empathy-pain-21818/)
 - [WiFi Routers Used to Produce 3D Images of Humans](https://vpnoverview.com/news/wifi-routers-used-to-produce-3d-images-of-humans/)
 - [I, Libertine](https://en.wikipedia.org/wiki/I,_Libertine)
