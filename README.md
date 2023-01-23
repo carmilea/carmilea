@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural Networks and the Chomsky Hierarchy [DeepMind, 2022]](https://arxiv.org/abs/2207.02098)
+- [My Dream Computer](https://bluelander.bearblog.dev/my-dream-computer/)
+- [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
+- [Neural Networks and the Chomsky Hierarchy](https://arxiv.org/abs/2207.02098)
 - [Ceremonial security and cargo cults](https://www.philvenables.com/post/ceremonial-security-and-cargo-cults)
 - [Kodezi - Autocorrect for Programmers](https://kodezi.com/)
-- [Ask HN: Has anyone fully attempted Bret Victor&#39;s vision?](https://news.ycombinator.com/item?id=34485254)
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
