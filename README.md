@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatCody, the GitHub Bot That Boosts Team Productivity](https://github.com/marketplace/chatcody)
-- [Dosdude – A custom-designed IDE SSD for old PCs](https://github.com/dosdude1/2.5-inch-ide-ssd)
+- [A custom-designed IDE SSD for old PCs](https://github.com/dosdude1/2.5-inch-ide-ssd)
 - [OpenEnroth – Open reimplementation of the Might and Magic 6, 7, 8 game engine](https://github.com/OpenEnroth/OpenEnroth)
 - [Pure Java Typesetting System](https://github.com/DaveJarvis/KeenType)
-- [US Construction worker productivity has dropped 40% in the last 50 years](https://bfi.uchicago.edu/insight/finding/the-strange-and-awful-path-of-productivity-in-the-us-construction-sector/)
+- [The strange and awful path of productivity in the US construction sector](https://bfi.uchicago.edu/insight/finding/the-strange-and-awful-path-of-productivity-in-the-us-construction-sector/)
+- [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
