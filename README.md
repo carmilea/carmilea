@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Microsoft Extend Partnership](https://openai.com/blog/openai-and-microsoft-extend-partnership/)
-- [What you can do when you get rich](https://mrsteinberg.com/what-can-you-do-when-you-get-rich/)
-- [ChatGPT killer: Google-owned, UK-born AI startup Deepmind is working on a rival](https://techfundingnews.com/chatgpt-killer-google-owned-uk-born-ai-startup-deepmind-is-working-on-a-rival/)
-- [Spotify to trim 6% of workforce, content head to depart](https://www.reuters.com/technology/spotify-trim-6-workforce-2023-01-23/)
-- [Spotify: Reducing our employee base by about 6% across the company](https://newsroom.spotify.com/2023-01-23/an-update-on-january-2023-organizational-changes/)
+- [Ask HN: When did GitHub replace standard Git commands with the “GitHub CLI?”](https://news.ycombinator.com/item?id=34489301)
+- [Windows 3.x Vddvga](http://www.os2museum.com/wp/windows-3-x-vddvga/)
+- [Ask HN: How do you balance support and sprint tickets?](https://news.ycombinator.com/item?id=34488938)
+- [OpenAI and Microsoft extend partnership](https://openai.com/blog/openai-and-microsoft-extend-partnership/)
+- [Deepmind is working on a rival to ChatGPT](https://techfundingnews.com/chatgpt-killer-google-owned-uk-born-ai-startup-deepmind-is-working-on-a-rival/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
