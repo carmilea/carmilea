@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Microsoft Extend Partnership](https://openai.com/blog/openai-and-microsoft-extend-partnership/)
+- [What you can do when you get rich](https://mrsteinberg.com/what-can-you-do-when-you-get-rich/)
 - [ChatGPT killer: Google-owned, UK-born AI startup Deepmind is working on a rival](https://techfundingnews.com/chatgpt-killer-google-owned-uk-born-ai-startup-deepmind-is-working-on-a-rival/)
-- [An intutive counterexample to the axiom of choice](http://blog.rongarret.info/2023/01/an-intutive-counterexample-to-axiom-of.html)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Show HN: 27 companies hiring software engineers based anywhere in the world](https://www.remoterocketship.com/companies-hiring-worldwide/software-engineers)
-- [Git commands you probably do not need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
+- [Spotify to trim 6% of workforce, content head to depart](https://www.reuters.com/technology/spotify-trim-6-workforce-2023-01-23/)
+- [Spotify: Reducing our employee base by about 6% across the company](https://newsroom.spotify.com/2023-01-23/an-update-on-january-2023-organizational-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
