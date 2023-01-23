@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI Music Generator Made for Creators](https://soundful.com/)
+- [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154)
 - [GitHub Sponsors will stop supporting PayPal](https://github.blog/changelog/2023-01-23-github-sponsors-will-stop-supporting-paypal/)
 - [Doomgeneric: Make Porting Doom Easier](https://github.com/ozkl/doomgeneric)
 - [Has Earth’s inner core stopped its strange spin?](https://www.nature.com/articles/d41586-023-00167-1)
-- [A dozen USB chargers in the lab: Apple is good, but not quite the best](https://www.righto.com/2012/10/a-dozen-usb-chargers-in-lab-apple-is.html)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates – Remote](https://relationshiphero.com/careers?role=salesAssociate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
