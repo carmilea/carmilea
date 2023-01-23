@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT killer: Google-owned, UK-born AI startup Deepmind is working on a rival](https://techfundingnews.com/chatgpt-killer-google-owned-uk-born-ai-startup-deepmind-is-working-on-a-rival/)
+- [An intutive counterexample to the axiom of choice](http://blog.rongarret.info/2023/01/an-intutive-counterexample-to-axiom-of.html)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Ask HN: What do you do to start and develop friendships?](https://news.ycombinator.com/item?id=34487606)
-- [Git Commands You Probably Do Not Need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
-- [Magnetic method to clean PFAS contaminated water](https://www.uq.edu.au/news/article/2023/01/magnetic-method-clean-pfas-contaminated-water)
-- [macOS CLI tool to configure multi-display resolutions and arrangements](https://github.com/jakehilborn/displayplacer)
+- [Show HN: 27 companies hiring software engineers based anywhere in the world](https://www.remoterocketship.com/companies-hiring-worldwide/software-engineers)
+- [Git commands you probably do not need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
