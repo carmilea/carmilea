@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Sponsors will stop supporting PayPal](https://github.blog/changelog/2023-01-23-github-sponsors-will-stop-supporting-paypal/)
+- [Doomgeneric: Make Porting Doom Easier](https://github.com/ozkl/doomgeneric)
+- [Has Earth’s inner core stopped its strange spin?](https://www.nature.com/articles/d41586-023-00167-1)
+- [A dozen USB chargers in the lab: Apple is good, but not quite the best](https://www.righto.com/2012/10/a-dozen-usb-chargers-in-lab-apple-is.html)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates – Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [An Overview of Ruby on Rails 7.1 Features. Part III](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-iii/)
-- [Reverse-engineering the conditional jump circuitry in the 8086 processor](https://www.righto.com/2023/01/reverse-engineering-conditional-jump.html)
-- [The failed promises of tech liberation](https://flux.community/matthew-sheffield/2023/01/richard-barbrook-californian-ideology-libertarianism-neoliberalism/)
-- [An incomplete guide to stealth addresses](https://vitalik.ca/general/2023/01/20/stealth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
