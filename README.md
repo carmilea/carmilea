@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Concise – Search Engine to Replace Shopping Filters](https://concise.space)
+- [Ceremonial Security and Cargo Cults](https://www.philvenables.com/post/ceremonial-security-and-cargo-cults)
+- [Kodezi - Autocorrect for Programmers](https://kodezi.com/)
+- [Ask HN: Has anyone fully attempted Bret Victor&#39;s vision?](https://news.ycombinator.com/item?id=34485254)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [Hewlett Packard HP-15C Simulator](https://hp-15c.homepage.t-online.de/homepage.htm)
-- [Way fewer people are creating new podcasts these days](https://philsiarri.substack.com/p/way-fewer-people-are-creating-new)
-- [Opensnitch, application level interactive firewall, heading into Debian](https://people.skolelinux.org/pere/blog/Opensnitch__the_application_level_interactive_firewall__heading_into_the_Debian_archive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
