@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: When did GitHub replace standard Git commands with the “GitHub CLI?”](https://news.ycombinator.com/item?id=34489301)
-- [Windows 3.x Vddvga](http://www.os2museum.com/wp/windows-3-x-vddvga/)
-- [Ask HN: How do you balance support and sprint tickets?](https://news.ycombinator.com/item?id=34488938)
-- [OpenAI and Microsoft extend partnership](https://openai.com/blog/openai-and-microsoft-extend-partnership/)
-- [Deepmind is working on a rival to ChatGPT](https://techfundingnews.com/chatgpt-killer-google-owned-uk-born-ai-startup-deepmind-is-working-on-a-rival/)
+- [Zero to Nix, an unofficial, opinionated, gentle introduction to Nix](https://zero-to-nix.com/)
+- [Netflix&#39;s New Chapter](https://stratechery.com/2023/netflixs-new-chapter/)
+- [Fentanyl Vaccine Potential ‘Game Changer’ for Opioid Epidemic](https://uh.edu/news-events/stories/2022-news-articles/november-2022/11142022-fentanyl-vaccine-haile-kosten.php)
+- [Stripe Extends Partnership with Amazon](https://stripe.com/en-es/newsroom/news/amazon-and-stripe)
+- [Commercial 3D printers emit traces of toxic fumes, study finds](https://eandt.theiet.org/content/articles/2019/10/commercial-3d-printers-emit-traces-of-toxic-fumes-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
