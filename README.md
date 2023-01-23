@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grand Theft Auto V exploit assigned CVE number due to partial RCE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059)
-- [TrueOS &lpar;née PC-BSD&rpar; Has Been Discontinued &lpar;2020&rpar;](https://www.truenas.com/trueos-discontinuation/)
-- [&#39;A complete failure&#39; Japan&#39;s &#39;fantasy&#39; hydrogen strategy does nothing](https://www.hydrogeninsight.com/policy/a-complete-failure-japans-fantasy-hydrogen-strategy-does-nothing-for-decarbonisation-study/2-1-1326788?zephr_sso_ott=aLG5CC)
-- [A guide for playing The Sims 1 on Intel and ARM Macs](https://github.com/hackergolucky/PlaySimsOnMac/blob/main/README.md)
-- [Rust on macOS 9](https://twitter.com/turbolent/status/1617231570573873152)
+- [Concise – Search Engine to Replace Shopping Filters](https://concise.space)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [Hewlett Packard HP-15C Simulator](https://hp-15c.homepage.t-online.de/homepage.htm)
+- [Way fewer people are creating new podcasts these days](https://philsiarri.substack.com/p/way-fewer-people-are-creating-new)
+- [Opensnitch, application level interactive firewall, heading into Debian](https://people.skolelinux.org/pere/blog/Opensnitch__the_application_level_interactive_firewall__heading_into_the_Debian_archive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
