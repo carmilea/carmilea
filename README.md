@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Ask HN: What do you do to start and develop friendships?](https://news.ycombinator.com/item?id=34487606)
 - [Git Commands You Probably Do Not Need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
 - [Magnetic method to clean PFAS contaminated water](https://www.uq.edu.au/news/article/2023/01/magnetic-method-clean-pfas-contaminated-water)
 - [macOS CLI tool to configure multi-display resolutions and arrangements](https://github.com/jakehilborn/displayplacer)
-- [Medical History Books](https://scottlocklin.wordpress.com/2022/12/21/medical-history-books/)
-- [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
