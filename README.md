@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Nix, an unofficial, opinionated, gentle introduction to Nix](https://zero-to-nix.com/)
-- [NASA Solved a $100M Problem for Five Bucks](https://gizmodo.com/how-nasa-solved-a-100-million-problem-for-five-bucks-5880850)
-- [Netflix&#39;s New Chapter](https://stratechery.com/2023/netflixs-new-chapter/)
-- [Stripe Extends Partnership with Amazon](https://stripe.com/en-es/newsroom/news/amazon-and-stripe)
-- [Commercial 3D printers emit traces of toxic fumes, study finds](https://eandt.theiet.org/content/articles/2019/10/commercial-3d-printers-emit-traces-of-toxic-fumes-study-finds/)
+- [ChatCody, the GitHub Bot That Boosts Team Productivity](https://github.com/marketplace/chatcody)
+- [Dosdude – A custom-designed IDE SSD for old PCs](https://github.com/dosdude1/2.5-inch-ide-ssd)
+- [OpenEnroth – Open reimplementation of the Might and Magic 6, 7, 8 game engine](https://github.com/OpenEnroth/OpenEnroth)
+- [Pure Java Typesetting System](https://github.com/DaveJarvis/KeenType)
+- [US Construction worker productivity has dropped 40% in the last 50 years](https://bfi.uchicago.edu/insight/finding/the-strange-and-awful-path-of-productivity-in-the-us-construction-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
