@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Has Passed the United States Medical Licensing Examination &lpar;Usmle&rpar;](https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2)
-- [The Guide to Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
-- [Ask HN: Those making $500+/month on side projects in 2023 – Show and tell](https://news.ycombinator.com/item?id=34482433)
-- [The Body in the Buddha &lpar;2017&rpar;](https://www.economist.com/1843/2017/05/04/the-body-in-the-buddha)
-- [The Point of the Banach-Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn)
+- [&#39;A complete failure&#39; Japan&#39;s &#39;fantasy&#39; hydrogen strategy does nothing](https://www.hydrogeninsight.com/policy/a-complete-failure-japans-fantasy-hydrogen-strategy-does-nothing-for-decarbonisation-study/2-1-1326788?zephr_sso_ott=aLG5CC)
+- [A guide for playing The Sims 1 on Intel and ARM Macs](https://github.com/hackergolucky/PlaySimsOnMac/blob/main/README.md)
+- [Why Developers Never Use State Machines &lpar;2011&rpar;](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
+- [Rust on macOS 9](https://twitter.com/turbolent/status/1617231570573873152)
+- [WY Union Says Court Ruling in Kroger–Albertson’s Merger Favors “Ultra-Wealthy”](https://cowboystatedaily.com/2023/01/19/fight-over-albertsons-kroger-grocery-mega-merger-moves-goes-political/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
