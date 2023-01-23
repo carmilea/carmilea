@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Commands You Probably Do Not Need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
+- [Magnetic method to clean PFAS contaminated water](https://www.uq.edu.au/news/article/2023/01/magnetic-method-clean-pfas-contaminated-water)
+- [macOS CLI tool to configure multi-display resolutions and arrangements](https://github.com/jakehilborn/displayplacer)
 - [Medical History Books](https://scottlocklin.wordpress.com/2022/12/21/medical-history-books/)
 - [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
-- [Japan: The Harbinger State](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/japan-the-harbinger-state/2A9123B64A04C480B1BC5669FC2C8AF3)
-- [Bulldozer, AMD’s Crash Modernization: Front End and Execution Engine](https://chipsandcheese.com/2023/01/22/bulldozer-amds-crash-modernization-frontend-and-execution-engine/)
-- [My Dream Computer](https://bluelander.bearblog.dev/my-dream-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
