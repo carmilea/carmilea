@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Medical History Books](https://scottlocklin.wordpress.com/2022/12/21/medical-history-books/)
+- [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
+- [Japan: The Harbinger State](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/japan-the-harbinger-state/2A9123B64A04C480B1BC5669FC2C8AF3)
 - [Bulldozer, AMD’s Crash Modernization: Front End and Execution Engine](https://chipsandcheese.com/2023/01/22/bulldozer-amds-crash-modernization-frontend-and-execution-engine/)
 - [My Dream Computer](https://bluelander.bearblog.dev/my-dream-computer/)
-- [PSone.css – Playstation 1 style CSS Framework](https://micah5.github.io/PSone.css/)
-- [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
-- [Neural Networks and the Chomsky Hierarchy](https://arxiv.org/abs/2207.02098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
