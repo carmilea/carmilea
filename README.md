@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zero to Nix, an unofficial, opinionated, gentle introduction to Nix](https://zero-to-nix.com/)
+- [NASA Solved a $100M Problem for Five Bucks](https://gizmodo.com/how-nasa-solved-a-100-million-problem-for-five-bucks-5880850)
 - [Netflix&#39;s New Chapter](https://stratechery.com/2023/netflixs-new-chapter/)
-- [Fentanyl Vaccine Potential ‘Game Changer’ for Opioid Epidemic](https://uh.edu/news-events/stories/2022-news-articles/november-2022/11142022-fentanyl-vaccine-haile-kosten.php)
 - [Stripe Extends Partnership with Amazon](https://stripe.com/en-es/newsroom/news/amazon-and-stripe)
 - [Commercial 3D printers emit traces of toxic fumes, study finds](https://eandt.theiet.org/content/articles/2019/10/commercial-3d-printers-emit-traces-of-toxic-fumes-study-finds/)
 <!-- BLOG-POST-LIST:END -->
