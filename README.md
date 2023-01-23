@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A custom-designed IDE SSD for old PCs](https://github.com/dosdude1/2.5-inch-ide-ssd)
-- [OpenEnroth – Open reimplementation of the Might and Magic 6, 7, 8 game engine](https://github.com/OpenEnroth/OpenEnroth)
-- [Pure Java Typesetting System](https://github.com/DaveJarvis/KeenType)
-- [The strange and awful path of productivity in the US construction sector](https://bfi.uchicago.edu/insight/finding/the-strange-and-awful-path-of-productivity-in-the-us-construction-sector/)
-- [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
+- [Reverse-engineering the conditional jump circuitry in the 8086 processor](https://www.righto.com/2023/01/reverse-engineering-conditional-jump.html)
+- [How primitive building videos are staged [video]](https://www.youtube.com/watch?v=Hvk63LADbFc)
+- [The failed promises of tech liberation](https://flux.community/matthew-sheffield/2023/01/richard-barbrook-californian-ideology-libertarianism-neoliberalism/)
+- [An incomplete guide to stealth addresses](https://vitalik.ca/general/2023/01/20/stealth.html)
+- [iOS 16.3 Is Out](https://developer.apple.com/news/releases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
