@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ceremonial Security and Cargo Cults](https://www.philvenables.com/post/ceremonial-security-and-cargo-cults)
+- [Neural Networks and the Chomsky Hierarchy [DeepMind, 2022]](https://arxiv.org/abs/2207.02098)
+- [Ceremonial security and cargo cults](https://www.philvenables.com/post/ceremonial-security-and-cargo-cults)
 - [Kodezi - Autocorrect for Programmers](https://kodezi.com/)
 - [Ask HN: Has anyone fully attempted Bret Victor&#39;s vision?](https://news.ycombinator.com/item?id=34485254)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [Hewlett Packard HP-15C Simulator](https://hp-15c.homepage.t-online.de/homepage.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
