@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grand Theft Auto V exploit assigned CVE number due to partial RCE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059)
+- [TrueOS &lpar;née PC-BSD&rpar; Has Been Discontinued &lpar;2020&rpar;](https://www.truenas.com/trueos-discontinuation/)
 - [&#39;A complete failure&#39; Japan&#39;s &#39;fantasy&#39; hydrogen strategy does nothing](https://www.hydrogeninsight.com/policy/a-complete-failure-japans-fantasy-hydrogen-strategy-does-nothing-for-decarbonisation-study/2-1-1326788?zephr_sso_ott=aLG5CC)
 - [A guide for playing The Sims 1 on Intel and ARM Macs](https://github.com/hackergolucky/PlaySimsOnMac/blob/main/README.md)
-- [Why Developers Never Use State Machines &lpar;2011&rpar;](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
 - [Rust on macOS 9](https://twitter.com/turbolent/status/1617231570573873152)
-- [WY Union Says Court Ruling in Kroger–Albertson’s Merger Favors “Ultra-Wealthy”](https://cowboystatedaily.com/2023/01/19/fight-over-albertsons-kroger-grocery-mega-merger-moves-goes-political/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
