@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Elastic, Loki and SigNoz – A Perf Benchmark of Open-Source Logging Platforms](https://github.com/SigNoz/logs-benchmark)
 - [Hyperscale in your Homelab: The Compute Blade arrives](https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives)
-- [Japan PM’s solution to dire birthrate has already been rejected by young](https://www.theguardian.com/world/2023/jan/24/japan-birthrate-population-pm-solution-already-rejected-by-young)
 - [Stacker &lpar;YC S20&rpar; is hiring a strategic Product Designer](https://apply.workable.com/stackerhq/j/315EE1DB57/)
 - [Minimal Cross-Platform Graphics](https://zserge.com/posts/fenster/)
+- [Build security with the assumption it will be used against your friends](https://mjg59.dreamwidth.org/65272.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
