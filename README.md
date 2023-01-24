@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Accuses Google of Abusing Monopoly in Ad Technology](https://www.nytimes.com/2023/01/24/technology/google-ads-lawsuit.html)
-- [Astro 2.0](https://astro.build/blog/astro-2/)
-- [Kysely: TypeScript SQL Query Builder](https://github.com/koskimas/kysely)
-- [Replit &lpar;YC W18&rpar; Is Hiring First Developer Advocate](https://jobs.ashbyhq.com/replit/434075ed-aa4c-4a42-b2ad-fa1242817e7d)
-- [PagerDuty to Lay Off 7% of Staff; Revenue Officer to Exit](https://www.marketwatch.com/story/pagerduty-to-lay-off-7-of-staff-revenue-officer-to-exit-271674568511)
+- [Cal.com: The Open-Source Calendly Alternative](https://cal.com/)
+- [WTF with High School Questions?](https://letmypeoplecode.com/job-hunt-diary-2023-wtf-with-high-school-questions/)
+- [512GB 14” M2 Pro MacBook Pro has slower SSD than previous model](https://twitter.com/ZONEofTECH/status/1617946631156162560)
+- [Apple CEO Tim Cook requests and receives a 40% pay cut](https://www.cnbc.com/2023/01/12/apple-ceo-tim-cook-receives-a-40percent-pay-cut-after-shareholder-vote.html)
+- [Now Available: Ivory for Mastodon by Tapbots](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
