@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet Archive takes down upload of BBC’s Modi documentary](https://www.thehindu.com/news/national/internet-archive-takes-down-upload-of-bbcs-modi-documentary/article66425460.ece)
-- [Gitpod has laid off around 20 employees](https://twitter.com/geoffreyhuntley/status/1617878457807167494)
-- [SlidesGPT – Like ChatGPT for Slides](https://slidesgpt.com)
-- [Make a Resume in LaTeX from Scratch](https://drshika.me/2022/04/15/latex-resumes)
-- [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view?usp=share_link)
+- [Riot: Source code for League of Legends and TFT were exfiltrated by attackers](https://threadreaderapp.com/thread/1617900234734198787.html)
+- [HN: Thank you for being fast, ad-free and text only](https://news.ycombinator.com/item?id=34505219)
+- [The Git source code audit, viewed as a Rust programmer](https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
+- [MacBooks from 2020 Are Being Sold for Scrap Because of Activation Lock](https://www.vice.com/en/article/xgybq7/apple-macbook-activation-lock-right-to-repair)
+- [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
