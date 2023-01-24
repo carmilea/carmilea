@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cal.com: The Open-Source Calendly Alternative](https://cal.com/)
-- [WTF with High School Questions?](https://letmypeoplecode.com/job-hunt-diary-2023-wtf-with-high-school-questions/)
-- [512GB 14” M2 Pro MacBook Pro has slower SSD than previous model](https://twitter.com/ZONEofTECH/status/1617946631156162560)
-- [Apple CEO Tim Cook requests and receives a 40% pay cut](https://www.cnbc.com/2023/01/12/apple-ceo-tim-cook-receives-a-40percent-pay-cut-after-shareholder-vote.html)
-- [Now Available: Ivory for Mastodon by Tapbots](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274)
+- [Companies Use Drip Pricing to Overcharge Consumers](https://passingtime.substack.com/p/perfidious-pricing)
+- [How the Xbox 360 knows if your hard drive is genuine](https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/)
+- [Appliance makers sad that 50% of customers won’t connect smart appliances](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/)
+- [Making chloroform so I can sleep better at night [video]](https://www.youtube.com/watch?v=L23akTkDqTM)
+- [Cal.com: Open-Source Calendly Alternative](https://cal.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
