@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitwarden Design Flaw](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
+- [International domain names: where does HTTPS://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
 - [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
-- [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy/)
 - [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
-- [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036)
-- [Setting the clock ahead to see what breaks](https://rachelbythebay.com/w/2023/01/19/time/)
+- [Ask HN: How is the tech market in SF? How does it compare to remote?](https://news.ycombinator.com/item?id=34496794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
