@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies Use Drip Pricing to Overcharge Consumers](https://passingtime.substack.com/p/perfidious-pricing)
-- [How the Xbox 360 knows if your hard drive is genuine](https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/)
-- [Appliance makers sad that 50% of customers won’t connect smart appliances](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/)
-- [Making chloroform so I can sleep better at night [video]](https://www.youtube.com/watch?v=L23akTkDqTM)
-- [Cal.com: Open-Source Calendly Alternative](https://cal.com/)
+- [Jerry &lpar;YC S17&rpar; is hiring a senior product designer &lpar;remote&rpar;](https://jobs.ashbyhq.com/Jerry/0a1e6878-1f8d-443e-aaad-fcdd97ee1829?departmentId=35139ec5-efdf-4d54-bbfb-47d24a37e6e2)
+- [Strings in YAML – To quote or not to quote &lpar;2018&rpar;](https://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html)
+- [Mac Malware of 2022](https://objective-see.org/blog/blog_0x71.html)
+- [Show HN: Turning books into chatbots with GPT-3](https://www.konjer.xyz/)
+- [Companies use drip pricing to overcharge consumers](https://passingtime.substack.com/p/perfidious-pricing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
