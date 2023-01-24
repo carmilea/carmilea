@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investor sends letter to Google demanding more people fired and pay reduced](https://www.teamblind.com/post/Google-investor-TCI-asking-for-more-layoffs-Hdbc5SGQ)
+- [Ask HN: ‘Following’ Other HN Users?](https://news.ycombinator.com/item?id=34499574)
 - [Ask HN: Why do you find your job satisfying?](https://news.ycombinator.com/item?id=34499286)
 - [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
 - [International domain names: where does https://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
-- [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
-- [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
