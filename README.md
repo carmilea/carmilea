@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Riot: Source code for League of Legends and TFT were exfiltrated by attackers](https://threadreaderapp.com/thread/1617900234734198787.html)
-- [HN: Thank you for being fast, ad-free and text only](https://news.ycombinator.com/item?id=34505219)
-- [The Git source code audit, viewed as a Rust programmer](https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
-- [MacBooks from 2020 Are Being Sold for Scrap Because of Activation Lock](https://www.vice.com/en/article/xgybq7/apple-macbook-activation-lock-right-to-repair)
-- [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
+- [Replit &lpar;YC W18&rpar; Is Hiring First Developer Advocate](https://jobs.ashbyhq.com/replit/434075ed-aa4c-4a42-b2ad-fa1242817e7d)
+- [“If you use React, you should be using a React framework.”](https://twitter.com/acdlite/status/1617611126514266112)
+- [NYC Jails Want to Ban Physical Mail, Then Privatize Scanning of Digital Versions](https://theintercept.com/2023/01/23/nyc-jail-rikers-mail-surveillance-securus/)
+- [Launch HN: Matano &lpar;YC W23&rpar; – Open-Source Security Lake Platform &lpar;SIEM&rpar; for AWS](https://news.ycombinator.com/item?id=34505603)
+- [On Markdown in Java documentation comments](https://mail.openjdk.org/pipermail/javadoc-dev/2023-January/005563.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
