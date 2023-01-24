@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The front page of HN will get you 4k-6k visitors](https://twitter.com/LiorNn/status/1617860208059088901)
-- [TIL you can de-obfuscate code with ChatGPT](https://twitter.com/AlexAlexandrius/status/1617876020593557506)
-- [Self-hosting in 2023: Nextcloud on Linode, or _?_ on _?_?](https://news.ycombinator.com/item?id=34503176)
-- [CNET&#39;s AI Journalist Appears to Have Committed Extensive Plagiarism](https://futurism.com/cnet-ai-plagiarism)
-- [Certified 100% AI-free organic content](https://substack.piszek.com/p/ai-free)
+- [Internet Archive takes down upload of BBC’s Modi documentary](https://www.thehindu.com/news/national/internet-archive-takes-down-upload-of-bbcs-modi-documentary/article66425460.ece)
+- [Gitpod has laid off around 20 employees](https://twitter.com/geoffreyhuntley/status/1617878457807167494)
+- [SlidesGPT – Like ChatGPT for Slides](https://slidesgpt.com)
+- [Make a Resume in LaTeX from Scratch](https://drshika.me/2022/04/15/latex-resumes)
+- [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view?usp=share_link)
 <!-- BLOG-POST-LIST:END -->
 
 ---
