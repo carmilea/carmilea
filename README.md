@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TIPP10 – Free Touch Typing Tutor](https://www.tipp10.com/en/index/)
+- [Linear-log bucketing: fast, versatile, simple &lpar;2015&rpar;](https://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
+- [Apple attempting to stop investigation into its practices involving Browsers](https://twitter.com/openwebadvocacy/status/1617802614149894144)
 - [Elastic, Loki and SigNoz – A Perf Benchmark of Open-Source Logging Platforms](https://github.com/SigNoz/logs-benchmark)
 - [Hyperscale in your Homelab: The Compute Blade arrives](https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives)
-- [Stacker &lpar;YC S20&rpar; is hiring a strategic Product Designer](https://apply.workable.com/stackerhq/j/315EE1DB57/)
-- [Minimal Cross-Platform Graphics](https://zserge.com/posts/fenster/)
-- [Build security with the assumption it will be used against your friends](https://mjg59.dreamwidth.org/65272.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
