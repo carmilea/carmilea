@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Accuses Google of Abusing Monopoly in Ad Technology](https://www.nytimes.com/2023/01/24/technology/google-ads-lawsuit.html)
+- [Astro 2.0](https://astro.build/blog/astro-2/)
+- [Kysely: TypeScript SQL Query Builder](https://github.com/koskimas/kysely)
 - [Replit &lpar;YC W18&rpar; Is Hiring First Developer Advocate](https://jobs.ashbyhq.com/replit/434075ed-aa4c-4a42-b2ad-fa1242817e7d)
-- [“If you use React, you should be using a React framework.”](https://twitter.com/acdlite/status/1617611126514266112)
-- [NYC Jails Want to Ban Physical Mail, Then Privatize Scanning of Digital Versions](https://theintercept.com/2023/01/23/nyc-jail-rikers-mail-surveillance-securus/)
-- [Launch HN: Matano &lpar;YC W23&rpar; – Open-Source Security Lake Platform &lpar;SIEM&rpar; for AWS](https://news.ycombinator.com/item?id=34505603)
-- [On Markdown in Java documentation comments](https://mail.openjdk.org/pipermail/javadoc-dev/2023-January/005563.html)
+- [PagerDuty to Lay Off 7% of Staff; Revenue Officer to Exit](https://www.marketwatch.com/story/pagerduty-to-lay-off-7-of-staff-revenue-officer-to-exit-271674568511)
 <!-- BLOG-POST-LIST:END -->
 
 ---
