@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New AI Music Generator Made for Creators](https://soundful.com/)
-- [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154)
-- [GitHub Sponsors will stop supporting PayPal](https://github.blog/changelog/2023-01-23-github-sponsors-will-stop-supporting-paypal/)
-- [Doomgeneric: Make Porting Doom Easier](https://github.com/ozkl/doomgeneric)
-- [Has Earth’s inner core stopped its strange spin?](https://www.nature.com/articles/d41586-023-00167-1)
+- [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
+- [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy/)
+- [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
+- [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036)
+- [Setting the clock ahead to see what breaks](https://rachelbythebay.com/w/2023/01/19/time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
