@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stacker &lpar;YC S20&rpar; is hiring a strategic Product Designer](https://apply.workable.com/stackerhq/j/315EE1DB57/)
-- [Accept Failure, Learn Lesson and Get Up](https://ivanklimchuk.substack.com/p/four-accept-failure-learn-lesson-and-get-up)
-- [Investor sends letter to Google demanding more people fired and pay reduced](https://www.teamblind.com/post/Google-investor-TCI-asking-for-more-layoffs-Hdbc5SGQ)
+- [Lost Media: Finding Bill Clinton’s “Boxers or Briefs” MTV Moment](https://waxy.org/2023/01/lost-media-finding-bill-clintons-boxers-or-briefs-mtv-moment/)
+- [Build security with the assumption it will be used against your friends](https://mjg59.dreamwidth.org/65272.html)
 - [Ask HN: Why do you find your job satisfying?](https://news.ycombinator.com/item?id=34499286)
 - [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
 <!-- BLOG-POST-LIST:END -->
