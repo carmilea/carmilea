@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CNET&#39;s AI Journalist Appears to Have Committed Extensive Plagiarism](https://futurism.com/cnet-ai-plagiarism)
+- [Certified 100% AI-Free Organic content](https://substack.piszek.com/p/ai-free)
+- [How to get new ideas](http://paulgraham.com/getideas.html)
+- [Ask HN: What is the weirdest or most surreal &lpar;recent&rpar; technology you have seen?](https://news.ycombinator.com/item?id=34502566)
 - [OneText &lpar;YC W23&rpar; is hiring our first engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
-- [German cartel office initiates proceedings against PayPal](https://www.reuters.com/legal/german-cartel-office-initiates-proceedings-against-paypal-2023-01-23/)
-- [Marp: Markdown Presentation Ecosystem](https://marp.app/)
-- [TIPP10 – Free Touch Typing Tutor](https://www.tipp10.com/en/index/)
-- [Linear-log bucketing: fast, versatile, simple &lpar;2015&rpar;](https://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
