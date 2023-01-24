@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The front page of HN will get you 4k-6k visitors](https://twitter.com/LiorNn/status/1617860208059088901)
+- [TIL you can de-obfuscate code with ChatGPT](https://twitter.com/AlexAlexandrius/status/1617876020593557506)
+- [Self-hosting in 2023: Nextcloud on Linode, or _?_ on _?_?](https://news.ycombinator.com/item?id=34503176)
 - [CNET&#39;s AI Journalist Appears to Have Committed Extensive Plagiarism](https://futurism.com/cnet-ai-plagiarism)
-- [Certified 100% AI-Free Organic content](https://substack.piszek.com/p/ai-free)
-- [How to get new ideas](http://paulgraham.com/getideas.html)
-- [Ask HN: What is the weirdest or most surreal &lpar;recent&rpar; technology you have seen?](https://news.ycombinator.com/item?id=34502566)
-- [OneText &lpar;YC W23&rpar; is hiring our first engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
+- [Certified 100% AI-free organic content](https://substack.piszek.com/p/ai-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
