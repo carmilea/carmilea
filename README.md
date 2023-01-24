@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast JavaScript-to-WASM Call from FTL](https://github.com/WebKit/WebKit/pull/8607)
+- [Mystery Signal from a Helicopter &lpar;2014&rpar;](https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
+- [How to Prioritize Tasks?](https://jimmyislive.dev/posts/how-to-prioritize/)
+- [Bulldozer, AMD’s Crash Modernization: Caching and Conclusion](https://chipsandcheese.com/2023/01/24/bulldozer-amds-crash-modernization-caching-and-conclusion/)
 - [UK proposal to criminalize “sophisticated encrypted communication devices”](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1130978/2023_SOC_Measures_Consultation_Document_-_Final.pdf#page=14)
-- [MSFT Q2/2023 Earnings Release](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q2/press-release-webcast)
-- [Jerry &lpar;YC S17&rpar; is hiring a senior product designer &lpar;remote&rpar;](https://jobs.ashbyhq.com/Jerry/0a1e6878-1f8d-443e-aaad-fcdd97ee1829?departmentId=35139ec5-efdf-4d54-bbfb-47d24a37e6e2)
-- [Strings in YAML – To quote or not to quote &lpar;2018&rpar;](https://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html)
-- [Mac Malware of 2022](https://objective-see.org/blog/blog_0x71.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
