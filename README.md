@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [9k-Year-Old Stonehenge-Like Structure Found Under Lake Michigan](https://www.thearchaeologist.org/blog/9000-year-old-stonehenge-like-structure-found-under-lake-michigan)
+- [Amazon Acquires 400 Acres Near New Intel Development in Ohio](https://www.dispatch.com/story/business/2023/01/25/amazon-buys-hundreds-of-acres-in-new-albany-mum-on-what-it-plans/69833373007/)
 - [Building the Perfect Memory Bandwidth Beast](https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/)
 - [The Reinforcing Nature of Toil](https://two-wrongs.com/the-reinforcing-nature-of-toil.html)
-- [The Night Watch [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
-- [In Their 20s, Struggling to Save and Tired of Being Lectured About It](https://www.nytimes.com/2023/01/20/business/saving-money-inflation-economy.html)
-- [Amazon has radically transformed small businesses in both the U.S. and China](https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders)
+- [The Night Watch &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
