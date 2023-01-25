@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [I Almost Bought a Scanner](http://leejo.github.io/2023/01/25/scanner/)
+- [ASML Q4 2022 financial results](https://www.asml.com/en/news/press-releases/2023/q4-2022-financial-results)
 - [9k-Year-Old Stonehenge-Like Structure Found Under Lake Michigan](https://www.thearchaeologist.org/blog/9000-year-old-stonehenge-like-structure-found-under-lake-michigan)
-- [Amazon Acquires 400 Acres Near New Intel Development in Ohio](https://www.dispatch.com/story/business/2023/01/25/amazon-buys-hundreds-of-acres-in-new-albany-mum-on-what-it-plans/69833373007/)
-- [Building the Perfect Memory Bandwidth Beast](https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/)
-- [The Reinforcing Nature of Toil](https://two-wrongs.com/the-reinforcing-nature-of-toil.html)
-- [The Night Watch &lpar;2013&rpar; [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
+- [Designing My Own ASIC with Tiny Tapeout](https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
