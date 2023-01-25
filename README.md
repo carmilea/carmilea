@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Six Dumbest Ideas in Computer Security](http://ranum.com/security/computer_security/editorials/dumb/index.html)
-- [How the World’s 3rd Richest Man Is Pulling the Largest Con in Corporate History](https://hindenburgresearch.com/adani/)
-- [Ask HN: What are the worst names given to employees of specific companies?](https://news.ycombinator.com/item?id=34513341)
-- [Three Bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
+- [Development Containers](https://containers.dev/)
+- [The Six Dumbest Ideas in Computer Security &lpar;2005&rpar;](http://ranum.com/security/computer_security/editorials/dumb/index.html)
+- [Evidence that Adani Group has engaged in stock manipulation and accounting fraud](https://hindenburgresearch.com/adani/)
+- [Three Bugs in the Go MySQL Driver &lpar;2020&rpar;](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 - [Ibn Battuta: A Scholar&#39;s Epic Journey](https://www.jurnalanas.com/blog/2018-03-24-ibn-battuta-and-his-journey)
 <!-- BLOG-POST-LIST:END -->
 
