@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CSS at w3.org is gone](https://www.w3.org/)
-- [EVs Are Essential Grid-Scale Storage](https://spectrum.ieee.org/electric-vehicle-grid-storage)
-- [A Matchbox Game-Learning Machine &lpar;1991&rpar; [pdf]](https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf)
-- [Calling Ruby Methods in C: Avoid Memory Leaks](https://blog.appsignal.com/2023/01/25/calling-ruby-methods-in-c-avoid-memory-leaks.html)
-- [Mjolnir](https://fabiensanglard.net/mjolnir/index.html)
+- [Show HN: A simple world flags game, my first web dev project as a beginner](https://billywojcicki.github.io/vexillologist/)
+- [Using {Blocks} in Rust and Go for Fun and Profit](https://taylor.town/code-blocks)
+- [Hilton Hotels Loyalty Program Data Breached, Info of 3.7M Users for Sale](https://thecyberexpress.com/hilton-hotels-loyalty-program-data-breached/)
+- [Ask HN: Anyone here working on/with Membrane Computing?](https://news.ycombinator.com/item?id=34517921)
+- [Parallel streaming in Haskell: Part 4 – Conditionals and non-blocking evaluation](https://www.channable.com/tech/parallel-streaming-in-haskell-part-4-conditionals-and-non-blocking-evaluation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
