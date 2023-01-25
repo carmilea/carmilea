@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motors for Makers: A Guide to Steppers, Servos, and Other Electrical Machines](http://www.motorsformakers.com/)
+- [Show HN: I&#39;ve built a C# IDE, Runtime, and AppStore inside Excel](https://querystorm.com/csharp-in-excel/)
 - [LastPass breach gets worse – reddit.com/r/sysadmin](https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/)
+- [DevRel should be a process not a project](https://podcast.bitreach.io/episodes/jason-lengstorf)
 - [IPinside: Korea’s Mandatory Spyware](https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/)
-- [Azure DevOps Outage](https://status.dev.azure.com/_event/362852649)
-- [Microsoft Azure Outage](https://twitter.com/MSFT365Status/status/1618149579341369345)
-- [1min high-intensity exercise 3x a week improves fitness as much as 3x aerobics](https://pubmed.ncbi.nlm.nih.gov/27115137/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
