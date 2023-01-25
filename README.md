@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase’s chief product officer will leave with a $105M payday](https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday)
+- [Show HN: Automatisch – Open source workflow automation, an alternative to Zapier](https://automatisch.io)
+- [Show HN: Collection of 100+ profitable side-project ideas to inspire you](https://startupsfyi.substack.com/)
+- [What We Look for in a Resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
 - [Show HN: UpTrain – Open-source ML observability and refinement tool](https://github.com/uptrain-ai/uptrain)
-- [You might not need an ORM](https://sometechblog.com/posts/you-might-not-need-an-orm/)
-- [Antidepressants help bacteria resist antibiotics](https://www.nature.com/articles/d41586-023-00186-y)
-- [How to Be 18 Years Old Again for Only $2M a Year](https://www.bloomberg.com/news/features/2023-01-25/anti-aging-techniques-taken-to-extreme-by-bryan-johnson)
-- [Show HN: A simple world flags game, my first web dev project as a beginner](https://billywojcicki.github.io/vexillologist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
