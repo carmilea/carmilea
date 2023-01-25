@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
+- [Ibn Battuta: A Scholar&#39;s Epic Journey](https://www.jurnalanas.com/blog/2018-03-24-ibn-battuta-and-his-journey)
+- [Apple issues security update for the almost 10-year-old iPhone 5S](https://www.theverge.com/2023/1/24/23569600/apple-iphone-5s-security-update-ios-12)
+- [Show HN: Signal-Android – A fork of Signal that provides SMS support](https://github.com/ryukoposting/Signal-Android/tree/fork-5.53.8)
 - [Fast JavaScript-to-WASM Call from FTL](https://github.com/WebKit/WebKit/pull/8607)
-- [Mystery Signal from a Helicopter &lpar;2014&rpar;](https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
-- [How to Prioritize Tasks?](https://jimmyislive.dev/posts/how-to-prioritize/)
-- [Bulldozer, AMD’s Crash Modernization: Caching and Conclusion](https://chipsandcheese.com/2023/01/24/bulldozer-amds-crash-modernization-caching-and-conclusion/)
-- [UK proposal to criminalize “sophisticated encrypted communication devices”](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1130978/2023_SOC_Measures_Consultation_Document_-_Final.pdf#page=14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
