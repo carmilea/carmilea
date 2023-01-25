@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon has radically transformed small businesses in both the U.S. and China](https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders)
+- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Golang Engineer to Build DevTools and Integrations](https://www.ycombinator.com/companies/policyfly/jobs/EZEP3qP-backend-engineer-tools-integrations)
+- [OpenJourney: Midjourney, but Open Source](https://open-journey.github.io/)
+- [The audacity of Apple Podcasts](https://basta.substack.com/p/the-absolute-audacity-of-apple-podcasts)
 - [Kaktovik Numerals](https://en.wikipedia.org/wiki/Kaktovik_numerals)
-- [Replacing a SQL analyst with 26 recursive GPT prompts](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
-- [DOJ Sues Google, Seeking to Break Up Online Advertising Business](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792)
-- [From $200/mo to $18k in 5 years as solo founder](https://news.ycombinator.com/item?id=34520664)
-- [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
