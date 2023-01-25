@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass breach gets worse – reddit.com/r/sysadmin](https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/)
+- [IPinside: Korea’s Mandatory Spyware](https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/)
 - [Azure DevOps Outage](https://status.dev.azure.com/_event/362852649)
 - [Microsoft Azure Outage](https://twitter.com/MSFT365Status/status/1618149579341369345)
 - [1min high-intensity exercise 3x a week improves fitness as much as 3x aerobics](https://pubmed.ncbi.nlm.nih.gov/27115137/)
-- [Google’s Fuchsia OS was one of the hardest hit by last week’s layoffs](https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/)
-- [Macroeconomic Changes Have Made It Impossible for Me to Want to Pay You](https://www.mcsweeneys.net/articles/macroeconomic-changes-have-made-it-impossible-for-me-to-want-to-pay-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
