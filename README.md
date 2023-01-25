@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From $200/mo to $18k in 5 years as solo founder](https://news.ycombinator.com/item?id=34520664)
+- [Annotated: Sam Bankman-Fried&#39;s “FTX Pre-Mortem Overview”](https://www.mollywhite.net/annotations/sbf-ftx-pre-mortem-overview)
+- [Jetnet Acquires ADS-B Exchange, a community-fed ADSB aggregator](https://www.jetnet.com/news/jetnet-acquires-ads-b-exchange.html)
 - [Coinbase’s chief product officer will leave with a $105M payday](https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday)
-- [Show HN: Automatisch – Open source workflow automation, an alternative to Zapier](https://automatisch.io)
-- [Show HN: Collection of 100+ profitable side-project ideas to inspire you](https://startupsfyi.substack.com/)
-- [What We Look for in a Resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
-- [Show HN: UpTrain – Open-source ML observability and refinement tool](https://github.com/uptrain-ai/uptrain)
+- [HelloSystem – OS with original Mac philosophy with a modern architecture](https://github.com/helloSystem/hello)
 <!-- BLOG-POST-LIST:END -->
 
 ---
