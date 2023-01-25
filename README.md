@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motors for Makers: A Guide to Steppers, Servos, and Other Electrical Machines](http://www.motorsformakers.com/)
-- [Show HN: I&#39;ve built a C# IDE, Runtime, and AppStore inside Excel](https://querystorm.com/csharp-in-excel/)
-- [LastPass breach gets worse – reddit.com/r/sysadmin](https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/)
-- [DevRel should be a process not a project](https://podcast.bitreach.io/episodes/jason-lengstorf)
-- [IPinside: Korea’s Mandatory Spyware](https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/)
+- [The CSS at w3.org is gone](https://www.w3.org/)
+- [EVs Are Essential Grid-Scale Storage](https://spectrum.ieee.org/electric-vehicle-grid-storage)
+- [A Matchbox Game-Learning Machine &lpar;1991&rpar; [pdf]](https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf)
+- [Calling Ruby Methods in C: Avoid Memory Leaks](https://blog.appsignal.com/2023/01/25/calling-ruby-methods-in-c-avoid-memory-leaks.html)
+- [Mjolnir](https://fabiensanglard.net/mjolnir/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
