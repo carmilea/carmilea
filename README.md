@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trs80gp – A TRS-80 Emulator](http://48k.ca/trs80gp.html)
-- [Show HN: I “wrote” a kid&#39;s book with ChatGPT and Midjourney](https://adventure-of-penelope.vercel.app/)
-- [Development Containers](https://containers.dev/)
-- [The six dumbest ideas in computer security &lpar;2005&rpar;](http://ranum.com/security/computer_security/editorials/dumb/index.html)
-- [Evidence that Adani Group has engaged in stock manipulation and accounting fraud](https://hindenburgresearch.com/adani/)
+- [Azure DevOps Outage](https://status.dev.azure.com/_event/362852649)
+- [Microsoft Azure Outage](https://twitter.com/MSFT365Status/status/1618149579341369345)
+- [1min high-intensity exercise 3x a week improves fitness as much as 3x aerobics](https://pubmed.ncbi.nlm.nih.gov/27115137/)
+- [Google’s Fuchsia OS was one of the hardest hit by last week’s layoffs](https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/)
+- [Macroeconomic Changes Have Made It Impossible for Me to Want to Pay You](https://www.mcsweeneys.net/articles/macroeconomic-changes-have-made-it-impossible-for-me-to-want-to-pay-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
