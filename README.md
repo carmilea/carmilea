@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trs80gp – A TRS-80 Emulator](http://48k.ca/trs80gp.html)
 - [Development Containers](https://containers.dev/)
-- [The Six Dumbest Ideas in Computer Security &lpar;2005&rpar;](http://ranum.com/security/computer_security/editorials/dumb/index.html)
+- [The six dumbest ideas in computer security &lpar;2005&rpar;](http://ranum.com/security/computer_security/editorials/dumb/index.html)
 - [Evidence that Adani Group has engaged in stock manipulation and accounting fraud](https://hindenburgresearch.com/adani/)
-- [Three Bugs in the Go MySQL Driver &lpar;2020&rpar;](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
-- [Ibn Battuta: A Scholar&#39;s Epic Journey](https://www.jurnalanas.com/blog/2018-03-24-ibn-battuta-and-his-journey)
+- [Three bugs in the Go MySQL driver &lpar;2020&rpar;](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
