@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaktovik Numerals](https://en.wikipedia.org/wiki/Kaktovik_numerals)
+- [Replacing a SQL analyst with 26 recursive GPT prompts](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
+- [DOJ Sues Google, Seeking to Break Up Online Advertising Business](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792)
 - [From $200/mo to $18k in 5 years as solo founder](https://news.ycombinator.com/item?id=34520664)
-- [Annotated: Sam Bankman-Fried&#39;s “FTX Pre-Mortem Overview”](https://www.mollywhite.net/annotations/sbf-ftx-pre-mortem-overview)
-- [Jetnet Acquires ADS-B Exchange, a community-fed ADSB aggregator](https://www.jetnet.com/news/jetnet-acquires-ads-b-exchange.html)
-- [Coinbase’s chief product officer will leave with a $105M payday](https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday)
-- [HelloSystem – OS with original Mac philosophy with a modern architecture](https://github.com/helloSystem/hello)
+- [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
