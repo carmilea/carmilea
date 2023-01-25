@@ -55,7 +55,7 @@
 - [EVs Are Essential Grid-Scale Storage](https://spectrum.ieee.org/electric-vehicle-grid-storage)
 - [A Matchbox Game-Learning Machine &lpar;1991&rpar; [pdf]](https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf)
 - [Calling Ruby Methods in C: Avoid Memory Leaks](https://blog.appsignal.com/2023/01/25/calling-ruby-methods-in-c-avoid-memory-leaks.html)
-- [Mjolnir](https://fabiensanglard.net/mjolnir/)
+- [Mjolnir](https://fabiensanglard.net/mjolnir/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
