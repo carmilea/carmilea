@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sexual loneliness: A neglected public health problem?](https://www.researchgate.net/publication/367325876_Sexual_loneliness_A_neglected_public_health_problem)
+- [Rails on Docker](https://fly.io/ruby-dispatch/rails-on-docker/)
+- [How a CPU works: Bare metal C on my RISC-V toy CPU](https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/)
+- [Airbyte makes 100 alpha / beta connectors free on Airbyte Cloud](https://airbyte.com/blog/why-airbyte-made-alpha-and-beta-connectors-free)
 - [Smart ovens shouting out to servers in Russia and China](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
-- [How to Build a Database Architecture for Modern, Real-Time Applications](https://www.singlestore.com/blog/how-to-build-a-database-architecture-for-real-time-applications/)
-- [What’s the Matter with Men?](https://www.newyorker.com/magazine/2023/01/30/whats-the-matter-with-men)
-- [Tell HN: IBM and SAP are cutting thousands of jobs](https://news.ycombinator.com/item?id=34532983)
-- [The cause of depression is probably not what you think](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
