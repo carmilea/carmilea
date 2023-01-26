@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Training Stable Diffusion from Scratch Costs &lt;$160k](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-costs-160k)
-- [CamelCase vs. Underscores: Revisited](https://whatheco.de/2013/02/16/camelcase-vs-underscores-revisited/)
+- [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
+- [Show HN: A tool to design and run user state machines](https://www.dopt.com/)
 - [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [I Almost Bought a Scanner](http://leejo.github.io/2023/01/25/scanner/)
+- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [I almost bought a scanner](http://leejo.github.io/2023/01/25/scanner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
