@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pip and cargo are not the same](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
+- [Ugly Gerry – Gerrymandering font](https://fontsarena.com/ugly-gerry/)
 - [OpenAI Status: Multiple engines are down](https://status.openai.com/#)
-- [2023: Linux rusting away into non-FOSS territory – Build rnote and you will see](https://sysdfree.wordpress.com/2023/01/04/365/)
 - [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
 - [Show HN: A tool to design and run user state machines](https://www.dopt.com/)
 <!-- BLOG-POST-LIST:END -->
