@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s No Such Thing as Affordable Housing](https://www.strongtowns.org/journal/2023/1/3/theres-no-such-thing-as-affordable-housing)
-- [The product I worked on for the last 4 years is now open-source](https://www.confluent.io/blog/announcing-the-open-source-confluent-cli/)
-- [Airframes.io an aircraft-related aggregator for ACARS, VDL, HFDL and SATCOM data](https://app.airframes.io)
-- [Pip and cargo are not the same](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
-- [Ugly Gerry – Gerrymandering font](https://fontsarena.com/ugly-gerry/)
+- [The Starter House Is Nearly Extinct](https://www.strongtowns.org/journal/2022/9/8/the-starter-house-is-nearly-extinct)
+- [Mexico cracks down on solar geoengineering](https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html)
+- [Two Supreme Court Cases That Could Break the Internet](https://www.newyorker.com/news/q-and-a/two-supreme-court-cases-that-could-break-the-internet)
+- [There’s no such thing as affordable housing](https://www.strongtowns.org/journal/2023/1/3/theres-no-such-thing-as-affordable-housing)
+- [Why do hear train horn in winter but hardly in summer? &lpar;2019&rpar;](https://blog.weatherops.com/sound-travels-further-in-cold-weather-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
