@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677)
+- [An AI robot lawyer was set to argue in court. Real lawyers shut it down](https://www.npr.org/2023/01/25/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats)
 - [NYSE Tuesday opening mayhem traced to a staffer who left a backup system running](https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running)
 - [Disassembly of the Asteroids arcade game firmware](https://github.com/nmikstas/asteroids-disassembly)
 - [Mexico cracks down on solar geoengineering](https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html)
-- [Two Supreme Court cases that could break the internet](https://www.newyorker.com/news/q-and-a/two-supreme-court-cases-that-could-break-the-internet)
-- [Sound travels further in cold weather &lpar;2019&rpar;](https://blog.weatherops.com/sound-travels-further-in-cold-weather-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
