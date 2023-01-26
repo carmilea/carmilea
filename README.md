@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The president of Toyota will be replaced to accelerate the transition to EV](https://ev-riders.com/news/the-president-of-toyota-will-be-replaced-to-accelerate-the-transition-to-the-electric-car/)
-- [Stanford student may need to ‘acknowledge harm’ for reading ‘Mein Kampf’](https://www.thefire.org/news/report-stanford-student-may-need-take-accountability-acknowledge-harm-reading-hitlers-mein)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Next Rust Compiler](https://matklad.github.io/2023/01/25/next-rust-compiler.html)
+- [Nelua, AOT statically typed Lua](https://nelua.io/)
 - [Librandombytes – a public domain library for generating randomness](https://randombytes.cr.yp.to/)
-- [Swiss retailer Galaxus now displays warranty score and return rate of products](https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950)
-- [Reverse-engineering the Intel 8086 processor&#39;s HALT circuits](https://www.righto.com/2023/01/reverse-engineering-intel-8086.html)
+- [Digitec Galaxus now displays warranty score and return rate](https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
