@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34530631)
+- [No, Blogging Is Not Dying Anytime Soon](https://dariusforoux.com/blogging-not-dying/)
+- [PayPal Data Breach Notification](https://apps.web.maine.gov/online/aeviewer/ME/40/766753f1-f9c7-4dc5-9a5c-fe0f3ff51c06.shtml)
+- [Ask HN: What would be your stack if you are building an MVP today?](https://news.ycombinator.com/item?id=34530052)
 - [Realistic Computer-Generated Handwriting](https://www.calligrapher.ai/)
-- [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677)
-- [An AI robot lawyer was set to argue in court. Real lawyers shut it down](https://www.npr.org/2023/01/25/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats)
-- [“P = NP” Polynomial-Sized LP Models for Hard Cops](https://tsplp.research.uconn.edu/computational-challenge/)
-- [NYSE Tuesday opening mayhem traced to a staffer who left a backup system running](https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running)
 <!-- BLOG-POST-LIST:END -->
 
 ---
