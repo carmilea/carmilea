@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Major Outage](https://status.openai.com/#)
+- [Pip and cargo are not the same](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
+- [OpenAI Status: Multiple engines are down](https://status.openai.com/#)
+- [2023: Linux rusting away into non-FOSS territory – Build rnote and you will see](https://sysdfree.wordpress.com/2023/01/04/365/)
 - [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
 - [Show HN: A tool to design and run user state machines](https://www.dopt.com/)
-- [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)
-- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
