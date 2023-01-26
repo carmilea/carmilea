@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sexual loneliness: A neglected public health problem?](https://www.researchgate.net/publication/367325876_Sexual_loneliness_A_neglected_public_health_problem)
+- [Reverse-engineering the Intel 8086 processor&#39;s HALT circuits](https://www.righto.com/2023/01/reverse-engineering-intel-8086.html)
+- [Show HN: I&#39;m a doctor and made a responsive breathing app for stress and anxiety](https://www.lungy.app/)
 - [Rails on Docker](https://fly.io/ruby-dispatch/rails-on-docker/)
 - [How a CPU works: Bare metal C on my RISC-V toy CPU](https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/)
-- [Airbyte makes 100 alpha / beta connectors free on Airbyte Cloud](https://airbyte.com/blog/why-airbyte-made-alpha-and-beta-connectors-free)
-- [Smart ovens shouting out to servers in Russia and China](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
+- [Airbyte makes 100 alpha / beta connectors free](https://airbyte.com/blog/why-airbyte-made-alpha-and-beta-connectors-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
