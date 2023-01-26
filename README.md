@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Realistic Computer-Generated Handwriting](https://www.calligrapher.ai/)
 - [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677)
 - [An AI robot lawyer was set to argue in court. Real lawyers shut it down](https://www.npr.org/2023/01/25/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats)
 - [“P = NP” Polynomial-Sized LP Models for Hard Cops](https://tsplp.research.uconn.edu/computational-challenge/)
 - [NYSE Tuesday opening mayhem traced to a staffer who left a backup system running](https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running)
-- [Disassembly of the Asteroids arcade game firmware](https://github.com/nmikstas/asteroids-disassembly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
