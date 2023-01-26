@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Don&#39;t lose track of HN post comments](https://news.ycombinator.com/item?id=34531727)
-- [Chipotle Goes on Hiring Spree of 15,000 Amid Strong Growth](https://www.bloomberg.com/news/articles/2023-01-26/chipotle-jobs-restaurant-chain-to-hire-15-000-employees)
-- [What if AI didn&#39;t make you a bad writer, but a better thinker?](https://slite.com/blog/gpt-knowledge-revolution-is-coming)
-- [NASA predicts asteroid to make one of closest approaches to Earth ever recorded](https://www.jpl.nasa.gov/news/nasa-system-predicts-small-asteroid-to-pass-close-by-earth-this-week)
-- [Show HN: Doc Converter – Convert PDF docs to Word documents on your computer](https://docconverter.app/)
+- [Fun with Gentoo: Why don&#39;t we just shuffle those ROP gadgets away?](https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets)
+- [Tell HN: Confluent laying off 8% of staff](https://news.ycombinator.com/item?id=34532295)
+- [Show HN: GPT Joke Writer](https://punchlines.ai)
+- [Show HN: Precloud – Dynamic tests for infrastructure-as-code. Open source](https://github.com/tinystacks/precloud)
+- [Ask HN: Good resources to become financially literate](https://news.ycombinator.com/item?id=34531858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
