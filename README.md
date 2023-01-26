@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The product I worked on for the last 4 years is now open-source](https://www.confluent.io/blog/announcing-the-open-source-confluent-cli/)
+- [Airframes.io an aircraft-related aggregator for ACARS, VDL, HFDL and SATCOM data](https://app.airframes.io)
 - [Pip and cargo are not the same](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
 - [Ugly Gerry – Gerrymandering font](https://fontsarena.com/ugly-gerry/)
 - [OpenAI Status: Multiple engines are down](https://status.openai.com/#)
-- [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
-- [Show HN: A tool to design and run user state machines](https://www.dopt.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
