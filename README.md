@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Starter House Is Nearly Extinct](https://www.strongtowns.org/journal/2022/9/8/the-starter-house-is-nearly-extinct)
+- [NYSE Tuesday opening mayhem traced to a staffer who left a backup system running](https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running)
+- [Disassembly of the Asteroids arcade game firmware](https://github.com/nmikstas/asteroids-disassembly)
 - [Mexico cracks down on solar geoengineering](https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html)
-- [Two Supreme Court Cases That Could Break the Internet](https://www.newyorker.com/news/q-and-a/two-supreme-court-cases-that-could-break-the-internet)
-- [There’s no such thing as affordable housing](https://www.strongtowns.org/journal/2023/1/3/theres-no-such-thing-as-affordable-housing)
-- [Why do hear train horn in winter but hardly in summer? &lpar;2019&rpar;](https://blog.weatherops.com/sound-travels-further-in-cold-weather-heres-why)
+- [Two Supreme Court cases that could break the internet](https://www.newyorker.com/news/q-and-a/two-supreme-court-cases-that-could-break-the-internet)
+- [Sound travels further in cold weather &lpar;2019&rpar;](https://blog.weatherops.com/sound-travels-further-in-cold-weather-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
