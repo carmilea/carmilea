@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun with Gentoo: Why don&#39;t we just shuffle those ROP gadgets away?](https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets)
-- [Tell HN: Confluent laying off 8% of staff](https://news.ycombinator.com/item?id=34532295)
-- [Show HN: GPT Joke Writer](https://punchlines.ai)
-- [Show HN: Precloud – Dynamic tests for infrastructure-as-code. Open source](https://github.com/tinystacks/precloud)
-- [Ask HN: Good resources to become financially literate](https://news.ycombinator.com/item?id=34531858)
+- [Smart ovens shouting out to servers in Russia and China](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
+- [How to Build a Database Architecture for Modern, Real-Time Applications](https://www.singlestore.com/blog/how-to-build-a-database-architecture-for-real-time-applications/)
+- [What’s the Matter with Men?](https://www.newyorker.com/magazine/2023/01/30/whats-the-matter-with-men)
+- [Tell HN: IBM and SAP are cutting thousands of jobs](https://news.ycombinator.com/item?id=34532983)
+- [The cause of depression is probably not what you think](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
