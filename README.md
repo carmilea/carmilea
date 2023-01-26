@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth’s inner core stopped turning and could go into reverse, study suggests](https://www.cnn.com/2023/01/25/world/earth-core-turning-scli-scn-intl/index.html)
+- [Show HN: Don&#39;t lose track of HN post comments](https://news.ycombinator.com/item?id=34531727)
+- [Chipotle Goes on Hiring Spree of 15,000 Amid Strong Growth](https://www.bloomberg.com/news/articles/2023-01-26/chipotle-jobs-restaurant-chain-to-hire-15-000-employees)
+- [What if AI didn&#39;t make you a bad writer, but a better thinker?](https://slite.com/blog/gpt-knowledge-revolution-is-coming)
 - [NASA predicts asteroid to make one of closest approaches to Earth ever recorded](https://www.jpl.nasa.gov/news/nasa-system-predicts-small-asteroid-to-pass-close-by-earth-this-week)
 - [Show HN: Doc Converter – Convert PDF docs to Word documents on your computer](https://docconverter.app/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34530631)
-- [Blogging is not dying anytime soon](https://dariusforoux.com/blogging-not-dying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
