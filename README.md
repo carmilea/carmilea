@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Librandombytes – a public domain library for generating randomness](https://randombytes.cr.yp.to/)
+- [Swiss retailer Galaxus now displays warranty score and return rate of products](https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950)
+- [Yann LeCun: ChatGPT is &#39;not particularly innovative&#39;](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/)
 - [Reverse-engineering the Intel 8086 processor&#39;s HALT circuits](https://www.righto.com/2023/01/reverse-engineering-intel-8086.html)
 - [Show HN: I&#39;m a doctor and made a responsive breathing app for stress and anxiety](https://www.lungy.app/)
-- [Rails on Docker](https://fly.io/ruby-dispatch/rails-on-docker/)
-- [How a CPU works: Bare metal C on my RISC-V toy CPU](https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/)
-- [Airbyte makes 100 alpha / beta connectors free](https://airbyte.com/blog/why-airbyte-made-alpha-and-beta-connectors-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
