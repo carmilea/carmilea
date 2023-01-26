@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arizona legislature exempts itself from public records law](https://mohavedailynews.com/news/145057/legislature-changes-rules-on-retaining-correspondence/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Resilience and Waste in Software Teams](https://jessitron.com/2023/01/16/resilience-and-waste-in-software-teams/)
 - [Next Rust Compiler](https://matklad.github.io/2023/01/25/next-rust-compiler.html)
 - [Nelua, AOT statically typed Lua](https://nelua.io/)
-- [Librandombytes – a public domain library for generating randomness](https://randombytes.cr.yp.to/)
-- [Digitec Galaxus now displays warranty score and return rate](https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
