@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The president of Toyota will be replaced to accelerate the transition to EV](https://ev-riders.com/news/the-president-of-toyota-will-be-replaced-to-accelerate-the-transition-to-the-electric-car/)
+- [Stanford student may need to ‘acknowledge harm’ for reading ‘Mein Kampf’](https://www.thefire.org/news/report-stanford-student-may-need-take-accountability-acknowledge-harm-reading-hitlers-mein)
 - [Librandombytes – a public domain library for generating randomness](https://randombytes.cr.yp.to/)
 - [Swiss retailer Galaxus now displays warranty score and return rate of products](https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950)
-- [Yann LeCun: ChatGPT is &#39;not particularly innovative&#39;](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/)
 - [Reverse-engineering the Intel 8086 processor&#39;s HALT circuits](https://www.righto.com/2023/01/reverse-engineering-intel-8086.html)
-- [Show HN: I&#39;m a doctor and made a responsive breathing app for stress and anxiety](https://www.lungy.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
