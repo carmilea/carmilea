@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arizona legislature exempts itself from public records law](https://mohavedailynews.com/news/145057/legislature-changes-rules-on-retaining-correspondence/)
+- [Slack is the opposite of organizational memory](https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html)
+- [Galaga, Pac-Man, Donkey Kong Emulator for ESP32](https://github.com/harbaum/galagino)
+- [France&#39;s Largest Semiconductor Company Got Nationalized &lpar;2022&rpar;](https://www.fabricatedknowledge.com/p/how-frances-largest-semiconductor)
+- [A dinosaur with a remarkably preserved face](https://arstechnica.com/science/2023/01/researchers-look-a-dinosaur-in-its-remarkably-preserved-face/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Resilience and Waste in Software Teams](https://jessitron.com/2023/01/16/resilience-and-waste-in-software-teams/)
-- [Next Rust Compiler](https://matklad.github.io/2023/01/25/next-rust-compiler.html)
-- [Nelua, AOT statically typed Lua](https://nelua.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
