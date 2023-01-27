@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Database Architecture for Modern, Real-Time Applications](https://www.singlestore.com/blog/how-to-build-a-database-architecture-for-real-time-applications/)
-- [Snowflake vs. Redshift](https://www.singlestore.com/blog/snowflake-vs-redshift/)
-- [What Is a Data Mesh Architecture?](https://www.singlestore.com/blog/what-is-a-data-mesh-architecture/)
-- [It’s Official: SingleStore Is Named Among Best Places to Work 2023 by Glassdoor](https://www.singlestore.com/blog/singlestore-is-a-best-place-to-work-2023/)
-- [Reducing Energy Consumption Via Real-Time Data](https://www.singlestore.com/blog/reducing-energy-consumption-via-real-time-data/)
+- [Deepfaked Tom Cruise and Paris Hilton](https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/)
+- [Enso &lpar;YC S21&rpar; Is Hiring TypeScript Developer](https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer)
+- [Lytro Unlock – Making a bad camera slightly better](https://github.com/ea/lytro_unlock)
+- [Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app](https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai)
+- [The Galaga no-fire-cheat mystery &lpar;2012&rpar;](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
