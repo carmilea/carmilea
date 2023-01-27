@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
+- [The Science of Sword-Swallowing](https://twistedphysics.typepad.com/cocktail_party_physics/2007/10/by-the-sword.html)
+- [Show HN: Sync’ing data to your customer’s Google Sheets](https://news.ycombinator.com/item?id=34548663)
 - [Show HN: YouTube Summaries Using GPT](https://www.eightify.app/)
 - [AWS Purity Test](https://www.awspuritytest.com/)
-- [“They wanted my Instagram handle, and somehow they&#39;ve now got it.”](https://mastodon.social/@alexjsp/109760277713815857)
-- [Classified Death Star documents discovered in Darth Vader’s garage](https://www.screen-idle.com/classified-death-star-documents-discovered-in-darth-vaders-garage/)
-- [Just know stuff. &lpar;Or, how to achieve success in a machine learning PhD&rpar;](https://kidger.site/thoughts/just-know-stuff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
