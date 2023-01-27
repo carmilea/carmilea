@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [97% of American adults own a cellphone or smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/)
+- [Omega-3s: Are “Brain-Boosting” Effects Scientifically Backed?](https://abouttolearn.substack.com/p/omega-3s-are-brain-boosting-effects)
+- [Intel discontinues pathfinder for RISC-V program](https://pathfinder.intel.com)
 - [The Mystery of the Dune Font](https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font)
-- [Ask HN: EU Bank with Good API?](https://news.ycombinator.com/item?id=34543832)
 - [Show HN: Pashword – Hashed Password Calculator](https://pashword.app)
-- [Enso &lpar;YC S21&rpar; Is Hiring TypeScript Developer](https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer)
-- [Lytro Unlock – Making a bad camera slightly better](https://github.com/ea/lytro_unlock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
