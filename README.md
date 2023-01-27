@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Experts warn of steep increase in Java costs](https://www.theregister.com/2023/01/27/oracle_java_licensing_change/)
-- [Can video games change people’s minds about the climate crisis?](https://www.theguardian.com/games/2023/jan/26/can-video-games-change-peoples-minds-about-the-climate-crisis)
+- [OsmAnd &lpar;OpenStreetMap&rpar; 4.3 for Android is fast with a new rendering engine](https://osmand.net/blog/osmand-android-4-3-released/)
+- [Accessible hamburger buttons without JavaScript](https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript)
+- [The Tilde Text Editor](https://github.com/gphalkes/tilde)
 - [Erlang&#39;s not about lightweight processes and message passing](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md)
-- [Attacker with access to XML config can trigger keepass.exe to obtain passwords](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24055)
-- [Reverse Engineering Programs with Unknown Instruction Sets [pdf]](https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf)
+- [Apple’s Mac security is so good, it’s sending used M1 MacBooks to the scrap heap](https://www.macworld.com/article/1485237/mac-security-t2-chip-macbook-activation-lock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
