@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First signs of spring have arrived in parts of south 3 weeks sooner than average](https://www.usanpn.org/news/spring)
+- [Building a Sleeper Computer from an SGI Indy](https://buu342.me/blog/projects/01-SGIIndySleeper.html)
 - [Kevin Mitnick Hacked California Law in 1983](https://www.schneier.com/blog/archives/2023/01/kevin-mitnick-hacked-california-law-in-1983.html)
 - [Wizards of the Coast Releases SRD Under Creative Commons License &lpar;CC-BY-4.0&rpar;](https://www.dndbeyond.com/posts/1439-ogl-1-0a-creative-commons)
-- [Bell Telephone launched a mobile phone during the 1940s](https://www.openculture.com/2023/01/bell-telephone-launched-a-mobile-phone-during-the-1940s.html)
-- [Code Lifespan](https://xkcd.com/2730/)
-- [Show HN: Search inside 15,000 pitchdeck slides](https://www.searchthedeck.com/)
+- [Saving millions on logging: Finding relevant savings](https://product.hubspot.com/blog/savings-logging-part1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
