@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World Economic Forum Reflections: Raj Verma](https://www.singlestore.com/blog/wef-reflections-raj-verma/)
-- [The ER has become a sanctuary for society’s unmet needs](https://www.seattletimes.com/opinion/the-er-has-become-a-sanctuary-for-societys-unmet-needs/)
-- [Show HN: ML paper podcast generator using GPT and Tortoise-TTS](https://scribepod.substack.com/p/scribepod-1)
-- [PagerDuty CEO Quotes Martin Luther King Jr. In Worst Layoff Email Ever](https://gizmodo.com/pagerduty-ceo-quotes-martin-luther-king-jr-layoff-email-1850039237)
-- [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
+- [Pandas Illustrated: Visual Guide to Pandas](https://scribe.citizen4.eu/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
+- [$6.96B was raised by private longevity companies in 2022](https://spannr.com/reports/2022-longevity-funding)
+- [Elite for Emacs](https://www.salkosuo.net/2015/10/22/elite-for-emacs.html)
+- [North Korea Imposes Lockdown on Pyongyang to Fight ‘Recurrent Flu’](https://www.nytimes.com/2023/01/26/world/asia/north-korea-pyongyang-lockdown.html)
+- [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399)
 <!-- BLOG-POST-LIST:END -->
 
 ---
