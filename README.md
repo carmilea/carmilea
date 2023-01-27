@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepfaked Tom Cruise and Paris Hilton](https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/)
+- [The Mystery of the Dune Font](https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font)
 - [Enso &lpar;YC S21&rpar; Is Hiring TypeScript Developer](https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer)
 - [Lytro Unlock – Making a bad camera slightly better](https://github.com/ea/lytro_unlock)
+- [Ask HN: Right to Repair for Software?](https://news.ycombinator.com/item?id=34542824)
 - [Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app](https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai)
-- [The Galaga no-fire-cheat mystery &lpar;2012&rpar;](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
