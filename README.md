@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sci-Hub: knowledge as a human right](https://sci-hub.ru/)
 - [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
-- [Interchange in 1k Words](https://www.mtb.xyz/notes/interchange-in-1000-words)
 - [DataDog asked OpenTelemetry contributor to kill pull request](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836)
 - [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
 - [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
