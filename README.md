@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OsmAnd &lpar;OpenStreetMap&rpar; 4.3 for Android is fast with a new rendering engine](https://osmand.net/blog/osmand-android-4-3-released/)
-- [Accessible hamburger buttons without JavaScript](https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript)
-- [The Tilde Text Editor](https://github.com/gphalkes/tilde)
-- [Erlang&#39;s not about lightweight processes and message passing](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md)
-- [Apple’s Mac security is so good, it’s sending used M1 MacBooks to the scrap heap](https://www.macworld.com/article/1485237/mac-security-t2-chip-macbook-activation-lock.html)
+- [Just know stuff. &lpar;Or, how to achieve success in a machine learning PhD&rpar;](https://kidger.site/thoughts/just-know-stuff/)
+- [The Hostile Forces of Beijing](https://scholars-stage.org/candlelight-vigils-and-hostile-forces/)
+- [Ask HN: Those making $0/month or less on side projects – Show and tell](https://news.ycombinator.com/item?id=34547265)
+- [Ask HN: What career would you switch into if AI ate your profession?](https://news.ycombinator.com/item?id=34547255)
+- [Passenger Uses AirTags, Discovers Airline Donated Their Bags to Charity](https://www.blogto.com/travel/2023/01/ontario-couple-tracking-lost-baggage-shocked-air-canada-gave-it-charity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
