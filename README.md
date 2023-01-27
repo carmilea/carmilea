@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World Economic Forum Reflections: Raj Verma](https://www.singlestore.com/blog/wef-reflections-raj-verma/)
+- [The ER has become a sanctuary for society’s unmet needs](https://www.seattletimes.com/opinion/the-er-has-become-a-sanctuary-for-societys-unmet-needs/)
+- [Show HN: ML paper podcast generator using GPT and Tortoise-TTS](https://scribepod.substack.com/p/scribepod-1)
+- [PagerDuty CEO Quotes Martin Luther King Jr. In Worst Layoff Email Ever](https://gizmodo.com/pagerduty-ceo-quotes-martin-luther-king-jr-layoff-email-1850039237)
 - [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
-- [The Science of Sword-Swallowing](https://twistedphysics.typepad.com/cocktail_party_physics/2007/10/by-the-sword.html)
-- [Show HN: Sync’ing data to your customer’s Google Sheets](https://news.ycombinator.com/item?id=34548663)
-- [Show HN: YouTube Summaries Using GPT](https://www.eightify.app/)
-- [AWS Purity Test](https://www.awspuritytest.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
