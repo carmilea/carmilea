@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Hub: knowledge as a human right](https://sci-hub.ru/)
-- [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
-- [DataDog asked OpenTelemetry contributor to kill pull request](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836)
+- [Apple: The only big tech giant going against the job cuts tide](https://blog.pragmaticengineer.com/apple-job-cuts-tide/)
+- [The Python Paradox](http://www.paulgraham.com/pypar.html)
+- [MusicLM: Generating music from text](https://arxiv.org/abs/2301.11325)
+- [Stop Listening Please, Google](https://randomivysaur.bearblog.dev/googlestoplisteningpls/)
 - [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
-- [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
