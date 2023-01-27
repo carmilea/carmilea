@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lytro Unlock – Making a bad camera slightly better](https://github.com/ea/lytro_unlock)
 - [Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app](https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai)
-- [Ask HN: How do you exercise?](https://news.ycombinator.com/item?id=34542172)
 - [The Galaga no-fire-cheat mystery &lpar;2012&rpar;](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/)
 - [Apple: The only big tech giant going against the job cuts tide](https://blog.pragmaticengineer.com/apple-job-cuts-tide/)
 - [The Python Paradox](http://www.paulgraham.com/pypar.html)
