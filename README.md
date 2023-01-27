@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack is the opposite of organizational memory](https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html)
-- [Galaga, Pac-Man, Donkey Kong Emulator for ESP32](https://github.com/harbaum/galagino)
-- [France&#39;s Largest Semiconductor Company Got Nationalized &lpar;2022&rpar;](https://www.fabricatedknowledge.com/p/how-frances-largest-semiconductor)
-- [A dinosaur with a remarkably preserved face](https://arstechnica.com/science/2023/01/researchers-look-a-dinosaur-in-its-remarkably-preserved-face/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
+- [Interchange in 1k Words](https://www.mtb.xyz/notes/interchange-in-1000-words)
+- [DataDog asked OpenTelemetry contributor to kill pull request](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836)
+- [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
+- [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
