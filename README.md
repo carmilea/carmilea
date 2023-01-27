@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts warn of steep increase in Java costs](https://www.theregister.com/2023/01/27/oracle_java_licensing_change/)
+- [Can video games change people’s minds about the climate crisis?](https://www.theguardian.com/games/2023/jan/26/can-video-games-change-peoples-minds-about-the-climate-crisis)
+- [Erlang&#39;s not about lightweight processes and message passing](https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md)
+- [Attacker with access to XML config can trigger keepass.exe to obtain passwords](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24055)
 - [Reverse Engineering Programs with Unknown Instruction Sets [pdf]](https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf)
-- [BuzzFeed says it will use AI to help create content, stock jumps 150% – CNN](https://www.cnn.com/2023/01/26/media/buzzfeed-ai-content-creation/index.html)
-- [Text-to-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
-- [97% of American adults own a cellphone or smartphone &lpar;2021&rpar;](https://www.pewresearch.org/internet/fact-sheet/mobile/)
-- [Omega-3s: Are “Brain-Boosting” Effects Scientifically Backed?](https://abouttolearn.substack.com/p/omega-3s-are-brain-boosting-effects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
