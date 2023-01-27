@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app](https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai)
+- [Ask HN: How do you exercise?](https://news.ycombinator.com/item?id=34542172)
+- [The Galaga no-fire-cheat mystery &lpar;2012&rpar;](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/)
 - [Apple: The only big tech giant going against the job cuts tide](https://blog.pragmaticengineer.com/apple-job-cuts-tide/)
 - [The Python Paradox](http://www.paulgraham.com/pypar.html)
-- [MusicLM: Generating music from text](https://arxiv.org/abs/2301.11325)
-- [Stop Listening Please, Google](https://randomivysaur.bearblog.dev/googlestoplisteningpls/)
-- [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
