@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wizards of the Coast Releases SRD Under Creative Commons License](https://www.dndbeyond.com/posts/1439-ogl-1-0a-creative-commons)
+- [Bell Telephone launched a mobile phone during the 1940s](https://www.openculture.com/2023/01/bell-telephone-launched-a-mobile-phone-during-the-1940s.html)
+- [Code Lifespan](https://xkcd.com/2730/)
 - [Pandas Illustrated: Visual Guide to Pandas](https://scribe.citizen4.eu/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
 - [$6.96B was raised by private longevity companies in 2022](https://spannr.com/reports/2022-longevity-funding)
-- [Elite for Emacs](https://www.salkosuo.net/2015/10/22/elite-for-emacs.html)
-- [North Korea Imposes Lockdown on Pyongyang to Fight ‘Recurrent Flu’](https://www.nytimes.com/2023/01/26/world/asia/north-korea-pyongyang-lockdown.html)
-- [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399)
 <!-- BLOG-POST-LIST:END -->
 
 ---
