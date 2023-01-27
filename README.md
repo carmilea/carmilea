@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [97% of American adults own a cellphone or smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/)
+- [Reverse Engineering Programs with Unknown Instruction Sets [pdf]](https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf)
+- [BuzzFeed says it will use AI to help create content, stock jumps 150% – CNN](https://www.cnn.com/2023/01/26/media/buzzfeed-ai-content-creation/index.html)
+- [Text-to-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
+- [97% of American adults own a cellphone or smartphone &lpar;2021&rpar;](https://www.pewresearch.org/internet/fact-sheet/mobile/)
 - [Omega-3s: Are “Brain-Boosting” Effects Scientifically Backed?](https://abouttolearn.substack.com/p/omega-3s-are-brain-boosting-effects)
-- [Intel discontinues pathfinder for RISC-V program](https://pathfinder.intel.com)
-- [The Mystery of the Dune Font](https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font)
-- [Show HN: Pashword – Hashed Password Calculator](https://pashword.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
