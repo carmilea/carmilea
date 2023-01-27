@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: YouTube Summaries Using GPT](https://www.eightify.app/)
+- [AWS Purity Test](https://www.awspuritytest.com/)
+- [“They wanted my Instagram handle, and somehow they&#39;ve now got it.”](https://mastodon.social/@alexjsp/109760277713815857)
+- [Classified Death Star documents discovered in Darth Vader’s garage](https://www.screen-idle.com/classified-death-star-documents-discovered-in-darth-vaders-garage/)
 - [Just know stuff. &lpar;Or, how to achieve success in a machine learning PhD&rpar;](https://kidger.site/thoughts/just-know-stuff/)
-- [The Hostile Forces of Beijing](https://scholars-stage.org/candlelight-vigils-and-hostile-forces/)
-- [Ask HN: Those making $0/month or less on side projects – Show and tell](https://news.ycombinator.com/item?id=34547265)
-- [Ask HN: What career would you switch into if AI ate your profession?](https://news.ycombinator.com/item?id=34547255)
-- [Passenger Uses AirTags, Discovers Airline Donated Their Bags to Charity](https://www.blogto.com/travel/2023/01/ontario-couple-tracking-lost-baggage-shocked-air-canada-gave-it-charity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
