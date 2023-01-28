@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic the Gathering Players Lament the Loss of 30-Year History](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
 - [Self-locking gears prevent backdriving &lpar;2012&rpar;](https://gearsolutions.com/features/applications-for-self-locking-gears/)
 - [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
-- [Multi·On: Your AI Web Co-Pilot Powered by ChatGPT](https://multion.ai)
 - [“Pigeon Neck” Illusion](https://michaelbach.de/ot/mot-pigeonNeck/index.html)
 - [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
 <!-- BLOG-POST-LIST:END -->
