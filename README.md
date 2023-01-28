@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Magic the Gathering Players Lament the Loss of 30-Year History](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
+- [US police use digital data to prosecute abortions](https://techcrunch.com/2023/01/27/digital-data-roe-wade-reproductive-privacy/)
+- [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
+- [Where have all America’s workers gone?](https://www.economist.com/graphic-detail/2023/01/24/where-have-all-americas-workers-gone)
+- [Magic the Gathering players lament the loss of 30-year history](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
 - [Self-locking gears prevent backdriving &lpar;2012&rpar;](https://gearsolutions.com/features/applications-for-self-locking-gears/)
-- [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
-- [“Pigeon Neck” Illusion](https://michaelbach.de/ot/mot-pigeonNeck/index.html)
-- [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
