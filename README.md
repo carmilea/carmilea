@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most criminal cryptocurrency is funneled through just 5 exchanges](https://www.wired.com/story/cryptocurrency-money-laundering-chainalysis-report/)
-- [Implementing GPTZero from scratch – Reverse engineering GPTZero](https://github.com/BurhanUlTayyab/GPTZero)
-- [DetectGPT: Zero-Shot Machine-Generated Text Detection](https://ericmitchell.ai/detectgpt/)
-- [Russhian Roulette: 1/6 chance of posting your SSH private key on pastebin](https://github.com/cyradotpink/russhian-roulette)
-- [Giving Four Months’ Notice or Paying to Quit Has These Workers Feeling Trapped](https://www.bloomberg.com/news/articles/2023-01-26/concentra-health-employees-feel-trapped-at-work)
+- [Netheads vs. bellheads redux: the strange victory of SIP over the telephone](https://www.devever.net/~hl/sip-victory#narrow)
+- [YouTube censors and punishes Project Veritas over undercover Pfizer video](https://reclaimthenet.org/youtube-censors-and-punishes-project-veritas-pfizer-sting-video/)
+- [Merging with diff3: the “three-way merge”](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/)
+- [Show HN: Clamshell- an experimental Python based shell](https://github.com/benrutter/clamshell)
+- [Ask HN: Is it a bad time to apply to FAANG companies?](https://news.ycombinator.com/item?id=34557684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
