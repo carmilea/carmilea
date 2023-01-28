@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First signs of spring have arrived in parts of south 3 weeks sooner than average](https://www.usanpn.org/news/spring)
-- [Building a Sleeper Computer from an SGI Indy](https://buu342.me/blog/projects/01-SGIIndySleeper.html)
-- [Kevin Mitnick Hacked California Law in 1983](https://www.schneier.com/blog/archives/2023/01/kevin-mitnick-hacked-california-law-in-1983.html)
-- [Wizards of the Coast Releases SRD Under Creative Commons License &lpar;CC-BY-4.0&rpar;](https://www.dndbeyond.com/posts/1439-ogl-1-0a-creative-commons)
-- [Saving millions on logging: Finding relevant savings](https://product.hubspot.com/blog/savings-logging-part1)
+- [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
+- [“Pigeon Neck” Illusion](https://michaelbach.de/ot/mot-pigeonNeck/index.html)
+- [Manatee county teachers close class libraries, fearing prosecution under FL law](https://www.heraldtribune.com/story/news/education/2023/01/23/fearing-prosecution-manatee-county-teachers-cover-up-classroom-books/69832276007/)
+- [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
+- [Why Go and Not Rust? &lpar;2019&rpar;](https://kristoff.it/blog/why-go-and-not-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
