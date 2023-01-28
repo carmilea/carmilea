@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russhian Roulette: 1/6 chance of posting your SSH private key on pastebin](https://github.com/cyradotpink/russhian-roulette)
 - [Diff Models – A New Way to Edit Code](https://carper.ai/diff-models-a-new-way-to-edit-code/)
 - [Detect ChatGPT Generated Content](https://gptzero.me/)
 - [Kotlin Data Classes 101: Understanding Syntax, Usage and Inheritance](https://hardiksachan.com/kotlin-data-classes-101-understanding-syntax-usage-and-inheritance)
 - [30k lines of SwiftUI in production later](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/)
-- [Rust Books Grouped by Level](https://github.com/sger/RustBooks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
