@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“tipflation” and “tip creep” are sparking a backlash](https://www.cbsnews.com/news/tipping-backlash-inflation-who-should-get-tipped/)
+- [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
+- [We can reduce homelessness if we follow the science on what works](https://www.newscientist.com/article/2356643-we-can-reduce-homelessness-if-we-follow-the-science-on-what-works/)
+- [The other “Phillips” head screwdriver you might not know about](https://shoppress.dormanproducts.com/not-every-phillips-head/)
 - [Smaller, Cheaper Flow Batteries Throw Out Decades-Old Designs](https://spectrum.ieee.org/flow-battery)
-- [Why EVs Aren&#39;t a Climate Change Panacea](https://spectrum.ieee.org/the-ev-transition-explained-2659316104)
-- [The Untold Story of SQLite &lpar;2021&rpar;](https://corecursive.com/066-sqlite-with-richard-hipp/)
-- [Department of Defense: Software Is Never Done &lpar;2019&rpar; [pdf]](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF)
-- [Domain Registry Takes Sci-Hub’s .SE Domain Name Offline](https://torrentfreak.com/domain-registry-takes-sci-hubs-se-domain-name-offline-230126/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
