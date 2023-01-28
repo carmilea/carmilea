@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-locking gears prevent backdriving &lpar;2012&rpar;](https://gearsolutions.com/features/applications-for-self-locking-gears/)
 - [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
+- [Multi·On: Your AI Web Co-Pilot Powered by ChatGPT](https://multion.ai)
 - [“Pigeon Neck” Illusion](https://michaelbach.de/ot/mot-pigeonNeck/index.html)
-- [Manatee county teachers close class libraries, fearing prosecution under FL law](https://www.heraldtribune.com/story/news/education/2023/01/23/fearing-prosecution-manatee-county-teachers-cover-up-classroom-books/69832276007/)
 - [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
-- [Why Go and Not Rust? &lpar;2019&rpar;](https://kristoff.it/blog/why-go-and-not-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
