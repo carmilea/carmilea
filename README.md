@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most criminal cryptocurrency is funneled through just 5 exchanges](https://www.wired.com/story/cryptocurrency-money-laundering-chainalysis-report/)
+- [Implementing GPTZero from scratch – Reverse engineering GPTZero](https://github.com/BurhanUlTayyab/GPTZero)
+- [DetectGPT: Zero-Shot Machine-Generated Text Detection](https://ericmitchell.ai/detectgpt/)
 - [Russhian Roulette: 1/6 chance of posting your SSH private key on pastebin](https://github.com/cyradotpink/russhian-roulette)
-- [Diff Models – A New Way to Edit Code](https://carper.ai/diff-models-a-new-way-to-edit-code/)
-- [Detect ChatGPT Generated Content](https://gptzero.me/)
-- [Kotlin Data Classes 101: Understanding Syntax, Usage and Inheritance](https://hardiksachan.com/kotlin-data-classes-101-understanding-syntax-usage-and-inheritance)
-- [30k lines of SwiftUI in production later](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/)
+- [Giving Four Months’ Notice or Paying to Quit Has These Workers Feeling Trapped](https://www.bloomberg.com/news/articles/2023-01-26/concentra-health-employees-feel-trapped-at-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
