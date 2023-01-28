@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
+- [Smaller, Cheaper Flow Batteries Throw Out Decades-Old Designs](https://spectrum.ieee.org/flow-battery)
+- [Why EVs Aren&#39;t a Climate Change Panacea](https://spectrum.ieee.org/the-ev-transition-explained-2659316104)
+- [The Untold Story of SQLite &lpar;2021&rpar;](https://corecursive.com/066-sqlite-with-richard-hipp/)
+- [Department of Defense: Software Is Never Done &lpar;2019&rpar; [pdf]](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF)
 - [Domain Registry Takes Sci-Hub’s .SE Domain Name Offline](https://torrentfreak.com/domain-registry-takes-sci-hubs-se-domain-name-offline-230126/)
-- [What is Google doing with its open source teams?](https://www.theregister.com/2023/01/27/google_open_source/)
-- [Two of the UK&#39;s water companies are still using dowsing to find leaks](https://www.newscientist.com/article/2356376-two-of-the-uks-water-companies-are-still-using-dowsing-to-find-leaks/)
-- [Responses to “I Almost Bought a Scanner”](http://leejo.github.io/2023/01/28/scanner_response/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
