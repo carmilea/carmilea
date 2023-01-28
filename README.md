@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Is there no way to remove yourself from a delegated Gmail account?](https://news.ycombinator.com/item?id=34556096)
+- [Intel&#39;s &#39;historic collapse&#39; erases $8B from market value](https://www.reuters.com/technology/intels-historic-collapse-sparks-selloff-chip-stocks-2023-01-27/)
 - [Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
+- [A History of the FFmpeg Project](https://codecs.multimedia.cx/category/cempeg/ffhistory/)
 - [Show HN: PlantUML based collaborative UML editor is now open source](https://github.com/AlexITC/collabuml)
-- [WHO updates critical medicines list for radiological and nuclear emergencies](https://www.who.int/news/item/27-01-2023-who-updates-critical-medicines-list-for-radiation-and-nuclear-emergencies)
-- [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
