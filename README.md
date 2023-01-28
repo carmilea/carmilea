@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“tipflation” and “tip creep” are sparking a backlash](https://www.cbsnews.com/news/tipping-backlash-inflation-who-should-get-tipped/)
+- [What Are &#39;Dark Factories,&#39; and Do They Exist?](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
+- [DoD FAQ: Is Open Source Software Commercial Software? Yes.](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
+- [Features I&#39;d Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
+- [Ask HN: Why Is Everything Declining?](https://news.ycombinator.com/item?id=34560255)
 - [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
-- [We can reduce homelessness if we follow the science on what works](https://www.newscientist.com/article/2356643-we-can-reduce-homelessness-if-we-follow-the-science-on-what-works/)
-- [The other “Phillips” head screwdriver you might not know about](https://shoppress.dormanproducts.com/not-every-phillips-head/)
-- [Smaller, Cheaper Flow Batteries Throw Out Decades-Old Designs](https://spectrum.ieee.org/flow-battery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
