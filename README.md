@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creative coding, making loops with Processing](https://bleuje.com/)
 - [Ask HN: Is there no way to remove yourself from a delegated Gmail account?](https://news.ycombinator.com/item?id=34556096)
 - [Intel&#39;s &#39;historic collapse&#39; erases $8B from market value](https://www.reuters.com/technology/intels-historic-collapse-sparks-selloff-chip-stocks-2023-01-27/)
 - [Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
 - [A History of the FFmpeg Project](https://codecs.multimedia.cx/category/cempeg/ffhistory/)
-- [Show HN: PlantUML based collaborative UML editor is now open source](https://github.com/AlexITC/collabuml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
