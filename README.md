@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
+- [Sam Altman Might Have Just Pulled Off the Coup of the Decade](https://old.reddit.com/r/singularity/comments/10mhzhk/what_people_are_missing_about_microsofts_10b/)
 - [Show HN: PlantUML based collaborative UML editor is now open source](https://github.com/AlexITC/collabuml)
 - [WHO updates critical medicines list for radiological and nuclear emergencies](https://www.who.int/news/item/27-01-2023-who-updates-critical-medicines-list-for-radiation-and-nuclear-emergencies)
 - [Millions are missing from the workforce due to Covid-19](https://drericding.substack.com/p/millions-are-missing-from-the-workforce)
-- [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
