@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Orion Browser](https://browser.kagi.com/)
+- [Gaggle Drops LGBTQ Keywords from Student Surveillance Tool](https://www.the74million.org/article/gaggle-drops-lgbtq-keywords-from-student-surveillance-tool-following-bias-concerns/)
+- [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
 - [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
 - [Show HN: View the Mood of the World](https://mymood.today/records)
-- [What Are &#39;Dark Factories,&#39; and Do They Exist?](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
-- [DoD FAQ: Is Open Source Software Commercial Software? Yes.](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
-- [Features I&#39;d Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
