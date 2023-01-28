@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Google doing with its open source teams?](https://www.theregister.com/2023/01/27/google_open_source/)
+- [Two of the UK&#39;s water companies are still using dowsing to find leaks](https://www.newscientist.com/article/2356376-two-of-the-uks-water-companies-are-still-using-dowsing-to-find-leaks/)
+- [Responses to “I Almost Bought a Scanner”](http://leejo.github.io/2023/01/28/scanner_response/)
+- [BBC Modi Documentary Removal](https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/)
 - [Netheads vs. bellheads redux: the strange victory of SIP over the telephone](https://www.devever.net/~hl/sip-victory#narrow)
-- [YouTube censors and punishes Project Veritas over undercover Pfizer video](https://reclaimthenet.org/youtube-censors-and-punishes-project-veritas-pfizer-sting-video/)
-- [Merging with diff3: the “three-way merge”](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/)
-- [Show HN: Clamshell- an experimental Python based shell](https://github.com/benrutter/clamshell)
-- [Ask HN: Is it a bad time to apply to FAANG companies?](https://news.ycombinator.com/item?id=34557684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
