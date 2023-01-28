@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
+- [Show HN: View the Mood of the World](https://mymood.today/records)
 - [What Are &#39;Dark Factories,&#39; and Do They Exist?](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
 - [DoD FAQ: Is Open Source Software Commercial Software? Yes.](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
 - [Features I&#39;d Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
-- [Ask HN: Why Is Everything Declining?](https://news.ycombinator.com/item?id=34560255)
-- [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
