@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
+- [Show HN: PlantUML based collaborative UML editor is now open source](https://github.com/AlexITC/collabuml)
+- [WHO updates critical medicines list for radiological and nuclear emergencies](https://www.who.int/news/item/27-01-2023-who-updates-critical-medicines-list-for-radiation-and-nuclear-emergencies)
 - [Millions are missing from the workforce due to Covid-19](https://drericding.substack.com/p/millions-are-missing-from-the-workforce)
 - [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
-- [Magic the Gathering players lament the loss of 30-year history](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
-- [Self-locking gears prevent backdriving &lpar;2012&rpar;](https://gearsolutions.com/features/applications-for-self-locking-gears/)
-- [An investigation into Apple’s new Relay network](https://blog.apnic.net/2023/01/25/an-investigation-into-apples-new-relay-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
