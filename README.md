@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter suspends Israeli MK over call to kill Palestinians](https://inpalestine.co/?p=24023)
+- [Ask HN: Why isn&#39;t radiation used to sterilize raw foods &lpar;like sashimi, eggs&rpar;?](https://news.ycombinator.com/item?id=34573675)
 - [Ask HN: How can I get into cyber security research?](https://news.ycombinator.com/item?id=34572912)
 - [An Implementation of the Solaris Doors API for Linux &lpar;1998&rpar; [pdf]](http://www.rampant.org/doors/linux-doors.pdf)
 - [The “Build Your Own Redis” Book Is Completed](https://build-your-own.org/blog/20230127_byor/)
