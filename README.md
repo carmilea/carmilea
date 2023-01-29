@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bog – small, strongly typed, embeddable language](https://github.com/Vexu/bog)
+- [Ask HN: What&#39;s with the DIY state of the art long-range Wi-Fi?](https://news.ycombinator.com/item?id=34567704)
 - [Ask HN: What happens if a nuclear missile is air-destroyed before detonation?](https://news.ycombinator.com/item?id=34567402)
 - [80/20 Aluminum T-slot Building Systems – Build your Idea](https://8020.net/)
-- [San Francisco robotaxis are causing false 911 calls and other chaos](https://www.techspot.com/news/97418-san-francisco-robotaxis-causing-false-911-calls-other.html)
-- [Steve Wozniak used to tip from printed sheets of $2 bills](https://web.archive.org/web/20111122202554/http://archive.woz.org/letters/general/78.html)
-- [Noctua&#39;s NH-P1 – Simply Amazing](https://boringtextreviews.com/a-cooler-without-fans-testing-noctuas-nh-p1-with-ryzen-7700x-and-intels-i9-13900k/)
+- [The end of founder worship, and a reset of toxic startup values](https://www.theglobeandmail.com/business/article-startup-culture-tech-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
