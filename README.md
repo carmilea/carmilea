@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter suspends Israeli MK over call to kill Palestinians](https://inpalestine.co/?p=24023)
+- [Ask HN: How can I get into cyber security research?](https://news.ycombinator.com/item?id=34572912)
+- [An Implementation of the Solaris Doors API for Linux &lpar;1998&rpar; [pdf]](http://www.rampant.org/doors/linux-doors.pdf)
 - [The “Build Your Own Redis” Book Is Completed](https://build-your-own.org/blog/20230127_byor/)
 - [Training NanoGPT on My Journal](https://hut.pm/nanogpt.html)
-- [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/)
-- [Toroidal propeller allows a drone to operate more quietly [pdf]](https://www.ll.mit.edu/sites/default/files/other/doc/2022-09/TVO_Technology_Highlight_41_Toroidal_Propeller.pdf)
-- [Intercepting t.co links using DNS rewrites](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
