@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse RSS Feed](https://www.jefftk.com/p/reverse-rss-feed)
 - [Show HN: Git Heat Map – a tool for visualising git repo activity for each file](https://github.com/jmforsythe/Git-Heat-Map)
 - [Ask HN: What is the best source to learn Docker in 2023?](https://news.ycombinator.com/item?id=34563353)
 - [Orion Browser](https://browser.kagi.com/)
 - [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
-- [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
