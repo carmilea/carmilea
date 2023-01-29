@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What happens if a nuclear missile is air-destroyed before detonation?](https://news.ycombinator.com/item?id=34567402)
+- [80/20 Aluminum T-slot Building Systems – Build your Idea](https://8020.net/)
+- [San Francisco robotaxis are causing false 911 calls and other chaos](https://www.techspot.com/news/97418-san-francisco-robotaxis-causing-false-911-calls-other.html)
 - [Steve Wozniak used to tip from printed sheets of $2 bills](https://web.archive.org/web/20111122202554/http://archive.woz.org/letters/general/78.html)
 - [Noctua&#39;s NH-P1 – Simply Amazing](https://boringtextreviews.com/a-cooler-without-fans-testing-noctuas-nh-p1-with-ryzen-7700x-and-intels-i9-13900k/)
-- [&#39;We Are Being Levelled Down’: Why the UK’s Wealth Gap Is Widening](https://www.bloomberg.com/graphics/uk-levelling-up/inflation-government-delays-why-wealth-gap-widens.html)
-- [Hyperrealistic Deepfaked Tom Cruise in a Coffeeshop](https://old.reddit.com/r/DeepFakesSFW/comments/10o3sx5/another_deepfaked_tom_cruise_what_do_you_think/)
-- [My Journey from R to Julia](https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
