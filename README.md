@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro Hydro Turbine Is Far Cheaper Than Solar](https://www.youtube.com/watch?v=Nc2vTM7KMC0)
+- [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/)
+- [Americans stand united on one thing: NIMBYism &lpar;2020&rpar;](https://therealdeal.com/2020/11/03/americans-stand-united-on-one-thing-nimbyism/)
+- [Toroidal propeller allows a drone to operate more quietly [pdf]](https://www.ll.mit.edu/sites/default/files/other/doc/2022-09/TVO_Technology_Highlight_41_Toroidal_Propeller.pdf)
+- [Intercepting t.co links using DNS rewrites](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/)
 - [Toroidal propellers turn your drones and boats into noiseless machines](https://www.designboom.com/technology/toroidal-propellers-quiet-efficient-alternatives-aerial-marine-sectors-01-27-2023/)
-- [Steve Wozniak&#39;s Letters](http://mhpo.woz.com/letters/)
-- [Surgeon General says 13 is ‘too early’ to join social media](https://www.cnn.com/2023/01/29/health/surgeon-general-social-media/index.html)
-- [For longevity, muscle strength may be as important as aerobic exercise](https://www.washingtonpost.com/wellness/2023/01/29/strength-training-all-ages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
