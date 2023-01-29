@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We Are Being Levelled Down’: Why the UK’s Wealth Gap Is Widening](https://www.bloomberg.com/graphics/uk-levelling-up/inflation-government-delays-why-wealth-gap-widens.html)
+- [Ask HN: Is StackOverflow Dying?](https://news.ycombinator.com/item?id=34566383)
+- [My Journey from R to Julia](https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/)
 - [Calculators Now Emulated at Internet Archive](https://blog.archive.org/2023/01/29/a-calculated-move-calculators-now-emulated-at-internet-archive/)
 - [Facebook drains users&#39; cellphone batteries intentionally says ex-employee](https://www.phonearena.com/news/facebook-drains-phone-batteries-intentionally_id145227)
-- [Correction Girls](https://en.wikipedia.org/wiki/Correction_girls)
-- [Grid Beam](https://gridbeam.xyz/)
-- [Higher Rates Will Lead to the Next Generation of Great Tech Startups](https://chamathreads.substack.com/p/higher-rates-will-lead-to-the-next)
 <!-- BLOG-POST-LIST:END -->
 
 ---
