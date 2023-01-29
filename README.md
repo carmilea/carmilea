@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For longevity, muscle strength may be as important as aerobic exercise](https://www.washingtonpost.com/wellness/2023/01/29/strength-training-all-ages/)
 - [FCC Threatens to Disconnect Twilio for Illegal Robocalls](https://commsrisk.com/fcc-threatens-to-disconnect-twilio-for-illegal-robocalls/)
 - [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
+- [Ask HN: What Next After Ubuntu?](https://news.ycombinator.com/item?id=34570047)
 - [Indoor Air Quality and Learning: Evidence from Large Field Study in Schools [pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296077)
-- [YouTube Offers College Credits from Watching Videos](https://blog.youtube/news-and-events/higher-education-on-youtube-study-hall/)
-- [Ask HN: Which book would you recommend for learning Python in detail?](https://news.ycombinator.com/item?id=34569425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
