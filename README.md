@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US general warns troops that war with China is possible in two years](https://www.stripes.com/theaters/us/2023-01-27/us-air-force-memo-war-china-8913860.html)
 - [The Window Trick of Las Vegas Hotels](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html)
 - [Australians Scour Desert for Dangerous Radioactive Capsule Smaller Than a Penny](https://www.nytimes.com/2023/01/28/world/australia/australia-radioactive-capsule.html)
 - [Astronomers discovered 1M new galaxies in just 300 hours](https://blog.physics-astronomy.com/2022/09/astronomers-just-discovered-1-million.html)
-- [Google fires 31 massage therapists as part of layoffs](https://nypost.com/2023/01/26/google-fires-31-massage-therapists-as-part-of-layoffs/)
-- [Low Antarctic climate sensitivity &lpar;Antarctica has not warmed&rpar;](https://www.nature.com/articles/s41612-020-00143-w)
+- [Low Antarctic continental climate sensitivity due to high ice sheet orography](https://www.nature.com/articles/s41612-020-00143-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
