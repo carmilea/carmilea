@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculators Now Emulated at Internet Archive](https://blog.archive.org/2023/01/29/a-calculated-move-calculators-now-emulated-at-internet-archive/)
 - [Facebook drains users&#39; cellphone batteries intentionally says ex-employee](https://www.phonearena.com/news/facebook-drains-phone-batteries-intentionally_id145227)
 - [Correction Girls](https://en.wikipedia.org/wiki/Correction_girls)
 - [Grid Beam](https://gridbeam.xyz/)
 - [Higher Rates Will Lead to the Next Generation of Great Tech Startups](https://chamathreads.substack.com/p/higher-rates-will-lead-to-the-next)
-- [Oracle per-employee Java pricing causes concern](https://www.infoworld.com/article/3686611/oracle-per-employee-java-pricing-causes-concern.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
