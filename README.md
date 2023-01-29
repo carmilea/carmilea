@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bog – small, strongly typed, embeddable language](https://github.com/Vexu/bog)
-- [Ask HN: What&#39;s with the DIY state of the art long-range Wi-Fi?](https://news.ycombinator.com/item?id=34567704)
-- [Ask HN: What happens if a nuclear missile is air-destroyed before detonation?](https://news.ycombinator.com/item?id=34567402)
-- [80/20 Aluminum T-slot Building Systems – Build your Idea](https://8020.net/)
-- [The end of founder worship, and a reset of toxic startup values](https://www.theglobeandmail.com/business/article-startup-culture-tech-founders/)
+- [The Window Trick of Las Vegas Hotels](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html)
+- [Australians Scour Desert for Dangerous Radioactive Capsule Smaller Than a Penny](https://www.nytimes.com/2023/01/28/world/australia/australia-radioactive-capsule.html)
+- [Astronomers discovered 1M new galaxies in just 300 hours](https://blog.physics-astronomy.com/2022/09/astronomers-just-discovered-1-million.html)
+- [Google fires 31 massage therapists as part of layoffs](https://nypost.com/2023/01/26/google-fires-31-massage-therapists-as-part-of-layoffs/)
+- [Low Antarctic climate sensitivity &lpar;Antarctica has not warmed&rpar;](https://www.nature.com/articles/s41612-020-00143-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
