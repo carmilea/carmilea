@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is it just me or is 5G strictly worse than LTE?](https://news.ycombinator.com/item?id=34564590)
+- [Unconditional Love](https://eden.bearblog.dev/unconditional-love/)
+- [Can an electric circuit do recursion?](https://electronics.stackexchange.com/a/158915/331615)
+- [Amazon Will Start Charging Prime Members for US Grocery Orders of Less Than $150](https://www.bloomberg.com/news/articles/2023-01-27/amazon-will-start-charging-prime-members-for-most-grocery-deliveries)
 - [Reverse RSS Feed](https://www.jefftk.com/p/reverse-rss-feed)
-- [Show HN: Git Heat Map – a tool for visualising git repo activity for each file](https://github.com/jmforsythe/Git-Heat-Map)
-- [Ask HN: What is the best source to learn Docker in 2023?](https://news.ycombinator.com/item?id=34563353)
-- [Orion Browser](https://browser.kagi.com/)
-- [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
