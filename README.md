@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Permission Slip by Consumer Reports: take back control of your data](https://www.permissionslipcr.com/)
+- [Heart attacks on rise for 25-44 age group](https://www.khon2.com/local-news/heart-attacks-on-dramatic-rise-for-25-44-age-group/)
+- [Wikipedia&#39;s new skin is a sad opportunity to reminisce what we could&#39;ve had](https://blog.legoktm.com/2023/01/18/wikipedias-new-skin-is-a-sad-opportunity-to-reminisce-what-we-couldve-had-instead.html)
+- [Permission Slip: App to take back control of your data](https://digital-lab.consumerreports.org/2022/11/16/introducing-permission-slip/)
 - [Ask HN: Is it just me or is 5G strictly worse than LTE?](https://news.ycombinator.com/item?id=34564590)
 - [Unconditional Love](https://eden.bearblog.dev/unconditional-love/)
-- [Can an electric circuit do recursion?](https://electronics.stackexchange.com/a/158915/331615)
-- [Reverse RSS Feed](https://www.jefftk.com/p/reverse-rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
