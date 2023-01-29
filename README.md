@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US general warns troops that war with China is possible in two years](https://www.stripes.com/theaters/us/2023-01-27/us-air-force-memo-war-china-8913860.html)
-- [The Window Trick of Las Vegas Hotels](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html)
-- [Australians Scour Desert for Dangerous Radioactive Capsule Smaller Than a Penny](https://www.nytimes.com/2023/01/28/world/australia/australia-radioactive-capsule.html)
-- [Astronomers discovered 1M new galaxies in just 300 hours](https://blog.physics-astronomy.com/2022/09/astronomers-just-discovered-1-million.html)
-- [Low Antarctic continental climate sensitivity due to high ice sheet orography](https://www.nature.com/articles/s41612-020-00143-w)
+- [FCC Threatens to Disconnect Twilio for Illegal Robocalls](https://commsrisk.com/fcc-threatens-to-disconnect-twilio-for-illegal-robocalls/)
+- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
+- [Indoor Air Quality and Learning: Evidence from Large Field Study in Schools [pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296077)
+- [YouTube Offers College Credits from Watching Videos](https://blog.youtube/news-and-events/higher-education-on-youtube-study-hall/)
+- [Ask HN: Which book would you recommend for learning Python in detail?](https://news.ycombinator.com/item?id=34569425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
