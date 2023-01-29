@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Permission Slip by Consumer Reports: take back control of your data](https://www.permissionslipcr.com/)
 - [Ask HN: Is it just me or is 5G strictly worse than LTE?](https://news.ycombinator.com/item?id=34564590)
 - [Unconditional Love](https://eden.bearblog.dev/unconditional-love/)
 - [Can an electric circuit do recursion?](https://electronics.stackexchange.com/a/158915/331615)
-- [Amazon Will Start Charging Prime Members for US Grocery Orders of Less Than $150](https://www.bloomberg.com/news/articles/2023-01-27/amazon-will-start-charging-prime-members-for-most-grocery-deliveries)
 - [Reverse RSS Feed](https://www.jefftk.com/p/reverse-rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
