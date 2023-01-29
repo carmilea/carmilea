@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook drains users&#39; cellphone batteries intentionally says ex-employee](https://www.phonearena.com/news/facebook-drains-phone-batteries-intentionally_id145227)
+- [Correction Girls](https://en.wikipedia.org/wiki/Correction_girls)
+- [Grid Beam](https://gridbeam.xyz/)
+- [Higher Rates Will Lead to the Next Generation of Great Tech Startups](https://chamathreads.substack.com/p/higher-rates-will-lead-to-the-next)
 - [Oracle per-employee Java pricing causes concern](https://www.infoworld.com/article/3686611/oracle-per-employee-java-pricing-causes-concern.html)
-- [Heart attacks on rise for 25-44 age group](https://www.khon2.com/local-news/heart-attacks-on-dramatic-rise-for-25-44-age-group/)
-- [Wikipedia&#39;s new skin is a sad opportunity to reminisce what we could&#39;ve had](https://blog.legoktm.com/2023/01/18/wikipedias-new-skin-is-a-sad-opportunity-to-reminisce-what-we-couldve-had-instead.html)
-- [Permission Slip: App to take back control of your data](https://digital-lab.consumerreports.org/2022/11/16/introducing-permission-slip/)
-- [Ask HN: Is it just me or is 5G strictly worse than LTE?](https://news.ycombinator.com/item?id=34564590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
