@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Micro Hydro Turbine Is Far Cheaper Than Solar](https://www.youtube.com/watch?v=Nc2vTM7KMC0)
+- [Toroidal propellers turn your drones and boats into noiseless machines](https://www.designboom.com/technology/toroidal-propellers-quiet-efficient-alternatives-aerial-marine-sectors-01-27-2023/)
+- [Steve Wozniak&#39;s Letters](http://mhpo.woz.com/letters/)
+- [Surgeon General says 13 is ‘too early’ to join social media](https://www.cnn.com/2023/01/29/health/surgeon-general-social-media/index.html)
 - [For longevity, muscle strength may be as important as aerobic exercise](https://www.washingtonpost.com/wellness/2023/01/29/strength-training-all-ages/)
-- [FCC Threatens to Disconnect Twilio for Illegal Robocalls](https://commsrisk.com/fcc-threatens-to-disconnect-twilio-for-illegal-robocalls/)
-- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
-- [Ask HN: What Next After Ubuntu?](https://news.ycombinator.com/item?id=34570047)
-- [Indoor Air Quality and Learning: Evidence from Large Field Study in Schools [pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296077)
 <!-- BLOG-POST-LIST:END -->
 
 ---
