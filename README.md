@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Muse &lpar;YC W12&rpar; Is Hiring a BD Manager for Strategic Partnerships](https://www.themuse.com/jobs/themuse/manager-business-development-strategic-partnerships)
-- [How Likely Is Losing a Google Account?](https://www.jefftk.com/p/how-likely-is-losing-a-google-account)
-- [Astronomers Say They Have Spotted the Universe’s First Stars](https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/)
-- [The benefits of everything &lpar;in Emacs&rpar; being a buffer](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer)
+- [How likely is losing a Google account?](https://www.jefftk.com/p/how-likely-is-losing-a-google-account)
+- [Light from a rare isotope of helium in a distant galaxy](https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/)
+- [The benefits of everything in Emacs being a buffer](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer)
 - [FYI: LLVM-project repo has exceeded GitHub upload size limit &lpar;2022&rpar;](https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293)
 <!-- BLOG-POST-LIST:END -->
 
