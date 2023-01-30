@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Burning a NeXTCube &lpar;1993&rpar;](http://web.archive.org/web/20000817013818/http://simson.net/photos/hacks/cubefire.html)
-- [S3 will automatically enable Block Public Access and disable ACL for new buckets](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
-- [Show HN: Deploy Button for GPT-3 API Back Ends](https://www.steamship.com/build/prompt-apis)
-- [Show HN: ELI5 Powered by GPT-3](https://eli5.gg)
-- [Metal Without Mining](https://magratheametals.com)
+- [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
+- [Amazon Is Selling Its 29-Acre Bay Area Property as Return to Office Stalls](https://www.msn.com/en-us/money/companies/amazon-to-sell-bay-area-office-complex-as-sales-growth-cools/ar-AA16M4Pp)
+- [Steering wheel falls off a new Tesla Y while driving on a highway](https://twitter.com/preneh24/status/1619889507133976580)
+- [Firefighters forced to smash window of driverless Cruise taxi to stop it](https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1)
+- [Burning a NeXTCube &lpar;1993&rpar;](https://simson.net/ref/1993/cubefire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
