@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Adani shares continue bloodbath as Asia’s richest man loses $28B in a month](https://www.cnbc.com/2023/01/30/adani-shares-hindenburg-report.html)
-- [Latencytop – Visualize System Latencies](https://www.latencytop.org/)
+- [Antarctica’s Brunt Ice Shelf Finally Breaks](https://earthobservatory.nasa.gov/images/150880/antarcticas-brunt-ice-shelf-finally-breaks)
+- [Ask HN: Disabled and out of work for years, but need some side income](https://news.ycombinator.com/item?id=34578347)
+- [The art of eating well in Antarctica &lpar;2022&rpar;](https://www.atlasobscura.com/articles/cooking-in-antarctica)
+- [An Update on Leap Seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 - [UK Online Safety Bill threatens encryption, secure communication, and reporting](https://cpj.org/2023/01/how-uk-online-safety-bill-threatens-encryption-secure-communication-and-reporting-on-migration/)
-- [Ask HN: Why does every package+module system become a Rube Goldberg machine?](https://news.ycombinator.com/item?id=34577844)
-- [PageRank Algorithm for Graph Databases](https://memgraph.com/blog/pagerank-algorithm-for-graph-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
