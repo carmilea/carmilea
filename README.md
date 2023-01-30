@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Correct High-Bandwidth Memory](https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/)
+- [Ask HN: Did improving conversation and listening skills win you anything big?](https://news.ycombinator.com/item?id=34576976)
+- [Covid-19 and other pandemics require a coherent response strategy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02489-8/fulltext)
 - [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [Story Structure 101: Super Basic Shit &lpar;By Dan Harmon&rpar;](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
-- [Google executive fired after female boss groped him](https://www.news.com.au/technology/online/internet/google-executive-fired-after-female-boss-groped-him/news-story/1901a730cb7075916e90a9f072732757)
-- [The high cost of expensive housing and how Auckland fixed it](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
-- [“Foundations of Data Science”, Free Book by Hopcroft and Kannan [pdf]](https://www.cs.cornell.edu/jeh/book.pdf?file=book.pdf)
+- [Tesla catches fire on Highway 50 near Rancho Cordova](https://www.kcra.com/article/tesla-fire-highway-50-rancho-cordova/42698054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
