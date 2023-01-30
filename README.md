@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cyclic Combinational Circuits [pdf]](http://www.mriedel.ece.umn.edu/wiki/images/7/7a/Riedel_Cyclic_Combinational_Circuits.pdf)
-- [Scale transform -50 x*x + 240 x – 7](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
-- [The Future of Employment: How Susceptible Are Jobs to Computerisation? &lpar;2013&rpar; [pdf]](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
+- [A baffling scale transform on a chart of university course selection trends](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
 - [Ejaculation frequency and prostate cancer &lpar;2022&rpar;](https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer)
 - [The customer is always right in matters of taste](https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/)
+- [Swift Achieved Dynamic Linking Where Rust Couldn&#39;t &lpar;2019&rpar;](https://faultlore.com/blah/swift-abi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
