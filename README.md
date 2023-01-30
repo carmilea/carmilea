@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Story Structure 101: Super Basic Shit &lpar;By Dan Harmon&rpar;](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
 - [Google executive fired after female boss groped him](https://www.news.com.au/technology/online/internet/google-executive-fired-after-female-boss-groped-him/news-story/1901a730cb7075916e90a9f072732757)
-- [The High Cost of Expensive Housing &lpar;and How Auckland Fixed It&rpar;](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
-- [Where Our Gasoline Comes From](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php)
-- [What Does It Mean to Trademark a Color?](https://www.atlasobscura.com/articles/jardin-marjorelle-trademark-color)
-- [SBF&#39;s Lawyer Scrambles to Explain Signal Messages to Potential Witnesses [pdf]](https://ia601406.us.archive.org/2/items/gov.uscourts.deb.188450/gov.uscourts.deb.188450.587.0.pdf)
+- [The high cost of expensive housing and how Auckland fixed it](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
+- [Where our gasoline comes from](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php)
+- [What does it mean to trademark a color?](https://www.atlasobscura.com/articles/jardin-marjorelle-trademark-color)
 <!-- BLOG-POST-LIST:END -->
 
 ---
