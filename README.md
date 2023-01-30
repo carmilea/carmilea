@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why isn&#39;t radiation used to sterilize raw foods &lpar;like sashimi, eggs&rpar;?](https://news.ycombinator.com/item?id=34573675)
+- [Scale transform -50 x*x + 240 x – 7](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
+- [Ejaculation frequency and prostate cancer &lpar;2022&rpar;](https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer)
+- [The customer is always right in matters of taste](https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/)
+- [Swift Achieved Dynamic Linking Where Rust Couldn&#39;t](https://faultlore.com/blah/swift-abi/)
 - [Ask HN: How can I get into cyber security research?](https://news.ycombinator.com/item?id=34572912)
-- [An Implementation of the Solaris Doors API for Linux &lpar;1998&rpar; [pdf]](http://www.rampant.org/doors/linux-doors.pdf)
-- [The “Build Your Own Redis” Book Is Completed](https://build-your-own.org/blog/20230127_byor/)
-- [Training NanoGPT on My Journal](https://hut.pm/nanogpt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
