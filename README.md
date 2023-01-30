@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google executive fired after female boss groped him](https://www.news.com.au/technology/online/internet/google-executive-fired-after-female-boss-groped-him/news-story/1901a730cb7075916e90a9f072732757)
+- [The High Cost of Expensive Housing &lpar;and How Auckland Fixed It&rpar;](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
 - [Where Our Gasoline Comes From](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php)
-- [The free money machine that went into reverse: Grayscale Bitcoin Trust](https://newsletter.mollywhite.net/p/grayscale-bitcoin-trust-the-free)
-- [Show HN: Train CIFAR10 to 94% in under 10 seconds on a single A100, world record](https://github.com/tysam-code/hlb-CIFAR10)
-- [Cyclic Combinational Circuits [pdf]](http://www.mriedel.ece.umn.edu/wiki/images/7/7a/Riedel_Cyclic_Combinational_Circuits.pdf)
-- [A baffling scale transform on a chart of university course selection trends](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
+- [What Does It Mean to Trademark a Color?](https://www.atlasobscura.com/articles/jardin-marjorelle-trademark-color)
+- [SBF&#39;s Lawyer Scrambles to Explain Signal Messages to Potential Witnesses [pdf]](https://ia601406.us.archive.org/2/items/gov.uscourts.deb.188450/gov.uscourts.deb.188450.587.0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
