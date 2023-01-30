@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail creator says ChatGPT will destroy Google&#39;s business in two years](https://interestingengineering.com/innovation/chatgpt-destroy-googles-business-two-years)
+- [Burning a NeXTCube &lpar;1993&rpar;](http://web.archive.org/web/20000817013818/http://simson.net/photos/hacks/cubefire.html)
+- [S3 will automatically enable Block Public Access and disable ACL for new buckets](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
 - [Show HN: Deploy Button for GPT-3 API Back Ends](https://www.steamship.com/build/prompt-apis)
 - [Show HN: ELI5 Powered by GPT-3](https://eli5.gg)
 - [Metal Without Mining](https://magratheametals.com)
-- [Ask HN: LinkedIn sent me a cease and desist for my Chrome extension. Help?](https://news.ycombinator.com/item?id=34583932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
