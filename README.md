@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail creator says ChatGPT will destroy Google&#39;s business in two years](https://interestingengineering.com/innovation/chatgpt-destroy-googles-business-two-years)
 - [Show HN: Deploy Button for GPT-3 API Back Ends](https://www.steamship.com/build/prompt-apis)
 - [Show HN: ELI5 Powered by GPT-3](https://eli5.gg)
 - [Metal Without Mining](https://magratheametals.com)
 - [Ask HN: LinkedIn sent me a cease and desist for my Chrome extension. Help?](https://news.ycombinator.com/item?id=34583932)
-- [Hypertext Emacs: You may not need org-mode](http://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
