@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muse &lpar;YC W12&rpar; Is Hiring a BD Manager for Strategic Partnerships](https://www.themuse.com/jobs/themuse/manager-business-development-strategic-partnerships)
-- [How likely is losing a Google account?](https://www.jefftk.com/p/how-likely-is-losing-a-google-account)
-- [Light from a rare isotope of helium in a distant galaxy](https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/)
-- [The benefits of everything in Emacs being a buffer](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer)
-- [FYI: LLVM-project repo has exceeded GitHub upload size limit &lpar;2022&rpar;](https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293)
+- [Show HN: Deploy Button for GPT-3 API Back Ends](https://www.steamship.com/build/prompt-apis)
+- [Show HN: ELI5 Powered by GPT-3](https://eli5.gg)
+- [Metal Without Mining](https://magratheametals.com)
+- [Ask HN: LinkedIn sent me a cease and desist for my Chrome extension. Help?](https://news.ycombinator.com/item?id=34583932)
+- [Hypertext Emacs: You may not need org-mode](http://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
