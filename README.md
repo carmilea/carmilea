@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interesting](https://mctoon.net/interesting/)
+- [It Should Be Okay to Just Read Headlines](https://mukdde.substack.com/p/why-it-should-be-okay-to-just-read)
+- [Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees](https://news.ycombinator.com/item?id=34587360)
+- [All 10TB portable SSDs on Amazon &lpar;UK&rpar; are scams](https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1)
 - [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
-- [Amazon Is Selling Its 29-Acre Bay Area Property as Return to Office Stalls](https://www.msn.com/en-us/money/companies/amazon-to-sell-bay-area-office-complex-as-sales-growth-cools/ar-AA16M4Pp)
-- [Steering wheel falls off a new Tesla Y while driving on a highway](https://twitter.com/preneh24/status/1619889507133976580)
-- [Firefighters forced to smash window of driverless Cruise taxi to stop it](https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1)
-- [Burning a NeXTCube &lpar;1993&rpar;](https://simson.net/ref/1993/cubefire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
