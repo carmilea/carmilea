@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PageRank Algorithm for Graph Databases](https://memgraph.com/blog/pagerank-algorithm-for-graph-databases)
+- [Aicracy – Governed by Algorithms](https://www.aicracy.net)
+- [Yandex ‘leak’ reveals 1,922 search ranking factors](https://searchengineland.com/yandex-search-ranking-factors-leak-392323)
 - [Choosing the Correct High-Bandwidth Memory](https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/)
 - [Ask HN: Did improving conversation and listening skills win you anything big?](https://news.ycombinator.com/item?id=34576976)
-- [Covid-19 and other pandemics require a coherent response strategy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02489-8/fulltext)
-- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [Tesla catches fire on Highway 50 near Rancho Cordova](https://www.kcra.com/article/tesla-fire-highway-50-rancho-cordova/42698054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
