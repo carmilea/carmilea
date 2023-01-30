@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A bunch of bored kids found a way to unenroll their school Chromebooks](https://sh1mmer.me)
 - [Antarctica’s Brunt Ice Shelf Finally Breaks](https://earthobservatory.nasa.gov/images/150880/antarcticas-brunt-ice-shelf-finally-breaks)
+- [Lone Wolves: Why do some people hate teamwork? &lpar;2017&rpar;](https://queendomblog.wordpress.com/2017/10/13/lone-wolves-why-do-some-people-hate-teamwork/)
+- [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 - [Ask HN: Disabled and out of work for years, but need some side income](https://news.ycombinator.com/item?id=34578347)
-- [The art of eating well in Antarctica &lpar;2022&rpar;](https://www.atlasobscura.com/articles/cooking-in-antarctica)
-- [An Update on Leap Seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
-- [UK Online Safety Bill threatens encryption, secure communication, and reporting](https://cpj.org/2023/01/how-uk-online-safety-bill-threatens-encryption-secure-communication-and-reporting-on-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
