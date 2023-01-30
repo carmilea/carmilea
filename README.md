@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Ubuntu Pro now required for security fixes, even for supported releases](https://news.ycombinator.com/item?id=34580360)
-- [Why I’m Still on Strike: Portraits from the HarperCollins Picket Line](https://lithub.com/why-im-still-on-strike-portraits-from-the-harpercollins-picket-line/)
-- [Show HN: DeepReview &lpar;ChatGPT powered CV/cover letter/perf review writer&rpar;](https://deepreview.eu/)
-- [Ask HN: Something you’ve done your whole life that you realized is wrong?](https://news.ycombinator.com/item?id=34579175)
-- [Sh1mmer – An exploit capable of unenrolling enterprise-managed Chromebooks](https://sh1mmer.me)
+- [How Likely Is Losing a Google Account?](https://www.jefftk.com/p/how-likely-is-losing-a-google-account)
+- [When Will Fusion Energy Light Our Homes?](https://nautil.us/when-will-fusion-energy-light-our-homes-259169/)
+- [The benefits of everything &lpar;in Emacs&rpar; being a buffer](https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer)
+- [FYI: LLVM-project repo has exceeded GitHub upload size limit &lpar;2022&rpar;](https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293)
+- [U.S. No Fly list publicly shared on a hacking forum, government investigating](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
