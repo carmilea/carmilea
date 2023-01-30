@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Adani shares continue bloodbath as Asia’s richest man loses $28B in a month](https://www.cnbc.com/2023/01/30/adani-shares-hindenburg-report.html)
+- [Latencytop – Visualize System Latencies](https://www.latencytop.org/)
+- [UK Online Safety Bill threatens encryption, secure communication, and reporting](https://cpj.org/2023/01/how-uk-online-safety-bill-threatens-encryption-secure-communication-and-reporting-on-migration/)
+- [Ask HN: Why does every package+module system become a Rube Goldberg machine?](https://news.ycombinator.com/item?id=34577844)
 - [PageRank Algorithm for Graph Databases](https://memgraph.com/blog/pagerank-algorithm-for-graph-databases)
-- [Aicracy – Governed by Algorithms](https://www.aicracy.net)
-- [Yandex ‘leak’ reveals 1,922 search ranking factors](https://searchengineland.com/yandex-search-ranking-factors-leak-392323)
-- [Choosing the Correct High-Bandwidth Memory](https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/)
-- [Ask HN: Did improving conversation and listening skills win you anything big?](https://news.ycombinator.com/item?id=34576976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
