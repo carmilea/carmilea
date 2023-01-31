@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I want to lose every debate](https://sive.rs/led)
 - [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
+- [Marko: An HTML-Based Language](https://markojs.com)
 - [Ask HN: What&#39;s the best lecture series you&#39;ve seen?](https://news.ycombinator.com/item?id=34591291)
 - [The x86&#39;s Decimal Adjust after Addition &lpar;DAA&rpar; instruction](http://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html)
-- [The limits of &quot;computational photography&quot;](https://yager.io/comp/comp.html)
-- [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
