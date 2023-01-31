@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Matching in SQL With SingleStoreDB](https://www.singlestore.com/blog/image-matching-in-sql-with-singlestoredb/)
+- [Ask HN: How do you test SQL?](https://news.ycombinator.com/item?id=34602318)
+- [Modernizing C arrays for greater memory safety: a case study in the Linux kernel](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
 - [Sourcehut will not blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
-- [Critical brain hypothesis: A physical theory for when the brain performs best](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
-- [Tell HN: GitHub will delete your private repo if you lose access to the original](https://news.ycombinator.com/item?id=34600985)
-- [DetectGPT: Zero-Shot Machine-Generated Text Detection](https://arxiv.org/abs/2301.11305)
-- [Hermes: An open-source document management system](https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system)
+- [Combobulate: Structured Movement and Editing with Tree-Sitter](https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
