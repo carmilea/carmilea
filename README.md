@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical brain hypothesis: A physical theory for when the brain performs best](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
+- [America’s fever of workaholism is finally breaking](https://www.theatlantic.com/newsletters/archive/2023/01/american-rich-men-work-less-hours-workism/672895/)
+- [DetectGPT: Zero-Shot Machine-Generated Text Detection](https://arxiv.org/abs/2301.11305)
+- [Reducing technical debt by valuing comments as much as code](https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt)
 - [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
-- [Cosmic DE update: System76&#39;s new Linux desktop environment](https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/)
-- [Elementary OS 7](https://blog.elementary.io/os-7-available-now/)
-- [HubSpot to cut 500 jobs, or 7% of its workforce](https://www.bizjournals.com/boston/news/2023/01/31/hubspot-to-cut-500-jobs-or-7-of-its-workforce.html)
-- [Discovery could help extend battery life when not used](https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
