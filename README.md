@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting](https://mctoon.net/interesting/)
-- [It Should Be Okay to Just Read Headlines](https://mukdde.substack.com/p/why-it-should-be-okay-to-just-read)
-- [Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees](https://news.ycombinator.com/item?id=34587360)
-- [All 10TB portable SSDs on Amazon &lpar;UK&rpar; are scams](https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1)
-- [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
+- [Git archive checksums may change](https://public-inbox.org/git/a812a664-67ea-c0ba-599f-cb79e2d96694@gmail.com/T/)
+- [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
+- [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
+- [Rewrite it in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
+- [FCC proposes $504k fine for broadcaster&#39;s misuse of Emergency Alert System tones](https://www.insideradio.com/free/fox-sports-admits-it-used-fake-eas-tones-on-radio-as-well-as-tv/article_6b18d2f0-9e1c-11ed-ab28-c7b167cea819.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
