@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify is first music streaming service to surpass 200M paid subscribers](https://www.theverge.com/2023/1/31/23577499/spotify-q4-2022-earnings-release-subscriber-growth-layoffs)
-- [How to smooth and spread A* paths for an RTS](https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608)
-- [DIY triple-screen laptop based on the framework](https://www.youtube.com/watch?v=aUKpY0o5tMo)
-- [Japanese explained to programmers](https://lajili.com/posts/post-1/)
-- [Portability and the C Language](https://en.wikibooks.org/wiki/Portability_and_the_C_Language)
+- [Show HN: Working on a Zero-Knowledge Daily Journaling App](https://jumblejournal.org/)
+- [W3C re-launched as a public-interest non-profit organization](https://www.w3.org/blog/news/archives/9823)
+- [I lost $209,640 of my own money trying to start a business](https://www.mostlymetrics.com/p/i-lost-209640-of-my-own-money-trying)
+- [UK expected to be only major economy to shrink in 2023 – IMF](https://www.bbc.co.uk/news/business-64452995)
+- [Backblaze Drive Stats for 2022](https://www.backblaze.com/blog/backblaze-drive-stats-for-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
