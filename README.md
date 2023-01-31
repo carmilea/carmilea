@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
+- [Cosmic DE update: System76&#39;s new Linux desktop environment](https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/)
 - [Elementary OS 7](https://blog.elementary.io/os-7-available-now/)
+- [HubSpot to cut 500 jobs, or 7% of its workforce](https://www.bizjournals.com/boston/news/2023/01/31/hubspot-to-cut-500-jobs-or-7-of-its-workforce.html)
 - [Discovery could help extend battery life when not used](https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html)
-- [Launch HN: Needl &lpar;YC S22&rpar; – Simple search across all your apps](https://news.ycombinator.com/item?id=34598406)
-- [India’s population will start to shrink sooner than expected &lpar;2021&rpar;](https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected)
-- [QuestDB, Open-Source Database, Is Hiring a DevRel Engineer &lpar;US-Based&rpar;](https://questdb.io/careers/developer-relations-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
