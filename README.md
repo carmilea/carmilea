@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why We Ship the Most Code on Friday](https://blog.railway.app/p/ship-on-friday)
 - [Image Matching in SQL With SingleStoreDB](https://www.singlestore.com/blog/image-matching-in-sql-with-singlestoredb/)
 - [Ask HN: How do you test SQL?](https://news.ycombinator.com/item?id=34602318)
 - [Modernizing C arrays for greater memory safety: a case study in the Linux kernel](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
-- [Sourcehut will not blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
-- [Combobulate: Structured Movement and Editing with Tree-Sitter](https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter)
+- [Snap Quarterly Results Q4 2022 [pdf]](https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
