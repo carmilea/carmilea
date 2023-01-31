@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to Self-Promote at Work?](https://news.ycombinator.com/item?id=34593114)
+- [Ask HN: What API&#39;s do people wanna buy/pay for?](https://news.ycombinator.com/item?id=34593025)
 - [I want to lose every debate](https://sive.rs/led)
 - [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
 - [Marko: An HTML-Based Language](https://markojs.com)
-- [Ask HN: What&#39;s the best lecture series you&#39;ve seen?](https://news.ycombinator.com/item?id=34591291)
-- [The Law Does Not Require Legalese](https://writing.kemitchell.com/2023/01/30/Law-Does-Not-Require-Legalese)
 <!-- BLOG-POST-LIST:END -->
 
 ---
