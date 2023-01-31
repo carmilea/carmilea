@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Limits of Computational Photography](https://yager.io/comp/comp.html)
-- [Need help with students who&#39;ve turned my class into a dating service](https://academia.stackexchange.com/questions/192977/need-help-with-students-whove-turned-my-class-into-a-dating-service)
+- [Understanding the x86&#39;s Decimal Adjust after Addition &lpar;DAA&rpar; instruction](http://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html)
+- [D.C. free bus bill becomes law as zero-fare transit systems take off](https://www.cnbc.com/2023/01/30/dc-free-bus-bill-becomes-law-zero-fare-transit.html)
+- [The limits of &quot;computational photography&quot;](https://yager.io/comp/comp.html)
 - [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
 - [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
-- [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
