@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sourcehut will not blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 - [Critical brain hypothesis: A physical theory for when the brain performs best](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
-- [America’s fever of workaholism is finally breaking](https://www.theatlantic.com/newsletters/archive/2023/01/american-rich-men-work-less-hours-workism/672895/)
+- [Tell HN: GitHub will delete your private repo if you lose access to the original](https://news.ycombinator.com/item?id=34600985)
 - [DetectGPT: Zero-Shot Machine-Generated Text Detection](https://arxiv.org/abs/2301.11305)
-- [Reducing technical debt by valuing comments as much as code](https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt)
-- [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
+- [Hermes: An open-source document management system](https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
