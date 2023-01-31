@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New wind, solar are cheaper than costs to operate all but one US coal plant](https://insideclimatenews.org/news/30012023/wind-solar-coal-power-plant-costs/)
+- [Show HN: Silly Math Games to Make Learning Fun for K through 3rd Grade](https://www.mindlygames.com)
+- [Ask HN: What to do when someone clones your site?](https://news.ycombinator.com/item?id=34596309)
+- [A New Lower Bound in the Abc Conjecture](https://arxiv.org/abs/2301.11056)
 - [Show HN: Working on a Zero-Knowledge Daily Journaling App](https://jumblejournal.org/)
-- [W3C re-launched as a public-interest non-profit organization](https://www.w3.org/blog/news/archives/9823)
-- [I lost $209,640 of my own money trying to start a business](https://www.mostlymetrics.com/p/i-lost-209640-of-my-own-money-trying)
-- [UK expected to be only major economy to shrink in 2023 – IMF](https://www.bbc.co.uk/news/business-64452995)
-- [Backblaze Drive Stats for 2022](https://www.backblaze.com/blog/backblaze-drive-stats-for-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
