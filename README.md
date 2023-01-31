@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git archive checksums may change](https://public-inbox.org/git/a812a664-67ea-c0ba-599f-cb79e2d96694@gmail.com/T/)
+- [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
 - [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
 - [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
 - [Rewrite it in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
-- [FCC proposes $504k fine for broadcaster&#39;s misuse of Emergency Alert System tones](https://www.insideradio.com/free/fox-sports-admits-it-used-fake-eas-tones-on-radio-as-well-as-tv/article_6b18d2f0-9e1c-11ed-ab28-c7b167cea819.html)
+- [Google Play Developer Antitrust Litigation](https://www.googleplaydevelopersettlement.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
