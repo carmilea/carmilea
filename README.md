@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Limits of Computational Photography](https://yager.io/comp/comp.html)
 - [Need help with students who&#39;ve turned my class into a dating service](https://academia.stackexchange.com/questions/192977/need-help-with-students-whove-turned-my-class-into-a-dating-service)
 - [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
 - [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
 - [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
-- [Rewrite it in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
