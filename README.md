@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify is first music streaming service to surpass 200M paid subscribers](https://www.theverge.com/2023/1/31/23577499/spotify-q4-2022-earnings-release-subscriber-growth-layoffs)
+- [How to smooth and spread A* paths for an RTS](https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608)
 - [DIY triple-screen laptop based on the framework](https://www.youtube.com/watch?v=aUKpY0o5tMo)
-- [The army of maths prodigies who helped Brighton conquer the transfer market](https://uk.sports.yahoo.com/news/revealed-200-maths-prodigies-help-070000511.html)
-- [Japanese Explained to Programmers](https://lajili.com/posts/post-1/)
+- [Japanese explained to programmers](https://lajili.com/posts/post-1/)
 - [Portability and the C Language](https://en.wikibooks.org/wiki/Portability_and_the_C_Language)
-- [I want to lose every debate](https://sive.rs/led)
 <!-- BLOG-POST-LIST:END -->
 
 ---
