@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Self-Promote at Work?](https://news.ycombinator.com/item?id=34593114)
+- [Ask HN: How to self-promote at work?](https://news.ycombinator.com/item?id=34593114)
 - [Ask HN: What API&#39;s do people wanna buy/pay for?](https://news.ycombinator.com/item?id=34593025)
 - [I want to lose every debate](https://sive.rs/led)
 - [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
