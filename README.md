@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY triple-screen laptop based on the framework](https://www.youtube.com/watch?v=aUKpY0o5tMo)
 - [The army of maths prodigies who helped Brighton conquer the transfer market](https://uk.sports.yahoo.com/news/revealed-200-maths-prodigies-help-070000511.html)
-- [Ask HN: What API&#39;s do people wanna buy/pay for?](https://news.ycombinator.com/item?id=34593025)
+- [Japanese Explained to Programmers](https://lajili.com/posts/post-1/)
+- [Portability and the C Language](https://en.wikibooks.org/wiki/Portability_and_the_C_Language)
 - [I want to lose every debate](https://sive.rs/led)
-- [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
-- [Marko: An HTML-Based Language](https://markojs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
