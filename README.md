@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elementary OS 7](https://blog.elementary.io/os-7-available-now/)
+- [Discovery could help extend battery life when not used](https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html)
+- [Launch HN: Needl &lpar;YC S22&rpar; – Simple search across all your apps](https://news.ycombinator.com/item?id=34598406)
+- [India’s population will start to shrink sooner than expected &lpar;2021&rpar;](https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected)
 - [QuestDB, Open-Source Database, Is Hiring a DevRel Engineer &lpar;US-Based&rpar;](https://questdb.io/careers/developer-relations-engineer/)
-- [CA Cities to Lose All Zoning Powers in 2 Days](https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers)
-- [Tesla tells investors it’s being investigated by the Justice Department](https://arstechnica.com/cars/2023/01/tesla-confirms-justice-department-investigation-into-autopilot/)
-- [In roughly two hours, 1647 devices are about to be wiped](https://infosec.exchange/@SecurityWriter/109777576538835360)
-- [A judge ordered the unsealing of Sam Bankman-Fried&#39;s 2 anonymous bail sponsors](https://www.businessinsider.com/sam-bankman-fried-bail-sponsors-should-be-public-judge-says-2023-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
