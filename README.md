@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is hiring? &lpar;February 2023&rpar;](https://news.ycombinator.com/item?id=34612353)
-- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
-- [Little Languages for Music &lpar;CLI as DAW, 1990&rpar; [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
-- [Data Visualization: Choropleth maps with ggplot and R](https://socviz.co/maps.html)
-- [Show HN: Sudoku with 0 Bells or Whistles](https://news.ycombinator.com/item?id=34611732)
+- [YC is hiring a product engineer to work on co-founder matching &lpar;SF/remote, US&rpar;](https://news.ycombinator.com/item?id=34613508)
+- [UK Tech Talent Visa to shut down after government withdraws funding](https://sifted.eu/articles/tech-nation-shutting-down/)
+- [Netlify Acquires Gatsby](https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/)
+- [A Cold War mystery: Why did Jimmy Carter save the space shuttle?](https://arstechnica.com/science/2016/07/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/)
+- [Netlify Acquires Gatsby, Its Struggling Jamstack Competitor](https://thenewstack.io/netlify-acquires-gatsby-its-struggling-jamstack-competitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
