@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YC is hiring a product engineer to work on co-founder matching &lpar;SF/remote, US&rpar;](https://news.ycombinator.com/item?id=34613508)
-- [UK Tech Talent Visa to shut down after government withdraws funding](https://sifted.eu/articles/tech-nation-shutting-down/)
-- [Netlify Acquires Gatsby](https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/)
-- [A Cold War mystery: Why did Jimmy Carter save the space shuttle?](https://arstechnica.com/science/2016/07/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/)
-- [Netlify Acquires Gatsby, Its Struggling Jamstack Competitor](https://thenewstack.io/netlify-acquires-gatsby-its-struggling-jamstack-competitor/)
+- [Apple: $52,000 Mac Pro Is Now Worth $1k](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/)
+- [Introducing ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
+- [Release engineering is exhausting so here&#39;s cargo-dist](https://blog.axo.dev/2023/02/cargo-dist)
+- [Same.energy: Image Search by Similarity](https://same.energy)
+- [Interop 2023: continuing to improve the web for developers](https://web.dev/interop-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
