@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple: $52,000 Mac Pro Is Now Worth $1k](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/)
-- [Introducing ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
+- [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
 - [Release engineering is exhausting so here&#39;s cargo-dist](https://blog.axo.dev/2023/02/cargo-dist)
 - [Same.energy: Image Search by Similarity](https://same.energy)
 - [Interop 2023: continuing to improve the web for developers](https://web.dev/interop-2023/)
