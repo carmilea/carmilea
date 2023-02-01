@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Academia’s culture of overwork almost broke me, so I’m working to undo it](https://www.nature.com/articles/d41586-023-00241-8)
-- [Why Are Online Recipes Always So Long-Winded?](https://jjpryor.substack.com/p/why-are-online-recipes-always-so)
-- [We are ‘greening’ ourselves to extinction](https://www.aljazeera.com/opinions/2023/1/29/greening-ourselves-to-extinction)
-- [The Curse of the Corporate Headshot](https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot)
-- [Show HN: We built a developer-first open-source Zapier alternative](https://trigger.dev)
+- [Ask HN: Who is hiring? &lpar;February 2023&rpar;](https://news.ycombinator.com/item?id=34612353)
+- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
+- [Little Languages for Music &lpar;CLI as DAW, 1990&rpar; [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
+- [Data Visualization: Choropleth maps with ggplot and R](https://socviz.co/maps.html)
+- [Show HN: Sudoku with 0 Bells or Whistles](https://news.ycombinator.com/item?id=34611732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
