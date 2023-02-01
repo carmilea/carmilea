@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between Speaking and Thinking and Why ChatGPT Is Uncanny](https://www.theatlantic.com/technology/archive/2023/01/chatgpt-ai-language-human-computer-grammar-logic/672902/)
-- [Ask HN: Reject/ghost on all job applications with 8 YoE, what am I doing wrong?](https://news.ycombinator.com/item?id=34609741)
-- [BioGPT: A Language Model Pre-Trained on Large-Scale Biomedical Literature](https://www.marktechpost.com/2023/01/31/microsoft-research-proposes-biogpt-a-domain-specific-generative-transformer-language-model-pre-trained-on-large-scale-biomedical-literature/)
-- [Morning exposure to deep red light improves declining eyesight](https://www.nature.com/articles/s41598-021-02311-1)
-- [Stable Diffusion found to emit some images from training at generation time](https://twitter.com/Eric_Wallace_/status/1620449934863642624)
+- [Academia’s culture of overwork almost broke me, so I’m working to undo it](https://www.nature.com/articles/d41586-023-00241-8)
+- [Why Are Online Recipes Always So Long-Winded?](https://jjpryor.substack.com/p/why-are-online-recipes-always-so)
+- [We are ‘greening’ ourselves to extinction](https://www.aljazeera.com/opinions/2023/1/29/greening-ourselves-to-extinction)
+- [The Curse of the Corporate Headshot](https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot)
+- [Show HN: We built a developer-first open-source Zapier alternative](https://trigger.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
