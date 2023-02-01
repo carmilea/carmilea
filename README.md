@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Easter egg in flight path of last 747 delivery flight](https://www.flightradar24.com/GTI747/2f0b1162)
-- [Go 1.20 Released](https://groups.google.com/g/golang-announce/c/QMK8IQALDvA/m/JbovhzpOAAAJ)
+- [Go 1.20 released](https://go.dev/doc/go1.20)
 - [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
 - [Release engineering is exhausting so here&#39;s cargo-dist](https://blog.axo.dev/2023/02/cargo-dist)
 - [Same.energy: Image Search by Similarity](https://same.energy)
