@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft shows full-screen Windows 11 upgrade ads with two &#39;yes&#39; buttons](https://www.neowin.net/news/microsoft-reportedly-shows-full-screen-windows-11-upgrade-ads-with-two-yes-buttons/)
+- [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
+- [David MacKay: Information Theory, Inference, and Learning Algorithms: The Book](https://inference.org.uk/itila/book.html)
 - [Ask HN: Does the HN commentariat have a reductive view of what a human being is?](https://news.ycombinator.com/item?id=34618404)
 - [Princeton CS Prof: ChatGPT Is a Bullshit Generator &lpar;2022&rpar;](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
-- [We need less powerful languages &lpar;2015&rpar;](https://lukeplant.me.uk/blog/posts/less-powerful-languages/)
-- [Meta Reports Fourth Quarter and Full Year 2022 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx)
-- [Glen Canyon Revealed](https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
