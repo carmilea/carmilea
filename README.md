@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
 - [Missing radioactive capsule found in WA outback after frantic search](https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828)
-- [Show HN: GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words](https://gptminus1.vercel.app/)
-- [Tesla lost $140M trading Bitcoin in 2022](https://web3isgoinggreat.com/?id=tesla-lost-140-million-trading-bitcoin-in-2022)
-- [Prime Voice AI: The most realistic and versatile AI speech software](https://beta.elevenlabs.io/)
+- [GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words](https://gptminus1.vercel.app/)
+- [Prime Voice AI: AI speech software](https://beta.elevenlabs.io/)
 - [Write simply &lpar;2021&rpar;](http://www.paulgraham.com/simply.html)
 <!-- BLOG-POST-LIST:END -->
 
