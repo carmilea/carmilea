@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco is getting cold feet about self-driving car tests](https://www.newscientist.com/article/2356888-san-francisco-is-getting-cold-feet-about-self-driving-car-tests/)
+- [A URL shortener not shortening the URL but makes it look very dodgy](https://github.com/defaultnamehere/verylegit.link)
+- [Do We Live in a Society Without a Counterculture?](https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a)
+- [Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg](https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html)
 - [Tiny radioactive capsule lost in Australian outback found](https://www.theguardian.com/australia-news/2023/feb/01/tiny-radioactive-capsule-lost-in-australian-outback-found-by-side-of-1400km-stretch-of-road)
 - [I&#39;ve had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
-- [Missing radioactive capsule found in WA outback after frantic search](https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828)
-- [Write simply &lpar;2021&rpar;](http://www.paulgraham.com/simply.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
