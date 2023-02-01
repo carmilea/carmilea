@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is remote work bad for the economy?](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
+- [Intel Cuts Employee Pay to Maintain Quarterly Dividend](https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep)
 - [Tablevibe &lpar;YC S21&rpar; hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
 - [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
 - [Concordia students set to launch most powerful rocket developed by civilians](https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html)
-- [Image Matching in SQL With SingleStoreDB](https://www.singlestore.com/blog/image-matching-in-sql-with-singlestoredb/)
-- [Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri](https://github.com/TunnlTo/desktop-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
