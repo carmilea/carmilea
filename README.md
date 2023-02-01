@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alleged serial liar George Santos had backing from FTX executives](https://www.sfgate.com/politics/article/george-santos-ftx-executives-donations-17746642.php)
 - [I&#39;ve had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
 - [Missing radioactive capsule found in WA outback after frantic search](https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828)
 - [GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words](https://gptminus1.vercel.app/)
 - [Prime Voice AI: AI speech software](https://beta.elevenlabs.io/)
-- [Write simply &lpar;2021&rpar;](http://www.paulgraham.com/simply.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
