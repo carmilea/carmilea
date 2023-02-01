@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Ubuntu security patches are now behind &#39;Ubuntu Pro&#39;, a paid product](https://cloudisland.nz/@drV/109786183082845131)
+- [Prime Voice AI: The most realistic and versatile AI speech software](https://beta.elevenlabs.io/)
+- [Write Simply](http://www.paulgraham.com/simply.html)
+- [Ask HN: Are ChatGPT answers getting worse for anyone else?](https://news.ycombinator.com/item?id=34606160)
 - [GraphGPT: Extrapolating knowledge graphs from unstructured text](https://github.com/varunshenoy/GraphGPT)
-- [Intel Cuts Employee Pay to Maintain Quarterly Dividend](https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep)
-- [Tablevibe &lpar;YC S21&rpar; hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
-- [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
+- [Is remote work bad for the economy?](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
