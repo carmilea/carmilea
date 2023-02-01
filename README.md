@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Easter egg in flight path of last 747 delivery flight](https://www.flightradar24.com/GTI747/2f0b1162)
-- [Go 1.20 released](https://go.dev/doc/go1.20)
-- [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
-- [Release engineering is exhausting so here&#39;s cargo-dist](https://blog.axo.dev/2023/02/cargo-dist)
-- [Same.energy: Image Search by Similarity](https://same.energy)
+- [Ask HN: Does the HN commentariat have a reductive view of what a human being is?](https://news.ycombinator.com/item?id=34618404)
+- [Princeton CS Prof: ChatGPT Is a Bullshit Generator &lpar;2022&rpar;](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
+- [We need less powerful languages &lpar;2015&rpar;](https://lukeplant.me.uk/blog/posts/less-powerful-languages/)
+- [Meta Reports Fourth Quarter and Full Year 2022 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx)
+- [Glen Canyon Revealed](https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
