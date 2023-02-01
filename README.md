@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dassault Rafale vs. F-35](https://historyandwar.org/2015/09/11/dassault-rafale-vs-f-35/)
+- [Ask HN: Reject/ghost on all job applications with 8 YoE, what am I doing wrong?](https://news.ycombinator.com/item?id=34609741)
+- [BioGPT: A Language Model Pre-Trained on Large-Scale Biomedical Literature](https://www.marktechpost.com/2023/01/31/microsoft-research-proposes-biogpt-a-domain-specific-generative-transformer-language-model-pre-trained-on-large-scale-biomedical-literature/)
+- [Stable Diffusion found to emit some images from training at generation time](https://twitter.com/Eric_Wallace_/status/1620449934863642624)
 - [A URL shortener not shortening the URL but makes it look very dodgy](https://github.com/defaultnamehere/verylegit.link)
-- [Do We Live in a Society Without a Counterculture?](https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a)
-- [Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg](https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html)
-- [Tiny radioactive capsule lost in Australian outback found](https://www.theguardian.com/australia-news/2023/feb/01/tiny-radioactive-capsule-lost-in-australian-outback-found-by-side-of-1400km-stretch-of-road)
-- [I&#39;ve had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
