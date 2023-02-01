@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Ship the Most Code on Friday](https://blog.railway.app/p/ship-on-friday)
+- [Tablevibe &lpar;YC S21&rpar; hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
+- [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
+- [Concordia students set to launch most powerful rocket developed by civilians](https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html)
 - [Image Matching in SQL With SingleStoreDB](https://www.singlestore.com/blog/image-matching-in-sql-with-singlestoredb/)
-- [Ask HN: How do you test SQL?](https://news.ycombinator.com/item?id=34602318)
-- [Modernizing C arrays for greater memory safety: a case study in the Linux kernel](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
-- [Snap Quarterly Results Q4 2022 [pdf]](https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf)
+- [Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri](https://github.com/TunnlTo/desktop-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
