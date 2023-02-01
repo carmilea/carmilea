@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words](https://gptminus1.vercel.app/)
 - [Prime Voice AI: The most realistic and versatile AI speech software](https://beta.elevenlabs.io/)
-- [Write Simply](http://www.paulgraham.com/simply.html)
-- [Ask HN: Are ChatGPT answers getting worse for anyone else?](https://news.ycombinator.com/item?id=34606160)
+- [Write simply &lpar;2021&rpar;](http://www.paulgraham.com/simply.html)
 - [GraphGPT: Extrapolating knowledge graphs from unstructured text](https://github.com/varunshenoy/GraphGPT)
 - [Is remote work bad for the economy?](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
 <!-- BLOG-POST-LIST:END -->
