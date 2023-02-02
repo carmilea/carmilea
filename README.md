@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For police PR flacks, quack lives matter](https://radleybalko.substack.com/p/for-police-pr-flaks-quack-lives-matter)
 - [AI Generated Seinfeld runs 24/7 on Twitch](https://www.twitch.tv/watchmeforever)
+- [Some insects I found inside dried Turkish figs from Trader Joe’s](https://colinpurrington.com/2023/01/some-insects-i-found-inside-dried-turkish-figs-from-trader-joes/)
 - [S.F. apartment rents fell again](https://www.sfchronicle.com/sf/article/s-f-apartment-rents-fell-again-tech-layoffs-17757376.php)
 - [Show HN: AI Cover Letter Writer](https://tally.work/)
-- [Bethesda’s Redfall needs to be online for single-player mode](https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/)
-- [Google layoffs Jan 20, 2023 – California WARN public records](https://airtable.cool/shrF23JdDHMQ3QDyw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
