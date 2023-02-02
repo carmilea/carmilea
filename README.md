@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dashworks &lpar;YC W20&rpar; Is Hiring a Full-Stack Product Engineer](https://jobs.ashbyhq.com/Dashworks/39df4de8-c120-4317-8bde-3fa19fd6e3e0)
+- [I own porn I can&#39;t watch. &lpar;Cartrivison video tape format&rpar;](https://foone.tumblr.com/post/705446706461949953/fun-fact-i-own-porn-i-cant-watch)
+- [Ask HN: Suggestions for working effectively with junior devs at FAANG](https://news.ycombinator.com/item?id=34628933)
 - [Play Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers)
 - [AI is coming to Hollywood with Metaphysic](https://metaphysic.ai/ai-hollywood-miramax-here/)
-- [Will walled gardens rule VR?](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
-- [Chat GPT is the birth of the real Web 3.0, and it&#39;s not going to be fun](https://lajili.com/posts/post-2/)
-- [Ask HN: How are you handling Section 174 changes for bootstrapped companies?](https://news.ycombinator.com/item?id=34627712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
