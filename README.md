@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oil giant Shell posts highest-ever annual profit of $40B](https://www.cnbc.com/2023/02/02/shell-earnings-oil-giant-reports-record-annual-profits.html)
+- [Meta Was Scraping Sites for Years While Fighting the Practice](https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice)
 - [How to find a tiny radioactive source while doing 70 kph](https://www.ansto.gov.au/news/wa-outback-proves-no-match-for-aussie-nuclear-know-how)
 - [Anki and GPT-3](https://andrewjudson.com/spaced-repetition/2023/02/01/anki-chrome.html)
 - [Ask HN: Who needs beta testers? &lpar;February 2023&rpar;](https://news.ycombinator.com/item?id=34622877)
