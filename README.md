@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [WiFi: “beamforming” only begins to describe it &lpar;2014&rpar;](https://apenwarr.ca/log/20140801)
 - [Bay 12 Games has made $7M from the Steam release of Dwarf Fortress](http://www.bay12forums.com/smf/index.php?topic=181354.0)
+- [Reimagining cities in a few simple questions](https://seths.blog/2023/02/reimagining-cities-in-a-few-simple-questions/)
 - [How to make YouTube less distracting](https://josem.co/how-to-make-youtube-less-distracting/)
 - [Meta Was Scraping Sites for Years While Fighting the Practice](https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice)
-- [tcpdump is amazing &lpar;2016&rpar;](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
