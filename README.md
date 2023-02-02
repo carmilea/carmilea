@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Write Less](https://mattgemmell.scot/write-less/)
+- [OpenVPN 2.6](https://forums.openvpn.net/viewtopic.php?t=35260)
+- [Wine 8.1](https://www.winehq.org/announce/8.1)
+- [Apple Reports First Quarter Results](https://www.apple.com/newsroom/2023/02/apple-reports-first-quarter-results/)
 - [Alphabet Announces Fourth Quarter and Fiscal Year 2022 Results](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b)
-- [Paperspace &lpar;YC W15&rpar; Is Hiring an Engineering Manager – AI Cloud](https://www.paperspace.com/careers)
-- [Tether ownership and company weaknesses revealed in documents](https://www.wsj.com/articles/tether-ownership-and-company-weaknesses-revealed-in-documents-11675363340)
-- [Ask HN: Recruiters have stopped contacting me? What could have happened?](https://news.ycombinator.com/item?id=34632743)
-- [Trey Parker and Matt Stone’s deep fake company announces $20M investment](https://www.deepvoodoo.com/press/trey-parker-and-matt-stones-deep-fake-company-deep-voodoo-announces-20-million-investment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
