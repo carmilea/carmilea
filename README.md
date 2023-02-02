@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make YouTube less distracting](https://josem.co/how-to-make-youtube-less-distracting/)
 - [Meta Was Scraping Sites for Years While Fighting the Practice](https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice)
+- [tcpdump is amazing &lpar;2016&rpar;](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 - [How to find a tiny radioactive source while doing 70 kph](https://www.ansto.gov.au/news/wa-outback-proves-no-match-for-aussie-nuclear-know-how)
-- [Anki and GPT-3](https://andrewjudson.com/spaced-repetition/2023/02/01/anki-chrome.html)
-- [Ask HN: Who needs beta testers? &lpar;February 2023&rpar;](https://news.ycombinator.com/item?id=34622877)
-- [For police PR flacks, quack lives matter](https://radleybalko.substack.com/p/for-police-pr-flaks-quack-lives-matter)
+- [C was not created as an abstract machine](https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
