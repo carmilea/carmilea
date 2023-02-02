@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anki and GPT-3](https://andrewjudson.com/spaced-repetition/2023/02/01/anki-chrome.html)
+- [Ask HN: Who needs beta testers? &lpar;February 2023&rpar;](https://news.ycombinator.com/item?id=34622877)
 - [For police PR flacks, quack lives matter](https://radleybalko.substack.com/p/for-police-pr-flaks-quack-lives-matter)
-- [AI Generated Seinfeld runs 24/7 on Twitch](https://www.twitch.tv/watchmeforever)
-- [Some insects I found inside dried Turkish figs from Trader Joe’s](https://colinpurrington.com/2023/01/some-insects-i-found-inside-dried-turkish-figs-from-trader-joes/)
-- [S.F. apartment rents fell again](https://www.sfchronicle.com/sf/article/s-f-apartment-rents-fell-again-tech-layoffs-17757376.php)
-- [Show HN: AI Cover Letter Writer](https://tally.work/)
+- [Stop Developing This Technology](https://github.com/iperov/DeepFaceLive/issues/41)
+- [Ask HN: How do you plan on making money with Open AI API?](https://news.ycombinator.com/item?id=34622355)
 <!-- BLOG-POST-LIST:END -->
 
 ---
