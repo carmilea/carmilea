@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Less](https://mattgemmell.scot/write-less/)
-- [OpenVPN 2.6](https://forums.openvpn.net/viewtopic.php?t=35260)
+- [TouchHLE: An iOS 2.0 App Emulator](https://touchhle.org)
+- [The search for extraterrestrial life as we don’t know it](https://www.scientificamerican.com/article/the-search-for-extraterrestrial-life-as-we-dont-know-it/)
+- [I’m Now a Full-Time Professional Open Source Maintainer](https://words.filippo.io/full-time-maintainer/)
 - [Wine 8.1](https://www.winehq.org/announce/8.1)
-- [Apple Reports First Quarter Results](https://www.apple.com/newsroom/2023/02/apple-reports-first-quarter-results/)
-- [Alphabet Announces Fourth Quarter and Fiscal Year 2022 Results](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b)
+- [The Muppets’ many spiritual insights](https://therevealer.org/muppet-religion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
