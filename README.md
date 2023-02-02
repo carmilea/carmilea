@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft shows full-screen Windows 11 upgrade ads with two &#39;yes&#39; buttons](https://www.neowin.net/news/microsoft-reportedly-shows-full-screen-windows-11-upgrade-ads-with-two-yes-buttons/)
+- [Google layoffs Jan 20, 2023 – California WARN public records](https://airtable.cool/shrF23JdDHMQ3QDyw)
+- [Infinite partial sumsets in the primes](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
 - [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
-- [David MacKay: Information Theory, Inference, and Learning Algorithms: The Book](https://inference.org.uk/itila/book.html)
-- [Ask HN: Does the HN commentariat have a reductive view of what a human being is?](https://news.ycombinator.com/item?id=34618404)
-- [Princeton CS Prof: ChatGPT Is a Bullshit Generator &lpar;2022&rpar;](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
+- [Information Theory, Inference, and Learning Algorithms &lpar;2003&rpar;](https://inference.org.uk/itila/book.html)
+- [ChatGPT is a bullshit generator but it can still be amazingly useful](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
 <!-- BLOG-POST-LIST:END -->
 
 ---
