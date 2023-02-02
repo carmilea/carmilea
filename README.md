@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet Announces Fourth Quarter and Fiscal Year 2022 Results](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b)
+- [Paperspace &lpar;YC W15&rpar; Is Hiring an Engineering Manager – AI Cloud](https://www.paperspace.com/careers)
+- [Tether ownership and company weaknesses revealed in documents](https://www.wsj.com/articles/tether-ownership-and-company-weaknesses-revealed-in-documents-11675363340)
+- [Ask HN: Recruiters have stopped contacting me? What could have happened?](https://news.ycombinator.com/item?id=34632743)
 - [Trey Parker and Matt Stone’s deep fake company announces $20M investment](https://www.deepvoodoo.com/press/trey-parker-and-matt-stones-deep-fake-company-deep-voodoo-announces-20-million-investment)
-- [Git archive generation meets Hyrum&#39;s law](https://lwn.net/SubscriberLink/921787/949cf79f2599f734/)
-- [Show HN: Minimalist Blogging Platform](https://notepin.co)
-- [Math breakdown: Anime homing missiles](https://blog.littlepolygon.com/posts/missile/)
-- [The following security updates require Ubuntu Pro with ‘esm-apps’ enabled](https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
