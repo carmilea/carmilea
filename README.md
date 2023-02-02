@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Our Hearts Sing](https://daringfireball.net/2023/02/making_our_hearts_sing)
+- [Bethesda’s Redfall needs to be online for single-player mode](https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/)
 - [Google layoffs Jan 20, 2023 – California WARN public records](https://airtable.cool/shrF23JdDHMQ3QDyw)
 - [Microsoft Teams Premium: powered by OpenAI’s GPT-3.5](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/)
 - [Infinite partial sumsets in the primes](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
-- [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
-- [Information Theory, Inference, and Learning Algorithms &lpar;2003&rpar;](https://inference.org.uk/itila/book.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
