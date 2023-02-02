@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trey Parker and Matt Stone’s deep fake company announces $20M investment](https://www.deepvoodoo.com/press/trey-parker-and-matt-stones-deep-fake-company-deep-voodoo-announces-20-million-investment)
+- [Git archive generation meets Hyrum&#39;s law](https://lwn.net/SubscriberLink/921787/949cf79f2599f734/)
+- [Show HN: Minimalist Blogging Platform](https://notepin.co)
+- [Math breakdown: Anime homing missiles](https://blog.littlepolygon.com/posts/missile/)
 - [The following security updates require Ubuntu Pro with ‘esm-apps’ enabled](https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492)
-- [Show HN: Groundhog-day.com – structured groundhog data](https://groundhog-day.com)
-- [Dashworks &lpar;YC W20&rpar; Is Hiring a Full-Stack Product Engineer](https://jobs.ashbyhq.com/Dashworks/39df4de8-c120-4317-8bde-3fa19fd6e3e0)
-- [Fun Fact: I own porn I can&#39;t watch](https://foone.tumblr.com/post/705446706461949953/fun-fact-i-own-porn-i-cant-watch)
-- [Ask HN: Suggestions for working effectively with junior devs at FAANG](https://news.ycombinator.com/item?id=34628933)
 <!-- BLOG-POST-LIST:END -->
 
 ---
