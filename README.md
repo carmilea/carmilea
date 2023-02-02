@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The following security updates require Ubuntu Pro with ‘esm-apps’ enabled](https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492)
+- [Ask HN: Do you care about your HN karma?](https://news.ycombinator.com/item?id=34630024)
+- [When Americans Lost Faith in the News](https://www.newyorker.com/magazine/2023/02/06/when-americans-lost-faith-in-the-news)
 - [Dashworks &lpar;YC W20&rpar; Is Hiring a Full-Stack Product Engineer](https://jobs.ashbyhq.com/Dashworks/39df4de8-c120-4317-8bde-3fa19fd6e3e0)
-- [I own porn I can&#39;t watch. &lpar;Cartrivison video tape format&rpar;](https://foone.tumblr.com/post/705446706461949953/fun-fact-i-own-porn-i-cant-watch)
-- [Ask HN: Suggestions for working effectively with junior devs at FAANG](https://news.ycombinator.com/item?id=34628933)
-- [Play Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers)
-- [AI is coming to Hollywood with Metaphysic](https://metaphysic.ai/ai-hollywood-miramax-here/)
+- [Fun Fact: I own porn I can&#39;t watch](https://foone.tumblr.com/post/705446706461949953/fun-fact-i-own-porn-i-cant-watch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
