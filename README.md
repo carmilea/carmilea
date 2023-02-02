@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Looking for advice on my situation at work?](https://news.ycombinator.com/item?id=34626773)
 - [Stop the proposal on mass surveillance of the EU](https://mullvad.net/nl/blog/2023/2/2/stop-the-proposal-on-mass-surveillance-of-the-eu/)
 - [Google&#39;s OSS-Fuzz expands fuzz-reward program to $30000](https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html)
 - [Connecticut Parents Arrested for Letting Kids Walk to Dunkin&#39; Donuts](https://reason.com/2023/01/30/dunkin-donuts-parents-arrested-kids-cops-freedom/)
-- [Nobody Expects the Spanish Arbitration](https://www.ft.com/content/c7f12d55-2d54-4b87-ae28-65f080f63c29)
 - [QOA, the Quite OK Audio Format](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 <!-- BLOG-POST-LIST:END -->
 
