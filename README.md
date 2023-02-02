@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oil giant Shell posts highest-ever annual profit of $40B](https://www.cnbc.com/2023/02/02/shell-earnings-oil-giant-reports-record-annual-profits.html)
+- [How to find a tiny radioactive source while doing 70 kph](https://www.ansto.gov.au/news/wa-outback-proves-no-match-for-aussie-nuclear-know-how)
 - [Anki and GPT-3](https://andrewjudson.com/spaced-repetition/2023/02/01/anki-chrome.html)
 - [Ask HN: Who needs beta testers? &lpar;February 2023&rpar;](https://news.ycombinator.com/item?id=34622877)
 - [For police PR flacks, quack lives matter](https://radleybalko.substack.com/p/for-police-pr-flaks-quack-lives-matter)
-- [Stop Developing This Technology](https://github.com/iperov/DeepFaceLive/issues/41)
-- [Ask HN: How do you plan on making money with Open AI API?](https://news.ycombinator.com/item?id=34622355)
 <!-- BLOG-POST-LIST:END -->
 
 ---
