@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ronin 2.0 – open-source Ruby toolkit for security research and development](https://ronin-rb.dev/blog/2023/02/01/ronin-2-0-0-finally-released.html)
-- [WiFi: “beamforming” only begins to describe it &lpar;2014&rpar;](https://apenwarr.ca/log/20140801)
-- [Bay 12 Games has made $7M from the Steam release of Dwarf Fortress](http://www.bay12forums.com/smf/index.php?topic=181354.0)
-- [Show HN: Serverpod – The Missing Server for Flutter](https://serverpod.dev/)
-- [Meta was scraping sites for years while fighting the practice](https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice)
+- [Stop the proposal on mass surveillance of the EU](https://mullvad.net/nl/blog/2023/2/2/stop-the-proposal-on-mass-surveillance-of-the-eu/)
+- [Google&#39;s OSS-Fuzz expands fuzz-reward program to $30000](https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html)
+- [Connecticut Parents Arrested for Letting Kids Walk to Dunkin&#39; Donuts](https://reason.com/2023/01/30/dunkin-donuts-parents-arrested-kids-cops-freedom/)
+- [Nobody Expects the Spanish Arbitration](https://www.ft.com/content/c7f12d55-2d54-4b87-ae28-65f080f63c29)
+- [QOA, the Quite OK Audio Format](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 <!-- BLOG-POST-LIST:END -->
 
 ---
