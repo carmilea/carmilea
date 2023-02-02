@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Looking for advice on my situation at work?](https://news.ycombinator.com/item?id=34626773)
-- [Stop the proposal on mass surveillance of the EU](https://mullvad.net/nl/blog/2023/2/2/stop-the-proposal-on-mass-surveillance-of-the-eu/)
-- [Google&#39;s OSS-Fuzz expands fuzz-reward program to $30000](https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html)
-- [Connecticut Parents Arrested for Letting Kids Walk to Dunkin&#39; Donuts](https://reason.com/2023/01/30/dunkin-donuts-parents-arrested-kids-cops-freedom/)
-- [QOA, the Quite OK Audio Format](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
+- [Play Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers)
+- [AI is coming to Hollywood with Metaphysic](https://metaphysic.ai/ai-hollywood-miramax-here/)
+- [Will walled gardens rule VR?](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
+- [Chat GPT is the birth of the real Web 3.0, and it&#39;s not going to be fun](https://lajili.com/posts/post-2/)
+- [Ask HN: How are you handling Section 174 changes for bootstrapped companies?](https://news.ycombinator.com/item?id=34627712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
