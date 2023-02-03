@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESA – Space Suit Design Competition](https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b)
+- [New Universal Summarizer by Kagi](https://labs.kagi.com/ai/sum)
+- [Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data](https://github.com/orlp/glidesort)
 - [Show HN: Talk to GPT-3 through Siri](https://news.ycombinator.com/item?id=34646178)
-- [Free Code Tools](https://freecodetools.org/)
-- [Show HN: Makejinja: Automatically generate complex Home Assistant configurations](https://github.com/mirkolenz/makejinja)
 - [The golden era of being an open startup is gone](https://testimonial.to/resources/the-golden-era-of-being-an-open-startup-is-gone)
-- [The Future &lpar;and the Past&rpar; of the Web Is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
