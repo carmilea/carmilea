@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Code Tools](https://freecodetools.org/)
+- [The golden era of being an open startup is gone](https://testimonial.to/resources/the-golden-era-of-being-an-open-startup-is-gone)
+- [The Future &lpar;and the Past&rpar; of the Web Is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
+- [Want anonymity? Make a persona not a mystery](https://sive.rs/anon)
 - [Agave &lpar;YC W22&rpar; – Founding Dev – 1-3 Yrs Exp. – Full-Time – On-Site &lpar;SF&rpar;](https://news.ycombinator.com/item?id=34643929)
-- [The pool of talented C++ developers is running dry](https://www.efinancialcareers.com/news/finance/why-is-there-a-drought-in-the-talent-pool-for-c-developers)
-- [Flutter Desktop Isn&#39;t There Yet](https://plei.one/blog/flutter-desktop-not-there-yet/)
-- [Wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app/)
-- [The Fertilizer Shortage Will Persist in 2023](https://modernfarmer.com/2022/12/the-fertilizer-shortage-will-persist-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
