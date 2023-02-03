@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Small SaaS banned by Cloudflare after 4 years of being paying customer](https://news.ycombinator.com/item?id=34639212)
+- [Improving Rust compile times to enable adoption of memory safety](https://www.memorysafety.org/blog/remy-rakic-compile-times/)
 - [Blink virtual machine now supports running GUI programs](https://twitter.com/JustineTunney/status/1621415193296388096)
 - [Against risk-based authentication &lpar;or, why I wouldn&#39;t trust Google Cloud&rpar;](https://www.devever.net/~hl/logindenial)
 - [John Carmack’s ‘Different Path’ to Artificial General Intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
-- [Microbes are &#39;active engineers&#39; in Earth&#39;s rock-to-life cycle](https://phys.org/news/2023-02-microbes-earth-rock-to-life.html)
-- [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
