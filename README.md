@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exclusive Q&amp;A John Carmack’s ‘Different Path’ to Artificial General Intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
 - [Alphabet’s Profit Falls 34% &lpar;fourth consecutive drop&rpar; Amid Ads Slowdown](https://www.nytimes.com/2023/02/02/technology/alphabet-earnings.html)
 - [Microbes are &#39;active engineers&#39; in Earth&#39;s rock-to-life cycle](https://phys.org/news/2023-02-microbes-earth-rock-to-life.html)
 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 - [Astrée Static Analyzer for C and C++](https://www.absint.com/astree/index.htm)
-- [DeepSource &lpar;YC W20&rpar; is looking for a Senior Front-end engineer](https://deepsource.io/jobs/listing/senior-software-engineer-frontend/4788400004/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
