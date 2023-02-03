@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TouchHLE: An iOS 2.0 App Emulator](https://touchhle.org)
-- [The search for extraterrestrial life as we don’t know it](https://www.scientificamerican.com/article/the-search-for-extraterrestrial-life-as-we-dont-know-it/)
-- [I’m Now a Full-Time Professional Open Source Maintainer](https://words.filippo.io/full-time-maintainer/)
-- [Wine 8.1](https://www.winehq.org/announce/8.1)
-- [The Muppets’ many spiritual insights](https://therevealer.org/muppet-religion/)
+- [Show HN: An API for Pix2Pix: Edit Images with Text Prompts](https://www.leapml.dev/)
+- [DeepSource &lpar;YC W20&rpar; is looking for a Senior Front-end engineer](https://deepsource.io/jobs/listing/senior-software-engineer-frontend/4788400004/)
+- [Show HN: I trained an AI model on 120M+ songs from iTunes](https://maroofy.com/?hn=v3)
+- [Show HN: I turned my microeconomics textbook into a chatbot with GPT-3](https://www.konjer.xyz/microeconomics)
+- [Seawater electrolysis by adjusting the local reaction environment of a catalyst](https://www.nature.com/articles/s41560-023-01195-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
