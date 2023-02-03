@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Talk to GPT-3 through Siri](https://news.ycombinator.com/item?id=34646178)
 - [Free Code Tools](https://freecodetools.org/)
+- [Show HN: Makejinja: Automatically generate complex Home Assistant configurations](https://github.com/mirkolenz/makejinja)
 - [The golden era of being an open startup is gone](https://testimonial.to/resources/the-golden-era-of-being-an-open-startup-is-gone)
 - [The Future &lpar;and the Past&rpar; of the Web Is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
-- [Want anonymity? Make a persona not a mystery](https://sive.rs/anon)
-- [Agave &lpar;YC W22&rpar; – Founding Dev – 1-3 Yrs Exp. – Full-Time – On-Site &lpar;SF&rpar;](https://news.ycombinator.com/item?id=34643929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
