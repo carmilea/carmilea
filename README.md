@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. added 517,000 jobs in January, much better than 187,000 expected](https://www.cnbc.com/2023/02/03/jobs-report-january-2023-.html)
-- [Astonishingly strong US jobs report sends stocks sinking](https://www.cnn.com/business/live-news/stock-market-news-today-jobs-2323/index.html)
-- [Until further notice, think twice before using Google to download software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/)
-- [Amazon reports its first unprofitable year since 2014](https://www.npr.org/2023/02/02/1153562994/amazon-reports-its-first-unprofitable-year-since-2014)
-- [How to Paint Like Hayao Miyazaki](https://animationobsessive.substack.com/p/how-to-paint-like-hayao-miyazaki)
+- [Ask HN: Will you be paying for ChatGPT+?](https://news.ycombinator.com/item?id=34642912)
+- [The Fertilizer Shortage Will Persist in 2023](https://modernfarmer.com/2022/12/the-fertilizer-shortage-will-persist-in-2023/)
+- [State Farm says 105 Kia, Hyundai models ‘ineligible’ for new insurance in LA](https://www.nola.com/news/crime_police/kia-hyundai-models-ineligible-insurance-louisiana-state-farm-list/article_55fae098-a30d-11ed-afaa-5faa28983298.html)
+- [Companies save billions of dollars by giving employees fake “manager” titles](https://www.cbsnews.com/news/salary-manager-jobs-fake-titles-save-4-billion-overtime-nber/)
+- [Ask HN: What were the papers on the list Ilya Sutskever gave John Carmack?](https://news.ycombinator.com/item?id=34641359)
 <!-- BLOG-POST-LIST:END -->
 
 ---
