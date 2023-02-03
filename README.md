@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Firefox Is an awesome browser right now](https://news.ycombinator.com/item?id=34640350)
+- [Ask HN: Why do cameras stop recording after 30 minutes?](https://news.ycombinator.com/item?id=34640107)
 - [Tesorio Is Hiring a Sr DevOps and Product Manager. Join Our 100% Distributed Team](https://www.tesorio.com/careers#job-openings)
+- [Hand-Tracking with Three.js](https://rdtr01.xl.digital/)
 - [Show HN: DriftDB is an open source WebSocket backend for real-time apps](https://driftdb.com/)
-- [Small SaaS banned by Cloudflare after 4 years of being paying customer](https://news.ycombinator.com/item?id=34639212)
-- [Improving Rust compile times to enable adoption of memory safety](https://www.memorysafety.org/blog/remy-rakic-compile-times/)
-- [Blink virtual machine now supports running GUI programs](https://twitter.com/JustineTunney/status/1621415193296388096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
