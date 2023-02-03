@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is This Poison Ivy? A 55-Question Quiz](https://www.birdandmoon.com/poisonivy/)
+- [Update on Samsung SSD Reliability](https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/)
+- [I Bought a CO2 Monitor, and It Broke Me](https://www.theatlantic.com/health/archive/2023/02/carbon-dioxide-monitor-indoor-air-pollution-gas-stoves/672923/)
 - [Too Many Managers: The Strategic Use of Titles to Avoid Overtime Payments](https://www.nber.org/papers/w30826)
 - [ESA – Space Suit Design Competition](https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b)
-- [New Universal Summarizer by Kagi](https://labs.kagi.com/ai/sum)
-- [Effective Altruism Has a Toxic Culture of Sexual Harassment and Abuse](https://time.com/6252617/effective-altruism-sexual-harassment/)
-- [Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data](https://github.com/orlp/glidesort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
