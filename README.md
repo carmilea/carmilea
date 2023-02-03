@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S. added 517,000 jobs in January, much better than 187,000 expected](https://www.cnbc.com/2023/02/03/jobs-report-january-2023-.html)
+- [Astonishingly strong US jobs report sends stocks sinking](https://www.cnn.com/business/live-news/stock-market-news-today-jobs-2323/index.html)
+- [Until further notice, think twice before using Google to download software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/)
 - [Amazon reports its first unprofitable year since 2014](https://www.npr.org/2023/02/02/1153562994/amazon-reports-its-first-unprofitable-year-since-2014)
-- [Tell HN: Firefox Is an awesome browser right now](https://news.ycombinator.com/item?id=34640350)
-- [Tesorio Is Hiring a Sr DevOps and Product Manager. Join Our 100% Distributed Team](https://www.tesorio.com/careers#job-openings)
-- [Hand-Tracking with Three.js](https://rdtr01.xl.digital/)
-- [Google Manipulated Digital Ad Prices and Hurt Publishers, per DOJ](https://techpolicy.press/how-google-manipulated-digital-ad-prices-and-hurt-publishers-per-doj/)
+- [How to Paint Like Hayao Miyazaki](https://animationobsessive.substack.com/p/how-to-paint-like-hayao-miyazaki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
