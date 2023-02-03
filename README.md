@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon reports its first unprofitable year since 2014](https://www.npr.org/2023/02/02/1153562994/amazon-reports-its-first-unprofitable-year-since-2014)
 - [Tell HN: Firefox Is an awesome browser right now](https://news.ycombinator.com/item?id=34640350)
-- [Ask HN: Why do cameras stop recording after 30 minutes?](https://news.ycombinator.com/item?id=34640107)
 - [Tesorio Is Hiring a Sr DevOps and Product Manager. Join Our 100% Distributed Team](https://www.tesorio.com/careers#job-openings)
 - [Hand-Tracking with Three.js](https://rdtr01.xl.digital/)
-- [Show HN: DriftDB is an open source WebSocket backend for real-time apps](https://driftdb.com/)
+- [Google Manipulated Digital Ad Prices and Hurt Publishers, per DOJ](https://techpolicy.press/how-google-manipulated-digital-ad-prices-and-hurt-publishers-per-doj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
