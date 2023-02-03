@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Too Many Managers: The Strategic Use of Titles to Avoid Overtime Payments](https://www.nber.org/papers/w30826)
 - [ESA – Space Suit Design Competition](https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b)
 - [New Universal Summarizer by Kagi](https://labs.kagi.com/ai/sum)
+- [Effective Altruism Has a Toxic Culture of Sexual Harassment and Abuse](https://time.com/6252617/effective-altruism-sexual-harassment/)
 - [Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data](https://github.com/orlp/glidesort)
-- [Show HN: Talk to GPT-3 through Siri](https://news.ycombinator.com/item?id=34646178)
-- [The golden era of being an open startup is gone](https://testimonial.to/resources/the-golden-era-of-being-an-open-startup-is-gone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
