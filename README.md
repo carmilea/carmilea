@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Will you be paying for ChatGPT+?](https://news.ycombinator.com/item?id=34642912)
+- [Agave &lpar;YC W22&rpar; – Founding Dev – 1-3 Yrs Exp. – Full-Time – On-Site &lpar;SF&rpar;](https://news.ycombinator.com/item?id=34643929)
+- [The pool of talented C++ developers is running dry](https://www.efinancialcareers.com/news/finance/why-is-there-a-drought-in-the-talent-pool-for-c-developers)
+- [Flutter Desktop Isn&#39;t There Yet](https://plei.one/blog/flutter-desktop-not-there-yet/)
+- [Wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app/)
 - [The Fertilizer Shortage Will Persist in 2023](https://modernfarmer.com/2022/12/the-fertilizer-shortage-will-persist-in-2023/)
-- [State Farm says 105 Kia, Hyundai models ‘ineligible’ for new insurance in LA](https://www.nola.com/news/crime_police/kia-hyundai-models-ineligible-insurance-louisiana-state-farm-list/article_55fae098-a30d-11ed-afaa-5faa28983298.html)
-- [Companies save billions of dollars by giving employees fake “manager” titles](https://www.cbsnews.com/news/salary-manager-jobs-fake-titles-save-4-billion-overtime-nber/)
-- [Ask HN: What were the papers on the list Ilya Sutskever gave John Carmack?](https://news.ycombinator.com/item?id=34641359)
 <!-- BLOG-POST-LIST:END -->
 
 ---
