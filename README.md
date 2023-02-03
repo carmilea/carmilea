@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Astrée Static Analyzer for C and C++](https://www.absint.com/astree/index.htm)
-- [Show HN: An API for Pix2Pix: Edit Images with Text Prompts](https://www.leapml.dev/)
 - [DeepSource &lpar;YC W20&rpar; is looking for a Senior Front-end engineer](https://deepsource.io/jobs/listing/senior-software-engineer-frontend/4788400004/)
 - [Show HN: I trained an AI model on 120M+ songs from iTunes](https://maroofy.com/?hn=v3)
 - [Seawater electrolysis by adjusting the local reaction environment of a catalyst](https://www.nature.com/articles/s41560-023-01195-x)
+- [An obituary for the man who saved North Carolina from Nuclear Disaster](https://www.ncrabbithole.com/p/jack-revelle-goldsboro-nc-broken-arrow-obituary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
