@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Air-to-Air Heat Exchangers for Healthier Energy-Efficient Homes](https://www.ndsu.edu/agriculture/extension/publications/air-air-heat-exchangers-healthier-energy-efficient-homes)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring in Vienna &lpar;Austria&rpar;](https://bitmovin.com/careers/)
 - [Solving the cube root of 19,683 mentally](https://www.nigamanth.com/blog/2023/cube-roots-trick.html)
-- [AMD Killed the Itanium](https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium)
+- [AMD Killed the Itanium &lpar;2005&rpar;](https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium)
 - [Expected changes with Dropbox for macOS](https://help.dropbox.com/installs/macos-support-for-expected-changes)
-- [Rewrite, refactor, or reinvent? Lessons from 6 software rewrite stories &lpar;2019&rpar;](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
