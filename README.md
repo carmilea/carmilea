@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mesa 23.1 Includes Asahi Linux Gallium3D Driver Progress](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/20835)
+- [A Solar Kiln to dry wood. Overview, design and build &lpar;2019&rpar;](https://www.adrianpreda.com/blog/solar-kiln)
+- [Understanding the limits of large language models](https://inorris.com/Blog/GPT/)
 - [Patterns &lpar;YC S21&rpar; is hiring to build the best AI app dev platform](https://www.ycombinator.com/companies/patterns)
-- [LVFS – Linux Vendor Firmware Service](https://fwupd.org)
-- [Colombian judge used ChatGPT to make court decision](https://www.vice.com/en/article/k7bdmv/judge-used-chatgpt-to-make-court-decision)
-- [Open Assistant – project meant to give everyone access to a great chat based LLM](https://github.com/LAION-AI/Open-Assistant)
-- [Open Assistant: Conversational AI for Everyone](https://open-assistant.io/)
+- [Mantis shrimp eyes](https://ryanblakeley.net/p/mantis-shrimp-eyes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
