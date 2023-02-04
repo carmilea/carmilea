@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Single Line of Code Brought Down a Half-Billion Euro Rocket Launch](https://jam.dev/blog/famous-bugs-rocket-launch/)
-- [43 Hours on the Amtrak Southwest Chief](https://www.0x58ed.com/blog/amtrak-southwest-chief)
-- [Is This Poison Ivy? A 55-Question Quiz](https://www.birdandmoon.com/poisonivy/)
-- [Last Year You Said Next Year – Linear](https://linear.app/change)
-- [Critique of the mind/body problem: it&#39;s not solvable](https://www.jsanilac.com/mind/)
+- [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
+- [Hustle bros are jumping on the AI bandwagon](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web)
+- [The KLF: Chaos, magic and the band who burned £1M](https://johnhiggs.com/books/the-klf/)
+- [A single line of code brought down a half-billion euro rocket launch](https://jam.dev/blog/famous-bugs-rocket-launch/)
+- [Show HN: Webapp.io - Free firecracker-based full-stack hosting](https://webapp.io/hosting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
