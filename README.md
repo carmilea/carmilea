@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you make pocket money out of ChatGPT?](https://news.ycombinator.com/item?id=34652658)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring in Vienna &lpar;Austria&rpar;](https://bitmovin.com/careers/)
 - [Solving the cube root of 19,683 mentally](https://www.nigamanth.com/blog/2023/cube-roots-trick.html)
-- [Wind chill on Mt. Washington NH minus 108, temp -46, wind 98 gusting 107](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)
+- [AMD Killed the Itanium](https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium)
 - [Expected changes with Dropbox for macOS](https://help.dropbox.com/installs/macos-support-for-expected-changes)
-- [The Linux Upskill Challenge](https://theleo.zone/posts/linux-upskill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
