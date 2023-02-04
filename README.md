@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Colombian judge used ChatGPT to make court decision](https://www.vice.com/en/article/k7bdmv/judge-used-chatgpt-to-make-court-decision)
+- [Open Assistant – project meant to give everyone access to a great chat based LLM](https://github.com/LAION-AI/Open-Assistant)
+- [Open Assistant: Conversational AI for Everyone](https://open-assistant.io/)
 - [De-Bloated Windows 11 Build Runs on 2GB of RAM](https://www.tomshardware.com/news/tiny11-lean-windows-11)
-- [Astronomers uncover a one-in-ten-billion binary star system](https://www.sciencedaily.com/releases/2023/02/230201134112.htm)
-- [The War for Iron](https://www.science.org/content/blog-post/war-iron)
-- [The plateauing of cognitive ability among top earners](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcac076/7008955)
-- [MIT engineers develop a new way to remove carbon dioxide from air &lpar;2019&rpar;](https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025)
+- [Protocol Labs is laying off 21% of staff &lpar;89 people&rpar;](https://protocol.ai/blog/2023-02-03-crypto-winter-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
