@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The War for Iron](https://www.science.org/content/blog-post/war-iron)
+- [Deploy your own GPT-3 API with Docker and fly](https://github.com/queercat/gpt-api-docker)
+- [The plateauing of cognitive ability among top earners](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcac076/7008955)
+- [MIT engineers develop a new way to remove carbon dioxide from air](https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025)
 - [ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors](https://eitherway.io/posts/esp32-buyers-guide/)
-- [Ask HN: What can you do or learn to experience a better love life?](https://news.ycombinator.com/item?id=34653505)
-- [2000 Years of Matrix Multiplication](https://mathshistory.st-andrews.ac.uk/HistTopics/Matrices_and_determinants/)
-- [Helping mentally ill people in the Philippines &lpar;2022&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2022-10%2Fmental-illness-poverty-climate-change-lyra-verzosa)
-- [Everything You Can’t Have](https://collabfund.com/blog/everything-you-cant-have/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
