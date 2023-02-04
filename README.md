@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are you tired of reading ChatGPT headlines?](https://news.ycombinator.com/item?id=34657854)
+- [Bank of England and Treasury think UK is &#39;likely&#39; to need digital currency](https://www.reuters.com/world/uk/boe-treasury-think-uk-is-likely-need-digital-currency-telegraph-2023-02-04/)
+- [Go-like channels in 10 lines of JavaScript](https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript)
 - [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
 - [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
 - [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
-- [I hired 5 people to sit behind me and make me productive for a month](https://simonberens.me/blog/i-hired-5-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
