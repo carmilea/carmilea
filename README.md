@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalability Is Overrated](https://waseem.substack.com/p/scalability-is-overrated)
-- [Libostree](https://ostreedev.github.io/ostree/)
-- [ChatGPT Passes Google Coding Interview for Level 3 Engineer with $183K Salary](https://www.pcmag.com/news/chatgpt-passes-google-coding-interview-for-level-3-engineer-with-183k-salary)
-- [Seawater split to produce green hydrogen](https://www.adelaide.edu.au/newsroom/news/list/2023/01/30/seawater-split-to-produce-green-hydrogen)
-- [Mesa 23.1 Includes Asahi Linux Gallium3D Driver Progress](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/20835)
+- [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
+- [I hired 5 people to sit behind me and make me productive for a month](https://simonberens.me/blog/i-hired-5-people)
+- [Study links adoption of EV with less air pollution and improved health](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
+- [Nostr.how – A Complete Guide to Nostr](https://www.nostr.how/)
+- [Polymode: Multiple Major Modes and How to Use SQL and Python in One Buffer](https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-sql-python-in-one-buffer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
