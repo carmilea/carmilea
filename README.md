@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Servo 2023 Roadmap](https://servo.org/blog/2023/02/03/servo-2023-roadmap/)
 - [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
 - [Hustle bros are jumping on the AI bandwagon](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web)
 - [The KLF: Chaos, magic and the band who burned £1M](https://johnhiggs.com/books/the-klf/)
 - [A single line of code brought down a half-billion euro rocket launch](https://jam.dev/blog/famous-bugs-rocket-launch/)
-- [Show HN: Webapp.io - Free firecracker-based full-stack hosting](https://webapp.io/hosting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
