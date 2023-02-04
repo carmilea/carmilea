@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scalability Is Overrated](https://waseem.substack.com/p/scalability-is-overrated)
+- [Libostree](https://ostreedev.github.io/ostree/)
+- [ChatGPT Passes Google Coding Interview for Level 3 Engineer with $183K Salary](https://www.pcmag.com/news/chatgpt-passes-google-coding-interview-for-level-3-engineer-with-183k-salary)
+- [Seawater split to produce green hydrogen](https://www.adelaide.edu.au/newsroom/news/list/2023/01/30/seawater-split-to-produce-green-hydrogen)
 - [Mesa 23.1 Includes Asahi Linux Gallium3D Driver Progress](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/20835)
-- [A Solar Kiln to dry wood. Overview, design and build &lpar;2019&rpar;](https://www.adrianpreda.com/blog/solar-kiln)
-- [Understanding the limits of large language models](https://inorris.com/Blog/GPT/)
-- [Patterns &lpar;YC S21&rpar; is hiring to build the best AI app dev platform](https://www.ycombinator.com/companies/patterns)
-- [Mantis shrimp eyes](https://ryanblakeley.net/p/mantis-shrimp-eyes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
