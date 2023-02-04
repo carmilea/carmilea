@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Expected changes with Dropbox for macOS](https://help.dropbox.com/installs/macos-support-for-expected-changes)
 - [The Linux Upskill Challenge](https://theleo.zone/posts/linux-upskill/)
+- [How Many PDP-11s? All the PDP-11s](https://www.youtube.com/watch?v=e0FXy1Mho3c)
 - [Servo 2023 Roadmap](https://servo.org/blog/2023/02/03/servo-2023-roadmap/)
-- [Why Did the Beatles Get So Many Bad Reviews?](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad)
-- [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
+- [Why did The Beatles get so many bad reviews?](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
