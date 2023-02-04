@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mental Illness: The Men Cry in the Dark &lpar;2022&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2022-10%2Fmental-illness-poverty-climate-change-lyra-verzosa)
 - [Air-to-Air Heat Exchangers for Healthier Energy-Efficient Homes](https://www.ndsu.edu/agriculture/extension/publications/air-air-heat-exchangers-healthier-energy-efficient-homes)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring in Vienna &lpar;Austria&rpar;](https://bitmovin.com/careers/)
 - [Solving the cube root of 19,683 mentally](https://www.nigamanth.com/blog/2023/cube-roots-trick.html)
 - [AMD Killed the Itanium &lpar;2005&rpar;](https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium)
-- [Expected changes with Dropbox for macOS](https://help.dropbox.com/installs/macos-support-for-expected-changes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
