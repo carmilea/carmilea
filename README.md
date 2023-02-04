@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring in Vienna &lpar;Austria&rpar;](https://bitmovin.com/careers/)
+- [Solving the cube root of 19,683 mentally](https://www.nigamanth.com/blog/2023/cube-roots-trick.html)
+- [Wind chill on Mt. Washington NH minus 108, temp -46, wind 98 gusting 107](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)
 - [Expected changes with Dropbox for macOS](https://help.dropbox.com/installs/macos-support-for-expected-changes)
 - [The Linux Upskill Challenge](https://theleo.zone/posts/linux-upskill/)
-- [How Many PDP-11s? All the PDP-11s](https://www.youtube.com/watch?v=e0FXy1Mho3c)
-- [Servo 2023 Roadmap](https://servo.org/blog/2023/02/03/servo-2023-roadmap/)
-- [Why did The Beatles get so many bad reviews?](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
