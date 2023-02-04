@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Are you tired of reading ChatGPT headlines?](https://news.ycombinator.com/item?id=34657854)
 - [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
 - [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
 - [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
 - [I hired 5 people to sit behind me and make me productive for a month](https://simonberens.me/blog/i-hired-5-people)
-- [Study links adoption of EV with less air pollution and improved health](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
