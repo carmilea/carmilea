@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jülich quantum computer solves protein puzzle](https://www.eurekalert.org/news-releases/977133)
+- [I&#39;m Going to Scale My Foot Up Your Ass &lpar;2008&rpar;](http://widgetsandshit.com/teddziuba/2008/04/im-going-to-scale-my-foot-up-y.html)
+- [Stride – Open-source C# Game Engine](https://www.stride3d.net/)
 - [Poline – esoteric color palette generator](https://meodai.github.io/poline/)
 - [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/)
-- [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
-- [Near-miss between FedEx and Southwest flights in Austin](https://twitter.com/winglets747/status/1622038080680038400)
-- [The cheapest flash microcontroller you can buy is actually an Arm Cortex-M0+](https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
