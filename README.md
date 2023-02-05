@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getty Images v. Stability AI – Complaint](https://copyrightlately.com/pdfviewer/getty-images-v-stability-ai-complaint/)
-- [FreeCAD Day 2023: Report and Continued Discussion](https://forum.freecad.org/viewtopic.php?t=75768)
-- [Don’t teach during code reviews](https://www.michaelagreiler.com/teach-during-code-reviews/)
-- [Ask HN: Employers, why do you want us back in the office?](https://news.ycombinator.com/item?id=34667411)
-- [What We Learned from Building GovSlack](https://slack.engineering/what-we-learned-from-building-govslack/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Finland’s most-wanted hacker nabbed in France](https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/)
+- [Liquid modernity? &lpar;2014&rpar;](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)
+- [Intel’s Dunnington: Core 2 Goes Dun Dun Dun](https://chipsandcheese.com/2023/02/05/intels-dunnington-core-2-goes-dun-dun-dun/)
+- [Ask HN: What made your startup fail?](https://news.ycombinator.com/item?id=34668624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
