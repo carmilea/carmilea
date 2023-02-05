@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker News, but Just ChatGPT](https://neontomo.com/play/chatgpt-news/)
 - [Near-miss between FedEx and Southwest flights in Austin](https://twitter.com/winglets747/status/1622038080680038400)
 - [The Cheapest Flash Microcontroller You Can Buy Is Actually an Arm Cortex-M0](https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/)
-- [The Market for Lemons -  Alex Russell on JS frontends](https://infrequently.org/2023/02/the-market-for-lemons/)
+- [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/)
 - [The Packing Chromatic Number of the Infinite Grid is 15: the story behind it](https://bsubercaseaux.github.io/blog/2023/packingchromatic/)
+- [Showering at the South Pole](https://brr.fyi/posts/showering-at-the-south-pole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
