@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mount Washington Records Coldest Wind Chill Ever](https://www.nytimes.com/2023/02/04/nyregion/mount-washington-cold-new-hampshire.html)
+- [I&#39;ve been told &lpar;many times&rpar; that “the good employees never get laid off”](https://twitter.com/d_feldman/status/1621767964533063681)
+- [The Market for Lemons -  Alex Russell on JS frontends](https://infrequently.org/2023/02/the-market-for-lemons/)
+- [Showering at the South Pole](https://brr.fyi/posts/showering-at-the-south-pole)
 - [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
 - [U.S. military shoots down suspected Chinese surveillance balloon](https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html)
-- [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
-- [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
 <!-- BLOG-POST-LIST:END -->
 
 ---
