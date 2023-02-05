@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Isn&#39;t ChatGPT unfair to the sources it scraped data from?](https://news.ycombinator.com/item?id=34664998)
-- [The founder of Teenage Engineering opens up to his creative space](https://scandinavianmind.com/feature/human-touch-interview-jesper-kouthoofd-teenage-engineering)
-- [C Port of Ken Thompson&#39;s Space Travel](https://github.com/mohd-akram/st)
-- [A patch to enable Windows Subsystem for Android to run on Windows 10](https://github.com/cinit/WSAPatch)
-- [Safe Foreign Callouts from Racket to Swift](https://defn.io/2023/02/04/racket-foreign-callouts-to-swift/)
+- [Longer Discussions in HN?](https://news.ycombinator.com/item?id=34665272)
+- [Minimum Viable Process](https://themarketplace.guide/minimum-viable-process)
+- [10 Years of Scala.js](https://www.scala-lang.org/blog-detail/2023/02/05/ten-years-of-scala-js.html)
+- [Debian Reference &lpar;2021&rpar;](https://www.debian.org/doc/manuals/debian-reference/index.en.html)
+- [Reimagining Matrices](http://conal.net/blog/posts/reimagining-matrices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
