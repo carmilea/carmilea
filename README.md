@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bank of England and Treasury think UK is &#39;likely&#39; to need digital currency](https://www.reuters.com/world/uk/boe-treasury-think-uk-is-likely-need-digital-currency-telegraph-2023-02-04/)
-- [Go-like channels in 10 lines of JavaScript](https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript)
+- [Mount Washington Records Coldest Wind Chill Ever](https://www.nytimes.com/2023/02/04/nyregion/mount-washington-cold-new-hampshire.html)
 - [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
+- [U.S. military shoots down suspected Chinese surveillance balloon](https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html)
 - [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
 - [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
 <!-- BLOG-POST-LIST:END -->
