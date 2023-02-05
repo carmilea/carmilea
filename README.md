@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Longer Discussions in HN?](https://news.ycombinator.com/item?id=34665272)
-- [Minimum Viable Process](https://themarketplace.guide/minimum-viable-process)
-- [10 Years of Scala.js](https://www.scala-lang.org/blog-detail/2023/02/05/ten-years-of-scala-js.html)
-- [Debian Reference &lpar;2021&rpar;](https://www.debian.org/doc/manuals/debian-reference/index.en.html)
-- [Reimagining Matrices](http://conal.net/blog/posts/reimagining-matrices)
+- [Ghost Boat with Garmin GPS Leads Father-Son Duo to Man Overboard](https://www.garmin.com/en-US/blog/marine/ghost-boat-with-garmin-gps-leads-father-son-duo-to-man-overboard/)
+- [NSA wooing thousands of laid-off Big Tech workers for spy agency&#39;s hiring spree](https://www.washingtontimes.com/news/2023/feb/3/nsa-wooing-thousands-laid-big-tech-workers-spy-age/)
+- [HSBC&#39;s Money Laundering Scandal](https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx)
+- [Ask HN: Longer Discussions in HN?](https://news.ycombinator.com/item?id=34665272)
+- [Minimum viable process](https://themarketplace.guide/minimum-viable-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
