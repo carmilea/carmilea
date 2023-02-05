@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Tweets no longer seem to be properly indexed by Google](https://news.ycombinator.com/item?id=34667114)
+- [Ask HN: Employers, why do you want us back in the office?](https://news.ycombinator.com/item?id=34667411)
+- [Ask HN: Share Your YouTube Channel](https://news.ycombinator.com/item?id=34667378)
 - [Gattaca is still pertinent 25 years later](https://www.nature.com/articles/s41588-022-01242-5)
+- [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft](https://news.ycombinator.com/item?id=34666777)
 - [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
-- [The Circumnavigators: Amateur radio balloons flying around the world](https://qrp-labs.com/circumnavigators.html)
-- [If you&#39;re happy with OpenBSD, probably any computer is good enough](http://muezza.ca/thoughts/openbsd_imac_g4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
