@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Coming AI Hackers](https://www.schneier.com/academic/archives/2021/04/the-coming-ai-hackers.html)
+- [Google Invests Almost $400M in ChatGPT Rival Anthropic](https://www.bloomberg.com/news/articles/2023-02-03/google-invests-almost-400-million-in-ai-startup-anthropic)
 - [Jülich quantum computer solves protein puzzle](https://www.eurekalert.org/news-releases/977133)
+- [Gen Z Netiquettes](https://manyonepercents.substack.com/p/productive-online-communication-gen-z)
 - [I&#39;m Going to Scale My Foot Up Your Ass &lpar;2008&rpar;](http://widgetsandshit.com/teddziuba/2008/04/im-going-to-scale-my-foot-up-y.html)
-- [Stride – Open-source C# Game Engine](https://www.stride3d.net/)
-- [Poline – esoteric color palette generator](https://meodai.github.io/poline/)
-- [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
