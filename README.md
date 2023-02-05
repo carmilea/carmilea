@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [The Circumnavigators: Amateur radio balloons flying around the world](https://qrp-labs.com/circumnavigators.html)
+- [US Physician Blasts &#39;Lucrative System of For-Profit Medicine&#39;](https://www.commondreams.org/news/physician-for-profit-healthcare)
+- [Build a Linux wireless router out of spare parts in 1998](http://www.rage.net/wireless/wireless_howto.html)
 - [Ghost Boat with Garmin GPS Leads Father-Son Duo to Man Overboard](https://www.garmin.com/en-US/blog/marine/ghost-boat-with-garmin-gps-leads-father-son-duo-to-man-overboard/)
-- [NSA wooing thousands of laid-off Big Tech workers for spy agency&#39;s hiring spree](https://www.washingtontimes.com/news/2023/feb/3/nsa-wooing-thousands-laid-big-tech-workers-spy-age/)
-- [HSBC&#39;s Money Laundering Scandal](https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx)
-- [Ask HN: Longer Discussions in HN?](https://news.ycombinator.com/item?id=34665272)
-- [Minimum viable process](https://themarketplace.guide/minimum-viable-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
