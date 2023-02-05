@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Tweets no longer seem to be properly indexed by Google](https://news.ycombinator.com/item?id=34667114)
+- [Gattaca is still pertinent 25 years later](https://www.nature.com/articles/s41588-022-01242-5)
 - [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
 - [The Circumnavigators: Amateur radio balloons flying around the world](https://qrp-labs.com/circumnavigators.html)
-- [US Physician Blasts &#39;Lucrative System of For-Profit Medicine&#39;](https://www.commondreams.org/news/physician-for-profit-healthcare)
-- [Build a Linux wireless router out of spare parts in 1998](http://www.rage.net/wireless/wireless_howto.html)
-- [Ghost Boat with Garmin GPS Leads Father-Son Duo to Man Overboard](https://www.garmin.com/en-US/blog/marine/ghost-boat-with-garmin-gps-leads-father-son-duo-to-man-overboard/)
+- [If you&#39;re happy with OpenBSD, probably any computer is good enough](http://muezza.ca/thoughts/openbsd_imac_g4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
