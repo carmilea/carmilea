@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A third place? I&#39;m not sure I even have a second anymore](http://muezza.ca/thoughts/second_place/)
-- [The Rise of Universities’ Diversity Bureaucrats &lpar;2018&rpar;](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
+- [Stable Attribution](https://www.stableattribution.com)
+- [The rise of universities’ diversity bureaucrats &lpar;2018&rpar;](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Artificial intelligence just lost a leader](https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/)
 - [Finland’s most-wanted hacker nabbed in France](https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/)
-- [Liquid modernity? &lpar;2014&rpar;](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
