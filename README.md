@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getty Images v. Stability AI – Complaint](https://copyrightlately.com/pdfviewer/getty-images-v-stability-ai-complaint/)
+- [FreeCAD Day 2023: Report and Continued Discussion](https://forum.freecad.org/viewtopic.php?t=75768)
+- [Don’t teach during code reviews](https://www.michaelagreiler.com/teach-during-code-reviews/)
 - [Ask HN: Employers, why do you want us back in the office?](https://news.ycombinator.com/item?id=34667411)
-- [Ask HN: Share Your YouTube Channel](https://news.ycombinator.com/item?id=34667378)
-- [Gattaca is still pertinent 25 years later](https://www.nature.com/articles/s41588-022-01242-5)
-- [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft](https://news.ycombinator.com/item?id=34666777)
-- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [What We Learned from Building GovSlack](https://slack.engineering/what-we-learned-from-building-govslack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
