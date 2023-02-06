@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTTD 13.0 Released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
+- [Did anyone else lose their marbles?](https://news.ycombinator.com/item?id=34673949)
 - [Path to a free, self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Curious Undisclosed Skylake Bug](https://outerproduct.net/trivial/2023-02-05_comp-dep.html)
 - [Ulugh Beg Observatory](https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory)
-- [Craft using an inertial mass reduction device](https://patents.google.com/patent/US10144532B2/en)
-- [QCVM: Bite-sized QuakeC VM written in C](https://github.com/JaycieErysdren/QCVM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
