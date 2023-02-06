@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I’m falling out of love with coding](https://news.ycombinator.com/item?id=34677194)
+- [Tell HN: DEI initiatives undermine the self esteem of PoC within a company](https://news.ycombinator.com/item?id=34677180)
 - [Dell to layoff 6,650 employees as demand for PCs plummets](https://www.theverge.com/2023/2/6/23587401/dell-employees-layoffs-tech-recession-falling-pc-laptop-sales)
 - [A Quick Guide to Mutt](https://srobb.net/mutt.html)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [How much can you get out of a $4 VPS?](https://alicegg.tech//2023/02/06/4dollar-vps.html)
-- [Why would a 21st century warplane shoot a balloon with a missile?](https://aviation.stackexchange.com/questions/97384/if-a-balloon-lies-within-gun-range-why-would-a-21st-century-warplane-shoot-it-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
