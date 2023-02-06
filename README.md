@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Politics became a matter of faith for many contemporary progressives](https://www.liberalpatriot.com/p/losing-our-religion)
+- [MythTV 33 Released – open-source all-in-one DVR](https://www.mythtv.org/wiki/Release_Notes_-_33)
+- [Tech CEOs Should Be Held Accountable, or Even Fired, Amid Layoffs](https://www.businessinsider.com/tech-ceo-accountable-layoffs-google-apple-intel-2023-2)
 - [AI Generated Seinfeld banned on Twitch for transphobic jokes](https://www.sportskeeda.com/esports/news-ai-streamer-watchmeforever-reportedly-gets-banned-going-rogue)
-- [Crafting container images without Dockerfiles](https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/)
-- [Vitamin D serum levels, supplementation&amp;suicide attempts&amp;intentional self-harm](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279166)
-- [Watermark Remover &lpar;AI Powered&rpar;](https://www.watermarkremover.io)
-- [Why the conventional wisdom on how to grow muscles is wrong](https://mennohenselmans.com/optimal-program-design/)
+- [Also Italian](https://www.laphamsquarterly.org/roundtable/also-italian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
