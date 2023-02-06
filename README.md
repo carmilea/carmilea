@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Making SQLite extensions pip install-able](https://observablehq.com/@asg017/making-sqlite-extensions-pip-install-able)
-- [Sundar Pichai: An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/)
-- [The Samsung Galaxy S23’s bloated Android build somehow uses 60GB of storage](https://arstechnica.com/gadgets/2023/02/the-samsung-galaxy-s23s-bloated-android-build-somehow-uses-60gb-of-storage/)
-- [Binance to suspend US dollar bank transfers](https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/)
-- [GPT for Second Brains](https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [‘The Battery’s Dead’: Burnout Looks Different in Autistic Adults](https://www.nytimes.com/2021/09/03/well/live/autistic-burnout-advice.html)
+- [Microsoft just announced a media event taking place tomorrow with OpenAI](https://www.windowscentral.com/microsoft/microsoft-surprise-event-chatgpt-openai-bing-2023)
+- [One common behavior seen in “mature” software engineers](https://www.luu.io/posts/mature-engineer)
+- [Adversary Drones Are Spying on the U.S. and The Pentagon Acts Like They’re UFOs](https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
