@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The fraudulent claims made by IBM about Watson and AI](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
-- [Masonry 0.1 &lpar;Rust GUI framework&rpar;](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
+- [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
+- [The fraudulent claims made by IBM about Watson and AI &lpar;2021&rpar;](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
+- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
 - [PhpBB 3.3.10](https://www.phpbb.com/community/viewtopic.php?t=2635986)
 - [Stable Attribution](https://www.stableattribution.com)
-- [The rise of universities’ diversity bureaucrats &lpar;2018&rpar;](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
