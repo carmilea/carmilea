@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Launches ChatGPT Rival](https://www.bbc.com/news/technology-64546299)
+- [Making SQLite extensions pip install-able](https://observablehq.com/@asg017/making-sqlite-extensions-pip-install-able)
 - [Sundar Pichai: An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 - [The Samsung Galaxy S23’s bloated Android build somehow uses 60GB of storage](https://arstechnica.com/gadgets/2023/02/the-samsung-galaxy-s23s-bloated-android-build-somehow-uses-60gb-of-storage/)
 - [Binance to suspend US dollar bank transfers](https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/)
-- [Introduction to Multi-Tenant Architecture](https://engineeringatscale.substack.com/p/introduction-to-multi-tenant-architecture)
+- [GPT for Second Brains](https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
