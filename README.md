@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1986&#39;s Official UFO Night in Brazil](https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil)
+- [Craft using an inertial mass reduction device &lpar;Patent by US Navy&rpar;](https://patents.google.com/patent/US10144532B2/en)
+- [QCVM: Bite-sized QuakeC VM written in C](https://github.com/JaycieErysdren/QCVM)
 - [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
 - [The fraudulent claims made by IBM about Watson and AI &lpar;2021&rpar;](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
-- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
-- [PhpBB 3.3.10](https://www.phpbb.com/community/viewtopic.php?t=2635986)
-- [Stable Attribution](https://www.stableattribution.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
