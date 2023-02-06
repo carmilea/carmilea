@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is anyone successfully self-hosting Firefox Sync?](https://news.ycombinator.com/item?id=34674569)
+- [US spends most on health care but has worst health outcomes](https://www.wesh.com/article/us-health-care-worst-outcomes-high-income-countries-new-report/42745709)
 - [OpenTTD 13.0 Released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
-- [Did anyone else lose their marbles?](https://news.ycombinator.com/item?id=34673949)
-- [Path to a free, self-taught education in Computer Science](https://github.com/ossu/computer-science)
-- [Curious Undisclosed Skylake Bug](https://outerproduct.net/trivial/2023-02-05_comp-dep.html)
-- [Ulugh Beg Observatory](https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory)
+- [Weakening TLS protection, South Korean style](https://palant.info/2023/02/06/weakening-tls-protection-south-korean-style/)
+- [Ask HN: Did anyone else lose their marbles?](https://news.ycombinator.com/item?id=34673949)
 <!-- BLOG-POST-LIST:END -->
 
 ---
