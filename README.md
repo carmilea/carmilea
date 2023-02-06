@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Politics became a matter of faith for many contemporary progressives](https://www.liberalpatriot.com/p/losing-our-religion)
+- [Ask HN: Concise, pragmatic baby manual for first-time dad?](https://news.ycombinator.com/item?id=34680216)
+- [Europium UltraGlow Powder – Green](https://unitednuclear.com/index.php?main_page=product_info&products_id=1079)
+- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations)
 - [MythTV 33 Released – open-source all-in-one DVR](https://www.mythtv.org/wiki/Release_Notes_-_33)
-- [Tech CEOs Should Be Held Accountable, or Even Fired, Amid Layoffs](https://www.businessinsider.com/tech-ceo-accountable-layoffs-google-apple-intel-2023-2)
-- [AI Generated Seinfeld banned on Twitch for transphobic jokes](https://www.sportskeeda.com/esports/news-ai-streamer-watchmeforever-reportedly-gets-banned-going-rogue)
-- [Also Italian](https://www.laphamsquarterly.org/roundtable/also-italian)
+- [Amazon Q4 2022 Financials](https://www.tbray.org/ongoing/When/202x/2023/02/03/Amazon-Q4-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
