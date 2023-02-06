@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
-- [Maxima: A computer algebra system written in Common Lisp](https://maxima.sourceforge.io/)
-- [Ask HN: Is anyone successfully self-hosting Firefox Sync?](https://news.ycombinator.com/item?id=34674569)
-- [Binary to text encoding – state of the art and missed opportunities](https://notes.volution.ro/v1/2023/02/notes/0a9aaa3a/)
-- [OpenTTD 13.0 Released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [How much can you get out of a $4 VPS?](https://alicegg.tech//2023/02/06/4dollar-vps.html)
+- [Why would a 21st century warplane shoot a balloon with a missile?](https://aviation.stackexchange.com/questions/97384/if-a-balloon-lies-within-gun-range-why-would-a-21st-century-warplane-shoot-it-w)
+- [Jailbreaking ChatGPT with Dan &lpar;Do Anything Now&rpar;](https://twitter.com/venturetwins/status/1622243944649347074)
+- [You can’t bribe, threaten, or feed people to get them back in the office](https://www.bostonglobe.com/2023/02/05/opinion/wake-up-corporate-america-you-cant-bribe-threaten-or-feed-people-get-them-back-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
