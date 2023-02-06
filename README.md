@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
-- [Gen-1: The Next Step Forward for Generative AI — Generating Videos](https://research.runwayml.com/gen1)
-- [Ask HN: Resources to Learn macOS Development?](https://news.ycombinator.com/item?id=34680345)
-- [Europium UltraGlow Powder – Green](https://unitednuclear.com/index.php?main_page=product_info&products_id=1079)
-- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations)
+- [Google Launches ChatGPT Rival](https://www.bbc.com/news/technology-64546299)
+- [Sundar Pichai: An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+- [The Samsung Galaxy S23’s bloated Android build somehow uses 60GB of storage](https://arstechnica.com/gadgets/2023/02/the-samsung-galaxy-s23s-bloated-android-build-somehow-uses-60gb-of-storage/)
+- [Binance to suspend US dollar bank transfers](https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/)
+- [Introduction to Multi-Tenant Architecture](https://engineeringatscale.substack.com/p/introduction-to-multi-tenant-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
