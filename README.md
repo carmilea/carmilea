@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Flappy Bird and Wordle](https://flappybirdle.com/)
 - [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-- [A first-of-its-kind interactive, choose your own adventure along the Silk Roads](https://www.intofarlands.com/the-silk-roads)
-- [Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [Explore the Silk Roads](https://www.intofarlands.com/the-silk-roads)
+- [Of regrets](https://laanwj.github.io/2023/02/06/regrets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
