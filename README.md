@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ulugh Beg Observatory](https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory)
 - [1986&#39;s Official UFO Night in Brazil](https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil)
-- [Craft using an inertial mass reduction device &lpar;Patent by US Navy&rpar;](https://patents.google.com/patent/US10144532B2/en)
+- [Craft using an inertial mass reduction device](https://patents.google.com/patent/US10144532B2/en)
 - [QCVM: Bite-sized QuakeC VM written in C](https://github.com/JaycieErysdren/QCVM)
 - [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
-- [The fraudulent claims made by IBM about Watson and AI &lpar;2021&rpar;](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
