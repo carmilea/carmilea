@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Path to a free, self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- [Curious Undisclosed Skylake Bug](https://outerproduct.net/trivial/2023-02-05_comp-dep.html)
 - [Ulugh Beg Observatory](https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory)
-- [1986&#39;s Official UFO Night in Brazil](https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil)
 - [Craft using an inertial mass reduction device](https://patents.google.com/patent/US10144532B2/en)
 - [QCVM: Bite-sized QuakeC VM written in C](https://github.com/JaycieErysdren/QCVM)
-- [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
