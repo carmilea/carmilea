@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 - [Maxima: A computer algebra system written in Common Lisp](https://maxima.sourceforge.io/)
 - [Ask HN: Is anyone successfully self-hosting Firefox Sync?](https://news.ycombinator.com/item?id=34674569)
+- [Binary to text encoding – state of the art and missed opportunities](https://notes.volution.ro/v1/2023/02/notes/0a9aaa3a/)
 - [OpenTTD 13.0 Released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
-- [Weakening TLS protection, South Korean style](https://palant.info/2023/02/06/weakening-tls-protection-south-korean-style/)
-- [Ask HN: Did anyone else lose their marbles?](https://news.ycombinator.com/item?id=34673949)
 <!-- BLOG-POST-LIST:END -->
 
 ---
