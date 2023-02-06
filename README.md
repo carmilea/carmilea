@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The fraudulent claims made by IBM about Watson and AI](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
+- [Masonry 0.1 &lpar;Rust GUI framework&rpar;](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
+- [PhpBB 3.3.10](https://www.phpbb.com/community/viewtopic.php?t=2635986)
 - [Stable Attribution](https://www.stableattribution.com)
 - [The rise of universities’ diversity bureaucrats &lpar;2018&rpar;](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Artificial intelligence just lost a leader](https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/)
-- [Finland’s most-wanted hacker nabbed in France](https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
