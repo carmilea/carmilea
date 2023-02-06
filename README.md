@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [A first-of-its-kind interactive, choose your own adventure along the Silk Roads](https://www.intofarlands.com/the-silk-roads)
+- [Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
-- [‘The Battery’s Dead’: Burnout Looks Different in Autistic Adults](https://www.nytimes.com/2021/09/03/well/live/autistic-burnout-advice.html)
-- [Microsoft just announced a media event taking place tomorrow with OpenAI](https://www.windowscentral.com/microsoft/microsoft-surprise-event-chatgpt-openai-bing-2023)
-- [One common behavior seen in “mature” software engineers](https://www.luu.io/posts/mature-engineer)
-- [Adversary Drones Are Spying on the U.S. and The Pentagon Acts Like They’re UFOs](https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
