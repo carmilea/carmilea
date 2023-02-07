@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We reduced our iOS app launch time by 60%](https://doordash.engineering/2023/01/31/how-we-reduced-our-ios-app-launch-time-by-60/)
+- [Ask HN: Moving to DC in 2023?](https://news.ycombinator.com/item?id=34692878)
 - [Show HN: Database of every VC investment memo](https://www.vcinsights.co/)
-- [Covid-19 vaccine policy mandates and restrictions may cause more harm than good](https://gh.bmj.com/content/7/5/e008684)
 - [GPU-Backed User Interfaces](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/)
-- [Regular Expression Matching with a Trigram Index](https://swtch.com/~rsc/regexp/regexp4.html)
-- [After Callous Layoffs, Workers Are Done with the Full-Time Work](https://www.a.team//mission/the-great-betrayal)
+- [Regular Expression Matching with a Trigram Index &lpar;2012&rpar;](https://swtch.com/~rsc/regexp/regexp4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
