@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Bing with ChatGPT](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
+- [David Sabatini lands millions from private donors to start new lab](https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab)
+- [Google&#39;s Bard shows incorrect information in its launch ad](https://twitter.com/IsabelNAngelo/status/1623013720011194368)
+- [Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
 - [Meta to Ask Many Managers to Become Individual Contributors or Leave](https://www.bloomberg.com/news/articles/2023-02-07/meta-to-ask-many-managers-to-become-individual-contributors-or-leave)
 - [Microsoft Adds ChatGPT AI Technology to Bing Search Engine](https://www.wsj.com/articles/microsoft-adds-chatgpt-ai-technology-to-bing-search-engine-11675793525)
-- [Why do we create modern Desktop GUI apps using HTML/CSS/JavaScript?](https://gerrysweeney.com/why-do-write-desktop-gui-desktop-apps-in-html-css-javascript-making-them-just-glorified-web-pages/)
-- [Super Bowl will not feature any crypto ads this year](https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/06/fox-sports-super-bowl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
