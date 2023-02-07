@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
+- [Nobody should have paid tens of dollars for AI avatars](https://www.avtrs.ai)
 - [Blender moves from Phabricator to Gitea](https://code.blender.org/2023/02/new-blender-development-infrastructure/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Sr / Staff Software Engineer &lpar;中国远程）](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
-- [Google Project Sunroof](https://sunroof.withgoogle.com/)
-- [Why Is Colorectal Cancer Rising Rapidly Among Young Adults?](https://www.cancer.gov/news-events/cancer-currents-blog/2020/colorectal-cancer-rising-younger-adults)
-- [David Sabatini lands millions from private donors to start new lab](https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab)
+- [OpenJDK mailing list: Null-safety and value types](https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html)
+- [US DOT awards $800M toward street safety](https://www.smartcitiesdive.com/news/us-dot-800m-safe-streets-and-roads-for-all-ss4a/641704/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
