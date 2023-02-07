@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe increases price for business in the European Economic Area](https://support.stripe.com/questions/pricing-updates-for-businesses-based-in-the-european-economic-area-(eea))
 - [I made a Chrome Extension for summarizing any web articles in 1 click using AI](https://theaialfred.com/)
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/what-we-do)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer &lpar;Generative AI API&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
-- [BP sees biggest profit in 114 year history](https://www.bbc.co.uk/news/business-64544110)
-- [Floating manta ray with beating wing drive](https://www.festo.com/us/en/e/about-festo/research-and-development/bionic-learning-network/highlights-from-2006-to-2009/air-ray-id_33851/)
+- [Turrican 2 AGA – Released](https://sonicslothgames.itch.io/turrican2aga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
