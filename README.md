@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How cheap digital verniers work &lpar;2017&rpar;](https://www.mjt.me.uk/posts/digital-vernier-teardown/)
+- [FOSDEM 2023: Glad to Be Back](https://diego.codes/post/fosdem-2023/)
+- [U-Bahn station in Berlin is decorated with radioactive uranium glazed tiles](https://chaos.social/@jonty/109818563737353115)
+- [DNS0: The European public DNS that makes your internet safer](https://www.dns0.eu)
 - [Stripe increases price for business in the European Economic Area](https://support.stripe.com/questions/pricing-updates-for-businesses-based-in-the-european-economic-area-(eea))
-- [I made a Chrome Extension for summarizing any web articles in 1 click using AI](https://theaialfred.com/)
-- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/what-we-do)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer &lpar;Generative AI API&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
-- [Turrican 2 AGA – Released](https://sonicslothgames.itch.io/turrican2aga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
