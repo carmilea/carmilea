@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender moves from Phabricator to Gitea](https://code.blender.org/2023/02/new-blender-development-infrastructure/)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Sr / Staff Software Engineer &lpar;中国远程）](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
 - [Google Project Sunroof](https://sunroof.withgoogle.com/)
+- [Why Is Colorectal Cancer Rising Rapidly Among Young Adults?](https://www.cancer.gov/news-events/cancer-currents-blog/2020/colorectal-cancer-rising-younger-adults)
 - [David Sabatini lands millions from private donors to start new lab](https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab)
-- [Google&#39;s Bard shows incorrect information in its launch ad](https://twitter.com/IsabelNAngelo/status/1623013720011194368)
-- [Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
