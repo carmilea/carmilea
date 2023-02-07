@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How cheap digital verniers work &lpar;2017&rpar;](https://www.mjt.me.uk/posts/digital-vernier-teardown/)
-- [Grep.app – Search across a half million Git repos](https://grep.app/)
-- [FOSDEM 2023: Glad to Be Back](https://diego.codes/post/fosdem-2023/)
-- [U-Bahn station in Berlin is decorated with radioactive uranium glazed tiles](https://chaos.social/@jonty/109818563737353115)
-- [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
+- [Show HN: Database of every VC investment memo](https://www.vcinsights.co/)
+- [Covid-19 vaccine policy mandates and restrictions may cause more harm than good](https://gh.bmj.com/content/7/5/e008684)
+- [GPU-Backed User Interfaces](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/)
+- [Regular Expression Matching with a Trigram Index](https://swtch.com/~rsc/regexp/regexp4.html)
+- [After Callous Layoffs, Workers Are Done with the Full-Time Work](https://www.a.team//mission/the-great-betrayal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
