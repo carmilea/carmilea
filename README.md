@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prof. Abraham Lempel has died &lpar;the L in LZW compression&rpar;](https://www.ynetnews.com/business/article/hjdfzoa2o)
+- [HP bricking printers remotely if the client&#39;s credit card expires [video]](https://www.youtube.com/watch?v=KGszSj0BLeg)
+- [Abraham Lempel has died &lpar;the L in LZW compression&rpar;](https://www.ynetnews.com/business/article/hjdfzoa2o)
 - [On the joy of podman and auto-updates &lpar;2022&rpar;](https://feldspaten.org/2022/07/09/On-the-joy-of-podman-and-auto-updates/)
-- [mactype: Better font rendering for Windows.](https://github.com/snowie2000/mactype)
-- [Silicon Valley needs to stop laying off workers and start firing CEOs](https://www.businessinsider.com/fire-blame-ceo-tech-employee-layoffs-google-facebook-salesforce-amazon-2023-2)
+- [MacType: Better font rendering for Windows](https://github.com/snowie2000/mactype)
 - [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
