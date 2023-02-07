@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mandatory DEI statements are becoming the norm in academic hiring](https://www.economist.com/united-states/2023/02/04/american-universities-are-hiring-based-on-devotion-to-diversity)
-- [Show HN: We built an open-source OAuth service for 40 APIs](https://www.nango.dev)
-- [We reduced our iOS app launch time by 60%](https://doordash.engineering/2023/01/31/how-we-reduced-our-ios-app-launch-time-by-60/)
-- [Database of VC investment announcements](https://www.vcinsights.co/)
-- [GPU-Backed User Interfaces](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/)
+- [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
+- [Show HN: Supabase Clippy – ChatGPT for Supabase Docs](https://supabase.com/blog/chatgpt-supabase-docs)
+- [OpenSSL Security Advisory [7th February 2023]](https://www.openssl.org/news/secadv/20230207.txt)
+- [Big Data Is Dead](https://motherduck.com/blog/big-data-is-dead/)
+- [Tech&#39;s Elite Hates Labor](https://ez.substack.com/p/techs-elite-hates-labor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
