@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Flappy Bird and Wordle](https://flappybirdle.com/)
-- [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-- [Explore the Silk Roads](https://www.intofarlands.com/the-silk-roads)
-- [Of regrets](https://laanwj.github.io/2023/02/06/regrets.html)
+- [We come to bury ChatGPT, not to praise it](https://www.danmcquillan.org/chatgpt.html)
+- [Turkey earthquake: please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
+- [I don’t want a new phone, but I’m probably buying one](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone)
+- [US woman has walked around with untreated TB for over a year, now faces jail](https://arstechnica.com/science/2023/02/us-woman-has-walked-around-with-untreated-tb-for-over-a-year-now-faces-jail/)
+- [The Dutch benefits scandal: a cautionary tale for algorithmic enforcement](https://eulawenforcement.com/?p=7941)
 <!-- BLOG-POST-LIST:END -->
 
 ---
