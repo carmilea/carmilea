@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley needs to stop laying off workers and start firing CEOs](https://www.businessinsider.com/fire-blame-ceo-tech-employee-layoffs-google-facebook-salesforce-amazon-2023-2)
 - [We come to bury ChatGPT, not to praise it](https://www.danmcquillan.org/chatgpt.html)
+- [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
 - [Turkey earthquake: please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
 - [I don’t want a new phone, but I’m probably buying one](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone)
-- [US woman has walked around with untreated TB for over a year, now faces jail](https://arstechnica.com/science/2023/02/us-woman-has-walked-around-with-untreated-tb-for-over-a-year-now-faces-jail/)
-- [The Dutch benefits scandal: a cautionary tale for algorithmic enforcement](https://eulawenforcement.com/?p=7941)
 <!-- BLOG-POST-LIST:END -->
 
 ---
