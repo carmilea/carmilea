@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI-to-SQLite](https://datasette.io/tools/openai-to-sqlite)
+- [They say that stocks go down during the day and up at night](https://statmodeling.stat.columbia.edu/2023/02/06/stocks-go-down-during-the-day-and-up-at-night/)
 - [HP bricking printers remotely if the client&#39;s credit card expires [video]](https://www.youtube.com/watch?v=KGszSj0BLeg)
 - [Abraham Lempel has died &lpar;the L in LZW compression&rpar;](https://www.ynetnews.com/business/article/hjdfzoa2o)
 - [On the joy of podman and auto-updates &lpar;2022&rpar;](https://feldspaten.org/2022/07/09/On-the-joy-of-podman-and-auto-updates/)
-- [MacType: Better font rendering for Windows](https://github.com/snowie2000/mactype)
-- [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
