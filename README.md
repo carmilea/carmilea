@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Partnering with SingleStore: Driving Business Value Through Data Innovation](https://www.singlestore.com/blog/partnering-with-singlestore-driving-business-value-through-data-innovation/)
-- [A Message from Eric Yuan, CEO of Zoom](https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/)
-- [Show HN: We built an open-source social-media simulator for research](https://misinfogame.com/)
-- [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
-- [Show HN: Supabase Clippy – ChatGPT for Supabase Docs](https://supabase.com/blog/chatgpt-supabase-docs)
+- [The New Bing with ChatGPT](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
+- [Meta to Ask Many Managers to Become Individual Contributors or Leave](https://www.bloomberg.com/news/articles/2023-02-07/meta-to-ask-many-managers-to-become-individual-contributors-or-leave)
+- [Microsoft Adds ChatGPT AI Technology to Bing Search Engine](https://www.wsj.com/articles/microsoft-adds-chatgpt-ai-technology-to-bing-search-engine-11675793525)
+- [Why do we create modern Desktop GUI apps using HTML/CSS/JavaScript?](https://gerrysweeney.com/why-do-write-desktop-gui-desktop-apps-in-html-css-javascript-making-them-just-glorified-web-pages/)
+- [Super Bowl will not feature any crypto ads this year](https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/06/fox-sports-super-bowl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
