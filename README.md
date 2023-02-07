@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry &lpar;YC S17&rpar; Is Hiring Sr / Staff Software Engineer &lpar;中国远程）](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
+- [Google Project Sunroof](https://sunroof.withgoogle.com/)
 - [David Sabatini lands millions from private donors to start new lab](https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab)
 - [Google&#39;s Bard shows incorrect information in its launch ad](https://twitter.com/IsabelNAngelo/status/1623013720011194368)
 - [Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
-- [Meta to Ask Many Managers to Become Individual Contributors or Leave](https://www.bloomberg.com/news/articles/2023-02-07/meta-to-ask-many-managers-to-become-individual-contributors-or-leave)
-- [Microsoft Adds ChatGPT AI Technology to Bing Search Engine](https://www.wsj.com/articles/microsoft-adds-chatgpt-ai-technology-to-bing-search-engine-11675793525)
 <!-- BLOG-POST-LIST:END -->
 
 ---
