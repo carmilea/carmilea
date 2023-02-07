@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer &lpar;Generative AI API&rpar; in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
+- [BP sees biggest profit in 114 year history](https://www.bbc.co.uk/news/business-64544110)
+- [X.org Security Advisory: Security issue in the X server](https://lists.x.org/archives/xorg/2023-February/061255.html)
+- [Floating manta ray with beating wing drive](https://www.festo.com/us/en/e/about-festo/research-and-development/bionic-learning-network/highlights-from-2006-to-2009/air-ray-id_33851/)
 - [OpenAI-to-SQLite](https://datasette.io/tools/openai-to-sqlite)
-- [They say that stocks go down during the day and up at night](https://statmodeling.stat.columbia.edu/2023/02/06/stocks-go-down-during-the-day-and-up-at-night/)
-- [HP bricking printers remotely if the client&#39;s credit card expires [video]](https://www.youtube.com/watch?v=KGszSj0BLeg)
-- [Abraham Lempel has died &lpar;the L in LZW compression&rpar;](https://www.ynetnews.com/business/article/hjdfzoa2o)
-- [On the joy of podman and auto-updates &lpar;2022&rpar;](https://feldspaten.org/2022/07/09/On-the-joy-of-podman-and-auto-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
