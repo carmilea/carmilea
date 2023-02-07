@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How cheap digital verniers work &lpar;2017&rpar;](https://www.mjt.me.uk/posts/digital-vernier-teardown/)
+- [Grep.app – Search across a half million Git repos](https://grep.app/)
 - [FOSDEM 2023: Glad to Be Back](https://diego.codes/post/fosdem-2023/)
 - [U-Bahn station in Berlin is decorated with radioactive uranium glazed tiles](https://chaos.social/@jonty/109818563737353115)
-- [DNS0: The European public DNS that makes your internet safer](https://www.dns0.eu)
-- [Stripe increases price for business in the European Economic Area](https://support.stripe.com/questions/pricing-updates-for-businesses-based-in-the-european-economic-area-(eea))
+- [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
