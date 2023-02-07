@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Partnering with SingleStore: Driving Business Value Through Data Innovation](https://www.singlestore.com/blog/partnering-with-singlestore-driving-business-value-through-data-innovation/)
+- [A Message from Eric Yuan, CEO of Zoom](https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/)
+- [Show HN: We built an open-source social-media simulator for research](https://misinfogame.com/)
 - [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
 - [Show HN: Supabase Clippy – ChatGPT for Supabase Docs](https://supabase.com/blog/chatgpt-supabase-docs)
-- [OpenSSL Security Advisory [7th February 2023]](https://www.openssl.org/news/secadv/20230207.txt)
-- [Big Data Is Dead](https://motherduck.com/blog/big-data-is-dead/)
-- [Tech&#39;s Elite Hates Labor](https://ez.substack.com/p/techs-elite-hates-labor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
