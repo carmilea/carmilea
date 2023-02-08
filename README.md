@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Mods and Scaling Problems in Social Control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
-- [ChatGPT lied to me and then tried to deny it](https://qfabgtpxazxxnoc5h5rdcorsw4sivkmmte2kkpki5ejxuzqgq3eq.arweave.net/gUATTfcGb3a4XT9iMToytySKqYyZNKU9SOkTemYGhsk)
 - [Show HN: Filmbox, physically accurate film emulation, now on Linux and Windows](https://videovillage.co/filmbox/)
 - [FDroid debating Aves Libre app TOS as reason for removal](https://gitlab.com/fdroid/fdroiddata/-/issues/2893)
+- [NIST Selects ‘Lightweight Cryptography’ Algorithms to Protect Small Devices](https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices)
 - [Windows 11: a spyware machine out of users&#39; control](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
+- [Buckminster Fuller’s Hall of Mirrors](https://www.thenation.com/article/culture/buckminster-fuller-alec-nevela-lee-biography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
