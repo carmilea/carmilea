@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why the Austin airport situation was so dangerous](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
+- [Transmission v4.0](https://github.com/transmission/transmission/releases/tag/4.0.0)
 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
 - [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
 - [GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
-- [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
