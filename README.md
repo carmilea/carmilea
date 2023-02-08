@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: DNS redundancy, how to do it right?](https://news.ycombinator.com/item?id=34708066)
+- [Turkey blocks Twitter after the earthquake](https://netblocks.org/reports/twitter-restricted-in-turkey-in-aftermath-of-earthquake-oy9LJ9B3)
+- [Meilisearch 1.0 – Open-source search engine built in Rust](https://blog.meilisearch.com/v1-enterprise-ready-stable/)
+- [Transparent Telemetry for Open-Source Projects](https://research.swtch.com/telemetry-intro)
 - [Linux 6.1 Officially Promoted to Being an LTS Kernel](https://www.phoronix.com/news/Linux-6.1-LTS-Official)
-- [ChatGPT is a data privacy nightmare](https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283)
-- [Ask HN: I just want to have fun programming again](https://news.ycombinator.com/item?id=34706991)
-- [Chromium&#39;s impact on root DNS traffic &lpar;2020&rpar;](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
-- [Ask HN: Best practices for self-healing apps?](https://news.ycombinator.com/item?id=34706624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
