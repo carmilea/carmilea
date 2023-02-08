@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Austin airport situation was so dangerous](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
 - [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
 - [GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
 - [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
-- [Ask HN: How to know if laptop enrolled in Intel Management Engine?](https://news.ycombinator.com/item?id=34702825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
