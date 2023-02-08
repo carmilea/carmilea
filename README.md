@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Play Runescape Classic Again](https://rsc.vet/)
+- [Prehistoric Images and Medicines Under the Sea in Cosquer Cave](https://www.bradshawfoundation.com/cosquer/)
+- [My employer is reneging on its remote-work promise](https://www.washingtonpost.com/business/2023/02/02/work-advice-my-employer-is-reneging-its-remote-work-promise/)
 - [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
-- [Nobody should have paid tens of dollars for AI avatars](https://www.avtrs.ai)
 - [Blender moves from Phabricator to Gitea](https://code.blender.org/2023/02/new-blender-development-infrastructure/)
-- [OpenJDK mailing list: Null-safety and value types](https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html)
-- [US DOT awards $800M toward street safety](https://www.smartcitiesdive.com/news/us-dot-800m-safe-streets-and-roads-for-all-ss4a/641704/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
