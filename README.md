@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Austin airport situation was so dangerous](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
+- [The Artist Who Collaborates with Ants](https://www.newyorker.com/culture/persons-of-interest/the-artist-who-collaborates-with-ants)
+- [FlexiRaft: Flexible Quorums with Raft [pdf]](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)
+- [‘Confirming we are cleared to land?’ Who said what at Austin](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
 - [Transmission v4.0](https://github.com/transmission/transmission/releases/tag/4.0.0)
 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
-- [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
-- [GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
 <!-- BLOG-POST-LIST:END -->
 
 ---
