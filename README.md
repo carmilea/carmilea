@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Artist Who Collaborates with Ants](https://www.newyorker.com/culture/persons-of-interest/the-artist-who-collaborates-with-ants)
-- [FlexiRaft: Flexible Quorums with Raft [pdf]](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)
+- [Posix Compatibility Comparison: GCP Filestore, Amazon EFS, and Azure Files](https://juicefs.com/en/blog/engineering/posix-compatibility-comparison-among-four-file-system-on-the-cloud)
 - [‘Confirming we are cleared to land?’ Who said what at Austin](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
 - [Transmission v4.0](https://github.com/transmission/transmission/releases/tag/4.0.0)
 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
