@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keybase.pub Shutting Down on March 1 2023](https://keybase.pub/)
-- [The Chemistry of ‘Yes Minister’ &lpar;2017&rpar;](https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/)
-- [Godot 4 Release Candidate 1](https://godotengine.org/article/release-candidate-godot-4-0-rc-1/)
-- [Why does 0.1 and 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
-- [George Orwell&#39;s 6 rules for writing &lpar;2018; originally published in 1946&rpar;](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Fungi and bacteria are binging on burned soil](https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil)
+- [Ask HN: Do you celebrate failures at work?](https://news.ycombinator.com/item?id=34710403)
+- [Apple signs union agreement for Glasgow Apple Store staff](https://appleinsider.com/articles/23/02/08/apple-signs-union-agreement-for-glasgow-apple-store-staff)
+- [Barry Diller: The Oscars Are over and the Movie Business Is Finished](https://www.lamag.com/culturefiles/barry-diller-the-oscars-are-over-and-the-movie-business-is-finished/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
