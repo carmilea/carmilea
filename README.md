@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 6.1 Officially Promoted to Being an LTS Kernel](https://www.phoronix.com/news/Linux-6.1-LTS-Official)
+- [ChatGPT is a data privacy nightmare](https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283)
+- [Ask HN: I just want to have fun programming again](https://news.ycombinator.com/item?id=34706991)
 - [Chromium&#39;s impact on root DNS traffic &lpar;2020&rpar;](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
 - [Ask HN: Best practices for self-healing apps?](https://news.ycombinator.com/item?id=34706624)
-- [Ask HN: HN for Finance?](https://news.ycombinator.com/item?id=34706550)
-- [Value-Oriented Programming](https://accu.org/journals/overload/31/173/teodorescu/)
-- [Estonian Foreign Intelligence Service&#39;s 2023 Security Report](https://raport.valisluureamet.ee/2023/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
