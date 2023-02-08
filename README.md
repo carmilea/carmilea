@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: DNS redundancy, how to do it right?](https://news.ycombinator.com/item?id=34708066)
-- [Turkey blocks Twitter after the earthquake](https://netblocks.org/reports/twitter-restricted-in-turkey-in-aftermath-of-earthquake-oy9LJ9B3)
-- [Meilisearch 1.0 – Open-source search engine built in Rust](https://blog.meilisearch.com/v1-enterprise-ready-stable/)
-- [Transparent Telemetry for Open-Source Projects](https://research.swtch.com/telemetry-intro)
-- [Linux 6.1 Officially Promoted to Being an LTS Kernel](https://www.phoronix.com/news/Linux-6.1-LTS-Official)
+- [George Orwell&#39;s 6 rules for writing &lpar;2018&rpar;](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
+- [Google is still drip-feeding AI into Search, Maps, and Translate](https://www.theverge.com/2023/2/8/23589886/google-search-maps-translate-features-updates-live-from-paris-event)
+- [Google&#39;s Live from Paris Event Private/Deleted Immediately](https://news.ycombinator.com/item?id=34708255)
+- [What 2023 will bring for PeerTube](https://joinpeertube.org/news/roadmap-v6)
+- [Heat pumps are defying Maine’s winters and oil industry pushback](https://www.washingtonpost.com/climate-environment/2023/02/07/maine-gas-industry-heat-pumps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
