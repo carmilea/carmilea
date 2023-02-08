@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Twitter starts limiting how many Tweets you can post per Day](https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493)
+- [Top Byte Ignore for Fun and Memory Savings](https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/)
 - [Is Google’s 20-year search dominance about to end?](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
 - [Reddit mods and scaling problems in social control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
-- [Show HN: Filmbox, physically accurate film emulation, now on Linux and Windows](https://videovillage.co/filmbox/)
-- [NIST Selects ‘Lightweight Cryptography’ Algorithms to Protect Small Devices](https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices)
+- [Probiotic blocks staph bacteria from colonizing people](https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
