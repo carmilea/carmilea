@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House says blog post on Nord Stream explosion &#39;utterly false&#39;](https://www.reuters.com/world/us/white-house-says-blog-post-nord-stream-explosion-is-utterly-false-2023-02-08/)
+- [Windows 11: a spyware machine out of users&#39; control](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
+- [Buckminster Fuller’s Hall of Mirrors](https://www.thenation.com/article/culture/buckminster-fuller-alec-nevela-lee-biography/)
+- [Why Wyndly raised $2M and things we wished we&#39;d known](https://www.wyndly.com/blogs/learn/why-wyndly-raised-2m)
+- [Public broadcasters want to reclaim online spaces with “Public Spaces Incubator”](https://finance.yahoo.com/news/public-broadcasters-collaborate-reclaim-online-150000237.html)
 - [OpenSSH Pre-Auth Double Free – CVE-2023-25136 – Writeup and Proof-of-Concept](https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/)
-- [Acrobat PDF rendering engine added to Microsoft Edge](https://blog.adobe.com/en/publish/2023/02/08/adobe-microsoft-bring-industry-leading-acrobat-pdf-experience-window-users-microsoft-edge)
-- [Google Stock Tumbles 8% After Its Bard AI Ad Shows Inaccurate Answer](https://www.investors.com/news/google-stock-falls-after-googles-bard-ai-ad-shows-inaccurate-answer/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
