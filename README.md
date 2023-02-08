@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White House says blog post on Nord Stream explosion &#39;utterly false&#39;](https://www.reuters.com/world/us/white-house-says-blog-post-nord-stream-explosion-is-utterly-false-2023-02-08/)
+- [OpenSSH Pre-Auth Double Free – CVE-2023-25136 – Writeup and Proof-of-Concept](https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/)
+- [Acrobat PDF rendering engine added to Microsoft Edge](https://blog.adobe.com/en/publish/2023/02/08/adobe-microsoft-bring-industry-leading-acrobat-pdf-experience-window-users-microsoft-edge)
+- [Google Stock Tumbles 8% After Its Bard AI Ad Shows Inaccurate Answer](https://www.investors.com/news/google-stock-falls-after-googles-bard-ai-ad-shows-inaccurate-answer/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Fungi and bacteria are binging on burned soil](https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil)
-- [Ask HN: Do you celebrate failures at work?](https://news.ycombinator.com/item?id=34710403)
-- [Apple signs union agreement for Glasgow Apple Store staff](https://appleinsider.com/articles/23/02/08/apple-signs-union-agreement-for-glasgow-apple-store-staff)
-- [Barry Diller: The Oscars Are over and the Movie Business Is Finished](https://www.lamag.com/culturefiles/barry-diller-the-oscars-are-over-and-the-movie-business-is-finished/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
