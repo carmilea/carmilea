@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Orwell&#39;s 6 rules for writing &lpar;2018&rpar;](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
-- [Google is still drip-feeding AI into Search, Maps, and Translate](https://www.theverge.com/2023/2/8/23589886/google-search-maps-translate-features-updates-live-from-paris-event)
-- [Google&#39;s Live from Paris Event Private/Deleted Immediately](https://news.ycombinator.com/item?id=34708255)
-- [What 2023 will bring for PeerTube](https://joinpeertube.org/news/roadmap-v6)
-- [Heat pumps are defying Maine’s winters and oil industry pushback](https://www.washingtonpost.com/climate-environment/2023/02/07/maine-gas-industry-heat-pumps/)
+- [Keybase.pub Shutting Down on March 1 2023](https://keybase.pub/)
+- [The Chemistry of ‘Yes Minister’ &lpar;2017&rpar;](https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/)
+- [Godot 4 Release Candidate 1](https://godotengine.org/article/release-candidate-godot-4-0-rc-1/)
+- [Why does 0.1 and 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
+- [George Orwell&#39;s 6 rules for writing &lpar;2018; originally published in 1946&rpar;](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
