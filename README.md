@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
 - [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
+- [GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
 - [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
 - [Ask HN: How to know if laptop enrolled in Intel Management Engine?](https://news.ycombinator.com/item?id=34702825)
-- [Play Runescape Classic Again](https://rsc.vet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
