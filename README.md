@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The digital pound: A new form of money for households and businesses?](https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper)
+- [Open source cloud file system. Posix, HDFS and S3 compatible](https://juicefs.com/en/)
 - [Show HN: Kuboble.com – minimalistic sliding pieces puzzle game](https://kuboble.com)
 - [Can sanitizers find the two bugs I wrote in C++?](https://ahelwer.ca/post/2023-02-07-cpp-bugs-sanitized/)
 - [Reverse engineer Stable Diffusion images](https://www.img2prompt.io/)
-- [Browsers are essential and how operating systems are holding them back &lpar;2022&rpar; [pdf] &lpar;2022&rpar;](https://research.mozilla.org/files/2022/10/Mozilla-Five-Walled-Gardens.pdf)
-- [The Artist Who Collaborates with Ants](https://www.newyorker.com/culture/persons-of-interest/the-artist-who-collaborates-with-ants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
