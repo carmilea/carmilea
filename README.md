@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incident: Qatar B788 at Doha on Jan 10th 2023, steep descent after takeoff](https://avherald.com/h?article=504d75c7)
+- [Browsers are essential and how operating systems are holding them back &lpar;2022&rpar; [pdf]](https://research.mozilla.org/files/2022/10/Mozilla-Five-Walled-Gardens.pdf)
 - [The Artist Who Collaborates with Ants](https://www.newyorker.com/culture/persons-of-interest/the-artist-who-collaborates-with-ants)
 - [Posix Compatibility Comparison: GCP Filestore, Amazon EFS, and Azure Files](https://juicefs.com/en/blog/engineering/posix-compatibility-comparison-among-four-file-system-on-the-cloud)
 - [‘Confirming we are cleared to land?’ Who said what at Austin](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
-- [Transmission v4.0](https://github.com/transmission/transmission/releases/tag/4.0.0)
-- [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
