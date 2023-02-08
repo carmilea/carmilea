@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The digital pound: A new form of money for households and businesses?](https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper)
-- [Open source cloud file system. Posix, HDFS and S3 compatible](https://juicefs.com/en/)
-- [Show HN: Kuboble.com – minimalistic sliding pieces puzzle game](https://kuboble.com)
-- [Can sanitizers find the two bugs I wrote in C++?](https://ahelwer.ca/post/2023-02-07-cpp-bugs-sanitized/)
-- [Reverse engineer Stable Diffusion images](https://www.img2prompt.io/)
+- [Chromium&#39;s impact on root DNS traffic &lpar;2020&rpar;](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
+- [Ask HN: Best practices for self-healing apps?](https://news.ycombinator.com/item?id=34706624)
+- [Ask HN: HN for Finance?](https://news.ycombinator.com/item?id=34706550)
+- [Value-Oriented Programming](https://accu.org/journals/overload/31/173/teodorescu/)
+- [Estonian Foreign Intelligence Service&#39;s 2023 Security Report](https://raport.valisluureamet.ee/2023/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
