@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
+- [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
+- [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
+- [Ask HN: How to know if laptop enrolled in Intel Management Engine?](https://news.ycombinator.com/item?id=34702825)
 - [Play Runescape Classic Again](https://rsc.vet/)
-- [Prehistoric Images and Medicines Under the Sea in Cosquer Cave](https://www.bradshawfoundation.com/cosquer/)
-- [My employer is reneging on its remote-work promise](https://www.washingtonpost.com/business/2023/02/02/work-advice-my-employer-is-reneging-its-remote-work-promise/)
-- [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
-- [Blender moves from Phabricator to Gitea](https://code.blender.org/2023/02/new-blender-development-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
