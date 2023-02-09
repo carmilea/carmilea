@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is “learn to code” now “learn to drive a big rig”?](https://news.ycombinator.com/item?id=34727109)
+- [Apple’s 2½ year old iPhone 12 is 6% faster than the new Samsung Galaxy S23 Ultra](https://www.comparedial.com/news/apples-2-year-old-iphone-12-is-6-faster-than-the-latest-samsung-galaxy-s23-ultra-for-single-core-performance-395)
+- [Progressively Enhanced Turbo Native Apps in the App Store](https://masilotti.com/progressively-enhanced-turbo-native-apps-in-the-app-store/)
+- [Sabre/dav: open-source CardDAV, CalDAV and WebDAV server](https://sabre.io/)
+- [GitHub to layoff 10% and closing all offices](https://news.ycombinator.com/item?id=34727210)
 - [The UK&#39;s Online Safety Bill: An Attack on Encryption](https://element.io/blog/the-online-safety-bill-an-attack-on-encryption/)
-- [Padlet Is Hiring to Build Software for a Good Education](https://padlet.jobs)
-- [GitHub to Layoff 10%](https://twitter.com/webology/status/1623722731819659269)
-- [Insulin is way too expensive. California has a solution: Make its own](https://www.vox.com/policy-and-politics/23574178/insulin-cost-california-biden-medicare-coverage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
