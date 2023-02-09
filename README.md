@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mobile Phones of Doctor Who – The Motherlode of Props](https://shkspr.mobi/blog/2023/02/the-mobile-phones-of-doctor-who-the-motherlode-of-props/)
+- [RustDesk – Free and open source alternative to TeamViewer - Cross-Platform](https://github.com/rustdesk)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Engineering Managers](https://news.ycombinator.com/item?id=34722685)
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 - [Magic Sand: augmented reality sandbox/playground](https://github.com/thomwolf/Magic-Sand)
-- [Ask HN: Is anyone else getting AI fatigue?](https://news.ycombinator.com/item?id=34722220)
-- [Ask HN: Are alternative &lpar;oil, nu, etc.&rpar; shells usable as daily drivers?](https://news.ycombinator.com/item?id=34722208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
