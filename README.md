@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Salary History](https://www.jvt.me/salary/)
+- [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Full-Stack JavaScript Engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
 - [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
 - [Cause of Fatal 2021 Tesla Wreck Was “Excessive Speed” and “Alcohol Intoxication”](https://www.ntsb.gov:443/investigations/Pages/HWY21FH007.aspx)
-- [Why You Need a Real-Time Analytics Database](https://www.singlestore.com/blog/why-you-need-a-real-time-analytics-database/)
-- [Show HN: boxxy – Control where Linux programs put files, without symlinks](https://github.com/queer/boxxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
