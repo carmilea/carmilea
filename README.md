@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Please Review My Metalanguage](https://github.com/kstenerud/kbnf/blob/master/kbnf_v1.md)
 - [I hate Hackathons](https://pgpt.substack.com/p/i-hate-hackathons)
 - [Ask HN: Is “prompt injection” going to be a new common vulnerability?](https://news.ycombinator.com/item?id=34719586)
 - [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
 - [Ask HN: Burnt out from big tech. What&#39;s next?](https://news.ycombinator.com/item?id=34719088)
-- [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
