@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Activepieces &lpar;YC S22&rpar; – Open-Source Zapier Alternative](https://news.ycombinator.com/item?id=34723989)
+- [Gitlab to lay off 7% of staff](https://about.gitlab.com/blog/2023/02/09/gitlab-news/)
+- [A cell cultured startup working in exotic meats &lpar;2022&rpar;](https://www.foodnavigator.com/Article/2022/03/30/lion-burger-tiger-tacos-meet-the-cell-cultured-start-up-working-in-exotic-meats)
 - [The Mobile Phones of Doctor Who – The Motherlode of Props](https://shkspr.mobi/blog/2023/02/the-mobile-phones-of-doctor-who-the-motherlode-of-props/)
-- [RustDesk – Free and open source alternative to TeamViewer - Cross-Platform](https://github.com/rustdesk)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Engineering Managers](https://news.ycombinator.com/item?id=34722685)
-- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
-- [Magic Sand: augmented reality sandbox/playground](https://github.com/thomwolf/Magic-Sand)
+- [How ‘Diversity’ Policing Fails Science](https://www.wsj.com/articles/how-diversity-policing-fails-science-equality-equity-education-texas-tech-job-candidates-interview-dei-pronouns-11675722169)
 <!-- BLOG-POST-LIST:END -->
 
 ---
