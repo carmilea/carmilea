@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit Suisse confirms 50% bonus cut, Zero for Exec, amid terrible results](https://www.efinancialcareers.com/news/2023/02/credit-suisse-bonuses)
+- [Show HN: boxxy – Control where Linux programs put files, without symlinks](https://github.com/queer/boxxy)
+- [Localizing Unity games as an indie dev](https://www.bjmalicoat.com/projects/localizingunitygames)
+- [AI Joins Hunt for ET: Study Finds 8 Potential Alien Signals](https://blogs.nvidia.com/blog/2023/02/06/ai-potential-alien-signals/)
 - [We compete with GitHub. Bing does not show our website](https://www.codeium.com/blog/bing-does-not-index-codeium)
 - [Solar panels disguised as terracotta tiles in Pompeii](https://www.theartnewspaper.com/2023/02/06/ancient-pompeii-site-installs-invisible-solar-panels-that-look-like-roman-terracotta-tiles)
-- [Most FOSDEM 2023 videos have been uploaded](https://fosdem.org/2023/schedule/events/)
-- [UK: Fast charging EVs more expensive than filling petrol](https://www.team-bhp.com/forum/international-automotive-scene/261898-uk-fast-charging-evs-more-expensive-than-filling-petrol.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
