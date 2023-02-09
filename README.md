@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Salary History](https://www.jvt.me/salary/)
+- [British Rail’s short experiment with travelling pubs &lpar;2020&rpar;](https://www.ianvisits.co.uk/articles/british-rails-short-experiment-with-travelling-pubs-36068/)
+- [Scientists document two separate reservoirs of latent HIV in patients](https://www.unc.edu/posts/2023/02/08/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/)
 - [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Full-Stack JavaScript Engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
 - [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
-- [Cause of Fatal 2021 Tesla Wreck Was “Excessive Speed” and “Alcohol Intoxication”](https://www.ntsb.gov:443/investigations/Pages/HWY21FH007.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
