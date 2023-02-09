@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is remote work seen as a gift?](https://cdoyle.me/2023/02/08/why-is-remote-work-seen-as-a-gift/)
 - [Ask HN: Please Review My Metalanguage](https://github.com/kstenerud/kbnf/blob/master/kbnf_v1.md)
-- [I hate Hackathons](https://pgpt.substack.com/p/i-hate-hackathons)
 - [Ask HN: Is “prompt injection” going to be a new common vulnerability?](https://news.ycombinator.com/item?id=34719586)
 - [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
 - [Ask HN: Burnt out from big tech. What&#39;s next?](https://news.ycombinator.com/item?id=34719088)
