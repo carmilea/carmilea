@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My grandmother died at home, just as she wanted. It cost $145,000](https://www.wbur.org/cognoscenti/2023/02/08/medicare-home-hospice-care-sarah-romanelli)
 - [Launch HN: Activepieces &lpar;YC S22&rpar; – Open-Source Zapier Alternative](https://news.ycombinator.com/item?id=34723989)
-- [Gitlab to lay off 7% of staff](https://about.gitlab.com/blog/2023/02/09/gitlab-news/)
-- [A cell cultured startup working in exotic meats &lpar;2022&rpar;](https://www.foodnavigator.com/Article/2022/03/30/lion-burger-tiger-tacos-meet-the-cell-cultured-start-up-working-in-exotic-meats)
-- [The Mobile Phones of Doctor Who – The Motherlode of Props](https://shkspr.mobi/blog/2023/02/the-mobile-phones-of-doctor-who-the-motherlode-of-props/)
-- [How ‘Diversity’ Policing Fails Science](https://www.wsj.com/articles/how-diversity-policing-fails-science-equality-equity-education-texas-tech-job-candidates-interview-dei-pronouns-11675722169)
+- [Show HN: I Made a Todo List for Developer Power Users [video]](https://www.youtube.com/watch?v=pGmdX8Znv5g)
+- [My network home setup – v4.0](https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html)
+- [GoDaddy Announces Layoffs of “About 8%”](https://aboutus.godaddy.net/newsroom/press-releases/press-release-details/2023/A-message-from-GoDaddy-CEO-Aman-Bhutani/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
