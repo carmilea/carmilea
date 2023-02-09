@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneText &lpar;YC W23&rpar; Is Hiring a Full-Stack JavaScript Engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
+- [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
+- [Cause of Fatal 2021 Tesla Wreck Was “Excessive Speed” and “Alcohol Intoxication”](https://www.ntsb.gov:443/investigations/Pages/HWY21FH007.aspx)
+- [Why You Need a Real-Time Analytics Database](https://www.singlestore.com/blog/why-you-need-a-real-time-analytics-database/)
 - [Show HN: boxxy – Control where Linux programs put files, without symlinks](https://github.com/queer/boxxy)
-- [Localizing Unity games as an indie dev](https://www.bjmalicoat.com/projects/localizingunitygames)
-- [AI Joins Hunt for ET: Study Finds 8 Potential Alien Signals](https://blogs.nvidia.com/blog/2023/02/06/ai-potential-alien-signals/)
-- [We compete with GitHub. Bing does not show our website](https://www.codeium.com/blog/bing-does-not-index-codeium)
-- [Solar panels disguised as terracotta tiles in Pompeii](https://www.theartnewspaper.com/2023/02/06/ancient-pompeii-site-installs-invisible-solar-panels-that-look-like-roman-terracotta-tiles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
