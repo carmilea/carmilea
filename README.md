@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter starts limiting how many Tweets you can post per Day](https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493)
-- [Top Byte Ignore for Fun and Memory Savings](https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/)
-- [Is Google’s 20-year search dominance about to end?](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
-- [Reddit mods and scaling problems in social control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
-- [Probiotic blocks staph bacteria from colonizing people](https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people)
+- [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
+- [Andrej Karpathy Is Joining OpenAI Again](https://twitter.com/karpathy/status/1623476659369443328)
+- [The entire prompt of Microsoft Bing Chat](https://twitter.com/kliu128/status/1623472922374574080)
+- [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
+- [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
