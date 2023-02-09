@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comcast gave false map data to FCC–and didn’t admit it until Ars got involved](https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/)
-- [We lost $300k and learned everything about coffee delivery](https://heyinnovations.com/post/coffee_delivery)
-- [The Future of Thunderbird](https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/)
-- [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
-- [Dbt to acquire Transform to build out its semantic layer](https://www.getdbt.com/blog/dbt-acquisition-transform/)
+- [Ask HN: Is “learn to code” now “learn to drive a big rig”?](https://news.ycombinator.com/item?id=34727109)
+- [The UK&#39;s Online Safety Bill: An Attack on Encryption](https://element.io/blog/the-online-safety-bill-an-attack-on-encryption/)
+- [Padlet Is Hiring to Build Software for a Good Education](https://padlet.jobs)
+- [GitHub to Layoff 10%](https://twitter.com/webology/status/1623722731819659269)
+- [Insulin is way too expensive. California has a solution: Make its own](https://www.vox.com/policy-and-politics/23574178/insulin-cost-california-biden-medicare-coverage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
