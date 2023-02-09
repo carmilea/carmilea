@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Podman vs. Docker: Comparing the Two Containerization Tools – Linode](https://www.linode.com/docs/guides/podman-vs-docker/)
-- [The entire prompt of Microsoft Bing Chat](https://twitter.com/kliu128/status/1623472922374574080)
+- [Ask HN: Is “prompt injection” going to be a new common vulnerability?](https://news.ycombinator.com/item?id=34719586)
+- [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
+- [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
 - [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
 - [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
-- [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
