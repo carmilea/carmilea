@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
+- [Podman vs. Docker: Comparing the Two Containerization Tools – Linode](https://www.linode.com/docs/guides/podman-vs-docker/)
 - [The entire prompt of Microsoft Bing Chat](https://twitter.com/kliu128/status/1623472922374574080)
 - [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
 - [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
