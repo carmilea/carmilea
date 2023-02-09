@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s 2½ year old iPhone 12 is 6% faster than the new Samsung Galaxy S23 Ultra](https://www.comparedial.com/news/apples-2-year-old-iphone-12-is-6-faster-than-the-latest-samsung-galaxy-s23-ultra-for-single-core-performance-395)
-- [Progressively Enhanced Turbo Native Apps in the App Store](https://masilotti.com/progressively-enhanced-turbo-native-apps-in-the-app-store/)
-- [Sabre/dav: open-source CardDAV, CalDAV and WebDAV server](https://sabre.io/)
-- [GitHub to layoff 10% and closing all offices](https://news.ycombinator.com/item?id=34727210)
-- [The UK&#39;s Online Safety Bill: An Attack on Encryption](https://element.io/blog/the-online-safety-bill-an-attack-on-encryption/)
+- [Credit Suisse confirms 50% bonus cut, Zero for Exec, amid terrible results](https://www.efinancialcareers.com/news/2023/02/credit-suisse-bonuses)
+- [We compete with GitHub. Bing does not show our website](https://www.codeium.com/blog/bing-does-not-index-codeium)
+- [Solar panels disguised as terracotta tiles in Pompeii](https://www.theartnewspaper.com/2023/02/06/ancient-pompeii-site-installs-invisible-solar-panels-that-look-like-roman-terracotta-tiles)
+- [Most FOSDEM 2023 videos have been uploaded](https://fosdem.org/2023/schedule/events/)
+- [UK: Fast charging EVs more expensive than filling petrol](https://www.team-bhp.com/forum/international-automotive-scene/261898-uk-fast-charging-evs-more-expensive-than-filling-petrol.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
