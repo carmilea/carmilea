@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I hate Hackathons](https://pgpt.substack.com/p/i-hate-hackathons)
 - [Ask HN: Is “prompt injection” going to be a new common vulnerability?](https://news.ycombinator.com/item?id=34719586)
 - [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
+- [Ask HN: Burnt out from big tech. What&#39;s next?](https://news.ycombinator.com/item?id=34719088)
 - [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
-- [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
-- [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
