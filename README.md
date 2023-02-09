@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT founder Sam Altman calls Google a lethargic search monopoly](https://canadatoday.news/ca/chatgpt-founder-slams-google-as-a-lethargic-search-monopoly-as-the-tech-giants-ai-war-with-microsoft-heats-up-263210/)
-- [Why is remote work seen as a gift?](https://cdoyle.me/2023/02/08/why-is-remote-work-seen-as-a-gift/)
-- [Ask HN: Please Review My Metalanguage](https://github.com/kstenerud/kbnf/blob/master/kbnf_v1.md)
-- [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
-- [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Engineering Managers](https://news.ycombinator.com/item?id=34722685)
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- [Magic Sand: augmented reality sandbox/playground](https://github.com/thomwolf/Magic-Sand)
+- [Ask HN: Is anyone else getting AI fatigue?](https://news.ycombinator.com/item?id=34722220)
+- [Ask HN: Are alternative &lpar;oil, nu, etc.&rpar; shells usable as daily drivers?](https://news.ycombinator.com/item?id=34722208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
