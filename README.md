@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How does one start a digital marketing agency with zero clients?](https://news.ycombinator.com/item?id=34736867)
+- [Why is there so much useless and unreliable software?](https://news.ycombinator.com/item?id=34737084)
+- [Show HN: Enc – A modern and friendly CLI alternative to GnuPG](https://github.com/life4/enc)
+- [David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set](https://twitter.com/davidguetta/status/1621605376733872129)
+- [Show HN: MrScraper – A visual web-scraping tool](https://mrscraper.com)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Revolutionize Testing](https://news.ycombinator.com/item?id=34736554)
-- [Why TLS is better without STARTTLS &lpar;2021&rpar;](https://nostarttls.secvuln.info/)
-- [Framework: 2TB SSDs for Steam Deck](https://frame.work/blog/now-offering-2tb-ssds-for-steam-deck-in-the-framework)
-- [The Rust Implementation of GNU Coreutils Is Becoming Remarkably Robust](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
