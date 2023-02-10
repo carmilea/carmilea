@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Q1 of 2023: The most Tech Layoffs in history](https://lunduke.substack.com/p/q1-of-2023-the-most-tech-layoffs)
+- [The Rust Implementation of GNU Coreutils Is Becoming Remarkably Robust](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
 - [How the Wealthy Save Billions in Taxes by Skirting a Century-Old Law](https://www.propublica.org/article/irs-files-taxes-wash-sales-goldman-sachs)
 - [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
 - [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
-- [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
