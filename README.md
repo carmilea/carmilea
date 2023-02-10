@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [British Rail’s short experiment with travelling pubs &lpar;2020&rpar;](https://www.ianvisits.co.uk/articles/british-rails-short-experiment-with-travelling-pubs-36068/)
-- [Scientists document two separate reservoirs of latent HIV in patients](https://www.unc.edu/posts/2023/02/08/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/)
-- [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
-- [OneText &lpar;YC W23&rpar; Is Hiring a Full-Stack JavaScript Engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
-- [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
+- [Trunk-Based Development: Game Changers](https://trunkbaseddevelopment.com/game-changers/)
+- [Dragon’s Lair Overhaul Black Edition &lpar;1/16th scale&rpar;](https://newwavetoys.com/products/dragons-lair-x-replicade-overhaul-black)
+- [Temple Student Strike Turns Ugly as School Ends Some Tuition Aid](https://www.phillymag.com/news/2023/02/08/temple-strike-philadelphia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
