@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOSS could be an unintended victim of EU crusade to make software more secure](https://www.theregister.com/2023/01/30/opinion_eu_foss_security/)
-- [The Balthazar laptop: An all-European RISC-V computer](https://www.theregister.com/2023/02/09/balthazar_free_hardware_laptop/)
-- [Reactivity Without Virtual DOM](https://github.com/Camplejs/Cample.js)
-- [OpenBSD: Why and How](https://sive.rs/openbsd)
-- [Individuals who share an ideology have more similar neural representations](https://www.science.org/doi/10.1126/sciadv.abq5920)
+- [Building an in-house on-call training program for your SRE team](https://fiberplane.com/blog/how-to-build-an-in-house-on-call-training-program)
+- [“Open Source” Seeds Loosen Big Ag’s Grip on Farmers](https://worldsensorium.com/open-source-seeds-loosen-big-ags-grip-on-farmers/)
+- [IDF teams rescue 10-year-old boy trapped under rubble for 100 hours in Turkey](https://www.timesofisrael.com/idf-teams-rescue-10-year-old-boy-trapped-under-rubble-for-100-hours-in-turkey/)
+- [Windows 11 is collecting more user data than you know](https://windowsreport.com/windows-11-user-data/)
+- [How a Heat Pump Works](https://hvac-learning.com/courses/heat-pumps-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
