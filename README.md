@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Wealthy Save Billions in Taxes by Skirting a Century-Old Law](https://www.propublica.org/article/irs-files-taxes-wash-sales-goldman-sachs)
 - [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
 - [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
 - [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
