@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Astonishing Transformation of Austin](https://www.newyorker.com/magazine/2023/02/13/the-astonishing-transformation-of-austin)
+- [Ask HN: What companies are embracing “HTML over the wire”?](https://news.ycombinator.com/item?id=34744348)
 - [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 - [What crappy beer demand tells us about the economy](https://www.freightwaves.com/news/what-crappy-beer-demand-tells-us-about-the-economy)
-- [Blowing Holes in Seymour Hersh&#39;s Pipe Dream](https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe)
-- [Everything I believed about nuclear waste was wrong](https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong)
-- [Wi Flag](https://asheron.fandom.com/wiki/Wi_Flag)
+- [Understanding and Coding the Self-Attention Mechanism of Large Language Models](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
