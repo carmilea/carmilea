@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Housing Starts to Look the Same](https://www.nytimes.com/2023/01/20/realestate/housing-developments-city-architecture.html)
 - [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
-- [Ask HN: Why isn’t Google cutting executive pay and bonuses?](https://news.ycombinator.com/item?id=34734422)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
 - [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
+- [Trunk-Based Development: Game Changers](https://trunkbaseddevelopment.com/game-changers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
