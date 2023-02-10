@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Housing Starts to Look the Same](https://www.nytimes.com/2023/01/20/realestate/housing-developments-city-architecture.html)
+- [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
+- [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
 - [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
 - [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
-- [Trunk-Based Development: Game Changers](https://trunkbaseddevelopment.com/game-changers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
