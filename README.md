@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub and EFF Back YouTube Ripper in Legal Battle with the RIAA](https://torrentfreak.com/github-and-eff-back-youtube-ripper-in-legal-battle-with-the-riaa-230210/)
 - [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
-- [TikTok lays off all employees in India](https://www.moneycontrol.com/news/trends/current-affairs/tiktok-lays-off-all-40-employees-in-india-10049421.html)
 - [US jet shoots down unknown object flying off Alaska coast](https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e)
-- [Ask HN: What companies are embracing “HTML over the wire”?](https://news.ycombinator.com/item?id=34744348)
 - [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
+- [The Inference Cost of Search Disruption – Large Language Model Cost Analysis](https://www.semianalysis.com/p/the-inference-cost-of-search-disruption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
