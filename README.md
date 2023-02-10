@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How does one start a digital marketing agency with zero clients?](https://news.ycombinator.com/item?id=34736867)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Revolutionize Testing](https://news.ycombinator.com/item?id=34736554)
-- [Ask HN: 1M layoffs soon, should gov intervene?](https://news.ycombinator.com/item?id=34736455)
+- [Why TLS is better without STARTTLS &lpar;2021&rpar;](https://nostarttls.secvuln.info/)
 - [Framework: 2TB SSDs for Steam Deck](https://frame.work/blog/now-offering-2tb-ssds-for-steam-deck-in-the-framework)
 - [The Rust Implementation of GNU Coreutils Is Becoming Remarkably Robust](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
-- [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
