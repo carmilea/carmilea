@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Chick-fil-A Cauliflower Sandwich was created](https://www.chick-fil-a.com/stories/inside-chick-fil-a/creating-the-cauliflower-sandwich)
-- [Dual Coincidence is likely the most complex electromechanical game](https://newatlas.com/good-thinking/dual-coincidence-five-way-pinball-electromechanical-game/)
-- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
-- [Real-Time Brain-to-Image Reconstructions](https://medarc.notion.site/Real-Time-Brain-to-Image-Reconstructions-e1116f115715456a96bb053a304b6292)
-- [Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA](https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/)
+- [FOSS could be an unintended victim of EU crusade to make software more secure](https://www.theregister.com/2023/01/30/opinion_eu_foss_security/)
+- [The Balthazar laptop: An all-European RISC-V computer](https://www.theregister.com/2023/02/09/balthazar_free_hardware_laptop/)
+- [Reactivity Without Virtual DOM](https://github.com/Camplejs/Cample.js)
+- [OpenBSD: Why and How](https://sive.rs/openbsd)
+- [Individuals who share an ideology have more similar neural representations](https://www.science.org/doi/10.1126/sciadv.abq5920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
