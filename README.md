@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blowing Holes in Seymour Hersh&#39;s Pipe Dream](https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe)
+- [Everything I believed about nuclear waste was wrong](https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong)
+- [Wi Flag](https://asheron.fandom.com/wiki/Wi_Flag)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Junkyard computing – repurposing discarded smartphones to minimize pollution](https://dl.acm.org/doi/pdf/10.1145/3575693.3575710)
-- [Most Crypto Developers Aren&#39;t Working on Bitcoin or Ethereum](https://somereverie.substack.com/p/most-crypto-developers-arent-working)
-- [AI assistants: The convenient crutch for new developers or a recipe for disaster](https://blog.codeanywhere.com/how-ai-assistants-are-assisting-in-creating-less-experienced-developers/)
-- [Molnupiravir Mutations in the Wild](https://www.science.org/content/blog-post/monupiravir-mutations-wild)
 <!-- BLOG-POST-LIST:END -->
 
 ---
