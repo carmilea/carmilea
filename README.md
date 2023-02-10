@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Chick-fil-A Cauliflower Sandwich was created](https://www.chick-fil-a.com/stories/inside-chick-fil-a/creating-the-cauliflower-sandwich)
 - [Dual Coincidence is likely the most complex electromechanical game](https://newatlas.com/good-thinking/dual-coincidence-five-way-pinball-electromechanical-game/)
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+- [Real-Time Brain-to-Image Reconstructions](https://medarc.notion.site/Real-Time-Brain-to-Image-Reconstructions-e1116f115715456a96bb053a304b6292)
 - [Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA](https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/)
-- [Use TOML for `.env` Files?](https://snarky.ca/use-toml-for-env-files/)
-- [Show HN: Enc – A modern and friendly CLI alternative to GnuPG](https://github.com/life4/enc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
