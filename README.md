@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Dslcad a programming language and interpreter for building 3D models](https://github.com/DSchroer/dslcad)
-- [Is Seattle a 15-minute city? It depends on where you want to walk](https://nathenry.com/writing/2023-02-07-seattle-walkability.html)
-- [Apple Avoids Job Cuts Because It Didn’t Overhire Like Google and Amazon](https://www.bloomberg.com/news/articles/2023-02-10/apple-aapl-avoids-tech-layoffs-because-it-didn-t-overhire-like-google-amazon)
-- [Building an in-house on-call training program for your SRE team](https://fiberplane.com/blog/how-to-build-an-in-house-on-call-training-program)
-- [“Open Source” Seeds Loosen Big Ag’s Grip on Farmers](https://worldsensorium.com/open-source-seeds-loosen-big-ags-grip-on-farmers/)
+- [Molnupiravir Mutations in the Wild](https://www.science.org/content/blog-post/monupiravir-mutations-wild)
+- [DuckDB – in-process SQL OLAP database management system](https://duckdb.org/)
+- [Manticore 6.0.0 – a faster alternative to Elasticsearch in C++](https://manticoresearch.com/blog/manticore-search-6-0-0/)
+- [How a Zig IDE Could Work](https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html)
+- [External Garbage Collection in Ruby](https://census.dev/blog/external-garbage-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
