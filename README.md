@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Astonishing Transformation of Austin](https://www.newyorker.com/magazine/2023/02/13/the-astonishing-transformation-of-austin)
+- [TikTok lays off all employees in India](https://www.moneycontrol.com/news/trends/current-affairs/tiktok-lays-off-all-40-employees-in-india-10049421.html)
+- [Galileo AI – Copilot for interface design](https://www.usegalileo.ai/)
+- [Live Briefing on Alaska Aerial Object Shoot-Down](https://www.defense.gov/News/Live-events/#/?currentVideo=31128)
 - [Ask HN: What companies are embracing “HTML over the wire”?](https://news.ycombinator.com/item?id=34744348)
 - [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-- [What crappy beer demand tells us about the economy](https://www.freightwaves.com/news/what-crappy-beer-demand-tells-us-about-the-economy)
-- [Understanding and Coding the Self-Attention Mechanism of Large Language Models](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
