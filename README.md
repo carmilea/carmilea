@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+- [Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA](https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/)
 - [Why is there so much useless and unreliable software?](https://news.ycombinator.com/item?id=34737084)
+- [Use TOML for `.env` Files?](https://snarky.ca/use-toml-for-env-files/)
 - [Show HN: Enc – A modern and friendly CLI alternative to GnuPG](https://github.com/life4/enc)
-- [David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set](https://twitter.com/davidguetta/status/1621605376733872129)
-- [Show HN: MrScraper – A visual web-scraping tool](https://mrscraper.com)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Revolutionize Testing](https://news.ycombinator.com/item?id=34736554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
