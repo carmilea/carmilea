@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Dslcad a programming language and interpreter for building 3D models](https://github.com/DSchroer/dslcad)
+- [Is Seattle a 15-minute city? It depends on where you want to walk](https://nathenry.com/writing/2023-02-07-seattle-walkability.html)
+- [Apple Avoids Job Cuts Because It Didn’t Overhire Like Google and Amazon](https://www.bloomberg.com/news/articles/2023-02-10/apple-aapl-avoids-tech-layoffs-because-it-didn-t-overhire-like-google-amazon)
 - [Building an in-house on-call training program for your SRE team](https://fiberplane.com/blog/how-to-build-an-in-house-on-call-training-program)
 - [“Open Source” Seeds Loosen Big Ag’s Grip on Farmers](https://worldsensorium.com/open-source-seeds-loosen-big-ags-grip-on-farmers/)
-- [IDF teams rescue 10-year-old boy trapped under rubble for 100 hours in Turkey](https://www.timesofisrael.com/idf-teams-rescue-10-year-old-boy-trapped-under-rubble-for-100-hours-in-turkey/)
-- [Windows 11 is collecting more user data than you know](https://windowsreport.com/windows-11-user-data/)
-- [How a Heat Pump Works](https://hvac-learning.com/courses/heat-pumps-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
