@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Magic” Drug Restores Lost Memories and Unleashes Hidden Knowledge](https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/)
-- [Spanish rail&#39;s costly blunder: New trains too large for tunnels](https://www.lemonde.fr/en/economy/article/2023/02/10/spanish-rail-s-costly-blunder-new-trains-too-large-for-tunnels_6015208_19.html)
-- [I had ChatGPT write a Decemberists song and recorded it](https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists)
-- [I made ChatGPT and Bing AI have a conversation](https://moritz.pm/posts/chatgpt-bing)
-- [Students suing elite U.S. colleges seek &#39;wealth favoritism&#39; information](https://www.reuters.com/legal/litigation/students-suing-elite-us-colleges-seek-wealth-favoritism-information-2023-02-09/)
+- [Thiel Foundation Announces Next &lpar;2023&rpar; Thiel Fellow Class](https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
+- [Pangram](https://en.wikipedia.org/wiki/Pangram)
+- [Use a BSD style license for your Open Source Project &lpar;2021&rpar;](https://docs.freebsd.org/en/articles/bsdl-gpl/)
+- [Theory of Mind May Have Spontaneously Emerged in Large Language Models &lpar;2021&rpar;](https://osf.io/csdhb/)
+- [The Creator of North Korean Hackers’ New Favorite Crypto Privacy Service](https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
