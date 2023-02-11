@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [30 People Tell Us What Homelessness Is Like](https://www.nytimes.com/interactive/2023/02/10/headway/homelessness-mental-health-us.html)
-- [Pangram](https://en.wikipedia.org/wiki/Pangram)
-- [Show HN: Log collector that runs on a $4 VPS](https://github.com/Nevin1901/erlog)
-- [Theory of mind may have spontaneously emerged in large language models &lpar;2021&rpar;](https://osf.io/csdhb/)
-- [The creator of North Korean hackers’ new favorite crypto privacy service](https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/)
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+- [US aircraft shoots down new airborne object over Canada](https://www.bbc.com/news/world-us-canada-64614098)
+- [British woman undertakes trip from London to Edinburgh using only £2 local buses](https://www.theguardian.com/uk-news/2023/feb/11/twitter-gets-behind-womans-london-to-edinburgh-local-bus-expedition)
+- [Why does the SARS-Cov2 genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa? &lpar;2020&rpar;](https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
+- [Deep learning for twelve hour precipitation forecasts](https://www.nature.com/articles/s41467-022-32483-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
