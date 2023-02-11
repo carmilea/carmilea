@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
-- [Why Everyone Feels Like They’re Faking It](https://www.newyorker.com/magazine/2023/02/13/the-dubious-rise-of-impostor-syndrome)
 - [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
 - [Why did Mozilla remove XUL add-ons? &lpar;2020&rpar;](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
 - [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
+- [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
 <!-- BLOG-POST-LIST:END -->
 
 ---
