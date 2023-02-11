@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No level of alcohol consumption is safe for our health](https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health)
 - [Scientists discover a protein in the lungs that blocks Covid infection](https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html)
-- [WHO: No level of alcohol consumption is safe for our health](https://old.reddit.com/r/science/comments/10zdnnp/the_world_health_organization_says_no_level_of/)
-- [A New Ocean Is Being Formed in Africa](https://www.thearchaeologist.org/blog/a-new-ocean-is-being-formed-in-africa)
 - [SDK update for Raspberry Pi Pico W unlocks Bluetooth support](https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0)
 - [Adding Telemetry to Go-Lang](https://research.swtch.com/telemetry-design)
+- [Ask HN: Are Paul Graham&#39;s Classic Startup Essays Outdated?](https://news.ycombinator.com/item?id=34750727)
 <!-- BLOG-POST-LIST:END -->
 
 ---
