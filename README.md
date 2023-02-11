@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thiel Foundation Announces Next &lpar;2023&rpar; Thiel Fellow Class](https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
+- [30 People Tell Us What Homelessness Is Like](https://www.nytimes.com/interactive/2023/02/10/headway/homelessness-mental-health-us.html)
 - [Pangram](https://en.wikipedia.org/wiki/Pangram)
-- [Use a BSD style license for your Open Source Project &lpar;2021&rpar;](https://docs.freebsd.org/en/articles/bsdl-gpl/)
-- [Theory of Mind May Have Spontaneously Emerged in Large Language Models &lpar;2021&rpar;](https://osf.io/csdhb/)
-- [The Creator of North Korean Hackers’ New Favorite Crypto Privacy Service](https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/)
+- [Show HN: Log collector that runs on a $4 VPS](https://github.com/Nevin1901/erlog)
+- [Theory of mind may have spontaneously emerged in large language models &lpar;2021&rpar;](https://osf.io/csdhb/)
+- [The creator of North Korean hackers’ new favorite crypto privacy service](https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
