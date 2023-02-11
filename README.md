@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Magic” Drug Restores Lost Memories and Unleashes Hidden Knowledge](https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/)
 - [Spanish rail&#39;s costly blunder: New trains too large for tunnels](https://www.lemonde.fr/en/economy/article/2023/02/10/spanish-rail-s-costly-blunder-new-trains-too-large-for-tunnels_6015208_19.html)
 - [I had ChatGPT write a Decemberists song and recorded it](https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists)
+- [I made ChatGPT and Bing AI have a conversation](https://moritz.pm/posts/chatgpt-bing)
 - [Students suing elite U.S. colleges seek &#39;wealth favoritism&#39; information](https://www.reuters.com/legal/litigation/students-suing-elite-us-colleges-seek-wealth-favoritism-information-2023-02-09/)
-- [Silicon reverse-engineering: the Intel 8086 processor&#39;s flag circuitry](http://www.righto.com/2023/02/silicon-reverse-engineering-intel-8086.html)
-- [WW2 Bomb Explodes in England](https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
