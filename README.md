@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reckless American 777 Pilots Refuse NTSB Interviews](https://onemileatatime.com/news/american-777-pilots-refuse-interviews/)
+- [Build an Online Resume with an Auto-Updating PDF Version](https://bas.codes/posts/github-actions-resume/)
 - [‘Mutual aid’ is a radical ideal. Some live its communal spirit](https://www.csmonitor.com/text_edition/Business/2023/0130/Mutual-aid-is-a-radical-ideal.-Some-live-its-communal-spirit)
 - [American Airlines jet and shuttle bus collide on taxiway](https://abc7.com/lax-passenger-bus-plane-hits-taxiway/12799150/)
-- [I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
-- [Ask HN: Can Browsers Have a Universal Hotkey for Website Login?](https://news.ycombinator.com/item?id=34752833)
+- [How to Train Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+- [The Antidote to Envy](https://moretothat.com/the-antidote-to-envy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
