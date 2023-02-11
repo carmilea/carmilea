@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub and EFF Back YouTube Ripper in Legal Battle with the RIAA](https://torrentfreak.com/github-and-eff-back-youtube-ripper-in-legal-battle-with-the-riaa-230210/)
-- [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
-- [US jet shoots down unknown object flying off Alaska coast](https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e)
-- [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-- [The Inference Cost of Search Disruption – Large Language Model Cost Analysis](https://www.semianalysis.com/p/the-inference-cost-of-search-disruption)
+- [Mastodon.lol will shut down on May 9, 2023](https://mastodon.lol/@nathan/109836633022272265)
+- [Bowie, Jazz, and the Unplayable Piano](https://timharford.com/2019/12/cautionary-tales-ep-7-bowie-jazz-and-the-unplayable-piano/)
+- [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
+- [Why did Mozilla remove XUL add-ons? &lpar;2020&rpar;](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+- [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
