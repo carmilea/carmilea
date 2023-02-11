@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Swiping to Sexting: The Gender Divide in American Dating and Relationships](https://www.americansurveycenter.org/research/from-swiping-to-sexting-the-enduring-gender-divide-in-american-dating-and-relationships/)
+- [Gentoo Linux 2022 Retrospective](https://www.gentoo.org/news/2023/02/09/new-year.html)
 - [Databases on Kubernetes is fundamentally same as a database on a VM](https://twitter.com/kelseyhightower/status/1624081136073994240)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-- [Universal Tracking Back – Data Still Destroyed](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
-- [Gofumpt: A stricter gofmt](https://github.com/mvdan/gofumpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
