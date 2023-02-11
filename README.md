@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft vs. Google: The Endgame](https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame)
-- [A Treasury of Zork Maps](http://blog.zarfhome.com/2023/02/a-treasury-of-zork-maps.html)
-- [CoinTracker meltdown due to Universal Wallet Tracking](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
+- [Universal Tracking Back – Data Still Destroyed](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
-- [Why Everyone Feels Like They’re Faking It](https://www.newyorker.com/magazine/2023/02/13/the-dubious-rise-of-impostor-syndrome)
+- [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
+- [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
+- [ChatGPT Hype Is Proof Nobody Understands AI](https://nabilalouani.substack.com/p/chatgpt-hype-is-proof-nobody-really)
 <!-- BLOG-POST-LIST:END -->
 
 ---
