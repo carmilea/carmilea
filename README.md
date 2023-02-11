@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
+- [SDK update for Raspberry Pi Pico W unlocks Bluetooth support](https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0)
 - [From Swiping to Sexting: The Gender Divide in American Dating and Relationships](https://www.americansurveycenter.org/research/from-swiping-to-sexting-the-enduring-gender-divide-in-american-dating-and-relationships/)
-- [Gentoo Linux 2022 Retrospective](https://www.gentoo.org/news/2023/02/09/new-year.html)
-- [Databases on Kubernetes is fundamentally same as a database on a VM](https://twitter.com/kelseyhightower/status/1624081136073994240)
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-- [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
+- [Ask HN: Are Paul Graham&#39;s Classic Startup Essays Outdated?](https://news.ycombinator.com/item?id=34750727)
+- [Why type hinting sucks &lpar;/r/Python&rpar;](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
