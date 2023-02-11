@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
+- [WHO: No level of alcohol consumption is safe for our health](https://old.reddit.com/r/science/comments/10zdnnp/the_world_health_organization_says_no_level_of/)
+- [Ask HN: How do you save and browse external interesting URLs?](https://news.ycombinator.com/item?id=34751066)
 - [SDK update for Raspberry Pi Pico W unlocks Bluetooth support](https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0)
-- [From Swiping to Sexting: The Gender Divide in American Dating and Relationships](https://www.americansurveycenter.org/research/from-swiping-to-sexting-the-enduring-gender-divide-in-american-dating-and-relationships/)
 - [Ask HN: Are Paul Graham&#39;s Classic Startup Essays Outdated?](https://news.ycombinator.com/item?id=34750727)
-- [Why type hinting sucks &lpar;/r/Python&rpar;](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
+- [Type hinting sucks](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
