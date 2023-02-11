@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Curl turns 25 years old GitHub Celebration](https://github.com/curl/curl/discussions/10465)
+- [Databases on Kubernetes is fundamentally same as a database on a VM](https://twitter.com/kelseyhightower/status/1624081136073994240)
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Universal Tracking Back – Data Still Destroyed](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
 - [Gofumpt: A stricter gofmt](https://github.com/mvdan/gofumpt)
-- [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
