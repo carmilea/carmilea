@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No level of alcohol consumption is safe for our health](https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health)
-- [Scientists discover a protein in the lungs that blocks Covid infection](https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html)
-- [SDK update for Raspberry Pi Pico W unlocks Bluetooth support](https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0)
-- [Adding Telemetry to Go-Lang](https://research.swtch.com/telemetry-design)
-- [Ask HN: Are Paul Graham&#39;s Classic Startup Essays Outdated?](https://news.ycombinator.com/item?id=34750727)
+- [Where is the moral outrage about Britain’s grooming gangs?](https://www.spectator.co.uk/article/where-is-the-moral-outrage-about-britains-grooming-gang-scandal/)
+- [America Has Gone Too Far in Legalizing Vice](https://www.theatlantic.com/ideas/archive/2023/02/legalized-gambling-marijuana-use-addiction/673028/)
+- [DeepMind AI is as fast as humans at solving previously unseen tasks](https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/)
+- [Geogram: Programming Library with Geometric Algorithms](https://github.com/BrunoLevy/geogram)
+- [Scientists discover receptor that blocks Covid-19 infection](https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
