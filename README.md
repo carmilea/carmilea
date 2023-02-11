@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heart of ChatGPT’s Darkness](https://garymarcus.substack.com/p/inside-the-heart-of-chatgpts-darkness)
+- [Spanish rail&#39;s costly blunder: New trains too large for tunnels](https://www.lemonde.fr/en/economy/article/2023/02/10/spanish-rail-s-costly-blunder-new-trains-too-large-for-tunnels_6015208_19.html)
+- [I had ChatGPT write a Decemberists song and recorded it](https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists)
+- [Students suing elite U.S. colleges seek &#39;wealth favoritism&#39; information](https://www.reuters.com/legal/litigation/students-suing-elite-us-colleges-seek-wealth-favoritism-information-2023-02-09/)
+- [Silicon reverse-engineering: the Intel 8086 processor&#39;s flag circuitry](http://www.righto.com/2023/02/silicon-reverse-engineering-intel-8086.html)
 - [WW2 Bomb Explodes in England](https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/)
-- [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-- [Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?](https://news.ycombinator.com/item?id=34754284)
-- [The Heisenbug lurking in your async code &lpar;Python&rpar;](https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
