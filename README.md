@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Online Resume with an Auto-Updating PDF Version](https://bas.codes/posts/github-actions-resume/)
-- [‘Mutual aid’ is a radical ideal. Some live its communal spirit](https://www.csmonitor.com/text_edition/Business/2023/0130/Mutual-aid-is-a-radical-ideal.-Some-live-its-communal-spirit)
-- [American Airlines jet and shuttle bus collide on taxiway](https://abc7.com/lax-passenger-bus-plane-hits-taxiway/12799150/)
-- [How to Train Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/)
-- [The Antidote to Envy](https://moretothat.com/the-antidote-to-envy/)
+- [The Heart of ChatGPT’s Darkness](https://garymarcus.substack.com/p/inside-the-heart-of-chatgpts-darkness)
+- [WW2 Bomb Explodes in England](https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/)
+- [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+- [Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?](https://news.ycombinator.com/item?id=34754284)
+- [The Heisenbug lurking in your async code &lpar;Python&rpar;](https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
