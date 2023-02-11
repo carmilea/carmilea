@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curl turns 25 years old GitHub Celebration](https://github.com/curl/curl/discussions/10465)
 - [Universal Tracking Back – Data Still Destroyed](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
+- [Gofumpt: A stricter gofmt](https://github.com/mvdan/gofumpt)
 - [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
-- [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
-- [ChatGPT Hype Is Proof Nobody Understands AI](https://nabilalouani.substack.com/p/chatgpt-hype-is-proof-nobody-really)
 <!-- BLOG-POST-LIST:END -->
 
 ---
