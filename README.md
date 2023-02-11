@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where is the moral outrage about Britain’s grooming gangs?](https://www.spectator.co.uk/article/where-is-the-moral-outrage-about-britains-grooming-gang-scandal/)
-- [America Has Gone Too Far in Legalizing Vice](https://www.theatlantic.com/ideas/archive/2023/02/legalized-gambling-marijuana-use-addiction/673028/)
-- [DeepMind AI is as fast as humans at solving previously unseen tasks](https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/)
-- [Geogram: Programming Library with Geometric Algorithms](https://github.com/BrunoLevy/geogram)
-- [Scientists discover receptor that blocks Covid-19 infection](https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html)
+- [Reckless American 777 Pilots Refuse NTSB Interviews](https://onemileatatime.com/news/american-777-pilots-refuse-interviews/)
+- [‘Mutual aid’ is a radical ideal. Some live its communal spirit](https://www.csmonitor.com/text_edition/Business/2023/0130/Mutual-aid-is-a-radical-ideal.-Some-live-its-communal-spirit)
+- [American Airlines jet and shuttle bus collide on taxiway](https://abc7.com/lax-passenger-bus-plane-hits-taxiway/12799150/)
+- [I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
+- [Ask HN: Can Browsers Have a Universal Hotkey for Website Login?](https://news.ycombinator.com/item?id=34752833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
