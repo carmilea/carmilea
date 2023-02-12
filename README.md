@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [27 Genetic Variants Linked to ADHD](https://neurosciencenews.com/genetics-adhd-22476/)
+- [Yellowstone Caldera Volcanic Power Generation: Volcanic Energy on National Scale](https://www.sciencedirect.com/science/article/pii/S0960148122012290)
 - [Hackers interrupt Iran president’s TV speech on anniversary of revolution](https://www.cnn.com/2023/02/12/middleeast/hackers-interrupt-iran-leader-revolution-anniversary-intl-hnk/index.html)
+- [How to create portable Linux binaries](https://blog.gibson.sh/2017/11/26/creating-portable-linux-binaries/#some-general-suggestions)
 - [Vacuum Balloons](https://www.salon.com/2020/09/27/helium-shortage-vacuum-balloons-science-medicine-party-industry-inventors-engineering/)
-- [Sun: The Network Is the Computer](https://www.abortretry.fail/p/the-network-is-the-computer)
-- [Iatrogenics: Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
-- [I learned seven programming languages](https://mode80.github.io/7-langs-in-12-months.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
