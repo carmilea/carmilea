@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Death of the Smart Shopper](https://www.theatlantic.com/technology/archive/2023/02/online-amazon-shopping-informed-consumer-quality-control/673017/)
+- [Airspace over Lake Michigan restricted due to national defense](https://finance.yahoo.com/news/3-airspace-over-lake-michigan-154537665.html)
+- [Run Your Own Television Network in the Browser with Channel Two](https://www.chrisfinke.com/2023/02/10/run-your-own-television-network-with-channel-two/)
+- [Poor people pay higher time tax](https://pluralistic.net/2023/02/10/my-time/#like-water-down-the-drain)
 - [IRS builds task force to explore running its own free e-file system](https://federalnewsnetwork.com/it-modernization/2023/02/irs-builds-out-task-force-to-explore-running-its-own-free-e-file-system/)
-- [New Hampshire on the Cusp of Enshrining Software Freedom into Law. Help Needed](https://libreboot.org/news/usa-libre-part2.html)
-- [PC CPU Shipments See Steepest Decline in 30 Years](https://www.tomshardware.com/news/pc-cpu-sales-decline-30-years)
-- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
-- [Time-restricted eating reshapes gene expression throughout the body](https://www.sciencedaily.com/releases/2023/01/230103133742.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
