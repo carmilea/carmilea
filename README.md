@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft failed to rotate certificates for winget CDN on time](https://cdn.winget.microsoft.com/cache)
+- [F-15s Scrambled from Portland Air National Guard Base](https://twitter.com/sentdefender/status/1624576868140679168)
 - [U.S. Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
 - [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
 - [U.S. FAA closes some airspace in Montana for Defense Department activities](https://www.reuters.com/article/usa-object-montana-idUSL1N34S008)
-- [Show HN: G-Script – Visual Scripting for the Web](https://g-script.io/)
-- [NOTAM: Montana airspace temporarily restricted for national defense purposes](https://twitter.com/IntelCrab/status/1624569071583854596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
