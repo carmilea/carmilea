@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun: The Network Is the Computer](https://www.abortretry.fail/p/the-network-is-the-computer)
 - [Iatrogenics: Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
-- [After Snowden, we quit our jobs to build privacy software. It reached 1.0](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
 - [Start test names with “should” &lpar;2020&rpar;](https://paperless.blog/start-test-names-with-should)
 - [I learned seven programming languages](https://mode80.github.io/7-langs-in-12-months.html)
 - [Show HN: Link Book – Quickly save links from around the web to GitHub](https://link-book.vercel.app)
