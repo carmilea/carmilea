@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the Smart Shopper](https://www.theatlantic.com/technology/archive/2023/02/online-amazon-shopping-informed-consumer-quality-control/673017/)
-- [Airspace over Lake Michigan restricted due to national defense](https://finance.yahoo.com/news/3-airspace-over-lake-michigan-154537665.html)
-- [Run Your Own Television Network in the Browser with Channel Two](https://www.chrisfinke.com/2023/02/10/run-your-own-television-network-with-channel-two/)
-- [Poor people pay higher time tax](https://pluralistic.net/2023/02/10/my-time/#like-water-down-the-drain)
-- [IRS builds task force to explore running its own free e-file system](https://federalnewsnetwork.com/it-modernization/2023/02/irs-builds-out-task-force-to-explore-running-its-own-free-e-file-system/)
+- [Balloon Buster](https://en.wikipedia.org/wiki/Balloon_buster)
+- [Why messaging is much better than REST for inter-microservice communications](https://mats3.io/background/rationale-for-mats/)
+- [A tiny genetic change inflicts old age on young kids](https://www.nature.com/articles/d41586-023-00355-z)
+- [Flow Manifest&lpar;o&rpar;](https://flowmanifest.org/)
+- [The fundamental thermodynamic costs of communication](https://arxiv.org/abs/2302.04320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
