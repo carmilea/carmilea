@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
-- [The US military has decommissioned another “object” over Lake Huron](https://twitter.com/RepJackBergman/status/1624868047780515841)
-- [United Airlines 777 dives after departure](https://www.flightradar24.com/blog/united-airlines-777-dives-after-departure/)
+- [“SILEX is the only privately held information that is classified by the US gov.”](https://en.wikipedia.org/wiki/Separation_of_isotopes_by_laser_excitation)
+- [Military shoots down another high-altitude object, over Lake Huron: officials](https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247)
+- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
+- [Algorithmic Trading: A Practitioner’s Guide](https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/)
 - [Amiga with Titanic miniature shoot video taps is treasure-trove of VFX history](https://beforesandafters.com/2023/02/10/an-old-amiga-with-titanic-miniature-shoot-video-taps-on-it-is-a-treasure-trove-of-vfx-history/)
-- [A little bit of slope makes up for a lot of y-intercept &lpar;2012&rpar;](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 <!-- BLOG-POST-LIST:END -->
 
 ---
