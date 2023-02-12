@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
-- [US aircraft shoots down new airborne object over Canada](https://www.bbc.com/news/world-us-canada-64614098)
-- [British woman undertakes trip from London to Edinburgh using only £2 local buses](https://www.theguardian.com/uk-news/2023/feb/11/twitter-gets-behind-womans-london-to-edinburgh-local-bus-expedition)
-- [Why does the SARS-Cov2 genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa? &lpar;2020&rpar;](https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
-- [Deep learning for twelve hour precipitation forecasts](https://www.nature.com/articles/s41467-022-32483-x)
+- [United States Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
+- [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
+- [U.S. FAA closes some airspace in Montana for Defense Department activities](https://www.reuters.com/article/usa-object-montana-idUSL1N34S008)
+- [NOTAM: Montana airspace temporarily restricted for national defense purposes](https://twitter.com/IntelCrab/status/1624569071583854596)
+- [To ease the housing crunch, more places end single-family zoning](https://www.npr.org/2023/02/11/1155094278/states-cities-end-single-family-zoning-housing-affordable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
