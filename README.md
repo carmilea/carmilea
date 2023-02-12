@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned from 1 Year of Intermittent Fasting](https://jamesclear.com/intermittent-fasting-lessons-learned)
-- [Can Intel Come Back?](https://www.ft.com/content/380275f6-6b9f-4e2f-ac5b-e6fca4e6c969)
+- [Iatrogenics: Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
+- [After Snowden, we quit our jobs to build privacy software. It reached 1.0](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
+- [Start test names with “should” &lpar;2020&rpar;](https://paperless.blog/start-test-names-with-should)
+- [I learned seven programming languages](https://mode80.github.io/7-langs-in-12-months.html)
 - [Show HN: Link Book – Quickly save links from around the web to GitHub](https://link-book.vercel.app)
-- [FOSDEM 2023 Transcribed with OpenAI&#39;s Whisper Speech Recognition](https://jonatron.github.io/fosdem2023whisper/links.html)
-- [GitHub is aggressively caching raw.github, breaking many use cases](https://github.com/orgs/community/discussions/46691)
 <!-- BLOG-POST-LIST:END -->
 
 ---
