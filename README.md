@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta delays setting team budgets as Facebook parent plans fresh round of layoffs](https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/)
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
 - [The &lt;Dialog&gt; Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 - [StarFighter 16 inch: 4K Coreboot/Ryzen Linux laptop](https://starlabs.systems/pages/starfighter)
 - [Is it illegal to plug in a device to watch BBC iPlayer or Live TV in Starbucks?](https://law.stackexchange.com/questions/89138/it-is-really-illegal-to-plug-in-a-device-to-watch-bbc-iplayer-or-live-tv-in-a-st)
-- [The New York City Kosher Meat Boycott of 1902](https://daily.jstor.org/inside-the-new-york-city-kosher-meat-boycott-of-1902/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
