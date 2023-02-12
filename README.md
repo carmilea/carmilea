@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [United States Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
+- [U.S. Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
 - [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
 - [U.S. FAA closes some airspace in Montana for Defense Department activities](https://www.reuters.com/article/usa-object-montana-idUSL1N34S008)
+- [Show HN: G-Script – Visual Scripting for the Web](https://g-script.io/)
 - [NOTAM: Montana airspace temporarily restricted for national defense purposes](https://twitter.com/IntelCrab/status/1624569071583854596)
-- [To ease the housing crunch, more places end single-family zoning](https://www.npr.org/2023/02/11/1155094278/states-cities-end-single-family-zoning-housing-affordable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
