@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe can completely ruin your 6-figure business in one minute](https://twitter.com/FlurlyApp/status/1624177183626530816)
 - [Let&#39;s write a setjmp](https://nullprogram.com/blog/2023/02/12/)
-- [Japan adopts plan to make maximum use of nuclear power](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/)
 - [Meta delays setting team budgets as Facebook parent plans fresh round of layoffs](https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/)
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
+- [Show HN: PyCirclize – Circular Visualization in Python](https://github.com/moshi4/pyCirclize)
+- [The &lt;Dialog&gt; Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
