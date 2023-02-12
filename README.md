@@ -55,7 +55,7 @@
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
 - [The &lt;Dialog&gt; Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 - [StarFighter 16 inch: 4K Coreboot/Ryzen Linux laptop](https://starlabs.systems/pages/starfighter)
-- [Is it illegal to plug in a device to watch BBC iPlayer or Live TV in Starbucks?](https://law.stackexchange.com/questions/89138/it-is-really-illegal-to-plug-in-a-device-to-watch-bbc-iplayer-or-live-tv-in-a-st)
+- [Warnock&#39;s dilemma](https://en.wikipedia.org/wiki/Warnock%27s_dilemma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
