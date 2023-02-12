@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&amp;lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
+- [Where is ChatGPT taking us? And do we want to follow?](https://hub.jhu.edu/2023/02/09/chatgpt-qa-khashabi/)
 - [“SILEX is the only privately held information that is classified by the US gov.”](https://en.wikipedia.org/wiki/Separation_of_isotopes_by_laser_excitation)
 - [Military shoots down another high-altitude object, over Lake Huron: officials](https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247)
 - [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
-- [Algorithmic Trading: A Practitioner’s Guide](https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/)
-- [Amiga with Titanic miniature shoot video taps is treasure-trove of VFX history](https://beforesandafters.com/2023/02/10/an-old-amiga-with-titanic-miniature-shoot-video-taps-on-it-is-a-treasure-trove-of-vfx-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
