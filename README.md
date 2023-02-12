@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Warnock&#39;s dilemma](https://en.wikipedia.org/wiki/Warnock%27s_dilemma)
-- [Microsoft failed to rotate certificates for winget CDN on time](https://cdn.winget.microsoft.com/cache)
-- [F-15s Scrambled from Portland Air National Guard Base](https://twitter.com/sentdefender/status/1624576868140679168)
-- [U.S. Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
-- [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
+- [The &lt;Dialog&gt; Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+- [StarFighter 16 inch: 4K Coreboot/Ryzen Linux laptop](https://starlabs.systems/pages/starfighter)
+- [Is it illegal to plug in a device to watch BBC iPlayer or Live TV in Starbucks?](https://law.stackexchange.com/questions/89138/it-is-really-illegal-to-plug-in-a-device-to-watch-bbc-iplayer-or-live-tv-in-a-st)
+- [The New York City Kosher Meat Boycott of 1902](https://daily.jstor.org/inside-the-new-york-city-kosher-meat-boycott-of-1902/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
