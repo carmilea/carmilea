@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
+- [How this database legal war could be decided by the name given to this license](https://www.theregister.com/2023/02/12/software_freedom_conservancy_fights_agplv3/)
 - [Another Russian spacecraft at ISS has a coolant leak](https://spacepolicyonline.com/news/another-russian-spacecraft-at-iss-has-a-coolant-leak/)
 - [Purego – A library for calling C functions from Go without Cgo](https://github.com/ebitengine/purego)
 - [School dental program prevents 80% of cavities with non-invasive treatment](https://www.nyu.edu/about/news-publications/news/2023/february/school-dental-program-prevents-80-percent-of-cavities.html)
-- [I Tried Ketamine to Treat My Depression. It Was Terrifying](https://www.washingtonpost.com/wellness/2023/02/12/ketamine-depression-treatment-failure/)
-- [The FBI’s most controversial surveillance tool is under threat](https://www.wired.com/story/fbi-section-702/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
