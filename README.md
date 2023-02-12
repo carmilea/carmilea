@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers interrupt Iran president’s TV speech on anniversary of revolution](https://www.cnn.com/2023/02/12/middleeast/hackers-interrupt-iran-leader-revolution-anniversary-intl-hnk/index.html)
+- [Vacuum Balloons](https://www.salon.com/2020/09/27/helium-shortage-vacuum-balloons-science-medicine-party-industry-inventors-engineering/)
 - [Sun: The Network Is the Computer](https://www.abortretry.fail/p/the-network-is-the-computer)
 - [Iatrogenics: Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
-- [Start test names with “should” &lpar;2020&rpar;](https://paperless.blog/start-test-names-with-should)
 - [I learned seven programming languages](https://mode80.github.io/7-langs-in-12-months.html)
-- [Show HN: Link Book – Quickly save links from around the web to GitHub](https://link-book.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
