@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Balloon Buster](https://en.wikipedia.org/wiki/Balloon_buster)
-- [Why messaging is much better than REST for inter-microservice communications](https://mats3.io/background/rationale-for-mats/)
-- [A tiny genetic change inflicts old age on young kids](https://www.nature.com/articles/d41586-023-00355-z)
-- [Flow Manifest&lpar;o&rpar;](https://flowmanifest.org/)
-- [The fundamental thermodynamic costs of communication](https://arxiv.org/abs/2302.04320)
+- [Firefox Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
+- [The US military has decommissioned another “object” over Lake Huron](https://twitter.com/RepJackBergman/status/1624868047780515841)
+- [United Airlines 777 dives after departure](https://www.flightradar24.com/blog/united-airlines-777-dives-after-departure/)
+- [Amiga with Titanic miniature shoot video taps is treasure-trove of VFX history](https://beforesandafters.com/2023/02/10/an-old-amiga-with-titanic-miniature-shoot-video-taps-on-it-is-a-treasure-trove-of-vfx-history/)
+- [A little bit of slope makes up for a lot of y-intercept &lpar;2012&rpar;](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 <!-- BLOG-POST-LIST:END -->
 
 ---
