@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons Learned from 1 Year of Intermittent Fasting](https://jamesclear.com/intermittent-fasting-lessons-learned)
+- [Can Intel Come Back?](https://www.ft.com/content/380275f6-6b9f-4e2f-ac5b-e6fca4e6c969)
+- [Show HN: Link Book – Quickly save links from around the web to GitHub](https://link-book.vercel.app)
+- [FOSDEM 2023 Transcribed with OpenAI&#39;s Whisper Speech Recognition](https://jonatron.github.io/fosdem2023whisper/links.html)
 - [GitHub is aggressively caching raw.github, breaking many use cases](https://github.com/orgs/community/discussions/46691)
-- [Correlation Between the Use of Swearwords and Code Quality in Open Source Code? [pdf]](https://cme.h-its.org/exelixis/pubs/JanThesis.pdf)
-- [Let&#39;s write a setjmp](https://nullprogram.com/blog/2023/02/12/)
-- [Meta delays setting team budgets as Facebook parent plans fresh round of layoffs](https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/)
-- [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
