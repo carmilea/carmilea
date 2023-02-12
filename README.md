@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub is aggressively caching raw.github, breaking many use cases](https://github.com/orgs/community/discussions/46691)
+- [Correlation Between the Use of Swearwords and Code Quality in Open Source Code? [pdf]](https://cme.h-its.org/exelixis/pubs/JanThesis.pdf)
 - [Let&#39;s write a setjmp](https://nullprogram.com/blog/2023/02/12/)
 - [Meta delays setting team budgets as Facebook parent plans fresh round of layoffs](https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/)
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
-- [Show HN: PyCirclize – Circular Visualization in Python](https://github.com/moshi4/pyCirclize)
-- [The &lt;Dialog&gt; Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
