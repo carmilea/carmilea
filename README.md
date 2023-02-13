@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDuckGPT brings the magic of ChatGPT to search results](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
+- [Whois server for .SH TLD unresponsive, redirects to IIS page](https://whois.nic.sh/)
+- [DuckDuckGPT brings ChatGPT to search results](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
+- [Coffee won’t give you extra energy, just borrow a bit that you’ll pay for later](https://theconversation.com/nope-coffee-wont-give-you-extra-energy-itll-just-borrow-a-bit-that-youll-pay-for-later-197897)
+- [GPU Video acceleration in the Windows Subsystem for Linux now available](https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/)
 - [Reimplementing the Coreutils in a modern language &lpar;Rust&rpar;](https://fosdem.org/2023/schedule/event/rust_coreutils/)
-- [Show HN: I made Hacker News but for research papers](https://paperlist.io/)
-- [Zentail &lpar;YC S12&rpar; Is Hiring a Sr Software Engineer in Columbia, MD &lpar;Series A&rpar;](https://jobs.lever.co/zentail/0ec12095-ccbb-4915-a10e-a06872dee948)
-- [Let Teenagers Sleep](https://www.scientificamerican.com/article/let-teenagers-sleep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
