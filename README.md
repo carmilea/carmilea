@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Women’s underwear is taxed at higher rates than Men’s](https://www.axios.com/2023/02/13/womens-underwear-tariffs-pink-tax)
-- [Mariana Mazzucato: “The McKinseys and the Deloittes have no expertise ”](https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4)
-- [Mastodon Flock: Migrate your tweeps to the Fediverse](https://mastodon-flock.vercel.app/)
-- [Creator of Linux virtual assistant blames &amp;#x27;patent troll&amp;#x27; for project&amp;#x27;s death](https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/)
-- [Declarative Shadow DOM](https://webkit.org/blog/13851/declarative-shadow-dom/)
+- [Zentail &lpar;YC S12&rpar; Is Hiring a Sr Software Engineer in Columbia, MD &lpar;Series A&rpar;](https://jobs.lever.co/zentail/0ec12095-ccbb-4915-a10e-a06872dee948)
+- [Let Teenagers Sleep](https://www.scientificamerican.com/article/let-teenagers-sleep/)
+- [CDC says teen girls are caught in an extreme wave of sadness and violence](https://www.nbcnews.com/health/health-news/teen-mental-health-cdc-girls-sadness-violence-rcna69964)
+- [The Heart of ChatGPT&amp;#x27;s Darkness](https://cacm.acm.org/blogs/blog-cacm/269854-inside-the-heart-of-chatgpts-darkness/fulltext)
+- [The potential of Kotlin&amp;#x2F;WASM](https://seb.deleuze.fr/the-huge-potential-of-kotlin-wasm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
