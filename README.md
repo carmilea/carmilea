@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Lago &lpar;YC S21&rpar; – Open-source usage-based billing](https://news.ycombinator.com/item?id=34773442)
-- [Toxic gases connected to Ohio train derailment cause concern](https://old.reddit.com/r/news/comments/110n59k/toxic_gases_connected_to_ohio_train_derailment/)
-- [United States tells citizens: Leave Russia immediately](https://www.reuters.com/world/us/united-states-tells-citizens-depart-russia-immediately-2023-02-13/)
-- [What&amp;#x27;s Going Wrong in Particle Physics? [video]](https://www.youtube.com/watch?v=lu4mH3Hmw2o)
-- [Mysterious leak of Booking.com reservation data is being used to scam customers](https://arstechnica.com/information-technology/2023/02/mysterious-leak-of-booking-com-reservation-data-is-being-used-to-scam-customers/)
+- [ESPP Calculator](https://espp.fyi)
+- [American Dream For Rent: Investors elbow out individual home buyers](https://www.ajc.com/american-dream/investor-owned-houses-atlanta/)
+- [Tyler Cowen on the Great Stagnation, pro-progress policy, metascience, and more](https://fasterplease.substack.com/p/tyler-cowen-on-the-state-of-the-great)
+- [Twilio is laying off 17% of workforce](https://www.twilio.com/blog/restructuring-twilio)
+- [A targeted crackdown on “junk fees” makes a lot of sense](https://www.slowboring.com/p/junk-fees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
