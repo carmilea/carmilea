@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ESPP Calculator](https://espp.fyi)
-- [American Dream For Rent: Investors elbow out individual home buyers](https://www.ajc.com/american-dream/investor-owned-houses-atlanta/)
-- [Tyler Cowen on the Great Stagnation, pro-progress policy, metascience, and more](https://fasterplease.substack.com/p/tyler-cowen-on-the-state-of-the-great)
-- [Twilio is laying off 17% of workforce](https://www.twilio.com/blog/restructuring-twilio)
-- [A targeted crackdown on “junk fees” makes a lot of sense](https://www.slowboring.com/p/junk-fees)
+- [The AI Bubble of 2023](https://thereformedbroker.com/2023/02/07/the-ai-bubble-of-2023/)
+- [Bigscreen VR announces Beyond: the world&amp;#x27;s smallest VR headset](https://twitter.com/BigscreenVR/status/1625152589624135698)
+- [When feeling worn out, rotate](https://www.noamlerner.com/post/rotate/)
+- [Mozilla removes Bypass Paywalls Clean extension from its add-ons repository](https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/)
+- [Turkey’s earthquakes show the deadly extent of construction scams](https://www.economist.com/europe/2023/02/12/turkeys-earthquakes-show-the-deadly-extent-of-construction-scams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
