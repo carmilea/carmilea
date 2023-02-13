@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB 0.7.0](https://duckdb.org/2023/02/13/announcing-duckdb-070.html)
+- [Whatever Happened to Elm, Anyway?](https://derw.substack.com/p/whatever-happened-to-elm-anyway)
+- [OSTA&amp;#x2F;ULTA: We overestimate short term and underestimate long-term ability](https://paavandesign.com/blog/ostaulta/)
 - [Making a Homegrown ClickHouse Log for $20&amp;#x2F;mo](https://www.hybridlogic.co.uk/2023/02/clog/)
 - [Ask HN: What is your system for learning new things?](https://news.ycombinator.com/item?id=34771415)
 - [Client Utility Demo &lpar;1998&rpar; [video]](https://www.youtube.com/watch?v=t-OKL7cKarA)
-- [The Odin – DIY genetic engineering](https://www.the-odin.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
