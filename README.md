@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&amp;lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
-- [Where is ChatGPT taking us? And do we want to follow?](https://hub.jhu.edu/2023/02/09/chatgpt-qa-khashabi/)
-- [“SILEX is the only privately held information that is classified by the US gov.”](https://en.wikipedia.org/wiki/Separation_of_isotopes_by_laser_excitation)
-- [Military shoots down another high-altitude object, over Lake Huron: officials](https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247)
-- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
+- [Re-License Vaultwarden to AGPLv3](https://github.com/dani-garcia/vaultwarden/pull/2561)
+- [A Clever Radio Trick Can Tell If a Drone Is Watching You &lpar;2018&rpar;](https://www.wired.com/story/a-clever-radio-trick-can-tell-if-a-drone-is-watching-you/)
+- [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
+- [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
+- [ESA: Small meteorite will safely impact atmosphere tonight over northern France](https://twitter.com/esaoperations/status/1624901825785724929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
