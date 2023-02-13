@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: If you were not laid off, how are your 1:1 meetings going?](https://news.ycombinator.com/item?id=34777401)
-- [Ask HN: Would anyone find this system fair?](https://news.ycombinator.com/item?id=34777224)
-- [TrueVault &lpar;YC W14&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
-- [Z-Library Returns on the Clearnet in Full Hydra-Mode](https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/)
-- [Bing AI can&amp;#x27;t be trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
+- [Creator of Linux virtual assistant blames &amp;#x27;patent troll&amp;#x27; for project&amp;#x27;s death](https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/)
+- [MIT No-AI License](https://ognjen.io/mit-no-ai/)
+- [AI-powered Bing Chat spills its secrets via prompt injection attack](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/)
+- [Google cautions against &amp;#x27;hallucinating&amp;#x27; chatbots](https://www.reuters.com/technology/google-cautions-against-hallucinating-chatbots-report-2023-02-11/)
+- [Modern Mono](https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
