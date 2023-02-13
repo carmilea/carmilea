@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Lago &lpar;YC S21&rpar; – Open-source usage-based billing](https://news.ycombinator.com/item?id=34773442)
 - [Toxic gases connected to Ohio train derailment cause concern](https://old.reddit.com/r/news/comments/110n59k/toxic_gases_connected_to_ohio_train_derailment/)
 - [United States tells citizens: Leave Russia immediately](https://www.reuters.com/world/us/united-states-tells-citizens-depart-russia-immediately-2023-02-13/)
 - [What&amp;#x27;s Going Wrong in Particle Physics? [video]](https://www.youtube.com/watch?v=lu4mH3Hmw2o)
-- [What Happens Now to All the Laid Off Tech Workers? [audio]](https://omny.fm/shows/odd-lots/what-happens-now-to-all-the-laid-off-tech-workers)
-- [How to get a heart attack while using JEB decompiler &lpar;2022&rpar;](https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/)
+- [Mysterious leak of Booking.com reservation data is being used to scam customers](https://arstechnica.com/information-technology/2023/02/mysterious-leak-of-booking-com-reservation-data-is-being-used-to-scam-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
