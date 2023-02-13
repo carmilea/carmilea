@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Re-License Vaultwarden to AGPLv3](https://github.com/dani-garcia/vaultwarden/pull/2561)
-- [A Clever Radio Trick Can Tell If a Drone Is Watching You &lpar;2018&rpar;](https://www.wired.com/story/a-clever-radio-trick-can-tell-if-a-drone-is-watching-you/)
+- [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
 - [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 - [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
 - [ESA: Small meteorite will safely impact atmosphere tonight over northern France](https://twitter.com/esaoperations/status/1624901825785724929)
+- [&amp;lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
