@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing ChatGTP demands an apology from user for claiming it&amp;#x27;s 2023](https://old.reddit.com/r/bing/comments/110eagl/the_customer_service_of_the_new_bing_chat_is/)
+- [US military shoots down object over Lake Huron](https://www.detroitnews.com/story/news/local/michigan/2023/02/12/object-decommissioned-over-lake-huron-michigan-airspace-closure/69897024007/)
 - [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
 - [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 - [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
-- [ESA: Small meteorite will safely impact atmosphere tonight over northern France](https://twitter.com/esaoperations/status/1624901825785724929)
-- [&amp;lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
