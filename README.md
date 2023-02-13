@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Women’s underwear is taxed at higher rates than Men’s](https://www.axios.com/2023/02/13/womens-underwear-tariffs-pink-tax)
+- [Mariana Mazzucato: “The McKinseys and the Deloittes have no expertise ”](https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4)
+- [Mastodon Flock: Migrate your tweeps to the Fediverse](https://mastodon-flock.vercel.app/)
 - [Creator of Linux virtual assistant blames &amp;#x27;patent troll&amp;#x27; for project&amp;#x27;s death](https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/)
-- [MIT No-AI License](https://ognjen.io/mit-no-ai/)
-- [AI-powered Bing Chat spills its secrets via prompt injection attack](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/)
-- [Google cautions against &amp;#x27;hallucinating&amp;#x27; chatbots](https://www.reuters.com/technology/google-cautions-against-hallucinating-chatbots-report-2023-02-11/)
-- [Modern Mono](https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace)
+- [Declarative Shadow DOM](https://webkit.org/blog/13851/declarative-shadow-dom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
