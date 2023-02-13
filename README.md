@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twilio to lay off about 1,500 employees, or 17% of its workforce](https://www.cnbc.com/2023/02/13/twilio-layoffs-1500-employees-17percent-of-workforce.html)
+- [Ask HN: If you were not laid off, how are your 1:1 meetings going?](https://news.ycombinator.com/item?id=34777401)
+- [Ask HN: Would anyone find this system fair?](https://news.ycombinator.com/item?id=34777224)
 - [TrueVault &lpar;YC W14&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
-- [Bing AI Can&amp;#x27;t Be Trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
-- [Ask HN: AI “white mirror” – what are some inspiring future visions you&amp;#x27;ve seen?](https://news.ycombinator.com/item?id=34775667)
-- [Tech Giants Are Building a Dystopia of Desperate Workers and Social Isolation](https://jacobin.com/2023/01/tech-friction-service-work-dystopia)
+- [Z-Library Returns on the Clearnet in Full Hydra-Mode](https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/)
+- [Bing AI can&amp;#x27;t be trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
 <!-- BLOG-POST-LIST:END -->
 
 ---
