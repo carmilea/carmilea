@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whatever Happened to Elm, Anyway?](https://derw.substack.com/p/whatever-happened-to-elm-anyway)
-- [OSTA&amp;#x2F;ULTA: We overestimate short term and underestimate long-term ability](https://paavandesign.com/blog/ostaulta/)
-- [Making a Homegrown ClickHouse Log for $20&amp;#x2F;mo](https://www.hybridlogic.co.uk/2023/02/clog/)
-- [Ask HN: What is your system for learning new things?](https://news.ycombinator.com/item?id=34771415)
-- [Client Utility Demo &lpar;1998&rpar; [video]](https://www.youtube.com/watch?v=t-OKL7cKarA)
+- [Toxic gases connected to Ohio train derailment cause concern](https://old.reddit.com/r/news/comments/110n59k/toxic_gases_connected_to_ohio_train_derailment/)
+- [United States tells citizens: Leave Russia immediately](https://www.reuters.com/world/us/united-states-tells-citizens-depart-russia-immediately-2023-02-13/)
+- [What&amp;#x27;s Going Wrong in Particle Physics? [video]](https://www.youtube.com/watch?v=lu4mH3Hmw2o)
+- [What Happens Now to All the Laid Off Tech Workers? [audio]](https://omny.fm/shows/odd-lots/what-happens-now-to-all-the-laid-off-tech-workers)
+- [How to get a heart attack while using JEB decompiler](https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
