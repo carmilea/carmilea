@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bubble of 2023](https://thereformedbroker.com/2023/02/07/the-ai-bubble-of-2023/)
-- [Bigscreen VR announces Beyond: the world&amp;#x27;s smallest VR headset](https://twitter.com/BigscreenVR/status/1625152589624135698)
-- [When feeling worn out, rotate](https://www.noamlerner.com/post/rotate/)
-- [Mozilla removes Bypass Paywalls Clean extension from its add-ons repository](https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/)
-- [Turkey’s earthquakes show the deadly extent of construction scams](https://www.economist.com/europe/2023/02/12/turkeys-earthquakes-show-the-deadly-extent-of-construction-scams)
+- [Twilio to lay off about 1,500 employees, or 17% of its workforce](https://www.cnbc.com/2023/02/13/twilio-layoffs-1500-employees-17percent-of-workforce.html)
+- [TrueVault &lpar;YC W14&rpar; Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
+- [Bing AI Can&amp;#x27;t Be Trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
+- [Ask HN: AI “white mirror” – what are some inspiring future visions you&amp;#x27;ve seen?](https://news.ycombinator.com/item?id=34775667)
+- [Tech Giants Are Building a Dystopia of Desperate Workers and Social Isolation](https://jacobin.com/2023/01/tech-friction-service-work-dystopia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
