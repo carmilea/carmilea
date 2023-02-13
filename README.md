@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft to Replace Edge’s PDF Reader with Adobe Acrobat](https://www.theregister.com/2023/02/10/microsoft_edge_pdf_acrobat/)
+- [Client Utility Demo &lpar;1998&rpar; [video]](https://www.youtube.com/watch?v=t-OKL7cKarA)
+- [The Odin – DIY genetic engineering](https://www.the-odin.com/)
+- [Show HN: Self-host Whisper As a Service with GUI and queueing](https://github.com/schibsted/WAAS)
 - [Working at Google: Maps](https://albertcory50.substack.com/p/working-at-google-maps)
 - [ArxivGPT: Chrome extension that summarizes arxived research papers using ChatGPT](https://github.com/hunkimForks/chatgpt-arxiv-extension)
-- [KiCad 7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
-- [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
