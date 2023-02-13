@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGPT brings the magic of ChatGPT to search results](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
+- [Reimplementing the Coreutils in a modern language &lpar;Rust&rpar;](https://fosdem.org/2023/schedule/event/rust_coreutils/)
+- [Show HN: I made Hacker News but for research papers](https://paperlist.io/)
 - [Zentail &lpar;YC S12&rpar; Is Hiring a Sr Software Engineer in Columbia, MD &lpar;Series A&rpar;](https://jobs.lever.co/zentail/0ec12095-ccbb-4915-a10e-a06872dee948)
 - [Let Teenagers Sleep](https://www.scientificamerican.com/article/let-teenagers-sleep/)
-- [CDC says teen girls are caught in an extreme wave of sadness and violence](https://www.nbcnews.com/health/health-news/teen-mental-health-cdc-girls-sadness-violence-rcna69964)
-- [The Heart of ChatGPT&amp;#x27;s Darkness](https://cacm.acm.org/blogs/blog-cacm/269854-inside-the-heart-of-chatgpts-darkness/fulltext)
-- [The potential of Kotlin&amp;#x2F;WASM](https://seb.deleuze.fr/the-huge-potential-of-kotlin-wasm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
