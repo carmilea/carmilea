@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to Replace Edge’s PDF Reader with Adobe Acrobat](https://www.theregister.com/2023/02/10/microsoft_edge_pdf_acrobat/)
+- [Working at Google: Maps](https://albertcory50.substack.com/p/working-at-google-maps)
 - [ArxivGPT: Chrome extension that summarizes arxived research papers using ChatGPT](https://github.com/hunkimForks/chatgpt-arxiv-extension)
 - [KiCad 7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
 - [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
-- [Re-License Vaultwarden to AGPLv3](https://github.com/dani-garcia/vaultwarden/pull/2561)
-- [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
