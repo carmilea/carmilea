@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Man Without a Cell Phone](https://annekadet.substack.com/p/nocell)
+- [Deepfake scams are here and we&amp;#x27;re not ready](https://twitter.com/coffeebreak_YT/status/1624868006823165953)
 - [Bing ChatGTP demands an apology from user for claiming it&amp;#x27;s 2023](https://old.reddit.com/r/bing/comments/110eagl/the_customer_service_of_the_new_bing_chat_is/)
-- [US military shoots down object over Lake Huron](https://www.detroitnews.com/story/news/local/michigan/2023/02/12/object-decommissioned-over-lake-huron-michigan-airspace-closure/69897024007/)
-- [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
-- [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
-- [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
+- [KiCad 7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
+- [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
