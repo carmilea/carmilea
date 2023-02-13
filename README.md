@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Man Without a Cell Phone](https://annekadet.substack.com/p/nocell)
-- [Deepfake scams are here and we&amp;#x27;re not ready](https://twitter.com/coffeebreak_YT/status/1624868006823165953)
-- [Bing ChatGTP demands an apology from user for claiming it&amp;#x27;s 2023](https://old.reddit.com/r/bing/comments/110eagl/the_customer_service_of_the_new_bing_chat_is/)
+- [This layoff does not exist](https://thislayoffdoesnotexist.com)
 - [KiCad 7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
 - [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
+- [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
+- [ESA: Small meteorite will safely impact atmosphere tonight over northern France](https://twitter.com/esaoperations/status/1624901825785724929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
