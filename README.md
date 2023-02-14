@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GNU Taler v0.9.0 Released](https://taler.net/en/news/2022-10.html)
+- [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)
+- [Microsoft&amp;#x27;s AI Bing also generated factual errors at launch](https://www.theregister.com/2023/02/14/microsoft_ai_bing_error/)
 - [Whistleblowers Take Note: Don’t Trust Cropping Tools](https://theintercept.com/2023/02/14/whistleblower-image-crop-document/)
-- [Normalization of Deviance &lpar;2015&rpar;](https://danluu.com/wat/)
-- [Eric Schmidt Is Building the Perfect AI War-Fighting Machine](https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/)
-- [Putting solar panels in grazing fields is good for sheep](https://www.newscientist.com/article/2357545-putting-solar-panels-in-grazing-fields-is-good-for-sheep/)
-- [Maybe people do care about performance and reliability](https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/)
+- [Modders are using AI to put voice acting in Morrowind](https://www.pcgamer.com/modders-are-using-ai-to-put-voice-acting-in-morrowind-and-im-impressed-and-concerned-all-at-once/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
