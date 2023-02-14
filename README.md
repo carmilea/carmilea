@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare mitigates record-breaking 71M request-per-second DDoS attack](https://blog.cloudflare.com/cloudflare-mitigates-record-breaking-71-million-request-per-second-ddos-attack/)
+- [The Social Experiment Is Over](https://www.whereisthegooglecar.com)
 - [People can read their manager&amp;#x27;s mind &lpar;2015&rpar;](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Documentation Lead &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4796595004)
-- [Meta reportedly plans more job cuts](https://www.engadget.com/meta-reportedly-plans-to-cut-more-jobs-171716224.html)
 - [My System&amp;#x2F;3 model 10 &lpar;2010&rpar;](http://www.ibmsystem3.nl/my5410/my5410.html)
-- [The lights wink out in Asia](https://scholars-stage.org/the-lights-wink-out-in-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
