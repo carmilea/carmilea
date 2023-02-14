@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GNU Taler v0.9.0 Released](https://taler.net/en/news/2022-10.html)
+- [Hyundai and Kia forced to update millions of vehicles due to TikTok challenge](https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge)
+- [Spotify&amp;#x27;s podcast bet went wrong](https://www.semafor.com/article/02/12/2023/how-spotifys-podcast-bet-went-wrong)
+- [BuzzFeed launches Infinity Quizzes, creating personalized stories using OpenAI](https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/)
+- [India and Pakistan are choking on each other’s pollution](https://www.economist.com/asia/2023/02/13/india-and-pakistan-are-choking-on-each-others-pollution)
 - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)
-- [Microsoft&amp;#x27;s AI Bing also generated factual errors at launch](https://www.theregister.com/2023/02/14/microsoft_ai_bing_error/)
-- [Whistleblowers Take Note: Don’t Trust Cropping Tools](https://theintercept.com/2023/02/14/whistleblower-image-crop-document/)
-- [Modders are using AI to put voice acting in Morrowind](https://www.pcgamer.com/modders-are-using-ai-to-put-voice-acting-in-morrowind-and-im-impressed-and-concerned-all-at-once/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
