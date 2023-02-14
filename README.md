@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford halts production, shipments of F-150 Lightning over possible battery issue](https://www.reuters.com/business/autos-transportation/ford-halts-production-shipment-f-150-lightning-electric-truck-cnbc-2023-02-14/)
-- [Videos show Turkey&amp;#x27;s Erdogan boasted letting builders avoid earthquake codes](https://www.npr.org/2023/02/13/1156512284/turkey-earthquake-erdogan-building-safety)
-- [The tech meltdown comes for Gen Z](https://www.businessinsider.com/tech-jobs-recession-layoffs-gen-z-students-class-of-2023-2023-2)
-- [Disinfection with Far-UV &lpar;222 nm Ultraviolet light&rpar; [pdf]](https://www.boeing.com/confident-travel/downloads/CAP-3_Disinfection_with_Far-UV.pdf)
-- [SS United States, the fastest passenger liner ever built](https://lflank.wordpress.com/2023/02/14/ss-united-states/)
+- [Compact holographic sound fields enable rapid one-step assembly of matter in 3D](https://www.science.org/doi/10.1126/sciadv.adf6182)
+- [Today is the 10th year anniversary of Steam being officially out for Linux](https://store.steampowered.com/oldnews/9943)
+- [50% rejection rate for iPhone casings produced in India shows Apple’s challenge](https://9to5mac.com/2023/02/14/iphone-casings-produced-in-india/)
+- [Show HN: I built a little online drum machine using 808 style samples](https://peel.fm)
+- [Thoughts on getting laid off after nine years at Twilio](https://www.baugues.com/layoff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
