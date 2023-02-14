@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust vs. Haskell](https://serokell.io/blog/rust-vs-haskell)
+- [Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
 - [BBC offices in India raided by tax officials amid Modi documentary fallout](https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout)
+- [Go Ahead and Ban My Book](https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/)
 - [Consultancies know less than they claim and cost more than they seem to](https://twitter.com/FinancialTimes/status/1625219550051442712)
-- [C++23 “Pandemic Edition” is complete](https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/)
-- [Incident: United B772 at Kahului on Dec 18th 2022, pilots filed safety report](http://avherald.com/h?article=50526a09)
-- [Cloudflare mitigates record-breaking 71M request-per-second DDoS attack](https://blog.cloudflare.com/cloudflare-mitigates-record-breaking-71-million-request-per-second-ddos-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
