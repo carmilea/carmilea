@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People can read their manager&amp;#x27;s mind &lpar;2015&rpar;](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Documentation Lead &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4796595004)
 - [Meta reportedly plans more job cuts](https://www.engadget.com/meta-reportedly-plans-to-cut-more-jobs-171716224.html)
-- [Bing thinks Mars has 2.5B people based on an AI generated blog wrong answer](https://imgur.com/a/Qj9U2ia)
-- [My System&amp;#x2F;3 model 10](http://www.ibmsystem3.nl/my5410/my5410.html)
-- [The Lights Wink Out in Asia](https://scholars-stage.org/the-lights-wink-out-in-asia/)
+- [My System&amp;#x2F;3 model 10 &lpar;2010&rpar;](http://www.ibmsystem3.nl/my5410/my5410.html)
+- [The lights wink out in Asia](https://scholars-stage.org/the-lights-wink-out-in-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
