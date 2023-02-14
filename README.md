@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Fast, Persistent, Toy KV Store](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
-- [Hyundai and Kia forced to update millions of vehicles due to TikTok challenge](https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge)
-- [TurboTLS: TLS connection establishment with 1 less round trip](https://arxiv.org/abs/2302.05311)
-- [Spotify&amp;#x27;s podcast bet went wrong](https://www.semafor.com/article/02/12/2023/how-spotifys-podcast-bet-went-wrong)
-- [The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries](https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/)
+- [Ford halts production, shipments of F-150 Lightning over possible battery issue](https://www.reuters.com/business/autos-transportation/ford-halts-production-shipment-f-150-lightning-electric-truck-cnbc-2023-02-14/)
+- [Videos show Turkey&amp;#x27;s Erdogan boasted letting builders avoid earthquake codes](https://www.npr.org/2023/02/13/1156512284/turkey-earthquake-erdogan-building-safety)
+- [The tech meltdown comes for Gen Z](https://www.businessinsider.com/tech-jobs-recession-layoffs-gen-z-students-class-of-2023-2023-2)
+- [Disinfection with Far-UV &lpar;222 nm Ultraviolet light&rpar; [pdf]](https://www.boeing.com/confident-travel/downloads/CAP-3_Disinfection_with_Far-UV.pdf)
+- [SS United States, the fastest passenger liner ever built](https://lflank.wordpress.com/2023/02/14/ss-united-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
