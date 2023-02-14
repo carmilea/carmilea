@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Witch Trials of J.K. Rowling](https://www.thefp.com/p/the-witch-trials-of-jk-rowling)
-- [Rust went from side project to world’s fastest growing language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/)
-- [US defence forces no match for the unstoppable fiend known as Reply-All](https://www.theregister.com/2023/02/14/us_army_reply_all_storm/)
-- [OrbStack: Light Linux containers and VMs on macOS, early access](https://tally.so/r/wa9Nkv)
-- [Tesla Workers Launch Union Campaign in New York](https://www.bloomberg.com/news/articles/2023-02-14/tesla-autopilot-workers-launch-union-campaign-in-buffalo-new-york-tsla)
+- [Startups That Have Employees in Offices Grow 3½ Times Faster](https://steveblank.com/2023/02/14/startups-that-have-employees-in-offices-grow-3-%c2%bd-times-faster/)
+- [Salesforce CEO took 10-day digital detox In French Polynesia after laying off 7k](https://www.businessinsider.com/salesforce-ceo-benioff-10-day-digital-detox-after-layoffs-report-2023-2)
+- [Inflation rose more than expected, up 6.4% from a year ago](https://www.cnbc.com/2023/02/14/consumer-price-index-january-2023-.html)
+- [EU lawmakers approve effective 2035 ban on new fossil fuel cars](https://www.reuters.com/business/autos-transportation/eu-lawmakers-approve-effective-2035-ban-new-fossil-fuel-cars-2023-02-14/)
+- [Watchdog and West Yorkshire police raid crypto ATM operators in UK first](https://www.theguardian.com/technology/2023/feb/14/fca-and-west-yorkshire-police-raid-crypto-operators-in-uk-first)
 <!-- BLOG-POST-LIST:END -->
 
 ---
