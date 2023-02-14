@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whois server for .SH TLD unresponsive, redirects to IIS page](https://whois.nic.sh/)
-- [DuckDuckGPT brings ChatGPT to search results](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
-- [Coffee won’t give you extra energy, just borrow a bit that you’ll pay for later](https://theconversation.com/nope-coffee-wont-give-you-extra-energy-itll-just-borrow-a-bit-that-youll-pay-for-later-197897)
-- [GPU Video acceleration in the Windows Subsystem for Linux now available](https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/)
-- [Reimplementing the Coreutils in a modern language &lpar;Rust&rpar;](https://fosdem.org/2023/schedule/event/rust_coreutils/)
+- [A grim environmental disaster is happening in Ohio and you&amp;#x27;ve not heard about it](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
+- [Why Google prepend while&lpar;1&rpar;; to their JSON responses](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
+- [Google’s Fully Homomorphic Encryption Compiler – A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
+- [U.S. Copyright Office Tells Judge That AI Artwork Isn’t Protectable](https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/)
+- [pix2pix-zero: Zero-Shot Image-to-Image Translation](https://pix2pixzero.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
