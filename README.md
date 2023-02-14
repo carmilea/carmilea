@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Startups That Have Employees in Offices Grow 3½ Times Faster](https://steveblank.com/2023/02/14/startups-that-have-employees-in-offices-grow-3-%c2%bd-times-faster/)
-- [Salesforce CEO took 10-day digital detox In French Polynesia after laying off 7k](https://www.businessinsider.com/salesforce-ceo-benioff-10-day-digital-detox-after-layoffs-report-2023-2)
-- [Inflation rose more than expected, up 6.4% from a year ago](https://www.cnbc.com/2023/02/14/consumer-price-index-january-2023-.html)
-- [EU lawmakers approve effective 2035 ban on new fossil fuel cars](https://www.reuters.com/business/autos-transportation/eu-lawmakers-approve-effective-2035-ban-new-fossil-fuel-cars-2023-02-14/)
-- [Watchdog and West Yorkshire police raid crypto ATM operators in UK first](https://www.theguardian.com/technology/2023/feb/14/fca-and-west-yorkshire-police-raid-crypto-operators-in-uk-first)
+- [Google employees criticize CEO for “dumpster fire” response to ChatGPT](https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/)
+- [The US Air Force successfully tested AI-controlled jet fighter](https://arstechnica.com/cars/2023/02/the-us-air-force-successfully-tested-this-ai-controlled-jet-fighter/)
+- [Arkansas Proposes Requiring ID to Watch Porn Online](https://www.vice.com/en/article/akexaz/arkansas-porn-sites-id-age-verification)
+- [ChatGPT Hardware: A look at 8x NVIDIA A100 powering the tool](https://www.servethehome.com/chatgpt-hardware-a-look-at-8x-nvidia-a100-systems-powering-the-tool-openai-microsoft-azure-supermicro-inspur-asus-dell-gigabyte/)
+- [Show HN: Data Painter – A Different Way to Interact with Your Data](https://docs.kanaries.net/rath/tutorials/data-painter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
