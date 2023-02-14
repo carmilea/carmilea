@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ohio train derailment: environmental disaster quietly unfolding](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
-- [Better without AI](https://betterwithout.ai/)
 - [More than five whys and “layer eight” problems](http://rachelbythebay.com/w/2023/02/13/broken/)
 - [Google’s fully homomorphic encryption compiler – a primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
 - [U.S. copyright office tells judge that AI artwork isn’t protectable](https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/)
+- [pix2pix-zero: Zero-Shot Image-to-Image Translation](https://pix2pixzero.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
