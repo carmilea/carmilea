@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Only You Can Stop an AI Apocalypse](https://betterwithout.ai/only-you-can-stop-an-AI-apocalypse)
+- [Meta reportedly plans more job cuts](https://www.engadget.com/meta-reportedly-plans-to-cut-more-jobs-171716224.html)
+- [Bing thinks Mars has 2.5B people based on an AI generated blog wrong answer](https://imgur.com/a/Qj9U2ia)
 - [My System&amp;#x2F;3 model 10](http://www.ibmsystem3.nl/my5410/my5410.html)
-- [Bay Area plan to ban natural gas](https://www.sfchronicle.com/climate/article/bay-area-gas-heater-debate-17769394.php)
-- [Ohio train derailment: environmental disaster quietly unfolding](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
+- [The Lights Wink Out in Asia](https://scholars-stage.org/the-lights-wink-out-in-asia/)
 - [More than five whys and “layer eight” problems](http://rachelbythebay.com/w/2023/02/13/broken/)
 <!-- BLOG-POST-LIST:END -->
 
