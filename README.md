@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A grim environmental disaster is happening in Ohio and you&amp;#x27;ve not heard about it](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
-- [Why Google prepend while&lpar;1&rpar;; to their JSON responses](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
-- [Google’s Fully Homomorphic Encryption Compiler – A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
-- [U.S. Copyright Office Tells Judge That AI Artwork Isn’t Protectable](https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/)
-- [pix2pix-zero: Zero-Shot Image-to-Image Translation](https://pix2pixzero.github.io/)
+- [Ohio train derailment: environmental disaster quietly unfolding](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
+- [Better without AI](https://betterwithout.ai/)
+- [More than five whys and “layer eight” problems](http://rachelbythebay.com/w/2023/02/13/broken/)
+- [Google’s fully homomorphic encryption compiler – a primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
+- [U.S. copyright office tells judge that AI artwork isn’t protectable](https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
