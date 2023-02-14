@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Fast, Persistent, Toy KV Store](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
 - [Hyundai and Kia forced to update millions of vehicles due to TikTok challenge](https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge)
+- [TurboTLS: TLS connection establishment with 1 less round trip](https://arxiv.org/abs/2302.05311)
 - [Spotify&amp;#x27;s podcast bet went wrong](https://www.semafor.com/article/02/12/2023/how-spotifys-podcast-bet-went-wrong)
-- [BuzzFeed launches Infinity Quizzes, creating personalized stories using OpenAI](https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/)
-- [India and Pakistan are choking on each other’s pollution](https://www.economist.com/asia/2023/02/13/india-and-pakistan-are-choking-on-each-others-pollution)
-- [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)
+- [The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries](https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
