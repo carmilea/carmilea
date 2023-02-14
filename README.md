@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google employees criticize CEO for “dumpster fire” response to ChatGPT](https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/)
-- [The US Air Force successfully tested AI-controlled jet fighter](https://arstechnica.com/cars/2023/02/the-us-air-force-successfully-tested-this-ai-controlled-jet-fighter/)
-- [Arkansas Proposes Requiring ID to Watch Porn Online](https://www.vice.com/en/article/akexaz/arkansas-porn-sites-id-age-verification)
-- [ChatGPT Hardware: A look at 8x NVIDIA A100 powering the tool](https://www.servethehome.com/chatgpt-hardware-a-look-at-8x-nvidia-a100-systems-powering-the-tool-openai-microsoft-azure-supermicro-inspur-asus-dell-gigabyte/)
-- [Show HN: Data Painter – A Different Way to Interact with Your Data](https://docs.kanaries.net/rath/tutorials/data-painter/)
+- [Whistleblowers Take Note: Don’t Trust Cropping Tools](https://theintercept.com/2023/02/14/whistleblower-image-crop-document/)
+- [Normalization of Deviance &lpar;2015&rpar;](https://danluu.com/wat/)
+- [Eric Schmidt Is Building the Perfect AI War-Fighting Machine](https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/)
+- [Putting solar panels in grazing fields is good for sheep](https://www.newscientist.com/article/2357545-putting-solar-panels-in-grazing-fields-is-good-for-sheep/)
+- [Maybe people do care about performance and reliability](https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
