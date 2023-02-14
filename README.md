@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&amp;#x27;m hating it: Mcdonald&amp;#x27;s AI-powered drive-thru sucks](https://gizmodo.com/mcdonalds-ai-fast-food-big-mac-tiktok-1850112205)
-- [Ask HN: Open-source ChatGPT alternatives?](https://news.ycombinator.com/item?id=34795886)
+- [“Tired of being treated like robots,” Tesla Autopilot workers try to unionize](https://arstechnica.com/tech-policy/2023/02/tesla-autopilot-workers-try-to-unionize-are-tired-of-being-treated-like-robots/)
+- [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
+- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [The Case for Frameworks](https://seldo.com/posts/the_case_for_frameworks)
 - [Compact holographic sound fields enable rapid one-step assembly of matter in 3D](https://www.science.org/doi/10.1126/sciadv.adf6182)
-- [50% rejection rate for iPhone casings produced in India shows Apple’s challenge](https://9to5mac.com/2023/02/14/iphone-casings-produced-in-india/)
-- [Show HN: I built a little online drum machine using 808 style samples](https://peel.fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
