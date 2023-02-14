@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BBC offices in India raided by tax officials amid Modi documentary fallout](https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout)
+- [Consultancies know less than they claim and cost more than they seem to](https://twitter.com/FinancialTimes/status/1625219550051442712)
+- [C++23 “Pandemic Edition” is complete](https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/)
+- [Incident: United B772 at Kahului on Dec 18th 2022, pilots filed safety report](http://avherald.com/h?article=50526a09)
 - [Cloudflare mitigates record-breaking 71M request-per-second DDoS attack](https://blog.cloudflare.com/cloudflare-mitigates-record-breaking-71-million-request-per-second-ddos-attack/)
-- [The Social Experiment Is Over](https://www.whereisthegooglecar.com)
-- [People can read their manager&amp;#x27;s mind &lpar;2015&rpar;](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Documentation Lead &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4796595004)
-- [My System&amp;#x2F;3 model 10 &lpar;2010&rpar;](http://www.ibmsystem3.nl/my5410/my5410.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
