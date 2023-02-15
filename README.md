@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Royal Mail dismisses ‘absurd’ $80M ransom demand](https://www.theguardian.com/business/2023/feb/15/under-no-circumstances-will-we-pay-that-absurd-amount-royal-mail-tells-hackers)
-- [Ask HN: Does Google use the text inside gdocs and Gmail for training AI models?](https://news.ycombinator.com/item?id=34807687)
-- [Tax raids at BBC offices in India enter second day](https://www.theguardian.com/world/2023/feb/15/tax-raids-at-bbc-offices-in-india-enter-second-day)
-- [Rerun Is Open Source](https://www.rerun.io/blog/oss-beta)
-- [Linux Looks to Retire Itanium&amp;#x2F;IA64 Support](https://www.phoronix.com/news/Linux-Retire-Itanium-IA64-Patch)
+- [Squares in Squares](https://erich-friedman.github.io/packing/squinsqu/)
+- [For leaders, playing favorites can be a smart strategy](https://phys.org/news/2023-02-leaders-playing-favorites-smart-strategy.html)
+- [It Looks Like You’re Trying to Take over the World](https://gwern.net/fiction/clippy)
+- [Developer Quick Tips](https://www.singlestore.com/blog/developer-quick-tips/)
+- [Many women struggle to breastfeed. Scientists are starting to ask why](https://www.nationalgeographic.com/science/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
