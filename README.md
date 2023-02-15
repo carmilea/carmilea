@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentation related to the implementation of SimCity 2000](https://github.com/dfloer/SC2k-docs)
+- [Walmart is closing tech hubs and bringing IT workers back to the office](https://retailwire.com/discussion/walmart-is-closing-tech-hubs-and-bringing-it-workers-back-to-the-office/)
+- [PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript](https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/)
 - [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
 - [1:12 scale 1983 WarGames WOPR computer model](https://twitter.com/6502b/status/1625507300923392000)
-- [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
-- [Ask HN: What is the most pleasant, uncomplicated full stack to start with?](https://news.ycombinator.com/item?id=34799072)
-- [Court Blocks N.Y. Law Mandating “Hateful Conduct” Policies by Social Media](https://reason.com/volokh/2023/02/14/court-blocks-new-york-law-mandating-posting-of-hateful-conduct-policies-by-social-media-platforms-including-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
