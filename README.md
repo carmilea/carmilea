@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla to Open Some Superchargers to Other Vehicles](https://www.wsj.com/articles/tesla-to-open-some-superchargers-to-other-vehicles-white-house-says-2ed35fd5)
+- [Sanders calls for minimum salary of $60000 for public school teachers](https://www.aft.org/news/bernie-sanders-partners-teachers-demand-higher-pay)
+- [Godot 4.0 RC 2](https://godotengine.org/article/release-candidate-godot-4-0-rc-2/)
+- [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
 - [We need a textodon &lpar;text-only Fediverse hub&rpar;](https://bluelander.bearblog.dev/we-need-a-textodon/)
 - [Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process](https://github.com/matt-kimball/allocscope)
-- [Sea life bounced back fast after the ‘mother of mass extinctions’](https://www.nature.com/articles/d41586-023-00383-9)
-- [Tell HN: DigitalOcean is doing layoffs](https://news.ycombinator.com/item?id=34803696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
