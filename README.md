@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Tired of being treated like robots,” Tesla Autopilot workers try to unionize](https://arstechnica.com/tech-policy/2023/02/tesla-autopilot-workers-try-to-unionize-are-tired-of-being-treated-like-robots/)
-- [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
+- [Berkshire dumps shares in TSMC, banks; increases Apple stake](https://www.reuters.com/business/buffetts-berkshire-reduces-stake-activision-blizzard-2023-02-14/)
+- [SkillzTruth - Proof of concept demonstrating how to cheat on Skillz apps](https://www.skillztruth.com/)
+- [Dis This: Disassemble Python code online](http://blog.pamelafox.org/2023/02/dis-this-disassemble-python-code-online.html)
+- [Saving Energy: Home Server That Automatically Suspends to RAM and Wakes Up Again](https://maximiliangolla.com/blog/2022-10-wol-plex-server/)
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-- [The Case for Frameworks](https://seldo.com/posts/the_case_for_frameworks)
-- [Compact holographic sound fields enable rapid one-step assembly of matter in 3D](https://www.science.org/doi/10.1126/sciadv.adf6182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
