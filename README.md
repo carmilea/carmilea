@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Last Flight Out](https://brr.fyi/posts/last-flight-out)
-- [Frankfurt rail work damaged fibre, causes global Lufthansa check-in system fault](https://www.dw.com/en/lufthansa-system-failure-causing-massive-travel-chaos/a-64705780)
-- [MarioGPT Uses AI to Generate Endless Super Mario Levels for Free](https://www.slashgear.com/1199870/mariogpt-uses-ai-to-generate-endless-super-mario-levels-for-free/)
-- [Android launches yet another way to spy on users with “Privacy Sandbox” beta](https://arstechnica.com/gadgets/2023/02/googles-privacy-sandbox-advertising-system-arrives-on-android-in-beta/)
-- [Real-time Ubuntu is now generally available](https://ubuntu.com/blog/real-time-ubuntu-is-now-generally-available)
+- [Show HN: A compilation of websites with dumb password rules](https://dumbpasswordrules.com/)
+- [Ask HN: Our nonprofit got shut down by PayPal. Help?](https://news.ycombinator.com/item?id=34803684)
+- [The Story of DeLorean’s Snowcat Factory Is Even More Bizarre Than the DMC-12](https://www.thedrive.com/news/40031/the-strange-story-of-john-deloreans-snowcat-factory-is-even-more-bizarre-than-the-dmc-12)
+- [EU sues Member States who refuse to bring in new copyright rules](https://twitter.com/NetopiaEU/status/1625845896758935553)
+- [When Rust Hurts](https://mmapped.blog/posts/15-when-rust-hurts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
