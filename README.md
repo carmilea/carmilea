@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
+- [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
+- [At least four Google AI researchers have joined OpenAI](https://twitter.com/izzyz/status/1625595375087423488)
 - [Berkshire dumps shares in TSMC, banks; increases Apple stake](https://www.reuters.com/business/buffetts-berkshire-reduces-stake-activision-blizzard-2023-02-14/)
-- [SkillzTruth - Proof of concept demonstrating how to cheat on Skillz apps](https://www.skillztruth.com/)
-- [Dis This: Disassemble Python code online](http://blog.pamelafox.org/2023/02/dis-this-disassemble-python-code-online.html)
-- [Saving Energy: Home Server That Automatically Suspends to RAM and Wakes Up Again](https://maximiliangolla.com/blog/2022-10-wol-plex-server/)
-- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [Seven states push to require ID for watching porn online](https://arstechnica.com/tech-policy/2023/02/seven-states-push-to-require-id-for-watching-porn-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
