@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Stripe closed my GPT-3 G.Sheet addon because they think I “sell essays”](https://news.ycombinator.com/item?id=34801809)
-- [Swiss to vote on preventing cashless society, pressure group says](https://www.reuters.com/markets/europe/swiss-vote-preventing-cashless-society-pressure-group-says-2023-02-06/)
-- [DeepMind has open-sourced the heart of AlphaGo and AlphaZero](https://twitter.com/DrJimFan/status/1625538305889820673)
-- [Ohio cleaning up toxic train derailment as pollution &amp;#x27;plume&amp;#x27; moves downstream](https://www.reuters.com/world/us/ohio-cleaning-up-toxic-train-derailment-pollution-plume-moves-downstream-2023-02-15/)
-- [Introduction to Datalog](https://blogit.michelin.io/an-introduction-to-datalog/)
+- [Britons face 20k digital pound cap under Bank of England plan](https://www.reuters.com/markets/currencies/consumers-face-20000-pound-limit-digital-pound-bank-england-says-2023-02-07/)
+- [Ask HN: What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
+- [Nicola Sturgeon to resign as Scotland&amp;#x27;s first minister](https://www.bbc.co.uk/news/uk-scotland-64647907)
+- [Frankfurt rail work damaged fibre, causes global Lufthansa check-in system fault](https://www.dw.com/en/lufthansa-system-failure-causing-massive-travel-chaos/a-64705780)
+- [MarioGPT Uses AI to Generate Endless Super Mario Levels for Free](https://www.slashgear.com/1199870/mariogpt-uses-ai-to-generate-endless-super-mario-levels-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
