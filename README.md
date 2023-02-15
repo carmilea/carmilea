@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Call to Legislate &amp;#x27;Backdoors&amp;#x27; into Stable Diffusion](https://metaphysic.ai/a-call-to-legislate-backdoors-into-stable-diffusion/)
 - [Jonathan Blow: “Video Games and the Future of Education”](https://www.youtube.com/watch?v=qWFScmtiC44)
-- [Ask HN: What&amp;#x27;s a good open-source alternative to Cloudflare?](https://news.ycombinator.com/item?id=34800182)
 - [Documentation related to the implementation of SimCity 2000](https://github.com/dfloer/SC2k-docs)
 - [PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript](https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/)
 - [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
