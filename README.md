@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A compilation of websites with dumb password rules](https://dumbpasswordrules.com/)
-- [Ask HN: Our nonprofit got shut down by PayPal. Help?](https://news.ycombinator.com/item?id=34803684)
-- [The Story of DeLorean’s Snowcat Factory Is Even More Bizarre Than the DMC-12](https://www.thedrive.com/news/40031/the-strange-story-of-john-deloreans-snowcat-factory-is-even-more-bizarre-than-the-dmc-12)
-- [EU sues Member States who refuse to bring in new copyright rules](https://twitter.com/NetopiaEU/status/1625845896758935553)
-- [When Rust Hurts](https://mmapped.blog/posts/15-when-rust-hurts.html)
+- [Tesla to Open Some Superchargers to Other Vehicles](https://www.wsj.com/articles/tesla-to-open-some-superchargers-to-other-vehicles-white-house-says-2ed35fd5)
+- [We need a textodon &lpar;text-only Fediverse hub&rpar;](https://bluelander.bearblog.dev/we-need-a-textodon/)
+- [Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process](https://github.com/matt-kimball/allocscope)
+- [Sea life bounced back fast after the ‘mother of mass extinctions’](https://www.nature.com/articles/d41586-023-00383-9)
+- [Tell HN: DigitalOcean is doing layoffs](https://news.ycombinator.com/item?id=34803696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
