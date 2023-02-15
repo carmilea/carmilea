@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Britons face 20k digital pound cap under Bank of England plan](https://www.reuters.com/markets/currencies/consumers-face-20000-pound-limit-digital-pound-bank-england-says-2023-02-07/)
-- [Ask HN: What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
-- [Nicola Sturgeon to resign as Scotland&amp;#x27;s first minister](https://www.bbc.co.uk/news/uk-scotland-64647907)
+- [Last Flight Out](https://brr.fyi/posts/last-flight-out)
 - [Frankfurt rail work damaged fibre, causes global Lufthansa check-in system fault](https://www.dw.com/en/lufthansa-system-failure-causing-massive-travel-chaos/a-64705780)
 - [MarioGPT Uses AI to Generate Endless Super Mario Levels for Free](https://www.slashgear.com/1199870/mariogpt-uses-ai-to-generate-endless-super-mario-levels-for-free/)
+- [Android launches yet another way to spy on users with “Privacy Sandbox” beta](https://arstechnica.com/gadgets/2023/02/googles-privacy-sandbox-advertising-system-arrives-on-android-in-beta/)
+- [Real-time Ubuntu is now generally available](https://ubuntu.com/blog/real-time-ubuntu-is-now-generally-available)
 <!-- BLOG-POST-LIST:END -->
 
 ---
