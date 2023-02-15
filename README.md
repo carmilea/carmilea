@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing claimed it spied on Microsoft’s employees through webcams on their laptops](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
+- [Prompt Engine – Microsoft&amp;#x27;s prompt engineering library](https://github.com/microsoft/prompt-engine)
 - [Speech is violence? Not if we want a liberal, intellectual society](https://bigthink.com/thinking/is-speech-violence/)
-- [SBF Caught Using VPN While Awaiting Criminal Trial [pdf]](https://ia801508.us.archive.org/25/items/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.66.0.pdf)
 - [Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy](https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy)
-- [Apple delays its mixed reality headset by two months, to debut at WWDC this June](https://9to5mac.com/2023/02/15/apple-headset-release-date-delayed/)
-- [Apple Pushes Back Mixed-Reality Headset Debut Two Months to June](https://www.bloomberg.com/news/articles/2023-02-15/apple-pushes-back-mixed-reality-headset-debut-two-months-to-june)
+- [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
