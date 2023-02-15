@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Royal Mail dismisses ‘absurd’ $80M ransom demand](https://www.theguardian.com/business/2023/feb/15/under-no-circumstances-will-we-pay-that-absurd-amount-royal-mail-tells-hackers)
+- [Tax raids at BBC offices in India enter second day](https://www.theguardian.com/world/2023/feb/15/tax-raids-at-bbc-offices-in-india-enter-second-day)
+- [Rerun Is Open Source](https://www.rerun.io/blog/oss-beta)
 - [Linux Looks to Retire Itanium&amp;#x2F;IA64 Support](https://www.phoronix.com/news/Linux-Retire-Itanium-IA64-Patch)
-- [Swarmlet: A self-hosted, open-source Platform as a Service](https://github.com/swarmlet/swarmlet)
 - [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/)
-- [Show HN: Build auto-updating dashboards in a spreadsheet](https://equals.app/dashboards/)
-- [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
