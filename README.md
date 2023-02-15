@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mysteries by Bill Watterson](https://www.simonandschuster.ca/books/The-Mysteries/Bill-Watterson/9781524884949)
+- [Palestine, Ohio train wreck: It&amp;#x27;s the dioxin](https://planetwavesfm.substack.com/p/palestine-ohio-train-wreck-its-the)
+- [Pussthecat Nitter instance has been shut down arbitrarily for &amp;#x27;hosting&amp;#x27; CP](https://pussthecat.org/nitter/)
+- [Ask HN: What&amp;#x27;s a good open-source alternative to Cloudflare?](https://news.ycombinator.com/item?id=34800182)
 - [Documentation related to the implementation of SimCity 2000](https://github.com/dfloer/SC2k-docs)
-- [Walmart is closing tech hubs and bringing IT workers back to the office](https://retailwire.com/discussion/walmart-is-closing-tech-hubs-and-bringing-it-workers-back-to-the-office/)
 - [PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript](https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/)
-- [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
