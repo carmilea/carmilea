@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
+- [Founder who sold startup to Google says G has lost its mission, is mismanaged](https://www.cnbc.com/2023/02/15/founder-who-sold-his-startup-to-google-says-the-company-has-lost-focus.html)
+- [Install a server in your house, get free hot water!](https://www.cnx-software.com/2023/02/15/install-a-server-in-your-house-get-free-hot-water/)
 - [Squares in Squares](https://erich-friedman.github.io/packing/squinsqu/)
 - [For leaders, playing favorites can be a smart strategy](https://phys.org/news/2023-02-leaders-playing-favorites-smart-strategy.html)
-- [It Looks Like You’re Trying to Take over the World](https://gwern.net/fiction/clippy)
-- [Developer Quick Tips](https://www.singlestore.com/blog/developer-quick-tips/)
-- [Many women struggle to breastfeed. Scientists are starting to ask why](https://www.nationalgeographic.com/science/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
