@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sanders calls for minimum salary of $60000 for public school teachers](https://www.aft.org/news/bernie-sanders-partners-teachers-demand-higher-pay)
-- [Godot 4.0 RC 2](https://godotengine.org/article/release-candidate-godot-4-0-rc-2/)
+- [Linux Looks to Retire Itanium&amp;#x2F;IA64 Support](https://www.phoronix.com/news/Linux-Retire-Itanium-IA64-Patch)
+- [Swarmlet: A self-hosted, open-source Platform as a Service](https://github.com/swarmlet/swarmlet)
+- [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/)
+- [Show HN: Build auto-updating dashboards in a spreadsheet](https://equals.app/dashboards/)
 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
-- [We need a textodon &lpar;text-only Fediverse hub&rpar;](https://bluelander.bearblog.dev/we-need-a-textodon/)
-- [Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process](https://github.com/matt-kimball/allocscope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
