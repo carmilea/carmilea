@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Call to Legislate &amp;#x27;Backdoors&amp;#x27; into Stable Diffusion](https://metaphysic.ai/a-call-to-legislate-backdoors-into-stable-diffusion/)
-- [Jonathan Blow: “Video Games and the Future of Education”](https://www.youtube.com/watch?v=qWFScmtiC44)
-- [Documentation related to the implementation of SimCity 2000](https://github.com/dfloer/SC2k-docs)
-- [PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript](https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/)
-- [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
+- [Tell HN: Stripe closed my GPT-3 G.Sheet addon because they think I “sell essays”](https://news.ycombinator.com/item?id=34801809)
+- [Swiss to vote on preventing cashless society, pressure group says](https://www.reuters.com/markets/europe/swiss-vote-preventing-cashless-society-pressure-group-says-2023-02-06/)
+- [DeepMind has open-sourced the heart of AlphaGo and AlphaZero](https://twitter.com/DrJimFan/status/1625538305889820673)
+- [Ohio cleaning up toxic train derailment as pollution &amp;#x27;plume&amp;#x27; moves downstream](https://www.reuters.com/world/us/ohio-cleaning-up-toxic-train-derailment-pollution-plume-moves-downstream-2023-02-15/)
+- [Introduction to Datalog](https://blogit.michelin.io/an-introduction-to-datalog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
