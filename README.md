@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VRChat Sex Worker Denied Entry to US over ‘Prostitution’](https://www.kotaku.com.au/2023/02/vrchat-sex-worker-denied-entry-to-us-over-prostitution/)
 - [Google Maps Hacks &lpar;2020&rpar;](https://simonweckert.com/googlemapshacks.html)
+- [China’s police are ensnaring thousands of suspects abroad](https://www.economist.com/china/2023/02/14/how-chinas-police-are-ensnaring-thousands-of-suspects-abroad)
 - [CA&amp;#x27;s Prohibition on Workplace Arbitration Agreements Overturned by 9th Circuit](https://news.bloomberglaw.com/daily-labor-report/californias-workplace-arbitration-law-nixed-by-appeals-court)
 - [Show HN: Helium – a headless, open-source LMS](https://github.com/thoughtindustries/helium)
-- [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
-- [WebKit Supports Nested CSS](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
