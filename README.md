@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave/)
+- [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/)
+- [The new Bing will happily give you citations for a pile of nonsense](https://twitter.com/arbuge/status/1626283571294896128)
 - [Moving my PC into my rack in a 2U case](https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case)
 - [Tesla recalls 362,758 vehicles, says full self-driving beta may cause crashes](https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html)
 - [Atlassian says recent data leak stems from third-party vendor hack](https://www.bleepingcomputer.com/news/security/atlassian-says-recent-data-leak-stems-from-third-party-vendor-hack/)
-- [Where do stolen bikes go?](https://news.mit.edu/2023/where-do-stolen-bikes-go-0215)
 <!-- BLOG-POST-LIST:END -->
 
 ---
