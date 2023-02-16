@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hobby Club’s Missing Balloon Feared Shot Down by USAF](https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf)
+- [Does Your Office Have a Library?](https://jonpauluritis.com/articles/does-your-office-have-a-library/)
+- [Controversial experiments that could make bird flu more risky to resume &lpar;2019&rpar;](https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume)
 - [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/)
 - [The new Bing will happily give you citations for a pile of nonsense](https://twitter.com/arbuge/status/1626283571294896128)
-- [Moving my PC into my rack in a 2U case](https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case)
-- [Tesla recalls 362,758 vehicles, says full self-driving beta may cause crashes](https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html)
-- [Atlassian says recent data leak stems from third-party vendor hack](https://www.bleepingcomputer.com/news/security/atlassian-says-recent-data-leak-stems-from-third-party-vendor-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
