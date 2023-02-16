@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbnb nightly rates shot up 36% in 3 years](https://thepointsguy.com/news/airbnb-rate-surge/)
-- [Ask HN: Best examples of software documentation that you&amp;#x27;ve come across?](https://news.ycombinator.com/item?id=34820382)
-- [American drivers have a blinding headlight problem](https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2)
-- [Launch HN: Neptyne &lpar;YC W23&rpar; – A programmable spreadsheet that runs Python](https://news.ycombinator.com/item?id=34818706)
-- [Half of Americans now believe that news organizations deliberately mislead them](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/)
+- [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave/)
+- [Moving my PC into my rack in a 2U case](https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case)
+- [Tesla recalls 362,758 vehicles, says full self-driving beta may cause crashes](https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html)
+- [Atlassian says recent data leak stems from third-party vendor hack](https://www.bleepingcomputer.com/news/security/atlassian-says-recent-data-leak-stems-from-third-party-vendor-hack/)
+- [Where do stolen bikes go?](https://news.mit.edu/2023/where-do-stolen-bikes-go-0215)
 <!-- BLOG-POST-LIST:END -->
 
 ---
