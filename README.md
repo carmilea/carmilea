@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
+- [WebKit Supports Nested CSS](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/)
 - [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
 - [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
 - [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
-- [SkyNews &lpar;Canadian Astronomy magazine&rpar; is closing](https://skynews.ca/skynews-is-closing/)
-- [Zantac’s maker kept quiet about cancer risks for 40 years](https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
