@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Workers “know the truth” about the derailment, why are they being ignored?](https://www.work-bites.com/view-all/workers-know-the-truth-about-the-derailment-disaster-why-are-they-being-ignored)
-- [Our World in Data &lpar;YC W19&rpar; Is Hiring](https://ourworldindata.org/human-resources-manager)
-- [Urine Test Detects Prostate and Pancreatic Cancers with Near-Perfect Accuracy](https://www.sciencedirect.com/science/article/abs/pii/S0956566323000180)
-- [Oakland Declares State of Emergency Due to Ransomware Attack](https://www.nbcbayarea.com/news/local/east-bay/oakland-state-of-emergency-ransomware-attack/3158122/)
-- [The rise and fall of Microsoft’s new Bing](https://garymarcus.substack.com/p/the-rise-and-fall-of-microsofts-new)
+- [‘I will show you how safe Telegram is’](https://twitter.com/jsrailton/status/1625720504366555137)
+- [Automated data analysis for the prevention of criminal acts is unconstitutional](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html)
+- [IKEA made a smart air quality sensor to track indoor pollution](https://www.engadget.com/ikea-vindstyrka-indoor-air-quality-sensor-195810594.html)
+- [Homebrew 4.0.0](https://brew.sh/2023/02/16/homebrew-4.0.0/)
+- [The dangers behind image resizing](https://zuru.tech/blog/the-dangers-behind-image-resizing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
