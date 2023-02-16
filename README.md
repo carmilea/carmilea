@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hobby Club’s Missing Balloon Feared Shot Down by USAF](https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf)
-- [Does Your Office Have a Library?](https://jonpauluritis.com/articles/does-your-office-have-a-library/)
-- [Controversial experiments that could make bird flu more risky to resume &lpar;2019&rpar;](https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume)
-- [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/)
-- [The new Bing will happily give you citations for a pile of nonsense](https://twitter.com/arbuge/status/1626283571294896128)
+- [Silicon Valley Loop How the dot-com crash created Palo Alto’s clueless investors](https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html)
+- [Programming AIs worry me](https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/)
+- [Microsoft to Support Windows 11 on Apple M1 and M2 Macs Through Parallels](https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines)
+- [Bret Fisher – Awesome-Swarm](https://github.com/BretFisher/awesome-swarm)
+- [Zoning laws are no longer in effect in much of the Bay Area](https://www.sfchronicle.com/bayarea/article/california-housing-problem-17783816.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
