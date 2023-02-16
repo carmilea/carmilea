@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American drivers have a blinding headlight problem. It could last for years](https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2)
+- [Launch HN: Neptyne &lpar;YC W23&rpar; – A programmable spreadsheet that runs Python](https://news.ycombinator.com/item?id=34818706)
 - [ChatGPT Is Ingesting Corporate Secrets](https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html)
 - [Half of Americans now believe that news organizations deliberately mislead them](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/)
 - [Show HN: Duffel &lpar;YC S18&rpar; – The fastest way to sell flights](https://duffel.com/links)
-- [Help, Bing Won’t Stop Declaring Its Love for Me](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)
-- [Tesla Terminated Dozens in Response to New Union Campaign, Complaint Alleges](https://www.bloomberg.com/news/articles/2023-02-16/tesla-tsla-fires-unionizing-workers-after-labor-campaign-complaint-alleges)
 <!-- BLOG-POST-LIST:END -->
 
 ---
