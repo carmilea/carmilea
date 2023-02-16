@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Workers “know the truth” about the derailment, why are they being ignored?](https://www.work-bites.com/view-all/workers-know-the-truth-about-the-derailment-disaster-why-are-they-being-ignored)
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring](https://ourworldindata.org/human-resources-manager)
 - [Urine Test Detects Prostate and Pancreatic Cancers with Near-Perfect Accuracy](https://www.sciencedirect.com/science/article/abs/pii/S0956566323000180)
-- [GitHub Sponsors will stop accepting PayPal on February 23, 2023](https://github.com/orgs/community/discussions/45183)
-- [ChatGPT makes up fake academic papers](https://twitter.com/dsmerdon/status/1618816703923912704)
 - [Oakland Declares State of Emergency Due to Ransomware Attack](https://www.nbcbayarea.com/news/local/east-bay/oakland-state-of-emergency-ransomware-attack/3158122/)
+- [The rise and fall of Microsoft’s new Bing](https://garymarcus.substack.com/p/the-rise-and-fall-of-microsofts-new)
 <!-- BLOG-POST-LIST:END -->
 
 ---
