@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
 - [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
 - [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
 - [SkyNews &lpar;Canadian Astronomy magazine&rpar; is closing](https://skynews.ca/skynews-is-closing/)
 - [Zantac’s maker kept quiet about cancer risks for 40 years](https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg)
-- [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
