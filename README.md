@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley Loop How the dot-com crash created Palo Alto’s clueless investors](https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html)
-- [Programming AIs worry me](https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/)
-- [Microsoft to Support Windows 11 on Apple M1 and M2 Macs Through Parallels](https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines)
-- [Bret Fisher – Awesome-Swarm](https://github.com/BretFisher/awesome-swarm)
-- [Zoning laws are no longer in effect in much of the Bay Area](https://www.sfchronicle.com/bayarea/article/california-housing-problem-17783816.php)
+- [Sorting 400 tabs in 60 seconds with JavaScript, Rust and GPT-3](https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/)
+- [Hydrogen: Does Earth hold vast stores of a renewable, carbon-free fuel?](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
+- [Google Workspace increasing prices from April 11, 2023](https://workspace.google.com/blog/product-announcements/pricing-updates-and-more-flexible-payment-options-google-workspace)
+- [I made an early 2000s-inspired internet forum](https://basementcommunity.com)
+- [Writing JavaScript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
