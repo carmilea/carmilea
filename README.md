@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Air Force may have shot down an amateur radio pico balloon over Canada](https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/)
 - [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
 - [WebKit Supports Nested CSS](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/)
 - [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
 - [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
-- [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
