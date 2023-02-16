@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Terminated Dozens in Response to New Union Campaign, Complaint Alleges](https://www.bloomberg.com/news/articles/2023-02-16/tesla-tsla-fires-unionizing-workers-after-labor-campaign-complaint-alleges)
 - [‘I will show you how safe Telegram is’](https://twitter.com/jsrailton/status/1625720504366555137)
 - [Automated data analysis for the prevention of criminal acts is unconstitutional](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html)
 - [IKEA made a smart air quality sensor to track indoor pollution](https://www.engadget.com/ikea-vindstyrka-indoor-air-quality-sensor-195810594.html)
 - [Homebrew 4.0.0](https://brew.sh/2023/02/16/homebrew-4.0.0/)
-- [The dangers behind image resizing](https://zuru.tech/blog/the-dangers-behind-image-resizing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
