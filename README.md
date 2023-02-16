@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bing claimed it spied on Microsoft’s employees through webcams on their laptops](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
-- [Prompt Engine – Microsoft&amp;#x27;s prompt engineering library](https://github.com/microsoft/prompt-engine)
-- [Speech is violence? Not if we want a liberal, intellectual society](https://bigthink.com/thinking/is-speech-violence/)
-- [Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy](https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy)
-- [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
+- [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
+- [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
+- [SkyNews &lpar;Canadian Astronomy magazine&rpar; is closing](https://skynews.ca/skynews-is-closing/)
+- [Zantac’s maker kept quiet about cancer risks for 40 years](https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg)
+- [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
