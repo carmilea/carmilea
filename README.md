@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Is Ingesting Corporate Secrets](https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html)
+- [Half of Americans now believe that news organizations deliberately mislead them](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/)
+- [Show HN: Duffel &lpar;YC S18&rpar; – The fastest way to sell flights](https://duffel.com/links)
+- [Help, Bing Won’t Stop Declaring Its Love for Me](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)
 - [Tesla Terminated Dozens in Response to New Union Campaign, Complaint Alleges](https://www.bloomberg.com/news/articles/2023-02-16/tesla-tsla-fires-unionizing-workers-after-labor-campaign-complaint-alleges)
-- [‘I will show you how safe Telegram is’](https://twitter.com/jsrailton/status/1625720504366555137)
-- [Automated data analysis for the prevention of criminal acts is unconstitutional](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html)
-- [IKEA made a smart air quality sensor to track indoor pollution](https://www.engadget.com/ikea-vindstyrka-indoor-air-quality-sensor-195810594.html)
-- [Homebrew 4.0.0](https://brew.sh/2023/02/16/homebrew-4.0.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
