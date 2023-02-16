@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VRChat Sex Worker Denied Entry to US over ‘Prostitution’](https://www.kotaku.com.au/2023/02/vrchat-sex-worker-denied-entry-to-us-over-prostitution/)
+- [Oakland Declares State of Emergency Due to Ransomware Attack](https://www.nbcbayarea.com/news/local/east-bay/oakland-state-of-emergency-ransomware-attack/3158122/)
+- [Xerox copier flaw changes numbers in scanned docs &lpar;2013&rpar;](https://www.theregister.com/2013/08/06/xerox_copier_flaw_means_dodgy_numbers_and_dangerous_designs/)
 - [Google Maps Hacks &lpar;2020&rpar;](https://simonweckert.com/googlemapshacks.html)
+- [‘Perfect explosion’: merger of neutron stars creates spherical cosmic blast](https://www.theguardian.com/science/2023/feb/15/perfect-explosion-kilonova-neutron-stars-explode)
 - [China’s police are ensnaring thousands of suspects abroad](https://www.economist.com/china/2023/02/14/how-chinas-police-are-ensnaring-thousands-of-suspects-abroad)
-- [CA&amp;#x27;s Prohibition on Workplace Arbitration Agreements Overturned by 9th Circuit](https://news.bloomberglaw.com/daily-labor-report/californias-workplace-arbitration-law-nixed-by-appeals-court)
-- [Show HN: Helium – a headless, open-source LMS](https://github.com/thoughtindustries/helium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
