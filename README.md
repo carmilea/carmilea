@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DocuSign to lay off 10% of its workforce, or about 700 employees](https://www.cnbc.com/2023/02/16/docusign-layoffs-company-to-cut-10percent-of-workforce.html)
-- [American drivers have a blinding headlight problem. It could last for years](https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2)
+- [Airbnb nightly rates shot up 36% in 3 years](https://thepointsguy.com/news/airbnb-rate-surge/)
+- [Ask HN: Best examples of software documentation that you&amp;#x27;ve come across?](https://news.ycombinator.com/item?id=34820382)
+- [American drivers have a blinding headlight problem](https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2)
 - [Launch HN: Neptyne &lpar;YC W23&rpar; – A programmable spreadsheet that runs Python](https://news.ycombinator.com/item?id=34818706)
-- [ChatGPT Is Ingesting Corporate Secrets](https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html)
 - [Half of Americans now believe that news organizations deliberately mislead them](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/)
 <!-- BLOG-POST-LIST:END -->
 
