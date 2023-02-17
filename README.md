@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use Notion to Manage Everything](https://notionthings.com/2023/01/18/my-personal-notion-system-tour-sidekick/)
-- [Loved Before – Recycled soft toy store](https://www.lovedbefore.london)
-- [LineLeap &lpar;YC S19&rpar; is hiring senior full stack and mobile engineers](https://www.lineleap.com/careers)
-- [Intuit pouring money into lobbying amid push for free government-run tax filing](https://www.opensecrets.org/news/2023/02/turbotax-parent-company-intuit-is-pouring-more-money-than-ever-into-lobbying-amid-push-for-free-government-run-tax-filing/)
-- [Microsoft looks to tame Bing chatbot](https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3)
+- [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
+- [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
+- [Analytics: Hacker News v.s. a tweet from Elon Musk](https://simonwillison.net/2023/Feb/17/analytics/)
+- [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1)
+- [HVDC transmission line to connect three ISO regions](https://pv-magazine-usa.com/2023/01/31/hvdc-transmission-line-to-connect-three-iso-regions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
