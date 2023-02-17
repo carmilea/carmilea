@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berkshire Hathaway buys more AAPL stock, ditches most of TSMC](https://9to5mac.com/2023/02/14/warren-buffetts-berkshire-aapl-stock/)
-- [An overview of single-purpose Linux distributions](https://lwn.net/SubscriberLink/922968/4a69aa7f1f2332d7/)
-- [Unpacking the Benefits of Zero Trust Architecture as Defined by NIST](https://www.pomerium.com/blog/what-are-the-benefits-zero-trust-brings-to-organizations/)
-- [Using Cypress Logs Instead of Videos and Screenshots to Debug Test Failures](https://www.singlestore.com/blog/using-cypress-logs-instead-of-videos-and-screenshots-to-debug-test-failures/)
-- [The secret sauce of TikTok’s recommendations](https://www.shaped.ai/blog/the-secret-sauce-of-tik-toks-recommendations)
+- [Amazon calls employees back to office 3 days a week starting 5&amp;#x2F;1](https://www.levels.fyi/community/thread/ayOi5T/amazon-calls-employees-back-to-office-3-days-a-week-starting-51)
+- [Amazon will require employees return to the office 3 days a week](https://www.seattletimes.com/business/amazon-will-require-employees-return-to-the-office-3-days-a-week/)
+- [Show HN: Epstein Documents, Fully Searchable](https://collie.ai/show/epstein)
+- [GoDaddy: Hackers stole source code, installed malware in multi-year breach](https://www.bleepingcomputer.com/news/security/godaddy-hackers-stole-source-code-installed-malware-in-multi-year-breach/)
+- [Did an F-22 Blow Up an Illinois Club’s Hobby Balloon?](https://nymag.com/intelligencer/2023/02/did-an-f-22-blow-up-some-illinois-hobbyists-pico-balloon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
