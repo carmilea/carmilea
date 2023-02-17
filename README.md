@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Funds Seaweed Farming at Offshore Wind Farm to Test CO2 Capture](https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm)
-- [Twilio Flex outage now 6 hours after laying off ~26% staff](https://status.twilio.com)
-- [John Carmack on lead time to push fixes in startups](https://twitter.com/id_aa_carmack/status/1626389610635923457)
-- [Black Holes as the Source of Dark Energy](https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/)
-- [House Passes Bill to Ban Pre-Dispute Employment Arbitration Pacts &lpar;2022&rpar;](https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/house-passes-bill-to-ban-pre-dispute-employment-arbitration-pacts.aspx)
+- [Loved Before – Recycled soft toy store](https://www.lovedbefore.london)
+- [LineLeap &lpar;YC S19&rpar; is hiring senior full stack and mobile engineers](https://www.lineleap.com/careers)
+- [Intuit pouring money into lobbying amid push for free government-run tax filing](https://www.opensecrets.org/news/2023/02/turbotax-parent-company-intuit-is-pouring-more-money-than-ever-into-lobbying-amid-push-for-free-government-run-tax-filing/)
+- [First UK child to receive gene therapy for fatal genetic disorder is now healthy](https://www.livescience.com/1st-uk-child-to-receive-gene-therapy-for-fatal-genetic-disorder-is-now-happy-and-healthy)
+- [Amazon funds seaweed farming at offshore wind farm to test CO2 capture](https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
