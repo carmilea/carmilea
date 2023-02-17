@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Berkshire Hathaway buys more AAPL stock, ditches most of TSMC](https://9to5mac.com/2023/02/14/warren-buffetts-berkshire-aapl-stock/)
+- [An overview of single-purpose Linux distributions](https://lwn.net/SubscriberLink/922968/4a69aa7f1f2332d7/)
+- [Unpacking the Benefits of Zero Trust Architecture as Defined by NIST](https://www.pomerium.com/blog/what-are-the-benefits-zero-trust-brings-to-organizations/)
+- [Using Cypress Logs Instead of Videos and Screenshots to Debug Test Failures](https://www.singlestore.com/blog/using-cypress-logs-instead-of-videos-and-screenshots-to-debug-test-failures/)
 - [The secret sauce of TikTok’s recommendations](https://www.shaped.ai/blog/the-secret-sauce-of-tik-toks-recommendations)
-- [Atlassian and Envoy briefly blame each other for data breach](https://techcrunch.com/2023/02/17/atlassian-and-envoy-briefly-blame-each-other-for-data-breach/)
-- [Leaked files reveal reputation-management firm’s deceptive tactics](https://www.washingtonpost.com/investigations/interactive/2023/eliminalia-fake-news-misinformation/)
-- [We cut our CI pipeline execution time in half](https://www.tinybird.co/blog-posts/better-ci-pipeline-with-data)
-- [Show HN: Laudspeaker – open-source customer journey automation](https://github.com/laudspeaker/laudspeaker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
