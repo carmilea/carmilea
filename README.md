@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Portugal ends Golden Visas, curtails Airbnb rentals to address housing crisis](https://www.reuters.com/markets/europe/portugal-ends-golden-visas-curtails-airbnb-rentals-address-housing-crisis-2023-02-16/)
+- [The idea that life on Earth originated elsewhere is not as far out as it seems](https://aeon.co/videos/the-idea-that-life-on-earth-originated-elsewhere-is-not-as-far-out-as-it-seems)
+- [Is the Living Computer Museum Dead?](https://www.pcjs.org/blog/2023/02/16/)
 - [Bonsai &lpar;YC W16&rpar; hiring PMs, ops, and risk analysts](https://bonsai.crew.work/jobs)
-- [Bing Search API Pricing Update: Massive Price Increase](https://www.microsoft.com/en-us/bing/apis/pricing-update)
-- [Bing’s A.I. Chat: ‘I Want to Be Alive. ’](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
-- [NetHack 3.6.7](https://www.nethack.org/v367/release.html)
-- [Declining Sperm Count: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/declining-sperm-count-much-more-than)
+- [On ChatGPT](https://acoup.blog/2023/02/17/collections-on-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
