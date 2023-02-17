@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/)
+- [Audacium has officially merged with Tenacity](https://github.com/Audacium/audacium/commit/709c098bdc2968c12fcf9b7092af12d11f309101)
+- [Meta Gives Thousands of Staff Subpar Reviews](https://www.wsj.com/articles/og-mark-returns-at-meta-as-facebook-parent-gives-thousands-of-staff-subpar-reviews-56e648b4)
 - [Federal judge sanctions Seattle officials for deleting texts](https://www.seattletimes.com/seattle-news/law-justice/judge-sanctions-city-of-seattle-for-destroying-evidence-in-chop-lawsuit-lets-claims-go-to-trial/)
 - [Kubernetes as a Platform vs. Kubernetes as an API](https://aws.amazon.com/blogs/containers/kubernetes-as-a-platform-vs-kubernetes-as-an-api-2/)
-- [Tesorio Is Hiring a Senior PM and Senior DevOps. Join Our 100% Remote Team](https://www.tesorio.com/careers#job-openings)
-- [GM patents self-cleaning touchscreens that erase fingerprints overnight](https://newatlas.com/technology/self-cleaning-touch-screen-gm/)
-- [What’s Wrong with Bananas](https://worldsensorium.com/whats-wrong-with-bananas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
