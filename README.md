@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonsai &lpar;YC W16&rpar; hiring PMs, ops, and risk analysts](https://bonsai.crew.work/jobs)
 - [Bing Search API Pricing Update: Massive Price Increase](https://www.microsoft.com/en-us/bing/apis/pricing-update)
 - [Bing’s A.I. Chat: ‘I Want to Be Alive. ’](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
 - [NetHack 3.6.7](https://www.nethack.org/v367/release.html)
-- [Firefox Android now supports tampermonkey](https://support.mozilla.org/en-US/kb/whats-new-firefox-android)
-- [Simple Modern JavaScript Using JavaScript Modules and Import Maps](https://vue-mjs.web-templates.io/blog/javascript)
+- [Declining Sperm Count: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/declining-sperm-count-much-more-than)
 <!-- BLOG-POST-LIST:END -->
 
 ---
