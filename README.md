@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Household debt hit record $16.9T](https://abc7.com/us-household-debt-credit-cards-record-card-balance/12825921/)
 - [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
 - [Sloth – A Mac app that shows all open files, directories, sockets, etc.](https://github.com/sveinbjornt/Sloth)
 - [New Malware Abuses Microsoft IIS Feature to Establish Backdoor](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis)
 - [InCaptions: Search in YouTube Captions](https://incaptions.com/)
+- [I_suck_and_my_tests_are_order_dependent](https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!)
 <!-- BLOG-POST-LIST:END -->
 
 ---
