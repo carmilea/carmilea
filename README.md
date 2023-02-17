@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Notion to Manage Everything](https://notionthings.com/2023/01/18/my-personal-notion-system-tour-sidekick/)
 - [Loved Before – Recycled soft toy store](https://www.lovedbefore.london)
 - [LineLeap &lpar;YC S19&rpar; is hiring senior full stack and mobile engineers](https://www.lineleap.com/careers)
 - [Intuit pouring money into lobbying amid push for free government-run tax filing](https://www.opensecrets.org/news/2023/02/turbotax-parent-company-intuit-is-pouring-more-money-than-ever-into-lobbying-amid-push-for-free-government-run-tax-filing/)
-- [First UK child to receive gene therapy for fatal genetic disorder is now healthy](https://www.livescience.com/1st-uk-child-to-receive-gene-therapy-for-fatal-genetic-disorder-is-now-happy-and-healthy)
-- [Amazon funds seaweed farming at offshore wind farm to test CO2 capture](https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm)
+- [Microsoft looks to tame Bing chatbot](https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
