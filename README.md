@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Federal judge sanctions Seattle officials for deleting texts](https://www.seattletimes.com/seattle-news/law-justice/judge-sanctions-city-of-seattle-for-destroying-evidence-in-chop-lawsuit-lets-claims-go-to-trial/)
 - [Kubernetes as a Platform vs. Kubernetes as an API](https://aws.amazon.com/blogs/containers/kubernetes-as-a-platform-vs-kubernetes-as-an-api-2/)
-- [SEC Says Crypto Fugitive Do Kwon Tapped Hoard of 10k Bitcoin via Swiss Bank](https://www.bloomberg.com/news/articles/2023-02-17/crypto-fugitive-do-kwon-tapped-hoard-of-10-000-bitcoin-via-swiss-bank-sec-says)
 - [Tesorio Is Hiring a Senior PM and Senior DevOps. Join Our 100% Remote Team](https://www.tesorio.com/careers#job-openings)
-- [I Think AI Would Kill My Wife](https://lucumr.pocoo.org/2023/2/17/the-killing-ai/)
+- [GM patents self-cleaning touchscreens that erase fingerprints overnight](https://newatlas.com/technology/self-cleaning-touch-screen-gm/)
+- [What’s Wrong with Bananas](https://worldsensorium.com/whats-wrong-with-bananas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
