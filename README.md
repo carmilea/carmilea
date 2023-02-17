@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes as a Platform vs. Kubernetes as an API](https://aws.amazon.com/blogs/containers/kubernetes-as-a-platform-vs-kubernetes-as-an-api-2/)
+- [Tesorio Is Hiring a Senior PM and Senior DevOps. Join Our 100% Remote Team](https://www.tesorio.com/careers#job-openings)
 - [Leonardo da Vinci’s experiments explored gravity as a form of acceleration](https://www.caltech.edu/about/news/leonardo-da-vincis-forgotten-experiments-explored-gravity-as-a-form-of-acceleration)
-- [The Political Bias of ChatGPT – Extended Analysis](https://davidrozado.substack.com/p/political-bias-chatgpt)
-- [The idea that life on Earth originated elsewhere is not as far out as it seems](https://aeon.co/videos/the-idea-that-life-on-earth-originated-elsewhere-is-not-as-far-out-as-it-seems)
-- [Is the Living Computer Museum dead?](https://www.pcjs.org/blog/2023/02/16/)
-- [Bonsai &lpar;YC W16&rpar; hiring PMs, ops, and risk analysts](https://bonsai.crew.work/jobs)
+- [Europe data salary benchmark 2023](https://www.synq.io/blog/europe-data-salary-benchmark-2023)
+- [Throughout the rich world, the young are falling out of love with cars](https://www.economist.com/international/2023/02/16/throughout-the-rich-world-the-young-are-falling-out-of-love-with-cars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
