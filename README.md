@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portugal proposes to end Golden Visas, curtail Airbnb rentals](https://www.reuters.com/markets/europe/portugal-ends-golden-visas-curtails-airbnb-rentals-address-housing-crisis-2023-02-16/)
+- [Leonardo da Vinci’s experiments explored gravity as a form of acceleration](https://www.caltech.edu/about/news/leonardo-da-vincis-forgotten-experiments-explored-gravity-as-a-form-of-acceleration)
+- [The Political Bias of ChatGPT – Extended Analysis](https://davidrozado.substack.com/p/political-bias-chatgpt)
 - [The idea that life on Earth originated elsewhere is not as far out as it seems](https://aeon.co/videos/the-idea-that-life-on-earth-originated-elsewhere-is-not-as-far-out-as-it-seems)
 - [Is the Living Computer Museum dead?](https://www.pcjs.org/blog/2023/02/16/)
-- [People for the Ethical Treatment of Reinforcement Learners](http://petrl.org)
 - [Bonsai &lpar;YC W16&rpar; hiring PMs, ops, and risk analysts](https://bonsai.crew.work/jobs)
 <!-- BLOG-POST-LIST:END -->
 
