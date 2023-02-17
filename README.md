@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon calls employees back to office 3 days a week starting 5&amp;#x2F;1](https://www.levels.fyi/community/thread/ayOi5T/amazon-calls-employees-back-to-office-3-days-a-week-starting-51)
-- [Amazon will require employees return to the office 3 days a week](https://www.seattletimes.com/business/amazon-will-require-employees-return-to-the-office-3-days-a-week/)
-- [Show HN: Epstein Documents, Fully Searchable](https://collie.ai/show/epstein)
-- [GoDaddy: Hackers stole source code, installed malware in multi-year breach](https://www.bleepingcomputer.com/news/security/godaddy-hackers-stole-source-code-installed-malware-in-multi-year-breach/)
-- [Did an F-22 Blow Up an Illinois Club’s Hobby Balloon?](https://nymag.com/intelligencer/2023/02/did-an-f-22-blow-up-some-illinois-hobbyists-pico-balloon.html)
+- [Amazon Funds Seaweed Farming at Offshore Wind Farm to Test CO2 Capture](https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm)
+- [Twilio Flex outage now 6 hours after laying off ~26% staff](https://status.twilio.com)
+- [John Carmack on lead time to push fixes in startups](https://twitter.com/id_aa_carmack/status/1626389610635923457)
+- [Black Holes as the Source of Dark Energy](https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/)
+- [House Passes Bill to Ban Pre-Dispute Employment Arbitration Pacts &lpar;2022&rpar;](https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/house-passes-bill-to-ban-pre-dispute-employment-arbitration-pacts.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
