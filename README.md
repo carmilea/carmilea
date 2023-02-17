@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked files reveal reputation-management firm’s deceptive tactics](https://www.washingtonpost.com/investigations/interactive/2023/eliminalia-fake-news-misinformation/)
+- [Are U.S companies legally obligated to maximize profits for shareholders? &lpar;2012&rpar;](https://skeptics.stackexchange.com/questions/8146/are-u-s-companies-legally-obligated-to-maximize-profits-for-shareholders)
+- [I love building a startup in Rust but wouldn&amp;#x27;t pick it again](https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again)
+- [One of the biggest landlords in Los Angeles just defaulted on $755M](https://fortune.com/2023/02/14/remote-work-los-angeles-office-building-default-brookfield/)
 - [Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/)
-- [Audacium has officially merged with Tenacity](https://github.com/Audacium/audacium/commit/709c098bdc2968c12fcf9b7092af12d11f309101)
-- [Meta Gives Thousands of Staff Subpar Reviews](https://www.wsj.com/articles/og-mark-returns-at-meta-as-facebook-parent-gives-thousands-of-staff-subpar-reviews-56e648b4)
-- [Federal judge sanctions Seattle officials for deleting texts](https://www.seattletimes.com/seattle-news/law-justice/judge-sanctions-city-of-seattle-for-destroying-evidence-in-chop-lawsuit-lets-claims-go-to-trial/)
-- [Kubernetes as a Platform vs. Kubernetes as an API](https://aws.amazon.com/blogs/containers/kubernetes-as-a-platform-vs-kubernetes-as-an-api-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
