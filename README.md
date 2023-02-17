@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing Search API Pricing Update: Massive Price Increase](https://www.microsoft.com/en-us/bing/apis/pricing-update)
+- [Bing’s A.I. Chat: ‘I Want to Be Alive. ’](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
+- [NetHack 3.6.7](https://www.nethack.org/v367/release.html)
 - [Firefox Android now supports tampermonkey](https://support.mozilla.org/en-US/kb/whats-new-firefox-android)
 - [Simple Modern JavaScript Using JavaScript Modules and Import Maps](https://vue-mjs.web-templates.io/blog/javascript)
-- [Modern SPAs without bundlers, CDNs, or Node.js](https://kofi.sexy/blog/modern-spas)
-- [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
-- [Sloth – A Mac app that shows all open files, directories, sockets, etc.](https://github.com/sveinbjornt/Sloth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
