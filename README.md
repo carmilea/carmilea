@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers Discover a More Flexible Approach to Machine Learning](https://nautil.us/researchers-discover-a-more-flexible-approach-to-machine-learning-261703/)
-- [An instant camera using e-paper as film](https://hackaday.com/2023/02/10/an-instant-camera-using-e-paper-as-film/)
-- [How pervasive is corporate fraud?](https://link.springer.com/article/10.1007/s11142-022-09738-5)
-- [White Castle collecting burger slingers&amp;#x27; fingerprints looks like a $17B mistake](https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/)
-- [Doom the Way It Was Meant to Be Played – v1.1 Multi-Monitor](https://www.youtube.com/watch?v=q3NQQ7bPf6U)
+- [Text Is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need)
+- [Twitter Lost $60M a Year Because 390 Telcos Used Bot Accounts to Pump A2P SMS](https://commsrisk.com/elon-musk-says-twitter-lost-60mn-a-year-because-390-telcos-used-bot-accounts-to-pump-a2p-sms/)
+- [TabFS – a browser extension that mounts the browser tabs as a filesystem](https://omar.website/tabfs/)
+- [After Alaska Airlines planes bump runway, a scramble to ‘pull the plug’](https://www.seattletimes.com/business/boeing-aerospace/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/)
+- [Cashless society in Switzerland? People to vote on keeping cash forever](https://www.euronews.com/next/2023/02/06/cashless-society-not-in-switzerland-where-people-will-vote-to-keeping-banknotes-and-coins-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
