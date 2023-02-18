@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar; is hiring to build the best AI app dev platform](http://patterns.app/)
-- [Apple, please don’t take all of the buttons away](https://www.theverge.com/2023/2/18/23604808/apple-iphone-15-pro-button-rumor-haptic)
-- [Returning to Nim from Python and Rust](https://forum.nim-lang.org/t/9906)
-- [Text Is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need)
-- [Chat with Historical Figures Using AI – Learn from the Past in a Fun New Way](https://apps.apple.com/us/app/talkto-ai-chat-ai-characters/id1671836061)
+- [Hundreds of changes made to latest editions of Roald Dahl&amp;#x27;s books](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-books-rewritten-offensive-matilda-witches-twits/)
+- [Minimum wage ‘ghosts’ keep AI arms race from becoming a nightmare](https://www.latimes.com/business/technology/story/2023-02-16/column-google-microsoft-chatgpt-bard-raters)
+- [Password protect a static HTML page](https://github.com/robinmoisson/staticrypt)
+- [Why Firms Are Struggling with the U.S. Economy’s Soft Landing](https://hbr.org/2023/02/why-firms-are-struggling-with-the-u-s-economys-soft-landing)
+- [Tech Progress Is Slowing Down](https://www.wsj.com/articles/tech-progress-is-slowing-down-b7fcaee0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
