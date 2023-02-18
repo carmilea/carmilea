@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack on Functional Programming in C++ &lpar;2018&rpar;](http://www.sevangelatos.com/john-carmack-on/)
+- [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
 - [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
-- [Vancouver hospital patient loses Netflix access due to password crackdown](https://bc.ctvnews.ca/vancouver-hospital-patient-loses-netflix-access-due-to-password-crackdown-1.6279452)
 - [Civilization 7 Is in Development](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
 - [The Janet Language](https://janet-lang.org)
-- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
