@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
+- [Vancouver hospital patient loses Netflix access due to password crackdown](https://bc.ctvnews.ca/vancouver-hospital-patient-loses-netflix-access-due-to-password-crackdown-1.6279452)
+- [After SBF is accused of VPN use, court is asked to restrict his internet access [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.73.0_1.pdf)
 - [Civilization 7 Is in Development](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
-- [Meta’s Push to Solve the Noisy Office](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042)
 - [The Janet Language](https://janet-lang.org)
-- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
-- [It&amp;#x27;s probably time to stop recommending Clean Code &lpar;2020&rpar;](https://qntm.org/clean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
