@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; is hiring to build the best AI app dev platform](http://patterns.app/)
+- [Apple, please don’t take all of the buttons away](https://www.theverge.com/2023/2/18/23604808/apple-iphone-15-pro-button-rumor-haptic)
+- [Returning to Nim from Python and Rust](https://forum.nim-lang.org/t/9906)
 - [Text Is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need)
-- [Twitter Lost $60M a Year Because 390 Telcos Used Bot Accounts to Pump A2P SMS](https://commsrisk.com/elon-musk-says-twitter-lost-60mn-a-year-because-390-telcos-used-bot-accounts-to-pump-a2p-sms/)
-- [TabFS – a browser extension that mounts the browser tabs as a filesystem](https://omar.website/tabfs/)
-- [After Alaska Airlines planes bump runway, a scramble to ‘pull the plug’](https://www.seattletimes.com/business/boeing-aerospace/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/)
-- [Cashless society in Switzerland? People to vote on keeping cash forever](https://www.euronews.com/next/2023/02/06/cashless-society-not-in-switzerland-where-people-will-vote-to-keeping-banknotes-and-coins-)
+- [Chat with Historical Figures Using AI – Learn from the Past in a Fun New Way](https://apps.apple.com/us/app/talkto-ai-chat-ai-characters/id1671836061)
 <!-- BLOG-POST-LIST:END -->
 
 ---
