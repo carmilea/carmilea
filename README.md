@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft “lobotomized” AI-powered Bing Chat, and its fans aren’t happy](https://arstechnica.com/information-technology/2023/02/microsoft-lobotomized-ai-powered-bing-chat-and-its-fans-arent-happy/)
+- [It Is Happening Again](https://www.nplusonemag.com/online-only/online-only/it-is-happening-again/)
+- [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
 - [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
 - [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
-- [Analytics: Hacker News v.s. a tweet from Elon Musk](https://simonwillison.net/2023/Feb/17/analytics/)
-- [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1)
-- [HVDC transmission line to connect three ISO regions](https://pv-magazine-usa.com/2023/01/31/hvdc-transmission-line-to-connect-three-iso-regions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
