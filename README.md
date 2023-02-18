@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fecal indicator bacteria on indoor NYC floors linked to sidewalk contamination](https://journals.sagepub.com/doi/abs/10.1177/1420326X231153566)
+- [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
 - [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
 - [Statement on President Carter’s Health](https://www.cartercenter.org/news/pr/2023/statement-on-president-carters-health.html)
-- [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
-- [Voice.ai denies claim it violated open source software license requirements](https://www.theregister.com/2023/02/08/voiceai_open_source/)
-- [Babel is used by millions, so why are we running out of money? &lpar;2021&rpar;](https://babeljs.io/blog/2021/05/10/funding-update)
+- [IBM CEO Says It&amp;#x27;s a &amp;#x27;Good Thing&amp;#x27; If AI Takes Your Job](https://gizmodo.com/ai-chatgpt-ibm-ceo-take-jobs-bing-google-bard-1850128531)
 <!-- BLOG-POST-LIST:END -->
 
 ---
