@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
+- [Statement on President Carter’s Health](https://www.cartercenter.org/news/pr/2023/statement-on-president-carters-health.html)
 - [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
+- [Voice.ai denies claim it violated open source software license requirements](https://www.theregister.com/2023/02/08/voiceai_open_source/)
 - [Babel is used by millions, so why are we running out of money? &lpar;2021&rpar;](https://babeljs.io/blog/2021/05/10/funding-update)
-- [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
-- [The Lapdock Kit](https://puri.sm/posts/announcing-the-lapdock-kit/)
-- [The Case for Free-Range Lab Mice](https://www.newyorker.com/culture/annals-of-inquiry/the-case-for-free-range-lab-mice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
