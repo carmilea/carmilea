@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Is Down](https://www.githubstatus.com/incidents/t2xwk9mz56f4)
+- [Meta’s Push to Solve the Noisy Office](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042)
 - [The Janet Language](https://janet-lang.org)
-- [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
-- [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
-- [An update on two-factor authentication using SMS on Twitter](https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter)
-- [1Password Park – St. Thomas Ontario](https://www.railwaycitytourism.com/1password-park.html)
+- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
+- [It&amp;#x27;s probably time to stop recommending Clean Code &lpar;2020&rpar;](https://qntm.org/clean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
