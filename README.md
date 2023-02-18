@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Is Down](https://www.githubstatus.com/incidents/t2xwk9mz56f4)
+- [Civilization 7 Is in Development](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
 - [Meta’s Push to Solve the Noisy Office](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042)
 - [The Janet Language](https://janet-lang.org)
 - [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
