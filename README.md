@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hundreds of changes made to latest editions of Roald Dahl&amp;#x27;s books](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-books-rewritten-offensive-matilda-witches-twits/)
+- [Debian 12 “Bookworm” Enters Its Soft Freeze](https://lists.debian.org/debian-devel-announce/2023/02/msg00003.html)
+- [Amazon Takes a 50% Cut of Seller&amp;#x27;s Revenue](https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue)
+- [Mozilla solves the Manifest V3 puzzle to save ad blockers from Chromapocalypse](https://adguard.com/en/blog/firefox-manifestv3-chrome-adblocking.html)
+- [Sips: Scriptable Image Processing System](https://til.simonwillison.net/macos/sips)
 - [Minimum wage ‘ghosts’ keep AI arms race from becoming a nightmare](https://www.latimes.com/business/technology/story/2023-02-16/column-google-microsoft-chatgpt-bard-raters)
-- [Password protect a static HTML page](https://github.com/robinmoisson/staticrypt)
-- [Why Firms Are Struggling with the U.S. Economy’s Soft Landing](https://hbr.org/2023/02/why-firms-are-struggling-with-the-u-s-economys-soft-landing)
-- [Tech Progress Is Slowing Down](https://www.wsj.com/articles/tech-progress-is-slowing-down-b7fcaee0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
