@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ubuntu-minimal depends on Ubuntu-advantage-tools](https://bugs.launchpad.net/ubuntu/+source/ubuntu-meta/+bug/1930914)
+- [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 - [OWASP Needs to Evolve](https://github.com/owasp-change/owasp-change.github.io)
 - [John Carmack on Functional Programming in C++ &lpar;2018&rpar;](http://www.sevangelatos.com/john-carmack-on/)
 - [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
-- [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
