@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft “lobotomized” AI-powered Bing Chat, and its fans aren’t happy](https://arstechnica.com/information-technology/2023/02/microsoft-lobotomized-ai-powered-bing-chat-and-its-fans-arent-happy/)
-- [It Is Happening Again](https://www.nplusonemag.com/online-only/online-only/it-is-happening-again/)
-- [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
-- [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
-- [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
+- [Ask HN: What would it take for an AI to convince us it is conscious?](https://news.ycombinator.com/item?id=34843137)
+- [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
+- [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
+- [An update on two-factor authentication using SMS on Twitter](https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter)
+- [MySpace Rebuilt on Squarespace CMS](https://www.mysquare.space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
