@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
 - [Babel is used by millions, so why are we running out of money? &lpar;2021&rpar;](https://babeljs.io/blog/2021/05/10/funding-update)
 - [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
 - [The Lapdock Kit](https://puri.sm/posts/announcing-the-lapdock-kit/)
 - [The Case for Free-Range Lab Mice](https://www.newyorker.com/culture/annals-of-inquiry/the-case-for-free-range-lab-mice)
-- [Steam now allows you to copy games over a local network to another PC](https://twitter.com/OnDeck/status/1626693524489121793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
