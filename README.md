@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu-minimal depends on Ubuntu-advantage-tools](https://bugs.launchpad.net/ubuntu/+source/ubuntu-meta/+bug/1930914)
+- [Tax data shouldn&amp;#x27;t be up for grabs](https://themarkup.org/hello-world/2023/02/18/your-tax-data-shouldnt-be-up-for-grabs)
+- [White Castle collecting burger slingers&amp;#x27; fingerprints looks like a $17B mistake](https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/)
+- [Doom the Way It Was Meant to Be Played – v1.1 Multi-Monitor](https://www.youtube.com/watch?v=q3NQQ7bPf6U)
 - [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 - [OWASP Needs to Evolve](https://github.com/owasp-change/owasp-change.github.io)
-- [John Carmack on Functional Programming in C++ &lpar;2018&rpar;](http://www.sevangelatos.com/john-carmack-on/)
-- [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
