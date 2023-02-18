@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What would it take for an AI to convince us it is conscious?](https://news.ycombinator.com/item?id=34843137)
+- [The Janet Language](https://janet-lang.org)
 - [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
 - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
 - [An update on two-factor authentication using SMS on Twitter](https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter)
-- [MySpace Rebuilt on Squarespace CMS](https://www.mysquare.space)
+- [1Password Park – St. Thomas Ontario](https://www.railwaycitytourism.com/1password-park.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
