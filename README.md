@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How an AI Porn Industry Is Emerging Through Stable Diffusion](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/)
 - [John Carmack on Functional Programming in C++ &lpar;2018&rpar;](http://www.sevangelatos.com/john-carmack-on/)
 - [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
 - [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
-- [Civilization 7 Is in Development](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
-- [The Janet Language](https://janet-lang.org)
+- [What modern utilities should be a standard part of a modern unixy distro?](https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
