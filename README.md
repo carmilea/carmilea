@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How an AI Porn Industry Is Emerging Through Stable Diffusion](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/)
+- [Ubuntu-minimal depends on Ubuntu-advantage-tools](https://bugs.launchpad.net/ubuntu/+source/ubuntu-meta/+bug/1930914)
 - [OWASP Needs to Evolve](https://github.com/owasp-change/owasp-change.github.io)
 - [John Carmack on Functional Programming in C++ &lpar;2018&rpar;](http://www.sevangelatos.com/john-carmack-on/)
 - [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
