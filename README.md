@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
 - [Vancouver hospital patient loses Netflix access due to password crackdown](https://bc.ctvnews.ca/vancouver-hospital-patient-loses-netflix-access-due-to-password-crackdown-1.6279452)
-- [After SBF is accused of VPN use, court is asked to restrict his internet access [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.73.0_1.pdf)
 - [Civilization 7 Is in Development](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
 - [The Janet Language](https://janet-lang.org)
+- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
