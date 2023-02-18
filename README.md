@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian 12 “Bookworm” Enters Its Soft Freeze](https://lists.debian.org/debian-devel-announce/2023/02/msg00003.html)
-- [Amazon Takes a 50% Cut of Seller&amp;#x27;s Revenue](https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue)
-- [Mozilla solves the Manifest V3 puzzle to save ad blockers from Chromapocalypse](https://adguard.com/en/blog/firefox-manifestv3-chrome-adblocking.html)
-- [Sips: Scriptable Image Processing System](https://til.simonwillison.net/macos/sips)
-- [Minimum wage ‘ghosts’ keep AI arms race from becoming a nightmare](https://www.latimes.com/business/technology/story/2023-02-16/column-google-microsoft-chatgpt-bard-raters)
+- [Babel is used by millions, so why are we running out of money? &lpar;2021&rpar;](https://babeljs.io/blog/2021/05/10/funding-update)
+- [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
+- [The Lapdock Kit](https://puri.sm/posts/announcing-the-lapdock-kit/)
+- [The Case for Free-Range Lab Mice](https://www.newyorker.com/culture/annals-of-inquiry/the-case-for-free-range-lab-mice)
+- [Steam now allows you to copy games over a local network to another PC](https://twitter.com/OnDeck/status/1626693524489121793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
