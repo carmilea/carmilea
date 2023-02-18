@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tax data shouldn&amp;#x27;t be up for grabs](https://themarkup.org/hello-world/2023/02/18/your-tax-data-shouldnt-be-up-for-grabs)
+- [Researchers Discover a More Flexible Approach to Machine Learning](https://nautil.us/researchers-discover-a-more-flexible-approach-to-machine-learning-261703/)
+- [An instant camera using e-paper as film](https://hackaday.com/2023/02/10/an-instant-camera-using-e-paper-as-film/)
+- [How pervasive is corporate fraud?](https://link.springer.com/article/10.1007/s11142-022-09738-5)
 - [White Castle collecting burger slingers&amp;#x27; fingerprints looks like a $17B mistake](https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/)
 - [Doom the Way It Was Meant to Be Played – v1.1 Multi-Monitor](https://www.youtube.com/watch?v=q3NQQ7bPf6U)
-- [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
-- [OWASP Needs to Evolve](https://github.com/owasp-change/owasp-change.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
