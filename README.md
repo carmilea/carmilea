@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Measuring Adiposity in Patients: The Utility of Body Mass Index &lpar;BMI&rpar; &amp;amp; Body Fat](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033308)
 - [Chex Quest](https://www.chocolate-doom.org/wiki/index.php/Chex_Quest)
-- [How did you mastered the art of programming?](https://news.ycombinator.com/item?id=34854160)
 - [Blizzard Infuriate Devs, End Remote Work, Cut Profit Sharing Bonus, Insult QA](https://www.youtube.com/watch?v=NVDpaqFLD24)
 - [Detecting Missile Launches with Ionospheric Disturbances](https://twitter.com/ACWPodcast/status/1605373513661001729)
-- [The Average American Man Is Too Fat for Universal’s New Mario Kart Ride](https://www.thedrive.com/news/the-average-american-man-is-too-fat-for-universals-new-mario-kart-ride)
+- [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
