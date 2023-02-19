@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
-- [&amp;quot;BGP at home&amp;quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
-- [80k megapixel panorama photograph of New York City](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)
-- [Portugal Says No More Golden Visas and No More Airbnbs](https://gizmodo.com/digital-nomad-airbnb-golden-visa-remote-work-1850127066)
-- [A Spiritual Successor to Emacs](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)
+- [Chex Quest](https://www.chocolate-doom.org/wiki/index.php/Chex_Quest)
+- [How did you mastered the art of programming?](https://news.ycombinator.com/item?id=34854160)
+- [Blizzard Infuriate Devs, End Remote Work, Cut Profit Sharing Bonus, Insult QA](https://www.youtube.com/watch?v=NVDpaqFLD24)
+- [Detecting Missile Launches with Ionospheric Disturbances](https://twitter.com/ACWPodcast/status/1605373513661001729)
+- [The Average American Man Is Too Fat for Universal’s New Mario Kart Ride](https://www.thedrive.com/news/the-average-american-man-is-too-fat-for-universals-new-mario-kart-ride)
 <!-- BLOG-POST-LIST:END -->
 
 ---
