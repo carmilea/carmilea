@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learnt while trying to modernize some C code](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
+- [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
+- [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [Meta’s testing $12 per month paid verification on Instagram and Facebook](https://www.theverge.com/2023/2/19/23606268/meta-instagram-facebook-test-paid-verification)
 - [The AI-powered Seinfeld spoof returns to Twitch with new guardrails in place](https://www.theverge.com/2023/2/18/23604961/nothing-forever-twitch-ai-suspension-ban-lift-mismatch-media)
-- [Newly public companies going private again](https://www.wsj.com/articles/going-private-again-is-all-the-rage-among-newly-public-companies-93fff45e)
-- [Never use a URL shortening service – even if you own it](https://shkspr.mobi/blog/2023/02/never-use-a-url-shortening-service-even-if-you-own-it/)
-- [Revenue is easy, profit is harder](https://www.edge.ceo/p/revenue-is-easy-profit-is-harder)
-- [Germany raises red flags about Palantir’s big data dragnet](https://www.wired.com/story/palantir-germany-gotham-dragnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
