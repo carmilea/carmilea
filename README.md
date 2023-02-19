@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple fires hundreds of contract workers, previously assured jobs were safe](https://www.indiatoday.in/technology/news/story/apple-fires-hundreds-of-contract-workers-company-previously-assured-their-jobs-are-safe-2336055-2023-02-17)
+- [&amp;quot;BGP at home&amp;quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
+- [80k megapixel panorama photograph of New York City](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)
 - [Portugal Says No More Golden Visas and No More Airbnbs](https://gizmodo.com/digital-nomad-airbnb-golden-visa-remote-work-1850127066)
 - [A Spiritual Successor to Emacs](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)
 - [Fully documented source code for Elite on the BBC Micro](https://www.bbcelite.com/)
-- [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
