@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finland is the latest EU country to crack down on Google Analytics](https://www.simpleanalytics.com/blog/finland-is-latest-eu-country-to-crack-down-on-google-analytics)
-- [vramfs – GPU VRAM based file system for Linux](https://github.com/Overv/vramfs)
-- [Chex Quest](https://www.chocolate-doom.org/wiki/index.php/Chex_Quest)
-- [Detecting missile launches with ionospheric disturbances](https://twitter.com/ACWPodcast/status/1605373513661001729)
-- [Cobalt is suddenly abundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
+- [AI Looks Like a Bubble](https://every.to/napkin-math/ai-looks-like-a-bubble)
+- [Duplicate Word Finder](https://duplicateword.com)
+- [Lost in the Stock](https://www.eater.com/23552129/what-is-in-store-bought-chicken-stock)
+- [Maigret’s Jurisdiction](https://lareviewofbooks.org/article/maigrets-jurisdiction/)
+- [RIP WC](https://thebeautyoftransport.com/2023/02/15/r-i-p-w-c-1930s-southern-railway-toilets-havant-station-hampshire-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
