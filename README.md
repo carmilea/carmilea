@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to launch monthly subscription service priced at $11.99](https://www.nbcnews.com/news/us-news/meta-launch-monthly-subscription-service-priced-1199-rcna71388)
+- [A Docker footgun led to a vandal deleting NewsBlur&amp;#x27;s MongoDB database &lpar;2021&rpar;](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
+- [Domestic violence hotline calls will soon be invisible on your family phone plan](https://arstechnica.com/tech-policy/2023/02/domestic-violence-hotline-calls-will-soon-be-invisible-on-your-family-phone-plan/)
 - [Lessons learnt while trying to modernize some C code](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
 - [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
-- [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt)
-- [Meta’s testing $12 per month paid verification on Instagram and Facebook](https://www.theverge.com/2023/2/19/23606268/meta-instagram-facebook-test-paid-verification)
-- [The AI-powered Seinfeld spoof returns to Twitch with new guardrails in place](https://www.theverge.com/2023/2/18/23604961/nothing-forever-twitch-ai-suspension-ban-lift-mismatch-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
