@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Private Again Is All the Rage Among Newly Public Companies](https://www.wsj.com/articles/going-private-again-is-all-the-rage-among-newly-public-companies-93fff45e)
-- [Words ‘created the internet.’ Now the Supreme Court may be coming for them](https://www.cnn.com/2023/02/18/tech/section-230-explainer/index.html)
+- [The AI-powered Seinfeld spoof returns to Twitch with new guardrails in place](https://www.theverge.com/2023/2/18/23604961/nothing-forever-twitch-ai-suspension-ban-lift-mismatch-media)
+- [Newly public companies going private again](https://www.wsj.com/articles/going-private-again-is-all-the-rage-among-newly-public-companies-93fff45e)
+- [Never use a URL shortening service – even if you own it](https://shkspr.mobi/blog/2023/02/never-use-a-url-shortening-service-even-if-you-own-it/)
 - [Revenue is easy, profit is harder](https://www.edge.ceo/p/revenue-is-easy-profit-is-harder)
 - [Germany raises red flags about Palantir’s big data dragnet](https://www.wired.com/story/palantir-germany-gotham-dragnet/)
-- [Intentional Camera Movement Photography Magazine](https://www.icmphotomag.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
