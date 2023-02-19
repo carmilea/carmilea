@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Local-First Web Development](https://localfirstweb.dev)
-- [The Age 30 Crisis and Seasons of a Man&amp;#x27;s Life](https://robkhenderson.substack.com/p/the-age-30-crisis-and-seasons-of)
-- [Shimano’s three-pulley rear derailleur could revolutionise drivetrain design](https://www.bikeradar.com/news/shimano-three-pulley-rear-derailleur-patent/)
-- [New headless Chrome has been released and has a near-perfect browser fingerprint](https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html)
-- [Building an ARM64 home server the hard way](https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html)
+- [Going Private Again Is All the Rage Among Newly Public Companies](https://www.wsj.com/articles/going-private-again-is-all-the-rage-among-newly-public-companies-93fff45e)
+- [Words ‘created the internet.’ Now the Supreme Court may be coming for them](https://www.cnn.com/2023/02/18/tech/section-230-explainer/index.html)
+- [Revenue is easy, profit is harder](https://www.edge.ceo/p/revenue-is-easy-profit-is-harder)
+- [Germany raises red flags about Palantir’s big data dragnet](https://www.wired.com/story/palantir-germany-gotham-dragnet/)
+- [Intentional Camera Movement Photography Magazine](https://www.icmphotomag.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
