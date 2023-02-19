@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain Names Owned by Tesco](https://robbiesblog.com/domain-names-owned-by-tesco/12146)
+- [RightWingGPT – An AI Manifesting the Opposite Political Biases of ChatGPT](https://davidrozado.substack.com/p/rightwinggpt)
+- [Using AI tools to design an entire website](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code)
+- [Self hosting in 2023](https://grifel.dev/decentralization/)
 - [A Docker footgun led to a vandal deleting NewsBlur&amp;#x27;s MongoDB database &lpar;2021&rpar;](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
-- [Lessons learnt while trying to modernize some C code](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
-- [City of Cincinnati to Close Water Intake at GCWW](https://www.cincinnati-oh.gov/cityofcincinnati/news/city-to-close-water-intake-feb2023/)
-- [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
-- [Meta selling new “Meta Verified” blue badge for $12-15&amp;#x2F;month](https://www.facebook.com/zuck/posts/pfbid02979GyAHwTKsMd7ngCiHTRCHyeTCEHwYe9Evq3YV2ffvxUY7fKVb9TGyKEUFBeo3kl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
