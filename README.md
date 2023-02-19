@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IRIS²: The EU’s Response to Musk’s Starlink](https://www.reneweuropegroup.eu/news/2023-02-14/iris2-the-eus-response-to-elon-musks-starlink-satellites-project)
 - [AI Looks Like a Bubble](https://every.to/napkin-math/ai-looks-like-a-bubble)
 - [Duplicate Word Finder](https://duplicateword.com)
 - [Lost in the Stock](https://www.eater.com/23552129/what-is-in-store-bought-chicken-stock)
 - [Maigret’s Jurisdiction](https://lareviewofbooks.org/article/maigrets-jurisdiction/)
-- [RIP WC](https://thebeautyoftransport.com/2023/02/15/r-i-p-w-c-1930s-southern-railway-toilets-havant-station-hampshire-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
