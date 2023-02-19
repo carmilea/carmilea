@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Norvig – Chomsky Debate on Statistical Learning in AI](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
-- [Dancing is stupid](https://stan.bar/dancing-is-stupid/)
+- [Local-First Web Development](https://localfirstweb.dev)
+- [The Age 30 Crisis and Seasons of a Man&amp;#x27;s Life](https://robkhenderson.substack.com/p/the-age-30-crisis-and-seasons-of)
 - [Shimano’s three-pulley rear derailleur could revolutionise drivetrain design](https://www.bikeradar.com/news/shimano-three-pulley-rear-derailleur-patent/)
 - [New headless Chrome has been released and has a near-perfect browser fingerprint](https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html)
 - [Building an ARM64 home server the hard way](https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html)
