@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Names Owned by Tesco](https://robbiesblog.com/domain-names-owned-by-tesco/12146)
-- [RightWingGPT – An AI Manifesting the Opposite Political Biases of ChatGPT](https://davidrozado.substack.com/p/rightwinggpt)
+- [Google abandoned Fastlane, it has no maintainers currently](https://mastodon.social/@joshdholtz/109892201251474243)
 - [Using AI tools to design an entire website](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code)
 - [Self hosting in 2023](https://grifel.dev/decentralization/)
-- [A Docker footgun led to a vandal deleting NewsBlur&amp;#x27;s MongoDB database &lpar;2021&rpar;](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
+- [Recovery at California&amp;#x27;s most beleaguered reservoir](https://www.cnn.com/2023/02/19/us/lake-oroville-before-and-after-storms-climate/index.html)
+- [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
