@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Finland is the latest EU country to crack down on Google Analytics](https://www.simpleanalytics.com/blog/finland-is-latest-eu-country-to-crack-down-on-google-analytics)
+- [vramfs – GPU VRAM based file system for Linux](https://github.com/Overv/vramfs)
 - [Chex Quest](https://www.chocolate-doom.org/wiki/index.php/Chex_Quest)
 - [Detecting missile launches with ionospheric disturbances](https://twitter.com/ACWPodcast/status/1605373513661001729)
-- [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
-- [&amp;quot;BGP at home&amp;quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
+- [Cobalt is suddenly abundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
