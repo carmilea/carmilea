@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radical anti-minority Indian YouTuber gets YouTube award](https://twitter.com/FriedrichPieter/status/1626736222029905920)
-- [Core-JS is holding the internet hostage](https://onengineering.substack.com/p/core-js-is-holding-the-internet-hostage)
-- [Measuring Adiposity in Patients: The Utility of Body Mass Index &lpar;BMI&rpar; &amp;amp; Body Fat](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033308)
+- [Finland is the latest EU country to crack down on Google Analytics](https://www.simpleanalytics.com/blog/finland-is-latest-eu-country-to-crack-down-on-google-analytics)
 - [Chex Quest](https://www.chocolate-doom.org/wiki/index.php/Chex_Quest)
-- [Detecting Missile Launches with Ionospheric Disturbances](https://twitter.com/ACWPodcast/status/1605373513661001729)
+- [Detecting missile launches with ionospheric disturbances](https://twitter.com/ACWPodcast/status/1605373513661001729)
+- [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
+- [&amp;quot;BGP at home&amp;quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
