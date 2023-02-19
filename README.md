@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI won’t make artists redundant – thanks to information theory](https://p.migdal.pl/blog/2023/02/ai-arts-information-theory/)
-- [Atomic Heart Leaked. No, Not the Gameplay, Maybe the Entire Game](https://thecyberexpress.com/atomic-heart-leaked/)
-- [Duplicate Word Finder](https://duplicateword.com)
+- [Building an ARM64 home server the hard way](https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html)
+- [CAD Sketcher, free and open-source project bringing CAD like tools to Blender3d](https://www.cadsketcher.com)
+- [Voice.ai Stole Open-Source Code, Banned Developer Who Informed Them About This](https://www.theinsaneapp.com/2023/02/voice-ai-stole-open-source-code.html)
+- [Show HN: Duplicate Word Finder](https://duplicateword.com)
 - [Lost in the Stock](https://www.eater.com/23552129/what-is-in-store-bought-chicken-stock)
-- [Maigret’s Jurisdiction](https://lareviewofbooks.org/article/maigrets-jurisdiction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
