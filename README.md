@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fecal indicator bacteria on indoor NYC floors linked to sidewalk contamination](https://journals.sagepub.com/doi/abs/10.1177/1420326X231153566)
+- [Apple fires hundreds of contract workers, previously assured jobs were safe](https://www.indiatoday.in/technology/news/story/apple-fires-hundreds-of-contract-workers-company-previously-assured-their-jobs-are-safe-2336055-2023-02-17)
+- [Portugal Says No More Golden Visas and No More Airbnbs](https://gizmodo.com/digital-nomad-airbnb-golden-visa-remote-work-1850127066)
+- [A Spiritual Successor to Emacs](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)
+- [Fully documented source code for Elite on the BBC Micro](https://www.bbcelite.com/)
 - [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
-- [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
-- [Statement on President Carter’s Health](https://www.cartercenter.org/news/pr/2023/statement-on-president-carters-health.html)
-- [IBM CEO Says It&amp;#x27;s a &amp;#x27;Good Thing&amp;#x27; If AI Takes Your Job](https://gizmodo.com/ai-chatgpt-ibm-ceo-take-jobs-bing-google-bard-1850128531)
 <!-- BLOG-POST-LIST:END -->
 
 ---
