@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Still ‘Lisp’ &lpar;and You Should Too&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
+- [IBM Research&amp;#x27;s Vela Is an AI Supercomputer in the Cloud – IBM Research Blog](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
 - [Google abandoned Fastlane, it has no maintainers currently](https://mastodon.social/@joshdholtz/109892201251474243)
 - [Using AI tools to design an entire website](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code)
 - [Self hosting in 2023](https://grifel.dev/decentralization/)
-- [Recovery at California&amp;#x27;s most beleaguered reservoir](https://www.cnn.com/2023/02/19/us/lake-oroville-before-and-after-storms-climate/index.html)
-- [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
