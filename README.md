@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Norvig – Chomsky Debate on Statistical Learning in AI](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
+- [Dancing is stupid](https://stan.bar/dancing-is-stupid/)
+- [Shimano’s three-pulley rear derailleur could revolutionise drivetrain design](https://www.bikeradar.com/news/shimano-three-pulley-rear-derailleur-patent/)
 - [New headless Chrome has been released and has a near-perfect browser fingerprint](https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html)
 - [Building an ARM64 home server the hard way](https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html)
-- [CAD Sketcher, free and open-source project bringing CAD like tools to Blender3d](https://www.cadsketcher.com)
-- [Voice.ai Stole Open-Source Code, Banned Developer Who Informed Them About This](https://www.theinsaneapp.com/2023/02/voice-ai-stole-open-source-code.html)
-- [Show HN: Duplicate Word Finder](https://duplicateword.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
