@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [London is handing out free meals for all primary school children](https://www.cnn.com/2023/02/20/economy/london-free-school-meals/index.html)
-- [UK ‘barking up wrong tree’ trying to get over-50s back to work](https://www.theguardian.com/business/2023/feb/20/over-50s-back-to-work-uk-lcp-report)
+- [California AG and state senators introduce bill to ban hidden fees](https://oag.ca.gov/news/press-releases/attorney-general-bonta-senator-dodd-senator-skinner-introduce-bill-prohibiting)
+- [Simulating Softbody Dynamics in Vlang](https://l-m.dev/cs/softbody-dynamics-terminal/)
+- [Running large language models like ChatGPT on a single GPU](https://github.com/Ying1123/FlexGen)
+- [Ask HN: I Need to Talk to Someone](https://news.ycombinator.com/item?id=34869326)
 - [Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis](https://github.com/Kanaries/pygwalker)
-- [Photographer captures image of rare fish that walks on its ‘hands’](https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html)
-- [Jack&amp;#x27;s Ass](https://sdf.org/~vito/jack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
