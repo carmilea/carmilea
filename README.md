@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
 - [Police say GPS tag darts can eliminate need for dangerous high-speed chases](https://www.cbsnews.com/chicago/news/oak-brook-police-gps-tag-darts/)
 - [Bing threatens to dox a student in revenge for prompt hacking](https://twitter.com/tobyordoxford/status/1627414519784910849)
 - [I still Lisp &lpar;2021&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
 - [IBM Research&amp;#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
-- [Rust – What made it “click” for me &lpar;Ownership and memory internals&rpar;](https://deavid.wordpress.com/2021/06/06/rust-what-made-it-click-for-me-ownership-memory-internals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
