@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visitor accidentally shatters Jeff Koons &amp;#x27;balloon dog&amp;#x27; sculpture](https://www.cnn.com/style/article/jeff-koons-balloon-dog-broken-miami/index.html)
+- [Goodbye, CSS-Tricks](https://geoffgraham.me/goodbye-css-tricks/)
 - [Two Jewish Kids in 1930s Cleveland Altered American Pop Culture](https://lithub.com/how-two-jewish-kids-in-1930s-cleveland-altered-the-course-of-american-pop-culture/)
 - [ControlNET and Stable Diffusion: A Game Changer for AI Image Generation](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
-- [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
-- [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
-- [I still Lisp &lpar;2021&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
+- [Was the Nord Stream 2 Rupture an Accidental Catalyst?](https://oalexanderdk.substack.com/p/was-the-nord-stream-2-rupture-an)
 <!-- BLOG-POST-LIST:END -->
 
 ---
