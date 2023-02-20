@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My class required AI. Here&amp;#x27;s what I&amp;#x27;ve learned so far](https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive)
-- [Creation happens in silence](https://josem.co/creation-happens-in-silence/)
-- [Abraham Lincoln, America’s First Tech-Lawyer](https://e-discoveryteam.com/2023/02/19/happy-birthday-to-abraham-lincoln-americas-first-tech-lawyer/)
-- [AMD’s RDNA 2: Shooting for the Top](https://chipsandcheese.com/2023/02/19/amds-rdna-2-shooting-for-the-top/)
-- [Traceo is now open source](https://github.com/traceo-dev/traceo)
+- [Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis](https://github.com/Kanaries/pygwalker)
+- [Photographer captures image of rare fish that walks on its ‘hands’](https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html)
+- [Jack&amp;#x27;s Ass](https://sdf.org/~vito/jack.html)
+- [Microsoft Is Forcibly Removing Internet Explorer from Your PC](https://www.wired.com/story/microsoft-removing-internet-explorer-from-pcs/)
+- [Opossum: Cross-platform web browser written in Golang, optimized for Plan 9](https://github.com/psilva261/opossum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
