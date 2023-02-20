@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI generates US presidents as Pixar characters](https://twitter.com/DSzymborski/status/1627038833455038469)
-- [Visitor accidentally shatters Jeff Koons &amp;#x27;balloon dog&amp;#x27; sculpture](https://www.cnn.com/style/article/jeff-koons-balloon-dog-broken-miami/index.html)
+- [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
+- [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
 - [Goodbye, CSS-Tricks](https://geoffgraham.me/goodbye-css-tricks/)
 - [Two Jewish kids in 1930s Cleveland altered American pop culture](https://lithub.com/how-two-jewish-kids-in-1930s-cleveland-altered-the-course-of-american-pop-culture/)
 - [ControlNET and Stable Diffusion: A Game Changer for AI Image Generation](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
