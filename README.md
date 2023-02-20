@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [London is handing out free meals for all primary school children](https://www.cnn.com/2023/02/20/economy/london-free-school-meals/index.html)
+- [UK ‘barking up wrong tree’ trying to get over-50s back to work](https://www.theguardian.com/business/2023/feb/20/over-50s-back-to-work-uk-lcp-report)
 - [Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis](https://github.com/Kanaries/pygwalker)
 - [Photographer captures image of rare fish that walks on its ‘hands’](https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html)
 - [Jack&amp;#x27;s Ass](https://sdf.org/~vito/jack.html)
-- [Microsoft Is Forcibly Removing Internet Explorer from Your PC](https://www.wired.com/story/microsoft-removing-internet-explorer-from-pcs/)
-- [Opossum: Cross-platform web browser written in Golang, optimized for Plan 9](https://github.com/psilva261/opossum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
