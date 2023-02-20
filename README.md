@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD’s RDNA 2: Shooting for the Top](https://chipsandcheese.com/2023/02/19/amds-rdna-2-shooting-for-the-top/)
 - [Traceo is now open source](https://github.com/traceo-dev/traceo)
-- [Developer with ADHD? You’re not alone](https://stackoverflow.blog/2023/02/19/developer-with-adhd-youre-not-alone/)
+- [Show HN: Replicad, the Library for CAD in the Browser](https://replicad.xyz/)
+- [There’s been no disinvestment in infrastructure &lpar;2017&rpar;](https://www.strongtowns.org/journal/2017/9/17/everything-thats-wrong-with-america-in-two-charts-not)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- [Amsterdam supermarket offers free groceries, life coach to struggling families](https://nltimes.nl/2023/01/25/amsterdam-supermarket-offers-free-groceries-life-coach-struggling-families)
-- [ESA is building an early warning system for dangerous asteroids](https://www.universetoday.com/160181/esa-is-building-an-early-warning-system-for-dangerous-asteroids/#more-160181)
 <!-- BLOG-POST-LIST:END -->
 
 ---
