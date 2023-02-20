@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CheatGPT](https://blog.humphd.org/cheatgpt/)
+- [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+- [Microsoft&amp;#x27;s Bing plans AI ads in early pitch to advertisers](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/)
 - [California AG and state senators introduce bill to ban hidden fees](https://oag.ca.gov/news/press-releases/attorney-general-bonta-senator-dodd-senator-skinner-introduce-bill-prohibiting)
 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
-- [Simulating Softbody Dynamics in Vlang](https://l-m.dev/cs/softbody-dynamics-terminal/)
-- [Running large language models like ChatGPT on a single GPU](https://github.com/Ying1123/FlexGen)
-- [Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis](https://github.com/Kanaries/pygwalker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
