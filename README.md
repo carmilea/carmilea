@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A complete guide to Linux process scheduling [pdf]](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
-- [Down the Cloudflare &amp;#x2F; Stripe &amp;#x2F; OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
-- [China&amp;#x27;s FAST telescope reveals unprecedented details of Milky Way](http://english.news.cn/20221210/865dca4b89474d109a57a5957277fba1/c.html)
-- [Raspberry Pi Debug Probe: a plug-and-play debug kit](https://www.raspberrypi.com/news/raspberry-pi-debug-probe-a-plug-and-play-debug-kit-for-12/)
-- [AWS Creates New Policy-Based Access Control Language Cedar](https://www.infoq.com/news/2023/02/aws-policy-language-cedar/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- [Amsterdam supermarket offers free groceries, life coach to struggling families](https://nltimes.nl/2023/01/25/amsterdam-supermarket-offers-free-groceries-life-coach-struggling-families)
+- [ESA is building an early warning system for dangerous asteroids](https://www.universetoday.com/160181/esa-is-building-an-early-warning-system-for-dangerous-asteroids/#more-160181)
+- [ESA – Terrae Novae: Europe&amp;#x27;s exploration vision](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Terrae_Novae_Europe_s_exploration_vision)
+- [Gitlab&amp;#x27;s Startup Acquisition Process](https://about.gitlab.com/handbook/acquisitions/acquisition-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
