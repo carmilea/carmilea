@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [California AG and state senators introduce bill to ban hidden fees](https://oag.ca.gov/news/press-releases/attorney-general-bonta-senator-dodd-senator-skinner-introduce-bill-prohibiting)
+- [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
 - [Simulating Softbody Dynamics in Vlang](https://l-m.dev/cs/softbody-dynamics-terminal/)
 - [Running large language models like ChatGPT on a single GPU](https://github.com/Ying1123/FlexGen)
-- [Ask HN: I Need to Talk to Someone](https://news.ycombinator.com/item?id=34869326)
 - [Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis](https://github.com/Kanaries/pygwalker)
 <!-- BLOG-POST-LIST:END -->
 
