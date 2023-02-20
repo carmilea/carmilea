@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China&amp;#x27;s FAST telescope reveals unprecedented details of Milky Way](http://english.news.cn/20221210/865dca4b89474d109a57a5957277fba1/c.html)
 - [AWS Creates New Policy-Based Access Control Language Cedar](https://www.infoq.com/news/2023/02/aws-policy-language-cedar/)
 - [Ask HN: What are these strange random strings spamming my blog?](https://news.ycombinator.com/item?id=34865695)
 - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
 - [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
-- [Goodbye, CSS-Tricks](https://geoffgraham.me/goodbye-css-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
