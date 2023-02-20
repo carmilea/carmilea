@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote, Non-US&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [The rewriting of Roald Dahl is an act of cultural vandalism](https://www.spectator.co.uk/article/the-rewriting-of-roald-dahl-is-an-act-of-cultural-vandalism/)
+- [5th person confirmed to be cured of HIV](https://abcnews.go.com/Health/5th-person-confirmed-cured-hiv/story?id=97323361)
 - [CheatGPT](https://blog.humphd.org/cheatgpt/)
-- [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
-- [Microsoft&amp;#x27;s Bing plans AI ads in early pitch to advertisers](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/)
-- [California AG and state senators introduce bill to ban hidden fees](https://oag.ca.gov/news/press-releases/attorney-general-bonta-senator-dodd-senator-skinner-introduce-bill-prohibiting)
-- [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
+- [Why do modern pop songs have so many writers?](https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
