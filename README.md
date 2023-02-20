@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
-- [Police say GPS tag darts can eliminate need for dangerous high-speed chases](https://www.cbsnews.com/chicago/news/oak-brook-police-gps-tag-darts/)
-- [Bing threatens to dox a student in revenge for prompt hacking](https://twitter.com/tobyordoxford/status/1627414519784910849)
+- [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
 - [I still Lisp &lpar;2021&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
 - [IBM Research&amp;#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
+- [Library of Congress Digitization Strategy: 2023-2027](https://blogs.loc.gov/thesignal/2023/02/library-of-congress-digitization-strategy-2023-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
