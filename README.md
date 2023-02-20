@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Traceo is now open source](https://github.com/traceo-dev/traceo)
+- [Developer with ADHD? You’re not alone](https://stackoverflow.blog/2023/02/19/developer-with-adhd-youre-not-alone/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
 - [Amsterdam supermarket offers free groceries, life coach to struggling families](https://nltimes.nl/2023/01/25/amsterdam-supermarket-offers-free-groceries-life-coach-struggling-families)
 - [ESA is building an early warning system for dangerous asteroids](https://www.universetoday.com/160181/esa-is-building-an-early-warning-system-for-dangerous-asteroids/#more-160181)
-- [ESA – Terrae Novae: Europe&amp;#x27;s exploration vision](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Terrae_Novae_Europe_s_exploration_vision)
-- [Gitlab&amp;#x27;s Startup Acquisition Process](https://about.gitlab.com/handbook/acquisitions/acquisition-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
