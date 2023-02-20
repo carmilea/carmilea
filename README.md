@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Jewish Kids in 1930s Cleveland Altered American Pop Culture](https://lithub.com/how-two-jewish-kids-in-1930s-cleveland-altered-the-course-of-american-pop-culture/)
+- [ControlNET and Stable Diffusion: A Game Changer for AI Image Generation](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
 - [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
 - [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
 - [I still Lisp &lpar;2021&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
-- [IBM Research&amp;#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
-- [Library of Congress Digitization Strategy: 2023-2027](https://blogs.loc.gov/thesignal/2023/02/library-of-congress-digitization-strategy-2023-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
