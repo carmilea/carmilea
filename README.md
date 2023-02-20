@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
+- [Something is wrong in the state of QED](https://arxiv.org/abs/2110.02078)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote, Non-US&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
-- [The rewriting of Roald Dahl is an act of cultural vandalism](https://www.spectator.co.uk/article/the-rewriting-of-roald-dahl-is-an-act-of-cultural-vandalism/)
 - [5th person confirmed to be cured of HIV](https://abcnews.go.com/Health/5th-person-confirmed-cured-hiv/story?id=97323361)
 - [CheatGPT](https://blog.humphd.org/cheatgpt/)
-- [Why do modern pop songs have so many writers?](https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
