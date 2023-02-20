@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide to Linux process scheduling [pdf]](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
+- [Down the Cloudflare &amp;#x2F; Stripe &amp;#x2F; OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
 - [China&amp;#x27;s FAST telescope reveals unprecedented details of Milky Way](http://english.news.cn/20221210/865dca4b89474d109a57a5957277fba1/c.html)
+- [Raspberry Pi Debug Probe: a plug-and-play debug kit](https://www.raspberrypi.com/news/raspberry-pi-debug-probe-a-plug-and-play-debug-kit-for-12/)
 - [AWS Creates New Policy-Based Access Control Language Cedar](https://www.infoq.com/news/2023/02/aws-policy-language-cedar/)
-- [Ask HN: What are these strange random strings spamming my blog?](https://news.ycombinator.com/item?id=34865695)
-- [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
-- [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
