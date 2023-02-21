@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Society Is Not Prepared for This Much AI Awesome](https://www.jonstokes.com/p/i-say-this-unironically-our-society)
+- [Early morning university classes linked to poor sleep and academic performance](https://www.nature.com/articles/s41562-023-01531-x)
+- [A pilot scheme to trail the four-day workweek in Britain deemed a success](https://www.economist.com/britain/2022/11/17/a-pilot-scheme-to-trail-the-four-day-workweek-in-britain)
 - [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
-- [How India’s caste system manifests in Seattle-area workplaces and beyond](https://www.seattletimes.com/seattle-news/how-indias-caste-system-manifests-in-seattle-area-workplaces-and-beyond/)
-- [Magic doesn&amp;#x27;t work that way](https://jakobgreenfeld.com/modern-magic)
 - [James Somers on a Whisper-driven Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
-- [What Mary Didn&amp;#x27;t Know &lpar;1986&rpar; [pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
