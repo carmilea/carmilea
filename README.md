@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Albanian Gangs Have Set Up Their Own CCTV Networks to Spy on Cops](https://www.vice.com/en/article/xgynb4/albanian-gangs-cctv)
-- [The design of in-car climate controls has gone backward](https://www.theturnsignalblog.com/blog/climate-control-design/)
+- [ChatGPT for Robotics](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
+- [Show HN: YoBulk – Open Source GPT powered CSV importer[Flatfile.com alternative]](https://github.com/yobulkdev/yobulkdev)
+- [Albanian gangs have set up their own CCTV networks to spy on cops](https://www.vice.com/en/article/xgynb4/albanian-gangs-cctv)
 - [TIL: You Can Stop Updating Copyright Attribution Years &lpar;2021&rpar;](https://hynek.me/til/copyright-years/)
 - [Researchers fool self-driving cars with stickers on street signs &lpar;2017&rpar;](https://www.thedrive.com/tech/13258/researchers-fool-self-driving-cars-with-stickers-on-street-signs)
-- [Linux 6.3 Introducing Hardware Noise “Hwnoise” Tool](https://www.phoronix.com/news/Linux-6.3-hwnoise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
