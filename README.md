@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wilson&amp;#x27;s 3D-Printed Basketball Is Full of Holes but Never Goes Flat](https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570)
+- [Sci-fi becomes real as renowned magazine closes submissions due to AI writers](https://arstechnica.com/information-technology/2023/02/sci-fi-becomes-real-as-renowned-magazine-closes-submissions-due-to-ai-writers/)
+- [World’s Largest Four-Day Work Week Trial Finds Few Are Going Back](https://www.bloomberg.com/news/articles/2023-02-21/four-day-work-week-uk-study-finds-majority-of-employers-shifting)
 - [Jerry &lpar;YC S17&rpar; Is Hiring a Senior &amp;#x2F; Staff Engineer &lpar;China Remote&rpar;](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
-- [Reddit is experiencing a partial outage](https://www.redditstatus.com)
-- [Spy Balloon Simulator](https://spyballoonsim.hornetsnestguild.com/)
-- [Microsoft is now injecting full-size ads on Chrome website](https://www.neowin.net/news/microsoft-is-now-injecting-full-size-ads-on-chrome-website-to-make-you-stay-on-edge/)
-- [AdNauseam – clicking ads so you don&amp;#x27;t have to](https://adnauseam.io/)
+- [Using Vector Functions for Image Matching in SQL with SingleStoreDB](https://www.singlestore.com/blog/using-vector-functions-image-matching-sql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
