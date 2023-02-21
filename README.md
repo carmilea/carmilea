@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
+- [How India’s caste system manifests in Seattle-area workplaces and beyond](https://www.seattletimes.com/seattle-news/how-indias-caste-system-manifests-in-seattle-area-workplaces-and-beyond/)
 - [Magic doesn&amp;#x27;t work that way](https://jakobgreenfeld.com/modern-magic)
-- [Spike mRNA vaccine sequences circulate in blood up to 28 days after vaccination](https://onlinelibrary.wiley.com/doi/10.1111/apm.13294)
-- [You Need at Least $3M in Savings to Live Comfortably in Retirement](https://www.bloomberg.com/news/articles/2023-02-21/saving-for-retirement-investors-say-you-ll-need-3-million-to-be-comfortable)
+- [James Somers on a Whisper-driven Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
 - [What Mary Didn&amp;#x27;t Know &lpar;1986&rpar; [pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
-- [A global addiction to plastic is turning into an environmental disaster](https://www.barrons.com/articles/cheap-new-plastic-choking-the-world-9b318936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
