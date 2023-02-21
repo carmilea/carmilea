@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote driving in UK from abroad should not be allowed, says Law Commission](https://www.bbc.co.uk/news/technology-64705924)
-- [US food additives banned in EU. Expert says &amp;quot;almost certainly&amp;quot; making US sick](https://www.cbsnews.com/news/us-food-additives-banned-europe-making-americans-sick-expert-says/)
-- [How to build a super-slim smart mirror](https://www.raspberrypi.com/tutorials/how-to-build-a-super-slim-smart-mirror/)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring in Paris to build Generative AI Image Editing Apps](https://www.photoroom.com/company/)
-- [AMD EPYC 9004 Genoa Under-the-Lid – ServeTheHome](https://www.servethehome.com/amd-epyc-9004-genoa-under-the-lid/)
+- [ChatGPT Has Already Decreased My Income Security, and Likely Yours Too](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/)
+- [Linux 6.3 Introducing Hardware Noise “Hwnoise” Tool](https://www.phoronix.com/news/Linux-6.3-hwnoise)
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [Device corkscrews itself into the ground like a seed [video]](https://www.youtube.com/watch?v=MZC_hXx1_Yc)
+- [Haiku Package Management](https://www.markround.com/blog/2023/02/13/haiku-package-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
