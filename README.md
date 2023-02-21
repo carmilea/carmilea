@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Mary Didn&amp;#x27;t Know &lpar;1986&rpar;[pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
-- [Seattle could become the first city to ban caste discrimination](https://www.knkx.org/social-justice/2023-02-20/seattle-could-become-the-first-city-to-ban-caste-discrimination)
-- [The World’s Plastic Use Is Getting Worse. Cheap New Plastic Is Choking the World](https://www.barrons.com/articles/cheap-new-plastic-choking-the-world-9b318936)
-- [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
-- [Thread on Andreessen Horowitz and &amp;#x27;zero interest rate phenomena&amp;#x27;](https://twitter.com/tylertringas/status/1627449217294958592)
+- [Magic doesn&amp;#x27;t work that way](https://jakobgreenfeld.com/modern-magic)
+- [Spike mRNA vaccine sequences circulate in blood up to 28 days after vaccination](https://onlinelibrary.wiley.com/doi/10.1111/apm.13294)
+- [You Need at Least $3M in Savings to Live Comfortably in Retirement](https://www.bloomberg.com/news/articles/2023-02-21/saving-for-retirement-investors-say-you-ll-need-3-million-to-be-comfortable)
+- [What Mary Didn&amp;#x27;t Know &lpar;1986&rpar; [pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
+- [A global addiction to plastic is turning into an environmental disaster](https://www.barrons.com/articles/cheap-new-plastic-choking-the-world-9b318936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
