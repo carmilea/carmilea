@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seattle could become the first city to ban caste discrimination](https://www.knkx.org/social-justice/2023-02-20/seattle-could-become-the-first-city-to-ban-caste-discrimination)
+- [The World’s Plastic Use Is Getting Worse. Cheap New Plastic Is Choking the World](https://www.barrons.com/articles/cheap-new-plastic-choking-the-world-9b318936)
 - [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+- [Thread on Andreessen Horowitz and &amp;#x27;zero interest rate phenomena&amp;#x27;](https://twitter.com/tylertringas/status/1627449217294958592)
 - [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
-- [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
-- [Microsoft Teams is getting big performance improvements next month](https://www.theverge.com/2023/2/20/23607037/microsoft-teams-performance-improvements-less-cpu-memory)
-- [Professor writes history essays with ChatGPT and has students correct them](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
