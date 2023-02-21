@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Postman is limiting local collection runner to 25 runs for basic plans](https://community.postman.com/t/250-collection-runs-per-month-on-professional/43946)
+- [Widespread ethernet issues reported on new M2 Pro Mac mini](https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/)
 - [Make systemd better for Podman with Quadlet](https://www.redhat.com/sysadmin/quadlet-podman)
 - [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
 - [Communication as a Critical Business Skill](https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote, Non-US&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
-- [5th person confirmed to be cured of HIV](https://abcnews.go.com/Health/5th-person-confirmed-cured-hiv/story?id=97323361)
 <!-- BLOG-POST-LIST:END -->
 
 ---
