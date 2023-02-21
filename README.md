@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wilson&amp;#x27;s 3D-Printed Basketball Is Full of Holes but Never Goes Flat](https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570)
+- [Wilson&amp;#x27;s 3D-printed basketball is full of holes but never goes flat](https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570)
+- [Supreme Court Doesn&amp;#x27;t Want to Create ‘World of Lawsuits’ for Tech Firms](https://www.bloomberg.com/news/articles/2023-02-21/supreme-court-appears-wary-of-section-230-rules-rollback)
+- [McKinsey Plans to Eliminate About 2000 Jobs in One of Its Biggest Rounds of Cuts](https://www.bloomberg.com/news/articles/2023-02-21/mckinsey-to-cut-about-2-000-jobs-in-one-of-its-biggest-headcount-reductions)
 - [Sci-fi becomes real as renowned magazine closes submissions due to AI writers](https://arstechnica.com/information-technology/2023/02/sci-fi-becomes-real-as-renowned-magazine-closes-submissions-due-to-ai-writers/)
-- [World’s Largest Four-Day Work Week Trial Finds Few Are Going Back](https://www.bloomberg.com/news/articles/2023-02-21/four-day-work-week-uk-study-finds-majority-of-employers-shifting)
-- [Jerry &lpar;YC S17&rpar; Is Hiring a Senior &amp;#x2F; Staff Engineer &lpar;China Remote&rpar;](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
-- [Using Vector Functions for Image Matching in SQL with SingleStoreDB](https://www.singlestore.com/blog/using-vector-functions-image-matching-sql/)
+- [World’s largest four-day work week trial finds few are going back](https://www.bloomberg.com/news/articles/2023-02-21/four-day-work-week-uk-study-finds-majority-of-employers-shifting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
