@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring in Paris](https://www.photoroom.com/company/)
+- [U.S. food additives banned in Europe: Expert “almost certainly” making them sick](https://www.cbsnews.com/news/us-food-additives-banned-europe-making-americans-sick-expert-says/)
+- [How to build a super-slim smart mirror](https://www.raspberrypi.com/tutorials/how-to-build-a-super-slim-smart-mirror/)
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring in Paris to build Generative AI Image Editing Apps](https://www.photoroom.com/company/)
 - [AMD EPYC 9004 Genoa Under-the-Lid – ServeTheHome](https://www.servethehome.com/amd-epyc-9004-genoa-under-the-lid/)
-- [OpenAI Outage on all models](https://status.openai.com/incidents/mq5jgswy45fr)
-- [Early morning university classes linked to poor sleep and academic performance](https://www.nature.com/articles/s41562-023-01531-x)
-- [A pilot scheme to trail the four-day workweek in Britain deemed a success &lpar;2022&rpar;](https://www.economist.com/britain/2022/11/17/a-pilot-scheme-to-trail-the-four-day-workweek-in-britain)
+- [The Unbearable Sameness of the Modern Web](https://blog.rachelbinx.com/2023/02/unbearable-sameness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
