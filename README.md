@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome 110 will automatically discard background tabs](https://arstechnica.com/gadgets/2023/02/chrome-110-will-automatically-discard-background-tabs-heres-how-to-stop-it/)
-- [Asp.net Core updates in .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/)
-- [US military investigating leak of emails from Pentagon server](https://www.cnn.com/2023/02/21/politics/us-military-leaked-emails-server-special-operations/index.html)
-- [SEC Charges the Church of Jesus Christ of Latter-Day Saints](https://www.sec.gov/news/press-release/2023-35)
-- [Unlock Real-Time Insights with CData and SingleStore](https://www.singlestore.com/blog/unlock-real-time-insights-with-cdata-and-singlestore/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring a Senior &amp;#x2F; Staff Engineer &lpar;China Remote&rpar;](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
+- [Reddit is experiencing a partial outage](https://www.redditstatus.com)
+- [Spy Balloon Simulator](https://spyballoonsim.hornetsnestguild.com/)
+- [Microsoft is now injecting full-size ads on Chrome website](https://www.neowin.net/news/microsoft-is-now-injecting-full-size-ads-on-chrome-website-to-make-you-stay-on-edge/)
+- [AdNauseam – clicking ads so you don&amp;#x27;t have to](https://adnauseam.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
