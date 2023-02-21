@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. food additives banned in Europe: Expert “almost certainly” making them sick](https://www.cbsnews.com/news/us-food-additives-banned-europe-making-americans-sick-expert-says/)
+- [Remote driving in UK from abroad should not be allowed, says Law Commission](https://www.bbc.co.uk/news/technology-64705924)
+- [US food additives banned in EU. Expert says &amp;quot;almost certainly&amp;quot; making US sick](https://www.cbsnews.com/news/us-food-additives-banned-europe-making-americans-sick-expert-says/)
 - [How to build a super-slim smart mirror](https://www.raspberrypi.com/tutorials/how-to-build-a-super-slim-smart-mirror/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring in Paris to build Generative AI Image Editing Apps](https://www.photoroom.com/company/)
 - [AMD EPYC 9004 Genoa Under-the-Lid – ServeTheHome](https://www.servethehome.com/amd-epyc-9004-genoa-under-the-lid/)
-- [The Unbearable Sameness of the Modern Web](https://blog.rachelbinx.com/2023/02/unbearable-sameness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
