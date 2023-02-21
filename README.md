@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Society Is Not Prepared for This Much AI Awesome](https://www.jonstokes.com/p/i-say-this-unironically-our-society)
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring in Paris](https://www.photoroom.com/company/)
+- [AMD EPYC 9004 Genoa Under-the-Lid – ServeTheHome](https://www.servethehome.com/amd-epyc-9004-genoa-under-the-lid/)
+- [OpenAI Outage on all models](https://status.openai.com/incidents/mq5jgswy45fr)
 - [Early morning university classes linked to poor sleep and academic performance](https://www.nature.com/articles/s41562-023-01531-x)
-- [A pilot scheme to trail the four-day workweek in Britain deemed a success](https://www.economist.com/britain/2022/11/17/a-pilot-scheme-to-trail-the-four-day-workweek-in-britain)
-- [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
-- [James Somers on a Whisper-driven Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
+- [A pilot scheme to trail the four-day workweek in Britain deemed a success &lpar;2022&rpar;](https://www.economist.com/britain/2022/11/17/a-pilot-scheme-to-trail-the-four-day-workweek-in-britain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
