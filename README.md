@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Men Lose Life Satisfaction with Fewer Hours in Employment: Mothers Do Not](https://link.springer.com/article/10.1007/s11205-020-02433-5)
-- [Office Landlord Defaults Are Escalating as Lenders Brace for More Distress](https://www.wsj.com/articles/office-landlord-defaults-are-escalating-as-lenders-brace-for-more-distress-894938c0)
-- [Activision leak details entire Warzone 2 and Modern Warfare 2 2023 roadmap](https://www.ggrecon.com/articles/huge-activision-leak-details-warzone-2-and-mw2-2023-roadmap/)
-- [Prompt Engineering Guide: Guides, papers, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
+- [Hugging Face and AWS partner to make AI more accessible](https://huggingface.co/blog/aws-partnership)
+- [Launch HN: Moonrepo &lpar;YC W23&rpar; – Open-source build system](https://news.ycombinator.com/item?id=34885077)
+- [TreeTalk London – Tree Map](https://www.treetalk.co.uk/map/)
+- [EPA Orders Norfolk Southern to Conduct All Cleanup Actions Related to Derailment](https://www.epa.gov/newsreleases/epa-orders-norfolk-southern-conduct-all-cleanup-actions-associated-east-palestine)
+- [Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
