@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do I get back into the tech industry after 4 years of unemployment?](https://news.ycombinator.com/item?id=34883423)
-- [ChatGPT launches boom in AI-written e-books on Amazon](https://www.reuters.com/technology/chatgpt-launches-boom-ai-written-e-books-amazon-2023-02-21/)
-- [‘Every Parent’s Nightmare’: TikTok Is a Venue for Child Sexual Exploitation](https://www.wsj.com/articles/tiktok-child-sexual-exploitation-children-teens-29f9ac2)
-- [Passkeys for Infrastructure](https://goteleport.com/blog/passkeys/)
-- [Testing Without Mocks](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
+- [Men Lose Life Satisfaction with Fewer Hours in Employment: Mothers Do Not](https://link.springer.com/article/10.1007/s11205-020-02433-5)
+- [Office Landlord Defaults Are Escalating as Lenders Brace for More Distress](https://www.wsj.com/articles/office-landlord-defaults-are-escalating-as-lenders-brace-for-more-distress-894938c0)
+- [Activision leak details entire Warzone 2 and Modern Warfare 2 2023 roadmap](https://www.ggrecon.com/articles/huge-activision-leak-details-warzone-2-and-mw2-2023-roadmap/)
+- [Prompt Engineering Guide: Guides, papers, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
