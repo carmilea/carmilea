@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT for Robotics](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
-- [Show HN: YoBulk – Open Source GPT powered CSV importer[Flatfile.com alternative]](https://github.com/yobulkdev/yobulkdev)
-- [Albanian gangs have set up their own CCTV networks to spy on cops](https://www.vice.com/en/article/xgynb4/albanian-gangs-cctv)
-- [TIL: You Can Stop Updating Copyright Attribution Years &lpar;2021&rpar;](https://hynek.me/til/copyright-years/)
-- [Researchers fool self-driving cars with stickers on street signs &lpar;2017&rpar;](https://www.thedrive.com/tech/13258/researchers-fool-self-driving-cars-with-stickers-on-street-signs)
+- [Intermittent fasting associated with increased risk of early death](https://www.jandonline.org/article/S2212-2672(22)00874-7/fulltext)
+- [TikTok&amp;#x27;s new feature will track your emotions to sell ads](https://edri.org/our-work/tiktoks-focused-view-the-creepy-new-feature-aims-to-monetise-your-emotions/)
+- [Testing Without Mocks](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
+- [‘It took over my life ’ How one man made his dream 90s video game on his own](https://www.theguardian.com/games/2023/feb/21/it-took-over-my-life-how-one-man-made-his-dream-90s-video-game-on-his-own)
+- [Fasudil is found to reverse key symptoms of schizophrenia in mice](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/02/20230220-01.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
