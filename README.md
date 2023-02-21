@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hugging Face and AWS partner to make AI more accessible](https://huggingface.co/blog/aws-partnership)
-- [Launch HN: Moonrepo &lpar;YC W23&rpar; – Open-source build system](https://news.ycombinator.com/item?id=34885077)
-- [TreeTalk London – Tree Map](https://www.treetalk.co.uk/map/)
-- [EPA Orders Norfolk Southern to Conduct All Cleanup Actions Related to Derailment](https://www.epa.gov/newsreleases/epa-orders-norfolk-southern-conduct-all-cleanup-actions-associated-east-palestine)
-- [Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
+- [Chrome 110 will automatically discard background tabs](https://arstechnica.com/gadgets/2023/02/chrome-110-will-automatically-discard-background-tabs-heres-how-to-stop-it/)
+- [Asp.net Core updates in .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/)
+- [US military investigating leak of emails from Pentagon server](https://www.cnn.com/2023/02/21/politics/us-military-leaked-emails-server-special-operations/index.html)
+- [SEC Charges the Church of Jesus Christ of Latter-Day Saints](https://www.sec.gov/news/press-release/2023-35)
+- [Unlock Real-Time Insights with CData and SingleStore](https://www.singlestore.com/blog/unlock-real-time-insights-with-cdata-and-singlestore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
