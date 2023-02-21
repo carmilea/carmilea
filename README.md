@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intermittent fasting associated with increased risk of early death](https://www.jandonline.org/article/S2212-2672(22)00874-7/fulltext)
-- [TikTok&amp;#x27;s new feature will track your emotions to sell ads](https://edri.org/our-work/tiktoks-focused-view-the-creepy-new-feature-aims-to-monetise-your-emotions/)
+- [Ask HN: How do I get back into the tech industry after 4 years of unemployment?](https://news.ycombinator.com/item?id=34883423)
+- [ChatGPT launches boom in AI-written e-books on Amazon](https://www.reuters.com/technology/chatgpt-launches-boom-ai-written-e-books-amazon-2023-02-21/)
+- [‘Every Parent’s Nightmare’: TikTok Is a Venue for Child Sexual Exploitation](https://www.wsj.com/articles/tiktok-child-sexual-exploitation-children-teens-29f9ac2)
+- [Passkeys for Infrastructure](https://goteleport.com/blog/passkeys/)
 - [Testing Without Mocks](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
-- [‘It took over my life ’ How one man made his dream 90s video game on his own](https://www.theguardian.com/games/2023/feb/21/it-took-over-my-life-how-one-man-made-his-dream-90s-video-game-on-his-own)
-- [Fasudil is found to reverse key symptoms of schizophrenia in mice](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/02/20230220-01.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
