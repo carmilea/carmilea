@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman is limiting local collection runner to 25 runs for basic plans](https://community.postman.com/t/250-collection-runs-per-month-on-professional/43946)
-- [Widespread ethernet issues reported on new M2 Pro Mac mini](https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/)
-- [Make systemd better for Podman with Quadlet](https://www.redhat.com/sysadmin/quadlet-podman)
-- [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
-- [Communication as a Critical Business Skill](https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/)
+- [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
+- [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
+- [Microsoft Teams is getting big performance improvements next month](https://www.theverge.com/2023/2/20/23607037/microsoft-teams-performance-improvements-less-cpu-memory)
+- [Professor writes history essays with ChatGPT and has students correct them](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/)
+- [Databricks counts being laid off as “red flag”](https://www.teamblind.com/post/Databricks---deplorable-company-5TX4Mn6C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
