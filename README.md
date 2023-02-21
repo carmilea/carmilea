@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Has Already Decreased My Income Security, and Likely Yours Too](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/)
+- [TIL: You Can Stop Updating Copyright Attribution Years &lpar;2021&rpar;](https://hynek.me/til/copyright-years/)
+- [Researchers fool self-driving cars with stickers on street signs &lpar;2017&rpar;](https://www.thedrive.com/tech/13258/researchers-fool-self-driving-cars-with-stickers-on-street-signs)
+- [ChatGPT has already decreased my income security, and likely yours too](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/)
 - [Linux 6.3 Introducing Hardware Noise “Hwnoise” Tool](https://www.phoronix.com/news/Linux-6.3-hwnoise)
 - [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [Device corkscrews itself into the ground like a seed [video]](https://www.youtube.com/watch?v=MZC_hXx1_Yc)
-- [Haiku Package Management](https://www.markround.com/blog/2023/02/13/haiku-package-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
