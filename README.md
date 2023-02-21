@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Mary Didn&amp;#x27;t Know &lpar;1986&rpar;[pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
 - [Seattle could become the first city to ban caste discrimination](https://www.knkx.org/social-justice/2023-02-20/seattle-could-become-the-first-city-to-ban-caste-discrimination)
 - [The World’s Plastic Use Is Getting Worse. Cheap New Plastic Is Choking the World](https://www.barrons.com/articles/cheap-new-plastic-choking-the-world-9b318936)
 - [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 - [Thread on Andreessen Horowitz and &amp;#x27;zero interest rate phenomena&amp;#x27;](https://twitter.com/tylertringas/status/1627449217294958592)
-- [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
