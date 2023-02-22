@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mexico&amp;#x27;s former public security head convicted by U.S. of taking cartel bribes](https://www.npr.org/2023/02/21/1158587253/mexico-genaro-garcia-luna-convicted-drug-cartel-bribes)
-- [Poste.io – Complete Mail Server](https://poste.io/)
-- [Supreme Court rejects man’s bid to sue police over arrest for Facebook parody](https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-ohio-mans-bid-sue-police-arrest-facebook-parody-rcna70435)
-- [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
-- [Show HN: Graph-based AI for longform writing](https://jotte.ai/)
+- [A Malleable Web](https://oio.land/the-malleable-web)
+- [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects)
+- [US housing market posts $2.3T drop, biggest since 2008](https://www.bloomberg.com/news/articles/2023-02-22/us-housing-market-posts-2-3-trillion-drop-biggest-since-2008)
+- [Is_email&lpar;&rpar;](https://github.com/dominicsayers/isemail)
+- [Mercedes-Benz previews its operating system MB.OS](https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
