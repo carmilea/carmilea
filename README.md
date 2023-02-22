@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercedes-Benz previews its operating system MB.OS](https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos)
+- [Mexico&amp;#x27;s former public security head convicted by U.S. of taking cartel bribes](https://www.npr.org/2023/02/21/1158587253/mexico-genaro-garcia-luna-convicted-drug-cartel-bribes)
 - [Humans Could Go the Way of the Dinosaur](https://nautil.us/humans-could-go-the-way-of-the-dinosaurs-262372/)
 - [Poste.io – Complete Mail Server](https://poste.io/)
-- [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
-- [Webb telescope spots super old, galaxies that shouldn’t exist](https://www.colorado.edu/today/2023/02/22/webb-telescope-spots-super-old-massive-galaxies-shouldnt-exist)
-- [Summarize texts up to 50K characters](https://dashboard.cohere.ai/playground/summarize)
+- [Supreme Court rejects man’s bid to sue police over arrest for Facebook parody](https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-ohio-mans-bid-sue-police-arrest-facebook-parody-rcna70435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
