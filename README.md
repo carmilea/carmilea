@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should GPT Exist?](https://scottaaronson.blog/?p=7042)
+- [Fastbook: Listen to Audiobooks Faster](https://davidbieber.com/snippets/2020-03-02-fastbook/)
 - [Bloop &lpar;YC S21&rpar; Is Hiring a Front End Engineer to Work on OSS AI Code Search](https://news.ycombinator.com/item?id=34892541)
-- [&amp;#x27;The Problem Index&amp;#x27; – Which Countries Have the Worst Demographics](https://stenoresearch.com/watch-series/introducing-the-problem-index-which-countries-have-the-worst-demographics/)
 - [Investigating cognitive neuroscience theories of human intelligence](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26164)
 - [Soylent Acquired by Starco Brands](https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/)
-- [AMD CEO: The Next Challenge Is Energy Efficiency](https://spectrum.ieee.org/amd-eyes-supercomputer-efficiency-gains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
