@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should GPT Exist?](https://scottaaronson.blog/?p=7042)
+- [Wikipedia Outage](https://www.wikimediastatus.net)
+- [Musk’s takeover turbocharged VC Twitter usage](https://www.maddyness.com/uk/?p=713786)
+- [Companies Can’t Ask You to Shut Up to Receive Severance, NLRB Rules](https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules)
 - [Fastbook: Listen to Audiobooks Faster](https://davidbieber.com/snippets/2020-03-02-fastbook/)
 - [Bloop &lpar;YC S21&rpar; Is Hiring a Front End Engineer to Work on OSS AI Code Search](https://news.ycombinator.com/item?id=34892541)
-- [Investigating cognitive neuroscience theories of human intelligence](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26164)
-- [Soylent Acquired by Starco Brands](https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
