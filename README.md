@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Orders Entire Supply of TSMC&amp;#x27;s 3nm Chips for iPhone 15 Pro and M3 Macs](https://www.macrumors.com/2023/02/22/apple-secures-tsmc-3nm-chips/)
-- [Amazon employees express dismay, anger about sudden return-to-office policy](https://www.cnbc.com/2023/02/21/amazon-employees-express-dismay-about-sudden-return-to-office-policy.html)
-- [Uber’s redesigned app uses the latest iPhone features](https://www.theverge.com/2023/2/22/23609308/uber-iphone-redesigned-app-dynamic-island-live-activities)
+- [Amazon has approval from FTC to acquire One Medical primary-care clinics](https://www.wsj.com/articles/ftc-wont-block-amazon-purchase-of-one-medical-network-of-health-clinics-c635495e)
+- [ML would have advanced faster if another front-end language had been adopted?](https://twitter.com/ylecun/status/1628386056641847296)
+- [Bug identified after Alaska Airlines planes bump runway while taking off](https://www.adn.com/alaska-news/aviation/2023/02/20/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/)
+- [Apple orders entire supply of TSMC&amp;#x27;s 3nm chips for iPhone 15 Pro and M3 Macs](https://www.macrumors.com/2023/02/22/apple-secures-tsmc-3nm-chips/)
 - [Seattle becomes first U.S. city to ban caste discrimination](https://www.washingtonpost.com/nation/2023/02/21/seattle-caste-discrimination-ban/)
-- [The U-2 and balloons – Some history, and some thoughts](https://dragonladytoday.com/2023/02/21/the-u-2-and-balloons-some-history-and-some-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
