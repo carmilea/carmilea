@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eggspensive](https://eggspensive.net/)
-- [Show HN: Graphic – A grammar of data visualization and Flutter charting library](https://github.com/entronad/graphic)
-- [Apple is convinced my dog is stalking me](https://www.engadget.com/apple-is-convinced-my-dog-is-stalking-me-143100932.html)
-- [NIO reveals aggressive plan to add 1,000 swap stations in 2023](https://cnevpost.com/2023/02/21/nio-plans-to-add-1000-swap-stations-in-2023/)
-- [Rovio delists original Angry Birds from PlayStore because it&amp;#x27;s still too popular](https://twitter.com/Rovio/status/1627956351002443778/photo/1)
+- [Florida lawyer argues pregnant inmate’s fetus is being illegally detained](https://www.washingtonpost.com/nation/2023/02/22/pregnant-woman-fetus-jail-roe/)
+- [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/)
+- [Google claims breakthrough in quantum computer error correction](https://www.ft.com/content/9e04ff7d-f56a-4d5f-a4fa-849336abf659)
+- [Launch HN: Depot &lpar;YC W23&rpar; – Fast Docker Builds in the Cloud](https://news.ycombinator.com/item?id=34898253)
+- [C++ Coroutines](https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
