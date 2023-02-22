@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Last undersea Internet cable connecting Vietnam with the world breaks down](https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp)
-- [Reddit Co-Founder’s Quest for Unseizable Property](https://www.forbes.com/sites/michaeldelcastillo/2023/02/21/reddit-co-founders-quest-for-unseizable-property/)
-- [Google Stopping Coding Competitions](https://developers.googleblog.com/2023/02/celebrate-googles-coding-competitions.html)
-- [The dystopian underworld of South Africa’s illegal gold mines](https://www.newyorker.com/magazine/2023/02/27/the-dystopian-underworld-of-south-africas-illegal-gold-mines)
-- [Apple Makes Major Progress on No-Prick Blood Glucose Tracking for Its Watch](https://www.bloomberg.com/news/articles/2023-02-22/apple-watch-blood-glucose-monitor-could-revolutionize-diabetes-care-aapl)
+- [Humans Could Go the Way of the Dinosaur](https://nautil.us/humans-could-go-the-way-of-the-dinosaurs-262372/)
+- [Poste.io – Complete Mail Server](https://poste.io/)
+- [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
+- [Webb telescope spots super old, galaxies that shouldn’t exist](https://www.colorado.edu/today/2023/02/22/webb-telescope-spots-super-old-massive-galaxies-shouldnt-exist)
+- [Summarize texts up to 50K characters](https://dashboard.cohere.ai/playground/summarize)
 <!-- BLOG-POST-LIST:END -->
 
 ---
