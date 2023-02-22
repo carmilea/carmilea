@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon has approval from FTC to acquire One Medical primary-care clinics](https://www.wsj.com/articles/ftc-wont-block-amazon-purchase-of-one-medical-network-of-health-clinics-c635495e)
-- [ML would have advanced faster if another front-end language had been adopted?](https://twitter.com/ylecun/status/1628386056641847296)
-- [Bug identified after Alaska Airlines planes bump runway while taking off](https://www.adn.com/alaska-news/aviation/2023/02/20/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/)
-- [Apple orders entire supply of TSMC&amp;#x27;s 3nm chips for iPhone 15 Pro and M3 Macs](https://www.macrumors.com/2023/02/22/apple-secures-tsmc-3nm-chips/)
-- [Seattle becomes first U.S. city to ban caste discrimination](https://www.washingtonpost.com/nation/2023/02/21/seattle-caste-discrimination-ban/)
+- [Apple is convinced my dog is stalking me](https://www.engadget.com/apple-is-convinced-my-dog-is-stalking-me-143100932.html)
+- [NIO reveals aggressive plan to add 1,000 swap stations in 2023](https://cnevpost.com/2023/02/21/nio-plans-to-add-1000-swap-stations-in-2023/)
+- [Rovio delists original Angry Birds from PlayStore because it&amp;#x27;s still too popular](https://twitter.com/Rovio/status/1627956351002443778/photo/1)
+- [Vanderbilt University apologizes for ChaptGPT email after Michigan shooting](https://www.theguardian.com/us-news/2023/feb/22/vanderbilt-chatgpt-ai-michigan-shooting-email)
+- [De-Extinction? Surely You’re Joking](https://cell.substack.com/p/extinction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
