@@ -55,7 +55,7 @@
 - [AI Is Useful for Capitalists but Probably Terrible for Anyone Else](https://mebassett.info/ai-useful-for-capitalist)
 - [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
 - [NLRB Rules That Employers Can&amp;#x27;t Require Laid-Off Staff to Waive Labor Law Rights](https://www.nlrb.gov/news-outreach/news-story/board-rules-that-employers-may-not-offer-severance-agreements-requiring)
-- [Coin Operated Capitalism](https://columbialawreview.org/content/coin-operated-capitalism/)
+- [A warning from Walmart about the health of the American consumer](https://www.economist.com/business/2023/02/21/a-warning-from-walmart-about-the-health-of-the-american-consumer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
