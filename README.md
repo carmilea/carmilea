@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tumblr iOS revenue increased 125% since launching it parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
+- [The Usability of Advanced Type Systems: Rust as a Case Study](https://arxiv.org/abs/2301.02308)
 - [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
 - [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
 - [Parched California Misses a Chance to Store More Rain](https://www.nytimes.com/2023/02/21/climate/california-storms-groundwater-aquifer-recharge.html)
-- [NLRB Rules That Employers Can&amp;#x27;t Require Laid-Off Staff to Waive Labor Law Rights](https://www.nlrb.gov/news-outreach/news-story/board-rules-that-employers-may-not-offer-severance-agreements-requiring)
-- [A warning from Walmart about the health of the American consumer](https://www.economist.com/business/2023/02/21/a-warning-from-walmart-about-the-health-of-the-american-consumer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
