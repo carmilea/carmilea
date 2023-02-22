@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
-- [AI Is Useful for Capitalists but Probably Terrible for Anyone Else](https://mebassett.info/ai-useful-for-capitalist)
 - [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
+- [Parched California Misses a Chance to Store More Rain](https://www.nytimes.com/2023/02/21/climate/california-storms-groundwater-aquifer-recharge.html)
 - [NLRB Rules That Employers Can&amp;#x27;t Require Laid-Off Staff to Waive Labor Law Rights](https://www.nlrb.gov/news-outreach/news-story/board-rules-that-employers-may-not-offer-severance-agreements-requiring)
 - [A warning from Walmart about the health of the American consumer](https://www.economist.com/business/2023/02/21/a-warning-from-walmart-about-the-health-of-the-american-consumer)
 <!-- BLOG-POST-LIST:END -->
