@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Last undersea Internet cable connecting Vietnam with the world breaks down](https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp)
+- [Reddit Co-Founder’s Quest for Unseizable Property](https://www.forbes.com/sites/michaeldelcastillo/2023/02/21/reddit-co-founders-quest-for-unseizable-property/)
+- [Google Stopping Coding Competitions](https://developers.googleblog.com/2023/02/celebrate-googles-coding-competitions.html)
 - [The dystopian underworld of South Africa’s illegal gold mines](https://www.newyorker.com/magazine/2023/02/27/the-dystopian-underworld-of-south-africas-illegal-gold-mines)
 - [Apple Makes Major Progress on No-Prick Blood Glucose Tracking for Its Watch](https://www.bloomberg.com/news/articles/2023-02-22/apple-watch-blood-glucose-monitor-could-revolutionize-diabetes-care-aapl)
-- [AI Companion Users Are in Crisis, Reporting Sudden Sexual Rejection](https://www.vice.com/en/article/y3py9j/ai-companion-replika-erotic-roleplay-updates)
-- [Amazon officially becomes a health care provider after purchase of One Medical](https://www.aboutamazon.com/news/company-news/one-medical-joins-amazon-to-make-it-easier-for-people-to-get-and-stay-healthier)
-- [1 in 6 retirees are considering returning to work, and 53% want remote positions](https://www.paychex.com/articles/human-resources/retirees-rejoining-the-workforce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
