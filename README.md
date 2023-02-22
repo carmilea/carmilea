@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eggspensive](https://eggspensive.net/)
+- [Show HN: Graphic – A grammar of data visualization and Flutter charting library](https://github.com/entronad/graphic)
 - [Apple is convinced my dog is stalking me](https://www.engadget.com/apple-is-convinced-my-dog-is-stalking-me-143100932.html)
 - [NIO reveals aggressive plan to add 1,000 swap stations in 2023](https://cnevpost.com/2023/02/21/nio-plans-to-add-1000-swap-stations-in-2023/)
 - [Rovio delists original Angry Birds from PlayStore because it&amp;#x27;s still too popular](https://twitter.com/Rovio/status/1627956351002443778/photo/1)
-- [Vanderbilt University apologizes for ChaptGPT email after Michigan shooting](https://www.theguardian.com/us-news/2023/feb/22/vanderbilt-chatgpt-ai-michigan-shooting-email)
-- [De-Extinction? Surely You’re Joking](https://cell.substack.com/p/extinction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
