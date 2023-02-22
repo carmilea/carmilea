@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Orders Entire Supply of TSMC&amp;#x27;s 3nm Chips for iPhone 15 Pro and M3 Macs](https://www.macrumors.com/2023/02/22/apple-secures-tsmc-3nm-chips/)
+- [Amazon employees express dismay, anger about sudden return-to-office policy](https://www.cnbc.com/2023/02/21/amazon-employees-express-dismay-about-sudden-return-to-office-policy.html)
+- [Uber’s redesigned app uses the latest iPhone features](https://www.theverge.com/2023/2/22/23609308/uber-iphone-redesigned-app-dynamic-island-live-activities)
 - [Seattle becomes first U.S. city to ban caste discrimination](https://www.washingtonpost.com/nation/2023/02/21/seattle-caste-discrimination-ban/)
 - [The U-2 and balloons – Some history, and some thoughts](https://dragonladytoday.com/2023/02/21/the-u-2-and-balloons-some-history-and-some-thoughts/)
-- [Dark energy from supermassive black holes? Physicists spar over radical idea](https://www.science.org/content/article/dark-energy-supermassive-black-holes-physicists-spar-over-radical-idea)
-- [Reversing into a car park safer, more efficient for driver and pedestrians](https://www.abc.net.au/news/2023-02-22/reversing-into-a-car-park-safer-more-efficient-for-driver/102006916)
-- [A Lost Hiker’s SOS Signal Sparked a Wildfire. Now He Must Pay $300k](https://www.backpacker.com/news-and-events/news/a-hiker-started-a-wildfire-trying-to-signal-for-help-now-he-owes-the-government-300000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
