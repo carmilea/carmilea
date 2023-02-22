@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloop &lpar;YC S21&rpar; Is Hiring a Front End Engineer to Work on OSS AI Code Search](https://news.ycombinator.com/item?id=34892541)
+- [&amp;#x27;The Problem Index&amp;#x27; – Which Countries Have the Worst Demographics](https://stenoresearch.com/watch-series/introducing-the-problem-index-which-countries-have-the-worst-demographics/)
 - [Investigating cognitive neuroscience theories of human intelligence](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26164)
 - [Soylent Acquired by Starco Brands](https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/)
 - [AMD CEO: The Next Challenge Is Energy Efficiency](https://spectrum.ieee.org/amd-eyes-supercomputer-efficiency-gains)
-- [Tumblr iOS revenue increased 125% since launching parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
-- [The Usability of Advanced Type Systems: Rust as a Case Study](https://arxiv.org/abs/2301.02308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
