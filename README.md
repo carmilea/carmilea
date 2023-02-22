@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wilson&amp;#x27;s 3D-printed basketball is full of holes but never goes flat](https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570)
-- [Supreme Court Doesn&amp;#x27;t Want to Create ‘World of Lawsuits’ for Tech Firms](https://www.bloomberg.com/news/articles/2023-02-21/supreme-court-appears-wary-of-section-230-rules-rollback)
-- [McKinsey Plans to Eliminate About 2000 Jobs in One of Its Biggest Rounds of Cuts](https://www.bloomberg.com/news/articles/2023-02-21/mckinsey-to-cut-about-2-000-jobs-in-one-of-its-biggest-headcount-reductions)
-- [Sci-fi becomes real as renowned magazine closes submissions due to AI writers](https://arstechnica.com/information-technology/2023/02/sci-fi-becomes-real-as-renowned-magazine-closes-submissions-due-to-ai-writers/)
-- [World’s largest four-day work week trial finds few are going back](https://www.bloomberg.com/news/articles/2023-02-21/four-day-work-week-uk-study-finds-majority-of-employers-shifting)
+- [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
+- [AI Is Useful for Capitalists but Probably Terrible for Anyone Else](https://mebassett.info/ai-useful-for-capitalist)
+- [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
+- [NLRB Rules That Employers Can&amp;#x27;t Require Laid-Off Staff to Waive Labor Law Rights](https://www.nlrb.gov/news-outreach/news-story/board-rules-that-employers-may-not-offer-severance-agreements-requiring)
+- [Coin Operated Capitalism](https://columbialawreview.org/content/coin-operated-capitalism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
