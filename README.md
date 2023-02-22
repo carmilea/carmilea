@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tumblr iOS revenue increased 125% since launching it parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
+- [AMD CEO: The Next Challenge Is Energy Efficiency](https://spectrum.ieee.org/amd-eyes-supercomputer-efficiency-gains)
+- [Tumblr iOS revenue increased 125% since launching parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
 - [The Usability of Advanced Type Systems: Rust as a Case Study](https://arxiv.org/abs/2301.02308)
+- [Passwordless authentication with FIDO2–beyond just the web](https://lwn.net/SubscriberLink/923656/b15e2aa9b44ac718/)
 - [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
-- [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
-- [Parched California Misses a Chance to Store More Rain](https://www.nytimes.com/2023/02/21/climate/california-storms-groundwater-aquifer-recharge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
