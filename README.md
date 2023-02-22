@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida lawyer argues pregnant inmate’s fetus is being illegally detained](https://www.washingtonpost.com/nation/2023/02/22/pregnant-woman-fetus-jail-roe/)
-- [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/)
-- [Google claims breakthrough in quantum computer error correction](https://www.ft.com/content/9e04ff7d-f56a-4d5f-a4fa-849336abf659)
-- [Launch HN: Depot &lpar;YC W23&rpar; – Fast Docker Builds in the Cloud](https://news.ycombinator.com/item?id=34898253)
-- [C++ Coroutines](https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html)
+- [The dystopian underworld of South Africa’s illegal gold mines](https://www.newyorker.com/magazine/2023/02/27/the-dystopian-underworld-of-south-africas-illegal-gold-mines)
+- [Apple Makes Major Progress on No-Prick Blood Glucose Tracking for Its Watch](https://www.bloomberg.com/news/articles/2023-02-22/apple-watch-blood-glucose-monitor-could-revolutionize-diabetes-care-aapl)
+- [AI Companion Users Are in Crisis, Reporting Sudden Sexual Rejection](https://www.vice.com/en/article/y3py9j/ai-companion-replika-erotic-roleplay-updates)
+- [Amazon officially becomes a health care provider after purchase of One Medical](https://www.aboutamazon.com/news/company-news/one-medical-joins-amazon-to-make-it-easier-for-people-to-get-and-stay-healthier)
+- [1 in 6 retirees are considering returning to work, and 53% want remote positions](https://www.paychex.com/articles/human-resources/retirees-rejoining-the-workforce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
