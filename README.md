@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia Outage](https://www.wikimediastatus.net)
-- [Musk’s takeover turbocharged VC Twitter usage](https://www.maddyness.com/uk/?p=713786)
-- [Companies Can’t Ask You to Shut Up to Receive Severance, NLRB Rules](https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules)
-- [Fastbook: Listen to Audiobooks Faster](https://davidbieber.com/snippets/2020-03-02-fastbook/)
-- [Bloop &lpar;YC S21&rpar; Is Hiring a Front End Engineer to Work on OSS AI Code Search](https://news.ycombinator.com/item?id=34892541)
+- [Seattle becomes first U.S. city to ban caste discrimination](https://www.washingtonpost.com/nation/2023/02/21/seattle-caste-discrimination-ban/)
+- [The U-2 and balloons – Some history, and some thoughts](https://dragonladytoday.com/2023/02/21/the-u-2-and-balloons-some-history-and-some-thoughts/)
+- [Dark energy from supermassive black holes? Physicists spar over radical idea](https://www.science.org/content/article/dark-energy-supermassive-black-holes-physicists-spar-over-radical-idea)
+- [Reversing into a car park safer, more efficient for driver and pedestrians](https://www.abc.net.au/news/2023-02-22/reversing-into-a-car-park-safer-more-efficient-for-driver/102006916)
+- [A Lost Hiker’s SOS Signal Sparked a Wildfire. Now He Must Pay $300k](https://www.backpacker.com/news-and-events/news/a-hiker-started-a-wildfire-trying-to-signal-for-help-now-he-owes-the-government-300000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
