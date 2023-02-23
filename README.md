@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High Res Image of the Balloon [Tweet]](https://twitter.com/vcdgf555/status/1628585528336728065/photo/1)
 - [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
-- [Poll finds record support for Japanese reactor restarts](https://www.world-nuclear-news.org/Articles/Poll-finds-record-support-for-Japanese-reactor-res?feed=feed)
-- [Difficult to impossible travel across wide swaths of the U.S.](https://www.weather.gov/)
+- [Mermaid Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 - [Ambient: The Multiplayer Game Engine](https://www.ambient.run/)
 - [Vikings went to Mediterranean for ‘summer jobs’ as mercenaries, left graffiti](https://sciencenorway.no/archaeology-history-runes/vikings-tagged-the-great-lion-in-venice-with-runes/2157444)
 <!-- BLOG-POST-LIST:END -->
