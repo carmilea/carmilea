@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Chat GPT went down and 25% of my team could not work.”](https://twitter.com/HarryStebbings/status/1628729481778143234)
+- [Conversational AI will be used to Manipulate Us in real-time](https://www.barrons.com/articles/conversational-ai-will-learn-to-push-your-buttons-manipulation-problem-c9f797e8)
+- [Night Train Map with all regularly served night train destinations in Europe](https://back-on-track.eu/night-train-map/)
+- [Ask HN: Best manual software testing course?](https://news.ycombinator.com/item?id=34910217)
+- [Getting work done with PowerShell on Linux](https://www.deusinmachina.net/p/powershell)
 - [Show HN: IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack](https://ingestai.io)
-- [Psql Tips](https://psql-tips.org/)
-- [TikTok Banned on EU Executive Staff Devices](https://www.wsj.com/articles/tiktok-is-banned-on-european-commission-staff-work-devices-2cad0f07)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Engineer Managers](https://news.ycombinator.com/item?id=34909376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
