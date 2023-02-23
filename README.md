@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: DuckDuckGo&amp;#x27;s privacy extension is injecting ads into web forms](https://news.ycombinator.com/item?id=34916815)
+- [After death of girl yesterday, 12 more detected with H5N1 bird flu in Cambodia](https://www.khmertimeskh.com/501244375/after-death-of-girl-yesterday-12-more-detected-with-h5n1-bird-flu/)
+- [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
+- [Apple Entertainment Services are slow or down](https://www.apple.com/support/systemstatus/)
+- [Tell HN: DuckDuckGo&amp;#x27;s privacy extension is adding an inline popup to web forms](https://news.ycombinator.com/item?id=34916815)
 - [Don&amp;#x27;t believe ChatGPT – we do not offer a &amp;quot;phone lookup&amp;quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
-- [KDE and GNOME seeks $100k to turn Flathub into a Store for the Linux desktop](https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md)
-- [The FBI now recommends using an ad blocker when searching the web](https://www.standard.co.uk/tech/fbi-recommends-ad-blocker-online-scams-b1048998.html)
-- [AI‘s Instagram Problem](https://www.deeplearning.ai/the-batch/someone-elses-cool-ai-project-doesnt-make-your-project-less-valuable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
