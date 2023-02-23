@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Difficult to Impossible Travel Across Wide Swaths of the U.S.](https://www.weather.gov/)
+- [Ambient: The Multiplayer Game Engine](https://www.ambient.run/)
+- [AFRINIC “In a Bad Situation”, Has Not Been Able to Constitute Board; Has No CEO](https://circleid.com/posts/20230222-afrinic-in-a-bad-situation-has-not-been-able-to-constitute-a-board-and-has-no-ceo)
 - [Optical Transformers](https://arxiv.org/abs/2302.10360)
-- [Tell HN: Oops Upwork did it again](https://news.ycombinator.com/item?id=34904478)
 - [Time to get the Posix elephant off our necks?](https://queue.acm.org/detail.cfm?id=3570921)
-- [A Malleable Web](https://oio.land/the-malleable-web)
-- [Monitoring My Weather at Home](https://tylercipriani.com/blog/2023/02/19/weather-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
