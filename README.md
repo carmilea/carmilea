@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Difficult to Impossible Travel Across Wide Swaths of the U.S.](https://www.weather.gov/)
+- [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
+- [Poll finds record support for Japanese reactor restarts](https://www.world-nuclear-news.org/Articles/Poll-finds-record-support-for-Japanese-reactor-res?feed=feed)
+- [Difficult to impossible travel across wide swaths of the U.S.](https://www.weather.gov/)
 - [Ambient: The Multiplayer Game Engine](https://www.ambient.run/)
-- [AFRINIC “In a Bad Situation”, Has Not Been Able to Constitute Board; Has No CEO](https://circleid.com/posts/20230222-afrinic-in-a-bad-situation-has-not-been-able-to-constitute-a-board-and-has-no-ceo)
-- [Optical Transformers](https://arxiv.org/abs/2302.10360)
-- [Time to get the Posix elephant off our necks?](https://queue.acm.org/detail.cfm?id=3570921)
+- [Vikings went to Mediterranean for ‘summer jobs’ as mercenaries, left graffiti](https://sciencenorway.no/archaeology-history-runes/vikings-tagged-the-great-lion-in-venice-with-runes/2157444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
