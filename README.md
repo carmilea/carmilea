@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High Res Image of the Balloon [Tweet]](https://twitter.com/vcdgf555/status/1628585528336728065/photo/1)
+- [Professor Says He Was Barred from Campus After Monsanto FOIA Inquiry](https://www.insidehighered.com/news/2023/02/20/professor-says-he-was-barred-campus-after-monsanto-info-request)
+- [Testing Raspberry Pi&amp;#x27;s New Debug Probe](https://www.jeffgeerling.com/blog/2023/testing-raspberry-pis-new-debug-probe)
+- [Safari 16.4 Is an Admission](https://infrequently.org/2023/02/safari-16-4-is-an-admission/)
 - [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
-- [Mermaid Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
-- [Ambient: The Multiplayer Game Engine](https://www.ambient.run/)
-- [Vikings went to Mediterranean for ‘summer jobs’ as mercenaries, left graffiti](https://sciencenorway.no/archaeology-history-runes/vikings-tagged-the-great-lion-in-venice-with-runes/2157444)
+- [Lessons from 35 Years of Newsletter Publishing](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
