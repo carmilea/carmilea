@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mox: Modern full-featured mail server for low-maintenance self-hosted email](https://github.com/mjl-/mox)
+- [5 People killed as plane carrying environment workers to Ohio tragedy crashes](https://www.independent.co.uk/news/world/americas/arkansas-plane-crash-little-rock-b2287648.html)
+- [Show HN: Mox - Modern full-featured low-maintenance self-hosted mail server](https://github.com/mjl-/mox)
 - [ThinkPad 701C with a Framework brain transplant](https://community.frame.work/t/thinkpad-701c-with-a-framework-brain-transplant-work-in-progress/27409)
 - [Sam Zeloof and Jim Keller start a new semiconductor fab](https://atomicsemi.com/)
 - [Memfault &lpar;YC W19&rpar; Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
-- [Professor Says He Was Barred from Campus After Monsanto FOIA Inquiry](https://www.insidehighered.com/news/2023/02/20/professor-says-he-was-barred-campus-after-monsanto-info-request)
 <!-- BLOG-POST-LIST:END -->
 
 ---
