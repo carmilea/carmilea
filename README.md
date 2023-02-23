@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies can no longer silence laid-off employees in exchange for severance](https://www.cnn.com/2023/02/22/success/severance-agreements-rule-change-from-nlrb/index.html)
-- [Ask HN: What would happen if we prioritised all bugs over all new features?](https://news.ycombinator.com/item?id=34907970)
+- [Mox: Modern full-featured mail server for low-maintenance self-hosted email](https://github.com/mjl-/mox)
+- [ThinkPad 701C with a Framework brain transplant](https://community.frame.work/t/thinkpad-701c-with-a-framework-brain-transplant-work-in-progress/27409)
 - [Sam Zeloof and Jim Keller start a new semiconductor fab](https://atomicsemi.com/)
 - [Memfault &lpar;YC W19&rpar; Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 - [Professor Says He Was Barred from Campus After Monsanto FOIA Inquiry](https://www.insidehighered.com/news/2023/02/20/professor-says-he-was-barred-campus-after-monsanto-info-request)
