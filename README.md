@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Broke into a Bank Account with an AI-Generated Voice](https://www.vice.com/en/article/dy7axa/how-i-broke-into-a-bank-account-with-an-ai-generated-voice)
 - [I created an eBay account and bought an item, today I got indefinitely suspended](https://twitter.com/rafahari/status/1628765429790277632)
-- [Why UK supermarkets are rationing fruit and vegetables](https://www.cnn.com/2023/02/22/business/uk-supermarkets-tomatoes-rationing-explainer/index.html)
+- [Reverse Engineering a Mysterious UDP Stream in My Hotel](https://www.gkbrk.com/2016/05/hotel-music/)
+- [TikTok-owner ByteDance planning to layoff thousands in coming months](https://www.firstpost.com/world/tiktok-owner-bytedance-planning-to-layoff-thousands-in-coming-months-in-china-12185652.html)
 - [Mullvad VPN: Security audit of account and payment services](https://mullvad.net/en/blog/2023/2/17/security-audit-of-account-and-payment-services/)
-- [95% of Bay Area Cities Lost Zoning Authority](https://darrellowens.substack.com/p/96-of-bay-area-cities-lost-zoning)
-- [Tech Layoffs Are Feeding a New Startup Surge](https://www.wired.com/story/tech-layoffs-are-feeding-a-new-startup-surge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
