@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google tells employees to share desks as it looks to cut costs](https://www.techspot.com/news/97705-google-tells-employees-share-desks-looks-cut-costs.html)
+- [Making It Legal to Play Outside: “Reasonable Childhood Independence” Bills](https://letgrow.org/childhood-independence-bills-update/)
+- [More than half of YC startups don&amp;#x27;t have a dot com](https://www.reproof.app/blog/you-dont-need-a-dot-com)
 - [Argonne: Lithium-Air battery 1200 wh&amp;#x2F;kg, 1000 cycles](https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion)
-- [Valve bans 40k accounts after laying a trap for cheaters in Dota 2](https://www.theverge.com/2023/2/23/23611632/valve-dota-ban-cheating-trap-exploit-patch)
-- [100k People Have Been Laid Off, What’s Next?](https://rethinksecurity.io/posts/tips-for-landing-a-job-in-technology/)
 - [Tell HN: Do not store any funds in PayPal or use them for anything critical](https://news.ycombinator.com/item?id=34913596)
-- [After defending false data, Comcast admits another FCC broadband map mistake](https://arstechnica.com/tech-policy/2023/02/comcast-could-have-avoided-giving-false-map-data-to-fcc-by-checking-its-own-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
