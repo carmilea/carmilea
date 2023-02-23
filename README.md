@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Argonne: Lithium-Air battery 1200 wh&amp;#x2F;kg, 1000 cycles](https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion)
+- [Valve bans 40k accounts after laying a trap for cheaters in Dota 2](https://www.theverge.com/2023/2/23/23611632/valve-dota-ban-cheating-trap-exploit-patch)
+- [100k People Have Been Laid Off, What’s Next?](https://rethinksecurity.io/posts/tips-for-landing-a-job-in-technology/)
 - [Tell HN: Do not store any funds in PayPal or use them for anything critical](https://news.ycombinator.com/item?id=34913596)
 - [After defending false data, Comcast admits another FCC broadband map mistake](https://arstechnica.com/tech-policy/2023/02/comcast-could-have-avoided-giving-false-map-data-to-fcc-by-checking-its-own-website/)
-- [I Broke into a Bank Account with an AI-Generated Voice](https://www.vice.com/en/article/dy7axa/how-i-broke-into-a-bank-account-with-an-ai-generated-voice)
-- [Camouflaging autistic traits linked to internalizing symptoms anxiety depression](https://www.psypost.org/2023/02/camouflaging-of-autistic-traits-linked-to-internalizing-symptoms-such-as-anxiety-and-depression-68382)
-- [I created an eBay account and bought an item, today I got indefinitely suspended](https://twitter.com/rafahari/status/1628765429790277632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
