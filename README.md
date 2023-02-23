@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Chat GPT went down and 25% of my team could not work.”](https://twitter.com/HarryStebbings/status/1628729481778143234)
+- [Show HN: IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack](https://ingestai.io)
+- [Psql Tips](https://psql-tips.org/)
+- [TikTok Banned on EU Executive Staff Devices](https://www.wsj.com/articles/tiktok-is-banned-on-european-commission-staff-work-devices-2cad0f07)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Engineer Managers](https://news.ycombinator.com/item?id=34909376)
-- [Only people building software systems get to have opinions on how they get built](https://twitter.com/mipsytipsy/status/1628295050215182336)
-- [Valve permabans 40,000+ dota2 accounts using honeypot patch](https://www.dota2.com/newsentry/3677788723152833273)
-- [Common Lisp Implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/)
-- [Ask HN: Where to have good discussions online?](https://news.ycombinator.com/item?id=34909082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
