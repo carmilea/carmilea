@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US Copyright Office says you can&amp;#x27;t copyright Midjourney AI-generated images](https://www.theverge.com/2023/2/22/23611278/midjourney-ai-copyright-office-kristina-kashtanova)
-- [Conversational AI will be used to Manipulate Us in real-time](https://www.barrons.com/articles/conversational-ai-will-learn-to-push-your-buttons-manipulation-problem-c9f797e8)
-- [Night Train Map with all regularly served night train destinations in Europe](https://back-on-track.eu/night-train-map/)
-- [Getting work done with PowerShell on Linux](https://www.deusinmachina.net/p/powershell)
-- [Show HN: IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack](https://ingestai.io)
+- [I created an eBay account and bought an item, today I got indefinitely suspended](https://twitter.com/rafahari/status/1628765429790277632)
+- [Why UK supermarkets are rationing fruit and vegetables](https://www.cnn.com/2023/02/22/business/uk-supermarkets-tomatoes-rationing-explainer/index.html)
+- [Mullvad VPN: Security audit of account and payment services](https://mullvad.net/en/blog/2023/2/17/security-audit-of-account-and-payment-services/)
+- [95% of Bay Area Cities Lost Zoning Authority](https://darrellowens.substack.com/p/96-of-bay-area-cities-lost-zoning)
+- [Tech Layoffs Are Feeding a New Startup Surge](https://www.wired.com/story/tech-layoffs-are-feeding-a-new-startup-surge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
