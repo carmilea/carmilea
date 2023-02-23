@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Copyright Office says you can&amp;#x27;t copyright Midjourney AI-generated images](https://www.theverge.com/2023/2/22/23611278/midjourney-ai-copyright-office-kristina-kashtanova)
 - [Conversational AI will be used to Manipulate Us in real-time](https://www.barrons.com/articles/conversational-ai-will-learn-to-push-your-buttons-manipulation-problem-c9f797e8)
 - [Night Train Map with all regularly served night train destinations in Europe](https://back-on-track.eu/night-train-map/)
-- [Ask HN: Best manual software testing course?](https://news.ycombinator.com/item?id=34910217)
 - [Getting work done with PowerShell on Linux](https://www.deusinmachina.net/p/powershell)
 - [Show HN: IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack](https://ingestai.io)
 <!-- BLOG-POST-LIST:END -->
