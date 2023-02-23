@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optical Transformers](https://arxiv.org/abs/2302.10360)
+- [Tell HN: Oops Upwork did it again](https://news.ycombinator.com/item?id=34904478)
+- [AI-Assisted Art – A Mixed Decision from the Copyright Office](https://www.processmechanics.com/2023/02/22/a-mixed-decision-from-the-us-copyright-office/)
 - [A Malleable Web](https://oio.land/the-malleable-web)
-- [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects)
-- [US housing market posts $2.3T drop, biggest since 2008](https://www.bloomberg.com/news/articles/2023-02-22/us-housing-market-posts-2-3-trillion-drop-biggest-since-2008)
-- [Is_email&lpar;&rpar;](https://github.com/dominicsayers/isemail)
-- [Mercedes-Benz previews its operating system MB.OS](https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos)
+- [Monitoring My Weather at Home](https://tylercipriani.com/blog/2023/02/19/weather-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
