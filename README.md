@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 - [Professor Says He Was Barred from Campus After Monsanto FOIA Inquiry](https://www.insidehighered.com/news/2023/02/20/professor-says-he-was-barred-campus-after-monsanto-info-request)
 - [Testing Raspberry Pi&amp;#x27;s New Debug Probe](https://www.jeffgeerling.com/blog/2023/testing-raspberry-pis-new-debug-probe)
 - [Safari 16.4 Is an Admission](https://infrequently.org/2023/02/safari-16-4-is-an-admission/)
 - [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
-- [Lessons from 35 Years of Newsletter Publishing](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
