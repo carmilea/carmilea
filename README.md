@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: DuckDuckGo&amp;#x27;s privacy extension is injecting ads into web forms](https://news.ycombinator.com/item?id=34916815)
+- [Don&amp;#x27;t believe ChatGPT – we do not offer a &amp;quot;phone lookup&amp;quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
+- [KDE and GNOME seeks $100k to turn Flathub into a Store for the Linux desktop](https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md)
 - [The FBI now recommends using an ad blocker when searching the web](https://www.standard.co.uk/tech/fbi-recommends-ad-blocker-online-scams-b1048998.html)
-- [Stanford Faculty Say Anonymous Student Bias Reports Threaten Free Speech](https://www.wsj.com/articles/stanford-faculty-moves-to-stop-students-from-reporting-bias-anonymously-cbac78ed)
-- [Making It Legal to Play Outside: “Reasonable Childhood Independence” Bills](https://letgrow.org/childhood-independence-bills-update/)
-- [More than half of YC startups don&amp;#x27;t have a dot com](https://www.reproof.app/blog/you-dont-need-a-dot-com)
-- [Argonne: Lithium-Air battery 1200 wh&amp;#x2F;kg, 1000 cycles](https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion)
+- [AI‘s Instagram Problem](https://www.deeplearning.ai/the-batch/someone-elses-cool-ai-project-doesnt-make-your-project-less-valuable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
