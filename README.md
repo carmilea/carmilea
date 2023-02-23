@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Do not store any funds in PayPal or use them for anything critical](https://news.ycombinator.com/item?id=34913596)
+- [After defending false data, Comcast admits another FCC broadband map mistake](https://arstechnica.com/tech-policy/2023/02/comcast-could-have-avoided-giving-false-map-data-to-fcc-by-checking-its-own-website/)
 - [I Broke into a Bank Account with an AI-Generated Voice](https://www.vice.com/en/article/dy7axa/how-i-broke-into-a-bank-account-with-an-ai-generated-voice)
+- [Camouflaging autistic traits linked to internalizing symptoms anxiety depression](https://www.psypost.org/2023/02/camouflaging-of-autistic-traits-linked-to-internalizing-symptoms-such-as-anxiety-and-depression-68382)
 - [I created an eBay account and bought an item, today I got indefinitely suspended](https://twitter.com/rafahari/status/1628765429790277632)
-- [Reverse Engineering a Mysterious UDP Stream in My Hotel](https://www.gkbrk.com/2016/05/hotel-music/)
-- [TikTok-owner ByteDance planning to layoff thousands in coming months](https://www.firstpost.com/world/tiktok-owner-bytedance-planning-to-layoff-thousands-in-coming-months-in-china-12185652.html)
-- [Mullvad VPN: Security audit of account and payment services](https://mullvad.net/en/blog/2023/2/17/security-audit-of-account-and-payment-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
