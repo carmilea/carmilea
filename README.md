@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google tells employees to share desks as it looks to cut costs](https://www.techspot.com/news/97705-google-tells-employees-share-desks-looks-cut-costs.html)
+- [The FBI now recommends using an ad blocker when searching the web](https://www.standard.co.uk/tech/fbi-recommends-ad-blocker-online-scams-b1048998.html)
+- [Stanford Faculty Say Anonymous Student Bias Reports Threaten Free Speech](https://www.wsj.com/articles/stanford-faculty-moves-to-stop-students-from-reporting-bias-anonymously-cbac78ed)
 - [Making It Legal to Play Outside: “Reasonable Childhood Independence” Bills](https://letgrow.org/childhood-independence-bills-update/)
 - [More than half of YC startups don&amp;#x27;t have a dot com](https://www.reproof.app/blog/you-dont-need-a-dot-com)
 - [Argonne: Lithium-Air battery 1200 wh&amp;#x2F;kg, 1000 cycles](https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion)
-- [Tell HN: Do not store any funds in PayPal or use them for anything critical](https://news.ycombinator.com/item?id=34913596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
