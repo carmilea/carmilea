@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Meta rolls out AI language model LLaMA](https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/)
+- [Sono Scraps Solar Car and Dismisses Almost Three-Quarters of Staff](https://www.bloomberg.com/news/articles/2023-02-24/sono-sion-scrapped-and-three-quarters-of-staff-dismissed-sev)
 - [LLaMA: A foundational, 65B-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
-- [Neal Stephenson doesn&amp;#x27;t seem keen on crypto anymore](https://www.gamedeveloper.com/culture/even-neal-stephenson-doesn-t-seem-keen-on-crypto-anymore)
-- [Drag an emoji family with a string size of 11 into an input with maxlength=10](https://mastodon.social/@simevidas/109919980697679274)
-- [Roald Dahl: Original books to be kept in print following criticism](https://www.bbc.com/news/entertainment-arts-64759118)
-- [NPM repository flooded with 15,000 phishing packages](https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages)
+- [Ericsson to lay off 8,500 employees](https://www.reuters.com/business/media-telecom/ericsson-lay-off-8500-employees-memo-2023-02-24/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
