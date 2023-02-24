@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: While painting this, I had nothing in mind](https://krickelkrackel.com/en)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
 - [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
-- [You’re Not a Girlboss – You’re Just Trapped in an MLM Scheme &lpar;2020&rpar;](https://thefinancialdiet.com/the-spirit-of-the-girlboss-is-alive-in-mlm-schemes/)
 - [“find a way to be a predatory squatter on a chokepoint” – Cory Doctorow](https://twitter.com/doctorow/status/1628948906657878016)
 - [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
 <!-- BLOG-POST-LIST:END -->
