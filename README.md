@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Vehicle Safety Report Reveals Teslas Using Autopilot Are 10x Safer](https://www.notateslaapp.com/news/1144/teslas-using-autopilot-are-10x-safer-according-to-latest-vehicle-safety-report)
 - [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
+- [The legacy of fy_iceworld, Counter-Strike&amp;#x27;s divisive and popular custom map](https://www.rockpapershotgun.com/the-legacy-of-fy_iceworld-counter-strikes-divisive-and-hugely-popular-custom-map)
+- [Ask Dang: What tools do you use for moderating HN?](https://news.ycombinator.com/item?id=34920400)
 - [Human mind control of rat cyborg&amp;#x27;s movement via brain-to-brain interface](https://www.nature.com/articles/s41598-018-36885-0)
 - [Encoder-Based Domain Tuning for Fast Personalization of Text-to-Image Models](https://tuning-encoder.github.io/)
-- [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
