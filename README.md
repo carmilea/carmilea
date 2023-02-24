@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: While painting this, I had nothing in mind](https://krickelkrackel.com/en)
+- [Signal would &amp;#x27;walk&amp;#x27; from UK if Online Safety Bill undermined encryption](https://www.bbc.com/news/technology-64584001)
+- [Ask HN: How to prevent a company from taking my domain name?](https://news.ycombinator.com/item?id=34922979)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
 - [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
 - [How the cover art of Defender of the Crown &lpar;1986&rpar; was made &lpar;2013&rpar;](https://spelpappan.se/2013/08/this-is-how-the-cover-art-of-defender-of-the-crown-1986-was-made/)
-- [Google search for a local restaurant returns scammer’s ad as top result](https://twitter.com/doctorow/status/1628948906657878016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
