@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A tale of Phobos – how we almost cracked a ransomware using CUDA](https://cert.pl/en/posts/2023/02/breaking-phobos/)
+- [Mozilla Sees Loopholes in Google’s Data Safety Labels](https://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/)
+- [Show HN: Get life advice from a GPT3-based stoic philosopher](https://seneca.dylancastillo.co/)
+- [It’s time for Alphabet to spin off YouTube](https://www.economist.com/business/2023/02/23/its-time-for-alphabet-to-spin-off-youtube)
 - [Signal would &amp;#x27;walk&amp;#x27; from UK if Online Safety Bill undermined encryption](https://www.bbc.com/news/technology-64584001)
-- [Ask HN: How to prevent a company from taking my domain name?](https://news.ycombinator.com/item?id=34922979)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
-- [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
-- [How the cover art of Defender of the Crown &lpar;1986&rpar; was made &lpar;2013&rpar;](https://spelpappan.se/2013/08/this-is-how-the-cover-art-of-defender-of-the-crown-1986-was-made/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
