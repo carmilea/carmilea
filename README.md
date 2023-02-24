@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After death of girl yesterday, 12 more detected with H5N1 bird flu in Cambodia](https://www.khmertimeskh.com/501244375/after-death-of-girl-yesterday-12-more-detected-with-h5n1-bird-flu/)
+- [The Investors Who Still Think Crypto Can Make Them Rich](https://www.wsj.com/articles/some-everyday-investors-still-bet-crypto-can-make-them-rich-7107d63e)
+- [Dalio Exits: Hedge Fund Billionaire Extracts Billions More to Retire](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
+- [TikTok “teen” AI filter is hitting hard for Gen-X users](https://twitter.com/memotv/status/1628758590033993728)
+- [DOJ Preps Antitrust Suit to Block Adobe’s $20B Figma Deal](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma)
 - [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
-- [Apple Entertainment Services are slow or down](https://www.apple.com/support/systemstatus/)
-- [Tell HN: DuckDuckGo&amp;#x27;s privacy extension is adding an inline popup to web forms](https://news.ycombinator.com/item?id=34916815)
-- [Don&amp;#x27;t believe ChatGPT – we do not offer a &amp;quot;phone lookup&amp;quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
