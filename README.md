@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
+- [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
+- [You’re Not a Girlboss – You’re Just Trapped in an MLM Scheme &lpar;2020&rpar;](https://thefinancialdiet.com/the-spirit-of-the-girlboss-is-alive-in-mlm-schemes/)
 - [The legacy of fy_iceworld, Counter-Strike&amp;#x27;s divisive and popular custom map](https://www.rockpapershotgun.com/the-legacy-of-fy_iceworld-counter-strikes-divisive-and-hugely-popular-custom-map)
 - [Ask Dang: What tools do you use for moderating HN?](https://news.ycombinator.com/item?id=34920400)
 - [Human mind control of rat cyborg&amp;#x27;s movement via brain-to-brain interface](https://www.nature.com/articles/s41598-018-36885-0)
-- [Encoder-Based Domain Tuning for Fast Personalization of Text-to-Image Models](https://tuning-encoder.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
