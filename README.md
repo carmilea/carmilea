@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning for AGI and Beyond](https://openai.com/blog/planning-for-agi-and-beyond/)
-- [API Security Is a Hot Topic for 2023](https://blog.treblle.com/why-api-security-is-a-top-concern/)
-- [Justice Department says Google destroyed evidence related to antitrust lawsuit](https://www.wsj.com/articles/justice-department-says-google-destroyed-evidence-related-to-antitrust-lawsuit-5dad2d6)
-- [4-day workweek trial](https://apnews.com/article/business-d114ef8be69e1665fd22c39515bdaecf)
-- [Bitnami ARM containers available at Docker Hub](https://blog.bitnami.com/2023/02/bitnami-arm-containers-available-at.html)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Aggressive Attack on PyPI Attempting to Deliver Rust Executable](https://blog.phylum.io/phylum-discovers-another-attack-on-pypi)
+- [Paper Models of Vintage Computers](http://rockybergen.com/papercraft)
+- [Serving 250k Developers with One Support Engineer](https://blog.railway.app/p/scaling-railway-automating-support)
+- [Pretty Rust backtraces in raw terminal mode](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
