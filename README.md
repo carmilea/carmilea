@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Excess weight, obesity more deadly than previously believed](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed)
+- [The Economist: Unshowy competence brings drawbacks as well as benefits](https://www.economist.com/business/2023/02/23/unshowy-competence-brings-drawbacks-as-well-as-benefits)
+- [America’s obsession with big cars has fatal consequences](https://www.ft.com/content/a75a6623-67f4-41d1-a0ca-cedc9fda4f90)
+- [Learn Vim &lpar;2021&rpar;](https://github.com/iggredible/Learn-Vim)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Aggressive Attack on PyPI Attempting to Deliver Rust Executable](https://blog.phylum.io/phylum-discovers-another-attack-on-pypi)
-- [Paper Models of Vintage Computers](http://rockybergen.com/papercraft)
-- [Serving 250k Developers with One Support Engineer](https://blog.railway.app/p/scaling-railway-automating-support)
-- [Pretty Rust backtraces in raw terminal mode](https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
