@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Investors Who Still Think Crypto Can Make Them Rich](https://www.wsj.com/articles/some-everyday-investors-still-bet-crypto-can-make-them-rich-7107d63e)
-- [Dalio Exits: Hedge Fund Billionaire Extracts Billions More to Retire](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
-- [TikTok “teen” AI filter is hitting hard for Gen-X users](https://twitter.com/memotv/status/1628758590033993728)
+- [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
+- [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
+- [So, you’ve been challenged to a duel. What are the rules? &lpar;2016&rpar;](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
+- [Ray Dalio&amp;#x27;s Bridgewater exit package could amount to billions of dollars](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
 - [DOJ Preps Antitrust Suit to Block Adobe’s $20B Figma Deal](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma)
-- [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
