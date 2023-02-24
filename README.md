@@ -54,8 +54,8 @@
 - [Show HN: While painting this, I had nothing in mind](https://krickelkrackel.com/en)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
 - [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
-- [“find a way to be a predatory squatter on a chokepoint” – Cory Doctorow](https://twitter.com/doctorow/status/1628948906657878016)
-- [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
+- [How the cover art of Defender of the Crown &lpar;1986&rpar; was made &lpar;2013&rpar;](https://spelpappan.se/2013/08/this-is-how-the-cover-art-of-defender-of-the-crown-1986-was-made/)
+- [Google search for a local restaurant returns scammer’s ad as top result](https://twitter.com/doctorow/status/1628948906657878016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
