@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI chatbots are having their “tulip mania” moment](https://www.salon.com/2023/02/21/ai-chatbots-are-having-their-tulip-mania-moment/)
-- [Rust on Espressif chips – 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/)
-- [A tale of Phobos – How we almost cracked a ransomware using CUDA](https://cert.pl/en/posts/2023/02/breaking-phobos/)
-- [Loopholes in Google’s data safety labels](https://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/)
-- [Show HN: Get advice from a GPT3-based stoic philosopher](https://seneca.dylancastillo.co/)
+- [LLaMA: A foundational, 65B-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+- [Neal Stephenson doesn&amp;#x27;t seem keen on crypto anymore](https://www.gamedeveloper.com/culture/even-neal-stephenson-doesn-t-seem-keen-on-crypto-anymore)
+- [Drag an emoji family with a string size of 11 into an input with maxlength=10](https://mastodon.social/@simevidas/109919980697679274)
+- [Roald Dahl: Original books to be kept in print following criticism](https://www.bbc.com/news/entertainment-arts-64759118)
+- [NPM repository flooded with 15,000 phishing packages](https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
