@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust on Espressif chips – 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/)
+- [BASF to Cut 2,600 Jobs as Energy Crisis Hits German Industry](https://finance.yahoo.com/news/basf-falls-2-600-job-084353889.html)
 - [A tale of Phobos – how we almost cracked a ransomware using CUDA](https://cert.pl/en/posts/2023/02/breaking-phobos/)
 - [Mozilla Sees Loopholes in Google’s Data Safety Labels](https://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/)
-- [Show HN: Get life advice from a GPT3-based stoic philosopher](https://seneca.dylancastillo.co/)
-- [It’s time for Alphabet to spin off YouTube](https://www.economist.com/business/2023/02/23/its-time-for-alphabet-to-spin-off-youtube)
-- [Signal would &amp;#x27;walk&amp;#x27; from UK if Online Safety Bill undermined encryption](https://www.bbc.com/news/technology-64584001)
+- [Show HN: Get advice from a GPT3-based stoic philosopher](https://seneca.dylancastillo.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
