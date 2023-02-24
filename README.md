@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Vehicle Safety Report Reveals Teslas Using Autopilot Are 10x Safer](https://www.notateslaapp.com/news/1144/teslas-using-autopilot-are-10x-safer-according-to-latest-vehicle-safety-report)
+- [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
+- [Human mind control of rat cyborg&amp;#x27;s movement via brain-to-brain interface](https://www.nature.com/articles/s41598-018-36885-0)
+- [Encoder-Based Domain Tuning for Fast Personalization of Text-to-Image Models](https://tuning-encoder.github.io/)
 - [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
-- [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
-- [So, you’ve been challenged to a duel. What are the rules? &lpar;2016&rpar;](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
-- [Ray Dalio&amp;#x27;s Bridgewater exit package could amount to billions of dollars](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
-- [Burgr – Books in Your Terminal](https://blubsblog.bearblog.dev/burgr-books-in-your-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
