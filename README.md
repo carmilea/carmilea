@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chatbots are having their “tulip mania” moment](https://www.salon.com/2023/02/21/ai-chatbots-are-having-their-tulip-mania-moment/)
 - [Rust on Espressif chips – 2023 Roadmap](https://mabez.dev/blog/posts/esp-rust-24-02-2023/)
-- [BASF to Cut 2,600 Jobs as Energy Crisis Hits German Industry](https://finance.yahoo.com/news/basf-falls-2-600-job-084353889.html)
-- [A tale of Phobos – how we almost cracked a ransomware using CUDA](https://cert.pl/en/posts/2023/02/breaking-phobos/)
-- [Mozilla Sees Loopholes in Google’s Data Safety Labels](https://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/)
+- [A tale of Phobos – How we almost cracked a ransomware using CUDA](https://cert.pl/en/posts/2023/02/breaking-phobos/)
+- [Loopholes in Google’s data safety labels](https://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/)
 - [Show HN: Get advice from a GPT3-based stoic philosopher](https://seneca.dylancastillo.co/)
 <!-- BLOG-POST-LIST:END -->
 
