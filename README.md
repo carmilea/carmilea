@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. corn-based ethanol worse for the climate than gasoline, study finds](https://www.reuters.com/business/environment/us-corn-based-ethanol-worse-climate-than-gasoline-study-finds-2022-02-14/)
+- [Training Deep Networks with Data Parallelism in Jax](https://www.mishalaskin.com/posts/data_parallel)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [Meta rolls out AI language model LLaMA](https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/)
-- [Sono Scraps Solar Car and Dismisses Almost Three-Quarters of Staff](https://www.bloomberg.com/news/articles/2023-02-24/sono-sion-scrapped-and-three-quarters-of-staff-dismissed-sev)
-- [LLaMA: A foundational, 65B-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
-- [Ericsson to lay off 8,500 employees](https://www.reuters.com/business/media-telecom/ericsson-lay-off-8500-employees-memo-2023-02-24/)
+- [I saw RealPage&amp;#x27;s crappy rent-jacking-up software so you don&amp;#x27;t have to](https://cohost.org/morayati/post/925436-i-saw-real-page-s-cra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
