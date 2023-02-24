@@ -55,7 +55,7 @@
 - [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
 - [So, you’ve been challenged to a duel. What are the rules? &lpar;2016&rpar;](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
 - [Ray Dalio&amp;#x27;s Bridgewater exit package could amount to billions of dollars](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
-- [DOJ Preps Antitrust Suit to Block Adobe’s $20B Figma Deal](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma)
+- [Burgr – Books in Your Terminal](https://blubsblog.bearblog.dev/burgr-books-in-your-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
