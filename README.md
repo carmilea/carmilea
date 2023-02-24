@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4-day workweek trial: Shorter hours, happier employees](https://apnews.com/article/business-d114ef8be69e1665fd22c39515bdaecf)
-- [UK supermarkets run out of turnips](https://www.independent.co.uk/news/uk/home-news/supermarkets-turnips-food-shortages-rations-b2288919.html)
-- [Hackers are reportedly getting laid off by organized crime groups](https://www.businessinsider.com/hackers-ransomware-getting-laid-off-amid-better-cybersecurity-report-2023-2)
-- [U.S. corn-based ethanol worse for the climate than gasoline, study finds](https://www.reuters.com/business/environment/us-corn-based-ethanol-worse-climate-than-gasoline-study-finds-2022-02-14/)
-- [Training Deep Networks with Data Parallelism in Jax](https://www.mishalaskin.com/posts/data_parallel)
+- [Planning for AGI and Beyond](https://openai.com/blog/planning-for-agi-and-beyond/)
+- [API Security Is a Hot Topic for 2023](https://blog.treblle.com/why-api-security-is-a-top-concern/)
+- [Justice Department says Google destroyed evidence related to antitrust lawsuit](https://www.wsj.com/articles/justice-department-says-google-destroyed-evidence-related-to-antitrust-lawsuit-5dad2d6)
+- [4-day workweek trial](https://apnews.com/article/business-d114ef8be69e1665fd22c39515bdaecf)
+- [Bitnami ARM containers available at Docker Hub](https://blog.bitnami.com/2023/02/bitnami-arm-containers-available-at.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
