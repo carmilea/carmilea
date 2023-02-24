@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Excess weight, obesity more deadly than previously believed](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed)
-- [The Economist: Unshowy competence brings drawbacks as well as benefits](https://www.economist.com/business/2023/02/23/unshowy-competence-brings-drawbacks-as-well-as-benefits)
+- [Analysis finds Australia’s inflation being driven by company profits, not wages](https://www.theguardian.com/business/2023/feb/24/an-economic-fairytale-australias-inflation-being-driven-by-company-profits-and-not-wages-analysis-finds)
+- [Unshowy competence brings drawbacks as well as benefits](https://www.economist.com/business/2023/02/23/unshowy-competence-brings-drawbacks-as-well-as-benefits)
 - [America’s obsession with big cars has fatal consequences](https://www.ft.com/content/a75a6623-67f4-41d1-a0ca-cedc9fda4f90)
 - [Learn Vim &lpar;2021&rpar;](https://github.com/iggredible/Learn-Vim)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
