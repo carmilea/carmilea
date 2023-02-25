@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Mac speakers sound so good](https://social.treehouse.systems/@marcan/109917995005981968)
+- [Upwork just stole $10k from me](https://twitter.com/ilyanovohatskyi/status/1626310838872145925)
 - [Elixir for Humans Who Know Python](https://hibox.live/elixir-for-humans-who-know-python)
 - [My daughter&amp;#x27;s school took over my personal Microsoft account](https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html)
-- [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
