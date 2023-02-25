@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Checking Firewall Equivalence with Z3](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
 - [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
-- [What does Moscow want with Moldova?](https://www.dw.com/en/what-does-moscow-want-with-moldova/a-64820093)
 - [Bizarre and unusual uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
 - [Bloom&amp;#x27;s 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
 <!-- BLOG-POST-LIST:END -->
