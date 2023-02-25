@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
-- [Bizarre and Unusual Uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
-- [The ‘next Ozempic’ became a social media sensation. Then everything changed](https://www.independent.co.uk/news/world/americas/mounjaro-weight-loss-ozempic-face-b2289417.html)
+- [What does Moscow want with Moldova?](https://www.dw.com/en/what-does-moscow-want-with-moldova/a-64820093)
+- [Bizarre and unusual uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
 - [Bloom&amp;#x27;s 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
-- [Using GPT3, Supabase and Pinecone to automate a personalized marketing campaign](https://vimota.me/writing/gpt3-klaviyo-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
