@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+- [Bizarre and Unusual Uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
 - [The ‘next Ozempic’ became a social media sensation. Then everything changed](https://www.independent.co.uk/news/world/americas/mounjaro-weight-loss-ozempic-face-b2289417.html)
 - [Bloom&amp;#x27;s 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
 - [Using GPT3, Supabase and Pinecone to automate a personalized marketing campaign](https://vimota.me/writing/gpt3-klaviyo-automation)
-- [A Lambda Calculus with Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures#source-language)
-- [Gut microbes could drive brain disorders](https://www.nature.com/articles/d41586-021-00260-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
