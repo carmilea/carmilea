@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Ask HN: Found a leak of US citizens personal data. Should I report it?](https://news.ycombinator.com/item?id=34933856)
 - [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html)
 - [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
 - [Daily.place](https://www.daily.place/)
-- [Bun v0.5.7](https://bun.sh/blog/bun-v0.5.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
