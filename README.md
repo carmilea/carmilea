@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Uber sold my email address](https://news.ycombinator.com/item?id=34939104)
+- [The ‘next Ozempic’ became a social media sensation. Then everything changed](https://www.independent.co.uk/news/world/americas/mounjaro-weight-loss-ozempic-face-b2289417.html)
+- [Bloom&amp;#x27;s 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
+- [Using GPT3, Supabase and Pinecone to automate a personalized marketing campaign](https://vimota.me/writing/gpt3-klaviyo-automation)
 - [A Lambda Calculus with Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures#source-language)
 - [Gut microbes could drive brain disorders](https://www.nature.com/articles/d41586-021-00260-3)
-- [Nokia launches DIY repairable budget Android phone](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)
-- [Dow said it was recycling our shoes. We found them at an Indonesian flea market](https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
