@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Lambda Calculus with Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures#source-language)
+- [Nokia launches DIY repairable budget Android phone](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)
 - [Dow said it was recycling our shoes. We found them at an Indonesian flea market](https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/)
 - [Valent Is a KDE Connect Client for GTK-Based Desktops](https://www.linuxuprising.com/2023/02/valent-is-kde-connect-client-for-gtk.html)
-- [Place Your Bets](https://www.antipope.org/charlie/blog-static/2023/02/place-your-bets.html)
-- [Show HN: Deon.land – Deno.land?](https://news.ycombinator.com/item?id=34937327)
 - [Wine Wayland Driver](https://gitlab.winehq.org/wine/wine/-/merge_requests/2275)
 <!-- BLOG-POST-LIST:END -->
 
