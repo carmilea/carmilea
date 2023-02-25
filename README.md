@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Uber sold my email address](https://news.ycombinator.com/item?id=34939104)
 - [A Lambda Calculus with Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures#source-language)
+- [Gut microbes could drive brain disorders](https://www.nature.com/articles/d41586-021-00260-3)
 - [Nokia launches DIY repairable budget Android phone](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)
 - [Dow said it was recycling our shoes. We found them at an Indonesian flea market](https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/)
-- [Valent Is a KDE Connect Client for GTK-Based Desktops](https://www.linuxuprising.com/2023/02/valent-is-kde-connect-client-for-gtk.html)
-- [Wine Wayland Driver](https://gitlab.winehq.org/wine/wine/-/merge_requests/2275)
 <!-- BLOG-POST-LIST:END -->
 
 ---
