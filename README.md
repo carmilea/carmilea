@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High-skilled visa holders at risk of deportation amid tech layoffs](https://www.washingtonpost.com/us-policy/2023/02/24/temporary-visa-h1b-tech-layoffs/)
 - [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
 - [U-2 pilot&amp;#x27;s selfie above China&amp;#x27;s balloon taken over Missouri: How we know that](https://www.npr.org/2023/02/23/1159007203/selfie-china-balloon-photo)
 - [Daily.place](https://www.daily.place/)
-- [Bun v0.5.7](https://bun.sh/blog/bun-v0.5.7)
-- [John Boyer, blind software engineer, dies](https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/)
+- [Google has gotten so cheap, employees now have to share desks](https://arstechnica.com/gadgets/2023/02/google-has-gotten-so-cheap-employees-now-have-to-share-desks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
