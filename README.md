@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fediverse is already dead](https://nora.codes/post/the-fediverse-is-already-dead/)
+- [Elixir for Humans Who Know Python](https://hibox.live/elixir-for-humans-who-know-python)
 - [My daughter&amp;#x27;s school took over my personal Microsoft account](https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html)
