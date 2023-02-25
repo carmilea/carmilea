@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berkshire Hathaway Annual Shareholder letter 2022 [pdf]](https://www.berkshirehathaway.com/letters/2022ltr.pdf)
-- [LeanCreator – A lean version of Qt Creator](https://github.com/rochus-keller/LeanCreator)
-- [Something is wrong in the state of QED &lpar;2021&rpar; [pdf]](https://vixra.org/pdf/2002.0011v2.pdf)
-- [Single sign-on Mastodon available for all Dutch education and research](https://social.edu.nl/@wlaatje/109865262060573901)
-- [Celebratio Mathematica](https://celebratio.org/)
+- [Place Your Bets](https://www.antipope.org/charlie/blog-static/2023/02/place-your-bets.html)
+- [Wine Wayland Driver](https://gitlab.winehq.org/wine/wine/-/merge_requests/2275)
+- [ChatGPT get-rich-quick schemes are coming for magazines, Amazon, and YouTube](https://www.semafor.com/article/02/24/2023/chatgpt-get-rich-quick-schemes-are-coming-for-magazines-amazon-and-youtube)
+- [Example of the general issue of the importance of measurement in statistics](https://statmodeling.stat.columbia.edu/2023/02/25/not-within-spitting-distance-challenges-in-measuring-ovulation-as-an-example-of-the-general-issue-of-the-importance-of-measurement-in-statistics/)
+- [Mysterious object is being dragged into the black hole at the Milky Way’s center](https://newsroom.ucla.edu/releases/X7-debris-cloud-near-supermassive-black-hole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
