@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal says it&amp;#x27;ll shut down in UK if Online Safety Bill approved](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
+- [Paperspace &lpar;YC W15&rpar; is hiring to improve the ML development experience](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
+- [How to protect your career from a ChatGPT Future](https://www.wearedevelopers.com/magazine/how-to-protect-your-career-from-chatgpt)
+- [Open Airport Map](https://openairportmap.org)
 - [Why Mac speakers sound so good](https://social.treehouse.systems/@marcan/109917995005981968)
-- [Upwork just stole $10k from me](https://twitter.com/ilyanovohatskyi/status/1626310838872145925)
-- [Elixir for Humans Who Know Python](https://hibox.live/elixir-for-humans-who-know-python)
-- [My daughter&amp;#x27;s school took over my personal Microsoft account](https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account)
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
