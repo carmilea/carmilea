@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Berkshire Hathaway Annual Shareholder letter 2022 [pdf]](https://www.berkshirehathaway.com/letters/2022ltr.pdf)
+- [LeanCreator – A lean version of Qt Creator](https://github.com/rochus-keller/LeanCreator)
+- [Something is wrong in the state of QED &lpar;2021&rpar; [pdf]](https://vixra.org/pdf/2002.0011v2.pdf)
 - [Single sign-on Mastodon available for all Dutch education and research](https://social.edu.nl/@wlaatje/109865262060573901)
-- [For Chat-Based AI, We Are All Once Again Tech Companies’ Guinea Pigs](https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b)
-- [Signal says it&amp;#x27;ll shut down in UK if Online Safety Bill approved](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
-- [A Basic iPhone Feature Helps Criminals Steal Your Entire Digital Life](https://www.wsj.com/articles/apple-iphone-security-theft-passcode-data-privacya-basic-iphone-feature-helps-criminals-steal-your-digital-life-cbf14b1a)
-- [Paperspace &lpar;YC W15&rpar; is hiring to improve the ML development experience](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
+- [Celebratio Mathematica](https://celebratio.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
