@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Excess weight, obesity more deadly than previously believed](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed)
+- [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
+- [U-2 pilot&amp;#x27;s selfie above China&amp;#x27;s balloon taken over Missouri: How we know that](https://www.npr.org/2023/02/23/1159007203/selfie-china-balloon-photo)
+- [Bun v0.5.7](https://bun.sh/blog/bun-v0.5.7)
+- [John Boyer, blind software engineer, dies](https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/)
 - [Analysis finds Australia’s inflation being driven by company profits, not wages](https://www.theguardian.com/business/2023/feb/24/an-economic-fairytale-australias-inflation-being-driven-by-company-profits-and-not-wages-analysis-finds)
-- [Unshowy competence brings drawbacks as well as benefits](https://www.economist.com/business/2023/02/23/unshowy-competence-brings-drawbacks-as-well-as-benefits)
-- [America’s obsession with big cars has fatal consequences](https://www.ft.com/content/a75a6623-67f4-41d1-a0ca-cedc9fda4f90)
-- [Learn Vim &lpar;2021&rpar;](https://github.com/iggredible/Learn-Vim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
