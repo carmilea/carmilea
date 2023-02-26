@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geneticist Barbara McClintock on Plant Consciousness](https://superbowl.substack.com/p/church-of-reality-barbara-mcclintock)
-- [Ask HN: Is Mastodon the best alternative to Twitter?](https://news.ycombinator.com/item?id=34946065)
-- [Marginalia Search has received an NLNet grant](https://memex.marginalia.nu/log/74-marginalia-2-years.gmi)
-- [EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
-- [Please help improve Magit](https://magit.vc/donate/)
+- [2D Liquid Simulator with Cellular Automaton](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
+- [The Power of “Yes, If”: Iterating on Our RFC Process – Squarespace &amp;#x2F; Engineering](https://engineering.squarespace.com/blog/2019/the-power-of-yes-if)
+- [Beej&amp;#x27;s Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
+- [Why Is Mars&amp;#x27;s Moon Traveling the Wrong Way?](https://azeemba.com/posts/mars-phobos-wrong-way-moon.html)
+- [OKRs will never be enough](https://www.edge.ceo/p/okrs-will-never-be-enough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
