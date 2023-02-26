@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marginalia Search: 2 years, big news](https://memex.marginalia.nu/log/74-marginalia-2-years.gmi)
 - [EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
 - [Please help improve Magit](https://magit.vc/donate/)
+- [REM Sleep Is Magical. Here’s What the Experts Know](https://www.nytimes.com/2023/02/25/well/mind/rem-sleep-benefits.html)
 - [Popular education in Sweden: much more than you wanted to know](https://www.lesswrong.com/posts/tjxgbovwc5Ft7wrtc/popular-education-in-sweden-much-more-than-you-wanted-to-1)
-- [The Capitalist Road to Serfdom](https://jacobin.com/2023/02/capitalist-road-to-serfdom-surveillance-wage-labor)
-- [Ask HN: Please critique my metalanguage: “Dogma”](https://news.ycombinator.com/item?id=34944885)
 <!-- BLOG-POST-LIST:END -->
 
 ---
