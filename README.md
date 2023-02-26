@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Medical Response to a Vinyl Chloride Release from a Train Derailment: NJ, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776704/)
+- [The most radioactive spot in New York City can also fix your muffler](https://www.atlasobscura.com/places/primo-autobody-repair)
+- [Medical response to a vinyl chloride release from a train derailment &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776704/)
 - [Four Stars for Peeling Paint and Broken Doors? What’s Behind High Airbnb Ratings](https://www.wsj.com/articles/four-stars-for-peeling-paint-and-broken-doors-whats-behind-high-airbnb-ratings-da26390e)
 - [Single-pulse real-time billion-frames-per-second imaging of flame temperature](https://www.nature.com/articles/s41377-023-01095-5)
 - [Checking Firewall Equivalence with Z3](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
-- [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
