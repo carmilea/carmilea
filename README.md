@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Subscription fatigue and related musings](https://morrick.me/archives/9718)
+- [Feedbase is an Atom&amp;#x2F;RSS-feed to nntp gateway](http://feedbase.org/about/)
+- [DreamWorld &lpar;YC W21&rpar; Is Hiring Unreal Engine Game Developers](https://www.ycombinator.com/companies/dreamworld/jobs/atBKbEg-unreal-engine-game-developer-senior)
 - [Inmos and the Transputer &lpar;1998&rpar;](https://www.transputer.net/fbooks/iandt/inmos_transputer.html)
 - [Relic: Functional relational programming for Clojure&lpar;Script&rpar;](https://github.com/wotbrew/relic)
-- [Trove of LA students’ mental health records posted to dark web after cyber hack](https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/)
-- [Britain’s biggest skills problem is that many firms don’t value them](https://www.economist.com/britain/2023/02/21/britains-biggest-skills-problem-is-that-many-firms-dont-value-them)
-- [Video games for dogs aim to help aging canine brains](https://www.axios.com/2022/11/28/dogs-video-games-joipaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
