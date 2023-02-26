@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [France&amp;#x27;s Baby Bust](https://worksinprogress.co/issue/frances-baby-bust)
 - [What&amp;#x27;s new in C# for Godot 4.0](https://godotengine.org/article/whats-new-in-csharp-for-godot-4-0/)
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 - [Wolfram Language and Mathematica Free on Every Raspberry Pi](https://www.wolfram.com/raspberry-pi/)
-- [Ask HN: Worth it to buy 4x Nvidia Tesla K40 for AI?](https://news.ycombinator.com/item?id=34944014)
 - [WordPlate: WordPress on Composer with sensible defaults](https://github.com/vinkla/wordplate)
 <!-- BLOG-POST-LIST:END -->
 
