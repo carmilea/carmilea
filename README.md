@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France&amp;#x27;s Baby Bust](https://worksinprogress.co/issue/frances-baby-bust)
-- [What&amp;#x27;s new in C# for Godot 4.0](https://godotengine.org/article/whats-new-in-csharp-for-godot-4-0/)
-- [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
-- [Wolfram Language and Mathematica Free on Every Raspberry Pi](https://www.wolfram.com/raspberry-pi/)
-- [WordPlate: WordPress on Composer with sensible defaults](https://github.com/vinkla/wordplate)
+- [EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
+- [Please help improve Magit](https://magit.vc/donate/)
+- [Popular education in Sweden: much more than you wanted to know](https://www.lesswrong.com/posts/tjxgbovwc5Ft7wrtc/popular-education-in-sweden-much-more-than-you-wanted-to-1)
+- [The Capitalist Road to Serfdom](https://jacobin.com/2023/02/capitalist-road-to-serfdom-surveillance-wage-labor)
+- [Ask HN: Please critique my metalanguage: “Dogma”](https://news.ycombinator.com/item?id=34944885)
 <!-- BLOG-POST-LIST:END -->
 
 ---
