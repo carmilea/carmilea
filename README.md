@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Marginalia Search: 2 years, big news](https://memex.marginalia.nu/log/74-marginalia-2-years.gmi)
+- [Marginalia Search has received an NLNet grant](https://memex.marginalia.nu/log/74-marginalia-2-years.gmi)
+- [I disapprove of what you say but I will defend to the death your right to say it](https://quoteinvestigator.com/2015/06/01/defend-say/)
 - [EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
 - [Please help improve Magit](https://magit.vc/donate/)
 - [REM Sleep Is Magical. Here’s What the Experts Know](https://www.nytimes.com/2023/02/25/well/mind/rem-sleep-benefits.html)
-- [Popular education in Sweden: much more than you wanted to know](https://www.lesswrong.com/posts/tjxgbovwc5Ft7wrtc/popular-education-in-sweden-much-more-than-you-wanted-to-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
