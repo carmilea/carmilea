@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2D Liquid Simulator with Cellular Automaton](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
-- [The Power of “Yes, If”: Iterating on Our RFC Process – Squarespace &amp;#x2F; Engineering](https://engineering.squarespace.com/blog/2019/the-power-of-yes-if)
-- [Beej&amp;#x27;s Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
-- [Why Is Mars&amp;#x27;s Moon Traveling the Wrong Way?](https://azeemba.com/posts/mars-phobos-wrong-way-moon.html)
-- [OKRs will never be enough](https://www.edge.ceo/p/okrs-will-never-be-enough)
+- [New research shows trolls don’t just enjoy hurting, they also feel good about it](https://theconversation.com/new-research-shows-trolls-dont-just-enjoy-hurting-others-they-also-feel-good-about-themselves-145931)
+- [Jeff Minter, The wizard of gaming psychedelia](https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade)
+- [Suspect, victim in Redmond stabbing both worked at Microsoft](https://komonews.com/news/local/microsoft-redmond-stabbing-stab-knife-blood-court-documents-king-county-prosecutor-attorney-office-jail-2million-joseph-richard-cantrell-arrest-standoff-swat-police-department-one-esterra-building-harborview-medical-center)
+- [GOTOphobia Considered Harmful &lpar;In C&rpar;](https://blog.joren.ga/gotophobia-harmful)
+- [Linux 6.2 and Apple Silicon clarification](https://twitter.com/AsahiLinux/status/1629867285379960833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
