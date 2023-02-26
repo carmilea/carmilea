@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Worth it to buy 4x Nvidia Tesla K40 for AI?](https://news.ycombinator.com/item?id=34944014)
+- [Dilbert Dropped by Newspapers over Creator&amp;#x27;s Racist Rant](https://nypost.com/2023/02/25/dilbert-dropped-by-newspapers-over-creator-scott-adams-racist-rant/)
 - [WordPlate: WordPress on Composer with sensible defaults](https://github.com/vinkla/wordplate)
 - [Sharing the Load: Amish Healthcare Financing &lpar;2016&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198134/)
 - [The most radioactive spot in New York City can also fix your muffler](https://www.atlasobscura.com/places/primo-autobody-repair)
-- [Medical response to a vinyl chloride release from a train derailment &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776704/)
-- [Single-pulse real-time billion-frames-per-second imaging of flame temperature](https://www.nature.com/articles/s41377-023-01095-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
