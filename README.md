@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New research shows trolls don’t just enjoy hurting, they also feel good about it](https://theconversation.com/new-research-shows-trolls-dont-just-enjoy-hurting-others-they-also-feel-good-about-themselves-145931)
+- [Britain’s biggest skills problem is that many firms don’t value them](https://www.economist.com/britain/2023/02/21/britains-biggest-skills-problem-is-that-many-firms-dont-value-them)
+- [Secret crawlspace cryptomine discovered in routine inspection of MA high school](https://arstechnica.com/tech-policy/2023/02/secret-crawlspace-cryptomine-discovered-in-routine-inspection-of-ma-high-school/)
+- [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
+- [Canada starts investigating TikTok over data collection from young users](https://www.firstpost.com/world/canada-starts-investigating-tiktok-over-data-collection-from-young-users-12204042.html)
 - [Jeff Minter, The wizard of gaming psychedelia](https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade)
-- [Suspect, victim in Redmond stabbing both worked at Microsoft](https://komonews.com/news/local/microsoft-redmond-stabbing-stab-knife-blood-court-documents-king-county-prosecutor-attorney-office-jail-2million-joseph-richard-cantrell-arrest-standoff-swat-police-department-one-esterra-building-harborview-medical-center)
-- [GOTOphobia Considered Harmful &lpar;In C&rpar;](https://blog.joren.ga/gotophobia-harmful)
-- [Linux 6.2 and Apple Silicon clarification](https://twitter.com/AsahiLinux/status/1629867285379960833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
