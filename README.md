@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inmos and the Transputer &lpar;1998&rpar;](https://www.transputer.net/fbooks/iandt/inmos_transputer.html)
+- [Relic: Functional relational programming for Clojure&lpar;Script&rpar;](https://github.com/wotbrew/relic)
+- [Rope &lpar;data structure&rpar;](https://en.wikipedia.org/wiki/Rope_(data_structure))
+- [Trove of LA students’ mental health records posted to dark web after cyber hack](https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/)
 - [Britain’s biggest skills problem is that many firms don’t value them](https://www.economist.com/britain/2023/02/21/britains-biggest-skills-problem-is-that-many-firms-dont-value-them)
-- [Secret crawlspace cryptomine discovered in routine inspection of MA high school](https://arstechnica.com/tech-policy/2023/02/secret-crawlspace-cryptomine-discovered-in-routine-inspection-of-ma-high-school/)
-- [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
-- [Canada starts investigating TikTok over data collection from young users](https://www.firstpost.com/world/canada-starts-investigating-tiktok-over-data-collection-from-young-users-12204042.html)
-- [Jeff Minter, The wizard of gaming psychedelia](https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
