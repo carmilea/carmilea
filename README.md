@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Inmos and the Transputer &lpar;1998&rpar;](https://www.transputer.net/fbooks/iandt/inmos_transputer.html)
 - [Relic: Functional relational programming for Clojure&lpar;Script&rpar;](https://github.com/wotbrew/relic)
-- [Rope &lpar;data structure&rpar;](https://en.wikipedia.org/wiki/Rope_(data_structure))
 - [Trove of LA students’ mental health records posted to dark web after cyber hack](https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/)
 - [Britain’s biggest skills problem is that many firms don’t value them](https://www.economist.com/britain/2023/02/21/britains-biggest-skills-problem-is-that-many-firms-dont-value-them)
+- [Video games for dogs aim to help aging canine brains](https://www.axios.com/2022/11/28/dogs-video-games-joipaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
