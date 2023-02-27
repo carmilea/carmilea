@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [From Go on EC2 to Fly.io: +fun, −$9&amp;#x2F;mo](https://benhoyt.com/writings/flyio/)
-- [Poor Sleep Drove Me Insane, and My Long Path to Recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
-- [Long Term Backup](https://longnow.org/ideas/very-long-term-backup/)
-- [TikTok just dropped a new realistic beauty filter](https://twitter.com/memotv/status/1629905103724396546)
-- [DMCA Takedown of iptv-org&amp;#x2F;iptv on GitHub](https://github.com/iptv-org/iptv)
+- [Open-source software braces for trade war](https://www.reuters.com/breakingviews/open-source-software-braces-trade-war-2023-02-27/)
+- [Poor sleep drove me insane, and my long path to recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
+- [Very Long-Term Backup &lpar;2008&rpar;](https://longnow.org/ideas/very-long-term-backup/)
+- [Consultants: the real reason it costs so much to build new subways in America](https://slate.com/business/2023/02/subway-costs-us-europe-public-transit-funds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
