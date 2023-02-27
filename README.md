@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The vertical farming bubble is finally popping](https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery)
+- [Reverse-engineering the ModR&amp;#x2F;M addressing microcode in the Intel 8086 processor](https://www.righto.com/2023/02/8086-modrm-addressing.html)
+- [Graph DBMSs need new join algorithms: Story of worst-case optimal joins](https://kuzudb.com/blog/wcoj.html)
+- [Unit Testing PDF Generation](https://nibblestew.blogspot.com/2023/02/unit-testing-pdf-generation.html)
 - [Diffusion with Offset Noise: Finetuning SD to generate very dark or light images](https://www.crosslabs.org//blog/diffusion-with-offset-noise)
-- [KDE Plasma development switches to Qt 6 tomorrow](https://mail.kde.org/pipermail/kde-devel/2023-February/001699.html)
-- [Ask HN: What companies have publicly available handbooks?](https://news.ycombinator.com/item?id=34959242)
-- [Ask HN: How do you manage your digital footprint in 2023?](https://news.ycombinator.com/item?id=34958950)
+- [Show HN: Natural Language Git &lpar;Gitgpt&rpar;](https://github.com/Hesse/gitgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
