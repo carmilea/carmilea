@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome DevTools, Scroll Into View gets around paywalls](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
-- [From Go on EC2 to Fly.io: +fun, −$9&amp;#x2F;mo](https://benhoyt.com/writings/flyio/)
+- [Why Are So Many Young Men Single and Sexless?](https://www.psychologytoday.com/intl/blog/the-state-of-our-unions/202302/why-are-so-many-young-men-single-and-sexless)
+- [I tried an alternative way to date – and it worked](https://www.independent.co.uk/voices/alternative-dating-relationships-burn-haystack-tinder-b2289805.html)
+- [Getting around website paywalls with devtools alone](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
+- [From Go on EC2 to Fly.io](https://benhoyt.com/writings/flyio/)
 - [Poor sleep drove me insane, and my long path to recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
-- [Very Long-Term Backup &lpar;2008&rpar;](https://longnow.org/ideas/very-long-term-backup/)
-- [Idris 2 0.6.0 is now available for the JVM](https://github.com/mmhelloworld/idris-jvm/releases/tag/latest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
