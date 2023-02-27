@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source implementation for LLaMA-based ChatGPT](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
-- [Stop Saying “Technical Debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
-- [Zig&amp;#x27;s Curious Multi-Sequence for Loops](https://kristoff.it/blog/zig-multi-sequence-for-loops/)
-- [Ongoing Incident in Google Cloud](https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf#RP1d9aZLNFZEJmTBk8e1)
-- [Dumpster Diving FAQ &lpar;2004&rpar;](http://ranprieur.com/misc/dumpster.html)
+- [Show HN: Collection of 2k+ Startup Incubators and Accelerators &lpar;global&rpar;](https://www.startupmoney.co)
+- [Israel&amp;#x27;s Dangerous Shadow War with Iran](https://www.foreignaffairs.com/israel/israels-dangerous-shadow-war-iran)
+- [DIB Guide: Detecting Agile BS &lpar;2018&rpar; [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+- [AMD releases a new flagship CPU for consumer market with 128M of L3 Cache](https://www.techpowerup.com/review/amd-ryzen-9-7950x3d/)
+- [Physically Demanding Work Tied to Male Fertility](https://hms.harvard.edu/news/physically-demanding-work-tied-male-fertility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
