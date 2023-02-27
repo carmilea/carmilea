@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting around website paywalls with devtools alone](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
-- [From Go on EC2 to Fly.io](https://benhoyt.com/writings/flyio/)
-- [Poor sleep drove me insane, and my long path to recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
-- [Very Long-Term Backup &lpar;2008&rpar;](https://longnow.org/ideas/very-long-term-backup/)
-- [Idris 2 0.6.0 is now available for the JVM](https://github.com/mmhelloworld/idris-jvm/releases/tag/latest)
+- [Emerge Career &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/LZAKBCW-founding-operations-manager)
+- [Steam Deck: First Anniversary of the Ultimate Gaming Platform](https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/)
+- [Most Data Work Seems Fundamentally Worthless](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
+- [Plastic-based fuels may present an “unreasonable risk” to human health](https://www.propublica.org/article/chevron-pascagoula-pollution-future-cancer-risk)
+- [ShareGPT: Share your ChatGPT conversations with one click](https://sharegpt.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
