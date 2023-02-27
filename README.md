@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome DevTools, Scroll Into View gets around paywalls](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
 - [From Go on EC2 to Fly.io: +fun, −$9&amp;#x2F;mo](https://benhoyt.com/writings/flyio/)
 - [Poor sleep drove me insane, and my long path to recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
 - [Very Long-Term Backup &lpar;2008&rpar;](https://longnow.org/ideas/very-long-term-backup/)
-- [Consultants: the real reason it costs so much to build new subways in America](https://slate.com/business/2023/02/subway-costs-us-europe-public-transit-funds.html)
-- [The cursed universes of Dana Sibera](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
+- [Idris 2 0.6.0 is now available for the JVM](https://github.com/mmhelloworld/idris-jvm/releases/tag/latest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
