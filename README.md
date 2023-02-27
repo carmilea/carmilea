@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firezone &lpar;YC W22&rpar; is hiring systems engineers to build zero trust network access](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
-- [Minimum Viable Hugo – No CSS, no JavaScript, 1 static HTML page to start you off](https://github.com/hiAndrewQuinn/minimum-viable-hugo)
-- [The Security Camera Shy Hoodie](https://www.macpierce.com/the-camera-shy-hoodie)
-- [The Determinate Nix Installer](https://determinate.systems/posts/determinate-nix-installer)
-- [DIB Guide: Detecting Agile BS &lpar;2018&rpar; [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+- [The vertical farming bubble is finally popping](https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery)
+- [Diffusion with Offset Noise: Finetuning SD to generate very dark or light images](https://www.crosslabs.org//blog/diffusion-with-offset-noise)
+- [KDE Plasma development switches to Qt 6 tomorrow](https://mail.kde.org/pipermail/kde-devel/2023-February/001699.html)
+- [Ask HN: What companies have publicly available handbooks?](https://news.ycombinator.com/item?id=34959242)
+- [Ask HN: How do you manage your digital footprint in 2023?](https://news.ycombinator.com/item?id=34958950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
