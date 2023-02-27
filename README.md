@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant Zombie Atoms of the Cosmos &lpar;What Is a Neutron Star?&rpar;](https://nautil.us/giant-zombie-atoms-of-the-cosmos-263495/)
+- [Couchbase withdraws non-profit event sponshorship 4 days before](https://twitter.com/T3chFest/status/1630139044129648640)
 - [Emerge Career &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/LZAKBCW-founding-operations-manager)
 - [Steam Deck: First Anniversary of the Ultimate Gaming Platform](https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/)
-- [Most Data Work Seems Fundamentally Worthless](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
-- [Plastic-based fuels may present an “unreasonable risk” to human health](https://www.propublica.org/article/chevron-pascagoula-pollution-future-cancer-risk)
-- [ShareGPT: Share your ChatGPT conversations with one click](https://sharegpt.com)
+- [Most data work seems fundamentally worthless](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
