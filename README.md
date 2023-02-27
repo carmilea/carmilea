@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Consultants, The real reason it costs so much to build new subways in America](https://slate.com/business/2023/02/subway-costs-us-europe-public-transit-funds.html)
+- [TikTok just dropped a new realistic beauty filter](https://twitter.com/memotv/status/1629905103724396546)
 - [DMCA Takedown of iptv-org&amp;#x2F;iptv on GitHub](https://github.com/iptv-org/iptv)
 - [A runner who leads every pack and then vanishes](https://www.nytimes.com/2023/02/25/sports/erik-sowinski-pacer.html)
 - [Met Office says Northern Lights will be visible in England tonight and tomorrow](https://www.bristolpost.co.uk/news/uk-world-news/met-office-says-northern-lights-8190884)
-- [Loongson’s LSX and LASX Vector Extensions](https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/)
-- [Tilde.news – A Link Aggregator for the Tildeverse](https://tilde.news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
