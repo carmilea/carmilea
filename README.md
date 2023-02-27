@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering the ModR&amp;#x2F;M addressing microcode in the Intel 8086 processor](https://www.righto.com/2023/02/8086-modrm-addressing.html)
-- [The Elements of Scientific Style](https://worksinprogress.co/issue/the-elements-of-scientific-style)
-- [Graph DBMSs need new join algorithms: Story of worst-case optimal joins](https://kuzudb.com/blog/wcoj.html)
-- [Unit Testing PDF Generation](https://nibblestew.blogspot.com/2023/02/unit-testing-pdf-generation.html)
-- [The vertical farming bubble is finally popping](https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Solution Engineers in Video in the US](https://bitmovin.com/careers/)
+- [Ask HN: Are subscriptions the doom of the tech sector?](https://news.ycombinator.com/item?id=34961639)
+- [W3C Beta Website](https://beta.w3.org/)
+- [The Nixon White House plotted to assassinate a journalist 50 years ago](https://www.washingtonpost.com/history/2022/03/25/nixon-jack-anderson-assassination/)
+- [Amazon Removes Books from Kindle Unlimited After They Appear on Pirate Sites](https://torrentfreak.com/amazon-removes-books-from-kindle-unlimited-after-they-appear-on-pirate-sites-230206/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
