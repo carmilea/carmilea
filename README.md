@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Collection of 2k+ Startup Incubators and Accelerators &lpar;global&rpar;](https://www.startupmoney.co)
-- [Israel&amp;#x27;s Dangerous Shadow War with Iran](https://www.foreignaffairs.com/israel/israels-dangerous-shadow-war-iran)
+- [Firezone &lpar;YC W22&rpar; is hiring systems engineers to build zero trust network access](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
+- [Minimum Viable Hugo – No CSS, no JavaScript, 1 static HTML page to start you off](https://github.com/hiAndrewQuinn/minimum-viable-hugo)
+- [The Security Camera Shy Hoodie](https://www.macpierce.com/the-camera-shy-hoodie)
+- [The Determinate Nix Installer](https://determinate.systems/posts/determinate-nix-installer)
 - [DIB Guide: Detecting Agile BS &lpar;2018&rpar; [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-- [AMD releases a new flagship CPU for consumer market with 128M of L3 Cache](https://www.techpowerup.com/review/amd-ryzen-9-7950x3d/)
-- [Physically Demanding Work Tied to Male Fertility](https://hms.harvard.edu/news/physically-demanding-work-tied-male-fertility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
