@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giant Zombie Atoms of the Cosmos &lpar;What Is a Neutron Star?&rpar;](https://nautil.us/giant-zombie-atoms-of-the-cosmos-263495/)
-- [Couchbase withdraws non-profit event sponshorship 4 days before](https://twitter.com/T3chFest/status/1630139044129648640)
+- [Ongoing Incident in Google Cloud](https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf#RP1d9aZLNFZEJmTBk8e1)
+- [Dumpster Diving FAQ &lpar;2004&rpar;](http://ranprieur.com/misc/dumpster.html)
+- [Launch HN: Infisical &lpar;YC W23&rpar; – Open-source secrets manager for developers](https://news.ycombinator.com/item?id=34955699)
+- [In neutron stars, astrophysicists see a form of matter like none other](https://nautil.us/giant-zombie-atoms-of-the-cosmos-263495/)
 - [Emerge Career &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/LZAKBCW-founding-operations-manager)
-- [Steam Deck: First Anniversary of the Ultimate Gaming Platform](https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/)
-- [Most data work seems fundamentally worthless](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
