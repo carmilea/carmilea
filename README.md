@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawsuits Block Thousands of Seattle Homes, $39M for Affordable Housing](https://www.theurbanist.org/2023/02/27/lawsuits-block-downtown-homes/)
+- [Shortwave: A GPT-3-powered front end for Gmail](https://www.shortwave.com/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Solution Engineers in Video in the US](https://bitmovin.com/careers/)
-- [Ask HN: Are subscriptions the doom of the tech sector?](https://news.ycombinator.com/item?id=34961639)
+- [Uncle Sam to block Adobe absorption of Figma over monopoly fears](https://www.theregister.com/2023/02/24/doj_to_block_adobe_purchase/)
 - [W3C Beta Website](https://beta.w3.org/)
-- [The Nixon White House plotted to assassinate a journalist 50 years ago](https://www.washingtonpost.com/history/2022/03/25/nixon-jack-anderson-assassination/)
-- [Amazon Removes Books from Kindle Unlimited After They Appear on Pirate Sites](https://torrentfreak.com/amazon-removes-books-from-kindle-unlimited-after-they-appear-on-pirate-sites-230206/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
