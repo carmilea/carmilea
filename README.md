@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Met Office says Northern Lights will be visible in England tonight and tomorrow](https://www.bristolpost.co.uk/news/uk-world-news/met-office-says-northern-lights-8190884)
 - [Loongson’s LSX and LASX Vector Extensions](https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/)
 - [Tilde.news – A Link Aggregator for the Tildeverse](https://tilde.news)
-- [Subscription fatigue and related musings](https://morrick.me/archives/9718)
 - [Feedbase is an Atom&amp;#x2F;RSS-feed to nntp gateway](http://feedbase.org/about/)
 - [DreamWorld &lpar;YC W21&rpar; Is Hiring Unreal Engine Game Developers](https://www.ycombinator.com/companies/dreamworld/jobs/atBKbEg-unreal-engine-game-developer-senior)
 <!-- BLOG-POST-LIST:END -->
