@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vimium – The Hacker&amp;#x27;s Browser](https://vimium.github.io/)
 - [Firecracker internals: deep dive inside the technology powering AWS Lambda&lpar;2021&rpar;](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+- [Mathematical Foundations of Computer Networking](https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105)
 - [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
 - [Linux-factory: A framework used to create custom Linux Debian operating systems](https://github.com/clayrisser/linux-factory)
-- [Show HN: Former game devs building a platform showcasing game projects](https://projectgoobii.com/)
-- [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
