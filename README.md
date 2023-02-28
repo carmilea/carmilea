@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of the English Major](https://www.newyorker.com/magazine/2023/03/06/the-end-of-the-english-major)
+- [Ford patents car that can repossess itself and drive back to showroom](https://www.newscientist.com/article/2361657-ford-patents-car-that-can-repossess-itself-and-drive-back-to-showroom/)
+- [Nvidia’s latest GPU drivers can upscale old blurry YouTube videos](https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu)
 - [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality)
 - [Microsoft somehow brings iMessage to Windows, will it last?](https://9to5mac.com/2023/02/28/microsoft-imessage-windows-support/)
-- [AI Tool Reveals How Celebrities’ Faces Have Been Photoshopped](https://petapixel.com/2023/02/28/ai-tool-reveals-how-celebrities-faces-have-been-photoshopped/)
-- [Rosenpass – formally verified post-quantum WireGuard](https://github.com/rosenpass/rosenpass)
-- [Client-side encryption for Gmail is now generally available &lpar;for Workspace&amp;#x2F;Edu&rpar;](https://workspaceupdates.googleblog.com/2023/02/client-side-encryption-for-gmail-generally-available.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
