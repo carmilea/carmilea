@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandas 2.0 and the Arrow revolution &lpar;part I&rpar;](https://datapythonista.me/blog/)
+- [Proposal to Merge Pyston with Cpython](https://discuss.python.org/t/contributing-the-pyston-jit/24195)
+- [Pandas 2.0 and the Arrow revolution](https://datapythonista.me/blog/)
+- [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)
 - [Canada bans TikTok on government devices over security risks](https://www.theguardian.com/technology/2023/feb/28/canada-bans-tiktok-on-government-phones-devices-over-security-risks)
-- [Show HN: Ink – Pocket ChatGPT](https://apps.apple.com/us/app/ink-ai-writing-app-with-chat/id1663795399)
-- [200-Year-Old Math Opens Up AI’s Mysterious Black Box](https://spectrum.ieee.org/black-box-ai)
-- [What I Learned at Stripe](https://steinkamp.us/post/2022/11/10/what-i-learned-at-stripe.html)
+- [Tunnelmole – give your local servers a public URL](https://github.com/robbie-cahill/tunnelmole-client)
 <!-- BLOG-POST-LIST:END -->
 
 ---
