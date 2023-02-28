@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World Building with GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
 - [Finding a former Australian prime minister’s passport number on Instagram &lpar;2020&rpar;](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 - [Where has all the Chartreuse gone?](https://www.everydaydrinking.com/p/where-has-all-the-chartreuse-gone)
 - [We&amp;#x27;re creating a new top-level product group at Meta focused on generative AI](https://www.facebook.com/4/posts/were-creating-a-new-top-level-product-group-at-meta-focused-on-generative-ai-to-/10115006704889901/)
-- [“Clean” Code, Horrible Performance [video]](https://www.youtube.com/watch?v=VkillO8yf4Y)
 - [The widespread layoffs are more because of copycat behavior than cost-cutting](https://www.businessinsider.com/stanford-professor-mass-layoffs-caused-by-social-contagion-companies-imitating-2023-2)
 <!-- BLOG-POST-LIST:END -->
 
