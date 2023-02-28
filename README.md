@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I wish people would stop insisting that Git branches are nothing but refs](https://blog.plover.com/2023/02/27/)
 - [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0)
 - [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
 - [The Lone Developer Problem](https://evanhahn.com/the-lone-developer-problem/)
-- [I just wanted to see James Taylor – – I didn&amp;#x27;t know it would cost me $5k](https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html)
+- [I wanted to see James Taylor, but didn&amp;#x27;t know it would cost $5k](https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html)
+- [Vimium – A browser extension that provides Vim-style keyboard controls](https://vimium.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
