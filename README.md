@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proposal to Merge Pyston with Cpython](https://discuss.python.org/t/contributing-the-pyston-jit/24195)
-- [Pandas 2.0 and the Arrow revolution](https://datapythonista.me/blog/)
-- [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)
-- [Canada bans TikTok on government devices over security risks](https://www.theguardian.com/technology/2023/feb/28/canada-bans-tiktok-on-government-phones-devices-over-security-risks)
-- [Tunnelmole – give your local servers a public URL](https://github.com/robbie-cahill/tunnelmole-client)
+- [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality)
+- [Microsoft somehow brings iMessage to Windows, will it last?](https://9to5mac.com/2023/02/28/microsoft-imessage-windows-support/)
+- [AI Tool Reveals How Celebrities’ Faces Have Been Photoshopped](https://petapixel.com/2023/02/28/ai-tool-reveals-how-celebrities-faces-have-been-photoshopped/)
+- [Rosenpass – formally verified post-quantum WireGuard](https://github.com/rosenpass/rosenpass)
+- [Client-side encryption for Gmail is now generally available &lpar;for Workspace&amp;#x2F;Edu&rpar;](https://workspaceupdates.googleblog.com/2023/02/client-side-encryption-for-gmail-generally-available.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
