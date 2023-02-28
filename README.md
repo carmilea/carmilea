@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Team-based map making with Felt](https://felt.com/blog/felt-reaches-1-0-now-ready-for-teams)
-- [Free Music&amp;#x2F;Audio Visualizer Software to Render Videos](https://github.com/s-a/sonic-sound-picture)
-- [Benchmarks of JavaScript Package Managers](https://pnpm.io/benchmarks)
-- [A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)
-- [Core64: Interactive Core Memory Kit](https://www.core64.io)
+- [Generic dynamic array in 60 lines of C](https://gist.github.com/nicebyte/86bd1f119d3ff5c8da06bc2fd59ad668)
+- [Show HN: Tinasaurus – a Docusaurus starter project with TinaCMS](https://github.com/tinacms/tinasaurus)
+- [Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs](https://briefsky.app/)
+- [Show HN: The largest collection of ChatGPT jailbreaks on the internet](https://www.jailbreakchat.com)
+- [How SMS Fraud Works and How to Guard Against It](https://apuchitnis.substack.com/p/how-sms-fraud-works-and-how-to-guard-against-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
