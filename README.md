@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Weapons That Win World Wars](https://austinvernon.site/blog/peerwareconomics.html)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Work on Mobile Customer Engagement](https://onesignal.com/careers)
+- [TCG TPM2.0 implementations vulnerable to memory corruption](https://kb.cert.org/vuls/id/782720)
+- [OpenAI&amp;#x27;s Foundry leaked pricing says a lot](https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says)
 - [Webinar Recap: Real-Time Data and the State of Translytical Platforms](https://www.singlestore.com/blog/webinar-recap-real-time-data-and-the-state-of-translytical-platforms/)
-- [Show HN: Tinasaurus – a Docusaurus starter project with TinaCMS](https://github.com/tinacms/tinasaurus)
-- [Safety Performance of the Waymo Driver at One Million Miles [pdf]](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf)
-- [Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs](https://briefsky.app/)
+- [Generic dynamic array in 60 lines of C](https://gist.github.com/nicebyte/86bd1f119d3ff5c8da06bc2fd59ad668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
