@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laudspeaker &lpar;YC W21&rpar; hiring to build open source customer journey software](https://news.ycombinator.com/item?id=34968362)
-- [We will not ‘walk out’ of UK, nor comply with any request to bypass encryption](https://tutanota.com/blog/posts/uk-undermine-encryption)
-- [AI simulates hypersonic air battle, offering tactic for winning Mach 11 dogfight](https://www.scmp.com/news/china/science/article/3211730/chinese-ai-simulates-hypersonic-air-battle-offering-surprising-tactic-winning-mach-11-dogfight)
-- [How to write Python extensions in Rust with PyO3](https://www.infoworld.com/article/3687744/how-to-write-python-extensions-in-rust-with-pyo3.html)
-- [‘Scanners are complicated’: why Gen Z faces workplace ‘tech shame’](https://www.theguardian.com/technology/2023/feb/27/gen-z-tech-shame-office-technology-printers)
+- [Pandas 2.0 and the Arrow revolution &lpar;part I&rpar;](https://datapythonista.me/blog/)
+- [Canada bans TikTok on government devices over security risks](https://www.theguardian.com/technology/2023/feb/28/canada-bans-tiktok-on-government-phones-devices-over-security-risks)
+- [Show HN: Ink – Pocket ChatGPT](https://apps.apple.com/us/app/ink-ai-writing-app-with-chat/id1663795399)
+- [200-Year-Old Math Opens Up AI’s Mysterious Black Box](https://spectrum.ieee.org/black-box-ai)
+- [What I Learned at Stripe](https://steinkamp.us/post/2022/11/10/what-i-learned-at-stripe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
