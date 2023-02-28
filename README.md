@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Pyq &lpar;YC W23&rpar; – Simple APIs to Popular AI Models](https://news.ycombinator.com/item?id=34971883)
-- [Complex Systems of Secrecy: The Offshore Networks of Oligarchs](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad051/7059318)
-- [Legion Health &lpar;YC S21&rpar; is hiring a founding engineer to fix mental health](https://www.ycombinator.com/companies/legion-health/jobs/rYWoawE-founding-engineer-full-stack)
-- [The E-Ink Badge: The Coolest Badge You Didn&amp;#x27;t Know You Needed](https://census.dev/blog/diy-e-ink-badge)
-- [Show HN: Scribble Diffusion – Turn your sketch into a refined image using AI](https://scribblediffusion.com)
+- [Team-based map making with Felt](https://felt.com/blog/felt-reaches-1-0-now-ready-for-teams)
+- [Free Music&amp;#x2F;Audio Visualizer Software to Render Videos](https://github.com/s-a/sonic-sound-picture)
+- [Benchmarks of JavaScript Package Managers](https://pnpm.io/benchmarks)
+- [A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)
+- [Core64: Interactive Core Memory Kit](https://www.core64.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
