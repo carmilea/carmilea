@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
 - [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0)
 - [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
 - [The Lone Developer Problem](https://evanhahn.com/the-lone-developer-problem/)
-- [I wanted to see James Taylor, but didn&amp;#x27;t know it would cost $5k](https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html)
 - [Vimium – A browser extension that provides Vim-style keyboard controls](https://vimium.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
