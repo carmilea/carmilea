@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firecracker internals: deep dive inside the technology powering AWS Lambda&lpar;2021&rpar;](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
 - [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
 - [Linux-factory: A framework used to create custom Linux Debian operating systems](https://github.com/clayrisser/linux-factory)
 - [Show HN: Former game devs building a platform showcasing game projects](https://projectgoobii.com/)
-- [CoffeeScript for TypeScript](https://civet.dev/)
-- [The most dangerous substance known to man](https://worksinprogress.co/issue/the-most-dangerous-substance-known-to-man)
+- [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
