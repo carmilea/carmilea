@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+- [The Lone Developer Problem](https://evanhahn.com/the-lone-developer-problem/)
+- [I just wanted to see James Taylor – – I didn&amp;#x27;t know it would cost me $5k](https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html)
 - [Vimium – The Hacker&amp;#x27;s Browser](https://vimium.github.io/)
 - [Firecracker internals: deep dive inside the technology powering AWS Lambda&lpar;2021&rpar;](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
-- [Work-from-Home Regulations Are Coming. Companies Aren’t Ready](https://sloanreview.mit.edu/article/work-from-home-regulations-are-coming-companies-arent-ready/)
-- [Mathematical Foundations of Computer Networking](https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105)
-- [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
 <!-- BLOG-POST-LIST:END -->
 
 ---
