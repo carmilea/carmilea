@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When you browse Instagram and find former Australian PM Tony Abbott&amp;#x27;s passport](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
+- [“Clean” Code, Horrible Performance](https://www.youtube.com/watch?v=VkillO8yf4Y)
+- [X12 &lpar;2013&rpar;](https://www.x.org/wiki/Development/X12/)
+- [The widespread layoffs are more because of copycat behavior than cost-cutting](https://www.businessinsider.com/stanford-professor-mass-layoffs-caused-by-social-contagion-companies-imitating-2023-2)
 - [pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
-- [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0)
-- [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
-- [The Lone Developer Problem](https://evanhahn.com/the-lone-developer-problem/)
-- [Vimium – A browser extension that provides Vim-style keyboard controls](https://vimium.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
