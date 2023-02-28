@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World Building with GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
-- [“Clean” Code, Horrible Performance – Casey Muratori [video]](https://www.youtube.com/watch?v=tD5NrevFtbU)
-- [Finding a former Australian prime minister’s passport number on Instagram &lpar;2020&rpar;](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
-- [Where has all the Chartreuse gone?](https://www.everydaydrinking.com/p/where-has-all-the-chartreuse-gone)
-- [We&amp;#x27;re creating a new top-level product group at Meta focused on generative AI](https://www.facebook.com/4/posts/were-creating-a-new-top-level-product-group-at-meta-focused-on-generative-ai-to-/10115006704889901/)
+- [Laudspeaker &lpar;YC W21&rpar; hiring to build open source customer journey software](https://news.ycombinator.com/item?id=34968362)
+- [We will not ‘walk out’ of UK, nor comply with any request to bypass encryption](https://tutanota.com/blog/posts/uk-undermine-encryption)
+- [AI simulates hypersonic air battle, offering tactic for winning Mach 11 dogfight](https://www.scmp.com/news/china/science/article/3211730/chinese-ai-simulates-hypersonic-air-battle-offering-surprising-tactic-winning-mach-11-dogfight)
+- [How to write Python extensions in Rust with PyO3](https://www.infoworld.com/article/3687744/how-to-write-python-extensions-in-rust-with-pyo3.html)
+- [‘Scanners are complicated’: why Gen Z faces workplace ‘tech shame’](https://www.theguardian.com/technology/2023/feb/27/gen-z-tech-shame-office-technology-printers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
