@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of the English Major](https://www.newyorker.com/magazine/2023/03/06/the-end-of-the-english-major)
-- [Ford patents car that can repossess itself and drive back to showroom](https://www.newscientist.com/article/2361657-ford-patents-car-that-can-repossess-itself-and-drive-back-to-showroom/)
-- [Nvidia’s latest GPU drivers can upscale old blurry YouTube videos](https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu)
-- [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality)
-- [Microsoft somehow brings iMessage to Windows, will it last?](https://9to5mac.com/2023/02/28/microsoft-imessage-windows-support/)
+- [Launch HN: Pyq &lpar;YC W23&rpar; – Simple APIs to Popular AI Models](https://news.ycombinator.com/item?id=34971883)
+- [Complex Systems of Secrecy: The Offshore Networks of Oligarchs](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad051/7059318)
+- [Legion Health &lpar;YC S21&rpar; is hiring a founding engineer to fix mental health](https://www.ycombinator.com/companies/legion-health/jobs/rYWoawE-founding-engineer-full-stack)
+- [The E-Ink Badge: The Coolest Badge You Didn&amp;#x27;t Know You Needed](https://census.dev/blog/diy-e-ink-badge)
+- [Show HN: Scribble Diffusion – Turn your sketch into a refined image using AI](https://scribblediffusion.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
