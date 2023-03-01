@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EV startups from Lucid to Rivian see demand fade, supply chain issues linger](https://www.reuters.com/business/autos-transportation/ev-startups-lucid-rivian-see-demand-fade-supply-chain-issues-linger-2023-03-01/)
-- [Godot 4.0 Stable](https://github.com/godotengine/godot/releases/tag/4.0-stable)
-- [Startup Decoupling and Reckoning](https://blog.eladgil.com/p/startup-decoupling-and-reckoning)
-- [I Made a Wemos D1 Mini Dev Board](https://github.com/fellowgeek/wemos-d1-mini-dev-board)
-- [I quitted infosec and I couldn&amp;#x27;t be happier](http://paulsec.github.io/posts/i-quitted-infosec/)
+- [Improving Students’ Learning with Effective Learning Techniques](https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full)
+- [Ask HN: Who is hiring? &lpar;March 2023&rpar;](https://news.ycombinator.com/item?id=34983767)
+- [BeeRef – a free opens-source simple reference image viewer](https://beeref.org/)
+- [Qualcomm CEO says he’s expecting Apple to use its own modems in iPhones in 2024](https://www.cnbc.com/2023/03/01/qualcomm-ceo-says-planning-for-apple-to-make-own-iphone-modems-from-2024-.html)
+- [Meta’s AR&amp;#x2F;VR hardware roadmap for the next four years](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
