@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Packages Is Down](https://www.githubstatus.com/incidents/bypf7bqdh4g0)
+- [EvoPrompting: Language Models for Code-Level Neural Architecture Search](https://arxiv.org/abs/2302.14838)
+- [Tether elements to each other with CSS anchor positioning](https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/)
+- [NIS2: Europe’s Most Extensive Cybersecurity Directive to Date](https://nis2directive.eu/)
 - [Advice to Aimless, Excited Programmers &lpar;2010&rpar;](https://prog21.dadgum.com/80.html)
-- [TrueVault Is Hiring Our Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
-- [Bitwise Division](http://h14s.p5r.org/2023/02/bitwise-division.html)
-- [Steel was already being used in Europe 2,900 years ago, shows study](https://phys.org/news/2023-02-steel-europe-years.html)
-- [Daniel Stenberg and the home of curl in Stockholm, Sweden](https://hackerstations.com/setups/daniel_stenberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
