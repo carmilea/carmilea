@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who&amp;#x27;s an open source maintainer&amp;#x2F;project that needs sponsorship or help?](https://news.ycombinator.com/item?id=34979058)
 - [Blog: KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
 - [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
+- [How they filmed The Last of Us arcade scene](https://forums.arcade-museum.com/threads/last-of-us-arcade-scene.518996/page-3)
 - [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
-- [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
-- [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
