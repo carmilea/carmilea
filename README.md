@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 - [GNU poke: The extensible editor for structured binary data](https://jemarch.net/poke)
 - [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+- [First in-the-wild UEFI bootkit bypassing UEFI Secure Boot](https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/)
 - [Germany refuses to agree to EU ban on new fossil fuel cars from 2035](https://www.euronews.com/green/2022/06/22/germany-refuses-to-agree-to-eu-ban-on-new-fossil-fuel-cars-from-2035)
-- [Apple rumored to subvert EU Rules by nerfing USB-C on iPhone15](https://appleinsider.com/articles/23/02/28/iphone-15-to-require-certified-accessories-for-full-access-to-usb-c)
-- [Thorium – A Starship Bridge Simulator](https://thoriumsim.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
