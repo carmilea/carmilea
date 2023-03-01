@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Nim over C#?](https://forum.nim-lang.org/t/9957)
+- [Ask HN: Has HN Had an Upgrade?](https://news.ycombinator.com/item?id=34980593)
 - [Microsoft Kosmos-1: A Multimodal Large Language Model](https://github.com/microsoft/unilm)
 - [OpenAI Is Now Everything It Promised Not to Be: Closed-Source, and For-Profit](https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit)
 - [Open-source projects are demanding legal agreements to create PRs](https://cla-assistant.io/disneystreaming/smithy4s.g8?pullRequest=24)
