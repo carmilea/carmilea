@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022](https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/)
+- [You Don&amp;#x27;t Know Jax](https://colinraffel.com/blog/you-don-t-know-jax.html)
+- [Ubuntu Is a Canonical Product](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuCanonicalProduct)
 - [KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
 - [What Amazon was thinking during the Comixology layoffs](https://www.comicsbeat.com/comixology-update-strange-doings-at-amazon/)
-- [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
-- [How they filmed The Last of Us arcade scene](https://forums.arcade-museum.com/threads/last-of-us-arcade-scene.518996/page-3)
-- [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
