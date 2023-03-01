@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EV startups from Lucid to Rivian see demand fade, supply chain issues linger](https://www.reuters.com/business/autos-transportation/ev-startups-lucid-rivian-see-demand-fade-supply-chain-issues-linger-2023-03-01/)
+- [Godot 4.0 Stable](https://github.com/godotengine/godot/releases/tag/4.0-stable)
+- [Startup Decoupling and Reckoning](https://blog.eladgil.com/p/startup-decoupling-and-reckoning)
 - [I Made a Wemos D1 Mini Dev Board](https://github.com/fellowgeek/wemos-d1-mini-dev-board)
 - [I quitted infosec and I couldn&amp;#x27;t be happier](http://paulsec.github.io/posts/i-quitted-infosec/)
-- [Launch HN: EdgeBit &lpar;YC W23&rpar; – live software vulnerability analysis](https://news.ycombinator.com/item?id=34981946)
-- [GitHub Packages Is Down](https://www.githubstatus.com/incidents/bypf7bqdh4g0)
-- [What is Chess? What to think and how long for](https://www.alexcrompton.com/blog/time-thoughts-chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
