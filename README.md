@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Stable Diffusion techniques to create 2D game environments](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
+- [Hacking with Style: TrueType VT220 Font](http://sensi.org/~svo/glasstty/)
+- [VT2040: RP2040 based portable serial terminal](https://github.com/ncrawforth/VT2040)
+- [Chicago sold rights to 36k parking meters for $1.2B that generate $200M per year](https://chicago.suntimes.com/city-hall/2022/5/26/23143356/chicago-parking-meters-75-year-lease-daley-city-council-audit-skyway-loop-garages-krislov)
 - [Aboriginal Australian genomes reveal Indian ancestry](https://www.nature.com/articles/nature.2013.12219)
-- [ChatML: ChatGPT API expects a structured format, called Chat Markup Language](https://github.com/openai/openai-python/blob/main/chatml.md)
-- [Show HN: Usage 2.0 – Cut AWS Spend by 57% in 5 Minutes](https://news.ycombinator.com/item?id=34988505)
-- [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Train Code Models](https://jobs.ashbyhq.com/replit/bf72d80c-37d6-4831-8e42-7fd94668ac17)
-- [The SPAC Fad Is Ending in a Pile of Bankruptcies and Fire Sales](https://www.bloomberg.com/news/articles/2023-02-28/spac-era-ends-as-companies-that-ipo-d-struggle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
