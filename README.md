@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
+- [Twilight of the Libraries: What Gets Lost When Books Go Off-Site and Online](https://thewalrus.ca/library-digitization/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 - [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 - [GNU poke: The extensible editor for structured binary data](https://jemarch.net/poke)
-- [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
-- [First in-the-wild UEFI bootkit bypassing UEFI Secure Boot](https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/)
-- [Germany refuses to agree to EU ban on new fossil fuel cars from 2035](https://www.euronews.com/green/2022/06/22/germany-refuses-to-agree-to-eu-ban-on-new-fossil-fuel-cars-from-2035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
