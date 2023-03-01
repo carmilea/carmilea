@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Train Code Models](https://jobs.ashbyhq.com/replit/bf72d80c-37d6-4831-8e42-7fd94668ac17)
+- [The SPAC Fad Is Ending in a Pile of Bankruptcies and Fire Sales](https://www.bloomberg.com/news/articles/2023-02-28/spac-era-ends-as-companies-that-ipo-d-struggle)
+- [90% of Kidnappings in São Paulo result from dates on Tinder and similar apps](https://restofworld.org/2023/tinder-robberies-dating-apps-brazil/)
+- [Lost at C: A user study on the security of LLM coding assistants](https://arxiv.org/abs/2208.09727)
 - [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
-- [Twilight of the Libraries: What Gets Lost When Books Go Off-Site and Online](https://thewalrus.ca/library-digitization/)
-- [Crafting Interpreters](https://craftinginterpreters.com/)
-- [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
-- [GNU poke: The extensible editor for structured binary data](https://jemarch.net/poke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
