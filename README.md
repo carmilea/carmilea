@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Made a Wemos D1 Mini Dev Board](https://github.com/fellowgeek/wemos-d1-mini-dev-board)
+- [I quitted infosec and I couldn&amp;#x27;t be happier](http://paulsec.github.io/posts/i-quitted-infosec/)
+- [Launch HN: EdgeBit &lpar;YC W23&rpar; – live software vulnerability analysis](https://news.ycombinator.com/item?id=34981946)
 - [GitHub Packages Is Down](https://www.githubstatus.com/incidents/bypf7bqdh4g0)
-- [EvoPrompting: Language Models for Code-Level Neural Architecture Search](https://arxiv.org/abs/2302.14838)
-- [Tether elements to each other with CSS anchor positioning](https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/)
-- [NIS2: Europe’s Most Extensive Cybersecurity Directive to Date](https://nis2directive.eu/)
-- [Advice to Aimless, Excited Programmers &lpar;2010&rpar;](https://prog21.dadgum.com/80.html)
+- [What is Chess? What to think and how long for](https://www.alexcrompton.com/blog/time-thoughts-chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
