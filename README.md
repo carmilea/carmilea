@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
 - [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
 - [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
 - [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
 - [Apartment rents fall as new supply hits market](https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Work on Mobile Customer Engagement](https://onesignal.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
