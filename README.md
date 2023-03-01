@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Students’ Learning with Effective Learning Techniques](https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full)
-- [Ask HN: Who is hiring? &lpar;March 2023&rpar;](https://news.ycombinator.com/item?id=34983767)
-- [BeeRef – a free opens-source simple reference image viewer](https://beeref.org/)
-- [Qualcomm CEO says he’s expecting Apple to use its own modems in iPhones in 2024](https://www.cnbc.com/2023/03/01/qualcomm-ceo-says-planning-for-apple-to-make-own-iphone-modems-from-2024-.html)
-- [Meta’s AR&amp;#x2F;VR hardware roadmap for the next four years](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans)
+- [TigerEye &lpar;YC S22&rpar; is hiring machine learning and full stack engineers](https://tigereye.com)
+- [Godot 4.0 Released](https://godotengine.org/article/godot-4-0-sets-sail/)
+- [Today&amp;#x27;s 5-year-olds will likely live to 100](https://www.nationalgeographic.com/magazine/article/half-of-todays-5-year-olds-will-live-to-be-100)
+- [Dried Lake Reveals New Statue on Easter Island](https://www.smithsonianmag.com/smart-news/new-moai-statue-found-on-easter-island-180981717/)
+- [No, Teen Suicide Isn’t Rising Because Life Got Objectively Worse](https://nymag.com/intelligencer/2023/02/teen-suicide-depression-girls-social-media.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
