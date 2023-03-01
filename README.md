@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has HN Had an Upgrade?](https://news.ycombinator.com/item?id=34980593)
-- [Microsoft Kosmos-1: A Multimodal Large Language Model](https://github.com/microsoft/unilm)
-- [OpenAI Is Now Everything It Promised Not to Be: Closed-Source, and For-Profit](https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit)
-- [Open-source projects are demanding legal agreements to create PRs](https://cla-assistant.io/disneystreaming/smithy4s.g8?pullRequest=24)
-- [US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022](https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/)
+- [Advice to Aimless, Excited Programmers &lpar;2010&rpar;](https://prog21.dadgum.com/80.html)
+- [TrueVault Is Hiring Our Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
+- [Bitwise Division](http://h14s.p5r.org/2023/02/bitwise-division.html)
+- [Steel was already being used in Europe 2,900 years ago, shows study](https://phys.org/news/2023-02-steel-europe-years.html)
+- [Daniel Stenberg and the home of curl in Stockholm, Sweden](https://hackerstations.com/setups/daniel_stenberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
