@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aboriginal Australian genomes reveal Indian ancestry](https://www.nature.com/articles/nature.2013.12219)
+- [ChatML: ChatGPT API expects a structured format, called Chat Markup Language](https://github.com/openai/openai-python/blob/main/chatml.md)
+- [Show HN: Usage 2.0 – Cut AWS Spend by 57% in 5 Minutes](https://news.ycombinator.com/item?id=34988505)
 - [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Train Code Models](https://jobs.ashbyhq.com/replit/bf72d80c-37d6-4831-8e42-7fd94668ac17)
 - [The SPAC Fad Is Ending in a Pile of Bankruptcies and Fire Sales](https://www.bloomberg.com/news/articles/2023-02-28/spac-era-ends-as-companies-that-ipo-d-struggle)
-- [90% of Kidnappings in São Paulo result from dates on Tinder and similar apps](https://restofworld.org/2023/tinder-robberies-dating-apps-brazil/)
-- [Lost at C: A user study on the security of LLM coding assistants](https://arxiv.org/abs/2208.09727)
-- [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
