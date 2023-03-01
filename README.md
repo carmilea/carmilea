@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog: KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
 - [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
 - [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
 - [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
 - [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
-- [Apartment rents fall as new supply hits market](https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
