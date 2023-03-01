@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Use Nim over C#?](https://forum.nim-lang.org/t/9957)
+- [Microsoft Kosmos-1: A Multimodal Large Language Model](https://github.com/microsoft/unilm)
+- [OpenAI Is Now Everything It Promised Not to Be: Closed-Source, and For-Profit](https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit)
+- [Open-source projects are demanding legal agreements to create PRs](https://cla-assistant.io/disneystreaming/smithy4s.g8?pullRequest=24)
 - [US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022](https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/)
-- [You Don&amp;#x27;t Know Jax](https://colinraffel.com/blog/you-don-t-know-jax.html)
-- [Ubuntu Is a Canonical Product](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuCanonicalProduct)
-- [KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
-- [What Amazon was thinking during the Comixology layoffs](https://www.comicsbeat.com/comixology-update-strange-doings-at-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
