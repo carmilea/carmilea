@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just How White Can White Paint Get?](https://gizmodo.com/whitest-reflective-paint-nanotechnology-purdue-cooling-1850168584)
+- [Girl who died of bird flu did not have widely-circulating variant &lpar;H5N1&rpar;](https://www.nature.com/articles/d41586-023-00585-1)
+- [US National Cybersecurity Strategy [pdf]](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
+- [ChatGPT and the AI Apocalypse](https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/)
+- [Objects Have Failed &lpar;2002&rpar;](https://dreamsongs.com/ObjectsHaveFailedNarrative.html)
 - [Show HN: Beatbot.fm – Make Songs with AI](https://beatbot.fm)
-- [Don&amp;#x27;t let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/)
-- [Honestly, It&amp;#x27;s Probably the Phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones)
-- [EU will require Apple to open up iMessage](https://www.protocol.com/bulletins/europe-dma-apple-imessage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
