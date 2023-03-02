@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan births fall to record low as population crisis deepens](https://www.cnn.com/2023/03/01/asia/japan-births-2022-record-low-intl-hnk/index.html)
 - [Incident: Southwest B38M at Phoenix on Feb 24th 2023, no autopilot trim](https://avherald.com/h?article=505d0701)
-- [FTC has proposed banning non-compete agreements](https://www.regulations.gov/docket/FTC-2023-0007/document)
 - [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
 - [Asteroid lost 1M kilograms after collision with DART spacecraft](https://www.nature.com/articles/d41586-023-00601-4)
 - [US-Japan team hails H2-boron plasma fusion breakthrough](https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08)
