@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Better World Without Jobs – 20M Video](https://workforcefuturist.substack.com/p/building-a-better-world-without-jobs-video)
+- [Just How White Can White Paint Get?](https://gizmodo.com/whitest-reflective-paint-nanotechnology-purdue-cooling-1850168584)
+- [The JavaScript era happened because we were fed a line](https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/)
+- [Show HN: Beatbot.fm – Make Songs with AI](https://beatbot.fm)
 - [Don&amp;#x27;t let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/)
-- [Finley &lpar;YC W21&rpar; is hiring a B2B&amp;#x2F;fintech growth marketer](https://www.finleycms.com/careers/)
-- [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024)
-- [FreeBSD Home Audio Studio](https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/)
+- [America’s property market suggests recession is on the way](https://www.economist.com/finance-and-economics/2023/03/01/americas-property-market-suggests-recession-is-on-the-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
