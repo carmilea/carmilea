@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Finley &lpar;YC W21&rpar; is hiring a B2B&amp;#x2F;fintech growth marketer](https://www.finleycms.com/careers/)
+- [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024)
 - [Oldest water on earth, in a Canadian mine](https://www.macleans.ca/society/science/this-geologist-found-the-oldest-water-on-earth-in-a-canadian-mine/)
 - [Effortless Performance Improvements in C++: std:unordered_map](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/)
 - [Incident: Southwest B38M at Phoenix on Feb 24th 2023, no autopilot trim](https://avherald.com/h?article=505d0701)
-- [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
