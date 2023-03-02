@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Honestly, It&amp;#x27;s Probably the Phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones)
+- [bsdutils: Alternative to GNU coreutils using software from FreeBSD](https://github.com/dcantrell/bsdutils)
 - [Finley &lpar;YC W21&rpar; is hiring a B2B&amp;#x2F;fintech growth marketer](https://www.finleycms.com/careers/)
 - [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024)
 - [FreeBSD Home Audio Studio](https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/)
-- [5k-Year-Old Tavern with Food Still Inside Discovered in Iraq](https://www.smithsonianmag.com/smart-news/5000-year-old-tavern-discovered-in-iraq-180981564/)
-- [Oldest water on earth, in a Canadian mine](https://www.macleans.ca/society/science/this-geologist-found-the-oldest-water-on-earth-in-a-canadian-mine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
