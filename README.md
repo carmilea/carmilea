@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The moral case against equity language](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
-- [A Senior Engineer&amp;#x27;s Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
-- [Why doesn&amp;#x27;t Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses)
-- [Developer marketing for early-stage startups – what we’ve learned](https://posthog.com/blog/dev-marketing-for-startups)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Launch HN: Buildt &lpar;YC W23&rpar; – Conversational semantic code search](https://news.ycombinator.com/item?id=35000562)
+- [EleutherAI announces it has become a non-profit](https://blog.eleuther.ai/year-two-preface/)
+- [BetterHelp Barred by FTC from Sharing Data with Facebook](https://www.bloomberg.com/news/articles/2023-03-02/teladoc-s-tdoc-betterhelp-online-therapy-unit-barred-from-data-sharing)
+- [The Inverse Jim Cramer ETF Has Officially Arrived](https://www.nasdaq.com/articles/inverse-cramer-etf-is-coming-to-the-real-world)
+- [Show HN: Mathesar – open-source collaborative UI for Postgres databases](https://github.com/centerofci/mathesar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
