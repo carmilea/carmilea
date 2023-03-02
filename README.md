@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
+- [Tech Is Allowing Businesses to Overcharge You in Tips](https://www.nytimes.com/2023/03/01/technology/personaltech/tipping-defaults-digital-payments.html)
 - [Asteroid lost 1M kilograms after collision with DART spacecraft](https://www.nature.com/articles/d41586-023-00601-4)
 - [Stanford researchers find only 3% of HTTP runs on port 80 [pdf]](https://lizizhikevich.github.io/assets/papers/lzr.pdf)
 - [US-Japan team hails H2-boron plasma fusion breakthrough](https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08)
-- [ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark](https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
