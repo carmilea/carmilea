@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+- [Stop the Medicare “Advantage” Scam Before Medicare Is Dead](https://hartmannreport.com/p/stop-the-medicare-advantage-scam)
+- [Subterranean Paris: Félix Nadar’s Descent into the Parisian Underground](https://thereader.mitpress.mit.edu/subterranean-paris-felix-nadars-descent-into-the-parisian-underground/)
+- [Migrate Your Data From MySQL to SingleStoreDB in Minutes](https://www.singlestore.com/blog/migrate-your-data-from-mysql-to-singlestoredb-in-minutes/)
 - [Launch HN: Buildt &lpar;YC W23&rpar; – Conversational semantic code search](https://news.ycombinator.com/item?id=35000562)
-- [EleutherAI announces it has become a non-profit](https://blog.eleuther.ai/year-two-preface/)
-- [BetterHelp Barred by FTC from Sharing Data with Facebook](https://www.bloomberg.com/news/articles/2023-03-02/teladoc-s-tdoc-betterhelp-online-therapy-unit-barred-from-data-sharing)
-- [The Inverse Jim Cramer ETF Has Officially Arrived](https://www.nasdaq.com/articles/inverse-cramer-etf-is-coming-to-the-real-world)
-- [Show HN: Mathesar – open-source collaborative UI for Postgres databases](https://github.com/centerofci/mathesar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
