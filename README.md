@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Honestly, It&amp;#x27;s Probably the Phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones)
+- [EU will require Apple to open up iMessage](https://www.protocol.com/bulletins/europe-dma-apple-imessage)
 - [bsdutils: Alternative to GNU coreutils using software from FreeBSD](https://github.com/dcantrell/bsdutils)
 - [Finley &lpar;YC W21&rpar; is hiring a B2B&amp;#x2F;fintech growth marketer](https://www.finleycms.com/careers/)
 - [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024)
-- [FreeBSD Home Audio Studio](https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
