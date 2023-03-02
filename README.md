@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadians think tipping is ‘getting out of control,’ new poll suggest](https://globalnews.ca/news/9498238/tipping-canada-angus-reid-poll/)
+- [The moral case against equity language](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
+- [A Senior Engineer&amp;#x27;s Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
+- [Why doesn&amp;#x27;t Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses)
 - [Developer marketing for early-stage startups – what we’ve learned](https://posthog.com/blog/dev-marketing-for-startups)
-- [Bad Projection Is Ruining the Movie Theater Experience](https://www.vulture.com/2023/03/movie-theater-projector-amc-regal.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [PFAS ban affects most refrigerant blends](https://www.coolingpost.com/world-news/pfas-ban-affects-most-refrigerant-blends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
