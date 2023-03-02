@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan births fall to record low as population crisis deepens](https://www.cnn.com/2023/03/01/asia/japan-births-2022-record-low-intl-hnk/index.html)
+- [Finley &lpar;YC W21&rpar; is hiring a B2B&amp;#x2F;fintech growth marketer](https://www.finleycms.com/careers/)
+- [Oldest water on earth, in a Canadian mine](https://www.macleans.ca/society/science/this-geologist-found-the-oldest-water-on-earth-in-a-canadian-mine/)
+- [Effortless Performance Improvements in C++: std:unordered_map](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/)
 - [Incident: Southwest B38M at Phoenix on Feb 24th 2023, no autopilot trim](https://avherald.com/h?article=505d0701)
 - [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
-- [Asteroid lost 1M kilograms after collision with DART spacecraft](https://www.nature.com/articles/d41586-023-00601-4)
-- [US-Japan team hails H2-boron plasma fusion breakthrough](https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
