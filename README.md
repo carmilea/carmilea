@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling to millions of users with Google Sheets as a back end](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 - [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+- [A: A CLI tool to generate code snippets from GPT3 written in Rust](https://github.com/ddddddeon/a)
 - [Stop the Medicare “Advantage” Scam Before Medicare Is Dead](https://hartmannreport.com/p/stop-the-medicare-advantage-scam)
 - [Subterranean Paris: Félix Nadar’s Descent into the Parisian Underground](https://thereader.mitpress.mit.edu/subterranean-paris-felix-nadars-descent-into-the-parisian-underground/)
-- [Migrate Your Data From MySQL to SingleStoreDB in Minutes](https://www.singlestore.com/blog/migrate-your-data-from-mysql-to-singlestoredb-in-minutes/)
-- [Launch HN: Buildt &lpar;YC W23&rpar; – Conversational semantic code search](https://news.ycombinator.com/item?id=35000562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
