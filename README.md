@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadians think tipping is ‘getting out of control,’ new poll suggest](https://globalnews.ca/news/9498238/tipping-canada-angus-reid-poll/)
+- [Developer marketing for early-stage startups – what we’ve learned](https://posthog.com/blog/dev-marketing-for-startups)
+- [Bad Projection Is Ruining the Movie Theater Experience](https://www.vulture.com/2023/03/movie-theater-projector-amc-regal.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Company Lays Off 8k While Paying Matthew McConaughey $10M&amp;#x2F;Yr to Sit Around](https://futurism.com/the-byte/company-paying-matthew-mcconaughey-10-million-to-sit-around)
 - [PFAS ban affects most refrigerant blends](https://www.coolingpost.com/world-news/pfas-ban-affects-most-refrigerant-blends/)
-- [Revolutionary Stroke Treatment Will Save Millions of Lives](https://www.nytimes.com/2023/03/01/magazine/evt-stroke-treatment.html)
-- [What Redwood learned in its first year of EV battery recycling](https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
