@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Just How White Can White Paint Get?](https://gizmodo.com/whitest-reflective-paint-nanotechnology-purdue-cooling-1850168584)
-- [The JavaScript era happened because we were fed a line](https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/)
 - [Show HN: Beatbot.fm – Make Songs with AI](https://beatbot.fm)
 - [Don&amp;#x27;t let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/)
-- [America’s property market suggests recession is on the way](https://www.economist.com/finance-and-economics/2023/03/01/americas-property-market-suggests-recession-is-on-the-way)
+- [Honestly, It&amp;#x27;s Probably the Phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones)
+- [EU will require Apple to open up iMessage](https://www.protocol.com/bulletins/europe-dma-apple-imessage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
