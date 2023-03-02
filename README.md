@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Girl who died of bird flu did not have widely-circulating variant &lpar;H5N1&rpar;](https://www.nature.com/articles/d41586-023-00585-1)
-- [US National Cybersecurity Strategy [pdf]](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
-- [ChatGPT and the AI Apocalypse](https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/)
-- [Objects Have Failed &lpar;2002&rpar;](https://dreamsongs.com/ObjectsHaveFailedNarrative.html)
-- [Show HN: Beatbot.fm – Make Songs with AI](https://beatbot.fm)
+- [What Redwood learned in its first year of EV battery recycling](https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/)
+- [All you may need is HTML](https://fabiensanglard.net/html/index.html)
+- [Deno: You don&amp;#x27;t need a build step](https://deno.com/blog/you-dont-need-a-build-step)
+- [The tech downturn seen through Hacker News comments](https://rinzewind.org/blog-en/2023/the-tech-downturn-seen-through-hacker-news-comments.html)
+- [Germany opposes EU plans for client-side scanning](https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
