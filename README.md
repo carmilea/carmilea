@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Stable Diffusion techniques to create 2D game environments](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
-- [Hacking with Style: TrueType VT220 Font](http://sensi.org/~svo/glasstty/)
-- [VT2040: RP2040 based portable serial terminal](https://github.com/ncrawforth/VT2040)
-- [Chicago sold rights to 36k parking meters for $1.2B that generate $200M per year](https://chicago.suntimes.com/city-hall/2022/5/26/23143356/chicago-parking-meters-75-year-lease-daley-city-council-audit-skyway-loop-garages-krislov)
-- [Aboriginal Australian genomes reveal Indian ancestry](https://www.nature.com/articles/nature.2013.12219)
+- [ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark](https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/)
+- [HackerFM – An AI Generated HN Podcast Using the New ChatGPT API](https://hackerfm.com/index)
+- [Specs of Inexpensive 2023 Amazon Fire HD 10 Tablet Leaked: NFC and GPS](https://tabletmonkeys.com/2023-version-fire-hd-10-leaks/)
+- [Drop-in endpoint observability for Docker and K8s](https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta)
+- [Standard Notes](https://standardnotes.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
