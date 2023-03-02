@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Company Lays Off 8k While Paying Matthew McConaughey $10M&amp;#x2F;Yr to Sit Around](https://futurism.com/the-byte/company-paying-matthew-mcconaughey-10-million-to-sit-around)
+- [PFAS ban affects most refrigerant blends](https://www.coolingpost.com/world-news/pfas-ban-affects-most-refrigerant-blends/)
+- [Revolutionary Stroke Treatment Will Save Millions of Lives](https://www.nytimes.com/2023/03/01/magazine/evt-stroke-treatment.html)
 - [What Redwood learned in its first year of EV battery recycling](https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/)
-- [All you may need is HTML](https://fabiensanglard.net/html/index.html)
-- [Deno: You don&amp;#x27;t need a build step](https://deno.com/blog/you-dont-need-a-build-step)
-- [The tech downturn seen through Hacker News comments](https://rinzewind.org/blog-en/2023/the-tech-downturn-seen-through-hacker-news-comments.html)
-- [Germany opposes EU plans for client-side scanning](https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
