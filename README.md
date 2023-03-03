@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use GNU Emacs](https://www2.lib.uchicago.edu/keith/emacs/)
+- [Why Python keeps growing, explained](https://github.blog/2023-03-02-why-python-keeps-growing-explained/)
 - [It&amp;#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
 - [A &amp;#x27;CSS reset&amp;#x27; for TypeScript, improving types for common JavaScript API&amp;#x27;s](https://github.com/total-typescript/ts-reset)
-- [CGI Renders Are Real Photos](https://petapixel.com/2017/01/02/cgi-renders-actually-real-photos/)
-- [Tiny Classifier Circuits: Evolving Accelerators for Tabular Data](https://arxiv.org/abs/2303.00031)
-- [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
+- [CGI Renders Are Real Photos &lpar;2017&rpar;](https://petapixel.com/2017/01/02/cgi-renders-actually-real-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
