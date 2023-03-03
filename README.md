@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
-- [Tesla&amp;#x27;s Next-Gen Electric Motors Will Get Rid of Rare Earth Elements](https://insideevs.com/news/655233/tesla-next-gen-eletric-motors-no-rare-earth-elements/)
 - [Rethinking Splice&lpar;&rpar;](https://lwn.net/Articles/923237/)
+- [Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim](https://github.com/tenderlove/initial-v)
 - [Cosmic Text: Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
-- [EA Lays Off over 200 Apex Legends Testers over Zoom Call](https://kotaku.com/ea-apex-legends-bugs-layoffs-respawn-zoom-1850168472)
+- [Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data](https://github.com/praetorian-inc/noseyparker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
