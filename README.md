@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cucumber Maintainer out of Job and future of the project is uncertain](https://mattwynne.net/new-beginning)
-- [Egypt: Corridor in Great Pyramid of Giza seen for first time](https://www.bbc.com/news/world-middle-east-64825526)
-- [Use GNU Emacs](https://www2.lib.uchicago.edu/keith/emacs/)
-- [Never use Git submodules](https://diziet.dreamwidth.org/14666.html)
-- [It&amp;#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
+- [Tesorio Is Hiring 100% Remote Senior PM and Senior DevOps](https://www.tesorio.com/careers#job-openings)
+- [Ask HN: Has anyone started over outside of tech?](https://news.ycombinator.com/item?id=35008392)
+- [Ending Dependency Chaos: A Proposal for Comprehensive Function Versioning](https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md)
+- [Facebook LLAMA is being openly distributed via torrents](https://github.com/facebookresearch/llama/pull/73/files)
+- [Accessing the RAM of a QEMU Emulated System from Another Process](https://blog.reds.ch/?p=1379)
 <!-- BLOG-POST-LIST:END -->
 
 ---
