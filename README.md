@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Majority of Hispanic Americans own a home](https://www.ocregister.com/2023/03/03/majority-of-hispanic-americans-own-a-home-as-incomes-rise/)
+- [Amazon Buys One Medical](https://www.onemedical.com/mediacenter/one-medical-joins-amazon/)
+- [What I Learned Reading 1k Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/)
+- [Cool URIs Don&amp;#x27;t Change](https://www.w3.org/Provider/Style/URI)
 - [Oldest Human Genome from Southern Spain](https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/)
-- [I am Neal Stephenson, sci-fi author, geek, and [now] sword maker - AMA](https://old.reddit.com/r/books/comments/11h6hg5/i_am_neal_stephenson_scifi_author_geek_and_now/)
-- [ARM64 Linux Workstation](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/)
-- [GraphQL vs. REST APIs: a complete guide](https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide)
+- [I am Neal Stephenson, sci-fi author, geek, and now, sword maker – AMA](https://old.reddit.com/r/books/comments/11h6hg5/i_am_neal_stephenson_scifi_author_geek_and_now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
