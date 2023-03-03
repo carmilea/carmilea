@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Use GNU Emacs](https://www2.lib.uchicago.edu/keith/emacs/)
-- [Why Python keeps growing, explained](https://github.blog/2023-03-02-why-python-keeps-growing-explained/)
 - [It&amp;#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
 - [A &amp;#x27;CSS reset&amp;#x27; for TypeScript, improving types for common JavaScript API&amp;#x27;s](https://github.com/total-typescript/ts-reset)
 - [CGI Renders Are Real Photos &lpar;2017&rpar;](https://petapixel.com/2017/01/02/cgi-renders-actually-real-photos/)
+- [The track of a bicycle back tire [pdf]](https://tlakoba.w3.uvm.edu/AppliedUGMath/final_talks_previous_years/BicycleTracks.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
