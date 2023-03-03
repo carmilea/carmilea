@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling to millions of users with Google Sheets as a back end](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
-- [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
-- [A: A CLI tool to generate code snippets from GPT3 written in Rust](https://github.com/ddddddeon/a)
-- [Stop the Medicare “Advantage” Scam Before Medicare Is Dead](https://hartmannreport.com/p/stop-the-medicare-advantage-scam)
-- [Subterranean Paris: Félix Nadar’s Descent into the Parisian Underground](https://thereader.mitpress.mit.edu/subterranean-paris-felix-nadars-descent-into-the-parisian-underground/)
+- [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
+- [Tesla&amp;#x27;s Next-Gen Electric Motors Will Get Rid of Rare Earth Elements](https://insideevs.com/news/655233/tesla-next-gen-eletric-motors-no-rare-earth-elements/)
+- [Rethinking Splice&lpar;&rpar;](https://lwn.net/Articles/923237/)
+- [Cosmic Text: Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
+- [EA Lays Off over 200 Apex Legends Testers over Zoom Call](https://kotaku.com/ea-apex-legends-bugs-layoffs-respawn-zoom-1850168472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
