@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RVVM – The RISC-V Virtual Machine](https://github.com/LekKit/RVVM)
-- [Matty Benedetto Designed and Prototyped 350 Inventions in 3 Years](https://unnecessaryinventions.com/)
-- [The extensible vi layer for Emacs](https://github.com/emacs-evil/evil)
-- [Scientists have mapped a secret hidden corridor in Great Pyramid of Giza](https://arstechnica.com/science/2023/03/scientists-have-mapped-a-secret-hidden-corridor-in-great-pyramid-of-giza/)
-- [Goodhart&amp;#x27;s Law Isn&amp;#x27;t as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
+- [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
+- [Belgium launches nationwide safe harbor for ethical hackers](https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers)
+- [Ethically Sourced Lena Picture](https://mortenhannemose.github.io/lena/)
+- [First Impressions of Bluesky&amp;#x27;s Brand New iOS App](https://notes.ghed.in/posts/2023/bluesky-ios-app-review/)
+- [No Magnets, Big Power: BMW’s Fifth-Generation Electric Motor &lpar;2022&rpar;](https://www.motortrend.com/news/bmw-ix-m60-brushed-electric-motor-tech-deep-dive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
