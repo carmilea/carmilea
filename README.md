@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Live2D Is a Security Trainwreck](https://undeleted.ronsor.com/live2d-a-security-trainwreck/)
-- [Switching to Fedora Silverblue](https://yorickpeterse.com/articles/switching-to-fedora-silverblue/)
-- [Leaked audio reveals US rail workers were told to skip inspections](https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash)
-- [High-res image reconstruction with latent diffusion models from human brain](https://github.com/yu-takagi/StableDiffusionReconstruction)
-- [JEP 430: String Templates &lpar;Preview&rpar; Proposed to Target Java 21](https://openjdk.org/jeps/430)
+- [OpenAI Becomes ClosedAI](https://closedai.us/blog/openai-becomes-closedai)
+- [Detecting Starlink Satellites with a Portable Raspberry Pi and RTL-SDR](https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/)
+- [Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware](https://github.com/kir-gadjello/zipslicer)
+- [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
+- [GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
