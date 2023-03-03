@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&amp;#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
+- [CGI Renders Are Real Photos](https://petapixel.com/2017/01/02/cgi-renders-actually-real-photos/)
 - [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
 - [Rethinking Splice&lpar;&rpar;](https://lwn.net/Articles/923237/)
 - [Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim](https://github.com/tenderlove/initial-v)
-- [Cosmic Text: Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
-- [Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data](https://github.com/praetorian-inc/noseyparker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
