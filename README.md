@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mullvad becomes highest level of Tor Member &lpar;Shallot&rpar;](https://mullvad.net/en/blog/2023/3/3/mullvad-becomes-highest-level-of-tor-member-shallot/)
-- [The EU&amp;#x27;s new Cyber Resilience Act is about to tell us how to code](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
-- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
-- [Belgium launches nationwide safe harbor for ethical hackers](https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers)
+- [AAA Reports That 68 Percent of Americans Are Now Afraid of Autonomous Cars](https://www.theautopian.com/aaa-autonomous-car-report-2023/)
+- [Chroma Doze – Open-Source Customizable White Noise Generator for Android](https://f-droid.org/packages/net.pmarks.chromadoze/)
+- [Nordstrom to close all 13 stores in Canada, lay off 2,500 workers by June](https://www.wsj.com/articles/nordstrom-to-close-liquidate-its-canadian-stores-2c1aa7fb)
+- [Amazon pauses construction on second HQ in Virginia amid job cuts](https://www.seattletimes.com/business/amazon-pauses-construction-on-second-headquarters-in-virginia-as-it-cuts-jobs/)
+- [RISC-V Business: Testing StarFive&amp;#x27;s VisionFive 2 SBC](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
