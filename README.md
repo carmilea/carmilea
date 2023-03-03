@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cucumber Maintainer out of Job and future of the project is uncertain](https://mattwynne.net/new-beginning)
-- [A bad acid trip nearly ruined my life](https://blackshaw.substack.com/p/lsd)
 - [Egypt: Corridor in Great Pyramid of Giza seen for first time](https://www.bbc.com/news/world-middle-east-64825526)
 - [Use GNU Emacs](https://www2.lib.uchicago.edu/keith/emacs/)
-- [Never Use Git Submodules](https://diziet.dreamwidth.org/14666.html)
+- [Never use Git submodules](https://diziet.dreamwidth.org/14666.html)
+- [It&amp;#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
