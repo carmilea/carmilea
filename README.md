@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Majority of Hispanic Americans own a home](https://www.ocregister.com/2023/03/03/majority-of-hispanic-americans-own-a-home-as-incomes-rise/)
 - [Oldest Human Genome from Southern Spain](https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/)
+- [I am Neal Stephenson, sci-fi author, geek, and [now] sword maker - AMA](https://old.reddit.com/r/books/comments/11h6hg5/i_am_neal_stephenson_scifi_author_geek_and_now/)
 - [ARM64 Linux Workstation](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/)
 - [GraphQL vs. REST APIs: a complete guide](https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide)
-- [Detecting Starlink Satellites with a Portable Raspberry Pi and RTL-SDR](https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/)
-- [Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware](https://github.com/kir-gadjello/zipslicer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
