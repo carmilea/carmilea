@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Becomes ClosedAI](https://closedai.us/blog/openai-becomes-closedai)
+- [Oldest Human Genome from Southern Spain](https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/)
+- [ARM64 Linux Workstation](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/)
+- [GraphQL vs. REST APIs: a complete guide](https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide)
 - [Detecting Starlink Satellites with a Portable Raspberry Pi and RTL-SDR](https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/)
 - [Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware](https://github.com/kir-gadjello/zipslicer)
-- [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
-- [GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
