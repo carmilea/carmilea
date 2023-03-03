@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AAA Reports That 68 Percent of Americans Are Now Afraid of Autonomous Cars](https://www.theautopian.com/aaa-autonomous-car-report-2023/)
-- [Chroma Doze – Open-Source Customizable White Noise Generator for Android](https://f-droid.org/packages/net.pmarks.chromadoze/)
-- [Nordstrom to close all 13 stores in Canada, lay off 2,500 workers by June](https://www.wsj.com/articles/nordstrom-to-close-liquidate-its-canadian-stores-2c1aa7fb)
-- [Amazon pauses construction on second HQ in Virginia amid job cuts](https://www.seattletimes.com/business/amazon-pauses-construction-on-second-headquarters-in-virginia-as-it-cuts-jobs/)
-- [RISC-V Business: Testing StarFive&amp;#x27;s VisionFive 2 SBC](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc)
+- [Live2D Is a Security Trainwreck](https://undeleted.ronsor.com/live2d-a-security-trainwreck/)
+- [Switching to Fedora Silverblue](https://yorickpeterse.com/articles/switching-to-fedora-silverblue/)
+- [Leaked audio reveals US rail workers were told to skip inspections](https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash)
+- [High-res image reconstruction with latent diffusion models from human brain](https://github.com/yu-takagi/StableDiffusionReconstruction)
+- [JEP 430: String Templates &lpar;Preview&rpar; Proposed to Target Java 21](https://openjdk.org/jeps/430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
