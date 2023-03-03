@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mullvad becomes highest level of Tor Member &lpar;Shallot&rpar;](https://mullvad.net/en/blog/2023/3/3/mullvad-becomes-highest-level-of-tor-member-shallot/)
+- [The EU&amp;#x27;s new Cyber Resilience Act is about to tell us how to code](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
+- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
 - [Belgium launches nationwide safe harbor for ethical hackers](https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers)
-- [Ethically Sourced Lena Picture](https://mortenhannemose.github.io/lena/)
-- [First Impressions of Bluesky&amp;#x27;s Brand New iOS App](https://notes.ghed.in/posts/2023/bluesky-ios-app-review/)
-- [No Magnets, Big Power: BMW’s Fifth-Generation Electric Motor &lpar;2022&rpar;](https://www.motortrend.com/news/bmw-ix-m60-brushed-electric-motor-tech-deep-dive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
