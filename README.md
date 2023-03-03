@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio Is Hiring 100% Remote Senior PM and Senior DevOps](https://www.tesorio.com/careers#job-openings)
-- [Ask HN: Has anyone started over outside of tech?](https://news.ycombinator.com/item?id=35008392)
-- [Ending Dependency Chaos: A Proposal for Comprehensive Function Versioning](https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md)
-- [Facebook LLAMA is being openly distributed via torrents](https://github.com/facebookresearch/llama/pull/73/files)
-- [Accessing the RAM of a QEMU Emulated System from Another Process](https://blog.reds.ch/?p=1379)
+- [RVVM – The RISC-V Virtual Machine](https://github.com/LekKit/RVVM)
+- [Matty Benedetto Designed and Prototyped 350 Inventions in 3 Years](https://unnecessaryinventions.com/)
+- [The extensible vi layer for Emacs](https://github.com/emacs-evil/evil)
+- [Scientists have mapped a secret hidden corridor in Great Pyramid of Giza](https://arstechnica.com/science/2023/03/scientists-have-mapped-a-secret-hidden-corridor-in-great-pyramid-of-giza/)
+- [Goodhart&amp;#x27;s Law Isn&amp;#x27;t as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
