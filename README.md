@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Italian city-states as a distant mirror](https://wyclif.substack.com/p/the-italian-city-states-as-a-distant)
 - [Oxidizing bmap-tools: rewriting a Python project in Rust](https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/)
+- [Ask HN: How did you rebuild yourself after having hit rock bottom?](https://news.ycombinator.com/item?id=35019993)
 - [Nabla Bio &lpar;YC S20&rpar; is hiring AI guided antibody design scientist](https://www.ycombinator.com/companies/nabla-bio/jobs/VyHb6GY-ai-guided-antibody-design)
 - [SecureDrop is evolving: We want to hear from you](https://securedrop.org/news/securedrop-is-evolving-we-want-to-hear-from-you/)
-- [The Paratethys Sea Was the Largest Lake in Earth’s History](https://www.atlasobscura.com/articles/strange-maps-paratethys-sea)
-- [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
