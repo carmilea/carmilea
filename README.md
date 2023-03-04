@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimal, allocation-free OpenMetrics implementation for no-std&amp;#x2F;embedded Rust](https://github.com/hawkw/tinymetrics)
 - [Mux &lpar;YC W16&rpar; is looking for a BDR that&amp;#x27;s reading Hacker News](https://www.mux.com/jobs)
+- [Ask HN: How do you know if leaving your 1st software job will make you happier?](https://news.ycombinator.com/item?id=35024233)
 - [“”Here&amp;#x27;s the number I used to win the lottery“ –Entrepreneurs giving advice”](https://twitter.com/awilkinson/status/1575941514567774208)
-- [AirPods causing tinnitus?](https://discussions.apple.com/thread/250886390)
-- [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
-- [The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics](https://arxiv.org/abs/2303.00831)
+- [The dogs of Chernobyl: Canine populations inhabiting a nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
