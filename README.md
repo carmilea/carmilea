@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman with tuberculosis ordered to jail for refusing treatment](https://arstechnica.com/science/2023/03/us-woman-headed-to-jail-for-refusing-tb-treatment-for-over-a-year/)
+- [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
 - [Show HN: A Unix timestamp converter that includes the micro and nanoseconds](https://justquickmath.com/unix_timestamp/)
 - [Tennessee town completely smothered by black whiskey fungus](https://www.dailymail.co.uk/news/article-11812901/New-images-Jack-Daniels-whiskey-fungus-smothering-town.html)
+- [Heroes of Might and Magic III was released on this day 24 years ago](https://twitter.com/David_Mullich/status/1631701207122051074)
 - [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
-- [2022 Letter](https://danwang.co/2022-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
