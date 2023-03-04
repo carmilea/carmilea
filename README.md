@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Need to Be Richer Than Ever to Buy Their First Home](https://www.bloomberg.com/news/articles/2023-03-02/will-home-prices-fall-first-time-buyers-face-a-costly-housing-market)
+- [Woman with tuberculosis ordered to jail for refusing treatment](https://arstechnica.com/science/2023/03/us-woman-headed-to-jail-for-refusing-tb-treatment-for-over-a-year/)
 - [Show HN: A Unix timestamp converter that includes the micro and nanoseconds](https://justquickmath.com/unix_timestamp/)
 - [Tennessee town completely smothered by black whiskey fungus](https://www.dailymail.co.uk/news/article-11812901/New-images-Jack-Daniels-whiskey-fungus-smothering-town.html)
 - [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
