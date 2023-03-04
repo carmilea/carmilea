@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photographer Who Found IG Fame for His Portraits Has Confessed Images Were A.I.](https://news.artnet.com/art-world/fake-instagram-photography-ai-generated-joe-avery-2260674)
+- [Oxidizing bmap-tools: rewriting a Python project in Rust](https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/)
 - [Nabla Bio &lpar;YC S20&rpar; is hiring AI guided antibody design scientist](https://www.ycombinator.com/companies/nabla-bio/jobs/VyHb6GY-ai-guided-antibody-design)
 - [SecureDrop is evolving: We want to hear from you](https://securedrop.org/news/securedrop-is-evolving-we-want-to-hear-from-you/)
 - [The Paratethys Sea Was the Largest Lake in Earth’s History](https://www.atlasobscura.com/articles/strange-maps-paratethys-sea)
