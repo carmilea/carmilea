@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans Need to Be Richer Than Ever to Buy Their First Home](https://www.bloomberg.com/news/articles/2023-03-02/will-home-prices-fall-first-time-buyers-face-a-costly-housing-market)
+- [Show HN: A Unix timestamp converter that includes the micro and nanoseconds](https://justquickmath.com/unix_timestamp/)
+- [Tennessee town completely smothered by black whiskey fungus](https://www.dailymail.co.uk/news/article-11812901/New-images-Jack-Daniels-whiskey-fungus-smothering-town.html)
 - [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
-- [Drug Companies Can Legally Start Selling Cocaine, Heroin, and MDMA](https://www.vice.com/en/article/93k957/canada-bc-cocaine-sale)
-- [Be Careful Using Tmux and Environment Variables](https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/)
-- [America chips away at the 40-hour workweek](https://www.axios.com/2023/03/04/part-time-work-40-hours-employment-caregiving)
-- [Beyond CRISPR babies: How human genome editing is moving on after scandal](https://www.nature.com/articles/d41586-023-00625-w)
+- [2022 Letter](https://danwang.co/2022-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
