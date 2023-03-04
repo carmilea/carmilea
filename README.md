@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California community colleges rely too much on part-time faculty; misspend funds](https://www.bakersfield.com/news/california-community-colleges-rely-too-much-on-part-time-faculty-and-misspend-funds-audit-finds/article_b7b5da7e-b93b-11ed-9e70-5fd006aad8d7.html)
+- [20M digits of pi in 1 minute using Julia](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
+- [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904)
 - [Amazon Buys One Medical](https://www.onemedical.com/mediacenter/one-medical-joins-amazon/)
 - [What I Learned Reading 1k Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/)
-- [Cool URIs Don&amp;#x27;t Change](https://www.w3.org/Provider/Style/URI)
-- [Oldest Human Genome from Southern Spain](https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/)
-- [I am Neal Stephenson, sci-fi author, geek, and now, sword maker – AMA](https://old.reddit.com/r/books/comments/11h6hg5/i_am_neal_stephenson_scifi_author_geek_and_now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
