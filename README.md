@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Paratethys Sea Was the Largest Lake in Earth’s History](https://www.atlasobscura.com/articles/strange-maps-paratethys-sea)
 - [Roald Dahl ebooks remotely updated to censored versions after purchase](https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0)
 - [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
 - [California community colleges rely too much on part-time faculty; misspend funds](https://www.bakersfield.com/news/california-community-colleges-rely-too-much-on-part-time-faculty-and-misspend-funds-audit-finds/article_b7b5da7e-b93b-11ed-9e70-5fd006aad8d7.html)
 - [20M digits of pi in 1 minute using Julia](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
-- [Continuous growth is cancer](https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
