@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Italian city-states as a distant mirror](https://wyclif.substack.com/p/the-italian-city-states-as-a-distant)
-- [Oxidizing bmap-tools: rewriting a Python project in Rust](https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/)
-- [Ask HN: How did you rebuild yourself after having hit rock bottom?](https://news.ycombinator.com/item?id=35019993)
-- [Nabla Bio &lpar;YC S20&rpar; is hiring AI guided antibody design scientist](https://www.ycombinator.com/companies/nabla-bio/jobs/VyHb6GY-ai-guided-antibody-design)
-- [SecureDrop is evolving: We want to hear from you](https://securedrop.org/news/securedrop-is-evolving-we-want-to-hear-from-you/)
+- [Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”](https://www.make-safe-ai.com/is-bing-chat-safe/)
+- [Ask HN: Science fiction movies that are appropriate for 12 year olds?](https://news.ycombinator.com/item?id=35020814)
+- [Secret Service, ICE break the law over and over with fake cell tower spying](https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/)
+- [Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL](https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/)
+- [Show HN: Procal: A simple Qt-based programming calculator](https://github.com/fellerts/procal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
