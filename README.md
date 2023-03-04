@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nabla Bio &lpar;YC S20&rpar; is hiring AI guided antibody design scientist](https://www.ycombinator.com/companies/nabla-bio/jobs/VyHb6GY-ai-guided-antibody-design)
+- [SecureDrop is evolving: We want to hear from you](https://securedrop.org/news/securedrop-is-evolving-we-want-to-hear-from-you/)
 - [The Paratethys Sea Was the Largest Lake in Earth’s History](https://www.atlasobscura.com/articles/strange-maps-paratethys-sea)
-- [Roald Dahl ebooks remotely updated to censored versions after purchase](https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0)
 - [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
 - [20M digits of pi in 1 minute using Julia](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
 <!-- BLOG-POST-LIST:END -->
