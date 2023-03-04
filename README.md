@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”](https://www.make-safe-ai.com/is-bing-chat-safe/)
-- [Ask HN: Science fiction movies that are appropriate for 12 year olds?](https://news.ycombinator.com/item?id=35020814)
-- [Secret Service, ICE break the law over and over with fake cell tower spying](https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/)
-- [Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL](https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/)
-- [Show HN: Procal: A simple Qt-based programming calculator](https://github.com/fellerts/procal)
+- [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
+- [Drug Companies Can Legally Start Selling Cocaine, Heroin, and MDMA](https://www.vice.com/en/article/93k957/canada-bc-cocaine-sale)
+- [Be Careful Using Tmux and Environment Variables](https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/)
+- [America chips away at the 40-hour workweek](https://www.axios.com/2023/03/04/part-time-work-40-hours-employment-caregiving)
+- [Beyond CRISPR babies: How human genome editing is moving on after scandal](https://www.nature.com/articles/d41586-023-00625-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
