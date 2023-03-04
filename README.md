@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AirPods Causing Tinnitus?](https://discussions.apple.com/thread/250886390)
-- [You can now live on a cruise ship for $30k per year](https://www.cnn.com/travel/article/3-year-cruise-mv-gemini/index.html)
+- [Mux &lpar;YC W16&rpar; is looking for a BDR that&amp;#x27;s reading Hacker News](https://www.mux.com/jobs)
+- [“”Here&amp;#x27;s the number I used to win the lottery“ –Entrepreneurs giving advice”](https://twitter.com/awilkinson/status/1575941514567774208)
+- [AirPods causing tinnitus?](https://discussions.apple.com/thread/250886390)
 - [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
 - [The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics](https://arxiv.org/abs/2303.00831)
-- [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
