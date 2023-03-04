@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirPods Causing Tinnitus?](https://discussions.apple.com/thread/250886390)
+- [You can now live on a cruise ship for $30k per year](https://www.cnn.com/travel/article/3-year-cruise-mv-gemini/index.html)
 - [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
-- [Show HN: A Unix timestamp converter that includes the micro and nanoseconds](https://justquickmath.com/unix_timestamp/)
-- [Tennessee town completely smothered by black whiskey fungus](https://www.dailymail.co.uk/news/article-11812901/New-images-Jack-Daniels-whiskey-fungus-smothering-town.html)
-- [Heroes of Might and Magic III was released on this day 24 years ago](https://twitter.com/David_Mullich/status/1631701207122051074)
+- [The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics](https://arxiv.org/abs/2303.00831)
 - [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
 <!-- BLOG-POST-LIST:END -->
 
