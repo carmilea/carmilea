@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Incompatibility of Open Core and Profit](https://bytesdataaction.substack.com/p/open-core-profit)
+- [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
+- [Show HN: Tiny Metasearch Engine to Find Software Developers](https://talentsignals.com)
+- [Learning to Summarize from Human Feedback](https://arxiv.org/abs/2009.01325)
 - [Word-processor idiot &lpar;Japanese expression&rpar;](https://en.wiktionary.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E9%A6%AC%E9%B9%BF)
-- [Minimal, allocation-free OpenMetrics implementation for no-std&amp;#x2F;embedded Rust](https://github.com/hawkw/tinymetrics)
-- [Mux &lpar;YC W16&rpar; is looking for a BDR that&amp;#x27;s reading Hacker News](https://www.mux.com/jobs)
-- [“”Here&amp;#x27;s the number I used to win the lottery“ –Entrepreneurs giving advice”](https://twitter.com/awilkinson/status/1575941514567774208)
-- [The dogs of Chernobyl: Canine populations inhabiting a nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
