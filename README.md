@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BioModels](https://www.ebi.ac.uk/biomodels/)
 - [The Incompatibility of Open Core and Profit](https://bytesdataaction.substack.com/p/open-core-profit)
 - [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
+- [AI Won&amp;#x27;t Cause Unemployment](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment)
 - [Show HN: Tiny Metasearch Engine to Find Software Developers](https://talentsignals.com)
-- [Learning to Summarize from Human Feedback](https://arxiv.org/abs/2009.01325)
-- [Word-processor idiot &lpar;Japanese expression&rpar;](https://en.wiktionary.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E9%A6%AC%E9%B9%BF)
 <!-- BLOG-POST-LIST:END -->
 
 ---
