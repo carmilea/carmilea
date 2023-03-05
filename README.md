@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
+- [Tell HN: Microsoft Teams is blocking Firefox Nightly](https://teams.live.com/_#/unsupportedBrowser)
 - [Theodore Ts&amp;#x27;o on how he uses Git when working on Linux &lpar;2017&rpar;](https://lore.kernel.org/git/20171225035215.GC1257@thunk.org/)
-- [Brett Slatkin: Why am I building a new functional programming language?](https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html)
+- [‘Compostable’ plastics no longer able to be composted in Boulder](https://boulderbeat.news/2023/03/02/compost/)
 - [As Kenya’s crops fail, a fight over GMO](https://www.wired.com/story/kenya-gmo-approval/)
-- [Toblerone to change design under ‘Swissness’ rules](https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland)
-- [AI to name your Java Classes](https://projects.haykranen.nl/java/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
