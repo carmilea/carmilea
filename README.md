@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dropping the Sat Requirement Is a Luxury Belief](https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a)
+- [Life is a game, this is your strategy guide &lpar;2014&rpar;](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
+- [Dropping the SAT Requirement Is a Luxury Belief](https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a)
 - [Chinese banks cause alarm as capital flight measures intensify](https://www.asiamarkets.com/chinese-banks-cause-alarm-as-capital-flight-measures-intensify/)
 - [Scheduling My Electricity Usage](https://tratt.net/laurie/blog/2023/scheduling_my_electricity_usage.html)
-- [Reducing code size in &lpar;Rust&rpar; librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
-- [Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/OpenBB-finance/OpenBBTerminal)
+- [Reducing code size in librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
