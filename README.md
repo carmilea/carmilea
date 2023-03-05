@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hector Martin: we care about fixing Linux problems on Asahi](https://social.treehouse.systems/@marcan/109966319008107138)
 - [BioModels](https://www.ebi.ac.uk/biomodels/)
-- [The Incompatibility of Open Core and Profit](https://bytesdataaction.substack.com/p/open-core-profit)
+- [The incompatibility of open core and profit](https://bytesdataaction.substack.com/p/open-core-profit)
 - [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
 - [AI Won&amp;#x27;t Cause Unemployment](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment)
-- [Show HN: Tiny Metasearch Engine to Find Software Developers](https://talentsignals.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
