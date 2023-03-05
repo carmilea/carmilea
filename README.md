@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A HN clone writen in go](https://remoterenters.com/)
 - [Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography](https://eprint.iacr.org/2023/318)
 - [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
-- [ChatGPT broke the EU plan to regulate AI](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/)
 - [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
 - [A Criticism of JavaScript Cryptography](https://blog.bren2010.io/blog/criticism-of-javascript-crypto)
 <!-- BLOG-POST-LIST:END -->
