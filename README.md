@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A HN clone writen in go](https://remoterenters.com/)
-- [Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography](https://eprint.iacr.org/2023/318)
-- [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
-- [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
-- [A Criticism of JavaScript Cryptography](https://blog.bren2010.io/blog/criticism-of-javascript-crypto)
+- [How to lose $950 quickly on Airbnb](https://chriskiehl.com/article/how-to-lose-about-nine-fitty)
+- [Bun vs Node Benchmark - no one cares about speed as much as your CI does](https://grifel.dev/bun-dev-experience/)
+- [They thought loved ones were calling for help. It was an AI scam](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/)
+- [ChatGPT in Academic Writing](https://www.monsterwriter.app/chatgpt-in-academic-writing.html)
+- [On the Candlemaker&amp;#x27;s Petition](https://pmarca.substack.com/p/on-the-candlemakers-petition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
