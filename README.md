@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3dfx: So powerful it’s kind of ridiculous](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
+- [Everything you think you know about homelessness is wrong](https://noahpinion.substack.com/p/everything-you-think-you-know-about)
 - [Hector Martin: we care about fixing Linux problems on Asahi](https://social.treehouse.systems/@marcan/109966319008107138)
 - [BioModels](https://www.ebi.ac.uk/biomodels/)
 - [The incompatibility of open core and profit](https://bytesdataaction.substack.com/p/open-core-profit)
-- [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
-- [AI Won&amp;#x27;t Cause Unemployment](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
