@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why has functional programming become so popular in non-academic settings?](https://news.ycombinator.com/item?id=35027650)
 - [Nannou – An open-source creative-coding framework for Rust](https://nannou.cc/)
 - [GQ.fyi &lpar;YC W21&rpar; Is Hiring Rails engineers to build GTP3 for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 - [Refurb weekend: Cobalt RaQ 2](http://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html)
-- [Rogule: A dungeon a day keeps the Balrog away](https://rogule.com/)
-- [3dfx: So powerful it’s kind of ridiculous](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
+- [The Grex system will be permanently shut down](http://grex.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
