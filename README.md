@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GQ.fyi &lpar;YC W21&rpar; Is Hiring Rails engineers to build GTP3 for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
+- [Refurb weekend: Cobalt RaQ 2](http://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html)
 - [Rogule: A dungeon a day keeps the Balrog away](https://rogule.com/)
 - [3dfx: So powerful it’s kind of ridiculous](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
 - [Hector Martin: we care about fixing Linux problems on Asahi](https://social.treehouse.systems/@marcan/109966319008107138)
-- [BioModels](https://www.ebi.ac.uk/biomodels/)
-- [The incompatibility of open core and profit](https://bytesdataaction.substack.com/p/open-core-profit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
