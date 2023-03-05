@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography](https://eprint.iacr.org/2023/318)
+- [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
 - [ChatGPT broke the EU plan to regulate AI](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/)
-- [RailsCasts grew to make over 1M a year](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
-- [Legacy Software Systems: How to Live with Aging Software Architecture?](https://stratoflow.com/legacy-software-systems/)
-- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-- [The lab that’s growing mushroom computers](https://www.popsci.com/technology/unconventional-computing-lab-mushroom/)
+- [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
+- [A Criticism of JavaScript Cryptography](https://blog.bren2010.io/blog/criticism-of-javascript-crypto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
