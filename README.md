@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran says suspected schoolgirl poisonings occurred in more than 50 schools](https://www.pbs.org/newshour/world/iran-says-suspected-schoolgirl-poisonings-occurred-in-more-than-50-schools)
 - [How to lose $950 quickly on Airbnb](https://chriskiehl.com/article/how-to-lose-about-nine-fitty)
 - [Bun vs Node Benchmark - no one cares about speed as much as your CI does](https://grifel.dev/bun-dev-experience/)
-- [They thought loved ones were calling for help. It was an AI scam](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/)
 - [ChatGPT in Academic Writing](https://www.monsterwriter.app/chatgpt-in-academic-writing.html)
 - [On the Candlemaker&amp;#x27;s Petition](https://pmarca.substack.com/p/on-the-candlemakers-petition)
 <!-- BLOG-POST-LIST:END -->
