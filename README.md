@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT broke the EU plan to regulate AI](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/)
+- [RailsCasts grew to make over 1M a year](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
+- [Legacy Software Systems: How to Live with Aging Software Architecture?](https://stratoflow.com/legacy-software-systems/)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [The lab that’s growing mushroom computers](https://www.popsci.com/technology/unconventional-computing-lab-mushroom/)
-- [Science magazine touts the existence of strong and ubiquitous “implicit bias”](https://whyevolutionistrue.com/2023/03/05/science-magazine-touts-the-existence-of-strong-and-ubiquitous-implicit-bias-as-well-as-the-need-to-measure-it-and-develoop-ways-to-eliminate-it/)
-- [After Dark Screensavers in CSS](https://www.bryanbraun.com/after-dark-css/)
-- [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
-- [Why does the all 0 public key have a known private key in SR25519 and ED25519?](https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
