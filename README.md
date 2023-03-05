@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As Kenya’s crops fail, a fight over GMO rages](https://www.wired.com/story/kenya-gmo-approval/)
-- [Matterhorn no more: Toblerone to change design under ‘Swissness’ rules](https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland)
+- [Theodore Ts&amp;#x27;o on how he uses Git when working on Linux &lpar;2017&rpar;](https://lore.kernel.org/git/20171225035215.GC1257@thunk.org/)
+- [Brett Slatkin: Why am I building a new functional programming language?](https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html)
+- [As Kenya’s crops fail, a fight over GMO](https://www.wired.com/story/kenya-gmo-approval/)
+- [Toblerone to change design under ‘Swissness’ rules](https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland)
 - [AI to name your Java Classes](https://projects.haykranen.nl/java/)
-- [Bird Union drops Audubon name to distance from namesake’s racist past](https://www.theguardian.com/us-news/2023/mar/05/bird-union-audubon-society-name-change)
-- [Norway takes a stance against Google Analytics](https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
