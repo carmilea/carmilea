@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dropping the Sat Requirement Is a Luxury Belief](https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a)
+- [Chinese banks cause alarm as capital flight measures intensify](https://www.asiamarkets.com/chinese-banks-cause-alarm-as-capital-flight-measures-intensify/)
+- [Scheduling My Electricity Usage](https://tratt.net/laurie/blog/2023/scheduling_my_electricity_usage.html)
 - [Reducing code size in &lpar;Rust&rpar; librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
-- [Facebook and Google hand over user data, help police prosecute abortion seekers](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
-- [Nannou – An open-source creative-coding framework for Rust](https://nannou.cc/)
-- [GQ.fyi &lpar;YC W21&rpar; Is Hiring Rails engineers to build GTP3 for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
-- [Refurb weekend: Cobalt RaQ 2](http://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html)
+- [Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/OpenBB-finance/OpenBBTerminal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
