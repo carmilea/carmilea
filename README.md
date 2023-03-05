@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As Kenya’s crops fail, a fight over GMO rages](https://www.wired.com/story/kenya-gmo-approval/)
+- [Matterhorn no more: Toblerone to change design under ‘Swissness’ rules](https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland)
+- [AI to name your Java Classes](https://projects.haykranen.nl/java/)
+- [Bird Union drops Audubon name to distance from namesake’s racist past](https://www.theguardian.com/us-news/2023/mar/05/bird-union-audubon-society-name-change)
 - [Norway takes a stance against Google Analytics](https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics)
-- [Life is a game, this is your strategy guide &lpar;2014&rpar;](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
-- [Dropping the SAT Requirement Is a Luxury Belief](https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a)
-- [Chinese banks cause alarm as capital flight measures intensify](https://www.asiamarkets.com/chinese-banks-cause-alarm-as-capital-flight-measures-intensify/)
-- [Reducing code size in librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
