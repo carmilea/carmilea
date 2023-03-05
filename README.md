@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reducing code size in &lpar;Rust&rpar; librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
 - [Facebook and Google hand over user data, help police prosecute abortion seekers](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
-- [Show HN: ChatGPT, No Login Needed, Made with Official OpenAI API](https://chatgptbay.com/)
 - [Nannou – An open-source creative-coding framework for Rust](https://nannou.cc/)
 - [GQ.fyi &lpar;YC W21&rpar; Is Hiring Rails engineers to build GTP3 for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 - [Refurb weekend: Cobalt RaQ 2](http://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html)
