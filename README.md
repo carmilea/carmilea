@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The lab that’s growing mushroom computers](https://www.popsci.com/technology/unconventional-computing-lab-mushroom/)
+- [Science magazine touts the existence of strong and ubiquitous “implicit bias”](https://whyevolutionistrue.com/2023/03/05/science-magazine-touts-the-existence-of-strong-and-ubiquitous-implicit-bias-as-well-as-the-need-to-measure-it-and-develoop-ways-to-eliminate-it/)
+- [After Dark Screensavers in CSS](https://www.bryanbraun.com/after-dark-css/)
 - [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
-- [Tell HN: Microsoft Teams is blocking Firefox Nightly](https://teams.live.com/_#/unsupportedBrowser)
-- [Theodore Ts&amp;#x27;o on how he uses Git when working on Linux &lpar;2017&rpar;](https://lore.kernel.org/git/20171225035215.GC1257@thunk.org/)
-- [‘Compostable’ plastics no longer able to be composted in Boulder](https://boulderbeat.news/2023/03/02/compost/)
-- [As Kenya’s crops fail, a fight over GMO](https://www.wired.com/story/kenya-gmo-approval/)
+- [Why does the all 0 public key have a known private key in SR25519 and ED25519?](https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
