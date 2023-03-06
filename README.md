@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe Treating Housing as an Investment Was a Colossal Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
-- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
-- [Current API plan does not include access to this endpoint](https://developer.twitter.com/en/docs/twitter-api)
-- [Understanding People Matters More Than Understanding Tech](https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/)
-- [Ultra-processed foods may contribute to cognitive decline](https://cam.mbi.ufl.edu/2023/01/31/6089/)
+- [Cities: Skylines II](https://store.steampowered.com/app/949230/Cities_Skylines_II/)
+- [Samsung and Apple is tech’s “unhappiest marriage”](https://9to5mac.com/2023/03/06/report-explores-techs-unhappiest-marriage-between-apple-and-samsung-failed-iphone-x-with-microled-display/)
+- [Tell HN: LTSE Equity Is Sheisty](https://news.ycombinator.com/item?id=35043872)
+- [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
+- [Autonomous Restructuring of Asteroids into Rotating Space Stations](https://arxiv.org/abs/2302.12353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
