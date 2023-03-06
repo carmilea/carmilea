@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart Set to Close All Stores in Portland Amid Record-Breaking Retail Theft](https://news.yahoo.com/walmart-set-close-stores-portland-154823875.html)
+- [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
+- [79% of homes for sale in the US in 2022 were unaffordable for typical household](https://www.redfin.com/news/share-of-homes-affordable-2022/)
 - [Lessons learned from 5 years of indie hacking](https://allisonseboldt.com/5-years-of-indie-hacking/)
 - [Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams](https://www.phoenixframework.org/blog/phoenix-1.7-final-released)
-- [Fed Reserve Zoom conference canceled after &amp;#x27;porn-bombing&amp;#x27;](https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/)
-- [Rebranding the Wise design system for everyone &lpar;part 1&rpar;](https://wise.design/design-at-wise/stories/accessible-but-never-boring)
-- [Non-occupational physical activity and risk of CV disease, cancer and mortality](https://bjsm.bmj.com/content/early/2023/01/23/bjsports-2022-105669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
