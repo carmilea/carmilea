@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobody needs a faster dishwasher – solve real user needs](https://louison.substack.com/p/nobody-needs-a-faster-dishwasher)
+- [Twitter’s Revenue, Adjusted Earnings Fell About 40% in Month of December](https://www.wsj.com/articles/twitters-revenue-adjusted-earnings-fell-about-40-in-month-of-december-ee91f1eb)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Genes reveal striking diversity within similar ice age cultures](https://www.science.org/content/article/ancient-dna-upends-european-prehistory)
 - [Bees follow linear landmarks to find their way home, just like the first pilots](https://phys.org/news/2023-03-bees-linear-landmarks-home.html)
-- [Google Search Is Dying &lpar;2022&rpar;](https://dkb.blog/p/google-search-is-dying)
-- [I&amp;#x27;m a Very Slow Thinker](https://sive.rs/slow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
