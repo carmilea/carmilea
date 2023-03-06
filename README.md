@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Search Is Dying](https://dkb.blog/p/google-search-is-dying)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Genes reveal striking diversity within similar ice age cultures](https://www.science.org/content/article/ancient-dna-upends-european-prehistory)
+- [Bees follow linear landmarks to find their way home, just like the first pilots](https://phys.org/news/2023-03-bees-linear-landmarks-home.html)
+- [Google Search Is Dying &lpar;2022&rpar;](https://dkb.blog/p/google-search-is-dying)
 - [I&amp;#x27;m a Very Slow Thinker](https://sive.rs/slow)
-- [How Brompton Bicycle uses Raspberry Pi technology to improve production [video]](https://www.youtube.com/watch?v=MBXYZ7vHmXw)
-- [Nix-Powered Development with OCaml](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
-- [Researchers Use AI to Generate Images Based on People&amp;#x27;s Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
