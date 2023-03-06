@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alaska’s Fisheries Are Collapsing](https://www.politico.com/news/magazine/2023/03/03/alaskas-fisheries-collapsing-peltola-industry-blame-00066843)
-- [Show HN: Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://github.com/unum-cloud/ujrpc)
-- [The perks workers want also make them more productive](https://fivethirtyeight.com/features/employee-perks-future-of-work/)
-- [Hired’s 2023 State of Software Engineers [pdf]](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf)
-- [Basic terminology and practices related to graph databases and graph modeling](https://memgraph.com/docs/memgraph/tutorials/graph-modeling)
+- [Maybe Treating Housing as an Investment Was a Colossal Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
+- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
+- [Current API plan does not include access to this endpoint](https://developer.twitter.com/en/docs/twitter-api)
+- [Understanding People Matters More Than Understanding Tech](https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/)
+- [Ultra-processed foods may contribute to cognitive decline](https://cam.mbi.ufl.edu/2023/01/31/6089/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
