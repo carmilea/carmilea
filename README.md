@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart Set to Close All Stores in Portland Amid Record-Breaking Retail Theft](https://news.yahoo.com/walmart-set-close-stores-portland-154823875.html)
-- [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
+- [The mission to discover if Jupiter’s moons support life](https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life)
+- [Pine64: Things Are Taking Shape](https://www.pine64.org/2023/03/01/february-update-things-are-taking-shape/)
+- [Writing - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/foundations/writing/)
+- [Academic urban legends &lpar;2014&rpar;](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
 - [79% of homes for sale in the US in 2022 were unaffordable for typical household](https://www.redfin.com/news/share-of-homes-affordable-2022/)
-- [Lessons learned from 5 years of indie hacking](https://allisonseboldt.com/5-years-of-indie-hacking/)
-- [Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams](https://www.phoenixframework.org/blog/phoenix-1.7-final-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
