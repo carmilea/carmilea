@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Drops Model S and Model X Pricing, Making Plaid the Same Price](https://blog.onlyusedtesla.com/tesla-updates-model-s-and-model-x-pricing-making-plaid-the-same-price-dd82925161b1)
-- [Cargo Cult Science – Feynman&amp;#x27;s 1974 Caltech commencement address](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
-- [Amazon’s big dreams for Alexa fall short](https://www.ft.com/content/bab905bd-a2fa-4022-b63d-a385c2a0fb86)
-- [Mastodon: Add support for incoming rich text](https://github.com/mastodon/mastodon/pull/23913)
-- [SimCity launched a decade ago, and it was so disastrous it killed the series](https://www.pcgamer.com/simcity-launched-a-decade-ago-and-it-was-so-disastrous-it-killed-the-series/)
+- [Alaska’s Fisheries Are Collapsing](https://www.politico.com/news/magazine/2023/03/03/alaskas-fisheries-collapsing-peltola-industry-blame-00066843)
+- [Show HN: Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://github.com/unum-cloud/ujrpc)
+- [The perks workers want also make them more productive](https://fivethirtyeight.com/features/employee-perks-future-of-work/)
+- [Hired’s 2023 State of Software Engineers [pdf]](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf)
+- [Basic terminology and practices related to graph databases and graph modeling](https://memgraph.com/docs/memgraph/tutorials/graph-modeling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
