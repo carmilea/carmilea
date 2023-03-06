@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Taxonomy of Public Writers](https://biblioracle.substack.com/p/a-taxonomy-of-public-writers)
 - [The mission to discover if Jupiter’s moons support life](https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life)
 - [Pine64: Things Are Taking Shape](https://www.pine64.org/2023/03/01/february-update-things-are-taking-shape/)
-- [Writing - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/foundations/writing/)
+- [The words you choose within an app are an essential part of its user experience](https://developer.apple.com/design/human-interface-guidelines/foundations/writing/)
 - [Academic urban legends &lpar;2014&rpar;](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
-- [79% of homes for sale in the US in 2022 were unaffordable for typical household](https://www.redfin.com/news/share-of-homes-affordable-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
