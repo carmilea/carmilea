@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The notion of truth in science and medicine, it matters and we must defend it](https://hxstem.substack.com/p/the-notion-of-truth-in-science-and)
-- [Open-source Stable Diffusion plug-in for Photoshop](https://twitter.com/LibertyRPF/status/1632382027633655810)
-- [Scientists Use Satellites to Track Earth ‘Greening’ Amid Climate Change](https://news.ncsu.edu/2023/03/scientists-use-satellites-to-track-earth-greening-amid-climate-change/)
+- [Europe&amp;#x27;s big tech bill is coming to fruition](https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/)
+- [Open-source Stable Diffusion plug-in for Photoshop](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
 - [Charter boat captains don&amp;#x27;t have to share location with government, court rules](https://reason.com/2023/03/06/charter-boat-captains-dont-have-to-share-their-location-data-with-the-government-court-rules/)
-- [Pickup Trucks: From Workhorse to Joyride](https://www.axios.com/ford-pickup-trucks-history)
+- [Show HN: Total.js – Low-code development &lpar;Node-RED alternative&rpar;](https://www.totaljs.com/flow/)
+- [Rux: A JSX-inspired way to render view components in Ruby](https://github.com/camertron/rux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
