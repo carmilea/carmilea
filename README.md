@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Use AI to Generate Images Based on People&amp;#x27;s Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
+- [ChatGPT invented its own puzzle game](https://puzzledpenguin.substack.com/p/chatgpt-invented-its-own-puzzle-game)
+- [Reverse-engineering the electronics in the Globus analog navigational computer](http://www.righto.com/2023/03/reverse-engineering-electronics-in.html)
 - [Mr. Rodgers&amp;#x27;s Neighborhood &lpar;2011&rpar;](http://www.nilerodgers.com/about/press/3-new-york-times-mr-rodgerss-neighborhood)
 - [A Taxonomy of Public Writers](https://biblioracle.substack.com/p/a-taxonomy-of-public-writers)
-- [The mission to discover if Jupiter’s moons support life](https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life)
-- [The words you choose within an app are an essential part of its user experience](https://developer.apple.com/design/human-interface-guidelines/foundations/writing/)
-- [The Smallest Hash Table](https://orlp.net/blog/worlds-smallest-hash-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
