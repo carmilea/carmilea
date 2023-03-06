@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bevy 0.10: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-10/)
-- [Rux: A JSX-inspired way to render view components in Ruby](https://github.com/camertron/rux)
-- [Rapid growth, lessons learned and improvements at Fly.io](https://community.fly.io/t/reliability-its-not-great/11253)
-- [Cities: Skylines II](https://store.steampowered.com/app/949230/Cities_Skylines_II/)
-- [Samsung and Apple is tech’s “unhappiest marriage”](https://9to5mac.com/2023/03/06/report-explores-techs-unhappiest-marriage-between-apple-and-samsung-failed-iphone-x-with-microled-display/)
+- [The notion of truth in science and medicine, it matters and we must defend it](https://hxstem.substack.com/p/the-notion-of-truth-in-science-and)
+- [Open-source Stable Diffusion plug-in for Photoshop](https://twitter.com/LibertyRPF/status/1632382027633655810)
+- [Scientists Use Satellites to Track Earth ‘Greening’ Amid Climate Change](https://news.ncsu.edu/2023/03/scientists-use-satellites-to-track-earth-greening-amid-climate-change/)
+- [Charter boat captains don&amp;#x27;t have to share location with government, court rules](https://reason.com/2023/03/06/charter-boat-captains-dont-have-to-share-their-location-data-with-the-government-court-rules/)
+- [Pickup Trucks: From Workhorse to Joyride](https://www.axios.com/ford-pickup-trucks-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
