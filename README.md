@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams](https://www.phoenixframework.org/blog/phoenix-1.7-final-released)
+- [Fed Reserve Zoom conference canceled after &amp;#x27;porn-bombing&amp;#x27;](https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/)
+- [“Your File May Violate Google Drive&amp;#x27;s Terms of Service”](https://news.ycombinator.com/item?id=35036142)
+- [Rebranding the Wise design system for everyone &lpar;part 1&rpar;](https://wise.design/design-at-wise/stories/accessible-but-never-boring)
 - [Non-occupational physical activity and risk of CV disease, cancer and mortality](https://bjsm.bmj.com/content/early/2023/01/23/bjsports-2022-105669)
-- [Man has two more chances before $232M in Bitcoin is lost forever](https://au.finance.yahoo.com/news/man-has-two-more-chances-before-232-million-is-lost-forever-222045101.html)
-- [Can the West’s perplexing employment miracle continue?](https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue)
-- [Miller Puckette: Inside PureData – Lectures on pd&amp;#x2F;development of computer music](http://msp.ucsd.edu/syllabi/206.20s/index.htm)
-- [Van Gogh, AMD’s Steam Deck APU](https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
