@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Search Is Dying](https://dkb.blog/p/google-search-is-dying)
+- [I&amp;#x27;m a Very Slow Thinker](https://sive.rs/slow)
+- [How Brompton Bicycle uses Raspberry Pi technology to improve production [video]](https://www.youtube.com/watch?v=MBXYZ7vHmXw)
+- [Nix-Powered Development with OCaml](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
 - [Researchers Use AI to Generate Images Based on People&amp;#x27;s Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
-- [ChatGPT invented its own puzzle game](https://puzzledpenguin.substack.com/p/chatgpt-invented-its-own-puzzle-game)
-- [Reverse-engineering the electronics in the Globus analog navigational computer](http://www.righto.com/2023/03/reverse-engineering-electronics-in.html)
-- [Mr. Rodgers&amp;#x27;s Neighborhood &lpar;2011&rpar;](http://www.nilerodgers.com/about/press/3-new-york-times-mr-rodgerss-neighborhood)
-- [A Taxonomy of Public Writers](https://biblioracle.substack.com/p/a-taxonomy-of-public-writers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
