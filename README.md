@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody needs a faster dishwasher – solve real user needs](https://louison.substack.com/p/nobody-needs-a-faster-dishwasher)
-- [Twitter’s Revenue, Adjusted Earnings Fell About 40% in Month of December](https://www.wsj.com/articles/twitters-revenue-adjusted-earnings-fell-about-40-in-month-of-december-ee91f1eb)
+- [Musk’s bid to start Neuralink human trials denied by FDA in 2022, report says](https://arstechnica.com/science/2023/03/musks-bid-to-start-neuralink-human-trials-denied-by-fda-in-2022-report-says/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Genes reveal striking diversity within similar ice age cultures](https://www.science.org/content/article/ancient-dna-upends-european-prehistory)
 - [Bees follow linear landmarks to find their way home, just like the first pilots](https://phys.org/news/2023-03-bees-linear-landmarks-home.html)
+- [Microsoft Unveils Its Own Version of Nvidia&amp;#x27;s RTX Super Resolution](https://www.tomshardware.com/news/microsoft-unveils-its-own-version-of-nvidias-rtx-super-resolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
