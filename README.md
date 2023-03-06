@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran says suspected schoolgirl poisonings occurred in more than 50 schools](https://www.pbs.org/newshour/world/iran-says-suspected-schoolgirl-poisonings-occurred-in-more-than-50-schools)
-- [How to lose $950 quickly on Airbnb](https://chriskiehl.com/article/how-to-lose-about-nine-fitty)
-- [Bun vs Node Benchmark - no one cares about speed as much as your CI does](https://grifel.dev/bun-dev-experience/)
-- [ChatGPT in Academic Writing](https://www.monsterwriter.app/chatgpt-in-academic-writing.html)
-- [On the Candlemaker&amp;#x27;s Petition](https://pmarca.substack.com/p/on-the-candlemakers-petition)
+- [Non-occupational physical activity and risk of CV disease, cancer and mortality](https://bjsm.bmj.com/content/early/2023/01/23/bjsports-2022-105669)
+- [Man has two more chances before $232M in Bitcoin is lost forever](https://au.finance.yahoo.com/news/man-has-two-more-chances-before-232-million-is-lost-forever-222045101.html)
+- [Can the West’s perplexing employment miracle continue?](https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue)
+- [Miller Puckette: Inside PureData – Lectures on pd&amp;#x2F;development of computer music](http://msp.ucsd.edu/syllabi/206.20s/index.htm)
+- [Van Gogh, AMD’s Steam Deck APU](https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
