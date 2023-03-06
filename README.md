@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned from 5 years of indie hacking](https://allisonseboldt.com/5-years-of-indie-hacking/)
 - [Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams](https://www.phoenixframework.org/blog/phoenix-1.7-final-released)
 - [Fed Reserve Zoom conference canceled after &amp;#x27;porn-bombing&amp;#x27;](https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/)
 - [Rebranding the Wise design system for everyone &lpar;part 1&rpar;](https://wise.design/design-at-wise/stories/accessible-but-never-boring)
 - [Non-occupational physical activity and risk of CV disease, cancer and mortality](https://bjsm.bmj.com/content/early/2023/01/23/bjsports-2022-105669)
-- [Even the Pylint codebase uses Ruff](https://github.com/PyCQA/pylint/blob/47cb11f4cb01a61f83d915d88e828f103a479980/pyproject.toml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
