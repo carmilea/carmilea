@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: DAGWorks – ML platform for data science teams](https://news.ycombinator.com/item?id=35056903)
-- [80% of young people &lpar;13 to 17&rpar; in EU refuse surveillance of online communication](https://edri.org/our-work/press-release-poll-youth-in-13-eu-countries-refuse-surveillance-of-online-communication/)
-- [RustPython – A Python-3 &lpar;CPython &amp;gt;= 3.11.0&rpar; Interpreter written in Rust](https://github.com/RustPython/RustPython)
-- [Show HN: YoBulk AI – Open Source React SDK for data cleansing](https://yobulk.dev/)
-- [No Lodash](https://thescottyjam.github.io/snap.js/#!/nolodash)
+- [Fake sugars sneak into foods and disrupt metabolic health](https://www.washingtonpost.com/wellness/interactive/2023/sugar-substitutes-health-effects/)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Technical DevRel &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Signal is for everyone, and everyone is different](https://signal.org/blog/signal-is-for-everyone/)
+- [Feb 27 2023 GCP Outage Incident Report](https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf)
+- [Haraldur Thorleifsson&amp;#x27;s Personal Site](http://www.haraldurthorleifsson.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
