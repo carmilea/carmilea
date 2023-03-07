@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: DAGWorks – ML platform for data science teams](https://news.ycombinator.com/item?id=35056903)
+- [80% of young people &lpar;13 to 17&rpar; in EU refuse surveillance of online communication](https://edri.org/our-work/press-release-poll-youth-in-13-eu-countries-refuse-surveillance-of-online-communication/)
+- [RustPython – A Python-3 &lpar;CPython &amp;gt;= 3.11.0&rpar; Interpreter written in Rust](https://github.com/RustPython/RustPython)
+- [Show HN: YoBulk AI – Open Source React SDK for data cleansing](https://yobulk.dev/)
 - [No Lodash](https://thescottyjam.github.io/snap.js/#!/nolodash)
-- [Haraldur Þorleifsson Sweeps Person of the Year Awards](https://www.icelandreview.com/news/haraldur-thorleifsson-sweeps-person-of-the-year-awards/)
-- [A Low Latency Guitar Effects Processor Suitable for Running on a Raspberry Pi](https://github.com/Quinny/GuitarEffects)
-- [Boulder Dash](https://lutzroeder.github.io/digger/)
-- [Pure Storage Teases 300 TB Ultra-Large NVMe SSD with Tentative 2026 Launch](https://wccftech.com/pure-storage-teases-monstrous-300-tb-ultra-large-capacity-nvme-ssd-with-a-tentative-2026-launch-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
