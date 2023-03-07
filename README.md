@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mario Kart Tour Triggers You into Gambling Your Money](https://growth.design/case-studies/mario-kart-revenue-model)
+- [When Zig is safer and faster than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/)
+- [Strikes spread as French unions intensify pension reform fight](https://www.reuters.com/world/europe/unions-seek-bring-france-halt-block-pension-reform-2023-03-07/)
+- [Georgia nuclear plant begins splitting atoms for first time](https://apnews.com/article/georgia-power-nuclear-reactor-electricity-voglte-startup-305145dc46cc1752c2d9371fa70aea35)
 - [Fake sugars sneak into foods and disrupt metabolic health](https://www.washingtonpost.com/wellness/interactive/2023/sugar-substitutes-health-effects/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Technical DevRel &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Signal is for everyone, and everyone is different](https://signal.org/blog/signal-is-for-everyone/)
-- [Feb 27 2023 GCP Outage Incident Report](https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf)
-- [Haraldur Thorleifsson&amp;#x27;s Personal Site](http://www.haraldurthorleifsson.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
