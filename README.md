@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mario Kart Tour Triggers You into Gambling Your Money](https://growth.design/case-studies/mario-kart-revenue-model)
-- [Zig as an alternative to writing unsafe Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/)
-- [Strikes spread as French unions intensify pension reform fight](https://www.reuters.com/world/europe/unions-seek-bring-france-halt-block-pension-reform-2023-03-07/)
-- [Full-Text Search in SingleStoreDB](https://www.singlestore.com/blog/full-text-search-in-singlestoredb/)
-- [Georgia nuclear plant begins splitting atoms for first time](https://apnews.com/article/georgia-power-nuclear-reactor-electricity-voglte-startup-305145dc46cc1752c2d9371fa70aea35)
+- [Zero Energy Ready Homes Are Coming to a Neighborhood Near You](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
+- [ChatGPT powered GitHub code review app](https://chatcody.umso.co)
+- [The Death of Personality](https://bt.ht/death-of-personality/)
+- [Remote Code Execution as a Service](https://earthly.dev/blog/remote-code-execution/)
+- [Show HN: ChatGPT and Document Parser = Ghost](https://www.ghostextension.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
