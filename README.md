@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What to do if you drop your phone in the toilet](https://smarty.co.uk/blog/what-to-do-if-you-drop-your-phone-in-the-toilet/)
+- [Elementary schoolers prove EpiPens become toxic in space](https://www.livescience.com/elementary-schoolers-prove-epipens-become-fatally-toxic-in-space-something-nasa-never-knew)
+- [The C++ Standard Library: The Fourth Edition includes C++23](http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23)
 - [On Hybrid Search with Qdrant](https://qdrant.tech/articles/hybrid-search/)
+- [Parse, Don&amp;#x27;t Validate &lpar;2019&rpar;](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Show HN: ChatGPT Inline Bot on Telegram](https://chatgptontelegram.com)
-- [DDoS detection and remediation with Akvorado and Flowspec](https://vincent.bernat.ch/en/blog/2023-akvorado-ddos-flowspec)
-- [New Cognitive Skills in the Age of AI Tailored Information](https://safjan.com/pros-and-cons-of-reliance-on-ai-generating-models/#pros-and-cons-of-reliance-on-ai-generating-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
