@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Etleap &lpar;YC W13&rpar; Is Hiring](https://etleap.com/careers/software-engineer/)
+- [Google ads malvertising is targeting open source software](https://www.kolide.com/blog/malvertising-on-google-ads-it-s-hiding-in-plain-site)
 - [Category Theory ∩ Machine Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
 - [Zero energy ready homes are coming](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
-- [My Hardest Bug Ever](https://www.gamedeveloper.com/programming/my-hardest-bug-ever#close-modal)
-- [ChatGPT powered GitHub code review app](https://chatcody.umso.co)
+- [My Hardest Bug Ever &lpar;2013&rpar;](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
