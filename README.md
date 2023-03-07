@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
+- [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
 - [Domain Names as Handles in Bluesky](https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky)
-- [Show HN: Roastedby.ai – Talk some trash, have some fun](https://www.roastedby.ai/)
-- [Autonomous tech boom darling Embark goes belly-up, lays off hundreds](https://www.sfgate.com/tech/article/embark-trucks-layoffs-may-close-17823487.php)
-- [Cabel Sasser: Untitled Goose Game rejected from the Mac App Store twice](https://social.panic.com/@cabel/109977366338856750)
-- [Shiki Syntax Highlighter](https://shiki.matsu.io/)
+- [A Vulnerability in Implementations of SHA-3, Shake, EdDSA](https://eprint.iacr.org/2023/331)
 <!-- BLOG-POST-LIST:END -->
 
 ---
