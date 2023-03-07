@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Plans Thousands More Layoffs as Soon as This Week](https://finance.yahoo.com/news/meta-plans-thousands-more-layoffs-022908179.html)
+- [Stochastic gradient descent written in SQL](https://maxhalford.github.io/blog/ogd-in-sql/)
 - [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English Using AI](https://www.ycombinator.com/companies/toko/jobs/hXNmmpi-founding-engineer)
 - [Show HN: I built a better UI for ChatGPT](https://www.typingmind.com/)
 - [The C++ Standard Library: The Fourth Edition includes C++23](http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23)
