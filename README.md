@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What to do if you drop your phone in the toilet](https://smarty.co.uk/blog/what-to-do-if-you-drop-your-phone-in-the-toilet/)
 - [On Hybrid Search with Qdrant](https://qdrant.tech/articles/hybrid-search/)
+- [Show HN: ChatGPT Inline Bot on Telegram](https://chatgptontelegram.com)
+- [DDoS detection and remediation with Akvorado and Flowspec](https://vincent.bernat.ch/en/blog/2023-akvorado-ddos-flowspec)
 - [New Cognitive Skills in the Age of AI Tailored Information](https://safjan.com/pros-and-cons-of-reliance-on-ai-generating-models/#pros-and-cons-of-reliance-on-ai-generating-models)
-- [Retail, search and Amazon’s $40B ‘advertising’ business](https://www.ben-evans.com/benedictevans/2023/3/6/ways-to-think-about-amazon-advertising)
-- [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
-- [Meta Plans Thousands More Layoffs as Soon as This Week](https://www.bloomberg.com/news/articles/2023-03-07/meta-is-said-to-plan-thousands-more-layoffs-as-soon-as-this-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
