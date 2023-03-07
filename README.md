@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elementary schoolers prove EpiPens become toxic in space](https://www.livescience.com/elementary-schoolers-prove-epipens-become-fatally-toxic-in-space-something-nasa-never-knew)
+- [Meta Plans Thousands More Layoffs as Soon as This Week](https://finance.yahoo.com/news/meta-plans-thousands-more-layoffs-022908179.html)
+- [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English Using AI](https://www.ycombinator.com/companies/toko/jobs/hXNmmpi-founding-engineer)
+- [Show HN: I built a better UI for ChatGPT](https://www.typingmind.com/)
 - [The C++ Standard Library: The Fourth Edition includes C++23](http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23)
-- [On Hybrid Search with Qdrant](https://qdrant.tech/articles/hybrid-search/)
-- [Parse, Don&amp;#x27;t Validate &lpar;2019&rpar;](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
-- [Show HN: ChatGPT Inline Bot on Telegram](https://chatgptontelegram.com)
+- [Show HN: Regex Derivatives &lpar;Brzozowski Derivatives&rpar;](https://github.com/c0stya/brzozowski)
 <!-- BLOG-POST-LIST:END -->
 
 ---
