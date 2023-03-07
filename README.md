@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Etleap &lpar;YC W13&rpar; Is Hiring](https://etleap.com/careers/software-engineer/)
-- [Google ads malvertising is targeting open source software](https://www.kolide.com/blog/malvertising-on-google-ads-it-s-hiding-in-plain-site)
-- [Category Theory ∩ Machine Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
-- [Zero energy ready homes are coming](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
-- [My Hardest Bug Ever &lpar;2013&rpar;](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
+- [ChatGPT Explained: A Normie&amp;#x27;s Guide to How It Works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
+- [The Right Side of History](https://www.newyorker.com/news/annals-of-education/the-right-side-of-history)
+- [O’Reilly urges world to get ready for a red-hot summer of AI – AI Magazine](https://aimagazine.com/articles/oreilly-urges-world-to-get-ready-for-a-red-hot-summer-of-ai)
+- [Graduate Students at the University of Southern California Have Won a Union](https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb)
+- [BlinderKitten, A free lighting software without restriction](http://blinderkitten.lighting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
