@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roku devices don&amp;#x27;t support IPv6 in 2023 and it&amp;#x27;s costing ISPs](https://community.roku.com/t5/Features-settings-updates/It-s-2022-and-still-no-IPv6/m-p/854673/highlight/true#M35732)
-- [Europe&amp;#x27;s big tech bill is coming to fruition](https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/)
-- [Open-source Stable Diffusion plug-in for Photoshop](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
-- [Charter boat captains don&amp;#x27;t have to share location with government, court rules](https://reason.com/2023/03/06/charter-boat-captains-dont-have-to-share-their-location-data-with-the-government-court-rules/)
-- [Show HN: Total.js – Low-code development &lpar;Node-RED alternative&rpar;](https://www.totaljs.com/flow/)
+- [Domain Names as Handles in Bluesky](https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky)
+- [Show HN: Roastedby.ai – Talk some trash, have some fun](https://www.roastedby.ai/)
+- [Autonomous tech boom darling Embark goes belly-up, lays off hundreds](https://www.sfgate.com/tech/article/embark-trucks-layoffs-may-close-17823487.php)
+- [Cabel Sasser: Untitled Goose Game rejected from the Mac App Store twice](https://social.panic.com/@cabel/109977366338856750)
+- [Shiki Syntax Highlighter](https://shiki.matsu.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
