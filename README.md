@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lost Art of Lacing Cable](https://www.thebroadcastbridge.com/content/entry/12400/the-lost-art-of-lacing-cable)
-- [Stochastic gradient descent written in SQL](https://maxhalford.github.io/blog/ogd-in-sql/)
-- [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English Using AI](https://www.ycombinator.com/companies/toko/jobs/hXNmmpi-founding-engineer)
-- [Show HN: I built a better UI for ChatGPT](https://www.typingmind.com/)
-- [The C++ Standard Library: The Fourth Edition includes C++23](http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23)
+- [No Lodash](https://thescottyjam.github.io/snap.js/#!/nolodash)
+- [Haraldur Þorleifsson Sweeps Person of the Year Awards](https://www.icelandreview.com/news/haraldur-thorleifsson-sweeps-person-of-the-year-awards/)
+- [A Low Latency Guitar Effects Processor Suitable for Running on a Raspberry Pi](https://github.com/Quinny/GuitarEffects)
+- [Boulder Dash](https://lutzroeder.github.io/digger/)
+- [Pure Storage Teases 300 TB Ultra-Large NVMe SSD with Tentative 2026 Launch](https://wccftech.com/pure-storage-teases-monstrous-300-tb-ultra-large-capacity-nvme-ssd-with-a-tentative-2026-launch-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
