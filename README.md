@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
 - [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
-- [Domain Names as Handles in Bluesky](https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky)
-- [A Vulnerability in Implementations of SHA-3, Shake, EdDSA](https://eprint.iacr.org/2023/331)
+- [Study finds mushrooms magnify memory by boosting nerve growth](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
