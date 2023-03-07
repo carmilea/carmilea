@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Hybrid Search with Qdrant](https://qdrant.tech/articles/hybrid-search/)
+- [New Cognitive Skills in the Age of AI Tailored Information](https://safjan.com/pros-and-cons-of-reliance-on-ai-generating-models/#pros-and-cons-of-reliance-on-ai-generating-models)
 - [Retail, search and Amazon’s $40B ‘advertising’ business](https://www.ben-evans.com/benedictevans/2023/3/6/ways-to-think-about-amazon-advertising)
-- [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
 - [Meta Plans Thousands More Layoffs as Soon as This Week](https://www.bloomberg.com/news/articles/2023-03-07/meta-is-said-to-plan-thousands-more-layoffs-as-soon-as-this-week)
-- [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
