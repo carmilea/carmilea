@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Energy Ready Homes Are Coming to a Neighborhood Near You](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
+- [Etleap &lpar;YC W13&rpar; Is Hiring](https://etleap.com/careers/software-engineer/)
+- [Category Theory ∩ Machine Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
+- [Zero energy ready homes are coming](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
+- [My Hardest Bug Ever](https://www.gamedeveloper.com/programming/my-hardest-bug-ever#close-modal)
 - [ChatGPT powered GitHub code review app](https://chatcody.umso.co)
-- [The Death of Personality](https://bt.ht/death-of-personality/)
-- [Remote Code Execution as a Service](https://earthly.dev/blog/remote-code-execution/)
-- [Show HN: ChatGPT and Document Parser = Ghost](https://www.ghostextension.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
