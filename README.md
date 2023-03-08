@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI chief says TikTok &amp;#x27;screams&amp;#x27; of US national security concerns](https://www.reuters.com/technology/fbi-chief-says-tiktok-screams-us-national-security-concerns-2023-03-08/)
+- [I broke a wine glass with my voice &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=Oc27GxSD_bI)
+- [Show HN: CodeGPT.nvim – ChatGPT plugin for Neovim](https://github.com/dpayne/CodeGPT.nvim)
+- [The Registers of Rust](https://without.boats/blog/the-registers-of-rust/)
 - [Truck: CAD Kernel in Rust](https://github.com/ricosjp/truck)
-- [Room-Temperature Superconductor Discovery Meets with Resistance](https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/)
-- [Google Groups has been left to die](https://ahelwer.ca/post/2023-03-08-google-groups/)
-- [Writeout.ai – Transcribe and translate any audio files. Free and open source](https://writeout.ai/)
-- [Governments should compete for residents, not businesses](https://www.bloomberg.com/opinion/articles/2023-03-07/amazon-hq2-pause-could-be-a-sign-of-a-new-era-for-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
