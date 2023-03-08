@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Tapes Out Chips on 1.8nm and 2nm Production Nodes](https://www.tomshardware.com/news/intel-completes-development-of-18a-20a-nodes)
-- [Gang Members Hold Positions at ‘Highest Levels’ of LA Sheriff’s Department](https://www.rollingstone.com/politics/politics-features/la-sheriff-department-gangs-alex-villanueva-1234691873/)
-- [Researchers develop blood test for anxiety](https://www.sciencedaily.com/releases/2023/03/230307143746.htm)
-- [Intel Continues with More Big-Time Optimizations to the Linux Kernel](https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up)
-- [Show HN: Construct Animate – our new browser-based animation tool](https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612)
+- [Launch HN: UpTrain &lpar;YC W23&rpar; – Open-source performance monitoring for ML models](https://news.ycombinator.com/item?id=35069839)
+- [AI is making it easier to create more noise, when all I want is good search](https://rachsmith.com/i-want-good-search/)
+- [The privacy loophole in your doorbell](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
+- [Vanilla OS 2.0 Shifting from Ubuntu Base to Debian Sid](https://www.phoronix.com/news/Vanilla-OS-2.0-Debian)
+- [PEP 709 – Inlined Comprehensions](https://peps.python.org/pep-0709/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
