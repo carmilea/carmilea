@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Forbidden-Word” Lists Are a Symptom of Administrative Bloat](https://www.jamesgmartin.center/2023/03/forbidden-word-lists-are-a-symptom-of-administrative-bloat/)
+- [Intel Tapes Out Chips on 1.8nm and 2nm Production Nodes](https://www.tomshardware.com/news/intel-completes-development-of-18a-20a-nodes)
+- [Gang Members Hold Positions at ‘Highest Levels’ of LA Sheriff’s Department](https://www.rollingstone.com/politics/politics-features/la-sheriff-department-gangs-alex-villanueva-1234691873/)
+- [Researchers develop blood test for anxiety](https://www.sciencedaily.com/releases/2023/03/230307143746.htm)
 - [Intel Continues with More Big-Time Optimizations to the Linux Kernel](https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up)
 - [Show HN: Construct Animate – our new browser-based animation tool](https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612)
-- [Cachix 1.3: Nix uploads unleashed](https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/)
-- [ChatGPT-Linux-Assistant](https://github.com/rareranger/chatgpt-linux-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
