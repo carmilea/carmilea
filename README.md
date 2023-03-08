@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Explained: A Normie&amp;#x27;s Guide to How It Works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
-- [The Right Side of History](https://www.newyorker.com/news/annals-of-education/the-right-side-of-history)
-- [O’Reilly urges world to get ready for a red-hot summer of AI – AI Magazine](https://aimagazine.com/articles/oreilly-urges-world-to-get-ready-for-a-red-hot-summer-of-ai)
-- [Graduate Students at the University of Southern California Have Won a Union](https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb)
-- [BlinderKitten, A free lighting software without restriction](http://blinderkitten.lighting)
+- [Google Releases Paper on Embodied LLM &lpar;562b parameters&rpar;](https://palm-e.github.io/#demo)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Sr PM &amp;#x2F; Designers &lpar;SF&amp;#x2F;Toronto&amp;#x2F;Remote&rpar;](https://getjerry.com/careers)
+- [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
+- [The decline of net neutrality activism](https://neelc.org/posts/net-neutrality-activism/)
+- [Sued by Meta, Freenom halts domain registrations](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
