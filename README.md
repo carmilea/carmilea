@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Forbidden-Word” Lists Are a Symptom of Administrative Bloat](https://www.jamesgmartin.center/2023/03/forbidden-word-lists-are-a-symptom-of-administrative-bloat/)
+- [Intel Continues with More Big-Time Optimizations to the Linux Kernel](https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up)
 - [Show HN: Construct Animate – our new browser-based animation tool](https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612)
 - [ChatGPT-Linux-Assistant](https://github.com/rareranger/chatgpt-linux-assistant)
-- [How to Beat Russia [pdf]](https://www.globsec.org/sites/default/files/2023-02/How%20to%20beat%20Russia%20by%20Nico%20Lange%20v7%20web.pdf)
 - [Appler: Apple ][ emulator for IBM PC, written in 8088 assembly](https://github.com/zajo/appler)
-- [Initial support for guided disk encryption in OpenBSD installer](https://undeadly.org/cgi?action=article;sid=20230308063109)
 <!-- BLOG-POST-LIST:END -->
 
 ---
