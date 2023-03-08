@@ -54,8 +54,8 @@
 - [“Forbidden-Word” Lists Are a Symptom of Administrative Bloat](https://www.jamesgmartin.center/2023/03/forbidden-word-lists-are-a-symptom-of-administrative-bloat/)
 - [Intel Continues with More Big-Time Optimizations to the Linux Kernel](https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up)
 - [Show HN: Construct Animate – our new browser-based animation tool](https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612)
+- [Cachix 1.3: Nix uploads unleashed](https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/)
 - [ChatGPT-Linux-Assistant](https://github.com/rareranger/chatgpt-linux-assistant)
-- [Appler: Apple ][ emulator for IBM PC, written in 8088 assembly](https://github.com/zajo/appler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
