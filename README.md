@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective altruism’s obsession with AI safety helps bury bad behavior](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried)
+- [Microsoft Designer](https://designer.microsoft.com/?hn)
+- [Internet Archive Gets DMCA Exemption to Help Archive Vintage Software &lpar;2003&rpar;](https://archive.org/about/dmca.php)
 - [How we deploy faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Sr PM &amp;#x2F; Designers &lpar;SF&amp;#x2F;Toronto&amp;#x2F;Remote&rpar;](https://getjerry.com/careers)
 - [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
-- [The decline of net neutrality activism](https://neelc.org/posts/net-neutrality-activism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
