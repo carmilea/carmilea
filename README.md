@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We deploy 5X faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
 - [Google Releases Paper on Embodied LLM &lpar;562b parameters&rpar;](https://palm-e.github.io/#demo)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Sr PM &amp;#x2F; Designers &lpar;SF&amp;#x2F;Toronto&amp;#x2F;Remote&rpar;](https://getjerry.com/careers)
 - [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
 - [The decline of net neutrality activism](https://neelc.org/posts/net-neutrality-activism/)
-- [Sued by Meta, Freenom halts domain registrations](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
