@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI chief says TikTok &amp;#x27;screams&amp;#x27; of US national security concerns](https://www.reuters.com/technology/fbi-chief-says-tiktok-screams-us-national-security-concerns-2023-03-08/)
+- [Overhead of Python Asyncio Tasks](https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/)
 - [I broke a wine glass with my voice &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=Oc27GxSD_bI)
+- [FTC bars GoodRx from sharing consumers’ sensitive health info for advertising](https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising)
 - [Show HN: CodeGPT.nvim – ChatGPT plugin for Neovim](https://github.com/dpayne/CodeGPT.nvim)
 - [The Registers of Rust](https://without.boats/blog/the-registers-of-rust/)
-- [Truck: CAD Kernel in Rust](https://github.com/ricosjp/truck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
