@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Initial support for guided disk encryption in OpenBSD installer](https://undeadly.org/cgi?action=article;sid=20230308063109)
+- [Fork of Facebook’s LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu)
 - [Microsoft Designer](https://designer.microsoft.com/?hn)
 - [Internet Archive gets DMCA exemption to help archive vintage software &lpar;2003&rpar;](https://archive.org/about/dmca.php)
 - [Effective Altruism’s obsession with AI safety helps bury bad behavior](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried)
-- [How we deploy faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Sr PM &amp;#x2F; Designers &lpar;SF&amp;#x2F;Toronto&amp;#x2F;Remote&rpar;](https://getjerry.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
