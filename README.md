@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: UpTrain &lpar;YC W23&rpar; – Open-source performance monitoring for ML models](https://news.ycombinator.com/item?id=35069839)
-- [AI is making it easier to create more noise, when all I want is good search](https://rachsmith.com/i-want-good-search/)
-- [The privacy loophole in your doorbell](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
-- [Vanilla OS 2.0 Shifting from Ubuntu Base to Debian Sid](https://www.phoronix.com/news/Vanilla-OS-2.0-Debian)
-- [PEP 709 – Inlined Comprehensions](https://peps.python.org/pep-0709/)
+- [Room-Temperature Superconductor Discovery Meets with Resistance](https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/)
+- [Google Groups has been left to die](https://ahelwer.ca/post/2023-03-08-google-groups/)
+- [Writeout.ai – Transcribe and translate any audio files. Free and open source](https://writeout.ai/)
+- [Governments should compete for residents, not businesses](https://www.bloomberg.com/opinion/articles/2023-03-07/amazon-hq2-pause-could-be-a-sign-of-a-new-era-for-development)
+- [Americans want to delete Instagram more than any other app](https://vpnoverview.com/privacy/apps/most-deleted-apps-in-united-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
