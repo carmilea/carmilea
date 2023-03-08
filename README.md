@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe Is Raising $6B to Resolve Employee Tax Issue](https://www.newcomer.co/p/scoop-stripe-is-raising-6-billion)
-- [Code coverage for Go integration tests](https://go.dev/blog/integration-test-coverage)
-- [Bing AI can play chess](https://twitter.com/zswitten/status/1631107663500304384)
-- [Show HN: BBC “In Our Time”, categorised by Dewey Decimal, heavy lifting by GPT](https://genmon.github.io/braggoscope/)
-- [Overhead of Python Asyncio Tasks](https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/)
+- [The Muse &lpar;YC W12&rpar; Is Hiring for a Director of FP&amp;amp;A](https://www.themuse.com/jobs/themuse/director-financial-planning-analysis)
+- [Silvergate Bank to Begin Voluntary Liquidation](https://dfpi.ca.gov/2023/03/08/dfpi-statement-silvergate-bank-to-begin-voluntary-liquidation/)
+- [International Women’s Day 2023: Embrace Equity](https://www.singlestore.com/blog/international-women-s-day-2023-embrace-equity/)
+- [Effortless Performance Improvements in C++: std:vector](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/)
+- [Full screen triangle optimization](https://30fps.net/pages/twotris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
