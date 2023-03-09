@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
+- [Show HN: APIRank.dev – we crawled and ranked 5651 public APIs from the Internet](https://apirank.dev/)
+- [JDK 20 and JDK 21: What We Know So Far](https://www.infoq.com/news/2023/03/java-20-so-far/)
+- [Flux Keyboard](https://fluxkeyboard.com/)
+- [Startup lender Silicon Valley Bank to sell stock to cope with cash burn](https://www.reuters.com/business/finance/silicon-valley-bank-sell-stock-cope-with-cash-burn-2023-03-09/)
 - [How Computer Vision Is Changing Manufacturing in 2023](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/)
-- [Launch HN: Second &lpar;YC W23&rpar; – AI bots that add features to web apps](https://news.ycombinator.com/item?id=35083093)
-- [How to brazenly steal $100B from Medicare and Medicaid](https://www.cnbc.com/2023/03/09/how-medicare-and-medicaid-fraud-became-a-100b-problem-for-the-us.html)
-- [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
