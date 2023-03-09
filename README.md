@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laptop Brands with GNU&amp;#x2F;Linux Preinstalled](https://floss.social/@ademalsasa/109597688986340391)
-- [US teachers grapple with a growing housing crisis: ‘We can’t afford rent’](https://www.theguardian.com/us-news/2023/mar/02/us-teachers-california-salary-disparities)
-- [Battery Free Gameboy](https://www.freethegameboy.info/)
-- [Control Mario Kart 64 with Your Car over Can Bus](https://github.com/DanH42/CatchMeIfYouCAN)
+- [Battery-free Game Boy](https://www.freethegameboy.info/)
+- [Control Mario Kart 64 with your car over CAN bus &lpar;2016&rpar;](https://github.com/DanH42/CatchMeIfYouCAN)
 - [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
+- [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
+- [Audio engineer explains NPR&amp;#x27;s signature sound &lpar;2015&rpar;](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
