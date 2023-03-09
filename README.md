@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 - [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
 - [OpenXLA Is Available Now](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
+- [Update to Kagi Search Pricing](https://blog.kagi.com/update-kagi-search-pricing)
 - [Battery-free Game Boy](https://www.freethegameboy.info/)
-- [Control Mario Kart 64 with your car over CAN bus &lpar;2016&rpar;](https://github.com/DanH42/CatchMeIfYouCAN)
-- [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
