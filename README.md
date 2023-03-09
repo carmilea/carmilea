@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
+- [Cobble_stone &lpar;The Texture of Your Childhood&rpar;](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
+- [Silicon Valley Bank’s shares are tanking as a mess unfolds](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
 - [U.S. solar and storage manufacturing jobs expected to grow to 115,000 by 2030](https://ieefa.org/articles/us-solar-and-storage-manufacturing-jobs-expected-grow-115000-2030)
 - [Bank Run at Silicon Valley Bank](https://twitter.com/howard/status/1633908101534367746)
-- [Announcing the SingleStoreDB Driver for the SQLTools VSCode Extension](https://www.singlestore.com/blog/announcing-the-singlestoredb-driver-for-the-sqltools-vscode-extension/)
-- [European Lisp Symposium 2023](https://www.european-lisp-symposium.org/2023/)
-- [Who’s Behind the NetWire Remote Access Trojan?](https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
