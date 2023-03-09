@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Kubernetes Operator](https://metalbear.co/blog/writing-a-kubernetes-operator/)
-- [Getting Past “Ampersand-Driven Development” in Rust](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust)
-- [DuckDuckGo Launches DuckAssist](https://spreadprivacy.com/duckassist-launch/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=35080416)
-- [Stylized Water Shader](https://alexanderameye.github.io/notes/stylized-water-shader/)
+- [Catholic group spent millions on app data that tracked gay priests](https://www.washingtonpost.com/dc-md-va/2023/03/09/catholics-gay-priests-grindr-data-bishops/)
+- [SUVs emitted more carbon dioxide last year than most countries](https://thebulletin.org/2023/03/suvs-emitted-more-carbon-dioxide-last-year-than-most-countries/#post-heading)
+- [There’s no such thing as a tree &lpar;phylogenetically&rpar;](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+- [Australia’s wildfires shredded the ozone layer – now scientists know why](https://www.nature.com/articles/d41586-023-00687-w)
+- [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
