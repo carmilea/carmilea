@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. solar and storage manufacturing jobs expected to grow to 115,000 by 2030](https://ieefa.org/articles/us-solar-and-storage-manufacturing-jobs-expected-grow-115000-2030)
+- [Bank Run at Silicon Valley Bank](https://twitter.com/howard/status/1633908101534367746)
+- [Announcing the SingleStoreDB Driver for the SQLTools VSCode Extension](https://www.singlestore.com/blog/announcing-the-singlestoredb-driver-for-the-sqltools-vscode-extension/)
 - [European Lisp Symposium 2023](https://www.european-lisp-symposium.org/2023/)
 - [Who’s Behind the NetWire Remote Access Trojan?](https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/)
-- [I am a model and I know that AI will eventually take my job &lpar;2020&rpar;](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
-- [It’s Not What You Say, It’s How You Say It: Encrypted Messaging as a DOJ Weapon](https://grandjurytarget.com/2023/02/28/its-not-what-you-say-its-how-you-say-it-encrypted-messaging-as-a-doj-weapon/)
-- [Taichi Lang](https://www.taichi-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
