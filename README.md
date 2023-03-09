@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Control Mario Kart 64 with Your Car over Can Bus](https://github.com/DanH42/CatchMeIfYouCAN)
 - [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
+- [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
 - [Audio Engineer Explains NPR&amp;#x27;s Signature Sound](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
-- [Tesla was likely on autopilot in deadly fire truck crash in Bay Area, feds say](https://www.sfgate.com/bayarea/article/tesla-autopilot-deadly-fire-truck-crash-17827415.php)
 - [Disclosure: Supervisor security vulnerability](https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/)
 <!-- BLOG-POST-LIST:END -->
 
