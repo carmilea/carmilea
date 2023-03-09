@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muse &lpar;YC W12&rpar; Is Hiring for a Director of FP&amp;amp;A](https://www.themuse.com/jobs/themuse/director-financial-planning-analysis)
-- [Silvergate Bank to Begin Voluntary Liquidation](https://dfpi.ca.gov/2023/03/08/dfpi-statement-silvergate-bank-to-begin-voluntary-liquidation/)
-- [International Women’s Day 2023: Embrace Equity](https://www.singlestore.com/blog/international-women-s-day-2023-embrace-equity/)
-- [Effortless Performance Improvements in C++: std:vector](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/)
-- [Full screen triangle optimization](https://30fps.net/pages/twotris/)
+- [Control Mario Kart 64 with Your Car over Can Bus](https://github.com/DanH42/CatchMeIfYouCAN)
+- [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
+- [Audio Engineer Explains NPR&amp;#x27;s Signature Sound](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
+- [Tesla was likely on autopilot in deadly fire truck crash in Bay Area, feds say](https://www.sfgate.com/bayarea/article/tesla-autopilot-deadly-fire-truck-crash-17827415.php)
+- [Disclosure: Supervisor security vulnerability](https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
