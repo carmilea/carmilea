@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who’s Behind the NetWire Remote Access Trojan?](https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/)
+- [Brave – copy clean link feature](https://support.brave.com/hc/en-us/articles/9982188779405-What-does-Copy-clean-link-mean-)
 - [Show HN: APIRank.dev – we crawled and ranked 5651 public APIs from the Internet](https://apirank.dev/)
 - [JDK 20 and JDK 21: What We Know So Far](https://www.infoq.com/news/2023/03/java-20-so-far/)
 - [Flux Keyboard](https://fluxkeyboard.com/)
-- [Startup lender Silicon Valley Bank to sell stock to cope with cash burn](https://www.reuters.com/business/finance/silicon-valley-bank-sell-stock-cope-with-cash-burn-2023-03-09/)
-- [How Computer Vision Is Changing Manufacturing in 2023](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
