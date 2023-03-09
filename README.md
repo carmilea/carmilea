@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Raspberry Pi Global Shutter Camera for Machine Vision and More](https://www.raspberrypi.com/news/new-raspberry-pi-global-shutter-camera/)
+- [Historic decline in IQ could stem from poor education, study shows](https://www.campusreform.org/article?id=21483)
+- [Letter to Pixar President Ed Catmull [pdf] &lpar;2004&rpar;](http://alvyray.com/Pixar/documents/edfromalvy_2004.pdf)
 - [Memfault &lpar;YC W19&rpar; is hiring a first product designer &lpar;Berlin&rpar;](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 - [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
 - [Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
-- [OpenXLA Is Available Now](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
