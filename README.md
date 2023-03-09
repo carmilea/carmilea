@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European Lisp Symposium 2023](https://www.european-lisp-symposium.org/2023/)
 - [Who’s Behind the NetWire Remote Access Trojan?](https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/)
-- [Brave – copy clean link feature](https://support.brave.com/hc/en-us/articles/9982188779405-What-does-Copy-clean-link-mean-)
-- [Show HN: APIRank.dev – we crawled and ranked 5651 public APIs from the Internet](https://apirank.dev/)
-- [JDK 20 and JDK 21: What We Know So Far](https://www.infoq.com/news/2023/03/java-20-so-far/)
-- [Flux Keyboard](https://fluxkeyboard.com/)
+- [I am a model and I know that AI will eventually take my job &lpar;2020&rpar;](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
+- [It’s Not What You Say, It’s How You Say It: Encrypted Messaging as a DOJ Weapon](https://grandjurytarget.com/2023/02/28/its-not-what-you-say-its-how-you-say-it-encrypted-messaging-as-a-doj-weapon/)
+- [Taichi Lang](https://www.taichi-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
