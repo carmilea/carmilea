@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Mental Health of Liberal Girls Sank First and Fastest](https://jonathanhaidt.substack.com/p/mental-health-liberal-girls)
-- [The False Promise of Chomskyism](https://scottaaronson.blog/?p=7094)
+- [Writing a Kubernetes Operator](https://metalbear.co/blog/writing-a-kubernetes-operator/)
+- [Getting Past “Ampersand-Driven Development” in Rust](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust)
+- [DuckDuckGo Launches DuckAssist](https://spreadprivacy.com/duckassist-launch/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=35080416)
-- [Letter to Pixar President Ed Catmull [pdf] &lpar;2004&rpar;](http://alvyray.com/Pixar/documents/edfromalvy_2004.pdf)
-- [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
+- [Stylized Water Shader](https://alexanderameye.github.io/notes/stylized-water-shader/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
