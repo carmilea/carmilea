@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
+- [OpenXLA Is Available Now](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
 - [Battery-free Game Boy](https://www.freethegameboy.info/)
 - [Control Mario Kart 64 with your car over CAN bus &lpar;2016&rpar;](https://github.com/DanH42/CatchMeIfYouCAN)
 - [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
-- [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
-- [Audio engineer explains NPR&amp;#x27;s signature sound &lpar;2015&rpar;](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
