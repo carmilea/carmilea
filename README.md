@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla puts a ‘dummy’ camera in its new vehicles](https://electrek.co/2023/03/09/tesla-dummy-camera-new-vehicles/)
+- [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
+- [VC firms are urging founders to pull money from troubled Silicon Valley Bank](https://www.semafor.com/article/03/09/2023/some-vc-firms-are-urging-founders-to-pull-money-from-troubled-silicon-valley-bank)
 - [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
 - [Cobble_stone &lpar;The Texture of Your Childhood&rpar;](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
-- [Silicon Valley Bank’s shares are tanking as a mess unfolds](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
-- [U.S. solar and storage manufacturing jobs expected to grow to 115,000 by 2030](https://ieefa.org/articles/us-solar-and-storage-manufacturing-jobs-expected-grow-115000-2030)
-- [Bank Run at Silicon Valley Bank](https://twitter.com/howard/status/1633908101534367746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
