@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
+- [How Computer Vision Is Changing Manufacturing in 2023](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/)
+- [Launch HN: Second &lpar;YC W23&rpar; – AI bots that add features to web apps](https://news.ycombinator.com/item?id=35083093)
+- [How to brazenly steal $100B from Medicare and Medicaid](https://www.cnbc.com/2023/03/09/how-medicare-and-medicaid-fraud-became-a-100b-problem-for-the-us.html)
 - [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
-- [The End of the Beginning &lpar;2020&rpar;](https://stratechery.com/2020/the-end-of-the-beginning/)
-- [Catholic group spent millions on app data that tracked gay priests](https://www.washingtonpost.com/dc-md-va/2023/03/09/catholics-gay-priests-grindr-data-bishops/)
-- [The Quest for Netflix on Asahi Linux](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html)
-- [WhatsApp would not remove end-to-end encryption for UK law, says chief](https://www.theguardian.com/technology/2023/mar/09/whatsapp-end-to-end-encryption-online-safety-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
