@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
+- [The End of the Beginning &lpar;2020&rpar;](https://stratechery.com/2020/the-end-of-the-beginning/)
 - [Catholic group spent millions on app data that tracked gay priests](https://www.washingtonpost.com/dc-md-va/2023/03/09/catholics-gay-priests-grindr-data-bishops/)
-- [SUVs emitted more carbon dioxide last year than most countries](https://thebulletin.org/2023/03/suvs-emitted-more-carbon-dioxide-last-year-than-most-countries/#post-heading)
-- [There’s no such thing as a tree &lpar;phylogenetically&rpar;](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
-- [Australia’s wildfires shredded the ozone layer – now scientists know why](https://www.nature.com/articles/d41586-023-00687-w)
-- [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html)
+- [The Quest for Netflix on Asahi Linux](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html)
+- [WhatsApp would not remove end-to-end encryption for UK law, says chief](https://www.theguardian.com/technology/2023/mar/09/whatsapp-end-to-end-encryption-online-safety-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
