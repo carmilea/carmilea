@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Computer Networks by Analogy](https://memo.mx/understanding-networks-by-analogy/)
-- [Building a city optimized for bikes is a choice](https://www.distilled.earth/p/how-the-netherlands-built-a-biking)
-- [How to Start a Rocket Engine](https://everydayastronaut.com/how-to-start-a-rocket-engine/)
-- [Curl 25 Years Online Celebration](https://daniel.haxx.se/blog/2023/03/10/curl-25-years-online-celebration/)
-- [These Shapes Are Topologically Equivalent](https://twitter.com/finmoorhouse/status/1633903047934918656)
+- [Were React Hooks a Mistake?](https://jakelazaroff.com/words/were-react-hooks-a-mistake/)
+- [Telehealth startup Cerebral shared millions of patients’ data with advertisers](https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/)
+- [Mullvad&amp;#x27;s campaign against EU chat control](https://mullvad.net/en/chatcontrol/campaign)
+- [SVB in talks to sell itself after attempts to raise capital fail](https://www.cnbc.com/2023/03/10/silicon-valley-bank-financial-in-talks-to-sell-itself-after-attempts-to-raise-capital-have-failed-sources-say.html)
+- [Ask HN: How is the SVB situation affecting your startup?](https://news.ycombinator.com/item?id=35094447)
 <!-- BLOG-POST-LIST:END -->
 
 ---
