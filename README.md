@@ -54,8 +54,8 @@
 - [Meta is building a decentralized, text-based social network](https://www.platformer.news/p/meta-is-building-a-decentralized)
 - [Secretive: Store SSH Keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
-- [Ask HN: What are you working on to become a better programmer?](https://news.ycombinator.com/item?id=35089996)
-- [Google dusts off the failed Google+ playbook to fight ChatGPT](https://arstechnica.com/gadgets/2023/03/google-dusts-off-the-failed-google-playbook-to-fight-chatgpt/)
+- [Show HN: I built an autopilot for the lunar lander game](https://szhu.github.io/lunar-lander-autopilot/)
+- [Google dusts off the Google+ playbook to fight ChatGPT](https://arstechnica.com/gadgets/2023/03/google-dusts-off-the-failed-google-playbook-to-fight-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
