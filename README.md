@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curl 25 Years Online Celebration](https://daniel.haxx.se/blog/2023/03/10/curl-25-years-online-celebration/)
 - [Carp lang: statically typed Lisp, no GC](https://www.eriksvedang.com/carp)
 - [How to Yubikey: A Configuration Cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
 - [GM offers buyouts to ‘majority’ of U.S. salaried workers](https://www.cnbc.com/2023/03/09/gm-buyouts-us-salaried-workers.html)
-- [SPA view transitions land in Chrome 111](https://developer.chrome.com/blog/spa-view-transitions-land/)
-- [OpenHV – Open-Source Pixelart Science-Fiction Real-Time-Strategy Game](https://www.openhv.net/)
+- [Sell-off in US bank stocks due to concerns over solvency of Silicon Valley Bank](https://www.afr.com/markets/equity-markets/asx-tumbles-2-3pc-major-banks-shares-fall-20230310-p5cr3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
