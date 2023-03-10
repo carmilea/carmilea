@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yyvette&amp;#x27;s Bridal](https://yvettesbridalformal.p1r8.net/)
 - [ChatGPT Is Now Finding Bugs in Databases](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
+- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
 - [Sigmoid Colon: The biologically inspired activation function](https://github.com/poopingface/sigmoidcolon)
 - [Internet Story &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=g-SL4ejpP94)
-- [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
-- [An Update on Dianna&amp;#x27;s Health &lpar;Physics Girl&rpar; [video]](https://www.youtube.com/watch?v=vydgkCCXbTA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
