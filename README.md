@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is building a decentralized, text-based social network](https://www.platformer.news/p/meta-is-building-a-decentralized)
+- [Secretive: Store SSH Keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
+- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
 - [Ask HN: What are you working on to become a better programmer?](https://news.ycombinator.com/item?id=35089996)
 - [Google dusts off the failed Google+ playbook to fight ChatGPT](https://arstechnica.com/gadgets/2023/03/google-dusts-off-the-failed-google-playbook-to-fight-chatgpt/)
-- [Yyvette&amp;#x27;s Bridal](https://yvettesbridalformal.p1r8.net/)
-- [ChatGPT Is Now Finding Bugs in Databases](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
-- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
