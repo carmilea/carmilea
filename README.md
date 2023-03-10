@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Audiences Grow Weary of Stories That Never End](https://tedgioia.substack.com/p/audiences-grow-weary-of-stories-that)
-- [Shane Pitman, leader of the warez group Razor 1911: life after prison &lpar;2005&rpar;](https://defacto2.net/f/ab3914)
-- [Microbiologist Investigates After Her Beef Soup Turned Blue in the Fridge](https://www.iflscience.com/microbiologist-investigates-after-her-beef-soup-turned-blue-in-the-freezer-67894)
-- [GPT 4 coming next week](https://www.theinsaneapp.com/2023/03/microsoft-to-launch-gpt4-next-week.html)
-- [Evidence of a predictive coding hierarchy in the human brain listening to speech](https://www.nature.com/articles/s41562-022-01516-2)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Growing crops under solar panels](https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels)
+- [30% of YC companies exposed through SVB can’t make payroll in the next 30 days](https://twitter.com/garrytan/status/1634286688922132481)
+- [How did Google go so wrong so quickly?](https://news.ycombinator.com/item?id=35100734)
+- [Nigeria is first African nation to ratify open banking operational regulations](https://philsiarri.substack.com/p/3-things-to-know-about-nigerias-open)
 <!-- BLOG-POST-LIST:END -->
 
 ---
