@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SPA view transitions land in Chrome 111](https://developer.chrome.com/blog/spa-view-transitions-land/)
 - [OpenHV – Open-Source Pixelart Science-Fiction Real-Time-Strategy Game](https://www.openhv.net/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35091322)
+- [“Someday, we&amp;#x27;re gonna feel pretty silly about our autocomplete worship”](https://pluralistic.net/2023/03/09/autocomplete-worshippers/#the-real-ai-was-the-corporations-that-we-fought-along-the-way)
 - [Zig: The Modern Alternative to C](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html)
-- [Nearly 40% of software engineers will only work remotely](https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely)
-- [Meta is building a decentralized, text-based social network](https://www.platformer.news/p/meta-is-building-a-decentralized)
 <!-- BLOG-POST-LIST:END -->
 
 ---
