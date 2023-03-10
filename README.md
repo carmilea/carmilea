@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [California Financial Regulator Takes Possession of Silicon Valley Bank](https://dfpi.ca.gov/2023/03/10/california-financial-regulator-takes-possession-of-silicon-valley-bank/)
-- [Silicon Valley Bank is shut down by regulators, FDIC to protect insured deposits](https://www.cnbc.com/2023/03/10/silicon-valley-bank-is-shut-down-by-regulators-fdic-to-protect-insured-deposits.html)
 - [FDIC Takes over Silicon Valley Bank](https://www.fdic.gov/news/press-releases/2023/pr23016.html)
 - [Oxy is Cloudflare&amp;#x27;s Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
+- [Apple and Foxconn win permission for 12-hour shifts for women in India](https://gadgettendency.com/apple-and-foxconn-win-permission-for-12-hour-shifts-and-night-shifts-for-women-at-iphone-production-in-india/)
+- [Launch HN: Defer &lpar;YC W23&rpar; – Zero-infrastructure background jobs for Node.js](https://news.ycombinator.com/item?id=35096366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
