@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla puts a ‘dummy’ camera in its new vehicles](https://electrek.co/2023/03/09/tesla-dummy-camera-new-vehicles/)
+- [ChatGPT Is Now Finding Bugs in Databases](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
+- [Sigmoid Colon: The biologically inspired activation function](https://github.com/poopingface/sigmoidcolon)
+- [Internet Story &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=g-SL4ejpP94)
 - [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
-- [VC firms are urging founders to pull money from troubled Silicon Valley Bank](https://www.semafor.com/article/03/09/2023/some-vc-firms-are-urging-founders-to-pull-money-from-troubled-silicon-valley-bank)
-- [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
-- [Cobble_stone &lpar;The Texture of Your Childhood&rpar;](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
+- [An Update on Dianna&amp;#x27;s Health &lpar;Physics Girl&rpar; [video]](https://www.youtube.com/watch?v=vydgkCCXbTA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
