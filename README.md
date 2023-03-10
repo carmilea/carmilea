@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More than $70B wiped off crypto market in 24 hours as BTC drops 8% below $20K](https://www.cnbc.com/2023/03/10/bitcoin-falls-below-20000-63-billion-wiped-off-cryptocurrency-market.html)
+- [How to Start a Rocket Engine](https://everydayastronaut.com/how-to-start-a-rocket-engine/)
 - [Curl 25 Years Online Celebration](https://daniel.haxx.se/blog/2023/03/10/curl-25-years-online-celebration/)
+- [These Shapes Are Topologically Equivalent](https://twitter.com/finmoorhouse/status/1633903047934918656)
 - [Carp lang: statically typed Lisp, no GC](https://www.eriksvedang.com/carp)
-- [How to Yubikey: A Configuration Cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
-- [GM offers buyouts to ‘majority’ of U.S. salaried workers](https://www.cnbc.com/2023/03/09/gm-buyouts-us-salaried-workers.html)
-- [Sell-off in US bank stocks due to concerns over solvency of Silicon Valley Bank](https://www.afr.com/markets/equity-markets/asx-tumbles-2-3pc-major-banks-shares-fall-20230310-p5cr3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
