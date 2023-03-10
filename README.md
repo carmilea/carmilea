@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence of a predictive coding hierarchy in the human brain listening to speech](https://www.nature.com/articles/s41562-022-01516-2)
+- [The Demise of Silicon Valley Bank](https://www.netinterest.co/p/the-demise-of-silicon-valley-bank)
 - [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [FDIC Takes over Silicon Valley Bank](https://www.fdic.gov/news/press-releases/2023/pr23016.html)
 - [Oxy is Cloudflare&amp;#x27;s Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
-- [Apple and Foxconn win permission for 12-hour shifts for women in India](https://gadgettendency.com/apple-and-foxconn-win-permission-for-12-hour-shifts-and-night-shifts-for-women-at-iphone-production-in-india/)
-- [Launch HN: Defer &lpar;YC W23&rpar; – Zero-infrastructure background jobs for Node.js](https://news.ycombinator.com/item?id=35096366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
