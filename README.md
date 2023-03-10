@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Parent Plans New Job Cuts That Could Match Last Year’s Tally](https://www.wsj.com/articles/facebook-parent-plans-new-job-cuts-that-could-match-last-years-tally-2d5b256c)
 - [Mistakes I Made as an Engineer, but Had to Become a Manager to See](https://www.developing.dev/p/3-mistakes-i-made-as-an-engineer)
 - [The Collapse of SVB Exposes the Largest Crack in the Economy](http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy)
+- [Discovering one bug after another in the UTF-8 decoding logic in OpenBSD](https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Growing crops under solar panels](https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels)
-- [30% of YC companies exposed through SVB can’t make payroll in the next 30 days](https://twitter.com/garrytan/status/1634286688922132481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
