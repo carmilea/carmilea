@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Building a city optimized for bikes is a choice](https://www.distilled.earth/p/how-the-netherlands-built-a-biking)
 - [Common Mac OS X Cursors](https://tobiasahlin.com/blog/common-mac-os-x-lion-cursors/)
-- [Ask HN: Is there anyone here making music?](https://news.ycombinator.com/item?id=35092674)
 - [How to Start a Rocket Engine](https://everydayastronaut.com/how-to-start-a-rocket-engine/)
 - [Curl 25 Years Online Celebration](https://daniel.haxx.se/blog/2023/03/10/curl-25-years-online-celebration/)
+- [These Shapes Are Topologically Equivalent](https://twitter.com/finmoorhouse/status/1633903047934918656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
