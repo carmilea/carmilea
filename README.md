@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistakes I Made as an Engineer, but Had to Become a Manager to See](https://www.developing.dev/p/3-mistakes-i-made-as-an-engineer)
+- [The Collapse of SVB Exposes the Largest Crack in the Economy](http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Growing crops under solar panels](https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels)
 - [30% of YC companies exposed through SVB can’t make payroll in the next 30 days](https://twitter.com/garrytan/status/1634286688922132481)
-- [How did Google go so wrong so quickly?](https://news.ycombinator.com/item?id=35100734)
-- [Nigeria is first African nation to ratify open banking operational regulations](https://philsiarri.substack.com/p/3-things-to-know-about-nigerias-open)
 <!-- BLOG-POST-LIST:END -->
 
 ---
