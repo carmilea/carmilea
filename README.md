@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Were React Hooks a Mistake?](https://jakelazaroff.com/words/were-react-hooks-a-mistake/)
-- [Telehealth startup Cerebral shared millions of patients’ data with advertisers](https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/)
-- [Mullvad&amp;#x27;s campaign against EU chat control](https://mullvad.net/en/chatcontrol/campaign)
-- [SVB in talks to sell itself after attempts to raise capital fail](https://www.cnbc.com/2023/03/10/silicon-valley-bank-financial-in-talks-to-sell-itself-after-attempts-to-raise-capital-have-failed-sources-say.html)
-- [Ask HN: How is the SVB situation affecting your startup?](https://news.ycombinator.com/item?id=35094447)
+- [Launch HN: Defer &lpar;YC W23&rpar; – Zero-infrastructure background jobs for Node.js](https://news.ycombinator.com/item?id=35096366)
+- [BBC will not broadcast Attenborough episode over fear of rightwing backlash](https://www.theguardian.com/media/2023/mar/10/david-attenborough-bbc-wild-isles-episode-rightwing-backlash-fears)
+- [A rant on web font licenses](https://manuelmoreale.com/a-rant-on-web-font-licenses)
+- [Privatizing Our Digital Identities](https://notes.volution.ro/v1/2023/03/remarks/6d51f70e/)
+- [Smartphones and social media are destroying children’s mental health](https://www.ft.com/content/0e2f6f8e-bb03-4fa7-8864-f48f576167d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
