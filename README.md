@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Defer &lpar;YC W23&rpar; – Zero-infrastructure background jobs for Node.js](https://news.ycombinator.com/item?id=35096366)
-- [BBC will not broadcast Attenborough episode over fear of rightwing backlash](https://www.theguardian.com/media/2023/mar/10/david-attenborough-bbc-wild-isles-episode-rightwing-backlash-fears)
-- [A rant on web font licenses](https://manuelmoreale.com/a-rant-on-web-font-licenses)
-- [Privatizing Our Digital Identities](https://notes.volution.ro/v1/2023/03/remarks/6d51f70e/)
-- [Smartphones and social media are destroying children’s mental health](https://www.ft.com/content/0e2f6f8e-bb03-4fa7-8864-f48f576167d2)
+- [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- [California Financial Regulator Takes Possession of Silicon Valley Bank](https://dfpi.ca.gov/2023/03/10/california-financial-regulator-takes-possession-of-silicon-valley-bank/)
+- [Silicon Valley Bank is shut down by regulators, FDIC to protect insured deposits](https://www.cnbc.com/2023/03/10/silicon-valley-bank-is-shut-down-by-regulators-fdic-to-protect-insured-deposits.html)
+- [FDIC Takes over Silicon Valley Bank](https://www.fdic.gov/news/press-releases/2023/pr23016.html)
+- [Oxy is Cloudflare&amp;#x27;s Rust-based next generation proxy framework](https://blog.cloudflare.com/introducing-oxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
