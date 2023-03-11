@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Circle has $3.3B of USDC’s $40B reserves still at SVB](https://twitter.com/circle/status/1634391505988206592)
+- [Wells Fargo clients report missing deposits as bank works on fix](https://www.thinkadvisor.com/2023/03/10/wells-fargo-clients-report-missing-deposits-as-bank-works-on-fix/)
+- [Silicon Valley Bank&amp;#x27;s Chief Risk Officer Joined 2 Months Ago](https://www.svb.com/news/company-news/svb-hires-kim-olson-as-chief-risk-officer)
 - [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
 - [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &amp;gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
-- [CEO of failed Silicon Valley Bank no longer a director at SF Fed](https://www.reuters.com/markets/us/ceo-failed-silicon-valley-bank-no-longer-director-sf-fed-2023-03-10/)
-- [Roku discloses it has $487 million in deposits at failed Silicon Valley Bank.](https://www.businessinsider.com/roku-held-one-quarter-of-cash-at-silicon-valley-bank-2023-3)
-- [Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
