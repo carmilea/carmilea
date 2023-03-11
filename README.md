@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung “space zoom” moon shots are fake, and here is the proof](https://old.reddit.com/r/Android/comments/11nzrb0/samsung_space_zoom_moon_shots_are_fake_and_here/)
 - [Paperspace &lpar;YC W15&rpar; is hiring to help developers build and run LLMs](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
 - [Box64 – Linux Userspace x86_64 Emulator Targeted at ARM64 Linux Devices](https://github.com/ptitSeb/box64)
-- [SVBUK Taken in to Insolvency](https://www.bankofengland.co.uk/news/2023/march/boe-statement-silicon-valley-bank-uk)
+- [Silicon Valley Bank Fails, How Bad Will the Fallout Be?](https://www.nakedcapitalism.com/2023/03/silicon-valley-bank-fails-with-deposits-of-many-venture-backed-companies-frozen-how-bad-will-the-fallout-be.html)
 - [A man says he accidentally unlocked and drove someone else’s Tesla using the app](https://globalnews.ca/news/9541040/bc-tesla-driving-wrong-car-app/)
-- [A SVB short seller explains red flags he saw months ago](https://fortune.com/2023/03/10/silicon-valley-bank-short-seller-red-flags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
