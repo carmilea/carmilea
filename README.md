@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
 - [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
 - [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
 - [Not just SVB. There have been 562 bank failures since 2000](https://yarn.pranshum.com/banks)
 - [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
-- [Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
