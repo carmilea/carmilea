@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [See the First Complete Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
-- [Did Air Pollution Influence Famous Impressionist Painters?](https://www.smithsonianmag.com/smart-news/air-pollution-impressionist-painters-monet-turner-180981710/)
-- [People with A.D.H.D. Claim Adderall Is ‘Different’ Now. What’s Going On?](https://www.nytimes.com/2023/03/09/well/live/adhd-adderall-shortage.html)
-- [ChatGPT&amp;#x27;s API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
-- [Ivy League Schools Sure Look Like a Cartel](https://www.bloomberg.com/opinion/articles/2023-03-11/ivy-league-athletic-scholarship-lawsuit-exposes-cartel-like-behavior)
+- [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
+- [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
+- [Not just SVB. There have been 562 bank failures since 2000](https://yarn.pranshum.com/banks)
+- [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
+- [Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
