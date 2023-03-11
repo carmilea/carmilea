@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What does Silicon Valley Bank’s collapse mean for the financial system?](https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system)
-- [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
-- [Saving 4M books from landfill](http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/)
-- [Emergency bridge loan for SVB customers](https://www.brex.com/svb-emergency-line)
-- [Report from the California Department of Financial Protection on SVB [pdf]](https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf)
+- [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
+- [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &amp;gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
+- [GPT-4 will arrive next week and will be multimodal](https://www.gearrice.com/update/gpt-4-will-arrive-next-week-and-will-be-multimodal/)
+- [CEO of failed Silicon Valley Bank no longer a director at SF Fed](https://www.reuters.com/markets/us/ceo-failed-silicon-valley-bank-no-longer-director-sf-fed-2023-03-10/)
+- [Roku discloses it has $487 million in deposits at failed Silicon Valley Bank.](https://www.businessinsider.com/roku-held-one-quarter-of-cash-at-silicon-valley-bank-2023-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
