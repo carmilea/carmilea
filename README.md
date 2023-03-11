@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“Clean Code, Horrible Performance” Discussion](https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md)
-- [ChatGPT Created Polymorphic Malware](https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware)
 - [A SVB short seller explains red flags he saw months ago](https://fortune.com/2023/03/10/silicon-valley-bank-short-seller-red-flags/)
 - [Arnold Schwarzenegger’s Last Act](https://www.theatlantic.com/magazine/archive/2023/04/arnold-schwarzenegger-ukraine-covid-speech/673089/)
 - [Coinbase suspending USDC:USD conversions over the weekend](https://twitter.com/coinbase/status/1634399032767307776)
+- [$3.3B of the ~$40 billion of USDC reserves remain at SVB](https://twitter.com/circle/status/1634391505988206592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
