@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Crafty Logic That Accompanies Dementia](https://www.theatlantic.com/health/archive/2023/03/dementia-caregiver-imposter-delusion-paranoia/673308/)
-- [IHP open source 130 nm BiCMOS PDK with 500 GHz fmax transistors](https://github.com/IHP-GmbH/IHP-Open-PDK)
-- [Samsung “space zoom” moon shots are fake, and here is the proof](https://old.reddit.com/r/Android/comments/11nzrb0/samsung_space_zoom_moon_shots_are_fake_and_here/)
-- [Paperspace &lpar;YC W15&rpar; is hiring to help developers build and run LLMs](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
-- [Box64 – Linux Userspace x86_64 Emulator Targeted at ARM64 Linux Devices](https://github.com/ptitSeb/box64)
+- [Before the collapse of Silicon Valley Bank,executives sold a lot of their shares](https://twitter.com/unusual_whales/status/1634555021487480834)
+- [SVB Chief Pressed Lawmakers to Weaken Bank Risk Regulations](https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/)
+- [USDC depegs as Circle confirms $3.3B stuck with Silicon Valley Bank](https://cointelegraph.com/news/usdc-depegs-as-circle-confirms-3-3b-stuck-with-silicon-valley-bank)
+- [Startups that use Silicon Valley Bank are freaking out over payroll](https://www.businessinsider.com/startups-silicon-valley-bank-worried-wont-pay-employees-next-week-2023-3)
+- [Founders fund pulls money before SVB collapses](https://www.bloomberg.com/news/articles/2023-03-11/thiel-s-founders-fund-withdrew-millions-from-silicon-valley-bank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
