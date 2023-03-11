@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: That happens to T-Bills when the Goverment locks up over debt ceiling?](https://news.ycombinator.com/item?id=35110876)
-- [Acard ANS-9010B 5.25-inch SATA x1-to-6-slot DDR2 RAM Disk &lpar;Deactivated&rpar;](http://www.scsi4me.com/acard-ans-9010b-ram-disk.html)
-- [Show HN: Browse and Generate AI Memes for Free](https://meme.koll.ai)
-- [SVB Financial: Blow Up Risk &lpar;2022&rpar;](https://seekingalpha.com/article/4565388-svb-financial-blow-up-risk)
-- [Show HN: Find the most climate friendly meeting location](https://www.meetinglocationcalculator.com)
+- [See the First Complete Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
+- [Did Air Pollution Influence Famous Impressionist Painters?](https://www.smithsonianmag.com/smart-news/air-pollution-impressionist-painters-monet-turner-180981710/)
+- [People with A.D.H.D. Claim Adderall Is ‘Different’ Now. What’s Going On?](https://www.nytimes.com/2023/03/09/well/live/adhd-adderall-shortage.html)
+- [ChatGPT&amp;#x27;s API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
+- [Ivy League Schools Sure Look Like a Cartel](https://www.bloomberg.com/opinion/articles/2023-03-11/ivy-league-athletic-scholarship-lawsuit-exposes-cartel-like-behavior)
 <!-- BLOG-POST-LIST:END -->
 
 ---
