@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; is hiring AI engineers](http://patterns.app/)
+- [Brazil seizing Flipper Zero shipments to prevent use in crime](https://www.bleepingcomputer.com/news/security/brazil-seizing-flipper-zero-shipments-to-prevent-use-in-crime/)
+- [Why I Use Old Hardware](https://drewdevault.com/2019/01/23/Why-I-use-old-hardware.html)
 - [How to Insure Your Money When You’re Banking over $250K](https://www.nerdwallet.com/article/banking/how-to-insure-your-money-when-youre-banking-over-250k)
-- [Bill Ackman: The gov&amp;#x27;t has about 48h to fix a-soon-to-be-irreversible mistake](https://twitter.com/BillAckman/status/1634564398919368704)
-- [Permanent daylight saving time? Where efforts to ‘lock the clocks’ stand](https://thehill.com/homenews/nexstar_media_wire/3886702-permanent-daylight-saving-time-where-efforts-to-lock-the-clocks-stand/)
-- [Write Posix Shell](https://j3s.sh/thought/write-posix-shell.html)
-- [SVB chief pressed lawmakers to weaken bank risk regulations](https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/)
+- [Ask HN: Use RAM sticks as SATA drives](https://news.ycombinator.com/item?id=35109259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
