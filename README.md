@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Parent Plans New Job Cuts That Could Match Last Year’s Tally](https://www.wsj.com/articles/facebook-parent-plans-new-job-cuts-that-could-match-last-years-tally-2d5b256c)
-- [Mistakes I Made as an Engineer, but Had to Become a Manager to See](https://www.developing.dev/p/3-mistakes-i-made-as-an-engineer)
-- [The Collapse of SVB Exposes the Largest Crack in the Economy](http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy)
-- [Discovering one bug after another in the UTF-8 decoding logic in OpenBSD](https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [What does Silicon Valley Bank’s collapse mean for the financial system?](https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system)
+- [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
+- [Saving 4M books from landfill](http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/)
+- [Emergency bridge loan for SVB customers](https://www.brex.com/svb-emergency-line)
+- [Report from the California Department of Financial Protection on SVB [pdf]](https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
