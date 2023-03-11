@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Before the collapse of Silicon Valley Bank,executives sold a lot of their shares](https://twitter.com/unusual_whales/status/1634555021487480834)
-- [SVB Chief Pressed Lawmakers to Weaken Bank Risk Regulations](https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/)
-- [USDC depegs as Circle confirms $3.3B stuck with Silicon Valley Bank](https://cointelegraph.com/news/usdc-depegs-as-circle-confirms-3-3b-stuck-with-silicon-valley-bank)
-- [Startups that use Silicon Valley Bank are freaking out over payroll](https://www.businessinsider.com/startups-silicon-valley-bank-worried-wont-pay-employees-next-week-2023-3)
-- [Founders fund pulls money before SVB collapses](https://www.bloomberg.com/news/articles/2023-03-11/thiel-s-founders-fund-withdrew-millions-from-silicon-valley-bank)
+- [How to Insure Your Money When You’re Banking over $250K](https://www.nerdwallet.com/article/banking/how-to-insure-your-money-when-youre-banking-over-250k)
+- [Bill Ackman: The gov&amp;#x27;t has about 48h to fix a-soon-to-be-irreversible mistake](https://twitter.com/BillAckman/status/1634564398919368704)
+- [Permanent daylight saving time? Where efforts to ‘lock the clocks’ stand](https://thehill.com/homenews/nexstar_media_wire/3886702-permanent-daylight-saving-time-where-efforts-to-lock-the-clocks-stand/)
+- [Write Posix Shell](https://j3s.sh/thought/write-posix-shell.html)
+- [SVB chief pressed lawmakers to weaken bank risk regulations](https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
