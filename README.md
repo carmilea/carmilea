@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unusual Options Activity Detected for First Republic Bank](https://beststocks.com/unusual-options-activity-detected-for-first-r/)
+- [Status page for SVB payment systems](https://www.moderntreasury.com/svb-resource-center)
+- [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
 - [Silicon Valley Bank paid out bonuses hours before seizure](https://www.axios.com/2023/03/11/silicon-valley-bank-paid-bonuses-fdic)
 - [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
-- [A Bank of One&amp;#x27;s Own](https://nayafia.substack.com/p/a-bank-of-ones-own)
-- [The Machinery of Freedom by David Friedman [pdf]](http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf)
-- [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
