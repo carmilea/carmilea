@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Bank paid out bonuses hours before seizure](https://www.axios.com/2023/03/11/silicon-valley-bank-paid-bonuses-fdic)
 - [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
+- [A Bank of One&amp;#x27;s Own](https://nayafia.substack.com/p/a-bank-of-ones-own)
+- [The Machinery of Freedom by David Friedman [pdf]](http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf)
 - [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
-- [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
-- [Not just SVB. There have been 562 bank failures since 2000](https://yarn.pranshum.com/banks)
-- [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
