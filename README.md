@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
 - [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &amp;gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
-- [GPT-4 will arrive next week and will be multimodal](https://www.gearrice.com/update/gpt-4-will-arrive-next-week-and-will-be-multimodal/)
 - [CEO of failed Silicon Valley Bank no longer a director at SF Fed](https://www.reuters.com/markets/us/ceo-failed-silicon-valley-bank-no-longer-director-sf-fed-2023-03-10/)
 - [Roku discloses it has $487 million in deposits at failed Silicon Valley Bank.](https://www.businessinsider.com/roku-held-one-quarter-of-cash-at-silicon-valley-bank-2023-3)
+- [Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
