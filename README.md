@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar; is hiring AI engineers](http://patterns.app/)
-- [Brazil seizing Flipper Zero shipments to prevent use in crime](https://www.bleepingcomputer.com/news/security/brazil-seizing-flipper-zero-shipments-to-prevent-use-in-crime/)
-- [Why I Use Old Hardware](https://drewdevault.com/2019/01/23/Why-I-use-old-hardware.html)
-- [How to Insure Your Money When You’re Banking over $250K](https://www.nerdwallet.com/article/banking/how-to-insure-your-money-when-youre-banking-over-250k)
-- [Ask HN: Use RAM sticks as SATA drives](https://news.ycombinator.com/item?id=35109259)
+- [Ask HN: That happens to T-Bills when the Goverment locks up over debt ceiling?](https://news.ycombinator.com/item?id=35110876)
+- [Acard ANS-9010B 5.25-inch SATA x1-to-6-slot DDR2 RAM Disk &lpar;Deactivated&rpar;](http://www.scsi4me.com/acard-ans-9010b-ram-disk.html)
+- [Show HN: Browse and Generate AI Memes for Free](https://meme.koll.ai)
+- [SVB Financial: Blow Up Risk &lpar;2022&rpar;](https://seekingalpha.com/article/4565388-svb-financial-blow-up-risk)
+- [Show HN: Find the most climate friendly meeting location](https://www.meetinglocationcalculator.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
