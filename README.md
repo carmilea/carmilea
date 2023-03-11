@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Circle has $3.3B of USDC’s $40B reserves still at SVB](https://twitter.com/circle/status/1634391505988206592)
+- [A SVB short seller explains red flags he saw months ago](https://fortune.com/2023/03/10/silicon-valley-bank-short-seller-red-flags/)
+- [Coinbase suspending USDC:USD conversions over the weekend](https://twitter.com/coinbase/status/1634399032767307776)
+- [$3.3B of the ~$40 billion of USDC reserves remain at SVB](https://twitter.com/circle/status/1634391505988206592)
 - [Wells Fargo clients report missing deposits as bank works on fix](https://www.thinkadvisor.com/2023/03/10/wells-fargo-clients-report-missing-deposits-as-bank-works-on-fix/)
-- [Silicon Valley Bank&amp;#x27;s Chief Risk Officer Joined 2 Months Ago](https://www.svb.com/news/company-news/svb-hires-kim-olson-as-chief-risk-officer)
-- [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
-- [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &amp;gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
+- [SVB depositors, investors tried to pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
