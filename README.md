@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
 - [Meta Rediscovers the Cubicle](https://calnewport.com/meta-rediscovers-the-cubicle/)
 - [Fabergé Egg](https://en.wikipedia.org/wiki/Faberg%C3%A9_egg)
+- [Caricaturing Noam Chomsky](https://garymarcus.substack.com/p/caricaturing-noam-chomsky)
 - [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
-- [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
-- [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
