@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise and fall of Birchbox, the startup valued at nearly $500M has&amp;#x27;vanished&amp;#x27;](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
 - [FDIC – SVB FAQ](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
+- [SVB lobbied the government to relax some Dodd-Frank provisions](https://fortune.com/2023/03/11/silicon-valley-bank-svb-ceo-greg-becker-dodd-frank-trump-rollback-systemically-important-fdic/)
 - [Ask HN: V2 – Laid off folks, are you getting hired yet?](https://news.ycombinator.com/item?id=35115862)
-- [Big Business’s relentless push to equate the free market with freedom](https://www.washingtonpost.com/books/2023/03/10/big-myth-business-oreskes-conway/)
-- [Mechanical aircraft weight and balance computer using whippletrees](https://www.airwaysmuseum.com/Librascope.htm)
-- [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
+- [Secret Colours of the Commodore 64](https://www.aaronbell.com/secret-colours-of-the-commodore-64/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
