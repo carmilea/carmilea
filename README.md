@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDIC onsite at First Republic Bank tonight](https://twitter.com/mikealfred/status/1634783756656492544)
+- [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
+- [Keith Rabois &lpar;PayPal Boss&rpar;: Google over-hired talent to do ‘fake work’](https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html)
 - [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
 - [The rise and fall of Birchbox, the startup valued at nearly $500M has vanished](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
-- [An open-source database of companies affected &lpar;or not&rpar; by the collapse of SVB](https://affectedbysvbornot.com/)
-- [FDIC – SVB FAQ](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
-- [SVB lobbied the government to relax some Dodd-Frank provisions](https://fortune.com/2023/03/11/silicon-valley-bank-svb-ceo-greg-becker-dodd-frank-trump-rollback-systemically-important-fdic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
