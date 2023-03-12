@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Rediscovers the Cubicle](https://calnewport.com/meta-rediscovers-the-cubicle/)
+- [Fabergé Egg](https://en.wikipedia.org/wiki/Faberg%C3%A9_egg)
 - [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
 - [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
 - [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
-- [The rise and fall of Birchbox, the startup valued at nearly $500M has vanished](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
-- [What are the demographics of stars visible to the naked eye?](https://physics.stackexchange.com/questions/79954/what-are-the-demographics-of-stars-visible-to-the-naked-eye/105509#105509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
