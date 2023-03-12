@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&amp;#x27;t Share Java FileChannels](https://pkolaczk.github.io/dont-share-file-channels/)
+- [OpenAI CEO Sam Altman sent startup six-figure loan after SVB collapse](https://www.businessinsider.com/sam-altman-sent-money-support-startup-payroll-svb-collapse-report-2023-3)
 - [Credit Unions](https://en.wikipedia.org/wiki/Credit_union)
-- [Fed and FDIC discussing backstop to make SVB depositors whole, stem contagion](https://www.cnbc.com/2023/03/12/fed-fdic-discussing-backstop-to-make-svb-depositors-whole-and-stem-contagion-fears-source.html)
-- [Why So Many Elites Feel Like Losers](https://www.persuasion.community/p/why-so-many-elites-feel-like-losers)
 - [Nushell.sh ls | where size &amp;gt; 10mb | sort-by modified](https://www.nushell.sh/)
 - [Reverse-engineering the register codes for the 8086 processor&amp;#x27;s microcode](http://www.righto.com/2023/03/8086-register-codes.html)
 <!-- BLOG-POST-LIST:END -->
