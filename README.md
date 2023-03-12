@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDIC onsite at First Republic Bank tonight](https://twitter.com/mikealfred/status/1634783756656492544)
+- [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
 - [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
-- [Keith Rabois &lpar;PayPal Boss&rpar;: Google over-hired talent to do ‘fake work’](https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html)
+- [Google over-hired talent to do ‘fake work’, claims Keith Rabois](https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html)
 - [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
 - [The rise and fall of Birchbox, the startup valued at nearly $500M has vanished](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
 <!-- BLOG-POST-LIST:END -->
