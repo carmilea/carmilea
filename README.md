@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yellen says no federal bailout for Silicon Valley Bank](https://apnews.com/article/silicon-valley-bank-bailout-yellen-deposits-failure-94f2185742981daf337c4691bbb9ec1e)
+- [All travelers to the UK will need pre-authorization by 2025](https://www.cnbc.com/2023/03/09/all-travelers-to-the-uk-will-need-digital-pre-authorization-from-2024.html)
+- [So you want to turn an office building into a home?](https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html)
 - [Bacteria hijack a meningeal neuroimmune axis to facilitate brain invasion](https://www.nature.com/articles/s41586-023-05753-x)
 - [Yellen says government will help SVB depositors but rules out bailout](https://www.ft.com/content/6a77d81b-7376-4ccf-80a2-3336af04d04b?shareType=nongift)
 - [Show HN: Terminal Based Wikipedia](https://github.com/yashsinghcodes/wik)
-- [Milk, cheese and ice cream without the cow has entered the marketplace](https://www.washingtonpost.com/business/2023/03/12/precision-cultivated-dairy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
