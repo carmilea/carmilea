@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unusual Options Activity Detected for First Republic Bank](https://beststocks.com/unusual-options-activity-detected-for-first-r/)
+- [US Discusses Fund to Backstop Deposits If More Banks Fail](https://www.bloomberg.com/news/articles/2023-03-12/us-discusses-fund-to-backstop-deposits-if-more-banks-fail)
+- [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
 - [Status page for SVB payment systems](https://www.moderntreasury.com/svb-resource-center)
+- [OldLinux: Ancient Linux Resources](http://www.oldlinux.org/)
 - [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
-- [Silicon Valley Bank paid out bonuses hours before seizure](https://www.axios.com/2023/03/11/silicon-valley-bank-paid-bonuses-fdic)
-- [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
