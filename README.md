@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using LLaMA with M1 Mac and Python 3.11](https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/)
+- [SVB Used Former McCarthy Staffers to Weaken Regulations, Lobby FDIC](https://theintercept.com/2023/03/11/silicon-valley-bank-used-former-mccarthy-staffers-to-weaken-regulations-lobby-fdic/)
 - [FDIC Auction for SVB Said to Be Underway, Final Bids Due Sunday](https://www.bloomberg.com/news/articles/2023-03-12/fdic-auction-for-svb-said-to-be-underway-final-bids-due-sunday)
+- [“Healthy obesity” doesn’t exist. It is unequivocally bad for you](https://bigthink.com/health/healthy-obesity-myth/)
 - [20hrs on a Qantas plane: the future of aviation or a fresh hell in economy?](https://www.theguardian.com/world/2023/mar/12/twenty-hours-on-a-qantas-plane-is-this-the-future-of-aviation-or-a-fresh-hell-in-economy)
-- [Automatic Image Mining](https://blog.qwertyforce.dev/posts/automatic_image_mining)
-- [Ask HN: Do you think ML model weights are copyrightable?](https://news.ycombinator.com/item?id=35121093)
-- [Ask HN: Why is the hunger for RAM never satisfied?](https://news.ycombinator.com/item?id=35121012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
