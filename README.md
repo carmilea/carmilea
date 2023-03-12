@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
 - [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
-- [Google over-hired talent to do ‘fake work’, claims Keith Rabois](https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html)
 - [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
 - [The rise and fall of Birchbox, the startup valued at nearly $500M has vanished](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
+- [What are the demographics of stars visible to the naked eye?](https://physics.stackexchange.com/questions/79954/what-are-the-demographics-of-stars-visible-to-the-naked-eye/105509#105509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
