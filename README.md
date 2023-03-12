@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Milk, cheese and ice cream without the cow has entered the marketplace](https://www.washingtonpost.com/business/2023/03/12/precision-cultivated-dairy/)
+- [PeopleDAO “exploited” by Google Docs edit](https://twitter.com/The_PeopleDAO/status/1634518915668668416)
+- [Pgrok – Poor Man’s Ngrok](https://github.com/pgrok/pgrok)
 - [Vivaldi co-founder: Advertisers &amp;#x27;stole the internet from us&amp;#x27;](https://www.xda-developers.com/co-founder-vivaldi-interview-mwc-2023/)
-- [SVB chief pressed Congress to weaken risk regulations](https://www.theguardian.com/business/2023/mar/11/silicon-valley-bank-weaken-risk-regulations-svb)
-- [Ask HN: How to Classify Websites?](https://news.ycombinator.com/item?id=35118831)
 - [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
-- [Meta Rediscovers the Cubicle](https://calnewport.com/meta-rediscovers-the-cubicle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
