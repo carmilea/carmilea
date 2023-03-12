@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDIC – SVB FAQ](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
+- [Ask HN: V2 – Laid off folks, are you getting hired yet?](https://news.ycombinator.com/item?id=35115862)
+- [Big Business’s relentless push to equate the free market with freedom](https://www.washingtonpost.com/books/2023/03/10/big-myth-business-oreskes-conway/)
 - [Mechanical aircraft weight and balance computer using whippletrees](https://www.airwaysmuseum.com/Librascope.htm)
 - [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
-- [OldLinux: Ancient Linux Resources](http://www.oldlinux.org/)
-- [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
-- [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
