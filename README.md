@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All travelers to the UK will need pre-authorization by 2025](https://www.cnbc.com/2023/03/09/all-travelers-to-the-uk-will-need-digital-pre-authorization-from-2024.html)
-- [So you want to turn an office building into a home?](https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html)
-- [Bacteria hijack a meningeal neuroimmune axis to facilitate brain invasion](https://www.nature.com/articles/s41586-023-05753-x)
-- [Yellen says government will help SVB depositors but rules out bailout](https://www.ft.com/content/6a77d81b-7376-4ccf-80a2-3336af04d04b?shareType=nongift)
-- [Show HN: Terminal Based Wikipedia](https://github.com/yashsinghcodes/wik)
+- [FDIC Auction for SVB Said to Be Underway, Final Bids Due Sunday](https://www.bloomberg.com/news/articles/2023-03-12/fdic-auction-for-svb-said-to-be-underway-final-bids-due-sunday)
+- [20hrs on a Qantas plane: the future of aviation or a fresh hell in economy?](https://www.theguardian.com/world/2023/mar/12/twenty-hours-on-a-qantas-plane-is-this-the-future-of-aviation-or-a-fresh-hell-in-economy)
+- [Automatic Image Mining](https://blog.qwertyforce.dev/posts/automatic_image_mining)
+- [Ask HN: Do you think ML model weights are copyrightable?](https://news.ycombinator.com/item?id=35121093)
+- [Ask HN: Why is the hunger for RAM never satisfied?](https://news.ycombinator.com/item?id=35121012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
