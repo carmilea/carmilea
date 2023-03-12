@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Codon: A Compiler for High-Performance Pythonic Applications and DSLs [pdf]](https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf)
+- [Sapphire Rapids: Golden Cove Hits Servers](https://chipsandcheese.com/2023/03/12/a-peek-at-sapphire-rapids/)
 - [Don&amp;#x27;t Share Java FileChannels](https://pkolaczk.github.io/dont-share-file-channels/)
+- [John&amp;#x27;s Lambda Calculus and Combinatory Logic Playground](https://tromp.github.io/cl/cl.html)
 - [OpenAI CEO Sam Altman sent startup six-figure loan after SVB collapse](https://www.businessinsider.com/sam-altman-sent-money-support-startup-payroll-svb-collapse-report-2023-3)
-- [Credit Unions](https://en.wikipedia.org/wiki/Credit_union)
-- [Nushell.sh ls | where size &amp;gt; 10mb | sort-by modified](https://www.nushell.sh/)
-- [Reverse-engineering the register codes for the 8086 processor&amp;#x27;s microcode](http://www.righto.com/2023/03/8086-register-codes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
