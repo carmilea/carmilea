@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi co-founder: Advertisers &amp;#x27;stole the internet from us&amp;#x27;](https://www.xda-developers.com/co-founder-vivaldi-interview-mwc-2023/)
+- [SVB chief pressed Congress to weaken risk regulations](https://www.theguardian.com/business/2023/mar/11/silicon-valley-bank-weaken-risk-regulations-svb)
+- [Ask HN: How to Classify Websites?](https://news.ycombinator.com/item?id=35118831)
 - [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
 - [Meta Rediscovers the Cubicle](https://calnewport.com/meta-rediscovers-the-cubicle/)
-- [Fabergé Egg](https://en.wikipedia.org/wiki/Faberg%C3%A9_egg)
-- [Caricaturing Noam Chomsky](https://garymarcus.substack.com/p/caricaturing-noam-chomsky)
-- [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
