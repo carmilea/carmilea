@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nushell.sh ls | where size &amp;gt; 10mb | sort-by modified](https://www.nushell.sh/)
 - [Instead of paying adults more, states let companies hire kids for labor shortage](https://www.businessinsider.com/fair-labor-standards-act-hiring-child-laws-worker-shortage-iowa-minnesota-2023-2)
-- [Bill Ackman: I expect there will be bank runs beginning Monday at non-SIB banks](https://twitter.com/BillAckman/status/1634662286844411904)
-- [If the government bails out SVB, expect an “Occupy Silicon Valley” movement](https://twitter.com/VivekGRamaswamy/status/1634750011568271361)
+- [Pentagon Looking to Make Sure SpaceX Doesn’t Abandon Them in War](https://www.defenseone.com/technology/2023/03/pentagon-looking-make-sure-spacex-doesnt-abandon-them-war/383837/)
 - [Qatar bugged secret meeting between Swiss Attorney General and FIFA President](https://www.nzz.ch/english/qatar-wiretapped-federal-prosecutor-and-fifa-president-infantino-ld.1730044)
 - [Update to the “Samsung space zoom moon shots are fake”](https://old.reddit.com/r/Android/comments/11p7rqy/update_to_the_samsung_space_zoom_moon_shots_are/)
 <!-- BLOG-POST-LIST:END -->
