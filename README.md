@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecting himself while actively dooming hundreds of startups to failure](https://twitter.com/moorehn/status/1634973901230071809)
+- [Google Reader shut down announced ten years ago today](https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html)
 - [When did SVB insiders begin to realize they were in trouble?](https://nongaap.substack.com/p/sivb-held-to-mortem-governance)
 - [Viable superconducting material created in Rochester lab](https://www.rochester.edu/newscenter/highest-temperature-superconducting-materials-metals-reddmatter-551382/)
-- [Believe it or not, the Amish are loving electric bikes](https://electrek.co/2023/03/12/believe-it-or-not-the-amish-are-loving-electric-bikes/)
-- [Why did 250k Britons die sooner than expected?](https://www.economist.com/interactive/britain/2023/03/09/why-did-250000-britons-die-sooner-than-expected)
 - [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
 <!-- BLOG-POST-LIST:END -->
 
