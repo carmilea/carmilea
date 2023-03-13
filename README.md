@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting himself while actively dooming hundreds of startups to failure](https://twitter.com/moorehn/status/1634973901230071809)
+- [How &amp;#x27;Open&amp;#x27; Is OpenAI, Really?](https://dot.la/openai-elon-musk-2659434979.html)
+- [What Is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
+- [Investor Mark Suster says a “handful” of bad actors in VC destroyed SVB](https://techcrunch.com/2023/03/10/investor-mark-suster-says-a-handful-of-bad-actors-in-vc-destroyed-silicon-valley-bank/)
+- [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [Google Reader shut down announced ten years ago today](https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html)
-- [When did SVB insiders begin to realize they were in trouble?](https://nongaap.substack.com/p/sivb-held-to-mortem-governance)
-- [Viable superconducting material created in Rochester lab](https://www.rochester.edu/newscenter/highest-temperature-superconducting-materials-metals-reddmatter-551382/)
-- [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
