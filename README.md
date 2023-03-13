@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish pension giant loses $1.1 billion from US banks’ collapse](https://www.thelocal.se/20230313/swedish-pension-giant-loses-12-billion-kronor-from-us-banks-collapse)
 - [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
 - [Alpaca- An Instruct Tuned Llama 7B. Responses on par with txt-DaVinci-3. Demo up](https://crfm.stanford.edu/alpaca/)
+- [The Tantrum Venture Capitalists Threw over Silicon Valley Bank](https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html)
 - [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)
-- [Firezone is hiring a back end engineer to build open source remote access &lpar;Rust&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
-- [Launch HN: Electric Air &lpar;YC W23&rpar; – Heat pump sold directly to homeowners](https://news.ycombinator.com/item?id=35138319)
 <!-- BLOG-POST-LIST:END -->
 
 ---
