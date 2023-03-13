@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
+- [Alpaca- An Instruct Tuned Llama 7B. Responses on par with txt-DaVinci-3. Demo up](https://crfm.stanford.edu/alpaca/)
+- [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)
 - [Firezone is hiring a back end engineer to build open source remote access &lpar;Rust&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 - [Launch HN: Electric Air &lpar;YC W23&rpar; – Heat pump sold directly to homeowners](https://news.ycombinator.com/item?id=35138319)
-- [Magic the Gathering content creator pleas YouTube to stop scammer bot deluge](https://www.youtube.com/watch?v=lKcdEf0fNA0)
-- [Over 100 kids illegally employed in hazardous jobs, contractor pays $1.5M fine](https://www.dol.gov/newsroom/releases/whd/whd20230217-1)
-- [Plunge in Regional Bank Stocks Triggers Spate of Trading Halts](https://www.bloomberg.com/news/live-blog/2023-03-12/svb-fallout-spreads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
