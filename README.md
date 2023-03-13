@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Influencer Parents and the Kids Who Had Their Childhood Made into Content](https://www.teenvogue.com/story/influencer-parents-children-social-media-impact)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
 - [An end to typographic widows on the web](https://clagnut.com/blog/2424)
 - [Our production servers were suspended by Google Cloud](https://www.onvoard.com/blog/our-production-servers-was-suspended-by-google-cloud)
-- [HSBC Purchased Silicon Valley Bank UK &lpar;SVB UK&rpar; for $1.21 &lpar;£1&rpar;](https://www.hsbc.com/news-and-media/media-releases)
 - [Show HN: I Scraped Hacker News for TLD Popularity](https://www.v01.io/posts/2023-hackernews-tld-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
