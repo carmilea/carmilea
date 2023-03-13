@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior Customer Success Manager in the US](https://bitmovin.com/careers/6626296002/)
-- [California cancels salmon fishing season](https://www.cbsnews.com/sanfrancisco/news/california-cancels-salmon-fishing-season/)
-- [Changes at YC](https://www.ycombinator.com/blog/changes-at-yc/)
-- [SVB collapse: Peter Thiel’s role scrutinized as spark of bank run](https://www.washingtonexaminer.com/news/business/svb-collapse-peter-thiel-silicon-valley-)
-- [Stanford Alpaca, and the acceleration of on-device LLM development](https://simonwillison.net/2023/Mar/13/alpaca/)
+- [Ask HN: Has anyone made the transition from app development to ML&amp;#x2F;AI work?](https://news.ycombinator.com/item?id=35143213)
+- [Show HN: Counter – Simple and Free Web Analytics](https://counter.dev/)
+- [60163 Tornado, the first new build British mainline steam locomotive since 1960](https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado)
+- [Experian is a pile of dark pattern garbage](https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage)
+- [Gitlab loses one-third of its value after company issues weak rev forecast](https://www.cnbc.com/2023/03/13/gitlab-gtlb-earnings-q4-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
