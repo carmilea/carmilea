@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Catholic Group Spends Millions on Dating App Data to Out Gay Priests](https://www.pcmag.com/news/a-catholic-group-spent-millions-on-dating-app-data-to-out-gay-priests)
+- [Motorists Break Law to Save Time, Cyclists Break Law to Save Lives &lpar;2020&rpar;](https://www.forbes.com/sites/carltonreid/2020/09/18/motorists-break-law-to-save-time-cyclists-break-law-to-save-lives-finds-study/)
+- [Twitter has and internal root CA problem](https://izzodlaw.com/@IzzoD/110001516908481048)
+- [Bunki, a C Coroutine Library](https://github.com/Keith-Cancel/Bunki)
 - [Overhead of Returning Optional Values in Java and Rust](https://pkolaczk.github.io/overhead-of-optional/)
 - [HSBC to Buy UK Arm of Silicon Valley Bank](https://www.bbc.co.uk/news/business-64937251)
-- [Silicon Valley Bank Depositor Bailout Makes Mockery of ‘Too Big to Fail’](https://www.nationalreview.com/corner/silicon-valley-bank-depositor-bailout-makes-mockery-of-too-big-to-fail/)
-- [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
