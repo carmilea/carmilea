@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How &amp;#x27;Open&amp;#x27; Is OpenAI, Really?](https://dot.la/openai-elon-musk-2659434979.html)
-- [What Is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
-- [Investor Mark Suster says a “handful” of bad actors in VC destroyed SVB](https://techcrunch.com/2023/03/10/investor-mark-suster-says-a-handful-of-bad-actors-in-vc-destroyed-silicon-valley-bank/)
-- [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
-- [Google Reader shut down announced ten years ago today](https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html)
+- [HSBC acquires Silicon Valley Bank UK, says all depositors’ money is safe](https://techcrunch.com/2023/03/13/in-historic-last-minute-deal-hsbc-acquires-silicon-valley-bank-uk-says-all-depositors-money-is-safe/)
+- [HSBC to buy SVB UK for £1](https://www.theguardian.com/business/2023/mar/13/hsbc-buy-silicon-valley-banks-uk-tech-startups)
+- [HSBC to Buy UK Arm of Silicon Valley Bank](https://www.bbc.co.uk/news/business-64937251)
+- [HSBC takes over Silicon Valley Bank’s UK unit in rescue deal](https://www.ft.com/content/216b193d-62b3-4e5e-8f67-e8eb3d96ebf1)
+- [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
