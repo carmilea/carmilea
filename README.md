@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung caught faking zoom photos of the Moon](https://www.theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra)
-- [British industry calls for regulation of autonomous vehicles](https://www.theregister.com/2023/03/13/uk_industry_calls_for_autonomous/)
-- [Ask HN: Any solo game developers here?](https://news.ycombinator.com/item?id=35134805)
-- [Influencer Parents and the Kids Who Had Their Childhood Made into Content](https://www.teenvogue.com/story/influencer-parents-children-social-media-impact)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
+- [Plunge in Regional Bank Stocks Triggers Spate of Trading Halts](https://www.bloomberg.com/news/live-blog/2023-03-12/svb-fallout-spreads)
+- [Rivian in talks with Amazon to remove exclusivity clause of EV van agreement](https://techcrunch.com/2023/03/13/rivian-in-talks-with-amazon-to-remove-exclusivity-clause-of-ev-van-agreement/)
+- [Audiophile forum debating which versions of memcpy had the highest sound quality &lpar;2013&rpar;](https://discuss.systems/@dan/110008052977994607)
+- [WezTerm is a GPU-accelerated cross-platform terminal emulator written in Rust](https://wezfurlong.org/wezterm/)
+- [SVB&amp;#x27;s programmatic payment systems are back online](https://news.ycombinator.com/item?id=35136915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
