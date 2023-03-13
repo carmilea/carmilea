@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Joint Statement by the Department of the Treasury, Federal Reserve, and FDIC](https://home.treasury.gov/news/press-releases/jy1337)
-- [Dalai: Automatically install, run, and play with LLaMA on your computer](https://cocktailpeanut.github.io/dalai/)
-- [Lo-Fi ATC](https://www.lofiatc.com/)
-- [cat mario.nes | nc play-nes.org 4444](https://github.com/henrikpersson/potatis)
-- [Show HN: Codon: A Compiler for High-Performance Pythonic Applications and DSLs [pdf]](https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf)
+- [The tech industry moved fast and broke its most prestigious bank](https://www.theverge.com/23635692/silicon-valley-bank-svb-collapse-explainer-startups-venture-capital)
+- [America Has Replaced Capitalism with Cronyism](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
+- [FDIC Establishes Signature Bridge Bank, N.A., As Successor to Signature Bank](https://www.fdic.gov/news/press-releases/2023/pr23018.html)
+- [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
+- [Joint statement by the Department of the Treasury, Federal Reserve, and FDIC](https://home.treasury.gov/news/press-releases/jy1337)
 <!-- BLOG-POST-LIST:END -->
 
 ---
