@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior Customer Success Manager in the US](https://bitmovin.com/careers/6626296002/)
+- [California cancels salmon fishing season](https://www.cbsnews.com/sanfrancisco/news/california-cancels-salmon-fishing-season/)
+- [Changes at YC](https://www.ycombinator.com/blog/changes-at-yc/)
+- [SVB collapse: Peter Thiel’s role scrutinized as spark of bank run](https://www.washingtonexaminer.com/news/business/svb-collapse-peter-thiel-silicon-valley-)
 - [Stanford Alpaca, and the acceleration of on-device LLM development](https://simonwillison.net/2023/Mar/13/alpaca/)
-- [RFC: Organizations for Sourcehut](https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CCR5CFKD4Y5CT.3RLWZWX54YMRW%40taiga%3E)
-- [SpaceX is getting ready to test its Starlink satellite-to-cell phone service](https://www.engadget.com/spacex-is-getting-ready-to-test-its-starlink-satellite-to-cell-phone-service-181810564.html)
-- [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
-- [Firezone &lpar;YC W22&rpar; is hiring a Rust engineer to build open-source remote access](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
