@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swedish pension giant loses $1.1 billion from US banks’ collapse](https://www.thelocal.se/20230313/swedish-pension-giant-loses-12-billion-kronor-from-us-banks-collapse)
+- [Stanford Alpaca, and the acceleration of on-device LLM development](https://simonwillison.net/2023/Mar/13/alpaca/)
+- [RFC: Organizations for Sourcehut](https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CCR5CFKD4Y5CT.3RLWZWX54YMRW%40taiga%3E)
+- [SpaceX is getting ready to test its Starlink satellite-to-cell phone service](https://www.engadget.com/spacex-is-getting-ready-to-test-its-starlink-satellite-to-cell-phone-service-181810564.html)
 - [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
-- [Alpaca- An Instruct Tuned Llama 7B. Responses on par with txt-DaVinci-3. Demo up](https://crfm.stanford.edu/alpaca/)
-- [The Tantrum Venture Capitalists Threw over Silicon Valley Bank](https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html)
-- [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)
+- [Firezone &lpar;YC W22&rpar; is hiring a Rust engineer to build open-source remote access](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
