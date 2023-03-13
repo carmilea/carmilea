@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HSBC acquires Silicon Valley Bank UK, says all depositors’ money is safe](https://techcrunch.com/2023/03/13/in-historic-last-minute-deal-hsbc-acquires-silicon-valley-bank-uk-says-all-depositors-money-is-safe/)
-- [HSBC to buy SVB UK for £1](https://www.theguardian.com/business/2023/mar/13/hsbc-buy-silicon-valley-banks-uk-tech-startups)
+- [Catholic Group Spends Millions on Dating App Data to Out Gay Priests](https://www.pcmag.com/news/a-catholic-group-spent-millions-on-dating-app-data-to-out-gay-priests)
+- [Overhead of Returning Optional Values in Java and Rust](https://pkolaczk.github.io/overhead-of-optional/)
 - [HSBC to Buy UK Arm of Silicon Valley Bank](https://www.bbc.co.uk/news/business-64937251)
-- [HSBC takes over Silicon Valley Bank’s UK unit in rescue deal](https://www.ft.com/content/216b193d-62b3-4e5e-8f67-e8eb3d96ebf1)
+- [Silicon Valley Bank Depositor Bailout Makes Mockery of ‘Too Big to Fail’](https://www.nationalreview.com/corner/silicon-valley-bank-depositor-bailout-makes-mockery-of-too-big-to-fail/)
 - [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
 <!-- BLOG-POST-LIST:END -->
 
