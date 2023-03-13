@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online tests suggest IQ scores in US dropped for first time in nearly a century](https://phys.org/news/2023-03-online-iq-scores-century.html)
-- [Greece adopts new rules on Router Freedom](https://fsfe.org/news/2023/news-20230313-01.en.html)
-- [Joblint – Test tech job posts for issues](https://joblint.org/)
-- [Singapore software vendor says own hardware in colo costs $400M less than cloud](https://www.theregister.com/2023/03/13/ahrefs_on_prem_savings/)
-- [Twitter has and internal root CA problem](https://izzodlaw.com/@IzzoD/110001516908481048)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
+- [An end to typographic widows on the web](https://clagnut.com/blog/2424)
+- [Our production servers were suspended by Google Cloud](https://www.onvoard.com/blog/our-production-servers-was-suspended-by-google-cloud)
+- [HSBC Purchased Silicon Valley Bank UK &lpar;SVB UK&rpar; for $1.21 &lpar;£1&rpar;](https://www.hsbc.com/news-and-media/media-releases)
+- [Show HN: I Scraped Hacker News for TLD Popularity](https://www.v01.io/posts/2023-hackernews-tld-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
