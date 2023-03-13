@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Believe it or not, the Amish are loving electric bikes](https://electrek.co/2023/03/12/believe-it-or-not-the-amish-are-loving-electric-bikes/)
 - [The tech industry moved fast and broke its most prestigious bank](https://www.theverge.com/23635692/silicon-valley-bank-svb-collapse-explainer-startups-venture-capital)
-- [America Has Replaced Capitalism with Cronyism](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
 - [FDIC Establishes Signature Bridge Bank, N.A., As Successor to Signature Bank](https://www.fdic.gov/news/press-releases/2023/pr23018.html)
+- [Why did 250k Britons die sooner than expected?](https://www.economist.com/interactive/britain/2023/03/09/why-did-250000-britons-die-sooner-than-expected)
 - [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
-- [Joint statement by the Department of the Treasury, Federal Reserve, and FDIC](https://home.treasury.gov/news/press-releases/jy1337)
 <!-- BLOG-POST-LIST:END -->
 
 ---
