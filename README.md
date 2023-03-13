@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motorists Break Law to Save Time, Cyclists Break Law to Save Lives &lpar;2020&rpar;](https://www.forbes.com/sites/carltonreid/2020/09/18/motorists-break-law-to-save-time-cyclists-break-law-to-save-lives-finds-study/)
+- [Online tests suggest IQ scores in US dropped for first time in nearly a century](https://phys.org/news/2023-03-online-iq-scores-century.html)
+- [Greece adopts new rules on Router Freedom](https://fsfe.org/news/2023/news-20230313-01.en.html)
+- [Joblint – Test tech job posts for issues](https://joblint.org/)
+- [Singapore software vendor says own hardware in colo costs $400M less than cloud](https://www.theregister.com/2023/03/13/ahrefs_on_prem_savings/)
 - [Twitter has and internal root CA problem](https://izzodlaw.com/@IzzoD/110001516908481048)
-- [Bunki, a C Coroutine Library](https://github.com/Keith-Cancel/Bunki)
-- [Overhead of Returning Optional Values in Java and Rust](https://pkolaczk.github.io/overhead-of-optional/)
-- [HSBC to Buy UK Arm of Silicon Valley Bank](https://www.bbc.co.uk/news/business-64937251)
 <!-- BLOG-POST-LIST:END -->
 
 ---
