@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Federal Reserve Path Is Murkier After Bank Blowup](https://www.nytimes.com/2023/03/13/business/economy/federal-reserve-interest-rates.html)
-- [Do Non-Profits Drive Social Change?](https://comment.org/do-non-profits-drive-social-change/)
-- [Ask HN: Post-SVB, what are other areas where groupthink leaves us vulnerable?](https://news.ycombinator.com/item?id=35135674)
+- [Samsung caught faking zoom photos of the Moon](https://www.theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra)
+- [British industry calls for regulation of autonomous vehicles](https://www.theregister.com/2023/03/13/uk_industry_calls_for_autonomous/)
 - [Ask HN: Any solo game developers here?](https://news.ycombinator.com/item?id=35134805)
 - [Influencer Parents and the Kids Who Had Their Childhood Made into Content](https://www.teenvogue.com/story/influencer-parents-children-social-media-impact)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
