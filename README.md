@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Credit Suisse finds ‘material weakness’ in reporting, scraps exec bonuses](https://www.cnn.com/2023/03/14/investing/credit-suisse-financial-reporting-weakness/index.html)
+- [‘Old-School’ Signature Bank Collapsed After Its Big Crypto Leap](https://www.bloomberg.com/news/articles/2023-03-14/why-did-signature-bank-fail-inside-the-old-school-new-york-bank)
+- [Top-Down LR Parsing](https://pavpanchekha.com/blog/top-down-lr.html)
+- [Scrcpy 2.0 mirrors Android devices with audio forwarding](https://github.com/Genymobile/scrcpy/releases/tag/v2.0)
 - [Meta to Layoff 10k Employees](https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/)
-- [The next generation of AI for developers and Google Workspace](https://blog.google/technology/ai/ai-developers-google-cloud-workspace/)
-- [Why Sony says it can’t trust Microsoft’s Call of Duty offer? Answer: Bethesda](https://arstechnica.com/gaming/2023/03/sony-cites-bethesda-exclusives-in-doubting-microsofts-call-of-duty-promises/)
-- [Chickens, cows, threatened in Ransomware on Canadian farms](https://financialpost.com/cybersecurity/growing-cyberattacks-canada-food-system-threaten-disaster)
-- [Show HN: I made a self-hosted ChatGPT UI](https://github.com/cogentapps/chat-with-gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
