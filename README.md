@@ -54,8 +54,8 @@
 - [Ring LLC home security company ransomed by ALPHV ransomware](https://web.archive.org/web/20230314015249/https://twitter.com/vxunderground/status/1635427567271329792)
 - [Russian Assets Reportedly Seized at Baikonur Cosmodrome by Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome)
 - [US court rules Uber and Lyft workers are contractors](https://www.bbc.com/news/business-64947695)
-- [The electron is having a &lpar;magnetic&rpar; moment.](https://www.wired.com/story/the-electron-is-having-a-magnetic-moment-its-a-big-deal/)
 - [Crab crisis in Bering Sea a sign of ‘borealization’](https://alaskabeacon.com/2023/02/06/crab-crisis-in-bering-sea-a-sign-of-borealization-and-big-changes-in-the-future-scientists-warn/)
+- [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
 <!-- BLOG-POST-LIST:END -->
 
 ---
