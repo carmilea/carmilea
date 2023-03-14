@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swipe &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/oDv2jjC-sde-intern)
+- [Analysis of distances between London&amp;#x27;s bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html)
+- [Boundary Conditions, Rain, and Startup Fragility](https://www.analogmantra.com/blog/2023-02-27-fragility-and-boundary-conditions/)
 - [Using a Mac without a network connection](https://eclecticlight.co/2023/03/14/using-a-mac-without-a-network-connection/)
 - [Ring LLC home security company ransomed by ALPHV ransomware](https://web.archive.org/web/20230314015249/https://twitter.com/vxunderground/status/1635427567271329792)
-- [Russian Assets Reportedly Seized at Baikonur Cosmodrome by Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome)
-- [An experiment in elastically scaling a thread pool using a PID controller](https://github.com/stevana/elastically-scalable-thread-pools)
-- [US court rules Uber and Lyft workers are contractors](https://www.bbc.com/news/business-64947695)
 <!-- BLOG-POST-LIST:END -->
 
 ---
