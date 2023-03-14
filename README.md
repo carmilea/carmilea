@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This is real from the WSJ why SVB failed](https://twitter.com/unusual_whales/status/1635374374630076418)
+- [Ask HN: Has your view of Silicon Valley changed in the last 72 hours?](https://news.ycombinator.com/item?id=35146563)
 - [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
 - [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
 - [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
