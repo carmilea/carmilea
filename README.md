@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why are 5 comments&amp;#x2F;day “posting too fast”, what precisely is “too fast”?](https://news.ycombinator.com/item?id=35157524)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Reddit has been down for more than an hour](https://www.theverge.com/2023/3/14/23640132/reddit-down-outage-offline-loading-posts-comments)
+- [Vanilla Handbook](https://handbook.vanillaos.org/)
+- [Apple Expands Hiring Freeze, Delays Bonuses for Some Employees](https://www.macrumors.com/2023/03/14/apple-cutting-costs-hiring-freeze-bonus-delay/)
 - [The emotional toll of caring for research animals](https://www.science.org/content/article/suffering-silence-caring-research-animals-can-take-severe-mental-toll)
-- [How Iceland is using GPT-4 to preserve its language](https://openai.com/customer-stories/government-of-iceland)
-- [Kali Linux 2023.1 introduces &amp;#x27;Purple&amp;#x27; distro for defensive security](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
-- [Securing Real-Time Applications with SingleStoreDB Cloud and AWS PrivateLink](https://www.singlestore.com/blog/securing-real-time-applications-with-singlestoredb-cloud-and-aws-privatelink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
