@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit Suisse finds ‘material weakness’ in reporting, scraps exec bonuses](https://www.cnn.com/2023/03/14/investing/credit-suisse-financial-reporting-weakness/index.html)
-- [‘Old-School’ Signature Bank Collapsed After Its Big Crypto Leap](https://www.bloomberg.com/news/articles/2023-03-14/why-did-signature-bank-fail-inside-the-old-school-new-york-bank)
-- [Top-Down LR Parsing](https://pavpanchekha.com/blog/top-down-lr.html)
-- [Scrcpy 2.0 mirrors Android devices with audio forwarding](https://github.com/Genymobile/scrcpy/releases/tag/v2.0)
-- [Meta to Layoff 10k Employees](https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/)
+- [Launch HN: CodeComplete &lpar;YC W23&rpar; – Copilot for Enterprise](https://news.ycombinator.com/item?id=35152851)
+- [Silicon Valley, once the underdog, is now too big to fail](https://www.washingtonpost.com/technology/2023/03/14/tech-startups-bailout-silicon-valley-bank/)
+- [Binance Halts Deposits and Withdrawals for Customers in the UK](https://www.bloomberg.com/news/articles/2023-03-14/binance-halts-deposits-and-withdrawals-for-customers-in-the-uk)
+- [The Door Close Button](https://computer.rip/2023-03-13-the-door-close-button.html)
+- [NordVPN library and client code open-sourced](https://github.com/NordSecurity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
