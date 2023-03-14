@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI: Evals](https://github.com/openai/evals)
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
-- [GPT-4](https://openai.com/research/gpt-4)
-- [You shouldn&amp;#x27;t list certifications on LinkedIn](https://interviewing.io/blog/why-you-shouldnt-list-certifications-on-linkedIn)
-- [Docker is sunsetting Free Team organizations [pdf]](https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf)
+- [Mountpoint – file client for S3 written in Rust, from AWS](https://github.com/awslabs/mountpoint-s3)
+- [Khan Academy integrates GPT-4 as every student’s customized tutor](https://openai.com/customer-stories/khan-academy)
+- [The new Bing runs on OpenAI’s GPT-4](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4)
+- [Duolingo Max, a learning experience powered by GPT-4](https://blog.duolingo.com/duolingo-max/)
+- [Evals: a framework for evaluating OpenAI models and a registry of benchmarks](https://github.com/openai/evals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
