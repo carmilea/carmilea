@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has your view of Silicon Valley changed in the last 72 hours?](https://news.ycombinator.com/item?id=35146563)
+- [Crab crisis in Bering Sea a sign of ‘borealization’](https://alaskabeacon.com/2023/02/06/crab-crisis-in-bering-sea-a-sign-of-borealization-and-big-changes-in-the-future-scientists-warn/)
 - [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
-- [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
 - [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [Microsoft lays off one of its responsible AI teams](https://www.platformer.news/p/microsoft-just-laid-off-one-of-its)
 <!-- BLOG-POST-LIST:END -->
 
 ---
