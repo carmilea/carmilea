@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker is sunsetting Free Team organizations [pdf]](https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf)
+- [Concerns Mount over San Francisco-Based First Republic Bank](https://www.nbcbayarea.com/news/local/concerns-first-republic-bank/3179536/)
+- [Cheerp 3.0: The most advanced C++ compiler for the Web now permissively licensed](https://leaningtech.com/cheerp-3-0-the-most-advanced-c-compiler-for-the-web-now-permissively-licensed/)
+- [Launch HN: Blyss &lpar;YC W23&rpar; – Homomorphic encryption as a service](https://news.ycombinator.com/item?id=35153344)
 - [Launch HN: CodeComplete &lpar;YC W23&rpar; – Copilot for Enterprise](https://news.ycombinator.com/item?id=35152851)
-- [Silicon Valley, once the underdog, is now too big to fail](https://www.washingtonpost.com/technology/2023/03/14/tech-startups-bailout-silicon-valley-bank/)
-- [Binance Halts Deposits and Withdrawals for Customers in the UK](https://www.bloomberg.com/news/articles/2023-03-14/binance-halts-deposits-and-withdrawals-for-customers-in-the-uk)
-- [The Door Close Button](https://computer.rip/2023-03-13-the-door-close-button.html)
-- [NordVPN library and client code open-sourced](https://github.com/NordSecurity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
