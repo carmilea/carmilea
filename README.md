@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: Evals](https://github.com/openai/evals)
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
+- [GPT-4](https://openai.com/research/gpt-4)
+- [You shouldn&amp;#x27;t list certifications on LinkedIn](https://interviewing.io/blog/why-you-shouldnt-list-certifications-on-linkedIn)
 - [Docker is sunsetting Free Team organizations [pdf]](https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf)
-- [Concerns Mount over San Francisco-Based First Republic Bank](https://www.nbcbayarea.com/news/local/concerns-first-republic-bank/3179536/)
-- [Cheerp 3.0: The most advanced C++ compiler for the Web now permissively licensed](https://leaningtech.com/cheerp-3-0-the-most-advanced-c-compiler-for-the-web-now-permissively-licensed/)
-- [Launch HN: Blyss &lpar;YC W23&rpar; – Homomorphic encryption as a service](https://news.ycombinator.com/item?id=35153344)
-- [Launch HN: CodeComplete &lpar;YC W23&rpar; – Copilot for Enterprise](https://news.ycombinator.com/item?id=35152851)
 <!-- BLOG-POST-LIST:END -->
 
 ---
