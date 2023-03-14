@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Real-Time Applications with SingleStoreDB Cloud and AWS PrivateLink](https://www.singlestore.com/blog/securing-real-time-applications-with-singlestoredb-cloud-and-aws-privatelink/)
+- [MQTT vs. Kafka: An IoT Advocate&amp;#x27;s Perspective](https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/)
+- [MathGPT&amp;#x27;s superior for numerical modeling in math and science](https://github.com/meiyulee/MathGPT)
+- [MNT Pocket Reform open for orders](https://www.crowdsupply.com/mnt/pocket-reform)
 - [Mountpoint – file client for S3 written in Rust, from AWS](https://github.com/awslabs/mountpoint-s3)
-- [Khan Academy integrates GPT-4 as every student’s customized tutor](https://openai.com/customer-stories/khan-academy)
-- [The new Bing runs on OpenAI’s GPT-4](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4)
-- [Duolingo Max, a learning experience powered by GPT-4](https://blog.duolingo.com/duolingo-max/)
-- [Evals: a framework for evaluating OpenAI models and a registry of benchmarks](https://github.com/openai/evals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
