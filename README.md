@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Georgia’s big new nuclear reactors could be the last built in the US](https://www.canarymedia.com/articles/nuclear/georgias-big-new-nuclear-reactors-could-be-the-last-built-in-the-us)
+- [Lemmy](https://lemmy.ml/#)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Reddit has been down for more than an hour](https://www.theverge.com/2023/3/14/23640132/reddit-down-outage-offline-loading-posts-comments)
+- [My Startup Banking Story](https://mitchellh.com/writing/my-startup-banking-story)
 - [Vanilla Handbook](https://handbook.vanillaos.org/)
-- [Apple Expands Hiring Freeze, Delays Bonuses for Some Employees](https://www.macrumors.com/2023/03/14/apple-cutting-costs-hiring-freeze-bonus-delay/)
-- [The emotional toll of caring for research animals](https://www.science.org/content/article/suffering-silence-caring-research-animals-can-take-severe-mental-toll)
 <!-- BLOG-POST-LIST:END -->
 
 ---
