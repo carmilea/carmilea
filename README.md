@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why it does and doesn’t matter if Google, Microsoft or Zoom certify your webcam](https://arstechnica.com/gadgets/2023/03/why-it-does-and-doesnt-matter-if-google-microsoft-or-zoom-certify-your-webcam/)
-- [Trees Across the U.S. Are Sprouting Leaves Earlier Than Usual This Year](https://www.wsj.com/articles/cherry-blossom-trees-record-early-spring-7484812c)
-- [Hotglue &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/hotglue/jobs/aSSnalB-senior-integrations-engineer)
-- [Mediterranean diet may lower dementia risk by a quarter, study suggests](https://www.theguardian.com/society/2023/mar/14/mediterranean-diet-may-lower-dementia-risk-by-a-quarter-study-suggests)
-- [Analysis of distances between London&amp;#x27;s bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html)
+- [Meta to Layoff 10k Employees](https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/)
+- [The next generation of AI for developers and Google Workspace](https://blog.google/technology/ai/ai-developers-google-cloud-workspace/)
+- [Why Sony says it can’t trust Microsoft’s Call of Duty offer? Answer: Bethesda](https://arstechnica.com/gaming/2023/03/sony-cites-bethesda-exclusives-in-doubting-microsofts-call-of-duty-promises/)
+- [Chickens, cows, threatened in Ransomware on Canadian farms](https://financialpost.com/cybersecurity/growing-cyberattacks-canada-food-system-threaten-disaster)
+- [Show HN: I made a self-hosted ChatGPT UI](https://github.com/cogentapps/chat-with-gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
