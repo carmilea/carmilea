@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian journalist arrested after he questions a minister over election promises](https://www.tribuneindia.com/news/trending/viral-video-up-journalist-questions-minister-over-promises-she-made-during-elections-gets-arrested-after-bjp-worker-lodges-complaint-of-ruckus-488015)
 - [Georgia’s big new nuclear reactors could be the last built in the US](https://www.canarymedia.com/articles/nuclear/georgias-big-new-nuclear-reactors-could-be-the-last-built-in-the-us)
+- [Reddit is currently down](https://mashable.com/article/reddit-is-down-major-outage)
 - [Lemmy](https://lemmy.ml/#)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [My Startup Banking Story](https://mitchellh.com/writing/my-startup-banking-story)
-- [Vanilla Handbook](https://handbook.vanillaos.org/)
+- [Oxide pays all employees $191,227 &lpar;Bay Area startup&rpar;](https://oxide.computer/blog/compensation-as-a-reflection-of-values)
 <!-- BLOG-POST-LIST:END -->
 
 ---
