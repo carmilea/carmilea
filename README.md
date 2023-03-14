@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [Nearly Every Person in Iraq Is an Illegal Streaming Pirate, Sources Say](https://torrentfreak.com/nearly-every-person-in-iraq-is-a-pirate-sources-say-230313/)
 - [Instagram Is Disabling Its NFT Features](https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/)
 - [Switching from C++ to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/)
-- [Ask HN: Has anyone made the transition from app development to ML&amp;#x2F;AI work?](https://news.ycombinator.com/item?id=35143213)
-- [Show HN: Counter – Simple and Free Web Analytics](https://counter.dev/)
-- [LNER Peppercorn Class A1 60163 Tornado](https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado)
+- [Show HN: Counter – Simple and free web analytics](https://counter.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
