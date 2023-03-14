@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why are 5 comments&amp;#x2F;day “posting too fast”, what precisely is “too fast”?](https://news.ycombinator.com/item?id=35157524)
+- [The emotional toll of caring for research animals](https://www.science.org/content/article/suffering-silence-caring-research-animals-can-take-severe-mental-toll)
+- [How Iceland is using GPT-4 to preserve its language](https://openai.com/customer-stories/government-of-iceland)
+- [Kali Linux 2023.1 introduces &amp;#x27;Purple&amp;#x27; distro for defensive security](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
 - [Securing Real-Time Applications with SingleStoreDB Cloud and AWS PrivateLink](https://www.singlestore.com/blog/securing-real-time-applications-with-singlestoredb-cloud-and-aws-privatelink/)
-- [MQTT vs. Kafka: An IoT Advocate&amp;#x27;s Perspective](https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/)
-- [MathGPT&amp;#x27;s superior for numerical modeling in math and science](https://github.com/meiyulee/MathGPT)
-- [MNT Pocket Reform open for orders](https://www.crowdsupply.com/mnt/pocket-reform)
-- [Mountpoint – file client for S3 written in Rust, from AWS](https://github.com/awslabs/mountpoint-s3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
