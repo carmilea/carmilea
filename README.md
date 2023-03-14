@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [US court rules Uber and Lyft workers are contractors](https://www.bbc.com/news/business-64947695)
-- [The Electron Is Having a &lpar;Magnetic&rpar; Moment.](https://www.wired.com/story/the-electron-is-having-a-magnetic-moment-its-a-big-deal/)
+- [The electron is having a &lpar;magnetic&rpar; moment.](https://www.wired.com/story/the-electron-is-having-a-magnetic-moment-its-a-big-deal/)
 - [Crab crisis in Bering Sea a sign of ‘borealization’](https://alaskabeacon.com/2023/02/06/crab-crisis-in-bering-sea-a-sign-of-borealization-and-big-changes-in-the-future-scientists-warn/)
 - [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
 - [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
