@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This is real from the WSJ why SVB failed](https://twitter.com/unusual_whales/status/1635374374630076418)
+- [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
+- [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
+- [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
-- [Nearly Every Person in Iraq Is an Illegal Streaming Pirate, Sources Say](https://torrentfreak.com/nearly-every-person-in-iraq-is-a-pirate-sources-say-230313/)
-- [Instagram Is Disabling Its NFT Features](https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/)
-- [Switching from C++ to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/)
-- [Show HN: Counter – Simple and free web analytics](https://counter.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
