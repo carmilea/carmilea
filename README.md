@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to explain the Monty Hall problem to a disbeliever](https://www.michalpaszkiewicz.co.uk/blog/montyhallexplained/index.html)
-- [Swipe &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/oDv2jjC-sde-intern)
+- [Why it does and doesn’t matter if Google, Microsoft or Zoom certify your webcam](https://arstechnica.com/gadgets/2023/03/why-it-does-and-doesnt-matter-if-google-microsoft-or-zoom-certify-your-webcam/)
+- [Trees Across the U.S. Are Sprouting Leaves Earlier Than Usual This Year](https://www.wsj.com/articles/cherry-blossom-trees-record-early-spring-7484812c)
+- [Hotglue &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/hotglue/jobs/aSSnalB-senior-integrations-engineer)
+- [Mediterranean diet may lower dementia risk by a quarter, study suggests](https://www.theguardian.com/society/2023/mar/14/mediterranean-diet-may-lower-dementia-risk-by-a-quarter-study-suggests)
 - [Analysis of distances between London&amp;#x27;s bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html)
-- [Boundary Conditions, Rain, and Startup Fragility](https://www.analogmantra.com/blog/2023-02-27-fragility-and-boundary-conditions/)
-- [Using a Mac without a network connection](https://eclecticlight.co/2023/03/14/using-a-mac-without-a-network-connection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
