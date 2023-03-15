@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jim Cramer says the Fed on cusp of a ‘soft, safe landing’ in its inflation fight](https://www.cnbc.com/2023/03/14/cramer-fed-on-the-cusp-of-a-soft-safe-landing-in-inflation-fight.html)
+- [Unicode Roman Numerals and Screen Readers](https://shkspr.mobi/blog/2023/03/unicode-roman-numerals-and-screen-readers/)
 - [PEP 704 – Require virtual environments by default for package installers](https://peps.python.org/pep-0704/)
 - [Pyroscope and Grafana Phlare join together](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/)
 - [Slauth.io &lpar;YC S22&rpar; Is Hiring another technical co-founder](https://auspicious-domain-086.notion.site/Technical-co-founder-cacf096e2f6d41ed90d9373e7ee532cb)
