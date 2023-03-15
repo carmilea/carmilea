@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley Bank unmasks the hypocrisy of libertarian tech bros](https://www.newstatesman.com/quickfire/2023/03/silicon-valley-bank-collapse-hypocrisy-libertarian-tech-bros)
-- [Firefox 111.0 enabled Origin private file system access](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API)
-- [Ask HN: Are there any working ReCAPTCHA bypass plugins for Firefox?](https://news.ycombinator.com/item?id=35165458)
-- [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
-- [South Korea to build world’s largest chip center in Seoul with $230B investment](https://www.cnn.com/2023/03/15/tech/korea-chips-investment-hnk-intl/index.html)
+- [Jim Cramer says the Fed on cusp of a ‘soft, safe landing’ in its inflation fight](https://www.cnbc.com/2023/03/14/cramer-fed-on-the-cusp-of-a-soft-safe-landing-in-inflation-fight.html)
+- [PEP 704 – Require virtual environments by default for package installers](https://peps.python.org/pep-0704/)
+- [Pyroscope and Grafana Phlare join together](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/)
+- [Slauth.io &lpar;YC S22&rpar; Is Hiring another technical co-founder](https://auspicious-domain-086.notion.site/Technical-co-founder-cacf096e2f6d41ed90d9373e7ee532cb)
+- [Credit Suisse sheds nearly 25%, key backer says no more money](https://www.reuters.com/business/finance/credit-suisse-shares-drop-fresh-record-low-cds-widen-2023-03-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
