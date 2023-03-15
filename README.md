@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We’re Suing to Protect Right of Incarcerated People to Receive Physical Mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
-- [The Social Radars: Conversations with Startup Founders](https://www.thesocialradars.com)
-- [GPT4 and the Multi-Modal, Multi-Model, Multi-Everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4)
-- [Samsung&amp;#x27;s response on &amp;#x27;moonshot&amp;#x27; controversy](https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/)
-- [Llama.rs – Rust port of llama.cpp for fast LLaMA inference on CPU](https://github.com/setzer22/llama-rs)
+- [Rust TUI Relaunching as Ratatui](https://github.com/tui-rs-revival/ratatui)
+- [Scheele’s Green, the Color of Fake Foliage and Death](https://www.theparisreview.org/blog/2018/05/02/scheeles-green-the-color-of-fake-foliage-and-death/)
+- [Roubini warns US bank failures, Credit Suisse contagion could spread globally](https://fortune.com/2023/03/15/dr-doom-nouriel-roubini-contagion-spread-globally-regional-banks-credit-suisse-svb/)
+- [Long-Sought Math Proof Unlocks More Mysterious ‘Modular Forms’](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)
+- [Suing to protect right of incarcerated people to receive physical mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
