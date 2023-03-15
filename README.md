@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laudspeaker &lpar;YC W21&rpar; hiring engineer to build open source customer journey SaaS](https://github.com/laudspeaker/laudspeaker/blob/Hiring/README.md)
-- [LLaMa running at 5 tokens&amp;#x2F;second on a Pixel 6](https://twitter.com/thiteanish/status/1635678053853536256)
-- [Launch HN: Propify &lpar;YC W23&rpar; – Property Management System API Aggregator](https://news.ycombinator.com/item?id=35170955)
-- [Epic Games to Pay $245M for Tricking Users into Making Unwanted Charges](https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-finalizes-order-requiring-fortnite-maker-epic-games-pay-245-million-tricking-users-making)
-- [DreamWorks releases OpenMoonRay source code](https://github.com/dreamworksanimation/openmoonray)
+- [The Social Radars: Conversations with Startup Founders](https://www.thesocialradars.com)
+- [Samsung&amp;#x27;s Response on &amp;#x27;Moonshot&amp;#x27; Controversy](https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/)
+- [Zed, the new code editor from Atom developers, has entered open beta](https://zed.dev)
+- [Llama.rs – Rust port of llama.cpp for fast LLaMA inference on CPU](https://github.com/setzer22/llama-rs)
+- [Generative AI is overrated, long live old-school AI](https://encord.com/blog/generative-ai-and-gpt4-is-overrated-long-live-old-school-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
