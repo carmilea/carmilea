@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust TUI Relaunching as Ratatui](https://github.com/tui-rs-revival/ratatui)
+- [PyTorch 2.0 Release](https://pytorch.org/blog/pytorch-2.0-release/)
+- [Ratatui: tui-rs revival project](https://github.com/tui-rs-revival/ratatui)
 - [Scheele’s Green, the Color of Fake Foliage and Death](https://www.theparisreview.org/blog/2018/05/02/scheeles-green-the-color-of-fake-foliage-and-death/)
-- [Roubini warns US bank failures, Credit Suisse contagion could spread globally](https://fortune.com/2023/03/15/dr-doom-nouriel-roubini-contagion-spread-globally-regional-banks-credit-suisse-svb/)
-- [Long-Sought Math Proof Unlocks More Mysterious ‘Modular Forms’](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)
+- [Long-sought math proof unlocks more mysterious ‘modular forms’](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)
 - [Suing to protect right of incarcerated people to receive physical mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
 <!-- BLOG-POST-LIST:END -->
 
