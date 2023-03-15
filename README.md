@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35164840)
+- [Cox-Zucker Machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine)
+- [The Political Biases of GPT-4 &lpar;are very much still there&rpar;](https://davidrozado.substack.com/p/the-political-biases-of-gpt-4)
 - [The Internet Archive&amp;#x27;s battle for libraries](https://www.battleforlibraries.com/)
 - [Trichloroethylene: An invisible cause of Parkinson’s disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
-- [Lidar Reveals 650-Square-Mile Maya Site Hidden Beneath Guatemalan Rain Forest](https://www.livescience.com/lidar-maya-civilization-guatemala)
-- [Kottke.org is 25 years old today](https://kottke.org/23/03/kottke-is-25-years-old-today)
-- [Two U.S. men charged in 2022 hacking of DEA portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
