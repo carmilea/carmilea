@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans Lost a Record $10.3B to Online Scammers Last Year, FBI Says](https://www.wsj.com/articles/americans-lost-a-record-10-3-billion-to-online-scammers-last-year-fbi-says-274d6139)
 - [Unicode Roman Numerals and Screen Readers](https://shkspr.mobi/blog/2023/03/unicode-roman-numerals-and-screen-readers/)
 - [PEP 704 – Require virtual environments by default for package installers](https://peps.python.org/pep-0704/)
 - [Pyroscope and Grafana Phlare join together](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/)
 - [Slauth.io &lpar;YC S22&rpar; Is Hiring another technical co-founder](https://auspicious-domain-086.notion.site/Technical-co-founder-cacf096e2f6d41ed90d9373e7ee532cb)
-- [Credit Suisse sheds nearly 25%, key backer says no more money](https://www.reuters.com/business/finance/credit-suisse-shares-drop-fresh-record-low-cds-widen-2023-03-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
