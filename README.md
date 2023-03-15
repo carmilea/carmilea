@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering the multiplication algorithm in the Intel 8086 processor](https://www.righto.com/2023/03/8086-multiplication-microcode.html)
-- [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html)
-- [Linux desktop leaders unite behind Flathub app store. Here&amp;#x27;s why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
-- [What Happens When Your Phone Is Spying on You](https://today.ucsd.edu/story/spywarestudy2023)
-- [Newfound Asteroid May Strike Earth in 2046, NASA Says](https://www.livescience.com/newly-discovered-asteroid-the-size-of-a-swimming-pool-has-a-1-in-600-chance-of-colliding-with-earth-nasa-says)
+- [Laudspeaker &lpar;YC W21&rpar; hiring engineer to build open source customer journey SaaS](https://github.com/laudspeaker/laudspeaker/blob/Hiring/README.md)
+- [LLaMa running at 5 tokens&amp;#x2F;second on a Pixel 6](https://twitter.com/thiteanish/status/1635678053853536256)
+- [Launch HN: Propify &lpar;YC W23&rpar; – Property Management System API Aggregator](https://news.ycombinator.com/item?id=35170955)
+- [Epic Games to Pay $245M for Tricking Users into Making Unwanted Charges](https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-finalizes-order-requiring-fortnite-maker-epic-games-pay-245-million-tricking-users-making)
+- [DreamWorks releases OpenMoonRay source code](https://github.com/dreamworksanimation/openmoonray)
 <!-- BLOG-POST-LIST:END -->
 
 ---
