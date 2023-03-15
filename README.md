@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: BuildFlow &lpar;YC W23&rpar; – The FastAPI of data pipelines](https://news.ycombinator.com/item?id=35169256)
-- [Responsible AI Challenge](https://blog.mozilla.org/en/mozilla/mozilla-launches-responsible-ai-challenge/)
-- [Why Apple and the Carriers Want Your Old iPhone](https://www.wsj.com/articles/why-apple-and-the-carriers-want-your-old-iphone-4279cc8d)
-- [Modern Font Stacks](https://modernfontstacks.com/)
-- [Ask HN: What books helped you in your entrepreneurship journey?](https://news.ycombinator.com/item?id=35168647)
+- [Reverse-engineering the multiplication algorithm in the Intel 8086 processor](https://www.righto.com/2023/03/8086-multiplication-microcode.html)
+- [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html)
+- [Linux desktop leaders unite behind Flathub app store. Here&amp;#x27;s why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
+- [What Happens When Your Phone Is Spying on You](https://today.ucsd.edu/story/spywarestudy2023)
+- [Newfound Asteroid May Strike Earth in 2046, NASA Says](https://www.livescience.com/newly-discovered-asteroid-the-size-of-a-swimming-pool-has-a-1-in-600-chance-of-colliding-with-earth-nasa-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
