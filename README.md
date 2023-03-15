@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Internet Archive&amp;#x27;s battle for libraries](https://www.battleforlibraries.com/)
 - [Trichloroethylene: An invisible cause of Parkinson’s disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
 - [Lidar Reveals 650-Square-Mile Maya Site Hidden Beneath Guatemalan Rain Forest](https://www.livescience.com/lidar-maya-civilization-guatemala)
 - [Kottke.org is 25 years old today](https://kottke.org/23/03/kottke-is-25-years-old-today)
 - [Two U.S. men charged in 2022 hacking of DEA portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
-- [Show HN: AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
