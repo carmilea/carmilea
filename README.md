@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea to build world’s largest chip center in Seoul with $230B investment](https://www.cnn.com/2023/03/15/tech/korea-chips-investment-hnk-intl/index.html)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35164840)
-- [Cox-Zucker Machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine)
-- [The Political Biases of GPT-4 &lpar;are very much still there&rpar;](https://davidrozado.substack.com/p/the-political-biases-of-gpt-4)
+- [Hetzner Launches Three New Dedicated Servers](https://www.hetzner.com/_ray/pow)
 - [The Internet Archive&amp;#x27;s battle for libraries](https://www.battleforlibraries.com/)
 - [Trichloroethylene: An invisible cause of Parkinson’s disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
 <!-- BLOG-POST-LIST:END -->
