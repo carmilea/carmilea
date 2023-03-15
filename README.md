@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian journalist arrested after he questions a minister over election promises](https://www.tribuneindia.com/news/trending/viral-video-up-journalist-questions-minister-over-promises-she-made-during-elections-gets-arrested-after-bjp-worker-lodges-complaint-of-ruckus-488015)
-- [Georgia’s big new nuclear reactors could be the last built in the US](https://www.canarymedia.com/articles/nuclear/georgias-big-new-nuclear-reactors-could-be-the-last-built-in-the-us)
-- [Reddit is currently down](https://mashable.com/article/reddit-is-down-major-outage)
-- [Lemmy](https://lemmy.ml/#)
-- [Oxide pays all employees $191,227 &lpar;Bay Area startup&rpar;](https://oxide.computer/blog/compensation-as-a-reflection-of-values)
+- [40% of the code GitHub Copilot users check-in is AI generated and unmodified](https://www.microsoft.com/en-us/Investor/events/FY-2023/Morgan-Stanley-TMT-Conference)
+- [Was there a tech-hiring bubble? Job postings data suggest so](https://fredblog.stlouisfed.org/2023/03/was-there-a-tech-hiring-bubble/)
+- [MIT 24-Hour Challenge](https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning)
+- [Google shows off what ChatGPT would be like in Gmail and Google Docs](https://arstechnica.com/gadgets/2023/03/google-shows-off-what-chatgpt-would-be-like-in-gmail-and-google-docs/)
+- [We can&amp;#x27;t all use AI. Someone has to generate the training data](https://twitter.com/paulg/status/1635672262903750662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
