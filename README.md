@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why We’re Suing to Protect Right of Incarcerated People to Receive Physical Mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
 - [The Social Radars: Conversations with Startup Founders](https://www.thesocialradars.com)
-- [Samsung&amp;#x27;s Response on &amp;#x27;Moonshot&amp;#x27; Controversy](https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/)
-- [Zed, the new code editor from Atom developers, has entered open beta](https://zed.dev)
+- [GPT4 and the Multi-Modal, Multi-Model, Multi-Everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4)
+- [Samsung&amp;#x27;s response on &amp;#x27;moonshot&amp;#x27; controversy](https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/)
 - [Llama.rs – Rust port of llama.cpp for fast LLaMA inference on CPU](https://github.com/setzer22/llama-rs)
-- [Generative AI is overrated, long live old-school AI](https://encord.com/blog/generative-ai-and-gpt4-is-overrated-long-live-old-school-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
