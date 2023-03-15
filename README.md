@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trichloroethylene: An Invisible Cause of Parkinson’s Disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
 - [Kottke.org Is 25 Years Old Today and I’m Going to Write About It](https://kottke.org/23/03/kottke-is-25-years-old-today)
-- [The Butlerian Jihad](https://en.wikipedia.org/wiki/Dune:_The_Butlerian_Jihad)
+- [AI Could Write Our Laws](https://www.schneier.com/blog/archives/2023/03/how-ai-could-write-our-laws.html)
 - [Two U.S. men charged in 2022 hacking of DEA portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
 - [Show HN: AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
-- [40% of the code GitHub Copilot users check-in is AI generated and unmodified](https://www.microsoft.com/en-us/Investor/events/FY-2023/Morgan-Stanley-TMT-Conference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
