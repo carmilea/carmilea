@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fireball Spotted over Northeastern USA](https://ams.imo.net/members/imo_view/event/2023/1529)
 - [&lpar;Don&amp;#x27;t&rpar; crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
 - [Stripe announces new round of funding and plan to provide employee liquidity](https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity)
-- [Payments giant Stripe raises $6.5B at a $50B valuation](https://www.axios.com/2023/03/15/stripe-50-billion)
+- [OpenAI, Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 - [PyTorch 2.0 Release](https://pytorch.org/blog/pytorch-2.0-release/)
-- [Ratatui: tui-rs revival project](https://github.com/tui-rs-revival/ratatui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
