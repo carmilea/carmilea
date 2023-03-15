@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two U.S. Men Charged in 2022 Hacking of DEA Portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
+- [Show HN: Whatdoesthiscodedo.com – AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
 - [40% of the code GitHub Copilot users check-in is AI generated and unmodified](https://www.microsoft.com/en-us/Investor/events/FY-2023/Morgan-Stanley-TMT-Conference)
 - [Was there a tech-hiring bubble? Job postings data suggest so](https://fredblog.stlouisfed.org/2023/03/was-there-a-tech-hiring-bubble/)
 - [MIT 24-Hour Challenge](https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning)
-- [Google shows off what ChatGPT would be like in Gmail and Google Docs](https://arstechnica.com/gadgets/2023/03/google-shows-off-what-chatgpt-would-be-like-in-gmail-and-google-docs/)
-- [We can&amp;#x27;t all use AI. Someone has to generate the training data](https://twitter.com/paulg/status/1635672262903750662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
