@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Lost a Record $10.3B to Online Scammers Last Year, FBI Says](https://www.wsj.com/articles/americans-lost-a-record-10-3-billion-to-online-scammers-last-year-fbi-says-274d6139)
-- [Unicode Roman Numerals and Screen Readers](https://shkspr.mobi/blog/2023/03/unicode-roman-numerals-and-screen-readers/)
-- [PEP 704 – Require virtual environments by default for package installers](https://peps.python.org/pep-0704/)
-- [Pyroscope and Grafana Phlare join together](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/)
-- [Slauth.io &lpar;YC S22&rpar; Is Hiring another technical co-founder](https://auspicious-domain-086.notion.site/Technical-co-founder-cacf096e2f6d41ed90d9373e7ee532cb)
+- [Launch HN: BuildFlow &lpar;YC W23&rpar; – The FastAPI of data pipelines](https://news.ycombinator.com/item?id=35169256)
+- [Responsible AI Challenge](https://blog.mozilla.org/en/mozilla/mozilla-launches-responsible-ai-challenge/)
+- [Why Apple and the Carriers Want Your Old iPhone](https://www.wsj.com/articles/why-apple-and-the-carriers-want-your-old-iphone-4279cc8d)
+- [Modern Font Stacks](https://modernfontstacks.com/)
+- [Ask HN: What books helped you in your entrepreneurship journey?](https://news.ycombinator.com/item?id=35168647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
