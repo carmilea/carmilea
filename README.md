@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Don&amp;#x27;t&rpar; crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
+- [Stripe announces new round of funding and plan to provide employee liquidity](https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity)
+- [Payments giant Stripe raises $6.5B at a $50B valuation](https://www.axios.com/2023/03/15/stripe-50-billion)
 - [PyTorch 2.0 Release](https://pytorch.org/blog/pytorch-2.0-release/)
 - [Ratatui: tui-rs revival project](https://github.com/tui-rs-revival/ratatui)
-- [Scheele’s Green, the Color of Fake Foliage and Death](https://www.theparisreview.org/blog/2018/05/02/scheeles-green-the-color-of-fake-foliage-and-death/)
-- [Long-sought math proof unlocks more mysterious ‘modular forms’](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)
-- [Suing to protect right of incarcerated people to receive physical mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
