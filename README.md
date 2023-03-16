@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airlines may finally have to do something about toxic fumes on planes](https://www.latimes.com/business/story/2023-03-10/heads-up-boeing-says-congressman-tackling-toxic-fumes-on-airplanes)
+- [The Guide to Java 20 Changes](https://nipafx.dev/java-20-guide/)
 - [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
+- [Noncompete clauses: Companies say they need them, research shows that’s not true](https://slate.com/business/2023/03/noncompete-clauses-washington-research-ban-ftc.html)
 - [Where did FTX customer money go? Firm says Bankman-Fried took $2.2B](https://arstechnica.com/tech-policy/2023/03/sam-bankman-fried-took-2-2-billion-in-payments-and-loans-ftx-tells-court/)
-- [Microsoft Releases 365 Copilot for Word, Excel, PowerPoint, Outlook, Teams](https://news.microsoft.com/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-- [Launch HN: Outerbase &lpar;YC W23&rpar; – A new UI and editor for your database](https://news.ycombinator.com/item?id=35185122)
-- [TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
