@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi has been in violation of GPL for years](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues)
-- [Triplebyte Acquired by Karat](https://karat.com/blog/post/karat-acquires-leading-adaptive-assessment-technology-from-triplebyte/)
-- [How deep is the rot in America’s banking industry?](https://finance.yahoo.com/news/deep-rot-america-banking-industry-104028781.html)
-- [Launch HN: Sidekick &lpar;YC W23&rpar; – AI support bot for developers](https://news.ycombinator.com/item?id=35184120)
-- [Twitch CEO Emmett Shear is resigning](https://www.theverge.com/2023/3/16/23643223/twitch-ceo-emmett-shear-resigning-dan-clancy)
+- [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
+- [Where did FTX customer money go? Firm says Bankman-Fried took $2.2B](https://arstechnica.com/tech-policy/2023/03/sam-bankman-fried-took-2-2-billion-in-payments-and-loans-ftx-tells-court/)
+- [Microsoft Releases 365 Copilot for Word, Excel, PowerPoint, Outlook, Teams](https://news.microsoft.com/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+- [Launch HN: Outerbase &lpar;YC W23&rpar; – A new UI and editor for your database](https://news.ycombinator.com/item?id=35185122)
+- [TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
