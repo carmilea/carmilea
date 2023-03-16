@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple suffers unprecedented exec losses, slashes bonuses, and freezes hiring](https://www.imore.com/apple/apple-suffers-unprecedented-exec-losses-slashes-bonuses-and-freezes-hiring)
+- [How Did Dennis Ritchie Produce His PhD Thesis? [pdf]](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
+- [&amp;#x27;We conclude&amp;#x27; or &amp;#x27;I believe&amp;#x27;? Rationality declined decades ago](https://www.eurekalert.org/news-releases/940009)
 - [BlindAI API: An open-source and privacy-first OpenAI alternative](https://www.mithrilsecurity.io/blindai-api)
 - [&amp;#x27;Financial Times&amp;#x27; Issues 103-Year-Old Correction &lpar;2017&rpar;](https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction)
-- [Fireball Spotted over Northeastern USA](https://ams.imo.net/members/imo_view/event/2023/1529)
-- [Emulating Pokemon Emerald on GPT-4](https://twitter.com/dandangond/status/1636063902688526339)
-- [Stripe announces new round of funding and plan to provide employee liquidity](https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
