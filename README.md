@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi has been in violation of GPL for years](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues)
+- [Triplebyte Acquired by Karat](https://karat.com/blog/post/karat-acquires-leading-adaptive-assessment-technology-from-triplebyte/)
+- [How deep is the rot in America’s banking industry?](https://finance.yahoo.com/news/deep-rot-america-banking-industry-104028781.html)
+- [Launch HN: Sidekick &lpar;YC W23&rpar; – AI support bot for developers](https://news.ycombinator.com/item?id=35184120)
 - [Twitch CEO Emmett Shear is resigning](https://www.theverge.com/2023/3/16/23643223/twitch-ceo-emmett-shear-resigning-dan-clancy)
-- [Warp AI – AI directly integrated into the terminal](https://www.warp.dev/blog/introducing-warp-ai)
-- [Virgin Orbit will suspend operations today](https://arstechnica.com/science/2023/03/virgin-orbit-pauses-all-operations/)
-- [Show HN: Quality News – Towards a fairer ranking algorithm for Hacker News](https://news.social-protocols.org/top)
-- [Rust – Are We Game Yet?](https://arewegameyet.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
