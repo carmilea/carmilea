@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco Bay Area to phase out natural gas heating appliances](https://www.reuters.com/world/us/san-francisco-bay-area-phase-out-natural-gas-heating-appliances-2023-03-16/)
-- [A miracle drug sold over the counter](https://trevorklee.substack.com/p/a-miracle-drug-sold-over-the-counter)
-- [Godot 4.0 Release Party](https://github.blog/2023-03-16-godot-4-0-release-party/)
+- [Free data-center heat is allegedly saving a struggling public pool $24K a year](https://arstechnica.com/information-technology/2023/03/free-data-center-heat-is-allegedly-saving-a-struggling-public-pool-24k-a-year/)
+- [Bandcamp Unionizes](https://www.bandcampunited.org)
+- [YouTube TV raises subscription to $72.99, inching closer to cable pricing](https://www.theverge.com/2023/3/16/23643448/youtube-tv-price-increase-8-cable-pricing)
 - [Former Meta staffer reveals she had to ‘fight for work’](https://fortune.com/2023/03/16/meta-hoarded-us-like-pokemon-cards-former-staffer-fight-for-work-mark-zuckerberg/)
-- [Amazon doubling down on return to office](https://blog.pragmaticengineer.com/amazon-return-to-office/)
+- [We apologize. We did a terrible job announcing the end of Docker Free Teams](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
