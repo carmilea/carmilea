@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Free data-center heat is allegedly saving a struggling public pool $24K a year](https://arstechnica.com/information-technology/2023/03/free-data-center-heat-is-allegedly-saving-a-struggling-public-pool-24k-a-year/)
-- [Bandcamp Unionizes](https://www.bandcampunited.org)
-- [YouTube TV raises subscription to $72.99, inching closer to cable pricing](https://www.theverge.com/2023/3/16/23643448/youtube-tv-price-increase-8-cable-pricing)
-- [Former Meta staffer reveals she had to ‘fight for work’](https://fortune.com/2023/03/16/meta-hoarded-us-like-pokemon-cards-former-staffer-fight-for-work-mark-zuckerberg/)
-- [We apologize. We did a terrible job announcing the end of Docker Free Teams](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
+- [First Republic Bank Executives Sold $12M in Stock in Months Before Crash](https://www.wsj.com/articles/first-republic-bank-executives-sold-12-million-in-stock-in-months-before-crash-ca6ce79e)
+- [Tons of uranium missing from Libyan site, IAEA tells member states](https://www.reuters.com/markets/commodities/tons-uranium-missing-libyan-site-iaea-tells-member-states-2023-03-15/)
+- [ChatGPT can talk to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
+- [Transformers.js](https://xenova.github.io/transformers.js/)
+- [Heroku Status – Dashboard&amp;#x2F;API Offline](https://status.heroku.com/incidents/2524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
