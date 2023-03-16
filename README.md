@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BlindAI API: An open-source and privacy-first OpenAI alternative](https://www.mithrilsecurity.io/blindai-api)
+- [&amp;#x27;Financial Times&amp;#x27; Issues 103-Year-Old Correction &lpar;2017&rpar;](https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction)
 - [Fireball Spotted over Northeastern USA](https://ams.imo.net/members/imo_view/event/2023/1529)
-- [&lpar;Don&amp;#x27;t&rpar; crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
+- [Emulating Pokemon Emerald on GPT-4](https://twitter.com/dandangond/status/1636063902688526339)
 - [Stripe announces new round of funding and plan to provide employee liquidity](https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity)
-- [OpenAI, Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
-- [PyTorch 2.0 Release](https://pytorch.org/blog/pytorch-2.0-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
