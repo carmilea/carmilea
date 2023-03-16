@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I prodded ChatGPT to propose new fundamental theories of physics](https://www.ramrajv.com/blog/chatgpt-spitballing-fundamental-physics-theories/)
 - [GPT-4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code)
+- [High blood caffeine levels may reduce body weight and type 2 diabetes risk](https://www.imperial.ac.uk/news/243716/high-blood-caffeine-levels-reduce-body/)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
-- [Why Barney Frank Went to Work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
-- [Venus is volcanically alive, new find shows](https://www.nationalgeographic.com/science/article/venus-is-volcanically-alive)
-- [French bulldogs are taking over America](https://www.economist.com/graphic-detail/2023/03/15/french-bulldogs-are-taking-over-america)
+- [Why Barney Frank went to work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
