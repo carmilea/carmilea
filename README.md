@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 Copilot – your copilot for work](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-- [Volkswagen’s ID. 2ALL Is a $26,000 EV Hatchback You’d Want to Drive](https://www.thedrive.com/news/volkswagens-id-2all-concept-is-a-26000-ev-hatchback-youd-acutally-want-to-drive)
-- [Citymapper Joins Via](https://content.citymapper.com/news/2582/citymapper-joins-via)
-- [Lego violates GPL by keep Blender-based BrickLink Studio source closed &lpar;2021&rpar;](https://devtalk.blender.org/t/on-what-version-of-cycles-is-bricklink-stud-ios-eyesight-renderer-based/17566)
-- [Show HN: My Failure Resume](https://dare.fail/)
+- [Twitch CEO Emmett Shear is resigning](https://www.theverge.com/2023/3/16/23643223/twitch-ceo-emmett-shear-resigning-dan-clancy)
+- [Warp AI – AI directly integrated into the terminal](https://www.warp.dev/blog/introducing-warp-ai)
+- [Virgin Orbit will suspend operations today](https://arstechnica.com/science/2023/03/virgin-orbit-pauses-all-operations/)
+- [Show HN: Quality News – Towards a fairer ranking algorithm for Hacker News](https://news.social-protocols.org/top)
+- [Rust – Are We Game Yet?](https://arewegameyet.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
