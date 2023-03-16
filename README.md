@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Barney Frank Went to Work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
 - [Apple suffers unprecedented exec losses, slashes bonuses, and freezes hiring](https://www.imore.com/apple/apple-suffers-unprecedented-exec-losses-slashes-bonuses-and-freezes-hiring)
+- [Venus is volcanically alive, new find shows](https://www.nationalgeographic.com/science/article/venus-is-volcanically-alive)
 - [How Did Dennis Ritchie Produce His PhD Thesis? [pdf]](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
-- [&amp;#x27;We conclude&amp;#x27; or &amp;#x27;I believe&amp;#x27;? Rationality declined decades ago](https://www.eurekalert.org/news-releases/940009)
-- [BlindAI API: An open-source and privacy-first OpenAI alternative](https://www.mithrilsecurity.io/blindai-api)
-- [&amp;#x27;Financial Times&amp;#x27; Issues 103-Year-Old Correction &lpar;2017&rpar;](https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction)
+- [Do People Hate the Tech Industry Now?](https://www.kapwing.com/blog/why-does-the-public-hate-the-tech-industry-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
