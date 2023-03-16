@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Custom Web Fonts](https://bt.ht/webfonts/)
-- [Tell HN: Chase shadow banned and closed my bank accounts](https://news.ycombinator.com/item?id=35179427)
-- [Apple: Whistleblower about Working Conditions](https://twitter.com/ashleygjovik/status/1635688047005118480)
+- [Can you beat my dad at Scrabble?](https://dadagrams.com)
+- [Chat GPT4: Is the world prepared for the coming AI storm?](https://www.bbc.co.uk/news/world-us-canada-64967627)
 - [Google discontinues Google Glass for enterprise](https://www.google.com/glass/start/)
 - [Last night I read for the first time the company’s 8k announcing my resignation](https://www.linkedin.com/posts/xiaodihou_last-night-i-read-for-the-first-time-the-activity-7041526468257992705-4BFy)
+- [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
