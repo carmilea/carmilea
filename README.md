@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco Bay Area to phase out natural gas heating appliances](https://www.reuters.com/world/us/san-francisco-bay-area-phase-out-natural-gas-heating-appliances-2023-03-16/)
+- [A miracle drug sold over the counter](https://trevorklee.substack.com/p/a-miracle-drug-sold-over-the-counter)
+- [Godot 4.0 Release Party](https://github.blog/2023-03-16-godot-4-0-release-party/)
+- [Former Meta staffer reveals she had to ‘fight for work’](https://fortune.com/2023/03/16/meta-hoarded-us-like-pokemon-cards-former-staffer-fight-for-work-mark-zuckerberg/)
 - [Amazon doubling down on return to office](https://blog.pragmaticengineer.com/amazon-return-to-office/)
-- [Docker Apology](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
-- [Introducing react.dev](https://react.dev/blog/2023/03/16/introducing-react-dev)
-- [FCC orders phone companies to block scam text messages](https://arstechnica.com/tech-policy/2023/03/fcc-orders-phone-companies-to-block-scam-text-messages/)
-- [Docopt.sh – Command-Line Argument Parser for Bash 3.2, 4, and 5](https://github.com/andsens/docopt.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
