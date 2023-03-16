@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT spitballing fundamental physics theories](https://www.ramrajv.com/blog/chatgpt-spitballing-fundamental-physics-theories/)
-- [GPT-4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code)
+- [Apple: Whistleblower about Working Conditions](https://twitter.com/ashleygjovik/status/1635688047005118480)
+- [Google discontinues Google Glass for enterprise](https://www.google.com/glass/start/)
+- [Last night I read for the first time the company’s 8k announcing my resignation](https://www.linkedin.com/posts/xiaodihou_last-night-i-read-for-the-first-time-the-activity-7041526468257992705-4BFy)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
-- [Why Barney Frank went to work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
 - [Venus is volcanically alive, new find shows](https://www.nationalgeographic.com/science/article/venus-is-volcanically-alive)
 <!-- BLOG-POST-LIST:END -->
 
