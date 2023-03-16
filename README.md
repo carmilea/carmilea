@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney v5 can do hands](https://twitter.com/tristwolff/status/1636188634012438530)
+- [A brief guide to Kubernetes networking](https://ergomake.dev/blog/kubernetes-networking-guide/)
+- [Studies Link Marijuana Legalization to Positive Public Health Outcomes](https://www.goodnewsnetwork.org/studies-link-marijuana-legalization-to-all-sorts-of-positive-public-health-outcomes/)
+- [Not by AI](https://notbyai.fyi/)
 - [Amazon Photos just ate 240,364 of my photos](https://www.amazonforum.com/s/question/0D56Q0000BAmuYXSQZ/is-something-wrong-with-amazon-photos-i-lost-240364-photos)
-- [OpenSSH 9.3&amp;#x2F;9.3p1 Released](https://www.openssh.com/txt/release-9.3)
-- [Anyone else witnessing a panic inside NLP orgs of big tech companies?](https://old.reddit.com/r/MachineLearning/comments/11rizyb/d_anyone_else_witnessing_a_panic_inside_nlp_orgs/)
-- [Brazilian researchers find &amp;#x27;terrifying&amp;#x27; plastic rocks on remote island](https://www.reuters.com/lifestyle/science/brazilian-researchers-find-terrifying-plastic-rocks-remote-island-2023-03-15/)
-- [Can you beat my dad at Scrabble?](https://dadagrams.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
