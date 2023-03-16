@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code)
+- [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
 - [Why Barney Frank Went to Work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
-- [Apple suffers unprecedented exec losses, slashes bonuses, and freezes hiring](https://www.imore.com/apple/apple-suffers-unprecedented-exec-losses-slashes-bonuses-and-freezes-hiring)
 - [Venus is volcanically alive, new find shows](https://www.nationalgeographic.com/science/article/venus-is-volcanically-alive)
-- [How Did Dennis Ritchie Produce His PhD Thesis? [pdf]](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
-- [Do People Hate the Tech Industry Now?](https://www.kapwing.com/blog/why-does-the-public-hate-the-tech-industry-now/)
+- [French bulldogs are taking over America](https://www.economist.com/graphic-detail/2023/03/15/french-bulldogs-are-taking-over-america)
 <!-- BLOG-POST-LIST:END -->
 
 ---
