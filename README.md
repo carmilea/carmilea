@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian researchers find &amp;#x27;terrifying&amp;#x27; plastic rocks on remote island](https://www.reuters.com/lifestyle/science/brazilian-researchers-find-terrifying-plastic-rocks-remote-island-2023-03-15/)
 - [Can you beat my dad at Scrabble?](https://dadagrams.com)
-- [Chat GPT4: Is the world prepared for the coming AI storm?](https://www.bbc.co.uk/news/world-us-canada-64967627)
 - [Google discontinues Google Glass for enterprise](https://www.google.com/glass/start/)
 - [Last night I read for the first time the company’s 8k announcing my resignation](https://www.linkedin.com/posts/xiaodihou_last-night-i-read-for-the-first-time-the-activity-7041526468257992705-4BFy)
-- [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
+- [Court of Versailles vs. the Wild West](https://www.asleepthinking.com/blog/court-of-versailles-vs-the-wild-west)
 <!-- BLOG-POST-LIST:END -->
 
 ---
