@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unpredictable Abilities Emerging from Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
+- [Tesorio is hiring 100% distributed – Head of Data Science and DevOps](https://www.tesorio.com/careers#job-openings)
+- [Big Banks Agree to Historic $30B Deposit Injection in First Republic](https://www.citigroup.com/global/news/press-release/2023/bank-of-america-citigroup-jpmorgan-chase-wells-fargo-goldman-sachs-morgan-stanley-bny-mellon-pnc-bank-state-street-truist-and-u-s-bank-to-make-uninsured-deposits-totaling-30-billion-into-first-republic-bank)
+- [The friendship between Haskell and C](https://typeclasses.substack.com/p/the-friendship-between-haskell-and)
 - [DDRamDisk: RAM disk, a disk based on RAM memory chips](https://ddramdisk.store/)
 - [Verilog Ethernet: Work-in-Progress 100BASE-TX PHY](https://github.com/Forty-Bot/ethernet)
-- [Google Summer of Code 2023](https://summerofcode.withgoogle.com/programs/2023/organizations)
-- [Prostate cancer could be treated by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
