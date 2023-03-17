@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Godot Arrives in the Epic Games Store](https://godotengine.org/article/godot-arrives-in-the-epic-games-store/)
 - [Vid2Seq: A pretrained visual language model for describing multi-event videos](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
-- [Maybe You Don’t Need to Talk to Someone](https://drsamanthaboardman.substack.com/p/maybe-you-dont-need-to-talk-to-someone)
-- [CO2 certificates: Greenwashing in the African savannah &lpar;German&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwirtschaft%2F2023-03%2Fco2-zertifikate-netflix-luxus-kritik)
 - [Launch HN: Codeparrot &lpar;YC W23&rpar; – Automated API testing using production traffic](https://news.ycombinator.com/item?id=35201036)
-- [GPT-4: A Copilot for the Mind](https://every.to/chain-of-thought/gpt-4-a-copilot-for-the-mind)
+- [Windows Market Share Drops to 57% in the US](https://www.technobugg.com/windows-losing-market-share-in-the-united-states/)
+- [The Role of AI in Accelerating Skill Development](https://saulcosta.com/the-role-of-ai-in-accelerating-skill-development-a4831311f0db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
