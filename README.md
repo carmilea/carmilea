@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vid2Seq: A pretrained visual language model for describing multi-event videos](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
+- [Maybe You Don’t Need to Talk to Someone](https://drsamanthaboardman.substack.com/p/maybe-you-dont-need-to-talk-to-someone)
 - [CO2 certificates: Greenwashing in the African savannah &lpar;German&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwirtschaft%2F2023-03%2Fco2-zertifikate-netflix-luxus-kritik)
 - [Launch HN: Codeparrot &lpar;YC W23&rpar; – Automated API testing using production traffic](https://news.ycombinator.com/item?id=35201036)
 - [GPT-4: A Copilot for the Mind](https://every.to/chain-of-thought/gpt-4-a-copilot-for-the-mind)
-- [The Role of AI in Accelerating Skill Development](https://saulcosta.com/the-role-of-ai-in-accelerating-skill-development-a4831311f0db)
-- [DIY Nitrogen TEA Laser](https://physicsopenlab.org/2020/07/16/diy-nitrogen-tea-laser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
