@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First Republic Bank Executives Sold $12M in Stock in Months Before Crash](https://www.wsj.com/articles/first-republic-bank-executives-sold-12-million-in-stock-in-months-before-crash-ca6ce79e)
-- [Tons of uranium missing from Libyan site, IAEA tells member states](https://www.reuters.com/markets/commodities/tons-uranium-missing-libyan-site-iaea-tells-member-states-2023-03-15/)
-- [ChatGPT can talk to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
-- [Transformers.js](https://xenova.github.io/transformers.js/)
-- [Heroku Status – Dashboard&amp;#x2F;API Offline](https://status.heroku.com/incidents/2524)
+- [Show HN: GPT Repo Loader – load entire code repos into GPT prompts](https://github.com/mpoon/gpt-repository-loader)
+- [U.S. Copyright Office Issues Statement on Works Containing AI-Generated Material](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence)
+- [Template – A Simple Framework for Webapps](https://github.com/retrohacker/template)
+- [My Thoughts on “Bad Code”](https://twitter.com/tsoding/status/1632038724044201985)
+- [Google: Turn off VoLTE, Wi-Fi calling: severe Exynos modem vulnerabilities](https://9to5google.com/2023/03/16/google-exynos-modem-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
