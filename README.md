@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074)
+- [Negativity Drives Online News Consumption](https://www.nature.com/articles/s41562-023-01538-4)
+- [Spelunking Apple’s Open Source](https://bitsplitting.org/2023/03/17/spelunking-apples-open-source/)
+- [A Growing Number of Scientists Are Convinced the Future Influences the Past](https://www.vice.com/en/article/epvgjm/a-growing-number-of-scientists-are-convinced-the-future-influences-the-past)
 - [JDK 20 G1&amp;#x2F;Parallel&amp;#x2F;Serial GC Changes](https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html)
-- [Still Have a Use for Adobe Flash? Ruffle Is Working to Safely Emulate It in Rust](https://www.phoronix.com/news/Ruffle-Adobe-Flash-Rust)
-- [Microsoft Outlook Warning: Critical New Email Exploit Triggers Automatically](https://www.forbes.com/sites/daveywinder/2023/03/16/microsoft-outlook-warning-critical-new-email-exploit-triggers-automatically-update-now/)
-- [GPT-4 System Card [pdf]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
-- [Google says hackers could silently own your phone until Samsung fixes its modems](https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
