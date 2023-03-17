@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
+- [PostgreSQL Logical Replication Explained](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql)
 - [Minimum Viable Finance: The Guide for Seed&amp;#x2F;Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
-- [OCC says Crypto bank Protego missed requirements for national trust charter](https://fortune.com/crypto/2023/03/17/crypto-bank-protego-didnt-meet-requirements-for-national-trust-charter-occ-says/)
 - [Godot Arrives in the Epic Games Store](https://godotengine.org/article/godot-arrives-in-the-epic-games-store/)
-- [These Stupid Trucks are Literally Killing Us](https://www.youtube.com/watch?v=jN7mSXMruEo)
-- [Vid2Seq: A pretrained visual language model for describing multi-event videos](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
+- [New React docs pretend SPAs don&amp;#x27;t exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
