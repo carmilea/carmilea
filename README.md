@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speak English to me, The secret World of Programmers](https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md)
 - [Retiring a Favourite C++ Joke](https://ignition-training.com/posts/retire-cpp-joke/)
 - [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
 - [The Misalignment Museum](https://www.misalignmentmuseum.com/)
 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
-- [Show HN: GPT Repo Loader – load entire code repos into GPT prompts](https://github.com/mpoon/gpt-repository-loader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
