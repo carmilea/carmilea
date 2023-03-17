@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Speak English to me, The secret World of Programmers](https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md)
+- [1 hr operation could cure prostate cancer by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
+- [Something Pretty Right: The History and Legacy of Visual Basic](https://retool.com/visual-basic/)
+- [Amazon shuts newspaper and magazine subscriptions for Kindle and print](https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/)
+- [Speak English to me: The secret world of programmers](https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md)
 - [Retiring a Favourite C++ Joke](https://ignition-training.com/posts/retire-cpp-joke/)
-- [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
-- [The Misalignment Museum](https://www.misalignmentmuseum.com/)
-- [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
