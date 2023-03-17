@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CO2 certificates: Greenwashing in the African savannah &lpar;German&rpar;](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwirtschaft%2F2023-03%2Fco2-zertifikate-netflix-luxus-kritik)
+- [Launch HN: Codeparrot &lpar;YC W23&rpar; – Automated API testing using production traffic](https://news.ycombinator.com/item?id=35201036)
+- [GPT-4: A Copilot for the Mind](https://every.to/chain-of-thought/gpt-4-a-copilot-for-the-mind)
+- [The Role of AI in Accelerating Skill Development](https://saulcosta.com/the-role-of-ai-in-accelerating-skill-development-a4831311f0db)
 - [DIY Nitrogen TEA Laser](https://physicsopenlab.org/2020/07/16/diy-nitrogen-tea-laser/)
-- [Show HN: &amp;#x27;Hello, World &amp;#x27; in x86 assembly, but make it gibberish](https://github.com/phoreverpheebs/gibberish)
-- [ChatGPT&amp;#x27;s Chess Elo is 1400](https://dkb.blog/p/chatgpts-chess-elo-is-1400)
-- [Prometheus &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/34u2Lo8-research-engineer-electrochemistry)
-- [Hypothalamic Menin regulates systemic aging and cognitive decline](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002033)
 <!-- BLOG-POST-LIST:END -->
 
 ---
