@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Blew Up Nord Stream? Investigators Focus on Mysterious Passengers on a Yacht](https://www.wsj.com/articles/who-blew-up-nord-stream-investigators-focus-on-six-mysterious-passengers-on-a-yacht-25b47e9b)
+- [GPT-4 System Card [pdf]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
 - [Tesorio is hiring 100% distributed – Head of Data Science and DevOps](https://www.tesorio.com/careers#job-openings)
 - [Big Banks Agree to Historic $30B Deposit Injection in First Republic](https://www.citigroup.com/global/news/press-release/2023/bank-of-america-citigroup-jpmorgan-chase-wells-fargo-goldman-sachs-morgan-stanley-bny-mellon-pnc-bank-state-street-truist-and-u-s-bank-to-make-uninsured-deposits-totaling-30-billion-into-first-republic-bank)
 - [The friendship between Haskell and C](https://typeclasses.substack.com/p/the-friendship-between-haskell-and)
-- [DDRamDisk: RAM disk, a disk based on RAM memory chips](https://ddramdisk.store/)
-- [Verilog Ethernet: Work-in-Progress 100BASE-TX PHY](https://github.com/Forty-Bot/ethernet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
