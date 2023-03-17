@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DDRamDisk: RAM disk, a disk based on RAM memory chips](https://ddramdisk.store/)
+- [Apple Fooled All Mac Catalyst Developers](https://blog.wildcat.io/2023/03/fu-k-you-apple-you-fooled-all-catalyst-developers/)
 - [Verilog Ethernet: Work-in-Progress 100BASE-TX PHY](https://github.com/Forty-Bot/ethernet)
 - [Google Summer of code 2023 is coming](https://summerofcode.withgoogle.com/programs/2023/organizations)
-- [1 hr operation could cure prostate cancer by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
-- [Something Pretty Right: The History and Legacy of Visual Basic](https://retool.com/visual-basic/)
-- [Amazon shuts newspaper and magazine subscriptions for Kindle and print](https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/)
+- [Prostate cancer could be treated by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
