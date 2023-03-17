@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verilog Ethernet: Work-in-Progress 100BASE-TX PHY](https://github.com/Forty-Bot/ethernet)
+- [Google Summer of code 2023 is coming](https://summerofcode.withgoogle.com/programs/2023/organizations)
 - [1 hr operation could cure prostate cancer by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
-- [Can GPT-4 *Actually* Write Code?](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
 - [Something Pretty Right: The History and Legacy of Visual Basic](https://retool.com/visual-basic/)
 - [Amazon shuts newspaper and magazine subscriptions for Kindle and print](https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/)
-- [Speak English to me: The secret world of programmers](https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
