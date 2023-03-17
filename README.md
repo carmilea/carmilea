@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimum Viable Finance: The Guide for Seed&amp;#x2F;Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
+- [OCC says Crypto bank Protego missed requirements for national trust charter](https://fortune.com/crypto/2023/03/17/crypto-bank-protego-didnt-meet-requirements-for-national-trust-charter-occ-says/)
 - [Godot Arrives in the Epic Games Store](https://godotengine.org/article/godot-arrives-in-the-epic-games-store/)
+- [These Stupid Trucks are Literally Killing Us](https://www.youtube.com/watch?v=jN7mSXMruEo)
 - [Vid2Seq: A pretrained visual language model for describing multi-event videos](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
-- [Launch HN: Codeparrot &lpar;YC W23&rpar; – Automated API testing using production traffic](https://news.ycombinator.com/item?id=35201036)
-- [Windows Market Share Drops to 57% in the US](https://www.technobugg.com/windows-losing-market-share-in-the-united-states/)
-- [The Role of AI in Accelerating Skill Development](https://saulcosta.com/the-role-of-ai-in-accelerating-skill-development-a4831311f0db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
