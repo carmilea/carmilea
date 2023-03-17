@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICC judges issue arrest warrants against Vladimir Putin and Maria Lvova-Belova](https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and)
 - [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074)
 - [Negativity Drives Online News Consumption](https://www.nature.com/articles/s41562-023-01538-4)
 - [Spelunking Apple’s Open Source](https://bitsplitting.org/2023/03/17/spelunking-apples-open-source/)
 - [A Growing Number of Scientists Are Convinced the Future Influences the Past](https://www.vice.com/en/article/epvgjm/a-growing-number-of-scientists-are-convinced-the-future-influences-the-past)
-- [JDK 20 G1&amp;#x2F;Parallel&amp;#x2F;Serial GC Changes](https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
