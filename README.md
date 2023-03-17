@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Unpredictable Abilities Emerging from Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
 - [DDRamDisk: RAM disk, a disk based on RAM memory chips](https://ddramdisk.store/)
-- [Apple Fooled All Mac Catalyst Developers](https://blog.wildcat.io/2023/03/fu-k-you-apple-you-fooled-all-catalyst-developers/)
 - [Verilog Ethernet: Work-in-Progress 100BASE-TX PHY](https://github.com/Forty-Bot/ethernet)
-- [Google Summer of code 2023 is coming](https://summerofcode.withgoogle.com/programs/2023/organizations)
+- [Google Summer of Code 2023](https://summerofcode.withgoogle.com/programs/2023/organizations)
 - [Prostate cancer could be treated by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
 <!-- BLOG-POST-LIST:END -->
 
