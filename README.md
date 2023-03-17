@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY Nitrogen TEA Laser](https://physicsopenlab.org/2020/07/16/diy-nitrogen-tea-laser/)
+- [Show HN: &amp;#x27;Hello, World &amp;#x27; in x86 assembly, but make it gibberish](https://github.com/phoreverpheebs/gibberish)
+- [ChatGPT&amp;#x27;s Chess Elo is 1400](https://dkb.blog/p/chatgpts-chess-elo-is-1400)
 - [Prometheus &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/34u2Lo8-research-engineer-electrochemistry)
 - [Hypothalamic Menin regulates systemic aging and cognitive decline](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002033)
-- [Linux Intel WiFi driver broken with 5&amp;amp;6GHz bands for longer than three years](https://bugzilla.kernel.org/show_bug.cgi?id=206469)
-- [Load LLaMA Models Instantly](https://twitter.com/justinetunney/status/1636628000493174784)
-- [ViperGPT: Visual Inference via Python Execution for Reasoning](https://viper.cs.columbia.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
