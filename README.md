@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta employees grill Mark Zuckerberg at all-hands meeting following layoffs](https://www.washingtonpost.com/technology/2023/03/16/zuckerberg-meta-townhall/)
+- [Why is building a UI in Rust so hard?](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard)
+- [Genode&amp;#x27;s Browser Odyssey &lpar;2022&rpar;](https://genodians.org/nfeske/2022-01-27-browser-odyssey)
 - [YouTube millionaires are not your friends](https://www.vox.com/culture/23640192/sebastian-ghiorghiu-youtube-hustle-gurus-passive-income-dropshipping)
-- [Google nixes paying maternity and medical leave for laid off workers](https://www.cnbc.com/2023/03/17/google-nixes-paying-out-rest-of-medical-leave-for-laid-off-employees.html)
 - [Clothing designed to confuse facial recognition software](https://www.capable.design)
 - [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
 <!-- BLOG-POST-LIST:END -->
