@@ -54,7 +54,7 @@
 - [Meta employees grill Mark Zuckerberg at all-hands meeting following layoffs](https://www.washingtonpost.com/technology/2023/03/16/zuckerberg-meta-townhall/)
 - [YouTube millionaires are not your friends](https://www.vox.com/culture/23640192/sebastian-ghiorghiu-youtube-hustle-gurus-passive-income-dropshipping)
 - [Google nixes paying maternity and medical leave for laid off workers](https://www.cnbc.com/2023/03/17/google-nixes-paying-out-rest-of-medical-leave-for-laid-off-employees.html)
-- [Community’s 25yrs without a newborn shows scale of Japan’s population crisis](https://www.cnn.com/2023/03/17/asia/japan-population-crisis-countryside-cities-intl-hnk-dst/index.html)
+- [Clothing designed to confuse facial recognition software](https://www.capable.design)
 - [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
 <!-- BLOG-POST-LIST:END -->
 
