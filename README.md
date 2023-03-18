@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Async&amp;#x2F;Await Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
+- [Klint: Compile-Time Detection of Atomic Context Violations for Kernel Rust Code](https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/)
+- [PHP 8.2.4 Released](https://www.php.net/index.php)
+- [Tracking the Fake GitHub Star Black Market](https://dagster.io/blog/fake-stars)
 - [Why is building a UI in Rust so hard?](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard)
-- [Genode&amp;#x27;s Browser Odyssey &lpar;2022&rpar;](https://genodians.org/nfeske/2022-01-27-browser-odyssey)
-- [YouTube millionaires are not your friends](https://www.vox.com/culture/23640192/sebastian-ghiorghiu-youtube-hustle-gurus-passive-income-dropshipping)
-- [Clothing designed to confuse facial recognition software](https://www.capable.design)
-- [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
