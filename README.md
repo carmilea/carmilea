@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RIP Frank Drake - pioneered SETI experiments detecting radio signals from stars](https://setiathome.berkeley.edu/forum_thread.php?id=85927)
 - [SETI@home Is in Hibernation](https://setiathome.berkeley.edu/)
+- [The Time I Hacked Google’s Manual Actions Database](https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/)
 - [The U.S. military is missing six nuclear weapons &lpar;2021&rpar;](https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032)
-- [Vanishing phone customer support is driving us all insane](https://www.washingtonpost.com/opinions/2023/03/07/phone-customer-support-disappearing/)
 - [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
-- [Deep Dive into ZGC: A Modern Garbage Collector in OpenJDK [pdf]](https://dl.acm.org/doi/pdf/10.1145/3538532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
