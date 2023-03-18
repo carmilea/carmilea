@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
+- [Chat GPT Haggadah Supplement](https://www.haggadot.com/haggadah/chat-gpt-haggadah)
+- [Flight attendants want to ban lap-babies](https://www.washingtonpost.com/travel/2023/03/16/lap-babies-flight-safety-turbulence/)
 - [Are You Ok?](https://memex.marginalia.nu/log/72-are-you-ok.gmi)
-- [RIP Frank Drake - pioneered SETI experiments detecting radio signals from stars](https://setiathome.berkeley.edu/forum_thread.php?id=85927)
-- [SETI@home Is in Hibernation](https://setiathome.berkeley.edu/)
-- [The Time I Hacked Google’s Manual Actions Database](https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/)
-- [The U.S. military is missing six nuclear weapons &lpar;2021&rpar;](https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032)
+- [Costs of the U.S.-Led War in Iraq Since 2003](https://watson.brown.edu/costsofwar/2022/IraqWarCosts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
