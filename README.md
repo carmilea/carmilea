@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Years of Nix](https://20th.nixos.org/)
+- [Query Google Sheets as virtual tables with SQLite extension – libgsqlite](https://github.com/0x6b/libgsqlite)
+- [Dumping 1M gallons of radioactive water in Hudson is ‘best option,’](https://gothamist.com/news/dumping-radioactive-water-hudson-river-best-option-indian-point-nuclear-plant-owner-holtec)
 - [Study hints at the promise of non-hallucinogenic LSD for treating mood disorders](https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html)
-- [Acropalypse: a vulnerability in Google&amp;#x27;s screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
-- [Inside a journal’s quest to upend science publishing](https://www.nature.com/articles/d41586-023-00831-6)
-- [Restrict CI runners to valid freedesktop projects only](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/540)
-- [This week in KDE: “More Wayland fixes”](https://pointieststick.com/2023/03/17/this-week-in-kde-more-wayland-fixes/)
+- [The dark defaults of Microsoft Edge](https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
