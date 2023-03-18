@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Oberon+ Programming Language](https://oberon-lang.github.io/)
+- [Laptop Brands with GNU&amp;#x2F;Linux Preinstalled](https://floss.social/@ademalsasa/109597861116785251)
+- [‘He passed the bee baton on to me’: people who inherit hobbies](https://www.theguardian.com/lifeandstyle/2023/mar/08/he-passed-the-bee-baton-on-to-me-people-who-inherit-hobbies)
 - [Tungsten Gold Plated Bar](http://www.tungsten-alloy.com/gold-plated-tungsten-alloy-bar.html)
 - [20 Years of Nix](https://20th.nixos.org/)
-- [About 8% of deaths from any cause could be attributed to poor sleep patterns](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life)
-- [Query Google Sheets as virtual tables with SQLite extension – libgsqlite](https://github.com/0x6b/libgsqlite)
-- [Study hints at the promise of non-hallucinogenic LSD for treating mood disorders](https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
