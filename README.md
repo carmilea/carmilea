@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Ok?](https://memex.marginalia.nu/log/72-are-you-ok.gmi)
 - [RIP Frank Drake - pioneered SETI experiments detecting radio signals from stars](https://setiathome.berkeley.edu/forum_thread.php?id=85927)
 - [SETI@home Is in Hibernation](https://setiathome.berkeley.edu/)
 - [The Time I Hacked Google’s Manual Actions Database](https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/)
 - [The U.S. military is missing six nuclear weapons &lpar;2021&rpar;](https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032)
-- [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
