@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
+- [Arbitrary code execution during compilation – rust](https://github.com/eleijonmarck/do-not-compile-this-code)
 - [Twitter will open source all code used to recommend tweets on March 31](https://nitter.bird.froth.zone/elonmusk/status/1636835209587949570#m)
-- [We&amp;#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 - [Build Your Own Redis with C&amp;#x2F;C++](https://build-your-own.org/redis/)
 - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
-- [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
