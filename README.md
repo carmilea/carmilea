@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Redis with C&amp;#x2F;C++](https://build-your-own.org/redis/)
+- [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
+- [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
 - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 - [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
-- [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
-- [a[low:high:max] in Golang – A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
-- [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
