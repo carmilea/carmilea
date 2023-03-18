@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SETI@home Is in Hibernation](https://setiathome.berkeley.edu/)
+- [The U.S. military is missing six nuclear weapons &lpar;2021&rpar;](https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032)
+- [Vanishing phone customer support is driving us all insane](https://www.washingtonpost.com/opinions/2023/03/07/phone-customer-support-disappearing/)
 - [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
-- [PostgreSQL Logical Replication Explained](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql)
-- [Minimum Viable Finance: The Guide for Seed&amp;#x2F;Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
-- [Godot Arrives in the Epic Games Store](https://godotengine.org/article/godot-arrives-in-the-epic-games-store/)
-- [New React docs pretend SPAs don&amp;#x27;t exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
+- [Deep Dive into ZGC: A Modern Garbage Collector in OpenJDK [pdf]](https://dl.acm.org/doi/pdf/10.1145/3538532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
