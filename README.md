@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who’s afraid of reverse mereological essentialism?](https://link.springer.com/article/10.1007/s11098-023-01935-5)
+- [AWS’s Anti-Competitive Move Hidden in Plain Sight](https://www.lastweekinaws.com/blog/awss-anti-competitive-move-hidden-in-plain-sight/)
+- [I’m Finally Learning How to Reframe Romantic Rejection](https://www.vogue.com/article/im-finally-learning-how-to-reframe-romantic-rejection)
+- [What all is involved in simulating an economy for a game that involves trading?](https://old.reddit.com/r/gamedev/comments/24fjp9/what_all_is_involved_in_simulating_an_economy_for/)
 - [The Oberon+ Programming Language](https://oberon-lang.github.io/)
-- [Laptop Brands with GNU&amp;#x2F;Linux Preinstalled](https://floss.social/@ademalsasa/109597861116785251)
-- [‘He passed the bee baton on to me’: people who inherit hobbies](https://www.theguardian.com/lifeandstyle/2023/mar/08/he-passed-the-bee-baton-on-to-me-people-who-inherit-hobbies)
-- [Tungsten Gold Plated Bar](http://www.tungsten-alloy.com/gold-plated-tungsten-alloy-bar.html)
-- [20 Years of Nix](https://20th.nixos.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
