@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study hints at the promise of non-hallucinogenic LSD for treating mood disorders](https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html)
+- [Acropalypse: a vulnerability in Google&amp;#x27;s screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 - [Inside a journal’s quest to upend science publishing](https://www.nature.com/articles/d41586-023-00831-6)
 - [Restrict CI runners to valid freedesktop projects only](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/540)
 - [This week in KDE: “More Wayland fixes”](https://pointieststick.com/2023/03/17/this-week-in-kde-more-wayland-fixes/)
-- [How to participate in Monday’s oral arguments re: Internet Archive](http://blog.archive.org/2023/03/17/heres-how-to-participate-in-mondays-oral-arguments/)
-- [How Async&amp;#x2F;Await Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
