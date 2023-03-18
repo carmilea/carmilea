@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who’s afraid of reverse mereological essentialism?](https://link.springer.com/article/10.1007/s11098-023-01935-5)
-- [AWS’s Anti-Competitive Move Hidden in Plain Sight](https://www.lastweekinaws.com/blog/awss-anti-competitive-move-hidden-in-plain-sight/)
-- [I’m Finally Learning How to Reframe Romantic Rejection](https://www.vogue.com/article/im-finally-learning-how-to-reframe-romantic-rejection)
-- [What all is involved in simulating an economy for a game that involves trading?](https://old.reddit.com/r/gamedev/comments/24fjp9/what_all_is_involved_in_simulating_an_economy_for/)
-- [The Oberon+ Programming Language](https://oberon-lang.github.io/)
+- [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
+- [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
+- [A Short History of the VW Mark 1 Rabbit&amp;#x2F;Golf](https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf)
+- [Nuclear power plant leaked 1.5M litres of radioactive water in Minnesota](https://globalnews.ca/news/9559326/nuclear-power-plant-leak-radioactive-water-minnesota/)
+- [Anki-Fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
