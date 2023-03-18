@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pain in the Tech Industry Is Beginning to Hit the Rest of Us](https://www.wsj.com/articles/whythe-tech-industrys-pain-is-spreading-df6ff087)
+- [TSA confirms plans to mandate mug shots for domestic air travel](https://papersplease.org/wp/2023/03/15/tsa-confirms-plans-to-mandate-mug-shots-for-domestic-air-travel/)
 - [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
-- [Chat GPT Haggadah Supplement](https://www.haggadot.com/haggadah/chat-gpt-haggadah)
 - [Flight attendants want to ban lap-babies](https://www.washingtonpost.com/travel/2023/03/16/lap-babies-flight-safety-turbulence/)
-- [Are You Ok?](https://memex.marginalia.nu/log/72-are-you-ok.gmi)
-- [Costs of the U.S.-Led War in Iraq Since 2003](https://watson.brown.edu/costsofwar/2022/IraqWarCosts)
+- [Are you ok?](https://memex.marginalia.nu/log/72-are-you-ok.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
