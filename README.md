@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tungsten Gold Plated Bar](http://www.tungsten-alloy.com/gold-plated-tungsten-alloy-bar.html)
 - [20 Years of Nix](https://20th.nixos.org/)
+- [About 8% of deaths from any cause could be attributed to poor sleep patterns](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life)
 - [Query Google Sheets as virtual tables with SQLite extension – libgsqlite](https://github.com/0x6b/libgsqlite)
-- [Dumping 1M gallons of radioactive water in Hudson is ‘best option,’](https://gothamist.com/news/dumping-radioactive-water-hudson-river-best-option-indian-point-nuclear-plant-owner-holtec)
 - [Study hints at the promise of non-hallucinogenic LSD for treating mood disorders](https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html)
-- [The dark defaults of Microsoft Edge](https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
