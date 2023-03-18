@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google won’t honor medical leave during its layoffs](https://arstechnica.com/gadgets/2023/03/employees-say-google-is-botching-those-12000-layoffs/)
+- [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)
 - [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
 - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
-- [A Short History of the VW Mark 1 Rabbit&amp;#x2F;Golf](https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf)
-- [Nuclear power plant leaked 1.5M litres of radioactive water in Minnesota](https://globalnews.ca/news/9559326/nuclear-power-plant-leak-radioactive-water-minnesota/)
-- [Anki-Fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life)
+- [A short history of the VW Mark 1 Rabbit&amp;#x2F;Golf &lpar;2021&rpar;](https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
