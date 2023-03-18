@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter will open source all code used to recommend tweets on March 31](https://nitter.bird.froth.zone/elonmusk/status/1636835209587949570#m)
+- [We&amp;#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 - [Build Your Own Redis with C&amp;#x2F;C++](https://build-your-own.org/redis/)
 - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
 - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
-- [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
-- [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
