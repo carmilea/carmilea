@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unix legend Ken Thompson announces he&amp;#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
+- [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
+- [This Drone Will Change Everything](https://www.youtube.com/watch?v=DOWDNBu9DkU)
 - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)
-- [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
-- [Tell HN: Instagram&amp;#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
-- [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
