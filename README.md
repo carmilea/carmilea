@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg: “Please Resign” [2010]](https://www.techemails.com/p/mark-zuckerberg-please-resign)
-- [Credit Suisse Controversies](https://en.wikipedia.org/wiki/Credit_Suisse)
-- [The Origin Story Behind the 2022 Nobel Prize in Physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
-- [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
-- [‘Catch Me If You Can’ conman Frank Abagnale Jr. lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
+- [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
+- [Section 230 Won’t Protect ChatGPT](https://www.lawfareblog.com/section-230-wont-protect-chatgpt)
+- [AI could upend the world even more than electricity or the internet](https://techxplore.com/news/2023-03-ai-upend-world-electricity-internet.html)
+- [Jaccard Index](https://en.wikipedia.org/wiki/Jaccard_index)
+- [New Horizons’ Top Pluto Pics &lpar;2016&rpar;](https://www.nasa.gov/feature/new-horizons-top-10-pluto-pics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
