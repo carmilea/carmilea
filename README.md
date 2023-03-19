@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
+- [The Curious Case of a Memory Leak in a Zig Program](https://iamkroot.github.io/blog/zig-memleak)
 - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
+- [American colleges in crisis with enrollment decline largest on record](https://fortune.com/2023/03/09/american-skipping-college-huge-numbers-pandemic-turned-them-off-education/)
 - [Design of GNU Parallel](https://www.gnu.org/software/parallel/parallel_design.html)
 - [10 days fasting and calcium&amp;#x2F;vit d supplements increases bone mineral density](https://www.sciencedirect.com/science/article/abs/pii/S875632822100380X)
-- [Learning BASIC Like It&amp;#x27;s 1983 &lpar;2018&rpar;](https://twobithistory.org/2018/09/02/learning-basic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
