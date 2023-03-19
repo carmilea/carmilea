@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta staffers reportedly spar with Mark Zuckerberg after mass layoffs](https://www.sfgate.com/tech/article/meta-mark-zuckerberg-town-hall-17846283.php)
+- [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
+- [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
 - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
 - [Unix legend Ken Thompson announces he&amp;#x27;s switching From macOS To Raspbian Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
-- [Microsoft is testing a built-in cryptocurrency wallet for the Edge web browser](https://arstechnica.com/gadgets/2023/03/microsoft-is-testing-a-built-in-cryptocurrency-wallet-for-the-edge-browser/)
 - [Alternative facts: How the media failed Julian Assange](https://harpers.org/archive/2023/03/alternative-facts-how-the-media-failed-julian-assange/)
 <!-- BLOG-POST-LIST:END -->
 
