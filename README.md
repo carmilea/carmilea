@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
 - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
-- [When did Chamath short Credit Suisse?](https://abhvio.us/posts/credsui/)
 - [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
-- [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
+- [Coordinated central bank action to enhance the provision of US dollar liquidity](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
