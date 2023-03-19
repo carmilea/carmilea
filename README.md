@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
+- [Farmers Can’t Keep Hogging the Water in Parched Southwest](https://www.bloomberg.com/opinion/articles/2023-03-18/farmers-can-t-keep-hogging-the-water-in-parched-southwest)
+- [Design of GNU Parallel](https://www.gnu.org/software/parallel/parallel_design.html)
 - [10 days fasting and calcium&amp;#x2F;vit d supplements increases bone mineral density](https://www.sciencedirect.com/science/article/abs/pii/S875632822100380X)
 - [Learning BASIC Like It&amp;#x27;s 1983 &lpar;2018&rpar;](https://twobithistory.org/2018/09/02/learning-basic.html)
-- [‘Forever Chemicals’ Deserve Far More EPA Scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
-- [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
-- [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
