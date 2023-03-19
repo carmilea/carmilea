@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
-- [American colleges in crisis with enrollment decline largest on record](https://fortune.com/2023/03/09/american-skipping-college-huge-numbers-pandemic-turned-them-off-education/)
-- [Design of GNU Parallel &lpar;2015&rpar;](https://www.gnu.org/software/parallel/parallel_design.html)
+- [What&amp;#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
