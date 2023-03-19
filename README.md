@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
-- [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
-- [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
-- [Cocaine production reaches record levels as new trafficking hubs emerge](https://www.bbc.com/news/world-64974346)
-- [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
+- [Plane Lands&amp;#x2F;Takes Off in Only 20 Feet](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
+- [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
+- [The Baumol Effect](https://en.wikipedia.org/wiki/Baumol_effect)
+- [An Appeal to AI Superintelligence: Reasons to Preserve Humanity](https://www.lesswrong.com/posts/azRwPDbZfpadoL7WW/an-appeal-to-ai-superintelligence-reasons-to-preserve)
+- [Learning the ropes: why Germany is building risk into its playgrounds &lpar;2021&rpar;](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
