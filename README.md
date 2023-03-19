@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
 - [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
+- [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
 - [Firefox 66 to block automatically playing audible video and audio &lpar;2019&rpar;](https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/)
-- [On the left is GPT-3.5. On the right is GPT-4](https://twitter.com/d_feldman/status/1636955260680847361)
 - [Build Your Own Redis with C&amp;#x2F;C++](https://build-your-own.org/redis/)
 <!-- BLOG-POST-LIST:END -->
 
