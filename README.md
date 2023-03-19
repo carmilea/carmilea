@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
+- [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
+- [Cocaine production reaches record levels as new trafficking hubs emerge](https://www.bbc.com/news/world-64974346)
 - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
-- [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
-- [Unix legend Ken Thompson announces he&amp;#x27;s switching From macOS To Raspbian Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
-- [Alternative facts: How the media failed Julian Assange](https://harpers.org/archive/2023/03/alternative-facts-how-the-media-failed-julian-assange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
