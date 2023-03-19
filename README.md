@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
+- [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
+- [Tell HN: Instagram&amp;#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
 - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 - [To ensure vaccines work properly, men should get a good night’s sleep](https://www.economist.com/science-and-technology/2023/03/15/to-ensure-vaccines-work-properly-men-should-get-a-good-nights-sleep)
-- [Do I Need to Avoid Dark Chocolate Now?](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
-- [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
-- [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
