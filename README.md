@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg: “Please Resign” [2010]](https://www.techemails.com/p/mark-zuckerberg-please-resign)
+- [Credit Suisse Controversies](https://en.wikipedia.org/wiki/Credit_Suisse)
+- [The Origin Story Behind the 2022 Nobel Prize in Physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
-- [Ask HN: Which tech podcasts would you recommend to a friend?](https://news.ycombinator.com/item?id=35221488)
-- [Affordable Device Will Let Anyone Connect Their Brain to a Computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
-- [The Philosopher: A Conversation with Grady Booch](https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html)
-- [UBS Agrees to Buy Credit Suisse in Historic Deal to End Crisis](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
+- [‘Catch Me If You Can’ conman Frank Abagnale Jr. lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
