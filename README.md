@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
-- [Bracketed Paste Mode](https://cirw.in/blog/bracketed-paste)
-- [Fake Samsung 980 Pro SSDs Are Spreading Around](https://www.tomshardware.com/news/fake-samsung-980-pro)
-- [Section 230 Won’t Protect ChatGPT](https://www.lawfareblog.com/section-230-wont-protect-chatgpt)
-- [UBS agrees to buy Credit Suisse in Swiss-assisted bid to calm markets](https://www.reuters.com/business/finance/ubs-take-over-credit-suisse-central-bank-2023-03-19/)
+- [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
+- [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
+- [When did Chamath short Credit Suisse?](https://abhvio.us/posts/credsui/)
+- [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
+- [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
