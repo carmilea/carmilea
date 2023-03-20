@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Could Rewrite Curl &lpar;2021&rpar;](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
-- [ChatGPT is Down](https://status.openai.com/incidents/y6cdztrnth60)
+- [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
-- [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
