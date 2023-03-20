@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Korea has the lowest fertility rate, with lessons for us all](https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate)
-- [Ars: “Book publishers with surging profits struggle to prove IA hurt sales”](https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/)
-- [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
-- [macOS Cursors](https://mac-cursors.netlify.app)
-- [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
+- [It Turns Out That JPMorgan Bought the Nickel That Turned Out to Be Stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
+- [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
+- [Credit Suisse’s takeover causes turmoil in a $275B bond market](https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market)
+- [Baidu Ernie writes poems, says it has insufficient information on Xi, tests show](https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/)
+- [Twitch.tv Lays of 400 Employees](https://blog.twitch.tv/en/2023/03/20/an-update-about-our-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
