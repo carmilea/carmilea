@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
+- [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
+- [Chronology Clock](https://chronologyclock.com/)
 - [Doors I touched today &lpar;1999&rpar;](https://fluxus.org/FluxusMidwest/doorknobs/)
-- [The Move to Memory-Safe Programming](https://spectrum.ieee.org/memory-safe-programming-languages)
-- [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
-- [Show HN: Great Books Homeschool beta program](https://www.greatbookshomeschool.com)
-- [ChatGPT is down](https://status.openai.com/incidents/jq9232rcmktd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
