@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 - [Oakland&amp;#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
 - [Blockbuster Video&amp;#x27;s Website Is Suddenly Active Again](https://comicbook.com/movies/news/blockbuster-videos-website-is-suddenly-active-again/)
 - [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
 - [Federal Reserve lent $300B in emergency funds to banks in the past week](https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week)
-- [Gallery of Minimal Design Websites](https://minimal.gallery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
