@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 - [Who becomes an entrepreneur? Insights from 7 research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
+- [Altstore: Home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
+- [We gave GPT-3.5 tools to run, write, commit, and deploy code](https://old.reddit.com/r/MachineLearning/comments/11vfbo9/p_we_gave_gpt35_tools_that_developers_use_and_let/)
 - [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
-- [Oakland&amp;#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
-- [Blockbuster Video&amp;#x27;s Website Is Suddenly Active Again](https://comicbook.com/movies/news/blockbuster-videos-website-is-suddenly-active-again/)
-- [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
