@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
+- [ChatGPT is Down](https://status.openai.com/incidents/y6cdztrnth60)
 - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
-- [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
-- [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
