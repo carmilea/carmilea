@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
-- [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
-- [Chronology Clock](https://chronologyclock.com/)
-- [Doors I touched today &lpar;1999&rpar;](https://fluxus.org/FluxusMidwest/doorknobs/)
+- [South Korea has the lowest fertility rate, with lessons for us all](https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate)
+- [Ars: “Book publishers with surging profits struggle to prove IA hurt sales”](https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
+- [macOS Cursors](https://mac-cursors.netlify.app)
+- [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
