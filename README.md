@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;YC W13&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
+- [Close to 190 banks could face Silicon Valley Bank&amp;#x27;s fate, according to new study](https://www.usatoday.com/story/money/personalfinance/real-estate/2023/03/19/svb-collapse-new-banks-could-fail/11504269002/)
 - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
 - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 - [Command Line One-Liners](https://www.commandlinefu.com/commands/browse)
-- [Reassessing relative temporal lobe size in anthropoids and modern humans](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
