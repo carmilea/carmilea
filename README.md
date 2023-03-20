@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ivy &lpar;YC W23&rpar; is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
-- [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
-- [ChatGPT is rendering other people&amp;#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/)
-- [The hard problem of onboarding horizontal products](https://robhaisfield.com/notes/the-hard-problem-of-onboarding-horizontal-products)
+- [UBS Got Credit Suisse for Almost Nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
+- [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
+- [Docker’s Bad Week](https://www.infoworld.com/article/3691292/dockers-bad-week.html)
+- [MailChimp blacklists your IP if you open the browser&amp;#x27;s dev tools](https://news.ycombinator.com/item?id=35235732)
+- [JPMorgan advising First Republic on alternatives, including a capital raise](https://www.cnbc.com/2023/03/20/jpmorgan-advising-first-republic-on-strategic-alternatives-including-a-capital-raise-sources-say.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
