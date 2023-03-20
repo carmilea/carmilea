@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UBS Got Credit Suisse for Almost Nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
+- [ChatGPT is down](https://status.openai.com/incidents/jq9232rcmktd)
+- [Launch HN: Bloop &lpar;YC S21&rpar; – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
+- [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
+- [UBS got Credit Suisse for almost nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
 - [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
-- [Docker’s Bad Week](https://www.infoworld.com/article/3691292/dockers-bad-week.html)
-- [MailChimp blacklists your IP if you open the browser&amp;#x27;s dev tools](https://news.ycombinator.com/item?id=35235732)
-- [JPMorgan advising First Republic on alternatives, including a capital raise](https://www.cnbc.com/2023/03/20/jpmorgan-advising-first-republic-on-strategic-alternatives-including-a-capital-raise-sources-say.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
