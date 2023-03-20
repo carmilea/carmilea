@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doors I touched today &lpar;1999&rpar;](https://fluxus.org/FluxusMidwest/doorknobs/)
+- [The Move to Memory-Safe Programming](https://spectrum.ieee.org/memory-safe-programming-languages)
+- [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
+- [Show HN: Great Books Homeschool beta program](https://www.greatbookshomeschool.com)
 - [ChatGPT is down](https://status.openai.com/incidents/jq9232rcmktd)
-- [Launch HN: Bloop &lpar;YC S21&rpar; – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
-- [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
-- [UBS got Credit Suisse for almost nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
-- [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
