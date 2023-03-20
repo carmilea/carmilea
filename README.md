@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
-- [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
-- [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
-- [Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money](https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
+- [Amazon Cutting Another 9k Jobs](https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs)
+- [Acer &lpar;yes, the computer company&rpar; is building a fancy electric bike with AI](https://electrek.co/2023/03/20/acer-ebii-electric-bike-ai/)
+- [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
+- [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
+- [Gitea 1.19](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
