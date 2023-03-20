@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Cutting Another 9k Jobs](https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs)
-- [Acer &lpar;yes, the computer company&rpar; is building a fancy electric bike with AI](https://electrek.co/2023/03/20/acer-ebii-electric-bike-ai/)
-- [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
-- [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
-- [Gitea 1.19](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
+- [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
+- [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
+- [ChatGPT is rendering other people&amp;#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/)
+- [Could UFOs be alien probes? A new 2023 Harvard study explores it [pdf]](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf)
+- [Supreme Court Asked to Strike Down Immunity for Police Who Brutally Beat Student](https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
