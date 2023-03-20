@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
+- [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
-- [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
 - [Who becomes an entrepreneur? Insights from research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
-- [Altstore: Home for apps that push the boundaries of iOS](https://altstore.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
