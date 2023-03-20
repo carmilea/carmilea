@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy &lpar;YC W23&rpar; is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
 - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
-- [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
-- [ChatGPT is rendering other people&amp;#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/)
-- [Could UFOs be alien probes? A new 2023 Harvard study explores it [pdf]](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf)
-- [Supreme Court Asked to Strike Down Immunity for Police Who Brutally Beat Student](https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/)
+- [ChatGPT is rendering other people&amp;#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/)
+- [The hard problem of onboarding horizontal products](https://robhaisfield.com/notes/the-hard-problem-of-onboarding-horizontal-products)
 <!-- BLOG-POST-LIST:END -->
 
 ---
