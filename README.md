@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
+- [Google urges Android phone users to switch off Wi-Fi calling](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
+- [Show HN: Get a Professional Headshot in Minutes with AI](https://virtualface.app)
 - [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
 - [How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
-- [Bank Failures Come in Waves](https://yarn.pranshum.com/banks2)
-- [Six Recent Studies Show an Unexpected Increase in Classical Music Listening](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
-- [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
