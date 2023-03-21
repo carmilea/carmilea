@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring Back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+- [Create an IAM Role and Ass a User](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
+- [Grover&amp;#x27;s algorithm offers no quantum advantage](https://arxiv.org/abs/2303.11317)
+- [Top highest-earning Substack newsletters generate over $22M a year](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
 - [PDF&amp;#x2F;A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... &lpar;2020&rpar;](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
-- [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
-- [Typst, a new markup-based typesetting system, is now open source](https://github.com/typst/typst)
-- [Switzerland bans deferred bonuses for Credit Suisse staff](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
-- [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
