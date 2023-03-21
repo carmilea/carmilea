@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Yamaha NS10 Story &lpar;2008&rpar;](https://www.soundonsound.com/reviews/yamaha-ns10-story)
+- [Amazon layoffs: Another 9k employees being let go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
 - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
-- [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
-- [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
