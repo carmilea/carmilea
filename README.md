@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
-- [Java 20 Is Out!](https://openjdk.org/projects/jdk/20/)
-- [Java 20 &amp;#x2F; JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
-- [Surprise Computer Science Proof Stuns Mathematicians](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
-- [Hundreds of Thousands of Iraqis Were Killed in the War. One Was My Brother](https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were)
+- [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
+- [“Off Switch” Makes Explosives Safer](https://physics.aps.org/articles/v16/44)
+- [So you&amp;#x27;ve installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
+- [Java Was Strongly Influenced by Objective-C](https://cs.gmu.edu/~sean/stuff/java-objc.html)
+- [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
 <!-- BLOG-POST-LIST:END -->
 
 ---
