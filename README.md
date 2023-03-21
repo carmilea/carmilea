@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
-- [How TikTok Broke the Ad Business](https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business)
+- [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
+- [Switzerland bans deferred bonuses for Credit Suisse staff](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
+- [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 - [Rolling Stone left out the reason why FBI raided journalist&amp;#x27;s home](https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek)
 - [Google was beloved as an employer for years. Then it laid off thousands by email](https://www.cnn.com/2023/03/20/tech/google-layoffs-employee-culture/index.html)
-- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
