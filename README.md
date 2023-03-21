@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unchecked corporate pricing power is a factor in US inflation](https://www.ft.com/content/151cb429-d024-4d5c-9edf-5b4a2b104a66)
 - [Reclaim Protocol Is Hiring a Cryptography&amp;#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
-- [Louis Rossmann could sue John Deere for GPL violation](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
+- [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
+- [Louis Rossmann could sue John Deere for GPL violation [video]](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
 - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-- [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
-- [Psychedelic brew ayahuasca’s profound impact revealed in brain scans](https://www.theguardian.com/science/2023/mar/20/psychedelic-brew-ayahuasca-profound-impact-brain-scans-dmt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
