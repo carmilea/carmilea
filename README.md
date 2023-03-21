@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
+- [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
 - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
-- [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
-- [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
