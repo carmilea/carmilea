@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
+- [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
+- [DistroHopper: Quickly download, create and run VM of any operating system](https://osowoso.github.io/DistroHopper/)
 - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
-- [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
-- [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
-- [Grace Hopper on Late Night with David Letterman &lpar;1986&rpar;](https://www.youtube.com/watch?v=oE2uls6iIEU)
-- [Etleap &lpar;YC W13&rpar; is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+- [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
