@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
+- [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
 - [“Off Switch” Makes Explosives Safer](https://physics.aps.org/articles/v16/44)
-- [So you&amp;#x27;ve installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
-- [Java Was Strongly Influenced by Objective-C](https://cs.gmu.edu/~sean/stuff/java-objc.html)
-- [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
 <!-- BLOG-POST-LIST:END -->
 
 ---
