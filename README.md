@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
-- [Exploding Whale 50th Anniversary, Remastered [video]](https://www.youtube.com/watch?v=V6CLumsir34)
-- [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
-- [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
-- [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
+- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [Java 20 Is Out!](https://openjdk.org/projects/jdk/20/)
+- [Java 20 &amp;#x2F; JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
+- [Surprise Computer Science Proof Stuns Mathematicians](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
+- [Hundreds of Thousands of Iraqis Were Killed in the War. One Was My Brother](https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were)
 <!-- BLOG-POST-LIST:END -->
 
 ---
