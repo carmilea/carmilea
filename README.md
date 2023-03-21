@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
+- [How TikTok Broke the Ad Business](https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business)
+- [Rolling Stone left out the reason why FBI raided journalist&amp;#x27;s home](https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek)
+- [Google was beloved as an employer for years. Then it laid off thousands by email](https://www.cnn.com/2023/03/20/tech/google-layoffs-employee-culture/index.html)
 - [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
-- [uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
-- [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
-- [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
-- [“Off Switch” Makes Explosives Safer](https://physics.aps.org/articles/v16/44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
