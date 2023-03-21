@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
+- [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
+- [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
 - [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
-- [Google urges Android phone users to switch off Wi-Fi calling](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
-- [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
-- [How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
