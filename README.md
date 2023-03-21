@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Louis Rossmann could sue John Deere for GPL violation](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
 - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 - [Ask HN: Tips for a new team lead who is hiring](https://news.ycombinator.com/item?id=35243342)
 - [Psychedelic brew ayahuasca’s profound impact revealed in brain scans](https://www.theguardian.com/science/2023/mar/20/psychedelic-brew-ayahuasca-profound-impact-brain-scans-dmt)
-- [Curl 8.0.1 because I jinxed it](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
