@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
+- [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
+- [Shields Up](https://seths.blog/2023/03/shields-up-2/)
+- [AI is most important tech advance in decades](https://www.bbc.co.uk/news/technology-65032848)
+- [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
 - [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
-- [DistroHopper: Quickly download, create and run VM of any operating system](https://osowoso.github.io/DistroHopper/)
-- [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
-- [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
