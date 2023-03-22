@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 - [Raytracing on AMD’s RDNA 2&amp;#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
-- [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
+- [Journalist plugs in unknown USB drive mailed to him–it exploded in his face](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
 - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
-- [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
-- [The Diff Challenge](https://github.com/ggerganov/diff-challenge)
+- [The Unix process API is unreliable and unsafe &lpar;2021&rpar;](http://catern.com/process.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
