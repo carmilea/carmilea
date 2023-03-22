@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
+- [CS:GO 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
+- [Archive Team is archiving DPReview](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
-- [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
-- [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
-- [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
