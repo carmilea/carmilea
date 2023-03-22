@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why buying furniture is so miserable](https://www.theassemblync.com/business/high-point-furniture/)
 - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 - [Raytracing on AMD’s RDNA 2&amp;#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
-- [Journalist plugs in unknown USB drive mailed to him–it exploded in his face](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
+- [Explosives replace malware as the scariest thing a USB stick may hide](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
 - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
-- [The Unix process API is unreliable and unsafe &lpar;2021&rpar;](http://catern.com/process.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
