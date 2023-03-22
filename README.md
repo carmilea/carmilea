@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can any Hetzner user, please explain your workflow on Hetzner?](https://news.ycombinator.com/item?id=35260141)
+- [Ask HN: How would you build a budget CPU compute cluster in 2023?](https://news.ycombinator.com/item?id=35260049)
+- [Yellen earned millions in speaking fees from Wall St, tech firms](https://www.aljazeera.com/economy/2021/1/1/yellen-earned-millions-in-speaking-fees-from-wall-st-tech-firms)
+- [Show HN: A structured list of jobs from “Who is hiring?”, parsed with GPT](https://www.hacker-jobs.com)
 - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
-- [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
-- [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
-- [Numbers to Know for Managing &lpar;Software Teams&rpar;](https://staysaasy.com/management/2023/03/20/numbers-to-manage-by.html)
-- [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
