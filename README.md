@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2023 Turing Award Given to Bob Metcalfe for Invention of Ethernet](https://amturing.acm.org/?2023)
-- [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&amp;#x27;s LLaMA](https://chatllama.baseten.co/)
-- [Pg_jsonschema – JSON Schema Support for Postgres](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
-- [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
-- [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
+- [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
+- [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
+- [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
+- [Numbers to Know for Managing &lpar;Software Teams&rpar;](https://staysaasy.com/management/2023/03/20/numbers-to-manage-by.html)
+- [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
