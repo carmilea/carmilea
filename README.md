@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JPMorgan says the U.S. is probably headed for a recession](https://fortune.com/2023/03/21/recession-banking-crisis-federal-reserve-minsky-moment-jpmorgan-us-economy/)
+- [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
+- [Postgres for Developers](https://postgrespro.com/community/courses)
 - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
-- [Bard uses a Hacker News comment as source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
-- [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
-- [Shields Up](https://seths.blog/2023/03/shields-up-2/)
-- [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
+- [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
