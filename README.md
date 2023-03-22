@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
+- [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
+- [D&amp;amp;D monster manual wants to help save real-life animals from extinction](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/book-of-extinction-kickstarter-dnd-5e)
 - [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
-- [CS:GO 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
-- [Archive Team is archiving DPReview](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
-- [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
-- [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
+- [Counter-Strike 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
