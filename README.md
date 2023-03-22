@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
+- [No, Bitcoin isn’t pumping because it’s a “safe haven” from banks](https://newsletter.mollywhite.net/p/no-bitcoin-isnt-pumping-because-its)
 - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
 - [Shields Up](https://seths.blog/2023/03/shields-up-2/)
-- [AI is most important tech advance in decades](https://www.bbc.co.uk/news/technology-65032848)
 - [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
-- [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
