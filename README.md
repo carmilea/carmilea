@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to the PyPI Blog](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
-- [Kids Are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
+- [Monero founder outed as Interpol informant](https://twitter.com/librehash/status/1637907642638008325)
+- [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
+- [The Federal Reserve is expected to increase interest rates by a quarter point](https://www.cnbc.com/2023/03/21/fed-likely-to-raise-rates-by-a-quarter-point-but-it-must-also-reassure-markets-on-banking-system.html)
 - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
 - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
-- [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 <!-- BLOG-POST-LIST:END -->
 
 ---
