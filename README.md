@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
 - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
+- [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
+- [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
 - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
-- [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
-- [Transitioning Away from Google Services](https://oppositeinvictus.com/transitioning-away-from-google)
-- [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
