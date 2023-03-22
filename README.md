@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the PyPI Blog](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
+- [Kids Are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
 - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
 - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
-- [Postgres for Developers](https://postgrespro.com/community/courses)
-- [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
