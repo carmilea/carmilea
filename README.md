@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can any Hetzner user, please explain your workflow on Hetzner?](https://news.ycombinator.com/item?id=35260141)
-- [Ask HN: How would you build a budget CPU compute cluster in 2023?](https://news.ycombinator.com/item?id=35260049)
-- [Yellen earned millions in speaking fees from Wall St, tech firms](https://www.aljazeera.com/economy/2021/1/1/yellen-earned-millions-in-speaking-fees-from-wall-st-tech-firms)
-- [Show HN: A structured list of jobs from “Who is hiring?”, parsed with GPT](https://www.hacker-jobs.com)
-- [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
+- [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
+- [Women are less likely to buy electric vehicles than men. Here&amp;#x27;s why](https://19thnews.org/2023/03/electric-vehicles-gender-gap/)
+- [Launch HN: Flower &lpar;YC W23&rpar; – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
+- [The Simplicity of Single-File Golang Deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
