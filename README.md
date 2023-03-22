@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
-- [Ask HN: How much of inflation is caused by supply rather than demand issues?](https://news.ycombinator.com/item?id=35261946)
 - [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
-- [A Mirror That Reverses How Light Travels in Time](https://spectrum.ieee.org/time-reversal-interface)
+- [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
