@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raytracing on AMD’s RDNA 2&amp;#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
 - [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
+- [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
 - [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
-- [D&amp;amp;D monster manual wants to help save real-life animals from extinction](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/book-of-extinction-kickstarter-dnd-5e)
-- [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
-- [Counter-Strike 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
+- [The Diff Challenge](https://github.com/ggerganov/diff-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
