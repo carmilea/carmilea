@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monero founder outed as Interpol informant](https://twitter.com/librehash/status/1637907642638008325)
+- [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&amp;#x27;s LLaMA](https://chatllama.baseten.co/)
 - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
 - [The Federal Reserve is expected to increase interest rates by a quarter point](https://www.cnbc.com/2023/03/21/fed-likely-to-raise-rates-by-a-quarter-point-but-it-must-also-reassure-markets-on-banking-system.html)
 - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
