@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The heaviest bicycle in the world is an impressive 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
+- [Launch HN: Helicone.ai &lpar;YC W23&rpar; – Open-Source Logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
+- [SushiDAO served with subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
 - [Law school dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
-- [Is My Wife Right? An AI tool that will agree with your wife no matter what](https://www.ismywiferight.com)
-- [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
-- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
-- [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
