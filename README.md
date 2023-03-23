@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Would a global catastrophe unite or divide nations?](https://news.ycombinator.com/item?id=35272729)
 - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
+- [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
+- [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
 - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
-- [Supabase &lpar;YC S20&rpar; is looking for a dev to run our socials and community](https://boards.greenhouse.io/supabase/jobs/4777008004)
-- [Wikimedia Foundation: Copyright Analysis of ChatGPT](https://meta.wikimedia.org/wiki/Wikilegal/Copyright_Analysis_of_ChatGPT)
-- [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
