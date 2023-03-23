@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
 - [Hindenburg Research Outs Block Inc as Fraud](https://hindenburgresearch.com/block/)
-- [Starbucks CEO will work a shift at the company’s cafes once a month](https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html)
 - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 - [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
+- [Nvidia Tackles Chipmaking Process, Claims 40X Speed Up with CuLitho](https://www.tomshardware.com/news/nvidia-tackles-chipmaking-process-claims-40x-speed-up-with-culitho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
