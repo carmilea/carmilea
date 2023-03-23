@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The heaviest bicycle in the world is an impressive 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
-- [Launch HN: Helicone.ai &lpar;YC W23&rpar; – Open-Source Logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
-- [SushiDAO served with subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
-- [Law school dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
-- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
+- [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
+- [The heaviest bicycle in the world is 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
+- [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
+- [Launch HN: Helicone.ai &lpar;YC W23&rpar; – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
