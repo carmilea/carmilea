@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Would a global catastrophe unite or divide nations?](https://news.ycombinator.com/item?id=35272729)
-- [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
-- [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
-- [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
-- [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
+- [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
+- [Accenture would cut 19,000 jobs](https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/)
+- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- [TikTok Congress Hearing](https://www.nytimes.com/2023/03/23/technology/tiktok-congress-hearing.html)
+- [Acropalypse: Windows Save File API is defective by design](https://twitter.com/sjmurdoch/status/1638623990817103888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
