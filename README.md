@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
-- [Bibliotechy&amp;#x2F;dirty-poetry: poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
-- [Clarkesworld AI Submissions Update](http://neil-clarke.com/submissions-update/)
-- [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
-- [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
+- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
+- [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
+- [Framework announces AMD, new Intel gen, 16“ laptop and more](https://frame.work/)
+- [California bill would ban sales of Skittles, other ‘toxic’ snacks](https://www.latimes.com/california/story/2023-03-23/california-law-would-ban-skittles-other-snacks-chemicals)
+- [Poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
