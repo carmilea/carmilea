@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
 - [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
 - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
-- [The heaviest bicycle in the world is 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
 - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 - [Launch HN: Helicone.ai &lpar;YC W23&rpar; – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 <!-- BLOG-POST-LIST:END -->
