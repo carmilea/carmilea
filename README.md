@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
+- [Bibliotechy&amp;#x2F;dirty-poetry: poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
+- [Clarkesworld AI Submissions Update](http://neil-clarke.com/submissions-update/)
+- [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
 - [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
-- [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
-- [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
-- [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
-- [Associations between infant screen use, EEG markers, and cognitive outcomes](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2800776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
