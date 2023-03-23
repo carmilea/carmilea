@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
+- [Protobuffers Are Wrong &lpar;2018&rpar;](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
+- [Microsoft&amp;#x27;s paper on OpenAI&amp;#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
-- [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
-- [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
-- [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
-- [Launch HN: Helicone.ai &lpar;YC W23&rpar; – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
+- [RWKV RNN: Better than ChatGPT?](https://github.com/BlinkDL/RWKV-LM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
