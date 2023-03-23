@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC: Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
-- [Beloved hacking veteran Kelly ‘Aloria’ Lum passes away at 41](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
-- [We asked the SEC for reasonable crypto rules for Americans](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+- [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
+- [Microsoft Research: GPT-4 exhibits “sparks of general intelligence”](https://www.haihai.ai/sparks/)
+- [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 <!-- BLOG-POST-LIST:END -->
