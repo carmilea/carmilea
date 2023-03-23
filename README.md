@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
-- [Hindenburg Research Outs Block Inc as Fraud](https://hindenburgresearch.com/block/)
-- [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
-- [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
-- [Nvidia Tackles Chipmaking Process, Claims 40X Speed Up with CuLitho](https://www.tomshardware.com/news/nvidia-tackles-chipmaking-process-claims-40x-speed-up-with-culitho)
+- [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
+- [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
+- [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
+- [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
+- [Associations between infant screen use, EEG markers, and cognitive outcomes](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2800776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
