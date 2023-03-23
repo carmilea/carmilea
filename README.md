@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
-- [Microsoft Research: GPT-4 exhibits “sparks of general intelligence”](https://www.haihai.ai/sparks/)
+- [Supabase &lpar;YC S20&rpar; is looking for a dev to run our socials and community](https://boards.greenhouse.io/supabase/jobs/4777008004)
+- [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
+- [Epic’s Verse Programming Language](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 - [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
-- [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
