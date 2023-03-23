@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+- [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+- [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 - [The Vintage Technology Digital Archive](http://vtda.org/)
 - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
-- [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
-- [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
-- [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
