@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
+- [Hindenburg Research Outs Block Inc as Fraud](https://hindenburgresearch.com/block/)
+- [Starbucks CEO will work a shift at the company’s cafes once a month](https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html)
+- [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 - [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
-- [Accenture would cut 19,000 jobs](https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/)
-- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [TikTok Congress Hearing](https://www.nytimes.com/2023/03/23/technology/tiktok-congress-hearing.html)
-- [Acropalypse: Windows Save File API is defective by design](https://twitter.com/sjmurdoch/status/1638623990817103888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
