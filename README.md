@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Law school dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
+- [Is My Wife Right? An AI tool that will agree with your wife no matter what](https://www.ismywiferight.com)
+- [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 - [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
 - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
-- [Framework announces AMD, new Intel gen, 16“ laptop and more](https://frame.work/)
-- [California bill would ban sales of Skittles, other ‘toxic’ snacks](https://www.latimes.com/california/story/2023-03-23/california-law-would-ban-skittles-other-snacks-chemicals)
-- [Poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
