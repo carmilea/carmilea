@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
-- [You can&amp;#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
-- [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
-- [Protobuffers Are Wrong &lpar;2018&rpar;](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
-- [Microsoft&amp;#x27;s paper on OpenAI&amp;#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
+- [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
+- [Tell HN: Reddit removed i.reddit.com and reddit.com&amp;#x2F;.compact](https://news.ycombinator.com/item?id=35283379)
+- [The Well-Poisoning Machine](https://hachyderm.io/@mononcqc/110073337791217700)
+- [The Origin of the Word Daemon &lpar;2002&rpar;](https://ei.cs.vt.edu/~history/Daemon.html)
+- [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
