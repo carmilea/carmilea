@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Which city builds skyscrapers the fastest?](https://constructionphysics.substack.com/p/which-city-builds-skyscrapers-the)
-- [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
-- [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
-- [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
-- [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
+- [GitHub&amp;#x27;s User Content certificate has expired](https://github.com/)
+- [Expired SSL Certificate at GitHub](https://objects.githubusercontent.com/)
+- [NPR cancels 4 podcasts amid major layoffs](https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation)
+- [Show HN: The Shark Programming Language Realease 1.0.0](https://github.com/shogundevel/shark)
+- [Reasons the banking crisis isn’t a repeat of 2008](https://www.chase.com/personal/investments/learning-and-insights/article/tmt-march-twenty-four-twenty-three)
 <!-- BLOG-POST-LIST:END -->
 
 ---
