@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
+- [The Venture Capitalist&amp;#x27;s Dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
+- [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+- [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
-- [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
-- [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
-- [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
-- [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
