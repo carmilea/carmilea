@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
+- [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
 - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
 - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
-- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
 - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
-- [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
