@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Post-GPT Computing](https://grady.io/post-gpt-computing/)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
+- [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
 - [Facebook is aggressively going after LLaMA repos with DMCA&amp;#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
-- [Show HN: Use ChatGPT, Bing and Bard in one app](https://github.com/chathub-dev/chathub)
-- [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
-- [Anime dating sim that also does your taxes](https://taxheaven3000.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
