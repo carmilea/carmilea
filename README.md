@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
 - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
-- [The Venture Capitalist&amp;#x27;s Dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
+- [The venture capitalist&amp;#x27;s dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-- [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
 <!-- BLOG-POST-LIST:END -->
 
