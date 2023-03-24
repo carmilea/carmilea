@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
+- [Facebook is aggressively going after LLaMA repos with DMCA&amp;#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
+- [Show HN: Use ChatGPT, Bing and Bard in one app](https://github.com/chathub-dev/chathub)
 - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
 - [Anime dating sim that also does your taxes](https://taxheaven3000.com/)
-- [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
-- [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
-- [The venture capitalist&amp;#x27;s dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
