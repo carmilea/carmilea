@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
-- [Letter from Stanford Law School Dean to the Campus Community](https://www.thefire.org/research-learn/letter-stanford-law-school-dean-jenny-martinez-campus-community-march-22-2023)
 - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
 - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
+- [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
