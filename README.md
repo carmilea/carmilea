@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
+- [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 - [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
-- [Tell HN: Reddit removed i.reddit.com and reddit.com&amp;#x2F;.compact](https://news.ycombinator.com/item?id=35283379)
-- [The Well-Poisoning Machine](https://hachyderm.io/@mononcqc/110073337791217700)
 - [The Origin of the Word Daemon &lpar;2002&rpar;](https://ei.cs.vt.edu/~history/Daemon.html)
-- [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
+- [Introduction to P vs. NP](https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
