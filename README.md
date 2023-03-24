@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language APIs Are Coming](https://the1993.substack.com/p/3-natural-language-apis-are-coming)
+- [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
+- [Let&amp;#x27;s Encrypt: Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 - [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
-- [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
-- [Nintendo&amp;#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
-- [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
