@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker: We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
-- [GitHub&amp;#x27;s User Content certificate has expired](https://github.com/)
-- [Expired SSL Certificate at GitHub](https://objects.githubusercontent.com/)
-- [Show HN: The Shark Programming Language Realease 1.0.0](https://github.com/shogundevel/shark)
+- [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+- [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
+- [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
+- [OpenAI tech gives Microsoft&amp;#x27;s Bing a boost in search battle with Google](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
