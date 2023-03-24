@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS System Colors](https://blog.jim-nielsen.com/2021/css-system-colors/)
+- [More Americans are using ‘buy now, pay later’ services to pay for groceries](https://www.marketwatch.com/story/more-americans-are-using-buy-now-pay-later-services-to-pay-for-groceries-2f583d1c)
+- [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
+- [CSS System Colors &lpar;2021&rpar;](https://blog.jim-nielsen.com/2021/css-system-colors/)
 - [Hacker found over 80 secret unapproved ChatGPT Plugins](https://twitter.com/rez0__/status/1639259413553750021)
-- [Accenture slashes 19,000 jobs worldwide](https://www.cnn.com/2023/03/23/business/accenture-job-cuts-19000/index.html)
-- [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
+- [Sam Altman didn’t take any equity in OpenAI, report says](https://www.cnbc.com/2023/03/24/openai-ceo-sam-altman-didnt-take-any-equity-in-the-company-semafor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
