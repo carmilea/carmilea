@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language APIs Are Coming](https://the1993.substack.com/p/3-natural-language-apis-are-coming)
+- [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
+- [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
 - [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
+- [Why Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
 - [Let&amp;#x27;s Encrypt: Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
-- [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
-- [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
