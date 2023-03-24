@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
+- [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
+- [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 - [Nintendo&amp;#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
 - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
-- [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
-- [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
-- [CSS System Colors &lpar;2021&rpar;](https://blog.jim-nielsen.com/2021/css-system-colors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
