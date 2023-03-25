@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Researchers Claim GPT-4 Is Showing “Sparks” of AGI](https://futurism.com/gpt-4-sparks-of-agi)
+- [SafeButler &lpar;YC S17&rpar; Is Hiring software engineer intern](https://www.safebutler.com/careers)
+- [50 years of silence: It&amp;#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
+- [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
 - [Think Better with Reflect](https://reflect.app/)
 - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
-- [Call yourself titles](https://josem.co/call-yourself-titles/)
-- [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
 <!-- BLOG-POST-LIST:END -->
 
 ---
