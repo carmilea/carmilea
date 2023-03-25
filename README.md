@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
+- [Yunohost: Get Off of My Cloud](https://yunohost.org)
+- [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
-- [Stripe – Prohibited and Restricted Businesses](https://stripe.com/legal/restricted-businesses)
 - [Cramming More Components onto Integrated Circuits &lpar;1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
 <!-- BLOG-POST-LIST:END -->
 
