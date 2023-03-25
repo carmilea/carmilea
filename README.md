@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My experience crafting an interpreter with Rust &lpar;2021&rpar;](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
+- [Vibrator maker ordered to pay out C$4M for tracking users&amp;#x27; sexual activity](https://www.theguardian.com/technology/2017/mar/14/we-vibe-vibrator-tracking-users-sexual-habits)
+- [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
+- [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
-- [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
-- [Lex Fridman Podcast #367 – Sam Altman](https://lexfridman.com/sam-altman/)
-- [Generate a Cover Letter by Pasting the Job Post and Your Resume](https://www.careered.ai/tool/cover-letter)
-- [An EEVDF CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
