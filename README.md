@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about the Apple Neural Engine &lpar;ANE&rpar;](https://github.com/hollance/neural-engine)
+- [Common Lisp Quick Reference](http://clqr.boundp.org)
+- [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
-- [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
-- [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
-- [Cramming More Components onto Integrated Circuits &lpar;1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
