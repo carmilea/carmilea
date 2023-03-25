@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing is stopping feral pigs in Canada](https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/)
-- [Concrete Diagramming, a Lightweight Alternative to C4](https://www.ilograph.com/blog/posts/concrete-diagramming-models/)
-- [Ask HN: How do you deal with entrepreneurial obsession?](https://news.ycombinator.com/item?id=35302019)
-- [Civilization II](https://www.abortretry.fail/p/civilization-ii)
-- [Paperspace &lpar;YC W15&rpar; is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
+- [YouTube’s Chaotic Rise to World Domination](https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html)
+- [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca)
+- [Theo de Raadt: Synthetic Memory Protections &lpar;CanSecWest 2023&rpar; [OpenBSD] [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
+- [Freedom Clock](https://domsson.github.io/freedom-clock/)
+- [Fundamentally Understanding and Solving RowHammer](https://arxiv.org/abs/2211.07613)
 <!-- BLOG-POST-LIST:END -->
 
 ---
