@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cramming More Components onto Integrated Circuits &lpar;Gordon Moore, 1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
-- [Automatically document an entire codebase using LLMs](https://github.com/context-labs/autodoc)
-- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
-- [In Memoriam: Gordon Moore, 1929 – 2023](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
-- [Gordon Moore has died](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
+- [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
+- [Cramming More Components onto Integrated Circuits &lpar;1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+- [Autodoc: Toolkit for auto-generating codebase documentation using LLMs](https://github.com/context-labs/autodoc)
+- [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
+- [Goodbye to Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
