@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
 - [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
-- [OpenAI&amp;#x27;s ChatGPT plugins may revolutionise the traditional customer journey](https://tevfik.xyz/posts/chatgpt-plugins/)
+- [Lex Fridman Podcast #367 – Sam Altman](https://lexfridman.com/sam-altman/)
+- [Generate a Cover Letter by Pasting the Job Post and Your Resume](https://www.careered.ai/tool/cover-letter)
 - [An EEVDF CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
-- [Proposed dam to protect NL, DE, DK, SE from rising sea levels](https://haaksezeedijk.com/dhz/dijkenbekkens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
