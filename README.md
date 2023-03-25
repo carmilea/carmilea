@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeButler &lpar;YC S17&rpar; Is Hiring software engineer intern](https://www.safebutler.com/careers)
-- [50 years of silence: It&amp;#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
-- [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
-- [Think Better with Reflect](https://reflect.app/)
-- [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
+- [Hospitals Are Reporting New Mothers for Neglect from Poppyseed False Positives](https://reason.com/2023/03/23/hospitals-are-still-reporting-new-mothers-for-neglect-based-on-drug-tests-triggered-by-poppy-seeds/)
+- [The Myth of the Alpha Wolf](https://www.newyorker.com/science/elements/the-myth-of-the-alpha-wolf)
+- [Barebones project to get an Inkplate 10 using WiFi, HTTPS using the Arduino IDE](https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html)
+- [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
+- [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
