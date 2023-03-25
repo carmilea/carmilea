@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Google Slowly Dying?](https://news.ycombinator.com/item?id=35301930)
+- [Civilization II](https://www.abortretry.fail/p/civilization-ii)
+- [Paperspace &lpar;YC W15&rpar; is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
 - [Everything we know about the Apple Neural Engine &lpar;ANE&rpar;](https://github.com/hollance/neural-engine)
 - [Common Lisp Quick Reference](http://clqr.boundp.org)
-- [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
-- [Yunohost: Get Off of My Cloud](https://yunohost.org)
-- [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
