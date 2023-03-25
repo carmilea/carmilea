@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT will revolutionize the economy. We need to decide what that looks like](https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/)
+- [You Do Not Have a Shoe Size](https://writing.kemitchell.com/2023/03/25/No-Shoe-Size)
 - [Experimental library for scraping websites using OpenAI&amp;#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
-- [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
 - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
 - [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
-- [Hospitals are reporting new mothers for neglect from poppyseed false positives](https://reason.com/2023/03/23/hospitals-are-still-reporting-new-mothers-for-neglect-based-on-drug-tests-triggered-by-poppy-seeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
