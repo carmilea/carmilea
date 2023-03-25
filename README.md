@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Google Slowly Dying?](https://news.ycombinator.com/item?id=35301930)
 - [Civilization II](https://www.abortretry.fail/p/civilization-ii)
 - [Paperspace &lpar;YC W15&rpar; is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
+- [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 - [Everything we know about the Apple Neural Engine &lpar;ANE&rpar;](https://github.com/hollance/neural-engine)
 - [Common Lisp Quick Reference](http://clqr.boundp.org)
 <!-- BLOG-POST-LIST:END -->
