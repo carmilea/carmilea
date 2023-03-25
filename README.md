@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
-- [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
-- [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
-- [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
-- [OpenAI tech gives Microsoft&amp;#x27;s Bing a boost in search battle with Google](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
+- [Cramming More Components onto Integrated Circuits &lpar;Gordon Moore, 1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
+- [In Memoriam: Gordon Moore, 1929 – 2023](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
+- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
+- [Goodbye to Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
