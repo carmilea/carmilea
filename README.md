@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT will revolutionize the economy. We need to decide what that looks like](https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/)
-- [You Do Not Have a Shoe Size](https://writing.kemitchell.com/2023/03/25/No-Shoe-Size)
-- [Experimental library for scraping websites using OpenAI&amp;#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
-- [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
-- [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
+- [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
+- [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
+- [OpenAI&amp;#x27;s ChatGPT plugins may revolutionise the traditional customer journey](https://tevfik.xyz/posts/chatgpt-plugins/)
+- [An EEVDF CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
+- [Proposed dam to protect NL, DE, DK, SE from rising sea levels](https://haaksezeedijk.com/dhz/dijkenbekkens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
