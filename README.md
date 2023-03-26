@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox doesn&amp;#x27;t handle daylight savings time, hangs systemd and breaks systems](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
+- [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
+- [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
+- [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
 - [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
 - [Vector database built for scalable similarity search](https://milvus.io/)
-- [My experience crafting an interpreter with Rust &lpar;2021&rpar;](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-- [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
