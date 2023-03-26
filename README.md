@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
+- [Why Architecture Oriented Programming Matters &lpar;2019&rpar;](https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html)
 - [An Ethical AI Never Says “I”](https://livepaola.substack.com/p/an-ethical-ai-never-says-i)
 - [GPT-2 as step toward general intelligence &lpar;2019&rpar;](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
 - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
-- [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
 <!-- BLOG-POST-LIST:END -->
 
 ---
