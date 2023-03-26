@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
-- [EU was set to ban internal combustion engine cars, then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
-- [Apple’s 100 highest-ranking executives saw the VR headset last week](https://www.bloomberg.com/news/newsletters/2023-03-26/apple-reality-headset-details-pro-features-top-100-meeting-watch-like-start-lfpgdgdb)
-- [Richard Stallman&amp;#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
-- [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
+- [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
+- [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
+- [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
+- [Pentagon Woos Silicon Valley to Join Ranks of Arms Makers](https://www.wsj.com/articles/pentagon-woos-silicon-valley-to-join-ranks-of-arms-makers-38b1d4c0)
+- [Agatha Christie novels reworked to remove potentially offensive language](https://www.theguardian.com/books/2023/mar/26/agatha-christie-novels-reworked-to-remove-potentially-offensive-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
