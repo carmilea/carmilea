@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
+- [EU was set to ban internal combustion engine cars, then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
+- [Apple’s 100 highest-ranking executives saw the VR headset last week](https://www.bloomberg.com/news/newsletters/2023-03-26/apple-reality-headset-details-pro-features-top-100-meeting-watch-like-start-lfpgdgdb)
 - [Richard Stallman&amp;#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
-- [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)
-- [Float Health &lpar;YC W22&rpar; Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
-- [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
