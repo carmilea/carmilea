@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Richard Stallman&amp;#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
+- [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)
 - [Float Health &lpar;YC W22&rpar; Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
-- [Making of “The wet bird” &lpar;POV-Ray, 2000&rpar;](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
 <!-- BLOG-POST-LIST:END -->
 
 ---
