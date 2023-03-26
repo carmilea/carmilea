@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Money market funds swell by over $273B as investors pull deposits from banks](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)
-- [2600? How Phreaking Really Worked [Connections Museum]](https://www.youtube.com/watch?v=8PmkUPBhL4U)
-- [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
-- [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
+- [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
+- [Nearly 20% Adults May Have Misophonia – Significant Negative Responses to Sounds](https://neurosciencenews.com/misophonia-neuroscience-22851/)
+- [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
+- [Close-Up of the First Mechanical Gear Ever Found in Nature](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
+- [Could &amp;#x27;Terminator Zones&amp;#x27; on Far Off Planets Harbor Life?](https://www.futurity.org/exoplanets-terminator-zone-alien-life-water-2892302/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
