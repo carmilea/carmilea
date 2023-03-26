@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux is Making Apple Great Again](https://jasoneckert.github.io/myblog/linux-is-making-apple-great-again/)
+- [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
+- [An Ethical AI Never Says “I”](https://livepaola.substack.com/p/an-ethical-ai-never-says-i)
+- [GPT-2 as step toward general intelligence &lpar;2019&rpar;](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
+- [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
 - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
-- [Nearly 20% Adults May Have Misophonia – Significant Negative Responses to Sounds](https://neurosciencenews.com/misophonia-neuroscience-22851/)
-- [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
-- [Close-Up of the First Mechanical Gear Ever Found in Nature](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
