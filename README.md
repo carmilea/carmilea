@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox doesn&amp;#x27;t handle daylight savings time, hangs systemd and breaks systems](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
+- [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
+- [Vector database built for scalable similarity search](https://milvus.io/)
 - [My experience crafting an interpreter with Rust &lpar;2021&rpar;](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-- [Vibrator maker ordered to pay out C$4M for tracking users&amp;#x27; sexual activity](https://www.theguardian.com/technology/2017/mar/14/we-vibe-vibrator-tracking-users-sexual-habits)
 - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
-- [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
-- [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
