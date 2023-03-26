@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
-- [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
-- [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
-- [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
-- [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
+- [Float Health &lpar;YC W22&rpar; Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
+- [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
+- [Making of “The wet bird” &lpar;POV-Ray, 2000&rpar;](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
+- [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
+- [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
