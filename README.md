@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
+- [Thousands Take to Streets After Netanyahu Fires Defense Minister](https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000)
+- [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
+- [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
 - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
-- [Why Architecture Oriented Programming Matters &lpar;2019&rpar;](https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html)
-- [An Ethical AI Never Says “I”](https://livepaola.substack.com/p/an-ethical-ai-never-says-i)
-- [GPT-2 as step toward general intelligence &lpar;2019&rpar;](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
-- [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
