@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032)
+- [The Undeniable Street View](https://theundeniablestreetview.com/)
+- [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
 - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
-- [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
