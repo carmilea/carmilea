@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
+- [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
+- [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
 - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
-- [The Undeniable Street View](https://theundeniablestreetview.com/)
-- [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
-- [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
