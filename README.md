@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
+- [Show HN: SlickGPT](https://slickgpt.vercel.app/)
+- [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
 - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 - [Deployments Not Releases – Get Good at Delivering Software](https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/)
-- [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
-- [First-Citizens Bank to assume deposits and loans of Silicon Valley Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
-- [The Vesuvius Challenge](https://scrollprize.org/overview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
