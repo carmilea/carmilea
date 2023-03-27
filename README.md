@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
+- [Deployments Not Releases – Get Good at Delivering Software](https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/)
 - [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
 - [First-Citizens Bank to assume deposits and loans of Silicon Valley Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 - [The Vesuvius Challenge](https://scrollprize.org/overview)
-- [Scientists finally figure out why the water bear is nearly indestructible &lpar;2017&rpar;](https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
