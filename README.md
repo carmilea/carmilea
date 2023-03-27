@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
-- [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
-- [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
-- [Benchmarking Cheap SSDs for Fun, No Profit](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
-- [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+- [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
+- [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
+- [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
+- [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
+- [The Dirty Secrets of a Smear Campaign](https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
