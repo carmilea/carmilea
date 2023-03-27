@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
-- [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
-- [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
-- [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
-- [The Dirty Secrets of a Smear Campaign](https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign)
+- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+- [5M item limit for Google Drive: File unable to generate or upload due to 403](https://issuetracker.google.com/issues/268606830?pli=1)
+- [Rust&amp;#x27;s Golden Rule](https://steveklabnik.com/writing/rusts-golden-rule)
+- [Xstate: State machines and statecharts for the modern web](https://github.com/statelyai/xstate)
+- [Launch HN: Play.ht &lpar;YC W23&rpar; – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
