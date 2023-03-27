@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Would Love to Have Enough Time and Money to Go to an Office to Work All Day](https://slate.com/business/2023/03/steven-rattner-new-york-times-remote-work-commute-child-care.html)
 - [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
 - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
 - [Sieve &lpar;YC W22&rpar; is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
-- [Big tech and the pursuit of AI dominance](https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance)
-- [Kubernetes Is Hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)
+- [Defaulting on Single Page Applications](https://www.zachleat.com/web/single-page-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
