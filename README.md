@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney Layoffs 7000 People](https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html)
 - [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
-- [Online daters are less open-minded than their filters suggest](https://www.economist.com/graphic-detail/2023/03/22/online-daters-are-less-open-minded-than-their-filters-suggest)
+- [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
+- [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 - [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
-- [Smalltalk Type](https://moritzfuerst.net/projects/smalltalk-type)
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
