@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
-- [Show HN: SlickGPT](https://slickgpt.vercel.app/)
-- [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
-- [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
-- [Deployments Not Releases – Get Good at Delivering Software](https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/)
+- [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
+- [My Best Friend Died from Loneliness](https://www.thefp.com/p/my-best-friend-died-from-loneliness)
+- [Benchmarking Cheap SSDs for Fun, No Profit &lpar;Be Warned&rpar;](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
+- [GitHub&amp;#x27;s Down](https://news.ycombinator.com/item?id=35325709)
+- [Jsonnet – The Data Templating Language](https://jsonnet.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
