@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 - [Argonaut &lpar;YC S21&rpar; Is Hiring a FullStack Engineer in India &lpar;Remote&rpar;](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 - [Video Rendering with Node.js and FFmpeg](https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg)
 - [JSON for Linking Data](https://json-ld.org)
 - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
-- [Do large language models need sensory grounding for meaning and understanding?](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
