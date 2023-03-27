@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney Layoffs 7000 People](https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html)
-- [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
-- [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
-- [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
-- [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
+- [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
+- [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
+- [Sieve &lpar;YC W22&rpar; is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
+- [Big tech and the pursuit of AI dominance](https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance)
+- [Kubernetes Is Hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
