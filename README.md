@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Off My Desktop Windows Needs to Stop Showing Tabloid News](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
+- [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
+- [The Vesuvius Challenge](https://scrollprize.org/overview)
 - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible &lpar;2017&rpar;](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
-- [The rise and rise of e-sports](https://www.economist.com/special-report/2023/03/20/the-rise-and-rise-of-e-sports)
-- [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
 - [Salve Lucrum: The Existential Threat of Greed in US Health Care](https://jamanetwork.com/journals/jama/fullarticle/2801097)
-- [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
