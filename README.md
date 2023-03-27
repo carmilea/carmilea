@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
 - [Online daters are less open-minded than their filters suggest](https://www.economist.com/graphic-detail/2023/03/22/online-daters-are-less-open-minded-than-their-filters-suggest)
 - [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
+- [Smalltalk Type](https://moritzfuerst.net/projects/smalltalk-type)
 - [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
-- [5M item limit for Google Drive: File unable to generate or upload due to 403](https://issuetracker.google.com/issues/268606830?pli=1)
-- [Rust&amp;#x27;s Golden Rule](https://steveklabnik.com/writing/rusts-golden-rule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
