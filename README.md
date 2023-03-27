@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BlenderGPT: Use commands in English to control Blender with OpenAI&amp;#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
-- [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
-- [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
-- [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
-- [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
+- [Argonaut &lpar;YC S21&rpar; Is Hiring a FullStack Engineer](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
+- [JSON for Linking Data](https://json-ld.org)
+- [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
+- [Do large language models need sensory grounding for meaning and understanding?](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
+- [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
