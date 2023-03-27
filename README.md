@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
+- [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible &lpar;2017&rpar;](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
 - [The rise and rise of e-sports](https://www.economist.com/special-report/2023/03/20/the-rise-and-rise-of-e-sports)
+- [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
 - [Salve Lucrum: The Existential Threat of Greed in US Health Care](https://jamanetwork.com/journals/jama/fullarticle/2801097)
 - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
-- [Argonaut &lpar;YC S21&rpar; Is Hiring a FullStack Engineer in India &lpar;Remote&rpar;](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
