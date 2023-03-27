@@ -54,8 +54,8 @@
 - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
 - [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
 - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
-- [My Best Friend Died from Loneliness](https://www.thefp.com/p/my-best-friend-died-from-loneliness)
 - [Benchmarking Cheap SSDs for Fun, No Profit](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
+- [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
