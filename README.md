@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Off My Desktop Windows Needs to Stop Showing Tabloid News](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
-- [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
+- [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
+- [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
+- [First-Citizens Bank to assume deposits and loans of Silicon Valley Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 - [The Vesuvius Challenge](https://scrollprize.org/overview)
-- [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible &lpar;2017&rpar;](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
-- [Salve Lucrum: The Existential Threat of Greed in US Health Care](https://jamanetwork.com/journals/jama/fullarticle/2801097)
+- [Scientists finally figure out why the water bear is nearly indestructible &lpar;2017&rpar;](https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
