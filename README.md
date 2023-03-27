@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Would Love to Have Enough Time and Money to Go to an Office to Work All Day](https://slate.com/business/2023/03/steven-rattner-new-york-times-remote-work-commute-child-care.html)
-- [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
-- [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
-- [Sieve &lpar;YC W22&rpar; is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
-- [Defaulting on Single Page Applications](https://www.zachleat.com/web/single-page-applications/)
+- [Partnering for Success: A Monthly Recap of SingleStore’s Thriving Technology Ecosystem](https://www.singlestore.com/blog/partnering-for-success-singlestore-technology-ecosystem/)
+- [Accessing JSON Data at Warp Speed in SingleStoreDB](https://www.singlestore.com/blog/accessing-json-data-at-warp-speed-in-singlestoredb-/)
+- [A Silicon Valley Startup’s Response to the SVB Collapse — Silicon Valley Is Not a Location. It Is an Idea.](https://www.singlestore.com/blog/silicon-valley-is-not-a-location-it-is-an-idea/)
+- [Securing Real-Time Applications with SingleStoreDB Cloud and AWS PrivateLink](https://www.singlestore.com/blog/securing-real-time-applications-with-singlestoredb-cloud-and-aws-privatelink/)
+- [Announcing the SingleStoreDB Driver for the SQLTools VSCode Extension](https://www.singlestore.com/blog/announcing-the-singlestoredb-driver-for-the-sqltools-vscode-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
