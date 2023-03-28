@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swipe &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
+- [Agatha Christie classics latest to be rewritten for “modern sensitivities”](https://www.telegraph.co.uk/news/2023/03/25/agatha-christie-classics-latest-rewritten-modern-sensitivities/)
 - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
 - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 - [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
-- [Red Hat is 30 years old](https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina)
-- [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
