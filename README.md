@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
+- [Initialization in Modern C++ &lpar;295 pages&rpar;](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
 - [Swipe &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
-- [Agatha Christie classics latest to be rewritten for “modern sensitivities”](https://www.telegraph.co.uk/news/2023/03/25/agatha-christie-classics-latest-rewritten-modern-sensitivities/)
 - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
 - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
-- [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
 <!-- BLOG-POST-LIST:END -->
 
 ---
