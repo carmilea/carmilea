@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
-- [Initialization in Modern C++ &lpar;295 pages&rpar;](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
-- [Swipe &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
-- [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
-- [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
+- [Alibaba to Split into Six Separate Groups in Biggest Shake-Up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
+- [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
+- [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
+- [EU countries approve 2035 phaseout of CO2-emitting cars](https://www.reuters.com/business/autos-transportation/eu-countries-poised-approve-2035-phaseout-co2-emitting-cars-2023-03-28/)
+- [You&amp;#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
