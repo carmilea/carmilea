@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A brief history of APFS &lpar;Apple File System&rpar; in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
+- [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
+- [Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
 - [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
 - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
-- [Show HN: Document Q&amp;amp;A with GPT: web, .pdf, .docx, etc.](https://klavier.ai/)
-- [Another Round of GitHub Layoffs](https://twitter.com/allthedoll/status/1640437927535869952)
-- [Wavelength](https://daringfireball.net/2023/03/wavelength)
 <!-- BLOG-POST-LIST:END -->
 
 ---
