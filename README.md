@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate Bill to Ban TikTok](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
 - [SafeBeat &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
+- [Is Babylon 5 secretly the most influential TV show of the past 25 years? &lpar;2021&rpar;](https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years)
+- [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
 - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
-- [China reports human case of H3N8 bird flu](https://bnonews.com/index.php/2023/03/china-reports-human-case-of-h3n8-bird-flu/)
-- [Microsoft&amp;#x27;s Software Is Malware](https://www.gnu.org/proprietary/malware-microsoft.en.html)
-- [Ivy League Prices Are Pushing $90k a Year](https://www.msn.com/en-us/money/careersandeducation/ivy-league-prices-are-pushing-90-000-a-year/ar-AA19bXsb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
