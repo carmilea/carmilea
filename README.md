@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senate Bill to Ban TikTok](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
+- [HuggingFace and Open Source AI Meetup in SFO Mar 31st](https://twitter.com/BrigitteTousi/status/1640771873985142786)
+- [Locally run a ChatGPT-style LLM Trained from 800k GPT-3.5-Turbo Generations](https://twitter.com/andriy_mulyar/status/1640836003194630144)
+- [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 - [SafeBeat &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
-- [Is Babylon 5 secretly the most influential TV show of the past 25 years? &lpar;2021&rpar;](https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years)
 - [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
-- [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
