@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
+- [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 - [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
+- [Red Hat is 30 years old](https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina)
 - [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
-- [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
-- [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
-- [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 <!-- BLOG-POST-LIST:END -->
 
 ---
