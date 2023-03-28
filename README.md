@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&amp;#x27;Tylenol Lite&amp;#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
-- [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
-- [EU Commission Doesn&amp;#x27;t Understand What&amp;#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
-- [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
-- [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
+- [SafeBeat &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
+- [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
+- [China reports human case of H3N8 bird flu](https://bnonews.com/index.php/2023/03/china-reports-human-case-of-h3n8-bird-flu/)
+- [Microsoft&amp;#x27;s Software Is Malware](https://www.gnu.org/proprietary/malware-microsoft.en.html)
+- [Ivy League Prices Are Pushing $90k a Year](https://www.msn.com/en-us/money/careersandeducation/ivy-league-prices-are-pushing-90-000-a-year/ar-AA19bXsb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
