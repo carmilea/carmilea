@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My4TH – A minimalistic FORTH computer with discrete CPU](http://mynor.org/my4th)
+- [Snippyly &lpar;YC W22&rpar; Is Hiring Front end SWEs to make the web multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
+- [Three dead after dog falls 13 floors &lpar;1899&rpar;](https://trove.nla.gov.au/newspaper/article/102017012)
 - [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
-- [Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?](https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html)
-- [Bicycle](https://ciechanow.ski/bicycle/)
-- [Iceland long term visa for remote workers](https://island.is/en/get-long-term-visa-for-remote-workers)
-- [Apple introduces Apple Pay Later](https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later/)
+- [Tell HN: Reddit Has Disabled i.reddit.com](https://news.ycombinator.com/item?id=35343748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
