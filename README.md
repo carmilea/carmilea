@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 - [Alibaba to Split into Six Separate Groups in Biggest Shake-Up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
 - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 - [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
 - [EU countries approve 2035 phaseout of CO2-emitting cars](https://www.reuters.com/business/autos-transportation/eu-countries-poised-approve-2035-phaseout-co2-emitting-cars-2023-03-28/)
-- [You&amp;#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
