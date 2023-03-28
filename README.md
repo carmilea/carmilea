@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&amp;#x27;Tylenol Lite&amp;#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
+- [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
 - [EU Commission Doesn&amp;#x27;t Understand What&amp;#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
 - [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
-- [Keeping up with the overwhelming pace of AI innovation](https://ryanshannon.substack.com/p/keeping-up-with-the-overwhelming)
-- [Show HN: A fully open-source &lpar;Apache 2.0&rpar;implementation of llama](https://github.com/Lightning-AI/lit-llama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
