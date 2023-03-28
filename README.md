@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
+- [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
+- [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
 - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
-- [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
-- [A brief history of APFS &lpar;Apple file system&rpar; in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
-- [For the first time, the Fed is losing money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
