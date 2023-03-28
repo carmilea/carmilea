@@ -55,7 +55,7 @@
 - [A brief history of APFS &lpar;Apple File System&rpar; in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
 - [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 - [Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
-- [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
+- [Ask HN: Was tech always so scammy?](https://news.ycombinator.com/item?id=35334911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
