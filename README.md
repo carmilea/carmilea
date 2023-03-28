@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Commission Doesn&amp;#x27;t Understand What&amp;#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
-- [AI vs. AGI vs. Consciousness vs. Super-Intelligence vs. Agency](https://secondbreakfast.co/ai-vs-agi-vs-consciousness-vs-super-intelligence-vs-agency)
 - [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
 - [Keeping up with the overwhelming pace of AI innovation](https://ryanshannon.substack.com/p/keeping-up-with-the-overwhelming)
 - [Show HN: A fully open-source &lpar;Apache 2.0&rpar;implementation of llama](https://github.com/Lightning-AI/lit-llama)
