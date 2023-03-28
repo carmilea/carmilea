@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
-- [Starbucks illegally withheld raises and tips from union workers, NLRB says](https://perfectunion.us/starbucks-nlrb-credit-card-tip-complaint/)
-- [Launch HN: Metal &lpar;YC W23&rpar; – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
-- [Banksy ship saving migrants at sea detained in Italy for &amp;#x27;breaking rules&amp;#x27;](https://www.express.co.uk/news/world/1751594/banksy-ship-migrants-italy-detained)
-- [Amazon just opened up its Sidewalk network](https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage)
+- [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+- [Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?](https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html)
+- [Bicycle](https://ciechanow.ski/bicycle/)
+- [Iceland long term visa for remote workers](https://island.is/en/get-long-term-visa-for-remote-workers)
+- [Apple introduces Apple Pay Later](https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
