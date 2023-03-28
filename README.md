@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
-- [Ask HN: Successful one-person online businesses?](https://news.ycombinator.com/item?id=35333088)
-- [I Would Love to Have Enough Time and Money to Go to an Office to Work All Day](https://slate.com/business/2023/03/steven-rattner-new-york-times-remote-work-commute-child-care.html)
-- [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
-- [Sieve &lpar;YC W22&rpar; is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
+- [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
+- [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
+- [Show HN: Document Q&amp;amp;A with GPT: web, .pdf, .docx, etc.](https://klavier.ai/)
+- [Another Round of GitHub Layoffs](https://twitter.com/allthedoll/status/1640437927535869952)
+- [Wavelength](https://daringfireball.net/2023/03/wavelength)
 <!-- BLOG-POST-LIST:END -->
 
 ---
