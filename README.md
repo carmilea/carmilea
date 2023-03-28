@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Current causes of death in children and adolescents in the United States &lpar;2022&rpar;](https://www.nejm.org/doi/full/10.1056/nejmc2201761)
-- [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
-- [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
-- [Show HN: An all-in-one app designed for deep work and to build atomic habits](https://www.floutwork.com)
-- [Alibaba to split into six separate groups in biggest shake-up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
+- [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
+- [Starbucks illegally withheld raises and tips from union workers, NLRB says](https://perfectunion.us/starbucks-nlrb-credit-card-tip-complaint/)
+- [Launch HN: Metal &lpar;YC W23&rpar; – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
+- [Banksy ship saving migrants at sea detained in Italy for &amp;#x27;breaking rules&amp;#x27;](https://www.express.co.uk/news/world/1751594/banksy-ship-migrants-italy-detained)
+- [Amazon just opened up its Sidewalk network](https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
