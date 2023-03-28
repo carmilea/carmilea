@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My4TH – A minimalistic FORTH computer with discrete CPU](http://mynor.org/my4th)
-- [Snippyly &lpar;YC W22&rpar; Is Hiring Front end SWEs to make the web multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
-- [Three dead after dog falls 13 floors &lpar;1899&rpar;](https://trove.nla.gov.au/newspaper/article/102017012)
-- [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
-- [Tell HN: Reddit Has Disabled i.reddit.com](https://news.ycombinator.com/item?id=35343748)
+- [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
+- [AI vs. AGI vs. Consciousness vs. Super-Intelligence vs. Agency](https://secondbreakfast.co/ai-vs-agi-vs-consciousness-vs-super-intelligence-vs-agency)
+- [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
+- [Keeping up with the overwhelming pace of AI innovation](https://ryanshannon.substack.com/p/keeping-up-with-the-overwhelming)
+- [Show HN: A fully open-source &lpar;Apache 2.0&rpar;implementation of llama](https://github.com/Lightning-AI/lit-llama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
