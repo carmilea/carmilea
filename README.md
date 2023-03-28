@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My steam account was deleted after admitting that a relative gave me the account](https://old.reddit.com/r/gaming/comments/1247hyh/my_steam_account_was_deleted_after_admitting_that/)
+- [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
-- [Can you buy the same flight for less if you use a VPN?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
+- [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
 - [A brief history of APFS &lpar;Apple file system&rpar; in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
-- [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
+- [For the first time, the Fed is losing money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
