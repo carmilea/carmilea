@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
+- [&amp;#x27;Ultramassive&amp;#x27; black hole discovered – bigger than the majority of galaxies](https://www.bbc.com/news/uk-england-tyne-65109663)
 - [Patterns &lpar;YC S21&rpar; Is Hiring AI Engineers](http://patterns.app/)
 - [Blender 3.5](https://www.blender.org/download/releases/3-5/)
 - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
-- [Bing Chat now has Ads](https://twitter.com/debarghya_das/status/1640892791923572737)
-- [Clues to the Lives of North America’s First Inhabitants Are Hidden Underwater](https://www.smithsonianmag.com/history/biggest-clues-lives-early-americans-hidden-underwater-submerged-prehistory-180981891/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
