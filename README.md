@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Now ChatGPT is being &lpar;mis&rpar;used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
 - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
 - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 - [Text2Video-Zero Code and Weights Released by Picsart AI Research &lpar;12G VRAM&rpar;](https://github.com/Picsart-AI-Research/Text2Video-Zero)
-- [Show HN: GPT Calculator – Calculate the token count and cost of your GPT Prompt](https://www.gptcalculator.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
