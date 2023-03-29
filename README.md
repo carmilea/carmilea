@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
+- [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
 - [DARC: Start a company on blockchain, write your own laws](https://github.com/Project-DARC/DARC)
+- [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
 - [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3)
 - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
-- [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
