@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AlloyDB Omni – run AlloyDB anywhere](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere)
+- [Emergent Mind: AI News, Curated and Explained by AI](https://www.emergentmind.com/)
 - [A surprising food may have been a staple of the real Paleo diet: rotten meat](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
 - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)
 - [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
-- [Become a 1000x engineer or die tryin](https://kadekillary.work/posts/1000x-eng/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Engineers, Architects and CX for Video](https://bitmovin.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
