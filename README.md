@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One of the Luckiest Lightning Strikes Ever Recorded](https://www.nytimes.com/2023/03/28/science/lightning-rod-video.html)
+- [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
+- [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
+- [Show HN: Customizable, embeddable Chat GPT based on your own documents](https://libraria.dev/)
 - [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
-- [U.S. FDIC tells Signature crypto clients to close accounts by April 5](https://www.reuters.com/markets/us/us-fdic-tells-signature-banks-crypto-clients-close-accounts-by-april-5-2023-03-28/)
-- [What We Still Don’t Know About How A.I. Is Trained](https://www.newyorker.com/news/daily-comment/what-we-still-dont-know-about-how-ai-is-trained)
-- [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
+- [AI could replace equivalent of 300M jobs – report](https://www.bbc.com/news/technology-65102150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
