@@ -55,7 +55,7 @@
 - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
 - [Generative AI is good at cooperating with people and bad at full automation](https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating)
 - [Binance sees $2B in outflows as troubles compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
-- [Modern software performance is firmly in its “beyond parody” stage](https://twitter.com/cmuratori/status/1640827575437250561)
+- [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
