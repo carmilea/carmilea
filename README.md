@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rural children now grow slightly taller than city children in wealthy countries](https://www.scientificamerican.com/article/rural-children-now-grow-slightly-taller-than-city-children-in-wealthy-countries/)
 - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
+- [Type system of Fortnite&amp;#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
 - [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 - [OneSignal &lpar;YC S11&rpar; is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
-- [Judge finds Google destroyed evidence and repeatedly lied to the court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
-- [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
