@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HuggingFace and Open Source AI Meetup in SFO Mar 31st](https://twitter.com/BrigitteTousi/status/1640771873985142786)
-- [Locally run a ChatGPT-style LLM Trained from 800k GPT-3.5-Turbo Generations](https://twitter.com/andriy_mulyar/status/1640836003194630144)
-- [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
-- [SafeBeat &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
-- [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
+- [One of the Luckiest Lightning Strikes Ever Recorded](https://www.nytimes.com/2023/03/28/science/lightning-rod-video.html)
+- [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
+- [U.S. FDIC tells Signature crypto clients to close accounts by April 5](https://www.reuters.com/markets/us/us-fdic-tells-signature-banks-crypto-clients-close-accounts-by-april-5-2023-03-28/)
+- [What We Still Don’t Know About How A.I. Is Trained](https://www.newyorker.com/news/daily-comment/what-we-still-dont-know-about-how-ai-is-trained)
+- [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
