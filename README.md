@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance Sees $2B in Outflows as Troubles Compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
 - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 - [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
+- [You Are You. We Live Here. This Is Now](https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is)
 - [Show HN: Customizable, embeddable Chat GPT based on your own documents](https://libraria.dev/)
-- [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
-- [AI could replace equivalent of 300M jobs – report](https://www.bbc.com/news/technology-65102150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
