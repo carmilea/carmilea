@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
+- [Judge finds Google destroyed evidence and repeatedly lied to the court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
+- [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
+- [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
 - [In the age of AI, don&amp;#x27;t let your skills atrophy](https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html)
-- [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
-- [A VC bought the Flatiron Building and didn’t pay for it](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
-- [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
-- [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
