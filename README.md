@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
+- [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
+- [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
+- [Rustls TLS Library 0.21.0 Released with New Features](https://www.memorysafety.org/blog/rustls-new-features/)
+- [Sōzu – HTTP reverse proxy in Rust for immutable infrastructures](https://www.sozu.io/)
 - [&amp;#x27;Ultramassive&amp;#x27; black hole discovered – bigger than the majority of galaxies](https://www.bbc.com/news/uk-england-tyne-65109663)
-- [Patterns &lpar;YC S21&rpar; Is Hiring AI Engineers](http://patterns.app/)
-- [Blender 3.5](https://www.blender.org/download/releases/3-5/)
-- [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
