@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
+- [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 - [Text2Video-Zero Code and Weights Released by Picsart AI Research &lpar;12G VRAM&rpar;](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+- [Show HN: GPT Calculator – Calculate the token count and cost of your GPT Prompt](https://www.gptcalculator.xyz/)
 - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
-- [Generative AI is good at cooperating with people and bad at full automation](https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating)
-- [Binance sees $2B in outflows as troubles compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
-- [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
