@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In the age of AI, don&amp;#x27;t let your skills atrophy](https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html)
+- [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
+- [A VC bought the Flatiron Building and didn’t pay for it](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
 - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
 - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
-- [Rustls TLS Library 0.21.0 Released with New Features](https://www.memorysafety.org/blog/rustls-new-features/)
-- [Sōzu – HTTP reverse proxy in Rust for immutable infrastructures](https://www.sozu.io/)
-- [&amp;#x27;Ultramassive&amp;#x27; black hole discovered – bigger than the majority of galaxies](https://www.bbc.com/news/uk-england-tyne-65109663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
