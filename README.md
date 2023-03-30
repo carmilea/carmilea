@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
+- [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled)
+- [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 - [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
 - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
-- [You probably shouldn&amp;#x27;t use OpenAI&amp;#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
-- [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
-- [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
