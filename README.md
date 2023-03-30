@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kraftful &lpar;YC S19&rpar; Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
+- [Launch HN: Baseplate &lpar;YC W23&rpar; – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
 - [Launch HN: Noya &lpar;YC W23&rpar; – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
+- [Show HN: YakGPT – A locally running, hands-free ChatGPT UI](https://yakgpt.vercel.app/)
 - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
-- [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
-- [Exploring Neural Graphics Primitives](https://thenumb.at/Neural-Graphics/)
-- [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
