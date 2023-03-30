@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
+- [Exploring C# Optimization Techniques from Entry-Level to Seasoned Veteran](https://initechsolutions.blogspot.com/2022/08/exploring-c-optimization-techniques.html)
 - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 - [Samsung&amp;#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
 - [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
-- [Universal Speech Model](https://sites.research.google/usm/)
-- [Looking for a Solution to NoSQL Analytics Limitations? Here’s How to Map NoSQL JSON to SingleStoreDB Tables](https://www.singlestore.com/blog/nosql-analytics-limitations-map-nosql-json-singlestoredb-tables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
