@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
+- [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
 - [RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
 - [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
-- [Kraftful &lpar;YC S19&rpar; Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
-- [Launch HN: Baseplate &lpar;YC W23&rpar; – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
 <!-- BLOG-POST-LIST:END -->
 
 ---
