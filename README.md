@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
+- [RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
+- [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
 - [Kraftful &lpar;YC S19&rpar; Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 - [Launch HN: Baseplate &lpar;YC W23&rpar; – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
-- [Launch HN: Noya &lpar;YC W23&rpar; – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
-- [Show HN: YakGPT – A locally running, hands-free ChatGPT UI](https://yakgpt.vercel.app/)
-- [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
