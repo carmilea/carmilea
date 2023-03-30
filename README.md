@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 - [Rever &lpar;YC S22&rpar; Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 - [The &amp;#x27;Insanely Broad&amp;#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
+- [A Response to Jacob Kaplan-Moss’s “Incompetent but Nice”](https://blog.glyph.im/2023/03/incompetent-but-nice-response.html)
 - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
-- [Making Python faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
-- [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
