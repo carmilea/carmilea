@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
+- [ETH Zürich&amp;#x27;s position on AI in education and ChatGPT](https://ethz.ch/en/the-eth-zurich/education/educational-development/ai-in-education/chatgpt.html)
+- [A GPT 3.5 powered tool for generating regex](https://fuckregex.dev/)
+- [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
 - [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled)
 - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
-- [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
-- [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
