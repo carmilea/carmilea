@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rural children now grow slightly taller than city children in wealthy countries](https://www.scientificamerican.com/article/rural-children-now-grow-slightly-taller-than-city-children-in-wealthy-countries/)
-- [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
-- [Type system of Fortnite&amp;#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
-- [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
-- [OneSignal &lpar;YC S11&rpar; is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
+- [The world can only end once](https://ravisparikh.substack.com/p/this-time-it-really-is-different)
+- [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
+- [Samsung&amp;#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
+- [The Horrifying Epidemic of Teen-Age Fentanyl Deaths in a Texas County](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
+- [Universal Speech Model](https://sites.research.google/usm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
