@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
-- [There&amp;#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
-- [The Fascinating World of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
-- [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
-- [Bloomberg sponsors curl with 10K USD](https://mastodon.social/@bagder/110102954036946925)
+- [I spent $35,000 on a “typo domain” 8 months ago. Is it a good investment?](https://testimonial.to/resources/typo-domain)
+- [Is it time to open source SublimeText?](https://ruky.me/2023/03/30/is-it-time-to-open-source-sublimetext/)
+- [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
+- [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
+- [Had enough of Android? First &amp;#x27;Focal&amp;#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
