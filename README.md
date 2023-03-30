@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent $35,000 on a “typo domain” 8 months ago. Is it a good investment?](https://testimonial.to/resources/typo-domain)
-- [Is it time to open source SublimeText?](https://ruky.me/2023/03/30/is-it-time-to-open-source-sublimetext/)
+- [Launch HN: Noya &lpar;YC W23&rpar; – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
+- [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
+- [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
+- [Exploring Neural Graphics Primitives](https://thenumb.at/Neural-Graphics/)
 - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
-- [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
-- [Had enough of Android? First &amp;#x27;Focal&amp;#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
