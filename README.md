@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
+- [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
 - [You probably shouldn&amp;#x27;t use OpenAI&amp;#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
-- [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/)
-- [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
-- [Get Instant Feedback and Help for LeetCode&amp;#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
-- [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
+- [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
+- [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
