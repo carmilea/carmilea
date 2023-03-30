@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
-- [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
-- [EA is laying off 6 percent of its workers](https://www.ea.com/news/update-to-our-business-march-2023)
-- [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
-- [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
+- [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
+- [Is hand coding becoming obsolete?](https://www.deusinmachina.net/p/how-we-code-is-changing)
+- [Bloomberg sponsors curl with 10K USD](https://mastodon.social/@bagder/110102954036946925)
+- [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
