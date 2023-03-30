@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
 - [There&amp;#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 - [The Fascinating World of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
 - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
 - [Bloomberg sponsors curl with 10K USD](https://mastodon.social/@bagder/110102954036946925)
-- [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
