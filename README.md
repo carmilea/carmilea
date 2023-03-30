@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
-- [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
-- [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
-- [RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
-- [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
+- [You probably shouldn&amp;#x27;t use OpenAI&amp;#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
+- [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/)
+- [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
+- [Get Instant Feedback and Help for LeetCode&amp;#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
+- [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
