@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
+- [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
+- [Decreasing the Number of Memory Accesses 1&amp;#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
 - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
 - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
-- [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
-- [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
-- [Lobbyists begin chipping away at Biden’s $80B IRS overhaul](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
