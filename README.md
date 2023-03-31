@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ETH Zürich&amp;#x27;s position on AI in education and ChatGPT](https://ethz.ch/en/the-eth-zurich/education/educational-development/ai-in-education/chatgpt.html)
-- [A GPT 3.5 powered tool for generating regex](https://fuckregex.dev/)
-- [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
-- [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled)
+- [Gmail is killing independent email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
+- [Show HN: Walkie-talkie for teams](https://www.flowy.live/)
+- [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
+- [Open-Sourcing My YC Application &lpar;Athens Research, W21&rpar;](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
 - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
