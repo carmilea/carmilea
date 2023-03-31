@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
-- [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
-- [Decreasing the Number of Memory Accesses 1&amp;#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
-- [Virgin Orbit: Sir Richard Branson&amp;#x27;s rocket company lays off 85% of staff](https://www.bbc.co.uk/news/business-65133099)
-- [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
+- [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
+- [Thunderbird to add automatic encryption after 21 years](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
+- [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
+- [Where have all the laid-off tech workers gone?](https://www.economist.com/business/2023/03/27/where-have-all-the-laid-off-tech-workers-gone)
+- [How the EU CHIPS Act Could Build “Innovation Capacity” in Europe](https://spectrum.ieee.org/eu-chips-act-imec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
