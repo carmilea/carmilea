@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 - [Finley &lpar;YC W21&rpar; is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
+- [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
 - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
-- [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
-- [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
+- [Italian data protection authority clamps down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
