@@ -54,8 +54,8 @@
 - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
 - [Tax preparation industry alarmed over plan for IRS free tax-filing system](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
-- [San Francisco schools banned kids from taking algebra in 8th grade](https://twitter.com/Noahpinion/status/1641395730735849473)
 - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+- [SFUSD&amp;#x27;s delay of algebra 1 has created a nightmare of workarounds](https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
