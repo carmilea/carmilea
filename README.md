@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter&amp;#x27;s Open Source Algorithm – Unveiling the code, but not the secrets](https://www.shaped.ai/blog/twitters-open-source-algorithm-unveiling-the-code-but-not-the-secrets)
+- [Bittrex to Cease Operations](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
 - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
-- [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
-- [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
-- [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
+- [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
