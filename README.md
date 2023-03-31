@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Over: Steam won’t Run on Windows 7 and 8 after January 2024](https://arstechnica.com/gadgets/2023/03/steam-will-end-support-for-windows-7-and-8-in-january-of-2024/)
-- [Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
-- [Virgin Orbit to lay off 85 percent of staff, freeze operations](https://www.washingtonpost.com/technology/2023/03/31/virgin-orbit-layoffs/)
-- [HuggingGPT: Solving AI tasks with ChatGPT and its friends in HuggingFace](https://arxiv.org/abs/2303.17580)
-- [Svix &lpar;YC W21&rpar;, enterprise-ready webhook service, is hiring &lpar;remote&rpar;](https://www.svix.com/careers/)
+- [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+- [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
+- [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
+- [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
+- [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
