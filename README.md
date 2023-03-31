@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
-- [Thunderbird to add automatic encryption after 21 years](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
-- [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
-- [Where have all the laid-off tech workers gone?](https://www.economist.com/business/2023/03/27/where-have-all-the-laid-off-tech-workers-gone)
-- [How the EU CHIPS Act Could Build “Innovation Capacity” in Europe](https://spectrum.ieee.org/eu-chips-act-imec)
+- [Ask HN: AI also read books, Human also. What&amp;#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
+- [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
+- [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
+- [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)
+- [Automatically enable or disable end-to-end encryption](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
