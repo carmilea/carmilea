@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail is killing independent email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
+- [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 - [Show HN: Walkie-talkie for teams](https://www.flowy.live/)
-- [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
 - [Open-Sourcing My YC Application &lpar;Athens Research, W21&rpar;](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
 - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
+- [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
