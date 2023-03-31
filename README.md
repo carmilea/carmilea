@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
+- [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
+- [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
+- [ChatGPT banned in Italy over privacy concerns](https://www.bbc.com/news/technology-65139406)
 - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
-- [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
-- [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
-- [Janet for Mortals](https://janet.guide/)
-- [Finley &lpar;YC W21&rpar; is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
 <!-- BLOG-POST-LIST:END -->
 
 ---
