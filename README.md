@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
+- [San Francisco schools banned kids from taking algebra in 8th grade](https://twitter.com/Noahpinion/status/1641395730735849473)
 - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
-- [Show HN: Walkie-talkie for teams](https://www.flowy.live/)
 - [Open-Sourcing My YC Application &lpar;Athens Research, W21&rpar;](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
 - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
-- [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
