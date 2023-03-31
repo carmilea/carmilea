@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear Power Is Too Safe](https://jackdevanney.substack.com/p/nuclear-power-is-too-safe)
 - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
 - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
+- [Lobbyists begin chipping away at Biden’s $80B IRS overhaul](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
