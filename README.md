@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
 - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
-- [The PlanetScale GitHub Actions](https://planetscale.com/blog/announcing-the-planetscale-github-actions)
+- [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
 - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
 - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
-- [A Black DEI Director Canceled by DEI](https://compactmag.com/article/a-black-dei-director-canceled-by-dei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
