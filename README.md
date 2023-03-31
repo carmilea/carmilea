@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: AI also read books, Human also. What&amp;#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
-- [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
-- [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
-- [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)
-- [Automatically enable or disable end-to-end encryption](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
+- [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
+- [Finley &lpar;YC W21&rpar; is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
+- [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
+- [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
+- [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
