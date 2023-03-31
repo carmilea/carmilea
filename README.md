@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
+- [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
+- [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
+- [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
+- [Janet for Mortals](https://janet.guide/)
 - [Finley &lpar;YC W21&rpar; is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
-- [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
-- [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
-- [Italian data protection authority clamps down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
