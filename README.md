@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Shiba Inu cloud credentials leaked on a public repository &lpar;2022&rpar;](https://blog.pingsafe.com/shiba-inu-cloud-credentials-leaked-in-a-major-security-breach-394ad54382c1)
-- [Launch HN: Inri &lpar;YC W23&rpar; – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
-- [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
-- [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
+- [Game Over: Steam won’t Run on Windows 7 and 8 after January 2024](https://arstechnica.com/gadgets/2023/03/steam-will-end-support-for-windows-7-and-8-in-january-of-2024/)
+- [Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
+- [Virgin Orbit to lay off 85 percent of staff, freeze operations](https://www.washingtonpost.com/technology/2023/03/31/virgin-orbit-layoffs/)
+- [HuggingGPT: Solving AI tasks with ChatGPT and its friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [Svix &lpar;YC W21&rpar;, enterprise-ready webhook service, is hiring &lpar;remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
