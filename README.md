@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
+- [Tax preparation industry alarmed over plan for IRS free tax-filing system](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 - [San Francisco schools banned kids from taking algebra in 8th grade](https://twitter.com/Noahpinion/status/1641395730735849473)
 - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
-- [Open-Sourcing My YC Application &lpar;Athens Research, W21&rpar;](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
-- [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
