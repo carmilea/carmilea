@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
+- [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
 - [Ask HN: What&amp;#x27;s the name of this concept related to surveillance](https://news.ycombinator.com/item?id=35399315)
 - [Show HN: Use cookies from Chrome &lpar;CDP&rpar; in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
-- [Wine 8.5](https://www.winehq.org/announce/8.5)
-- [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
