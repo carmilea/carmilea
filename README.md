@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tax Evasion at the Top of the Income Distribution: Theory and Evidence [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
-- [Porsche’s E-Fuel Burns Just Like the Real Thing](https://www.wired.com/story/porsche-e-fuel-emissions-neutral-synthetic-gas/)
-- [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
-- [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
-- [The effects of wealth on &lpar;Swedish&rpar; marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
+- [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
+- [30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
+- [Show HN: SiteGPT – Create ChatGPT-like chatbots trained on your website content](https://sitegpt.ai)
+- [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
+- [Another Reply to Josef PRůša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
