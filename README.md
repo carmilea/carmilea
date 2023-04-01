@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&amp;#x27;m done being an underpaid and mistreated wage slave. I am going out on my own](https://startupdreams.substack.com/p/im-done-being-an-underpaid-and-mistreated)
+- [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
 - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
