@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Today’s management-speak has a lot in common with 1930s Soviet propaganda](https://fortune.com/2023/03/30/corporate-workplace-culture-soviet-union-1930s-increased-production-performance/)
+- [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
+- [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 - [APLcart – Find your way in APL](https://aplcart.info/)
 - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
-- [The same Italian regulator who banned ChatGPT has a non GDPR-compliant website](https://2gdpr.com/587054254)
 - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 <!-- BLOG-POST-LIST:END -->
 
