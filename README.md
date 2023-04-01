@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wine 8.5](https://www.winehq.org/announce/8.5)
 - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
 - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
-- [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
