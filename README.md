@@ -54,8 +54,8 @@
 - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
+- [Activision threatened, spied on workers amid union drive, U.S. agency says](https://www.reuters.com/technology/activision-threatened-spied-workers-amid-union-drive-us-agency-says-2023-03-31/)
 - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
-- [Asahi Linux M1 GPU drivers can now run Windows games via Steam Proton](https://www.youtube.com/watch?v=dgd88zE3O38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
