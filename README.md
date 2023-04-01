@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ray Kurzweil predicts humans will be immortal, identical to AI by 2045](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-735869)
-- [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
 - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
 - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
-- [Refurb weekend: DEC AlphaPC 164LX](http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
+- [The surprising roots of Japan&amp;#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
+- [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
+- [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
