@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
+- [Ask HN: What&amp;#x27;s the name of this concept related to surveillance](https://news.ycombinator.com/item?id=35399315)
+- [Show HN: Use cookies from Chrome &lpar;CDP&rpar; in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 - [Wine 8.5](https://www.winehq.org/announce/8.5)
 - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
-- [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
-- [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
-- [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
