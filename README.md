@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Today’s management-speak has a lot in common with 1930s Soviet propaganda](https://fortune.com/2023/03/30/corporate-workplace-culture-soviet-union-1930s-increased-production-performance/)
+- [APLcart – Find your way in APL](https://aplcart.info/)
 - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
+- [The same Italian regulator who banned ChatGPT has a non GDPR-compliant website](https://2gdpr.com/587054254)
 - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
-- [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
-- [Activision threatened, spied on workers amid union drive, U.S. agency says](https://www.reuters.com/technology/activision-threatened-spied-workers-amid-union-drive-us-agency-says-2023-03-31/)
-- [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
