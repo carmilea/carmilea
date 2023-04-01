@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
+- [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
+- [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
-- [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
 - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
-- [APLcart – Find your way in APL](https://aplcart.info/)
-- [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
