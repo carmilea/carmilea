@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&amp;#x27;m done being an underpaid and mistreated wage slave. I am going out on my own](https://startupdreams.substack.com/p/im-done-being-an-underpaid-and-mistreated)
+- [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
+- [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
 - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
-- [Show HN: Simply explain 20k concepts using GPT](https://platoeducation.ai/#/notes/)
-- [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
-- [Americans die earlier than the English across the income distribution](https://twitter.com/heimbergecon/status/1641880649341587467)
-- [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
+- [Asahi Linux M1 GPU drivers can now run Windows games via Steam Proton](https://www.youtube.com/watch?v=dgd88zE3O38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
