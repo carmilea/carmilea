@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
-- [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
-- [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
-- [Show HN: Use cookies from Chrome &lpar;CDP&rpar; in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
-- [Wine 8.5](https://www.winehq.org/announce/8.5)
+- [Ray Kurzweil predicts humans will be immortal, identical to AI by 2045](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-735869)
+- [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
+- [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
+- [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
+- [Refurb weekend: DEC AlphaPC 164LX](http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
