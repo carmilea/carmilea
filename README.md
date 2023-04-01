@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copper is the missing ingredient of the energy transition](https://www.economist.com/business/2023/03/30/copper-is-the-missing-ingredient-of-the-energy-transition)
+- [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
+- [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
+- [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
 - [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
-- [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
-- [APLcart – Find your way in APL](https://aplcart.info/)
-- [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
-- [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
