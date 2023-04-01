@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
-- [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)
+- [Pine64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
+- [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
-- [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
 - [The surprising roots of Japan&amp;#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
+- [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
