@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Agony of Putting Your Life on Hold to Care for Your Parents](https://www.nytimes.com/2023/03/28/magazine/elder-child-care-millennials.html)
 - [Agave &lpar;YC W22&rpar; – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site &lpar;SF&rpar;](https://news.ycombinator.com/item?id=35409657)
+- [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
+- [UBS May Cut Workforce by 20-30% After Credit Suisse Takeover](https://www.bloomberg.com/news/articles/2023-04-02/ubs-will-cut-workforce-by-20-30-after-cs-takeover-soz-says)
 - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
-- [My experience being blocked by Google Safe Browsing &lpar;2022&rpar;](https://brennan.io/2022/11/12/snake.club-blocked/)
-- [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
-- [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
