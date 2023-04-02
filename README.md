@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
 - [Developers hilariously competed for who could create worst volume control &lpar;2017&rpar;](https://twitter.com/0xDesigner/status/1642554817590566915)
-- [Kramatorsk Radiological Accident](https://en.wikipedia.org/wiki/Kramatorsk_radiological_accident)
 - [Scientists Found a &amp;#x27;Leak&amp;#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
