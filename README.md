@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
+- [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
+- [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
 - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
-- [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
 - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
-- [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
-- [The Problem with Music &lpar;1993&rpar;](https://thebaffler.com/salvos/the-problem-with-music)
 <!-- BLOG-POST-LIST:END -->
 
 ---
