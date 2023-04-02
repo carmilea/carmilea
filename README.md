@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study: 77% of young Americans too fat, mentally ill, on drugs to join military](https://americanmilitarynews.com/2023/03/77-of-young-americans-too-fat-mentally-ill-on-drugs-and-more-to-join-military-pentagon-study-finds/)
 - [Stocks rally to cap a winning month, quarter for Wall Street](https://www.seattletimes.com/business/asian-stocks-follow-wall-st-up-ahead-of-us-inflation-update/)
-- [Tesla Semi Recalled Already, Parking Brake May Fail](https://www.thedrive.com/news/tesla-semi-recalled-already-parking-brake-may-fail)
 - [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 - [Peoplebox &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
 - [Show HN: PizzaGPT – ChatGPT clone accessible from Italy](https://www.pizzagpt.it/)
