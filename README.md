@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: 77% of young Americans too fat, mentally ill, on drugs to join military](https://americanmilitarynews.com/2023/03/77-of-young-americans-too-fat-mentally-ill-on-drugs-and-more-to-join-military-pentagon-study-finds/)
-- [Stocks rally to cap a winning month, quarter for Wall Street](https://www.seattletimes.com/business/asian-stocks-follow-wall-st-up-ahead-of-us-inflation-update/)
-- [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
+- [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
+- [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)
+- [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 - [Peoplebox &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
 - [Show HN: PizzaGPT – ChatGPT clone accessible from Italy](https://www.pizzagpt.it/)
 <!-- BLOG-POST-LIST:END -->
