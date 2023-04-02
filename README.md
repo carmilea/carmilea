@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists Found a &amp;#x27;Leak&amp;#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
+- [OPEC+ announces surprise oil output cuts](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
 - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 - [Cayman Islands offshore finance: Anglo-America, Japan, and hedge funds &lpar;2016&rpar;](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
-- [A Reply to Josef PRůša](https://blog.thea.codes/a-reply-to-josef-prusa/)
-- [Walking 8k Steps Twice a Week Could Prolong Your Life, Study Finds](https://www.prevention.com/health/a43453914/8000-steps-walking-for-health-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
