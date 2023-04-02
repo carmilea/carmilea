@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
+- [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
 - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
-- [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
-- [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
-- [Peoplebox &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
+- [Avoiding HTTP&amp;#x2F;3 &lpar;for a while&rpar; as a pragmatic default](https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
