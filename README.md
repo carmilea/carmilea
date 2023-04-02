@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Agave &lpar;YC W22&rpar; – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site &lpar;SF&rpar;](https://news.ycombinator.com/item?id=35409657)
 - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
-- [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
-- [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
+- [My experience being blocked by Google Safe Browsing &lpar;2022&rpar;](https://brennan.io/2022/11/12/snake.club-blocked/)
+- [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
-- [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
 <!-- BLOG-POST-LIST:END -->
 
 ---
