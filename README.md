@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve Shows a Drop in Linux Gamers for March, but the Numbers Are Questionable](https://www.phoronix.com/news/Steam-Linux-March-2023)
+- [Animated Unknown Pleasures in 3 lines of K](http://johnearnest.github.io/ok/ike/ike.html?gist=f78af1a96ec206dc3b07ike.html?key=c9argHWP)
+- [Stable Diffusion copyright lawsuits could be a legal earthquake for AI](https://arstechnica.com/tech-policy/2023/04/stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai/)
+- [AI porn will never be sexy](https://www.newstatesman.com/science-tech/2023/02/ai-porn-will-never-be-sexy)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Japan Breaks with U.S. Allies, Buys Russian Oil at Prices Above Cap](https://www.wsj.com/articles/japan-breaks-with-u-s-allies-buys-russian-oil-at-prices-above-cap-1395accb)
-- [Finland Becomes a Member of NATO on Tuesday 4 April](https://www.presidentti.fi/en/press-release/finland-becomes-a-member-of-nato-on-tuesday-4-april/)
-- [Framework’s computers aren’t perfect, but they are exciting](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
-- [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
