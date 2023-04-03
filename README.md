@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Names Astronauts to Next Moon Mission](https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis/)
-- [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
-- [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
-- [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
-- [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [System76 Open Firmware](https://github.com/system76/firmware-open)
+- [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
+- [PDF ChatBot – Upload, chat and interact with any PDF document](https://askyourpdf.com/)
+- [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
