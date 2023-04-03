@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla removes parking sensors, the results are predictably terrible](https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible)
+- [Algorithmic Entities &lpar;2017&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2954173)
 - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
 - [Font Awesome &lpar;YC S15&rpar; Is Hiring a Remote, US-Based Product Designer](https://blog.fontawesome.com/hiring-a-product-designer/)
 - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
-- [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
-- [Launch HN: OutSail &lpar;YC W23&rpar; – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
