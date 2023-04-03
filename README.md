@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If Parrots Can Talk, Why Can’t Monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
+- [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
+- [Postman Flows: the next generation of software development](https://blog.postman.com/postman-flows-the-next-generation-of-software-development/)
+- [The influencers getting rich by teaching you how to get rich](https://www.vox.com/culture/2023/3/30/23661712/influencer-online-course-class-miss-excel)
+- [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [System76 Open Firmware](https://github.com/system76/firmware-open)
-- [$60&amp;#x2F;MWh for advanced nuclear electricity is achievable: GE Hitachi Executive](https://www.utilitydive.com/news/advanced-nuclear-ge-hitachi-mwh-nuscale-smr-small-modular-reactor/630154/)
-- [Xanax and Adderall Access Is Being Blocked by Secret Drug Limits](https://www.bloomberg.com/news/articles/2023-04-03/adderall-shortages-are-made-worse-by-the-opioid-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
