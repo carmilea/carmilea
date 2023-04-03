@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
+- [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
+- [Russia confiscates passports of senior officials to stop defections](https://www.ft.com/content/c41be6b0-f625-46f2-91e4-d03eb4b6372b)
 - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
 - [Ask HN: WWYD? Built a company valued at $1B and may walk away with nothing](https://news.ycombinator.com/item?id=35419407)
-- [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
-- [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
-- [The Nine Billion Names Of God &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
