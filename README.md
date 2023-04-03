@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mullvad Browser](https://mullvad.net/en/browser)
-- [Apple Halted M2 Chip Production in January Amid &amp;#x27;Plummeting&amp;#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
-- [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
-- [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
-- [Russia confiscates passports of senior officials to stop defections](https://www.ft.com/content/c41be6b0-f625-46f2-91e4-d03eb4b6372b)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Japan Breaks with U.S. Allies, Buys Russian Oil at Prices Above Cap](https://www.wsj.com/articles/japan-breaks-with-u-s-allies-buys-russian-oil-at-prices-above-cap-1395accb)
+- [Finland Becomes a Member of NATO on Tuesday 4 April](https://www.presidentti.fi/en/press-release/finland-becomes-a-member-of-nato-on-tuesday-4-april/)
+- [Framework’s computers aren’t perfect, but they are exciting](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
+- [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
