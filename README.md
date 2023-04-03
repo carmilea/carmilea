@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
-- [Parisians vote to ban e-scooters from French capital](https://www.reuters.com/world/europe/parisians-vote-ban-e-scooters-french-capital-2023-04-02/)
+- [Ask HN: WWYD? Built a company valued at $1B and may walk away with nothing](https://news.ycombinator.com/item?id=35419407)
 - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
 - [The Nine Billion Names Of God &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
