@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
+- [Saying Goodbye to GitHub – Ersei &amp;#x27;N Stuff](https://ersei.net/en/blog/bye-bye-github)
+- [Neuralink’s FDA troubles are just the beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)
 - [The Nine Billion Names Of God &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
-- [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
-- [Ford to drop AM radio in new models, except commercial vehicles](https://www.freep.com/story/money/cars/2023/04/01/ford-am-radio-commercial/70062845007/)
 - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
-- [The day Windows died](https://thomasbandt.com/the-day-windows-died)
 <!-- BLOG-POST-LIST:END -->
 
 ---
