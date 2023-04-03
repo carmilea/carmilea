@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If Parrots Can Talk, Why Can’t Monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [System76 Open Firmware](https://github.com/system76/firmware-open)
-- [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
-- [PDF ChatBot – Upload, chat and interact with any PDF document](https://askyourpdf.com/)
-- [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
+- [$60&amp;#x2F;MWh for advanced nuclear electricity is achievable: GE Hitachi Executive](https://www.utilitydive.com/news/advanced-nuclear-ge-hitachi-mwh-nuscale-smr-small-modular-reactor/630154/)
+- [Xanax and Adderall Access Is Being Blocked by Secret Drug Limits](https://www.bloomberg.com/news/articles/2023-04-03/adderall-shortages-are-made-worse-by-the-opioid-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
