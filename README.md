@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
-- [Saying Goodbye to GitHub – Ersei &amp;#x27;N Stuff](https://ersei.net/en/blog/bye-bye-github)
-- [Neuralink’s FDA troubles are just the beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)
+- [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
 - [The Nine Billion Names Of God &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
+- [The day Windows died](https://thomasbandt.com/the-day-windows-died)
 <!-- BLOG-POST-LIST:END -->
 
 ---
