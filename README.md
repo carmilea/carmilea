@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
-- [Developers hilariously competed for who could create worst volume control &lpar;2017&rpar;](https://twitter.com/0xDesigner/status/1642554817590566915)
+- [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
+- [McDonald&amp;#x27;s temporarily shuts its U.S. offices and prepares layoff notices](https://www.cnbc.com/2023/04/02/mcdonalds-reportedly-temporarily-shuts-its-us-offices-and-prepares-layoff-notices-.html)
+- [How Software Companies Die &lpar;1995&rpar;](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
 - [Scientists Found a &amp;#x27;Leak&amp;#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
-- [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
