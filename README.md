@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Nine Billion Names Of God &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 - [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
-- [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
-- [How Software Companies Die &lpar;1995&rpar;](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
-- [Paris votes to ban rental e-scooters](https://www.france24.com/en/live-news/20230402-paris-votes-on-ban-for-rental-e-scooters)
+- [Ford to drop AM radio in new models, except commercial vehicles](https://www.freep.com/story/money/cars/2023/04/01/ford-am-radio-commercial/70062845007/)
+- [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
+- [The day Windows died](https://thomasbandt.com/the-day-windows-died)
 <!-- BLOG-POST-LIST:END -->
 
 ---
