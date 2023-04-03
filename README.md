@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life expectancy in the U.S. varies greatly by region](https://twitter.com/nickmmark/status/1642548933795909632)
+- [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
 - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
-- [McDonald&amp;#x27;s temporarily shuts its U.S. offices and prepares layoff notices](https://www.cnbc.com/2023/04/02/mcdonalds-reportedly-temporarily-shuts-its-us-offices-and-prepares-layoff-notices-.html)
 - [How Software Companies Die &lpar;1995&rpar;](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
-- [Scientists Found a &amp;#x27;Leak&amp;#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
-- [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
+- [Scientists found a &amp;#x27;leak&amp;#x27; in photosynthesis that could be tapped into energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
