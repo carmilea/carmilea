@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
+- [Experts warn yearly checkups carry risks and do not reduce mortality](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
+- [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)
+- [Pandas 2.0](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
 - [Chemist Rafael Luque suspended without pay for thirteen years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
-- [In the battle between Microsoft and Google, LLM is the weapon too deadly to use](https://www.theregister.com/2023/04/03/opinion_column/)
-- [AI won&amp;#x27;t steal your job, people leveraging AI will](https://cmte.ieee.org/futuredirections/2023/04/03/ai-wont-steal-your-job-people-leveraging-ai-will/)
-- [Valve Shows a Drop in Linux Gamers for March, but the Numbers Are Questionable](https://www.phoronix.com/news/Steam-Linux-March-2023)
-- [Animated Unknown Pleasures in 3 lines of K &lpar;2015&rpar;](http://johnearnest.github.io/ok/ike/ike.html?gist=f78af1a96ec206dc3b07ike.html?key=c9argHWP)
 <!-- BLOG-POST-LIST:END -->
 
 ---
