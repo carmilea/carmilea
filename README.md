@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mullvad Browser](https://mullvad.net/en/browser)
+- [Apple Halted M2 Chip Production in January Amid &amp;#x27;Plummeting&amp;#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
 - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 - [Russia confiscates passports of senior officials to stop defections](https://www.ft.com/content/c41be6b0-f625-46f2-91e4-d03eb4b6372b)
-- [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
-- [Ask HN: WWYD? Built a company valued at $1B and may walk away with nothing](https://news.ycombinator.com/item?id=35419407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
