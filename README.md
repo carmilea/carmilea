@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Names Astronauts for Artemis Moon Mission](https://www.bbc.com/news/science-environment-65165845)
-- [Apple&amp;#x27;s Tim Cook says AR and VR headsets are for connection and communication](https://www.theverge.com/23667912/tim-cook-apple-ar-vr-interview-gq)
-- [Meta stops offering remote work in new job postings](https://www.businessinsider.com/meta-stops-offering-remote-work-new-job-postings-zuckerberg-2023-3)
-- [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
-- [Ask HN: Who is hiring? &lpar;April 2023&rpar;](https://news.ycombinator.com/item?id=35424807)
+- [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
+- [Font Awesome &lpar;YC S15&rpar; Is Hiring a Remote, US-Based Product Designer](https://blog.fontawesome.com/hiring-a-product-designer/)
+- [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
+- [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
+- [Launch HN: OutSail &lpar;YC W23&rpar; – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
