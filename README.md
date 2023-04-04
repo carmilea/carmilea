@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
-- [Ask HN: Courses&amp;#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
-- [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
-- [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
-- [China&amp;#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
+- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
+- [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
+- [New tool from curl creator – trurl – for URL parsing and manipulation](https://github.com/curl/trurl)
+- [Launch HN: Type &lpar;YC W23&rpar; – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
+- [‘This shouldn’t be happening’: levels of banned CFCs rising](https://www.nature.com/articles/d41586-023-00940-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
