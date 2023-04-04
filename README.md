@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monster Energy Goes After Indie Dev for Using the Word &amp;#x27;Monster&amp;#x27;](https://www.thegamer.com/monster-energy-goes-after-glowstick-entertainment-for-using-the-word-monster/)
+- [Byte Mini PC Powered by AMD – Get notified when available](https://starlabs.systems/pages/byte)
+- [Launch HN: GradientJ &lpar;YC W23&rpar; – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
 - [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)
-- [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
-- [The time Bell Labs brought the Statue of Liberty under its roof &lpar;Literally&rpar;](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
-- [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
-- [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
+- [Creator of Catan, Klaus Teuber, has died](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 <!-- BLOG-POST-LIST:END -->
 
 ---
