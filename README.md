@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/)
+- [Intel Blocks Undervolting: The Whole Story](https://old.reddit.com/r/intel/comments/10slejm/intel_blocks_undervolting_the_whole_story/)
+- [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
+- [Finland becomes the 31st member of NATO](https://www.nato.int/cps/en/natohq/events_67375.htm)
+- [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
 - [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring Mechanism Design&amp;#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
-- [The Great MLOps Hoax: Is It Just Data Engineering in Disguise?](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
-- [How to be a -10x Engineer](https://taylor.town/-10x)
-- [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
