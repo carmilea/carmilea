@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
 - [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
-- [Ask HN: People with direct knowledge of YouTube Algorithm-why the repeats?](https://news.ycombinator.com/item?id=35445992)
+- [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
+- [Brave Launches Self-Serve Ads Program](https://brave.com/self-serve-ads/)
 - [FBI Seizes Bot Shop ‘Genesis Market’ Amid Arrests Targeting Operators, Suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
-- [Monster Energy Goes After Indie Dev for Using the Word &amp;#x27;Monster&amp;#x27;](https://www.thegamer.com/monster-energy-goes-after-glowstick-entertainment-for-using-the-word-monster/)
-- [Launch HN: GradientJ &lpar;YC W23&rpar; – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
