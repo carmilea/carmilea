@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA DNS is under attack](https://faa.gov)
+- [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
+- [Tesla ordered to pay more than $3M to former worker in racism suit](https://www.cnn.com/2023/04/03/business/tesla-racial-discrimination-case/index.html)
 - [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
 - [Hacking the Samsung NX300 &amp;#x27;Smart&amp;#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
-- [SpaceX based 4G&amp;#x2F;5G coverage coming to New Zealand](https://one.nz/why-choose-us/spacex/)
-- [How HyperCard got its color back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
-- [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
