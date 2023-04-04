@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 - [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
 - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
+- [LangChain Announces 10M Seed Round](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
 - [New tool from curl creator – trurl – for URL parsing and manipulation](https://github.com/curl/trurl)
-- [Launch HN: Type &lpar;YC W23&rpar; – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
-- [‘This shouldn’t be happening’: levels of banned CFCs rising](https://www.nature.com/articles/d41586-023-00940-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
