@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok fined £12.7M for misusing children&amp;#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
-- [TikTok fined £12.7M for UK data protection law breaches – TikTok](https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches)
-- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 400GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [If you can&amp;#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
-- [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
+- [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/)
+- [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring Mechanism Design&amp;#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
+- [The Great MLOps Hoax: Is It Just Data Engineering in Disguise?](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
+- [How to be a -10x Engineer](https://taylor.town/-10x)
+- [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
