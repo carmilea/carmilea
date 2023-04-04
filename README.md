@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 400GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [If you can&amp;#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
-- [The Electric Vehicles We Need Now Are E-Bikes &lpar;2022&rpar;](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
-- [Airport scraps 100ml liquid rule with new scanners](https://www.bbc.co.uk/news/business-65163418)
 - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
+- [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
+- [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
