@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How SerenityOS Declares Ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
-- [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
-- [Eight things to know about large language models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
-- [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
-- [Flecs – A fast entity component system for C and C++](https://www.flecs.dev/flecs/)
+- [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 400GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [The Electric Vehicles We Need Now Are E-Bikes](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
+- [Airport scraps 100ml liquid rule with new scanners](https://www.bbc.co.uk/news/business-65163418)
+- [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
+- [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
