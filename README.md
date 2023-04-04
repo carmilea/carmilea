@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI has temporarily stopped selling the Plus plan](https://old.reddit.com/r/OpenAI/comments/12b57q4/openai_has_temporarily_stopped_selling_the_plus/)
+- [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
+- [Calling all open source maintainers – The GitHub Blog](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
+- [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
 - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
-- [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
-- [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
