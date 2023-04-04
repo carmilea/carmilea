@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
-- [Tesla ordered to pay more than $3M to former worker in racism suit](https://www.cnn.com/2023/04/03/business/tesla-racial-discrimination-case/index.html)
-- [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
-- [Hacking the Samsung NX300 &amp;#x27;Smart&amp;#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
-- [SpaceX based 4G&amp;#x2F;5G coverage coming to New Zealand](https://one.nz/why-choose-us/spacex/)
+- [OpenAI has temporarily stopped selling the Plus plan](https://old.reddit.com/r/OpenAI/comments/12b57q4/openai_has_temporarily_stopped_selling_the_plus/)
+- [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+- [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
+- [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
+- [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
