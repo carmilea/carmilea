@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
-- [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
-- [The End of Matter &lpar;1906&rpar; by Henri Poincaré](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
-- [GPT-4 is barely 3 weeks old. things created with GPT-4](https://twitter.com/samuelwoods_/status/1642889718336479233)
-- [Intel Blocks Undervolting: The Whole Story](https://old.reddit.com/r/intel/comments/10slejm/intel_blocks_undervolting_the_whole_story/)
+- [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
+- [China&amp;#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
+- [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
+- [Achilles Heels for AGI&amp;#x2F;ASI via Decision Theoretic Adversaries](https://arxiv.org/abs/2010.05418)
+- [Show HN: We are building open-source IDE powered by AI agents that work for you](https://github.com/e2b-dev/e2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
