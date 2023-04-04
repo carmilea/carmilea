@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maybe we can have a specific tab for submitted contents about GPT and AI](https://news.ycombinator.com/item?id=35444018)
+- [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
+- [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 - [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
-- [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
-- [LangChain Announces 10M Seed Round](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
-- [New tool from curl creator – trurl – for URL parsing and manipulation](https://github.com/curl/trurl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
