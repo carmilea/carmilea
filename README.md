@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
+- [Ask HN: Courses&amp;#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
+- [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
 - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
 - [China&amp;#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
-- [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
-- [Achilles Heels for AGI&amp;#x2F;ASI via Decision Theoretic Adversaries](https://arxiv.org/abs/2010.05418)
-- [Show HN: We are building open-source IDE powered by AI agents that work for you](https://github.com/e2b-dev/e2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
