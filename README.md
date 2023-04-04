@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe we can have a specific tab for submitted contents about GPT and AI](https://news.ycombinator.com/item?id=35444018)
+- [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)
 - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
+- [The time Bell Labs brought the Statue of Liberty under its roof &lpar;Literally&rpar;](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
 - [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
-- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
