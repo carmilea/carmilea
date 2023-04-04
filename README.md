@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
+- [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
+- [The End of Matter &lpar;1906&rpar; by Henri Poincaré](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
+- [GPT-4 is barely 3 weeks old. things created with GPT-4](https://twitter.com/samuelwoods_/status/1642889718336479233)
 - [Intel Blocks Undervolting: The Whole Story](https://old.reddit.com/r/intel/comments/10slejm/intel_blocks_undervolting_the_whole_story/)
-- [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
-- [Finland becomes the 31st member of NATO](https://www.nato.int/cps/en/natohq/events_67375.htm)
-- [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
-- [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring Mechanism Design&amp;#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
