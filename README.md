@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok fined £12.7M for misusing children&amp;#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
+- [TikTok fined £12.7M for UK data protection law breaches – TikTok](https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches)
 - [PhotoRoom Is Hiring a Senior Back End Engineer &lpar;Django, 400GB+ PSQL DB&rpar; in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [If you can&amp;#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
-- [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
-- [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
