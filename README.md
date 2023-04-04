@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
-- [Postman Flows: the next generation of software development](https://blog.postman.com/postman-flows-the-next-generation-of-software-development/)
-- [The influencers getting rich by teaching you how to get rich](https://www.vox.com/culture/2023/3/30/23661712/influencer-online-course-class-miss-excel)
+- [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
+- [Hacking the Samsung NX300 &amp;#x27;Smart&amp;#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
+- [SpaceX based 4G&amp;#x2F;5G coverage coming to New Zealand](https://one.nz/why-choose-us/spacex/)
+- [How HyperCard got its color back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
