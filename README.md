@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
-- [Calling all open source maintainers – The GitHub Blog](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
+- [How SerenityOS Declares Ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 - [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
-- [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+- [Eight things to know about large language models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
+- [Flecs – A fast entity component system for C and C++](https://www.flecs.dev/flecs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
