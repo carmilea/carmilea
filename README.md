@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Systems pulled out of Russia: destroyed $23.42M worth of equipment](https://gagadget.com/en/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
-- [Deposit Insurance Maximization as a Service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
-- [Deviation Game: Draw in a way that humans can guess, but AI can&amp;#x27;t](https://deviationgame.com/)
-- [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
-- [Run LLaMA and Alpaca on your computer](https://github.com/cocktailpeanut/dalai)
+- [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
+- [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
+- [Jitx &lpar;YC S18&rpar; Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
+- [APT Browse: A web browser for the contents of Debian &lpar;and Ubuntu&rpar; packages](https://www.apt-browse.org/)
+- [OpenAI: Our Approach to AI Safety](https://openai.com/blog/our-approach-to-ai-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
