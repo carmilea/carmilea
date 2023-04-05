@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Knowledge Machine Learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
+- [Genesis Market Data Is Now Searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
+- [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
 - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
 - [A SvelteKit template for building CMS-free editable websites](https://editable.website)
-- [A Trick to Reaching Flow](https://census.dev/blog/an-on-ramp-to-flow)
-- [Dark Patterns in Substack](https://hermitian.substack.com/p/dark-patterns-in-substack)
-- [The Rise of the Chiplet](https://semiwiki.com/chiplet/326537-the-rise-of-the-chiplet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
