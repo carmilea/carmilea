@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Deep Learning Foundations to Stable Diffusion &lpar;Part 2&rpar;](https://course.fast.ai/Lessons/part2.html)
+- [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
 - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
-- [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
-- [Lossless Image Compression in O&lpar;n&rpar; Time &lpar;2021&rpar;](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
-- [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
+- [Unpredictable black boxes are terrible interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
