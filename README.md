@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+- [TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 - [Programmer interrupted: The cost of interruption and context switching &lpar;2022&rpar;](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-- [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
-- [Jitx &lpar;YC S18&rpar; Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
