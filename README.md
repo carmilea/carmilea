@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT4 hallucinating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
+- [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
+- [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 - [BRL-CAD](https://brlcad.org/)
 - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
-- [From Deep Learning Foundations to Stable Diffusion &lpar;Part 2&rpar;](https://course.fast.ai/Lessons/part2.html)
-- [Bob &amp;#x27;crazybob&amp;#x27; Lee Was Killed](https://twitter.com/jakeshieldsajj/status/1643470001566015488)
+- [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 <!-- BLOG-POST-LIST:END -->
 
 ---
