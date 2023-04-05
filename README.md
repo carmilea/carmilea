@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple joins Amazon, Google, and Microsoft in tech industry layoffs](https://arstechnica.com/gadgets/2023/04/apple-joins-amazon-google-and-microsoft-in-tech-industry-layoffs/)
+- [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
 - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 - [Lossless Image Compression in O&lpar;n&rpar; Time &lpar;2021&rpar;](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
-- [US Government published guide to sabotage organizational productivity &lpar;1944&rpar;](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
-- [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
-- [China: A genetic experiment that inserted tardigrade genes into human stem cells](https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/)
+- [Show HN: I built a real life version of Her](https://www.banterai.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
