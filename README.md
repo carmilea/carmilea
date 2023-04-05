@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia is persecuting dissenters by taking away their children](https://www.economist.com/europe/2023/03/31/russia-is-persecuting-dissenters-by-taking-away-their-children)
+- [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby&amp;#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
+- [Former Square CTO Bob Lee Stabbed to Death in Downtown San Francisco](https://sfstandard.com/criminal-justice/san-francisco-stabbing-victim-bob-lee-former-cto-square-mobilecoin/)
+- [Aaron: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
 - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
-- [Gaia&amp;#x27;s first black hole discovery: GAIA-BH1 &lpar;2022&rpar;](https://www.cosmos.esa.int/web/gaia/iow_20221104)
-- [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
-- [BRL-CAD](https://brlcad.org/)
-- [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
