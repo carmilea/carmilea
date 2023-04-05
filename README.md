@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
-- [TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
+- [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
+- [Indie Hackers is indie again](https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb)
+- [TPU v4 provides exaFLOPS-scale ML with efficiency gains](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
-- [Programmer interrupted: The cost of interruption and context switching &lpar;2022&rpar;](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
-- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
