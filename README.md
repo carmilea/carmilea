@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
-- [Apple and global suppliers expand renewable energy to 13.7 gigawatts](https://www.apple.com/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-energy-to-13-point-7-gigawatts/)
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 - [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby&amp;#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
