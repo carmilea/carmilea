@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case for Banning Children from Social Media](https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media)
-- [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
-- [Using Wake on LAN &lpar;WOL&rpar; Across the Internet &lpar;2010&rpar;](http://ptere.com/wol/)
-- [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
-- [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
+- [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
+- [Lossless Image Compression in O&lpar;n&rpar; Time &lpar;2021&rpar;](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- [US Government published guide to sabotage organizational productivity &lpar;1944&rpar;](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
+- [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
+- [China: A genetic experiment that inserted tardigrade genes into human stem cells](https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
