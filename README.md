@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple joins Amazon, Google, and Microsoft in tech industry layoffs](https://arstechnica.com/gadgets/2023/04/apple-joins-amazon-google-and-microsoft-in-tech-industry-layoffs/)
+- [Paxlovid: Drug Development at a Full Sprint](https://www.science.org/content/blog-post/paxlovid-drug-development-full-sprint)
 - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
 - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 - [Lossless Image Compression in O&lpar;n&rpar; Time &lpar;2021&rpar;](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
-- [Show HN: I built a real life version of Her](https://www.banterai.app/)
+- [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
