@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Knowledge Machine Learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
-- [Genesis Market Data Is Now Searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
-- [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
-- [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
-- [A SvelteKit template for building CMS-free editable websites](https://editable.website)
+- [Cisco Systems pulled out of Russia: destroyed $23.42M worth of equipment](https://gagadget.com/en/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
+- [Deposit Insurance Maximization as a Service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
+- [Deviation Game: Draw in a way that humans can guess, but AI can&amp;#x27;t](https://deviationgame.com/)
+- [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
+- [Run LLaMA and Alpaca on your computer](https://github.com/cocktailpeanut/dalai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
