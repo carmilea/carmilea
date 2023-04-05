@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
+- [Programmer interrupted: The cost of interruption and context switching &lpar;2022&rpar;](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
 - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
-- [Jitx &lpar;YC S18&rpar; Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
-- [APT Browse: A web browser for the contents of Debian &lpar;and Ubuntu&rpar; packages](https://www.apt-browse.org/)
-- [OpenAI: Our Approach to AI Safety](https://openai.com/blog/our-approach-to-ai-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
