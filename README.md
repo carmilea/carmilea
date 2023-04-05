@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
+- [The closest black hole to the Earth – now only 1560 lya](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 - [BRL-CAD](https://brlcad.org/)
 - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
