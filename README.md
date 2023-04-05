@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case for Banning Children from Social Media](https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media)
+- [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
+- [Using Wake on LAN &lpar;WOL&rpar; Across the Internet &lpar;2010&rpar;](http://ptere.com/wol/)
 - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
-- [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
 - [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
-- [Brave Launches Self-Serve Ads Program](https://brave.com/self-serve-ads/)
-- [FBI Seizes Bot Shop ‘Genesis Market’ Amid Arrests Targeting Operators, Suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
