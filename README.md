@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
 - [Gaia&amp;#x27;s first black hole discovery: GAIA-BH1 &lpar;2022&rpar;](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 - [BRL-CAD](https://brlcad.org/)
 - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
-- [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 <!-- BLOG-POST-LIST:END -->
 
 ---
