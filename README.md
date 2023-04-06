@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 - [WorkRamp &lpar;YC S16&rpar; Is Hiring a Product Manager &lpar;Remote&rpar;](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
-- [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)
-- [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
 - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
+- [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
