@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where did all the ICOs go?](https://news.ycombinator.com/item?id=35470019)
-- [Spotting and Avoiding Heap Fragmentation in Rust Applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
-- [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
-- [Ubuntu Touch OTA-1 Focal brings Ubuntu 20.04 LTS to smartphones](https://liliputing.com/ubuntu-touch-ota-1-focal-brings-ubuntu-20-04-lts-to-smartphones/)
-- [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
+- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
+- [Show HN: ADHD-friendly pomodoro web app](https://brainpls.work/)
+- [Show HN: Tabby – A Self-Hosted GitHub Copilot](https://github.com/TabbyML/tabby)
+- [System design and the cost of architectural complexity](https://dspace.mit.edu/handle/1721.1/79551)
+- [Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
