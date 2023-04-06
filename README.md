@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
+- [Is the government lying to us about gas stoves?](https://philip.greenspun.com/blog/2023/04/06/is-the-government-lying-to-us-about-gas-stoves/)
+- [Book Review: The Arctic Hysterias](https://astralcodexten.substack.com/p/book-review-the-arctic-hysterias)
 - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
+- [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
 - [Gource – Animate your Git history](https://gource.io/)
-- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
-- [ChatGPT: Mayor starts legal bid over false bribery claim](https://www.bbc.co.uk/news/technology-65202597)
 <!-- BLOG-POST-LIST:END -->
 
 ---
