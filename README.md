@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transactions Aren&amp;#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
+- [Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
+- [Be careful what you test or deploy to Vercel](https://twitter.com/shoeboxdnb/status/1643639130914451457)
+- [Please don&amp;#x27;t use GPT for Security Guidance](https://decodebytes.substack.com/p/please-dont-use-gpt-for-security)
 - [Flexport &lpar;YC W14&rpar; Is Hiring](https://flexport.com/careers)
-- [State-of-the-Art Chatbot, Vicuna-7B, now runs on MacBook with GPU acceleration](https://twitter.com/lmsysorg/status/1644060638472470528)
-- [Docker 101](https://pythonislove.com/docker-101)
-- [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
-- [Benchmarking the accuracy of GPT3.5&amp;#x27;s and GPT-4&amp;#x27;s code generation abilities](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
