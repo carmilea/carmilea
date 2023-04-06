@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
-- [Frank founder Charlie Javice arrested, charged with defrauding JPMorgan Chase](https://www.cbsnews.com/news/charlie-javice-criminal-charge-fraud-sec/)
-- [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
-- [Show HN: Generate startup ideas based on HN comments](https://hn-ideas.tjcx.me/)
-- [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#)
+- [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
+- [The world moves slower than you think: a case for ChatGPT skepticism](https://old.reddit.com/r/ChatGPT/comments/12cr1gb/the_real_world_moves_slower_than_you_think_a_case/)
+- [Ubuntu Touch OTA-1 Focal brings Ubuntu 20.04 LTS to smartphones](https://liliputing.com/ubuntu-touch-ota-1-focal-brings-ubuntu-20-04-lts-to-smartphones/)
+- [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
+- [Low and moderate alcohol consumption not associated with increased mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
