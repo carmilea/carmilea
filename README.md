@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
+- [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
+- [Gource – Animate your Git history](https://gource.io/)
 - [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
-- [Show HN: ADHD-friendly pomodoro web app](https://brainpls.work/)
-- [Show HN: Tabby – A Self-Hosted GitHub Copilot](https://github.com/TabbyML/tabby)
-- [System design and the cost of architectural complexity](https://dspace.mit.edu/handle/1721.1/79551)
-- [Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4)
+- [ChatGPT: Mayor starts legal bid over false bribery claim](https://www.bbc.co.uk/news/technology-65202597)
 <!-- BLOG-POST-LIST:END -->
 
 ---
