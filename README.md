@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it my fault if you can&amp;#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 - [Transactions Aren&amp;#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
+- [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
 - [Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
 - [Be careful what you test or deploy to Vercel](https://twitter.com/shoeboxdnb/status/1643639130914451457)
-- [Please don&amp;#x27;t use GPT for Security Guidance](https://decodebytes.substack.com/p/please-dont-use-gpt-for-security)
-- [Flexport &lpar;YC W14&rpar; Is Hiring](https://flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
