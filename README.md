@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
+- [The Last Temptation of Christ &lpar;2012&rpar;](https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html)
 - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
-- [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
 - [I don&amp;#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
-- [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
