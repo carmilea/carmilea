@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles](https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b)
+- [Club for websites weighting less than 1kb](https://1kb.club/)
 - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 - [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
