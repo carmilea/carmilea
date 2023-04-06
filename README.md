@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
+- [I don&amp;#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
+- [AI Is Coming for Voice Actors. Artists Everywhere Should Take Note](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/)
 - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
 - [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
-- [Indie Hackers is indie again](https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb)
-- [TPU v4 provides exaFLOPS-scale ML with efficiency gains](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
-- [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 <!-- BLOG-POST-LIST:END -->
 
 ---
