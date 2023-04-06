@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
-- [WorkRamp &lpar;YC S16&rpar; Is Hiring a Product Manager &lpar;Remote&rpar;](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
-- [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
-- [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
-- [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
+- [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
+- [Frank founder Charlie Javice arrested, charged with defrauding JPMorgan Chase](https://www.cbsnews.com/news/charlie-javice-criminal-charge-fraud-sec/)
+- [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
+- [Show HN: Generate startup ideas based on HN comments](https://hn-ideas.tjcx.me/)
+- [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
