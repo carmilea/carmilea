@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
-- [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
-- [Uranus &lpar;NIRCam Image&rpar;](https://webbtelescope.org/contents/media/images/2023/117/01GWQD6PSGTBK7VQBZST09YYKW?news=true)
-- [Gource – Animate your Git history](https://gource.io/)
-- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
+- [Flexport &lpar;YC W14&rpar; Is Hiring](https://flexport.com/careers)
+- [State-of-the-Art Chatbot, Vicuna-7B, now runs on MacBook with GPU acceleration](https://twitter.com/lmsysorg/status/1644060638472470528)
+- [Docker 101](https://pythonislove.com/docker-101)
+- [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
+- [Benchmarking the accuracy of GPT3.5&amp;#x27;s and GPT-4&amp;#x27;s code generation abilities](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
