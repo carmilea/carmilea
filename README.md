@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 40% of the latest YC batch are AI&amp;#x2F;ML startups](https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc)
+- [False Memories Can Form Within Seconds, Study Finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
 - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
-- [The Last Temptation of Christ &lpar;2012&rpar;](https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html)
+- [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
 - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 <!-- BLOG-POST-LIST:END -->
