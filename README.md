@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU is available in Chrome Beta &lpar;113&rpar;](https://developer.chrome.com/blog/webgpu-release/)
-- [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
-- [False memories can form within seconds, study finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
-- [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
-- [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
+- [WorkRamp &lpar;YC S16&rpar; Is Hiring a Product Manager &lpar;Remote&rpar;](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
+- [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)
+- [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
+- [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
+- [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
