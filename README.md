@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
+- [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
 - [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
 - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
-- [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
