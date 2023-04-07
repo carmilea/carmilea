@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
+- [Cerebrium &lpar;YC W22&rpar; Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
+- [Neovim 0.9 Released](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
+- [Even the Densest Metal Doesn&amp;#x27;t Exceed USPS Shipping Weight Limit &lpar;2022&rpar;](https://nerdist.com/article/densest-metal-doesnt-exceed-the-usps-small-flat-rate-box-weight-limit/)
 - [Codeberg – Fast Open Source Alternative to GitHub](https://codeberg.org/)
-- [Ask HN: What&amp;#x27;s your best resource for keeping up-to-date on AI developments?](https://news.ycombinator.com/item?id=35479853)
-- [Database “Sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-- [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
-- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
