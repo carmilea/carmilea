@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
+- [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
 - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
 - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
-- [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
-- [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 <!-- BLOG-POST-LIST:END -->
 
