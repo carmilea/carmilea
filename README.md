@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
-- [Elusive ‘einstein’ solves a longstanding math problem](https://www.nytimes.com/2023/03/28/science/mathematics-tiling-einstein.html)
-- [Etleap &lpar;YC W13&rpar; Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
-- [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
-- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
+- [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
+- [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
+- [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
+- [Manufactured housing: the Ugly Duckling of affordable housing](https://www.niskanencenter.org/manufactured-housing-the-ugly-duckling-of-affordable-housing/)
+- [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
