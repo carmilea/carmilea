@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Abortion Pill Blocked Nationwide Under Order from US Judge](https://www.bloomberg.com/news/articles/2023-04-07/abortion-pill-blocked-nationwide-under-order-from-us-judge)
+- [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
 - [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
-- [‘AI Pause’ Open Letter Stokes Fear and Controversy](https://spectrum.ieee.org/ai-pause-letter-stokes-fear)
-- [Matt Taibbi: I’m obviously staying at Substack](https://twitter.com/mtaibbi/status/1644431125463351298)
-- [John Carmack on the Similarity of Human Learning and LLMs Training](https://twitter.com/ID_AA_Carmack/status/1644400179620065284)
-- [Tree Raves: A Case Study in Social Protocols](https://prigoose.substack.com/p/tree-raves-a-case-study-in-social)
+- [I’m staying at Substack, and will be moving to Substack Notes next week](https://twitter.com/mtaibbi/status/1644431125463351298)
+- [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
