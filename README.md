@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
+- [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
-- [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
+- [What archaeology is telling us about the real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
 - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
-- [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
-- [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
 <!-- BLOG-POST-LIST:END -->
 
 ---
