@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hindu Nationalist Campaign to Promote Yoga](https://www.thenation.com/article/culture/yogathon-hindu-nationalism/)
-- [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
-- [Show HN: Chrome extension to improve productivity with ChatGPT](https://www.teamsmart.ai/)
-- [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
-- [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
+- [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
+- [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
+- [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
+- [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
+- [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
 <!-- BLOG-POST-LIST:END -->
 
 ---
