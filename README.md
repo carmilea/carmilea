@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
-- [Prediction: Semantic search&lpar;boring&rpar; ends up bigger than generative AI&lpar;cool&rpar;](https://news.ycombinator.com/item?id=35481363)
-- [Big Ball of Mud &lpar;1999&rpar;](http://www.laputan.org/mud/)
-- [What it’s like to fall into the deadly Australian plant, gympie-gympie](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
-- [Cerebrium &lpar;YC W22&rpar; Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
+- [The Hindu Nationalist Campaign to Promote Yoga](https://www.thenation.com/article/culture/yogathon-hindu-nationalism/)
+- [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
+- [Show HN: Chrome extension to improve productivity with ChatGPT](https://www.teamsmart.ai/)
+- [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
+- [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
