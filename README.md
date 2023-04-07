@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Origin of the Term Database “Sharding”](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+- [Bosses Want Hard Workers–So They’re Hiring Older People](https://www.wsj.com/articles/do-older-workers-work-harder-some-bosses-think-so-c4088c7d)
+- [Database “Sharding” came from Ultimate Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+- [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 - [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
-- [Under 30-year sentences: why so many of Forbes’ young heroes face jail](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison)
-- [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
