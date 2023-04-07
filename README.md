@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
-- [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
-- [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
-- [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
-- [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
+- [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
+- [‘AI Pause’ Open Letter Stokes Fear and Controversy](https://spectrum.ieee.org/ai-pause-letter-stokes-fear)
+- [Matt Taibbi: I’m obviously staying at Substack](https://twitter.com/mtaibbi/status/1644431125463351298)
+- [John Carmack on the Similarity of Human Learning and LLMs Training](https://twitter.com/ID_AA_Carmack/status/1644400179620065284)
+- [Tree Raves: A Case Study in Social Protocols](https://prigoose.substack.com/p/tree-raves-a-case-study-in-social)
 <!-- BLOG-POST-LIST:END -->
 
 ---
