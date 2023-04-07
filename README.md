@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Etleap &lpar;YC W13&rpar; Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+- [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
 - [Sex traffickers used family safety app to control victims](https://www.forbes.com/sites/thomasbrewster/2023/04/06/sex-traffickers-use-parenting-apps-like-life360-to-spy-on-victims/)
 - [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
 - [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
-- [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
