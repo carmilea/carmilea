@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it my fault if you can&amp;#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
-- [Transactions Aren&amp;#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
-- [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
-- [Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
-- [Be careful what you test or deploy to Vercel](https://twitter.com/shoeboxdnb/status/1643639130914451457)
+- [Etleap &lpar;YC W13&rpar; Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+- [Sex traffickers used family safety app to control victims](https://www.forbes.com/sites/thomasbrewster/2023/04/06/sex-traffickers-use-parenting-apps-like-life360-to-spy-on-victims/)
+- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
+- [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
+- [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
