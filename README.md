@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
+- [What it’s like to fall into the deadly Australian plant, gympie-gympie](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 - [Cerebrium &lpar;YC W22&rpar; Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
-- [Neovim 0.9 Released](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
+- [Neovim 0.9](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
 - [Even the Densest Metal Doesn&amp;#x27;t Exceed USPS Shipping Weight Limit &lpar;2022&rpar;](https://nerdist.com/article/densest-metal-doesnt-exceed-the-usps-small-flat-rate-box-weight-limit/)
 - [Codeberg – Fast Open Source Alternative to GitHub](https://codeberg.org/)
 <!-- BLOG-POST-LIST:END -->
