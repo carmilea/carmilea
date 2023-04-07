@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
 - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
 - [Manufactured housing: the Ugly Duckling of affordable housing](https://www.niskanencenter.org/manufactured-housing-the-ugly-duckling-of-affordable-housing/)
-- [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
