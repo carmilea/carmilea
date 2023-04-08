@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
+- [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
 - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 - [Show HN: Spotify streaming GDPR dump local analyzer](https://github.com/pldubouilh/spotify-gdpr-dump-analysis)
-- [Trashcan – web based service for indexing scientific papers, or other documents](https://gitlab.com/mildlyparallel/trashcan)
-- [How to avoid correctness space leaks on a lazy setting in Haskell](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
