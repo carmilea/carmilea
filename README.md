@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Graham is an investor in the company trying to kill Twitter](https://twitter.com/paulg/status/1644635086715858944)
+- [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&amp;#x2F;Failure](https://arxiv.org/abs/2303.17276)
 - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
 - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
-- [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
-- [Show HN: Spotify streaming GDPR dump local analyzer](https://github.com/pldubouilh/spotify-gdpr-dump-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
