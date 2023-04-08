@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Graham on Twitter&amp;#x27;s anti-Substack measures: “It&amp;#x27;s a mistake.”](https://twitter.com/paulg/status/1644348267981930498)
+- [Add Honest Achmed&amp;#x27;s root certificate &lpar;2011&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 - [Show HN: BrowserBox – do stuff with browsers that you can&amp;#x27;t normally](https://github.com/dosyago/BrowserBox)
-- [The Erosion of Free Will: Why Society&amp;#x27;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
-- [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
+- [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning &lpar;2019&rpar;](https://arxiv.org/abs/1903.01003)
 - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
-- [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
