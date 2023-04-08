@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paul Graham on Twitter&amp;#x27;s anti-Substack measures: “It&amp;#x27;s a mistake.”](https://twitter.com/paulg/status/1644348267981930498)
-- [Add Honest Achmed&amp;#x27;s root certificate &lpar;2011&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+- [Nango &lpar;YC W23&rpar; Is Hiring a Founding Engineer &lpar;full-stack&amp;#x2F;back end&rpar;](https://nango.dev/jobs)
+- [Go 1.21 will &lpar;likely&rpar; have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 - [Show HN: BrowserBox – do stuff with browsers that you can&amp;#x27;t normally](https://github.com/dosyago/BrowserBox)
 - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning &lpar;2019&rpar;](https://arxiv.org/abs/1903.01003)
 - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
