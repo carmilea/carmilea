@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack’s CEO says Musk’s claims are false](https://twitter.com/kenklippenstein/status/1644713355242881024)
+- [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
+- [Dooble Web Browser](https://textbrowser.github.io/dooble/)
 - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 - [A 1.5GB String](https://blog.backslasher.net/1.5GB-string.html)
 - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
-- [Show HN: A ChatGPT TUI with custom bots](https://www.askmarvin.ai/guide/concepts/tui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
