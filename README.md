@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nango &lpar;YC W23&rpar; Is Hiring a Founding Engineer &lpar;full-stack&amp;#x2F;back end&rpar;](https://nango.dev/jobs)
 - [Go 1.21 will &lpar;likely&rpar; have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
+- [AI powered realtime fluid silulations are here](https://echoesofsomewhere.com/2023/04/06/ai-fluid-simulations/)
 - [Show HN: BrowserBox – do stuff with browsers that you can&amp;#x27;t normally](https://github.com/dosyago/BrowserBox)
 - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning &lpar;2019&rpar;](https://arxiv.org/abs/1903.01003)
-- [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
