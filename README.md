@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jack Dorsey: “Elon is the singular solution I trust” &lpar;2022&rpar;](https://twitter.com/jack/status/1518772756069773313)
+- [Show HN: BrowserBox – do stuff with browsers that you can&amp;#x27;t normally](https://github.com/dosyago/BrowserBox)
+- [Ask HN: Is it worth submitting a claim for FTX holdings?](https://news.ycombinator.com/item?id=35490158)
+- [“Free is not always so free”: Directus is deleting all Community Cloud Projects](https://directus.io/blog/cloud-update/)
+- [The Erosion of Free Will: Why Society&amp;#x27;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
 - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
-- [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
-- [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
-- [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
