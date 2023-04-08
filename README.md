@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
-- [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
-- [Effects of Licorice on the Cardiovascular System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836258/)
-- [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&amp;#x2F;Failure](https://arxiv.org/abs/2303.17276)
-- [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
+- [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
+- [Google to Ban Financial Lending Apps from Accessing User Photos, Contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
+- [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
+- [When Slide Rules Ruled &lpar;2006&rpar; [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
+- [Child hit by car among videos &amp;#x27;captured by Tesla vehicles, shared among staff&amp;#x27;](https://www.theregister.com/2023/04/07/tesla_workers_shared_videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
