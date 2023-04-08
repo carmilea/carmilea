@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
 - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
+- [Mark Zuckerberg interviewed about “The Facebook” &lpar;2005&rpar;](https://twitter.com/stevekrouse/status/1644364093917208580)
 - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
-- [GPT-4 Takes a New Midterm and Gets an A](https://betonit.substack.com/p/gpt-4-takes-a-new-midterm-and-gets)
 - [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
-- [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
