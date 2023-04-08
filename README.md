@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making an Alphorn from Scratch &lpar;2020&rpar;](https://www.argobuilder.com/making-an-alphorn.html)
+- [A Rubyist&amp;#x27;s Walk Along the C-Side &lpar;Part 10&rpar;: Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
+- [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 - [Iran installs cameras in public places to identify, penalise unveiled women](https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/)
-- [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
-- [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
-- [Google to Ban Financial Lending Apps from Accessing User Photos, Contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
