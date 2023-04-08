@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MSI confirms cyberattack, warns against unofficial firmware](https://www.theregister.com/2023/04/07/msi_cyberattack_bios/)
+- [There’s a new form of keyless car theft that works in under 2 minutes](https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/)
+- [0x0: Share Files from Terminal](https://0x0.st/)
 - [Nango &lpar;YC W23&rpar; Is Hiring a Founding Engineer &lpar;full-stack&amp;#x2F;back end&rpar;](https://nango.dev/jobs)
 - [Go 1.21 will &lpar;likely&rpar; have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
-- [AI powered realtime fluid silulations are here](https://echoesofsomewhere.com/2023/04/06/ai-fluid-simulations/)
-- [Show HN: BrowserBox – do stuff with browsers that you can&amp;#x27;t normally](https://github.com/dosyago/BrowserBox)
-- [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning &lpar;2019&rpar;](https://arxiv.org/abs/1903.01003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
