@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey: “Elon is the singular solution I trust” &lpar;2022&rpar;](https://twitter.com/jack/status/1518772756069773313)
 - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
 - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
-- [Mark Zuckerberg interviewed about “The Facebook” &lpar;2005&rpar;](https://twitter.com/stevekrouse/status/1644364093917208580)
+- [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
-- [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
