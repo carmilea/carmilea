@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Abortion Pill Blocked Nationwide Under Order from US Judge](https://www.bloomberg.com/news/articles/2023-04-07/abortion-pill-blocked-nationwide-under-order-from-us-judge)
+- [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
+- [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
+- [GPT-4 Takes a New Midterm and Gets an A](https://betonit.substack.com/p/gpt-4-takes-a-new-midterm-and-gets)
+- [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
 - [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
-- [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
-- [I’m staying at Substack, and will be moving to Substack Notes next week](https://twitter.com/mtaibbi/status/1644431125463351298)
-- [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
