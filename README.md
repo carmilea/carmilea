@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Tell me about how you bombed a technical interview](https://news.ycombinator.com/item?id=35496107)
-- [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
-- [Writing a Simple Garbage Collector in C &lpar;2020&rpar;](http://maplant.com/gc.html)
-- [Making an Alphorn from Scratch &lpar;2020&rpar;](https://www.argobuilder.com/making-an-alphorn.html)
-- [A Rubyist&amp;#x27;s Walk Along the C-Side &lpar;Part 10&rpar;: Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
+- [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
+- [A 1.5GB String](https://blog.backslasher.net/1.5GB-string.html)
+- [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
+- [Show HN: A ChatGPT TUI with custom bots](https://www.askmarvin.ai/guide/concepts/tui/)
+- [Dad says glitch in ‘Find My iPhone’ app directs angry strangers to his home](https://nypost.com/2023/04/06/find-my-iphone-app-glitch-sends-strangers-to-mans-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
