@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paul Graham is an investor in the company trying to kill Twitter](https://twitter.com/paulg/status/1644635086715858944)
+- [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
+- [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
+- [Effects of Licorice on the Cardiovascular System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836258/)
 - [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&amp;#x2F;Failure](https://arxiv.org/abs/2303.17276)
-- [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
-- [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
+- [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
