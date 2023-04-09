@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Is Blocking Likes and Retweets that Mention Substack](https://flipboard.social/@Flipboard/110161362001035875)
+- [Irregular Expressions](https://tavianator.com/2023/irregex.html)
+- [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 - [Chinese investment in Afghanistan’s lithium sector &lpar;2022&rpar;](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 - [New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
-- [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
