@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch journalist who writes critically on China targeted in intimidation scheme](https://nltimes.nl/2023/04/08/dutch-journalist-writes-critically-china-targeted-bizarre-intimidation-scheme)
+- [Float Health &lpar;YC W22&rpar; Is Hiring UI&amp;#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
+- [‘It’s called stealing’: new allegations of plagiarism against Roy Lichtenstein](https://www.theguardian.com/artanddesign/2023/apr/09/new-allegations-of-plagiarism-against-roy-lichtenstein)
+- [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
 - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
-- [Digital collectibles &amp;#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
-- [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
-- [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
-- [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
