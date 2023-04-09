@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
+- [Sabine Hossenfelder: I think faster than light travel is possible. Here&amp;#x27;s why](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
 - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
-- [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
-- [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
-- [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
