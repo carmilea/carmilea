@@ -55,7 +55,7 @@
 - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
 - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
 - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
-- [Andrew Huberman Has Supplements on the Brain](https://www.mcgill.ca/oss/article/critical-thinking-health-and-nutrition/andrew-huberman-has-bad-case-supplement-brain)
+- [FCC warns Portland church to shut down pirate FM operating under its steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
