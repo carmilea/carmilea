@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IRB&amp;#x27;s Built-In Measure](https://jemma.dev/blog/irb-measure)
-- [USPS facility in Utah does nothing but decipher bad handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
+- [IRB&amp;#x27;s Built-In Measure &lpar;2021&rpar;](https://jemma.dev/blog/irb-measure)
+- [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
+- [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
 - [Making IELM &lpar;Emacs Lisp REPL&rpar; More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
-- [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
-- [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
+- [Tables no longer needed for HTML email](https://fullystacked.net/posts/modern-html-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
