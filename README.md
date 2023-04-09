@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spherical Tokamak Achieves Crucial Plasma Temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
 - [The One Thing I Can’t Stand About Teaching English in Japan &lpar;2019&rpar;](https://geekstravelinjapan.wordpress.com/2019/03/10/the-one-thing-i-cant-stand-about-teaching-english-in-japan/)
 - [C Rival &amp;#x27;Zig&amp;#x27; Cracks Tiobe Index Top](https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10)
 - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
-- [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
