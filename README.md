@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
-- [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
-- [Russia’s New Mystery Shortwave Station](https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/)
-- [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
-- [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
+- [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
+- [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
+- [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
+- [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
+- [Human and AI co-author the sci-fi novel:“The Nexus Fallacy”](https://fernandoamaral.org/the-nexus-fallacy-chapter-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
