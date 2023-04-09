@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I regret using Ionic for app development](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
 - [Making IELM &lpar;Emacs Lisp REPL&rpar; More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
 - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
 - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
-- [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
