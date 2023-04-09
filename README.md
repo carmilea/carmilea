@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
+- [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
+- [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
+- [Red Sea Dam](https://en.wikipedia.org/wiki/Red_Sea_Dam)
 - [June &lpar;YC W21&rpar; Is Hiring a Senior Engineer &lpar;#4&rpar;](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
-- [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
-- [Computer History by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613)
-- [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
-- [Custom coreboot firmware and firmware utilities for your Chromebook&amp;#x2F;Chromebox](https://mrchromebox.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
