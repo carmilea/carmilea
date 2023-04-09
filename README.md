@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital collectibles &amp;#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
+- [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
 - [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
 - [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
 - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
-- [Red Sea Dam](https://en.wikipedia.org/wiki/Red_Sea_Dam)
-- [June &lpar;YC W21&rpar; Is Hiring a Senior Engineer &lpar;#4&rpar;](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
