@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [June &lpar;YC W21&rpar; Is Hiring a Senior Engineer &lpar;#4&rpar;](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
+- [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
 - [IRB&amp;#x27;s Built-In Measure &lpar;2021&rpar;](https://jemma.dev/blog/irb-measure)
 - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
-- [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
-- [Making IELM &lpar;Emacs Lisp REPL&rpar; More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
