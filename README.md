@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IRB&amp;#x27;s Built-In Measure](https://jemma.dev/blog/irb-measure)
+- [USPS facility in Utah does nothing but decipher bad handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 - [Making IELM &lpar;Emacs Lisp REPL&rpar; More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
 - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
-- [Dooble Web Browser](https://textbrowser.github.io/dooble/)
-- [FCC warns Portland church to shut down pirate FM operating under its steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
