@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
-- [Sailcargo](https://www.sailcargo.inc)
-- [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
-- [Spherical tokamak achieves crucial plasma temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
-- [The Interoperable Europe Act Needs a “Free Software First” Approach](https://fsfe.org/news/2023/news-20230323-02.en.html)
+- [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
+- [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
+- [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
+- [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
+- [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
