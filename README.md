@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Irregular Expressions](https://tavianator.com/2023/irregex.html)
-- [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
-- [Chinese investment in Afghanistan’s lithium sector &lpar;2022&rpar;](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
-- [New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
-- [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
+- [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
+- [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
+- [Russia’s New Mystery Shortwave Station](https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/)
+- [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
+- [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
