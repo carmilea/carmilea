@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [June &lpar;YC W21&rpar; Is Hiring a Senior Engineer &lpar;#4&rpar;](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
+- [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
+- [Computer History by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613)
 - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
-- [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
-- [IRB&amp;#x27;s Built-In Measure &lpar;2021&rpar;](https://jemma.dev/blog/irb-measure)
-- [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
+- [Custom coreboot firmware and firmware utilities for your Chromebook&amp;#x2F;Chromebox](https://mrchromebox.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
