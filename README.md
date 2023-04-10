@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep in Florida, an ecological disaster has been reversed, wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
+- [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
 - [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 - [Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
-- [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
-- [Australia is quitting coal in record time thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 <!-- BLOG-POST-LIST:END -->
 
 ---
