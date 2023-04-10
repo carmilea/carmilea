@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 - [Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
-- [What is xylazine, the dangerous new drug fuelling Canada’s opioid crisis?](https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/)
-- [Show HN: ThoughtCoach: Helping to improve mental health with AI](https://thoughtcoach.app/)
-- [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
+- [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
+- [Australia is quitting coal in record time thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 <!-- BLOG-POST-LIST:END -->
 
 ---
