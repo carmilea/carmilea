@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
+- [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
 - [JEP 445: Flexible Main Methods and Anonymous Main Classes &lpar;Preview&rpar;](https://openjdk.org/jeps/445)
 - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [FTX stored private keys to crypto assets in plaintext, without access controls](https://twitter.com/molly0xFFF/status/1645217786698903559)
 <!-- BLOG-POST-LIST:END -->
 
 ---
