@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. bank lending slumps by most on record in final weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
-- [OpenBSD 7.3](https://www.openbsd.org/73.html)
-- [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
-- [My controversial diatribe against “skeptics” &lpar;2016&rpar;](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
-- [Up &lpar;Film Series&rpar;](https://en.wikipedia.org/wiki/Up_(film_series))
+- [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
+- [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
+- [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
+- [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
+- [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
