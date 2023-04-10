@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s 40% Plunge in PC Shipments Is Steepest Among Major Computer Makers](https://www.bloomberg.com/news/articles/2023-04-10/apple-s-40-plunge-leads-pc-shipments-down-as-tech-demand-sags)
+- [static_assert is all you need &lpar;no leaks, no UB&rpar;](https://twitter.com/krisjusiak/status/1645360641538945025)
+- [Spotify slapped fired employees with illegal gag order [Translated from Swedish]](https://news.ycombinator.com/item?id=35510851)
+- [Are We &amp;lt;Thing&amp;gt; Yet?](https://wiki.mozilla.org/Areweyet)
+- [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
 - [Personal Concierge Using OpenAI&amp;#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
-- [Hacker News Ranking Algorithm](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
-- [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
-- [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
