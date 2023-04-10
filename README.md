@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senior Frontend Engineer at Justpaid.io &lpar;YC W23&rpar;](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
+- [DoctorGPT brings GPT into production for error diagnosing](https://github.com/ingyamilmolinar/doctorgpt)
 - [Deep in Florida, an ecological disaster has been reversed, wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
 - [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
 - [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
-- [Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
-- [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
