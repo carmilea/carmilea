@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [FTX stored private keys to crypto assets in plaintext, without access controls](https://twitter.com/molly0xFFF/status/1645217786698903559)
 - [DyLoRA: Parameter Efficient Tuning of Pre-Trained Models](https://arxiv.org/abs/2210.07558)
-- [AWS Amplify Is a Grift](https://samthor.au/2023/aws-amplify-is-a-grift/)
-- [P &amp;lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
+- [Problems with AWS Amplify and its use of DynamoDB](https://samthor.au/2023/aws-amplify-is-a-grift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
