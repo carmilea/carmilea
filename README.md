@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
 - [Aviator &lpar;YC S21&rpar; is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 - [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
-- [JEP 445: Flexible Main Methods and Anonymous Main Classes &lpar;Preview&rpar;](https://openjdk.org/jeps/445)
-- [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
