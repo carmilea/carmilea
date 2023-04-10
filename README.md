@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [static_assert is all you need &lpar;no leaks, no UB&rpar;](https://twitter.com/krisjusiak/status/1645360641538945025)
-- [Spotify slapped fired employees with illegal gag order [Translated from Swedish]](https://news.ycombinator.com/item?id=35510851)
-- [Are We &amp;lt;Thing&amp;gt; Yet?](https://wiki.mozilla.org/Areweyet)
-- [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
-- [Personal Concierge Using OpenAI&amp;#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
+- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
+- [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
+- [What I&amp;#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
+- [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
+- [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
