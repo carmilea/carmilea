@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
+- [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
 - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 - [What I&amp;#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
-- [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
