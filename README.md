@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
-- [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
-- [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
-- [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
-- [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [FTX stored private keys to crypto assets in plaintext, without access controls](https://twitter.com/molly0xFFF/status/1645217786698903559)
+- [DyLoRA: Parameter Efficient Tuning of Pre-Trained Models](https://arxiv.org/abs/2210.07558)
+- [AWS Amplify Is a Grift](https://samthor.au/2023/aws-amplify-is-a-grift/)
+- [P &amp;lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
