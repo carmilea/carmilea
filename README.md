@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-tuning with LoRA: create your own avatars and styles](https://www.kix.in/2023/04/07/sd-lora-finetuning/)
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
-- [I think faster than light travel is possible](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
-- [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
+- [Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
+- [What is xylazine, the dangerous new drug fuelling Canada’s opioid crisis?](https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/)
+- [Show HN: ThoughtCoach: Helping to improve mental health with AI](https://thoughtcoach.app/)
+- [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
+- [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
 <!-- BLOG-POST-LIST:END -->
 
 ---
