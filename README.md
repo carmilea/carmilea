@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
+- [U.S. bank lending slumps by most on record in final weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
 - [OpenBSD 7.3](https://www.openbsd.org/73.html)
-- [The Pornography Paradox](https://www.theatlantic.com/magazine/archive/2023/05/anti-pornography-wars-book/673492/)
+- [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 - [My controversial diatribe against “skeptics” &lpar;2016&rpar;](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
-- [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
+- [Up &lpar;Film Series&rpar;](https://en.wikipedia.org/wiki/Up_(film_series))
 <!-- BLOG-POST-LIST:END -->
 
 ---
