@@ -55,7 +55,7 @@
 - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
 - [Senior Frontend Engineer at Justpaid.io &lpar;YC W23&rpar;](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 - [The Kissimmee River has been brought back to life, and wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
-- [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
+- [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
