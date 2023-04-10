@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
-- [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
-- [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
-- [What I&amp;#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
-- [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
+- [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
+- [OpenBSD 7.3](https://www.openbsd.org/73.html)
+- [The Pornography Paradox](https://www.theatlantic.com/magazine/archive/2023/05/anti-pornography-wars-book/673492/)
+- [My controversial diatribe against “skeptics” &lpar;2016&rpar;](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
+- [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
