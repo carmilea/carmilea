@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
 - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
-- [Senior Frontend Engineer at Justpaid.io &lpar;YC W23&rpar;](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
