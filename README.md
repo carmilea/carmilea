@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Downtown San Francisco Whole Foods Closing a Year After Opening](https://sfstandard.com/business/downtown-san-francisco-whole-foods-market-closing/)
+- [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
+- [FTC fines supplement maker $600k for &amp;#x27;review hijacking&amp;#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
+- [Stanford&amp;#x27;s Groundbreaking AI Study Simulates Authentic Human Behavior](https://www.artisana.ai/articles/generative-agents-stanfords-groundbreaking-ai-study-simulates-authentic)
 - [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
-- [Dyson hair dryer becomes jet engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
-- [Seattle&amp;#x27;s new airport terminal can’t fit planes it was designed to handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
-- [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
+- [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
