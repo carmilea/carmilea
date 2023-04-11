@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People with severe mental illness have been failed by a dysfunctional system](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
-- [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
-- [More than a third of community college students have vanished](https://www.seattletimes.com/education-lab/more-than-a-third-of-community-college-students-have-vanished/)
-- [Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
-- [Not Forgotten: ChatGPT isn’t the only important trend in technology](https://www.oreilly.com/radar/not-forgotten/)
+- [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
+- [They’re selling nudes of imaginary women on Reddit](https://www.rollingstone.com/culture/culture-features/ai-nudes-selling-reddit-1234708474/)
+- [Swarm](https://www.vitling.xyz/toys/swarm/)
+- [The EU proposed CRA law may have unintended consequence for the Python ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
+- [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
