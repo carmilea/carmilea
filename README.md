@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ellie – A Mastodon Client for Windows](https://ellie.software/)
+- [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
 - [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
-- [FBI Warns Against Using Public USB Ports Due to Malware Risk](https://www.macrumors.com/2023/04/10/fbi-malware-public-usb-port-warning/)
 - [We&amp;#x27;re building a browser when it&amp;#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
-- [YouTube suspends a YouTuber&amp;#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
