@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
+- [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
-- [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
-- [We&amp;#x27;re building a browser when it&amp;#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
-- [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
+- [FreeBSD 13.2](https://www.freebsd.org/releases/13.2R/relnotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
