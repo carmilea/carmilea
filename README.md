@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
-- [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
-- [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
-- [Now live for all: Substack Notes](https://on.substack.com/p/notes)
-- [Elizabeth Holmes loses bid to stay out of prison](https://www.cnbc.com/2023/04/11/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison.html)
+- [Americans’ IQ scores are lower in some areas, higher in one](https://news.northwestern.edu/stories/2023/03/americans-iq-scores-are-lower-in-some-areas-higher-in-one/)
+- [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
+- [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
+- [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
+- [Is your SRE monitoring like a car alarm or smoke alarm?](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
