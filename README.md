@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
+- [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
+- [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
+- [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
 - [Elizabeth Holmes loses bid to stay out of prison](https://www.cnbc.com/2023/04/11/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison.html)
-- [Smart App Banners can be used to de-anonymize Apple users](https://fingerprint.com/blog/apple-id-region-leak/)
-- [PhaseLLM: Standardized Chat LLM API &lpar;Cohere, Claude, GPT&rpar; + Evaluation Framework](https://github.com/wgryc/phasellm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
