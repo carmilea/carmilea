@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Free Software Foundation is dying](https://drewdevault.com/2023/04/11/2023-04-11-The-FSF-is-dying.html)
 - [Sieve &lpar;YC W22&rpar; Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
+- [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
 - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
-- [Ellie – A Mastodon Client for Windows](https://ellie.software/)
-- [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
