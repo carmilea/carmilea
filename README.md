@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Free Software Foundation is dying](https://drewdevault.com/2023/04/11/2023-04-11-The-FSF-is-dying.html)
-- [Sieve &lpar;YC W22&rpar; Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
-- [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
-- [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
-- [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
+- [People with severe mental illness have been failed by a dysfunctional system](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
+- [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
+- [More than a third of community college students have vanished](https://www.seattletimes.com/education-lab/more-than-a-third-of-community-college-students-have-vanished/)
+- [Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
+- [Not Forgotten: ChatGPT isn’t the only important trend in technology](https://www.oreilly.com/radar/not-forgotten/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
