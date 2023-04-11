@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deck.of.cards](https://deck.of.cards/old/)
+- [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
 - [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
-- [Elizabeth Holmes to begin 11-year prison sentence at end of month](https://www.theguardian.com/technology/2023/apr/11/elizabeth-holmes-begin-prison-sentence-end-of-month)
 - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 - [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
-- [Car alarms and smoke alarms: the tradeoff between sensitivity and specificity](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
