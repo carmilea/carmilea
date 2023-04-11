@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipe Inspection Robot [video]](https://www.youtube.com/watch?v=M9GdrbxoIP4)
+- [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
+- [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
 - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
-- [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
-- [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
-- [Swarm](https://www.vitling.xyz/toys/swarm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
