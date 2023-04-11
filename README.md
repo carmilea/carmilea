@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
+- [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
+- [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
 - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
-- [They’re selling nudes of imaginary women on Reddit](https://www.rollingstone.com/culture/culture-features/ai-nudes-selling-reddit-1234708474/)
 - [Swarm](https://www.vitling.xyz/toys/swarm/)
-- [The EU proposed CRA law may have unintended consequence for the Python ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
-- [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
