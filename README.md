@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 - [Deck.of.cards](https://deck.of.cards/old/)
-- [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
 - [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 - [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
