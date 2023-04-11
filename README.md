@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dyson Hair Dryer Becomes Jet Engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
+- [Downtown San Francisco Whole Foods Closing a Year After Opening](https://sfstandard.com/business/downtown-san-francisco-whole-foods-market-closing/)
+- [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
+- [Dyson hair dryer becomes jet engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
 - [Seattle&amp;#x27;s new airport terminal can’t fit planes it was designed to handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
-- [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
-- [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
-- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
 <!-- BLOG-POST-LIST:END -->
 
 ---
