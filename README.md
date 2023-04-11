@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube suspends a YouTuber&amp;#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
+- [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
+- [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
+- [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
 - [Three Sisters &lpar;Agriculture&rpar;](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
-- [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
-- [FTC fines supplement maker $600k for &amp;#x27;review hijacking&amp;#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
-- [Stanford&amp;#x27;s Groundbreaking AI Study Simulates Authentic Human Behavior](https://www.artisana.ai/articles/generative-agents-stanfords-groundbreaking-ai-study-simulates-authentic)
-- [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
