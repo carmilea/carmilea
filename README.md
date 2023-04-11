@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Sisters &lpar;Agriculture&rpar;](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
 - [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
 - [FTC fines supplement maker $600k for &amp;#x27;review hijacking&amp;#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
 - [Stanford&amp;#x27;s Groundbreaking AI Study Simulates Authentic Human Behavior](https://www.artisana.ai/articles/generative-agents-stanfords-groundbreaking-ai-study-simulates-authentic)
 - [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
-- [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
