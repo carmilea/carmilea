@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&amp;#x27;re building a browser when it&amp;#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
+- [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
+- [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
 - [YouTube suspends a YouTuber&amp;#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
-- [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
 - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
-- [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
-- [Three Sisters &lpar;Agriculture&rpar;](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
 <!-- BLOG-POST-LIST:END -->
 
 ---
