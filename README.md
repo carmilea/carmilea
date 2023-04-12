@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. proposes 56% vehicle emissions cut by 2032, requiring big EV jump](https://www.reuters.com/business/environment/us-proposes-56-vehicle-emissions-cut-by-2032-requiring-big-ev-jump-2023-04-12/)
+- [OpenAI releases Consistency Model for one-step generation](https://github.com/openai/consistency_models)
 - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
-- [Yes, it&amp;#x27;s OK to be mad about crime in San Francisco](https://noahpinion.substack.com/p/yes-its-ok-to-be-mad-about-crime)
-- [Google has disabled the ability to generate app-specific passwords](https://news.ycombinator.com/item?id=35541502)
 - [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
+- [Show HN: I recreated a flying toasters screensaver for XScreensaver](https://github.com/torunar/flying-toasters-xscreensaver)
+- [Deepmind – Reinforcement Learning Lecture Series &lpar;2021&rpar;](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
