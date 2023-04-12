@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI Advising People to Avoid Public Charging Stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
+- [Former Executives of Outcome Health Convicted in $1B Corporate Fraud Scheme – OP](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer &lpar;Analytics&rpar;](https://bitmovin.com/careers/6694763002/)
 - [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
 - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
-- [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
-- [Why MD5&lpar;&amp;#x27;240610708&amp;#x27;&rpar; is equal to MD5&lpar;&amp;#x27;QNKCDZO&amp;#x27;&rpar;?](https://stackoverflow.com/a/22140266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
