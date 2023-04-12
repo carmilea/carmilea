@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
-- [Deck.of.cards](https://deck.of.cards/old/)
-- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
-- [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
-- [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
+- [Eve Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
+- [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
+- [Distillation of 20 Management and Leadership Books and Resources](https://tuckerconnelly.com/management-leadership)
+- [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama &lpar;2007&rpar;](https://www.youtube.com/watch?v=oe8lRAIunxs)
+- [GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
