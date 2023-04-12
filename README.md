@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+- [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
-- [Microsoft is slowly rolling out ads in the Windows 11 start menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
-- [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
-- [JavaScript Object Notation &lpar;JSON&rpar; Pointer](https://www.rfc-editor.org/rfc/rfc6901)
-- [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
+- [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
