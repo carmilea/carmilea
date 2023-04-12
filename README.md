@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
-- [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
-- [The reality of being a Principal Engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)
-- [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
-- [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer &lpar;Analytics&rpar;](https://bitmovin.com/careers/6694763002/)
+- [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
+- [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
+- [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
+- [Why MD5&lpar;&amp;#x27;240610708&amp;#x27;&rpar; is equal to MD5&lpar;&amp;#x27;QNKCDZO&amp;#x27;&rpar;?](https://stackoverflow.com/a/22140266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
