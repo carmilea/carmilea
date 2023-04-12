@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR quits Twitter after being labeled as &amp;#x27;state-affiliated media&amp;#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
-- [Free Dolly: First truly open instruction-tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+- [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
+- [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
+- [Questionable $2,500 hoodie makes you look like you were plucked out of Minecraft](https://arstechnica.com/gadgets/2023/04/questionable-2500-hoodie-makes-you-look-like-you-were-plucked-out-of-minecraft/)
+- [Points on Cartooning by George Carlson &lpar;1937&rpar;](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
 - [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
-- [Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)
-- [Awesome-decentralized-LLM: Collection of LLM resources that can be used to buil](https://github.com/imaurer/awesome-decentralized-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
