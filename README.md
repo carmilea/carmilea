@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A systematic critique of Bitcoin&amp;#x27;s value proposition](http://blog.rongarret.info/2023/04/a-systematic-critique-of-bitcoins-value.html)
+- [Blank • Furbo.org](https://furbo.org/2023/04/12/announcing-blank/)
 - [OpenAI releases Consistency Model for one-step generation](https://github.com/openai/consistency_models)
 - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
-- [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
-- [Show HN: I recreated a flying toasters screensaver for XScreensaver](https://github.com/torunar/flying-toasters-xscreensaver)
-- [Deepmind – Reinforcement Learning Lecture Series &lpar;2021&rpar;](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)
+- [Show HN: Praetor, a lightweight finetuning data and prompt management tool](https://github.com/gkamer8/praetor-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
