@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
-- [A systematic critique of Bitcoin&amp;#x27;s value proposition](http://blog.rongarret.info/2023/04/a-systematic-critique-of-bitcoins-value.html)
-- [Blank turns your TV screen black until you press any button on a remote](https://furbo.org/2023/04/12/announcing-blank/)
-- [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
-- [Killing sparrows led to famines in China](https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/)
+- [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+- [Microsoft is slowly rolling out ads in the Windows 11 start menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
+- [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
+- [JavaScript Object Notation &lpar;JSON&rpar; Pointer](https://www.rfc-editor.org/rfc/rfc6901)
+- [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
