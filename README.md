@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-Like Models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+- [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
+- [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
 - [Use io_uring for network I&amp;#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
 - [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
-- [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
