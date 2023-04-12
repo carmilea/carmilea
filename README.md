@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
-- [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
 - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
 - [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
 - [EVE Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
+- [Book Review: From Oversight To Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
