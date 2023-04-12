@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modular AI &lpar;Chris Lattner AI Startup&rpar;](https://www.modular.com/)
+- [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
+- [Modular is building a next-generation AI developer platform](https://www.modular.com/)
+- [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
 - [Eve Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
 - [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
-- [Distillation of 20 Management and Leadership Books and Resources](https://tuckerconnelly.com/management-leadership)
-- [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama &lpar;2007&rpar;](https://www.youtube.com/watch?v=oe8lRAIunxs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
