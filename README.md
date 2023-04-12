@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Advising People to Avoid Public Charging Stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
-- [Former Executives of Outcome Health Convicted in $1B Corporate Fraud Scheme – OP](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer &lpar;Analytics&rpar;](https://bitmovin.com/careers/6694763002/)
-- [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
-- [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
+- [NPR quits Twitter after being labeled as &amp;#x27;state-affiliated media&amp;#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
+- [Free Dolly: First truly open instruction-tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+- [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
+- [Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)
+- [Awesome-decentralized-LLM: Collection of LLM resources that can be used to buil](https://github.com/imaurer/awesome-decentralized-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
