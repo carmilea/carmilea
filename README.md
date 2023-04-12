@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Software Foundation concern at looming Euro cybersecurity rules](https://www.theregister.com/2023/04/12/python_management_eu/)
-- [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
-- [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
-- [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
-- [EVE Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
+- [“In 2050, everyone will be carbon literate”](https://read2050.substack.com/p/matthew-isaacs)
+- [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
+- [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
+- [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
+- [Show HN: Good, fast, cheap – editable iron triangle](https://trizuliak.com/experiments/good-fast-cheap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
