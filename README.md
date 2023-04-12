@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-Like Models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+- [Use io_uring for network I&amp;#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
-- [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
-- [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
-- [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
