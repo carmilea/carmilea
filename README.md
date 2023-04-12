@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
 - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
-- [Toyota plug-in hybrids to offer 124-mile electric-only range](https://www.autocar.co.uk/car-news/new-cars/toyota-plug-hybrids-offer-124-mile-electric-only-range)
+- [The reality of being a Principal Engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)
 - [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
 - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
-- [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
