@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
-- [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
-- [Questionable $2,500 hoodie makes you look like you were plucked out of Minecraft](https://arstechnica.com/gadgets/2023/04/questionable-2500-hoodie-makes-you-look-like-you-were-plucked-out-of-minecraft/)
-- [Points on Cartooning by George Carlson &lpar;1937&rpar;](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
-- [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
+- [U.S. proposes 56% vehicle emissions cut by 2032, requiring big EV jump](https://www.reuters.com/business/environment/us-proposes-56-vehicle-emissions-cut-by-2032-requiring-big-ev-jump-2023-04-12/)
+- [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
+- [Yes, it&amp;#x27;s OK to be mad about crime in San Francisco](https://noahpinion.substack.com/p/yes-its-ok-to-be-mad-about-crime)
+- [Google has disabled the ability to generate app-specific passwords](https://news.ycombinator.com/item?id=35541502)
+- [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
