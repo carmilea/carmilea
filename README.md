@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“In 2050, everyone will be carbon literate”](https://read2050.substack.com/p/matthew-isaacs)
+- [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
+- [Toyota plug-in hybrids to offer 124-mile electric-only range](https://www.autocar.co.uk/car-news/new-cars/toyota-plug-hybrids-offer-124-mile-electric-only-range)
 - [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
 - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
 - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
-- [Show HN: Good, fast, cheap – editable iron triangle](https://trizuliak.com/experiments/good-fast-cheap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
