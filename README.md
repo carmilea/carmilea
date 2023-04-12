@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
 - [A systematic critique of Bitcoin&amp;#x27;s value proposition](http://blog.rongarret.info/2023/04/a-systematic-critique-of-bitcoins-value.html)
-- [Blank • Furbo.org](https://furbo.org/2023/04/12/announcing-blank/)
-- [OpenAI releases Consistency Model for one-step generation](https://github.com/openai/consistency_models)
-- [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
-- [Show HN: Praetor, a lightweight finetuning data and prompt management tool](https://github.com/gkamer8/praetor-data)
+- [Blank turns your TV screen black until you press any button on a remote](https://furbo.org/2023/04/12/announcing-blank/)
+- [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
+- [Killing sparrows led to famines in China](https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
