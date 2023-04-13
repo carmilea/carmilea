@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kids Toys Suck &lpar;2011&rpar;](http://jesda.com/2011/02/10/kids-toys-suck/)
-- [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
-- [Intel exiting its longtime server business](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
-- [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
-- [Was your degree really worth it?](https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it)
+- [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
+- [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
+- [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
+- [Switching to C over &amp;#x27;Modern&amp;#x27; Programming Languages](https://devtails.xyz/@adam/switching-to-c-over-modern-programming-languages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
