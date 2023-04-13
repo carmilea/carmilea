@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
-- [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
-- [World&amp;#x27;s largest banknote printer says printing money isn&amp;#x27;t profitable anymore](https://www.businessinsider.com/world-largest-banknote-printer-de-la-rue-issues-profit-warning-2023-4)
-- [GitHub Accelerator: our first cohort and what&amp;#x27;s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
-- [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
+- [Bob Lee&amp;#x27;s alleged killer arrested, also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
+- [My Dating App Method May Be Unorthodox, but Good Lord Does It Work](https://slate.com/human-interest/2023/04/tinder-bumble-grindr-dating-app-hack-method-algorithm.html)
+- [1-in-1000 year flooding in South Florida](https://www.cnn.com/2023/04/12/weather/florida-flash-flood-fort-lauderdale/index.html)
+- [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
+- [Supabase Auth: SSO, Mobile, and Server-Side Support](https://supabase.com/blog/supabase-auth-sso-pkce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
