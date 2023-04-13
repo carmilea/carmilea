@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European privacy watchdog creates ChatGPT task force](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/)
+- [Joe Rogan Issues Warning After AI-Generated Version of His Podcast Surfaces](https://www.zerohedge.com/political/joe-rogan-issues-warning-after-ai-generated-version-his-podcast-surfaces)
+- [Arrest made in Bob Lee killing; suspect was tech exec](https://www.sfchronicle.com/sf/article/bob-lee-san-francisco-arrest-17895071.php)
 - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
 - [The science behind California&amp;#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
-- [In Support of Richard Stallman](https://stallmansupport.org/richard-stallman-commitment-to-social-justice.html)
-- [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
-- [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
