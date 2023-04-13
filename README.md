@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kids Toys Suck &lpar;2011&rpar;](http://jesda.com/2011/02/10/kids-toys-suck/)
+- [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
 - [Intel exiting its longtime server business](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
 - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
-- [Leaker of U.S. secret documents worked on military base, friend says](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
-- [Lindows 4.0 &lpar;2003&rpar;](https://baturin.org/misc/software-reviews/lindows/)
-- [Show HN: Let&amp;#x27;s find Pokémon that are the same height and weight as you](https://pokefit.vercel.app/en)
+- [Was your degree really worth it?](https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
