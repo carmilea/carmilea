@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Good Friday Agreement created an ‘all-Ireland’ economy](https://www.france24.com/en/europe/20230411-a-quiet-success-story-how-the-good-friday-agreement-created-an-all-ireland-economy)
-- [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
-- [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
-- [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
-- [Kraftful &lpar;YC S19&rpar; Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
+- [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)
+- [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
+- [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
+- [California is a rooftop solar giant. New rules could change that](https://www.canarymedia.com/articles/solar/california-is-a-rooftop-solar-giant-new-rules-could-change-that)
+- [WeVPN Is Shutting Down](https://wevpn.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
