@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kids Toys Suck &lpar;2011&rpar;](http://jesda.com/2011/02/10/kids-toys-suck/)
+- [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
 - [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
 - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
