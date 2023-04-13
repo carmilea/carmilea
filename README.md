@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Good Friday Agreement created an ‘all-Ireland’ economy](https://www.france24.com/en/europe/20230411-a-quiet-success-story-how-the-good-friday-agreement-created-an-all-ireland-economy)
+- [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
+- [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
+- [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
 - [Kraftful &lpar;YC S19&rpar; Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
-- [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
-- [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
-- [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)
-- [European privacy watchdog creates ChatGPT task force](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
