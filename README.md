@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
+- [Lindows 4.0 &lpar;2003&rpar;](https://baturin.org/misc/software-reviews/lindows/)
+- [OpenAI WebGPT &lpar;2021&rpar;](https://openai.com/research/webgpt)
+- [Show HN: Twitter API Reverse Engineered](https://github.com/trevorhobenshield/twitter-api-client)
+- [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
 - [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
-- [Use io_uring for network I&amp;#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
