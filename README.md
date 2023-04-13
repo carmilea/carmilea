@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
-- [GPT Unicorn: A Daily Exploration of GPT-4&amp;#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
-- [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
-- [Someone Asked an Autonomous AI to &amp;#x27;Destroy Humanity&amp;#x27;](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened)
-- [Don’t record your social life on an append-only social network](https://www.ctrl.blog/entry/append-only-social.html)
+- [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
+- [Japan’s population drops by half a million in 2022](https://www.cnn.com/2023/04/13/asia/japan-population-decline-record-drop-intl-hnk/index.html)
+- [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
+- [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
+- [Camus&amp;#x27;s New York Diary &lpar;1946&rpar;](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
