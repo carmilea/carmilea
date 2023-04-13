@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
-- [Google&amp;#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
-- [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
-- [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
-- [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
+- [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
+- [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- [First image of a black hole gets a makeover with AI](https://apnews.com/article/first-black-hole-image-machine-learning-8a1a4815a974d8fe3a43392d8e775bfb)
+- [Andrew Carnegie Turned His Fortune into a Library Legacy &lpar;2013&rpar;](https://www.npr.org/2013/08/01/207272849/how-andrew-carnegie-turned-his-fortune-into-a-library-legacy)
+- [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
