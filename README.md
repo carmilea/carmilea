@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
+- [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
+- [World&amp;#x27;s largest banknote printer says printing money isn&amp;#x27;t profitable anymore](https://www.businessinsider.com/world-largest-banknote-printer-de-la-rue-issues-profit-warning-2023-4)
+- [GitHub Accelerator: our first cohort and what&amp;#x27;s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
-- [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- [First image of a black hole gets a makeover with AI](https://apnews.com/article/first-black-hole-image-machine-learning-8a1a4815a974d8fe3a43392d8e775bfb)
-- [Andrew Carnegie Turned His Fortune into a Library Legacy &lpar;2013&rpar;](https://www.npr.org/2013/08/01/207272849/how-andrew-carnegie-turned-his-fortune-into-a-library-legacy)
-- [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
