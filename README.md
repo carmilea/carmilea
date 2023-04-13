@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
+- [Google&amp;#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
+- [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
+- [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
 - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
-- [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
-- [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
-- [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
-- [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
