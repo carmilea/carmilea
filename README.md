@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
-- [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
-- [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
-- [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
-- [Switching to C over &amp;#x27;Modern&amp;#x27; Programming Languages](https://devtails.xyz/@adam/switching-to-c-over-modern-programming-languages)
+- [How Big Is Mexico?](https://vividmaps.com/mexico/)
+- [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
+- [KDE Plasma Is Not a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
