@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)
+- [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
 - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
 - [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
-- [California is a rooftop solar giant. New rules could change that](https://www.canarymedia.com/articles/solar/california-is-a-rooftop-solar-giant-new-rules-could-change-that)
+- [Surpassing 10Gb&amp;#x2F;S over Tailscale](https://tailscale.com/blog/more-throughput/)
 - [WeVPN Is Shutting Down](https://wevpn.com/)
 <!-- BLOG-POST-LIST:END -->
 
