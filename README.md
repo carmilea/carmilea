@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bob Lee&amp;#x27;s alleged killer arrested, also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
-- [My Dating App Method May Be Unorthodox, but Good Lord Does It Work](https://slate.com/human-interest/2023/04/tinder-bumble-grindr-dating-app-hack-method-algorithm.html)
-- [1-in-1000 year flooding in South Florida](https://www.cnn.com/2023/04/12/weather/florida-flash-flood-fort-lauderdale/index.html)
-- [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
-- [Supabase Auth: SSO, Mobile, and Server-Side Support](https://supabase.com/blog/supabase-auth-sso-pkce)
+- [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
+- [The science behind California&amp;#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
+- [In Support of Richard Stallman](https://stallmansupport.org/richard-stallman-commitment-to-social-justice.html)
+- [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
+- [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
