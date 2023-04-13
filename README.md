@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
-- [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
-- [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
-- [Surpassing 10Gb&amp;#x2F;S over Tailscale](https://tailscale.com/blog/more-throughput/)
-- [WeVPN Is Shutting Down](https://wevpn.com/)
+- [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
+- [GPT Unicorn: A Daily Exploration of GPT-4&amp;#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
+- [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
+- [Someone Asked an Autonomous AI to &amp;#x27;Destroy Humanity&amp;#x27;](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened)
+- [Don’t record your social life on an append-only social network](https://www.ctrl.blog/entry/append-only-social.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
