@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel exiting its longtime server business](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
 - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 - [Leaker of U.S. secret documents worked on military base, friend says](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
-- [Tesla’s EV Market Share Is Dropping Fast](https://jalopnik.com/tesla-us-ev-market-share-is-dropping-fast-1850327204)
 - [Lindows 4.0 &lpar;2003&rpar;](https://baturin.org/misc/software-reviews/lindows/)
-- [Mathematicians Find Hidden Structure in a Common Type of Space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
+- [Show HN: Let&amp;#x27;s find Pokémon that are the same height and weight as you](https://pokefit.vercel.app/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
