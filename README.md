@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chipotle plans to ditch gas grills at 100 new locations](https://www.theverge.com/2023/4/12/23680207/chipotle-gas-grill-electric-stove-climate-change)
 - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
-- [Japan’s population drops by half a million in 2022](https://www.cnn.com/2023/04/13/asia/japan-population-decline-record-drop-intl-hnk/index.html)
-- [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
-- [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
-- [Camus&amp;#x27;s New York Diary &lpar;1946&rpar;](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
+- [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
+- [SQL: 2023 is finished: Here is what&amp;#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
+- [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
