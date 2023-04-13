@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s EV Market Share Is Dropping Fast](https://jalopnik.com/tesla-us-ev-market-share-is-dropping-fast-1850327204)
 - [Lindows 4.0 &lpar;2003&rpar;](https://baturin.org/misc/software-reviews/lindows/)
-- [OpenAI WebGPT &lpar;2021&rpar;](https://openai.com/research/webgpt)
+- [Mathematicians Find Hidden Structure in a Common Type of Space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
 - [Show HN: Twitter API Reverse Engineered](https://github.com/trevorhobenshield/twitter-api-client)
-- [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
-- [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+- [East Asian character emojis ㊗ 🈶 🈯 🈳 &lpar;2016&rpar;](https://chenhuijing.com/blog/east-asian-character-emojis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
