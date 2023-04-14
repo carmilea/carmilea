@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoticsilicon.com – Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
+- [Stop whining about “The EU Cookie Policy” and improve your ways](https://social.wildeboer.net/@jwildeboer/110195737889831520)
+- [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 - [Ask HN: Technology&amp;#x2F;Creative books and games for my daughter &lpar;7 years&rpar;](https://news.ycombinator.com/item?id=35566416)
-- [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
-- [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
-- [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 <!-- BLOG-POST-LIST:END -->
 
 ---
