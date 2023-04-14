@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
 - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
-- [Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
