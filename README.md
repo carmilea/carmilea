@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Farmers Win the Right to Repair Their Own Tractors in Colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
+- [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 - [Zip-NeRF: Anti-aliased grid-based neural radiance fields [video]](https://www.youtube.com/watch?v=xrrhynRzC8k)
-- [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
+- [AI-generated image selected for a Sony World Photography Award](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 - [Show HN: Debate Devil – AI debating practice app](https://www.debate-devil.com/en)
-- [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
+- [Project pushes back the hominid timeline in Africa by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
