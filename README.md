@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: WikiBinge – discover how all things are vaguely connected &lpar;2016&rpar;](https://www.wikibinge.com/)
-- [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
-- [Svix &lpar;YC W21&rpar; is hiring Rust back end engineers &lpar;US remote&rpar;](https://www.svix.com/careers/)
-- [Ask HN: Side projects making less than $2k MRR, what&amp;#x27;s your project?](https://news.ycombinator.com/item?id=35571486)
-- [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
+- [Cash App founder Bob Lee stabbed to death after argument about suspect&amp;#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
+- [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
+- [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
+- [U.S. SEC sees decentralized crypto platforms as exchanges](https://www.reuters.com/markets/us/us-sec-weigh-taking-more-feedback-plan-expand-exchange-definition-2023-04-14/)
+- [Universal Install Script](https://xkcd.com/1654/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
