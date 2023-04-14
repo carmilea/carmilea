@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigators find Pentagon leaker through Instagram photo](https://twitter.com/trbrtc/status/1646592080293122067)
+- [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
+- [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
-- [Zip-NeRF: Anti-aliased grid-based neural radiance fields [video]](https://www.youtube.com/watch?v=xrrhynRzC8k)
-- [AI-generated image selected for a Sony World Photography Award](https://www.eldagsen.com/sony-world-photography-awards-2023/)
-- [Show HN: Debate Devil – AI debating practice app](https://www.debate-devil.com/en)
-- [Project pushes back the hominid timeline in Africa by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
+- [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
