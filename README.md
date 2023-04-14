@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demographics of Hacker News](https://toolhub.tech/blog/Demographics-of-Hacker-News/)
-- [OpenAI’s red team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
+- [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
+- [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
+- [OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
 - [Ask HN: Side project of more that $2k monthly revenue what&amp;#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
-- [Exoticsilicon.com – Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
-- [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
+- [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
