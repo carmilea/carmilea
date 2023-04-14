@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The market is mostly being flooded with web developers](https://old.reddit.com/r/cscareerquestions/comments/12kbzyo/the_market_is_mostly_being_flooded_with_web/)
+- [Salesforce Is Leaving a San Francisco Office Tower Bearing Its Name](https://sfstandard.com/business/salesforce-looks-to-dump-its-remaining-office-space-at-salesforce-east/)
+- [Servo plans to move their layout engine to “Layout 2020”](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 - [What&amp;#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
 - [Your iPhone Was Built with Child Labor](https://www.thefp.com/p/your-iphone-was-built-with-child)
-- [Atlas &lpar;YC W22&rpar; Is Hiring for a Demand Gen Manager &lpar;International&rpar;](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
-- [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
-- [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 <!-- BLOG-POST-LIST:END -->
 
 ---
