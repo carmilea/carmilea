@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chipotle plans to ditch gas grills at 100 new locations](https://www.theverge.com/2023/4/12/23680207/chipotle-gas-grill-electric-stove-climate-change)
-- [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
+- [Atlas &lpar;YC W22&rpar; Is Hiring for a Demand Gen Manager &lpar;International&rpar;](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
+- [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
+- [Police Arrested a Tech Executive over the Stabbing Death of Bob Lee](https://www.buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco)
 - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 - [SQL: 2023 is finished: Here is what&amp;#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
-- [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
