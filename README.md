@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
+- [Ask HN: Technology&amp;#x2F;Creative books and games for my daughter &lpar;7 years&rpar;](https://news.ycombinator.com/item?id=35566416)
 - [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
 - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
-- [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
