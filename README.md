@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
+- [Show HN: Dare to Debate an AI? Put Your Skills to the Test with DebateDevil](https://www.debate-devil.com/en)
 - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
-- [OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
 - [Ask HN: Side project of more that $2k monthly revenue what&amp;#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
+- [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
