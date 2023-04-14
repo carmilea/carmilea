@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX is targeting Monday, April 17 for the first flight of Starship](https://www.spacex.com/launches/mission/?missionId=starship-flight-test)
+- [Even Machine Brains Need Sleep](https://nautil.us/even-machine-brains-need-sleep-288191/)
+- [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
+- [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
-- [Why Is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
-- [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
-- [Ask HN: Become a 10x developer with LLM? Myth? Reality?](https://news.ycombinator.com/item?id=35574308)
-- [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
