@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Dare to Debate an AI? Put Your Skills to the Test with DebateDevil](https://www.debate-devil.com/en)
-- [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
-- [Ask HN: Side project of more that $2k monthly revenue what&amp;#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
-- [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
-- [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
+- [Farmers Win the Right to Repair Their Own Tractors in Colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
+- [Zip-NeRF: Anti-aliased grid-based neural radiance fields [video]](https://www.youtube.com/watch?v=xrrhynRzC8k)
+- [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
+- [Show HN: Debate Devil – AI debating practice app](https://www.debate-devil.com/en)
+- [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
