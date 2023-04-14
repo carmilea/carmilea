@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
+- [Show HN: WikiBinge – discover how all things are vaguely connected &lpar;2016&rpar;](https://www.wikibinge.com/)
 - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
 - [Svix &lpar;YC W21&rpar; is hiring Rust back end engineers &lpar;US remote&rpar;](https://www.svix.com/careers/)
+- [Ask HN: Side projects making less than $2k MRR, what&amp;#x27;s your project?](https://news.ycombinator.com/item?id=35571486)
 - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
-- [Inmates in a Brazil prison shorten their sentences by writing book reviews](https://www.cbc.ca/radio/undertheinfluence/inmates-in-a-brazil-prison-shorten-their-sentences-by-writing-book-reviews-1.6442390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
