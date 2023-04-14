@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&amp;#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
+- [Your iPhone Was Built with Child Labor](https://www.thefp.com/p/your-iphone-was-built-with-child)
 - [Atlas &lpar;YC W22&rpar; Is Hiring for a Demand Gen Manager &lpar;International&rpar;](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
 - [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
-- [Police Arrested a Tech Executive over the Stabbing Death of Bob Lee](https://www.buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco)
 - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
-- [SQL: 2023 is finished: Here is what&amp;#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 <!-- BLOG-POST-LIST:END -->
 
 ---
