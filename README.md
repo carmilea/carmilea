@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cash App founder Bob Lee stabbed to death after argument about suspect&amp;#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
-- [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
-- [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
-- [U.S. SEC sees decentralized crypto platforms as exchanges](https://www.reuters.com/markets/us/us-sec-weigh-taking-more-feedback-plan-expand-exchange-definition-2023-04-14/)
-- [Universal Install Script](https://xkcd.com/1654/)
+- [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
+- [Why Is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
+- [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
+- [Ask HN: Become a 10x developer with LLM? Myth? Reality?](https://news.ycombinator.com/item?id=35574308)
+- [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
