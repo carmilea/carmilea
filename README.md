@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demographics of Hacker News](https://toolhub.tech/blog/Demographics-of-Hacker-News/)
+- [OpenAI’s red team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
+- [Ask HN: Side project of more that $2k monthly revenue what&amp;#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 - [Exoticsilicon.com – Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
-- [Stop whining about “The EU Cookie Policy” and improve your ways](https://social.wildeboer.net/@jwildeboer/110195737889831520)
 - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
-- [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
-- [Ask HN: Technology&amp;#x2F;Creative books and games for my daughter &lpar;7 years&rpar;](https://news.ycombinator.com/item?id=35566416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
