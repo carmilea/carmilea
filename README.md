@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)
 - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
 - [Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
-- [The least impactful way to spend $300M?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
