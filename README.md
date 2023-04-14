@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX is targeting Monday, April 17 for the first flight of Starship](https://www.spacex.com/launches/mission/?missionId=starship-flight-test)
-- [Even Machine Brains Need Sleep](https://nautil.us/even-machine-brains-need-sleep-288191/)
+- [Global wind energy will exceed 1 TW by the end of 2023](https://electrek.co/2023/04/14/global-wind-energy-will-exceed-1-tw-by-the-end-of-2023/)
 - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
+- [A new search for a new world](https://www.freepik.com/blog/new-search-new-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
