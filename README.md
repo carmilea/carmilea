@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
+- [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
 - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
