@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest](https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html)
+- [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
+- [Cash App founder stabbed after allegedly drinking with suspect&amp;#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
+- [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
-- [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
-- [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
-- [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
+- [Libreboot: HP Elite 8200 SFF support added &lpar;plus more desktops coming soon&rpar;](https://libreboot.org/news/hp8200sff.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
