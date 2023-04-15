@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
-- [WebGPU Fundamentals](https://webgpufundamentals.org/)
-- [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
-- [How many floating-point numbers are in the interval [0,1]? &lpar;2017&rpar;](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
-- [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
+- [Billionaire Harlan Crow bought property from Clarence Thomas in undisclosed deal](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus)
+- [US pay transparency laws result in worker discontent](https://www.irishtimes.com/business/work/2023/03/31/us-pay-transparency-laws-result-in-worker-discontent/)
+- [Tell HN: Do Not Use Docusign](https://news.ycombinator.com/item?id=35581197)
+- [Ask HN: Why call it an AI company if all it does is call open AI API?](https://news.ycombinator.com/item?id=35581031)
+- [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
