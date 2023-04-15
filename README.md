@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft execs on Apple&amp;#x27;s music store &lpar;2003&rpar;](https://twitter.com/TechEmails/status/1647317806697050112)
+- [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
+- [Shareware Heroes](https://sharewareheroes.com/)
 - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
-- [Why the Rust Trademark Policy was such a problem](https://kimono-koans.github.io/trademark/)
-- [Show HN: SaaS for making software documentation less annoying](https://documentationlab.com)
-- [MacStealer allows for WiFi client isolation bypasses &lpar;CVE-2022-47522&rpar;](https://github.com/vanhoefm/macstealer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
