@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
 - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
-- [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
-- [Show HN: What Should I Cook – Cooking Ideas](https://rotb.gigalixirapp.com/)
+- [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
 - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
 - [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
 <!-- BLOG-POST-LIST:END -->
