@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Less Than 7 Percent of US Active Equity Funds Have Beat the Market Past Decade](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
+- [HDD Sales Crater, Drop 35% Year-over-Year](https://www.tomshardware.com/news/sales-of-hdds-drop-35-percent-year-over-year)
+- [Algebraic Graph Calculus](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 - [Microsoft execs on Apple&amp;#x27;s music store &lpar;2003&rpar;](https://twitter.com/TechEmails/status/1647317806697050112)
 - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
-- [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
-- [Shareware Heroes](https://sharewareheroes.com/)
-- [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
 <!-- BLOG-POST-LIST:END -->
 
 ---
