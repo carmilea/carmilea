@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 - [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
-- [Please fix your spinner](https://pleasefixyourspinner.com)
+- [Show HN: What Should I Cook – Cooking Ideas](https://rotb.gigalixirapp.com/)
 - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
-- [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
-- [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
+- [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
