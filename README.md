@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
+- [Uber and Amazon use AI to pay people different wages for the same work](https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4)
+- [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 - [The FFmpeg&amp;#x2F;Libav situation &lpar;2012&rpar;](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
-- [SUVs more dangerous to cyclists than other cars, study suggests](https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605)
-- [Easily Accessing All Your Stuff with a Zero-Trust Mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
-- [Less Than 7 Percent of US Active Equity Funds Have Beat the Market Past Decade](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
-- [HDD Sales Crater, Drop 35% Year-over-Year](https://www.tomshardware.com/news/sales-of-hdds-drop-35-percent-year-over-year)
+- [Easily accessing all your stuff with a zero-trust mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
