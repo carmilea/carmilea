@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The FFmpeg&amp;#x2F;Libav situation &lpar;2012&rpar;](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
+- [SUVs more dangerous to cyclists than other cars, study suggests](https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605)
+- [Easily Accessing All Your Stuff with a Zero-Trust Mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
 - [Less Than 7 Percent of US Active Equity Funds Have Beat the Market Past Decade](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
 - [HDD Sales Crater, Drop 35% Year-over-Year](https://www.tomshardware.com/news/sales-of-hdds-drop-35-percent-year-over-year)
-- [Algebraic Graph Calculus](http://gabarro.org/ccn/algebraic_graph_calculus.html)
-- [Microsoft execs on Apple&amp;#x27;s music store &lpar;2003&rpar;](https://twitter.com/TechEmails/status/1647317806697050112)
-- [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
