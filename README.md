@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global wind energy will exceed 1 TW by the end of 2023](https://electrek.co/2023/04/14/global-wind-energy-will-exceed-1-tw-by-the-end-of-2023/)
 - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
-- [A new search for a new world](https://www.freepik.com/blog/new-search-new-world/)
+- [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
+- [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
