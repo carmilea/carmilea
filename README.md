@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MacStealer allow for WiFi client isolation bypasses &lpar;CVE-2022-47522&rpar;](https://github.com/vanhoefm/macstealer)
-- [OpenAssistant released the best open-source Chat AI [video]](https://www.youtube.com/watch?v=ddG2fM9i4Kk)
-- [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
-- [OpenAssistant Conversations – Democratizing Large Language Model Alignment [pdf]](https://www.ykilcher.com/OA_Paper_2023_04_15.pdf)
-- [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
+- [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
+- [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
+- [Why the Rust Trademark Policy was such a problem](https://kimono-koans.github.io/trademark/)
+- [Show HN: SaaS for making software documentation less annoying](https://documentationlab.com)
+- [MacStealer allows for WiFi client isolation bypasses &lpar;CVE-2022-47522&rpar;](https://github.com/vanhoefm/macstealer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
