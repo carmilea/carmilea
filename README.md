@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace &lpar;2022&rpar;](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
+- [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
+- [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
 - [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
-- [New macOS malware steals info, including a user&amp;#x27;s entire Keychain database](https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database)
-- [Stop Building Closed Ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
-- [Show HN: IPython-GPT, a Jupyter&amp;#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
