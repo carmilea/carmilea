@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
+- [Please fix your spinner](https://pleasefixyourspinner.com)
+- [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
 - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
-- [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
-- [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
-- [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
