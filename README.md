@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace &lpar;2022&rpar;](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
+- [MacStealer allow for WiFi client isolation bypasses &lpar;CVE-2022-47522&rpar;](https://github.com/vanhoefm/macstealer)
+- [OpenAssistant released the best open-source Chat AI [video]](https://www.youtube.com/watch?v=ddG2fM9i4Kk)
+- [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
+- [OpenAssistant Conversations – Democratizing Large Language Model Alignment [pdf]](https://www.ykilcher.com/OA_Paper_2023_04_15.pdf)
 - [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
-- [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
-- [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
-- [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
