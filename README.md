@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
+- [Twitter lacks many features to be a true Mastodon replacement &lpar;2022&rpar;](https://aus.social/@ajsadauskas/109334791235861940)
 - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
 - [Cash App founder stabbed after allegedly drinking with suspect&amp;#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
 - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
-- [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
-- [Libreboot: HP Elite 8200 SFF support added &lpar;plus more desktops coming soon&rpar;](https://libreboot.org/news/hp8200sff.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
