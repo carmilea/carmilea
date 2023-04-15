@@ -54,7 +54,7 @@
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 - [Twitter lacks many features to be a true Mastodon replacement &lpar;2022&rpar;](https://aus.social/@ajsadauskas/109334791235861940)
 - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
-- [Cash App founder stabbed after allegedly drinking with suspect&amp;#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
+- [Mayan ball game scoreboard thought to be over 1k years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
 - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 <!-- BLOG-POST-LIST:END -->
 
