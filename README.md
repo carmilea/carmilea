@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Billionaire Harlan Crow bought property from Clarence Thomas in undisclosed deal](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus)
-- [US pay transparency laws result in worker discontent](https://www.irishtimes.com/business/work/2023/03/31/us-pay-transparency-laws-result-in-worker-discontent/)
-- [Tell HN: Do Not Use Docusign](https://news.ycombinator.com/item?id=35581197)
-- [Ask HN: Why call it an AI company if all it does is call open AI API?](https://news.ycombinator.com/item?id=35581031)
-- [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
+- [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
+- [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
+- [New macOS malware steals info, including a user&amp;#x27;s entire Keychain database](https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database)
+- [Stop Building Closed Ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
+- [Show HN: IPython-GPT, a Jupyter&amp;#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
