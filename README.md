@@ -54,8 +54,8 @@
 - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
+- [How many floating-point numbers are in the interval [0,1]? &lpar;2017&rpar;](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
 - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
-- [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
