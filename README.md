@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
 - [SafetyWing &lpar;YC W18&rpar; Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
+- [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 - [Summary: Don&amp;#x27;t make me think&lpar;revisited&rpar; by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
-- [Pico3D: Open World 3D Game Engine for the PicoSystem &lpar;RP2040 Microcontroller&rpar;](https://github.com/bernhardstrobl/Pico3D)
-- [Future Blues – Emily&amp;#x27;s Cowboy Bebop Page &lpar;1999&rpar;](https://futureblues.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
