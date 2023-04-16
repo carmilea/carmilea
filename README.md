@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
+- [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
-- [The Rise and Fall of Kittyhawk](https://www.businessinsider.com/inside-kittyhawk-google-founder-billionaire-larry-page-flying-car-company-2023-4)
-- [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
+- [Laid off by Big Tech, then recruited for contract work – at the same place](https://www.seattletimes.com/business/laid-off-by-big-tech-then-recruited-for-contract-work-at-the-same-place/)
 - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
-- [SpaceX&amp;#x27;s Texas Rocket Is Going to Cause a Lot More Damage Than Anyone Thinks](https://blog.esghound.com/p/spacexs-texas-rocket-is-going-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
