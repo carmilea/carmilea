@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why aren’t planes boarded back-to-front?](https://news.ycombinator.com/item?id=35591781)
+- [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
+- [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
+- [SpaceX&amp;#x27;s First Starship Launch Tomorrow](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
 - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
-- [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
-- [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
-- [Laid off by Big Tech, then recruited for contract work – at the same place](https://www.seattletimes.com/business/laid-off-by-big-tech-then-recruited-for-contract-work-at-the-same-place/)
-- [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
