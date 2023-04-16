@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafetyWing &lpar;YC W18&rpar; Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
+- [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 - [Summary: Don&amp;#x27;t make me think&lpar;revisited&rpar; by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
 - [Pico3D: Open World 3D Game Engine for the PicoSystem &lpar;RP2040 Microcontroller&rpar;](https://github.com/bernhardstrobl/Pico3D)
 - [Future Blues – Emily&amp;#x27;s Cowboy Bebop Page &lpar;1999&rpar;](https://futureblues.com/)
-- [The end of nuclear power in Germany](https://www.greenpeace.org/international/story/59219/tschuss-atomkraft-end-nuclear-power-germany/)
-- [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
