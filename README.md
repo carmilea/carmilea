@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
+- [Do looks matter for an academic career in economics?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
 - [AT&amp;amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 - [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
-- [CrabLang](https://crablang.org/)
-- [Bavaria mulls reopening nuclear plant under state control](https://www.dw.com/en/germany-bavaria-mulls-reopening-nuclear-plant-under-state-control/a-65336730)
-- [Coq typeclass resolution is Turing-complete](https://thaliaarchi.github.io/coq-turing-typeclass/)
+- [Space Invaders creator reveals game’s origin story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
