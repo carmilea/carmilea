@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Row Level Security](https://imfeld.dev/notes/postgresql_row_level_security)
+- [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
-- [Latest Kitty terminal release features SRGB correct linear gamma blending](https://github.com/kovidgoyal/kitty/pull/5969)
-- [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
