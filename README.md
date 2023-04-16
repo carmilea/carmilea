@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
-- [Do looks matter for an academic career in economics?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
-- [AT&amp;amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
-- [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
-- [Space Invaders creator reveals game’s origin story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)
+- [Best predictor of professional success isn’t cognitive performance](https://english.elpais.com/science-tech/2023-04-13/daniel-sanabria-psychologist-the-best-predictor-of-professional-success-isnt-cognitive-performance-its-whether-your-parents-have-money.html)
+- [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
+- [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
+- [Smokey’s New Hot Vapourizing Engine Creates Heat in Detroit &lpar;1983&rpar;](http://rexresearch.com/yunick/yunick.htm)
+- [Lithium Battery Ripe for Disruption, Inventor Says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
 <!-- BLOG-POST-LIST:END -->
 
 ---
