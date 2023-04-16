@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
 - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
-- [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
