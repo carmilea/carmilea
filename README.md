@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why aren’t planes boarded back-to-front?](https://news.ycombinator.com/item?id=35591781)
-- [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
-- [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
-- [SpaceX&amp;#x27;s First Starship Launch Tomorrow](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
-- [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
+- [AT&amp;amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
+- [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
+- [CrabLang](https://crablang.org/)
+- [Bavaria mulls reopening nuclear plant under state control](https://www.dw.com/en/germany-bavaria-mulls-reopening-nuclear-plant-under-state-control/a-65336730)
+- [Coq typeclass resolution is Turing-complete](https://thaliaarchi.github.io/coq-turing-typeclass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
