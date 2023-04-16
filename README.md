@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
-- [SafetyWing &lpar;YC W18&rpar; Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
-- [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
-- [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
-- [Summary: Don&amp;#x27;t make me think&lpar;revisited&rpar; by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
+- [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
+- [The Rise and Fall of Kittyhawk](https://www.businessinsider.com/inside-kittyhawk-google-founder-billionaire-larry-page-flying-car-company-2023-4)
+- [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
+- [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
+- [SpaceX&amp;#x27;s Texas Rocket Is Going to Cause a Lot More Damage Than Anyone Thinks](https://blog.esghound.com/p/spacexs-texas-rocket-is-going-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
