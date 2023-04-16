@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming with TypeScript&amp;#x27;s Type System](https://desislav.dev/blog/tsfp/)
-- [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
-- [Lazard’s Levelized Cost of Energy Analysis: Version 16.0 [pdf]](https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf)
-- [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
-- [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
+- [Summary: Don&amp;#x27;t make me think&lpar;revisited&rpar; by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
+- [Pico3D: Open World 3D Game Engine for the PicoSystem &lpar;RP2040 Microcontroller&rpar;](https://github.com/bernhardstrobl/Pico3D)
+- [Future Blues – Emily&amp;#x27;s Cowboy Bebop Page &lpar;1999&rpar;](https://futureblues.com/)
+- [The end of nuclear power in Germany](https://www.greenpeace.org/international/story/59219/tschuss-atomkraft-end-nuclear-power-germany/)
+- [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
