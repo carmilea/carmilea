@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Mark Twain&amp;#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
-- [Interlaken: The ideal high-speed chip-to-chip interface?](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
 - [Smokey’s new hot vapourizing engine creates heat in Detroit &lpar;1983&rpar;](http://rexresearch.com/yunick/yunick.htm)
 - [Lithium battery ripe for disruption, inventor says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
+- [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
