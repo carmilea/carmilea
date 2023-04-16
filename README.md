@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
-- [PostgreSQL Row Level Security](https://imfeld.dev/notes/postgresql_row_level_security)
 - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
 - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
+- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
