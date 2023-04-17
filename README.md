@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are some of the best ChatGPT Clients out there?](https://news.ycombinator.com/item?id=35604867)
 - [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
 - [New 3D Printable Search Engine](https://www.printablesearch.com)
-- [OpenAI’s CEO Says the Age of Giant AI Models Is Already Over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/)
 - [California Wants to Cover Its Canals with Solar Panels](https://www.nytimes.com/2023/04/13/us/california-solar-panels-canals.html)
 - [Codegraph – static code analyzator &amp;#x2F; code diagramer](https://github.com/xnuinside/codegraph)
 <!-- BLOG-POST-LIST:END -->
