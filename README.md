@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Toxic Reality of a Post-Familial Society](https://aaronrenn.substack.com/p/newsletter-75-the-toxic-reality-of)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
 - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
-- [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
-- [RedPajama: Reproduction of Llama with Friendly License &lpar;Stanford, MILA Quebec&rpar;](https://www.together.xyz/blog/redpajama)
+- [RedPajama: Reproduction of Llama with Friendly License](https://www.together.xyz/blog/redpajama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
