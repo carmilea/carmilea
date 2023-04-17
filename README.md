@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cybertruck is years behind schedule, so Tesla is launching a $30 beer](https://www.fastcompany.com/90879768/cybertruck-behind-schedule-tesla-beer-gigabier)
+- [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
+- [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
+- [Show HN: Quorbo – a quick and quirky quest for the quote](https://quorbo.com)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
-- [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
-- [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
+- [Crooks’ mistaken bet on encrypted phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
