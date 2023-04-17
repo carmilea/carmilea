@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
+- [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
 - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
-- [12-year-olds can&amp;#x27;t buy cigarettes – but they can work in tobacco fields](https://www.npr.org/2023/04/17/1168824035/child-labor-tobacco-legal-dangerous)
+- [Firmware is on shaky ground – let&amp;#x27;s see what it&amp;#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
 - [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
-- [iOS 17 will reportedly set the stage for sideloading apps on iPhone](https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
