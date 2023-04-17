@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
-- [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
-- [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
-- [RedPajama: Reproduction of Llama with Friendly License](https://www.together.xyz/blog/redpajama)
+- [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
+- [New 3D Printable Search Engine](https://www.printablesearch.com)
+- [OpenAI’s CEO Says the Age of Giant AI Models Is Already Over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/)
+- [California Wants to Cover Its Canals with Solar Panels](https://www.nytimes.com/2023/04/13/us/california-solar-panels-canals.html)
+- [Codegraph – static code analyzator &amp;#x2F; code diagramer](https://github.com/xnuinside/codegraph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
