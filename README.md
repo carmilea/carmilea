@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
+- [The Toxic Reality of a Post-Familial Society](https://aaronrenn.substack.com/p/newsletter-75-the-toxic-reality-of)
+- [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
+- [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
 - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
 - [RedPajama: Reproduction of Llama with Friendly License &lpar;Stanford, MILA Quebec&rpar;](https://www.together.xyz/blog/redpajama)
-- [A song that uses AI to clone the voices of Drake and The Weeknd has gone viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
-- [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
