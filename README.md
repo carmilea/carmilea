@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
+- [Chalmers: Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
+- [A Simple Calculus Exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 - [ATC staff shortages: 11,000 Flights Cut from NYC and DCA in Summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
 - [Building a Blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
-- [Stability AI makes its Stable Diffusion models available on Amazon Bedrock](https://stability.ai/blog/stability-ai-makes-its-stable-diffusion-models-available-on-amazons-new-bedrock-service)
-- [Constraint Programming &lpar;2020&rpar;](https://mareknarozniak.com/2020/06/22/constraint-programming/)
-- [Mark Twain&amp;#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
