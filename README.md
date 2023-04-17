@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why most of us won&amp;#x27;t be inventing little languages](http://slesinsky.org/brian/code/little_languages.html)
 - [Peoplebox &lpar;YC S22&rpar; is hiring a Back end Engineer](https://www.ycombinator.com/companies/peoplebox/jobs/K2iFg3S-backend-engineer-rails)
-- [Your.Online: Gandi continues its development](https://news.gandi.net/en/2023/03/your-online-gandi-continues-its-development/)
+- [MiniGPT-4](https://minigpt-4.github.io/)
 - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
-- [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 <!-- BLOG-POST-LIST:END -->
 
 ---
