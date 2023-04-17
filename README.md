@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ATC staff shortages: 11,000 Flights Cut from NYC and Washington in Summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
+- [ATC staff shortages: 11,000 Flights Cut from NYC and DCA in Summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
 - [Building a Blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
+- [Stability AI makes its Stable Diffusion models available on Amazon Bedrock](https://stability.ai/blog/stability-ai-makes-its-stable-diffusion-models-available-on-amazons-new-bedrock-service)
 - [Constraint Programming &lpar;2020&rpar;](https://mareknarozniak.com/2020/06/22/constraint-programming/)
-- [&amp;#x27;Algebra for none&amp;#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
 - [Mark Twain&amp;#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 <!-- BLOG-POST-LIST:END -->
 
