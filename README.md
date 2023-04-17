@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why most of us won&amp;#x27;t be inventing little languages](http://slesinsky.org/brian/code/little_languages.html)
-- [Peoplebox &lpar;YC S22&rpar; is hiring a Back end Engineer](https://www.ycombinator.com/companies/peoplebox/jobs/K2iFg3S-backend-engineer-rails)
-- [MiniGPT-4](https://minigpt-4.github.io/)
-- [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
-- [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
+- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
+- [iOS 17 will reportedly set the stage for sideloading apps on iPhone](https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/)
+- [Monet&amp;#x27;s dreamy haze was pollution, study finds](https://www.cnn.com/style/article/monet-haze-air-pollution-study-scn/index.html)
+- [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
