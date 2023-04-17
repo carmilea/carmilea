@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rishi Sunak sets up review to tackle &amp;#x27;anti-maths mindset&amp;#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)
+- [Peoplebox &lpar;YC S22&rpar; is hiring a Back end Engineer](https://www.ycombinator.com/companies/peoplebox/jobs/K2iFg3S-backend-engineer-rails)
+- [Your.Online: Gandi continues its development](https://news.gandi.net/en/2023/03/your-online-gandi-continues-its-development/)
 - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
 - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
-- [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
