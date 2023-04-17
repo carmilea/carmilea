@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
-- [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
+- [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
+- [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
+- [RedPajama: Reproduction of Llama with Friendly License &lpar;Stanford, MILA Quebec&rpar;](https://www.together.xyz/blog/redpajama)
+- [A song that uses AI to clone the voices of Drake and The Weeknd has gone viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
 - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
-- [Firmware is on shaky ground – let&amp;#x27;s see what it&amp;#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
-- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
