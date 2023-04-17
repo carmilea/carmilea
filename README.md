@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Missouri House Republicans vote to defund libraries](https://heartlandsignal.com/2023/04/11/missouri-house-republicans-vote-to-defund-libraries/)
+- [The Cybertruck is years behind schedule, so Tesla is launching a $30 beer](https://www.fastcompany.com/90879768/cybertruck-behind-schedule-tesla-beer-gigabier)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
+- [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
 - [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
 - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
 <!-- BLOG-POST-LIST:END -->
