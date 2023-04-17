@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are some of the best ChatGPT Clients out there?](https://news.ycombinator.com/item?id=35604867)
-- [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
-- [New 3D Printable Search Engine](https://www.printablesearch.com)
-- [California Wants to Cover Its Canals with Solar Panels](https://www.nytimes.com/2023/04/13/us/california-solar-panels-canals.html)
-- [Codegraph – static code analyzator &amp;#x2F; code diagramer](https://github.com/xnuinside/codegraph)
+- [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
+- [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
+- [New blog post from StackOverflow&amp;#x27;s CEO Prashanth: Community is the future of AI](https://meta.stackexchange.com/questions/388401/new-blog-post-from-our-ceo-prashanth-community-is-the-future-of-ai)
+- [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
+- [Valve Releases Proton 8.0-1c](https://github.com/ValveSoftware/Proton/releases/tag/proton-8.0-1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
