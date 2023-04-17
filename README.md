@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booting Modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
-- [Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
-- [Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
+- [Build and deploy 5G network with open-source software and off-the-shelf hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
 - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
-- [ATC staff shortages: 11,000 flights cut from NYC and DCA in summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
+- [A Journey Through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
