@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
 - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
 - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 - [Booting Modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
-- [Build and deploy 5G network with open-source software and off-the-shelf hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
