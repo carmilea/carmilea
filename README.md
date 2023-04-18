@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
+- [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
+- [Clock](https://oimo.io/works/clock/)
 - [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
-- [Fox News, Dominion Voting Systems reach $787,500,000 settlement](https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement/)
 - [Netflix will end its DVD service after 25 years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
-- [Reddit founder wants to charge Big Tech for scraped data used to train AIs](https://www.marketwatch.com/story/reddit-founder-wants-to-charge-big-tech-for-scraped-data-used-to-train-ais-report-6f407265)
-- [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
