@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing a Full Self Driving RC Car](https://hackaday.com/2023/04/17/robot-races-a-little-smarter-to-go-faster/)
+- [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
+- [Astral](https://astral.sh/)
+- [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 - [ReRoom AI: Test Interior Design Ideas and Styles Before Hiring a Designer](https://reroom.ai?ref=HN)
 - [Tailscale Enterprise](https://tailscale.com/blog/enterprise/)
-- [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
-- [Brain images just got 64 million times sharper](https://medicalxpress.com/news/2023-04-brain-images-million-sharper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
