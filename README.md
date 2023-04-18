@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
-- [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
-- [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
-- [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
-- [Astral](https://astral.sh/)
+- [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
+- [Fox News, Dominion Voting Systems reach $787,500,000 settlement](https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement/)
+- [Netflix will end its DVD service after 25 years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
+- [Reddit founder wants to charge Big Tech for scraped data used to train AIs](https://www.marketwatch.com/story/reddit-founder-wants-to-charge-big-tech-for-scraped-data-used-to-train-ais-report-6f407265)
+- [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
