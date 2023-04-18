@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
-- [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
-- [Show HN: Quorbo – a quick and quirky quest for the quote](https://quorbo.com)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Crooks’ mistaken bet on encrypted phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
+- [You&amp;#x27;d Be Happier Living Closer to Friends. Why Don&amp;#x27;t You?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+- [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
+- [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT &lpar;2019&rpar;](https://github.com/atrosinenko/qemujs)
+- [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
+- [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
