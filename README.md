@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing a Full Self Driving RC Car](https://hackaday.com/2023/04/17/robot-races-a-little-smarter-to-go-faster/)
+- [ReRoom AI: Test Interior Design Ideas and Styles Before Hiring a Designer](https://reroom.ai?ref=HN)
+- [Tailscale Enterprise](https://tailscale.com/blog/enterprise/)
 - [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
-- [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
-- [How Can We Stop the CO2 That Plants Store from Leaking Back into the Air?](https://nautil.us/how-can-we-stop-the-co2-that-plants-store-from-leaking-back-into-the-air-297612/)
-- [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
+- [Brain images just got 64 million times sharper](https://medicalxpress.com/news/2023-04-brain-images-million-sharper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
