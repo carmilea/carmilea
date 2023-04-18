@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
 - [Finley &lpar;YC W21&rpar; is hiring to automate capital markets processes &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
+- [Two Office Landlords Defaulting May Be Just the Beginning](https://www.bloomberg.com/news/articles/2023-03-01/work-from-home-high-interest-rates-put-92-billion-in-office-mortgages-at-risk)
+- [Startup CEOs Learned Engineering Management from Captain Kirk](https://www.amazingcto.com/startup-ceo-startrek-kirk-engineering-management/)
 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
-- [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
-- [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
-- [Marginalia: Search the Internet](https://search.marginalia.nu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
