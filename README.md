@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
+- [You didn’t just do that, Heroku](https://openfolder.sh/heroku-anti-dx)
+- [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
 - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
 - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
-- [Ampersand was once “and per se and” &amp;amp; was the 27th letter of the alphabet](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
-- [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
-- [In China, Germany’s foreign minister does not hold back–and is still welcomed](https://www.economist.com/europe/2023/04/15/in-china-germanys-foreign-minister-does-not-hold-back-and-is-still-welcomed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
