@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
+- [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
-- [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
-- [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
-- [Alphabet shares fall on report Samsung may dump Google Search for Bing](https://www.reuters.com/technology/alphabet-falls-report-samsung-considering-bing-default-search-engine-2023-04-17/)
+- [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
 - [Astral](https://astral.sh/)
 <!-- BLOG-POST-LIST:END -->
 
