@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
-- [Coinbase CEO: we&amp;#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
-- [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
-- [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
-- [Software firms across US facing tax bills that threaten startup survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
+- [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
+- [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+- [How Can We Stop the CO2 That Plants Store from Leaking Back into the Air?](https://nautil.us/how-can-we-stop-the-co2-that-plants-store-from-leaking-back-into-the-air-297612/)
+- [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
