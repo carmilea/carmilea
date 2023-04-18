@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
+- [In China, Germany’s foreign minister does not hold back–and is still welcomed](https://www.economist.com/europe/2023/04/15/in-china-germanys-foreign-minister-does-not-hold-back-and-is-still-welcomed)
 - [You&amp;#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
+- [Lisp Is the Linux of Languages](https://progalpha.substack.com/p/lisp-is-the-linux-of-languages)
 - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
-- [KV.js](https://github.com/HeyPuter/kv.js)
-- [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
-- [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT &lpar;2019&rpar;](https://github.com/atrosinenko/qemujs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
