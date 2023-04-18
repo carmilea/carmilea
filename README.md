@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can ChatGPT forecast stock price movements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
-- [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&amp;#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
-- [GPTs as a drop in the fixed cost of prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
-- [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
-- [Finley &lpar;YC W21&rpar; is hiring to automate capital markets processes &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
+- [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
+- [Coinbase CEO: we&amp;#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
+- [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
+- [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
+- [Software firms across US facing tax bills that threaten startup survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
