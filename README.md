@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&amp;#x27;d Be Happier Living Closer to Friends. Why Don&amp;#x27;t You?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+- [You&amp;#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
+- [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+- [KV.js](https://github.com/HeyPuter/kv.js)
 - [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
 - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT &lpar;2019&rpar;](https://github.com/atrosinenko/qemujs)
-- [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
-- [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
