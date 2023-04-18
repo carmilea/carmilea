@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&amp;#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
+- [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 - [Ask HN: As a dev: learn marketing? Or start side project? &lpar;startup skills&rpar;](https://news.ycombinator.com/item?id=35611364)
 - [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
 - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
-- [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
-- [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
