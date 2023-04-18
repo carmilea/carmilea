@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is hiring to automate capital markets processes &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
+- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
+- [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
 - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
 - [Marginalia: Search the Internet](https://search.marginalia.nu/)
-- [Don&amp;#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
-- [OpenWRT 22.03.4](https://github.com/openwrt/openwrt/releases/tag/v22.03.4)
-- [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
