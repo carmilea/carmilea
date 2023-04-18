@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can ChatGPT forecast stock price movements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
+- [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&amp;#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
+- [GPTs as a drop in the fixed cost of prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
 - [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
 - [Finley &lpar;YC W21&rpar; is hiring to automate capital markets processes &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
-- [Two Office Landlords Defaulting May Be Just the Beginning](https://www.bloomberg.com/news/articles/2023-03-01/work-from-home-high-interest-rates-put-92-billion-in-office-mortgages-at-risk)
-- [Startup CEOs Learned Engineering Management from Captain Kirk](https://www.amazingcto.com/startup-ceo-startrek-kirk-engineering-management/)
-- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
