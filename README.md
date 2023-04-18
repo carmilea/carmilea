@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
-- [You didn’t just do that, Heroku](https://openfolder.sh/heroku-anti-dx)
+- [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
 - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
-- [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
 - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
+- [Ampersand &lpar;2015&rpar;](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
