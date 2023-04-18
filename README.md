@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
+- [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
+- [Node.js 20 is now available](https://nodejs.org/en/blog/announcements/v20-release-announce)
+- [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
 - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
-- [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
-- [Clock](https://oimo.io/works/clock/)
-- [Toko &lpar;YC W22&rpar; Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
-- [Netflix will end its DVD service after 25 years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
