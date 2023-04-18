@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
+- [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
+- [Ampersand was once “and per se and” &amp;amp; was the 27th letter of the alphabet](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
+- [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 - [In China, Germany’s foreign minister does not hold back–and is still welcomed](https://www.economist.com/europe/2023/04/15/in-china-germanys-foreign-minister-does-not-hold-back-and-is-still-welcomed)
-- [You&amp;#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
-- [Lisp Is the Linux of Languages](https://progalpha.substack.com/p/lisp-is-the-linux-of-languages)
-- [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
