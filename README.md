@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
+- [Marginalia: Search the Internet](https://search.marginalia.nu/)
 - [Don&amp;#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
+- [OpenWRT 22.03.4](https://github.com/openwrt/openwrt/releases/tag/v22.03.4)
 - [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
-- [Ask HN: As a dev: learn marketing? Or start side project? &lpar;startup skills&rpar;](https://news.ycombinator.com/item?id=35611364)
-- [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
-- [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
