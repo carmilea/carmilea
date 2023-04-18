@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
+- [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
 - [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
+- [Alphabet shares fall on report Samsung may dump Google Search for Bing](https://www.reuters.com/technology/alphabet-falls-report-samsung-considering-bing-default-search-engine-2023-04-17/)
 - [Astral](https://astral.sh/)
-- [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
-- [ReRoom AI: Test Interior Design Ideas and Styles Before Hiring a Designer](https://reroom.ai?ref=HN)
-- [Tailscale Enterprise](https://tailscale.com/blog/enterprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
