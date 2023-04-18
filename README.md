@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
+- [Ask HN: As a dev: learn marketing? Or start side project? &lpar;startup skills&rpar;](https://news.ycombinator.com/item?id=35611364)
+- [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
 - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
 - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
 - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
-- [Ampersand &lpar;2015&rpar;](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
