@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Receives Strategic Investment from Sony Semiconductor Solutions](https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation)
 - [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
-- [Overnight &amp;#x27;hotel train&amp;#x27; could link San Francisco and Los Angeles](https://www.latimes.com/california/story/2023-04-18/night-train-san-francisco-los-angeles-dreamstar-lines)
 - [Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
 - [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
 - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
