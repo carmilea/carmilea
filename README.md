@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Kinde – auth, feature flags and billing &lpar;Q3&rpar; in one integration](https://kinde.com/)
+- [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 - [Why did Prolog lose steam? &lpar;2010&rpar;](https://www.kmjn.org/notes/prolog_lost_steam.html)
 - [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
 - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
-- [Tell HN: Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
-- [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
