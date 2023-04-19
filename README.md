@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The iPhone Setting Thieves Use to Lock You Out of Your Apple Account](https://www.wsj.com/articles/the-iphone-setting-thieves-use-to-lock-you-out-of-your-apple-account-716d350d)
+- [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
+- [The secret list of websites that make AI chatbots sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
+- [Skio &lpar;YC S20&rpar; Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
+- [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
 - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
-- [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-- [Show HN: Kinde – auth, feature flags and billing &lpar;Q3&rpar; in one integration](https://kinde.com/)
-- [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
