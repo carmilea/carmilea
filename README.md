@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
+- [Community Phone Is Hiring Engineers to manage VoLTE and low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
 - [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
-- [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
-- [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+- [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 - [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
-- [The Anatomy of Autonomy: Why Agents Are the Next AI Killer App](https://www.latent.space/p/agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
