@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack Is the Biggest Threat to Newsletters Ever](https://notes.ghed.in/posts/2023/substack-threat-newsletters/)
+- [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
+- [The days are long but the decades are short &lpar;2015&rpar;](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+- [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
+- [How can some infinities be bigger than others?](https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/)
 - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
-- [Farouk al Kasim saved Norway from its oil &lpar;2014&rpar;](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
-- [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
-- [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
