@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Quit Reddit in 1 Day](https://nitinpassa.com/how-i-quit-reddit-in-1-day/)
+- [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
+- [EleutherAI: Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
 - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 - [Community Phone &lpar;YC W19&rpar;: Hiring engineers to manage VoLTE, low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
-- [NPM Provenance Public Beta](https://github.blog/changelog/2023-04-19-npm-provenance-public-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
