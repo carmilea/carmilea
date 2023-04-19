@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Quit Reddit in 1 Day](https://nitinpassa.com/how-i-quit-reddit-in-1-day/)
+- [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
 - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
-- [Community Phone Is Hiring Engineers to manage VoLTE and low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
-- [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
-- [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-- [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
+- [Community Phone &lpar;YC W19&rpar;: Hiring engineers to manage VoLTE, low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
+- [NPM Provenance Public Beta](https://github.blog/changelog/2023-04-19-npm-provenance-public-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
