@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Receives Strategic Investment from Sony Semiconductor Solutions](https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation)
-- [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
-- [Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
-- [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
+- [Why did Prolog lose steam? &lpar;2010&rpar;](https://www.kmjn.org/notes/prolog_lost_steam.html)
+- [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
+- [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
+- [Tell HN: Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
 - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
 <!-- BLOG-POST-LIST:END -->
 
