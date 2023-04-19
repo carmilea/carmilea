@@ -55,7 +55,7 @@
 - [Defining interfaces in C++ with ‘concepts’ &lpar;C++20&rpar;](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 - [Show HN: Kinde – auth, feature flags and billing &lpar;Q3&rpar; in one integration](https://kinde.com/)
-- [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
+- [Why did Prolog lose steam? &lpar;2010&rpar;](https://www.kmjn.org/notes/prolog_lost_steam.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
