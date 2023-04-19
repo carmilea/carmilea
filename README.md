@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 - [Show HN: Kinde – auth, feature flags and billing &lpar;Q3&rpar; in one integration](https://kinde.com/)
+- [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
 - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 - [Why did Prolog lose steam? &lpar;2010&rpar;](https://www.kmjn.org/notes/prolog_lost_steam.html)
-- [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
-- [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
