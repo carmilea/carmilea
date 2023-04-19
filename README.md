@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
 - [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
 - [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 - [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
-- [Judge tentatively OKs $725M Facebook settlement: How to apply for a payout](https://thehill.com/homenews/nexstar_media_wire/3956560-judge-tentatively-oks-725m-facebook-settlement-how-to-apply-for-a-payout/)
-- [Show HN: Open-source Auth0 alternative Ory Kratos v0.13 released – nearing v1.0](https://github.com/ory/kratos/releases/tag/v0.13.0)
+- [The Anatomy of Autonomy: Why Agents Are the Next AI Killer App](https://www.latent.space/p/agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
