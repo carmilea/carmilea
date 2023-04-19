@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack Is the Biggest Threat to Newsletters Ever](https://notes.ghed.in/posts/2023/substack-threat-newsletters/)
 - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 - [Farouk al Kasim saved Norway from its oil &lpar;2014&rpar;](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
-- [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)
-- [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
+- [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
