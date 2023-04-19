@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
+- [Defining interfaces in C++ with ‘concepts’ &lpar;C++20&rpar;](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 - [Show HN: Kinde – auth, feature flags and billing &lpar;Q3&rpar; in one integration](https://kinde.com/)
-- [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
 - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
-- [Why did Prolog lose steam? &lpar;2010&rpar;](https://www.kmjn.org/notes/prolog_lost_steam.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
