@@ -54,8 +54,8 @@
 - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 - [The secret list of websites that make AI chatbots sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
 - [Skio &lpar;YC S20&rpar; Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
-- [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
-- [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
+- [In 1930, the 22M-pound Indiana Bell building was rotated 90 degrees](https://mastodon.social/@Miriamm/110221714996508234)
+- [Gezellig – a word that encompasses the heart of Dutch Culture](https://www.dutchamsterdam.nl/155-gezellig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
