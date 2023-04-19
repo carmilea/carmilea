@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
+- [90% of My Skills Are Now Worth $0](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
+- [Global rice shortage is set to be the biggest in 20 years](https://www.cnbc.com/2023/04/19/global-rice-shortage-is-set-to-be-the-largest-in-20-years-heres-why.html)
+- [Vivaldi 6.0 Web Browser Introduces Tab Workspaces and Custom Icons](https://www.macrumors.com/2023/04/19/vivaldi-6-mac-tab-workspaces-custom-icons/)
 - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
-- [The secret list of websites that make AI chatbots sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
-- [Skio &lpar;YC S20&rpar; Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
-- [In 1930, the 22M-pound Indiana Bell building was rotated 90 degrees](https://mastodon.social/@Miriamm/110221714996508234)
-- [Gezellig – a word that encompasses the heart of Dutch Culture](https://www.dutchamsterdam.nl/155-gezellig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
