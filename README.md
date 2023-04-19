@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The iPhone Setting Thieves Use to Lock You Out of Your Apple Account](https://www.wsj.com/articles/the-iphone-setting-thieves-use-to-lock-you-out-of-your-apple-account-716d350d)
+- [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
-- [Defining interfaces in C++ with ‘concepts’ &lpar;C++20&rpar;](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 - [Show HN: Kinde – auth, feature flags and billing &lpar;Q3&rpar; in one integration](https://kinde.com/)
-- [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
