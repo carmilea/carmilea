@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ‘Pity City’ CEO Is Sorry Now](https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now)
-- [Colorado to require mediation before eviction for tenants on government aid](https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html)
+- [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
+- [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
-- [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
+- [Replit &lpar;YC W18&rpar; is hiring to rapidly scale infrastructure](https://replit.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
