@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
-- [Show HN: CozoDB, Hybrid Relational-Graph-Vector DB, the Hippocampus for LLMs](https://docs.cozodb.org/en/latest/releases/v0.6.html)
-- [The Rust Performance Book &lpar;2020&rpar;](https://nnethercote.github.io/perf-book/)
-- [Stop Irreversible Damage to the Amazon](https://www.junglekeepers.org/)
-- [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior&amp;#x2F;staff back end&amp;#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
+- [Software developer gets $5M judgement against My Pillow CEO Mike Lindell](https://www.cnn.com/2023/04/20/politics/mike-lindell-2020-election/index.html)
+- [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
+- [BuzzFeed News is shutting down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
+- [Show HN: CozoDB, Hybrid Relational-Graph-Vector Database](https://docs.cozodb.org/en/latest/releases/v0.6.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
