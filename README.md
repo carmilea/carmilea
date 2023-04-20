@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
+- [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
+- [evidence.dev – Business Intelligence as Code](https://evidence.dev)
 - [Gov. Inslee signs bill to repeal death penalty in Washington](https://www.axios.com/local/seattle/2023/04/11/death-penalty-washington-state-repeal)
-- [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
-- [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
-- [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
-- [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
+- [When You Buy a Book, You Can Loan It to Anyone. This Judge Says Libraries Can’t](https://www.thenation.com/article/culture/libraries-copyright-internet-archive-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
