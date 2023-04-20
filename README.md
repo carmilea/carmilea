@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ‘Pity City’ CEO Is Sorry Now](https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now)
+- [PC Engines EOL](https://www.pcengines.ch/eol.htm)
+- [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 - [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
-- [Incidents of AIs going rogue and killing all the humans](https://aiincidentsreport.vercel.app/)
-- [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
-- [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
-- [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
+- [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
