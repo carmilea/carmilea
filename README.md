@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The ‘Pity City’ CEO Is Sorry Now](https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now)
+- [Colorado to require mediation before eviction for tenants on government aid](https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html)
 - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 - [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
-- [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
