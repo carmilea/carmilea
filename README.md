@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
+- [Show HN: CozoDB, Hybrid Relational-Graph-Vector DB, the Hippocampus for LLMs](https://docs.cozodb.org/en/latest/releases/v0.6.html)
 - [The Rust Performance Book &lpar;2020&rpar;](https://nnethercote.github.io/perf-book/)
+- [Stop Irreversible Damage to the Amazon](https://www.junglekeepers.org/)
 - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
-- [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
-- [Study links &amp;#x27;stuck&amp;#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
-- [Using SingleStoreDB &amp; ChatGPT for Custom Data Sets](https://www.singlestore.com/blog/using-singlestoredb-chatgpt-for-custom-data-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
