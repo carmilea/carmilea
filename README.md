@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies Producing Biopolymers for Packaging](https://tderflinger.com/en/companies-producing-biopolymers-for-packaging/)
 - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
+- [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
+- [Lithuania: Students stop university from using only proprietary authentication](https://fsfe.org/news/2023/news-20230418-01.en.html)
 - [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
-- [BuzzFeed News Is Shutting Down, Company Laying Off 180 Staffers](https://variety.com/2023/digital/news/buzzfeed-news-shutting-down-layoffs-1235589751/)
-- [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
-- [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
