@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Perl?](https://two-wrongs.com/why-perl)
+- [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
 - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
 - [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
