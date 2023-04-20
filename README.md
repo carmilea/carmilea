@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior&amp;#x2F;staff back end&amp;#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
-- [Software developer gets $5M judgement against My Pillow CEO Mike Lindell](https://www.cnn.com/2023/04/20/politics/mike-lindell-2020-election/index.html)
-- [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
-- [BuzzFeed News is shutting down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
-- [Show HN: CozoDB, Hybrid Relational-Graph-Vector Database](https://docs.cozodb.org/en/latest/releases/v0.6.html)
+- [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
+- [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
+- [BuzzFeed News Is Shutting Down, Company Laying Off 180 Staffers](https://variety.com/2023/digital/news/buzzfeed-news-shutting-down-layoffs-1235589751/)
+- [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
+- [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
