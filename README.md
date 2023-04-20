@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rust Performance Book &lpar;2020&rpar;](https://nnethercote.github.io/perf-book/)
+- [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
 - [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
 - [Study links &amp;#x27;stuck&amp;#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
-- [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
-- [Michael Schumacher&amp;#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
-- [Avoiding food waste confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
+- [Using SingleStoreDB &amp; ChatGPT for Custom Data Sets](https://www.singlestore.com/blog/using-singlestoredb-chatgpt-for-custom-data-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
