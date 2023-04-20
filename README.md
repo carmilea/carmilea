@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
+- [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
+- [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
 - [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 - [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
-- [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
-- [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
-- [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
