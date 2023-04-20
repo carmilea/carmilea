@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship Flight Test &lpar;Launch in 3 hours&rpar;](https://www.youtube.com/watch?v=-1wcilQ58hI)
+- [A Plea for Fairness for Non-Profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 - [Waydev &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
-- [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
 - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
-- [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
