@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
 - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
 - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
-- [Replit &lpar;YC W18&rpar; is hiring to rapidly scale infrastructure](https://replit.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
