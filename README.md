@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Michael Schumacher&amp;#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
+- [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
+- [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 - [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
-- [Proposed Renewal of the Registry Agreement for .NET](https://www.icann.org/en/public-comment/proceeding/proposed-renewal-of-the-registry-agreement-for-net-13-04-2023)
-- [Google ordered to pay $500K to Montrealer over links calling him pedophile](https://montrealgazette.com/news/local-news/google-ordered-to-pay-500000-to-montrealer-over-links-to-post-calling-him-pedophile)
-- [Starship Flight Test &lpar;Launch in 1 hour&rpar;](https://www.youtube.com/watch?v=-1wcilQ58hI)
-- [Waydev &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
+- [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
