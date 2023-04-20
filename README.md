@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
+- [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
+- [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
+- [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
 - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
-- [Uncleftish Beholding &lpar;1989&rpar;](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
-- [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
-- [The days are long but the decades are short &lpar;2015&rpar;](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
-- [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
