@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Perl?](https://two-wrongs.com/why-perl)
+- [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
+- [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
 - [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
-- [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
-- [evidence.dev – Business Intelligence as Code](https://evidence.dev)
-- [Gov. Inslee signs bill to repeal death penalty in Washington](https://www.axios.com/local/seattle/2023/04/11/death-penalty-washington-state-repeal)
-- [When You Buy a Book, You Can Loan It to Anyone. This Judge Says Libraries Can’t](https://www.thenation.com/article/culture/libraries-copyright-internet-archive-lawsuit/)
+- [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
