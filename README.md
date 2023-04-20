@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
+- [Study links &amp;#x27;stuck&amp;#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
+- [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 - [Michael Schumacher&amp;#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
-- [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
-- [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
-- [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
-- [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
+- [Avoiding food waste confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
