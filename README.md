@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starship Flight Test &lpar;Launch in 2 hours&rpar;](https://www.youtube.com/watch?v=-1wcilQ58hI)
-- [A Plea for Fairness for Non-Profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
+- [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
+- [Proposed Renewal of the Registry Agreement for .NET](https://www.icann.org/en/public-comment/proceeding/proposed-renewal-of-the-registry-agreement-for-net-13-04-2023)
+- [Google ordered to pay $500K to Montrealer over links calling him pedophile](https://montrealgazette.com/news/local-news/google-ordered-to-pay-500000-to-montrealer-over-links-to-post-calling-him-pedophile)
+- [Starship Flight Test &lpar;Launch in 1 hour&rpar;](https://www.youtube.com/watch?v=-1wcilQ58hI)
 - [Waydev &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
-- [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
-- [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
