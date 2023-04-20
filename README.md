@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
+- [Incidents of AIs going rogue and killing all the humans](https://aiincidentsreport.vercel.app/)
+- [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
+- [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
-- [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
-- [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
-- [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
-- [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
