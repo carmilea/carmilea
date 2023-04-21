@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 - [Guess the Game](https://guessthe.game)
 - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 - [Standardizing BPF](https://lwn.net/Articles/926882/)
-- [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
 <!-- BLOG-POST-LIST:END -->
 
 ---
