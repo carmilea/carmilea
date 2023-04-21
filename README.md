@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
 - [Office of the President of Mongolia &lpar;top to bottom text on the web&rpar;](https://president.mn/mng/)
 - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 - [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
-- [Guess the Game](https://guessthe.game)
+- [Daves Old Computers – Dunfield 6809 Portable](http://dunfield.classiccmp.org/d6809/index.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
