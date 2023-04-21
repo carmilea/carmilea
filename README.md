@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
-- [Office of the President of Mongolia &lpar;top to bottom text on the web&rpar;](https://president.mn/mng/)
-- [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
-- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [Daves Old Computers – Dunfield 6809 Portable](http://dunfield.classiccmp.org/d6809/index.htm)
+- [Can Rust Beat JavaScript in 2023?](https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/)
+- [Consciousness begins with feeling, not thinking](https://iai.tv/articles/consciousness-begins-with-feelings-hanna-damasio-auid-2462)
+- [SafeGPT: New tool to detect LLMs&amp;#x27; hallucinations, biases and privacy issues](https://www.giskard.ai/safegpt)
+- [Large, creative AI models will transform lives and labour markets](https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work)
+- [ChatGPT could cost over $700k per day to operate](https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
