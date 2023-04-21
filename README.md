@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
 - [Peter Gabriel: AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
 - [AOLserver is America Online&amp;#x27;s Open-Source web server](https://aolserver.github.io/)
 - [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
 - [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
-- [WebGPU GPT Model Demo](https://www.kmeans.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
