@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+- [Guess the Game](https://guessthe.game)
 - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 - [Standardizing BPF](https://lwn.net/Articles/926882/)
 - [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
-- [John Deere &amp;#x27;Kill Switch&amp;#x27; renders stolen tractors useless &lpar;2022&rpar;](https://www.orchardandvine.net/news/john-deere-%E2%80%98kill-switch%E2%80%99-renders-stolen-tractors-useless/)
-- [America’s $800B climate splurge is feeding a new lobbying ecosystem](https://www.economist.com/business/2023/04/10/americas-800bn-climate-splurge-is-feeding-a-new-lobbying-ecosystem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
