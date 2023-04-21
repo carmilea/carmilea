@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
+- [Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
+- [The Earn IT Bill Is Back, Seeking to Scan Our Messages and Photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
 - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
-- [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
-- [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
-- [Mass Editing Memory in a Transformer](https://memit.baulab.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
