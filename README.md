@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
+- [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&amp;#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
+- [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
 - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
-- [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
-- [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
-- [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring an Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
