@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 - [Lago&lpar;YC&rpar;: open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
 - [The coming war on end-to-end encryption](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
+- [New technology could blow away GPT-4 and everything like it](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 - [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
-- [Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
-- [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
