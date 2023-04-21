@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Air Force has loosened its restrictions on body fat for new recruits](https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/)
+- [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
+- [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
+- [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
+- [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
 - [Mass Editing Memory in a Transformer](https://memit.baulab.info/)
-- [REI to close only Portland store, citing break-ins, theft](https://www.oregonlive.com/business/2023/04/rei-to-close-its-only-portland-store-citing-break-ins-theft.html)
-- [W3C invites applications to be our next CEO](https://candidates.perrettlaver.com/vacancies/3565/)
-- [Proliferation of AI weapons among non-state actors could be impossible to stop](https://www.theregister.com/2023/04/21/ai_enhanced_weapons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
