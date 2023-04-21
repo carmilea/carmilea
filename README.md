@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is taking the jobs of Kenyans who write essays for U.S. college students](https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/)
+- [US to start training Ukrainian troops on Abrams tanks within weeks](https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/)
+- [OpenBSD: Viogpu&lpar;4&rpar;, a VirtIO GPU driver, added to -current](https://www.undeadly.org/cgi?action=article;sid=20230421124221)
 - [Can Rust Beat JavaScript in 2023?](https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/)
-- [Consciousness begins with feeling, not thinking](https://iai.tv/articles/consciousness-begins-with-feelings-hanna-damasio-auid-2462)
-- [SafeGPT: New tool to detect LLMs&amp;#x27; hallucinations, biases and privacy issues](https://www.giskard.ai/safegpt)
-- [Large, creative AI models will transform lives and labour markets](https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work)
-- [ChatGPT could cost over $700k per day to operate](https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4)
+- [Atari 800XL Remake](https://revive-machines.com/index-en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
