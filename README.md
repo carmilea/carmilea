@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
+- [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
+- [&amp;#x27;Devastating&amp;#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
+- [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
 - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
-- [Lago&lpar;YC&rpar;: open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
-- [The coming war on end-to-end encryption](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
-- [New technology could blow away GPT-4 and everything like it](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
-- [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
