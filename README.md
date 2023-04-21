@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 - [Standardizing BPF](https://lwn.net/Articles/926882/)
 - [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
-- [AOLserver is America Online&amp;#x27;s Open-Source web server](https://aolserver.github.io/)
-- [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
-- [WebGPU GPT Model Demo](https://www.kmeans.org/)
+- [John Deere &amp;#x27;Kill Switch&amp;#x27; renders stolen tractors useless &lpar;2022&rpar;](https://www.orchardandvine.net/news/john-deere-%E2%80%98kill-switch%E2%80%99-renders-stolen-tractors-useless/)
+- [America’s $800B climate splurge is feeding a new lobbying ecosystem](https://www.economist.com/business/2023/04/10/americas-800bn-climate-splurge-is-feeding-a-new-lobbying-ecosystem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
