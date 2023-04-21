@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is taking the jobs of Kenyans who write essays for U.S. college students](https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/)
-- [US to start training Ukrainian troops on Abrams tanks within weeks](https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/)
-- [OpenBSD: Viogpu&lpar;4&rpar;, a VirtIO GPU driver, added to -current](https://www.undeadly.org/cgi?action=article;sid=20230421124221)
-- [Can Rust Beat JavaScript in 2023?](https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/)
-- [Atari 800XL Remake](https://revive-machines.com/index-en.html)
+- [The Air Force has loosened its restrictions on body fat for new recruits](https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/)
+- [Mass Editing Memory in a Transformer](https://memit.baulab.info/)
+- [REI to close only Portland store, citing break-ins, theft](https://www.oregonlive.com/business/2023/04/rei-to-close-its-only-portland-store-citing-break-ins-theft.html)
+- [W3C invites applications to be our next CEO](https://candidates.perrettlaver.com/vacancies/3565/)
+- [Proliferation of AI weapons among non-state actors could be impossible to stop](https://www.theregister.com/2023/04/21/ai_enhanced_weapons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
