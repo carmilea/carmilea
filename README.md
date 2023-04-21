@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
-- [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
-- [&amp;#x27;Devastating&amp;#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
-- [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
-- [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
+- [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
+- [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
+- [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
+- [Will Boiling Water Ruin Green Tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)
+- [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
 <!-- BLOG-POST-LIST:END -->
 
 ---
