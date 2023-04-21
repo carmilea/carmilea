@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tcl Programming&amp;#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
-- [Why it’s so hard to say what you mean](https://ammarmian.substack.com/p/why-its-so-hard-to-say-what-you-mean)
-- [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
-- [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
-- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
+- [Peter Gabriel: AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
+- [AOLserver is America Online&amp;#x27;s Open-Source web server](https://aolserver.github.io/)
+- [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
+- [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
+- [WebGPU GPT Model Demo](https://www.kmeans.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
