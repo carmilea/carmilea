@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Chromebooks aren’t built to last”: Average device has 4 years of updates left](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)
-- [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
-- [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-- [Will AI obliterate the rule of law?](https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html)
-- [Canonical unveils Ubuntu 23.04 &amp;#x27;Lunar Lobster&amp;#x27;](https://www.zdnet.com/article/canonical-unveils-ubuntu-23-04-a-lunar-lobster-thats-good-for-work-and-play/)
+- [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
+- [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
+- [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
+- [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
+- [How Did the Chess Pieces Get Their Names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
 <!-- BLOG-POST-LIST:END -->
 
 ---
