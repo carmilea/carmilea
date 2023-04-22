@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Negative Mass](https://students.tools/negative/?6=9)
+- [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
 - [Tell HN: 2^4 == 4^2, extended to rationals](https://news.ycombinator.com/item?id=35669101)
 - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
 - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
-- [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
