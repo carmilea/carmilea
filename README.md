@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
-- [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
-- [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
-- [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
-- [EcoHabit: An Open Source Project for Environmental Awareness &lpar;Earth Day Special&rpar;](https://github.com/lugenx/ecohabit)
+- [The streaming era turned music into sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)
+- [Singapore plans to execute man over 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
+- [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
+- [Boot to Vim, Vim as PID 1 &lpar;2014&rpar;](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
+- [Apple will launch a journaling app](https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
