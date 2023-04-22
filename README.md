@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple will launch a journaling app in iOS 17, but that’s bad news for some devs](https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/)
-- [A silent crisis in men’s health gets worse](https://www.washingtonpost.com/wellness/2023/04/17/mens-health-longevity-gap/)
+- [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
 - [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
 - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&amp;#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
+- [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
