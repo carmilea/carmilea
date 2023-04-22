@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 - [Explosions are great, actually](https://1517.substack.com/p/explosions-are-great-actually)
-- [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
-- [Boot to Vim, Vim as Pid 1 &lpar;2014&rpar;](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
+- [In Defense of No-Code’s Potential](https://buttondown.email/hillelwayne/archive/in-defense-of-no-codes-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
