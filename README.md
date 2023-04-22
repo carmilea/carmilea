@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-- [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
+- [Will AI obliterate the rule of law?](https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html)
+- [Amazon UK: Customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
+- [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
-- [Google Mars](https://www.google.com/mars/)
-- [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
