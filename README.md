@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sell ∀ ∃ as ∃ ∀ Scam](https://win-vector.com/2023/04/22/the-sell-as-scam/)
 - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
+- [Effective Immediately: A central hub for people who&amp;#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 - [System D](https://en.wikipedia.org/wiki/System_D)
-- [iPhone Doomed to Failure &lpar;2008&rpar;](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
-- [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 - [Negative Mass](https://students.tools/negative/?6=9)
 <!-- BLOG-POST-LIST:END -->
 
