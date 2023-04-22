@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a SQL game to help people learn &amp;#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
+- [Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands](https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award)
 - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
-- [Explosions are great, actually](https://1517.substack.com/p/explosions-are-great-actually)
-- [In Defense of No-Code’s Potential](https://buttondown.email/hillelwayne/archive/in-defense-of-no-codes-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
