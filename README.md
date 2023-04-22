@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+- [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 - [Google Mars](https://www.google.com/mars/)
 - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
-- [Show HN: I made a SQL game to help people learn &amp;#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
-- [Medical wordlists in English, French and Ukrainian](https://github.com/theophpo/medical-wordlist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
