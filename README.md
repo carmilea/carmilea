@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Chromebooks aren’t built to last”: Average device has 4 years of updates left](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)
+- [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 - [Will AI obliterate the rule of law?](https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html)
-- [Amazon UK: Customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
-- [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
+- [Canonical unveils Ubuntu 23.04 &amp;#x27;Lunar Lobster&amp;#x27;](https://www.zdnet.com/article/canonical-unveils-ubuntu-23-04-a-lunar-lobster-thats-good-for-work-and-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
