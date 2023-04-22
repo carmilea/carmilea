@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
-- [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
-- [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
-- [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
-- [How Did the Chess Pieces Get Their Names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
+- [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+- [Housing should be affordable except for when I sell my house for $1M](https://www.mcsweeneys.net/articles/housing-should-be-affordable-except-when-i-sell-my-house-for-a-million-dollars)
+- [The Loophole That Made Cars in America So Big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
+- [Missouri &amp;#x27;trans snitch&amp;#x27; page down after people spammed it](https://techcrunch.com/2023/04/21/missouri-trans-snitch-form-down-after-people-spammed-it-with-the-bee-movie-script/)
+- [“Luxury” construction causes high rents like umbrellas cause rain](https://noahpinion.substack.com/p/luxury-construction-causes-high-rents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
