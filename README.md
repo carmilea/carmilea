@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone Doomed to Failure &lpar;2008&rpar;](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
+- [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 - [Negative Mass](https://students.tools/negative/?6=9)
 - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
-- [Tell HN: 2^4 == 4^2, extended to rationals](https://news.ycombinator.com/item?id=35669101)
 - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
-- [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
