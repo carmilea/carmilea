@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 - [Explosions are great, actually](https://1517.substack.com/p/explosions-are-great-actually)
 - [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 - [Boot to Vim, Vim as Pid 1 &lpar;2014&rpar;](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
-- [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
