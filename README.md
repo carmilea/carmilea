@@ -55,7 +55,7 @@
 - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 - [Effective Immediately: A central hub for people who&amp;#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 - [System D](https://en.wikipedia.org/wiki/System_D)
-- [Negative Mass](https://students.tools/negative/?6=9)
+- [I just learned about HTML redirects](https://apitman.com/18/#html-redirects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
