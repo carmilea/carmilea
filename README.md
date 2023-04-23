@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
+- [DARPA wants to rethink the fundamentals of AI to include trust](https://www.theregister.com/2023/04/20/darpa_ai_trust/)
 - [Saturn&amp;#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
-- [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 - [Effective Immediately: A central hub for people who&amp;#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 - [System D](https://en.wikipedia.org/wiki/System_D)
-- [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
