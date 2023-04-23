@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LSD: Not Even Once. Really.](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
-- [Twitter Enhancement Suite – BlockTheBlue](https://chrome.google.com/webstore/detail/twitter-enhancement-suite/chaiionjpmjklbbngmpdnbfcmkgoicle)
+- [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
+- [LSD: Not Even Once](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
+- [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
 - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
-- [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
-- [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
+- [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
