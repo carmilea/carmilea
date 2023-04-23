@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sell ∀ ∃ as ∃ ∀ Scam](https://win-vector.com/2023/04/22/the-sell-as-scam/)
+- [Saturn&amp;#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
 - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 - [Effective Immediately: A central hub for people who&amp;#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 - [System D](https://en.wikipedia.org/wiki/System_D)
-- [I just learned about HTML redirects](https://apitman.com/18/#html-redirects)
+- [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
