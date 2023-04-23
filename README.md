@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
+- [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
+- [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
 - [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
 - [WTF is a KDF? A startling revelation from a French prison](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
-- [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
-- [My shell setup with Fish and Tmux &lpar;2021&rpar;](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
-- [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
