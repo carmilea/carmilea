@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Crypto Detectives Are Cleaning Up](https://www.nytimes.com/2023/04/22/business/crypto-blockchain-tracking-chainalysis.html)
-- [The Soviet Legacy: Inside Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
-- [My ultimate shell setup with Fish shell and Tmux &lpar;2021&rpar;](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
+- [The crypto detectives are cleaning up](https://www.nytimes.com/2023/04/22/business/crypto-blockchain-tracking-chainalysis.html)
+- [Google CEO Salary](https://littlebitofeverything.substack.com/p/google-ceo-salary)
+- [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
+- [My shell setup with Fish and Tmux &lpar;2021&rpar;](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
 - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
-- [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
