@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
-- [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
-- [I’m ready to trade in my electric car. Here’s why](https://www.latimes.com/opinion/story/2023-04-23/commentary-its-not-easy-being-a-green-motorist-in-california)
 - [AWA&amp;#x27;s Acoustic Hood – Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
+- [My High-Flying Life as a Corporate Spy Who Lied His Way to the Top](https://narratively.com/my-high-flying-life-as-a-corporate-spy-who-lied-his-way-to-the-top/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
