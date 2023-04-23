@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
+- [ChatGPT creates mostly insecure code, but won&amp;#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
 - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
-- [LSD: Not Even Once](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
-- [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
-- [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
-- [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
+- [Incognito ChatGPT with no account required](https://anonchatgpt.com)
+- [Git bundles of Eaglercraft repositories disabled due to DMCA takedown](https://github.com/enten/eaglercraft-ashes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
