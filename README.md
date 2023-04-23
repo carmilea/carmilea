@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
+- [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
 - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
 - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
 - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
-- [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
-- [WTF is a KDF? A startling revelation from a French prison](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
