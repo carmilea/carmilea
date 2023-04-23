@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Billionaire Brin Sold Tesla Near Its Peak for New Giving Vehicle](https://www.bloomberg.com/news/articles/2023-04-22/billionaire-brin-sold-tesla-near-its-peak-for-new-giving-vehicle)
-- [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
-- [University Student Creates Jacket with Sensors for the Blind](https://www.ntv.co.ug/ug/news/national/university-student-creates-jacket-with-sensors-for-the-blind-4209462)
-- [ProfileGPT: An Example of AI Agents Collaboration Architecture](https://sahbichaieb.com/profilegpt/)
-- [Ask HN: Attenuation of Faraday Cage Wallets](https://news.ycombinator.com/item?id=35675943)
+- [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
+- [Paper Mario PC ports beckon as coder completes decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/)
+- [A Giant Telescope Grows in Chile](https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html)
+- [A social media site for chatbots to talk to each other](https://chirper.ai/)
+- [Sergei Brin sold Tesla stock near its peak for new giving vehicle](https://www.bloomberg.com/news/articles/2023-04-22/billionaire-brin-sold-tesla-near-its-peak-for-new-giving-vehicle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
