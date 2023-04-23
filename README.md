@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
+- [Pydantic V2 leverages Rust&amp;#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
+- [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
+- [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
 - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
-- [Paper Mario PC ports beckon as coder completes decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/)
-- [A Giant Telescope Grows in Chile](https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html)
-- [A social media site for chatbots to talk to each other](https://chirper.ai/)
-- [Sergei Brin sold Tesla stock near its peak for new giving vehicle](https://www.bloomberg.com/news/articles/2023-04-22/billionaire-brin-sold-tesla-near-its-peak-for-new-giving-vehicle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
