@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s smart speakers are finally smart enough to shut up](https://www.theverge.com/2023/4/21/23692794/google-nest-smart-speaker-new-chime-feature)
-- [Gradients Are Not All You Need](https://arxiv.org/abs/2111.05803)
-- [Ban all gambling adverts, say more than half of Britons](https://www.theguardian.com/society/2023/apr/23/ban-all-gambling-adverts-say-more-than-half-of-britons)
-- [Interactive live solutions of PDE systems](https://visualpde.com/)
-- [Fannie Mae New Rule: The Better Your Credit Score the Higher Your Mortgage Rate](https://singlefamily.fanniemae.com/media/33201/display)
+- [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
+- [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
+- [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
+- [I’m ready to trade in my electric car. Here’s why](https://www.latimes.com/opinion/story/2023-04-23/commentary-its-not-easy-being-a-green-motorist-in-california)
+- [AWA&amp;#x27;s Acoustic Hood – Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
