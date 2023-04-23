@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
-- [Pydantic V2 leverages Rust&amp;#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
-- [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
-- [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
-- [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
+- [Google’s smart speakers are finally smart enough to shut up](https://www.theverge.com/2023/4/21/23692794/google-nest-smart-speaker-new-chime-feature)
+- [Gradients Are Not All You Need](https://arxiv.org/abs/2111.05803)
+- [Ban all gambling adverts, say more than half of Britons](https://www.theguardian.com/society/2023/apr/23/ban-all-gambling-adverts-say-more-than-half-of-britons)
+- [Interactive live solutions of PDE systems](https://visualpde.com/)
+- [Fannie Mae New Rule: The Better Your Credit Score the Higher Your Mortgage Rate](https://singlefamily.fanniemae.com/media/33201/display)
 <!-- BLOG-POST-LIST:END -->
 
 ---
