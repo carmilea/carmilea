@@ -55,7 +55,7 @@
 - [WTF is a KDF? A startling revelation from a French prison](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
 - [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
 - [My shell setup with Fish and Tmux &lpar;2021&rpar;](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
-- [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
+- [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
