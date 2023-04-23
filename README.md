@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
+- [Russia killed its tech industry](https://www.technologyreview.com/2023/04/04/1070352/ukraine-war-russia-tech-industry-yandex-skolkovo/)
+- [Micro- &amp;amp; Nanoplastics Breach Blood–Brain Barrier in Mice 2 Hours After Ingestion](https://www.mdpi.com/2079-4991/13/8/1404)
+- [Libreboot 20230423](https://libreboot.org/news/libreboot20230423.html)
 - [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
-- [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
-- [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
-- [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
+- [Gold mining and violence in the Amazon rainforest [video]](https://www.youtube.com/watch?v=srck-pW8v34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
