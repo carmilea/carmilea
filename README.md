@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
+- [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
+- [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
+- [Delaware will become the 22nd state to legalize recreational marijuana](https://delawarebusinesstimes.com/news/delaware-legal-marijuana-23/)
 - [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
-- [ChatGPT creates mostly insecure code, but won&amp;#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
-- [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
-- [Incognito ChatGPT with no account required](https://anonchatgpt.com)
-- [Git bundles of Eaglercraft repositories disabled due to DMCA takedown](https://github.com/enten/eaglercraft-ashes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
