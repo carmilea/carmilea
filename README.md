@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
+- [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
 - [ChatGPT4 writes Stan code so I don’t have to](https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/)
 - [Bilingualism affords no general cognitive advantages: Study](https://journals.sagepub.com/doi/10.1177/0956797620903113)
 - [West Coast Trail – The 75km&amp;#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
-- [Roblox intentionally blocking Linux with Wine in their new update](https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/)
-- [A fireside chat on education, technology, and almost everything in between](https://www.gatesnotes.com/ASU-and-GSV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
