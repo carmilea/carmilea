@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QEMU 8.0.0 – A generic and open source machine emulator and virtualizer](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
-- [Tom Lesley has published 40 books in 2023, all with 100% positive reviews](https://www.amazon.com/s?k=%22tom+lesley%22)
-- [Seeing Triple &lpar;Annotated&rpar;](https://esawebb.org/images/potm2302b/)
-- [Our Sun Was Born in a Stellar Family Far, Far from Here](https://www.scientificamerican.com/article/our-sun-was-born-in-a-stellar-family-far-far-from-here/)
-- [My remaining 13M minutes: Productivity, ambition, being realistic in older age](https://www.theguardian.com/science/2023/apr/22/my-remaining-13-million-minutes-productivity-ambition-and-being-realistic-in-older-age)
+- [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
+- [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
+- [I built a special PCIe card to test GPUs on the Pi](https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
+- [I use Nix and make&lpar;1&rpar; to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
+- [European Parliament calls for ban on facial recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
