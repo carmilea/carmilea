@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QEMU 8.0.0 – A generic and open source machine emulator and virtualizer](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
+- [Tom Lesley has published 40 books in 2023, all with 100% positive reviews](https://www.amazon.com/s?k=%22tom+lesley%22)
 - [Seeing Triple &lpar;Annotated&rpar;](https://esawebb.org/images/potm2302b/)
+- [Our Sun Was Born in a Stellar Family Far, Far from Here](https://www.scientificamerican.com/article/our-sun-was-born-in-a-stellar-family-far-far-from-here/)
 - [My remaining 13M minutes: Productivity, ambition, being realistic in older age](https://www.theguardian.com/science/2023/apr/22/my-remaining-13-million-minutes-productivity-ambition-and-being-realistic-in-older-age)
-- [Improbably Right](https://mlajtos.mu/posts/improbably-right)
-- [The Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
-- [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
