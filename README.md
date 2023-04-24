@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
+- [The i.MX8 cannot be deblobbed &lpar;when using HDMI&rpar;](https://www.devever.net/~hl/imx8)
 - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+- [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
-- [An introduction to lockless algorithms &lpar;2021&rpar;](https://lwn.net/Articles/844224/)
-- [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
-- [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
