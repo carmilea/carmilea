@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring Senior Back End Engineer, Senior DevOps and Head of Data Science](https://www.tesorio.com/careers#job-openings)
+- [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
+- [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
+- [Snapchat sees spike in 1-star reviews due to ‘My AI’, calling for its removal](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 - [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
-- [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
-- [I built a special PCIe card to test GPUs on the Pi](https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
-- [I use Nix and make&lpar;1&rpar; to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
-- [European Parliament calls for ban on facial recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
