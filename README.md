@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 - [The Palo Alto Research Center &lpar;PARC&rpar; Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 - [Lancey &lpar;YC S22&rpar; is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
+- [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
 - [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
-- [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
-- [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
