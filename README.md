@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
+- [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
+- [Training open-source LLMs on ChatGPT output is a really bad idea.](https://gist.github.com/mlaprise/bf4745655194162babfc2d158162e2e0)
 - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
 - [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
-- [ChatGPT4 writes Stan code so I don’t have to](https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/)
-- [Bilingualism affords no general cognitive advantages: Study](https://journals.sagepub.com/doi/10.1177/0956797620903113)
-- [West Coast Trail – The 75km&amp;#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
