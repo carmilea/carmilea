@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
 - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
-- [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
 - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
 - [Deleting System32\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
+- [Open source smartwatch integrates ESP32 MCU with e-paper display](https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
