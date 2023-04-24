@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
+- [&amp;#x27;Delete Act&amp;#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
 - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
 - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
 - [Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
-- [Nostr &lpar;“Notes and Other Stuff Transmitted by Relays.”&rpar; – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)
-- [Haiku&amp;#x27;s &lpar;Kernel&rpar; Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
