@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
+- [Show HN: Featurevisor – Git based feature flags and experiments management](https://featurevisor.com/)
+- [Apple wins the antitrust court battle with Epic Games, court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
+- [Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
 - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
-- [&amp;#x27;Delete Act&amp;#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
-- [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
-- [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
-- [Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
