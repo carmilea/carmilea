@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+- [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 - [An introduction to lockless algorithms &lpar;2021&rpar;](https://lwn.net/Articles/844224/)
+- [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
 - [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
-- [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
-- [Inferno-OS: distributed operating system where everything is a file](https://github.com/inferno-os/inferno-os)
-- [Training open-source LLMs on ChatGPT output is a really bad idea.](https://gist.github.com/mlaprise/bf4745655194162babfc2d158162e2e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
