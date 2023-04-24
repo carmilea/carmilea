@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla tries to get owners to give up ‘unlimited free Supercharging for life’](https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/)
+- [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
 - [The i.MX8 cannot be deblobbed &lpar;when using HDMI&rpar;](https://www.devever.net/~hl/imx8)
 - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
-- [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
-- [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
