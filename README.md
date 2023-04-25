@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
+- [A.I. imagery may destroy history as we know it](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
+- [The dark forest and the cozy web &lpar;2020&rpar;](https://maggieappleton.com/cozy-web)
+- [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 - [Paperspace &lpar;YC W15&rpar; is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 - [The Old &lpar;2018&rpar;](https://neocha.com/magazine/the-old/)
-- [The Nature of Code &lpar;Book&rpar;](https://natureofcode.com/)
-- [Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI](https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
