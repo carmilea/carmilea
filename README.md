@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining tech&amp;#x27;s notion of talent scarcity](https://nadia.xyz/top-talent)
+- [Google announces Q1 2023 earnings [pdf]](https://abc.xyz/investor/static/pdf/2023Q1_alphabet_earnings_release.pdf)
+- [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
+- [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
-- [Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)
-- [Commercial lunar lander presumed lost after moon landing attempt](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
