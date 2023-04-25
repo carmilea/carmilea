@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
+- [Why Your Vector Database Should Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-not-be-a-vector-database/)
+- [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 - [Deming Paradox: Operationally rigorous companies aren&amp;#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
 - [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
-- [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
-- [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
