@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A.I. imagery may destroy history as we know it](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
-- [The dark forest and the cozy web &lpar;2020&rpar;](https://maggieappleton.com/cozy-web)
-- [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
-- [Paperspace &lpar;YC W15&rpar; is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
-- [The Old &lpar;2018&rpar;](https://neocha.com/magazine/the-old/)
+- [The UK will spend £100M to develop its own &amp;#x27;sovereign&amp;#x27; AI](https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html)
+- [Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
+- [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
+- [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
+- [Web LLM](https://mlc.ai/web-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
