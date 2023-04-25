@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mrs Whitcher and the Renegade Numbers &lpar;2017&rpar;](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
+- [Compressing Hegel &lpar;2020&rpar;](https://wittgenfine.substack.com/p/compressing-hegel)
+- [Disney is shrinking FiveThirtyEight and Nate Silver &lpar;and his models&rpar; are leaving](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/)
+- [Show HN: Ordently – Consciously plan your day and your life](https://www.ordently.com)
 - [NitroKey disappoints me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
-- [Aptible &lpar;YC S14&rpar; is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
-- [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
-- [LTESniffer: An open-source LTE downlink&amp;#x2F;uplink eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
-- [Show HN: I built a multiplayer voxel browser game engine](https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
