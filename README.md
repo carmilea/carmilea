@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NitroKey disappoints me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 - [Aptible &lpar;YC S14&rpar; is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
-- [Google announces Q1 2023 earnings [pdf]](https://abc.xyz/investor/static/pdf/2023Q1_alphabet_earnings_release.pdf)
-- [Microsoft Announces Q3 Earnings](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q3/press-release-webcast)
-- [LTESniffer: An Open-Source LTE Downlink&amp;#x2F;Uplink Eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
-- [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
+- [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
+- [LTESniffer: An open-source LTE downlink&amp;#x2F;uplink eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
+- [Show HN: I built a multiplayer voxel browser game engine](https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
