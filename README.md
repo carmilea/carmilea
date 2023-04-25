@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
-- [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
-- [Electricity from Space: The 1970s DOE&amp;#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
-- [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation &lpar;1999&rpar; [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
-- [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
+- [Paperspace &lpar;YC W15&rpar; is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
+- [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)
+- [Street Photography of Japan&amp;#x27;s Aging Population](https://neocha.com/magazine/the-old/)
+- [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
+- [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
