@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aptible &lpar;YC S14&rpar; is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
 - [Google announces Q1 2023 earnings [pdf]](https://abc.xyz/investor/static/pdf/2023Q1_alphabet_earnings_release.pdf)
-- [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
-- [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
-- [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
-- [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
+- [Microsoft Announces Q3 Earnings](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q3/press-release-webcast)
+- [LTESniffer: An Open-Source LTE Downlink&amp;#x2F;Uplink Eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
+- [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
