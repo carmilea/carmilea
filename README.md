@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation &lpar;1999&rpar; [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
+- [Sserangecoding: Fast vectorized &lpar;SSE 4.1&rpar; range coder for 8-bit alphabets](https://github.com/richgel999/sserangecoding)
 - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 - [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
-- [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
