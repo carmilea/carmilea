@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
-- [The Palo Alto Research Center &lpar;PARC&rpar; Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
-- [Lancey &lpar;YC S22&rpar; is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
-- [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
-- [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
+- [Deming Paradox: Operationally rigorous companies aren&amp;#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
+- [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
+- [PyRF: Open-source comprehensive development environment for wireless signal](https://pyrf.readthedocs.io/en/latest/)
+- [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
+- [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
