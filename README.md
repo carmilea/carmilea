@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/abs/2301.10743)
+- [Fun with Kermit and Zmodem over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
+- [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
 - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
-- [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
-- [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
-- [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales &lpar;2017&rpar;](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
-- [Harry Belafonte, singer, actor and tireless activist, dies aged 96](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
+- [A Heat Shield for the Most Important Ice on Earth](https://www.newyorker.com/news/the-control-of-nature/a-heat-shield-for-the-most-important-ice-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
