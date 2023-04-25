@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
+- [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
+- [Electricity from Space: The 1970s DOE&amp;#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation &lpar;1999&rpar; [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
-- [Sserangecoding: Fast vectorized &lpar;SSE 4.1&rpar; range coder for 8-bit alphabets](https://github.com/richgel999/sserangecoding)
-- [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
-- [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
