@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/abs/2301.10743)
-- [Fun with Kermit and Zmodem over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
-- [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
-- [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
-- [A Heat Shield for the Most Important Ice on Earth](https://www.newyorker.com/news/the-control-of-nature/a-heat-shield-for-the-most-important-ice-on-earth)
+- [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
+- [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
+- [Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)
+- [Commercial lunar lander presumed lost after moon landing attempt](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html)
+- [Tighter bounds on the expressivity of transformer encoders](https://arxiv.org/abs/2301.10743)
 <!-- BLOG-POST-LIST:END -->
 
 ---
