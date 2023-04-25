@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The UK will spend £100M to develop its own &amp;#x27;sovereign&amp;#x27; AI](https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html)
-- [Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
-- [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
-- [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
-- [Web LLM](https://mlc.ai/web-llm/)
+- [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
+- [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
+- [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
+- [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales &lpar;2017&rpar;](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
+- [Harry Belafonte, singer, actor and tireless activist, dies aged 96](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
