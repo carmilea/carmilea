@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Verified accounts are now prioritized](https://twitter.com/elonmusk/status/1650731557164818437)
+- [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 - [Why Your Vector Database Should Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-not-be-a-vector-database/)
 - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
