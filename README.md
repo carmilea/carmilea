@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation &lpar;1999&rpar; [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
+- [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
 - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
-- [Why Your Vector Database Should Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-not-be-a-vector-database/)
-- [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
