@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
 - [Paperspace &lpar;YC W15&rpar; is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
-- [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)
-- [Street Photography of Japan&amp;#x27;s Aging Population](https://neocha.com/magazine/the-old/)
-- [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
-- [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
+- [The Old &lpar;2018&rpar;](https://neocha.com/magazine/the-old/)
+- [The Nature of Code &lpar;Book&rpar;](https://natureofcode.com/)
+- [Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI](https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
