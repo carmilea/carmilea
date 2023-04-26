@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech giants bury mediocre results under AI hype](https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/)
+- [Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans](https://www.bklynlibrary.org/media/press/brooklyn-public-library-94)
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 - [Iconify for React Native](https://github.com/oktaysenkan/react-native-iconify)
-- [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
-- [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
