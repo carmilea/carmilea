@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPS, UTC and Tai Clocks &lpar;2001&rpar;](http://www.leapsecond.com/java/gpsclock.htm)
+- [Why do prime numbers make these spirals? &lpar;2019&rpar;](https://www.3blue1brown.com/lessons/prime-spirals)
+- [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
+- [How much does ‘nothing’ weigh?](https://www.scientificamerican.com/article/how-much-does-nothing-weigh/?ref=thebrowser.com)
 - [Mrs Whitcher and the Renegade Numbers &lpar;2017&rpar;](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
-- [Compressing Hegel &lpar;2020&rpar;](https://wittgenfine.substack.com/p/compressing-hegel)
-- [Disney is shrinking FiveThirtyEight and Nate Silver &lpar;and his models&rpar; are leaving](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/)
-- [Show HN: Ordently – Consciously plan your day and your life](https://www.ordently.com)
-- [NitroKey disappoints me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
