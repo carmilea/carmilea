@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Activeloop &lpar;YC S18&rpar;: Hiring Engineers for a Multi-Modal Vector Database for AI](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+- [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
+- [Database branching: three-way merge for schema changes](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes)
+- [Activeloop &lpar;YC S18&rpar;: Hiring Engineers for a Multi-Modal Vector Database for AI](https://activeloop.notion.site/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 - [The Wealth Gap in Science: How Your Parents&amp;#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
-- [Supreme Court will decide if all home equity may be forfeited for unpaid taxes](https://apnews.com/article/supreme-court-just-compensation-tax-sales-minneapolis-45d19359249669f7b75da32ac352d4c2)
-- [Transmeta Crusoe: The Most Interesting Processor to Ever Exist?](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
-- [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
+- [CISC-y RISC-ness](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
