@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
+- [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
+- [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
 - [Google Authenticator cloud sync&amp;#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
-- [BYD says self-driving tech is more valuable in factories than cars](https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html)
 - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
-- [GPS, UTC and TAI Clocks &lpar;2001&rpar;](http://www.leapsecond.com/java/gpsclock.htm)
-- [Show HN: Neat, the Minimalist CSS Framework](https://neat.joeldare.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
