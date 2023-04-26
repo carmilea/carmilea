@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 - [Iconify for React Native](https://github.com/oktaysenkan/react-native-iconify)
-- [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
-- [Show HN: Turn your screenshots into beautifual posts](https://app.jellylade.com)
-- [How to use Podman inside of a container](https://www.redhat.com/sysadmin/podman-inside-container)
+- [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
+- [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
