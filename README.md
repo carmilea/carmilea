@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
-- [Database branching: three-way merge for schema changes](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes)
-- [Activeloop &lpar;YC S18&rpar;: Hiring Engineers for a Multi-Modal Vector Database for AI](https://activeloop.notion.site/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
-- [The Wealth Gap in Science: How Your Parents&amp;#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
-- [CISC-y RISC-ness](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
+- [TSMC’s 3-Nm Push Faces Tool Struggles](https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/)
+- [Deep Floyd Text-to-Image Model Release](https://github.com/deep-floyd/IF)
+- [Creating AI assistant with GPT and Ruby and Redis using embeddings](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions)
+- [Update Millions of Records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
+- [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
