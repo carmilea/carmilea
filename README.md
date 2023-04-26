@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
+- [Japan&amp;#x27;s population may drop by almost one-third by 2070](https://www3.nhk.or.jp/nhkworld/en/news/20230426_23/)
 - [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35712321)
 - [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
 - [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
-- [Possible toxicity of chronic CO2 exposure associated with face mask use](https://www.cell.com/heliyon/fulltext/S2405-8440(23)01324-5)
-- [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
