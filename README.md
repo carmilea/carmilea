@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)
-- [Long Before Trees Overtook the Land, Earth Was Covered by Giant Mushrooms &lpar;2013&rpar;](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
-- [Stanford, Harvard data science no more](https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/)
-- [Britain blocks Microsoft’s $69B acquisition of Activision Blizzard](https://www.cnbc.com/2023/04/26/britain-blocks-microsoft-acquisition-of-activision-blizzard.html)
-- [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
+- [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
+- [Lessons by 3blue1brown](https://www.3blue1brown.com/)
+- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
+- [SPACs delivered easy money, but now companies are running out](https://www.wsj.com/articles/spacs-delivered-easy-money-but-now-companies-are-running-out-f086c255)
+- [Mastodon is doomed?](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
