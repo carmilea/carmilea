@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
-- [Japan&amp;#x27;s population may drop by almost one-third by 2070](https://www3.nhk.or.jp/nhkworld/en/news/20230426_23/)
-- [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35712321)
-- [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
-- [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
+- [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)
+- [Long Before Trees Overtook the Land, Earth Was Covered by Giant Mushrooms &lpar;2013&rpar;](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
+- [Stanford, Harvard data science no more](https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/)
+- [Britain blocks Microsoft’s $69B acquisition of Activision Blizzard](https://www.cnbc.com/2023/04/26/britain-blocks-microsoft-acquisition-of-activision-blizzard.html)
+- [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
