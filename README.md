@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech jobs remain a good bet despite mass layoffs in Silicon Valley](https://www.npr.org/2023/04/26/1170522239/tech-job-openings-mass-layoffs-workers-silicon-valley-google-meta-amazon)
-- [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
-- [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
-- [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
-- [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
+- [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35712321)
+- [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
+- [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
+- [Possible toxicity of chronic CO2 exposure associated with face mask use](https://www.cell.com/heliyon/fulltext/S2405-8440(23)01324-5)
+- [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
