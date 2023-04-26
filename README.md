@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
+- [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 - [TSMC’s 3-Nm Push Faces Tool Struggles](https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/)
-- [Deep Floyd Text-to-Image Model Release](https://github.com/deep-floyd/IF)
+- [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
 - [Creating AI assistant with GPT and Ruby and Redis using embeddings](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions)
-- [Update Millions of Records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
-- [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
