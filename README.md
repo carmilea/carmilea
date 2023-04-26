@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech giants bury mediocre results under AI hype](https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/)
-- [Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans](https://www.bklynlibrary.org/media/press/brooklyn-public-library-94)
+- [Ask HN: Is &amp;quot;Code Complete&amp;quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
+- [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
-- [Iconify for React Native](https://github.com/oktaysenkan/react-native-iconify)
+- [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
