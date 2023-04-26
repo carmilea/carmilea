@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is &amp;quot;Code Complete&amp;quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
+- [Why Silicon Valley is bringing eugenics back](https://www.disconnect.blog/p/why-silicon-valley-is-bringing-eugenics)
+- [Cloudguy says we should log out of Amazon](https://sackheads.social/@Cloudguy/110256209708866473)
+- [Silver Lake to buy Germany&amp;#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
+- [The Early Days of Linux](https://lwn.net/Articles/928581/)
 - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
-- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
-- [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
-- [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
