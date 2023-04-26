@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
+- [Mastodon Has Already Won](https://d-s.sh/2023/mastodon-has-already-won/)
+- [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
+- [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
 - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
-- [Lessons by 3blue1brown](https://www.3blue1brown.com/)
-- [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
-- [SPACs delivered easy money, but now companies are running out](https://www.wsj.com/articles/spacs-delivered-easy-money-but-now-companies-are-running-out-f086c255)
-- [Mastodon is doomed?](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
