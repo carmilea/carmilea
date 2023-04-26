@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Activeloop &lpar;YC S18&rpar;: Hiring Engineers for a Multi-Modal Vector Database for AI](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+- [The Wealth Gap in Science: How Your Parents&amp;#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
+- [Supreme Court will decide if all home equity may be forfeited for unpaid taxes](https://apnews.com/article/supreme-court-just-compensation-tax-sales-minneapolis-45d19359249669f7b75da32ac352d4c2)
+- [Transmeta Crusoe: The Most Interesting Processor to Ever Exist?](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 - [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
-- [Mastodon Has Already Won](https://d-s.sh/2023/mastodon-has-already-won/)
-- [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
-- [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
-- [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
