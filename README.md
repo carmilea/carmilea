@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
+- [Iconify for React Native](https://github.com/oktaysenkan/react-native-iconify)
 - [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
-- [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
-- [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
-- [Google Authenticator cloud sync&amp;#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
-- [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
+- [Show HN: Turn your screenshots into beautifual posts](https://app.jellylade.com)
+- [How to use Podman inside of a container](https://www.redhat.com/sysadmin/podman-inside-container)
 <!-- BLOG-POST-LIST:END -->
 
 ---
