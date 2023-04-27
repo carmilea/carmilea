@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons Learned Reproducing a Deep Reinforcement Learning Paper &lpar;2018&rpar;](http://amid.fish/reproducing-deep-rl)
+- [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
+- [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
 - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
-- [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
-- [I write code 100 hours&amp;#x2F;week, here&amp;#x27;s why I probably won&amp;#x27;t stop](https://devlog.hexops.com/2021/i-write-code-100-hours-a-week/)
-- [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
-- [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
+- [Some Bluesky, Twitter and Mastodon predictions for 6 months time](https://andy-bell.co.uk/some-bluesky-twitter-and-mastodon-predictions-for-6-months-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
