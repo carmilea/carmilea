@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Knowledge retrieval architectures for LLMs &lpar;2023&rpar;](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 - [Firezone &lpar;YC W22&rpar; is hiring Rust systems engineers &lpar;SF &amp;#x2F; US remote&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
 - [NormCap: OCR powered screen-capture tool](https://github.com/dynobo/normcap)
 - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
-- [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
