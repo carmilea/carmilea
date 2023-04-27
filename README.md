@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
 - [Brazil judge orders temporary suspension of Telegram](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
-- [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
+- [Why Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
 - [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
 - [Numeral Systems of the World&amp;#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
-- [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
