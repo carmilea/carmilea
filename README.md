@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
-- [Theranos founder Elizabeth Holmes again delays start of 11-year prison term](https://www.theguardian.com/technology/2023/apr/26/theranos-elizabeth-holmes-prison-sentence-delayed)
+- [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
+- [Numeral Systems of the World&amp;#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
+- [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
+- [Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
 - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
-- [Compound &lpar;YC S19&rpar; is hiring to build a modern wealth manager](https://withcompound.com/company/about)
-- [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
