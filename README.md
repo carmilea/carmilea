@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
-- [Report from the German Parliament&amp;#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
-- [GNU Pascal &lpar;2005&rpar;](https://www.gnu-pascal.de/gpc/h-index.html)
-- [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
-- [Dropbox telemetry can&amp;#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
+- [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap)
+- [Fire Sale: $300M San Francisco Office Tower, Mostly Empty](https://www.wsj.com/articles/san-francisco-commercial-real-estate-office-buildings-471742ea)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
+- [Some Things I Think](https://collabfund.com/blog/thoughts/)
+- [WhatsApp on multiple phones feature added](https://www.washingtonpost.com/technology/2023/04/25/whatsapp-multiple-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
