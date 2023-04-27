@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XTDB 2.x Early Access](https://www.xtdb.com/v2)
+- [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
+- [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
 - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper &lpar;2018&rpar;](http://amid.fish/reproducing-deep-rl)
 - [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
-- [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
-- [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
-- [Some Bluesky, Twitter and Mastodon predictions for 6 months time](https://andy-bell.co.uk/some-bluesky-twitter-and-mastodon-predictions-for-6-months-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
