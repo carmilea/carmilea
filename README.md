@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft in furious attack on UK as major gaming deal blocked](https://www.bbc.co.uk/news/business-65407005)
+- [Report from the German Parliament&amp;#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
+- [GNU Pascal Compiler](https://www.gnu-pascal.de/gpc/h-index.html)
+- [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
 - [Dropbox telemetry can&amp;#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
 - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
-- [Steven Spielberg: ‘No film should be revised’ based on modern sensitivity](https://www.theguardian.com/film/2023/apr/26/steven-spielberg-et-guns-movie-edit)
-- [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
