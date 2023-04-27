@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry Springer, Host of TV’s Most Controversial Show, Dies at 79](https://variety.com/2023/tv/news/jerry-springer-dead-tv-host-1235596610/)
-- [The U.S. Military Relies on One Louisiana Factory. It Blew Up](https://www.wsj.com/articles/the-u-s-military-has-an-explosive-problem-6e1a1049)
-- [New Intel Linux Graphics Driver Patches, Up to 10~15% Better Performance](https://www.phoronix.com/news/Intel-RPS-Threshold-Linux-Tune)
-- [Ask HN: How do you synthesize books that you read?](https://news.ycombinator.com/item?id=35728268)
-- [John Wick’s Bulletproof Suit Makes the Series More Believable, Not Less](https://blakeashleyjr.com/posts/john-wicks-suit-makes-the-series-more-believable/)
+- [Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
+- [US Supreme Court Justices get lavish gifts; Raise bar for bribery prosecutions](https://ohiocapitaljournal.com/2023/04/26/u-s-supreme-court-justices-take-lavish-gifts-then-raise-the-bar-for-bribery-prosecutions/)
+- [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)
+- [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
+- [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
