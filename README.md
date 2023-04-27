@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazil judge orders temporary suspension of Telegram](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
+- [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
 - [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
 - [Numeral Systems of the World&amp;#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
 - [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
-- [Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
-- [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
