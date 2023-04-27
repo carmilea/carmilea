@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firezone &lpar;YC W22&rpar; is hiring Rust systems engineers &lpar;SF &amp;#x2F; US remote&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
+- [NormCap: OCR powered screen-capture tool](https://github.com/dynobo/normcap)
 - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 - [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
-- [Lessons Learned Reproducing a Deep Reinforcement Learning Paper &lpar;2018&rpar;](http://amid.fish/reproducing-deep-rl)
-- [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
