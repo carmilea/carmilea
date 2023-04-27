@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware &lpar;YC W23&rpar; Is Hiring Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs)
-- [US adult cigarette smoking rate hits new all-time low](https://apnews.com/article/how-many-people-smoke-us-64987fe2b7bf764c64d4594e5b02e6ea)
-- [Lyft to cut 1,072 employees, or 26% of its workforce](https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html)
-- [The Chaotic World of Kids Trying to Play Video Games on School Laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
-- [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
+- [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
+- [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
+- [I write code 100 hours&amp;#x2F;week, here&amp;#x27;s why I probably won&amp;#x27;t stop](https://devlog.hexops.com/2021/i-write-code-100-hours-a-week/)
+- [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
+- [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
