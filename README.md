@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&amp;#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
-- [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
-- [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
-- [Some Things I Think](https://collabfund.com/blog/thoughts/)
+- [Dune: Part Two – First Look](https://www.vanityfair.com/hollywood/2023/04/dune-part-two-exclusive-first-look)
+- [Dropbox axes 16% &lpar;500 employees）](https://blog.dropbox.com/topics/company/a-message-from-drew)
+- [Software detective debunked Mike Lindell’s election fraud claims, awarded $5M](https://spectrum.ieee.org/software-detective)
+- [Datomic Is Now Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
+- [The 2-Maxsat Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 <!-- BLOG-POST-LIST:END -->
 
 ---
