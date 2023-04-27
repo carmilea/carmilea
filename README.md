@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
-- [US Supreme Court Justices get lavish gifts; Raise bar for bribery prosecutions](https://ohiocapitaljournal.com/2023/04/26/u-s-supreme-court-justices-take-lavish-gifts-then-raise-the-bar-for-bribery-prosecutions/)
-- [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)
-- [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
-- [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
+- [Middleware &lpar;YC W23&rpar; Is Hiring Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs)
+- [US adult cigarette smoking rate hits new all-time low](https://apnews.com/article/how-many-people-smoke-us-64987fe2b7bf764c64d4594e5b02e6ea)
+- [Lyft to cut 1,072 employees, or 26% of its workforce](https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html)
+- [The Chaotic World of Kids Trying to Play Video Games on School Laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
+- [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
