@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM with Planning](https://arxiv.org/abs/2304.11477)
+- [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
 - [Knowledge retrieval architectures for LLMs &lpar;2023&rpar;](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 - [Firezone &lpar;YC W22&rpar; is hiring Rust systems engineers &lpar;SF &amp;#x2F; US remote&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
-- [NormCap: OCR powered screen-capture tool](https://github.com/dynobo/normcap)
-- [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
