@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stability AI Releases StableVicuna, World’s First Open Source RLHF LLM Chatbot](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
-- [Runescape Gold More Valuable Than Venezuelan Currency](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
-- [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
-- [There’s more than one way to write an IP address &lpar;2019&rpar;](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-- [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- [You probably don&amp;#x27;t know how to do Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
+- [Why I&amp;#x27;m no longer writing stories with AI](https://storiesby.ai/p/why-im-no-longer-writing-stories)
+- [Chicken Chicken Chicken: Chicken Chicken &lpar;2002&rpar; [pdf]](https://isotropic.org/papers/chicken.pdf)
+- [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
+- [Runescape gold more valuable than Venezuelan currency &lpar;2022&rpar;](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
