@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [There’s more than one way to write an IP address &lpar;2019&rpar;](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-- [Ask HN: How to Protect Ideas and Implementation?](https://news.ycombinator.com/item?id=35744069)
 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- [Pitch decks by FTX, Enron, Theranos, Celsius and other corporate failures](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
-- [Stability AI releases DeepFloyd IF, a powerful text-to-image model](https://stability.ai/blog/deepfloyd-if-text-to-image-model)
+- [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
+- [GM EV1 Drag Race vs. Miata and 300zx [video]](https://www.youtube.com/watch?v=UaL2tYC0Zuw)
+- [Daimler is setting up a $650M charging network for commercial EVs](https://arstechnica.com/cars/2023/04/daimler-is-setting-up-a-650-million-charging-network-for-commercial-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
