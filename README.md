@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
-- [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 - [Grokking](https://www.domluna.com/grokking/)
 - [The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
 - [We&amp;#x27;re afraid language models aren&amp;#x27;t modeling ambiguity](https://arxiv.org/abs/2304.14399)
+- [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
