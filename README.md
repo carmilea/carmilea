@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
-- [Microsoft is busy rewriting core Windows library code in memory-safe Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust/)
+- [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
 - [LLM with Planning](https://arxiv.org/abs/2304.11477)
 - [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
