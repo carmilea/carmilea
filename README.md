@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 - [Svix &lpar;YC W21&rpar; Is Hiring Rust Back End Engineers &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [What&amp;#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
-- [Veganism is ‘single biggest way’ to reduce our environmental impact, study finds](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html)
-- [Why I&amp;#x27;m no longer writing stories with AI](https://storiesby.ai/p/why-im-no-longer-writing-stories)
-- [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
+- [FDIC set to take First Republic Bank into receivership](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
+- [“Why I develop on Windows”](https://blog.shortround.dev/why-i-think-windows-is-the-best-dev-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
