@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You probably don&amp;#x27;t know how to do Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
+- [Svix &lpar;YC W21&rpar; Is Hiring Rust Back End Engineers &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [What&amp;#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
+- [Veganism is ‘single biggest way’ to reduce our environmental impact, study finds](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html)
 - [Why I&amp;#x27;m no longer writing stories with AI](https://storiesby.ai/p/why-im-no-longer-writing-stories)
-- [Chicken Chicken Chicken: Chicken Chicken &lpar;2002&rpar; [pdf]](https://isotropic.org/papers/chicken.pdf)
-- [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
-- [Runescape gold more valuable than Venezuelan currency &lpar;2022&rpar;](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
+- [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
