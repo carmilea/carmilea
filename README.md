@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is busy rewriting core Windows library code in memory-safe Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust/)
 - [LLM with Planning](https://arxiv.org/abs/2304.11477)
+- [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
-- [Knowledge retrieval architectures for LLMs &lpar;2023&rpar;](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
-- [Firezone &lpar;YC W22&rpar; is hiring Rust systems engineers &lpar;SF &amp;#x2F; US remote&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
-- [XTDB 2.x Early Access](https://www.xtdb.com/v2)
+- [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
