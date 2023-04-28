@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin phisical bearer instrument using NFC JavaCards](https://SATSCARD.com)
+- [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 - [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
 - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
 - [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
-- [SiPhox &lpar;YC S20&rpar; Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
-- [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
