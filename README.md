@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
+- [Parrondo&amp;#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
+- [JanOS: Turn your phone into an IoT board](http://janos.io/)
+- [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
+- [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 - [Svix &lpar;YC W21&rpar; Is Hiring Rust Back End Engineers &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [What&amp;#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
-- [FDIC set to take First Republic Bank into receivership](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
-- [“Why I develop on Windows”](https://blog.shortround.dev/why-i-think-windows-is-the-best-dev-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
