@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
-- [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
-- [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
-- [I can&amp;#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
-- [Plan 9 from User Space](https://9fans.github.io/plan9port/)
+- [There’s more than one way to write an IP address &lpar;2019&rpar;](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+- [Ask HN: How to Protect Ideas and Implementation?](https://news.ycombinator.com/item?id=35744069)
+- [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- [Pitch decks by FTX, Enron, Theranos, Celsius and other corporate failures](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
+- [Stability AI releases DeepFloyd IF, a powerful text-to-image model](https://stability.ai/blog/deepfloyd-if-text-to-image-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
