@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
+- [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
+- [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
 - [I can&amp;#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
-- [AI Is a Waste of Time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/)
-- [The Ukrainian police arrested a man for selling data of over 300M people](https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html)
-- [More Young Adults Are Living Paycheck to Paycheck in the US](https://www.bloomberg.com/news/articles/2023-04-28/us-gen-z-living-paycheck-to-paycheck-is-on-the-rise)
-- [Tech companies are colluding to cheat H1B visa lottery, US says](https://www.wsj.com/articles/u-s-says-some-companies-cheat-h-1b-lottery-driving-record-applications-1a3e4fd)
+- [Plan 9 from User Space](https://9fans.github.io/plan9port/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
