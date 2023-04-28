@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stability AI Releases StableVicuna, World’s First Open Source RLHF LLM Chatbot](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
+- [Runescape Gold More Valuable Than Venezuelan Currency](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
+- [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 - [There’s more than one way to write an IP address &lpar;2019&rpar;](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
-- [GM EV1 Drag Race vs. Miata and 300zx [video]](https://www.youtube.com/watch?v=UaL2tYC0Zuw)
-- [Daimler is setting up a $650M charging network for commercial EVs](https://arstechnica.com/cars/2023/04/daimler-is-setting-up-a-650-million-charging-network-for-commercial-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
