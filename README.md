@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
+- [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
+- [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
 - [SiPhox &lpar;YC S20&rpar; Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
 - [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
-- [I Cloned Myself with AI. She Fooled My Bank and My Family](https://www.wsj.com/articles/i-cloned-myself-with-ai-she-fooled-my-bank-and-my-family-356bd1a3)
-- [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
-- [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
