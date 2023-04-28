@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
+- [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
 - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+- [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
 - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
-- [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
-- [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
-- [Grokking](https://www.domluna.com/grokking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
