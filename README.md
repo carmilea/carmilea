@@ -55,7 +55,7 @@
 - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 - [Internet in a Box](https://internet-in-a-box.org/)
-- [Ask HN: Why were you laid off ?](https://news.ycombinator.com/item?id=35750147)
+- [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
