@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We aren&amp;#x27;t close to creating a rapidly self-improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
+- [The DOJ Detected the SolarWinds Hack 6 Months Earlier Than First Disclosed](https://www.wired.com/story/solarwinds-hack-public-disclosure/)
 - [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
 - [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
-- [On the Effectiveness of Aluminium Foil Helmets: An Empirical Study &lpar;2005&rpar;](https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/)
-- [The Infancy Gospel of Thomas](http://gnosis.org/library/inftoma.htm)
-- [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
+- [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
