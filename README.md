@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
+- [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
+- [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
+- [On the Effectiveness of Aluminium Foil Helmets: An Empirical Study &lpar;2005&rpar;](https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/)
+- [The Infancy Gospel of Thomas](http://gnosis.org/library/inftoma.htm)
 - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
-- [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
-- [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
-- [Internet in a Box](https://internet-in-a-box.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
