@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How is Starlink kept secure?](https://news.ycombinator.com/item?id=35750585)
+- [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
-- [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
-- [Sipcalc – An advanced IP calculator supporting both IPv4 and IPv6](https://github.com/sii/sipcalc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
