@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My product is my garden &lpar;2020&rpar;](https://herman.bearblog.dev/my-product-is-my-garden/)
-- [MRSK: Deploy Web Apps Anywhere](https://mrsk.dev/)
-- [Bitcoin Legal Defense Fund is fighting for the future of open source software](https://techcrunch.com/2023/04/28/jack-dorseys-bitcoin-legal-defense-fund-goes-to-court-to-protect-open-source/)
-- [Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
-- [We aren&amp;#x27;t close to creating a rapidly self-improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
+- [Lawmakers propose banning AI from singlehandedly launching nuclear weapons](https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck)
+- [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
+- [The Magic of Rails: exploring the principles and techniques behind the framework](https://speakerdeck.com/eileencodes/the-magic-of-rails)
+- [Deadly Heat Threatens the Well-Being of 1B People in India](https://www.wired.com/story/extreme-heat-india/)
+- [Children aged 2-6 successfully trained to acquire absolute pitch &lpar;2012&rpar;](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
