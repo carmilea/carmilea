@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My product is my garden &lpar;2020&rpar;](https://herman.bearblog.dev/my-product-is-my-garden/)
+- [MRSK: Deploy Web Apps Anywhere](https://mrsk.dev/)
+- [Bitcoin Legal Defense Fund is fighting for the future of open source software](https://techcrunch.com/2023/04/28/jack-dorseys-bitcoin-legal-defense-fund-goes-to-court-to-protect-open-source/)
+- [Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
 - [We aren&amp;#x27;t close to creating a rapidly self-improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
-- [The DOJ Detected the SolarWinds Hack 6 Months Earlier Than First Disclosed](https://www.wired.com/story/solarwinds-hack-public-disclosure/)
-- [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
-- [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
-- [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
