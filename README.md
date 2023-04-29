@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [50% of vinyl buyers don&amp;#x27;t own a record player](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
-- [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
+- [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
+- [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
+- [sipcalc: IPv4 and IPv6 Subnet Calculator](https://github.com/sii/sipcalc)
 - [Scrcpy: Display and control your Android devices connected over USB or TCP&amp;#x2F;IP](https://github.com/Genymobile/scrcpy)
 - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
-- [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
