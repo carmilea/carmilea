@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quebec man who created AI-generated child pornography sentenced to prison](https://www.cbc.ca/news/canada/montreal/ai-child-abuse-images-1.6823808)
+- [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
+- [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
 - [XTS-210 25hp rotary engine; 1&amp;#x2F;5th size&amp;#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
 - [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
-- [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
