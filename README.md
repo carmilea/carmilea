@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A Gentle Introduction to the Fediverse](https://jointhefediverse.net/)
-- [Lawmakers propose banning AI from singlehandedly launching nuclear weapons](https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck)
-- [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
-- [The Magic of Rails: exploring the principles and techniques behind the framework](https://speakerdeck.com/eileencodes/the-magic-of-rails)
-- [Deadly Heat Threatens the Well-Being of 1B People in India](https://www.wired.com/story/extreme-heat-india/)
+- [BlueSky ToS gives Jack a &amp;#x27;perpetual&amp;#x27; &amp;amp; &amp;#x27;irrevocable&amp;#x27; license to all your content](https://threadreaderapp.com/thread/1651686218319425570.html)
+- [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
+- [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)
+- [A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868](https://www.c82.net/work/?id=373)
+- [How Not to Write a Microbenchmark &lpar;2002&rpar;](https://www.slideshare.net/howarddgreen/2002-microbenchmarks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
