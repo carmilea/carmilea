@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
-- [The Curious Side Effects of Medical Transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
-- [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
+- [Quebec man who created AI-generated child pornography sentenced to prison](https://www.cbc.ca/news/canada/montreal/ai-child-abuse-images-1.6823808)
+- [XTS-210 25hp rotary engine; 1&amp;#x2F;5th size&amp;#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
+- [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+- [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
 - [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
-- [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
 <!-- BLOG-POST-LIST:END -->
 
 ---
