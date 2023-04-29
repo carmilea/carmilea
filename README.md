@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: ChatGPT Outperforms Physicians in Quality, Empathetic Answers to Patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
+- [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
 - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
