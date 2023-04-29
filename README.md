@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
+- [First Republic Bank to be taken over by FDIC](https://www.foxbusiness.com/financials/first-republic-bank-taken-over-fdic-report)
 - [Parrondo&amp;#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-- [JanOS: Turn your phone into an IoT board](http://janos.io/)
-- [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
-- [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
-- [Svix &lpar;YC W21&rpar; Is Hiring Rust Back End Engineers &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [JanOS: Turn your phone into an IoT board &lpar;2015&rpar;](http://janos.io/)
+- [Red Hat layoffs spark calls to unionize, CEO wades in](https://www.theregister.com/2023/04/28/red_hat_layoffs_union/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
