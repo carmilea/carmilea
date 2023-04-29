@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+- [The Curious Side Effects of Medical Transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
+- [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
+- [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
 - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
-- [The Egison Programming Language](https://www.egison.org/)
-- [BlueSky ToS gives Jack a &amp;#x27;perpetual&amp;#x27; &amp;amp; &amp;#x27;irrevocable&amp;#x27; license to all your content](https://threadreaderapp.com/thread/1651686218319425570.html)
-- [Sperm donor who fathered 550 children ordered to stop](https://www.bbc.com/news/world-europe-65429936)
-- [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
