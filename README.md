@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
+- [Scrcpy: Display and control your Android devices connected over USB or TCP&amp;#x2F;IP](https://github.com/Genymobile/scrcpy)
+- [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
 - [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
-- [First Republic Bank to be taken over by FDIC](https://www.foxbusiness.com/financials/first-republic-bank-taken-over-fdic-report)
 - [Parrondo&amp;#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-- [JanOS: Turn your phone into an IoT board &lpar;2015&rpar;](http://janos.io/)
-- [Red Hat layoffs spark calls to unionize, CEO wades in](https://www.theregister.com/2023/04/28/red_hat_layoffs_union/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
