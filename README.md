@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: All GitHub repos shared on HN](https://news.ycombinator.com/from?site=github.com)
-- [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
-- [Passkeys.directory](https://passkeys.directory/)
-- [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
+- [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
+- [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
+- [Show HN: PineTool – An iOS Companion for the Pinecil](https://lachy.io/articles/introducing-pinetool)
 - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
+- [XTS-210 25hp rotary engine; 1&amp;#x2F;5th size&amp;#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
