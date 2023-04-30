@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien Supercivilizations Absent from 100k Nearby Galaxies &lpar;2015&rpar;](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
+- [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
+- [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
 - [Patterns &lpar;YC S21&rpar; Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
-- [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
-- [MLC-LLM: GPT&amp;#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
-- [AI&amp;#x27;s true goal may no longer be intelligence](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/)
-- [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
+- [Show HN: Eva AI-Relational Database System for Faster AI-Powered Applications](https://github.com/georgia-tech-db/eva)
 <!-- BLOG-POST-LIST:END -->
 
 ---
