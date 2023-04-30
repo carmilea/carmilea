@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MLC-LLM: GPT&amp;#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 - [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
 - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
-- [British public support for monarchy at historic low, poll reveals](https://www.theguardian.com/uk-news/2023/apr/28/public-support-monarchy-historic-low-poll-reveals)
-- [Example of why you should not use FaceID to unlock your phone](https://mastodon.social/@runasand/110286780839680620)
 - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
+- [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
