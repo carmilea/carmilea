@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
+- [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
+- [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
 - [Advanced Amiga Architecture &lpar;June 18, 1992&rpar;](https://archive.org/details/advanced-amiga-architecture)
 - [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models](https://arxiv.org/abs/2304.11267)
-- [Minetest: An open source voxel game engine](https://www.minetest.net/)
-- [AI &amp;#x2F; ML &amp;#x2F; LLM &amp;#x2F; Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
-- [Notes on Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
