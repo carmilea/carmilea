@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
-- [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
-- [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
-- [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
-- [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
+- [Advanced Amiga Architecture &lpar;June 18, 1992&rpar;](https://archive.org/details/advanced-amiga-architecture)
+- [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models](https://arxiv.org/abs/2304.11267)
+- [Minetest: An open source voxel game engine](https://www.minetest.net/)
+- [AI &amp;#x2F; ML &amp;#x2F; LLM &amp;#x2F; Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
+- [Notes on Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
