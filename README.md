@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Teen Girls Experiencing Increased Sadness and Violence](https://www.cdc.gov/media/releases/2023/p0213-yrbs.html)
 - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
+- [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 - [Nix-on-droid: Nix-enabled environment for your Android device &lpar;termux-based&rpar;](https://github.com/t184256/nix-on-droid)
 - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
