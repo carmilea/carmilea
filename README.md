@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
-- [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
-- [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
-- [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
-- [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
+- [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
+- [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
+- [British public support for monarchy at historic low, poll reveals](https://www.theguardian.com/uk-news/2023/apr/28/public-support-monarchy-historic-low-poll-reveals)
+- [Example of why you should not use FaceID to unlock your phone](https://mastodon.social/@runasand/110286780839680620)
+- [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
