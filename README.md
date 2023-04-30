@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
+- [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 - [MLC-LLM: GPT&amp;#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
-- [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
+- [AI&amp;#x27;s true goal may no longer be intelligence](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/)
 - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
-- [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
-- [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
