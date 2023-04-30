@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
-- [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
-- [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
-- [Nix-on-droid: Nix-enabled environment for your Android device &lpar;termux-based&rpar;](https://github.com/t184256/nix-on-droid)
-- [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
+- [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
+- [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
+- [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
+- [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
+- [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
