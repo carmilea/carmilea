@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien Supercivilizations Absent from 100k Nearby Galaxies &lpar;2015&rpar;](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
-- [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
-- [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
-- [Patterns &lpar;YC S21&rpar; Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
-- [Show HN: Eva AI-Relational Database System for Faster AI-Powered Applications](https://github.com/georgia-tech-db/eva)
+- [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
+- [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
+- [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
+- [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
+- [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
