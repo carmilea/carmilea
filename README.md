@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 - [Nix-on-droid: Nix-enabled environment for your Android device &lpar;termux-based&rpar;](https://github.com/t184256/nix-on-droid)
 - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
 - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
-- [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
