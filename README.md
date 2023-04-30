@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
 - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
 - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
-- [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
+- [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
+- [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
