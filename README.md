@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+- [This Content Is for Human Consumption Only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
+- [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 - [Xterm: It&amp;#x27;s better than you thought &lpar;2021&rpar;](https://aduros.com/blog/xterm-its-better-than-you-thought/)
-- [Intel to drop the “I” moniker in upcoming CPU rebrand](https://boringtextreviews.com/2023/04/30/intel-to-drop-the-i-moniker-in-upcoming-cpu-rebrand/)
 - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
-- [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
-- [VSCode-WASM: Implement a first version of a WebShell](https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
