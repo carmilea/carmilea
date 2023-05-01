@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Richard Hamming: You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
 - [A Bacterial Culprit for Rheumatoid Arthritis](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 - [Agave &lpar;YC W22&rpar; Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
-- [American travelers are being charged up to 3 times more for vacations](https://www.dailymail.co.uk/news/article-12022271/How-travelers-charged-THREE-times-vacations-booked-websites.html)
-- [Storage on Vercel](https://vercel.com/blog/vercel-storage)
+- [Many Worlds: A Philosophy of Data Collaboration](https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
