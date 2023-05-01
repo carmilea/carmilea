@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Change My Mind: Density Increases Local but Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
+- [State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
+- [Palo Alto Council agrees to 20 cameras, new automated plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Universal Railway Bus](https://arduinorailwaycontrol.com)
-- [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
-- [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
+- [Show HN: guitos, a free open-source budgeting app](https://guitos.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
