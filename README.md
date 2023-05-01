@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
+- [Krita: A professional free and open source painting program](https://krita.org/en/)
+- [Heathkit](https://shop.heathkit.com/shop)
 - [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern)
-- [I got a job as a Waffle House server that pays $2.92 an hour](https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4)
-- [Ignore Microsoft’s whines about the Activision takeover. The CMA did its job](https://www.theguardian.com/technology/nils-pratley-on-finance/2023/apr/27/ignore-microsoft-whines-activision-blizzard-the-cma-did-its-job)
-- [Funds of every Trust Wallet browser extension could have been stolen](https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/)
-- [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
+- [Geoffrey Hinton leaves Google and can now speak freely about his AI concern](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
