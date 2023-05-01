@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacyguides.org – The guide to restoring your online privacy](https://www.privacyguides.org/en/)
 - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
-- [Environmentalists sue FAA over SpaceX Starship launch license for Texas](https://news.yahoo.com/environmentalists-sue-faa-over-spacex-164444196.html)
 - [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
-- [Richard Hamming: You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- [You and Your Research &lpar;1986&rpar;](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
 <!-- BLOG-POST-LIST:END -->
 
