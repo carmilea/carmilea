@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
-- [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
-- [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
-- [Advanced Amiga Architecture &lpar;June 18, 1992&rpar;](https://archive.org/details/advanced-amiga-architecture)
-- [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models](https://arxiv.org/abs/2304.11267)
+- [A broken man&amp;#x27;s homemade, seaworthy ship rests in the Canadian prairie](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
+- [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
+- [Reddit&amp;#x27;s proposed API changes and the continued existence of RedReader](https://old.reddit.com/r/RedReader/comments/132qkb8/update_2_reddits_proposed_api_changes_and_the/)
+- [No, the King doesn&amp;#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
+- [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
