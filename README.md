@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why woodpeckers can hammer without getting headaches](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/)
+- [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
+- [Michael J. Fox Foundation Announces Breakthrough for Parkinson&amp;#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 - [Teardown Frame Teardown: Rendering Analysis](https://acko.net/blog/teardown-frame-teardown/)
-- [Dex Lang: Research language for array processing in the Haskell&amp;#x2F;ML family](https://github.com/google-research/dex-lang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
