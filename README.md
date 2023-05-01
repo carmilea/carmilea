@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nostr – Decentralized Social Network](https://nostr.com)
 - [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
+- [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 - [Lithium-ion batteries a growing fire hazard in NYC garbage trucks](https://gothamist.com/news/lithium-ion-batteries-a-growing-fire-hazard-in-nyc-garbage-trucks-dsny-says)
-- [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
-- [Krita: A professional free and open source painting program](https://krita.org/en/)
-- [Heathkit](https://shop.heathkit.com/shop)
+- [Things that don’t work well with MySQL’s FOREIGN KEY implementation](http://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
