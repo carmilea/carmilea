@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
-- [A broken man&amp;#x27;s homemade, seaworthy ship rests in the Canadian prairie](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
-- [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
-- [No, the King doesn&amp;#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
-- [Xerox Star 8010 Interfaces, high quality polaroids &lpar;1981&rpar;](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
+- [Xterm: It&amp;#x27;s better than you thought &lpar;2021&rpar;](https://aduros.com/blog/xterm-its-better-than-you-thought/)
+- [Intel to drop the “I” moniker in upcoming CPU rebrand](https://boringtextreviews.com/2023/04/30/intel-to-drop-the-i-moniker-in-upcoming-cpu-rebrand/)
+- [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
+- [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
+- [VSCode-WASM: Implement a first version of a WebShell](https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
