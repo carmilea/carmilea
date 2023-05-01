@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
+- [Environmentalists sue FAA over SpaceX Starship launch license for Texas](https://news.yahoo.com/environmentalists-sue-faa-over-spacex-164444196.html)
+- [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
 - [Richard Hamming: You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
-- [A Bacterial Culprit for Rheumatoid Arthritis](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
-- [Agave &lpar;YC W22&rpar; Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
-- [Many Worlds: A Philosophy of Data Collaboration](https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
