@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nostr – Decentralized Social Network](https://nostr.com)
-- [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
-- [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
-- [Lithium-ion batteries a growing fire hazard in NYC garbage trucks](https://gothamist.com/news/lithium-ion-batteries-a-growing-fire-hazard-in-nyc-garbage-trucks-dsny-says)
-- [Things that don’t work well with MySQL’s FOREIGN KEY implementation](http://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
+- [Storage on Vercel](https://vercel.com/blog/vercel-storage)
+- [Workers of the World, Take PTO](https://daily.jstor.org/workers-of-the-world-take-pto/)
+- [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
+- [Our Planet II [video]](https://www.youtube.com/watch?v=KZKvOzlYit4)
+- [The Socialist Calculation Debate](https://www.laphamsquarterly.org/roundtable/socialist-calculation-debate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
