@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
-- [This Content Is for Human Consumption Only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
+- [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
+- [Are emergent abilities of large language models a mirage?](https://arxiv.org/abs/2304.15004)
+- [This content is for human consumption only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
 - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
-- [Xterm: It&amp;#x27;s better than you thought &lpar;2021&rpar;](https://aduros.com/blog/xterm-its-better-than-you-thought/)
-- [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
+- [A simple and eco-friendly way to make ammonia](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
