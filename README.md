@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why woodpeckers can hammer without getting headaches](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/)
 - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
+- [Teardown Frame Teardown: Rendering Analysis](https://acko.net/blog/teardown-frame-teardown/)
 - [Dex Lang: Research language for array processing in the Haskell&amp;#x2F;ML family](https://github.com/google-research/dex-lang)
-- [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
-- [Are emergent abilities of large language models a mirage?](https://arxiv.org/abs/2304.15004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
