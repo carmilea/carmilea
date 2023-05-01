@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
 - [A broken man&amp;#x27;s homemade, seaworthy ship rests in the Canadian prairie](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
 - [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
-- [Reddit&amp;#x27;s proposed API changes and the continued existence of RedReader](https://old.reddit.com/r/RedReader/comments/132qkb8/update_2_reddits_proposed_api_changes_and_the/)
 - [No, the King doesn&amp;#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
-- [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
+- [Xerox Star 8010 Interfaces, high quality polaroids &lpar;1981&rpar;](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
