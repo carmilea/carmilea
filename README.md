@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
-- [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
-- [Dark Matter Developers: The Unseen 99% &lpar;2012&rpar;](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
-- [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
-- [Guidelines for Brutalist Web Design &lpar;2018&rpar;](https://brutalist-web.design/)
+- [Why America will soon see a wave of bank mergers](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
+- [Would you live next to co-workers for the right price? This company bets yes](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
+- [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf] &lpar;2022&rpar;](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
+- [Show HN: GPT crushes my high score in 2048.io](https://github.com/inishchith/2048)
+- [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
