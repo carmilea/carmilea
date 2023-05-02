@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
-- [Ask HN: Paychecks from a failed startup?](https://news.ycombinator.com/item?id=35793187)
-- [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
-- [Make your Python functions return something meaningful, typed, and safe](https://returns.readthedocs.io/en/latest/index.html)
+- [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
 - [SingleStoreDB: The Best Database for AI and Machine Learning Models](https://www.singlestore.com/blog/singlestoredb-the-best-database-for-ai-and-machine-learning-models/)
+- [Ask HN: What do you use for ML Hosting?](https://news.ycombinator.com/item?id=35792481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
