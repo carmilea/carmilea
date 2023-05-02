@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Climbs as US Bank Failure Bolsters Crypto Narrative](https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative)
+- [Building a Compiler with MLIR &lpar;Multi-Level Intermediate Representation&rpar; [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
+- [Borges and $: The Parable of the Literary Master and the Coin &lpar;2016&rpar;](https://longreads.com/2016/06/14/borges-and-money/)
 - [Sematic &lpar;YC S22&rpar; is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
-- [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
-- [Half of America’s banks are already insolvent](https://finance.yahoo.com/news/half-america-banks-already-insolvent-133000968.html)
-- [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
-- [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
+- [How to Reduce Stress and Overcome Anxiety as a Software Developer](https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
