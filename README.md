@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
+- [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [Brain activity decoder can reveal stories in people’s minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
 - [Show HN: I&amp;#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
-- [Grasshopper – An open-source Python library for load testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
-- [Researchers have determined how an airborne molecule links to a smell receptor](https://www.quantamagazine.org/how-a-human-smell-receptor-works-is-finally-revealed-20230501/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
