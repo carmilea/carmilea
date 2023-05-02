@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adult-use cannabis delivers $15B in tax revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
-- [Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
-- [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
-- [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
-- [Is infinity an odd or even number? &lpar;2011&rpar;](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
+- [Sematic &lpar;YC S22&rpar; is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
+- [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
+- [Half of America’s banks are already insolvent](https://finance.yahoo.com/news/half-america-banks-already-insolvent-133000968.html)
+- [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
+- [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
