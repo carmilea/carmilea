@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nate Silver: Some personal news](https://natesilver.substack.com/p/some-personal-news)
+- [Argus – monitor the versions of software and trigger alerts when a new release](https://release-argus.io/)
+- [Cardinal&amp;#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
 - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
-- [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
-- [SingleStoreDB: The Best Database for AI and Machine Learning Models](https://www.singlestore.com/blog/singlestoredb-the-best-database-for-ai-and-machine-learning-models/)
-- [Ask HN: What do you use for ML Hosting?](https://news.ycombinator.com/item?id=35792481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
