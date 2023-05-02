@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Climbs as US Bank Failure Bolsters Crypto Narrative](https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative)
+- [Exercise Increases Number of Immune Cells in Cancer Patients](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer)
+- [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
 - [Building a Compiler with MLIR &lpar;Multi-Level Intermediate Representation&rpar; [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 - [Borges and $: The Parable of the Literary Master and the Coin &lpar;2016&rpar;](https://longreads.com/2016/06/14/borges-and-money/)
 - [Sematic &lpar;YC S22&rpar; is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
-- [How to Reduce Stress and Overcome Anxiety as a Software Developer](https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
