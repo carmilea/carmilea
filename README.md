@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Activation Lock: Friend or Foe](https://www.zipsec.com/blog/activation-lock-friend-or-foe)
-- [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
+- [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
+- [Ask HN: Paychecks from a failed startup?](https://news.ycombinator.com/item?id=35793187)
 - [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
-- [Ask HN: What tech is under the radar with all attention on ChatGPT etc.](https://news.ycombinator.com/item?id=35792898)
+- [Make your Python functions return something meaningful, typed, and safe](https://returns.readthedocs.io/en/latest/index.html)
 - [SingleStoreDB: The Best Database for AI and Machine Learning Models](https://www.singlestore.com/blog/singlestoredb-the-best-database-for-ai-and-machine-learning-models/)
 <!-- BLOG-POST-LIST:END -->
 
