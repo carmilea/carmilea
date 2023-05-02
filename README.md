@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vice Is Said to Be Headed for Bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
-- [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
-- [Laser scanning microscope from DVD pickup heads](https://www.gaudi.ch/GaudiLabs/?page_id=652)
-- [City Council to install 20 cameras as automated license-plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Wind farm in Germany is being dismantled to expand coal mine](https://balkangreenenergynews.com/wind-farm-in-germany-is-being-dismantled-to-expand-coal-mine/)
+- [Grasshopper – An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
+- [Researchers have determined how an airborne molecule links to a smell receptor](https://www.quantamagazine.org/how-a-human-smell-receptor-works-is-finally-revealed-20230501/)
+- [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
+- [The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
