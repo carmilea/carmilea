@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT has no inner monologue or meta-cognition](https://lukeplant.me.uk/blog/posts/chatgpt-no-inner-monologue-or-meta-cognition/)
+- [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
 - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
+- [Writing an RPC from Scratch &lpar;2021&rpar;](https://alexanderell.is/posts/rpc-from-scratch/)
 - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
-- [“A Great Ox Stands on My Tongue”: The Pitfalls of Latin Translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
-- [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
-- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
