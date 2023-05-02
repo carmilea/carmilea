@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is infinity an odd or even number? &lpar;2011&rpar;](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
-- [AMD&amp;#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
-- [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
-- [Let&amp;#x27;s Make Sure GitHub Doesn&amp;#x27;t Become the Only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
-- [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
+- [Adult-Use Cannabis Delivers $15B in Tax Revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
+- [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/)
+- [Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
+- [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
+- [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
