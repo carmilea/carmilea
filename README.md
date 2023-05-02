@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
-- [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
-- [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
-- [AI Generated Propaganda](https://twitter.com/politicalmath/status/1653227309967482880)
-- [Pornhub blocks users in Utah](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
+- [Is infinity an odd or even number? &lpar;2011&rpar;](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
+- [AMD&amp;#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
+- [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
+- [Let&amp;#x27;s Make Sure GitHub Doesn&amp;#x27;t Become the Only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
+- [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
