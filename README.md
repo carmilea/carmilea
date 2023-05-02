@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
-- [Would you live next to co-workers for the right price? This company bets yes](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
-- [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf] &lpar;2022&rpar;](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
-- [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
-- [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
+- [22% jump in airfares expected as airlines tackle climate change](https://www.forbes.com/sites/alexledsom/2023/04/30/22-jump-in-airfares-expected-as-airlines-tackle-climate-change/)
+- [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
+- [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
+- [Adult website Pornhub blocks users in Utah from accessing the site](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
+- [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
