@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
+- [“A Great Ox Stands on My Tongue”: The Pitfalls of Latin Translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
 - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- [Brain activity decoder can reveal stories in people’s minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
-- [Show HN: I&amp;#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
