@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [22% jump in airfares expected as airlines tackle climate change](https://www.forbes.com/sites/alexledsom/2023/04/30/22-jump-in-airfares-expected-as-airlines-tackle-climate-change/)
+- [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
 - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 - [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
-- [Adult website Pornhub blocks users in Utah from accessing the site](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
-- [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
+- [AI Generated Propaganda](https://twitter.com/politicalmath/status/1653227309967482880)
+- [Pornhub blocks users in Utah](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
