@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
-- [Is Go an object-oriented programming language?](https://www.sobyte.net/post/2023-03/go-object-oriented/)
 - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
 - [Dark Matter Developers: The Unseen 99% &lpar;2012&rpar;](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
+- [Guidelines for Brutalist Web Design &lpar;2018&rpar;](https://brutalist-web.design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
