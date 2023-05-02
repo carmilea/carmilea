@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exercise Increases Number of Immune Cells in Cancer Patients](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer)
-- [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
-- [Building a Compiler with MLIR &lpar;Multi-Level Intermediate Representation&rpar; [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
-- [Borges and $: The Parable of the Literary Master and the Coin &lpar;2016&rpar;](https://longreads.com/2016/06/14/borges-and-money/)
-- [Sematic &lpar;YC S22&rpar; is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
+- [macOS Activation Lock: Friend or Foe](https://www.zipsec.com/blog/activation-lock-friend-or-foe)
+- [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
+- [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
+- [Ask HN: What tech is under the radar with all attention on ChatGPT etc.](https://news.ycombinator.com/item?id=35792898)
+- [SingleStoreDB: The Best Database for AI and Machine Learning Models](https://www.singlestore.com/blog/singlestoredb-the-best-database-for-ai-and-machine-learning-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
