@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
+- [Google, Microsoft CEOs Called to AI Meeting at White House](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
+- [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
-- [Passkeys: The Beginning of the End of the Password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
-- [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
-- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
-- [The Skills Gap for Fortran Looms Large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
+- [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
