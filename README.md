@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
-- [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
-- [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
-- [Inflection AI First Release – Pi](https://heypi.com/talk)
-- [Feynman’s Maze-Running Story](https://gwern.net/maze)
+- [A professor found her name on an article she didn’t write. Then it got worse](https://retractionwatch.com/2023/04/18/a-professor-found-her-name-on-an-article-she-didnt-write-then-it-got-worse/)
+- [UK Campaigning to replace the Monarchy with an elected head of state](https://twitter.com/RepublicStaff)
+- [Ask HN: Why are there no 5G USB-C dongles for laptops?](https://news.ycombinator.com/item?id=35799605)
+- [FBI Bureau Supervisor Arrested in Connection with Jan 6th Capitol Riot](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
+- [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
