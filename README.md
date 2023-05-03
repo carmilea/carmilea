@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
 - [RIP HTTP](http://http.rip/)
 - [De-dollarization is happening at a ‘stunning’ pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
-- [Truth About the War](https://www.hs.fi/ulkomaat/art-2000009555855.html)
 - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 <!-- BLOG-POST-LIST:END -->
