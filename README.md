@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
 - [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452)
 - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
+- [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
 - [Cardinal&amp;#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
-- [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
-- [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
