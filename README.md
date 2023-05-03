@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)
+- [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
+- [Neverssl Uses SSL](https://twitter.com/NeverSSL/status/1456310362551164928)
+- [Replit&amp;#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 - [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
-- [Google, Microsoft CEOs Called to AI Meeting at White House](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
-- [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
-- [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
-- [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
