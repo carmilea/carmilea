@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nate Silver: Some personal news](https://natesilver.substack.com/p/some-personal-news)
-- [Argus – monitor the versions of software and trigger alerts when a new release](https://release-argus.io/)
+- [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452)
+- [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 - [Cardinal&amp;#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
 - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
