@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
-- [FBI Bureau Supervisor Arrested in Connection with Jan 6th Capitol Riot](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
-- [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
-- [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
-- [Inflection AI First Release – Pi](https://heypi.com/talk)
+- [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
+- [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
+- [It&amp;#x27;s A&lpar;door&rpar;able](https://ncase.me/door/)
+- [The Windscale Fire: Britain&amp;#x27;s &amp;#x27;Chernobyl&amp;#x27; &lpar;2019&rpar;](https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677)
+- [Amnesty International criticised for using AI-generated images](https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
