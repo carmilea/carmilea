@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
+- [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
+- [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
+- [Inflection AI First Release – Pi](https://heypi.com/talk)
 - [Feynman’s Maze-Running Story](https://gwern.net/maze)
-- [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
-- [RIP HTTP](http://http.rip/)
-- [De-dollarization is happening at a ‘stunning’ pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
-- [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
