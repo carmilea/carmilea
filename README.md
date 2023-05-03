@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where’s the Director’s Commentary on Streaming?](https://www.theverge.com/23709897/directors-commentary-streaming-netflix-mike-flanagan-podcasts-vergecast)
-- [SyBOS Is Hiring a German-Speaking VP of Engineering](https://www.sybos.net/)
+- [FDA Approves First Respiratory Syncytial Virus &lpar;RSV&rpar; Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
+- [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
+- [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
+- [Driving Compilers](https://fabiensanglard.net/dc/index.php)
 - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
-- [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
