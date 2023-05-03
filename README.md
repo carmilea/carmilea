@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [SparseGPT: Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
+- [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
+- [White House proposes 30 percent tax on electricity used for crypto mining](https://www.engadget.com/white-house-proposes-30-percent-tax-on-electricity-used-for-crypto-mining-090342986.html)
 - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
-- [Neverssl Uses SSL](https://twitter.com/NeverSSL/status/1456310362551164928)
-- [Replit&amp;#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
-- [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
