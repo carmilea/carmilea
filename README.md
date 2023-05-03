@@ -54,8 +54,8 @@
 - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
 - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
+- [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
 - [Is Perpetual Motion Possible at the Quantum Level?](https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/)
-- [Searches for VPN Soar in Utah Amidst Pornhub Blockage](https://www.culturalcurrents.institute/insights/utah-pornhub-blocked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
