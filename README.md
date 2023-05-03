@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
+- [Passkeys: The Beginning of the End of the Password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 - [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 - [The Skills Gap for Fortran Looms Large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
-- [James Webb Space Telescope detects water vapor around alien planet](https://www.space.com/james-webb-space-telescope-exoplanet-water-vapor-atmosphere-or-star)
-- [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
