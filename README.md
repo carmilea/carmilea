@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
-- [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
-- [It&amp;#x27;s A&lpar;door&rpar;able](https://ncase.me/door/)
-- [The Windscale Fire: Britain&amp;#x27;s &amp;#x27;Chernobyl&amp;#x27; &lpar;2019&rpar;](https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677)
-- [Amnesty International criticised for using AI-generated images](https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism)
+- [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
+- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [The Skills Gap for Fortran Looms Large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
+- [James Webb Space Telescope detects water vapor around alien planet](https://www.space.com/james-webb-space-telescope-exoplanet-water-vapor-atmosphere-or-star)
+- [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
