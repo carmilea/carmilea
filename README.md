@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where’s the Director’s Commentary on Streaming?](https://www.theverge.com/23709897/directors-commentary-streaming-netflix-mike-flanagan-podcasts-vergecast)
+- [SyBOS Is Hiring a German-Speaking VP of Engineering](https://www.sybos.net/)
 - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
-- [25% of jobs set to be disrupted in the next 5 years – A.I. could play a key role](https://www.cnbc.com/2023/05/02/nearly-25percent-of-jobs-are-set-to-be-disrupted-in-the-next-five-years-wef.html)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Three failed US banks had one thing in common: KPMG](https://www.ft.com/content/feb33914-493e-467c-b67e-28fcd1b3814d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
