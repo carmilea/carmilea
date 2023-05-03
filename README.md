@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular v16](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516)
+- [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
+- [New in Chrome 113](https://developer.chrome.com/blog/new-in-chrome-113/)
 - [FDA Approves First Respiratory Syncytial Virus &lpar;RSV&rpar; Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
 - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
-- [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
-- [Driving Compilers](https://fabiensanglard.net/dc/index.php)
-- [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
