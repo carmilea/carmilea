@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My pay went from $240k to $0](https://mstdn.social/@Devilstower/110299576469326182)
 - [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
-- [The Last Post](https://www.penmachine.com/2011/05/the-last-post)
 - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 - [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
