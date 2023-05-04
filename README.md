@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colorado kills law that made it harder for cities to offer Internet service](https://arstechnica.com/tech-policy/2023/05/colorado-kills-law-that-made-it-harder-for-cities-to-offer-internet-service/)
-- [The Internet Isn’t Meant to Be So Small](https://defector.com/the-internet-isnt-meant-to-be-so-small)
-- [FTC says Facebook broke terms of $5B data privacy settlement](https://www.scmagazine.com/news/privacy/ftc-facebook-broke-terms-5b-data-privacy-settlement)
-- [EU urged to protect grassroots AI research or risk losing out to US](https://www.theguardian.com/technology/2023/may/04/eu-urged-to-protect-grassroots-ai-research-or-risk-losing-out-to-us)
-- [AI Is Just Someone Else&amp;#x27;s Intelligence](https://www.zdziarski.com/blog/?p=12001)
+- [Leaked Google Document – We Have No Moat, and Neither Does OpenAI](https://simonwillison.net/2023/May/4/no-moat/)
+- [GitHub is down](https://www.githubstatus.com/incidents/c2jg911dtkjb)
+- [Next.js 13.4](https://nextjs.org/blog/next-13-4)
+- [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
+- [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
