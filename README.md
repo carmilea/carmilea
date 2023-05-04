@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Post](https://www.penmachine.com/2011/05/the-last-post)
+- [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 - [Google employees complain about CEO&amp;#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
 - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
-- [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
-- [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
