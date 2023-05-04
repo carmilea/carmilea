@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
 - [The Last Post](https://www.penmachine.com/2011/05/the-last-post)
 - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
-- [Google employees complain about CEO&amp;#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
-- [Hacker News Highlights](https://news.ycombinator.com/highlights)
-- [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
+- [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
+- [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
