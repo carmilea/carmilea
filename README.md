@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Land Ownership Makes No Sense](https://www.wired.com/story/land-ownership-morality-economics-georgism/)
-- [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
-- [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
-- [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
-- [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
+- [Colorado kills law that made it harder for cities to offer Internet service](https://arstechnica.com/tech-policy/2023/05/colorado-kills-law-that-made-it-harder-for-cities-to-offer-internet-service/)
+- [The Internet Isn’t Meant to Be So Small](https://defector.com/the-internet-isnt-meant-to-be-so-small)
+- [FTC says Facebook broke terms of $5B data privacy settlement](https://www.scmagazine.com/news/privacy/ftc-facebook-broke-terms-5b-data-privacy-settlement)
+- [EU urged to protect grassroots AI research or risk losing out to US](https://www.theguardian.com/technology/2023/may/04/eu-urged-to-protect-grassroots-ai-research-or-risk-losing-out-to-us)
+- [AI Is Just Someone Else&amp;#x27;s Intelligence](https://www.zdziarski.com/blog/?p=12001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
