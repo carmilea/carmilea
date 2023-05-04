@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Land Ownership Makes No Sense](https://www.wired.com/story/land-ownership-morality-economics-georgism/)
+- [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
+- [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
+- [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
 - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
-- [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
-- [Mach-9 12-passenger jet will fly from New York to Tokyo in one hour](https://robbreport.com/motors/aviation/hypersonic-aircraft-venus-global-flights-in-hour-1234837362/)
-- [EARN IT Act Remains a Threat to Liberty, Security, &amp;amp; Safety of Children](https://techfreedom.org/earn-it-act-remains-a-threat-to-liberty-security-safety-of-children/)
-- [Facebook furious at FTC after agency proposes ban on monetizing youth data](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
