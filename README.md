@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
+- [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
+- [Mach-9 12-passenger jet will fly from New York to Tokyo in one hour](https://robbreport.com/motors/aviation/hypersonic-aircraft-venus-global-flights-in-hour-1234837362/)
+- [EARN IT Act Remains a Threat to Liberty, Security, &amp;amp; Safety of Children](https://techfreedom.org/earn-it-act-remains-a-threat-to-liberty-security-safety-of-children/)
 - [Facebook furious at FTC after agency proposes ban on monetizing youth data](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
-- [New Yorkers Want to Stop Landlords from Using Facial Recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
-- [Prediction and Entropy of Printed English – Claude Shannon &lpar;1950&rpar; [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
-- [Shopify to cut 20% of its workforce, beats quarterly revenue estimates](https://www.reuters.com/business/retail-consumer/shopify-reports-first-quarter-revenue-above-estimates-2023-05-04/)
-- [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
