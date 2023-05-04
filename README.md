@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
+- [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
 - [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
-- [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
-- [BigCode Project Releases StarCoder: A 15B Code LLM](https://huggingface.co/bigcode)
+- [The Shootings at Kent State: The Search for Historical Accuracy &lpar;1998&rpar;](https://www.kent.edu/may-4-historical-accuracy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
