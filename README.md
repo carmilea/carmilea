@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
-- [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
-- [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-- [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
+- [Facebook furious at FTC after agency proposes ban on monetizing youth data](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
+- [New Yorkers Want to Stop Landlords from Using Facial Recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
+- [Prediction and Entropy of Printed English – Claude Shannon &lpar;1950&rpar; [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
+- [Shopify to cut 20% of its workforce, beats quarterly revenue estimates](https://www.reuters.com/business/retail-consumer/shopify-reports-first-quarter-revenue-above-estimates-2023-05-04/)
+- [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
