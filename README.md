@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replit &lpar;YC W18&rpar; Is Hiring Engineers and Designers](https://replit.com/careers)
-- [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
-- [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
-- [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
-- [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
+- [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
+- [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
+- [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
+- [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
+- [BigCode Project Releases StarCoder: A 15B Code LLM](https://huggingface.co/bigcode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
