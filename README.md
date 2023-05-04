@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 - [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
-- [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
