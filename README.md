@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reports Q2 2023 results](https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/)
+- [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
 - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 - [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
-- [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
-- [The Shootings at Kent State: The Search for Historical Accuracy &lpar;1998&rpar;](https://www.kent.edu/may-4-historical-accuracy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
