@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Replit &lpar;YC W18&rpar; Is Hiring Engineers and Designers](https://replit.com/careers)
-- [Suicide rates for girls are rising. Are smartphones to blame?](https://www.economist.com/graphic-detail/2023/05/03/suicide-rates-for-girls-are-rising-are-smartphones-to-blame)
-- [Show HN: Ask Harry Potter any question with GPT-4](https://www.chatwithfiction.com/)
 - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
-- [Heavy Marijuana Use Increases Schizophrenia in Men, Study Finds](https://www.bloomberg.com/news/articles/2023-05-04/heavy-marijuana-use-increases-schizophrenia-in-men-study-finds)
+- [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
+- [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
+- [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
