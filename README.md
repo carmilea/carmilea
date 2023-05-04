@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
-- [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
-- [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
-- [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
-- [Is Perpetual Motion Possible at the Quantum Level?](https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/)
+- [Google employees complain about CEO&amp;#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
+- [Hacker News Highlights](https://news.ycombinator.com/highlights)
+- [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
+- [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
+- [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
