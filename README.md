@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
+- [Arianespace CEO: Europe won&amp;#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
+- [Taking Back the Cannonball Run Record](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
+- [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
+- [Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
 - [Public Money, Public Code](https://publiccode.eu/en/)
-- [I found the best anagram in English &lpar;2017&rpar;](https://blog.plover.com/lang/anagram-scoring.html)
-- [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
-- [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
