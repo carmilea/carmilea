@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- [Peter Norvig – Paradigms of AI Programming Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/)
 - [Arianespace CEO: Europe won&amp;#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
-- [Taking Back the Cannonball Run Record](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
-- [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
-- [Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
-- [Public Money, Public Code](https://publiccode.eu/en/)
+- [Taking Back the Cannonball Run Record &lpar;2022&rpar;](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
+- [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
