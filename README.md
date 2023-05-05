@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
-- [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
-- [Show HN: Remove sponsored content in YouTube videos](https://butter.sonnet.io)
+- [Flutter Web: A Fractal of Bad Design](https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html)
 - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+- [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
