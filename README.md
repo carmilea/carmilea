@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Myth of Florence Nightingale](https://lithub.com/the-problematic-myth-of-florence-nightingale/)
-- [US crypto mining used more power last year than all the computers](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers/)
+- [Bun &lpar;YC S19&rpar; Is Hiring C&amp;#x2F;C++&amp;#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
+- [Death of the Twin Gynaecologists: A patient&amp;#x27;s notes](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
+- [Carmakers are pushing electric SUVs, but smaller is better when it comes to EVs](https://www.theguardian.com/business/2023/may/04/electric-vehicles-suvs-us-vehicle-fleet)
 - [The core problem with hamburger menus](https://bt.ht/hamburgers/)
 - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
-- [A few words on Ruby&amp;#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
