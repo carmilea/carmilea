@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
+- [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
+- [Who regulates the regulators? &lpar;Against the review-and-approval paradigm&rpar;](https://rootsofprogress.org/against-review-and-approval)
 - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
 - [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
-- [Masks Work. Distorting Science to Dispute the Evidence Doesn&amp;#x27;t](https://www.scientificamerican.com/article/masks-work-distorting-science-to-dispute-the-evidence-doesnt/)
-- [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
-- [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
