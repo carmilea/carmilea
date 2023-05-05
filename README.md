@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
 - [Public Money, Public Code](https://publiccode.eu/en/)
-- [Stealing $20M Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
+- [I found the best anagram in English &lpar;2017&rpar;](https://blog.plover.com/lang/anagram-scoring.html)
+- [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
-- [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
