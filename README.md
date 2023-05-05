@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
-- [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
-- [Who regulates the regulators? &lpar;Against the review-and-approval paradigm&rpar;](https://rootsofprogress.org/against-review-and-approval)
-- [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
-- [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
+- [Apple’s Unionized Store Wants to Start Accepting Tips from Customers](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay)
+- [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
+- [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
+- [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296)
+- [A few words on Ruby&amp;#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
