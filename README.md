@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
-- [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
-- [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
-- [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
-- [Rimac Energy: Stationary Energy Storage Technology](https://www.rimac-newsroom.com/press-releases/rimac-energy/introducing-rimac-energy-cutting-edge-stationary-energy-storage-technology-create)
+- [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
+- [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+- [Squad Solar City Car](https://www.squadmobility.com/)
+- [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
+- [Four of Uranus’ largest moons likely contain an ocean layer](https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
