@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail is showing ads in the middle of the inbox](https://9to5google.com/2023/05/05/gmail-ads-increase-2023/)
-- [Big oil helped shape Stanford’s latest climate-research focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
-- [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
-- [ReLLM: Exact Structure for Large Language Model Completions](https://matt-rickard.com/rellm)
-- [TikTok Spied on Me. Why?](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
+- [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
+- [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
+- [Masks Work. Distorting Science to Dispute the Evidence Doesn&amp;#x27;t](https://www.scientificamerican.com/article/masks-work-distorting-science-to-dispute-the-evidence-doesnt/)
+- [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
+- [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
