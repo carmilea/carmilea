@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
+- [The Myth of Florence Nightingale](https://lithub.com/the-problematic-myth-of-florence-nightingale/)
+- [US crypto mining used more power last year than all the computers](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers/)
+- [The core problem with hamburger menus](https://bt.ht/hamburgers/)
 - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
-- [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
 - [A few words on Ruby&amp;#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
-- [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
