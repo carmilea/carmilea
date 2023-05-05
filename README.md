@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [Paradigms of A.I. Programming: Case Studies in Common Lisp &lpar;1991&rpar;](https://norvig.github.io/paip-lisp/#/)
-- [The EARN IT bill is back. We&amp;#x27;ve killed it twice, let&amp;#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
-- [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
-- [The swing has a near-universal history of ritual transgression](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
+- [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
+- [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
+- [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
+- [Rimac Energy: Stationary Energy Storage Technology](https://www.rimac-newsroom.com/press-releases/rimac-energy/introducing-rimac-energy-cutting-edge-stationary-energy-storage-technology-create)
+- [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
