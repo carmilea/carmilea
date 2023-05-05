@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [Peter Norvig – Paradigms of AI Programming Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/)
-- [Arianespace CEO: Europe won&amp;#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
-- [Taking Back the Cannonball Run Record &lpar;2022&rpar;](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
+- [Paradigms of A.I. Programming: Case Studies in Common Lisp &lpar;1991&rpar;](https://norvig.github.io/paip-lisp/#/)
+- [The EARN IT bill is back. We&amp;#x27;ve killed it twice, let&amp;#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
 - [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
+- [The swing has a near-universal history of ritual transgression](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
 <!-- BLOG-POST-LIST:END -->
 
 ---
