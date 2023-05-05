@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
-- [Flutter Web: A Fractal of Bad Design](https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html)
-- [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
-- [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
-- [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
+- [Gmail is showing ads in the middle of the inbox](https://9to5google.com/2023/05/05/gmail-ads-increase-2023/)
+- [Big oil helped shape Stanford’s latest climate-research focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
+- [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
+- [ReLLM: Exact Structure for Large Language Model Completions](https://matt-rickard.com/rellm)
+- [TikTok Spied on Me. Why?](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
