@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian R1T Fender Bender Turns into $42,000 Repair Bill](https://www.thedrive.com/news/rivian-r1t-fender-bender-turns-into-42000-repair-bill)
+- [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
-- [The Case for Not Having a TV](https://lopespm.com/notes/2023/05/04/the-case-for-not-having-tv.html)
 - [Restricted Library Mode &lpar;Breaking change to Val Town&rpar;](https://blog.val.town/blog/restricted-library-mode)
-- [Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs](https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/)
 - [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
 <!-- BLOG-POST-LIST:END -->
 
