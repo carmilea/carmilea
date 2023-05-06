@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
+- [Remote work turns America into Suburban nation](https://fortune.com/2023/05/05/remote-work-suburbs-millennials-want-to-move-out-of-cities/)
+- [How the ISS will end its life in orbit](https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit)
+- [America Forgot About IBM Watson. Is ChatGPT Next?](https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/)
 - [Helsinki University makes Parkinson&amp;#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
-- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
-- [Let&amp;#x27;s &lpar;not&rpar; share our VR headsets](https://shkspr.mobi/blog/2023/05/lets-not-share-our-vr-headsets/)
-- [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/)
-- [Cognitive decoupling and banana phones &lpar;2019&rpar;](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
