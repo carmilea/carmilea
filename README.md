@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shap-e – Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=35836933)
+- [1 in 5 adults don’t want children –– and they don’t regret it later](https://www.eurekalert.org/news-releases/985251)
 - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
-- [Things I Want to Communicate to the Human Species Before I Die](https://www.raptitude.com/2023/05/10-things-i-want-to-communicate-to-the-human-species-before-i-die/)
-- [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
-- [RedPajama &lpar;Open LLaMA Replication&rpar; 3B and 7B models released](https://www.together.xyz/blog/redpajama-models-v1)
+- [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
