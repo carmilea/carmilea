@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Helsinki University makes Parkinson&amp;#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
+- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
+- [How much do you “really” earn creating content on YouTube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
 - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 - [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
-- [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
-- [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
-- [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
