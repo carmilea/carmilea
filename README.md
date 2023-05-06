@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Helsinki University makes Parkinson&amp;#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
 - [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
-- [How much do you “really” earn creating content on YouTube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
-- [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
-- [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
+- [Let&amp;#x27;s &lpar;not&rpar; share our VR headsets](https://shkspr.mobi/blog/2023/05/lets-not-share-our-vr-headsets/)
+- [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/)
+- [Cognitive decoupling and banana phones &lpar;2019&rpar;](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
