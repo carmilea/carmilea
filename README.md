@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
+- [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
+- [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
-- [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
-- [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
-- [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
