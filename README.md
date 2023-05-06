@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Click Click Click](https://clickclickclick.click/)
-- [Preventing the use of SIM farms for fraud: consultation](https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible)
-- [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
-- [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
-- [Remote work turns America into Suburban nation](https://fortune.com/2023/05/05/remote-work-suburbs-millennials-want-to-move-out-of-cities/)
+- [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
+- [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
+- [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
+- [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
+- [Click &lpar;2016&rpar;](https://clickclickclick.click/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
