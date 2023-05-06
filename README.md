@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
+- [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
+- [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
 - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
-- [Wikipedia users edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
-- [Unix Koans](https://prirai.github.io/books/unix-koans.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
