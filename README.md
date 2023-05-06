@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The aesthetic usability effect &amp;#x2F; paradox](https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect)
 - [Nvidia&amp;#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
 - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
 - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
-- [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
