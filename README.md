@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dump these insecure phone adapters because we&amp;#x27;re not fixing them, says Cisco](https://www.theregister.com/2023/05/05/cisco_phone_adapter_vulnerabilitty/)
-- [Bun &lpar;YC S19&rpar; Is Hiring C&amp;#x2F;C++&amp;#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
-- [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
-- [At Musk’s brain-chip startup, animal-testing panel is rife with conflicts](https://www.reuters.com/technology/musks-brain-chip-startup-animal-testing-panel-is-rife-with-potential-conflicts-2023-05-04/)
-- [Death of the Twin Gynaecologists: A patient&amp;#x27;s notes &lpar;1975&rpar;](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=35836933)
+- [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
+- [Things I Want to Communicate to the Human Species Before I Die](https://www.raptitude.com/2023/05/10-things-i-want-to-communicate-to-the-human-species-before-i-die/)
+- [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
+- [RedPajama &lpar;Open LLaMA Replication&rpar; 3B and 7B models released](https://www.together.xyz/blog/redpajama-models-v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
