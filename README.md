@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry &lpar;YC S17&rpar; Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
-- [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
 - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
 - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
 - [Click &lpar;2016&rpar;](https://clickclickclick.click/)
