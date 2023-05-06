@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
+- [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
 - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 - [Wikipedia users edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
 - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
-- [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
-- [Fulfilling a reader&amp;#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
