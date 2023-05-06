@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shap-e – Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
+- [Coinbase &lpar;?&rpar; had a $65M Datadog bill per Datadog&amp;#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
+- [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=35836933)
 - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
 - [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
-- [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
