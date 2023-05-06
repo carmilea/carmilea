@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
+- [Wikipedia users edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
+- [Unix Koans](https://prirai.github.io/books/unix-koans.html)
 - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 - [Fulfilling a reader&amp;#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
-- [A cryptocurrency company had a $65M bill, per Datadog’s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
-- [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=35836933)
 <!-- BLOG-POST-LIST:END -->
 
 ---
