@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Politics and the English Language by George Orwell](https://gutenberg.net.au/ebooks02/0200151h.html)
+- [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+- [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
+- [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
-- [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
-- [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
-- [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
-- [Click &lpar;2016&rpar;](https://clickclickclick.click/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
