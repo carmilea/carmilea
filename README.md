@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The aesthetic usability effect &amp;#x2F; paradox](https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect)
+- [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
+- [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
+- [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
+- [EU ready to back immediate open access without author fees](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2023-5-eu-ready-to-back-immediate-open-access-without-author-fees/)
 - [Nvidia&amp;#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
-- [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
-- [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
-- [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
