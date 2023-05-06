@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
+- [California Insists on Wasting Its Scarce Water Supply](https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028)
+- [MSFT exec admits console wars are over: ‘We lost the worst generation to lose&amp;#x27;](https://fortune.com/2023/05/05/microsoft-exec-phil-spencer-admits-the-console-war-lost-sony-playstation-nintendo-switch/)
+- [Ask HN: What is the best password manager available today?](https://news.ycombinator.com/item?id=35845612)
+- [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
 - [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
-- [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
-- [EU ready to back immediate open access without author fees](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2023-5-eu-ready-to-back-immediate-open-access-without-author-fees/)
-- [Nvidia&amp;#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
