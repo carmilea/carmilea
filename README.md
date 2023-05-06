@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia&amp;#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
+- [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
 - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 - [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
-- [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
-- [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
