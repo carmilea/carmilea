@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Politics and the English Language by George Orwell](https://gutenberg.net.au/ebooks02/0200151h.html)
 - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+- [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
+- [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
 - [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
 - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
