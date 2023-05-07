@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
 - [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 - [Show HN: Git Hooting](https://git.ht)
 - [qsort.h – Quicksort as a C macro &lpar;2019&rpar;](https://github.com/svpv/qsort)
 - [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
-- [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
 <!-- BLOG-POST-LIST:END -->
 
 ---
