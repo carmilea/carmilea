@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable](https://www.nature.com/articles/d41586-023-01487-y)
+- [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 - [The businessman and the fisherman](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
 - [Nintendo reportedly issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
-- [Show HN: Git Hooting](https://git.ht)
-- [qsort.h – Quicksort as a C macro &lpar;2019&rpar;](https://github.com/svpv/qsort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
