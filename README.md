@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Go compiler, written in Rust &lpar;2016&rpar;](https://github.com/yberreby/rgo)
+- [I&amp;#x27;m never investing in Google&amp;#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
+- [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
+- [‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
 - [OURphone Is a Fully Open-Source Smartphone Based on Linux](https://www.hackster.io/news/ourphone-is-a-fully-open-source-smartphone-based-on-linux-60aca685e87d)
-- [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
-- [Scientists find link between photosynthesis and &amp;#x27;fifth state of matter&amp;#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
-- [Measuring the HP 11720A Pulse Modulator and Coax Cables](https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html)
-- [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
