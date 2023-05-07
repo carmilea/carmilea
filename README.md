@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
 - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
 - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
+- [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
 - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 <!-- BLOG-POST-LIST:END -->
 
