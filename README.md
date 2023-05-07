@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
+- [Show HN: Git Hooting](https://git.ht)
+- [qsort.h – Quicksort as a C macro &lpar;2019&rpar;](https://github.com/svpv/qsort)
 - [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
 - [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
-- [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
-- [How are you using ChatGPT internally at your company?](https://news.ycombinator.com/item?id=35846386)
-- [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
