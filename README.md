@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
-- [OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
-- [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
-- [Waking Up to Hacker News](https://johnathannader.com/waking-hacker-news/)
+- [Waking up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
+- [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
