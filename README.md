@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
-- [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
+- [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
+- [ChatGPT is Really Good at Roleplaying](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
+- [AMD OpenSIL Planned to Replace Agesa Firmware in Client and Server in 2026](https://www.anandtech.com/show/18853/amd-opensil-planned-to-replace-agesa-firmware-in-client-and-server-in-2026)
+- [Low-contrast font color and unreadable texts? To hell with them!](https://contrastrebellion.com/)
 - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
-- [Google Analytics alternative that protects your data and your customers&amp;#x27; privacy](https://matomo.org/)
-- [The tale of &amp;quot;-mrtd&amp;quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
