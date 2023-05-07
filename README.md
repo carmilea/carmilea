@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
+- [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
+- [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 - [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
-- [Cory Doctorow Explains Why Big Tech Is Making the Internet Terrible](https://jacobin.com/2023/05/cory-doctorow-big-tech-internet-monopoly-capitalism-artificial-intelligence-crypto/)
 - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
-- [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
-- [The Messy Page Or: why I don&amp;#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
