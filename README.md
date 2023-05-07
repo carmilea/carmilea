@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
+- [Google Analytics alternative that protects your data and your customers&amp;#x27; privacy](https://matomo.org/)
+- [The tale of &amp;quot;-mrtd&amp;quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
+- [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
 - [A Go compiler, written in Rust &lpar;2016&rpar;](https://github.com/yberreby/rgo)
-- [I&amp;#x27;m never investing in Google&amp;#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
-- [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
-- [‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
-- [OURphone Is a Fully Open-Source Smartphone Based on Linux](https://www.hackster.io/news/ourphone-is-a-fully-open-source-smartphone-based-on-linux-60aca685e87d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
