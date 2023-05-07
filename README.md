@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
 - [Scientists find link between photosynthesis and &amp;#x27;fifth state of matter&amp;#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
 - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
-- [‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable](https://www.nature.com/articles/d41586-023-01487-y)
-- [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
-- [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
+- [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
+- [Belgium Legalises Ethical Hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
