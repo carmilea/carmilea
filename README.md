@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Insists on Wasting Its Scarce Water Supply](https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028)
-- [MSFT exec admits console wars are over: ‘We lost the worst generation to lose&amp;#x27;](https://fortune.com/2023/05/05/microsoft-exec-phil-spencer-admits-the-console-war-lost-sony-playstation-nintendo-switch/)
-- [Ask HN: What is the best password manager available today?](https://news.ycombinator.com/item?id=35845612)
-- [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
-- [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
+- [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
+- [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
+- [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
+- [How are you using ChatGPT internally at your company?](https://news.ycombinator.com/item?id=35846386)
+- [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
