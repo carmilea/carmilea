@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
+- [Cory Doctorow Explains Why Big Tech Is Making the Internet Terrible](https://jacobin.com/2023/05/cory-doctorow-big-tech-internet-monopoly-capitalism-artificial-intelligence-crypto/)
 - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
+- [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 - [The Messy Page Or: why I don&amp;#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
-- [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
-- [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
-- [When Connie Converse, the ‘female Bob Dylan,’ lived in NYC](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
