@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
+- [OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
 - [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
+- [Waking Up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
-- [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
-- [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
-- [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
