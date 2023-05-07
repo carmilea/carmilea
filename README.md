@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
+- [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
+- [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
-- [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
-- [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
-- [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
-- [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
+- [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
