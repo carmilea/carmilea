@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
 - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 - [Google Analytics alternative that protects your data and your customers&amp;#x27; privacy](https://matomo.org/)
 - [The tale of &amp;quot;-mrtd&amp;quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
-- [A Go compiler, written in Rust &lpar;2016&rpar;](https://github.com/yberreby/rgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
