@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Messy Page Or: why I don&amp;#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
+- [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
-- [ChatGPT is Really Good at Roleplaying](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
-- [AMD OpenSIL Planned to Replace Agesa Firmware in Client and Server in 2026](https://www.anandtech.com/show/18853/amd-opensil-planned-to-replace-agesa-firmware-in-client-and-server-in-2026)
-- [Low-contrast font color and unreadable texts? To hell with them!](https://contrastrebellion.com/)
-- [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
+- [Before Dylan, There Was Connie Converse. Then She Vanished](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
+- [Contrast Rebellion – To hell with unreadable, low-contrast texts](https://contrastrebellion.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
