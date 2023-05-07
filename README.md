@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 - [The Messy Page Or: why I don&amp;#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
-- [Before Dylan, There Was Connie Converse. Then She Vanished](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
-- [Contrast Rebellion – To hell with unreadable, low-contrast texts](https://contrastrebellion.com/)
+- [When Connie Converse, the ‘female Bob Dylan,’ lived in NYC](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
