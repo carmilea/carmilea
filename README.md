@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Liz Holmes Wants You to Forget About Elizabeth](https://www.nytimes.com/2023/05/07/business/elizabeth-holmes-theranos-interview.html)
+- [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 - [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
 - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 - [Google Analytics alternative that protects your data and your customers&amp;#x27; privacy](https://matomo.org/)
