@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
-- [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
-- [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
-- [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
-- [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
+- [Intel Skulltrail](https://en.wikipedia.org/wiki/Intel_Skulltrail)
+- [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
+- [A Group Is Its Own Worst Enemy [pdf] &lpar;2005&rpar;](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+- [The Beginner&amp;#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+- [Neil Postman: A civilized man in a century of barbarism &lpar;2003&rpar;](https://www.salon.com/2003/10/10/postman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
