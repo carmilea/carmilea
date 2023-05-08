@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence that the Neanderthals were the first seafarers](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
+- [Fundraising Stages Defined &lpar;Angel&amp;#x2F;Pre-Seed&amp;#x2F;Seed&amp;#x2F;Series A&rpar; – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
+- [&amp;quot;Coinbase &lpar;?&rpar; had a $65M Datadog bill per its Q1 earnings call&amp;quot;](https://twitter.com/TurnerNovak/status/1654577231937544192)
 - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
-- [Next Computers](https://www.nextcomputers.org/)
-- [Tesorio &lpar;YC S15&rpar; Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
-- [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
