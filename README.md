@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blackmail as a victimless crime &lpar;The paradox of blackmail&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=83348)
+- [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
+- [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
+- [A Readable Techcrunch Feed](https://readable_techcrunch.mvlab.workers.dev)
+- [There are no generic types or functions in Go](https://bitfieldconsulting.com/golang/type-parameters)
 - [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
-- [Street Fighter II, paper trails &lpar;2021&rpar;](https://fabiensanglard.net/sf2_sheets/index.html)
-- [DJI drone flight log viewer](https://www.flightreader.com/)
-- [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
