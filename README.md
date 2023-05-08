@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please don’t upload my code on GitHub](https://nogithub.codeberg.page/)
-- [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
-- [You don&amp;#x27;t need Scrum, you just need to do Kanban right &lpar;2022&rpar;](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-- [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
-- [Early Artificial Intelligence Projects: A Student Perspective &lpar;2006&rpar;](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
+- [Blackmail as a victimless crime &lpar;The paradox of blackmail&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=83348)
+- [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
+- [Street Fighter II, paper trails &lpar;2021&rpar;](https://fabiensanglard.net/sf2_sheets/index.html)
+- [DJI drone flight log viewer](https://www.flightreader.com/)
+- [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
