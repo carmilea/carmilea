@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curl and Cloudflare = Information leak – But why?](https://www.sami-lehtinen.net/blog/curl-cloudflare-information-leak-but-why)
+- [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
 - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
-- [Gmail account is set to be invaded by even more annoying ads](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
-- [The Vietnamese military has an actual troll army and Facebook is its weapon](https://restofworld.org/2023/force-47-vietnam-military-group-facebook/)
-- [Are We Close to AGI?](https://polymathicbeing.substack.com/p/the-layers-of-ai)
+- [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
