@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
 - [You don&amp;#x27;t need Scrum, you just need to do Kanban right &lpar;2022&rpar;](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-- [Vint Cerf on 3 Mistakes He Made in TCP&amp;#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
+- [Vint Cerf on mistakes he made in TCP&amp;#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
 - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
-- [Early Artificial Intelligence Projects: A Student Perspective &lpar;2006&rpar;](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
