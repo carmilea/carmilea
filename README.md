@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone Was Wrong About Reverse Osmosis–Until Now](https://www.wired.com/story/everyone-was-wrong-about-reverse-osmosis-until-now/)
-- [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
-- [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
-- [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
-- [Canada extends copyright protection another 20 years to meet trade obligation](https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/)
+- [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
+- [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
+- [Gmail account is set to be invaded by even more annoying ads](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
+- [The Vietnamese military has an actual troll army and Facebook is its weapon](https://restofworld.org/2023/force-47-vietnam-military-group-facebook/)
+- [Are We Close to AGI?](https://polymathicbeing.substack.com/p/the-layers-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
