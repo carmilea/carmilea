@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
+- [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
+- [Next Computers](https://www.nextcomputers.org/)
 - [Tesorio &lpar;YC S15&rpar; Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
-- [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
-- [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
-- [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
