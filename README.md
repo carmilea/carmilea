@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
+- [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
+- [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+- [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
 - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
-- [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
-- [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
-- [FBI agents accuse CIA of 9&amp;#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
-- [‘Godfather of AI’ says its threat is ‘more urgent’ than climate change](https://nypost.com/2023/05/08/godfather-of-ai-says-its-threat-is-more-urgent-than-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
