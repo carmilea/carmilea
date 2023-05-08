@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is the state of “smart home” devices still so dire?](https://news.ycombinator.com/item?id=35857631)
-- [You don&amp;#x27;t need Scrum. You just need to do Kanban right &lpar;2022&rpar;](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-- [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+- [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
+- [You don&amp;#x27;t need Scrum, you just need to do Kanban right &lpar;2022&rpar;](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
+- [Vint Cerf on 3 Mistakes He Made in TCP&amp;#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
 - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
-- [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
+- [Early Artificial Intelligence Projects: A Student Perspective &lpar;2006&rpar;](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
