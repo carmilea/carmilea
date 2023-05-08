@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
+- [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
+- [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
+- [Canada extends copyright protection another 20 years to meet trade obligation](https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/)
 - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
-- [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
-- [A Readable Techcrunch Feed](https://readable_techcrunch.mvlab.workers.dev)
-- [There are no generic types or functions in Go](https://bitfieldconsulting.com/golang/type-parameters)
-- [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
