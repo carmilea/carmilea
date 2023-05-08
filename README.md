@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence that the Neanderthals were the first seafarers](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
-- [Fundraising Stages Defined &lpar;Angel&amp;#x2F;Pre-Seed&amp;#x2F;Seed&amp;#x2F;Series A&rpar; – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
-- [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
-- [&amp;quot;Coinbase &lpar;?&rpar; had a $65M Datadog bill per its Q1 earnings call&amp;quot;](https://twitter.com/TurnerNovak/status/1654577231937544192)
-- [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
+- [Dutch Town Becomes First to Install Bat-Friendly Red LED Street Lights &lpar;2018&rpar;](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
+- [Vietnam records highest ever temperature of 44.1C](https://www.theguardian.com/world/2023/may/07/vietnam-records-highest-ever-temperature-of-441c)
+- [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
+- [Evidence that the Neanderthals were the first seafarers?](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
+- [Fundraising Stages](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
