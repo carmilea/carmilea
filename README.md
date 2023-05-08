@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Curl and Cloudflare = Information leak – But why?](https://www.sami-lehtinen.net/blog/curl-cloudflare-information-leak-but-why)
-- [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
-- [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
-- [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
-- [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
+- [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+- [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
+- [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
+- [FBI agents accuse CIA of 9&amp;#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
+- [‘Godfather of AI’ says its threat is ‘more urgent’ than climate change](https://nypost.com/2023/05/08/godfather-of-ai-says-its-threat-is-more-urgent-than-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
