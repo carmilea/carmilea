@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claims that Bitcoin mining has &amp;#x27;zero carbon emissions&amp;#x27; are false](https://factcheck.afp.com/doc.afp.com.33DM6ZP)
+- [Ask HN: Why is the state of “smart home” devices still so dire?](https://news.ycombinator.com/item?id=35857631)
 - [You don&amp;#x27;t need Scrum. You just need to do Kanban right &lpar;2022&rpar;](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 - [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+- [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
 - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
-- [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
