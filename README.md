@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claims that Bitcoin mining has &amp;#x27;zero carbon emissions&amp;#x27; are false](https://factcheck.afp.com/doc.afp.com.33DM6ZP)
+- [You don&amp;#x27;t need Scrum. You just need to do Kanban right &lpar;2022&rpar;](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 - [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
-- [Intel Skulltrail](https://en.wikipedia.org/wiki/Intel_Skulltrail)
 - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
 - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
-- [A Group Is Its Own Worst Enemy [pdf] &lpar;2005&rpar;](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
