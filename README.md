@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
+- [Cantonese Font with Pronunciation](https://visual-fonts.com/)
+- [Vitamin K2 supplements fail to slow calcium buildup in heart](https://www.heart.org/en/news/2022/04/25/despite-hopes-vitamin-k2-supplements-fail-to-slow-calcium-buildup-in-heart-valve)
+- [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 - [Dutch town installs bat-friendly red LED street lights &lpar;2018&rpar;](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
-- [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
 - [Evidence that the Neanderthals were the first seafarers?](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
-- [Giving GPT “Infinite” Knowledge](https://sudoapps.substack.com/p/giving-gpt-infinite-knowledge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
