@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
+- [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
+- [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
-- [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
-- [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
-- [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
