@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Use GPT AI to Passively Read People&amp;#x27;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
-- [Students can’t get off their phones. Schools have had enough](https://www.washingtonpost.com/education/2023/05/09/school-cellphone-ban-yondr/)
-- [Total Crap, the First Magazine Written by AI](https://www.mcsweeneys.net/articles/introducing-total-crap-the-first-magazine-written-entirely-by-ai)
-- [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
-- [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
+- [US on track to set record in 2023 for mass killings after series of shootings](https://www.theguardian.com/us-news/2023/may/09/us-on-track-set-record-mass-killings-2023)
+- [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)
+- [Federal Zoning Bill Would Preempt Local Parking Mandates](https://reason.com/2023/05/08/federal-zoning-bill-would-preempt-local-parking-mandates/)
+- [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
+- [James Webb Space Telescope Reveals Fomalhaut&amp;#x27;s Disk in Unprecedented Detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
