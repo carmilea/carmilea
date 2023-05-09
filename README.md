@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
-- [Defending against Bluetooth tracker abuse: it’s complicated](https://educatedguesswork.org/posts/unwanted-tracking/)
-- [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
-- [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
-- [Companies hide negative news through unrelated press releases with SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
+- [In Erlang&amp;#x2F;OTP 27, +0.0 will no longer be equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
+- [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
+- [Syncthing: A continuous file synchronization program](https://syncthing.net/)
+- [Chaos Communication Camp 2023 – Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
+- [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
