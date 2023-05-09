@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s religious AI chatbots speak in the voice of god – and condone violence](https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/)
-- [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
+- [Wendy’s, Google Train Next-Generation Order Taker: An AI Chatbot](https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865)
+- [Ask HN: DIY ice bath equation for water cooling](https://news.ycombinator.com/item?id=35872966)
+- [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
 - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
-- [Gender inequality is associated with differences in the brains of women and men](https://www.pnas.org/doi/full/10.1073/pnas.2218782120)
-- [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
+- [Where Did Personal Computing Go Wrong &lpar;2020&rpar;](http://mmcthrow-musings.blogspot.com/2020/10/where-did-personal-computing-go-wrong.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
