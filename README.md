@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s religious AI chatbots speak in the voice of god – and condone violence](https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/)
+- [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
+- [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
+- [Gender inequality is associated with differences in the brains of women and men](https://www.pnas.org/doi/full/10.1073/pnas.2218782120)
 - [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
-- [UN Human Rights Chief Urges UK to Reverse ‘Deeply Troubling’ Public Order Bill](https://www.ohchr.org/en/press-releases/2023/04/un-human-rights-chief-urges-uk-reverse-deeply-troubling-public-order-bill)
-- [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
-- [‘Mind-boggling’ methane emissions from Turkmenistan revealed](https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed)
-- [Kchat: Persistent group chat in &amp;lt;50 lines using kdb+&amp;#x2F;k&amp;#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
