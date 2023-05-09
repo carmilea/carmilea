@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
+- [UN Human Rights Chief Urges UK to Reverse ‘Deeply Troubling’ Public Order Bill](https://www.ohchr.org/en/press-releases/2023/04/un-human-rights-chief-urges-uk-reverse-deeply-troubling-public-order-bill)
 - [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
 - [‘Mind-boggling’ methane emissions from Turkmenistan revealed](https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed)
 - [Kchat: Persistent group chat in &amp;lt;50 lines using kdb+&amp;#x2F;k&amp;#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
-- [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
 <!-- BLOG-POST-LIST:END -->
 
 ---
