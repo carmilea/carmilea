@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
+- [Humans have known the earth is round for thousands of years](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
 - [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
 - [“Tinder for Canceling Meetings”](https://meetcala.com/)
-- [WordPress plugin hole puts &amp;#x27;2M websites&amp;#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
 - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
-- [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
