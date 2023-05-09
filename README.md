@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
+- [Cheat Sheets for Developers](https://quickref.me/index.html)
 - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 - [WordPress plugin hole puts &amp;#x27;2M websites&amp;#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
 - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
-- [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
-- [LLMs are not greater than the sum of their parts: researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
