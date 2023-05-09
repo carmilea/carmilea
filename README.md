@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
+- [Defending against Bluetooth tracker abuse: it’s complicated](https://educatedguesswork.org/posts/unwanted-tracking/)
 - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
 - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
-- [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
-- [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
-- [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
+- [Companies hide negative news through unrelated press releases with SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
