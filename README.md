@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
+- [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
+- [‘Mind-boggling’ methane emissions from Turkmenistan revealed](https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed)
 - [Kchat: Persistent group chat in &amp;lt;50 lines using kdb+&amp;#x2F;k&amp;#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
-- [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
-- [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
-- [Acceptance Address by Mr. Aleksandr Solzhenitsyn &lpar;1983&rpar;](https://www.templetonprize.org/laureate-sub/solzhenitsyn-acceptance-speech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
