@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wendy’s, Google Train Next-Generation Order Taker: An AI Chatbot](https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865)
-- [Ask HN: DIY ice bath equation for water cooling](https://news.ycombinator.com/item?id=35872966)
-- [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
-- [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
-- [Where Did Personal Computing Go Wrong &lpar;2020&rpar;](http://mmcthrow-musings.blogspot.com/2020/10/where-did-personal-computing-go-wrong.html)
+- [Scientists Use GPT AI to Passively Read People&amp;#x27;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
+- [Students can’t get off their phones. Schools have had enough](https://www.washingtonpost.com/education/2023/05/09/school-cellphone-ban-yondr/)
+- [Total Crap, the First Magazine Written by AI](https://www.mcsweeneys.net/articles/introducing-total-crap-the-first-magazine-written-entirely-by-ai)
+- [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
+- [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
