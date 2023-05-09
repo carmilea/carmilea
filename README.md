@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AT protocol is the most obtuse crock of s*](https://urbanists.social/@sam/110339902538138997)
 - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
 - [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
+- [Twenty Years of Blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
 - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
-- [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
-- [Spotify-Qt](https://github.com/kraxarn/spotify-qt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
