@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
 - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
-- [Humans have known the earth is round for thousands of years](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
-- [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
+- [Humans have known the earth is round for thousands of years &lpar;2018&rpar;](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
 - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
 <!-- BLOG-POST-LIST:END -->
