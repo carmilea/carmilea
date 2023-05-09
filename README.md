@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kchat: Persistent group chat in &amp;lt;50 lines using kdb+&amp;#x2F;k&amp;#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
+- [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
 - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
-- [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
-- [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
+- [Acceptance Address by Mr. Aleksandr Solzhenitsyn &lpar;1983&rpar;](https://www.templetonprize.org/laureate-sub/solzhenitsyn-acceptance-speech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
