@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
-- [Red Hat considers Xorg “deprecated” and will remove it in a future RHEL release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality)
-- [Cantonese Font with Pronunciation](https://visual-fonts.com/)
-- [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
-- [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
+- [“Tinder for Canceling Meetings”](https://meetcala.com/)
+- [WordPress plugin hole puts &amp;#x27;2M websites&amp;#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
+- [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
+- [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
+- [LLMs are not greater than the sum of their parts: researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
