@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
-- [The World’s Oldest Ultramarathon Runner Is Racing Against Death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
-- [Getting ready to ship 13th Gen and announcing power saving Expansion Cards](https://frame.work/ca/en/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards)
-- [Linux kernel use-after-free in Netfilter, local privilege escalation](https://seclists.org/oss-sec/2023/q2/133)
-- [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
+- [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
+- [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
+- [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
+- [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
+- [Spotify-Qt](https://github.com/kraxarn/spotify-qt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
