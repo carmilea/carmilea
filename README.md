@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IPyflow: Reactive Python Notebooks in Jupyter&lpar;Lab&rpar;](https://github.com/ipyflow/ipyflow)
 - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 - [Punctuation Personified &lpar;1824&rpar;](https://publicdomainreview.org/collection/punctuation-personified)
 - [Julia 1.9](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
-- [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
