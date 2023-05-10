@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
-- [What if we covered every warehouse in the mountain West with solar panels?](https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels)
+- [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)
+- [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
 - [Google I&amp;#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
-- [Apple busts iOS 17 leaker with spycraft ‘canary trap’](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
