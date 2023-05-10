@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
+- [Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
+- [Librem 5 USA Smartphone Provides Many Exclusive Security Features](https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/)
 - [Why I&amp;#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
 - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
-- [Psychoactive substance use by professional programmers](https://arxiv.org/abs/2305.01056)
-- [TS to JSDoc Conversion](https://github.com/sveltejs/svelte/pull/8569)
 <!-- BLOG-POST-LIST:END -->
 
 ---
