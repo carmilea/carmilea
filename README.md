@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A TLS 1.3 Stack Written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
 - [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
 - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
 - [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
 - [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
-- [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
