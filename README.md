@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Since Go 1.22, loop {for I, p:= 0, new&lpar;int&rpar;; p = &amp;amp;I; {p = &amp;amp;I}} might never exit](https://old.reddit.com/r/golang/comments/13dkikn/since_go_122_the_loop_for_i_p_0_newint_p_i_p_i/)
+- [GitHub&amp;#x27;s New Code Search Is Bad for Finding Code](https://stackdiary.com/githubs-new-code-search-is-bad/)
+- [Launch HN: Clearspace &lpar;YC W23&rpar; – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
-- [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
-- [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
-- [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
-- [Microsoft Bets That Fusion Power Is Closer Than Many Think](https://www.wsj.com/articles/microsoft-bets-that-fusion-power-is-closer-than-many-think-cb1b09dc)
+- [Abusing Vector Search for Texts, Maps, and Chess](https://ashvardanian.com/posts/abusing-vector-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
