@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A TLS 1.3 Stack Written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
+- [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
+- [An experimental editor for WebGPU compute shaders](https://compute.toys/)
+- [A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
 - [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
 - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
-- [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
-- [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
