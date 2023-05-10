@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
+- [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
+- [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/)
 - [Aviator &lpar;YC S21&rpar; is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
-- [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
-- [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
-- [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
