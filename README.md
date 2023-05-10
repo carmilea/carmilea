@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
+- [Punctuation Personified &lpar;1824&rpar;](https://publicdomainreview.org/collection/punctuation-personified)
+- [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
+- [HN Badges](https://hnbadges.netlify.app/?user=pg)
 - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
-- [An experimental editor for WebGPU compute shaders](https://compute.toys/)
-- [A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
-- [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
-- [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
