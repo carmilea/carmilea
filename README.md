@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
-- [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
-- [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
-- [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
-- [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
+- [Ask HN: What is new in Algorithms &amp;#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
+- [GitHub is going down almost every day around the same time](https://www.githubstatus.com/incidents/pr3498h3qkfy)
+- [The four times the United States government defaulted on its debt &lpar;2021&rpar;](https://thehill.com/opinion/finance/575722-the-us-has-never-defaulted-on-its-debt-except-the-four-times-it-did/)
+- [Google I&amp;#x2F;O 2023](https://io.google/2023/)
+- [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
