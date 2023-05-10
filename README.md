@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
+- [What if we covered every warehouse in the mountain West with solar panels?](https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels)
+- [Google I&amp;#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
-- [Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
-- [Librem 5 USA Smartphone Provides Many Exclusive Security Features](https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/)
-- [Why I&amp;#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
-- [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+- [Apple busts iOS 17 leaker with spycraft ‘canary trap’](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
