@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Since Go 1.22, loop {for I, p:= 0, new&lpar;int&rpar;; p = &amp;amp;I; {p = &amp;amp;I}} might never exit](https://old.reddit.com/r/golang/comments/13dkikn/since_go_122_the_loop_for_i_p_0_newint_p_i_p_i/)
-- [GitHub&amp;#x27;s New Code Search Is Bad for Finding Code](https://stackdiary.com/githubs-new-code-search-is-bad/)
-- [Launch HN: Clearspace &lpar;YC W23&rpar; – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
-- [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
-- [Abusing Vector Search for Texts, Maps, and Chess](https://ashvardanian.com/posts/abusing-vector-search/)
+- [Aviator &lpar;YC S21&rpar; is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
+- [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
+- [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
+- [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
+- [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
