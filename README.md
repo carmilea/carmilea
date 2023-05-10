@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
-- [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
-- [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/)
-- [Aviator &lpar;YC S21&rpar; is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
-- [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
+- [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
+- [Why I&amp;#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
+- [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+- [Psychoactive substance use by professional programmers](https://arxiv.org/abs/2305.01056)
+- [TS to JSDoc Conversion](https://github.com/sveltejs/svelte/pull/8569)
 <!-- BLOG-POST-LIST:END -->
 
 ---
