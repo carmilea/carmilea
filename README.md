@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IPyflow: Reactive Python Notebooks in Jupyter&lpar;Lab&rpar;](https://github.com/ipyflow/ipyflow)
-- [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
-- [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
-- [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
-- [Punctuation Personified &lpar;1824&rpar;](https://publicdomainreview.org/collection/punctuation-personified)
+- [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
+- [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
+- [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
+- [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
+- [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
