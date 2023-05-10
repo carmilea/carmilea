@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [IPyflow: Reactive Python Notebooks in Jupyter&lpar;Lab&rpar;](https://github.com/ipyflow/ipyflow)
+- [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
 - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 - [Punctuation Personified &lpar;1824&rpar;](https://publicdomainreview.org/collection/punctuation-personified)
-- [Julia 1.9](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
