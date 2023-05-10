@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AT protocol is the most obtuse crock of s*](https://urbanists.social/@sam/110339902538138997)
+- [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
+- [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
+- [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
+- [Electrical Characteristics of Telephone Lines &lpar;2023&rpar;](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
 - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
-- [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
-- [Twenty Years of Blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
-- [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
