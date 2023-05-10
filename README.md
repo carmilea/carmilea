@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is new in Algorithms &amp;#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
-- [GitHub is going down almost every day around the same time](https://www.githubstatus.com/incidents/pr3498h3qkfy)
-- [The four times the United States government defaulted on its debt &lpar;2021&rpar;](https://thehill.com/opinion/finance/575722-the-us-has-never-defaulted-on-its-debt-except-the-four-times-it-did/)
-- [Google I&amp;#x2F;O 2023](https://io.google/2023/)
-- [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
+- [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
+- [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
+- [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
+- [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
+- [Microsoft Bets That Fusion Power Is Closer Than Many Think](https://www.wsj.com/articles/microsoft-bets-that-fusion-power-is-closer-than-many-think-cb1b09dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
