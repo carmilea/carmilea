@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTuber who staged plane crash faces up to 20 years jail](https://news.yahoo.com/youtuber-staged-plane-crash-faces-205718964.html)
 - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
+- [Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 - [Firezone &lpar;YC W22&rpar; is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
-- [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
-- [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
-- [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
+- [Ryujinx Progress Report April 2023 &lpar;Nintendo Switch Emulator&rpar;](https://blog.ryujinx.org/progress-report-april-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
