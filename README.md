@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
-- [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
-- [Google Earth 3D Models Now Available as Open Standard &lpar;GlTF&rpar;](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
-- [Microsoft&amp;#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
-- [Scientists Regenerate Hair Cells That Enable Hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
+- [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
+- [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
+- [Go with PHP](https://gowithphp.com/)
+- [Microsoft Workers Won&amp;#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
+- [Sorry Purism, I’m not investing. It’s &lpar;possibly&rpar; not even legal](https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
