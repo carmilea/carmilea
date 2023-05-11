@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 - [Firezone &lpar;YC W22&rpar; is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
+- [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
 - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
-- [A Life of One’s Own: Marion Milner &lpar;2017&rpar;](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
-- [Hobson&amp;#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
