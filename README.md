@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
-- [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 - [Go with PHP](https://gowithphp.com/)
 - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
 - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
