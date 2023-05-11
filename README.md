@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spiraling in San Francisco’s Doom Loop](https://www.curbed.com/2023/05/san-francisco-doom-loop.html)
+- [Microsoft&amp;#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
+- [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 - [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
-- [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)
-- [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
-- [Google I&amp;#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
