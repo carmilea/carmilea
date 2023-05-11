@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
-- [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
-- [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
+- [Ask HN: Resources for Older Developers?](https://news.ycombinator.com/item?id=35902086)
+- [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
+- [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
+- [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
+- [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
