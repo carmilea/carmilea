@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RankScience &lpar;YC W17&rpar; Is Hiring SDR&amp;#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
+- [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
+- [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
 - [BBEdit is 30 years old](https://www.barebones.com/store/)
 - [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
-- [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
-- [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
-- [Understanding the Power of Bitwise Operators. No Math Needed](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
