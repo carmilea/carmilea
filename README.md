@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: It&amp;#x27;s 2023, how do you choose between MySQL and Postgres?](https://news.ycombinator.com/item?id=35906604)
-- [TP-7](https://teenage.engineering/products/tp-7)
-- [SoftBank Vision funds post record $39B annual loss](https://www.ft.com/content/1dd470c2-be80-4887-83cc-87be93100a12)
-- [Programing Best Practices 2023](https://github.com/dereknguyen269/programing-best-practices-2023)
-- [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
+- [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
+- [A Life of One’s Own: Marion Milner &lpar;2017&rpar;](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
+- [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
+- [Hobson&amp;#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
+- [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
