@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
+- [World ‘way off track’ from climate goal](https://news.harvard.edu/gazette/story/2023/05/world-way-offtrack-on-climate-goal-says-john-kerry/)
+- [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
+- [Mushrooms and sunlight for making Vitamin D supplement](https://fungi.com/blogs/articles/place-mushrooms-in-sunlight-to-get-your-vitamin-d)
 - [Ask HN: Resources for Older Developers?](https://news.ycombinator.com/item?id=35902086)
-- [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
-- [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
-- [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
-- [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
