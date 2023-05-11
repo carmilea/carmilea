@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: It&amp;#x27;s 2023, how do you choose between MySQL and Postgres?](https://news.ycombinator.com/item?id=35906604)
+- [TP-7](https://teenage.engineering/products/tp-7)
+- [SoftBank Vision funds post record $39B annual loss](https://www.ft.com/content/1dd470c2-be80-4887-83cc-87be93100a12)
 - [Programing Best Practices 2023](https://github.com/dereknguyen269/programing-best-practices-2023)
 - [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
-- [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
-- [Developer Quick Tip: Replicating a MongoDB Atlas Database to SingleStoreDB Cloud](https://www.singlestore.com/blog/developer-quick-tip-replicating-a-mongodb-atlas-database-to-singlestoredb-cloud/)
-- [RankScience &lpar;YC W17&rpar; Is Hiring SDR&amp;#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
 <!-- BLOG-POST-LIST:END -->
 
 ---
