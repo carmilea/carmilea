@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
-- [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
+- [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 - [Go with PHP](https://gowithphp.com/)
 - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+- [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
