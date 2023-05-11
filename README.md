@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Programing Best Practices 2023](https://github.com/dereknguyen269/programing-best-practices-2023)
+- [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
+- [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
+- [Developer Quick Tip: Replicating a MongoDB Atlas Database to SingleStoreDB Cloud](https://www.singlestore.com/blog/developer-quick-tip-replicating-a-mongodb-atlas-database-to-singlestoredb-cloud/)
 - [RankScience &lpar;YC W17&rpar; Is Hiring SDR&amp;#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
-- [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
-- [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
-- [BBEdit is 30 years old](https://www.barebones.com/store/)
-- [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
