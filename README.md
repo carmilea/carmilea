@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spiraling in San Francisco’s Doom Loop](https://www.curbed.com/2023/05/san-francisco-doom-loop.html)
-- [Microsoft&amp;#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
+- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+- [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
-- [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
+- [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
 <!-- BLOG-POST-LIST:END -->
 
