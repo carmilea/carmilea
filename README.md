@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firezone &lpar;YC W22&rpar; is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
+- [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
 - [A Life of One’s Own: Marion Milner &lpar;2017&rpar;](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
-- [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
 - [Hobson&amp;#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
-- [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
