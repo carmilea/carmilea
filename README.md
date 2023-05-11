@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
+- [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
 - [Go with PHP](https://gowithphp.com/)
-- [Microsoft Workers Won&amp;#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
-- [Sorry Purism, I’m not investing. It’s &lpar;possibly&rpar; not even legal](https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
