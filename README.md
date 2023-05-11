@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
+- [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
 - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
 - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
-- [Product design and UX design resources – Degreeless.Design](https://www.degreeless.design)
-- [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
