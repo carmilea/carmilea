@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
-- [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
 - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
 - [Go with PHP](https://gowithphp.com/)
+- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
 <!-- BLOG-POST-LIST:END -->
 
 ---
