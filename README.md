@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing &amp;quot;Implement DNS in a Weekend&amp;quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+- [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 - [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35914929)
-- [After 20 Years as a Prosecutor in Illinois, I Quit](https://www.realclearwire.com/articles/2023/05/10/after_20_years_as_a_prosecutor_in_illinois_i_quit_149206.html)
 - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
-- [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
 - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 <!-- BLOG-POST-LIST:END -->
 
