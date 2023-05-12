@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I won’t spend more than $250 on a new smartphone](https://www.theverge.com/23719879/smartphone-price-budget-pixel-7a-editorial)
 - [What happened after I left my software engineering career &lpar;2022&rpar;](https://thewebivore.com/what-happened-next/)
 - [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
 - [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
-- [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
