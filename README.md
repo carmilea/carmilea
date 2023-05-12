@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greater than 90% chance of El Niño persisting into Northern Hemisphere winter](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
 - [CI&amp;#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
 - [How fast can European steelmakers decarbonise?](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
 - [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
-- [Gilbert Strang&amp;#x27;s final lecture at MIT: May 15, 11:00am](https://grinfeld.org/strang/)
-- [Open-source disposable email service](https://sorry.idont.date/)
+- [A RP2040 Powered MIDI-Controlled Synth in CircuitPython](https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
