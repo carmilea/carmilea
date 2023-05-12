@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I won’t spend more than $250 on a new smartphone](https://www.theverge.com/23719879/smartphone-price-budget-pixel-7a-editorial)
+- [Cloudflare is slow and Cloudflare can’t do much about it](https://hiranyey.dev/posts/cloudflare/)
 - [What happened after I left my software engineering career &lpar;2022&rpar;](https://thewebivore.com/what-happened-next/)
 - [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
