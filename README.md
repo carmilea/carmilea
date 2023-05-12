@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35914929)
+- [After 20 Years as a Prosecutor in Illinois, I Quit](https://www.realclearwire.com/articles/2023/05/10/after_20_years_as_a_prosecutor_in_illinois_i_quit_149206.html)
+- [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
 - [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
 - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
-- [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
-- [EU&amp;#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
