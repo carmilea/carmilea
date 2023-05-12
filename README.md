@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35914929)
+- [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
+- [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
+- [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 - [EU&amp;#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
-- [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
-- [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
-- [Encountering the High Arctic](https://hedgehogreview.com/web-features/thr/posts/encountering-the-high-arctic?ref=thebrowser.com)
-- [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
