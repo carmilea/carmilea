@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GIL Strang&amp;#x27;s final lecture at MIT](https://grinfeld.org/strang/)
+- [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
 - [The .zip TLD sucks and it needs to be immediately revoked](https://financialstatement.zip/)
 - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
 - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
-- [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
-- [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
