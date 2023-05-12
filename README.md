@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU&amp;#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
 - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
-- [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
-- [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
-- [A plan to address the world’s challenges with math](https://www.quantamagazine.org/a-plan-to-address-the-worlds-challenges-with-math-20230511/)
+- [Encountering the High Arctic](https://hedgehogreview.com/web-features/thr/posts/encountering-the-high-arctic?ref=thebrowser.com)
+- [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
