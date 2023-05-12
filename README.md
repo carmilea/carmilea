@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 - [FUTO – An independent software lab and grant fund](https://futo.org/)
-- [What happened after I left my software engineering career &lpar;2022&rpar;](https://thewebivore.com/what-happened-next/)
 - [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 <!-- BLOG-POST-LIST:END -->
 
