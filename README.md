@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare is slow and Cloudflare can’t do much about it](https://hiranyey.dev/posts/cloudflare/)
+- [YouTuber admits he crashed plane in Santa Barbara, destroyed evidence](https://www.latimes.com/california/story/2023-05-11/youtuber-pilot-trevor-jacobs-admits-plane-crash-destroyed-evidence)
+- [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
+- [FUTO – An independent software lab and grant fund](https://futo.org/)
 - [What happened after I left my software engineering career &lpar;2022&rpar;](https://thewebivore.com/what-happened-next/)
 - [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
-- [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
