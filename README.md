@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Animals Are Dying in Droves. What Are They Telling Us?](https://newrepublic.com/article/172221/animals-dying-sea-lions)
-- [Introducing &amp;quot;Implement DNS in a Weekend&amp;quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
-- [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
-- [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35914929)
-- [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
+- [Don&amp;#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
+- [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
+- [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
+- [U.S. Focuses on Invigorating Chiplets&amp;#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
+- [Narrative over Numbers: Andreessen Horowitz&amp;#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
