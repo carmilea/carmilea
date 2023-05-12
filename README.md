@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
+- [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
 - [Don&amp;#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
 - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
-- [U.S. Focuses on Invigorating Chiplets&amp;#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
-- [Narrative over Numbers: Andreessen Horowitz&amp;#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
