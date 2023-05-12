@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What happened after I left my software engineering career](https://thewebivore.com/what-happened-next/)
+- [What happened after I left my software engineering career &lpar;2022&rpar;](https://thewebivore.com/what-happened-next/)
 - [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
 - [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
