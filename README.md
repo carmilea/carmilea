@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
-- [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
-- [Don&amp;#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
-- [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
-- [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
+- [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
+- [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
+- [FDIC to hit biggest US banks with $16B bill for SVB clean-up](https://www.ft.com/content/c55c06f9-5de1-49e5-a9c5-770a885dab67)
+- [Why don’t Inter Milan have a shirt sponsor?](https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/)
+- [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
