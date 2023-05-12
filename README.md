@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The .zip TLD sucks and it needs to be immediately revoked](https://financialstatement.zip/)
+- [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
+- [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
+- [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
-- [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
-- [FDIC to hit biggest US banks with $16B bill for SVB clean-up](https://www.ft.com/content/c55c06f9-5de1-49e5-a9c5-770a885dab67)
-- [Why don’t Inter Milan have a shirt sponsor?](https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/)
-- [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
