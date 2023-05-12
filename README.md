@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
-- [FUTO – An independent software lab and grant fund](https://futo.org/)
-- [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [A plan to address the world’s challenges with math](https://www.quantamagazine.org/a-plan-to-address-the-worlds-challenges-with-math-20230511/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
