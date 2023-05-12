@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Animals Are Dying in Droves. What Are They Telling Us?](https://newrepublic.com/article/172221/animals-dying-sea-lions)
 - [Introducing &amp;quot;Implement DNS in a Weekend&amp;quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 - [Kalshi &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=35914929)
 - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
-- [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 <!-- BLOG-POST-LIST:END -->
 
 ---
