@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What happened after I left my software engineering career](https://thewebivore.com/what-happened-next/)
+- [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
 - [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 - [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
-- [One Day You&amp;#x27;ll Find Yourself](https://www.onedayyoullfindyourself.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
