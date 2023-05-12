@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTuber admits he crashed plane in Santa Barbara, destroyed evidence](https://www.latimes.com/california/story/2023-05-11/youtuber-pilot-trevor-jacobs-admits-plane-crash-destroyed-evidence)
+- [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 - [FUTO – An independent software lab and grant fund](https://futo.org/)
 - [What happened after I left my software engineering career &lpar;2022&rpar;](https://thewebivore.com/what-happened-next/)
