@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please, please stop using Xorg with Asahi Linux](https://social.treehouse.systems/@marcan/110354541574112092)
-- [Welcome to Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
+- [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
+- [The Rails Doctrine](https://rubyonrails.org/doctrine)
+- [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
-- [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
+- [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
