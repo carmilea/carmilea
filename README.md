@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
+- [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
-- [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
-- [Why I Stopped Worrying and Learned to Love Denormalized Tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
-- [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
-- [Language models still struggle with the concept of negation](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
+- [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
+- [First Rust code in the Windows 11 kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
