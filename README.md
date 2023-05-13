@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
+- [Revolut CFO quits after auditor BDO warning](https://www.standard.co.uk/business/revolut-cfo-quits-after-auditor-bdo-warning-over-accountsmikko-salovaara-b1080447.html)
+- [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
+- [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
+- [Committing changes to a 130GB Git repository without full checkouts [video]](https://www.youtube.com/watch?v=BxvVdB4-Aqc)
 - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
-- [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
-- [Palantir seeing &amp;#x27;unprecedented&amp;#x27; demand for its military AI](https://fortune.com/2023/05/09/peter-thiel-palantir-unprecedented-demand-ai-artificial-intelligence/)
-- [Microsoft will take nearly a year to finish patching new 0-day Secure Boot bug](https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
