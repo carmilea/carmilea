@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
+- [TikTok Feeds Teens a Diet of Darkness](https://www.wsj.com/articles/tiktok-feeds-teens-a-diet-of-darkness-8f350507)
+- [Dec&amp;#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
 - [Revolut CFO quits after auditor BDO warning](https://www.standard.co.uk/business/revolut-cfo-quits-after-auditor-bdo-warning-over-accountsmikko-salovaara-b1080447.html)
-- [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
-- [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
-- [Committing changes to a 130GB Git repository without full checkouts [video]](https://www.youtube.com/watch?v=BxvVdB4-Aqc)
-- [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
+- [Energy Saving Road Lighting in Norway](https://www.dailyscandinavian.com/energy-saving-road-lighting-norway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
