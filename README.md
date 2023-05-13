@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
-- [EU lawmakers take first steps toward tougher AI rules](https://www.dw.com/en/eu-lawmakers-take-first-steps-toward-tougher-ai-rules/a-65585731)
-- [Asus UK PR believes it is ‘legal to buy positive reviews’](https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/)
-- [ESXi ransomware derived from Babuk code on the rise](https://www.scmagazine.com/news/ransomware/esxi-ransomware-babuk-code-increased-2023)
-- [Julia 1.9: A New Era of Performance and Flexibility](https://juliazoid.com/julia-1-9-a-new-era-of-performance-and-flexibility-2e79f3e1ee15?gi=1136904d9cbb)
+- [How to hack Hacker News &lpar;and consistently hit the front page&rpar;](https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12)
+- [TikTok Owner Had &amp;#x27;Backdoor&amp;#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
+- [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
+- [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
+- [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
