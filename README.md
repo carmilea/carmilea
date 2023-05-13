@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
-- [TypeScript is &amp;#x27;not worth it&amp;#x27; Svelte switches to JavaScript and JSDoc](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
 - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
 - [How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto](https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/)
 - [TikTok Feeds Teens a Diet of Darkness](https://www.wsj.com/articles/tiktok-feeds-teens-a-diet-of-darkness-8f350507)
+- [Dec&amp;#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
