@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
 - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
 - [Palantir seeing &amp;#x27;unprecedented&amp;#x27; demand for its military AI](https://fortune.com/2023/05/09/peter-thiel-palantir-unprecedented-demand-ai-artificial-intelligence/)
 - [Microsoft will take nearly a year to finish patching new 0-day Secure Boot bug](https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/)
-- [Saturn&amp;#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
