@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
+- [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
+- [The Cathedral and the Bazaar &lpar;1999&rpar;](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
 - [The Group Decode ROM: The 8086 processor&amp;#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
-- [A Former Pilot on Why Autonomous Vehicles Are So Risky](https://spectrum.ieee.org/self-driving-cars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
