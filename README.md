@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The World is Built on Probability [1988&amp;#x2F;2023]](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
+- [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
+- [The World is Built on Probability &lpar;1984&rpar;](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 - [Tavus &lpar;YC S21&rpar; is hiring ML and full stack engineers](https://www.tavus.io/careers)
-- [A secret macOS tool – networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
-- [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
-- [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
+- [All the Media Outlets Are Dying. What the Hell Comes Next?](https://thewalrus.ca/buzzfeed-news/)
+- [The Greatest Wealth Transfer in History Is Here, with Familiar &lpar;Rich&rpar; Winners](https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
