@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)
+- [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
+- [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+- [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
+- [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 - [The day you became a better writer &lpar;2007&rpar;](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
-- [ARM or x86? ISA Doesn’t Matter &lpar;2021&rpar;](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
-- [The Web I Want &lpar;2018&rpar;](https://quii.dev/The_Web_I_Want)
-- [The unreasonable effectiveness of character-level language models &lpar;2015&rpar;](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
