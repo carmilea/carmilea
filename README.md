@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
+- [IKEA bomb shelter furnishings catalog by Midjourney](https://www.core77.com/posts/123298/Midjourney-Created-Fake-Ikea-Bomb-Shelter-Furnishings-Catalog)
+- [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
 - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
-- [The World is Built on Probability &lpar;1984&rpar;](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
-- [Tavus &lpar;YC S21&rpar; is hiring ML and full stack engineers](https://www.tavus.io/careers)
-- [The Greatest Wealth Transfer in History Is Here, with Familiar &lpar;Rich&rpar; Winners](https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
