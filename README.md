@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
-- [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
-- [How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto](https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/)
-- [TikTok Feeds Teens a Diet of Darkness](https://www.wsj.com/articles/tiktok-feeds-teens-a-diet-of-darkness-8f350507)
-- [Dec&amp;#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
+- [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
+- [Instead of your Life&amp;#x27;s Purpose &lpar;2021&rpar;](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
+- [Researchers improve nonviral gene editing and a new type of DNA repair](https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair)
+- [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
+- [Why is there no open source firmware for laser or inkjet printers? &lpar;2019&rpar;](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
