@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ARM or x86? ISA Doesn’t Matter](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
-- [The Web I Want](https://quii.dev/The_Web_I_Want)
+- [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)
+- [The day you became a better writer &lpar;2007&rpar;](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+- [ARM or x86? ISA Doesn’t Matter &lpar;2021&rpar;](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
+- [The Web I Want &lpar;2018&rpar;](https://quii.dev/The_Web_I_Want)
 - [The unreasonable effectiveness of character-level language models &lpar;2015&rpar;](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
-- [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
-- [The Cathedral and the Bazaar &lpar;1999&rpar;](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
