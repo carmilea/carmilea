@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
+- [FreeBSD 13.2 on ThinkPad T14 &lpar;GEN1&rpar;](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
+- [Science Fiction Books About Aliens](https://fivebooks.com/best-books/science-fiction-aliens-jaime-green/)
 - [Instead of your Life&amp;#x27;s Purpose &lpar;2021&rpar;](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
 - [Researchers improve nonviral gene editing and a new type of DNA repair](https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair)
-- [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
-- [Why is there no open source firmware for laser or inkjet printers? &lpar;2019&rpar;](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
