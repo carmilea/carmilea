@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I am overflowing with ideas but never finish anything](https://news.ycombinator.com/item?id=35936139)
+- [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
-- [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
 - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
-- [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
