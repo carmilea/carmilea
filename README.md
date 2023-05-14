@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
-- [Vision Basic](https://visionbasic.net/)
-- [Facebook claims people showing art, electronics, wheelchair mods is hate speech](https://blog.adafruit.com/2023/05/13/facebook-claiming-people-showing-art-electronics-wheelchair-modifications-is-hate-speech-our-video-show-and-tell-removed-from-facebook/)
-- [Ask HN: What 60 folks can give career and general life advice for 40 folks](https://news.ycombinator.com/item?id=35935135)
+- [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
+- [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
