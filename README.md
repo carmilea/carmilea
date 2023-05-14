@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+- [USS Hornet Apollo 11 Cruise Report &lpar;1969&rpar; [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
 - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
+- [Please Let Me Monetize My Hobbies](https://naveenarun.wordpress.com/2023/05/14/please-let-me-monetize-my-hobbies/)
 - [FreeBSD 13.2 on ThinkPad T14 &lpar;GEN1&rpar;](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
-- [Science Fiction Books About Aliens](https://fivebooks.com/best-books/science-fiction-aliens-jaime-green/)
-- [Instead of your Life&amp;#x27;s Purpose &lpar;2021&rpar;](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
-- [Researchers improve nonviral gene editing and a new type of DNA repair](https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair)
 <!-- BLOG-POST-LIST:END -->
 
 ---
