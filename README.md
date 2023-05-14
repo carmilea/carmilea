@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I am overflowing with ideas but never finish anything](https://news.ycombinator.com/item?id=35936139)
+- [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
+- [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
+- [Are We Sixel Yet](https://www.arewesixelyet.com/#terminalapp)
+- [Airbnb CEO: to hire from anywhere more useful than having everyone in one office](https://fortune.com/2023/05/11/airbnb-brian-chesky-remote-work-hamptons/)
 - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
-- [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
-- [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
-- [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
