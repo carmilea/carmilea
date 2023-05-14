@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ARM or x86? ISA Doesn’t Matter](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
+- [The Web I Want](https://quii.dev/The_Web_I_Want)
 - [The unreasonable effectiveness of character-level language models &lpar;2015&rpar;](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
-- [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
+- [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 - [The Cathedral and the Bazaar &lpar;1999&rpar;](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
-- [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
-- [The Group Decode ROM: The 8086 processor&amp;#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
