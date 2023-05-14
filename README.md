@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
+- [Hikers Are Banned from the Superbloom in this California Town](https://www.backpacker.com/news-and-events/news/hikers-are-banned-from-the-superbloom-in-this-california-town/)
+- [Vision Basic](https://visionbasic.net/)
+- [Ask HN: What 60 folks can give career and general life advice for 40 folks](https://news.ycombinator.com/item?id=35935135)
 - [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
-- [Attention with Linear Biases &lpar;ALiBi&rpar;](https://arxiv.org/abs/2108.12409)
-- [Kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
-- [USS Hornet Apollo 11 Cruise Report &lpar;1969&rpar; [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
-- [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
