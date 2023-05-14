@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
 - [Attention with Linear Biases &lpar;ALiBi&rpar;](https://arxiv.org/abs/2108.12409)
-- [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+- [Kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 - [USS Hornet Apollo 11 Cruise Report &lpar;1969&rpar; [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
 - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
 <!-- BLOG-POST-LIST:END -->
