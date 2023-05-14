@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
+- [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
 - [The World is Built on Probability &lpar;1984&rpar;](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 - [Tavus &lpar;YC S21&rpar; is hiring ML and full stack engineers](https://www.tavus.io/careers)
-- [All the Media Outlets Are Dying. What the Hell Comes Next?](https://thewalrus.ca/buzzfeed-news/)
 - [The Greatest Wealth Transfer in History Is Here, with Familiar &lpar;Rich&rpar; Winners](https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html)
 <!-- BLOG-POST-LIST:END -->
 
