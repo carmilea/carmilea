@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
 - [LTESniffer – An Open-Source LTE Downlink&amp;#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II &lpar;UEFI&rpar;](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
-- [It Wasn&amp;#x27;t AI](https://itwasntai.com/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Show HN: Sortabase, a collaborative, visual database builder for communities](https://www.sortabase.com/)
 <!-- BLOG-POST-LIST:END -->
