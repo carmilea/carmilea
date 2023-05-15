@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
+- [Which kinds of GPT startups will thrive?](https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating)
+- [U.S. Marshals Spied on Abortion Protesters Using Dataminr](https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/)
 - [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
 - [Apple to occupy 90% of TSMC 3nm capacity in 2023](https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/)
-- [Infracost &lpar;YC W21&rpar; Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
-- [The Last Old-School Seltzer Shop in New York](https://www.nytimes.com/2023/05/13/nyregion/brooklyn-seltzer-boys.html)
-- [Veritasium: Light bulbs are linked to the invention of computer](https://www.youtube.com/watch?v=FU_YFpfDqqA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
