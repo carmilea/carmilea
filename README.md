@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
+- [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
+- [&amp;#x27;Foundation&amp;#x27; season 2 launches July 14 on Apple TV](https://www.space.com/foundation-season-2-apple-tv-plus-teaser-premiere-date)
 - [Random&lpar;Random&lpar;Random&lpar;Random&lpar;&rpar;&rpar;&rpar;&rpar;](https://openprocessing.org/sketch/1575230/)
-- [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+- [You studied computer science but Big Tech no longer wants you](https://www.economist.com/1843/2023/05/15/you-studied-computer-science-but-big-tech-no-longer-wants-you-now-what)
 - [LTESniffer – An Open-Source LTE Downlink&amp;#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
-- [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II &lpar;UEFI&rpar;](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
