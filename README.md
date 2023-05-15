@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Argentina raises interest rate to 97% as it struggles to tackle inflation](https://www.cnn.com/2023/05/15/business/argentina-interest-rates-inflation/index.html)
+- [PFAS found in most contact lenses](https://superfund.ncsu.edu/news/3831/)
+- [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
+- [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
-- [Kaspersky: Case study: fake hardware cryptowallet &lpar;Trezor&rpar;](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
-- [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
-- [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
+- [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
