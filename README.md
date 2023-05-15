@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies to pay $615,00 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
+- [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
 - [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
-- [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
-- [The day you became a better writer &lpar;2007&rpar;](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
