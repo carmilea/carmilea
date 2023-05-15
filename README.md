@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
+- [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
+- [Random&lpar;Random&lpar;Random&lpar;Random&lpar;&rpar;&rpar;&rpar;&rpar;](https://openprocessing.org/sketch/1575230/)
+- [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 - [LTESniffer – An Open-Source LTE Downlink&amp;#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II &lpar;UEFI&rpar;](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Show HN: Sortabase, a collaborative, visual database builder for communities](https://www.sortabase.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
