@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infracost &lpar;YC W21&rpar; Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
+- [The Last Old-School Seltzer Shop in New York](https://www.nytimes.com/2023/05/13/nyregion/brooklyn-seltzer-boys.html)
+- [Veritasium: Light bulbs are linked to the invention of computer](https://www.youtube.com/watch?v=FU_YFpfDqqA)
+- [A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
 - [Two students built an A-bomb &lpar;2003&rpar;](https://www.theguardian.com/world/2003/jun/24/usa.science)
-- [Ask HN: What&amp;#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
-- [Uncensored &lpar;Language&rpar; Models](https://erichartford.com/uncensored-models)
-- [Google I&amp;#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
-- [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
