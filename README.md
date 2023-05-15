@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
+- [We Don&amp;#x27;t Know How to Compute &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
+- [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
 - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
 - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
-- [Ask HN: What is the license of GitHub&amp;#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
-- [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
-- [&amp;#x27;Third places&amp;#x27;: The ways losing our local haunts hurts us &lpar;2021&rpar;](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
