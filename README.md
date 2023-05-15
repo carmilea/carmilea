@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 - [Bard API](https://github.com/dsdanielpark/Bard-API)
-- [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
+- [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
+- [Companies to pay $615k in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
-- [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
-- [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
