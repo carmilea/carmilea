@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
-- [Which kinds of GPT startups will thrive?](https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating)
-- [U.S. Marshals Spied on Abortion Protesters Using Dataminr](https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/)
-- [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
-- [Apple to occupy 90% of TSMC 3nm capacity in 2023](https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/)
+- [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
+- [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+- [I don&amp;#x27;t have ADHD, but three private clinics say I do, and offered me medication](https://www.bbc.co.uk/news/health-65534449)
+- [Anthropic&amp;#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
+- [Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving](https://www.nytimes.com/interactive/2023/05/15/upshot/migrations-college-super-cities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
