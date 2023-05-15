@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
 - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
 - [Ask HN: What is the license of GitHub&amp;#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
 - [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
 - [&amp;#x27;Third places&amp;#x27;: The ways losing our local haunts hurts us &lpar;2021&rpar;](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
-- [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
