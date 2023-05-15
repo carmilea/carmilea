@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Argentina raises interest rate to 97% as it struggles to tackle inflation](https://www.cnn.com/2023/05/15/business/argentina-interest-rates-inflation/index.html)
+- [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
+- [Kaspersky: Case study: fake hardware cryptowallet &lpar;Trezor&rpar;](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 - [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
-- [&amp;#x27;Foundation&amp;#x27; season 2 launches July 14 on Apple TV](https://www.space.com/foundation-season-2-apple-tv-plus-teaser-premiere-date)
-- [Random&lpar;Random&lpar;Random&lpar;Random&lpar;&rpar;&rpar;&rpar;&rpar;](https://openprocessing.org/sketch/1575230/)
-- [You studied computer science but Big Tech no longer wants you](https://www.economist.com/1843/2023/05/15/you-studied-computer-science-but-big-tech-no-longer-wants-you-now-what)
-- [LTESniffer – An Open-Source LTE Downlink&amp;#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+- [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
