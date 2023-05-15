@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bard API](https://github.com/dsdanielpark/Bard-API)
 - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
-- [HCI Bibliography: Human-Computer Interaction Resources](http://hcibib.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
