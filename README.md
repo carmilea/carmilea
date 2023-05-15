@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
+- [Apple to occupy 90% of TSMC 3nm capacity in 2023](https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/)
 - [Infracost &lpar;YC W21&rpar; Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
 - [The Last Old-School Seltzer Shop in New York](https://www.nytimes.com/2023/05/13/nyregion/brooklyn-seltzer-boys.html)
 - [Veritasium: Light bulbs are linked to the invention of computer](https://www.youtube.com/watch?v=FU_YFpfDqqA)
-- [A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
-- [Two students built an A-bomb &lpar;2003&rpar;](https://www.theguardian.com/world/2003/jun/24/usa.science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
