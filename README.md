@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cedar is an open source policy language and evaluation engine](https://github.com/cedar-policy)
+- [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
+- [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
-- [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
-- [I don&amp;#x27;t have ADHD, but three private clinics say I do, and offered me medication](https://www.bbc.co.uk/news/health-65534449)
-- [Anthropic&amp;#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
-- [Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving](https://www.nytimes.com/interactive/2023/05/15/upshot/migrations-college-super-cities.html)
+- [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
