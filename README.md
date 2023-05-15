@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
-- [Bard API](https://github.com/dsdanielpark/Bard-API)
-- [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
-- [Companies to pay $615k in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
-- [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
+- [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
+- [Ask HN: What is the license of GitHub&amp;#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
+- [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
+- [&amp;#x27;Third places&amp;#x27;: The ways losing our local haunts hurts us &lpar;2021&rpar;](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
+- [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
