@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are so many young Americans adopting fake British accents?](https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z)
-- [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
-- [Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
-- [We Don&amp;#x27;t Know How to Compute &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
-- [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
+- [Two students built an A-bomb &lpar;2003&rpar;](https://www.theguardian.com/world/2003/jun/24/usa.science)
+- [Ask HN: What&amp;#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
+- [Uncensored &lpar;Language&rpar; Models](https://erichartford.com/uncensored-models)
+- [Google I&amp;#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
+- [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
