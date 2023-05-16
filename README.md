@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is now worth more than the entire Russell 2000](https://www.marketwatch.com/story/a-stock-market-milestone-apple-is-now-worth-more-than-the-entire-russell-2000-e2dc3f75)
+- [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
-- [OpenAI chief goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
 - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
-- [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
