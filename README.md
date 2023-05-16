@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 - [Colossus: The Forbin Project &lpar;1970&rpar; [video]](https://archive.org/details/colossus-the-forbin-project-1970)
 - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
 - [Twitter’s DM encryption is a modest security improvement over the status quo](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 - [Ultimate Electronics &lpar;2021&rpar;](https://ultimateelectronicsbook.com/)
-- [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
