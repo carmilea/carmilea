@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A promised audit of Twitter&amp;#x27;s encrypted DMs didn&amp;#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- [Claude LLM has context window of 100k tokens &lpar;can summarize any report&rpar;](https://www.promptengineering.org/claudes-100k-context-window-how-this-will-transform-business-education-and-research/)
+- [Ultimate Electronics](https://ultimateelectronicsbook.com/)
 - [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
+- [LMQL: A query language for programming &lpar;large&rpar; language models](https://github.com/eth-sri/lmql)
 - [Math prodigy runs market-making empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
-- [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
