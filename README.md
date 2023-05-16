@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
+- [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&amp;#x2F;hr](https://oblivus.com)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 - [Colossus: The Forbin Project &lpar;1970&rpar; [video]](https://archive.org/details/colossus-the-forbin-project-1970)
 - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
-- [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
