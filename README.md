@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
-- [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
-- [Erlang&amp;#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
-- [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)
-- [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
+- [Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
+- [Berkshire Hathaway sells entire stake in TSMC](https://www.cnn.com/2023/05/16/investing/berkshire-hathaway-taiwan-tsmc-stock-exit-hnk-intl/index.html)
+- [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
+- [SQLite 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
+- [Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
