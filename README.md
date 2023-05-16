@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT chief calls for new agency to license AI systems in Congress testimony](https://thepeninsulaqatar.com/article/16/05/2023/chatgpt-chief-calls-for-new-agency-to-license-ai-systems-in-congress-testimony)
+- [John Conway&amp;#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language &lpar;2020&rpar;](http://raganwald.com/2020/05/03/fractran.html)
+- [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
+- [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
 - [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
-- [US Secret Service: “blockchain is an opportunity to track money”](https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money)
 - [One man&amp;#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
-- [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
