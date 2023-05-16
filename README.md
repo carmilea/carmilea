@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
+- [Renewables supplied 65% of new US utility-scale generating capacity in Q1 2023](https://electrek.co/2023/05/15/renewables-us-utility-scale-generating-capacity-q1-2023/)
 - [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
+- [Microsoft will upgrade Windows 10 21H2 users whether they like it or not](https://www.theregister.com/2023/05/15/windows_10_21h2_support/)
 - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
-- [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
-- [A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
-- [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
