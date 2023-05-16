@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
-- [Renewables supplied 65% of new US utility-scale generating capacity in Q1 2023](https://electrek.co/2023/05/15/renewables-us-utility-scale-generating-capacity-q1-2023/)
-- [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
-- [Microsoft will upgrade Windows 10 21H2 users whether they like it or not](https://www.theregister.com/2023/05/15/windows_10_21h2_support/)
-- [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
+- [ChatGPT chief calls for new agency to license AI systems in Congress testimony](https://thepeninsulaqatar.com/article/16/05/2023/chatgpt-chief-calls-for-new-agency-to-license-ai-systems-in-congress-testimony)
+- [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
+- [US Secret Service: “blockchain is an opportunity to track money”](https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money)
+- [One man&amp;#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
+- [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
