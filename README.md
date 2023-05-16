@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A promised audit of Twitter&amp;#x27;s encrypted DMs didn&amp;#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
+- [Claude LLM has context window of 100k tokens &lpar;can summarize any report&rpar;](https://www.promptengineering.org/claudes-100k-context-window-how-this-will-transform-business-education-and-research/)
 - [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
-- [Average age of a car in the US is more than 13 years](https://www.axios.com/2023/05/15/ev-electric-vehicles-gas-trucks-suvs-cars-aging)
-- [More hospitals create police forces](https://www.npr.org/sections/health-shots/2023/05/15/1175889585/hospitals-create-police-forces-to-stem-growing-violence-against-staff)
-- [Ken Griffin’s Hand-Picked Math Prodigy Runs Market-Making Empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
+- [Math prodigy runs market-making empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
 - [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
 <!-- BLOG-POST-LIST:END -->
 
