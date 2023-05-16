@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 - [Colossus: The Forbin Project &lpar;1970&rpar; [video]](https://archive.org/details/colossus-the-forbin-project-1970)
+- [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
 - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
-- [Twitter’s DM encryption is a modest security improvement over the status quo](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- [Ultimate Electronics &lpar;2021&rpar;](https://ultimateelectronicsbook.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
