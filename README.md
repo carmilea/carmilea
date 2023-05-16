@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Conway&amp;#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language &lpar;2020&rpar;](http://raganwald.com/2020/05/03/fractran.html)
-- [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
-- [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
-- [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
-- [One man&amp;#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
+- [GitHub Incident](https://www.githubstatus.com/incidents/v2xjymn61dv8)
+- [Middleware &lpar;YC W23&rpar; Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
+- [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
+- [The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
+- [Framework Laptop 13 review: a DIY dream come true](https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
