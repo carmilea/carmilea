@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Incident](https://www.githubstatus.com/incidents/v2xjymn61dv8)
+- [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
+- [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
+- [On the foolishness of “natural language programming”](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 - [Middleware &lpar;YC W23&rpar; Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 - [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
-- [The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
-- [Framework Laptop 13 review: a DIY dream come true](https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
