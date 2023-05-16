@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
+- [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
 - [Erlang&amp;#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 - [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)
-- [Tutanota – Revolutionary Changes Ahead](https://tutanota.com/blog/announcement-2023)
 - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
-- [Experiments in Making Cocktail Ice](https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
