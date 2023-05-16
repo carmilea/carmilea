@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
-- [Berkshire Hathaway sells entire stake in TSMC](https://www.cnn.com/2023/05/16/investing/berkshire-hathaway-taiwan-tsmc-stock-exit-hnk-intl/index.html)
+- [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
+- [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
+- [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
+- [A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
 - [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
-- [SQLite 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
-- [Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
