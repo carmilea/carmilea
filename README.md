@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
+- [OpenAI chief goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
 - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
 - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
-- [JPMorgan Chase &amp;amp; Co tracks employees to distopian extents](https://old.reddit.com/r/antiwork/comments/13ijhae/came_back_to_a_post_here_but_it_was_removed_from/)
-- [Why are there no antitrust claims vs. GitHub Copilot, when there is a precedent?](https://thehftguy.com/2023/05/16/why-are-there-no-antitrust-claims-vs-github-copilot-when-there-is-a-precedent/)
-- [Farmland practices are driving bird population decline across Europe](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
