@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix’s Queen Cleopatra Appears to Have the Worst Audience Score in TV History](https://www.forbes.com/sites/paultassi/2023/05/15/netflixs-queen-cleopatra-appears-to-have-the-worst-audience-score-in-tv-history/)
 - [A promised audit of Twitter&amp;#x27;s encrypted DMs didn&amp;#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- [Ultimate Electronics](https://ultimateelectronicsbook.com/)
+- [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
+- [Ultimate Electronics &lpar;2021&rpar;](https://ultimateelectronicsbook.com/)
 - [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
-- [LMQL: A query language for programming &lpar;large&rpar; language models](https://github.com/eth-sri/lmql)
-- [Math prodigy runs market-making empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
