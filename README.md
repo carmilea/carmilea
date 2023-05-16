@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A promised audit of Twitter&amp;#x27;s encrypted DMs didn&amp;#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
+- [Colossus: The Forbin Project &lpar;1970&rpar; [video]](https://archive.org/details/colossus-the-forbin-project-1970)
+- [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
+- [Twitter’s DM encryption is a modest security improvement over the status quo](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 - [Ultimate Electronics &lpar;2021&rpar;](https://ultimateelectronicsbook.com/)
 - [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
-- [LMQL: A query language for programming &lpar;large&rpar; language models](https://github.com/eth-sri/lmql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
