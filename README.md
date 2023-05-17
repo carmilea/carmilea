@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
 - [Advocating for Open Models in AI Oversight: Stability AI&amp;#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
-- [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
-- [Beware Offers of “Help” with Your Projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
+- [The promise of crypto has not lived up to its initial excitement](https://www.economist.com/special-report/2023/05/15/the-promise-of-crypto-has-not-lived-up-to-its-initial-excitement)
 - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-- [On the foolishness of “natural language programming” &lpar;1979&rpar;](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
+- [On the trail of the &amp;#x27;Johatsu,&amp;#x27; Japan&amp;#x27;s &amp;#x27;evaporated people&amp;#x27;](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
