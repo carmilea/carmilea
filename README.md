@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Planned obsolescence: Apple attacked for the “serialization” of its spare parts](https://www.lemonde.fr/pixels/article/2023/05/17/obsolescence-programmee-apple-attaquee-pour-la-serialisation-de-ses-pieces-detachees_6173705_4408996.html)
-- [Slack Is Down](https://slack.com)
-- [Rollstack &lpar;YC W23&rpar; Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
-- [Comparison site for digital analytics tools](https://newmetrics.io/)
-- [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
+- [Retro Computer Museum – Leicester, UK](https://retrocomputermuseum.co.uk/)
+- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- [Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
+- [Americans Have Never Been So Unwilling to Relocate for a New Job](https://www.bloomberg.com/news/articles/2023-05-16/americans-have-never-been-so-unwilling-to-relocate-for-a-new-job)
+- [OpenAI came after our domain because we use GPT in it](https://news.ycombinator.com/item?id=35973645)
 <!-- BLOG-POST-LIST:END -->
 
 ---
