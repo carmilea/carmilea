@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [George Soros’ quiet overhaul of the U.S. justice system](https://www.politico.com/story/2016/08/george-soros-criminal-justice-reform-227519)
+- [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
+- [Google will start deleting inactive accounts after two years](https://arstechnica.com/gadgets/2023/05/google-will-start-deleting-inactive-accounts-after-two-years/)
+- [Agnès Varda](https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda)
 - [Retro Computer Museum – Leicester, UK](https://retrocomputermuseum.co.uk/)
-- [Skio &lpar;YC S20&rpar; is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-- [Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
-- [Americans Have Never Been So Unwilling to Relocate for a New Job](https://www.bloomberg.com/news/articles/2023-05-16/americans-have-never-been-so-unwilling-to-relocate-for-a-new-job)
-- [OpenAI came after our domain because we use GPT in it](https://news.ycombinator.com/item?id=35973645)
 <!-- BLOG-POST-LIST:END -->
 
 ---
