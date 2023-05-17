@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [International Music Score Library Project &lpar;IMSLP&rpar;](https://imslp.org/)
-- [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
-- [Has HN Changed? I assume it&amp;#x27;s just me](https://news.ycombinator.com/item?id=35979692)
+- [Dear Substack: Quit Sending Me Your Corporate Propaganda](https://empathynovel.substack.com/p/dear-substack-quit-sending-me-your)
+- [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
+- [Show HN: Smallville – Create Generative Agents for simulations and games](https://github.com/nickm980/smallville)
+- [Petrucci Music Library](https://imslp.org/)
 - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
-- [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
