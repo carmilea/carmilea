@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Langton’s ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
-- [Students are increasingly refusing to go to school](https://www.usatoday.com/in-depth/news/health/2023/05/15/school-avoidance-becomes-crisis-after-covid/11127563002/)
-- [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
-- [Bosses of failed US banks refuse to hand back millions of dollars in pay](https://www.ft.com/content/26ed4163-84d3-45af-a784-8aeb4abc288b)
-- [Oh Yes You Can Use Regexes to Parse HTML](https://stackoverflow.com/a/4234491/10824322)
+- [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
+- [The IRS is building its own online tax filing system](https://text.npr.org/1176417594)
+- [Engineering professor awarded defense grant for cognitive security research](https://today.tamu.edu/2023/05/05/texas-am-engineering-professor-awarded-6-million-defense-grant-for-cognitive-security-research/)
+- [Real-Time Full-Text Site Search with SQLite FTS5 extension](https://blog.sqlitecloud.io/real-time-full-text-site-search-with-sqlite-fts5-extension)
+- [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
