@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [International Music Score Library Project &lpar;IMSLP&rpar;](https://imslp.org/)
 - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
-- [Sam Altman Isn’t the Answer to Regulating Artificial Intelligence](https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask)
+- [Has HN Changed? I assume it&amp;#x27;s just me](https://news.ycombinator.com/item?id=35979692)
 - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
-- [Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service](https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/)
-- [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
+- [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
