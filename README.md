@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
-- [The IRS is building its own online tax filing system](https://text.npr.org/1176417594)
-- [Engineering professor awarded defense grant for cognitive security research](https://today.tamu.edu/2023/05/05/texas-am-engineering-professor-awarded-6-million-defense-grant-for-cognitive-security-research/)
-- [Real-Time Full-Text Site Search with SQLite FTS5 extension](https://blog.sqlitecloud.io/real-time-full-text-site-search-with-sqlite-fts5-extension)
-- [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
+- [World&amp;#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
+- [Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)
+- [Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
+- [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
+- [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
