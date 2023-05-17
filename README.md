@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Substack: Quit Sending Me Your Corporate Propaganda](https://empathynovel.substack.com/p/dear-substack-quit-sending-me-your)
-- [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
-- [Show HN: Smallville – Create Generative Agents for simulations and games](https://github.com/nickm980/smallville)
-- [Petrucci Music Library](https://imslp.org/)
-- [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+- [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
+- [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
+- [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
+- [Degrowth and the monkey&amp;#x27;s paw](https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw)
+- [The myth of the $600 hammer &lpar;1998&rpar;](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
