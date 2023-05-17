@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Theranos founder Elizabeth Holmes must go to prison while she appeals sentence](https://www.theguardian.com/technology/2023/may/17/court-rules-theranos-founder-elizabeth-holmes-must-go-to-prison-while-she-appeals-sentence)
-- [Earth Primer](https://www.earthprimer.com/)
+- [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
 - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
 - [Advocating for Open Models in AI Oversight: Stability AI&amp;#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
 - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
+- [On the trail of the &amp;#x27;Johatsu,&amp;#x27; Japan&amp;#x27;s &amp;#x27;evaporated people&amp;#x27; &lpar;2017&rpar;](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
