@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
+- [Bing thinks Hitler was in Radiohead](https://twitter.com/jdx/status/1658876595921190912)
+- [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
+- [AI-powered coding, free of charge with Colab](https://blog.google/technology/developers/google-colab-ai-coding-features/)
 - [World&amp;#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
-- [Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)
-- [Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
-- [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
-- [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
