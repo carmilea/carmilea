@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Soros’ quiet overhaul of the U.S. justice system](https://www.politico.com/story/2016/08/george-soros-criminal-justice-reform-227519)
+- [Langton’s ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
+- [Students are increasingly refusing to go to school](https://www.usatoday.com/in-depth/news/health/2023/05/15/school-avoidance-becomes-crisis-after-covid/11127563002/)
 - [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
-- [Google will start deleting inactive accounts after two years](https://arstechnica.com/gadgets/2023/05/google-will-start-deleting-inactive-accounts-after-two-years/)
-- [Agnès Varda](https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda)
-- [Retro Computer Museum – Leicester, UK](https://retrocomputermuseum.co.uk/)
+- [Bosses of failed US banks refuse to hand back millions of dollars in pay](https://www.ft.com/content/26ed4163-84d3-45af-a784-8aeb4abc288b)
+- [Oh Yes You Can Use Regexes to Parse HTML](https://stackoverflow.com/a/4234491/10824322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
