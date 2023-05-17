@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Slack Is Down](https://slack.com)
-- [The U.S. birth rate has fallen by 20% since 2007](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate)
 - [Rollstack &lpar;YC W23&rpar; Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
 - [Comparison site for digital analytics tools](https://newmetrics.io/)
-- [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
+- [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
+- [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
