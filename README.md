@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
+- [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
+- [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
+- [Beautiful Documents with Groff &lpar;Part I&rpar;](https://stephenramsay.net/posts/groff-mom.html)
 - [Rekt.network](https://rekt.network)
-- [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
-- [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
-- [Advocating for Open Models in AI Oversight: Stability AI&amp;#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
-- [Beware offers of “help” with your projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
