@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Product Launch: 100x faster JSON analytics on MongoDB](https://www.youtube.com/watch?v=9KANCPKLOmA)
 - [Customer Success in 30 Seconds: Nucleus Security](https://www.youtube.com/watch?v=pzdmOTOP1lk)
 - [Customer Success in 30 Seconds: Arcules](https://www.youtube.com/watch?v=efhD7iBslgk)
 - [Customer Success in 30 Seconds: AntMoney](https://www.youtube.com/watch?v=_-T3Dy4fnhw)
 - [Demo: Recognizing Faces Using a SQL Database](https://www.youtube.com/watch?v=3UCC-YH6tJQ)
-- [What’s New in the Winter Release and What’s in the Roadmap?](https://www.youtube.com/watch?v=d5ME2VTYia8)
 <!-- YOUTUBE:END -->
 
 
