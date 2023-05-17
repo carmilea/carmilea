@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Planned obsolescence: Apple attacked for the “serialization” of its spare parts](https://www.lemonde.fr/pixels/article/2023/05/17/obsolescence-programmee-apple-attaquee-pour-la-serialisation-de-ses-pieces-detachees_6173705_4408996.html)
 - [Slack Is Down](https://slack.com)
 - [Rollstack &lpar;YC W23&rpar; Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
 - [Comparison site for digital analytics tools](https://newmetrics.io/)
-- [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
-- [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
+- [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
