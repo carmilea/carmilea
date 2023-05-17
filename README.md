@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elizabeth Holmes ordered to pay $452M restitution](https://wjla.com/news/nation-world/elizabeth-holmes-ordered-to-pay-452m-restitution-for-blood-testing-hoax-theranos-ceo-conviction-fraud-billionaire-ramesh-sunny-balwani-the-dropout-silicon-valley-prison-southern-california)
+- [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
 - [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
-- [Bing thinks Hitler was in Radiohead](https://twitter.com/jdx/status/1658876595921190912)
 - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
-- [AI-powered coding, free of charge with Colab](https://blog.google/technology/developers/google-colab-ai-coding-features/)
 - [World&amp;#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
 <!-- BLOG-POST-LIST:END -->
 
