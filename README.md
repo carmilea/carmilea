@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelligentPad &lpar;1989&rpar; a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
+- [Debian pauses &amp;#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
 - [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
 - [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
-- [Degrowth and the monkey&amp;#x27;s paw](https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw)
-- [The myth of the $600 hammer &lpar;1998&rpar;](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
