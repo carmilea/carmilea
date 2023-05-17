@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elizabeth Holmes ordered to pay $452M restitution](https://wjla.com/news/nation-world/elizabeth-holmes-ordered-to-pay-452m-restitution-for-blood-testing-hoax-theranos-ceo-conviction-fraud-billionaire-ramesh-sunny-balwani-the-dropout-silicon-valley-prison-southern-california)
+- [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
+- [Sam Altman Isn’t the Answer to Regulating Artificial Intelligence](https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask)
+- [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+- [Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service](https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/)
 - [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
-- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
-- [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
-- [World&amp;#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
