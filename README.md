@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advocating for Open Models in AI Oversight: Stability AI&amp;#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
+- [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
+- [Beware Offers of “Help” with Your Projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
 - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-- [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
-- [On the foolishness of “natural language programming”](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
-- [Middleware &lpar;YC W23&rpar; Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
-- [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
+- [On the foolishness of “natural language programming” &lpar;1979&rpar;](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
