@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rolls-Royce tests &amp;#x27;game-changing&amp;#x27; greener UltraFan engine](https://www.bbc.com/news/uk-england-derbyshire-65633884)
+- [Seven.zip](https://7-zip.org/)
 - [Ask HN: Contradicting licensing information on .NET &amp;#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
 - [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
 - [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
-- [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
-- [The Rimac Nevera Just Shattered Pretty Much Every Acceleration Record](https://www.thedrive.com/news/the-rimac-nevera-just-shattered-pretty-much-every-acceleration-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
