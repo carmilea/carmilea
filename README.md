@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
+- [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
+- [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
 - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
-- [&lpar;Graphical&rpar; Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
-- [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
-- [Has ChatGPT Been Neutered?](https://news.ycombinator.com/item?id=35983824)
-- [DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
+- [Graphical Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
