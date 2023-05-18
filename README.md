@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rolls-Royce tests &amp;#x27;game-changing&amp;#x27; greener UltraFan engine](https://www.bbc.com/news/uk-england-derbyshire-65633884)
-- [Seven.zip](https://7-zip.org/)
-- [Ask HN: Contradicting licensing information on .NET &amp;#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
-- [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
-- [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
+- [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
+- [USDC&amp;#x27;s Circle Moves $8.7B to Repo Agreements to Protect Reserves from US Default](https://www.coindesk.com/business/2023/05/17/usdc-issuer-circle-moves-87b-to-repo-agreements-to-protect-reserves-from-us-government-default/)
+- [AI is coming to Google search through Search Generative Experience](https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io)
+- [YouTube on TVs getting unskippable 30-second and pause screen ads](https://9to5google.com/2023/05/17/youtube-tv-ads/)
+- [Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
