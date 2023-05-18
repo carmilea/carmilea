@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French resistance fighter, 98, reveals mass execution of German prisoners](https://www.theguardian.com/world/2023/may/18/french-resistance-fighter-98-reveals-mass-execution-of-german-prisoners)
+- [Inject My PDF: Prompt Injection for Your Resume](https://kai-greshake.de/posts/inject-my-pdf/)
+- [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
+- [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
 - [Linux Software Map](https://xteddy.org/lsm/)
 - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
-- [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
-- [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
