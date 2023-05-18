@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SingleStore Kai™ for MongoDB: Real-Time Analytics Benchmarks](https://www.singlestore.com/blog/singlestore-kai-real-time-analytics-benchmarks/)
+- [Introducing SingleStore Kai™ for MongoDB](https://www.singlestore.com/blog/introducing-singlestore-kai-for-mongodb/)
 - [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
 - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
 - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
-- [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
-- [Graphical Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
