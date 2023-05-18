@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Brings ChatGPT to iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
-- [Tell HN: Today Is Global Accessibility Awareness Day](https://news.ycombinator.com/item?id=35990320)
-- [‘In London there is no space at all’: the rise of self-storage as rents soar](https://www.theguardian.com/uk-news/2023/may/17/in-london-there-is-no-space-at-all-the-rise-of-self-storage-as-rents-soar)
-- [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
-- [The first version of Redis, written in Tcl &lpar;2009&rpar;](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
+- [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
+- [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
+- [Show HN: Blend](https://www.blendnow.com:443/)
+- [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
+- [Social network ad targeting can “listen into” conversations using “Live Photos”](https://twitter.com/benguild/status/1658899250590228500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
