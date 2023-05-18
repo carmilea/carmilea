@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+- [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 - [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
 - [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
 - [Simulated Hospital](https://github.com/google/simhospital)
-- [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
-- [Debian pauses &amp;#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
