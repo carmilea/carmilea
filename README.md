@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
-- [USDC&amp;#x27;s Circle Moves $8.7B to Repo Agreements to Protect Reserves from US Default](https://www.coindesk.com/business/2023/05/17/usdc-issuer-circle-moves-87b-to-repo-agreements-to-protect-reserves-from-us-government-default/)
-- [AI is coming to Google search through Search Generative Experience](https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io)
-- [YouTube on TVs getting unskippable 30-second and pause screen ads](https://9to5google.com/2023/05/17/youtube-tv-ads/)
-- [Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
+- [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
+- [Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
+- [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
+- [New Maintainer Steps Up for GCC Compiler&amp;#x27;s MIPS CPU Port](https://www.phoronix.com/news/GCC-MIPS-New-Maintainer)
+- [Apple&amp;#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
