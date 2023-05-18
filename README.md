@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
+- [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
 - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+- [Colima: Container runtimes on macOS &lpar;and Linux&rpar; with minimal setup](https://github.com/abiosoft/colima)
 - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
-- [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
-- [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
-- [Simulated Hospital](https://github.com/google/simhospital)
 <!-- BLOG-POST-LIST:END -->
 
 ---
