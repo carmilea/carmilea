@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
+- [French resistance fighter, 98, reveals mass execution of German prisoners](https://www.theguardian.com/world/2023/may/18/french-resistance-fighter-98-reveals-mass-execution-of-german-prisoners)
+- [Linux Software Map](https://xteddy.org/lsm/)
+- [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
+- [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
 - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
-- [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
-- [James Webb&amp;#x27;s &amp;#x27;too massive&amp;#x27; galaxies may be even more massive](https://phys.org/news/2023-05-james-webb-massive-galaxies.html)
-- [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
