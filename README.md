@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
+- [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
+- [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
-- [Show HN: Blend](https://www.blendnow.com:443/)
+- [James Webb&amp;#x27;s &amp;#x27;too massive&amp;#x27; galaxies may be even more massive](https://phys.org/news/2023-05-james-webb-massive-galaxies.html)
 - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
-- [Social network ad targeting can “listen into” conversations using “Live Photos”](https://twitter.com/benguild/status/1658899250590228500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
