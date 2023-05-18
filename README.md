@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
-- [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
-- [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+- [The hunt for the Titanic was a hunt for lost U.S. nuclear submarines &lpar;2018&rpar;](https://www.popularmechanics.com/military/navy-ships/a25603601/titanic-discovery-nuclear-submarines-navy/)
+- [DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
+- [New York City may be sinking under the weight of its skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
 - [Colima: Container runtimes on macOS &lpar;and Linux&rpar; with minimal setup](https://github.com/abiosoft/colima)
 - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 <!-- BLOG-POST-LIST:END -->
