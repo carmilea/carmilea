@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IntelligentPad &lpar;1989&rpar; a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
+- [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
+- [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
+- [Simulated Hospital](https://github.com/google/simhospital)
 - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
 - [Debian pauses &amp;#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
-- [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
-- [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
