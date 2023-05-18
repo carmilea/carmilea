@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
+- [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
+- [Passage by 1Password](https://blog.1password.com/passage-by-1password/)
 - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 - [Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
-- [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
-- [New Maintainer Steps Up for GCC Compiler&amp;#x27;s MIPS CPU Port](https://www.phoronix.com/news/GCC-MIPS-New-Maintainer)
-- [Apple&amp;#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
