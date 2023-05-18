@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where can I see Hokusai&amp;#x27;s Great Wave today?](https://greatwavetoday.com)
-- [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
-- [SingleStore Kai™ for MongoDB: Real-Time Analytics Benchmarks](https://www.singlestore.com/blog/singlestore-kai-real-time-analytics-benchmarks/)
-- [Introducing SingleStore Kai™ for MongoDB](https://www.singlestore.com/blog/introducing-singlestore-kai-for-mongodb/)
-- [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
+- [Ask HN: Contradicting licensing information on .NET &amp;#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
+- [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
+- [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
+- [The Rimac Nevera Just Shattered Pretty Much Every Acceleration Record](https://www.thedrive.com/news/the-rimac-nevera-just-shattered-pretty-much-every-acceleration-record)
+- [The Case for Bash &lpar;2021&rpar;](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
