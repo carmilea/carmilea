@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The hunt for the Titanic was a hunt for lost U.S. nuclear submarines &lpar;2018&rpar;](https://www.popularmechanics.com/military/navy-ships/a25603601/titanic-discovery-nuclear-submarines-navy/)
+- [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
+- [&lpar;Graphical&rpar; Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
+- [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
+- [Has ChatGPT Been Neutered?](https://news.ycombinator.com/item?id=35983824)
 - [DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
-- [New York City may be sinking under the weight of its skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
-- [Colima: Container runtimes on macOS &lpar;and Linux&rpar; with minimal setup](https://github.com/abiosoft/colima)
-- [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
