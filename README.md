@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The American Dream convinces people loneliness is normal](https://english.elpais.com/usa/2023-05-16/how-the-american-dream-convinces-people-loneliness-is-normal.html)
 - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+- [AC3D is a 3D mesh editor that uses Tcl&amp;#x2F;Tk for the UI](http://www.inivis.com/)
 - [Thirty Minutes or Less: An Oral History of the LØpht, Part Three](https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three)
 - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
