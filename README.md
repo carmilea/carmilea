@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GeForce RTX 4060 Ti and 4060 Graphics Cards](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4060-4060ti/)
-- [Stop Saying C&amp;#x2F;C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
-- [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
-- [ArxivGen: Generative Research ArXiv, 100% AI Powered](http://arxivgen.com/)
+- [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
+- [High-performance tidy trees visualization &lpar;2022&rpar;](https://www.zxch3n.com/tidy/tidy/)
+- [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
 - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+- [Recreating Medieval English Ales &lpar;1998&rpar;](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
