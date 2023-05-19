@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyTorch Primitives in WebGPU for the Browser](https://praeclarum.org/2023/05/19/webgpu-torch.html)
-- [Opposite of Courage Is Conformity](https://www.clues.life/stories/rollo-may)
-- [x86-S External Architectural Specification](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
-- [Rocky Linux 8.8 Available Now](https://rockylinux.org/news/rocky-linux-8-8-ga-release/)
-- [AmpereOne with 192 Cores 128x PCIe Gen5 Lanes and DDR5 in 2023](https://www.servethehome.com/ampereone-with-192-cores-128x-pcie-gen5-lanes-and-ddr5-in-2023-arm/)
+- [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
+- [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
+- [Envisioning a Simplified Intel Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
+- [Nyxt: The Hacker&amp;#x27;s Browser](https://nyxt.atlas.engineer/)
+- [Building a weather station](https://drwho.virtadpt.net/archive/2023-04-28/building-a-weather-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
