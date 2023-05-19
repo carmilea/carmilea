@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [Samsung eyes chip facility in Japan amid thaw in Seoul-Tokyo relations](https://m.koreaherald.com/view.php?ud=20230515000614)
+- [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
+- [Memfault &lpar;YC W19&rpar; is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
-- [Ask HN: Is Moore&amp;#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
 - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
+- [Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
