@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tunnel via Cloudflare to Any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
+- [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
+- [It’s Time to Embrace Slow Productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
 - [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
-- [Envisioning a Simplified Intel Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
-- [Nyxt: The Hacker&amp;#x27;s Browser](https://nyxt.atlas.engineer/)
-- [Building a weather station](https://drwho.virtadpt.net/archive/2023-04-28/building-a-weather-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
