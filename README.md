@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)
+- [Supreme Court Won’t Hold Tech Companies Liable for User Posts](https://www.nytimes.com/2023/05/18/us/politics/supreme-court-google-twitter-230.html)
 - [I lived in LA and commuted to Berkeley by plane to save on rent](https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/)
 - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 - [High-performance tidy trees visualization &lpar;2022&rpar;](https://www.zxch3n.com/tidy/tidy/)
-- [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
-- [Recreating Medieval English Ales &lpar;1998&rpar;](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
