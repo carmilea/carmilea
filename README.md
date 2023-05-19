@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
-- [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
-- [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
-- [Uber attempting to reduce office space in SF &amp;#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
-- [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
+- [California’s Water Rights and Investment](https://onthepublicrecord.org/2009/04/29/california%e2%80%99s-water-rights-and-investment/)
+- [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
+- [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
+- [US Air Force Shoots Down Drone Swarm with THOR Microwave Weapon](https://www.thedefensepost.com/2023/05/18/us-drone-swarm-thor/)
+- [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
