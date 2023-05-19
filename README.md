@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [12-Year-Old to Graduate from College with Five Degrees](https://www.nbclosangeles.com/news/local/12-year-old-boy-graduate-fullerton-college-five-degrees/3155497/)
 - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 - [High-performance tidy trees visualization &lpar;2022&rpar;](https://www.zxch3n.com/tidy/tidy/)
 - [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
 - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
-- [Recreating Medieval English Ales &lpar;1998&rpar;](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
