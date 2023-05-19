@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
-- [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
+- [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
+- [Uber attempting to reduce office space in SF &amp;#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
+- [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
 - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
 - [Debian 12 &amp;#x27;Bookworm&amp;#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
-- [Ask HN: Will AI result in mass silo-ing of new knowledge?](https://news.ycombinator.com/item?id=36003507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
