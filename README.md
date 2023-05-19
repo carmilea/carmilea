@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
+- [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
+- [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
 - [Uber attempting to reduce office space in SF &amp;#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
-- [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
-- [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
-- [Debian 12 &amp;#x27;Bookworm&amp;#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
+- [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
