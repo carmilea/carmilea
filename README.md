@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Product Launch: 100x faster JSON analytics on MongoDB](https://www.youtube.com/watch?v=9KANCPKLOmA)
 - [Faster JSON Analytics in Five Minutes: SingleStore Kai™ for MongoDB](https://www.youtube.com/watch?v=DzjnUych80k)
 - [Introducing SingleStore Kai™ for MongoDB](https://www.youtube.com/watch?v=y3yxJ-8RvYw)
 - [Product Demo: SingleStore Kai™ for MongoDB](https://www.youtube.com/watch?v=ljIYqJJhxHc)
 - [Customer Success in 30 Seconds: Nucleus Security](https://www.youtube.com/watch?v=pzdmOTOP1lk)
-- [Customer Success in 30 Seconds: Arcules](https://www.youtube.com/watch?v=efhD7iBslgk)
 <!-- YOUTUBE:END -->
 
 
