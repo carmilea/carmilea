@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
-- [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
-- [A new chapter for CodeWeavers and myself – trust me](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me)
-- [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
-- [Here’s How AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
+- [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
+- [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
+- [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
+- [Debian 12 &amp;#x27;Bookworm&amp;#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
+- [Ask HN: Will AI result in mass silo-ing of new knowledge?](https://news.ycombinator.com/item?id=36003507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
