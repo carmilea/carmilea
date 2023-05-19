@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update of the RDF and SPARQL &lpar;RDF star&rpar; families of specifications](https://www.w3.org/blog/news/archives/9906)
 - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
-- [First Solar Bike Path in Germany Is Now Live](https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/)
+- [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
+- [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
-- [CppCon 2022 Best Practices Every C++ Programmer Needs to Follow – Oz Syed](https://isocpp.org//blog/2023/05/cppcon-2022-best-practices-every-cpp-programmer-needs-to-follow-oz-syed)
-- [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
