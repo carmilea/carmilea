@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- [Samsung eyes chip facility in Japan amid thaw in Seoul-Tokyo relations](https://m.koreaherald.com/view.php?ud=20230515000614)
+- [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
+- [Ask HN: Is Moore&amp;#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
 - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
-- [Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)
-- [I lived in LA and commuted to Berkeley by plane to save on rent](https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/)
-- [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
-- [High-performance tidy trees visualization &lpar;2022&rpar;](https://www.zxch3n.com/tidy/tidy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
