@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi CEO Eben Upton Discusses Stock Updates, Industry Prioritization](https://www.tomshardware.com/news/raspberry-pi-ceo-eben-upton-discusses-stock-updates-industry-prioritization)
 - [With new trade deal, Big Tech wants to be above the law](https://proton.me/blog/big-tech-ipef)
 - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
 - [Hands-Free Coding &lpar;2020&rpar;](https://www.joshwcomeau.com/blog/hands-free-coding/)
 - [Memfault &lpar;YC W19&rpar; is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
