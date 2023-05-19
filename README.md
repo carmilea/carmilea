@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Update of the RDF and SPARQL &lpar;RDF star&rpar; families of specifications](https://www.w3.org/blog/news/archives/9906)
-- [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
-- [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
-- [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
-- [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
+- [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
+- [AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
+- [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
+- [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
+- [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
