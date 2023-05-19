@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
+- [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
+- [A new chapter for CodeWeavers and myself – trust me](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me)
 - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
-- [AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
-- [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
-- [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
-- [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
+- [Here’s How AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
