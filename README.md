@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California’s Water Rights and Investment](https://onthepublicrecord.org/2009/04/29/california%e2%80%99s-water-rights-and-investment/)
-- [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
-- [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
-- [US Air Force Shoots Down Drone Swarm with THOR Microwave Weapon](https://www.thedefensepost.com/2023/05/18/us-drone-swarm-thor/)
-- [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
+- [PyTorch Primitives in WebGPU for the Browser](https://praeclarum.org/2023/05/19/webgpu-torch.html)
+- [Opposite of Courage Is Conformity](https://www.clues.life/stories/rollo-may)
+- [x86-S External Architectural Specification](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
+- [Rocky Linux 8.8 Available Now](https://rockylinux.org/news/rocky-linux-8-8-ga-release/)
+- [AmpereOne with 192 Cores 128x PCIe Gen5 Lanes and DDR5 in 2023](https://www.servethehome.com/ampereone-with-192-cores-128x-pcie-gen5-lanes-and-ddr5-in-2023-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
