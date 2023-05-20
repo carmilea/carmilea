@@ -55,7 +55,7 @@
 - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
-- [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
+- [Counterintuitive Properties of High Dimensional Space &lpar;2018&rpar;](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
