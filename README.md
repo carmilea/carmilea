@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France is fighting to save your iPhone from an early death](https://www.wired.com/story/right-to-repair-apple-france/)
+- [Neeva &lpar;search engine with a privacy and AI focus&rpar; is shutting down](https://neeva.com/blog/may-announcement)
+- [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
+- [Intel Explores Transition to 64-Bit-Only X86S Architecture](https://www.tomshardware.com/news/intel-ponders-transition-to-64-bit-only-x86s-architecture)
 - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
-- [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
-- [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
-- [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
+- [Attention, Hollywood: De-Aging Isn’t Working, So Please Stop Using It](https://variety.com/2023/film/awards/indiana-jones-5-harrison-ford-de-aging-not-working-1235618698/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
