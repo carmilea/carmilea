@@ -54,8 +54,8 @@
 - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
 - [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
 - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
+- [Axle OS](https://axleos.com/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
-- [The professor who made $10B by cutting Google its first startup check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
