@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home schooling can challenge our beliefs about education](https://www.prospectmagazine.co.uk/society/44818/how-home-schooling-can-challenge-our-beliefs-about-education)
 - [Hitler’s Antarctic base: the myth and the reality [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
 - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
-- [Counterintuitive Properties of High Dimensional Space &lpar;2018&rpar;](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
