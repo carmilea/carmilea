@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
+- [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
+- [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
-- [HP 15C Collector’s Edition &lpar;preorder&rpar;](https://hpcalcs.com/product/hp-15c-collectors-edition/)
-- [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
-- [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
-- [It’s time to embrace slow productivity &lpar;2022&rpar;](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
+- [The professor who made $10B by cutting Google its first startup check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
