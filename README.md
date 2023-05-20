@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 - [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 - [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
 - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 - [Hitler’s Antarctic base: the myth and the reality [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
-- [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 <!-- BLOG-POST-LIST:END -->
 
 ---
