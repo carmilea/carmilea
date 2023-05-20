@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
+- [France is fighting to save your iPhone from an early death](https://www.wired.com/story/right-to-repair-apple-france/)
+- [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
 - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
-- [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 <!-- BLOG-POST-LIST:END -->
 
 ---
