@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
+- [Lojban: Constructed language to eliminate ambiguity from communication](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
+- [The KIM-1 that sounds like Stephen Hawking &lpar;or: “jitbanging” DECtalk&rpar;](http://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
 - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
-- [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
-- [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
-- [Axle OS](https://axleos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
