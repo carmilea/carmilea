@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
+- [I helped Pfizer think through the ethics of Viagra 25 years ago](https://www.statnews.com/2023/05/19/viagra-25th-anniversary-fda-approval-ethics-pfizer/)
+- [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
+- [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 - [Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery](https://www.nytimes.com/2023/05/20/business/mykonos-greece-construction-tourism.html)
-- [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
-- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
-- [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
-- [Does AI mean we don&amp;#x27;t need the Semantic Web?](https://shkspr.mobi/blog/2023/05/does-ai-mean-we-dont-need-the-semantic-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
