@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
+- [China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7)
 - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 - [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
-- [Dwgd: Docker WireGuard Driver](https://github.com/leomos/dwgd)
-- [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
-- [Sadist – An old DOS game from 1998](https://github.com/GadZombie/sadist)
+- [How Somali workers in the US are fighting Amazon’s surveillance machine](https://www.codastory.com/authoritarian-tech/amazon-workers-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
