@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+- [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
 - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
-- [Sadist &lpar;a Polish indie kill&amp;#x27;em all game from 1998&rpar; gets open-sourced](https://github.com/GadZombie/sadist)
-- [Why US can&amp;#x27;t have nice things](https://walkingtheworld.substack.com/p/why-the-us-cant-have-nice-things)
-- [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
-- [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
+- [Sadist – An old DOS game from 1998](https://github.com/GadZombie/sadist)
+- [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
