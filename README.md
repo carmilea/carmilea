@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
 - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
 - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
 - [Axle OS](https://axleos.com/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
