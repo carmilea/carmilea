@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
+- [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
-- [I helped Pfizer think through the ethics of Viagra 25 years ago](https://www.statnews.com/2023/05/19/viagra-25th-anniversary-fda-approval-ethics-pfizer/)
 - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
 - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
-- [Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery](https://www.nytimes.com/2023/05/20/business/mykonos-greece-construction-tourism.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
