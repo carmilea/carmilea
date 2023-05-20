@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 - [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
+- [Dwgd: Docker WireGuard Driver](https://github.com/leomos/dwgd)
 - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 - [Sadist – An old DOS game from 1998](https://github.com/GadZombie/sadist)
-- [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
