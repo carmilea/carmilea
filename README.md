@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of the Accounting Search](https://lwn.net/Articles/925782/)
+- [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
-- [The New Bar Exam Puts DEI over Lawyer Competence](https://www.wsj.com/articles/the-new-bar-exam-puts-dei-over-competence-ncbe-family-law-schools-9c0dd4e8)
 - [Study finds 90% of Australian teachers can&amp;#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
-- [The Bill of Materials for the Apple Headset Leaked Online](https://twitter.com/cixliv/status/1660038281034350592)
 - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 <!-- BLOG-POST-LIST:END -->
 
