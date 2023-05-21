@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nonprofits are sapping the progressive project](https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive)
+- [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
+- [Symbolics Lisp Machines Graphics Demo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
+- [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
 - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
-- [China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7)
-- [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
-- [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
-- [How Somali workers in the US are fighting Amazon’s surveillance machine](https://www.codastory.com/authoritarian-tech/amazon-workers-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
