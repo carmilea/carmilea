@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
-- [Little Languages for Music &lpar;1990&rpar; [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
-- [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
-- [Writing Python like it&amp;#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
-- [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
+- [GitHub – GEIGEIGEIST&amp;#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
+- [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
+- [Ask HN: Are App Store anti-steering rules dead now?](https://news.ycombinator.com/item?id=36019391)
+- [The Absurdity Of Stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
+- [How AI coding companions will change the way developers work](https://www.allthingsdistributed.com/2023/04/how-ai-coding-companions-will-change-the-way-developers-work.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
