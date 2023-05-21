@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of the Accounting Search](https://lwn.net/Articles/925782/)
+- [Plain Text Accounting](https://plaintextaccounting.org/)
+- [US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
+- [The Drakon Language](https://drakonhub.com/en/drakon)
+- [The end of the accounting search](https://lwn.net/Articles/925782/)
 - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
-- [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
-- [Study finds 90% of Australian teachers can&amp;#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
-- [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
