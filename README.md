@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+- [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
 - [Plain Text Accounting](https://plaintextaccounting.org/)
-- [US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
-- [The Drakon Language](https://drakonhub.com/en/drakon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
