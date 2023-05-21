@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub – GEIGEIGEIST&amp;#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
-- [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
-- [Ask HN: Are App Store anti-steering rules dead now?](https://news.ycombinator.com/item?id=36019391)
-- [The Absurdity Of Stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
-- [How AI coding companions will change the way developers work](https://www.allthingsdistributed.com/2023/04/how-ai-coding-companions-will-change-the-way-developers-work.html)
+- [Windows 11 is so broken that even Microsoft can’t fix it](https://www.techradar.com/news/windows-11-is-so-broken-that-even-microsoft-cant-fix-it)
+- [Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
+- [Arch Linux: Git migration completed](https://archlinux.org/news/git-migration-completed/)
+- [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
+- [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 <!-- BLOG-POST-LIST:END -->
 
 ---
