@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Feynman Lectures on Physics now online](https://www.feynmanlectures.caltech.edu/)
 - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
 - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
 - [Symbolics Lisp Machines Graphics Demo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 - [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
-- [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
