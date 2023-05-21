@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 is so broken that even Microsoft can’t fix it](https://www.techradar.com/news/windows-11-is-so-broken-that-even-microsoft-cant-fix-it)
+- [Study finds 90% of Australian teachers can&amp;#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
+- [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
+- [Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
 - [Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
-- [Arch Linux: Git migration completed](https://archlinux.org/news/git-migration-completed/)
-- [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
-- [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
+- [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
