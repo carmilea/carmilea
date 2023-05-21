@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
+- [Little Languages for Music &lpar;1990&rpar; [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
 - [Writing Python like it&amp;#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
-- [The AI revolution already transforming education](https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c)
-- [America’s skepticism toward the first automobiles &lpar;1930&rpar;](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
