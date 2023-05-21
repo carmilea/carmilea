@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
+- [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
 - [Plain Text Accounting](https://plaintextaccounting.org/)
 - [US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
 - [The Drakon Language](https://drakonhub.com/en/drakon)
-- [The end of the accounting search](https://lwn.net/Articles/925782/)
-- [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
