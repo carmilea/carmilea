@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
-- [How much memory do you need to run 1M concurrent tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
-- [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
-- [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
-- [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
+- [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
+- [Ask HN: What&amp;#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
+- [LLVM&amp;#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
+- [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
+- [Noise is all around us](https://thewalrus.ca/noise-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
