@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America’s Skepticism Toward the First Automobiles &lpar;2017&rpar;](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
+- [The Raygun Conspiracy](https://www.youtube.com/watch?v=zTZAQSEcPGc)
+- [The lefty Europeans who want to deliberately shrink the economy](https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy)
 - [Feynman Lectures on Physics &lpar;1964&rpar;](https://www.feynmanlectures.caltech.edu/)
-- [Pygame game won best graphics in Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
-- [Calm Down About GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
-- [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
-- [Symbolics Lisp Machines Graphics Demo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
+- [Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
