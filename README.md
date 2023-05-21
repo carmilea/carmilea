@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI revolution already transforming education](https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c)
 - [America’s Skepticism Toward the First Automobiles &lpar;2017&rpar;](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
+- [KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
 - [The Raygun Conspiracy](https://www.youtube.com/watch?v=zTZAQSEcPGc)
-- [The lefty Europeans who want to deliberately shrink the economy](https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy)
 - [Feynman Lectures on Physics &lpar;1964&rpar;](https://www.feynmanlectures.caltech.edu/)
-- [Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
