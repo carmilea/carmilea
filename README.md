@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
 - [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
-- [High-Performance Graph Databases](https://arxiv.org/abs/2305.11162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
