@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Examining puppeteer fungus&amp;#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
-- [Roblox: Ten-year-old spent £2,500 of mum&amp;#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
-- [Ask HN: I Want to have a small Linux laptop. What are my options?](https://news.ycombinator.com/item?id=36031789)
-- [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
-- [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
+- [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
+- [That ChatGPT iPhone app has serious privacy issues you need to know about](https://www.techradar.com/news/that-chatgpt-iphone-app-has-serious-privacy-issues-you-need-to-know-about)
+- [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
+- [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
+- [Stippling and Blue Noise &lpar;2011&rpar;](https://www.joesfer.com/?p=108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
