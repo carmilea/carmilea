@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
 - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
-- [Having a 20GB file that lets you ask an offline computer any question is amazing](https://old.reddit.com/r/LocalLLaMA/comments/128tp9n/having_a_20_gig_file_that_you_can_ask_an_offline/)
+- [How to Be a Know-It-All](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all)
 - [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
-- [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
