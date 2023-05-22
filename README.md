@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mike Rowe&amp;#x27;s warning to white collar workers &amp;#x27;The robots are coming&amp;#x27; for your job](https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job)
+- [Examining puppeteer fungus&amp;#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
+- [Roblox: Ten-year-old spent £2,500 of mum&amp;#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
+- [Ask HN: I Want to have a small Linux laptop. What are my options?](https://news.ycombinator.com/item?id=36031789)
 - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
-- [The Most Underrated Sci-Fi Movies of the 1970s](https://www.denofgeek.com/movies/most-underrated-sci-fi-movies-of-the-1970s/)
-- [Show HN: I made an iOS HN app to navigate large threads without getting lost](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
