@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
+- [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
+- [Having a 20GB file that lets you ask an offline computer any question is amazing](https://old.reddit.com/r/LocalLLaMA/comments/128tp9n/having_a_20_gig_file_that_you_can_ask_an_offline/)
 - [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
 - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
-- [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
-- [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
-- [Beej&amp;#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
