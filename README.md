@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar farms took over California desert: ‘An oasis has become a dead sea’](https://www.theguardian.com/us-news/2023/may/21/solar-farms-energy-power-california-mojave-desert)
+- [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
+- [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
+- [Golden parachutes: Record severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
 - [A highly intuitive visual guide on how memory allocation works, step by step](https://samwho.dev/memory-allocation/)
-- [Noyb win: € 1.2B fine against Meta over EU-US data transfers](https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation)
-- [VSCode Security: Malicious Extensions Detected- More Than 45,000 Downloads](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
