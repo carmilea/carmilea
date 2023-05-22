@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
+- [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 - [The Open Buddhist University](https://buddhistuniversity.net/)
 - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 - [A temperature rise of 2 degrees Celsius impacts billions](https://www.dw.com/en/how-a-temperature-rise-of-2-degrees-celsius-impacts-billions/a-65695800)
-- [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
-- [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
