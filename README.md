@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&amp;#x27;ll own nothing and be happy](https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy)
+- [Lawsuit accuses DoorDash of charging iPhone users more for identical orders](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
+- [Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
+- [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
+- [When will global warming hit the landmark 1.5 ºC limit?](https://www.nature.com/articles/d41586-023-01702-w)
 - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
-- [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
-- [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
-- [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
