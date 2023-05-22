@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mike Rowe&amp;#x27;s warning to white collar workers &amp;#x27;The robots are coming&amp;#x27; for your job](https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job)
 - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
+- [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 - [The Most Underrated Sci-Fi Movies of the 1970s](https://www.denofgeek.com/movies/most-underrated-sci-fi-movies-of-the-1970s/)
 - [Show HN: I made an iOS HN app to navigate large threads without getting lost](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
-- [UK&amp;#x27;s GDPR replacement could wipe out oversight of live facial recognition](https://www.theregister.com/2023/05/19/dpib_2_surveillance_oversight/)
-- [Show HN: I built a web app for learning Vim from the browser as a 17-year-old](https://www.vimninja.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
