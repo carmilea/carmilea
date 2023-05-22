@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
+- [What It Was Like to Live Inside Habitat 67](https://www.architecturaldigest.com/story/what-it-was-like-to-live-inside-habitat-67)
 - [What if you did the exact opposite, like rogue bees do &lpar;2020&rpar;](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
-- [Meta AI announces Massive Multilingual Speech code &amp;amp; models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
-- [iPhone maker Wistron quits, saying Apple didn&amp;#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
-- [Ethical, societal implications of genome-wide behavioral, brain-related traits](https://www.nature.com/articles/s41593-023-01333-4)
+- [Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
