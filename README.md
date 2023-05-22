@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
+- [Nvidia, Rolls-Royce Announce Quantum Computing Breakthrough for CFD in Jets](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines)
 - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
 - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
-- [How to Be a Know-It-All](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all)
-- [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
