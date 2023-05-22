@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
+- [Bedr00mZ: Nobody Prepared Me for That](https://bedr00mz.neocities.org/)
+- [Winamp Clone Whips the Llama&amp;#x27;s Ass on an Espressif ESP32](https://www.hackster.io/news/cheng-liang-s-lvgl-driven-winamp-clone-really-whips-the-llama-s-ass-on-an-espressif-esp32-2948716adcbb)
 - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
-- [Nvidia, Rolls-Royce Announce Quantum Computing Breakthrough for CFD in Jets](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines)
-- [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
-- [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
-- [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
+- [Why your team doesn&amp;#x27;t need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
