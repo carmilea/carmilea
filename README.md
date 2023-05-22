@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
+- [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
 - [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
 - [Ask HN: Is there a webapp to input&amp;#x2F;store your blood test results?](https://news.ycombinator.com/item?id=36025977)
 - [Beej&amp;#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
-- [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
-- [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
