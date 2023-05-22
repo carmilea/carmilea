@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK&amp;#x27;s GDPR replacement could wipe out oversight of live facial recognition](https://www.theregister.com/2023/05/19/dpib_2_surveillance_oversight/)
+- [Russia’s army is learning and improving on the battlefield](https://www.economist.com/europe/2023/05/21/russias-army-is-learning-on-the-battlefield)
+- [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
 - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
 - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
-- [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
-- [Golden parachutes: Record severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
-- [A highly intuitive visual guide on how memory allocation works, step by step](https://samwho.dev/memory-allocation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
