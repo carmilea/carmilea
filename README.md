@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lawsuit accuses DoorDash of charging iPhone users more for identical orders](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
-- [Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
-- [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
-- [When will global warming hit the landmark 1.5 ºC limit?](https://www.nature.com/articles/d41586-023-01702-w)
-- [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
+- [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
+- [What if you did the exact opposite, like rogue bees do &lpar;2020&rpar;](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
+- [Meta AI announces Massive Multilingual Speech code &amp;amp; models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+- [iPhone maker Wistron quits, saying Apple didn&amp;#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
+- [Ethical, societal implications of genome-wide behavioral, brain-related traits](https://www.nature.com/articles/s41593-023-01333-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
