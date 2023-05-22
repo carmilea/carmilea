@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
-- [Ask HN: What&amp;#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
-- [LLVM&amp;#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
+- [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
+- [Ask HN: Is there a webapp to input&amp;#x2F;store your blood test results?](https://news.ycombinator.com/item?id=36025977)
+- [Beej&amp;#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
-- [Noise is all around us](https://thewalrus.ca/noise-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
