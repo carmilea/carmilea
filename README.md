@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
+- [r&amp;#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 - [Demystifying Tupper&amp;#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
-- [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
-- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
