@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
+- [Why I Use Elm in 2023](https://taylor.town/elm-2023)
+- [AI scanner used in hundreds of US schools misses knives](https://www.bbc.co.uk/news/technology-65342798)
+- [Microtiming in Metallica&amp;#x27;s “Master of Puppets” &lpar;2014&rpar;](https://metalintheory.com/metallica-master-of-puppets/)
 - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
-- [Why are we more and more talking about the past here on HN?](https://news.ycombinator.com/item?id=36042066)
-- [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
-- [Palm-sized PC might contain the future of gadget cooling](https://www.theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price)
-- [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
