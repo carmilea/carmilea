@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
+- [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
+- [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
 - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
-- [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 - [The Open Buddhist University](https://buddhistuniversity.net/)
-- [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
-- [A temperature rise of 2 degrees Celsius impacts billions](https://www.dw.com/en/how-a-temperature-rise-of-2-degrees-celsius-impacts-billions/a-65695800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
