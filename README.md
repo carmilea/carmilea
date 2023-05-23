@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
+- [UK to crack down on plant-based food and drink labels](https://unearthed.greenpeace.org/2023/05/20/plant-based-dairy-marketing-lobbying/)
+- [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
+- [An auto CEO came close to saying the right thing about heavy EV batteries](https://www.theverge.com/2023/5/22/23733215/ford-ev-battery-size-weight-safety-jim-farley)
 - [Ableton Push 3](https://www.ableton.com/en/push/)
-- [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
-- [Show HN: MrScraper AI – Dead simple web scraper &lpar;powered by AI&rpar;](https://mrscraper.com/ai)
-- [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
-- [r&amp;#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
