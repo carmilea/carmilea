@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Philip K. Dick&amp;#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
+- [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
+- [Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 - [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
-- [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
-- [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
-- [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
-- [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
+- [Not Even a Recession: The Great German Gas Debate in Retrospect [pdf]](https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute_PB_048_2023_EN.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
