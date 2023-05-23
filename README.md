@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
+- [Launch HN: Common Paper &lpar;YC W23&rpar; – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
 - [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
 - [Imperial College working with Royal Navy on system to replace GPS on ships](https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/)
-- [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
-- [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
