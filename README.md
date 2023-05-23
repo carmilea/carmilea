@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
+- [Nginx 1.25.0: experimental HTTP&amp;#x2F;3 support](http://nginx.org/en/CHANGES)
+- [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
 - [Santé &lpar;YC S23&rpar; Is Hiring – Building a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Beng31R-founding-engineer-full-stack)
-- [Social Media and Youth Mental Health](https://www.hhs.gov/surgeongeneral/priorities/youth-mental-health/social-media/index.html)
-- [The Damage to Lunar Orbiting Spacecraft Caused by the Ejecta of Lunar Landers](https://arxiv.org/abs/2305.12234)
-- [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
-- [I Block Ads](https://coryd.dev/posts/2023/i-block-ads/)
+- [Let&amp;#x27;s Talk about ChatGPT with Code Interpreter and Microsoft Copilot](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange)
 <!-- BLOG-POST-LIST:END -->
 
 ---
