@@ -55,7 +55,7 @@
 - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
 - [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
 - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
-- [Why do recipe writers lie and lie about how long it takes to caramelize onions? &lpar;2012&rpar;](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
+- [Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
