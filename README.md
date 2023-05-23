@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Update on Sharing](https://about.netflix.com/en/news/update-on-sharing-may-us)
-- [30% of All Rural Hospitals in the US Are at Risk of Closing [pdf]](https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
+- [Correct Horse Battery Staple: Secure Password Generator](https://www.correcthorsebatterystaple.net/index.html)
 - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
 - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
 - [Nginx 1.25.0: experimental HTTP&amp;#x2F;3 support](http://nginx.org/en/CHANGES)
+- [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
