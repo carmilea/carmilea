@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
-- [Launch HN: Common Paper &lpar;YC W23&rpar; – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
-- [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
-- [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
-- [Imperial College working with Royal Navy on system to replace GPS on ships](https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/)
+- [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
+- [EU rules allowing use of spyware against journalists need “fine-tuning”](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
+- [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
+- [Show HN: Open-Source, AI Powered Notebooks for SRE Teams](https://unskript.com/developers)
+- [A Guide to Continuous Data Quality Monitoring for AWS Athena](https://www.lariatdata.com/blog/continuous-data-quality-athena)
 <!-- BLOG-POST-LIST:END -->
 
 ---
