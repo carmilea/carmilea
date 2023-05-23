@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio &lpar;YC S15&rpar; Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
-- [Why I Use Elm in 2023](https://taylor.town/elm-2023)
-- [AI scanner used in hundreds of US schools misses knives](https://www.bbc.co.uk/news/technology-65342798)
-- [Microtiming in Metallica&amp;#x27;s “Master of Puppets” &lpar;2014&rpar;](https://metalintheory.com/metallica-master-of-puppets/)
-- [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
+- [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
+- [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
+- [Imperial College working with Royal Navy on system to replace GPS on ships](https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/)
+- [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
+- [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
