@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Correct Horse Battery Staple: Secure Password Generator](https://www.correcthorsebatterystaple.net/index.html)
+- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
+- [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
+- [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
 - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
 - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
-- [Nginx 1.25.0: experimental HTTP&amp;#x2F;3 support](http://nginx.org/en/CHANGES)
-- [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
