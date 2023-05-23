@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ableton Push 3](https://www.ableton.com/en/push/)
+- [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
+- [Show HN: MrScraper AI – Dead simple web scraper &lpar;powered by AI&rpar;](https://mrscraper.com/ai)
 - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 - [r&amp;#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
-- [Demystifying Tupper&amp;#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
-- [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
-- [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
