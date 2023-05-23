@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steal This Idea: The Larger the Car, the More You Pay to Park](https://usa.streetsblog.org/2023/05/16/heres-a-big-idea-the-larger-the-car-the-more-you-pay-to-park-the-damn-thing/)
+- [Demystifying Tupper&amp;#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
+- [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 - [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
 - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
-- [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
-- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
-- [Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
