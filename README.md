@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
 - [Philip K. Dick&amp;#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
 - [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
-- [Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 - [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
 - [Not Even a Recession: The Great German Gas Debate in Retrospect [pdf]](https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute_PB_048_2023_EN.pdf)
 <!-- BLOG-POST-LIST:END -->
