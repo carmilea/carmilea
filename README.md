@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
-- [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
-- [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
-- [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
-- [The Open Buddhist University](https://buddhistuniversity.net/)
+- [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
+- [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
+- [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
+- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+- [Why do recipe writers lie and lie about how long it takes to caramelize onions? &lpar;2012&rpar;](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
