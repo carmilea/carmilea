@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
 - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
-- [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
