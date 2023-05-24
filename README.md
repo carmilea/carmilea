@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do average tech companies care about felony probation for SWE?](https://news.ycombinator.com/item?id=36053060)
-- [Alpaca RLHF-ed to beat ChatGPT](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html)
+- [A Housing Bust Comes for Thousands of Small-Time Investors](https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3)
 - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
 - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
 - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
+- [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
