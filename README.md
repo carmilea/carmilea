@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password won&amp;#x27;t accept my payment](https://news.ycombinator.com/item?id=36057318)
+- [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Peloton CEO quit after laying off 2,800. A lesson about how not to lead &lpar;2022&rpar;](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
 - [You don&amp;#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
-- [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
-- [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
