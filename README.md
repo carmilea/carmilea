@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1Password won&amp;#x27;t accept my payment](https://news.ycombinator.com/item?id=36057318)
-- [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Peloton CEO quit after laying off 2,800. A lesson about how not to lead &lpar;2022&rpar;](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
-- [You don&amp;#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
+- [Finland&amp;#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
+- [Pump the brakes on your police’s use of Flock’s &lpar;YC17&rpar; mass surveillance](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
+- [Ask HN: Has anyone switched from a professional job to a &lpar;more&rpar; manual one?](https://news.ycombinator.com/item?id=36057665)
+- [Indiana, Iowa, and Tennessee Pass Comprehensive Privacy Laws](https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html)
+- [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 <!-- BLOG-POST-LIST:END -->
 
 ---
