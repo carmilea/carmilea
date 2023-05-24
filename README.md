@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
+- [Microsoft is integrating Copilot into Windows 11](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
+- [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
+- [Simple exercise to eliminate gastroesophageal reflux &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 - [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
-- [Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
-- [Ask HN: What tools would make your Kubernetes development experience better?](https://news.ycombinator.com/item?id=36058598)
-- [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
-- [Finland&amp;#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
