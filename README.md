@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Peloton CEO quit after laying off 2,800. A lesson about how not to lead &lpar;2022&rpar;](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
+- [You don&amp;#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
 - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
-- [The hypergamy hypothesis: much more than you wanted to know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
 - [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
-- [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
