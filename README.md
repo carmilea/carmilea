@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
-- [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
+- [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+- [The hypergamy hypothesis: much more than you wanted to know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
+- [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
-- [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
-- [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
+- [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
