@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
 - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
-- [Microsoft is integrating Copilot into Windows 11](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
+- [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
 - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
-- [Simple exercise to eliminate gastroesophageal reflux &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
-- [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
+- [A college student reached $64k&amp;#x2F;mo in 6 months by being an AI first mover](https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
