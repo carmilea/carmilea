@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
 - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
 - [The hypergamy hypothesis: much more than you wanted to know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
 - [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
-- [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
