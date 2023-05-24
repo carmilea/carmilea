@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu/)
+- [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
 - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
