@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
+- [Launch HN: Dittofeed &lpar;YC S22&rpar; – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
+- [PicoGUS: Emulate ISA Sound Cards &lpar;GUS, Adlib, MPU-401, Tandy, CMS&rpar; with a Pico](https://github.com/polpo/picogus)
 - [Aviator &lpar;YC S21&rpar; is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
-- [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
-- [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
-- [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
-- [A college student reached $64k&amp;#x2F;mo in 6 months by being an AI first mover](https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1)
+- [I Didn’t Learn Unix by Reading All the Manpages](https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
