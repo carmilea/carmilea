@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Housing Bust Comes for Thousands of Small-Time Investors](https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3)
+- [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
+- [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
+- [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
 - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
 - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
-- [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
-- [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
