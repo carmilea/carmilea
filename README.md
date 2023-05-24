@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
-- [Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
-- [OpenAI Outage](https://status.openai.com/incidents/jbt079x532bg)
-- [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
-- [Kenny Log-Ins](https://www.kennylog-in.com)
+- [Minix development has been abandoned, with no updates in almost 5 years](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
+- [High-Quality Video Reconstruction from Brain Activity](https://arxiv.org/abs/2305.11675)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
+- [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
