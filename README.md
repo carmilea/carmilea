@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tina Turner has died](https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html)
+- [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
+- [Analog Lorenz Attractor Computer.io](https://hackaday.io/project/191142-analog-lorenz-attractor-computer)
 - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 - [Launch HN: Dittofeed &lpar;YC S22&rpar; – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
-- [PicoGUS: Emulate ISA Sound Cards &lpar;GUS, Adlib, MPU-401, Tandy, CMS&rpar; with a Pico](https://github.com/polpo/picogus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
