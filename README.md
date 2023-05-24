@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
+- [Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
+- [Ask HN: What tools would make your Kubernetes development experience better?](https://news.ycombinator.com/item?id=36058598)
+- [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
 - [Finland&amp;#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
-- [Pump the brakes on your police’s use of Flock’s &lpar;YC17&rpar; mass surveillance](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
-- [Ask HN: Has anyone switched from a professional job to a &lpar;more&rpar; manual one?](https://news.ycombinator.com/item?id=36057665)
-- [Indiana, Iowa, and Tennessee Pass Comprehensive Privacy Laws](https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html)
-- [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 <!-- BLOG-POST-LIST:END -->
 
 ---
