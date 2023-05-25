@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
+- [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 - [Minix development has been abandoned, with no updates in almost 5 years](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
-- [High-Quality Video Reconstruction from Brain Activity](https://arxiv.org/abs/2305.11675)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 - [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
-- [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
