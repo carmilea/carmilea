@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
+- [Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+- [Tesla Model Y is now the world&amp;#x27;s best-selling car, first EV to do so](https://electrek.co/2023/05/25/tesla-model-y-is-now-the-worlds-best-selling-car-first-ev-to-do-so/)
+- [There May Be a Second Kuiper Belt, and New Horizons Is Headed There](https://spaceref.com/science-and-exploration/second-kuiper-belt-new-horizons-headed/)
 - [Chatbot Arena Leaderboard Updates &lpar;Week 4&rpar;](https://lmsys.org/blog/2023-05-25-leaderboard/)
-- [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
-- [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
-- [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
-- [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
