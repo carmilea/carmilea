@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Always Wanted to Know About Mathematics [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+- [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
 - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
 - [4-Bit Quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
-- [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
-- [VanJS &lpar;Vanilla JavaScript&rpar;: smallest reactive UI framework](https://github.com/vanjs-org/van)
 <!-- BLOG-POST-LIST:END -->
 
 ---
