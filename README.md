@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
+- [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
 - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 - [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
-- [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
-- [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
-- [PostgreSQL 16 Beta 1](https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/)
+- [Europe’s biggest city council faces £100M bill in Oracle ERP project disaster](https://www.theregister.com/2023/05/25/europes_biggest_council_faces_100m_erp_bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
