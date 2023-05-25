@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Winnie-the-Pooh book teaches Texas kids to ‘run, hide, fight’ in a shooting](https://www.theguardian.com/us-news/2023/may/25/winnie-the-pooh-books-teaches-texas-kids-run-hide-fight-shooting)
+- [Finley &lpar;YC W21&rpar; is hiring to reimagine the debt capital markets &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
+- [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)
+- [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
 - [Kissinger&amp;#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
-- [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
-- [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
