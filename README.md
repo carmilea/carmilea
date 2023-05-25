@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese Businesses Fueling the Fentanyl Epidemic Receive Millions in Crypto](https://www.elliptic.co/blog/chinese-businesses-fueling-the-fentanyl-epidemic-receive-millions-in-cryptocurrency-payments)
-- [Ze Frank True Facts: The Smartest Slime](https://www.youtube.com/watch?v=k_GTIL7AECQ)
+- [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
+- [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
 - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 - [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
