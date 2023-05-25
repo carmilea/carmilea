@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Businesses Fueling the Fentanyl Epidemic Receive Millions in Crypto](https://www.elliptic.co/blog/chinese-businesses-fueling-the-fentanyl-epidemic-receive-millions-in-cryptocurrency-payments)
+- [Ze Frank True Facts: The Smartest Slime](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
-- [Minix development has been abandoned, with no updates in almost 5 years](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
-- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
-- [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
+- [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
