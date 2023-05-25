@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chatbot Arena Leaderboard Updates &lpar;Week 4&rpar;](https://lmsys.org/blog/2023-05-25-leaderboard/)
+- [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
+- [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 - [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
-- [Infecting SSH Public Keys with Backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
-- [AI chip boom sends Nvidia’s stock surging after whopper of a quarter](https://www.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html)
 - [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
-- [War Is a Racket &lpar;1935&rpar;](https://archive.org/details/WarIsARacket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
