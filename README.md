@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Laptop 16](https://frame.work/blog/introducing-the-framework-laptop-16)
+- [Keyval &lpar;YC W23&rpar; Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
-- [Psychiatric Detentions Rise 220% in First Year of 988 Hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
+- [Psychiatric detentions rise in first year of 988 hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
 - [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
 - [The QR-code menu is being shown the door](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
 <!-- BLOG-POST-LIST:END -->
