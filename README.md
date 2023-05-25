@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Always Wanted to Know About Mathematics [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
-- [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
-- [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
-- [4-Bit Quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
-- [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
+- [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
+- [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
+- [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
+- [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
+- [PostgreSQL 16 Beta 1](https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
