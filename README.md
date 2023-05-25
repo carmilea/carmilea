@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
 - [VanJS &lpar;Vanilla JavaScript&rpar;: smallest reactive UI framework](https://github.com/vanjs-org/van)
 - [Keyval &lpar;YC W23&rpar; Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
-- [Psychiatric detentions rise in first year of 988 hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
 - [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
 <!-- BLOG-POST-LIST:END -->
 
