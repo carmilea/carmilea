@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman Says OpenAI Will Leave the EU If There&amp;#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
 - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
+- [4-Bit Quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
-- [Vapor.js – The Smallest and Fastest JavaScript Library](https://github.com/madrobby/vapor.js)
 - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
+- [VanJS &lpar;Vanilla JavaScript&rpar;: smallest reactive UI framework](https://github.com/vanjs-org/van)
 <!-- BLOG-POST-LIST:END -->
 
 ---
