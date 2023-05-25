@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Is Killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
-- [The US Might Be Only AA+](https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa)
-- [Finley &lpar;YC W21&rpar; is hiring to reimagine the debt capital markets &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
-- [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)
-- [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
+- [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
+- [Infecting SSH Public Keys with Backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
+- [AI chip boom sends Nvidia’s stock surging after whopper of a quarter](https://www.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html)
+- [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
+- [War Is a Racket &lpar;1935&rpar;](https://archive.org/details/WarIsARacket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
