@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
-- [VanJS &lpar;Vanilla JavaScript&rpar;: smallest reactive UI framework](https://github.com/vanjs-org/van)
-- [Keyval &lpar;YC W23&rpar; Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
-- [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
-- [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
+- [Sam Altman Says OpenAI Will Leave the EU If There&amp;#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
+- [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
+- [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
+- [Vapor.js – The Smallest and Fastest JavaScript Library](https://github.com/madrobby/vapor.js)
+- [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
