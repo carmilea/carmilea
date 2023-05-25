@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Winnie-the-Pooh book teaches Texas kids to ‘run, hide, fight’ in a shooting](https://www.theguardian.com/us-news/2023/may/25/winnie-the-pooh-books-teaches-texas-kids-run-hide-fight-shooting)
+- [Kissinger&amp;#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
-- [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
-- [Long-term Covid-19 booster effectiveness: a population-based cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00058-0/fulltext)
-- [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
+- [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
