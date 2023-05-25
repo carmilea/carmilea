@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Media Bias Fact Check: Hacker News](https://mediabiasfactcheck.com/hacker-news/)
+- [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
 - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
-- [Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
-- [Tesla Model Y is now the world&amp;#x27;s best-selling car, first EV to do so](https://electrek.co/2023/05/25/tesla-model-y-is-now-the-worlds-best-selling-car-first-ev-to-do-so/)
+- [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 - [There May Be a Second Kuiper Belt, and New Horizons Is Headed There](https://spaceref.com/science-and-exploration/second-kuiper-belt-new-horizons-headed/)
-- [Chatbot Arena Leaderboard Updates &lpar;Week 4&rpar;](https://lmsys.org/blog/2023-05-25-leaderboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
