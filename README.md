@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Is Killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
+- [The US Might Be Only AA+](https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa)
 - [Finley &lpar;YC W21&rpar; is hiring to reimagine the debt capital markets &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
 - [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)
 - [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
-- [Kissinger&amp;#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
-- [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
