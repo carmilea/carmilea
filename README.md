@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
-- [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
-- [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
-- [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
-- [Europe’s biggest city council faces £100M bill in Oracle ERP project disaster](https://www.theregister.com/2023/05/25/europes_biggest_council_faces_100m_erp_bill/)
+- [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
+- [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
+- [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
+- [Long-term Covid-19 booster effectiveness: a population-based cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00058-0/fulltext)
+- [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
