@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Safety of the BNT162b2 Covid-19 Vaccine in Children Aged 5 to 17 Years](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2805184)
 - [Modern SAT solvers: fast, neat and underused &lpar;2018&rpar;](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
-- [Paper Airplane Designs: A database of paper airplanes](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
+- [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+- [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
-- [Qt 5.15 Standard Support for Legacy License Holders Ends Today](https://www.qt.io/blog/qt-5.15-support-ends)
-- [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
