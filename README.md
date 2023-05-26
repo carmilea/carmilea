@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-- [Daniel Micay publicly steps down from GrapheneOS](https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53)
-- [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
 - [What Neeva&amp;#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
+- [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
+- [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
