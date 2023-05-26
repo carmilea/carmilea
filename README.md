@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greater Idaho measure clinches Wallowa County win](https://www.greateridaho.org/greater-idaho-measure-clinches-wallowa-county-win/)
+- [The Supreme Court Made Just About Everyone Happy for Once](https://www.motherjones.com/politics/2023/05/tyler-v-hennepin-supreme-court-roberts-jackson-gorsuch/)
+- [Fluent 2 Design System](https://fluent2.microsoft.design/)
+- [Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
 - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
-- [HTMx](https://htmx.org/)
-- [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
-- [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
+- [htmx](https://htmx.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
