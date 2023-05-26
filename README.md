@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case for South Korean Membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)
+- [Causal evidence that Alzheimer&amp;#x27;s may be caused by an infection](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
 - [Puerto Rico: A U.S. Territory in Crisis](https://www.cfr.org/backgrounder/puerto-rico-us-territory-crisis)
-- [Microsoft Teams update could turn your meeting into a complete mess](https://www.techradar.com/news/this-microsoft-teams-update-could-turn-your-meeting-into-a-complete-mess)
-- [Mastering Monero: The future of private transactions [pdf]](https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf)
-- [How AI Is Catapulting Nvidia Toward the $1T Club](https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380)
+- [Mastering Monero: The future of private transactions [pdf] &lpar;2019&rpar;](https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf)
 - [Why is Betelgeuse glowing so brightly and behaving so strangely?](https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely)
 <!-- BLOG-POST-LIST:END -->
 
