@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Safety of the BNT162b2 Covid-19 Vaccine in Children Aged 5 to 17 Years](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2805184)
-- [Modern SAT solvers: fast, neat and underused &lpar;2018&rpar;](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
-- [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-- [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
-- [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
+- [Times New Bastard: Times New Roman but every 7th letter is jarringly sans serif](https://github.com/weiweihuanghuang/Times-New-Bastard)
+- [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
+- [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
+- [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
+- [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
