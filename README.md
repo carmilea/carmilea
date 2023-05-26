@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Times New Bastard: Times New Roman but every 7th letter is jarringly sans serif](https://github.com/weiweihuanghuang/Times-New-Bastard)
-- [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
-- [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
-- [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
-- [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
+- [GPT-4-32k does not exist](https://platform.openai.com/docs/models/gpt-4)
+- [AI tools like ChatGPT are built on mass copyright infringement](https://www.theglobeandmail.com/opinion/article-ai-programs-like-chatgpt-are-built-on-mass-copyright-infringement/)
+- [Daniel Micay publicly steps down from GrapheneOS](https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53)
+- [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
+- [What Neeva&amp;#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
