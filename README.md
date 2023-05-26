@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How much of AI&amp;#x27;s recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
-- [How the lemon was invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
-- [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
-- [The case for South Korean membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)
-- [Causal evidence that Alzheimer&amp;#x27;s may be caused by an infection](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
+- [Oppo has pulled their factory off turkey](https://turkey.postsen.com/business/282016/OPPO%E2%80%99s-Tuzla-factory-whose-opening-was-announced-by-AKP%E2%80%99s-Mustafa-Varank-closed-quietly.html)
+- [90% of laid-off H1-B visa holders were able to find new work against all odds](https://fortune.com/2023/05/26/90-of-laid-off-h1-b-visa-holders-were-able-to-find-new-work-against-all-odds-heres-what-the-data-tells-us-about-americas-complicated-relationship-with-foreign-born-talent/)
+- [Green hills forever: Windows XP activation algorithm cracked after 21 years](https://arstechnica.com/gadgets/2023/05/a-decade-after-it-mattered-windows-xps-activation-algorithm-is-cracked/)
+- [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
+- [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
