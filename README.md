@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Supreme Court Made Just About Everyone Happy for Once](https://www.motherjones.com/politics/2023/05/tyler-v-hennepin-supreme-court-roberts-jackson-gorsuch/)
-- [Fluent 2 Design System](https://fluent2.microsoft.design/)
-- [Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
-- [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
-- [htmx](https://htmx.org/)
+- [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
+- [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
+- [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
+- [MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
+- [The Silent &lpar;R&rpar;evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
