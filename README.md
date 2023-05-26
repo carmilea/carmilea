@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
-- [A PhD student&amp;#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
-- [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
-- [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
-- [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
+- [Sweden&amp;#x27;s 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
+- [Excel Labs, a Microsoft Garage Project](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview&exp=kyyw)
+- [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
+- [Ask HN: What are some good resources for learning about low level disk&amp;#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
+- [12 years since Saab’s bankruptcy: Secret NEVS electric cars revealed](https://www.vibilagare.se/english/12-years-saabs-bankruptcy-secret-nevs-electric-cars-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
