@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [58% of US adults have heard of ChatGPT; 14% have tried it](https://www.pewresearch.org/short-reads/2023/05/24/a-majority-of-americans-have-heard-of-chatgpt-but-few-have-tried-it-themselves/)
+- [Greater Idaho measure clinches Wallowa County win](https://www.greateridaho.org/greater-idaho-measure-clinches-wallowa-county-win/)
+- [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
+- [HTMx](https://htmx.org/)
 - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
 - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
-- [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
-- [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
