@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please stop sending me emails written by GPT](https://mkbaio.substack.com/p/please-stop-sending-me-emails-written)
-- [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
-- [Magnitude 6.1 earthquake near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000k46f&extent=24.36711,-234.4043&extent=46.46813,-203.20313&magnitude=all&listOnlyShown=true&timeZone=utc&settings=true)
-- [Mojo: First Impressions](https://mojodojo.dev/blog.html)
-- [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/)
+- [Modern SAT solvers: fast, neat and underused &lpar;2018&rpar;](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
+- [Paper Airplane Designs: A database of paper airplanes](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
+- [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
+- [Qt 5.15 Standard Support for Legacy License Holders Ends Today](https://www.qt.io/blog/qt-5.15-support-ends)
+- [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
