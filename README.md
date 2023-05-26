@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
+- [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
+- [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
-- [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
-- [MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
