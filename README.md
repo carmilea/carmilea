@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case for South Korean Membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)
+- [How much of AI&amp;#x27;s recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
+- [How the lemon was invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
+- [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
+- [The case for South Korean membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)
 - [Causal evidence that Alzheimer&amp;#x27;s may be caused by an infection](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
-- [Puerto Rico: A U.S. Territory in Crisis](https://www.cfr.org/backgrounder/puerto-rico-us-territory-crisis)
-- [Mastering Monero: The future of private transactions [pdf] &lpar;2019&rpar;](https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf)
-- [Why is Betelgeuse glowing so brightly and behaving so strangely?](https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely)
 <!-- BLOG-POST-LIST:END -->
 
 ---
