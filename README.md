@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oppo has pulled their factory off turkey](https://turkey.postsen.com/business/282016/OPPO%E2%80%99s-Tuzla-factory-whose-opening-was-announced-by-AKP%E2%80%99s-Mustafa-Varank-closed-quietly.html)
-- [90% of laid-off H1-B visa holders were able to find new work against all odds](https://fortune.com/2023/05/26/90-of-laid-off-h1-b-visa-holders-were-able-to-find-new-work-against-all-odds-heres-what-the-data-tells-us-about-americas-complicated-relationship-with-foreign-born-talent/)
-- [Green hills forever: Windows XP activation algorithm cracked after 21 years](https://arstechnica.com/gadgets/2023/05/a-decade-after-it-mattered-windows-xps-activation-algorithm-is-cracked/)
-- [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
-- [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
+- [Please stop sending me emails written by GPT](https://mkbaio.substack.com/p/please-stop-sending-me-emails-written)
+- [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
+- [Magnitude 6.1 earthquake near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000k46f&extent=24.36711,-234.4043&extent=46.46813,-203.20313&magnitude=all&listOnlyShown=true&timeZone=utc&settings=true)
+- [Mojo: First Impressions](https://mojodojo.dev/blog.html)
+- [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
