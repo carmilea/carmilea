@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4-32k does not exist](https://platform.openai.com/docs/models/gpt-4)
-- [AI tools like ChatGPT are built on mass copyright infringement](https://www.theglobeandmail.com/opinion/article-ai-programs-like-chatgpt-are-built-on-mass-copyright-infringement/)
+- [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 - [Daniel Micay publicly steps down from GrapheneOS](https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53)
 - [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
 - [What Neeva&amp;#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
+- [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
