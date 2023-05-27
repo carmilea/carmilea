@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How well does your country provide for its citizens?](https://www.economist.com/graphic-detail/2023/05/24/how-well-does-your-country-provide-for-its-citizens)
+- [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 - [Experiences won’t make you happier than possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
 - [ChatGPT-Authored Legal Filing “Replete with Citations to Non-Existent Cases&amp;quot;](https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/)
-- [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
-- [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
