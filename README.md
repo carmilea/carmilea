@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How well does your country provide for its citizens?](https://www.economist.com/graphic-detail/2023/05/24/how-well-does-your-country-provide-for-its-citizens)
+- [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)
+- [Servo, the parallel browser engine written in Rust](https://servo.org/)
 - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
-- [Experiences won’t make you happier than possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
-- [ChatGPT-Authored Legal Filing “Replete with Citations to Non-Existent Cases&amp;quot;](https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/)
+- [I made nodb, a RESTFful API to store and fetch JSON](https://nodb.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
