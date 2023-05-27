@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
+- [AI Is Unlocking the Human Brain’s Secrets](https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neuroscience/674216/)
 - [Hot Pixel&amp;#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
 - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
-- [Why people reward innate talent over hard work](https://www.bbc.com/worklife/article/20230517-why-people-reward-innate-talent-over-hard-work)
 - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
-- [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
