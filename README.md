@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1 in 10 developers leaked an API-key in 2022](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
-- [IBM CEO expects AI to replace back office workers &lpar;such as human resources&rpar;](https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/)
+- [TV doctors say annual checkups save lives. Real doctors call bullshit](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
+- [Why Timothy Cain creator of Fallout left Fallout 2 during development](https://www.youtube.com/watch?v=UGfaCXEu0tE)
 - [Translating&amp;#x2F;bridging across multiple protocols and identities &lpar;via federation&rpar;](https://snarfed.org/2023-05-26_50328)
-- [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
-- [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
