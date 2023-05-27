@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High-Tech Farm Startups Are Laid Low by Financing Drought, Pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
+- [Here&amp;#x27;s What Happens When Your Lawyer Uses ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
 - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
-- [AI Is Unlocking the Human Brain’s Secrets](https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neuroscience/674216/)
-- [Hot Pixel&amp;#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
-- [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
-- [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
+- [Defining a new HTTP method: HTTP Search &lpar;2021&rpar;](https://httptoolkit.com/blog/http-search-method/)
+- [Jane Street Tech Blog – Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
