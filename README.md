@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Tech Farm Startups Are Laid Low by Financing Drought, Pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
-- [Here&amp;#x27;s What Happens When Your Lawyer Uses ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
+- [High-tech farm startups are laid low by financing drought, pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
+- [A man sued Avianca Airline – his lawyer used ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
 - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
 - [Defining a new HTTP method: HTTP Search &lpar;2021&rpar;](https://httptoolkit.com/blog/http-search-method/)
-- [Jane Street Tech Blog – Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
+- [Inside a super fast CSS engine: Quantum CSS &lpar;a.k.a. Stylo&rpar;](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
