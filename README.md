@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
+- [Experiences won’t make you happier than possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
+- [ChatGPT-Authored Legal Filing “Replete with Citations to Non-Existent Cases&amp;quot;](https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/)
 - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
-- [Ask HN: What are some of the best papers on AI, ML, DL and their applications?](https://news.ycombinator.com/item?id=36092156)
 - [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
-- [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
-- [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
 <!-- BLOG-POST-LIST:END -->
 
 ---
