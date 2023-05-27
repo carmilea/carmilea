@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 - [IBM CEO expects AI to replace back office workers &lpar;such as human resources&rpar;](https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/)
+- [Translating&amp;#x2F;bridging across multiple protocols and identities &lpar;via federation&rpar;](https://snarfed.org/2023-05-26_50328)
 - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
-- [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
-- [WebXR](https://immersiveweb.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
