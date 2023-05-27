@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1 in 10 developers leaked an API-key in 2022](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
-- [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
-- [TV doctors say annual checkups save lives. Real doctors call bullshit](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
-- [Why Timothy Cain creator of Fallout left Fallout 2 during development](https://www.youtube.com/watch?v=UGfaCXEu0tE)
-- [Translating&amp;#x2F;bridging across multiple protocols and identities &lpar;via federation&rpar;](https://snarfed.org/2023-05-26_50328)
+- [8-Bit Wolf – Remembering the NES Game Teaching Kids to Conquer Wall Street](https://www.nintendolife.com/features/8-bit-wolf-remembering-the-nes-game-teaching-kids-to-conquer-wall-street)
+- [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
+- [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
+- [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
+- [No_color](https://no-color.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
