@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
-- [Hard stuff when building products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
-- [Tarkovsky&amp;#x27;s films online for free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
-- [Germany falls into recession as inflation hits economy](https://www.bbc.com/news/business-65707206)
-- [The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
+- [IBM CEO expects AI to replace back office workers &lpar;such as human resources&rpar;](https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/)
+- [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
+- [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
+- [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
+- [WebXR](https://immersiveweb.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
