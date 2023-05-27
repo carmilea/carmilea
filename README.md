@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
+- [Wine 8.9](https://www.winehq.org/announce/8.9)
+- [Can SGI’s Enthusiast Community Bring IRIX Back to Life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
+- [What are some of the best written papers in AI,ML,DL and its applications?](https://news.ycombinator.com/item?id=36092156)
+- [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
-- [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
-- [Raspberry Pi&amp;#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
-- [418 I&amp;#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
