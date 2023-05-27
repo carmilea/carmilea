@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hot Pixel&amp;#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
+- [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
+- [Why people reward innate talent over hard work](https://www.bbc.com/worklife/article/20230517-why-people-reward-innate-talent-over-hard-work)
 - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
 - [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
-- [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
-- [US jury says Google owes Sonos $32.5M in smart-speaker patent case](https://www.reuters.com/legal/us-jury-says-google-owes-sonos-325-million-smart-speaker-patent-case-2023-05-26/)
-- [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
