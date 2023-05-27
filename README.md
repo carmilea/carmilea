@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Downtown San Francisco is at a tipping-point](https://www.economist.com/united-states/2023/05/25/downtown-san-francisco-is-at-a-tipping-point)
+- [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
+- [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
+- [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 - [Servo, the parallel browser engine written in Rust](https://servo.org/)
-- [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
-- [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
-- [I made nodb, a RESTFful API to store and fetch JSON](https://nodb.sh)
-- [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
