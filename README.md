@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-- [What Neeva&amp;#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
-- [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
-- [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
-- [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
+- [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
+- [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
+- [Women Mapping New York City’s Halal Food](https://www.atlasobscura.com/articles/halal-restaurants-in-new-york)
+- [Raspberry Pi&amp;#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
+- [418 I&amp;#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
