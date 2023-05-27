@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Downtown San Francisco is at a tipping-point](https://www.economist.com/united-states/2023/05/25/downtown-san-francisco-is-at-a-tipping-point)
+- [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
+- [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
 - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
-- [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
+- [US jury says Google owes Sonos $32.5M in smart-speaker patent case](https://www.reuters.com/legal/us-jury-says-google-owes-sonos-325-million-smart-speaker-patent-case-2023-05-26/)
 - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
-- [Servo, the parallel browser engine written in Rust](https://servo.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
