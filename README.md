@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Tarkovsky&amp;#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
+- [Tesla instructed employees to only communicate verbally about complaints so](https://www.businessinsider.com/tesla-told-employees-not-to-put-complaints-in-writing-whistleblower-2023-5)
+- [Germany falls into recession as inflation hits economy](https://www.bbc.com/news/business-65707206)
+- [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 - [High-tech farm startups are laid low by financing drought, pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
-- [A man sued Avianca Airline – his lawyer used ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
-- [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
-- [Defining a new HTTP method: HTTP Search &lpar;2021&rpar;](https://httptoolkit.com/blog/http-search-method/)
-- [Inside a super fast CSS engine: Quantum CSS &lpar;a.k.a. Stylo&rpar;](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
