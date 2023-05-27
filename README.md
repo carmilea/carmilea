@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)
 - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 - [I made nodb, a RESTFful API to store and fetch JSON](https://nodb.sh)
+- [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
