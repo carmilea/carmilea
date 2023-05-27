@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Tarkovsky&amp;#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
-- [Tesla instructed employees to only communicate verbally about complaints so](https://www.businessinsider.com/tesla-told-employees-not-to-put-complaints-in-writing-whistleblower-2023-5)
+- [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
+- [Hard stuff when building products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
+- [Tarkovsky&amp;#x27;s films online for free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
 - [Germany falls into recession as inflation hits economy](https://www.bbc.com/news/business-65707206)
-- [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
-- [High-tech farm startups are laid low by financing drought, pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
+- [The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
