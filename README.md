@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Could America’s Adderall shortage have harmed its productivity?](https://www.economist.com/finance-and-economics/2023/05/25/what-performance-enhancing-stimulants-mean-for-economic-growth)
+- [Bombings of Hiroshima and Nagasaki &lpar;and Testimonials&rpar;](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
 - [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
 - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
+- [Show HN: Open Fire Serverless CI](https://www.open-fire.dev/)
 - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
-- [No_color](https://no-color.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
