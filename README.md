@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [12 horses die from injuries over the past month at Churchill Downs](https://apnews.com/article/churchill-downs-kentucky-derby-10907d450b3635bf73423f25f4cede0a)
+- [Dial Box &lpar;Computer Peripheral&rpar;](https://en.wikipedia.org/wiki/Dial_box)
+- [The halting problem is decidable on a set of asymptotic probability one &lpar;2006&rpar;](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 - [JeanHeyd Meneide&amp;#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
 - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
-- [Bayes is guaranteed to overfit, for any model, any prior, and every data point](https://www.yulingyao.com/blog/2023/overfit/)
-- [Vitamin D: Potent regulator of dopaminergic neuron differentiation and function](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15829)
-- [Landmark infinite context transformer paper just dropped](https://arxiv.org/abs/2305.16300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
