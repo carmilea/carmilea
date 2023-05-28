@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bombings of Hiroshima and Nagasaki &lpar;and Testimonials&rpar;](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
-- [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
-- [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
-- [Show HN: Open Fire Serverless CI](https://www.open-fire.dev/)
-- [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
+- [Ask HN: My GPT project has become a local hit but I can&amp;#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
+- [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
+- [Bombings of Hiroshima and Nagasaki &lpar;2014&rpar;](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
+- [Southern accents could cost job seekers a 20% wage penalty, study finds](https://www.foxbusiness.com/economy/southern-accents-could-cost-job-seekers-20-wage-penalty-study-finds)
+- [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
