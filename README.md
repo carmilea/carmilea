@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Wolf – Remembering the NES Game Teaching Kids to Conquer Wall Street](https://www.nintendolife.com/features/8-bit-wolf-remembering-the-nes-game-teaching-kids-to-conquer-wall-street)
-- [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
+- [State Farm: California New Business Update](https://newsroom.statefarm.com/state-farm-general-insurance-company-california-new-business-update/)
+- [State Farm will no longer insure new homes in California](https://abc7.com/california-state-farm-home-insurance-insure/13307693/)
+- [State Farm to stop accepting homeowners insurance applications in California](https://www.cnbc.com/2023/05/27/state-farm-to-stop-accepting-homeowners-insurance-applications-in-california.html)
+- [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
 - [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
-- [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
-- [No_color](https://no-color.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
