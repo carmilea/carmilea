@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large language models do not recognize identifier swaps in Python](https://arxiv.org/abs/2305.15507)
+- [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
+- [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
+- [Intel CPU Die Topology](https://jprahman.substack.com/p/intel-cpu-die-topology)
 - [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
 - [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
-- [Creating a sperm or egg from any cell](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
-- [Former Dolphin team member addresses Steam&amp;#x2F;Valve’s takedown of Dolphin emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
