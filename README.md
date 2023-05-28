@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
+- [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
+- [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
+- [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
 - [Intel CPU Die Topology](https://jprahman.substack.com/p/intel-cpu-die-topology)
-- [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
-- [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
