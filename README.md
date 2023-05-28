@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [12 horses die from injuries over the past month at Churchill Downs](https://apnews.com/article/churchill-downs-kentucky-derby-10907d450b3635bf73423f25f4cede0a)
-- [Dial Box &lpar;Computer Peripheral&rpar;](https://en.wikipedia.org/wiki/Dial_box)
+- [Music Company Asks Google to Delist &amp;#x27;YouTube Downloader&amp;#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
+- [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
+- [The C Interpreter: A Tutorial for Cin &lpar;1988&rpar;](https://www.tuhs.org/cgi-bin/utree.pl?file=V10/vol2/cin/cin.m)
+- [Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 - [The halting problem is decidable on a set of asymptotic probability one &lpar;2006&rpar;](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
-- [JeanHeyd Meneide&amp;#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
-- [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
