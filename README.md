@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State Farm: California New Business Update](https://newsroom.statefarm.com/state-farm-general-insurance-company-california-new-business-update/)
-- [State Farm will no longer insure new homes in California](https://abc7.com/california-state-farm-home-insurance-insure/13307693/)
-- [State Farm to stop accepting homeowners insurance applications in California](https://www.cnbc.com/2023/05/27/state-farm-to-stop-accepting-homeowners-insurance-applications-in-california.html)
+- [Could America’s Adderall shortage have harmed its productivity?](https://www.economist.com/finance-and-economics/2023/05/25/what-performance-enhancing-stimulants-mean-for-economic-growth)
+- [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
 - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
-- [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
+- [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
+- [No_color](https://no-color.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
