@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
+- [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
+- [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
 - [Music Company Asks Google to Delist &amp;#x27;YouTube Downloader&amp;#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
-- [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
-- [The C Interpreter: A Tutorial for Cin &lpar;1988&rpar;](https://www.tuhs.org/cgi-bin/utree.pl?file=V10/vol2/cin/cin.m)
-- [Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
-- [The halting problem is decidable on a set of asymptotic probability one &lpar;2006&rpar;](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
+- [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
