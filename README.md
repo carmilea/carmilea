@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
-- [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
+- [Txti is shutting down](https://txti.es)
 - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
-- [Intel CPU Die Topology](https://jprahman.substack.com/p/intel-cpu-die-topology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
