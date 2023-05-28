@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
+- [Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
 - [Ask HN: My GPT project has become a local hit but I can&amp;#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
 - [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
-- [Bombings of Hiroshima and Nagasaki &lpar;2014&rpar;](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
-- [Southern accents could cost job seekers a 20% wage penalty, study finds](https://www.foxbusiness.com/economy/southern-accents-could-cost-job-seekers-20-wage-penalty-study-finds)
-- [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
+- [Former Dolphin Team Member Addresses Steam&amp;#x2F;Valve&amp;#x27;s Takedown of Dolphin Emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
