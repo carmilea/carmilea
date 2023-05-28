@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
-- [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
+- [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It &lpar;2021&rpar;](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
 - [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
+- [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
 - [Music Company Asks Google to Delist &amp;#x27;YouTube Downloader&amp;#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
-- [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
