@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
+- [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
 - [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
 - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
-- [How much would it have cost if GPT-4 had written your code](https://pypi.org/project/cost-of-code/)
 - [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
-- [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
