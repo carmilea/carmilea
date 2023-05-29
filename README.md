@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
+- [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
 - [India ruling party&amp;#x27;s IT cell used AI to show smile on arrested protesters&amp;#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
-- [India’s Olympics medalist female wrestlers detained while protesting against SA](https://twitter.com/SakshiMalik/status/1662729269532065792)
-- [What if nobody is bad at maths?](https://www.theguardian.com/books/2023/may/29/what-if-nobody-is-bad-at-maths)
-- [Ask HN: What are the most reliable tech sites in east and south Asia?](https://news.ycombinator.com/item?id=36113331)
-- [A Coder in Courierland &lpar;2005&rpar;](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
+- [Hardening Drupal with WebAssembly](https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/)
+- [Winning the AI Products Arms Race](https://www.reforge.com/blog/ai-products-arms-race)
 <!-- BLOG-POST-LIST:END -->
 
 ---
