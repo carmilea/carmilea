@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
+- [Circles Rolling on Circles &lpar;2014&rpar;](https://plus.maths.org/content/circles-rolling-circles)
 - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
 - [No A&amp;#x2F;C? No problem, if buildings copy networked tunnels of termite mounds](https://arstechnica.com/science/2023/05/intricate-tunnels-of-termite-mounds-could-be-key-to-energy-efficient-buildings/)
-- [Cloudflare Workers Introduces Connect&lpar;&rpar; API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
