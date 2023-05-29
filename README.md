@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
 - [Fitting 44% More Data on a C64&amp;#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
+- [How much does it cost to develop and manufacture an electronic product? &lpar;2022&rpar;](https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/)
 - [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
-- [Let us serve you, but don&amp;#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
-- [Container Runtimes and WasmEdge benchmarking on Arm](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
