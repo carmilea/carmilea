@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Standardized exams measure intrinsic ability, not racial&amp;#x2F;socioeconomic privilege](https://milkyeggs.com/society/standardized-exams-measure-intrinsic-ability-not-racial-or-socioeconomic-privilege/)
 - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
-- [Everything You Want to Know About Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
+- [Fitting 44% More Data on a C64&amp;#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
+- [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
 - [Let us serve you, but don&amp;#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
-- [The advantage of WASM compared with container runtimes](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
-- [New Arm cores deliver up to 40% better performance](https://www.phonescoop.com/articles/article.php?a=23023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
