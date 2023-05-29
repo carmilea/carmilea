@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
+- [CPR&amp;#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
+- [GDP is the wrong tool for measuring what matters &lpar;2020&rpar;](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
 - [Nvidia&amp;#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
-- [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
 - [Filial Piety in Chinese Culture &lpar;2016&rpar;](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
-- [Tesla rethinks the assembly line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
-- [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
