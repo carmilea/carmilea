@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
+- [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
 - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
+- [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 - [CPR&amp;#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
-- [GDP is the wrong tool for measuring what matters &lpar;2020&rpar;](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
-- [Nvidia&amp;#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
-- [Filial Piety in Chinese Culture &lpar;2016&rpar;](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
