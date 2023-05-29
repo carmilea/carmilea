@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using computers more freely and safely &lpar;2022&rpar;](http://akkartik.name/freewheeling)
-- [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
-- [Circles Rolling on Circles &lpar;2014&rpar;](https://plus.maths.org/content/circles-rolling-circles)
-- [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
-- [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
+- [India ruling party&amp;#x27;s IT cell used AI to show smile on arrested protesters&amp;#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
+- [India’s Olympics medalist female wrestlers detained while protesting against SA](https://twitter.com/SakshiMalik/status/1662729269532065792)
+- [What if nobody is bad at maths?](https://www.theguardian.com/books/2023/may/29/what-if-nobody-is-bad-at-maths)
+- [Ask HN: What are the most reliable tech sites in east and south Asia?](https://news.ycombinator.com/item?id=36113331)
+- [A Coder in Courierland &lpar;2005&rpar;](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
