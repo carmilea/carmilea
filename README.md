@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
+- [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+- [How much would it have cost if GPT-4 had written your code](https://pypi.org/project/cost-of-code/)
 - [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
-- [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
 - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
-- [CPR&amp;#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
