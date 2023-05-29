@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MITx Differential Equations starts May 31](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/)
+- [Nvidia&amp;#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
+- [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
 - [Filial Piety in Chinese Culture &lpar;2016&rpar;](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 - [Tesla rethinks the assembly line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
 - [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
-- [Joker is a small interpreted dialect of Clojure written in Go](https://joker-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
