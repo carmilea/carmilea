@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
-- [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
-- [Fitting 44% More Data on a C64&amp;#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
-- [How much does it cost to develop and manufacture an electronic product? &lpar;2022&rpar;](https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/)
-- [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
+- [Microsoft has made Azure Linux generally available](https://www.theregister.com/2023/05/26/microsoft_azure_linux_container/)
+- [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
+- [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
+- [No A&amp;#x2F;C? No problem, if buildings copy networked tunnels of termite mounds](https://arstechnica.com/science/2023/05/intricate-tunnels-of-termite-mounds-could-be-key-to-energy-efficient-buildings/)
+- [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
 <!-- BLOG-POST-LIST:END -->
 
 ---
