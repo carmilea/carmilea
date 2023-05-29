@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
+- [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
+- [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
+- [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
 - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
 - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
-- [India ruling party&amp;#x27;s IT cell used AI to show smile on arrested protesters&amp;#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
-- [Hardening Drupal with WebAssembly](https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
