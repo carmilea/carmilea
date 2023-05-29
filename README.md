@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The advantage of WASM compared with container runtimes](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
+- [New Arm Cores Deliver Up to 40% Better Performance](https://www.phonescoop.com/articles/article.php?a=23023)
 - [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
 - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
 - [Group accused in $225K &amp;#x27;dice sliding&amp;#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
-- [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
-- [Functional Programming in Lean – a book on using Lean 4 to write programs](https://leanprover.github.io/functional_programming_in_lean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
