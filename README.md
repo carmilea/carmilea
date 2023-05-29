@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
+- [Everything You Want to Know About Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
+- [Let us serve you, but don&amp;#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
 - [The advantage of WASM compared with container runtimes](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
-- [New Arm Cores Deliver Up to 40% Better Performance](https://www.phonescoop.com/articles/article.php?a=23023)
-- [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
-- [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
-- [Group accused in $225K &amp;#x27;dice sliding&amp;#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
+- [New Arm cores deliver up to 40% better performance](https://www.phonescoop.com/articles/article.php?a=23023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
