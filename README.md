@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Profit-Obsessed Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
-- [State of Space-Based Solar Radiation Management [pdf]](https://static1.squarespace.com/static/60d495bac7a14f7e7507d20b/t/640f43622e4d792d408acfee/1678721894552/PSF+-+State+of+Space+-+Print+Version.pdf)
-- [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
-- [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
-- [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
+- [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
+- [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
+- [Group accused in $225K &amp;#x27;dice sliding&amp;#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
+- [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
+- [Functional Programming in Lean – a book on using Lean 4 to write programs](https://leanprover.github.io/functional_programming_in_lean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
