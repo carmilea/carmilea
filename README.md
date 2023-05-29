@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MITx Differential Equations starts May 31](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/)
+- [Filial Piety in Chinese Culture &lpar;2016&rpar;](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
+- [Tesla rethinks the assembly line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
 - [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
-- [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
-- [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
-- [‘Massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
-- [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
+- [Joker is a small interpreted dialect of Clojure written in Go](https://joker-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
