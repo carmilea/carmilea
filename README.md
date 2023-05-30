@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
+- [How to Hire a Pop Star for Your Private Party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
 - [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
 - [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
 - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
-- [An open-source alternative to QuickBooks](https://bigcapital.ly)
-- [Sigils are underappreciated &lpar;2022&rpar;](https://raku-advent.blog/2022/12/20/sigils/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
