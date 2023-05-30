@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
+- [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
 - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 - [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
-- [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
-- [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
-- [Plane: Open-Source Alternative to Atlassian&amp;#x27;s Jira](https://github.com/makeplane/plane)
+- [I&amp;#x27;m Not a Passionate Developer](https://koodihommia.blogspot.com/2022/06/im-not-passionate-developer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
