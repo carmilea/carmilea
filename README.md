@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the RustConf Keynote](https://blog.rust-lang.org/2023/05/29/RustConf.html)
+- [A Chiral Aperiodic Monotile](https://arxiv.org/abs/2305.17743)
+- [An open-source alternative to QuickBooks](https://bigcapital.ly)
+- [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
-- [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
-- [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
-- [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
-- [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
