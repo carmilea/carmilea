@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
+- [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
 - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
-- [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
-- [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
-- [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
+- [Plane: Open-Source Alternative to Atlassian&amp;#x27;s Jira](https://github.com/makeplane/plane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
