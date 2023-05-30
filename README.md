@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
+- [Ask HN: How come YC startups offering &amp;lt;80k$&amp;#x2F;year?](https://news.ycombinator.com/item?id=36123924)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
+- [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
+- [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
-- [Conic Finance](https://conic.finance/)
-- [NASA&amp;#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
-- [I gave commit rights to someone I didn&amp;#x27;t know &lpar;2016&rpar;](https://tech.davis-hansson.com/p/clickbait/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
