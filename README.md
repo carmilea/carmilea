@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
-- [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
-- [Albert Camus](https://plato.stanford.edu/entries/camus/)
-- [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
-- [I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me](https://twitter.com/Molson_Hart/status/1663582588210905091)
+- [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
+- [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
+- [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
+- [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
+- [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
