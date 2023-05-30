@@ -55,7 +55,7 @@
 - [I gave commit rights to someone I didn&amp;#x27;t know &lpar;2016&rpar;](https://tech.davis-hansson.com/p/clickbait/)
 - [Macro-ts: TypeScript compiler with typesafe syntactic macros &lpar;2022&rpar;](https://blainehansen.me/post/macro-ts/)
 - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
-- [How to hire a pop star for your private party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
+- [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
