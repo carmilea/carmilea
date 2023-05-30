@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter&amp;#x27;s Algorithm: Amplifying Anger, Animosity, and Affective Polarization](https://arxiv.org/abs/2305.16941)
+- [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 - [NASA&amp;#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 - [I gave commit rights to someone I didn&amp;#x27;t know &lpar;2016&rpar;](https://tech.davis-hansson.com/p/clickbait/)
 - [Macro-ts: TypeScript compiler with typesafe syntactic macros &lpar;2022&rpar;](https://blainehansen.me/post/macro-ts/)
-- [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
-- [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
