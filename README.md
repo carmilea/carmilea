@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How come YC startups offering &amp;lt;80k$&amp;#x2F;year?](https://news.ycombinator.com/item?id=36123924)
+- [North Korea to Launch Military Spy Satellite for Monitoring U.S. Drills](https://www.cnbc.com/2023/05/30/north-korea-says-it-will-launch-its-first-ever-military-spy-satellite-to-monitor-us-drills.html)
+- [Why is Swift so slow &lpar;timeout&rpar; in compiling this code?](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
 - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
-- [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
-- [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
+- [Purely Functional Data Structure by Chris Okasaki [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
