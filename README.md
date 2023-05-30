@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [401&lpar;k&rpar; Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
+- [React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
+- [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
+- [Germany’s solar power generation hit record high at weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
 - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
-- [Nvidia is now a $1T company](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
-- [Factories in Space](https://www.factoriesinspace.com/)
-- [AI Is an Insult Now](https://www.theatlantic.com/technology/archive/2023/05/ai-as-insult-chatgpt-jokes/674232/)
-- [I have gained admin access to numerous GCloud Organizations by accident](https://news.ycombinator.com/item?id=36124415)
 <!-- BLOG-POST-LIST:END -->
 
 ---
