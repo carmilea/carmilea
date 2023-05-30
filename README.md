@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Lyft’s plan to take control of its maps – and its future](https://www.lyft.com/rev/posts/lyfts-secret-plan-to-take-control-of-its-maps-and-its-future)
-- [EU achieved independence from Russian fossil fuels](https://insightnews.media/eu-achieved-independence-from-russian-fossil-fuels/)
-- [401&lpar;k&rpar; Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
-- [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
+- [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
+- [I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me](https://twitter.com/Molson_Hart/status/1663582588210905091)
+- [JMAP – a much needed modern email open standard](https://jmap.io/)
+- [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
+- [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ---
