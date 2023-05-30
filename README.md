@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I gave commit rights to someone I didn&amp;#x27;t know &lpar;2016&rpar;](https://tech.davis-hansson.com/p/clickbait/)
 - [Macro-ts: TypeScript compiler with typesafe syntactic macros &lpar;2022&rpar;](https://blainehansen.me/post/macro-ts/)
 - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
 - [How to hire a pop star for your private party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
 - [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
-- [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
