@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Lyft’s plan to take control of its maps – and its future](https://www.lyft.com/rev/posts/lyfts-secret-plan-to-take-control-of-its-maps-and-its-future)
+- [EU achieved independence from Russian fossil fuels](https://insightnews.media/eu-achieved-independence-from-russian-fossil-fuels/)
 - [401&lpar;k&rpar; Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
-- [React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
 - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
-- [Germany’s solar power generation hit record high at weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
-- [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
