@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
+- [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
+- [Chain-of-Thought Hub: Measuring LLMs&amp;#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
+- [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
 - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
-- [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
-- [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
-- [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
-- [I&amp;#x27;m Not a Passionate Developer](https://koodihommia.blogspot.com/2022/06/im-not-passionate-developer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
