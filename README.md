@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the RustConf Keynote](https://blog.rust-lang.org/2023/05/29/RustConf.html)
-- [A Chiral Aperiodic Monotile](https://arxiv.org/abs/2305.17743)
+- [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
+- [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
+- [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
 - [An open-source alternative to QuickBooks](https://bigcapital.ly)
-- [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
-- [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
+- [Sigils are underappreciated &lpar;2022&rpar;](https://raku-advent.blog/2022/12/20/sigils/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
