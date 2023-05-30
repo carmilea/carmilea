@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [North Korea to Launch Military Spy Satellite for Monitoring U.S. Drills](https://www.cnbc.com/2023/05/30/north-korea-says-it-will-launch-its-first-ever-military-spy-satellite-to-monitor-us-drills.html)
-- [Why is Swift so slow &lpar;timeout&rpar; in compiling this code?](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
-- [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
-- [Purely Functional Data Structure by Chris Okasaki [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
+- [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
+- [Nvidia is now a $1T company](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
+- [Factories in Space](https://www.factoriesinspace.com/)
+- [AI Is an Insult Now](https://www.theatlantic.com/technology/archive/2023/05/ai-as-insult-chatgpt-jokes/674232/)
+- [I have gained admin access to numerous GCloud Organizations by accident](https://news.ycombinator.com/item?id=36124415)
 <!-- BLOG-POST-LIST:END -->
 
 ---
