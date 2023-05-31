@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
-- [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
-- [Had a call with Reddit to discuss pricing. Bad news for third-party apps](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
-- [Launch HN: Onu &lpar;YC W23&rpar; – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
-- [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
+- [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
+- [macOS Like Fonts on Manjaro&amp;#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
+- [OpenAI&amp;#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
+- [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
+- [Zulip 7.0: Threaded open-source team chat](https://blog.zulip.com/2023/05/31/zulip-7-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
