@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer says Reddit will charge him $20M&amp;#x2F;yr API fees to keep his app working](https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost)
-- [Historical code from reddit.com](https://github.com/reddit-archive/reddit)
+- [OpenAPI v4 &lpar;aka Moonwalk&rpar; Proposal](https://github.com/OAI/moonwalk)
+- [Show HN: Lance – Alternative to Parquet for ML data](https://github.com/lancedb/lance)
+- [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
+- [1000W 12V –&amp;gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 - [I decided not to commercialize nbdev](https://hamel.dev/blog/posts/nbdev/)
-- [OpenAI&amp;#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
-- [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
