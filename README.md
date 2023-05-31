@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Historical code from reddit.com](https://github.com/reddit-archive/reddit)
+- [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
+- [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
 - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
 - [macOS Like Fonts on Manjaro&amp;#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
-- [OpenAI&amp;#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
-- [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
-- [Zulip 7.0: Threaded open-source team chat](https://blog.zulip.com/2023/05/31/zulip-7-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
