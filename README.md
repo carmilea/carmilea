@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
+- [A Friday Email Incident](https://dev.37signals.com/a-friday-email-incident/)
+- [When LIMIT 9 works but LIMIT 10 hangs: A short debugging story](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 - [Ask HN: What&amp;#x27;s the best self hosted&amp;#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
-- [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
-- [20um self-propelled robots that can zip through liquid &lpar;also blood&rpar; at 3mm&amp;#x2F;s](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
-- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
