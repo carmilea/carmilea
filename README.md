@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Provision &lpar;YC S22&rpar; Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
-- [What&amp;#x27;s the best AWS S3 protocol alternative?](https://news.ycombinator.com/item?id=36140494)
-- [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
-- [Weight loss surgeries rise substantially among adolescents: research](https://thehill.com/policy/healthcare/4028398-weight-loss-surgeries-rise-substantially-among-adolescents-research/)
-- [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
+- [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
+- [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
+- [Had a call with Reddit to discuss pricing. Bad news for third-party apps](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
+- [Launch HN: Onu &lpar;YC W23&rpar; – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
+- [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
