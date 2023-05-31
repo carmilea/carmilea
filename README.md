@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
-- [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
-- [Chain-of-Thought Hub: Measuring LLMs&amp;#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
-- [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
-- [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
+- [Nvidia DGX GH200: The First 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
+- [Why your F# evangelism isn&amp;#x27;t working](https://ericsink.com/entries/fsharp_chasm.html)
+- [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
+- [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
+- [The role of cat eye narrowing movements in cat–human communication &lpar;2020&rpar;](https://www.nature.com/articles/s41598-020-73426-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
