@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Australia passes law to ban “disruptive” protests](https://www.theguardian.com/australia-news/2023/may/31/south-australia-passes-laws-to-crack-down-on-protest-after-disruption-of-oil-and-gas-conference)
+- [Zone of Death &lpar;Yellowstone&rpar;](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone))
 - [Ask HN: Is it just me or GPT-4&amp;#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
-- [Did Arthur Booth turn his life around after Judge Mindy&amp;#x27;s revelation?](https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/500558-did-arthur-booth-turn-life-judge-mindys-revelation/)
 - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 - [Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
-- [Why F# evangelism isn&amp;#x27;t working &lpar;2015&rpar;](https://ericsink.com/entries/fsharp_chasm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
