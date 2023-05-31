@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why won’t Google give an answer on whether Bard was trained on Gmail data?](https://skiff.com/blog/was-bard-trained-on-gmail-data)
 - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
+- [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
 - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
 - [Shepherd&amp;#x27;s Oasis Statement on Rustconf and Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
-- [Ask HN: Is it just me or GPT-4&amp;#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 <!-- BLOG-POST-LIST:END -->
 
 ---
