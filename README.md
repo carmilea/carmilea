@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 - [Nvidia DGX GH200: The First 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
-- [Why your F# evangelism isn&amp;#x27;t working](https://ericsink.com/entries/fsharp_chasm.html)
+- [Why F# evangelism isn&amp;#x27;t working &lpar;2015&rpar;](https://ericsink.com/entries/fsharp_chasm.html)
 - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 - [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
 <!-- BLOG-POST-LIST:END -->
