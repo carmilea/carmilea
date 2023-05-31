@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arm announces the Cortex X4 for 2024, plus a 14-core M2-fighter](https://arstechnica.com/gadgets/2023/05/arm-announces-the-cortex-x4-for-2024-plus-a-14-core-m2-fighter/)
+- [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
+- [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
-- [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
-- [Box64 and RISC-V](https://box86.org/2023/05/box64-and-risc-v/)
-- [Shepherd&amp;#x27;s Oasis Statement on Rustconf and Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
