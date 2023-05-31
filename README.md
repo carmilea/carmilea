@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
+- [Ask HN: What&amp;#x27;s the best self hosted&amp;#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
 - [20um self-propelled robots that can zip through liquid &lpar;also blood&rpar; at 3mm&amp;#x2F;s](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
 - [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
-- [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
-- [Arm announces the Cortex X4 for 2024, plus a 14-core M2-fighter](https://arstechnica.com/gadgets/2023/05/arm-announces-the-cortex-x4-for-2024-plus-a-14-core-m2-fighter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
