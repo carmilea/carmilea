@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Provision &lpar;YC S22&rpar; Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
+- [What&amp;#x27;s the best AWS S3 protocol alternative?](https://news.ycombinator.com/item?id=36140494)
+- [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
+- [Weight loss surgeries rise substantially among adolescents: research](https://thehill.com/policy/healthcare/4028398-weight-loss-surgeries-rise-substantially-among-adolescents-research/)
 - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
-- [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
-- [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
-- [Auschwitz museum criticizes use of death camp in politics](https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac)
-- [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
