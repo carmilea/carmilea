@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer says Reddit will charge him $20M&amp;#x2F;yr API fees to keep his app working](https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost)
 - [Historical code from reddit.com](https://github.com/reddit-archive/reddit)
-- [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
-- [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
-- [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
-- [macOS Like Fonts on Manjaro&amp;#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
+- [I decided not to commercialize nbdev](https://hamel.dev/blog/posts/nbdev/)
+- [OpenAI&amp;#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
+- [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
