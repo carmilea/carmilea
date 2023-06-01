@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
-- [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
+- [The U.S. almost became a nation of hippo ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
-- [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
-- [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
+- [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 <!-- BLOG-POST-LIST:END -->
 
 ---
