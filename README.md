@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samuel Morland, Magister Mechanicorum &lpar;2017&rpar;](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)
+- [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
-- [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
-- [Was modern art a CIA psy-op? &lpar;2020&rpar;](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-- [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
+- [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
