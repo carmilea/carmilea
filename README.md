@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
+- [OpenAI Employee: GPT-4 hasn&amp;#x27;t gotten worse since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
+- [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+- [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 - [No Man&amp;#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
-- [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
-- [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
-- [What are the enduring innovations of Lisp? &lpar;2022&rpar;](https://elliottslaughter.com/2022/12/lisp)
-- [Show HN: Hardwary- Hacker News for Hardware](https://hardwary.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
