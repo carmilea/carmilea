@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Lots of AWS credits expiring soon, ideas?](https://news.ycombinator.com/item?id=36149966)
+- [Industry docs reveal makers of &amp;#x27;forever chemicals&amp;#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
+- [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
+- [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
 - [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
-- [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
-- [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
-- [June &lpar;YC W21&rpar; is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
-- [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
