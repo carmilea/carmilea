@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Lots of AWS credits expiring soon, ideas?](https://news.ycombinator.com/item?id=36149966)
-- [Industry docs reveal makers of &amp;#x27;forever chemicals&amp;#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
-- [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
-- [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
-- [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
+- [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
+- [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
+- [Selectively Compressed Images – A Hybrid Format](https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/)
+- [Automate the CEOs](https://www.hamiltonnolan.com/p/automate-the-ceos)
+- [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
