@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [Logic programming is overrated, at least for logic puzzles &lpar;2013&rpar;](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)
-- [Own-Goal Football &lpar;2022&rpar;](https://generalist.academy/2022/06/07/own-goal-football/)
-- [World Capitals Voronoi &lpar;2014&rpar;](https://www.jasondavies.com/maps/voronoi/capitals/)
+- [No Man&amp;#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
+- [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
+- [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
+- [What are the enduring innovations of Lisp? &lpar;2022&rpar;](https://elliottslaughter.com/2022/12/lisp)
+- [Show HN: Hardwary- Hacker News for Hardware](https://hardwary.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
