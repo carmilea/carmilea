@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
+- [Amazon to pay over $30M for Ring and Alexa privacy violations](https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos)
 - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
+- [Tell HN: The dragon compiler book &lpar;2nd edition&rpar; is a great book](https://news.ycombinator.com/item?id=36146877)
 - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
-- [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
-- [FTC says Ring employees illegally surveilled customers, failed to stop hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
-- [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
