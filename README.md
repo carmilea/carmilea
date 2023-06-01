@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
 - [Falcon 40B LLM &lpar;which beats Llama&rpar; now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
 - [OpenAPI v4 &lpar;aka Moonwalk&rpar; Proposal](https://github.com/OAI/moonwalk)
-- [Show HN: Lance – Alternative to Parquet for ML data](https://github.com/lancedb/lance)
 - [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
 <!-- BLOG-POST-LIST:END -->
