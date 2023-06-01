@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
 - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
 - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
 - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
-- [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
