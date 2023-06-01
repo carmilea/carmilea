@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
 - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
-- [Amazon to pay over $30M for Ring and Alexa privacy violations](https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos)
 - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
-- [Tell HN: The dragon compiler book &lpar;2nd edition&rpar; is a great book](https://news.ycombinator.com/item?id=36146877)
 - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
+- [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
