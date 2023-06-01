@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
-- [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
-- [Two Men Got Jobs at Amazon Just to Steal Copies of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
-- [Meta announces its Quest 3 VR headset, which will cost $499.99](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
-- [Zuckerberg unveils Meta’s newest VR headset days before Apple reveals its own](https://www.cnbc.com/2023/06/01/meta-quest-3-unveiled-ahead-of-apples-planned-vr-headset-debut.html)
+- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
+- [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
+- [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
+- [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
+- [Ask HN: Who is hiring? &lpar;June 2023&rpar;](https://news.ycombinator.com/item?id=36152014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
