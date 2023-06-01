@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [June &lpar;YC W21&rpar; is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
+- [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
+- [Distcc: A fast, free distributed C&amp;#x2F;C++ compiler](https://www.distcc.org/)
 - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
 - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
-- [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
-- [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
-- [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
