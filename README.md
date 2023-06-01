@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
+- [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
 - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
-- [OpenAI Employee: GPT-4 hasn&amp;#x27;t gotten worse since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
-- [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-- [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
-- [No Man&amp;#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
+- [Was modern art a CIA psy-op? &lpar;2020&rpar;](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+- [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
