@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
-- [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
-- [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
-- [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
-- [Ask HN: Who is hiring? &lpar;June 2023&rpar;](https://news.ycombinator.com/item?id=36152014)
+- [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+- [Logic programming is overrated, at least for logic puzzles &lpar;2013&rpar;](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)
+- [Own-Goal Football &lpar;2022&rpar;](https://generalist.academy/2022/06/07/own-goal-football/)
+- [World Capitals Voronoi &lpar;2014&rpar;](https://www.jasondavies.com/maps/voronoi/capitals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
