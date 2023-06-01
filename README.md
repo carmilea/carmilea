@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People living near former atomic weapon plant in WA have increased cancer rates](https://pubmed.ncbi.nlm.nih.gov/14738272/)
+- [US banks lost $472B in deposits in the Q1 2023](https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1)
+- [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
+- [On the Catastrophic Risk of AI](https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html)
 - [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
-- [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
-- [Selectively Compressed Images – A Hybrid Format](https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/)
-- [Automate the CEOs](https://www.hamiltonnolan.com/p/automate-the-ceos)
-- [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
