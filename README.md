@@ -55,7 +55,7 @@
 - [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 - [Distcc: A fast, free distributed C&amp;#x2F;C++ compiler](https://www.distcc.org/)
 - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
-- [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
+- [Designs for Battery Tankers to Transport Renewable Energy by 2026](https://maritime-executive.com/article/designs-for-battery-tankers-to-transport-renewable-energy-by-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
