@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
+- [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 - [June &lpar;YC W21&rpar; is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 - [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 - [Distcc: A fast, free distributed C&amp;#x2F;C++ compiler](https://www.distcc.org/)
-- [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
-- [Designs for Battery Tankers to Transport Renewable Energy by 2026](https://maritime-executive.com/article/designs-for-battery-tankers-to-transport-renewable-energy-by-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
