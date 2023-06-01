@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
-- [Falcon 40B LLM &lpar;which beats Llama&rpar; now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
-- [OpenAPI v4 &lpar;aka Moonwalk&rpar; Proposal](https://github.com/OAI/moonwalk)
-- [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
-- [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
+- [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
+- [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
+- [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
+- [FTC says Ring employees illegally surveilled customers, failed to stop hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
+- [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
