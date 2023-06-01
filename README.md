@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samuel Morland, Magister Mechanicorum &lpar;2017&rpar;](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)
+- [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 - [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
