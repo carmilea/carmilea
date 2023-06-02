@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
-- [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
-- [ChatGPT took their jobs. Now they walk dogs and fix air conditioners](https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/)
-- [An open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
-- [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
+- [Woman with untreated TB finally in custody – held in “negative pressure” room](https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/)
+- [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
+- [System76&#39;s Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
+- [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
+- [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
