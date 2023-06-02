@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Agave &lpar;YC W22&rpar; is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
+- [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
+- [On the reception and detection of pseudo-profound bullshit](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999)
 - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
-- [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
-- [Reddit Is Killing 3rd-Party Apps, the Best Way to Read the Site](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)
-- [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
