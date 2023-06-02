@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Cloud is having a major outage](https://news.ycombinator.com/item?id=36169992)
-- [Brute.Fail Watch brute force attacks in real time](https://brute.fail/)
+- [OneSignal &lpar;YC S11&rpar; is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
+- [Photography&#39;s new bag of tricks &lpar;1984&rpar;](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
+- [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
+- [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
 - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
-- [Proven &lpar;Dot Lol&rpar;](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
-- [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
