@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2022Q4 real compensation revised downward to -4.7% from +0.7%](https://www.bls.gov/news.release/prod2.nr0.htm)
 - [OneSignal &lpar;YC S11&rpar; is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
 - [Photography&#39;s new bag of tricks &lpar;1984&rpar;](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
-- [Systems explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
-- [Proven &lpar;Dot Lol&rpar;](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
+- [Systems explained by Humberto Maturana &lpar;2021&rpar;](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
