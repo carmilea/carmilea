@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Render a neural network into CUDA/HIP code](https://github.com/facebookincubator/AITemplate)
-- [Lago &lpar;YC S21&rpar;, open-source billing, is hiring for developer relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
-- [Kenneth Anger Has Died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
-- [StackOverflow petition to allow removing AI generated content](https://openletter.mousetail.nl/)
-- [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
+- [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
+- [Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
+- [Lessons from Washington State’s New Capital Gains Tax](https://www.theurbanist.org/2023/06/01/lessons-from-washington-states-new-capital-gains-tax/)
+- [Effect of repeated low-level red light on myopia prevention](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804215)
+- [Eventually everything will evaporate, not only black holes](https://www.ru.nl/en/research/research-news/eventually-everything-will-evaporate-not-only-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
