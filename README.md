@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the nature of consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
+- [Memfault &lpar;YC W19&rpar; Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
+- [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
+- [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
 - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 - [Undetectable Watermarks for Language Models](https://eprint.iacr.org/2023/763)
-- [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
-- [Ask HN: Who got hired from HN?](https://news.ycombinator.com/item?id=36160198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
