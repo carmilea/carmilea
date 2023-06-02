@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
-- [Lago – Open-Source Alternative to Stripe Billing – Hires for Developer Relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
+- [Render a neural network into CUDA/HIP code](https://github.com/facebookincubator/AITemplate)
+- [Lago &lpar;YC S21&rpar;, open-source billing, is hiring for developer relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
 - [Kenneth Anger Has Died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
-- [StackOverflow petition to allow remove AI generated content](https://openletter.mousetail.nl/)
-- [Netflix Shareholders Vote to Reject Executive Pay Packages](https://www.nytimes.com/2023/06/01/business/media/netflix-executive-compensation-vote.html)
+- [StackOverflow petition to allow removing AI generated content](https://openletter.mousetail.nl/)
+- [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
