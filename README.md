@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Cloud is having a major outage](https://news.ycombinator.com/item?id=36169992)
+- [Brute.Fail Watch brute force attacks in real time](https://brute.fail/)
+- [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
+- [Proven &lpar;Dot Lol&rpar;](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
 - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
-- [Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
-- [Lessons from Washington State’s New Capital Gains Tax](https://www.theurbanist.org/2023/06/01/lessons-from-washington-states-new-capital-gains-tax/)
-- [Effect of repeated low-level red light on myopia prevention](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804215)
-- [Eventually everything will evaporate, not only black holes](https://www.ru.nl/en/research/research-news/eventually-everything-will-evaporate-not-only-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
