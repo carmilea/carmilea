@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Air Force AI drone kills its human operator in a simulation](https://taskandpurpose.com/news/air-force-artificial-intelligence-drone/)
-- [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime)
-- [Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
-- [Agave &lpar;YC W22&rpar; is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
-- [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
+- [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
+- [We’ve just seen solid state active cooling working on a Mini PC](https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/)
+- [CEO: Raspberry Pi stock to hit 1M units monthly, starting in July](https://arstechnica.com/gadgets/2023/06/ceo-raspberry-pi-inventory-to-hit-1m-units-monthly-starting-in-july/)
+- [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
+- [The Newest College Admissions Ploy: Paying to Make Your Teen “Peer-Reviewed”](https://www.propublica.org/article/college-high-school-research-peer-review-publications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
