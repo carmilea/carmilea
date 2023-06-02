@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Not Wrong that “ ”.length == 7](https://hsivonen.fi/string-length/)
-- [Chief executives cannot shut up about AI](https://www.economist.com/business/2023/06/01/chief-executives-cannot-shut-up-about-ai)
+- [It’s not wrong that &amp;quot;🤦🏼‍♂️&amp;quot;.length == 7 &lpar;2019&rpar;](https://hsivonen.fi/string-length/)
 - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
+- [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 <!-- BLOG-POST-LIST:END -->
 
 ---
