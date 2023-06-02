@@ -54,8 +54,8 @@
 - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
 - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
+- [Reddit Is Killing 3rd-Party Apps, the Best Way to Read the Site](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)
 - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
-- [Memfault &lpar;YC W19&rpar; Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
