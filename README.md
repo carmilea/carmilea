@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
+- [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
+- [ChatGPT took their jobs. Now they walk dogs and fix air conditioners](https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/)
+- [An open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 - [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
-- [We’ve just seen solid state active cooling working on a Mini PC](https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/)
-- [CEO: Raspberry Pi stock to hit 1M units monthly, starting in July](https://arstechnica.com/gadgets/2023/06/ceo-raspberry-pi-inventory-to-hit-1m-units-monthly-starting-in-july/)
-- [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
-- [The Newest College Admissions Ploy: Paying to Make Your Teen “Peer-Reviewed”](https://www.propublica.org/article/college-high-school-research-peer-review-publications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
