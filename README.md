@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the nature of consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
 - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
-- [You can watermark GPT&amp;#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
+- [Undetectable Watermarks for Language Models](https://eprint.iacr.org/2023/763)
 - [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
-- [Profit-Price Spiral: Excess Profits Fuelling Inflation, Not Wages](https://futurework.org.au/post/profit-price-spiral-excess-profits-fuelling-inflation-interest-rates-not-wages/)
-- [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
+- [Ask HN: Who got hired from HN?](https://news.ycombinator.com/item?id=36160198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
