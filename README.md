@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s not wrong that &amp;quot;🤦🏼‍♂️&amp;quot;.length == 7 &lpar;2019&rpar;](https://hsivonen.fi/string-length/)
-- [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
-- [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
-- [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
-- [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
+- [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
+- [Presence of nicotine and antidepressants detected in Antarctic waters](https://www.bionity.com/en/news/1180593/presence-of-nicotine-and-antidepressants-detected-in-antarctic-waters.html)
+- [Health System in Minnesota Cuts Off Patients with Medical Debt](https://www.nytimes.com/2023/06/01/business/allina-health-hospital-debt.html)
+- [Is it OK to recline your airplane seat? Some travel experts say no](https://www.cbsnews.com/news/airplane-seat-should-you-recline/)
+- [Global fertility has collapsed, with profound economic consequences](https://www.economist.com/leaders/2023/06/01/global-fertility-has-collapsed-with-profound-economic-consequences)
 <!-- BLOG-POST-LIST:END -->
 
 ---
