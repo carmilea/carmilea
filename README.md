@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal &lpar;YC S11&rpar; is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
 - [Photography&#39;s new bag of tricks &lpar;1984&rpar;](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
-- [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
 - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
-- [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
+- [Systems explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
+- [Proven &lpar;Dot Lol&rpar;](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
