@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
+- [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
 - [Memfault &lpar;YC W19&rpar; Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
-- [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
-- [Undetectable Watermarks for Language Models](https://eprint.iacr.org/2023/763)
 <!-- BLOG-POST-LIST:END -->
 
 ---
