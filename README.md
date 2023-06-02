@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman with untreated TB finally in custody – held in “negative pressure” room](https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/)
-- [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
-- [System76&#39;s Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
-- [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
-- [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
+- [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
+- [Lago – Open-Source Alternative to Stripe Billing – Hires for Developer Relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
+- [Kenneth Anger Has Died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
+- [StackOverflow petition to allow remove AI generated content](https://openletter.mousetail.nl/)
+- [Netflix Shareholders Vote to Reject Executive Pay Packages](https://www.nytimes.com/2023/06/01/business/media/netflix-executive-compensation-vote.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
