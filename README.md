@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
+- [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
-- [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
 - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
 - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
-- [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
