@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter fails to act on 99% of Twitter Blue accounts tweeting hate](https://counterhate.com/research/twitter-fails-to-act-on-twitter-blue-accounts-tweeting-hate/)
-- [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
-- [Fallen Pizza Startup Zume Shuts Down After Raising Millions](https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions)
-- [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
-- [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
+- [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
+- [New Security Warning Issued for Google&#39;s 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)
+- [Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)
+- [Ask HN: Did Anyone Else Here Simply Not Do Well at School?](https://news.ycombinator.com/item?id=36177166)
+- [Leaked source – CS:GO](https://lwss.github.io/Kisak-Strike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
