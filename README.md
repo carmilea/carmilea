@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
-- [New Security Warning Issued for Google&#39;s 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)
-- [Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)
-- [Ask HN: Did Anyone Else Here Simply Not Do Well at School?](https://news.ycombinator.com/item?id=36177166)
-- [Leaked source – CS:GO](https://lwss.github.io/Kisak-Strike/)
+- [What are the risks of being an older father?](https://www.bbc.com/future/article/20230602-what-are-the-risks-of-being-an-older-father)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
+- [OpenAI&#39;s plans according to Sam Altman removed at OpenAI&#39;s request](https://humanloop.com/blog/openai-plans)
+- [Reddit Became the Enemy – With Apollo Developer Christian Selig](https://www.youtube.com/watch?v=Ypwgu1BpaO0)
+- [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
