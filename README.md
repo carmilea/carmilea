@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
+- [Ask HN: What other news feeds do you read besides Hacker News?](https://news.ycombinator.com/item?id=36175315)
 - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
-- [Color Photos of Stalin-Era Soviet Union Taken by a US diplomat](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
-- [For the badge: Badges for badges&#39; sake](https://forthebadge.com/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
+- [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
