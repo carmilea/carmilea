@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
-- [A DIY business card that runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
-- [USB armory – The open source flash-drive-sized computer by WithSecure Foundry](https://github.com/usbarmory)
-- [How the CIA used Crypto AG encryption devices to spy on countries for decades &lpar;2020&rpar;](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
-- [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
+- [Twitter fails to act on 99% of Twitter Blue accounts tweeting hate](https://counterhate.com/research/twitter-fails-to-act-on-twitter-blue-accounts-tweeting-hate/)
+- [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
+- [Fallen Pizza Startup Zume Shuts Down After Raising Millions](https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions)
+- [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
+- [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
