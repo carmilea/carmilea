@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What are the risks of being an older father?](https://www.bbc.com/future/article/20230602-what-are-the-risks-of-being-an-older-father)
+- [Federal judge: No AI in my courtroom unless a human verifies its accuracy](https://arstechnica.com/tech-policy/2023/05/federal-judge-no-ai-in-my-courtroom-unless-a-human-verifies-its-accuracy/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
+- [Don’t store cash in Venmo and PayPal, US regulator warns](https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html)
 - [OpenAI&#39;s plans according to Sam Altman removed at OpenAI&#39;s request](https://humanloop.com/blog/openai-plans)
-- [Reddit Became the Enemy – With Apollo Developer Christian Selig](https://www.youtube.com/watch?v=Ypwgu1BpaO0)
-- [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
