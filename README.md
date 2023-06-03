@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the risks of being an older father?](https://www.bbc.com/future/article/20230602-what-are-the-risks-of-being-an-older-father)
+- [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
+- [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
 - [Federal judge: No AI in my courtroom unless a human verifies its accuracy](https://arstechnica.com/tech-policy/2023/05/federal-judge-no-ai-in-my-courtroom-unless-a-human-verifies-its-accuracy/)
+- [Ben Eater: Running Apple 1 software on a breadboard computer &lpar;Wozmon&rpar; [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
-- [Don’t store cash in Venmo and PayPal, US regulator warns](https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html)
-- [OpenAI&#39;s plans according to Sam Altman removed at OpenAI&#39;s request](https://humanloop.com/blog/openai-plans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
