@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For the badge: Badges for badges&#39; sake](https://forthebadge.com/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
-- [YouTube will stop removing false claims of 2020 US election fraud](https://www.lemonde.fr/en/united-states/article/2023/06/03/youtube-will-stop-removing-false-claims-of-2020-us-election-fraud_6028927_133.html)
+- [Ask HN: How much of unlimited PTO do you use?](https://news.ycombinator.com/item?id=36174140)
 - [How to Decode QR Code on Your Own &lpar;Without Camera Scan&rpar;](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
-- [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
