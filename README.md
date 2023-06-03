@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
-- [Don&#39;t let Reddit kill 3rd party apps](https://old.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/)
-- [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
-- [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
-- [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
+- [Thought Cloning: Learning to Think While Acting by Imitating Human Thinking](https://arxiv.org/abs/2306.00323)
+- [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
+- [Science and Technogy links &lpar;June 3 2023&rpar;](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
+- [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
+- [GPS](https://ciechanow.ski/gps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
