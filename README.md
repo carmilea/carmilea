@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Decode QR Code on Your Own &lpar;Without Camera Scan&rpar;](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
+- [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
 - [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 - [Asia Sentinel Blocked in Singapore](https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore)
 - [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
-- [Teen neurostimulation of dopamine circuit reverses genetic deficits in PF cortex](https://elifesciences.org/reviewed-preprints/87414v1)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36172672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
