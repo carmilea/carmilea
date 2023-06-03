@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
+- [Color Photos of Stalin-Era Soviet Union Taken by a US Spy](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
 - [For the badge: Badges for badges&#39; sake](https://forthebadge.com/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
 - [Ask HN: How much of unlimited PTO do you use?](https://news.ycombinator.com/item?id=36174140)
-- [How to Decode QR Code on Your Own &lpar;Without Camera Scan&rpar;](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
-- [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
