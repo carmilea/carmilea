@@ -55,7 +55,7 @@
 - [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
 - [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
 - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
-- [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
+- [New warning messages might as well be fatal errors](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FatalWarnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
