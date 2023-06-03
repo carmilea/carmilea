@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
+- [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
+- [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
+- [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
 - [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
-- [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
-- [Federal judge: No AI in my courtroom unless a human verifies its accuracy](https://arstechnica.com/tech-policy/2023/05/federal-judge-no-ai-in-my-courtroom-unless-a-human-verifies-its-accuracy/)
-- [Ben Eater: Running Apple 1 software on a breadboard computer &lpar;Wozmon&rpar; [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
