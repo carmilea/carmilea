@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2022Q4 real compensation revised downward to -4.7% from +0.7%](https://www.bls.gov/news.release/prod2.nr0.htm)
-- [OneSignal &lpar;YC S11&rpar; is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
-- [Photography&#39;s new bag of tricks &lpar;1984&rpar;](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
-- [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
-- [Systems explained by Humberto Maturana &lpar;2021&rpar;](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
+- [Teen neurostimulation of dopamine circuit reverses genetic deficits in PF cortex](https://elifesciences.org/reviewed-preprints/87414v1)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36172672)
+- [Caltech&#39;s Space Solar Power Demonstrator Wirelessly Transmits Power in Space](https://www.caltech.edu/about/news/in-a-first-caltechs-space-solar-power-demonstrator-wirelessly-transmits-power-in-space)
+- [Ask HN: Real-life, ridiculous security incidents?](https://news.ycombinator.com/item?id=36172547)
+- [Intelligent Brains Take Longer to Solve Difficult Problems](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
