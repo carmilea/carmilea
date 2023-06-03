@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
+- [A DIY business card that runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+- [USB armory – The open source flash-drive-sized computer by WithSecure Foundry](https://github.com/usbarmory)
 - [How the CIA used Crypto AG encryption devices to spy on countries for decades &lpar;2020&rpar;](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
 - [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
-- [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
-- [Fq: Jq for Binary Formats](https://github.com/wader/fq)
-- [New warning messages might as well be fatal errors](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FatalWarnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
