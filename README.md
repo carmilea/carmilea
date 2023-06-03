@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the CIA used Crypto AG encryption devices to spy on countries for decades &lpar;2020&rpar;](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
+- [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
 - [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
-- [Ask HN: What other news feeds do you read besides Hacker News?](https://news.ycombinator.com/item?id=36175315)
 - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
-- [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
