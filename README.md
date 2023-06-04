@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
-- [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
 - [It could cost $21B to clean up California’s oil sites, study finds](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
+- [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
 - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
-- [Manifesto on the Teaching of Mathematics](https://intellectualmathematics.com/manifesto/)
+- [Manifesto on the Teaching of Mathematics &lpar;2015&rpar;](https://intellectualmathematics.com/manifesto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
