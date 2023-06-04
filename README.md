@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Venus Is So Bright Right Now](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)
-- [Meta Is Trying, and Failing, to Crush Unions in Kenya](https://jacobin.com/2023/06/meta-is-trying-and-failing-to-crush-unions-in-kenya)
-- [Pentagon contracting Starlink to provide satellite communications for Ukraine](https://defensescoop.com/2023/06/01/pentagon-contracting-with-spacexs-starlink-to-provide-satellite-communication-capabilities-for-ukraine/)
-- [A birder&#39;s quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
-- [A shocking number of birds are in trouble](https://arstechnica.com/science/2023/06/a-shocking-number-of-birds-are-in-trouble/)
+- [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
+- [At last, the Raspberry Pi shortage is finally coming to an end](https://www.pcworld.com/article/1939160/at-last-the-raspberry-pi-shortage-is-finally-coming-to-an-end.html)
+- [Universal basic income of £1,600 a month to be trialled in England](https://www.theguardian.com/society/2023/jun/04/universal-basic-income-of-1600-pounds-a-month-to-be-trialled-in-england)
+- [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
+- [Mastodon provides the highest &lpar;over 12%&rpar; engagement under posts](https://climatejustice.rocks/@kathhayhoe/110436657882930430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
