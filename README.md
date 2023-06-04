@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is getting sued for being biased with Y Combinator](https://twitter.com/short_straw/status/1655352280202313734)
+- [Milk-V Duo is a $9.00 RISC-V tiny embedded computer](https://linuxgizmos.com/milk-v-duo-is-a-9-00-risc-v-tiny-embedded-computer/)
+- [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
 - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 - [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
-- [Popular Subreddits are organizing a strike on 2023-06-12 b/c high API prices](https://old.reddit.com/r/LifeProTips/comments/140b6q6/rlifeprotips_will_be_going_dark_from_june_1214_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
