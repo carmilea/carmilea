@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A woman is in custody after refusing tuberculosis treatment for more than a year](https://www.npr.org/2023/06/03/1179748072/tuberculosis-woman-arrested-tacoma-washington)
-- [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
-- [Child Labor Is on the Rise](https://www.newyorker.com/magazine/2023/06/12/child-labor-is-on-the-rise)
-- [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
-- [AI Report #4: AutoGPT And Open-source lags behind Part 2](https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source)
+- [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+- [Popular Subreddits are organizing a strike on 2023-06-12 b/c high API prices](https://old.reddit.com/r/LifeProTips/comments/140b6q6/rlifeprotips_will_be_going_dark_from_june_1214_in/)
+- [Show HN: SQL Dry Runs with SQL Simulator](https://www.tribalknowledge.tech/blog/top-6-questions-about-doing-a-sql-dry-run-with-sql-simulator)
+- [WFH – Watched from Home: Office 365 and workplace surveillance creep](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
+- [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
