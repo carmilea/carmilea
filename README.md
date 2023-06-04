@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
 - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
 - [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
-- [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
 - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 <!-- BLOG-POST-LIST:END -->
 
