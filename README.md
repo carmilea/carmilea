@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
+- [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
+- [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
+- [Power outages and sweltering heat in Vietnam, people struggling to cope](https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html)
+- [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
 - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
-- [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
-- [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
-- [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
