@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
+- [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
+- [AI Report #4: AutoGPT And Open-source lags behind Part 2](https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source)
 - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
-- [At last, the Raspberry Pi shortage is finally coming to an end](https://www.pcworld.com/article/1939160/at-last-the-raspberry-pi-shortage-is-finally-coming-to-an-end.html)
-- [Universal basic income of £1,600 a month to be trialled in England](https://www.theguardian.com/society/2023/jun/04/universal-basic-income-of-1600-pounds-a-month-to-be-trialled-in-england)
-- [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
-- [Mastodon provides the highest &lpar;over 12%&rpar; engagement under posts](https://climatejustice.rocks/@kathhayhoe/110436657882930430)
+- [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
