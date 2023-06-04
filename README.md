@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is getting sued for being biased with Y Combinator](https://twitter.com/short_straw/status/1655352280202313734)
+- [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 - [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+- [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
 - [Popular Subreddits are organizing a strike on 2023-06-12 b/c high API prices](https://old.reddit.com/r/LifeProTips/comments/140b6q6/rlifeprotips_will_be_going_dark_from_june_1214_in/)
-- [Show HN: SQL Dry Runs with SQL Simulator](https://www.tribalknowledge.tech/blog/top-6-questions-about-doing-a-sql-dry-run-with-sql-simulator)
-- [WFH – Watched from Home: Office 365 and workplace surveillance creep](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
-- [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
