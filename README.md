@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
+- [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
+- [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
 - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
-- [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
-- [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
-- [Optery &lpar;YC W22&rpar; Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
