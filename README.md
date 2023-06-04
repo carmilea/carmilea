@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
+- [CEO Update: Paving the road forward with AI and community at the center](https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-with-ai-and-community-at-the-center/)
+- [Trick Yourself into Breaking a Bad Habit](https://hbr.org/2016/01/trick-yourself-into-breaking-a-bad-habit)
+- [Ask HN: Struggling with Productivity and Procrastination](https://news.ycombinator.com/item?id=36184605)
 - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
-- [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
-- [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
-- [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
-- [Exclusive: Ministers had ‘chilling’ secret unit to curb lockdown dissent](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
