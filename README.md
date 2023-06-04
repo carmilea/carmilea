@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Venus Is So Bright Right Now](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)
+- [Meta Is Trying, and Failing, to Crush Unions in Kenya](https://jacobin.com/2023/06/meta-is-trying-and-failing-to-crush-unions-in-kenya)
+- [Pentagon contracting Starlink to provide satellite communications for Ukraine](https://defensescoop.com/2023/06/01/pentagon-contracting-with-spacexs-starlink-to-provide-satellite-communication-capabilities-for-ukraine/)
 - [A birder&#39;s quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
-- [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
-- [What Is Social Status?](https://robkhenderson.substack.com/p/what-is-social-status)
-- [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
-- [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
+- [A shocking number of birds are in trouble](https://arstechnica.com/science/2023/06/a-shocking-number-of-birds-are-in-trouble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
