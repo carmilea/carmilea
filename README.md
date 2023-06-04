@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The end of the Silicon Valley dream](https://www.spectator.co.uk/article/the-end-of-the-silicon-valley-dream/)
-- [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
-- [.ga domain names soon to return to Gabonese management &lpar;from Freenom&rpar; [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
-- [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
-- [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
+- [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
+- [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
+- [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
+- [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
+- [Exclusive: Ministers had ‘chilling’ secret unit to curb lockdown dissent](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
