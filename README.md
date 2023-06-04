@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A woman is in custody after refusing tuberculosis treatment for more than a year](https://www.npr.org/2023/06/03/1179748072/tuberculosis-woman-arrested-tacoma-washington)
 - [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
+- [Child Labor Is on the Rise](https://www.newyorker.com/magazine/2023/06/12/child-labor-is-on-the-rise)
 - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
 - [AI Report #4: AutoGPT And Open-source lags behind Part 2](https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source)
-- [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
-- [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
