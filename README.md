@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thought Cloning: Learning to Think While Acting by Imitating Human Thinking](https://arxiv.org/abs/2306.00323)
+- [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
+- [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
 - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 - [Science and Technogy links &lpar;June 3 2023&rpar;](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
-- [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
-- [GPS](https://ciechanow.ski/gps/)
+- [Manifesto on the Teaching of Mathematics](https://intellectualmathematics.com/manifesto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
