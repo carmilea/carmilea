@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A birder&#39;s quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
+- [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
+- [What Is Social Status?](https://robkhenderson.substack.com/p/what-is-social-status)
+- [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
 - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
-- [CEO Update: Paving the road forward with AI and community at the center](https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-with-ai-and-community-at-the-center/)
-- [Trick Yourself into Breaking a Bad Habit](https://hbr.org/2016/01/trick-yourself-into-breaking-a-bad-habit)
-- [Ask HN: Struggling with Productivity and Procrastination](https://news.ycombinator.com/item?id=36184605)
-- [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
