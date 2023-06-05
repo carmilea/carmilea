@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
-- [Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader](https://twitter.com/joncstone/status/1665728784366960641)
-- [Linux on the 7th Generation of Consoles Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
-- [Science Should Leave the University](https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/)
-- [Pixar lays off animator who saved Toy Story 2 with car full of hard drives](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
+- [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
+- [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
+- [Launch HN: Nucleus &lpar;YC W23&rpar; – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
+- [Customer ratings have become meaningless. ‘people give 5 stars like it’s candy.’](https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb)
+- [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
