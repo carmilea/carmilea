@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Never trust a programmer who says they know C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
+- [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
+- [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
 - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 - [Architect your project with Framed: effortless files and directories management](https://github.com/mactat/framed)
 - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-- [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 <!-- BLOG-POST-LIST:END -->
 
 ---
