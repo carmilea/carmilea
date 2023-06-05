@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moderation strike: Stack Overflow Inc cannot ignore, mistreat, malign volunteers](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
+- [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
+- [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 - [Tell HN: My Reddit account was banned after adding my subs to the protest](https://news.ycombinator.com/item?id=36192312)
-- [Google just released a 100% free learning path on Generative AI with 9 Courses](https://www.cloudskillsboost.google/paths/118)
+- [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
 - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
-- [Euthanasia Is Not Healthcare](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
