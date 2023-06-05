@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+- [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
 - [Launch HN: Nucleus &lpar;YC W23&rpar; – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
-- [Customer ratings have become meaningless. ‘people give 5 stars like it’s candy.’](https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb)
-- [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
