@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
-- [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
-- [Power outages and sweltering heat in Vietnam, people struggling to cope](https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html)
-- [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
-- [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
+- [Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
+- [The boxes of Hock Wah Yeo &lpar;2021&rpar;](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
+- [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
+- [Do we need copyright? &lpar;2012&rpar;](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
+- [Ultralong-Range Electric Cars Are Arriving. Say Goodbye to Charging Stops](https://www.wsj.com/articles/ultralong-range-electric-cars-are-arriving-say-goodbye-to-charging-stops-a5cf4390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
