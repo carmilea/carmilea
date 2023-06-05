@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+- [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
-- [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
-- [New Mass. right-to-repair law now being enforced](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
-- [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
-- [Why Did Usenet Fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
+- [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
+- [Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
