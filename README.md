@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
 - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 - [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
 - [Apple Vision Pro Is Apple&#39;s New VR Headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
-- [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
