@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Down](https://web.whatsapp.com/)
-- [Universal basic income of nearly $2000/mo to be trialed in UK for the first time](https://www.cnbc.com/2023/06/05/universal-basic-income-could-be-coming-to-england-for-the-first-time.html)
-- [New DirectX 12-to-Metal translation could bring a world of Window games to macOS](https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/)
-- [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
-- [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
+- [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
+- [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
+- [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
+- [Apple Vision Pro Is Apple&#39;s New VR Headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
+- [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
