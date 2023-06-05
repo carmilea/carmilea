@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Never trust a programmer who says they know C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
+- [Architect your project with Framed: effortless files and directories management](https://github.com/mactat/framed)
 - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 - [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
-- [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
-- [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
