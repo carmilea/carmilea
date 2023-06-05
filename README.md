@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
-- [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
-- [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
-- [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
-- [Launch HN: Nucleus &lpar;YC W23&rpar; – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
+- [WhatsApp Down](https://web.whatsapp.com/)
+- [Universal basic income of nearly $2000/mo to be trialed in UK for the first time](https://www.cnbc.com/2023/06/05/universal-basic-income-could-be-coming-to-england-for-the-first-time.html)
+- [New DirectX 12-to-Metal translation could bring a world of Window games to macOS](https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/)
+- [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
+- [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
