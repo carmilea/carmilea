@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
-- [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
-- [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
-- [Architect your project with Framed: effortless files and directories management](https://github.com/mactat/framed)
-- [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
+- [Who killed the great British curry house? &lpar;2017&rpar;](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
+- [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
+- [Why Did Usenet Fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
+- [Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
+- [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
