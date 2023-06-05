@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
 - [The Meltdown at CNN](https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/)
-- [Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
 - [The boxes of Hock Wah Yeo &lpar;2021&rpar;](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
 - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
+- [Do we need copyright? &lpar;2012&rpar;](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
