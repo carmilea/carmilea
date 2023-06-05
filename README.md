@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
 - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
-- [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
