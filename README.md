@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 - [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 - [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
 - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
-- [I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
