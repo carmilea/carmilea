@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco Homeowners Lose $260B in Value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
+- [Moderation strike: Stack Overflow Inc cannot ignore, mistreat, malign volunteers](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
+- [Tell HN: My Reddit account was banned after adding my subs to the protest](https://news.ycombinator.com/item?id=36192312)
+- [Google just released a 100% free learning path on Generative AI with 9 Courses](https://www.cloudskillsboost.google/paths/118)
 - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
-- [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
-- [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
-- [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
+- [Euthanasia Is Not Healthcare](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
