@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
-- [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
-- [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
-- [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
-- [Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
+- [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader](https://twitter.com/joncstone/status/1665728784366960641)
+- [Linux on the 7th Generation of Consoles Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
+- [Science Should Leave the University](https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/)
+- [Pixar lays off animator who saved Toy Story 2 with car full of hard drives](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
