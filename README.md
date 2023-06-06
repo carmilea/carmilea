@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
+- [‘Shut it off immediately’: health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
 - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
-- [Stack Overflow Moderators Striking to Stop Garbage AI Content from Flooding Site](https://www.vice.com/en/article/4a33dj/stack-overflow-moderators-are-striking-to-stop-garbage-ai-content-from-flooding-the-site)
-- [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
-- [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
-- [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
+- [What’s New in SingleStoreDB 8.1](https://www.singlestore.com/blog/what-s-new-in-singlestoredb-8-1/)
+- [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
