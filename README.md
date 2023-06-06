@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US SEC sues Coinbase, one day after suing Binance](https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/)
-- [Apple Vision](https://stratechery.com/2023/apple-vision/)
-- [Coinbase Sued by SEC for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules)
-- [Svix &lpar;YC W21&rpar; Is Hiring an Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
+- [Launch HN: Seam &lpar;YC S20&rpar; – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
+- [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
+- [Ripping Off Professional Criminals by Fermenting Onions](https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/)
+- [Drone cops are coming for small-town America](https://www.economist.com/1843/2023/06/01/drone-cops-are-coming-for-small-town-america)
+- [Deadly heart attacks are more common on a Monday](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/heart-attack-more-common-monday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
