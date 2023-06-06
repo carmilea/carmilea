@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
 - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
-- [Homesepot $44K pre-fab house](https://www.homedepot.com/p/Getaway-Pad-540-sq-ft-1-Bed-and-Roof-Deck-Tiny-Home-Steel-Frame-Building-Kit-ADU-Cabin-Guest-house-GPRD540/320746688)
 - [The Linux kernel will fix some peculiar argv usage in execve&lpar;2&rpar;](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
 - [Apple releasing segmentation/pose for humans and animals, embedding for 27 lang](https://developer.apple.com/wwdc23/topics/ml-vision/)
-- [visionOS](https://developer.apple.com/visionos/)
+- [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
