@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Will Save the World](https://pmarca.substack.com/p/why-ai-will-save-the-world)
+- [Reddit permanently bans account of user advocating Lemmy migration](https://lemmy.ml/post/1152281)
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [GGML – AI at the Edge](http://ggml.ai)
+- [SwiftData](https://developer.apple.com/documentation/SwiftData)
 - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
-- [&#39;Guilt Tipping&#39;: Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
-- [Counterexamples in Type Systems: programs that crash, segfault or explode &lpar;2021&rpar;](https://counterexamples.org/intro.html)
-- [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
 <!-- BLOG-POST-LIST:END -->
 
 ---
