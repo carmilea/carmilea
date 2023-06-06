@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US SEC sues Coinbase, one day after suing Binance](https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/)
+- [Apple Vision](https://stratechery.com/2023/apple-vision/)
+- [Coinbase Sued by SEC for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules)
 - [Svix &lpar;YC W21&rpar; Is Hiring an Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Move over jq I found something easier: fx](https://github.com/antonmedv/fx)
-- [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
-- [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
-- [LiquidPiston – The Future of the Combustion Engine](https://invest.liquidpiston.com/)
+- [Tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
