@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
+- [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
 - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
-- [RedPajama 7B &lpar;an Apache 2.0-licensed LLaMa&rpar; is now available](https://www.together.xyz/blog/redpajama-7b)
 - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
-- [Reddit permanently bans account of user advocating Lemmy migration](https://lemmy.ml/post/1152281)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
