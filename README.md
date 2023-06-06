@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
-- [‘Shut it off immediately’: health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
-- [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
-- [What’s New in SingleStoreDB 8.1](https://www.singlestore.com/blog/what-s-new-in-singlestoredb-8-1/)
-- [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
+- [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)
+- [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
+- [I wore the Apple Vision Pro. It’s the best headset demo ever](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)
+- [Apple Vision Pro: I Tried the New Mixed-Reality Headset](https://www.wsj.com/articles/apple-vision-pro-i-tried-the-new-mixed-reality-headset-f49a8811)
+- [Ask HN: Rust or C or C++ in 2023?](https://news.ycombinator.com/item?id=36206908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
