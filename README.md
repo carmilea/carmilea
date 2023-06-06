@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
+- [Digg&#39;s v4 launch: an optimism born of necessity &lpar;2018&rpar;](https://lethain.com/digg-v4/)
 - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 - [Reconstructing Obsidian Features in Vim and Bash](https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/)
-- [Passkeys now support external providers](https://developer.apple.com/passkeys/)
-- [The Linux kernel will fix some peculiar argv usage in execve&lpar;2&rpar;](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
-- [Nvidia releases new AI chip with 480GB CPU RAM, 96GB GPU RAM](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/)
+- [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
