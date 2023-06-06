@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
 - [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
 - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
 - [Wait Until 8TH](https://www.waituntil8th.org)
-- [Entertainments from a Medieval Minstrel’s Repertoire Book](https://academic.oup.com/res/advance-article/doi/10.1093/res/hgad053/7187022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
