@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
+- [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
-- [Apple Releases New Static Linker](https://twitter.com/davidecci/status/1665835119331135488)
-- [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
-- [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
-- [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
+- [SEC asks for emergency order to freeze Binance US assets anywhere in the world](https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html)
+- [Announcing the SingleStore and Qlik Partnership for SAP Data Migration](https://www.singlestore.com/blog/announcing-singlestore-qlik-for-sap-data-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
