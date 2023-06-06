@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
-- [Digg&#39;s v4 launch: an optimism born of necessity &lpar;2018&rpar;](https://lethain.com/digg-v4/)
-- [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
-- [Reconstructing Obsidian Features in Vim and Bash](https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/)
-- [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
+- [Svix &lpar;YC W21&rpar; Is Hiring an Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Move over jq I found something easier: fx](https://github.com/antonmedv/fx)
+- [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
+- [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
+- [LiquidPiston – The Future of the Combustion Engine](https://invest.liquidpiston.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
