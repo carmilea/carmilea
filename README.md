@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)
 - [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
-- [I wore the Apple Vision Pro. It’s the best headset demo ever](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)
-- [Apple Vision Pro: I Tried the New Mixed-Reality Headset](https://www.wsj.com/articles/apple-vision-pro-i-tried-the-new-mixed-reality-headset-f49a8811)
-- [Ask HN: Rust or C or C++ in 2023?](https://news.ycombinator.com/item?id=36206908)
+- [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
+- [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
+- [Wait Until 8TH](https://www.waituntil8th.org)
+- [Entertainments from a Medieval Minstrel’s Repertoire Book](https://academic.oup.com/res/advance-article/doi/10.1093/res/hgad053/7187022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
