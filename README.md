@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: code we write today will be thrown out in the next 30 years](https://news.ycombinator.com/item?id=36208718)
 - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
-- [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
 - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
 <!-- BLOG-POST-LIST:END -->
