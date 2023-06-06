@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Counterexamples in Type Systems: programs that crash, segfault or explode &lpar;2021&rpar;](https://counterexamples.org/intro.html)
+- [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
+- [Chrome still hasn&#39;t changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
 - [Launch HN: Seam &lpar;YC S20&rpar; – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
-- [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
-- [Ripping Off Professional Criminals by Fermenting Onions](https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/)
-- [Drone cops are coming for small-town America](https://www.economist.com/1843/2023/06/01/drone-cops-are-coming-for-small-town-america)
-- [Deadly heart attacks are more common on a Monday](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/heart-attack-more-common-monday)
+- [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
