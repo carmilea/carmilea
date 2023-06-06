@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Will Save the World](https://pmarca.substack.com/p/why-ai-will-save-the-world)
+- [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
+- [&#39;Guilt Tipping&#39;: Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
 - [Counterexamples in Type Systems: programs that crash, segfault or explode &lpar;2021&rpar;](https://counterexamples.org/intro.html)
-- [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
-- [Chrome still hasn&#39;t changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
-- [Launch HN: Seam &lpar;YC S20&rpar; – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
-- [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/)
+- [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
 <!-- BLOG-POST-LIST:END -->
 
 ---
