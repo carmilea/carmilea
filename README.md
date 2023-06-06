@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
+- [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
 - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
 - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
 - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
-- [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
