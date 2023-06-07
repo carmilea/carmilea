@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
+- [“fractureiser” malware in many popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
+- [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
 - [Rust Module System Encourages Bad Practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 - [Grass Makes Better Ethanol Than Corn Does &lpar;2008&rpar;](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
-- [The Cuboid: A DIY air purifier that&#39;s better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
-- [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
-- [Tell HN: &quot;I don&#39;t care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
