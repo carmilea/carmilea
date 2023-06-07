@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
+- [Royal Navy Says Quantum Navigation Test a Success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
 - [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
-- [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
-- [Santé &lpar;YC S23&rpar; Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
-- [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
+- [DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
