@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
-- [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
-- [Ask HN: Code review as part of the peer review process?](https://news.ycombinator.com/item?id=36224703)
-- [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
-- [Apple&#39;s game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
+- [Discussion on Frustrations of Linux Kernel Development Process](https://lwn.net/Articles/932215/)
+- [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
+- [A Student Loan Pause Has Made Borrowers Worse Off](https://reason.com/2023/06/06/the-student-loan-pause-has-made-borrowers-worse-off/)
+- [Ask HN: Anyone Building a Competitor to Reddit?](https://news.ycombinator.com/item?id=36225583)
+- [Dell in hot water for making shoppers think overpriced monitors were discounted](https://arstechnica.com/gadgets/2023/06/dell-in-hot-water-for-making-shoppers-think-overpriced-monitors-were-discounted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
