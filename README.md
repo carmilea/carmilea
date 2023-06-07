@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Module System Encourages Bad Practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
+- [Grass Makes Better Ethanol Than Corn Does &lpar;2008&rpar;](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
+- [The Cuboid: A DIY air purifier that&#39;s better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
+- [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 - [Tell HN: &quot;I don&#39;t care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
-- [Apple&#39;s new library format combines the best of dynamic and static](https://developer.apple.com/videos/play/wwdc2023/10268)
-- [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
-- [Show HN: Ezno, a TypeScript checker written in Rust, is now open source](https://github.com/kaleidawave/ezno/discussions/21)
-- [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
