@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 calls a zip file a &#39;postcode file&#39; in UK English](https://twitter.com/JymFox/status/1665799627377975300)
+- [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
+- [Reddit&#39;s Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
+- [Apple removes $99 dev account requirement for first iOS 17 and macOS 14 betas](https://arstechnica.com/gadgets/2023/06/how-to-install-ios-17-and-macos-14-developer-betas-now-that-anyone-can-do-it/)
 - [I&#39;m Afraid I Can&#39;t Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
-- [Hacker News evading criticism by selectively adding noreferrer to certain links](https://social.treehouse.systems/@marcan/110503050993279759)
-- [Global Solar Power Investment Will Top $1B per Day This Year](https://singularityhub.com/2023/06/07/global-solar-power-investment-will-top-1-billion-per-day-this-year/)
-- [Val Town Pro - $10/month for more compute, storage, private vals](https://www.val.town/pricing)
-- [Vision Pro’s Big Reveal](https://www.roughtype.com/?p=9237)
 <!-- BLOG-POST-LIST:END -->
 
 ---
