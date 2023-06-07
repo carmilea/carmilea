@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New CEO Says Employees Can’t Work Remotely After All, and They Revolt](https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399)
-- [Classic movie censored and re-edited for “modern sensitivities”](https://twitter.com/TheFIREorg/status/1666457570171666432)
-- [Show HN: I built an AI language teacher to get you SPEAKING](https://gliglish.com/)
-- [Addressing the distribution of illicit sexual content by minors online](https://cyber.fsi.stanford.edu/news/addressing-distribution-illicit-sexual-content-minors-online)
+- [Ashby &lpar;YC W19&rpar; Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+- [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
+- [Show HN: I built an AI language teacher to get you speaking](https://gliglish.com/)
 - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
+- [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
