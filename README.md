@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: &quot;I don&#39;t care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+- [Apple&#39;s new library format combines the best of dynamic and static](https://developer.apple.com/videos/play/wwdc2023/10268)
+- [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
+- [Show HN: Ezno, a TypeScript checker written in Rust, is now open source](https://github.com/kaleidawave/ezno/discussions/21)
 - [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
-- [Kami home camera app suddenly started displaying ads in the app](https://forum.yitechnology.com/t/ads-in-kami-home-yi-home-is-this-true/13127)
-- [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
-- [Windows 11 calls a zip file a &#39;postcode file&#39; in UK English](https://twitter.com/JymFox/status/1665799627377975300)
-- [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
