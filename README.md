@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
+- [Kami home camera app suddenly started displaying ads in the app](https://forum.yitechnology.com/t/ads-in-kami-home-yi-home-is-this-true/13127)
+- [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 - [Windows 11 calls a zip file a &#39;postcode file&#39; in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
-- [Reddit&#39;s Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
-- [Apple removes $99 dev account requirement for first iOS 17 and macOS 14 betas](https://arstechnica.com/gadgets/2023/06/how-to-install-ios-17-and-macos-14-developer-betas-now-that-anyone-can-do-it/)
-- [I&#39;m Afraid I Can&#39;t Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
 <!-- BLOG-POST-LIST:END -->
 
 ---
