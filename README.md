@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
-- [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
-- [SEC asks for emergency order to freeze Binance US assets anywhere in the world](https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html)
-- [Announcing the SingleStore and Qlik Partnership for SAP Data Migration](https://www.singlestore.com/blog/announcing-singlestore-qlik-for-sap-data-migration/)
+- [I will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
+- [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
+- [Santé &lpar;YC S23&rpar; Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
+- [I hate almost all software &lpar;2011&rpar;](https://tinyclouds.org/rant)
+- [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
