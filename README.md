@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
-- [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
-- [Show HN: I built an AI language teacher to get you speaking](https://gliglish.com/)
-- [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
-- [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
+- [I&#39;m Afraid I Can&#39;t Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
+- [Hacker News evading criticism by selectively adding noreferrer to certain links](https://social.treehouse.systems/@marcan/110503050993279759)
+- [Global Solar Power Investment Will Top $1B per Day This Year](https://singularityhub.com/2023/06/07/global-solar-power-investment-will-top-1-billion-per-day-this-year/)
+- [Val Town Pro - $10/month for more compute, storage, private vals](https://www.val.town/pricing)
+- [Vision Pro’s Big Reveal](https://www.roughtype.com/?p=9237)
 <!-- BLOG-POST-LIST:END -->
 
 ---
