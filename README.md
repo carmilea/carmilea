@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancient Carthaginians did sacrifice their children &lpar;2014&rpar;](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
 - [Apple&#39;s game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
 - [Aptible &lpar;YC S14&rpar; is hiring a security engineer](https://news.ycombinator.com/item?id=36223766)
 - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
-- [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
