@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amount of work that once bought an hour of light now buys 51 years of it &lpar;2017&rpar;](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
+- [Apple’s Vision Pro Is a $3,500 Ticket to Nowhere](https://www.vice.com/en/article/m7bbga/apples-vision-pro-augmented-virtual-reality-h)
+- [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
+- [10 years after Snowden&#39;s first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
+- [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
 - [An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
-- [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
-- [The entire finance industry will repeat this quote for a thousand years](https://twitter.com/patio11/status/1665759607153893381)
-- [Dell in hot water for making shoppers think overpriced monitors were discounted](https://arstechnica.com/gadgets/2023/06/dell-in-hot-water-for-making-shoppers-think-overpriced-monitors-were-discounted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
