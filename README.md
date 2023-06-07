@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancient Carthaginians did sacrifice their children &lpar;2014&rpar;](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
-- [Russia’s population nightmare is going to get even worse](https://www.economist.com/europe/2023/03/04/russias-population-nightmare-is-going-to-get-even-worse)
+- [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+- [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
+- [Ask HN: Code review as part of the peer review process?](https://news.ycombinator.com/item?id=36224703)
 - [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
 - [Apple&#39;s game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
-- [Aptible &lpar;YC S14&rpar; is hiring a security engineer](https://news.ycombinator.com/item?id=36223766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
