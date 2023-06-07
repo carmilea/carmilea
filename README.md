@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI images outperforming photos on Adobe Stock &lpar;17 cent RPI/m VS 3.75 cent&rpar;](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
+- [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
 - [Royal Navy Says Quantum Navigation Test a Success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
-- [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
-- [DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
