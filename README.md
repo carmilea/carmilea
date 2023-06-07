@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The amount of work that once bought an hour of light now buys 51 years of it](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 - [Discussion on Frustrations of Linux Kernel Development Process](https://lwn.net/Articles/932215/)
 - [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
-- [A Student Loan Pause Has Made Borrowers Worse Off](https://reason.com/2023/06/06/the-student-loan-pause-has-made-borrowers-worse-off/)
-- [Ask HN: Anyone Building a Competitor to Reddit?](https://news.ycombinator.com/item?id=36225583)
+- [The entire finance industry will repeat this quote for a thousand years](https://twitter.com/patio11/status/1665759607153893381)
 - [Dell in hot water for making shoppers think overpriced monitors were discounted](https://arstechnica.com/gadgets/2023/06/dell-in-hot-water-for-making-shoppers-think-overpriced-monitors-were-discounted/)
 <!-- BLOG-POST-LIST:END -->
 
