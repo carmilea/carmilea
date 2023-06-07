@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
+- [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
+- [Antarctica gained 600 Gt of ice during &#39;09-&#39;19 vs. a prediction of a 20k Gt loss](https://tc.copernicus.org/articles/17/2059/2023/)
 - [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
 - [Santé &lpar;YC S23&rpar; Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
-- [I hate almost all software &lpar;2011&rpar;](https://tinyclouds.org/rant)
 - [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
 <!-- BLOG-POST-LIST:END -->
 
