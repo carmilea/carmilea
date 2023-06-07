@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Vision Pro Is a $3,500 Ticket to Nowhere](https://www.vice.com/en/article/m7bbga/apples-vision-pro-augmented-virtual-reality-h)
-- [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
-- [10 years after Snowden&#39;s first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
-- [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
-- [An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
+- [A New CEO Says Employees Can’t Work Remotely After All, and They Revolt](https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399)
+- [Classic movie censored and re-edited for “modern sensitivities”](https://twitter.com/TheFIREorg/status/1666457570171666432)
+- [Show HN: I built an AI language teacher to get you SPEAKING](https://gliglish.com/)
+- [Addressing the distribution of illicit sexual content by minors online](https://cyber.fsi.stanford.edu/news/addressing-distribution-illicit-sexual-content-minors-online)
+- [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
