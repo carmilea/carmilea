@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
-- [Ask HN: How many of you have been laid of twice this year already?](https://news.ycombinator.com/item?id=36246816)
-- [Taurine Deficiency as a Driver of Aging](https://www.science.org/doi/10.1126/science.abn9257)
-- [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
-- [The US is building factories at a wildly fast rate](https://www.businessinsider.com/us-building-factories-census-data-chips-act-inflation-reduction-act-2023-6)
+- [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
+- [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+- [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+- [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
+- [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
