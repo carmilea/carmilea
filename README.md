@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mayo Clinic medical college to doctor: Sit down and shut up](https://www.thefire.org/news/mayo-clinic-medical-college-doctor-sit-down-and-shut)
+- [Desmos uses Pratt Parsers &lpar;2018&rpar;](https://engineering.desmos.com/articles/pratt-parser/)
+- [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
+- [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)
 - [Aviator &lpar;YC S21&rpar; is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-- [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
-- [Presence of airborne microplastics in human lung tissue](https://www.sciencedirect.com/science/article/abs/pii/S0304389421010888)
-- [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
-- [AI Browser Extensions Are a Security Nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
