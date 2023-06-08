@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mayo Clinic medical college to doctor: Sit down and shut up](https://www.thefire.org/news/mayo-clinic-medical-college-doctor-sit-down-and-shut)
-- [Desmos uses Pratt Parsers &lpar;2018&rpar;](https://engineering.desmos.com/articles/pratt-parser/)
-- [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
-- [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)
-- [Aviator &lpar;YC S21&rpar; is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+- [The US is building factories at a wildly fast rate](https://www.businessinsider.com/us-building-factories-census-data-chips-act-inflation-reduction-act-2023-6)
+- [Reddit is Fun will shut down on June 30th in response to Reddit API changes](https://old.reddit.com/r/redditisfun/comments/144gmfq/rif_will_shut_down_on_june_30_2023_in_response_to/)
+- [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
+- [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
+- [Could seaweed be the &#39;fastest and least expensive&#39; tool to fight climate change?](https://www.nationalgeographic.com/environment/article/seaweed-fastest-least-expensive-tool-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
