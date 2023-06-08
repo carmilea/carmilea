@@ -55,7 +55,7 @@
 - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
 - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
-- [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
+- [US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
