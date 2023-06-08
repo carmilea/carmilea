@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
+- [Scientists Discover Ancient &#39;Lost World&#39; That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
+- [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
 - [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
-- [Tailscale doesn&#39;t want your password](https://tailscale.com/blog/passkeys/)
-- [New data transmission record](https://www.dtu.dk/english/newsarchive/2022/10/new-data-transmission-record)
-- [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
