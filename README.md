@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wildfire Smoke Engulfs New York City, Breaking Pollution Records](https://atlasalpha.serenebase.com/post?recordId=rec5YRAg4rgw5iBGR)
-- [Reddit announces plan to lay off 90 workers as subreddits plan mass protest](https://www.sfgate.com/tech/article/reddit-layoffs-90-protest-plan-18140277.php)
+- [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 - [Tailscale doesn&#39;t want your password](https://tailscale.com/blog/passkeys/)
-- [Data Transmission Record: 1.8 Petabits per Second](https://www.dtu.dk/english/newsarchive/2022/10/new-data-transmission-record)
+- [New data transmission record](https://www.dtu.dk/english/newsarchive/2022/10/new-data-transmission-record)
+- [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
