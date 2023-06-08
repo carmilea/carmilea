@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can a junior dev maximize their income?](https://news.ycombinator.com/item?id=36242944)
-- [Lawyer Who Used ChatGPT Faces Penalty for Made Up Citations](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html)
-- [Senators send letter questioning Mark Zuckerberg over Meta’s LLaMA leak](https://venturebeat.com/ai/senators-send-letter-questioning-mark-zuckerberg-over-metas-llama-leak/)
-- [Launch HN: Infield &lpar;YC W20&rpar; – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
-- [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
+- [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
+- [AI Browser Extensions Are a Security Nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
+- [Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
+- [The paper that came up with Apple Vision Pro&#39;s outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
+- [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
