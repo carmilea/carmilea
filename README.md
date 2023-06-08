@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
+- [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)
+- [Rust Criticism from a Rustacean](https://jeang3nie.codeberg.page/rust-criticism-from-rustacean/)
 - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
-- [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
-- [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
-- [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
-- [US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
