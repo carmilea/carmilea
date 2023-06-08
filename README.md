@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 - [Tailscale doesn&#39;t want your password](https://tailscale.com/blog/passkeys/)
 - [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 - [C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
 - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
-- [Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
