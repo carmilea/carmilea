@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
+- [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 - [Scientists Discover Ancient &#39;Lost World&#39; That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
 - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
-- [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
-- [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 <!-- BLOG-POST-LIST:END -->
 
 ---
