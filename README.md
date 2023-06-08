@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
+- [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
+- [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
 - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
 - [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
-- [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
-- [Scientists Discover Ancient &#39;Lost World&#39; That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
-- [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
