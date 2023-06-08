@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
 - [Scientists claim &gt;99 percent identification rate of ChatGPT content](https://www.theregister.com/2023/06/08/scientists_ai_recognition/)
-- [France legalizes remote camera and microphone activation in smartphones](https://www.francetvinfo.fr/societe/justice/le-senat-donne-son-feu-vert-a-l-activation-a-distance-des-cameras-ou-micros-des-telephones_5875187.html)
+- [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)
 - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
 - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
