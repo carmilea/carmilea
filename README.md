@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How can a junior dev maximize their income?](https://news.ycombinator.com/item?id=36242944)
+- [Lawyer Who Used ChatGPT Faces Penalty for Made Up Citations](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html)
+- [Senators send letter questioning Mark Zuckerberg over Meta’s LLaMA leak](https://venturebeat.com/ai/senators-send-letter-questioning-mark-zuckerberg-over-metas-llama-leak/)
+- [Launch HN: Infield &lpar;YC W20&rpar; – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
 - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
-- [Scientists claim &gt;99 percent identification rate of ChatGPT content](https://www.theregister.com/2023/06/08/scientists_ai_recognition/)
-- [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)
-- [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
-- [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
