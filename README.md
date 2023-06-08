@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists claim &gt;99 percent identification rate of ChatGPT content](https://www.theregister.com/2023/06/08/scientists_ai_recognition/)
+- [France legalizes remote camera and microphone activation in smartphones](https://www.francetvinfo.fr/societe/justice/le-senat-donne-son-feu-vert-a-l-activation-a-distance-des-cameras-ou-micros-des-telephones_5875187.html)
+- [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
+- [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
-- [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)
-- [Rust Criticism from a Rustacean](https://jeang3nie.codeberg.page/rust-criticism-from-rustacean/)
-- [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
