@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
+- [Ask HN: How many of you have been laid of twice this year already?](https://news.ycombinator.com/item?id=36246816)
+- [Taurine Deficiency as a Driver of Aging](https://www.science.org/doi/10.1126/science.abn9257)
+- [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
 - [The US is building factories at a wildly fast rate](https://www.businessinsider.com/us-building-factories-census-data-chips-act-inflation-reduction-act-2023-6)
-- [Reddit is Fun will shut down on June 30th in response to Reddit API changes](https://old.reddit.com/r/redditisfun/comments/144gmfq/rif_will_shut_down_on_june_30_2023_in_response_to/)
-- [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
-- [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
-- [Could seaweed be the &#39;fastest and least expensive&#39; tool to fight climate change?](https://www.nationalgeographic.com/environment/article/seaweed-fastest-least-expensive-tool-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
