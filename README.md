@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tailscale doesn&#39;t want your password](https://tailscale.com/blog/passkeys/)
+- [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 - [C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
 - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
 - [Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
-- [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
