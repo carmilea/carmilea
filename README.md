@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
+- [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
 - [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
-- [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
-- [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
-- [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
+- [Cost of ‘reformatting’ prompts a call for journals to change their requirements](https://www.nature.com/articles/d41586-023-01846-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
