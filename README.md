@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JPMorgan’s Jamie Dimon sought for second interview in Jeffrey Epstein lawsuit](https://www.ft.com/content/fd62842c-5a01-4c7f-9a39-bf0677fc3222)
+- [Re: I Don&#39;t Use Copilot](https://vivekhaldar.com/articles/re--why-i-don-t-use-copilot/)
 - [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
 - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
 - [Turkish citizens&#39; personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
-- [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
-- [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
