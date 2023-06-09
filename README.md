@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
 - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
-- [How&#39;s the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)
+- [Adventures in Debian&#39;s Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
-- [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
