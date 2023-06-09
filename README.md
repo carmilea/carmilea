@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google cuts office space in Bay Area by more than a million square feet](https://www.mv-voice.com/news/2023/06/05/google-reportedly-cuts-office-space-in-mountain-view-sunnyvale-by-more-than-a-million-square-feet)
+- [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
+- [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
+- [How&#39;s the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)
 - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
 - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
-- [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
-- [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
