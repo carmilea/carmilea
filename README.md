@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
-- [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
-- [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
-- [Archive Your Reddit Data Before It&#39;s Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)
-- [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
+- [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
+- [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
+- [Turkish citizens&#39; personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
+- [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
+- [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
