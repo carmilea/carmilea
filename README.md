@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple should pull the plug on the iPhone &lpar;2007&rpar;](https://www.marketwatch.com/story/apple-should-pull-the-plug-on-the-iphone)
-- [Shingles vaccination may reduce dementia risk](https://www.nature.com/articles/d41586-023-01824-1)
-- [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
-- [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
-- [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
+- [An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
+- [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
+- [Show HN: Poser &lpar;Posix SERvices C framework&rpar;](https://zirias.github.io/poser/)
+- [Jared Diamond: A Reply to His Critics](https://blog.daviskedrosky.com/p/jared-diamond-a-reply-to-his-critics)
+- [The Opt Out Project](https://www.optoutproject.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
