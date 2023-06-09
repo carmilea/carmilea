@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple should pull the plug on the iPhone &lpar;2007&rpar;](https://www.marketwatch.com/story/apple-should-pull-the-plug-on-the-iphone)
+- [Shingles vaccination may reduce dementia risk](https://www.nature.com/articles/d41586-023-01824-1)
 - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
+- [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
 - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
-- [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
-- [Swedish PM: we are now changing our migration policy to the EU&#39;s strictest](https://www.aftonbladet.se/debatt/a/wA5gkd/kristersson-tre-saker-kravs-for-att-satta-ihop-sverige-igen)
-- [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
