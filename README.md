@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
+- [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
+- [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
+- [Archive Your Reddit Data Before It&#39;s Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)
 - [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
-- [3M Heads to Trial in ‘Existential’ $143B Forever-Chemicals Litigation](https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation)
-- [How the DEA Scrubbed Thomas Jefferson&#39;s Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
-- [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
-- [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
