@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To Build a Top Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort)
+- [Army tested &#39;germ warfare&#39; on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
 - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
-- [Ask HN: What&#39;s your opinion on weekly 1:1s?](https://news.ycombinator.com/item?id=36254217)
 - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
 - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
+- [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
