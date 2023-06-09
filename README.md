@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [r/ProgrammerHumor will be shutting down to protest Reddit&#39;s API changes](https://old.reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/)
-- [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
-- [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
-- [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
-- [Cost of ‘reformatting’ prompts a call for journals to change their requirements](https://www.nature.com/articles/d41586-023-01846-9)
+- [Using unmodified third-party Reddit apps with a custom server](https://gist.github.com/tech234a/ddfd51a1775deadee4b8a264f6d0d29e)
+- [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
+- [The War on Dogs](https://www.historytoday.com/archive/history-matters/war-dogs)
+- [r/ProgrammerHumor will be shutting down to protest Reddit&#39;s API changes](https://reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/)
+- [Mechanical Apple Watch from Real E-Waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
