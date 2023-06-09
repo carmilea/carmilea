@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JPMorgan’s Jamie Dimon sought for second interview in Jeffrey Epstein lawsuit](https://www.ft.com/content/fd62842c-5a01-4c7f-9a39-bf0677fc3222)
-- [Re: I Don&#39;t Use Copilot](https://vivekhaldar.com/articles/re--why-i-don-t-use-copilot/)
-- [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
+- [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
+- [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
+- [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
+- [Swedish PM: we are now changing our migration policy to the EU&#39;s strictest](https://www.aftonbladet.se/debatt/a/wA5gkd/kristersson-tre-saker-kravs-for-att-satta-ihop-sverige-igen)
 - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
-- [Turkish citizens&#39; personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
