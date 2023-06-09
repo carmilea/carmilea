@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google cuts office space in Bay Area by more than a million square feet](https://www.mv-voice.com/news/2023/06/05/google-reportedly-cuts-office-space-in-mountain-view-sunnyvale-by-more-than-a-million-square-feet)
 - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
 - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
 - [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
-- [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
