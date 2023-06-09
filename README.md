@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
-- [Laugh Along with GNU – GNU Humor](https://www.gnu.org/fun/humor.html)
-- [Army tested &#39;germ warfare&#39; on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
-- [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
-- [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
+- [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
+- [Lawyers blame ChatGPT for tricking them into citing bogus case law](https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b)
+- [The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
+- [Freeman Dyson: Gravitational Machines](https://arxiv.org/abs/2305.10470)
+- [Do No Harm petition: Don&#39;t give Big Tech access to our medical records](https://act.wemove.eu/campaigns/medical-records)
 <!-- BLOG-POST-LIST:END -->
 
 ---
