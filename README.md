@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To Build a Top Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort)
+- [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
 - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
-- [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
-- [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
-- [Adventures in Debian&#39;s Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
-- [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
+- [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
+- [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
