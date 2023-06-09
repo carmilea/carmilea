@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
-- [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
-- [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
-- [240W USB-C PD chargers are nearly here, says Framework CEO](https://www.theverge.com/2023/6/8/23754836/180w-240w-framework-usb-c-pd-charger)
-- [The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
+- [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
+- [3M Heads to Trial in ‘Existential’ $143B Forever-Chemicals Litigation](https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation)
+- [How the DEA Scrubbed Thomas Jefferson&#39;s Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
+- [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
+- [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
