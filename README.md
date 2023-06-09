@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
+- [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
+- [A Swedish startup’s bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
+- [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
 - [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
-- [Show HN: Poser &lpar;Posix SERvices C framework&rpar;](https://zirias.github.io/poser/)
-- [Jared Diamond: A Reply to His Critics](https://blog.daviskedrosky.com/p/jared-diamond-a-reply-to-his-critics)
-- [The Opt Out Project](https://www.optoutproject.net/)
+- [Show HN: Poser – Posix SERvices C framework](https://zirias.github.io/poser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
