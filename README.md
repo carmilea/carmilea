@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 - [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
-- [Lawyers blame ChatGPT for tricking them into citing bogus case law](https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b)
+- [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
+- [240W USB-C PD chargers are nearly here, says Framework CEO](https://www.theverge.com/2023/6/8/23754836/180w-240w-framework-usb-c-pd-charger)
 - [The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
-- [Freeman Dyson: Gravitational Machines](https://arxiv.org/abs/2305.10470)
-- [Do No Harm petition: Don&#39;t give Big Tech access to our medical records](https://act.wemove.eu/campaigns/medical-records)
 <!-- BLOG-POST-LIST:END -->
 
 ---
