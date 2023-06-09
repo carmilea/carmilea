@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using unmodified third-party Reddit apps with a custom server](https://gist.github.com/tech234a/ddfd51a1775deadee4b8a264f6d0d29e)
 - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
 - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
 - [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
+- [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
