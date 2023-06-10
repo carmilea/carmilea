@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [10~17x faster than what? A performance analysis of Intel x86-SIMD-sort &lpar;AVX-512&rpar;](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 - [OBS Merges WebRTC Support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 - [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
 - [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)
-- [Why I&#39;m Leaving Elm](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
-- [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
+- [Why I&#39;m Leaving Elm &lpar;2020&rpar;](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
