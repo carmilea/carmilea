@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facts Don’t Change Minds: A Case for the Virtues of Propaganda](https://psyche.co/ideas/facts-dont-change-minds-a-case-for-the-virtues-of-propaganda)
+- [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.co.uk/news/world-latin-america-65864158)
+- [Debian 12 “Bookworm” Released](https://www.debian.org/News/2023/20230610)
 - [The Accidental HFT Firm &lpar;2018&rpar;](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 - [A Case of the Mumps &lpar;2007&rpar;](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 - [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
-- [PlayHT &lpar;YC W23&rpar; Is Hiring a Senior ML Engineer &lpar;LLMs/Generative Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
