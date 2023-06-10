@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Elm Fork](https://gren-lang.org/)
+- [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
+- [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
+- [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
 - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
-- [A performance analysis of Intel x86-SIMD-sort &lpar;AVX-512&rpar;](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
-- [OBS merges WebRTC support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
-- [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
-- [GCP automatically lowered our quota, caused an incident, and refused to upgrade](https://twitter.com/JustJake/status/1667478906591666176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
