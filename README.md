@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM.int8&lpar;&rpar;: 8-Bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
+- [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
+- [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
+- [LLM.int8&lpar;&rpar;: 8-Bit Matrix Multiplication for Transformers at Scale &lpar;2022&rpar;](https://arxiv.org/abs/2208.07339)
 - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
-- [New York City will charge drivers going downtown. Other cities may be next](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
-- [The Embeddable Common Lisp &lpar;2005&rpar; [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
-- [FBI: FISA Section 702 &#39;absolutely critical&#39; to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
+- [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
