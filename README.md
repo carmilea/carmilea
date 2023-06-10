@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking Performance: SingleStore’s TPC-H Benchmark on Intel Sapphire Rapids in AWS](https://www.singlestore.com/blog/unlocking-performance-singlestore-s-tpc-h-benchmark-on-intel-sapphire-rapids-in-aws/)
+- [Teenage Engineering OP-1: How a Micro Synth Made a Massive Impact in Music Tech](https://www.betterbydesign.cc/p/teenage-engineering-op-1-the-micro)
 - [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
 - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
-- [Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
+- [Doctor Droid &lpar;YC W23&rpar; is hiring a technical content writer](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
