@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [10~17x faster than what? A performance analysis of Intel x86-SIMD-sort &lpar;AVX-512&rpar;](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
-- [OBS Merges WebRTC Support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
+- [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
+- [A performance analysis of Intel x86-SIMD-sort &lpar;AVX-512&rpar;](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
+- [OBS merges WebRTC support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 - [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
-- [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)
-- [Why I&#39;m Leaving Elm &lpar;2020&rpar;](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
+- [GCP automatically lowered our quota, caused an incident, and refused to upgrade](https://twitter.com/JustJake/status/1667478906591666176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
