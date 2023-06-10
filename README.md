@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Dev productivity tools you would pay for](https://news.ycombinator.com/item?id=36267563)
+- [PlayHT &lpar;YC W23&rpar; Is Hiring a Senior ML Engineer &lpar;LLMs/Generative Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 - [Emoji Kitchen](https://emojikitchen.dev/)
 - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 - [A comment about Christian Queinnec&#39;s book Lisp in Small Pieces &lpar;1996&rpar;](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
