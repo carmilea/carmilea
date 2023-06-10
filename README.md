@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM.int8&lpar;&rpar;: 8-Bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
+- [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
+- [New York City will charge drivers going downtown. Other cities may be next](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
+- [The Embeddable Common Lisp &lpar;2005&rpar; [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
 - [FBI: FISA Section 702 &#39;absolutely critical&#39; to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
-- [Germans beat Tesla to autonomous L3 driving in the Golden State](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
-- [DigitalOcean Announces DDoS Protection in Beta](https://docs.digitalocean.com/products/networking/ddos/)
-- [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
-- [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
