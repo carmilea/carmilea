@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PlayHT &lpar;YC W23&rpar; Is Hiring a Senior ML Engineer &lpar;LLMs/Generative Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 - [Emoji Kitchen](https://emojikitchen.dev/)
 - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 - [A comment about Christian Queinnec&#39;s book Lisp in Small Pieces &lpar;1996&rpar;](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
-- [Unlocking Performance: SingleStore’s TPC-H Benchmark on Intel Sapphire Rapids in AWS](https://www.singlestore.com/blog/unlocking-performance-singlestore-s-tpc-h-benchmark-on-intel-sapphire-rapids-in-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
