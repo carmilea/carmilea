@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta releases New SOTA Text to Music generator better than MusicLM](https://ai.honu.io/papers/musicgen/)
+- [What Should You Build?](https://exponentially.substack.com/p/what-should-you-build)
 - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 - [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 - [LLM.int8&lpar;&rpar;: 8-Bit Matrix Multiplication for Transformers at Scale &lpar;2022&rpar;](https://arxiv.org/abs/2208.07339)
-- [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
-- [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
