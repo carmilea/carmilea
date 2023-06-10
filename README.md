@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.co.uk/news/world-latin-america-65864158)
-- [Debian 12 “Bookworm” Released](https://www.debian.org/News/2023/20230610)
-- [The Accidental HFT Firm &lpar;2018&rpar;](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
-- [A Case of the Mumps &lpar;2007&rpar;](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
-- [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
+- [FBI: FISA Section 702 &#39;absolutely critical&#39; to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
+- [Germans beat Tesla to autonomous L3 driving in the Golden State](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
+- [DigitalOcean Announces DDoS Protection in Beta](https://docs.digitalocean.com/products/networking/ddos/)
+- [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
+- [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
