@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
+- [Facts Don’t Change Minds: A Case for the Virtues of Propaganda](https://psyche.co/ideas/facts-dont-change-minds-a-case-for-the-virtues-of-propaganda)
+- [The Accidental HFT Firm &lpar;2018&rpar;](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 - [A Case of the Mumps &lpar;2007&rpar;](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
+- [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
 - [PlayHT &lpar;YC W23&rpar; Is Hiring a Senior ML Engineer &lpar;LLMs/Generative Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
-- [The Ritual of Capitalization &lpar;2021&rpar;](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
