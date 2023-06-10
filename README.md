@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
-- [A Swedish startup’s bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
-- [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
-- [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
-- [Show HN: Poser – Posix SERvices C framework](https://zirias.github.io/poser/)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
+- [Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
+- [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
+- [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+- [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
