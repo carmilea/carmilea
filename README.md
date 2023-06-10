@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Performance: SingleStore’s TPC-H Benchmark on Intel Sapphire Rapids in AWS](https://www.singlestore.com/blog/unlocking-performance-singlestore-s-tpc-h-benchmark-on-intel-sapphire-rapids-in-aws/)
+- [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
+- [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
 - [Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
-- [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
-- [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
-- [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
