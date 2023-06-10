@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
+- [A comment about Christian Queinnec&#39;s book Lisp in Small Pieces &lpar;1996&rpar;](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 - [Unlocking Performance: SingleStore’s TPC-H Benchmark on Intel Sapphire Rapids in AWS](https://www.singlestore.com/blog/unlocking-performance-singlestore-s-tpc-h-benchmark-on-intel-sapphire-rapids-in-aws/)
 - [Teenage Engineering OP-1: How a Micro Synth Made a Massive Impact in Music Tech](https://www.betterbydesign.cc/p/teenage-engineering-op-1-the-micro)
 - [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
-- [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
-- [Doctor Droid &lpar;YC W23&rpar; is hiring a technical content writer](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
