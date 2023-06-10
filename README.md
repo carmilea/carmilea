@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
 - [An Elm Fork](https://gren-lang.org/)
 - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
-- [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
