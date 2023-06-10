@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 - [A Case of the Mumps &lpar;2007&rpar;](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
-- [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)
 - [PlayHT &lpar;YC W23&rpar; Is Hiring a Senior ML Engineer &lpar;LLMs/Generative Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 - [The Ritual of Capitalization &lpar;2021&rpar;](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
