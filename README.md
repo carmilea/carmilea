@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta releases New SOTA Text to Music generator better than MusicLM](https://ai.honu.io/papers/musicgen/)
-- [What Should You Build?](https://exponentially.substack.com/p/what-should-you-build)
-- [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
-- [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
-- [LLM.int8&lpar;&rpar;: 8-Bit Matrix Multiplication for Transformers at Scale &lpar;2022&rpar;](https://arxiv.org/abs/2208.07339)
+- [OBS Merges WebRTC Support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
+- [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
+- [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)
+- [Why I&#39;m Leaving Elm](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
+- [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
