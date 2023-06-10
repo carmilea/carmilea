@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)
 - [PlayHT &lpar;YC W23&rpar; Is Hiring a Senior ML Engineer &lpar;LLMs/Generative Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+- [The Ritual of Capitalization &lpar;2021&rpar;](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
 - [Emoji Kitchen](https://emojikitchen.dev/)
-- [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
-- [A comment about Christian Queinnec&#39;s book Lisp in Small Pieces &lpar;1996&rpar;](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
