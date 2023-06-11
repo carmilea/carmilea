@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
-- [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
-- [An Elm Fork](https://gren-lang.org/)
-- [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
-- [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
+- [How to password protect a static HTML page with no JavaScript](https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/)
+- [At what point should MO recognise it needs to leave Stack Exchange Inc?](https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc)
+- [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
+- [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
+- [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
