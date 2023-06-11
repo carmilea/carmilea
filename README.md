@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: As a developer, do you consider the carbon footprint of your apps?](https://news.ycombinator.com/item?id=36279509)
+- [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
+- [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 - [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
 - [5.5M Spore users have uploaded some 191M creations and counting](http://www.spore.com/rest/stats)
-- [Growing from Engineer to Manager](https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
