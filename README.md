@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hate baggage fees? Wear a fishing vest on the plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
+- [Europe: Is compulsory military service coming back?](https://www.dw.com/en/europe-is-compulsory-military-service-coming-back/a-65880469)
 - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
-- [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
 - [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
 - [Valid Python syntax – by Nobody has time for Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
-- [Why aren&#39;t black boxes better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
