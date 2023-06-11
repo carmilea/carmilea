@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
+- [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
 - [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
 - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
-- [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
-- [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
+- [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
