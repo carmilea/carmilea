@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sama: I feel so bad about advice I gave while running YC I might delete my blog](https://twitter.com/morqon/status/1667717155234758657)
+- [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
+- [Should Adults Be Consuming Breast Milk?](https://www.shape.com/lifestyle/mind-and-body/breast-milk-supplements-adults)
+- [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
+- [A Brief History of the Corporation: 1600 to 2100 &lpar;2011&rpar;](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
 - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
-- [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
-- [Reddit Strike Has Started](https://reddark.untone.uk/)
-- [Writesonic &lpar;YC S21&rpar; Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
