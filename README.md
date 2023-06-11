@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Escape Tutorial Hell and Start Building Your Own Projects](https://www.codewell.cc/blog/how-to-escape-tutorial-hell-and-start-building-your-own-projects)
+- [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
+- [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
 - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 - [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
-- [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
