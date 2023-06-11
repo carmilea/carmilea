@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writesonic &lpar;YC S21&rpar; Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
+- [Guide to Finding Lemmy Communities &lpar;Subreddits&rpar;](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)
+- [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
-- [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
-- [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)
-- [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
-- [A Tradecraft Primer &lpar;2009&rpar;](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
+- [Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor &lpar;Wemos and Vindriktning&rpar;](https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
