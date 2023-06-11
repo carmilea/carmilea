@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Boxes Are Key to Solving Plane Crashes–Why Aren&#39;t They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
-- [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
-- [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
-- [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
-- [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
+- [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
+- [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
+- [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
+- [Valid Python syntax – by Nobody has time for Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+- [Why aren&#39;t black boxes better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
