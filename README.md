@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dutch government wants automatically gain permission to target victims of hacks](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
-- [Hate baggage fees? Wear a fishing vest on the plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
-- [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
-- [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
-- [Valid Python syntax – by Nobody has time for Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+- [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
+- [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
+- [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)
+- [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
+- [A Tradecraft Primer &lpar;2009&rpar;](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
