@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
-- [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
-- [The curious death of Oppenheimer’s mistress &lpar;2015&rpar;](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
-- [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
-- [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
+- [Ask HN: As a developer, do you consider the carbon footprint of your apps?](https://news.ycombinator.com/item?id=36279509)
+- [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
+- [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
+- [5.5M Spore users have uploaded some 191M creations and counting](http://www.spore.com/rest/stats)
+- [Growing from Engineer to Manager](https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
