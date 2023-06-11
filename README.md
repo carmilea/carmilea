@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
+- [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
+- [Reddit pays an SF startup millions to analyse all shopping-related Reddit data](https://old.reddit.com/r/BuyItForLife/comments/146lls7/reddit_has_a_partnership_with_a_san_francisco/)
+- [Reddit Strike Has Started](https://reddark.untone.uk/)
 - [Writesonic &lpar;YC S21&rpar; Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
-- [Guide to Finding Lemmy Communities &lpar;Subreddits&rpar;](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)
-- [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
-- [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
-- [Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor &lpar;Wemos and Vindriktning&rpar;](https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
