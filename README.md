@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
-- [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
-- [Call for Germany to scrap English lessons in primary schools](https://www.dw.com/en/call-for-germany-to-scrap-english-lessons-in-primary-schools/a-65876721)
+- [Black Boxes Are Key to Solving Plane Crashes–Why Aren&#39;t They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
+- [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
+- [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
