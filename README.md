@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to password protect a static HTML page with no JavaScript](https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/)
-- [At what point should MO recognise it needs to leave Stack Exchange Inc?](https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc)
+- [How to Escape Tutorial Hell and Start Building Your Own Projects](https://www.codewell.cc/blog/how-to-escape-tutorial-hell-and-start-building-your-own-projects)
+- [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 - [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
