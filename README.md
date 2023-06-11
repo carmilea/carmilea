@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A peek into Japan&#39;s convenience stores](https://one-from-nippon.ghost.io/combini-part-1/)
 - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
-- [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
 - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
 - [The curious death of Oppenheimer’s mistress &lpar;2015&rpar;](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
+- [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
