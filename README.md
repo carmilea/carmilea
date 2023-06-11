@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit founders made hundreds of fake profiles so site looked popular &lpar;2012&rpar;](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/)
+- [Algeria cuts internet nationwide during the baccalaureat exams](https://www.tsa-algerie.com/linternet-fortement-perturbee-durant-le-1er-jour-du-bac-en-algerie/)
+- [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
 - [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
-- [Should Adults Be Consuming Breast Milk?](https://www.shape.com/lifestyle/mind-and-body/breast-milk-supplements-adults)
 - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
-- [A Brief History of the Corporation: 1600 to 2100 &lpar;2011&rpar;](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
-- [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 <!-- BLOG-POST-LIST:END -->
 
 ---
