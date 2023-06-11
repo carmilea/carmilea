@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Code and Programming Projects](https://www.chrisgregory.me/code)
+- [Apple Execs on Facebook &lpar;2011&rpar;](https://www.techemails.com/p/apple-execs-on-facebook)
 - [Reddit founders made hundreds of fake profiles so site looked popular &lpar;2012&rpar;](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/)
-- [Algeria cuts internet nationwide during the baccalaureat exams](https://www.tsa-algerie.com/linternet-fortement-perturbee-durant-le-1er-jour-du-bac-en-algerie/)
+- [20 Books on Starting a Profitable SaaS Business](https://stratoflow.com/best-books-on-starting-a-profitable-saas/)
 - [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
-- [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
-- [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
