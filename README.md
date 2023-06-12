@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)
-- [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
-- [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)
-- [Amazon&#39;s First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
-- [Fark redesign is now live &lpar;2007&rpar;](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
+- [Reddit Blackout Tracker](http://blackout.photon-reddit.com/)
+- [Penguin T4 GNU/Linux Laptop &lpar;New Model&rpar;](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
+- [US Supreme Court&#39;s dog toy ruling puts parody products on notice](https://www.reuters.com/legal/us-supreme-courts-dog-toy-ruling-puts-parody-products-notice-2023-06-12/)
+- [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
+- [That&#39;s a *huge* amount of energy being transferred to the atmosphere](https://twitter.com/drtels/status/1650562388377174020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
