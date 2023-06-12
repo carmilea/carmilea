@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Blackout Tracker](http://blackout.photon-reddit.com/)
-- [Penguin T4 GNU/Linux Laptop &lpar;New Model&rpar;](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
-- [US Supreme Court&#39;s dog toy ruling puts parody products on notice](https://www.reuters.com/legal/us-supreme-courts-dog-toy-ruling-puts-parody-products-notice-2023-06-12/)
-- [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
-- [That&#39;s a *huge* amount of energy being transferred to the atmosphere](https://twitter.com/drtels/status/1650562388377174020)
+- [Cities: Skylines II [video]](https://www.youtube.com/watch?v=MX9YWu5wkGg)
+- [The moral hazards of being beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
+- [Apple Vision Pro: The MVP for AR](https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe?gi=77bd7aa8cc0a)
+- [How to buy a social network, with Tumblr CEO Matt Mullenweg](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
+- [Penguin T4 GNU/Linux Laptop](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
