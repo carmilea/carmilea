@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“But the SEC let us go public” and other flawed arguments in Coinbase&#39;s defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
+- [Don&#39;t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
+- [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
 - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
-- [The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
-- [Lingering effects of Neanderthal DNA found in modern humans](https://phys.org/news/2023-06-lingering-effects-neanderthal-dna-modern.html)
-- [A profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
-- [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
+- [The US government is buying troves of data about Americans](https://www.wired.com/story/odni-commercially-available-information-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
