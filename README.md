@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
+- [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
+- [Why Perl?](https://two-wrongs.com/why-perl.html)
+- [Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture Dies at 86](https://www.nytimes.com/2023/06/12/world/europe/silvio-berlusconi-dead.html)
+- [Amazon&#39;s First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
-- [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
-- [Video to Video with Stable Diffusion &lpar;Step-by-Step&rpar; – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
-- [Livestream of Reddit subreddits going private in protest](https://www.twitch.tv/reddark_247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
