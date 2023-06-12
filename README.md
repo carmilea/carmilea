@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
-- [Reddit banned Reddiw&#39;s &lpar;alternative API&rpar; subreddit and author&#39;s Reddit account](https://api.reddiw.com/)
+- [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
 - [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
-- [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
+- [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
 - [Code and Programming Projects](https://www.chrisgregory.me/code)
 <!-- BLOG-POST-LIST:END -->
 
