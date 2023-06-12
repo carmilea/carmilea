@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
+- [Video to Video with Stable Diffusion &lpar;Step-by-Step&rpar; – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
+- [Livestream of Reddit subreddits going private in protest](https://www.twitch.tv/reddark_247)
 - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
-- [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
-- [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
-- [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
