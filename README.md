@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
+- [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
 - [Video to Video with Stable Diffusion &lpar;Step-by-Step&rpar; – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
 - [Livestream of Reddit subreddits going private in protest](https://www.twitch.tv/reddark_247)
-- [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
-- [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
