@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Developer&#39;s View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
+- [Understanding DeepMind&#39;s Sorting Algorithm](https://justine.lol/sorting/)
+- [21st-century editors should keep their hands off of 20th-century books](https://www.washingtonpost.com/opinions/2023/06/12/books-editing-retouching-free-expression/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
-- [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
-- [Launch HN: DevCycle &lpar;YC W14&rpar; – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
-- [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
+- [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
