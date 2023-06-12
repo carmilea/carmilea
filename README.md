@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
+- [The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
+- [Lingering effects of Neanderthal DNA found in modern humans](https://phys.org/news/2023-06-lingering-effects-neanderthal-dna-modern.html)
+- [A profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
 - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
-- [Reddit crashed because of the growing subreddit blackout](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
-- [Earth&#39;s rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
-- [Escape from Silicon Valley &lpar;alternative visions of computation&rpar;](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
-- [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
