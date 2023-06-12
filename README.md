@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
+- [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
+- [Launch HN: DevCycle &lpar;YC W14&rpar; – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
 - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
-- [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
-- [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
-- [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
-- [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
