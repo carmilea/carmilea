@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
+- [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
 - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
 - [Video to Video with Stable Diffusion &lpar;Step-by-Step&rpar; – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
