@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)
 - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
-- [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
 - [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)
 - [Amazon&#39;s First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
-- [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
+- [Fark redesign is now live &lpar;2007&rpar;](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
