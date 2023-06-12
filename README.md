@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
-- [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
-- [Ask HN: Alternatives to Reddit](https://news.ycombinator.com/item?id=36293789)
-- [The power of keeping a coding journal &lpar;2014&rpar;](http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)
-- [SoftBank-backed pizza startup shuts down after raising $445M](https://www.axios.com/2023/06/12/softbank-pizza-robot-shuts-down-zume-445-million)
+- [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
+- [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
+- [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
+- [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
+- [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
