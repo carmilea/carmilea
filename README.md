@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
+- [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
+- [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
+- [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
+- [A developer&#39;s view of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 - [Understanding DeepMind&#39;s Sorting Algorithm](https://justine.lol/sorting/)
-- [21st-century editors should keep their hands off of 20th-century books](https://www.washingtonpost.com/opinions/2023/06/12/books-editing-retouching-free-expression/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
