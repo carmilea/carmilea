@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cities: Skylines II [video]](https://www.youtube.com/watch?v=MX9YWu5wkGg)
-- [The moral hazards of being beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
-- [Apple Vision Pro: The MVP for AR](https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe?gi=77bd7aa8cc0a)
-- [How to buy a social network, with Tumblr CEO Matt Mullenweg](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
-- [Penguin T4 GNU/Linux Laptop](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
+- [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
+- [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
+- [Ask HN: Alternatives to Reddit](https://news.ycombinator.com/item?id=36293789)
+- [The power of keeping a coding journal &lpar;2014&rpar;](http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)
+- [SoftBank-backed pizza startup shuts down after raising $445M](https://www.axios.com/2023/06/12/softbank-pizza-robot-shuts-down-zume-445-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
