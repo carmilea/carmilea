@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
+- [Reddit banned Reddiw&#39;s &lpar;alternative API&rpar; subreddit and author&#39;s Reddit account](https://api.reddiw.com/)
+- [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
 - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
 - [Code and Programming Projects](https://www.chrisgregory.me/code)
-- [The Tyranny of Structurelessness &lpar;1970&rpar;](https://www.jofreeman.com/joreen/tyranny.htm)
-- [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
-- [A Brief History of the Corporation: 1600 to 2100 &lpar;2011&rpar;](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
