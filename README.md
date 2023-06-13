@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
 - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 - [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
-- [Sources Tell Me Some Messed Up Stuff Is Happening in Commercial Real Estate](https://innovationnation.blog/p/sources-tell-me-some-messed-up-stuff)
-- [Dating, education, and sex ratios](https://www.robkhenderson.com/p/all-the-single-ladies)
+- [Track HN: Survival Rate of 120,396 Show HN Stories &lpar;June 2023&rpar;](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
