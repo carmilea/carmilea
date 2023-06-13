@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
+- [NVD Damage Continued](https://daniel.haxx.se/blog/2023/06/12/nvd-damage-continued/)
+- [Damus to be removed from App Store as zaps could be used to sell digital content](https://twitter.com/damusapp/status/1668529709867495424)
+- [Launch HN: Resend &lpar;YC W23&rpar; – Email API for Developers Using React](https://resend.com)
 - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
-- [Opinion: Geoengineering Is Shockingly Inexpensive](https://phys.org/news/2023-06-opinion-geoengineering-inexpensive.html)
-- [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
-- [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
-- [The Kentucky Derby Is Decadent and Depraved [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
