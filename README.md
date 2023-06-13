@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
-- [Porting FSR 2 to OpenGL](https://juandiegomontoya.github.io/porting_fsr2.html)
+- [A photographer who forced the U.S. to confront its child labor problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
+- [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
 - [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
 - [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
