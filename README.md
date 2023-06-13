@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
-- [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
-- [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
-- [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
-- [Track HN: Survival Rate of 120,396 Show HN Stories &lpar;June 2023&rpar;](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
+- [McDonald&#39;s Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
+- [Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
+- [A microblog powered by The Onion Router &lpar;Tor&rpar;](https://play.google.com/store/apps/details?id=app.Blackpage.Blackpage&hl=en_US)
+- [Reddit subs with millions of followers plan to extend the blackout indefinitely](https://www.theverge.com/2023/6/13/23759674/reddit-mods-blackout-protest-extended-indefinitely)
+- [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
