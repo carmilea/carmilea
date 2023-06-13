@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
-- [Wall Street scooped up a third of Texas single family homes sold last year](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
-- [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
+- [Wall Street scooped up a third of Texas single family homes sold last year &lpar;2022&rpar;](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
+- [MrBeast has become a viral sensation for his acts of altruism](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
 - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
 - [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
 <!-- BLOG-POST-LIST:END -->
