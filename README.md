@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instant Brands, maker of Instant Pot and Pyrex cookware, files for bankruptcy](https://www.cbc.ca/news/business/instant-brands-bankruptcy-1.6874487)
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
+- [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
 - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
 - [Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
-- [Microsoft Office security signatures are &#39;practically worthless&#39;](https://www.theregister.com/2023/06/13/office_open_xml_signatures/)
-- [Westfield Walks Away from Downtown San Francisco Mall Property](https://www.bloomberg.com/news/articles/2023-06-12/westfield-giving-up-san-francisco-mall-in-mounting-pain-for-city)
+- [Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
