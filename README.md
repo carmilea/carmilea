@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
-- [NVD Damage Continued](https://daniel.haxx.se/blog/2023/06/12/nvd-damage-continued/)
-- [Damus to be removed from App Store as zaps could be used to sell digital content](https://twitter.com/damusapp/status/1668529709867495424)
-- [Launch HN: Resend &lpar;YC W23&rpar; – Email API for Developers Using React](https://resend.com)
-- [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
+- [Money, the Unit of Caring &lpar;2009&rpar;](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring)
+- [GameStop Terminates CEO Amidst Declining Revenue](https://www.animenewsnetwork.com/news/2023-06-12/gamestop-terminates-ceo-amidst-declining-revenue/.199025)
+- [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
+- [Rewriting the Ruby Parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
+- [Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
