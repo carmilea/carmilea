@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“But the SEC let us go public” and other flawed arguments in Coinbase&#39;s defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
-- [Don&#39;t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
-- [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
-- [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
-- [The US government is buying troves of data about Americans](https://www.wired.com/story/odni-commercially-available-information-report/)
+- [MrBeast Became the Willy Wonka of YouTube](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
+- [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
+- [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
+- [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
+- [Why sqlite3 temp files were renamed &#39;etilqs_*&#39; &lpar;2006&rpar;](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
