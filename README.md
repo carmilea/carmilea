@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
+- [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
+- [Xerox scanners randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
-- [Wall Street scooped up a third of Texas single family homes sold last year &lpar;2022&rpar;](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
-- [MrBeast has become a viral sensation for his acts of altruism](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
-- [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
-- [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
+- [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
