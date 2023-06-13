@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
 - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
 - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 - [Xerox scanners randomly alter numbers in scanned documents &lpar;2013&rpar;](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
-- [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 <!-- BLOG-POST-LIST:END -->
 
 ---
