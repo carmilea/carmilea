@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
+- [Porting FSR 2 to OpenGL](https://juandiegomontoya.github.io/porting_fsr2.html)
 - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
+- [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
 - [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
-- [McDonald&#39;s Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
-- [Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
-- [A microblog powered by The Onion Router &lpar;Tor&rpar;](https://play.google.com/store/apps/details?id=app.Blackpage.Blackpage&hl=en_US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
