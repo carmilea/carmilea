@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
-- [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
-- [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
-- [Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
-- [Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
+- [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
+- [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
+- [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
