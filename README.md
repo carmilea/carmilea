@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Money, the Unit of Caring &lpar;2009&rpar;](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring)
-- [GameStop Terminates CEO Amidst Declining Revenue](https://www.animenewsnetwork.com/news/2023-06-12/gamestop-terminates-ceo-amidst-declining-revenue/.199025)
-- [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
-- [Rewriting the Ruby Parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
-- [Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
+- [Instant Brands, maker of Instant Pot and Pyrex cookware, files for bankruptcy](https://www.cbc.ca/news/business/instant-brands-bankruptcy-1.6874487)
+- [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
+- [Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
+- [Microsoft Office security signatures are &#39;practically worthless&#39;](https://www.theregister.com/2023/06/13/office_open_xml_signatures/)
+- [Westfield Walks Away from Downtown San Francisco Mall Property](https://www.bloomberg.com/news/articles/2023-06-12/westfield-giving-up-san-francisco-mall-in-mounting-pain-for-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
