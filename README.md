@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
-- [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
-- [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
+- [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
+- [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
+- [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
+- [Sources Tell Me Some Messed Up Stuff Is Happening in Commercial Real Estate](https://innovationnation.blog/p/sources-tell-me-some-messed-up-stuff)
+- [Dating, education, and sex ratios](https://www.robkhenderson.com/p/all-the-single-ladies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
