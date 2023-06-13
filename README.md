@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The duck in the room – the end of baseload](https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload)
-- [Ask HN: Is there a good camping chair that is comfortable for programming?](https://news.ycombinator.com/item?id=36307810)
-- [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
-- [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
-- [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
+- [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
+- [Opinion: Geoengineering Is Shockingly Inexpensive](https://phys.org/news/2023-06-opinion-geoengineering-inexpensive.html)
+- [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
+- [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
+- [The Kentucky Derby Is Decadent and Depraved [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
