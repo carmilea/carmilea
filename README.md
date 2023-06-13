@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MrBeast Became the Willy Wonka of YouTube](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
+- [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
+- [Wall Street scooped up a third of Texas single family homes sold last year](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
+- [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
 - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
 - [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
-- [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
-- [Why sqlite3 temp files were renamed &#39;etilqs_*&#39; &lpar;2006&rpar;](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
