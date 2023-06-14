@@ -55,7 +55,7 @@
 - [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
 - [Toward a More Useful Keyboard](https://github.com/jasonrudolph/keyboard)
 - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
-- [Gamification, life, and the pursuit of a gold badge](https://austinhenley.com/blog/gamification.html)
+- [Making a RISC-V Operating System Using Rust](https://osblog.stephenmarz.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
