@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Is OpenAI&#39;s Moat](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
-- [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
-- [Ask HN: Is everyone becoming a Product Manager these days?](https://news.ycombinator.com/item?id=36325540)
-- [NPM won&#39;t publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
-- [Always the Same Warning Signs](https://www.science.org/content/blog-post/always-same-warning-signs)
+- [The end of Reddit? Why the blackout is still going – and what happens next](https://www.techradar.com/news/the-end-of-reddit-heres-why-most-of-the-site-is-down-and-what-happens-next)
+- [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
+- [SimulaVR&#39;s Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
+- [Launch HN: Credal.ai &lpar;YC W23&rpar; – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
+- [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
