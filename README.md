@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
+- [Zap – Blazingly fast backends in Zig](https://github.com/zigzap/zap)
+- [I may be the only evil &lpar;bit&rpar; user on the internet](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
+- [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
 - [Want to Get Stuff Done? Build Yourself a “Friction Tunnel”](https://tedium.co/2023/06/10/productivity-friction-theory/)
-- [Brain fog after Covid-19 has similarities to ‘chemo brain,’ Stanford-led study](https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html)
-- [New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
-- [What Reddit Got Wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
-- [Building an Instagram Clone for Puppies Using Courier Inbox, Next.js and Inngest](https://www.courier.com/blog/introducing-puppygram-powered-by-courier-inbox-next-js-and-inngest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
