@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
-- [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
-- [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
-- [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
-- [Karl Guttag on Apple Vision Pro &lpar;Part 1&rpar;](https://kguttag.com/2023/06/13/apple-vision-pro-part-1-what-apple-got-right-compared-to-the-meta-quest-pro/)
+- [Want to Get Stuff Done? Build Yourself a “Friction Tunnel”](https://tedium.co/2023/06/10/productivity-friction-theory/)
+- [Brain fog after Covid-19 has similarities to ‘chemo brain,’ Stanford-led study](https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html)
+- [New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
+- [What Reddit Got Wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
+- [Building an Instagram Clone for Puppies Using Courier Inbox, Next.js and Inngest](https://www.courier.com/blog/introducing-puppygram-powered-by-courier-inbox-next-js-and-inngest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
