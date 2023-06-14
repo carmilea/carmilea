@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
+- [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
+- [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
 - [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
-- [Faster Sorting Algorithm Discovered by Speaking in Tongues](https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796)
-- [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
-- [Anker’s Solix home solar battery system is its answer to Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
-- [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
+- [Karl Guttag on Apple Vision Pro &lpar;Part 1&rpar;](https://kguttag.com/2023/06/13/apple-vision-pro-part-1-what-apple-got-right-compared-to-the-meta-quest-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
