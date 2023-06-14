@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
+- [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
+- [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
 - [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
-- [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
 - [The Overhang Problem &lpar;2007&rpar; [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
-- [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
-- [Attention is Turing complete &lpar;2021&rpar; [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
