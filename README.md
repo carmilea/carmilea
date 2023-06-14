@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
+- [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
+- [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
-- [Zap – Blazingly fast backends in Zig](https://github.com/zigzap/zap)
-- [I may be the only evil &lpar;bit&rpar; user on the internet](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
-- [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
-- [Want to Get Stuff Done? Build Yourself a “Friction Tunnel”](https://tedium.co/2023/06/10/productivity-friction-theory/)
+- [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
