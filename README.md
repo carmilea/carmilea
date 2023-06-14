@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
 - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
 - [The Overhang Problem &lpar;2007&rpar; [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 - [Attention is Turing complete &lpar;2021&rpar; [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
-- [San Francisco library turning off WiFi at night to keep homeless from using it](https://www.theverge.com/2023/6/14/23760787/san-francisco-public-library-wifi-homeless-castro-district-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
