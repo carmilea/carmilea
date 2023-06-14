@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
+- [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
+- [Mac OS X Review from 2001](http://toastytech.com/guis/osx.html)
 - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
 - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
-- [Gandi.net – Pricing Update](https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue)
-- [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
-- [Toward a More Useful Keyboard](https://github.com/jasonrudolph/keyboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
