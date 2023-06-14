@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
+- [Gamification, life, and the pursuit of a gold badge](https://austinhenley.com/blog/gamification.html)
 - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)
 - [Aleister Crowley and William Butler Yeats get into an occult battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
 - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
-- [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
-- [Lewis Hine’s early 20th-century “photo stories”](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
