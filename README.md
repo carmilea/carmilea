@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The end of Reddit? Why the blackout is still going – and what happens next](https://www.techradar.com/news/the-end-of-reddit-heres-why-most-of-the-site-is-down-and-what-happens-next)
+- [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
+- [Faster Sorting Algorithm Discovered by Speaking in Tongues](https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796)
+- [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
+- [Anker’s Solix home solar battery system is its answer to Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
 - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
-- [SimulaVR&#39;s Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
-- [Launch HN: Credal.ai &lpar;YC W23&rpar; – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
-- [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
