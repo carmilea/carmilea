@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
-- [A Sudanese teen posts on Reddit as she fights for her life being held captive](https://old.reddit.com/r/Sudan/comments/148x73h/probably_gonna_be_my_last_post_ever_but_if_i_die/)
-- [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
-- [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
-- [Mac OS X Review from 2001](http://toastytech.com/guis/osx.html)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
+- [I moved to Germany and regret it](https://www.businessinsider.com/us-germany-relocation-american-move-disappointing-2023-6)
+- [New Functionality: Bluetooth for Raspberry Pi Pico W](https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/)
+- [EU suggests breaking up Google&#39;s ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
