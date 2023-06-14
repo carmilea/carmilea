@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
-- [New Functionality: Bluetooth for Raspberry Pi Pico W](https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/)
-- [EU suggests breaking up Google&#39;s ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
-- [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
+- [Reddit Is OpenAI&#39;s Moat](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
+- [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
+- [Ask HN: Is everyone becoming a Product Manager these days?](https://news.ycombinator.com/item?id=36325540)
+- [NPM won&#39;t publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
+- [Always the Same Warning Signs](https://www.science.org/content/blog-post/always-same-warning-signs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
