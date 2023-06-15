@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
+- [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
+- [Renters Are About to Get the Upper Hand](https://www.wsj.com/articles/renters-are-about-to-get-the-upper-hand-f6387df4)
 - [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
 - [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
-- [SETI Scientists to Devise Plan for Lunar Listening Station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
-- [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
-- [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
