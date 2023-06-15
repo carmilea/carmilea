@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebStudio: Open visual development for the open web](https://webstudio.is/)
+- [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
+- [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
-- [Show HN: My first full stack project](https://www.plotnotes.ai/)
-- [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [Wasmer Edge: WebAssembly on the Edge](https://wasmer.io/posts/announcing-wasmer-edge)
+- [Gently Down the Stream – A gentle introduction to Apache Kafka &lpar;2021&rpar;](https://www.gentlydownthe.stream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
