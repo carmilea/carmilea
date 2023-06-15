@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WebStudio: Open visual development for the open web](https://webstudio.is/)
-- [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
-- [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
+- [uTox – The Lightweight Tox Client](https://github.com/uTox/uTox)
+- [My 24 year old HP Jornada can do things an iPhone still can&#39;t do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
+- [Ask HN: Any software engineers here that switched to a business/sales role?](https://news.ycombinator.com/item?id=36346012)
 - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 - [Gently Down the Stream – A gentle introduction to Apache Kafka &lpar;2021&rpar;](https://www.gentlydownthe.stream/)
 <!-- BLOG-POST-LIST:END -->
