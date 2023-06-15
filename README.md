@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
+- [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
 - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
-- [/r/startrek/ migrates to lemmy](https://old.reddit.com/r/startrek/)
 - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
 - [Google warns own staff about entering data into, using code from, chatbots](https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/)
-- [Getting 10TB of GitHub Logs and Extracting Details of All Users and Repositories](https://trickest.com/blog/parsing-github-logs-with-trickest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
