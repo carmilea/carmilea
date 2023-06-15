@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Slow Productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
+- [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
+- [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
 - [SETI Scientists to Devise Plan for Lunar Listening Station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
-- [I am Steve Huffman, the new CEO of Reddit. AMA. &lpar;2015&rpar;](https://old.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/)
 - [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
 - [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
 <!-- BLOG-POST-LIST:END -->
