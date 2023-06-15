@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
-- [uTox – Lightweight Tox Client](https://github.com/uTox/uTox)
-- [My 24 year old HP Jornada can do things an iPhone still can&#39;t do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-- [The Era of Brain Chips &lpar;2005&rpar; [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
-- [Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
+- [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
+- [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
+- [The Online Books Page](https://onlinebooks.library.upenn.edu/)
+- [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
+- [Board Changes at Signal](https://mastodon.world/@signalapp/110549355267860258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
