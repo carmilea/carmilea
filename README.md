@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the Slow Productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
+- [SETI Scientists to Devise Plan for Lunar Listening Station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
+- [I am Steve Huffman, the new CEO of Reddit. AMA. &lpar;2015&rpar;](https://old.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/)
 - [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
 - [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
-- [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
-- [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
-- [The Overhang Problem &lpar;2007&rpar; [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
