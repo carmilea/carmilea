@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
 - [June &lpar;YC W21&rpar; Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 - [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
-- [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
-- [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
-- [Man found UC Berkeley skeleton in 2021](https://www.berkeleyscanner.com/2023/06/12/uc-berkeley-crime/uc-berkeley-skeleton-found-2021-clark-kerr-human-remains/)
+- [How to crawl a quarter billion webpages in 40 hours &lpar;2012&rpar;](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+- [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
