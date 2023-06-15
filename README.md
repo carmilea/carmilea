@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My first full stack project](https://www.plotnotes.ai/)
+- [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 - [Let&#39;s Encrypt Acme API Outage](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4)
-- [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
-- [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
