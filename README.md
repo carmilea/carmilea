@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
-- [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
 - [Show HN: FFmpeg UI](https://ybouane.com/ffmpeg-ui)
 - [Man found UC Berkeley skeleton in 2021](https://www.berkeleyscanner.com/2023/06/12/uc-berkeley-crime/uc-berkeley-skeleton-found-2021-clark-kerr-human-remains/)
+- [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
