@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Overflow Is Down](https://www.stackstatus.net/?)
-- [Gov. DeSantis signs bill banning most direct-to-consumer auto sales](https://floridapolitics.com/archives/618230-gov-desantis-signs-car-dealership-protection-bill-banning-most-direct-to-consumer-auto-sales/)
-- [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
-- [Cement&#39;s future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
-- [JetPack Aviation &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
+- [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
+- [/r/startrek/ migrates to lemmy](https://old.reddit.com/r/startrek/)
+- [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
+- [Google warns own staff about entering data into, using code from, chatbots](https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/)
+- [Getting 10TB of GitHub Logs and Extracting Details of All Users and Repositories](https://trickest.com/blog/parsing-github-logs-with-trickest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
