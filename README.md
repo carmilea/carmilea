@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
+- [Effective Rust](https://www.lurklurk.org/effective-rust/)
+- [Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
+- [FANN: Vector Search in 200 Lines of Rust](https://fennel.ai/blog/vector-search-in-200-lines-of-rust/)
+- [Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 - [June &lpar;YC W21&rpar; Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
-- [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
-- [How to crawl a quarter billion webpages in 40 hours &lpar;2012&rpar;](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
-- [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
