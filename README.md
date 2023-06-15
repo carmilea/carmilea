@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
 - [Cement&#39;s future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
 - [JetPack Aviation &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
 - [Men who helped run Megaupload sentenced to prison in New Zealand](https://abcnews.go.com/Technology/wireStory/2-men-helped-run-popular-pirating-website-megaupload-100099005)
 - [Network of channels tried to saturate YouTube with pro-Bolsonaro content](https://phys.org/news/2023-06-network-channels-saturate-youtube-pro-bolsonaro.html)
-- [Germany wants to legalize quality control of illegal drugs](https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
