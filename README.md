@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
-- [Renters Are About to Get the Upper Hand](https://www.wsj.com/articles/renters-are-about-to-get-the-upper-hand-f6387df4)
+- [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
+- [Show HN: FFmpeg UI](https://ybouane.com/ffmpeg-ui)
 - [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
-- [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
