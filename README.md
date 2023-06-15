@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [uTox – The Lightweight Tox Client](https://github.com/uTox/uTox)
+- [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
+- [uTox – Lightweight Tox Client](https://github.com/uTox/uTox)
 - [My 24 year old HP Jornada can do things an iPhone still can&#39;t do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-- [Ask HN: Any software engineers here that switched to a business/sales role?](https://news.ycombinator.com/item?id=36346012)
-- [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
-- [Gently Down the Stream – A gentle introduction to Apache Kafka &lpar;2021&rpar;](https://www.gentlydownthe.stream/)
+- [The Era of Brain Chips &lpar;2005&rpar; [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
+- [Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
