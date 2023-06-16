@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack on shorter work weeks &lpar;2016&rpar;](https://news.ycombinator.com/item?id=10845832)
+- [Dechlorinating the Moderator](http://www.antipope.org/charlie/fiction/moderator.html)
 - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
-- [100 Days of Swift – Hacking with Swift](https://www.hackingwithswift.com/100)
-- [Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp](https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp)
-- [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
-- [The note Reddit sent to moderators threatening them if they don’t reopen](https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat)
+- [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
+- [Mercedes-Benz takes in-car voice control to a new level with ChatGPT](https://media.mbusa.com/releases/mercedes-benz-takes-in-car-voice-control-to-a-new-level-with-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
