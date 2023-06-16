@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
+- [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
+- [Charles Schwab facing internal meltdown after C-level abruptly reverses on RTO](https://old.reddit.com/r/Schwab/comments/14add4y/rto/)
+- [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
+- [The new US border wall is an app](https://www.technologyreview.com/2023/06/16/1074039/border-wall-app/)
 - [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
-- [Reddit is undeleting years worth of comments and posts](https://tane.codes/@tanepiper/110553809293213303)
-- [Reddit CEO Says Mods Too Powerful, Plans to Weaken After Blackout](https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6)
-- [Full Time](https://www.marginalia.nu/log/83_full_time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
