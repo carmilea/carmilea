@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is going to eat itself: Experiment shows people training bots are using bots](https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/)
-- [Ask HN: Which substacks do you read as soon as it hits your inbox?](https://news.ycombinator.com/item?id=36356476)
-- [Finland&#39;s plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
-- [The Riddle of the Well-Paying, Pointless Job &lpar;2019&rpar;](https://moretothat.com/pointless-job/)
-- [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
+- [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
+- [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
+- [Reddit is undeleting years worth of comments and posts](https://tane.codes/@tanepiper/110553809293213303)
+- [Reddit CEO Says Mods Too Powerful, Plans to Weaken After Blackout](https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6)
+- [Full Time](https://www.marginalia.nu/log/83_full_time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
