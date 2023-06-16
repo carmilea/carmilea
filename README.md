@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Discuit – A Reddit alternative with a clean UI and a sensible vision](https://discuit.net/)
-- [Statistical correlation between earthquakes and cosmic radiation](https://press.ifj.edu.pl/en/news/2023/06/14/)
-- [Meta&#39;s plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
-- [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
-- [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
+- [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
+- [Canada&#39;s population reaches 40M](https://www.statcan.gc.ca/en/subjects-start/population_and_demography/40-million)
+- [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
+- [Full-Text Search vs. Semantic Search: The Good, Bad and Ugly](https://www.singlestore.com/blog/full-text-search-vs-semantic-search/)
+- [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
