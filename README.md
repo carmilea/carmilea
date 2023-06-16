@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Carmack on shorter work weeks &lpar;2016&rpar;](https://news.ycombinator.com/item?id=10845832)
-- [Dechlorinating the Moderator](http://www.antipope.org/charlie/fiction/moderator.html)
+- [Show HN: Discuit – A Reddit alternative with a clean UI and a sensible vision](https://discuit.net/)
+- [Statistical correlation between earthquakes and cosmic radiation](https://press.ifj.edu.pl/en/news/2023/06/14/)
+- [Meta&#39;s plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
 - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
 - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
-- [Mercedes-Benz takes in-car voice control to a new level with ChatGPT](https://media.mbusa.com/releases/mercedes-benz-takes-in-car-voice-control-to-a-new-level-with-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
