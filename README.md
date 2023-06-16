@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every Louisiana driver&#39;s license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
+- [GPT-4 Can Use Tools Now–That’s a Big Deal](https://every.to/chain-of-thought/gpt-4-can-use-tools-now-that-s-a-big-deal)
 - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
-- [Canada&#39;s population reaches 40M](https://www.statcan.gc.ca/en/subjects-start/population_and_demography/40-million)
 - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 - [Full-Text Search vs. Semantic Search: The Good, Bad and Ugly](https://www.singlestore.com/blog/full-text-search-vs-semantic-search/)
-- [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
