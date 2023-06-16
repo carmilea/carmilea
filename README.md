@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
+- [What I Learned from Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
 - [Provision &lpar;YC S22&rpar; Is Hiring a Founding Engineer &lpar;Front End&rpar;](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 - [Building a New Database Management System in Academia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
 - [Reddit appears to be restoring edited/deleted comments](https://kbin.social/m/RedditMigration/t/34112/Heads-up-Reddit-is-quietly-restoring-deleted-AND-overwritten-posts-and)
-- [Stop Calling Each New Disaster “The New Normal”](https://thewalrus.ca/stop-calling-each-new-disaster-the-new-normal/)
-- [Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
