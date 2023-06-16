@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is going to eat itself: Experiment shows people training bots are using bots](https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/)
+- [Ask HN: Which substacks do you read as soon as it hits your inbox?](https://news.ycombinator.com/item?id=36356476)
+- [Finland&#39;s plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
+- [The Riddle of the Well-Paying, Pointless Job &lpar;2019&rpar;](https://moretothat.com/pointless-job/)
 - [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
-- [What I Learned from Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
-- [Provision &lpar;YC S22&rpar; Is Hiring a Founding Engineer &lpar;Front End&rpar;](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
-- [Building a New Database Management System in Academia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
-- [Reddit appears to be restoring edited/deleted comments](https://kbin.social/m/RedditMigration/t/34112/Heads-up-Reddit-is-quietly-restoring-deleted-AND-overwritten-posts-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
