@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Louisiana DMV Hack](https://gov.louisiana.gov/index.cfm/newsroom/detail/4158)
+- [Subreddit Migration Directory](https://redditmigration.com)
+- [Detailed miniature models of historic computer](https://www.miniatua.com/)
 - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
-- [io_uring disabled across Google platforms](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
-- [Guidance for Scaling – Reversible vs. Irreversible Decisions](https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/)
-- [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
-- [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
+- [Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
