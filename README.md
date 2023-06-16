@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
+- [DevOps Is Bullshit &lpar;2022&rpar;](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+- [Throwing in the Towel on Mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
+- [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
-- [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
-- [Ask HN: Why would Google sell Google domains to Squarespace?](https://news.ycombinator.com/item?id=36352347)
-- [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
-- [Louis Rossmann calls community to leave Reddit](https://www.youtube.com/watch?v=ZOm_UKGyrZg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
