@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://twitter.com/lmsysorg/status/1669779889275408385)
+- [FBI Groomed a 16-Year-Old with “Brain Development Issues” to Become a Terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)
+- [Sacrifice the first 13 years of your life to Google for 2M](https://gigatexal.blog/pages/what-i-wish-i-did-financially-in-my-20s/what-i-wish-i-did-financially-in-my-20s.html)
 - [Every Louisiana driver&#39;s license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
 - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
-- [Full-Text Search vs. Semantic Search: The Good, Bad and Ugly](https://www.singlestore.com/blog/full-text-search-vs-semantic-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
