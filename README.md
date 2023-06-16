@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lemmy Instances are already blocking each other](https://beehaw.org/post/567170)
+- [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
+- [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
 - [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
 - [The Distributed Tensor Algebra Compiler &lpar;2022&rpar;](https://arxiv.org/abs/2203.08069)
-- [Vision Pro](https://www.ben-evans.com/benedictevans/2023/6/15/vision-pro)
-- [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
+- [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
