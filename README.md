@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://twitter.com/lmsysorg/status/1669779889275408385)
 - [Every Louisiana driver&#39;s license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
-- [GPT-4 Can Use Tools Now–That’s a Big Deal](https://every.to/chain-of-thought/gpt-4-can-use-tools-now-that-s-a-big-deal)
 - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
 - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 - [Full-Text Search vs. Semantic Search: The Good, Bad and Ugly](https://www.singlestore.com/blog/full-text-search-vs-semantic-search/)
