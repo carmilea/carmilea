@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
-- [Charles Schwab facing internal meltdown after C-level abruptly reverses on RTO](https://old.reddit.com/r/Schwab/comments/14add4y/rto/)
-- [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
-- [The new US border wall is an app](https://www.technologyreview.com/2023/06/16/1074039/border-wall-app/)
-- [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
+- [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
+- [100 Days of Swift – Hacking with Swift](https://www.hackingwithswift.com/100)
+- [Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp](https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp)
+- [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
+- [The note Reddit sent to moderators threatening them if they don’t reopen](https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
