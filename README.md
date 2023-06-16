@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
-- [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
-- [The Online Books Page](https://onlinebooks.library.upenn.edu/)
-- [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
-- [Board Changes at Signal](https://mastodon.world/@signalapp/110549355267860258)
+- [Lemmy Instances are already blocking each other](https://beehaw.org/post/567170)
+- [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
+- [The Distributed Tensor Algebra Compiler &lpar;2022&rpar;](https://arxiv.org/abs/2203.08069)
+- [Vision Pro](https://www.ben-evans.com/benedictevans/2023/6/15/vision-pro)
+- [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
