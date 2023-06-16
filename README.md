@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Major Louisiana DMV Hack](https://gov.louisiana.gov/index.cfm/newsroom/detail/4158)
-- [Subreddit Migration Directory](https://redditmigration.com)
-- [Detailed miniature models of historic computer](https://www.miniatua.com/)
-- [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
-- [Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
+- [Revenge Served Ice Cold?](https://www.latimes.com/california/story/2023-06-07/revenge-delivered-ice-cold-top-l-a-law-firm-outs-former-partners-racist-sexist-emails)
+- [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
+- [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+- [The next generation of serverless](https://www.fermyon.com/blog/next-generation-of-serverless-is-happening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
