@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
+- [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
+- [Falcon LLM: The Most Powerful Open Source LLM Released to Date](https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most)
 - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
-- [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
-- [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
-- [The Distributed Tensor Algebra Compiler &lpar;2022&rpar;](https://arxiv.org/abs/2203.08069)
-- [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
+- [UN chief says fossil fuels &#39;incompatible with human survival,&#39;](https://apnews.com/article/climate-talks-un-uae-guterres-fossil-fuel-9cadf724c9545c7032522b10eaf33d22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
