@@ -54,8 +54,8 @@
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
 - [Ask HN: Why would Google sell Google domains to Squarespace?](https://news.ycombinator.com/item?id=36352347)
-- [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
 - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+- [Louis Rossmann calls community to leave Reddit](https://www.youtube.com/watch?v=ZOm_UKGyrZg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
