@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update: U+237C ⍼ &amp;Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
+- [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
 - [I don&#39;t need your query language](https://antonz.org/fancy-ql/)
-- [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
-- [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
-- [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
-- [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
+- [Recurring Revenue: Engineers](https://news.ycombinator.com/item?id=36368891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
