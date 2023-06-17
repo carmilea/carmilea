@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Groomed a 16-Year-Old with “Brain Development Issues” to Become a Terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)
-- [Sacrifice the first 13 years of your life to Google for 2M](https://gigatexal.blog/pages/what-i-wish-i-did-financially-in-my-20s/what-i-wish-i-did-financially-in-my-20s.html)
-- [Every Louisiana driver&#39;s license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
-- [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
-- [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
+- [Just noticed the Google Products page does not list Blogger](https://about.google/intl/ALL_us/products/)
+- [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
+- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+- [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36366062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
