@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bullshit Jobs by David Graeber &lpar;2018&rpar;](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
-- [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
+- [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
+- [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
+- [Bullshit Jobs &lpar;2018&rpar;](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
 - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
 - [Meticulous &lpar;YC S21&rpar; is hiring a founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36372044)
-- [Are chiplets enough to save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
