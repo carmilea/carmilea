@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
+- [Running Linux on the Asus ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
+- [15” MacBook Air Teardown](https://www.youtube.com/watch?v=nW7b0DmmKvQ)
+- [Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 - [Update: U+237C ⍼ &amp;Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
-- [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
-- [I don&#39;t need your query language](https://antonz.org/fancy-ql/)
-- [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
