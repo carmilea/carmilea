@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
+- [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
 - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
-- [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
-- [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
