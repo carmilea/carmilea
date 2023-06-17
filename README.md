@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36372044)
-- [Google gets go-ahead to build 153-acre Bay Area neighborhood by headquarters](https://www.sfgate.com/tech/article/google-mountain-view-development-headquarters-18156676.php)
+- [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
+- [Meticulous &lpar;YC S21&rpar; is hiring a founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36372044)
+- [Are chiplets enough to save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
+- [How to raise a Roman army: The dilectus](https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus/)
 - [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
-- [Tell HN: Comcast/Xfinity is having a widespread DNS outage](https://news.ycombinator.com/item?id=36371358)
-- [Don’t Talk to Police](https://www.youtube.com/watch?v=d-7o9xYp7eE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
