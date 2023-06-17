@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bullshit Jobs by David Graeber &lpar;2018&rpar;](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
+- [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
 - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
 - [Meticulous &lpar;YC S21&rpar; is hiring a founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36372044)
 - [Are chiplets enough to save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
-- [How to raise a Roman army: The dilectus](https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus/)
-- [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
