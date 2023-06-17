@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
+- [Self-checkout machines now ask for tips in latest squeeze on customers](https://www.foxbusiness.com/retail/self-checkout-machines-ask-tips-latest-squeeze-customers)
+- [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
+- [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
-- [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
-- [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
-- [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
-- [Bullshit Jobs &lpar;2018&rpar;](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
