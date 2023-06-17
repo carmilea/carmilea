@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto startup Wyre, once valued at $1.5B, officially shuts down](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/06/16/crypto-startup-wyre-officially-shuts-down.html?page=all)
 - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 - [Smart Guy Productivity Pitfalls &lpar;2013&rpar;](https://waivek.github.io/website/tooltip.html)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=36366062)
 - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
-- [Ancient astronaut theorists faked a Hindu nuclear explosion &lpar;2013&rpar;](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
