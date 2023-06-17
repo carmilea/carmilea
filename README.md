@@ -55,7 +55,7 @@
 - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
 - [I don&#39;t need your query language](https://antonz.org/fancy-ql/)
-- [Recurring Revenue: Engineers](https://news.ycombinator.com/item?id=36368891)
+- [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
