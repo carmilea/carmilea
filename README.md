@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+- [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
+- [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
 - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 - [Bullshit Jobs &lpar;2018&rpar;](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
-- [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
-- [Meticulous &lpar;YC S21&rpar; is hiring a founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36372044)
-- [Are chiplets enough to save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
