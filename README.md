@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
-- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
-- [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36366062)
-- [Merging Bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
+- [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
+- [Smart Guy Productivity Pitfalls &lpar;2013&rpar;](https://waivek.github.io/website/tooltip.html)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=36366062)
+- [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
+- [Ancient astronaut theorists faked a Hindu nuclear explosion &lpar;2013&rpar;](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
