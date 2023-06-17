@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just noticed the Google Products page does not list Blogger](https://about.google/intl/ALL_us/products/)
 - [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
 - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
 - [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36366062)
+- [Merging Bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
