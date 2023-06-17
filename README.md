@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
 - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
 - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
-- [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
