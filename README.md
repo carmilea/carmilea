@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto startup Wyre, once valued at $1.5B, officially shuts down](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/06/16/crypto-startup-wyre-officially-shuts-down.html?page=all)
+- [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
+- [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
 - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 - [Smart Guy Productivity Pitfalls &lpar;2013&rpar;](https://waivek.github.io/website/tooltip.html)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=36366062)
-- [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
