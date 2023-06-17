@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
-- [Running Linux on the Asus ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
-- [15” MacBook Air Teardown](https://www.youtube.com/watch?v=nW7b0DmmKvQ)
-- [Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
-- [Update: U+237C ⍼ &amp;Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
+- [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
+- [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
+- [Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
+- [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
+- [Gitless a simple VCS built on top of Git](https://gitless.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
