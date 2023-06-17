@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google gets go-ahead to build 153-acre Bay Area neighborhood by headquarters](https://www.sfgate.com/tech/article/google-mountain-view-development-headquarters-18156676.php)
+- [Starlink v2 reached the brightness reduction target recommended by astronomers](https://arxiv.org/abs/2306.06657)
+- [Tell HN: Comcast/Xfinity is having a widespread DNS outage](https://news.ycombinator.com/item?id=36371358)
+- [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
-- [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
-- [Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
-- [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
-- [Gitless a simple VCS built on top of Git](https://gitless.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
