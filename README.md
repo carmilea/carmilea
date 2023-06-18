@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
-- [Complex Systems Won’t Survive the Competence Crisis](https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/)
 - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
