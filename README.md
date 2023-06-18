@@ -55,7 +55,7 @@
 - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
 - [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
 - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-- [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
+- [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
