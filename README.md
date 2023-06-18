@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 - [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
 - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
 - [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
-- [Congress is racing to regulate AI. Silicon Valley is eager to teach them how](https://www.washingtonpost.com/technology/2023/06/17/congress-regulating-ai-schumer/)
 - [The Risks of Staying Put](https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/)
 <!-- BLOG-POST-LIST:END -->
 
