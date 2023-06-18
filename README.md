@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Milk-V Duo: A $9 RISC-V COMPUTER](https://milkv.io/duo)
+- [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
 - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
-- [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
-- [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-- [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
+- [A History Of Nvidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
