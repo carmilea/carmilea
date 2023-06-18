@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Meta Fedi Pact – instance admins/mods that agreed to block Meta instance](https://fedipact.online/)
+- [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
 - [Redbean Systems](https://redbean.systems/)
-- [Linguists have identified a new English dialect that’s emerging in South Florida](https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620)
-- [Get It Done](https://boz.com/articles/get-it-done)
-- [Does Lemmy benefit from Rust? Is code execution speed the bottleneck?](https://programming.dev/post/50696)
-- [The WFH Future Is Destroying Bosses&#39; Brains](https://wheresyoured.at/p/the-work-from-home-future-is-destroying)
+- [Show HN: Indexing Discord content into the web – Answer Overflow](https://www.answeroverflow.com/)
+- [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
