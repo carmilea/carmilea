@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
+- [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
+- [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
 - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 - [Keygen Library Player &lpar;4504 tracks&rpar;](https://cable.ayra.ch/webxmp/)
-- [Finite and Infinite Games [pdf]](https://wtf.tw/ref/carse.pdf)
-- [What I’ve learned from 35 years of wearing computerized eyewear &lpar;2013&rpar;](https://spectrum.ieee.org/steve-mann-my-augmediated-life)
-- [How to Read and Organize Online Articles &lpar;Without Driving Yourself Crazy&rpar;](https://www.gregoryciotti.com/reading-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
