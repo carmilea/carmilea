@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: If Google Workspace/Gsuite disappeared tomorrow, where would you go?](https://news.ycombinator.com/item?id=36381823)
+- [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
+- [Texas rules requiring water breaks for construction workers will be nullified](https://www.texastribune.org/2023/06/16/texas-heat-wave-water-break-construction-workers/)
+- [The Israeli weapons and spyware falling into the hands of despots](https://www.ft.com/content/a70a4460-0267-4a8a-8612-a6f6c187a3c6)
 - [Archives.design: curated graphic design from Internet Archive](https://archives.design)
-- [Gas Stoves Emit Benzene and Increases Indoor Air Pollution](https://pubs.acs.org/doi/10.1021/acs.est.2c09289#)
-- [AzireVPN now supports port-forwarding &lpar;WireGuard&rpar;](https://blog.azirevpn.com/port-forwarding/)
-- [Hexa Lift: Single person drone](https://www.liftaircraft.com)
-- [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
