@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
-- [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
-- [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
-- [A complete guide to getting what you want &lpar;2018&rpar;](https://www.raptitude.com/2018/06/getting-what-you-want/)
-- [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
+- [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
+- [Poor Man&#39;s Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
+- [Shannon’s Source Coding Theorem &lpar;Foundations of Information Theory: Part 3&rpar;](https://mbernste.github.io/posts/sourcecoding/)
+- [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
+- [Follow up to “I booted Linux 293k times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
