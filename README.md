@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Time-Lock Puzzles in the Random Oracle Model &lpar;2011&rpar;](https://people.seas.harvard.edu/~salil/research/timelock-abs.html)
-- [The GMP library&#39;s repository is under attack by a single GitHub user](https://gmplib.org/)
-- [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
-- [A guide for people who want to self-study the basics of computer science](https://github.com/Lesabotsy/bootcamp)
-- [Shannon’s Source Coding Theorem &lpar;Foundations of Information Theory: Part 3&rpar;](https://mbernste.github.io/posts/sourcecoding/)
+- [Archives.design: curated graphic design from Internet Archive](https://archives.design)
+- [Gas Stoves Emit Benzene and Increases Indoor Air Pollution](https://pubs.acs.org/doi/10.1021/acs.est.2c09289#)
+- [AzireVPN now supports port-forwarding &lpar;WireGuard&rpar;](https://blog.azirevpn.com/port-forwarding/)
+- [Hexa Lift: Single person drone](https://www.liftaircraft.com)
+- [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
