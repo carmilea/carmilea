@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
+- [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
-- [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
-- [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
-- [A complete guide to getting what you want](https://www.raptitude.com/2018/06/getting-what-you-want/)
+- [A complete guide to getting what you want &lpar;2018&rpar;](https://www.raptitude.com/2018/06/getting-what-you-want/)
 - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
 <!-- BLOG-POST-LIST:END -->
 
