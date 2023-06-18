@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Time-Lock Puzzles in the Random Oracle Model &lpar;2011&rpar;](https://people.seas.harvard.edu/~salil/research/timelock-abs.html)
+- [The GMP library&#39;s repository is under attack by a single GitHub user](https://gmplib.org/)
 - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
-- [Poor Man&#39;s Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
+- [A guide for people who want to self-study the basics of computer science](https://github.com/Lesabotsy/bootcamp)
 - [Shannon’s Source Coding Theorem &lpar;Foundations of Information Theory: Part 3&rpar;](https://mbernste.github.io/posts/sourcecoding/)
-- [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
-- [Follow up to “I booted Linux 293k times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
