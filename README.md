@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-Meta Fedi Pact – instance admins/mods that agreed to block Meta instance](https://fedipact.online/)
-- [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
+- [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
+- [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
+- [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
+- [Scalene: A high-performance, CPU, GPU, and memory profiler for Python](https://github.com/plasma-umass/scalene)
 - [Redbean Systems](https://redbean.systems/)
-- [Show HN: Indexing Discord content into the web – Answer Overflow](https://www.answeroverflow.com/)
-- [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
