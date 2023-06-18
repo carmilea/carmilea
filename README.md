@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
-- [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
-- [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
-- [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
-- [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
+- [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
+- [Keygen Library Player &lpar;4504 tracks&rpar;](https://cable.ayra.ch/webxmp/)
+- [Finite and Infinite Games [pdf]](https://wtf.tw/ref/carse.pdf)
+- [What I’ve learned from 35 years of wearing computerized eyewear](https://spectrum.ieee.org/steve-mann-my-augmediated-life)
+- [How to Read and Organize Online Articles &lpar;Without Driving Yourself Crazy&rpar;](https://www.gregoryciotti.com/reading-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
