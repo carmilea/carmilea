@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redbean Systems](https://redbean.systems/)
+- [Linguists have identified a new English dialect that’s emerging in South Florida](https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620)
+- [Get It Done](https://boz.com/articles/get-it-done)
+- [Does Lemmy benefit from Rust? Is code execution speed the bottleneck?](https://programming.dev/post/50696)
 - [The WFH Future Is Destroying Bosses&#39; Brains](https://wheresyoured.at/p/the-work-from-home-future-is-destroying)
-- [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
-- [I left the startup I founded. This is how I feel](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
-- [Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]](https://www.usenix.org/system/files/sec22-feng.pdf)
-- [Examples of Post-Growth Practices](https://postgrowthguide.notion.site/20-cases-of-Post-Growth-Practices-dd67efd4c7304df7b6a5ed59cab4ac8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
