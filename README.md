@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
-- [Self-checkout machines now ask for tips in latest squeeze on customers](https://www.foxbusiness.com/retail/self-checkout-machines-ask-tips-latest-squeeze-customers)
-- [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
-- [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
-- [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+- [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
+- [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
+- [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
+- [Congress is racing to regulate AI. Silicon Valley is eager to teach them how](https://www.washingtonpost.com/technology/2023/06/17/congress-regulating-ai-schumer/)
+- [The Risks of Staying Put](https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
