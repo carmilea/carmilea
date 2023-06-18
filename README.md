@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Linux Kernel has jiffies](https://github.com/torvalds/linux/blob/45a3e24f65e90a047bef86f927ebdc4c710edaa1/kernel/time/jiffies.c)
+- [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
 - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
 - [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
-- [Scalene: A high-performance, CPU, GPU, and memory profiler for Python](https://github.com/plasma-umass/scalene)
-- [Redbean Systems](https://redbean.systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
