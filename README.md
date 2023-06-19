@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
+- [SVB customers who lost their deposits remain on the hook for loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
+- [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
 - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
-- [Thousands of Azure Websites Are Still Vulnerable to Subdomain Takeovers](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
-- [Eight days later: Kbin, Lemmy, the landed gentry, and the rise of “threadiverse”](https://privacy.thenexus.today/8-days-later-draft-kbin-lemmy-landed-gentry/)
-- [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
-- [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
+- [Show HN: Debian Based Home Router](https://github.com/tonusoo/koduinternet-cpe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
