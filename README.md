@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
+- [Tourist submarine goes missing on dive to wreck of Titanic](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
 - [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)
 - [Reforming the free software message](https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html)
 - [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
-- [GCC Lands AVX-512 Fully-Masked Vectorization](https://www.phoronix.com/news/GCC-AVX-512-Fully-Masked-Vector)
-- [Ask HN: Why Discord instead of a public forum?](https://news.ycombinator.com/item?id=36390647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
