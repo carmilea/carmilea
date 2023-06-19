@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ant Group&#39;s automated chaos engineering ChaosMeta is officially open source](https://news.ycombinator.com/item?id=36386748)
+- [Reddit Is Trying to Sow Division in Mod Teams Thats Because Protest Is Working](https://www.quippd.com/writing/2023/06/18/reddit-is-sowing-division-in-mod-teams-because-protest-is-working.html)
 - [Using loophole, Seward County seizes millions from motorists without convictions](https://www.klkntv.com/using-loophole-seward-county-seizes-millions-from-motorists-without-convicting-them-of-crimes/)
 - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
-- [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
-- [Why you can&#39;t Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
-- [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
+- [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
