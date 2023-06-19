@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
+- [TypeScript 5.2&#39;s New Keyword: &#39;using&#39;](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded &amp; Desktop](https://slint.dev)
 - [MoonRay – DreamWorks’ open-source MCRT renderer](https://openmoonray.org/download)
 - [OpenLLM](https://github.com/bentoml/OpenLLM)
-- [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances)
 <!-- BLOG-POST-LIST:END -->
 
 ---
