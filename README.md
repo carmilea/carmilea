@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
+- [Thousands of Azure Websites Are Still Vulnerable to Subdomain Takeovers](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
+- [Eight days later: Kbin, Lemmy, the landed gentry, and the rise of “threadiverse”](https://privacy.thenexus.today/8-days-later-draft-kbin-lemmy-landed-gentry/)
 - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
-- [Effekt: Lightweight Effect Polymorphism for Handlers &lpar;2020&rpar; [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
 - [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
-- [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
-- [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
