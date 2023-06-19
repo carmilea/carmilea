@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Using loophole, Seward County seizes millions from motorists without convictions](https://www.klkntv.com/using-loophole-seward-county-seizes-millions-from-motorists-without-convicting-them-of-crimes/)
-- [Miraheze Is Not Shutting Down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
-- [Neural Networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
-- [You Can&#39;t Kickstart a Conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
-- [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
+- [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
+- [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
+- [Why you can&#39;t Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
+- [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
