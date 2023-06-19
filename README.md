@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DreamWorks Animation&#39;s open source reandering engine – MoonRay](https://openmoonray.org/download)
+- [OpenLLM](https://github.com/bentoml/OpenLLM)
+- [Canva saves millions annually in Amazon S3 costs](https://www.canva.dev/blog/engineering/optimising-s3-savings/)
 - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
-- [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
-- [WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel](https://www.phoronix.com/news/Microsoft-WSL-1.3.10)
-- [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
