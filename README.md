@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Releasing an indie game on 3 consoles at once and failing financially](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
-- [I don&#39;t trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
+- [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
+- [Releasing an indie game on 3 consoles at once and failing financially &lpar;2016&rpar;](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
 - [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
