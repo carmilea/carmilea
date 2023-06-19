@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DreamWorks Animation&#39;s open source reandering engine – MoonRay](https://openmoonray.org/download)
+- [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
+- [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded &amp; Desktop](https://slint.dev)
+- [MoonRay – DreamWorks’ open-source MCRT renderer](https://openmoonray.org/download)
 - [OpenLLM](https://github.com/bentoml/OpenLLM)
-- [Canva saves millions annually in Amazon S3 costs](https://www.canva.dev/blog/engineering/optimising-s3-savings/)
-- [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
-- [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
+- [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances)
 <!-- BLOG-POST-LIST:END -->
 
 ---
