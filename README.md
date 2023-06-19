@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
+- [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
+- [Sea Change &lpar;2022&rpar;](https://www.oaktreecapital.com/insights/memo/sea-change)
 - [Effekt: Lightweight Effect Polymorphism for Handlers &lpar;2020&rpar; [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
-- [AI: First New UI Paradigm in 60 Years, Jakob Nielsen](https://www.nngroup.com/articles/ai-paradigm/)
+- [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
-- [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
