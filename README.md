@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ant Group&#39;s automated chaos engineering ChaosMeta is officially open source](https://news.ycombinator.com/item?id=36386748)
-- [Reddit Is Trying to Sow Division in Mod Teams Thats Because Protest Is Working](https://www.quippd.com/writing/2023/06/18/reddit-is-sowing-division-in-mod-teams-because-protest-is-working.html)
-- [Using loophole, Seward County seizes millions from motorists without convictions](https://www.klkntv.com/using-loophole-seward-county-seizes-millions-from-motorists-without-convicting-them-of-crimes/)
+- [Releasing an indie game on 3 consoles at once and failing financially](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
+- [I don&#39;t trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
 - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
+- [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
