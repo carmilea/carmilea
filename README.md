@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
 - [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
-- [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded &amp; Desktop](https://slint.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
