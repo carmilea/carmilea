@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
+- [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
-- [TypeScript 5.2&#39;s New Keyword: &#39;using&#39;](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+- [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
 - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded &amp; Desktop](https://slint.dev)
-- [MoonRay – DreamWorks’ open-source MCRT renderer](https://openmoonray.org/download)
-- [OpenLLM](https://github.com/bentoml/OpenLLM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
