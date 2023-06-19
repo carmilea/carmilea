@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biggest Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)
-- [Apple Is Taking on Apples in a Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
-- [Twitter’s Lawyers Admit They’re Overwhelmed; 2000 Laid Off Employees File Claims](https://www.techdirt.com/2023/06/16/twitters-lawyers-admit-theyre-overwhelmed-as-nearly-2000-laid-off-employees-file-arbitration-claims/)
-- [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
-- [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
+- [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)
+- [Reforming the free software message](https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html)
+- [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
+- [GCC Lands AVX-512 Fully-Masked Vectorization](https://www.phoronix.com/news/GCC-AVX-512-Fully-Masked-Vector)
+- [Ask HN: Why Discord instead of a public forum?](https://news.ycombinator.com/item?id=36390647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
