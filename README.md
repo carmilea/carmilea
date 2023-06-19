@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
+- [Effekt: Lightweight Effect Polymorphism for Handlers &lpar;2020&rpar; [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
+- [AI: First New UI Paradigm in 60 Years, Jakob Nielsen](https://www.nngroup.com/articles/ai-paradigm/)
 - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
-- [Japan pushes for Apple and Google to allow sideloading](https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores)
 - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
-- [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
-- [ELO Everything](https://eloeverything.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
