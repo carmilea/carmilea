@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
+- [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
 - [Finley &lpar;YC W21&rpar; is hiring to reimagine business credit &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=36410522)
 - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-- [Missing Titanic Sub Faced Lawsuit over Depths It Could Safely Travel To](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
-- [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
