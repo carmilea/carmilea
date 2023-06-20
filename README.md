@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Reproducing TikTok with Django Ninja and React Native](https://github.com/Yinnerston/Teaser)
+- [Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3)
 - [OpenWrt Project: a Linux operating system targeting embedded devices](https://openwrt.org/)
 - [The Matasano crypto challenges &lpar;2014&rpar;](https://cryptopals.com/)
 - [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
