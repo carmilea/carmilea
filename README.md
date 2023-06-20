@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slauth.io &lpar;YC S22&rpar; Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
-- [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
-- [Should you standardise tools in your company? Case of Miro vs. MS Whiteboard](https://engineering.telia.no/blog/should-you-standardise-tools-in-your-company/)
-- [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
-- [Removed as moderator of /r/Celebrities after over 14 years](https://old.reddit.com/r/ModCoord/comments/14dt9ly/removed_as_moderator_of_rcelebrities_after_over/)
+- [Introducing Mullvad Leta: a search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
+- [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
+- [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
+- [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)
+- [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
