@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Hulu does not allow subscription cancellation](https://news.ycombinator.com/item?id=36403609)
+- [Gannett CEO: Here&#39;s why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
+- [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
+- [Undb – open-source airtable alternative](https://github.com/undb-xyz/undb)
+- [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
 - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
-- [Tell HN: Stripe killed my music locker service, so I&#39;m open sourcing it](https://news.ycombinator.com/item?id=36403607)
-- [ASUS Chromebox 5](https://www.asus.com/displays-desktops/mini-pcs/chrome-os-devices/asus-chromebox-5/)
-- [Rivian Joins Forces with Tesla, Embracing Their Charging Standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
