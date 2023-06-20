@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT: Fear Litany](https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
-- [Show HN: I made a landing page am I doing this right?](https://dj.exchange)
+- [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
+- [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 - [A daytime nap is good for the brain](https://www.bbc.com/news/health-65950168)
 - [Iron nitrides: powerful magnets without the rare earth elements](https://hackaday.com/2022/09/01/iron-nitrides-powerful-magnets-without-the-rare-earth-elements/)
-- [Security analysis of the Dominion ImageCast X](https://freedom-to-tinker.com/2023/06/14/security-analysis-of-the-dominion-imagecast-x/)
+- [Document reasoning to block DNS to 127.0.0.1](https://github.com/easylist/easylist/issues/16372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
