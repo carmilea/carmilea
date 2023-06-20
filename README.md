@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
-- [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
-- [Gannett CEO: Here&#39;s why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
-- [Render Raises $50M Series B](https://render.com/blog/render-series-b)
-- [Warning: Geomagnetic K-index of 4 expected; electron 2MeV Integral Flux &gt;1000pfu](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)
+- [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
+- [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
+- [Petaflops to the People: From Personal Compute Cluster to Person of Compute](https://www.latent.space/p/geohot)
+- [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
+- [3 Men Convicted of Harassing Family on Behalf of China’s Government](https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
