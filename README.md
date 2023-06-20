@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Mullvad Leta: a search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
-- [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
+- [Show HN: Inngest – Developer platform for background jobs and workflows](https://www.inngest.com)
+- [XEmacs 21.5.35 “kohlrabi” is released](https://www.xemacs.org/Releases/21.5.35.html)
+- [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
+- [GPS alternative taps cosmic rays for underground or underwater navigation](https://newatlas.com/technology/gps-alternative-muon-cosmic-rays-underground-underwater-navigation/)
 - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
-- [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)
-- [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
