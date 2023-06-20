@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
-- [Predicting hit songs with 97% accuracy](https://www.frontiersin.org/articles/10.3389/frai.2023.1154663/full)
-- [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
-- [Show HN: Inngest – Developer platform for background jobs and workflows](https://www.inngest.com)
-- [Mastercard submits fresh trademark application for crypto tech](https://crypto.news/mastercard-submits-fresh-trademark-application-for-crypto-tech/)
+- [Tell HN: Hulu does not allow subscription cancellation](https://news.ycombinator.com/item?id=36403609)
+- [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
+- [Tell HN: Stripe killed my music locker service, so I&#39;m open sourcing it](https://news.ycombinator.com/item?id=36403607)
+- [ASUS Chromebox 5](https://www.asus.com/displays-desktops/mini-pcs/chrome-os-devices/asus-chromebox-5/)
+- [Rivian Joins Forces with Tesla, Embracing Their Charging Standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
