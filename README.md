@@ -54,8 +54,8 @@
 - [Slauth.io &lpar;YC S22&rpar; Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 - [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
+- [Should you standardise tools in your company? Case of Miro vs. MS Whiteboard](https://engineering.telia.no/blog/should-you-standardise-tools-in-your-company/)
 - [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
-- [Removed as moderator of /r/Celebrities after over 14 years](https://old.reddit.com/r/ModCoord/comments/14dt9ly/removed_as_moderator_of_rcelebrities_after_over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
