@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My total comp for creating GitHub Copilot](https://twitter.com/alexgraveley/status/1671213996735594503)
+- [Milk-V Mars: RISC-V credit card size SBC](https://milkv.io/mars)
 - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
 - [Petaflops to the People: From Personal Compute Cluster to Person of Compute](https://www.latent.space/p/geohot)
-- [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
-- [3 Men Convicted of Harassing Family on Behalf of China’s Government](https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
