@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
+- [Predicting hit songs with 97% accuracy](https://www.frontiersin.org/articles/10.3389/frai.2023.1154663/full)
+- [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 - [Show HN: Inngest – Developer platform for background jobs and workflows](https://www.inngest.com)
-- [XEmacs 21.5.35 “kohlrabi” is released](https://www.xemacs.org/Releases/21.5.35.html)
-- [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
-- [GPS alternative taps cosmic rays for underground or underwater navigation](https://newatlas.com/technology/gps-alternative-muon-cosmic-rays-underground-underwater-navigation/)
-- [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
+- [Mastercard submits fresh trademark application for crypto tech](https://crypto.news/mastercard-submits-fresh-trademark-application-for-crypto-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
