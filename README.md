@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
-- [SVB customers who lost their deposits remain on the hook for loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
-- [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
-- [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
-- [Show HN: Debian Based Home Router](https://github.com/tonusoo/koduinternet-cpe)
+- [Show HN: Reproducing TikTok with Django Ninja and React Native](https://github.com/Yinnerston/Teaser)
+- [OpenWrt Project: a Linux operating system targeting embedded devices](https://openwrt.org/)
+- [The Matasano crypto challenges &lpar;2014&rpar;](https://cryptopals.com/)
+- [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
+- [SFO United staff accused of stealing marijuana from checked bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
