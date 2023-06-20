@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
+- [53% of parents say climate change affects their decision to have more kids](https://www.cnbc.com/2023/06/20/climate-change-affects-53percent-of-parents-decision-to-have-more-kids.html)
 - [Gannett CEO: Here&#39;s why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
-- [Undb – open-source airtable alternative](https://github.com/undb-xyz/undb)
-- [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
-- [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
+- [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
