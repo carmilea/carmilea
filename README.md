@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+- [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
+- [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
+- [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 - [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
-- [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
-- [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-- [Africa’s Richest City Is Crumbling Under Chaos and Corruption](https://www.bloomberg.com/news/features/2023-06-16/south-africa-s-crime-chaos-and-corruption-make-it-look-like-a-failed-state)
-- [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
