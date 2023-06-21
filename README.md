@@ -54,8 +54,8 @@
 - [I won&#39;t pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
 - [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
 - [Moog sells its business to InMusic](https://ra.co/news/79174)
-- [Study drugs make people worse at problem solving, not better](https://www.economist.com/science-and-technology/2023/06/20/study-drugs-make-people-worse-at-problem-solving-not-better)
 - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
+- [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
