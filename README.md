@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
 - [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
 - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
 - [A regular expression to check for prime numbers](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
-- [Dietrich Bonhoeffer on Stupidity &lpar;entire quote&rpar;, 1943](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
-- [Gergely Orosz: on the risk of Google shutting down Google Cloud Platform](https://twitter.com/GergelyOrosz/status/1670796482188910592)
+- [Dietrich Bonhoeffer on stupidity &lpar;1943&rpar;](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
