@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Object-oriented Programming with ANSI-C &lpar;1993&rpar; [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
 - [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)
+- [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
 - [Ask HN: What is the morale like inside Reddit, as an employee?](https://news.ycombinator.com/item?id=36421483)
 - [Some were meant for C [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
-- [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
-- [Ashby &lpar;YC W19&rpar; Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
