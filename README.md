@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice Samuel Alito Took Luxury Fishing Vacation with GOP Billionaire](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
-- [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
-- [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
-- [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
-- [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
+- [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
+- [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
+- [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- [Africa’s Richest City Is Crumbling Under Chaos and Corruption](https://www.bloomberg.com/news/features/2023-06-16/south-africa-s-crime-chaos-and-corruption-make-it-look-like-a-failed-state)
+- [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
