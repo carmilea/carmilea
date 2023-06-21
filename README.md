@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
+- [US Coast Guard tweet follows media reports of &#39;banging sounds&#39;](https://twitter.com/USCGNortheast/status/1671372007110320128)
+- [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
+- [Linux Namespaces Are a Poor Man&#39;s Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 - [React to LiveView for Performance [audio]](https://podcast.thinkingelixir.com/156)
-- [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
-- [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
-- [What to do if your house is overflowing with books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
-- [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
