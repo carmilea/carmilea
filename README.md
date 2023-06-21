@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
-- [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
-- [Finley &lpar;YC W21&rpar; is hiring to reimagine business credit &lpar;US remote&rpar;](https://news.ycombinator.com/item?id=36410522)
-- [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
-- [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+- [A regular expression to check for prime numbers](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
+- [Dietrich Bonhoeffer on Stupidity &lpar;entire quote&rpar;, 1943](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
+- [Gergely Orosz: on the risk of Google shutting down Google Cloud Platform](https://twitter.com/GergelyOrosz/status/1670796482188910592)
+- [JetBrains Noria](https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/)
+- [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
