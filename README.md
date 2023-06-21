@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I won&#39;t pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
+- [The Real Lesson of The Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
+- [You&#39;re doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
+- [Having non-x86 machines makes your life harder](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder)
 - [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
 - [Moog sells its business to InMusic](https://ra.co/news/79174)
-- [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
-- [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
