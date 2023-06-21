@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)
-- [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
-- [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
-- [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
-- [Microsoft rewrote Q# compiler in Rust](https://github.com/microsoft/qsharp)
+- [Ford CEO: Tesla&#39;s Cybertruck Is Only for &#39;Silicon Valley People&#39;](https://www.businessinsider.com/ford-ceo-disses-tesla-cybertruck-for-silicon-valley-people-2023-6)
+- [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
+- [Notice of Intent to Amend the Prescription Drug List: Vitamin D &lpar;2020&rpar;](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
+- [Developer tools to create spatial experiences for Apple Vision Pro now availabl](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
+- [Go 1.21](https://go.dev/blog/go1.21rc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
