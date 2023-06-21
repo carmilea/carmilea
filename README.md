@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
-- [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
-- [Company to pay fine after hiring fake priest to extract confessions of workers](https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html)
-- [Top Mental Health and Prayer Apps Fail at Privacy, Security &lpar;2022&rpar;](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
-- [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
+- [Justice Samuel Alito Took Luxury Fishing Vacation with GOP Billionaire](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
+- [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
+- [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
+- [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
+- [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
