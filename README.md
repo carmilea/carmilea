@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)
+- [Apple&#39;s union-busting practices violated employee rights at NYC store](https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html)
 - [Tesorio &lpar;YC S15&rpar; Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
-- [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
-- [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
-- [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
-- [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
+- [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
+- [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
