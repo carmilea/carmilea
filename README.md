@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford CEO: Tesla&#39;s Cybertruck Is Only for &#39;Silicon Valley People&#39;](https://www.businessinsider.com/ford-ceo-disses-tesla-cybertruck-for-silicon-valley-people-2023-6)
+- [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
+- [Why Kakoune – The Quest For a Better Code Editor](https://kakoune.org/why-kakoune/why-kakoune.html)
 - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 - [Notice of Intent to Amend the Prescription Drug List: Vitamin D &lpar;2020&rpar;](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
 - [Developer tools to create spatial experiences for Apple Vision Pro now availabl](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
-- [Go 1.21](https://go.dev/blog/go1.21rc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
