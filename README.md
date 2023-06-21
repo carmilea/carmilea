@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I won&#39;t pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
+- [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
+- [Moog sells its business to InMusic](https://ra.co/news/79174)
+- [Study drugs make people worse at problem solving, not better](https://www.economist.com/science-and-technology/2023/06/20/study-drugs-make-people-worse-at-problem-solving-not-better)
 - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
-- [US Coast Guard tweet follows media reports of &#39;banging sounds&#39;](https://twitter.com/USCGNortheast/status/1671372007110320128)
-- [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
-- [Linux Namespaces Are a Poor Man&#39;s Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
-- [React to LiveView for Performance [audio]](https://podcast.thinkingelixir.com/156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
