@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)
-- [Apple&#39;s union-busting practices violated employee rights at NYC store](https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html)
-- [Tesorio &lpar;YC S15&rpar; Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
-- [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
-- [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
+- [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
+- [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
+- [Company to pay fine after hiring fake priest to extract confessions of workers](https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html)
+- [Top Mental Health and Prayer Apps Fail at Privacy, Security &lpar;2022&rpar;](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
+- [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
