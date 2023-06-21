@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)
+- [Ask HN: What is the morale like inside Reddit, as an employee?](https://news.ycombinator.com/item?id=36421483)
+- [Some were meant for C [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
+- [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 - [Ashby &lpar;YC W19&rpar; Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
-- [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
-- [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
-- [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
-- [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
