@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
-- [Google Threatens to Kill Open Source YouTube Front-End Invidious](https://tutanota.com/blog/google-youtube-invidious-privacy-alternative)
 - [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
+- [OpenAI Lobbied the E.U. To Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
 - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
+- [How to do the thing you&#39;ve been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
