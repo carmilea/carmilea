@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
-- [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
-- [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
-- [RSS Autodiscovery &lpar;2006&rpar;](https://www.rssboard.org/rss-autodiscovery)
-- [Svelte 4](https://svelte.dev/blog/svelte-4)
+- [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
+- [Generative AI Could Add $4.4T a Year to the Global Economy, McKinsey Finds](https://singularityhub.com/2023/06/22/generative-ai-could-add-4-4-trillion-a-year-to-the-global-economy-mckinsey-finds/)
+- [Debris field found in search for missing submersible](https://twitter.com/USCGNortheast/status/1671907901542211584)
+- [&#39;Incredibly noticeable&#39;: alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
+- [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
