@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baby cried in his sleep and made movements as if he had a tablet in his hand](https://twitter.com/tansuyegen/status/1671497609377116160)
+- [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
+- [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 - [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
 - [OpenAI Lobbied the E.U. To Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
-- [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
-- [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
-- [How to do the thing you&#39;ve been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
