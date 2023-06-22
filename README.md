@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
+- [IRS confirms Stanford study of racial bias in audits](https://siepr.stanford.edu/news/irs-confirms-stanford-study-racial-bias-audits)
+- [Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
+- [Launch HN: OpenMeter &lpar;YC W23&rpar; – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
 - [UpCodes &lpar;YC S17&rpar; is doubling engineering and hiring other roles too](https://up.codes/careers)
-- [Googling &#39;abortion clinic near me&#39;? The top result often an anti-abortion clinic](https://www.npr.org/2023/06/22/1182865322/google-abortion-clinic-search-results-anti-abortion)
-- [Different Scripts Descended from Egyptian Hieroglyphs, by Starkey Comics](https://www.thearchaeologist.org/blog/the-abcd-family-tree-by-starkey-comics)
-- [Google&#39;s reCAPTCHA likely illegal in Europe?](https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr)
-- [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
 <!-- BLOG-POST-LIST:END -->
 
 ---
