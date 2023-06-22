@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Titan Submersible Suffered Catastrophic Failure: Debris Field Confirmed as Titan](https://www.independent.co.uk/news/world/americas/submarine-titantic-missing-submersible-tourists-latest-b2360568.html)
+- [DeArrow – Solving Clickbait on YouTube](https://dearrow.ajay.app/)
+- [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
 - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
-- [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
-- [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
+- [Do You Know How Much Your Computer Can Do in a Second?](https://computers-are-fast.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
