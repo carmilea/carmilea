@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Now Reddit are coming for the individual personal subreddits](https://toot.cat/@dredmorbius/110588848407336816)
+- [Intelligent people take longer to solve hard problems](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
+- [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
 - [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
 - [Generative AI Could Add $4.4T a Year to the Global Economy, McKinsey Finds](https://singularityhub.com/2023/06/22/generative-ai-could-add-4-4-trillion-a-year-to-the-global-economy-mckinsey-finds/)
-- [Debris field found in search for missing submersible](https://twitter.com/USCGNortheast/status/1671907901542211584)
-- [&#39;Incredibly noticeable&#39;: alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
-- [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
