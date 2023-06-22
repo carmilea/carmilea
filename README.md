@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
+- [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
+- [Ruby Hacking Guide &lpar;2004&rpar;](https://ruby-hacking-guide.github.io)
 - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
 - [Giving LLM’s a &lt;Backspace&gt; Token](https://arxiv.org/abs/2306.05426)
-- [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
-- [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
-- [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
