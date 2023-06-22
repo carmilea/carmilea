@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Baby cried in his sleep and made movements as if he had a tablet in his hand](https://twitter.com/tansuyegen/status/1671497609377116160)
+- [UpCodes &lpar;YC S17&rpar; is doubling engineering and hiring other roles too](https://up.codes/careers)
+- [Googling &#39;abortion clinic near me&#39;? The top result often an anti-abortion clinic](https://www.npr.org/2023/06/22/1182865322/google-abortion-clinic-search-results-anti-abortion)
+- [Different Scripts Descended from Egyptian Hieroglyphs, by Starkey Comics](https://www.thearchaeologist.org/blog/the-abcd-family-tree-by-starkey-comics)
+- [Google&#39;s reCAPTCHA likely illegal in Europe?](https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr)
 - [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
-- [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
-- [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
-- [OpenAI Lobbied the E.U. To Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
