@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
+- [What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
+- [Clojure is a product design tool &lpar;2015&rpar;](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 - [DeArrow – Solving Clickbait on YouTube](https://dearrow.ajay.app/)
-- [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
-- [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
-- [Do You Know How Much Your Computer Can Do in a Second?](https://computers-are-fast.github.io)
+- [SMS Phishers Harvested Phone Numbers, Shipment Data from Ups Tracking Tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
