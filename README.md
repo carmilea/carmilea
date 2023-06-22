@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Secret U.S. Navy System Heard Titan Implosion Days Ago](https://www.wsj.com/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12)
 - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
-- [What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
+- [Ask HN: What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
 - [Clojure is a product design tool &lpar;2015&rpar;](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
-- [DeArrow – Solving Clickbait on YouTube](https://dearrow.ajay.app/)
-- [SMS Phishers Harvested Phone Numbers, Shipment Data from Ups Tracking Tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
+- [DeArrow – Solving clickbait on YouTube](https://dearrow.ajay.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
