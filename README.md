@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NIST: Future Ultra-Precise Timing Links to Geosynchronous Satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
-- [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
-- [LexisNexis is selling your personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
-- [Building Real-Time Analytical Systems Using SingleStore and Redpanda](https://www.singlestore.com/blog/building-real-time-analytical-systems-using-singlestore-and-redpanda/)
-- [Now Reddit are coming for the individual personal subreddits](https://toot.cat/@dredmorbius/110588848407336816)
+- [Titan Submersible Suffered Catastrophic Failure: Debris Field Confirmed as Titan](https://www.independent.co.uk/news/world/americas/submarine-titantic-missing-submersible-tourists-latest-b2360568.html)
+- [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
+- [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
+- [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
