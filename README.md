@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
 - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
 - [Ruby Hacking Guide &lpar;2004&rpar;](https://ruby-hacking-guide.github.io)
 - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
-- [Giving LLM’s a &lt;Backspace&gt; Token](https://arxiv.org/abs/2306.05426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
