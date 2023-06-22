@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
-- [Camera review site DPReview finds a buyer, avoids shutdown by Amazon](https://arstechnica.com/gadgets/2023/06/camera-review-site-dpreview-finds-a-buyer-avoids-shutdown-by-amazon/)
-- [Atari 2600 Video Chess disassembled and commented at last](https://nanochess.org/video_chess.html)
-- [The hottest new perk in tech is freedom](https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp)
-- [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
+- [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
+- [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
+- [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
+- [RSS Autodiscovery &lpar;2006&rpar;](https://www.rssboard.org/rss-autodiscovery)
+- [Svelte 4](https://svelte.dev/blog/svelte-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
