@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing Official Support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
-- [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
-- [How-to Guide: Migrate from RDS MySQL to SingleStore with Minimal Downtime](https://www.singlestore.com/blog/migrate-from-rds-mysql-to-singlestore-with-minimal-downtime/)
-- [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
-- [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
+- [Implement Vector Embeddings on JSON Data with SingleStore Kai™](https://www.singlestore.com/blog/implement-vector-embeddings-on-json-data/)
+- [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
+- [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
+- [Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
+- [Toronto police are squatting on land meant for affordable housing](https://breachmedia.ca/toronto-police-block-affordable-housing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
