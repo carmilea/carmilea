@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: IP cameras that don&#39;t require an app or internet](https://news.ycombinator.com/item?id=36447024)
-- [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
-- [Show HN: I&#39;ve built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
-- [The Most Mysterious Song on the Internet](https://en.wikipedia.org/wiki/The_Most_Mysterious_Song_on_the_Internet)
-- [The Pentagon’s $52k trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
+- [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
+- [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
+- [Diabetes projected to affect 1.3B people by 2050 as waistlines keep growing](https://studyfinds.org/diabetes-billion-people-globally/)
+- [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
+- [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
