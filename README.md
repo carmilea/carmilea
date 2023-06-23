@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why [“1”,“2”,“3”].map&lpar;parseInt&rpar; yields [1, NaN, NaN] in JavaScript &lpar;2011&rpar;](https://wirfs-brock.com/allen/posts/166)
+- [What is driving the high suicide rate among farmers?&lpar;2022&rpar;](https://news.illinois.edu/view/6367/1856210606)
 - [Jessica Livingston &lpar;2015&rpar;](http://www.paulgraham.com/jessica.html)
-- [Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler](https://editor.factiverse.ai/)
 - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
 - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
-- [Implement Vector Embeddings on JSON Data with SingleStore Kai™](https://www.singlestore.com/blog/implement-vector-embeddings-on-json-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
