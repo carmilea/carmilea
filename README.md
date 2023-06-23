@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
 - [So you want to write a GUI framework &lpar;2021&rpar;](http://www.cmyr.net/blog/gui-framework-ingredients.html)
 - [Quality of new vehicles in US declining on more tech use: study](https://www.reuters.com/business/autos-transportation/quality-new-vehicles-us-declining-more-tech-use-study-shows-2023-06-22/)
 - [FDA approves first gene therapy treatment of Duchenne muscular dystrophy](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-certain-patients-duchenne-muscular-dystrophy)
 - [Generating SQL with LLMs for fun and profit](https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun)
-- [Rocky Linux Expresses Confidence Despite Red Hat&#39;s Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
