@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Isn&#39;t Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
+- [Titan sub CEO dismissed safety warnings as &#39;baseless cries&#39;, emails show](https://www.bbc.com/news/world-us-canada-65998914)
 - [Jessica Livingston &lpar;2015&rpar;](http://www.paulgraham.com/jessica.html)
-- [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
-- [Implement Vector Embeddings on JSON Data with SingleStore Kai™](https://www.singlestore.com/blog/implement-vector-embeddings-on-json-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
