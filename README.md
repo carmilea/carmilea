@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
-- [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
-- [Proceedings of the 19th Workshop on Hot Topics in Operating Systems](https://dl.acm.org/doi/proceedings/10.1145/3593856)
-- [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
-- [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
+- [The Pentagon’s $52,000 trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
+- [GiveCampus &lpar;YC S15&rpar; hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [White Rabbit Project](https://ohwr.org/project/white-rabbit/wikis/home)
+- [Big VC, Tech Got Backstop for Billions in Uninsured SVB Deposits](https://www.bloomberg.com/news/articles/2023-06-23/fdic-insured-billions-in-deposits-for-sequoia-other-top-svb-customers)
+- [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
