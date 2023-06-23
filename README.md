@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Laptop feature requests – RISC-V Mainboard &lpar;2021&rpar;](https://community.frame.work/t/risc-v-mainboard/9197)
+- [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
 - [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
